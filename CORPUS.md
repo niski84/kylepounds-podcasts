@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-845 videos with transcripts. Source of truth for transcripts + enrichments.
+876 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -685,12 +685,16 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Living in Boulder Vlog 11 - 30 - 2013](corpus/videos/1EjxhgMLCFg.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 6 &  7 - 2013](corpus/videos/1l4Mkm9dzt8.json) | — |  |
 | — | [Lives of the 12 Caesars by Seutonius Book Synopsis - Pt2 Caligula to D](corpus/videos/1vdNdc6Zqwg.json) | — |  |
+| — | [Living in Boulder Vlog 9 - 21 - 2013](corpus/videos/38FNEX6BNRs.json) | — |  |
+| — | [Bullies - Request](corpus/videos/3JhgxNVbx_8.json) | — |  |
 | — | [Living in Boulder 4 - 24 - 2014](corpus/videos/3p_dQeQeLkc.json) | kyle | Kyle records a brief daily vlog from Boulder, recapping his energy levels after adjusting to a work routine, a bike comm |
 | — | [Living in Boulder Vlog 12 - 8 - 2013](corpus/videos/3q0oXkHnoEM.json) | — |  |
 | — | [Taming my spoiled fuckin' Leopard Geckos](corpus/videos/3y_RTiwbhb8.json) | — |  |
 | — | [Future of Robots - Request](corpus/videos/4H-MIk7mMFA.json) | — |  |
+| — | [In Reincarnation a Fad - Request](corpus/videos/4h9xli7A2cE.json) | — |  |
 | — | [What I think about the String Theory](corpus/videos/5336vexuoH4.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 3 - 2014](corpus/videos/5EdFogO_W78.json) | — |  |
+| — | [Libraries in the future - Request](corpus/videos/5Oa7jVdXkuQ.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 8 - 2013](corpus/videos/5PhDhL1Rfnc.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 1 - 2013](corpus/videos/5Yzy4_UiLI0.json) | — |  |
 | — | [Favorite Historical Eras to Study - Request](corpus/videos/5aP_nL2kcmI.json) | — |  |
@@ -699,11 +703,17 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Living in Boulder Vlog 11 - 5 - 2013](corpus/videos/6I2xPtcB1nA.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 15 - 2013](corpus/videos/6LMY7bmL6Fo.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 3 - 2013](corpus/videos/6vSYiZR2NsI.json) | — |  |
+| — | [Questions about Homosexuality - Request](corpus/videos/7ZZrBEE7HAI.json) | — |  |
+| — | [Living in Boulder Vlog 10 - 31 - 2013](corpus/videos/7aAZlvelQGo.json) | — |  |
+| — | [Living in Boulder Vlog 9 - 18-  2013](corpus/videos/7sTThVYFpD0.json) | — |  |
+| — | [Hallucinogins - Request](corpus/videos/8AuHYORNLmE.json) | — |  |
+| — | [Van vs Apartment living - Request](corpus/videos/8NqvmQCncT4.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 12 - 2013](corpus/videos/8V6619AENjc.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 18 - 2013](corpus/videos/8oAetJycn0c.json) | — |  |
 | — | [How to I plan on passing the drug test - Request](corpus/videos/8pKQj6cJbsA.json) | — |  |
 | — | [How to delelop psychic powers - Request](corpus/videos/8s1-KOtfTpY.json) | — |  |
 | — | [Living in Boulder Vlog 4 - 29 - 2014](corpus/videos/8yFk5-G4Aik.json) | kyle | Kyle films a late-night vlog after a long workday near the Flatirons, recapping his bicycle commute, manual labor, and e |
+| — | [Living in Boulder Vlog 10 - 22 - 2013](corpus/videos/9-n4P7HIS2Q.json) | — |  |
 | — | [Living in Boulder Vlog 4 - 21 - 14](corpus/videos/9JOkUzyikXM.json) | kyle | Kyle records a late-night vlog from his bathroom in Boulder while high and slightly drunk after dinner with his brothers |
 | — | [Ooh my new TopPeak Bike Bag is gunna make me like Conan!](corpus/videos/9L5VVNEdN-I.json) | — |  |
 | — | [How to be social in College - Request](corpus/videos/AFBT8bk2K_w.json) | — |  |
@@ -714,7 +724,9 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Living in Boulder Vlog 12 - 18 - 2013](corpus/videos/Ccutmd78plk.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 10 - 2014](corpus/videos/CioggELAyZQ.json) | — |  |
 | — | [Pondering if one's paradigm is all wrong - Request](corpus/videos/Cm98I8wC4qw.json) | — |  |
+| — | [Vegetables   Request](corpus/videos/CzMi5d40Fig.json) | — |  |
 | — | [Paul Walker death -  Request](corpus/videos/D03_yWnTCnE.json) | — |  |
+| — | [Living in Boulder Vlog 10 -  25 - 2013](corpus/videos/DCnlRpOBs34.json) | — |  |
 | — | [War on Democracy Documentary, Hugo Chavez, Cold War, CIA - Request](corpus/videos/E7bu6Z6guLU.json) | mixed | Kyle responds to a viewer request to share his thoughts on the Oliver Stone documentary 'The War on Democracy,' covering |
 | — | [All in the family TV show   Request](corpus/videos/EnyXEengvvc.json) | — |  |
 | — | [Living in Boulder Vlog 4 - 27 - 2014](corpus/videos/FGGerS6gtyE.json) | kyle | Kyle gives a casual Sunday vlog recapping his weekend: he drank three large beers the night before, made some videos whi |
@@ -725,18 +737,26 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Talking about Scientology](corpus/videos/G9kOUY2uko4.json) | — |  |
 | — | [Multiverse - Request](corpus/videos/GdZpz-B_QDU.json) | — |  |
 | — | [Cats - Request](corpus/videos/GietF6gMs3s.json) | — |  |
+| — | [5 favorite cities in Latin America - Request](corpus/videos/GwmTDOOCvR4.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 13 -  2014](corpus/videos/Gx8ZJgiZVT8.json) | — |  |
 | — | [How to retain information and other random questions - Request](corpus/videos/H08m37oW9ls.json) | — |  |
+| — | [Conversation about Mike's homeless friend's story of looking for work ](corpus/videos/HJkIwIBG8v0.json) | — |  |
 | — | [How our Luminous Body carries karma & stuff - Request](corpus/videos/Hg_QWxCJha8.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 24 - 2013](corpus/videos/HqOnMKO4mxc.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 16 - 2013](corpus/videos/I4tJWjX1egI.json) | — |  |
+| — | [Living in Boulder Vlog 10-24-2013](corpus/videos/IC-hybLncsg.json) | — |  |
 | — | [Timeline update - Request](corpus/videos/IHxLgqWe2Ms.json) | — |  |
+| — | [Narcissism - Request](corpus/videos/INBJ14xTW9Q.json) | — |  |
 | — | [How I'm getting back into shape](corpus/videos/IPQ-hGnSGJ8.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 16 - 2013](corpus/videos/I_qVCFRsNkQ.json) | — |  |
+| — | [Why I yawn all the time - Request](corpus/videos/IgXFFL8Z3vQ.json) | — |  |
 | — | [What I was like in High School - Request](corpus/videos/Iqgi0s2hDT8.json) | kyle | Kyle answers two viewer requests: what he does for money (window washing, Google ad revenue, property investment, and a  |
+| — | [Asia questions and other random ones - Request](corpus/videos/J77jv40cBYc.json) | — |  |
 | — | [Living in the van for college kids - Request](corpus/videos/JCWNeziCOnA.json) | — |  |
 | — | [Stock Market - Request](corpus/videos/JUS43KgN5Fs.json) | — |  |
 | — | [Albert Einstein - What I think - request](corpus/videos/LAOMtPI9dvU.json) | — |  |
+| — | [How to program the Subconcious - Request](corpus/videos/LDVGtWP03tg.json) | — |  |
+| — | [living in Boulder Vlog 9 - 20 - 2013](corpus/videos/LuJ-ZPUodvs.json) | — |  |
 | — | [If I could travel to the future would I + Theory of Relativity - Reque](corpus/videos/Md5kmCVv2EU.json) | — |  |
 | — | [The future of education 15 - 45 years - Request](corpus/videos/Mt6c_kFGWac.json) | — |  |
 | — | [How Has Legalizaation changed my life   Request](corpus/videos/N5-uu3-PneU.json) | kyle | Kyle, filming while very high, responds to a viewer request about cannabis legalization in his area. He covers his exper |
@@ -753,13 +773,16 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Living in Boulder Vlog 12 - 10 - 2013](corpus/videos/Rj9BW6IaMOY.json) | — |  |
 | — | [Thomas Malthus & Principles of Population  - Request](corpus/videos/TXyaGquG5xA.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 11 - 2014](corpus/videos/TivJG8GZi-E.json) | — |  |
+| — | [Living in Boulder Vlog 9 - 19 - 2013](corpus/videos/TmX7G8nBtRw.json) | — |  |
 | — | [Why do Americans drink defaf Coffee   Request](corpus/videos/TzoPxMBBjkM.json) | kyle | Kyle responds to a viewer request asking why Americans drink so much decaf coffee. He defends Americans as the world's b |
+| — | [Role Playing Games - Request](corpus/videos/UoJToND1cas.json) | — |  |
 | — | [Gambling - Request](corpus/videos/UsbieVGFTOw.json) | — |  |
 | — | [Rugged Individualism VS Communism - Request](corpus/videos/VCbQ_zLztOQ.json) | — |  |
 | — | [Online Dating and if Single people are outcasts - Request](corpus/videos/W1oWE524Aeg.json) | — |  |
 | — | [Sleep - Request](corpus/videos/W3EX8Z-egos.json) | — |  |
 | — | [Hampsters at play](corpus/videos/W6ExH69HOVk.json) | — |  |
 | — | [What I think about the Theory of Relativity](corpus/videos/WCvDKTNLNzc.json) | — |  |
+| — | [If I inherited a vast fortune - Request](corpus/videos/Wje_QoBhKgA.json) | — |  |
 | — | [Autobiography of Benjamin Franklin Book Synopsis - Request](corpus/videos/Wlf1snYiCz4.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 23 - 2013](corpus/videos/WvcA0d7cMr4.json) | — |  |
 | — | [Cheech and Chong - Request](corpus/videos/X6ZIL4k4g6M.json) | — |  |
@@ -767,9 +790,11 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What will food be like in 15 - 45 years - Request](corpus/videos/XlpK5YOlzTQ.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 26 - 2013](corpus/videos/XmO7r34NJpc.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 6 - 2013](corpus/videos/Xu-kAHJc86s.json) | — |  |
+| — | [Effects of sleep deprevation   Request](corpus/videos/Y0fDSupxBcU.json) | — |  |
 | — | [George4Title saga & scammers - Request](corpus/videos/Yvjg5MkOmbs.json) | — |  |
 | — | [How to get fit and stay fit  - Request](corpus/videos/ZbREqn6sKc0.json) | — |  |
 | — | [The Unified Field Theory 2/2](corpus/videos/Zdipua6l-7E.json) | — |  |
+| — | [Can we get too old to enjoy things & why do we sell out in old age - R](corpus/videos/_zd7Delyp2w.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 29 - 2013](corpus/videos/a1bRFLQReug.json) | — |  |
 | — | [Minimalism and money free living - Request](corpus/videos/aO_qG-R2-Xo.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 31 - 2013](corpus/videos/abSOn2yxj4U.json) | — |  |
@@ -782,7 +807,9 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Living in Boulder Vlog 12 - 21 - 2013](corpus/videos/cuIKSRTS0OI.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 9 - 2014](corpus/videos/d5FG3pNPfC0.json) | — |  |
 | — | [What I think about the Olympics - Request](corpus/videos/dcvJCduYxPI.json) | — |  |
+| — | [My perfect girlfriend & date - Request](corpus/videos/eDdH78bxUl0.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 1 - 2013](corpus/videos/eUemtoz7ZWY.json) | — |  |
+| — | [Race Video Games - Request](corpus/videos/ewb2Y2drWLM.json) | — |  |
 | — | [Extreme Frugality - Request](corpus/videos/ey-DwE04TqE.json) | — |  |
 | — | [Are we ready for extended life & how to have a sustainable economy - R](corpus/videos/f8rDfSGzpoA.json) | — |  |
 | — | [What Restaurants will be like in 20 - 25 Years Request](corpus/videos/fxthW9mjvyc.json) | kyle | Kyle responds to a video request about the future of restaurants, predicting they will become more culturally central, l |
@@ -794,6 +821,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Torsion fields - the answer to the grand unified field theory, better ](corpus/videos/i51bREDWdow.json) | — |  |
 | — | [Bill O'reilly and his war on Christmas theory - Request](corpus/videos/iVnrio-NmSw.json) | — |  |
 | — | [New Years' Resolution for 2014 - Request](corpus/videos/ibkh_-A0C9A.json) | — |  |
+| — | [My favorite instrument - Request](corpus/videos/ig-G8pRI7ao.json) | — |  |
 | — | [Whooly Mamoth - Request](corpus/videos/isk9r5D3lVk.json) | — |  |
 | — | [The Story of Mankind by Hendrik Van Loon Book Synopsis - Request](corpus/videos/ix2K9cwgmcA.json) | — |  |
 | — | [Overcoming Anxiety - Request](corpus/videos/j5U_HXsb9d4.json) | — |  |
@@ -806,6 +834,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Future of Cars in 20 - 30 Yrs - Request](corpus/videos/jttGElV5AIs.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 7 -  2014](corpus/videos/lCrwCYcjDf8.json) | — |  |
 | — | [26 VS 29 inche mountain bikes +fat tires - Request](corpus/videos/lE8cwn0YjKQ.json) | — |  |
+| — | [Living in Boulder Vlog 10 - 23 - 2013](corpus/videos/lFgUwQ1Z3pY.json) | — |  |
 | — | [Gun Control & people trying to disarm urban poor - Request](corpus/videos/lrmb72hIPQI.json) | — |  |
 | — | [I can't respond to comments anymore if anyone can help](corpus/videos/mfaoNh7vjmA.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 2 - 2014](corpus/videos/o-pVkU4ALuc.json) | — |  |
@@ -825,6 +854,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Different ways I smoke Weed - Request](corpus/videos/sdIS03jV51o.json) | kyle | Kyle quickly reviews the different methods he uses to consume cannabis: edibles (oil syringe in tea with avocado), a has |
 | — | [Living in Boulder Vlog 12 -  2 -  2013](corpus/videos/seLywvFa8xY.json) | — |  |
 | — | [My Childhood - Request](corpus/videos/sungIXYP2ik.json) | — |  |
+| — | [What herbs to take for energy - Request (I know nothing about this sub](corpus/videos/t5OCxh9RmKs.json) | — |  |
 | — | [Airplanes - Request](corpus/videos/t7uiKKw4lyI.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 7 - 2013](corpus/videos/tsWrW48PFbI.json) | — |  |
 | — | [Favourite Types of Candy - Request](corpus/videos/u3P8zGMSkRQ.json) | — |  |
@@ -842,6 +872,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Living in Boulder Vlog 11 - 10 - 2013](corpus/videos/wF4U3IERnOg.json) | — |  |
 | — | [THC Enemas - Request](corpus/videos/wTGMgXwk84c.json) | kyle | Kyle responds to a viewer request asking about THC enemas and suppositories, sharing his opinions on their effectiveness |
 | — | [Fear Mongers who profit from fear Scientology,  Alex Jones, George4Tit](corpus/videos/x0r-R_K09pE.json) | — |  |
+| — | [Vegetarianism - Request](corpus/videos/xf-aFj3466E.json) | — |  |
 | — | [Living in Boulder Vlog 11-28-2013](corpus/videos/zAUCk6jZ-Do.json) | — |  |
 | — | [Ice Cream - Request](corpus/videos/zI7oIShgeuY.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 11 & 12 - 2013](corpus/videos/zIX_uc3TrD4.json) | — |  |
