@@ -4,7 +4,54 @@
  "url": "https://youtu.be/Q2mjkk42rCw",
  "published_at": "",
  "channel": "Kyle Pounds (main)",
- "enrichment": null,
+ "enrichment": {
+  "summary": "Kyle responds to a viewer request about his favorite cheeses and thoughts on cheese in general. He shares preferences for expensive aged cheese, yellow cheddar, string cheese, Swiss, and goat cheese, while musing on cheese history as fermented milk. He digresses into discomfort about milk sourcing and curiosity about human cheese.",
+  "speaker": "kyle",
+  "topics": [
+   "favorite cheeses",
+   "cheese preferences",
+   "cheese history speculation",
+   "milk sourcing concerns",
+   "food curiosity"
+  ],
+  "stances": [
+   {
+    "topic": "expensive aged cheese",
+    "position": "Loves it but eats it sparingly because it deserves to be savored alone, not masked by other ingredients"
+   },
+   {
+    "topic": "yellow cheddar",
+    "position": "His all-time favorite; considers it classic and still his go-to at Subway"
+   },
+   {
+    "topic": "Swiss cheese",
+    "position": "Likes it but speculates it tastes milder because it's 'missing an ingredient'"
+   },
+   {
+    "topic": "goat cheese",
+    "position": "Likes it despite the strong smell"
+   },
+   {
+    "topic": "Swiss dairy",
+    "position": "Believes Switzerland makes the best cheese and takes it seriously"
+   },
+   {
+    "topic": "conventional milk",
+    "position": "Skeptical and somewhat grossed out due to animal welfare concerns and documentaries about contamination"
+   },
+   {
+    "topic": "human cheese",
+    "position": "Curious and would buy it; thinks disgust is cultural conditioning"
+   }
+  ],
+  "entities": [
+   "Marchino 007",
+   "Subway",
+   "Switzerland"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
  "transcript": [
   {
    "start": 0.34,

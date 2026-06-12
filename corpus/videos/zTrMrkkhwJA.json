@@ -4,7 +4,64 @@
  "url": "https://youtu.be/zTrMrkkhwJA",
  "published_at": "",
  "channel": "Kyle Pounds (main)",
- "enrichment": null,
+ "enrichment": {
+  "summary": "Kyle, while notably high on edibles, responds to a viewer request to share his thoughts on the James Bond film series. He covers his favorite films (For Your Eyes Only, Moonraker, The Spy Who Loved Me), ranks the actors, and reflects on what makes James Bond cool as a character.",
+  "speaker": "kyle",
+  "topics": [
+   "James Bond film series",
+   "favorite Bond films",
+   "Bond actors ranked",
+   "Roger Moore",
+   "Daniel Craig",
+   "edibles/cannabis",
+   "action scenes",
+   "gadgets",
+   "franchise formula critique"
+  ],
+  "stances": [
+   {
+    "topic": "Best James Bond film",
+    "position": "For Your Eyes Only is his all-time favorite, followed by Moonraker and The Spy Who Loved Me"
+   },
+   {
+    "topic": "Best James Bond actor",
+    "position": "Roger Moore is his favorite for perfectly embodying cool-under-pressure calm; Daniel Craig is second and arguably the best overall for realism and fitness"
+   },
+   {
+    "topic": "Pierce Brosnan as Bond",
+    "position": "Perfect look but became too old and cheesy over time; lacked Roger Moore's unflappable cool"
+   },
+   {
+    "topic": "Timothy Dalton as Bond",
+    "position": "Thought he was okay"
+   },
+   {
+    "topic": "Bond franchise formula",
+    "position": "Dislikes the recurring trope of Bond getting caught — it makes the hero look like an idiot; wants the formula to evolve"
+   },
+   {
+    "topic": "Daniel Craig era action",
+    "position": "Likes Craig but wants more payoff in action scenes; frustrated when big action sequences lead to Bond failing"
+   }
+  ],
+  "entities": [
+   "Roger Moore",
+   "Daniel Craig",
+   "Pierce Brosnan",
+   "Timothy Dalton",
+   "Sean Connery",
+   "For Your Eyes Only",
+   "Moonraker",
+   "The Spy Who Loved Me",
+   "Octopussy",
+   "Goldfinger",
+   "Moneypenny",
+   "Ian Fleming",
+   "James Bond 007"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
  "transcript": [
   {
    "start": 0.0,

@@ -4,7 +4,56 @@
  "url": "https://youtu.be/N5-uu3-PneU",
  "published_at": "",
  "channel": "Kyle Pounds (main)",
- "enrichment": null,
+ "enrichment": {
+  "summary": "Kyle, filming while very high, responds to a viewer request about cannabis legalization in his area. He covers his experiences with legal dispensary products (oil/molasses pens, hash, edibles), cost comparisons, health improvements from switching to vaporizing, and his long-term plan to transition away from smoking entirely. He reflects on how legalization has changed his consumption habits and philosophy.",
+  "speaker": "kyle",
+  "topics": [
+   "cannabis legalization",
+   "dispensary products",
+   "weed consumption methods",
+   "cost of legal weed",
+   "health effects of smoking",
+   "edibles and oral ingestion",
+   "bad trips",
+   "utilitarian drug use",
+   "quitting smoking"
+  ],
+  "stances": [
+   {
+    "topic": "legalization impact",
+    "position": "Wholly positive — going back is unfathomable; it's been a year-long party"
+   },
+   {
+    "topic": "buying legally vs illegally",
+    "position": "Will buy legally; no reason to bother someone to save a few bucks when a store is nearby"
+   },
+   {
+    "topic": "smoking frequency",
+    "position": "High all the time now, but plans to taper to purely utilitarian use once life shifts to writing"
+   },
+   {
+    "topic": "vaporizing vs smoking",
+    "position": "Much healthier — reduced asthma symptoms, lungs feel better"
+   },
+   {
+    "topic": "oral ingestion (oil under tongue)",
+    "position": "Strongly prefers it — very potent, affordable, no smoke, and eventual goal is to stop smoking entirely"
+   },
+   {
+    "topic": "weed quality post-legalization",
+    "position": "Far better than the Mexican brick weed of the 90s; now has strain variety, potency choices, and good taste"
+   },
+   {
+    "topic": "bad weed trips",
+    "position": "Never had a truly bad one from weed alone; worst experiences were acid flashbacks triggered while high"
+   }
+  ],
+  "entities": [
+   "Mexico (origin of old brick weed)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
  "transcript": [
   {
    "start": 0.0,

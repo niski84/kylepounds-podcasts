@@ -4,7 +4,54 @@
  "url": "https://youtu.be/5bZlY0JUp10",
  "published_at": "",
  "channel": "Kyle Pounds (main)",
- "enrichment": null,
+ "enrichment": {
+  "summary": "Kyle responds to a viewer request about lifestyle options on $480/month rental income, discussing van living, bike touring, budgeting, and emergency funds. He shares personal experience with frugal travel and gives YouTube advice at the end.",
+  "speaker": "kyle",
+  "topics": [
+   "van life",
+   "frugal living",
+   "bike touring",
+   "budgeting",
+   "emergency fund",
+   "YouTube advice",
+   "vegetarian diet",
+   "nomadic lifestyle"
+  ],
+  "stances": [
+   {
+    "topic": "van living on $480/month",
+    "position": "very doable, could even save money if disciplined enough to avoid town"
+   },
+   {
+    "topic": "emergency fund",
+    "position": "save at least $5,000-$10,000 before traveling"
+   },
+   {
+    "topic": "food costs",
+    "position": "food is the key variable — cheap staples like canned goods and beans keep costs under $100/month"
+   },
+   {
+    "topic": "bike touring",
+    "position": "loves the idea, did it in Europe in 2010, would do it again"
+   },
+   {
+    "topic": "running across America",
+    "position": "wouldn't do it unless it was a trail; only viable on a bike path"
+   },
+   {
+    "topic": "YouTube success",
+    "position": "be yourself and be prolific — those are the two rules"
+   }
+  ],
+  "entities": [
+   "Lake Powell",
+   "Thailand",
+   "Forest Gump",
+   "Europe"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
  "transcript": [
   {
    "start": 0.14,

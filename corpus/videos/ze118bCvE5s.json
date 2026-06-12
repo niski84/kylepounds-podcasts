@@ -4,7 +4,45 @@
  "url": "https://youtu.be/ze118bCvE5s",
  "published_at": "",
  "channel": "Kyle Pounds (main)",
- "enrichment": null,
+ "enrichment": {
+  "summary": "Kyle responds to a viewer request from Brian De La Cruz, who is in a college love triangle and struggling to prove his feelings to a girl he likes. Kyle offers practical courtship advice — doing favors, offering massages, asking her directly what she wants — while also noting the girl may be manipulative, and sharing opinions on how Latino and Black women engage more with traditional gender competition dynamics than white women.",
+  "speaker": "kyle",
+  "topics": [
+   "relationship advice",
+   "love triangle",
+   "college romance",
+   "traditional gender dynamics",
+   "cultural observations",
+   "courtship tactics"
+  ],
+  "stances": [
+   {
+    "topic": "love triangle / competing for a woman",
+    "position": "natural, traditional, and even exciting — men displaying for women is healthy mate selection"
+   },
+   {
+    "topic": "the girl's behavior",
+    "position": "possibly manipulative; she may be playing games and enjoying the chase more than genuinely choosing"
+   },
+   {
+    "topic": "cultural differences in dating",
+    "position": "Latino and Black women are more in touch with traditional pursuit dynamics; white women generally are not"
+   },
+   {
+    "topic": "how Brian should proceed",
+    "position": "do concrete favors, communicate openly, find out what she wants, but be ready to walk away if she keeps moving the goalposts"
+   },
+   {
+    "topic": "meeting the other guy",
+    "position": "good idea — seeing him directly helps you gauge compatibility and understand where you actually stand"
+   }
+  ],
+  "entities": [
+   "Brian De La Cruz"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
  "transcript": [
   {
    "start": 0.0,

@@ -4,7 +4,46 @@
  "url": "https://youtu.be/Iqgi0s2hDT8",
  "published_at": "",
  "channel": "Kyle Pounds (main)",
- "enrichment": null,
+ "enrichment": {
+  "summary": "Kyle answers two viewer requests: what he does for money (window washing, Google ad revenue, property investment, and a planned timeline website) and what he was like in high school (anti-social, disengaged from academics, worked as a jewelry polisher, and was a mountain biker and racer). He describes high school as draining and boring, with few friends and a preference for solitary activities like biking and listening to music.",
+  "speaker": "kyle",
+  "topics": [
+   "income sources",
+   "high school experience",
+   "anti-social tendencies",
+   "mountain biking",
+   "part-time work",
+   "family relationships",
+   "academic disengagement"
+  ],
+  "stances": [
+   {
+    "topic": "high school",
+    "position": "Boring and energy-draining; actively rebelled against it and didn't engage"
+   },
+   {
+    "topic": "homework and academics",
+    "position": "Refused to do homework as a form of rebellion; didn't track SAT scores or care about academic performance"
+   },
+   {
+    "topic": "timeline website project",
+    "position": "His main career ambition and magnum opus he expects to monetize via ads and poster sales"
+   },
+   {
+    "topic": "large high school environment",
+    "position": "Describes Boulder High's crowded hallways as a 'meat factory' with no social connection"
+   }
+  ],
+  "entities": [
+   "Mike",
+   "James Canyon",
+   "Boulder High",
+   "Vista High School",
+   "Strava"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
  "transcript": [
   {
    "start": 0.52,

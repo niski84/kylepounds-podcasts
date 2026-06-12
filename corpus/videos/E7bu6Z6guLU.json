@@ -4,7 +4,107 @@
  "url": "https://youtu.be/E7bu6Z6guLU",
  "published_at": "",
  "channel": "Kyle Pounds (main)",
- "enrichment": null,
+ "enrichment": {
+  "summary": "Kyle responds to a viewer request to share his thoughts on the Oliver Stone documentary 'The War on Democracy,' covering US foreign policy in Latin America, media bias (especially Fox News), the Cold War arms race, CIA interventions in Guatemala and Cuba, Hugo Chavez and Venezuela, and the relationship between capitalism, communism, and Christianity. He argues that US interventions abroad have been driven by corporate greed rather than ideology, and that American media has misinformed the public about socialist leaders like Chavez and Castro.",
+  "speaker": "mixed",
+  "topics": [
+   "Oliver Stone documentary 'The War on Democracy'",
+   "US foreign policy in Latin America",
+   "Hugo Chavez and Venezuela",
+   "Fidel Castro and Cuba",
+   "Guatemala and CIA intervention",
+   "Fox News media bias",
+   "Cold War and nuclear arms race",
+   "capitalism vs. communism",
+   "McCarthyism",
+   "Christianity and communism",
+   "American exceptionalism",
+   "corporate war profiteering",
+   "Dick Cheney and Halliburton",
+   "Vietnam War origins",
+   "Gulf of Tonkin",
+   "indigenous rights in Latin America",
+   "class and race in Central America",
+   "Bolivia and Evo Morales"
+  ],
+  "stances": [
+   {
+    "topic": "Hugo Chavez",
+    "position": "Unfairly demonized; won three landslide elections and sought to nationalize oil for the poor"
+   },
+   {
+    "topic": "Fidel Castro",
+    "position": "Demonized by American media; Cuba under him was an improvement over the prior oppressive regime"
+   },
+   {
+    "topic": "Fox News",
+    "position": "Increasingly idiotic and losing relevance; propaganda arm for corporate and right-wing interests"
+   },
+   {
+    "topic": "US foreign policy",
+    "position": "Driven by corporate greed, not ideology; responsible for enormous harm in Latin America"
+   },
+   {
+    "topic": "Communism vs. capitalism",
+    "position": "The real problem with communism is rich people not wanting to share; capitalism and communism converge with enough regulation"
+   },
+   {
+    "topic": "Christianity and communism",
+    "position": "Christianity is essentially communism; Jesus preached sharing wealth, making capitalist Christianity a contradiction"
+   },
+   {
+    "topic": "American media",
+    "position": "Has programmed Americans to accept a false view of the world that serves corporate interests"
+   },
+   {
+    "topic": "American education",
+    "position": "Inadequate, especially in history and civics, leaving citizens uninformed"
+   },
+   {
+    "topic": "CIA/US interventions",
+    "position": "America consistently backed oppressive elites against popular movements in Latin America for corporate benefit"
+   },
+   {
+    "topic": "Dick Cheney and Iraq War",
+    "position": "War driven by personal financial gain through Halliburton; corrupt and immoral"
+   },
+   {
+    "topic": "American citizens' responsibility",
+    "position": "Americans share moral responsibility for government actions done in their name when they remain silent or keep voting for the same people"
+   }
+  ],
+  "entities": [
+   "Gypsy Hustle (viewer)",
+   "Oliver Stone",
+   "Hugo Chavez",
+   "Fidel Castro",
+   "Evo Morales",
+   "Raul Castro",
+   "Joseph McCarthy",
+   "Dick Cheney",
+   "George Bush Sr.",
+   "Gorbachev",
+   "Putin",
+   "Jesus",
+   "Karl Marx",
+   "Chiquita Banana / United Fruit Company",
+   "President Arbenz",
+   "Halliburton",
+   "Fox News",
+   "Fox and Friends",
+   "Guatemala",
+   "Venezuela",
+   "Cuba",
+   "Bolivia",
+   "Argentina",
+   "Chile",
+   "Vietnam",
+   "Korea",
+   "Lake Atitlan"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
  "transcript": [
   {
    "start": 0.0,

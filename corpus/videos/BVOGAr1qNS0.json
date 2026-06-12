@@ -4,7 +4,43 @@
  "url": "https://youtu.be/BVOGAr1qNS0",
  "published_at": "",
  "channel": "Kyle Pounds (main)",
- "enrichment": null,
+ "enrichment": {
+  "summary": "Kyle vlogs about his first full day back at work after weeks off, getting unexpectedly high from cannabis-infused food/drink, and working on a personal data project comparing athletic performance across age divisions in rowing and triathlon. He also talks about getting back into physical shape, a lingering shoulder injury from the gym, and the pleasures of spring in Boulder.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "cannabis",
+   "personal data project",
+   "athletic performance analysis",
+   "fitness/injury",
+   "Boulder spring",
+   "vlogging habit"
+  ],
+  "stances": [
+   {
+    "topic": "being high while doing data work",
+    "position": "net positive — generates thorough ideas but slows you down; still worth it"
+   },
+   {
+    "topic": "exercise and injury recovery",
+    "position": "small injuries get worse without exercise; staying active is essential for healing"
+   },
+   {
+    "topic": "daily vlogging",
+    "position": "keeping it up as a routine is rewarding and could become a useful personal documentary"
+   },
+   {
+    "topic": "Strava racing/segments",
+    "position": "not doing them right now because he's not in that kind of shape"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Strava"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
  "transcript": [
   {
    "start": 0.18,

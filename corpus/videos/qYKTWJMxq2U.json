@@ -4,7 +4,52 @@
  "url": "https://youtu.be/qYKTWJMxq2U",
  "published_at": "",
  "channel": "Kyle Pounds (main)",
- "enrichment": null,
+ "enrichment": {
+  "summary": "Kyle vlogs about his daily routine in Boulder in April 2014: working his first full week at a job cleaning houses, organizing media files and building out his personal website, and reflecting heavily on marijuana use during Colorado's first year of legal recreational cannabis. He discusses visiting dispensaries, hearing loss from loud music while high, and plans to cut back and re-engage with audiobooks like the New Testament.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog routine",
+   "physical labor job",
+   "website/media organization",
+   "recreational marijuana",
+   "Colorado legalization 2014",
+   "dispensary experiences",
+   "hearing loss",
+   "audiobooks",
+   "Bible/New Testament",
+   "vaping/hash",
+   "weed tourism"
+  ],
+  "stances": [
+   {
+    "topic": "smoking weed heavily",
+    "position": "Acknowledges it's gotten out of hand and is affecting focus, but accepts it as a 2014 experiment before cutting back"
+   },
+   {
+    "topic": "listening to the Bible/New Testament",
+    "position": "Finds it important but hard to follow when high; wants to engage more seriously with it"
+   },
+   {
+    "topic": "dispensary pricing and quality",
+    "position": "Skeptical of premium dispensary quality claims but tempted by proximity and reputation"
+   },
+   {
+    "topic": "noise-cancellation earphones at high volume",
+    "position": "Warns they caused hearing damage and urges caution"
+   }
+  ],
+  "entities": [
+   "Tool (band)",
+   "Lateralus (Tool song)",
+   "Stinkfist (Tool song)",
+   "Young Turks (media)",
+   "Boulder Colorado",
+   "Kyle's ex-wife",
+   "Kyle's ex-wife's son"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
  "transcript": [
   {
    "start": 0.0,

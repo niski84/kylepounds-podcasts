@@ -4,7 +4,39 @@
  "url": "https://youtu.be/3p_dQeQeLkc",
  "published_at": "",
  "channel": "Kyle Pounds (main)",
- "enrichment": null,
+ "enrichment": {
+  "summary": "Kyle records a brief daily vlog from Boulder, recapping his energy levels after adjusting to a work routine, a bike commute where he drafted off another cyclist, an evening at home with his roommate, and his plans for a day off to work on his 'bike racer levels' webpage and record more videos.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "energy/fitness",
+   "bike commuting",
+   "work schedule",
+   "web development",
+   "cannabis use",
+   "diet"
+  ],
+  "stances": [
+   {
+    "topic": "physical adaptation to work",
+    "position": "Gets back in shape quickly, only takes a couple of days"
+   },
+   {
+    "topic": "cannabis and concentration",
+    "position": "Too high after smoking hash to do focused web dev work"
+   },
+   {
+    "topic": "diet",
+    "position": "Prefers beans, rice, and collard greens; had pizza as an exception"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "War on Democracy (documentary)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
  "transcript": [
   {
    "start": 0.05,

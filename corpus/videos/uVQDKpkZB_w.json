@@ -4,7 +4,69 @@
  "url": "https://youtu.be/uVQDKpkZB_w",
  "published_at": "",
  "channel": "Kyle Pounds (main)",
- "enrichment": null,
+ "enrichment": {
+  "summary": "Kyle responds to a request about Greyhound buses, sharing his personal experience riding one back from a cross-country bike trip due to a knee injury, his observations about the socioeconomic demographics of Greyhound riders, and an extensive comparison of bus systems across many countries he has traveled through. He closes with an opinion that city buses are bad for urban transportation and subways or cycling should replace them.",
+  "speaker": "kyle",
+  "topics": [
+   "Greyhound buses",
+   "bus travel comparison",
+   "international travel",
+   "cycling/bike touring",
+   "urban transit",
+   "poverty observation",
+   "country bus systems"
+  ],
+  "stances": [
+   {
+    "topic": "Greyhound riders",
+    "position": "Predominantly poor people, a level of poverty he wasn't exposed to growing up"
+   },
+   {
+    "topic": "US buses vs. international",
+    "position": "American buses are basic and not luxurious compared to Argentina or Baltic countries"
+   },
+   {
+    "topic": "Argentina buses",
+    "position": "Impressive — nearly plane-like with reclining seats, TVs, double-decker options"
+   },
+   {
+    "topic": "Guatemalan buses",
+    "position": "Terrifying and dangerous — drivers go too fast on mountain cliff roads"
+   },
+   {
+    "topic": "City buses",
+    "position": "Bad idea — dangerous for cyclists, slow traffic; cities need underground subways instead"
+   },
+   {
+    "topic": "Cycling as alternative",
+    "position": "Bikes are an easy and healthy substitute for city buses; riding will fix being too out of shape to ride"
+   }
+  ],
+  "entities": [
+   "Steve from Tucson",
+   "Durango",
+   "Cortez",
+   "San Diego",
+   "Virginia",
+   "Nepal",
+   "Indonesia",
+   "Argentina",
+   "Chile",
+   "Bolivia",
+   "Peru",
+   "Ecuador",
+   "Lithuania",
+   "Latvia",
+   "Riga",
+   "Estonia",
+   "Guatemala",
+   "Lake Atitlan",
+   "San Pedro",
+   "Creole"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
  "transcript": [
   {
    "start": 0.4,

@@ -4,7 +4,50 @@
  "url": "https://youtu.be/fxthW9mjvyc",
  "published_at": "",
  "channel": "Kyle Pounds (main)",
- "enrichment": null,
+ "enrichment": {
+  "summary": "Kyle responds to a video request about the future of restaurants, predicting they will become more culturally central, less franchised, more individualistic, and chef-driven as society becomes wealthier. He also shares opinions on tipping culture and the social/cultural role restaurants have always played.",
+  "speaker": "kyle",
+  "topics": [
+   "future of restaurants",
+   "tipping culture",
+   "food and cultural identity",
+   "automation and human-centered industries",
+   "celebrity chefs",
+   "restaurant history"
+  ],
+  "stances": [
+   {
+    "topic": "restaurants and automation",
+    "position": "restaurants are a holdout industry that won't be taken over by automation due to their intrinsically human and cultural nature"
+   },
+   {
+    "topic": "future of restaurants",
+    "position": "restaurants will become more important, less franchised, more individualistic, and chefs will become celebrities"
+   },
+   {
+    "topic": "tipping",
+    "position": "tipping should be abolished — it creates awkward social pressure and workers should just be paid what the job is worth"
+   },
+   {
+    "topic": "food mixing across cultures",
+    "position": "future restaurants will blend cuisines more extensively, creating new ethnic food combinations"
+   },
+   {
+    "topic": "restaurants as social spaces",
+    "position": "restaurants are and will remain a central pillar of culture and social gathering"
+   },
+   {
+    "topic": "personal restaurant habits",
+    "position": "Kyle himself eats canned food to save money and doesn't go to restaurants"
+   }
+  ],
+  "entities": [
+   "New York City",
+   "Vegas"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
  "transcript": [
   {
    "start": 1.04,

@@ -4,7 +4,46 @@
  "url": "https://youtu.be/jXQD1daNzFA",
  "published_at": "",
  "channel": "Kyle Pounds (main)",
- "enrichment": null,
+ "enrichment": {
+  "summary": "Kyle logs a casual Friday in Boulder, April 2014, covering a day of web page work (an athlete levels and bike racing page), helping his mom with errands, and musing about future page ideas including an animal intelligence chart. He also reflects on his diet changes, marijuana use affecting his focus, a minor shoulder injury from too much sitting, and plans to do a relationship request video soon.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "web page projects",
+   "diet and food habits",
+   "marijuana use",
+   "physical health",
+   "future content plans"
+  ],
+  "stances": [
+   {
+    "topic": "marijuana use",
+    "position": "acknowledges he's been getting too high and it's hurting his focus; thinks he'll cut back soon"
+   },
+   {
+    "topic": "diet",
+    "position": "transitioning from a very simple winter diet of rice, oatmeal, and canned goods to more variety including bananas, tomatoes, lettuce, and avocados"
+   },
+   {
+    "topic": "web projects",
+    "position": "excited about the current levels page but finds every project takes much longer than expected"
+   },
+   {
+    "topic": "sitting around",
+    "position": "can handle about four months before it becomes physically uncomfortable and painful"
+   },
+   {
+    "topic": "fruit roll-ups vs candy",
+    "position": "prefers fruit roll-ups as a healthier candy substitute"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
  "transcript": [
   {
    "start": 0.02,
