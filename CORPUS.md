@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-703 videos with transcripts. Source of truth for transcripts + enrichments.
+744 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -673,38 +673,79 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Income Inequality - Request](corpus/videos/-_Kwrc5Bd_E.json) | kyle | Kyle responds to a video request about Thomas Piketty's 'Capital in the 21st Century,' discussing income inequality, wea |
 | — | [Living in Boulder Vlog 1 - 12 - 2014](corpus/videos/-huYY8QTguQ.json) | — |  |
 | — | [Living in Boulder Vlog 3 - 22 - 14](corpus/videos/-jybDomEMFw.json) | — |  |
+| — | [Living in Boulder Vlog 1  -  1 -  2014](corpus/videos/-oDUfdQJEKA.json) | — |  |
+| — | [Living in Boulder Vlog 1 - 5 - 2014](corpus/videos/0LQN8ucfiOE.json) | — |  |
+| — | [Matrix film series - Request](corpus/videos/0aJ6NkLuMAE.json) | — |  |
 | — | [Living in Boulder 4 - 24 - 2014](corpus/videos/3p_dQeQeLkc.json) | kyle | Kyle records a brief daily vlog from Boulder, recapping his energy levels after adjusting to a work routine, a bike comm |
+| — | [Future of Robots - Request](corpus/videos/4H-MIk7mMFA.json) | — |  |
+| — | [Living in Boulder Vlog 1 - 3 - 2014](corpus/videos/5EdFogO_W78.json) | — |  |
+| — | [Favorite Historical Eras to Study - Request](corpus/videos/5aP_nL2kcmI.json) | — |  |
 | — | [Living in a Van for $480 a month - Request](corpus/videos/5bZlY0JUp10.json) | kyle | Kyle responds to a viewer request about lifestyle options on $480/month rental income, discussing van living, bike touri |
 | — | [Living in Boulder Vlog 5 - 1 - 2014](corpus/videos/64UdiezR5yo.json) | kyle | Kyle briefly explains why he skipped his previous day's vlog — he was exhausted after a full day of cycling 10 miles, cl |
 | — | [Living in Boulder Vlog 4 - 29 - 2014](corpus/videos/8yFk5-G4Aik.json) | kyle | Kyle films a late-night vlog after a long workday near the Flatirons, recapping his bicycle commute, manual labor, and e |
 | — | [Living in Boulder Vlog 4 - 21 - 14](corpus/videos/9JOkUzyikXM.json) | kyle | Kyle records a late-night vlog from his bathroom in Boulder while high and slightly drunk after dinner with his brothers |
+| — | [How to be social in College - Request](corpus/videos/AFBT8bk2K_w.json) | — |  |
+| — | [Living in Boulder Vlog 12 - 19 - 2013](corpus/videos/BPvBbjiMLPc.json) | — |  |
 | — | [Living in Boulder Vlog 4 - 23 - 2014](corpus/videos/BVOGAr1qNS0.json) | kyle | Kyle vlogs about his first full day back at work after weeks off, getting unexpectedly high from cannabis-infused food/d |
+| — | [Living in Boulder Vlog 12 - 18 - 2013](corpus/videos/Ccutmd78plk.json) | — |  |
+| — | [Living in Boulder Vlog 1 - 10 - 2014](corpus/videos/CioggELAyZQ.json) | — |  |
+| — | [Pondering if one's paradigm is all wrong - Request](corpus/videos/Cm98I8wC4qw.json) | — |  |
 | — | [War on Democracy Documentary, Hugo Chavez, Cold War, CIA - Request](corpus/videos/E7bu6Z6guLU.json) | mixed | Kyle responds to a viewer request to share his thoughts on the Oliver Stone documentary 'The War on Democracy,' covering |
+| — | [All in the family TV show   Request](corpus/videos/EnyXEengvvc.json) | — |  |
 | — | [Living in Boulder Vlog 4 - 27 - 2014](corpus/videos/FGGerS6gtyE.json) | kyle | Kyle gives a casual Sunday vlog recapping his weekend: he drank three large beers the night before, made some videos whi |
 | — | [Living in Boulder Vlog 4 - 28 - 2014](corpus/videos/FGYhCfdnA3A.json) | kyle | Kyle records a late-night vlog after a long day of data work on his cycling website, mentioning a morning bike ride up a |
+| — | [Living in Boulder Vlog 1 - 6 - 2014](corpus/videos/FPvvgfswWL8.json) | — |  |
 | — | [Talking about Scientology](corpus/videos/G9kOUY2uko4.json) | — |  |
+| — | [Multiverse - Request](corpus/videos/GdZpz-B_QDU.json) | — |  |
+| — | [Cats - Request](corpus/videos/GietF6gMs3s.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 13 -  2014](corpus/videos/Gx8ZJgiZVT8.json) | — |  |
+| — | [How our Luminous Body carries karma & stuff - Request](corpus/videos/Hg_QWxCJha8.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 16 - 2013](corpus/videos/I4tJWjX1egI.json) | — |  |
 | — | [What I was like in High School - Request](corpus/videos/Iqgi0s2hDT8.json) | kyle | Kyle answers two viewer requests: what he does for money (window washing, Google ad revenue, property investment, and a  |
+| — | [Stock Market - Request](corpus/videos/JUS43KgN5Fs.json) | — |  |
 | — | [How Has Legalizaation changed my life   Request](corpus/videos/N5-uu3-PneU.json) | kyle | Kyle, filming while very high, responds to a viewer request about cannabis legalization in his area. He covers his exper |
+| — | [Living in Boulder Vlog 1 - 8 - 2014](corpus/videos/NUaOEVYGtHM.json) | — |  |
+| — | [Living in Boulder Vlog 1 - 4  - 2014](corpus/videos/POnLDcsIXs0.json) | — |  |
+| — | [Living in Boulder Vlog 12 - 20 - 2013](corpus/videos/Q1li-2QB4q8.json) | — |  |
 | — | [My favorite types of Cheese - Request](corpus/videos/Q2mjkk42rCw.json) | kyle | Kyle responds to a viewer request about his favorite cheeses and thoughts on cheese in general. He shares preferences fo |
+| — | [Living in Boulder Vlog 12 - 10 - 2013](corpus/videos/Rj9BW6IaMOY.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 11 - 2014](corpus/videos/TivJG8GZi-E.json) | — |  |
 | — | [Why do Americans drink defaf Coffee   Request](corpus/videos/TzoPxMBBjkM.json) | kyle | Kyle responds to a viewer request asking why Americans drink so much decaf coffee. He defends Americans as the world's b |
+| — | [Gambling - Request](corpus/videos/UsbieVGFTOw.json) | — |  |
+| — | [Sleep - Request](corpus/videos/W3EX8Z-egos.json) | — |  |
+| — | [Living in Boulder Vlog 12 - 23 - 2013](corpus/videos/WvcA0d7cMr4.json) | — |  |
+| — | [George4Title saga & scammers - Request](corpus/videos/Yvjg5MkOmbs.json) | — |  |
+| — | [Living in Boulder Vlog 12 - 31 - 2013](corpus/videos/abSOn2yxj4U.json) | — |  |
 | — | [Living in Boulder Vlog 4 - 30 - 2014](corpus/videos/b-h6biF4YXM.json) | kyle | Kyle vlogs about his day in Boulder on April 30, 2014, spending it working on his cycling website (a bike racer level pa |
 | — | [Social Stigma of Living in your van and/or being different - Request](corpus/videos/cr5STImdVoc.json) | mixed | Kyle responds to a viewer request about minimalism and societal pressure to conform, sharing his personal experiences wi |
+| — | [Living in Boulder Vlog 12 - 21 - 2013](corpus/videos/cuIKSRTS0OI.json) | — |  |
+| — | [Living in Boulder Vlog 1 - 9 - 2014](corpus/videos/d5FG3pNPfC0.json) | — |  |
+| — | [Extreme Frugality - Request](corpus/videos/ey-DwE04TqE.json) | — |  |
 | — | [What Restaurants will be like in 20 - 25 Years Request](corpus/videos/fxthW9mjvyc.json) | kyle | Kyle responds to a video request about the future of restaurants, predicting they will become more culturally central, l |
 | — | [2014 National Cyclocross Championships  - Boulder, Colorado. Women's f](corpus/videos/g10l9Mt6quY.json) | — |  |
+| — | [New Years' Resolution for 2014 - Request](corpus/videos/ibkh_-A0C9A.json) | — |  |
+| — | [Whooly Mamoth - Request](corpus/videos/isk9r5D3lVk.json) | — |  |
+| — | [The Story of Mankind by Hendrik Van Loon Book Synopsis - Request](corpus/videos/ix2K9cwgmcA.json) | — |  |
 | — | [Living in Boulder Vlog 4 - 25 - 2014](corpus/videos/jXQD1daNzFA.json) | kyle | Kyle logs a casual Friday in Boulder, April 2014, covering a day of web page work (an athlete levels and bike racing pag |
+| — | [Living in Boulder Vlog 12 - 9 - 2013 (Detailed tour a a typical day)](corpus/videos/jeBT-g6Srfs.json) | — |  |
 | — | [Bike Racer Quality Levels - Raw Rough Draft Version with the Mustache](corpus/videos/jkfDlLoGXMM.json) | — |  |
+| — | [Future of Cars in 20 - 30 Yrs - Request](corpus/videos/jttGElV5AIs.json) | — |  |
+| — | [Living in Boulder Vlog 1 - 7 -  2014](corpus/videos/lCrwCYcjDf8.json) | — |  |
+| — | [Living in Boulder Vlog 1 - 2 - 2014](corpus/videos/o-pVkU4ALuc.json) | — |  |
 | — | [Living in Boulder Vlog 4 - 26 - 2014](corpus/videos/pdzCFqSsZQ4.json) | kyle | Kyle records a casual vlog while drunk and stoned on a Saturday in Boulder. He talks about his recent drinking, mistakin |
 | — | [Living in Boulder Vlog 4 - 22 - 2014](corpus/videos/qYKTWJMxq2U.json) | kyle | Kyle vlogs about his daily routine in Boulder in April 2014: working his first full week at a job cleaning houses, organ |
+| — | [How to do videos for poor people - Request](corpus/videos/rZmjI6sppcM.json) | — |  |
+| — | [Christmas - Request](corpus/videos/s2nH0sXT2eg.json) | — |  |
 | — | [Different ways I smoke Weed - Request](corpus/videos/sdIS03jV51o.json) | kyle | Kyle quickly reviews the different methods he uses to consume cannabis: edibles (oil syringe in tea with avocado), a has |
+| — | [My Childhood - Request](corpus/videos/sungIXYP2ik.json) | — |  |
+| — | [Airplanes - Request](corpus/videos/t7uiKKw4lyI.json) | — |  |
 | — | [Greyhound Bus Line & Buses - Request](corpus/videos/uVQDKpkZB_w.json) | kyle | Kyle responds to a request about Greyhound buses, sharing his personal experience riding one back from a cross-country b |
 | — | [What I think about Florida, Tampa, Miami   Request](corpus/videos/uh_Jcmj9IOI.json) | kyle | Kyle responds to a video request about Florida cities, sharing his limited personal experience visiting Miami and Epcot  |
 | — | [Living in Boulder Vlog 5 - 2 - 2014](corpus/videos/vAR4l0XjeVY.json) | kyle | Kyle records a vlog the morning after May 2nd, 2014, reflecting on his habit of cataloging things (books, running times) |
 | — | [Strava Bike & Run Race Website is Fascinating & Futuristic](corpus/videos/vJJVtNReors.json) | — |  |
 | — | [Big Dutch chicks vs Little Asian Men - Request (Drunk & Stoned)](corpus/videos/ve-TSo5wDgM.json) | kyle | Kyle responds to a viewer request about whether large Dutch/German/Czech women could beat small Asian men in a fight. He |
 | — | [THC Enemas - Request](corpus/videos/wTGMgXwk84c.json) | kyle | Kyle responds to a viewer request asking about THC enemas and suppositories, sharing his opinions on their effectiveness |
+| — | [Living in Boulder Vlog 12 - 11 & 12 - 2013](corpus/videos/zIX_uc3TrD4.json) | — |  |
 | — | [James Bond   Request](corpus/videos/zTrMrkkhwJA.json) | kyle | Kyle, while notably high on edibles, responds to a viewer request to share his thoughts on the James Bond film series. H |
 | — | [How to win the Love Triangle - Request](corpus/videos/ze118bCvE5s.json) | kyle | Kyle responds to a viewer request from Brian De La Cruz, who is in a college love triangle and struggling to prove his f |
 | — | [Living in Boulder Vlog 5 - 3 - 2014](corpus/videos/zrOtbVutquc.json) | kyle | Kyle films a short vlog from Boulder on a Sunday, recounting how he accidentally went to work on Saturday, discovered a  |
