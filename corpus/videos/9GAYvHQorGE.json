@@ -1,0 +1,197 @@
+{
+ "youtube_id": "9GAYvHQorGE",
+ "title": "Living in Boulder vlog 3 - 27 - 2017: 80 kilometer diameter backgrounds",
+ "url": "https://youtu.be/9GAYvHQorGE",
+ "published_at": "2017-03-28",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs late at night recapping his March 27th day in Boulder. He spent the day working on organizing and building 'circle' pages for a project (likely a website), visited his mom who fed him spaghetti, and discussed an entrepreneurial idea around his cycling — charging subscribers money to get him back on the bike.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "creative project work",
+   "family",
+   "entrepreneurial idea",
+   "cycling",
+   "free time"
+  ],
+  "stances": [
+   {
+    "topic": "free time",
+    "position": "Deeply values having unstructured free time with no obligations"
+   },
+   {
+    "topic": "returning to cycling",
+    "position": "Not ready to rush back to riding; compares forcing it to making a plant grow too fast — wants to let it happen naturally"
+   },
+   {
+    "topic": "monetizing cycling return",
+    "position": "Considering a crowd-funding angle where subscribers pay him thresholds ($1k for rollers, $5k for outdoor riding) to incentivize — and humorously give him a reason not to — return to cycling"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "mom",
+   "Superderee (unclear reference, possibly a project name)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.78,
+   "end": 9.54,
+   "text": "Hey, living in Bolivia, locked for March 27th and it's 246 AM on March 28th."
+  },
+  {
+   "start": 9.54,
+   "end": 27.74,
+   "text": "So I can't remember what time I got up this morning, but I think it was like 11,"
+  },
+  {
+   "start": 27.74,
+   "end": 30.7,
+   "text": "my room is taken a little bit."
+  },
+  {
+   "start": 31.62,
+   "end": 38.42,
+   "text": "And then I was working on Oya the circles, circle, distances, I had to reorganize,"
+  },
+  {
+   "start": 38.42,
+   "end": 43.46,
+   "text": "I had to come finish consolidating on my organizing around for Superderee."
+  },
+  {
+   "start": 43.46,
+   "end": 47.1,
+   "text": "I just didn't got ahead of myself."
+  },
+  {
+   "start": 47.1,
+   "end": 53.46,
+   "text": "And then I was building them, so I'll finish building them tomorrow."
+  },
+  {
+   "start": 53.46,
+   "end": 61.26,
+   "text": "Yeah, and that'll be freaking exciting, because then I can pretty sure I'll finish building them,"
+  },
+  {
+   "start": 61.26,
+   "end": 64.86,
+   "text": "because then I have to then paint some of the different areas, but yeah, without the cool,"
+  },
+  {
+   "start": 64.86,
+   "end": 70.5,
+   "text": "because then I can just work on the website and then I'm going to sign you that out of the page."
+  },
+  {
+   "start": 70.5,
+   "end": 73.3,
+   "text": "So yeah, I got up with them and I'm all in call of me."
+  },
+  {
+   "start": 73.3,
+   "end": 76.74,
+   "text": "I think like not long after maybe right when I got up in."
+  },
+  {
+   "start": 76.74,
+   "end": 85.18,
+   "text": "And she's like, you have to move some stuff around, so come over to move some of books from upstairs to downstairs"
+  },
+  {
+   "start": 85.18,
+   "end": 94.34,
+   "text": "and then came back, I don't know, but she fed me."
+  },
+  {
+   "start": 94.34,
+   "end": 99.5,
+   "text": "And it was like when I got up and I hadn't eaten it on time, I didn't know I worked for a couple hours."
+  },
+  {
+   "start": 99.5,
+   "end": 104.66,
+   "text": "And I was in a hot-taff lunch, her go-get food at the supermarket, and that's what she called me."
+  },
+  {
+   "start": 104.66,
+   "end": 109.78,
+   "text": "And so we got, we see how to big old-heel, like a spare-gess and a work cooked, it was good."
+  },
+  {
+   "start": 109.78,
+   "end": 117.1,
+   "text": "And then this salad, and so then I came back and was working more on that and saw work on all the tomorrow."
+  },
+  {
+   "start": 117.1,
+   "end": 122.3,
+   "text": "Oh yeah, but I told her, I was like, oh yeah, let's just, the rest of the week and let me just do one of those things."
+  },
+  {
+   "start": 122.3,
+   "end": 129.3,
+   "text": "She's like, okay, I love just having free time and there's nothing like, there's nothing like free time."
+  },
+  {
+   "start": 129.3,
+   "end": 138.3,
+   "text": "So, I guess, oh yeah, so the background is 80 kilometers."
+  },
+  {
+   "start": 138.3,
+   "end": 151.3,
+   "text": "Oh, and I got an idea, an entrepreneurial idea today, that maybe I should, because I got in getting comments from time by subscribers."
+  },
+  {
+   "start": 151.3,
+   "end": 158.3,
+   "text": "Like, you should, you should do biking again, and I'm like, hey, I guess so."
+  },
+  {
+   "start": 158.3,
+   "end": 173.3,
+   "text": "And I told my mom that I like learned for money and the 15th of April, so I think that's what I'll do, I'll get on a train, I'll be like, oh, but then I won't ride, I'll be like, oh, if you give me a thousand bucks, I'll start riding on my rollers and slide."
+  },
+  {
+   "start": 173.3,
+   "end": 180.3,
+   "text": "And then if you give me 5,000 bucks, I'll start riding outside, and so that'll give me a reason to not ride."
+  },
+  {
+   "start": 180.3,
+   "end": 199.3,
+   "text": "I just, it's, you know, it's like a lot of weed and the last thing that is done, it wants us to get rushed, you know, the main is it's like asking a plan to go to fast, you know, you can do the best thing you can do is pull me better water and nutrients and stuff, but you can't like tuck it and make it grow, you know, just like that."
+  },
+  {
+   "start": 199.3,
+   "end": 203.3,
+   "text": "And if you just let it, I'll just let it, I'll just let it, I'll just let it go."
+  },
+  {
+   "start": 203.3,
+   "end": 215.3,
+   "text": "So I think that's, that's what I would like to do, but yeah, after I finish these circle page, I'll be like, I'll feel like I, I feel like I'll cool, now my mindset."
+  },
+  {
+   "start": 215.3,
+   "end": 230.3,
+   "text": "I'll get a level where I can then, um, fix the curtains on my car and then I can take photos of the insides and everything and put them on line to sew all over the place and I'd be like commercials for the, I don't know, I can't understand."
+  },
+  {
+   "start": 231.3,
+   "end": 237.3,
+   "text": "I want to have to call like the mechanic because that's a documentation."
+  },
+  {
+   "start": 237.3,
+   "end": 246.3,
+   "text": "So I could go like in those, but if you put it in at the beginning of 2010, you know, 12, okay, so I'm going to use peace."
+  }
+ ]
+}

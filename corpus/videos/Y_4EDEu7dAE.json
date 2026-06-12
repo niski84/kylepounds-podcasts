@@ -1,0 +1,408 @@
+{
+ "youtube_id": "Y_4EDEu7dAE",
+ "title": "Living in Boulder vlog 1 -  8  - 2017: Google Earthing Colosseum including ropes",
+ "url": "https://youtu.be/Y_4EDEu7dAE",
+ "published_at": "2018-01-09",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder on January 9, 2017, describing his day working on a Google Earth 3D recreation of the Roman Colosseum. He discusses the challenges of modeling the velarium (awning) rope system, calculating how many rope anchor circles to draw around the perimeter, and his plans to add interior colonnades and stone fascia details to make the model visually impressive.",
+  "speaker": "kyle",
+  "topics": [
+   "Google Earth 3D modeling",
+   "Roman Colosseum reconstruction",
+   "velarium rope system",
+   "Boulder daily vlog",
+   "architecture recreation"
+  ],
+  "stances": [
+   {
+    "topic": "Colosseum rope/awning system",
+    "position": "Finds it complex and worth the effort — adding 2500+ rope circles will make the model look really cool"
+   },
+   {
+    "topic": "Roman architecture in Google Earth",
+    "position": "Rome's grid of angular blocks and lines makes it unusually easy to recreate accurately in 3D"
+   },
+   {
+    "topic": "Finishing the model in one day",
+    "position": "Decided against rushing it — better to approach it fresh and do it right"
+   }
+  ],
+  "entities": [
+   "Colosseum",
+   "Rome",
+   "Google Earth",
+   "Boulder",
+   "Lamborghini Countach"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.69,
+   "end": 5.69,
+   "text": "Hello, I'm loving, I feel like it's 6.33 a.m. on January 9th."
+  },
+  {
+   "start": 5.69,
+   "end": 11.69,
+   "text": "I did a video to the yesterday, so this is two videos and a row of two days and a row of video."
+  },
+  {
+   "start": 11.69,
+   "end": 18.69,
+   "text": "So I definitely wanted to do this one because I had a exciting day."
+  },
+  {
+   "start": 19.69,
+   "end": 36.69,
+   "text": "Today all I did was work on the Colosseum and I was working on the Colunade from the bath to the Colosseum."
+  },
+  {
+   "start": 36.69,
+   "end": 46.19,
+   "text": "And then I wanted to, yeah, because I actually did a, I was thinking about trying to work on,"
+  },
+  {
+   "start": 47.19,
+   "end": 54.19,
+   "text": "like the race course surface of a familiar and maybe surface max, that's not known, I just do a Colosseum."
+  },
+  {
+   "start": 54.19,
+   "end": 55.19,
+   "text": "It's the easiest."
+  },
+  {
+   "start": 56.19,
+   "end": 60.19,
+   "text": "So, in the kid I was doing this on this picture is a little more detailed."
+  },
+  {
+   "start": 60.19,
+   "end": 69.19,
+   "text": "So I started working on it and I started building the different levels and then I decided I'm going to go ahead and, yeah, I realized that why in the row around it."
+  },
+  {
+   "start": 70.19,
+   "end": 74.19,
+   "text": "What's on the tiger and I should be the top on the perfect book of it."
+  },
+  {
+   "start": 74.19,
+   "end": 76.19,
+   "text": "Rhythm 1919."
+  },
+  {
+   "start": 76.19,
+   "end": 82.19,
+   "text": "She's that it says that it's 17.5 meters through the round it."
+  },
+  {
+   "start": 82.19,
+   "end": 87.19,
+   "text": "But the map shows it is eight meters, so the map isn't perfect."
+  },
+  {
+   "start": 87.19,
+   "end": 89.19,
+   "text": "This thing."
+  },
+  {
+   "start": 89.19,
+   "end": 98.19,
+   "text": "So I joined the row that I said, I'd go ahead and join the ropes and the morning with the Colosseum works."
+  },
+  {
+   "start": 98.19,
+   "end": 105.19,
+   "text": "They would, they would let awning come in."
+  },
+  {
+   "start": 105.19,
+   "end": 115.1,
+   "text": "Actually, don't can't picture my head how they would suspended because there's this loop in the middle, but it pushed the awning in from the top."
+  },
+  {
+   "start": 115.1,
+   "end": 120.1,
+   "text": "And they have it suspended on from these ropes that came down on the sides and so."
+  },
+  {
+   "start": 120.1,
+   "end": 122.1,
+   "text": "Yeah, I can write down on the ropes."
+  },
+  {
+   "start": 122.1,
+   "end": 133.8,
+   "text": "And it would be I'd have to draw 2500 more than 2500 circles, though, because."
+  },
+  {
+   "start": 133.8,
+   "end": 137.8,
+   "text": "And after you go around the perimeter."
+  },
+  {
+   "start": 137.8,
+   "end": 144.8,
+   "text": "And draw on the circles at each different height and there's a little bit of at least 50 meters."
+  },
+  {
+   "start": 144.8,
+   "end": 148.8,
+   "text": "So there's like I don't even know how I did it in Cal, but at least I'll under it."
+  },
+  {
+   "start": 148.8,
+   "end": 156.8,
+   "text": "I mean, I think I actually, no doubt that that was the last time I did it 50."
+  },
+  {
+   "start": 156.8,
+   "end": 162.8,
+   "text": "It'd be 5,000 if it was at 125 or 250 times 50 is 2500."
+  },
+  {
+   "start": 162.8,
+   "end": 165.8,
+   "text": "So."
+  },
+  {
+   "start": 165.8,
+   "end": 173.8,
+   "text": "So I circle it in around and I just do I just stack it from in between so I can do it by site."
+  },
+  {
+   "start": 173.8,
+   "end": 177.8,
+   "text": "And then I just punch in the heights."
+  },
+  {
+   "start": 177.8,
+   "end": 180.8,
+   "text": "You know, I do it the right with envelope."
+  },
+  {
+   "start": 180.8,
+   "end": 182.8,
+   "text": "I've got myself."
+  },
+  {
+   "start": 182.8,
+   "end": 185.8,
+   "text": "Robes coming up for some."
+  },
+  {
+   "start": 185.8,
+   "end": 189.8,
+   "text": "Um, calls to you on the north."
+  },
+  {
+   "start": 189.8,
+   "end": 192.8,
+   "text": "Yeah, I was just sitting in a thinking like is it worth it?"
+  },
+  {
+   "start": 192.8,
+   "end": 199.24,
+   "text": "I was thinking maybe I could finish it in one day, but I think it would make it look really cool."
+  },
+  {
+   "start": 199.24,
+   "end": 201.24,
+   "text": "I could, I could draw in everything."
+  },
+  {
+   "start": 201.24,
+   "end": 207.24,
+   "text": "I could draw in the faceters because I saw drawing in it when there's five ropes."
+  },
+  {
+   "start": 207.24,
+   "end": 213.24,
+   "text": "There are these stone blocks around it that I'm going to draw in."
+  },
+  {
+   "start": 213.24,
+   "end": 214.24,
+   "text": "That's in there."
+  },
+  {
+   "start": 214.24,
+   "end": 217.24,
+   "text": "So five stone blocks then are."
+  },
+  {
+   "start": 217.24,
+   "end": 219.24,
+   "text": "Well."
+  },
+  {
+   "start": 219.24,
+   "end": 224.24,
+   "text": "Contribute ropes to this the faceter like the little wheel that pulls it up."
+  },
+  {
+   "start": 224.24,
+   "end": 229.24,
+   "text": "I can draw that in and to draw it on an avoid making it with a really amazing."
+  },
+  {
+   "start": 229.24,
+   "end": 233.24,
+   "text": "Because it already I can already make it look really good."
+  },
+  {
+   "start": 233.24,
+   "end": 238.24,
+   "text": "I can see I can travel around all four of the colonies inside."
+  },
+  {
+   "start": 238.24,
+   "end": 242.24,
+   "text": "There's two to a brass to no six of them with three levels."
+  },
+  {
+   "start": 242.24,
+   "end": 245.24,
+   "text": "I can do that like you can on YouTube on the."
+  },
+  {
+   "start": 245.24,
+   "end": 248.24,
+   "text": "Google Earth so I'm going to try that."
+  },
+  {
+   "start": 248.24,
+   "end": 252.24,
+   "text": "Um, like for when I do YouTube is."
+  },
+  {
+   "start": 252.24,
+   "end": 254.24,
+   "text": "Um."
+  },
+  {
+   "start": 255.24,
+   "end": 262.78,
+   "text": "And uh, yeah, we're one really cool thing about I said this the other day about the tough."
+  },
+  {
+   "start": 262.78,
+   "end": 264.78,
+   "text": "I like we're on the architecture."
+  },
+  {
+   "start": 264.78,
+   "end": 269.78,
+   "text": "Is that even a challenge I was going to challenge roads and buildings."
+  },
+  {
+   "start": 269.78,
+   "end": 271.78,
+   "text": "It's like in the Lamborghini, Kontasch."
+  },
+  {
+   "start": 271.78,
+   "end": 275.12,
+   "text": "They're all very."
+  },
+  {
+   "start": 275.12,
+   "end": 279.12,
+   "text": "Um, angles and lines."
+  },
+  {
+   "start": 279.12,
+   "end": 284.12,
+   "text": "And so how they drew designed their city of Rome."
+  },
+  {
+   "start": 284.12,
+   "end": 289.12,
+   "text": "And even a lot of buildings in the middle of today is exactly what it looked like."
+  },
+  {
+   "start": 289.12,
+   "end": 291.12,
+   "text": "Here's somebody we're addressing."
+  },
+  {
+   "start": 291.12,
+   "end": 294.12,
+   "text": "Because it's just these blocks."
+  },
+  {
+   "start": 294.12,
+   "end": 295.12,
+   "text": "So it's perfect."
+  },
+  {
+   "start": 295.12,
+   "end": 296.12,
+   "text": "Convenient."
+  },
+  {
+   "start": 296.12,
+   "end": 298.12,
+   "text": "You can make it look just like rooms."
+  },
+  {
+   "start": 298.12,
+   "end": 300.12,
+   "text": "So you know."
+  },
+  {
+   "start": 300.12,
+   "end": 301.12,
+   "text": "Um."
+  },
+  {
+   "start": 301.12,
+   "end": 304.12,
+   "text": "Yeah, so it takes 30 years."
+  },
+  {
+   "start": 304.12,
+   "end": 306.12,
+   "text": "So I'm going to get to this later than I want to get up."
+  },
+  {
+   "start": 306.12,
+   "end": 307.12,
+   "text": "Yeah, I'm just going to hit it."
+  },
+  {
+   "start": 307.12,
+   "end": 309.12,
+   "text": "Hit it when fresh."
+  },
+  {
+   "start": 309.12,
+   "end": 311.12,
+   "text": "Just die right in because."
+  },
+  {
+   "start": 313.88,
+   "end": 314.88,
+   "text": "And it's worth it."
+  },
+  {
+   "start": 314.88,
+   "end": 317.83,
+   "text": "Yeah."
+  },
+  {
+   "start": 317.83,
+   "end": 318.83,
+   "text": "Okay."
+  },
+  {
+   "start": 318.83,
+   "end": 320.83,
+   "text": "That's it for today."
+  }
+ ]
+}

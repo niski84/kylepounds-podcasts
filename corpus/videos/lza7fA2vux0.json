@@ -1,0 +1,289 @@
+{
+ "youtube_id": "lza7fA2vux0",
+ "title": "Living in Boulder Vlog 2 - 17 - 2016",
+ "url": "https://youtu.be/lza7fA2vux0",
+ "published_at": "2016-02-17",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a casual vlog from Boulder on February 17, 2016, reflecting on his time away from YouTube and modern news. He discusses immersing himself in historical/past voices through audio content and shares his excitement about recently starting to follow news again via text-to-speech on his computer.",
+  "speaker": "kyle",
+  "topics": [
+   "vlogging",
+   "YouTube history",
+   "news consumption",
+   "text-to-speech",
+   "personal routine",
+   "time perception"
+  ],
+  "stances": [
+   {
+    "topic": "blocking out current news",
+    "position": "deliberately avoided modern news to focus on historical perspectives and past thinkers"
+   },
+   {
+    "topic": "returning to YouTube/vlogging",
+    "position": "excited to return to making video logs after a long break"
+   },
+   {
+    "topic": "text-to-speech news",
+    "position": "newly enthusiastic about having the computer read news articles aloud"
+   }
+  ],
+  "entities": [
+   "Kyle Kulinski",
+   "Huffington Post",
+   "Boulder",
+   "Atlanta",
+   "YouTube"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.94,
+   "end": 2.94,
+   "text": "Hello YouTube world"
+  },
+  {
+   "start": 4.34,
+   "end": 7.64,
+   "text": "So this is V-log that led it in Boulder"
+  },
+  {
+   "start": 8.62,
+   "end": 10.62,
+   "text": "What day Wednesday?"
+  },
+  {
+   "start": 12.46,
+   "end": 15.78,
+   "text": "February 17th of 20 and 16"
+  },
+  {
+   "start": 16.86,
+   "end": 18.86,
+   "text": "They're very very"
+  },
+  {
+   "start": 21.5,
+   "end": 31.91,
+   "text": "Very excited about doing the video logs again. I'm like I'm still you know, I'm like at that point where I'm like"
+  },
+  {
+   "start": 33.15,
+   "end": 37.63,
+   "text": "Why was it I've been doing it you know, like you turn around all of a sudden everybody's doing it"
+  },
+  {
+   "start": 37.83,
+   "end": 41.34,
+   "text": "It's like whoa"
+  },
+  {
+   "start": 41.34,
+   "end": 49.38,
+   "text": "Yeah, I'd been out of a loop on YouTube. You know, I really watched like YouTube 2008-2009 just in Atlanta, I'm trying to work with them and then like by 12, you know"
+  },
+  {
+   "start": 50.74,
+   "end": 56.46,
+   "text": "Especially now I don't know what's anything and I think I'm gonna even maybe even you only think of listening to these jokes"
+  },
+  {
+   "start": 56.46,
+   "end": 63.62,
+   "text": "Let's start doing the Kyle Klin ski and then just recently I started to listening to like today was the first day"
+  },
+  {
+   "start": 65.66,
+   "end": 71.66,
+   "text": "Tuffington Post where you have the computer read that thing to post articles to you and I haven't been paying attention to modern"
+  },
+  {
+   "start": 72.22,
+   "end": 74.22,
+   "text": "news at all because"
+  },
+  {
+   "start": 75.5,
+   "end": 77.5,
+   "text": "I felt like it"
+  },
+  {
+   "start": 77.5,
+   "end": 80.5,
+   "text": "Kind of would take away from my time of"
+  },
+  {
+   "start": 81.7,
+   "end": 86.7,
+   "text": "Audio folks and stuff it that I mean I don't understand. I know it's like what"
+  },
+  {
+   "start": 87.62,
+   "end": 90.64,
+   "text": "Can't believe it's been just time. You know this long but sometimes, you know"
+  },
+  {
+   "start": 91.6,
+   "end": 97.68,
+   "text": "You have to block certain things out in order to understand other things, you know like you have to"
+  },
+  {
+   "start": 99.4,
+   "end": 104.34,
+   "text": "Maybe block out the current world, you know like maybe I wanted to just block out the"
+  },
+  {
+   "start": 104.88,
+   "end": 109.2,
+   "text": "The modern current world so that I could focus on the past world so much"
+  },
+  {
+   "start": 109.56,
+   "end": 113.08,
+   "text": "So that when I start paying attention to the current world more I"
+  },
+  {
+   "start": 114.32,
+   "end": 118.84,
+   "text": "Can look at it from like a I a forno's perspective a"
+  },
+  {
+   "start": 119.56,
+   "end": 125.46,
+   "text": "Past world perspective as though I was you know because most of the people I've been listening to in my years above the voices are"
+  },
+  {
+   "start": 126.4,
+   "end": 128.4,
+   "text": "long ago past time"
+  },
+  {
+   "start": 128.4,
+   "end": 131.8,
+   "text": "You know, I don't talk to people in a real world or I so it's like"
+  },
+  {
+   "start": 132.48,
+   "end": 136.6,
+   "text": "All my friends are the old times and so I'm like time more than the"
+  },
+  {
+   "start": 137.8,
+   "end": 140.04,
+   "text": "2015, you know, it's really trippy"
+  },
+  {
+   "start": 141.28,
+   "end": 143.28,
+   "text": "So"
+  },
+  {
+   "start": 143.76,
+   "end": 149.06,
+   "text": "Yeah, it's so trippy I lost my train of"
+  },
+  {
+   "start": 149.06,
+   "end": 151.06,
+   "text": "I"
+  },
+  {
+   "start": 151.58,
+   "end": 154.58,
+   "text": "So what I'm doing now is"
+  },
+  {
+   "start": 156.7,
+   "end": 159.7,
+   "text": "Working on my work"
+  },
+  {
+   "start": 161.34,
+   "end": 165.96,
+   "text": "Yeah, I just looked over to weed so I was working all day long and"
+  },
+  {
+   "start": 168.26,
+   "end": 171.06,
+   "text": "On some complicated parts"
+  },
+  {
+   "start": 172.18,
+   "end": 179.19,
+   "text": "around like you know, all the three you can 13th and stuff and"
+  },
+  {
+   "start": 179.19,
+   "end": 182.19,
+   "text": "And and I"
+  },
+  {
+   "start": 182.67,
+   "end": 186.91,
+   "text": "Was that 100% today, you know, I still feel in kind of bad like hungry"
+  },
+  {
+   "start": 189.91,
+   "end": 196.43,
+   "text": "Yeah, it's what in the morning now, so I finally got I'm ready to do the talking so best time for me to talking"
+  },
+  {
+   "start": 198.43,
+   "end": 200.43,
+   "text": "and"
+  },
+  {
+   "start": 200.43,
+   "end": 203.71,
+   "text": "so I'm gonna start doing the"
+  },
+  {
+   "start": 203.71,
+   "end": 205.71,
+   "text": "Oh"
+  },
+  {
+   "start": 206.27,
+   "end": 211.31,
+   "text": "Yeah, news news news news news. I'm super excited because I listen to the news articles today with my computer"
+  },
+  {
+   "start": 211.31,
+   "end": 213.07,
+   "text": "He tuned me for the first time. I'm like"
+  },
+  {
+   "start": 214.63,
+   "end": 220.15,
+   "text": "And it takes a long made it in this because you but it's cool. I'm excited to start it up now"
+  },
+  {
+   "start": 222.79,
+   "end": 224.79,
+   "text": "So"
+  },
+  {
+   "start": 226.47,
+   "end": 228.47,
+   "text": "And do more videos and"
+  },
+  {
+   "start": 229.43,
+   "end": 232.29,
+   "text": "Yeah, dude, it's later on. I'll maybe my money will cook"
+  },
+  {
+   "start": 233.71,
+   "end": 235.71,
+   "text": "But I'll be okay"
+  },
+  {
+   "start": 237.63,
+   "end": 239.63,
+   "text": "Yeah, that's enough to"
+  }
+ ]
+}

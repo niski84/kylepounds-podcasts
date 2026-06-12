@@ -1,0 +1,1000 @@
+{
+ "youtube_id": "ItRpTBXe444",
+ "title": "Living in Boulder vlog 6 - 23 - 2018: Putting audio books on my iPhone X 256gb",
+ "url": "https://youtu.be/ItRpTBXe444",
+ "published_at": "2018-06-23",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about setting up his new iPhone X (256GB) to serve as an all-in-one audiobook and podcast device. He explains his large collection of ~1500 audiobooks from LibriVox and Kindle, the process of transferring MP3s via iTunes playlists, and his use of the Natural Reader app to listen to text from his history website. He also mentions accidentally deleting part of his audiobook collection and relying on Carbonite for partial recovery.",
+  "speaker": "kyle",
+  "topics": [
+   "iPhone X setup",
+   "audiobook collection management",
+   "LibriVox",
+   "iTunes file transfer",
+   "Natural Reader app",
+   "text-to-speech",
+   "Carbonite backup",
+   "gigabit internet",
+   "Boulder daily life"
+  ],
+  "stances": [
+   {
+    "topic": "Amazon Kindle audiobook access",
+    "position": "Amazon's failure to allow Kindle books to play on iPhone is a huge mistake that will make them obsolete"
+   },
+   {
+    "topic": "iPhone as all-in-one device",
+    "position": "A 256GB iPhone can finally serve as a complete portable audiobook and media player, replacing dedicated MP3 players"
+   },
+   {
+    "topic": "LibriVox collection",
+    "position": "Has collected every history, philosophy, and religion audiobook from LibriVox and considers the collection nearly complete"
+   },
+   {
+    "topic": "Natural Reader app",
+    "position": "Worth the $10 purchase; useful for reading his website's text content aloud at adjustable speeds"
+   }
+  ],
+  "entities": [
+   "LibriVox",
+   "Kindle",
+   "Amazon",
+   "Audible",
+   "iTunes",
+   "Natural Reader",
+   "Carbonite",
+   "iPhone X",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.59,
+   "end": 3.09,
+   "text": "Hello, that was an old review."
+  },
+  {
+   "start": 3.09,
+   "end": 6.15,
+   "text": "Let me give you an update of what's going on."
+  },
+  {
+   "start": 6.15,
+   "end": 8.15,
+   "text": "It's June 23rd."
+  },
+  {
+   "start": 8.15,
+   "end": 13.55,
+   "text": "I haven't done it up the video for like three days or whatever."
+  },
+  {
+   "start": 13.55,
+   "end": 19.55,
+   "text": "So last time, because I was just trying to get going, you know, and I was waiting in the"
+  },
+  {
+   "start": 19.55,
+   "end": 21.19,
+   "text": "mail forever for my phone."
+  },
+  {
+   "start": 21.19,
+   "end": 25.43,
+   "text": "I was supposed to come in Thursday and come and tell yesterday, so yesterday, Thursday,"
+  },
+  {
+   "start": 25.43,
+   "end": 30.33,
+   "text": "I just got bored in lots of motivation, so I actually bought all the V-AGomis."
+  },
+  {
+   "start": 31.33,
+   "end": 34.33,
+   "text": "Without getting hung up for the next day."
+  },
+  {
+   "start": 34.33,
+   "end": 42.33,
+   "text": "And then I could split, yeah, I slept in, and I'm on 30, coming along, and I have to..."
+  },
+  {
+   "start": 42.33,
+   "end": 47.33,
+   "text": "I have to water my plants."
+  },
+  {
+   "start": 47.33,
+   "end": 50.33,
+   "text": "I've been home again, they're all wilting."
+  },
+  {
+   "start": 50.33,
+   "end": 53.33,
+   "text": "I just had water my plants either."
+  },
+  {
+   "start": 53.33,
+   "end": 60.33,
+   "text": "Yeah, I was waiting for my phone, and then I got my phone."
+  },
+  {
+   "start": 60.33,
+   "end": 62.33,
+   "text": "So now I'm doing my phone."
+  },
+  {
+   "start": 62.33,
+   "end": 64.33,
+   "text": "So here's my phone."
+  },
+  {
+   "start": 64.33,
+   "end": 67.33,
+   "text": "I got the iPhone 10."
+  },
+  {
+   "start": 67.33,
+   "end": 70.33,
+   "text": "And it's the 256 gigabyte one."
+  },
+  {
+   "start": 70.33,
+   "end": 78.33,
+   "text": "So I just went down all the IQ tests, history tests, what else?"
+  },
+  {
+   "start": 78.33,
+   "end": 88.33,
+   "text": "Google Maps, stuff, and the last stuff on Maps onto it."
+  },
+  {
+   "start": 88.33,
+   "end": 90.33,
+   "text": "And we could keep you on stuff."
+  },
+  {
+   "start": 90.33,
+   "end": 93.33,
+   "text": "And I want to figure out, I got them, I'm not motivated to do anything."
+  },
+  {
+   "start": 93.33,
+   "end": 97.33,
+   "text": "I have to do some work tomorrow, I think Monday, but I'm not motivated to do anything."
+  },
+  {
+   "start": 97.33,
+   "end": 103.35,
+   "text": "Because I'm on a ride or anything until I get this figured out."
+  },
+  {
+   "start": 103.35,
+   "end": 106.35,
+   "text": "Because I think it's quite the time, it's finally come."
+  },
+  {
+   "start": 106.35,
+   "end": 113.35,
+   "text": "We can turn these things into all in one computer for the MP3s."
+  },
+  {
+   "start": 113.35,
+   "end": 120.35,
+   "text": "You can do podcasts, I think maybe you can even download podcasts to it and do YouTube on it."
+  },
+  {
+   "start": 120.35,
+   "end": 125.35,
+   "text": "Wherever they're internet, and I guess you won't, there's not internet, if you can download the podcast, I've never done that."
+  },
+  {
+   "start": 125.35,
+   "end": 130.35,
+   "text": "But maybe you could do that with YouTube too."
+  },
+  {
+   "start": 130.35,
+   "end": 135.35,
+   "text": "But you probably have to do it individually with manual."
+  },
+  {
+   "start": 135.35,
+   "end": 139.35,
+   "text": "But I mean to have this thing, it's just ready to go."
+  },
+  {
+   "start": 139.35,
+   "end": 146.35,
+   "text": "Whether there's no internet, you know, up in the mountains, with this big is the collection of audiobooks."
+  },
+  {
+   "start": 146.35,
+   "end": 147.35,
+   "text": "It's possible."
+  },
+  {
+   "start": 147.35,
+   "end": 151.35,
+   "text": "That's what I'm going to do, so I'm going to explain to you how I'm going to do it."
+  },
+  {
+   "start": 151.35,
+   "end": 162.35,
+   "text": "So I have a collection of audiobooks, it's like 1500 audiobooks, something website all the historical audiobooks up until, you know, like,"
+  },
+  {
+   "start": 162.35,
+   "end": 167.35,
+   "text": "like copyright, like beginning of this century."
+  },
+  {
+   "start": 167.35,
+   "end": 177.35,
+   "text": "And the ones that are on LibreVox and Kindle, and those are the two big collections that I think are making pretty much complete."
+  },
+  {
+   "start": 177.35,
+   "end": 185.35,
+   "text": "And I have two Kindles, but they're a lot bigger than this, they're like this big."
+  },
+  {
+   "start": 185.35,
+   "end": 188.35,
+   "text": "And that's the only way to listen to the Kindle books."
+  },
+  {
+   "start": 188.35,
+   "end": 194.35,
+   "text": "Still not a way to listen to Kindle books on an iPhone."
+  },
+  {
+   "start": 194.35,
+   "end": 199.35,
+   "text": "That's going to be a huge, huge, huge, huge mistake by Amazon again to you."
+  },
+  {
+   "start": 199.35,
+   "end": 204.35,
+   "text": "It's going to make them, like, obsolete, like they're in such a good position, digital position."
+  },
+  {
+   "start": 204.35,
+   "end": 207.35,
+   "text": "All they have to do is make it so that you can read them."
+  },
+  {
+   "start": 207.35,
+   "end": 210.35,
+   "text": "They might need to pay for their audible."
+  },
+  {
+   "start": 210.35,
+   "end": 217.35,
+   "text": "The audible doesn't, isn't, is wide-ranging, because all of the other Kindle books, you know."
+  },
+  {
+   "start": 217.35,
+   "end": 225.35,
+   "text": "The only like half dozen, I had like a thousand or something, there's a hundred and there's only a half dozen or so that are audible."
+  },
+  {
+   "start": 225.35,
+   "end": 234.35,
+   "text": "So, on my list, so, but that's fine, I can, the Kindle batteries last forever, so you can, I guess, take advantage in that way."
+  },
+  {
+   "start": 234.35,
+   "end": 240.35,
+   "text": "So you can still can't take a Kindle like biking or running with, you know, just have to have a special bag that holds it."
+  },
+  {
+   "start": 240.35,
+   "end": 245.35,
+   "text": "So, but then the other collection that I have, there's this other app to that's called Free audiobooks."
+  },
+  {
+   "start": 245.35,
+   "end": 251.35,
+   "text": "And I haven't looked at their collection a lot, but it's probably pretty big, and you can just play it right off of them."
+  },
+  {
+   "start": 251.35,
+   "end": 256.35,
+   "text": "But the other one way that I'm going to do it is, is, like, robots."
+  },
+  {
+   "start": 256.35,
+   "end": 259.35,
+   "text": "I have every single book and then, like, robots."
+  },
+  {
+   "start": 259.35,
+   "end": 265.35,
+   "text": "And I even, I even looked through it and updated it like a couple months ago and make sure."
+  },
+  {
+   "start": 265.35,
+   "end": 271.35,
+   "text": "And I added a couple, but yeah, they didn't really have that much since I made it in 2011."
+  },
+  {
+   "start": 271.35,
+   "end": 278.35,
+   "text": "I have all of the books on liverbox.com which is the website where people read the books out loud."
+  },
+  {
+   "start": 278.35,
+   "end": 282.35,
+   "text": "Every single book on history, philosophy and religion section."
+  },
+  {
+   "start": 282.35,
+   "end": 286.35,
+   "text": "I think I did it in those three sections for liverbox as well as Kindle."
+  },
+  {
+   "start": 286.35,
+   "end": 290.35,
+   "text": "His religion class of here kind of within history."
+  },
+  {
+   "start": 290.35,
+   "end": 297.35,
+   "text": "So, you know, for, like, the three ones, you know, I'm a hundred years here."
+  },
+  {
+   "start": 297.35,
+   "end": 299.35,
+   "text": "So,"
+  },
+  {
+   "start": 301.35,
+   "end": 305.35,
+   "text": "I got every single one of those on my computer."
+  },
+  {
+   "start": 305.35,
+   "end": 312.35,
+   "text": "And so what I'm going to do is, um, transfer them in order to the way that you get them on your iPhone."
+  },
+  {
+   "start": 312.35,
+   "end": 318.35,
+   "text": "Is you have to create a playlist on your iTunes by dragging and dropping them."
+  },
+  {
+   "start": 318.35,
+   "end": 320.35,
+   "text": "But what when you're doing that, iTunes is its own folder."
+  },
+  {
+   "start": 320.35,
+   "end": 322.35,
+   "text": "So, you're duplicating a file."
+  },
+  {
+   "start": 322.35,
+   "end": 328.35,
+   "text": "So, I have, I have, like, 89 gigabytes right now of the books, but I don't think it's complete."
+  },
+  {
+   "start": 328.35,
+   "end": 333.35,
+   "text": "But if it's, if it's like a hundred gigabytes, you know, you have to have at least a hundred more gigabytes free on your computer."
+  },
+  {
+   "start": 333.35,
+   "end": 336.35,
+   "text": "Because it's, it's got to create that space all over again."
+  },
+  {
+   "start": 336.35,
+   "end": 342.35,
+   "text": "And then from there, you can wirelessly transfer it to your computer to your phone."
+  },
+  {
+   "start": 342.35,
+   "end": 346.35,
+   "text": "And then your phone has a just like regular and p3 file."
+  },
+  {
+   "start": 346.35,
+   "end": 350.35,
+   "text": "That you can, I guess, make it all play a list for it, everything."
+  },
+  {
+   "start": 350.35,
+   "end": 352.35,
+   "text": "So, that's what my priority is."
+  },
+  {
+   "start": 352.35,
+   "end": 355.35,
+   "text": "That's all in the foot personas getting all those liverbox."
+  },
+  {
+   "start": 355.35,
+   "end": 359.35,
+   "text": "Because between liver vox and Kindle, it's like 1500 books I have."
+  },
+  {
+   "start": 359.35,
+   "end": 366.35,
+   "text": "And so, um, and then, um, there's another way that I do audio books too."
+  },
+  {
+   "start": 366.35,
+   "end": 375.35,
+   "text": "Um, on my website, on my, on my, on my, uh, on my, uh, could sell them."
+  },
+  {
+   "start": 375.35,
+   "end": 379.35,
+   "text": "And it's by using my website to check it out."
+  },
+  {
+   "start": 379.35,
+   "end": 386.35,
+   "text": "Yeah, I just, I had to pay 10 bucks for natural reader app, which was the main text to speech program for the 10 years ago."
+  },
+  {
+   "start": 386.35,
+   "end": 391.35,
+   "text": "And if I started doing it, and then, uh, and so yeah, it can read any website."
+  },
+  {
+   "start": 391.35,
+   "end": 395.35,
+   "text": "And, and, and, and, and because I have a badass phone now and I have a badass internet."
+  },
+  {
+   "start": 395.35,
+   "end": 405.35,
+   "text": "Um, where we need to know the badass, um, I can, uh, I can just play the pages on my website."
+  },
+  {
+   "start": 405.35,
+   "end": 408.35,
+   "text": "And I'm like, even though 3000 page ones long ones."
+  },
+  {
+   "start": 408.35,
+   "end": 414.35,
+   "text": "If I'm in a 3000, I looked at a 3000 300 page long page book."
+  },
+  {
+   "start": 414.35,
+   "end": 417.35,
+   "text": "It's long book. I'm really high right now."
+  },
+  {
+   "start": 417.35,
+   "end": 421.35,
+   "text": "I just, uh, just took like 15 hits before I made a video."
+  },
+  {
+   "start": 421.35,
+   "end": 427.35,
+   "text": "But I think I was living, 3300 pages, and it had 33 sections."
+  },
+  {
+   "start": 427.35,
+   "end": 430.35,
+   "text": "So, you can go into, um, natural reader."
+  },
+  {
+   "start": 430.35,
+   "end": 435.35,
+   "text": "You just click, you just open up the file. And you can set up, you know, um, their files list."
+  },
+  {
+   "start": 435.35,
+   "end": 438.35,
+   "text": "It can't set play list, but I, you just have to scroll up and down."
+  },
+  {
+   "start": 438.35,
+   "end": 441.35,
+   "text": "I'll show you, natural reader."
+  },
+  {
+   "start": 441.35,
+   "end": 444.35,
+   "text": "So here's all my files on that, Toriida."
+  },
+  {
+   "start": 444.35,
+   "end": 449.35,
+   "text": "I have all the, um, books, history books on my website on it."
+  },
+  {
+   "start": 449.35,
+   "end": 455.35,
+   "text": "So you would just click, like, and then I, and then I have all of the decades from zero to 2000."
+  },
+  {
+   "start": 455.35,
+   "end": 458.35,
+   "text": "She had one of my clients done."
+  },
+  {
+   "start": 459.35,
+   "end": 463.35,
+   "text": "And then I'm going to do every year from 1900 to 2000."
+  },
+  {
+   "start": 463.35,
+   "end": 466.35,
+   "text": "And then a decade, years in the future, decades in the future."
+  },
+  {
+   "start": 466.35,
+   "end": 469.35,
+   "text": "Whatever's on my webpage, my library history, test webpage."
+  },
+  {
+   "start": 469.35,
+   "end": 474.35,
+   "text": "And then the different ones in the past, and just throw them on here with the, um,"
+  },
+  {
+   "start": 474.35,
+   "end": 477.35,
+   "text": "uh, with all of the books that I have on my website."
+  },
+  {
+   "start": 477.35,
+   "end": 483.35,
+   "text": "But you can sort them by, uh, by date, size, and, uh, and, uh, and, uh,"
+  },
+  {
+   "start": 483.35,
+   "end": 486.35,
+   "text": "and, uh, titles, so you can do it alphabetically, and then by size."
+  },
+  {
+   "start": 486.35,
+   "end": 491.35,
+   "text": "So if you want to just scroll down and listen to something like, like, I'll explain on my website."
+  },
+  {
+   "start": 491.35,
+   "end": 496.35,
+   "text": "You know, if you want to go on a five hour ride, you just find the book that's five hours and you sort of here."
+  },
+  {
+   "start": 496.35,
+   "end": 502.35,
+   "text": "And boom, you go try to finish the whole book, and then do your video about it after a result and one go."
+  },
+  {
+   "start": 502.35,
+   "end": 507.35,
+   "text": "Um, and then date, so if you, um, that's another way to organize it."
+  },
+  {
+   "start": 507.35,
+   "end": 510.35,
+   "text": "And like, how I did it in my head, just in, probably, or did."
+  },
+  {
+   "start": 510.35,
+   "end": 516.35,
+   "text": "And, uh, yeah, so, um, right now, I'm, I just, I'm doing the years."
+  },
+  {
+   "start": 516.35,
+   "end": 519.35,
+   "text": "I did the decades, and I'm working up the years."
+  },
+  {
+   "start": 519.35,
+   "end": 523.35,
+   "text": "Um, you can start it always, I don't think."
+  },
+  {
+   "start": 523.35,
+   "end": 524.35,
+   "text": "Oops, so that's her rating."
+  },
+  {
+   "start": 524.35,
+   "end": 528.35,
+   "text": "And then you can adjust the reading speed, and I think I'm going to make the reading speed the same,"
+  },
+  {
+   "start": 528.35,
+   "end": 531.35,
+   "text": "because you can do it on a slider, and incrementally."
+  },
+  {
+   "start": 531.35,
+   "end": 538.35,
+   "text": "But the reading speed for Apple on fast is like 52 seconds for, um,"
+  },
+  {
+   "start": 538.35,
+   "end": 541.35,
+   "text": "a page, and that's, that's good."
+  },
+  {
+   "start": 541.35,
+   "end": 546.35,
+   "text": "So I'll just set this to equal that so that when you see how long it estimates how long it takes to read the book."
+  },
+  {
+   "start": 546.35,
+   "end": 550.35,
+   "text": "On my website here in the, and you know that's how long it will take the phone to do it."
+  },
+  {
+   "start": 550.35,
+   "end": 554.35,
+   "text": "But what I was going to say is like, living is 30, 300 pages."
+  },
+  {
+   "start": 554.35,
+   "end": 559.35,
+   "text": "And even on natural reader when I open it up, I can slide the slider, which takes me to scrolls."
+  },
+  {
+   "start": 559.35,
+   "end": 562.35,
+   "text": "We up and down the web page of living on my website."
+  },
+  {
+   "start": 562.35,
+   "end": 567.35,
+   "text": "And you can do it, they've divided it up into 33 seconds segments."
+  },
+  {
+   "start": 567.35,
+   "end": 571.35,
+   "text": "So, 30,000 pages, you can get to within 100 pages."
+  },
+  {
+   "start": 571.35,
+   "end": 574.35,
+   "text": "So, that's pretty cool."
+  },
+  {
+   "start": 574.35,
+   "end": 578.35,
+   "text": "Um, I mean, that does definitely doable with the smaller books."
+  },
+  {
+   "start": 578.35,
+   "end": 581.35,
+   "text": "I only have a few books that I'd be, you know, but if you're talking like,"
+  },
+  {
+   "start": 581.35,
+   "end": 586.35,
+   "text": "even a thousand pages, but I can get to within 30, three pages, which is just a few minutes, you know."
+  },
+  {
+   "start": 586.35,
+   "end": 591.35,
+   "text": "So you, but the thing is, is that whenever you hit stop in these files,"
+  },
+  {
+   "start": 591.35,
+   "end": 596.35,
+   "text": "and then you exit it when you open it up again, it takes up where it left off."
+  },
+  {
+   "start": 596.35,
+   "end": 599.35,
+   "text": "So, um, it's really cool."
+  },
+  {
+   "start": 599.35,
+   "end": 604.35,
+   "text": "And then you can scroll it down your website and jump to different places, really quickly."
+  },
+  {
+   "start": 604.35,
+   "end": 607.35,
+   "text": "So, yeah, it's cool. That's a reader."
+  },
+  {
+   "start": 607.35,
+   "end": 620.35,
+   "text": "So, um, so yeah, but the problem is, um, I don't think my, my list is complete because I actually deleted the file."
+  },
+  {
+   "start": 620.35,
+   "end": 626.35,
+   "text": "I accidentally went with my, um, when I was, I didn't, I was buying external hard drives."
+  },
+  {
+   "start": 626.35,
+   "end": 629.35,
+   "text": "And I was just, just, just juffling, juffling stuff around."
+  },
+  {
+   "start": 629.35,
+   "end": 631.35,
+   "text": "And I had to freeze space here."
+  },
+  {
+   "start": 631.35,
+   "end": 635.35,
+   "text": "And I thought that I had it, um, on a hard drive."
+  },
+  {
+   "start": 635.35,
+   "end": 637.35,
+   "text": "And it wasn't, and so I deleted it."
+  },
+  {
+   "start": 637.35,
+   "end": 642.35,
+   "text": "And I was like, ah, five, there's a screaming for like half hour though."
+  },
+  {
+   "start": 642.35,
+   "end": 643.35,
+   "text": "It was all over."
+  },
+  {
+   "start": 643.35,
+   "end": 645.35,
+   "text": "My neighbor even knocked on the door."
+  },
+  {
+   "start": 645.35,
+   "end": 648.35,
+   "text": "If I had my college child, somebody said, you know,"
+  },
+  {
+   "start": 648.35,
+   "end": 657.63,
+   "text": "But yeah, but then I remember about carbonite carbonite, but it didn't back up all of them."
+  },
+  {
+   "start": 657.63,
+   "end": 661.35,
+   "text": "Because my internet was crap, it just didn't keep up."
+  },
+  {
+   "start": 661.35,
+   "end": 668.41,
+   "text": "So I'm going to have to go through there and make sure that they're all full, you know,"
+  },
+  {
+   "start": 668.41,
+   "end": 677.91,
+   "text": "and then upload all of my download all the books that I didn't manage to back up."
+  },
+  {
+   "start": 677.91,
+   "end": 680.91,
+   "text": "But I can download it like white and fast."
+  },
+  {
+   "start": 680.91,
+   "end": 682.91,
+   "text": "I have a gigabit internet now."
+  },
+  {
+   "start": 682.91,
+   "end": 684.91,
+   "text": "So that's amazing."
+  },
+  {
+   "start": 684.91,
+   "end": 690.91,
+   "text": "So yeah, I'll make sure that my folders all set up full."
+  },
+  {
+   "start": 690.91,
+   "end": 694.91,
+   "text": "I think I remember it had like 130 gigabytes and I only had 89."
+  },
+  {
+   "start": 694.91,
+   "end": 696.91,
+   "text": "So I might have a lot to accept on."
+  },
+  {
+   "start": 696.91,
+   "end": 705.48,
+   "text": "But I'm just, this is the big that keeps going for like a lot to do."
+  },
+  {
+   "start": 705.48,
+   "end": 718.75,
+   "text": "So I have to keep working as that and then I'm going to just drag and drag it onto my iTunes."
+  },
+  {
+   "start": 718.75,
+   "end": 726.75,
+   "text": "After I make sure that I have a space on my computer, I have just organizing stuff on my external address."
+  },
+  {
+   "start": 726.75,
+   "end": 730.75,
+   "text": "And then drag it onto my iPhone."
+  },
+  {
+   "start": 730.75,
+   "end": 735.75,
+   "text": "And then see if I can make like what organize it on my iPhone."
+  },
+  {
+   "start": 735.75,
+   "end": 739.75,
+   "text": "And once I do that, I mean maybe that's the only time I'll ever have to do it."
+  },
+  {
+   "start": 739.75,
+   "end": 743.75,
+   "text": "To defend it when I get a new iPhone replacement whenever it would just drag it."
+  },
+  {
+   "start": 743.75,
+   "end": 751.75,
+   "text": "I could I could I plot all those and drag it from the phone to the phone directly or the phone to whatever."
+  },
+  {
+   "start": 751.75,
+   "end": 758.75,
+   "text": "To be able to have all those is going to be a major between that and then the kindles that I have and then the other program."
+  },
+  {
+   "start": 758.75,
+   "end": 761.75,
+   "text": "I'll look at it on the probably don't have me books that I don't have."
+  },
+  {
+   "start": 761.75,
+   "end": 763.75,
+   "text": "But then my website."
+  },
+  {
+   "start": 763.75,
+   "end": 769.75,
+   "text": "Yeah, I've got my little box here and I don't have to worry about um."
+  },
+  {
+   "start": 769.75,
+   "end": 771.75,
+   "text": "In key three players you know."
+  },
+  {
+   "start": 771.75,
+   "end": 775.75,
+   "text": "I guess I think the battery on this last my mouth is totally dry."
+  },
+  {
+   "start": 775.75,
+   "end": 779.75,
+   "text": "The battery on this last 10 hours of constant use."
+  },
+  {
+   "start": 779.75,
+   "end": 789.3,
+   "text": "So yeah, that's what I'm going to right now and get just going to finish."
+  },
+  {
+   "start": 789.3,
+   "end": 793.3,
+   "text": "I was in the October Christmas morning I had to wait like 30 minutes."
+  },
+  {
+   "start": 793.3,
+   "end": 799.3,
+   "text": "I didn't care if those are just adding um years I'm at like 1914 I think I've to finish the years."
+  },
+  {
+   "start": 799.3,
+   "end": 805.3,
+   "text": "For my collection of all of my files for our natural reader."
+  },
+  {
+   "start": 805.3,
+   "end": 809.3,
+   "text": "And yeah, I'm going to do the BC ones and then I'll just have to scroll out."
+  },
+  {
+   "start": 809.3,
+   "end": 815.3,
+   "text": "I think before I started the years I had to do like 10 slides just to get through the books."
+  },
+  {
+   "start": 815.3,
+   "end": 822.3,
+   "text": "I put all the books on my education page like all of the books from ancient times all the way up until."
+  },
+  {
+   "start": 822.3,
+   "end": 826.3,
+   "text": "Like the year 500 like the falls are on."
+  },
+  {
+   "start": 826.3,
+   "end": 830.3,
+   "text": "Later on one day I'd like to do the other books you know the rest of the books."
+  },
+  {
+   "start": 830.3,
+   "end": 836.3,
+   "text": "There's a lot more of them than but a you know computers will be faster some."
+  },
+  {
+   "start": 836.3,
+   "end": 840.3,
+   "text": "Or at least get a collection of them on here."
+  },
+  {
+   "start": 840.3,
+   "end": 842.3,
+   "text": "So um."
+  },
+  {
+   "start": 842.3,
+   "end": 848.3,
+   "text": "So yeah, I'm going to finish with this thing and then yeah finish up my my list."
+  },
+  {
+   "start": 848.3,
+   "end": 852.3,
+   "text": "Hopefully I'll be done in the next couple of days with that."
+  },
+  {
+   "start": 852.3,
+   "end": 856.3,
+   "text": "And then I can start."
+  },
+  {
+   "start": 856.3,
+   "end": 864.3,
+   "text": "Well then I'll make some good playlists I guess to listen to music the DevStit."
+  },
+  {
+   "start": 864.3,
+   "end": 872.3,
+   "text": "Drag them on to hear us in P3 players from my iTunes and P3 files from my iTunes."
+  },
+  {
+   "start": 872.3,
+   "end": 874.3,
+   "text": "And um."
+  },
+  {
+   "start": 874.3,
+   "end": 876.3,
+   "text": "And then red."
+  },
+  {
+   "start": 876.3,
+   "end": 880.3,
+   "text": "And then red."
+  },
+  {
+   "start": 880.3,
+   "end": 882.3,
+   "text": "And then one day I'll be like, oh, let's do the only books."
+  },
+  {
+   "start": 882.3,
+   "end": 885.8,
+   "text": "That's going to be fun."
+  },
+  {
+   "start": 885.8,
+   "end": 887.8,
+   "text": "All right, that's enough talking to you."
+  },
+  {
+   "start": 887.8,
+   "end": 889.8,
+   "text": "You."
+  }
+ ]
+}

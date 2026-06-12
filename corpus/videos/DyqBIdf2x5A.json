@@ -1,0 +1,376 @@
+{
+ "youtube_id": "DyqBIdf2x5A",
+ "title": "Living in Boulder Vlog 11 - 6 - 2016",
+ "url": "https://youtu.be/DyqBIdf2x5A",
+ "published_at": "2016-11-07",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a casual morning vlog update from Boulder, describing his previous day of working 9am to 2am on a Google Earth mapping project (Beaver Creek ski resort). He discusses his current productive headspace for tedious tracing/linking work, plans to tackle a 400-mountains-of-Boulder project, and mentions an interest in mapping unbuilt ski resorts and eventually using Boulder's buildings to recreate Rome in a project he calls 'sanctimonium.'",
+  "speaker": "kyle",
+  "topics": [
+   "daily routine",
+   "Google Earth mapping",
+   "cannabis use",
+   "productivity",
+   "Boulder Colorado",
+   "personal projects",
+   "Roman history research"
+  ],
+  "stances": [
+   {
+    "topic": "cannabis use",
+    "position": "enjoys getting high in bed before starting the day, considers it part of his routine"
+   },
+   {
+    "topic": "productivity",
+    "position": "believes in capitalizing on mental headspace when in the right mode for tedious/repetitive work"
+   },
+   {
+    "topic": "sleep",
+    "position": "six hours feels sufficient when he wakes up fresh"
+   }
+  ],
+  "entities": [
+   "Beaver Creek",
+   "Crested View",
+   "Boulder",
+   "Google Earth",
+   "Rome",
+   "sanctimonium project"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.23,
+   "end": 16.76,
+   "text": "Hello living in Boulder V-log. Just a second. I gotta remember to get my weed every time, man. I hit record and then all of a sudden I'm like, oh shit, the weed."
+  },
+  {
+   "start": 16.76,
+   "end": 39.06,
+   "text": "Alright, so, um, so yesterday what I did was, uh, I think I got up at like 9. I was working at like 9. And I worked all the way until 2 in the morning, solid."
+  },
+  {
+   "start": 39.06,
+   "end": 57.96,
+   "text": "Uh, cause, uh, I did Beaver Creek yesterday, finishing it up, and it's super complicated. Um, yeah. So I have to link it, finish linking it. I'm like halfway through linking it. I have like 100 more."
+  },
+  {
+   "start": 58.56,
+   "end": 66.96,
+   "text": "And then I'm gonna do Crested View, which is gonna be a lot easier probably, even though I have to add like a whole new section. Well, I had to at Beaver Creek too, I just didn't realize that."
+  },
+  {
+   "start": 66.96,
+   "end": 86.46,
+   "text": "Um, yeah. And then I was thinking about going back to Google Earth in Boulder. But I'm in a really good, uh, like, mode right now. In my head where I'm really good at, uh, the brain candy stuff."
+  },
+  {
+   "start": 86.46,
+   "end": 99.26,
+   "text": "Um, just listening to, I was listening to just all these different videos from history scientists over and over again. Just trying to memorize all the stuff that all the different emperors did."
+  },
+  {
+   "start": 99.26,
+   "end": 111.68,
+   "text": "And then listening to this other dude. And then, and then, uh, who does just the emperors. And then, uh, um, yeah. I was doing different chapters in the book. Theodosius, that era."
+  },
+  {
+   "start": 112.52,
+   "end": 122.06,
+   "text": "But, um, but yeah, I'm in a good mood, mental head space right now to just do that kind of work. And I have the 400 Mountains from Boulder."
+  },
+  {
+   "start": 122.06,
+   "end": 130.06,
+   "text": "Uh, it's, it's got a lot of work. Like, uh, two weeks or something. So maybe I'll jump into that for a little bit until I get bored with it."
+  },
+  {
+   "start": 130.12,
+   "end": 137.2,
+   "text": "It's good to, um, it's good to take advantage of when you're in a, when I roll, like, working with just the brain candy stuff."
+  },
+  {
+   "start": 137.94,
+   "end": 141.0,
+   "text": "Like the tedious stuff, you know. Repetitive motions."
+  },
+  {
+   "start": 142.0,
+   "end": 148.96,
+   "text": "Cutting and pasting and stuff. Uh, tracing a bunch of stuff. So, uh, that's what I'll do."
+  },
+  {
+   "start": 148.96,
+   "end": 155.66,
+   "text": "Like, I got really high before I did this video. Cause I woke up and then I got high in bed and I just lay there. I like to do that."
+  },
+  {
+   "start": 156.36,
+   "end": 160.2,
+   "text": "And then I got up. So I probably didn't need to get my weed."
+  },
+  {
+   "start": 161.98,
+   "end": 165.92,
+   "text": "Ooh. Um. Yeah, so that's what I'll do today."
+  },
+  {
+   "start": 166.2,
+   "end": 168.98,
+   "text": "Oh, but I wanted to do the ski resorts that were never built."
+  },
+  {
+   "start": 169.76,
+   "end": 173.1,
+   "text": "I think I said this yesterday. There's like five of them. And some of them are really big."
+  },
+  {
+   "start": 173.86,
+   "end": 178.38,
+   "text": "And then make my own. I haven't even looked at the mountains yet to see where I want to put it."
+  },
+  {
+   "start": 178.38,
+   "end": 179.1,
+   "text": "But that'd be cool."
+  },
+  {
+   "start": 180.44,
+   "end": 186.64,
+   "text": "And then I would, I'd plug that into, um, uh, my sanctimonium project, my Rome."
+  },
+  {
+   "start": 187.0,
+   "end": 190.98,
+   "text": "If I build Boulder on Google Earth, I can then copy it."
+  },
+  {
+   "start": 191.9,
+   "end": 194.26,
+   "text": "And then use all those buildings to create Rome."
+  },
+  {
+   "start": 195.06,
+   "end": 198.62,
+   "text": "On Boulder without ever actually having to build, rebuild it. Cause it's already built."
+  },
+  {
+   "start": 199.92,
+   "end": 202.74,
+   "text": "But, um, yeah."
+  },
+  {
+   "start": 202.74,
+   "end": 205.26,
+   "text": "I, uh, it's eight o'clock now."
+  },
+  {
+   "start": 205.66,
+   "end": 207.74,
+   "text": "So I only got six hours of sleep, but I'm fresh."
+  },
+  {
+   "start": 207.8,
+   "end": 208.64,
+   "text": "So that's pretty cool."
+  },
+  {
+   "start": 210.16,
+   "end": 211.42,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 211.58,
+   "end": 214.08,
+   "text": "So getting a good start to the day."
+  },
+  {
+   "start": 215.12,
+   "end": 216.66,
+   "text": "Okay. Peace out."
+  },
+  {
+   "start": 216.66,
+   "end": 217.38,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 217.38,
+   "end": 217.5,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 217.5,
+   "end": 217.66,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 217.66,
+   "end": 217.68,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 217.68,
+   "end": 217.7,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 217.7,
+   "end": 217.72,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 217.72,
+   "end": 217.74,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 217.74,
+   "end": 217.76,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 217.76,
+   "end": 217.78,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 217.78,
+   "end": 217.8,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 217.8,
+   "end": 217.82,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 217.82,
+   "end": 217.84,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 217.84,
+   "end": 217.86,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 217.86,
+   "end": 218.12,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 218.12,
+   "end": 218.16,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 218.16,
+   "end": 218.28,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 218.28,
+   "end": 218.38,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 218.38,
+   "end": 218.4,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 218.4,
+   "end": 218.7,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 218.7,
+   "end": 219.28,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 219.28,
+   "end": 219.7,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 219.7,
+   "end": 220.2,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 220.2,
+   "end": 220.24,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 220.24,
+   "end": 220.78,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 220.78,
+   "end": 221.32,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 221.32,
+   "end": 221.34,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 221.34,
+   "end": 221.62,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 221.62,
+   "end": 222.2,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 222.2,
+   "end": 222.24,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 222.24,
+   "end": 222.28,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 222.28,
+   "end": 223.2,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 223.2,
+   "end": 224.28,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 224.28,
+   "end": 225.28,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 225.28,
+   "end": 225.32,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 225.32,
+   "end": 226.28,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 226.28,
+   "end": 226.32,
+   "text": ". Um, yeah."
+  }
+ ]
+}

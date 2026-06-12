@@ -1,0 +1,274 @@
+{
+ "youtube_id": "sD3pQgK53yk",
+ "title": "Living in Boulder vlog 8 -  27 -  2017: Strava Pages Video Screen Capture on Rollers day 2",
+ "url": "https://youtu.be/sD3pQgK53yk",
+ "published_at": "2017-08-28",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a late-night redo vlog (original failed due to audio issues) about his new indoor bike riding setup in his Boulder room. He describes doing Strava segment screen captures for a planned YouTube channel called 'Kyle Pounds Google Earth,' and talks about his fan setup and plans to continue riding indoors.",
+  "speaker": "kyle",
+  "topics": [
+   "vlog technical issues",
+   "indoor cycling",
+   "Strava segments",
+   "YouTube channel plans",
+   "Boulder living",
+   "daily routine"
+  ],
+  "stances": [
+   {
+    "topic": "indoor cycling setup",
+    "position": "enjoys it and is actively optimizing it with fans and a table around the bike"
+   },
+   {
+    "topic": "screen capture recording workflow",
+    "position": "finds it a good opportunity to ride since he can't do much else while recording"
+   },
+   {
+    "topic": "productivity",
+    "position": "works faster on the bike than sitting on the couch"
+   }
+  ],
+  "entities": [
+   "Kyle Pounds Google Earth (planned YouTube channel)",
+   "Strava",
+   "Boulder",
+   "Target (store)",
+   "Reaper (software)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.27,
+   "end": 9.71,
+   "text": "Hello, I just recorded a video, but it didn't record because my converter was going and I think the converter freaked it out"
+  },
+  {
+   "start": 9.71,
+   "end": 11.71,
+   "text": "and I didn't notice."
+  },
+  {
+   "start": 12.51,
+   "end": 16.43,
+   "text": "It made it like three and a half minutes and the sound was really bad."
+  },
+  {
+   "start": 17.15,
+   "end": 19.15,
+   "text": "So"
+  },
+  {
+   "start": 19.79,
+   "end": 24.67,
+   "text": "Because even though my microphone is plugged into my computer, it's like,"
+  },
+  {
+   "start": 24.91,
+   "end": 29.79,
+   "text": "it's not working so I needed to call and find out what's wrong."
+  },
+  {
+   "start": 32.83,
+   "end": 37.95,
+   "text": "So I'll just do the V-log all over again, like take to the log."
+  },
+  {
+   "start": 38.83,
+   "end": 45.95,
+   "text": "So it's a 330 in the morning on August plus the sound will be better on this one."
+  },
+  {
+   "start": 46.51,
+   "end": 52.83,
+   "text": "28th and so this one will be for the August 27th. I haven't done a video for a while today's because"
+  },
+  {
+   "start": 53.79,
+   "end": 54.83,
+   "text": "I"
+  },
+  {
+   "start": 56.35,
+   "end": 59.63,
+   "text": "was just too busy. I guess doing whatever I was doing."
+  },
+  {
+   "start": 62.43,
+   "end": 64.43,
+   "text": "And"
+  },
+  {
+   "start": 65.23,
+   "end": 68.27,
+   "text": "Yeah, but yeah, that now I'll be motivated to do the video today."
+  },
+  {
+   "start": 70.99,
+   "end": 72.51,
+   "text": "I started writing by bike"
+  },
+  {
+   "start": 77.01,
+   "end": 79.41,
+   "text": "in my room yesterday and"
+  },
+  {
+   "start": 79.41,
+   "end": 81.41,
+   "text": "um"
+  },
+  {
+   "start": 81.41,
+   "end": 83.41,
+   "text": "That was awesome"
+  },
+  {
+   "start": 83.41,
+   "end": 85.81,
+   "text": "Because I got to this point on my website where it's down"
+  },
+  {
+   "start": 86.13,
+   "end": 90.45,
+   "text": "I should have been writing what I'd like before but I was just too, you know, motivated to"
+  },
+  {
+   "start": 90.85,
+   "end": 92.85,
+   "text": "give a much done as I could so"
+  },
+  {
+   "start": 92.85,
+   "end": 96.13,
+   "text": "You work a little bit faster than you sit on the couch and longer to"
+  },
+  {
+   "start": 97.17,
+   "end": 99.17,
+   "text": "But um, but yeah, I"
+  },
+  {
+   "start": 100.93,
+   "end": 107.73,
+   "text": "I got to a point where I'm all I'm doing is doing screen captures of all these strawberries segments. I want to put them on and do"
+  },
+  {
+   "start": 109.49,
+   "end": 111.49,
+   "text": "YouTube channel called"
+  },
+  {
+   "start": 113.97,
+   "end": 118.61,
+   "text": "Kyle Pounds Google Earth and so I've got thousands of videos I can put up there"
+  },
+  {
+   "start": 120.37,
+   "end": 122.37,
+   "text": "It's gonna be amazing"
+  },
+  {
+   "start": 122.37,
+   "end": 124.37,
+   "text": "and hundreds of playlist"
+  },
+  {
+   "start": 125.17,
+   "end": 127.17,
+   "text": "history"
+  },
+  {
+   "start": 128.53,
+   "end": 130.69,
+   "text": "But yeah, so I'm recording"
+  },
+  {
+   "start": 131.65,
+   "end": 135.33,
+   "text": "So I can't do anything else when I'm recording video screen captures"
+  },
+  {
+   "start": 136.29,
+   "end": 142.37,
+   "text": "And so it's a very time to start writing and then I can just watch it and then I'm recording and ride and"
+  },
+  {
+   "start": 142.69,
+   "end": 149.17,
+   "text": "Listen to stuff. I'm gonna sober up and do more of it. I do talking videos and book review stuff"
+  },
+  {
+   "start": 152.85,
+   "end": 156.13,
+   "text": "Since the sober up. I ran out of reaper today, but"
+  },
+  {
+   "start": 157.17,
+   "end": 161.89,
+   "text": "I started writing yesterday and I didn't want to I wanted to reaper every day inside"
+  },
+  {
+   "start": 162.45,
+   "end": 168.45,
+   "text": "It's fun to write a reaper right outside, but it's probably even more fun to reaper at inside because"
+  },
+  {
+   "start": 169.49,
+   "end": 171.49,
+   "text": "This is more stuff to reaper out"
+  },
+  {
+   "start": 175.09,
+   "end": 178.61,
+   "text": "I like yesterday I'd perfected my I'd like to have a"
+  },
+  {
+   "start": 180.29,
+   "end": 183.49,
+   "text": "I can attach I went today and but"
+  },
+  {
+   "start": 185.25,
+   "end": 187.25,
+   "text": "would and I'll do else to the video later"
+  },
+  {
+   "start": 187.33,
+   "end": 189.33,
+   "text": "Um"
+  },
+  {
+   "start": 189.81,
+   "end": 193.97,
+   "text": "So yeah, I have this like table all around my bike and I'd take a putts stuff"
+  },
+  {
+   "start": 197.57,
+   "end": 205.81,
+   "text": "To my I'm gonna even make it push here and go to target and buy more fans to come in from the side I have three fans"
+  },
+  {
+   "start": 206.93,
+   "end": 215.73,
+   "text": "From the front but and I might get four full more fans inside so I'm so I'm just constantly and it's just like tornado of air"
+  },
+  {
+   "start": 216.21,
+   "end": 218.21,
+   "text": "So I never sweat at all"
+  },
+  {
+   "start": 222.21,
+   "end": 227.57,
+   "text": "I have a lot of light in there too because I have um right to one of you"
+  },
+  {
+   "start": 229.57,
+   "end": 233.41,
+   "text": "Yeah, so today was like my first day so I was thinking you know what"
+  }
+ ]
+}

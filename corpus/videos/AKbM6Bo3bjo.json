@@ -1,0 +1,815 @@
+{
+ "youtube_id": "AKbM6Bo3bjo",
+ "title": "Living in Boulder vlog 5 -  19 -  2018: Google Earthing Boulder Country Roads",
+ "url": "https://youtu.be/AKbM6Bo3bjo",
+ "published_at": "2018-05-20",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a vlog update from his Boulder apartment explaining his current Google Earth project: he is tracing and converting road lines in Boulder County into polygons to build a simplified 'cartoon world' map, and plans to do the same for ancient Latium (kingdom of Rome) so he can compare the two geographies.",
+  "speaker": "kyle",
+  "topics": [
+   "Google Earth mapping",
+   "Boulder County roads",
+   "cartoon world building",
+   "Rome/Latium comparison",
+   "vlog update"
+  ],
+  "stances": [
+   {
+    "topic": "polygon vs line tool in Google Earth",
+    "position": "polygons are better for roads because you can see distance and visibility from far away"
+   },
+   {
+    "topic": "image background vs polygon layer",
+    "position": "image backgrounds show terrain contours but roads render poorly over them; solid polygon layers render roads uniformly but lack contour — prefers to work around it by filling the area with trail/landmark objects"
+   },
+   {
+    "topic": "Latium vs Boulder County",
+    "position": "Latium is a lot more boring than Boulder County, which is amazing with its mountain roads"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Boulder County",
+   "Rome",
+   "Latium",
+   "Colorado",
+   "Denver",
+   "Boulder Canyon",
+   "Eldora",
+   "Eldora ski resort",
+   "Jamestown",
+   "Allenspark",
+   "Estes Park"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.53,
+   "end": 7.53,
+   "text": "Hello living in Boulder, be logics 5.5 PM on March 19, 2019."
+  },
+  {
+   "start": 7.53,
+   "end": 17.44,
+   "text": "Kind of stone, I don't know."
+  },
+  {
+   "start": 17.44,
+   "end": 23.44,
+   "text": "I found out I've been last time with the very beginning of my last video."
+  },
+  {
+   "start": 23.44,
+   "end": 30.44,
+   "text": "The light flickered off and I thought it was because the light bulb died, but it was because"
+  },
+  {
+   "start": 31.44,
+   "end": 33.44,
+   "text": "the connection, it lost connection over there."
+  },
+  {
+   "start": 33.44,
+   "end": 35.44,
+   "text": "All I have to do is push it in and wiggle it."
+  },
+  {
+   "start": 35.44,
+   "end": 38.44,
+   "text": "So that's where I do."
+  },
+  {
+   "start": 38.44,
+   "end": 44.44,
+   "text": "So I just be careful that no water gets over there or something."
+  },
+  {
+   "start": 44.44,
+   "end": 48.44,
+   "text": "So I had full light."
+  },
+  {
+   "start": 48.44,
+   "end": 58.44,
+   "text": "So I wanted to do a video to talk about what I'm doing now."
+  },
+  {
+   "start": 58.44,
+   "end": 69.44,
+   "text": "So last time I did the video I was trying to make sister little city states with them."
+  },
+  {
+   "start": 69.44,
+   "end": 73.44,
+   "text": "Latte, which is a kingdom of Rome."
+  },
+  {
+   "start": 73.44,
+   "end": 76.44,
+   "text": "And Boulder County and then the city side."
+  },
+  {
+   "start": 76.44,
+   "end": 78.44,
+   "text": "And so I did that."
+  },
+  {
+   "start": 78.44,
+   "end": 80.44,
+   "text": "I didn't do like match all of them."
+  },
+  {
+   "start": 80.44,
+   "end": 81.44,
+   "text": "Like look at one."
+  },
+  {
+   "start": 81.44,
+   "end": 82.44,
+   "text": "I'll look at the other."
+  },
+  {
+   "start": 82.44,
+   "end": 87.44,
+   "text": "Because I started, well, I then I started tracing some lines some more."
+  },
+  {
+   "start": 87.44,
+   "end": 90.44,
+   "text": "And then I noticed these were the bright reds."
+  },
+  {
+   "start": 90.44,
+   "end": 93.44,
+   "text": "And all of Boulder County."
+  },
+  {
+   "start": 93.44,
+   "end": 95.44,
+   "text": "But I did it wrong."
+  },
+  {
+   "start": 95.44,
+   "end": 99.44,
+   "text": "I did it with the line tool because I wanted to know the distance on."
+  },
+  {
+   "start": 99.44,
+   "end": 102.44,
+   "text": "And we were able to see them from far away that I didn't."
+  },
+  {
+   "start": 102.44,
+   "end": 105.44,
+   "text": "I wasn't thinking I didn't realize you can do that with the polygon."
+  },
+  {
+   "start": 105.44,
+   "end": 107.44,
+   "text": "You just activate lines."
+  },
+  {
+   "start": 107.44,
+   "end": 110.44,
+   "text": "And you know that distance ends."
+  },
+  {
+   "start": 110.44,
+   "end": 111.44,
+   "text": "You can see it."
+  },
+  {
+   "start": 111.44,
+   "end": 112.44,
+   "text": "So it's better."
+  },
+  {
+   "start": 112.44,
+   "end": 114.44,
+   "text": "So I have to convert."
+  },
+  {
+   "start": 114.44,
+   "end": 117.44,
+   "text": "The whole."
+  },
+  {
+   "start": 117.44,
+   "end": 120.44,
+   "text": "All the roads you can go and go to County."
+  },
+  {
+   "start": 120.44,
+   "end": 122.44,
+   "text": "Better in Denver at the ends."
+  },
+  {
+   "start": 122.44,
+   "end": 126.44,
+   "text": "And so I went to create a."
+  },
+  {
+   "start": 126.44,
+   "end": 131.44,
+   "text": "Cartoon world in Boulder County and in the kingdom of Rome."
+  },
+  {
+   "start": 131.44,
+   "end": 133.44,
+   "text": "And at the then expanded out actually."
+  },
+  {
+   "start": 133.44,
+   "end": 135.44,
+   "text": "I probably will want to."
+  },
+  {
+   "start": 135.44,
+   "end": 137.44,
+   "text": "I have a lot of there."
+  },
+  {
+   "start": 137.44,
+   "end": 140.44,
+   "text": "I think all of the cities actually already."
+  },
+  {
+   "start": 140.44,
+   "end": 144.44,
+   "text": "And I think that's a lot of the locations found."
+  },
+  {
+   "start": 144.44,
+   "end": 147.44,
+   "text": "For in Colorado to match all of Italy."
+  },
+  {
+   "start": 147.44,
+   "end": 150.44,
+   "text": "But."
+  },
+  {
+   "start": 150.44,
+   "end": 152.44,
+   "text": "Yeah, when I make."
+  },
+  {
+   "start": 152.44,
+   "end": 153.44,
+   "text": "The cartoon world."
+  },
+  {
+   "start": 153.44,
+   "end": 155.44,
+   "text": "I was just."
+  },
+  {
+   "start": 155.44,
+   "end": 158.44,
+   "text": "I was kind of yesterday deciding."
+  },
+  {
+   "start": 158.44,
+   "end": 161.44,
+   "text": "Which I wanted to do it with a."
+  },
+  {
+   "start": 161.44,
+   "end": 163.44,
+   "text": "I wanted to cover all of the."
+  },
+  {
+   "start": 164.44,
+   "end": 167.44,
+   "text": "I wanted to cover all of the Boulder Canyon."
+  },
+  {
+   "start": 167.44,
+   "end": 168.44,
+   "text": "I mean, county."
+  },
+  {
+   "start": 168.44,
+   "end": 171.44,
+   "text": "Because I don't want it to be a different world."
+  },
+  {
+   "start": 171.44,
+   "end": 173.44,
+   "text": "The only thing that I'm at the same is the."
+  },
+  {
+   "start": 173.44,
+   "end": 175.44,
+   "text": "Conduart."
+  },
+  {
+   "start": 175.44,
+   "end": 181.44,
+   "text": "So I went to block out all of the houses and the roads and only bring back the roads that matter."
+  },
+  {
+   "start": 181.44,
+   "end": 183.44,
+   "text": "If you're a biker."
+  },
+  {
+   "start": 183.44,
+   "end": 185.44,
+   "text": "The roads that are through roads."
+  },
+  {
+   "start": 185.44,
+   "end": 187.44,
+   "text": "That you can either run on or ride on."
+  },
+  {
+   "start": 187.44,
+   "end": 189.44,
+   "text": "You have different colors."
+  },
+  {
+   "start": 189.44,
+   "end": 192.44,
+   "text": "And then I think you have a road in dirt."
+  },
+  {
+   "start": 192.44,
+   "end": 193.44,
+   "text": "But."
+  },
+  {
+   "start": 193.44,
+   "end": 201.44,
+   "text": "It's just simplified the world to change it and it could a different world and they could say focus on me on that stuff."
+  },
+  {
+   "start": 201.44,
+   "end": 202.44,
+   "text": "But."
+  },
+  {
+   "start": 202.44,
+   "end": 203.44,
+   "text": "But."
+  },
+  {
+   "start": 203.44,
+   "end": 207.44,
+   "text": "So I was deciding whether to have it with a image background image."
+  },
+  {
+   "start": 207.44,
+   "end": 209.44,
+   "text": "Can this."
+  },
+  {
+   "start": 209.44,
+   "end": 212.44,
+   "text": "Cover or a."
+  },
+  {
+   "start": 212.44,
+   "end": 214.44,
+   "text": "Or a just a polygon layer."
+  },
+  {
+   "start": 214.44,
+   "end": 217.44,
+   "text": "And with an image."
+  },
+  {
+   "start": 217.44,
+   "end": 220.44,
+   "text": "I got a screen capture of grass."
+  },
+  {
+   "start": 220.44,
+   "end": 222.44,
+   "text": "And I put the image over and I looks good."
+  },
+  {
+   "start": 222.44,
+   "end": 224.44,
+   "text": "You can see the contours of the land."
+  },
+  {
+   "start": 224.44,
+   "end": 226.44,
+   "text": "But you can't put the roads over."
+  },
+  {
+   "start": 226.44,
+   "end": 229.44,
+   "text": "If you switch it from paying to earth to."
+  },
+  {
+   "start": 229.44,
+   "end": 231.44,
+   "text": "Well, it's a earth and don't put them."
+  },
+  {
+   "start": 231.44,
+   "end": 233.44,
+   "text": "You can see it, but it."
+  },
+  {
+   "start": 233.44,
+   "end": 237.44,
+   "text": "But lots of big chunks of it are missing in this jagged."
+  },
+  {
+   "start": 237.44,
+   "end": 239.44,
+   "text": "But chunks of the thing."
+  },
+  {
+   "start": 239.44,
+   "end": 243.44,
+   "text": "So with the regular layer."
+  },
+  {
+   "start": 244.44,
+   "end": 247.44,
+   "text": "You can the road is more on uniform."
+  },
+  {
+   "start": 247.44,
+   "end": 249.44,
+   "text": "But the problem is."
+  },
+  {
+   "start": 249.44,
+   "end": 251.44,
+   "text": "It's just a solid color."
+  },
+  {
+   "start": 251.44,
+   "end": 255.44,
+   "text": "So if you're looking at it, you can't see."
+  },
+  {
+   "start": 255.44,
+   "end": 257.44,
+   "text": "The contour."
+  },
+  {
+   "start": 257.44,
+   "end": 260.44,
+   "text": "They should try to fit that layer on you could the earth."
+  },
+  {
+   "start": 260.44,
+   "end": 261.44,
+   "text": "But."
+  },
+  {
+   "start": 261.44,
+   "end": 268.44,
+   "text": "But there's a way that I can, you know, remedy that as you just cover the entire."
+  },
+  {
+   "start": 268.44,
+   "end": 273.44,
+   "text": "Both are counting with stuff so that you so that it creates this web of."
+  },
+  {
+   "start": 273.44,
+   "end": 276.44,
+   "text": "Things that will show you the contour."
+  },
+  {
+   "start": 276.44,
+   "end": 279.44,
+   "text": "So and I do have enough things for that."
+  },
+  {
+   "start": 279.44,
+   "end": 282.44,
+   "text": "I'm not going to."
+  },
+  {
+   "start": 282.44,
+   "end": 284.44,
+   "text": "Should have the minds on there."
+  },
+  {
+   "start": 284.44,
+   "end": 289.44,
+   "text": "I've got bunch of minds, but yeah, like this between all the trails and the."
+  },
+  {
+   "start": 289.44,
+   "end": 291.44,
+   "text": "Houses."
+  },
+  {
+   "start": 291.44,
+   "end": 295.44,
+   "text": "And then I'll show the talks of mountains and stuff."
+  },
+  {
+   "start": 295.44,
+   "end": 298.44,
+   "text": "But yeah, so that's what I'm doing today."
+  },
+  {
+   "start": 298.44,
+   "end": 300.44,
+   "text": "I started late last night."
+  },
+  {
+   "start": 300.44,
+   "end": 302.44,
+   "text": "And then working today just."
+  },
+  {
+   "start": 302.44,
+   "end": 304.44,
+   "text": "Converting these lines."
+  },
+  {
+   "start": 304.44,
+   "end": 307.44,
+   "text": "I guess I've been deleting my issue probably saving another place in case I can."
+  },
+  {
+   "start": 307.44,
+   "end": 310.44,
+   "text": "I can see that for a line for something I can't probably on."
+  },
+  {
+   "start": 310.44,
+   "end": 311.44,
+   "text": "But."
+  },
+  {
+   "start": 311.44,
+   "end": 315.44,
+   "text": "But yeah, I have to convert the lines to all the all it owns for the road."
+  },
+  {
+   "start": 315.44,
+   "end": 316.44,
+   "text": "So full of."
+  },
+  {
+   "start": 316.44,
+   "end": 318.44,
+   "text": "And that'll take at least."
+  },
+  {
+   "start": 318.44,
+   "end": 321.44,
+   "text": "I think that's a lot."
+  },
+  {
+   "start": 321.44,
+   "end": 324.44,
+   "text": "But."
+  },
+  {
+   "start": 324.44,
+   "end": 328.44,
+   "text": "That's a big step towards building it because."
+  },
+  {
+   "start": 328.44,
+   "end": 331.44,
+   "text": "I already have, I think, the cities."
+  },
+  {
+   "start": 331.44,
+   "end": 334.44,
+   "text": "And I'm all out there's also a few resort."
+  },
+  {
+   "start": 334.44,
+   "end": 336.44,
+   "text": "There's this all door."
+  },
+  {
+   "start": 336.44,
+   "end": 339.44,
+   "text": "They're building an expansion on the bigger but."
+  },
+  {
+   "start": 339.44,
+   "end": 342.44,
+   "text": "Cardinal out of the ski resort and I have the."
+  },
+  {
+   "start": 342.44,
+   "end": 347.44,
+   "text": "And then."
+  },
+  {
+   "start": 347.44,
+   "end": 350.44,
+   "text": "And then."
+  },
+  {
+   "start": 350.44,
+   "end": 352.44,
+   "text": "Owens park and."
+  },
+  {
+   "start": 352.44,
+   "end": 354.44,
+   "text": "Well, it's outside of the."
+  },
+  {
+   "start": 354.44,
+   "end": 356.44,
+   "text": "And then she talk."
+  },
+  {
+   "start": 356.44,
+   "end": 358.44,
+   "text": "So it's for."
+  },
+  {
+   "start": 358.44,
+   "end": 360.44,
+   "text": "And."
+  },
+  {
+   "start": 360.44,
+   "end": 361.44,
+   "text": "And."
+  },
+  {
+   "start": 361.44,
+   "end": 363.44,
+   "text": "Yeah, so that's one of them to."
+  },
+  {
+   "start": 363.44,
+   "end": 368.44,
+   "text": "And then after that, I want to make do the same thing for latium."
+  },
+  {
+   "start": 368.44,
+   "end": 373.44,
+   "text": "Make sure that it's over the real roads first and then connect the make my own."
+  },
+  {
+   "start": 373.44,
+   "end": 376.44,
+   "text": "It's connecting all the different."
+  },
+  {
+   "start": 376.44,
+   "end": 379.44,
+   "text": "So."
+  },
+  {
+   "start": 379.44,
+   "end": 380.44,
+   "text": "It towns that they had."
+  },
+  {
+   "start": 380.44,
+   "end": 382.44,
+   "text": "Um."
+  },
+  {
+   "start": 382.44,
+   "end": 384.44,
+   "text": "Latim is a lot more boring than Rob water County."
+  },
+  {
+   "start": 384.44,
+   "end": 386.44,
+   "text": "Hold account is amazing."
+  },
+  {
+   "start": 386.44,
+   "end": 389.44,
+   "text": "All over the."
+  },
+  {
+   "start": 389.44,
+   "end": 390.44,
+   "text": "All of the."
+  },
+  {
+   "start": 390.44,
+   "end": 393.44,
+   "text": "Oh, for the mountains of Alice."
+  },
+  {
+   "start": 393.44,
+   "end": 395.44,
+   "text": "Can."
+  },
+  {
+   "start": 395.44,
+   "end": 396.44,
+   "text": "So."
+  },
+  {
+   "start": 396.44,
+   "end": 397.44,
+   "text": "Yeah, so that's a lot about to now."
+  },
+  {
+   "start": 397.44,
+   "end": 399.44,
+   "text": "Not really listening to me."
+  },
+  {
+   "start": 399.44,
+   "end": 400.44,
+   "text": "I'm super."
+  },
+  {
+   "start": 400.44,
+   "end": 402.44,
+   "text": "I should spacing out."
+  },
+  {
+   "start": 402.44,
+   "end": 403.44,
+   "text": "Um."
+  },
+  {
+   "start": 403.44,
+   "end": 405.44,
+   "text": "But."
+  },
+  {
+   "start": 405.44,
+   "end": 406.44,
+   "text": "Yeah."
+  },
+  {
+   "start": 406.44,
+   "end": 409.44,
+   "text": "I'm looking forward to."
+  },
+  {
+   "start": 409.44,
+   "end": 410.44,
+   "text": "Seeing."
+  },
+  {
+   "start": 410.44,
+   "end": 411.44,
+   "text": "I'm."
+  },
+  {
+   "start": 411.44,
+   "end": 412.44,
+   "text": "I'm."
+  },
+  {
+   "start": 412.44,
+   "end": 415.44,
+   "text": "I might be able to finish this."
+  },
+  {
+   "start": 415.44,
+   "end": 416.44,
+   "text": "And then."
+  },
+  {
+   "start": 416.44,
+   "end": 418.44,
+   "text": "And then I can compare the two."
+  },
+  {
+   "start": 418.44,
+   "end": 419.44,
+   "text": "Well, they're."
+  },
+  {
+   "start": 419.44,
+   "end": 420.44,
+   "text": "Rome and."
+  },
+  {
+   "start": 420.44,
+   "end": 424.44,
+   "text": "And then we get an idea for."
+  },
+  {
+   "start": 425.44,
+   "end": 427.44,
+   "text": "The big picture."
+  },
+  {
+   "start": 427.44,
+   "end": 428.44,
+   "text": "Okay."
+  },
+  {
+   "start": 428.44,
+   "end": 429.44,
+   "text": "And then talking."
+  }
+ ]
+}

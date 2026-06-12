@@ -1,0 +1,416 @@
+{
+ "youtube_id": "QTwbG-UaKwM",
+ "title": "Living in Boulder vlog 7 -  9 -  2018: Gunna attach images to my history book pages",
+ "url": "https://youtu.be/QTwbG-UaKwM",
+ "published_at": "2018-07-09",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle shares his plans while waiting for a new, faster computer to be delivered. He describes a project to add Google Earth screenshots and other images to his audio history book web pages, which are designed to be read aloud by Natural Reader software on mobile.",
+  "speaker": "kyle",
+  "topics": [
+   "new computer purchase",
+   "personal website",
+   "audio history book project",
+   "adding images to web pages",
+   "Natural Reader software",
+   "Google Earth screenshots",
+   "Flickr"
+  ],
+  "stances": [
+   {
+    "topic": "new computer",
+    "position": "excited about the 30% speed increase (2.8 to 3.9 GHz) which will help with his large web pages"
+   },
+   {
+    "topic": "his audio history book site",
+    "position": "believes it would be the best place on the internet to read/listen to history books once images are added"
+   },
+   {
+    "topic": "next project priority",
+    "position": "unsure whether to continue current history page organization work or immediately start adding images, leaning toward finishing current work first"
+   }
+  ],
+  "entities": [
+   "Amazon",
+   "Natural Reader",
+   "Google Earth",
+   "Flickr",
+   "Strava",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.21,
+   "end": 13.21,
+   "text": "Hello, living in the Boulder View, and it is for the day of July 9th Monday, 1 2 PM, 1 12 PM."
+  },
+  {
+   "start": 13.21,
+   "end": 15.21,
+   "text": "Today is the day of getting my new computer."
+  },
+  {
+   "start": 15.21,
+   "end": 17.21,
+   "text": "I just got a phone call from an 800 number."
+  },
+  {
+   "start": 17.21,
+   "end": 21.21,
+   "text": "I hope that wasn't Amazon telling me they were coming."
+  },
+  {
+   "start": 21.21,
+   "end": 23.21,
+   "text": "And now they're not."
+  },
+  {
+   "start": 23.21,
+   "end": 26.21,
+   "text": "I'm going to have to remember to, I don't have my phone with me."
+  },
+  {
+   "start": 27.21,
+   "end": 30.21,
+   "text": "I don't remember to answer the phone when it comes, so I can be here."
+  },
+  {
+   "start": 30.21,
+   "end": 32.21,
+   "text": "My computer comes."
+  },
+  {
+   "start": 32.21,
+   "end": 35.21,
+   "text": "I have like a 2 year old computer now."
+  },
+  {
+   "start": 35.21,
+   "end": 38.21,
+   "text": "About a 3 years ago that they replaced it 2 years ago."
+  },
+  {
+   "start": 38.21,
+   "end": 42.21,
+   "text": "And I think it was the best computer."
+  },
+  {
+   "start": 42.21,
+   "end": 46.21,
+   "text": "It was a little bit of a laptop that money can buy from,"
+  },
+  {
+   "start": 46.21,
+   "end": 50.21,
+   "text": "and then they replaced it 2 years ago, so it's 2 years old."
+  },
+  {
+   "start": 50.21,
+   "end": 53.21,
+   "text": "But it has 2.8 gigabytes or gigahertz,"
+  },
+  {
+   "start": 53.21,
+   "end": 61.21,
+   "text": "which from I guess has how much shows you how fast it can go."
+  },
+  {
+   "start": 61.21,
+   "end": 66.21,
+   "text": "And the new one goes up to it's 3.9, so 2.8 to 3.9."
+  },
+  {
+   "start": 66.21,
+   "end": 69.21,
+   "text": "That's like 30% increase or something like that."
+  },
+  {
+   "start": 69.21,
+   "end": 74.21,
+   "text": "So I'm really looking forward to seeing how quickly it can open up my pages."
+  },
+  {
+   "start": 74.21,
+   "end": 78.21,
+   "text": "I wanted to fix on this computer the other day just to see, to try it."
+  },
+  {
+   "start": 78.21,
+   "end": 81.21,
+   "text": "I wanted to try to fix the links on living."
+  },
+  {
+   "start": 81.21,
+   "end": 87.21,
+   "text": "I couldn't open up a living, so yeah, I definitely want to open up these big pages."
+  },
+  {
+   "start": 87.21,
+   "end": 90.21,
+   "text": "Finally computers are the same size."
+  },
+  {
+   "start": 90.21,
+   "end": 94.21,
+   "text": "I need them to be for the type of web pages I make."
+  },
+  {
+   "start": 94.21,
+   "end": 99.21,
+   "text": "I think all these years other people were making web pages to suit slow computers."
+  },
+  {
+   "start": 99.21,
+   "end": 105.21,
+   "text": "I was making one page to suit past computers, but it's not too much for a regular computer."
+  },
+  {
+   "start": 105.21,
+   "end": 110.21,
+   "text": "I could do it again. Also fast internet."
+  },
+  {
+   "start": 110.21,
+   "end": 115.21,
+   "text": "But yeah, so I'm doing this video."
+  },
+  {
+   "start": 115.21,
+   "end": 118.21,
+   "text": "It's been like 6 months, 6 week days since I did my last video."
+  },
+  {
+   "start": 118.21,
+   "end": 127.21,
+   "text": "And since I was working on my free audio history book pages on my website."
+  },
+  {
+   "start": 127.21,
+   "end": 132.21,
+   "text": "And organized in the files to make it mirror my computer to my website."
+  },
+  {
+   "start": 132.21,
+   "end": 137.21,
+   "text": "And I'm still working on that. I got stuck on Greece for a long time."
+  },
+  {
+   "start": 137.21,
+   "end": 143.21,
+   "text": "And yeah, so I'm kind of burned out on it."
+  },
+  {
+   "start": 143.21,
+   "end": 151.21,
+   "text": "And so anyways, I'm going to try to do it new project now."
+  },
+  {
+   "start": 151.21,
+   "end": 153.21,
+   "text": "So I'm doing the video."
+  },
+  {
+   "start": 153.21,
+   "end": 156.21,
+   "text": "It's the video to talk about my new project."
+  },
+  {
+   "start": 157.21,
+   "end": 162.21,
+   "text": "It's the project of basically completing the audio books on my web page."
+  },
+  {
+   "start": 162.21,
+   "end": 172.1,
+   "text": "Today I was listening to Strava and my cell phone on my website with natural reader."
+  },
+  {
+   "start": 172.1,
+   "end": 179.1,
+   "text": "And natural reader, like they have their own browser."
+  },
+  {
+   "start": 179.1,
+   "end": 182.1,
+   "text": "So you open up the natural reader, which is the program that reads to you."
+  },
+  {
+   "start": 182.1,
+   "end": 186.1,
+   "text": "And then you just surf a web and then you can just hit play and it'll read it."
+  },
+  {
+   "start": 186.1,
+   "end": 188.1,
+   "text": "So that's what it was doing with my website."
+  },
+  {
+   "start": 188.1,
+   "end": 191.1,
+   "text": "And my website is set up perfectly for natural reader."
+  },
+  {
+   "start": 191.1,
+   "end": 196.1,
+   "text": "Because it reads the big pages, but then there's another, there's two ways you can look at it."
+  },
+  {
+   "start": 196.1,
+   "end": 201.1,
+   "text": "And so when you look at it the normal way and the, like, how do you website looks?"
+  },
+  {
+   "start": 201.1,
+   "end": 206.1,
+   "text": "Who has highlighted them the chapter it's reading."
+  },
+  {
+   "start": 206.1,
+   "end": 211.1,
+   "text": "But it also shows on either side the place where I have reserved for the pictures."
+  },
+  {
+   "start": 211.1,
+   "end": 215.1,
+   "text": "And so I want to put the pictures of all of the books that I have."
+  },
+  {
+   "start": 215.1,
+   "end": 220.1,
+   "text": "Like Google Earth pictures of what they're talking about, where they're talking about, you know,"
+  },
+  {
+   "start": 220.1,
+   "end": 226.1,
+   "text": "And then of course along with pictures of the people, you know, the statues and stuff."
+  },
+  {
+   "start": 226.1,
+   "end": 230.1,
+   "text": "So because on the cell phone, how do I have myself on my thing?"
+  },
+  {
+   "start": 230.1,
+   "end": 236.1,
+   "text": "But you look at the cell phone and all you have to do is click double click the side and it brings it up to the entire screen of the cell phone."
+  },
+  {
+   "start": 236.1,
+   "end": 239.1,
+   "text": "So if I have photos there."
+  },
+  {
+   "start": 240.1,
+   "end": 246.1,
+   "text": "You could be listening to yourself on about some really long book, and then you get to an interesting part and you're like, wait, what?"
+  },
+  {
+   "start": 246.1,
+   "end": 251.1,
+   "text": "All you have to do is take out the phone, look, tap on the picture and boom, you're looking at the photo of what you're talking about."
+  },
+  {
+   "start": 251.1,
+   "end": 258.1,
+   "text": "And where it is. And then if you wanted to get into the photo album of that stuff, you know, you can go into flicker from that."
+  },
+  {
+   "start": 258.1,
+   "end": 263.1,
+   "text": "But, yeah, so I just want to line the whole thing with photos."
+  },
+  {
+   "start": 263.1,
+   "end": 268.1,
+   "text": "At least the ones that I have, because I already have a lot of photos on Google Earth."
+  },
+  {
+   "start": 268.1,
+   "end": 272.1,
+   "text": "And then I think I do. Maybe I don't."
+  },
+  {
+   "start": 272.1,
+   "end": 278.18,
+   "text": "Because I already have a month in the light, but I thought I had to do the screen captures."
+  },
+  {
+   "start": 278.18,
+   "end": 285.18,
+   "text": "I put them on flicker. But if I didn't, yeah, I have to do the screen captures of them that I find."
+  },
+  {
+   "start": 285.18,
+   "end": 292.18,
+   "text": "And then that could open up another project because then all of a sudden, I have to do a screen capture of every single thing that I have in Google Earth."
+  },
+  {
+   "start": 292.18,
+   "end": 298.18,
+   "text": "But yeah, if I do that, then I can retrieve it."
+  },
+  {
+   "start": 299.18,
+   "end": 303.18,
+   "text": "And flicker input it on, fill up my pages."
+  },
+  {
+   "start": 303.18,
+   "end": 307.18,
+   "text": "And then my page, my book's audio books will be perfect."
+  },
+  {
+   "start": 307.18,
+   "end": 312.18,
+   "text": "But we have the best books to read stuff on the internet."
+  },
+  {
+   "start": 312.18,
+   "end": 323.18,
+   "text": "For sure. So I think I might start that immediately or just work on my, what I'm doing now for get our history book pages for a little bit until I burn out and move on to that."
+  },
+  {
+   "start": 323.18,
+   "end": 332.18,
+   "text": "Just to put a couple weeks into it, just to see how far I get along with it to see how much more work I need to finish it."
+  },
+  {
+   "start": 332.18,
+   "end": 341.18,
+   "text": "But it doesn't seem like it's that time consuming if the computer can handle the page."
+  },
+  {
+   "start": 341.18,
+   "end": 349.18,
+   "text": "You know, because you have to flip back and forth between the code page, which is where you would paste the code for the pictures on flicker."
+  },
+  {
+   "start": 349.18,
+   "end": 359.18,
+   "text": "And then the wizard way, like the part where you see it, how it is, where you would then, you know, if you wanted to go to the other side, you know, back and forth."
+  },
+  {
+   "start": 359.18,
+   "end": 367.18,
+   "text": "The computer could take too long if it's too slow, but yeah, this is a picture computer might work."
+  },
+  {
+   "start": 367.18,
+   "end": 370.18,
+   "text": "So I'm looking forward to that."
+  },
+  {
+   "start": 370.18,
+   "end": 373.18,
+   "text": "Okay, I think that's enough talking for now."
+  },
+  {
+   "start": 373.18,
+   "end": 374.18,
+   "text": "Please now."
+  }
+ ]
+}

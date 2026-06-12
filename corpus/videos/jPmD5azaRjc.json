@@ -1,0 +1,233 @@
+{
+ "youtube_id": "jPmD5azaRjc",
+ "title": "Living in Boulder Vlog 2 - 26 - 2016",
+ "url": "https://youtu.be/jPmD5azaRjc",
+ "published_at": "2016-02-26",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs a lazy morning in Boulder in February 2016, showing art pieces he primed the day before and planning to finish them. He also riffs on watching Republican debate videos, growing a beard, and his prediction that traditional TV is dying as audiences migrate to the internet.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "art/painting",
+   "cannabis",
+   "beard",
+   "Republican debate",
+   "TV decline",
+   "media shift to internet"
+  ],
+  "stances": [
+   {
+    "topic": "traditional TV",
+    "position": "TV is dying — audiences and money will collapse as everyone moves to websites and internet channels"
+   },
+   {
+    "topic": "internet",
+    "position": "the internet has made people smarter and more educated"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Republican debate"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.66,
+   "end": 10.22,
+   "text": "Hey, how's it going? I'm living in Boulder P. Lock for the 26th of February, 2016."
+  },
+  {
+   "start": 11.66,
+   "end": 18.18,
+   "text": "I just smoked some weed that my roommate gave me. I can't remember what it's called, but it tastes pretty good."
+  },
+  {
+   "start": 19.24,
+   "end": 21.38,
+   "text": "I'm used to smoking wax and shatter."
+  },
+  {
+   "start": 22.96,
+   "end": 28.06,
+   "text": "So yesterday, let me show you what I did."
+  },
+  {
+   "start": 28.06,
+   "end": 31.48,
+   "text": "Do-do-do-do-do-do-do."
+  },
+  {
+   "start": 31.66,
+   "end": 34.24,
+   "text": "Okie dokie. So this is what I did yesterday."
+  },
+  {
+   "start": 35.24,
+   "end": 39.96,
+   "text": "As you recall, all this was empty, so I did all this. I prepped, primed these suckers."
+  },
+  {
+   "start": 41.24,
+   "end": 44.2,
+   "text": "So yeah, today I'm going to just power down on this."
+  },
+  {
+   "start": 44.26,
+   "end": 51.96,
+   "text": "Now as you see, it's 1124. I just had my, I just had a small breakfast salad, actually, that my roommate gave me."
+  },
+  {
+   "start": 52.92,
+   "end": 55.96,
+   "text": "But I kind of slept in this morning, and I'll talk about that later."
+  },
+  {
+   "start": 55.96,
+   "end": 60.38,
+   "text": "But yeah, this is what I did. Um, but I'll try to, I bet you I can complete all this today."
+  },
+  {
+   "start": 60.48,
+   "end": 62.74,
+   "text": "I have to get to sleep kind of early today, because I work tomorrow."
+  },
+  {
+   "start": 63.52,
+   "end": 67.14,
+   "text": "But you gotta do this today, and complete this part tomorrow."
+  },
+  {
+   "start": 71.52,
+   "end": 80.02,
+   "text": "So, that's what I did yesterday. Um, uh, yeah, I think I could finish that section today."
+  },
+  {
+   "start": 80.02,
+   "end": 83.02,
+   "text": "Um, and then, you know, put a dent in it."
+  },
+  {
+   "start": 83.64,
+   "end": 86.48,
+   "text": "And then that's a big chunk, and then I head down into the, uh, CU area."
+  },
+  {
+   "start": 86.86,
+   "end": 91.08,
+   "text": "So, yesterday I was listening to History of America by Beard."
+  },
+  {
+   "start": 92.14,
+   "end": 94.4,
+   "text": "Henry Austin Beard and Mary Ritter Beard."
+  },
+  {
+   "start": 94.54,
+   "end": 98.56,
+   "text": "But, uh, that was good. Um, you know, I was hanging out."
+  },
+  {
+   "start": 98.6,
+   "end": 100.48,
+   "text": "My roommate actually gave me two beers yesterday."
+  },
+  {
+   "start": 100.48,
+   "end": 108.08,
+   "text": "So, I had two beers and a fun night in for a little bit, but, um, I'm gonna do more of the History of America."
+  },
+  {
+   "start": 108.28,
+   "end": 116.8,
+   "text": "I was watching, uh, I saw the Young Turks videos on the, uh, about the, uh, Republican debate, and that's pretty funny."
+  },
+  {
+   "start": 116.84,
+   "end": 120.48,
+   "text": "Yeah, I think I'm just gonna complete, or, or include news."
+  },
+  {
+   "start": 120.48,
+   "end": 124.32,
+   "text": "News? Like, when I talk about news, just try to talk about it in my vlog, you know?"
+  },
+  {
+   "start": 125.16,
+   "end": 128.44,
+   "text": "I mean, just do that. Um, yeah, that's funny, man."
+  },
+  {
+   "start": 128.48,
+   "end": 133.94,
+   "text": "Those guys are just attacking each other and acting like, uh, children up there."
+  },
+  {
+   "start": 134.08,
+   "end": 137.62,
+   "text": "I think it's the end of the Republican Party. I don't think you get worse than this."
+  },
+  {
+   "start": 140.42,
+   "end": 143.68,
+   "text": "No more TV, you know? In four years, there's not gonna be any more TV."
+  },
+  {
+   "start": 143.94,
+   "end": 151.26,
+   "text": "And all the cables are gonna be, all the cable TV guys and channels are gonna be in there with the websites."
+  },
+  {
+   "start": 151.26,
+   "end": 155.82,
+   "text": "But nobody's gonna watch them. And it's just gonna prove it's gone, you know?"
+  },
+  {
+   "start": 155.82,
+   "end": 161.6,
+   "text": "All those people are gonna have to, they're gonna be, like, making a fraction of what they make, you know?"
+  },
+  {
+   "start": 161.72,
+   "end": 163.7,
+   "text": "Their money's about to fall off the cliff."
+  },
+  {
+   "start": 165.12,
+   "end": 167.06,
+   "text": "And then people get super smart, you know?"
+  },
+  {
+   "start": 167.16,
+   "end": 171.1,
+   "text": "That was the thing that was getting in the way of everybody becoming educated, so."
+  },
+  {
+   "start": 171.88,
+   "end": 174.78,
+   "text": "We're about to enter the dawning of the New Age!"
+  },
+  {
+   "start": 175.62,
+   "end": 177.9,
+   "text": "Ooh! Wee-ee-ee!"
+  },
+  {
+   "start": 177.9,
+   "end": 184.16,
+   "text": "So, um, yeah, that's about that."
+  },
+  {
+   "start": 185.1,
+   "end": 187.04,
+   "text": "Let's get going on some work today."
+  },
+  {
+   "start": 187.04,
+   "end": 187.34,
+   "text": "Ooh!"
+  }
+ ]
+}

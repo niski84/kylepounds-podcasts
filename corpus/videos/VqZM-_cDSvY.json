@@ -1,0 +1,159 @@
+{
+ "youtube_id": "VqZM-_cDSvY",
+ "title": "Living in Boulder Vlog 10 - 21 - 2016",
+ "url": "https://youtu.be/VqZM-_cDSvY",
+ "published_at": "2016-10-22",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a brief life update from Boulder on October 21, 2016, explaining he can't upload or comment on YouTube due to an internet outage. He mentions working that day and studying ski resorts, plans to do a weekly comment-response video, and shares a fact about Genghis Khan's father from an audiobook.",
+  "speaker": "kyle",
+  "topics": [
+   "internet outage",
+   "YouTube upload problems",
+   "daily routine",
+   "ski resort research",
+   "audiobook",
+   "Genghis Khan",
+   "Boulder life"
+  ],
+  "stances": [
+   {
+    "topic": "comment-response format",
+    "position": "Plans to do a weekly video responding to comments since he can't reply on YouTube directly"
+   }
+  ],
+  "entities": [
+   "Genghis Khan",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.75,
+   "end": 7.17,
+   "text": "Hello, living in Boulder V-LOG for the 21st of October, 2016."
+  },
+  {
+   "start": 8.31,
+   "end": 12.85,
+   "text": "Uh, I wanted to do a bunch of videos, but I can't upload."
+  },
+  {
+   "start": 14.07,
+   "end": 17.57,
+   "text": "Hmm, hmm, my internet sucks."
+  },
+  {
+   "start": 18.09,
+   "end": 22.29,
+   "text": "I called the tech support, and they're supposed to send a guy out tomorrow."
+  },
+  {
+   "start": 23.07,
+   "end": 25.39,
+   "text": "Hopefully they'll figure out what's going on."
+  },
+  {
+   "start": 25.95,
+   "end": 28.09,
+   "text": "Took like two days to upload that last video."
+  },
+  {
+   "start": 28.21,
+   "end": 29.89,
+   "text": "That's why my V-LOG ministry didn't give up."
+  },
+  {
+   "start": 32.26,
+   "end": 38.6,
+   "text": "Um, yeah, so, uh, yeah, well, I'll keep this short so I can upload."
+  },
+  {
+   "start": 38.94,
+   "end": 45.82,
+   "text": "Um, yeah, I just, I worked today, had a pretty big day, came home, worked on ski resorts."
+  },
+  {
+   "start": 47.04,
+   "end": 49.94,
+   "text": "Um, I'm on Birkenridge now."
+  },
+  {
+   "start": 50.72,
+   "end": 57.56,
+   "text": "It's Friday, so next Friday, I guess I'll, uh, maybe I'll be done."
+  },
+  {
+   "start": 57.56,
+   "end": 63.5,
+   "text": "Um, I can't comment on any of my videos either."
+  },
+  {
+   "start": 63.5,
+   "end": 65.5,
+   "text": "No comment."
+  },
+  {
+   "start": 65.62,
+   "end": 69.12,
+   "text": "It says either comment filled to post, or none of the comments load."
+  },
+  {
+   "start": 69.34,
+   "end": 73.04,
+   "text": "So, even when it looks like the video's completely loaded, I still can't comment on any of my videos."
+  },
+  {
+   "start": 73.16,
+   "end": 82.92,
+   "text": "So, I guess on Fridays, or Saturdays, or something, starting tomorrow, I'll do a video called responding to comments,"
+  },
+  {
+   "start": 82.92,
+   "end": 87.18,
+   "text": "Where I just read through the comments and I respond to them, because I can't respond to them on YouTube."
+  },
+  {
+   "start": 89.24,
+   "end": 91.38,
+   "text": "So, I think I'm, it's like 10, 14 now."
+  },
+  {
+   "start": 91.44,
+   "end": 92.0,
+   "text": "I have to work tomorrow."
+  },
+  {
+   "start": 92.08,
+   "end": 93.16,
+   "text": "I think I'm going to go to sleep."
+  },
+  {
+   "start": 93.16,
+   "end": 101.44,
+   "text": "Okay, uh, I was listening to different stuff on the audiobook today."
+  },
+  {
+   "start": 102.32,
+   "end": 115.14,
+   "text": "One interesting thing, I heard that, uh, Genghis Khan, his dad, was chief of, uh, 13 hordes in each horde, uh, 13 hordes of,"
+  },
+  {
+   "start": 115.24,
+   "end": 117.64,
+   "text": "And it was a total of about 30,000 to 40,000 families."
+  },
+  {
+   "start": 117.76,
+   "end": 118.24,
+   "text": "Well, there you go."
+  },
+  {
+   "start": 118.42,
+   "end": 119.26,
+   "text": "Okay, peace out."
+  }
+ ]
+}

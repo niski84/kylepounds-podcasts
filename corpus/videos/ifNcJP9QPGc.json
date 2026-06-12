@@ -1,0 +1,465 @@
+{
+ "youtube_id": "ifNcJP9QPGc",
+ "title": "Training with Kyle Vlog 5/8/19 Rest day from depression from car breaking down",
+ "url": "https://youtu.be/ifNcJP9QPGc",
+ "published_at": "2019-05-09",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about a rest day on May 8, 2019, where car trouble (breakdown at an emissions test) derailed his plans and sent him into a depressive slump. He explains why he skipped training, reflects on the mental side of athleticism, and outlines his plan to swim the next day.",
+  "speaker": "kyle",
+  "topics": [
+   "rest day",
+   "car trouble",
+   "depression/mental health",
+   "training strategy",
+   "sleep",
+   "diet/alcohol",
+   "website/timeline project"
+  ],
+  "stances": [
+   {
+    "topic": "athletic performance",
+    "position": "it's 100% mental — breaking down mentally kills the ability to train"
+   },
+   {
+    "topic": "running fitness",
+    "position": "currently too out of shape to run on flat ground; hill running is easier and preferable"
+   },
+   {
+    "topic": "overtraining vs undertraining",
+    "position": "both feel the same, so you might as well overdo it"
+   },
+   {
+    "topic": "endurance",
+    "position": "has natural endurance as long as he's mentally present and not distracted"
+   },
+   {
+    "topic": "car reliability",
+    "position": "car issues are a major mood and motivation killer; needs it working at least 50% of the time"
+   }
+  ],
+  "entities": [
+   "Taco Bell",
+   "Jägermeister"
+  ],
+  "date": "2019-05-08",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.66,
+   "end": 9.24,
+   "text": "So this video is training with Kyle V-Log, because now that's my priority."
+  },
+  {
+   "start": 9.96,
+   "end": 14.16,
+   "text": "And it's like 1240 in the morning on the 9th, so this one's going to be for the 8th."
+  },
+  {
+   "start": 15.36,
+   "end": 19.42,
+   "text": "Yeah, I didn't do shit yesterday, and I don't think I was going to anyway,"
+  },
+  {
+   "start": 20.16,
+   "end": 22.94,
+   "text": "Because I just wanted to kind of experiment."
+  },
+  {
+   "start": 22.94,
+   "end": 24.66,
+   "text": "I had too many sore muscles."
+  },
+  {
+   "start": 24.66,
+   "end": 32.7,
+   "text": "My hamstrings were sore, and then my shoulder here was sore, a little bit sore, but not that much sore."
+  },
+  {
+   "start": 33.38,
+   "end": 37.5,
+   "text": "But that was enough of a reason to not do anything, because it was raining,"
+  },
+  {
+   "start": 37.64,
+   "end": 42.34,
+   "text": "And it was like fucking sub-40 degrees outside, and I couldn't do anything anyway."
+  },
+  {
+   "start": 44.48,
+   "end": 50.24,
+   "text": "Yeah, I didn't want to swim, and I didn't want to, because I liked my shoulder, and then I couldn't run."
+  },
+  {
+   "start": 50.32,
+   "end": 53.3,
+   "text": "Like, I literally can't fucking run, and I wasn't going to ride the bike on there."
+  },
+  {
+   "start": 53.3,
+   "end": 58.24,
+   "text": "So I figured I'd do errands."
+  },
+  {
+   "start": 59.0,
+   "end": 60.12,
+   "text": "So I did some errands."
+  },
+  {
+   "start": 60.18,
+   "end": 63.08,
+   "text": "I rode my bike down to the thing to get the permission to drive the car,"
+  },
+  {
+   "start": 63.18,
+   "end": 69.38,
+   "text": "And then I drove the car to the emissions, but then the fucking thing broke down at emissions, man."
+  },
+  {
+   "start": 69.54,
+   "end": 75.5,
+   "text": "So I had to have it towed to the goddamn car mechanic, and that totally broke me."
+  },
+  {
+   "start": 75.6,
+   "end": 76.56,
+   "text": "That depressed me."
+  },
+  {
+   "start": 76.56,
+   "end": 86.56,
+   "text": "As far as training goes, you know, being an athlete, I mean, not like I've ever even tried to be an athlete before."
+  },
+  {
+   "start": 86.72,
+   "end": 91.56,
+   "text": "I wasn't ever allowed to, but in the time when I was motivated."
+  },
+  {
+   "start": 91.56,
+   "end": 96.16,
+   "text": "But you, it's all, it's 100% mental, you know."
+  },
+  {
+   "start": 96.86,
+   "end": 101.64,
+   "text": "And today I just cracked mentally, because whenever something happens to my car,"
+  },
+  {
+   "start": 101.76,
+   "end": 105.42,
+   "text": "Like one thing with my car where nobody can fix it, which is what's happening now,"
+  },
+  {
+   "start": 105.5,
+   "end": 109.2,
+   "text": "Sometimes it just doesn't turn over whenever it wants to, and nobody knows what's going on."
+  },
+  {
+   "start": 110.1,
+   "end": 111.0,
+   "text": "It just broke me."
+  },
+  {
+   "start": 111.0,
+   "end": 115.08,
+   "text": "So, yeah, but that's fine, because I just went and worked on my website,"
+  },
+  {
+   "start": 115.26,
+   "end": 118.8,
+   "text": "Stuff that I had working on, wanting to work on for years and years and years and years,"
+  },
+  {
+   "start": 118.88,
+   "end": 120.54,
+   "text": "My timeline with the castles."
+  },
+  {
+   "start": 121.78,
+   "end": 123.38,
+   "text": "So, yeah, that's all I did today."
+  },
+  {
+   "start": 123.72,
+   "end": 126.36,
+   "text": "But my strategy, it's going to fucking snow tomorrow."
+  },
+  {
+   "start": 126.48,
+   "end": 127.18,
+   "text": "It's snowing right now."
+  },
+  {
+   "start": 127.22,
+   "end": 128.2,
+   "text": "It's going to snow all day tomorrow."
+  },
+  {
+   "start": 128.82,
+   "end": 130.12,
+   "text": "So I think I'm just going to swim tomorrow."
+  },
+  {
+   "start": 131.2,
+   "end": 136.36,
+   "text": "I physically can't run, and I'm not so sure I want to ride, but maybe I will."
+  },
+  {
+   "start": 136.54,
+   "end": 138.78,
+   "text": "But, yeah, I'll definitely swim tomorrow, because I didn't do anything today."
+  },
+  {
+   "start": 138.78,
+   "end": 140.1,
+   "text": "Over the last two days, actually."
+  },
+  {
+   "start": 142.0,
+   "end": 150.2,
+   "text": "Yeah, but when I do run, the strategy of running, because I can't run on the flats,"
+  },
+  {
+   "start": 150.3,
+   "end": 151.84,
+   "text": "Like I literally can't run."
+  },
+  {
+   "start": 151.92,
+   "end": 154.4,
+   "text": "All I can do is trot, because I'm that out of shape."
+  },
+  {
+   "start": 157.5,
+   "end": 162.32,
+   "text": "Luckily for me, I have mountains, and running in the mountains is 100 million times easier"
+  },
+  {
+   "start": 162.32,
+   "end": 169.18,
+   "text": "Than running on the flats, because I can't run because I can't bound."
+  },
+  {
+   "start": 169.18,
+   "end": 172.04,
+   "text": "But you can't bound when you're going uphill."
+  },
+  {
+   "start": 172.26,
+   "end": 173.84,
+   "text": "I explained this in my vlog today."
+  },
+  {
+   "start": 174.94,
+   "end": 178.52,
+   "text": "So, you know, I might as well just kind of trot a little bit up the mountain,"
+  },
+  {
+   "start": 178.52,
+   "end": 180.28,
+   "text": "And then I can bounce down the mountain."
+  },
+  {
+   "start": 180.28,
+   "end": 185.58,
+   "text": "So I can feel like I'm actually in shape when I'm going up, down, up, down."
+  },
+  {
+   "start": 186.26,
+   "end": 190.64,
+   "text": "And endurance is one thing that I have, as long as I'm in it mentally."
+  },
+  {
+   "start": 191.82,
+   "end": 193.96,
+   "text": "You know, I'm not, like, distracted by something."
+  },
+  {
+   "start": 194.02,
+   "end": 197.1,
+   "text": "Like, my car not working, and nobody can figure out why it's not working."
+  },
+  {
+   "start": 197.1,
+   "end": 199.86,
+   "text": "Something that'll, like, give me the heebie-jeebies inside."
+  },
+  {
+   "start": 200.88,
+   "end": 205.94,
+   "text": "So, yeah, as long as I'm mentally there, I can go all day long."
+  },
+  {
+   "start": 206.02,
+   "end": 208.8,
+   "text": "So I'm going to try that as soon as the fucking snow stops."
+  },
+  {
+   "start": 209.34,
+   "end": 210.12,
+   "text": "It's ridiculous."
+  },
+  {
+   "start": 210.36,
+   "end": 211.86,
+   "text": "It's May, and it's fucking wintertime."
+  },
+  {
+   "start": 212.92,
+   "end": 215.48,
+   "text": "So, yeah, I'm going to do the swimming tomorrow."
+  },
+  {
+   "start": 216.6,
+   "end": 218.26,
+   "text": "And, yes, I bought Jägermeister."
+  },
+  {
+   "start": 218.38,
+   "end": 221.46,
+   "text": "I drank alcohol and pigged out on Taco Bell today."
+  },
+  {
+   "start": 221.46,
+   "end": 223.36,
+   "text": "But I worked on my timeline."
+  },
+  {
+   "start": 224.98,
+   "end": 227.66,
+   "text": "Yeah, it's kind of, like I said yesterday, it's kind of a,"
+  },
+  {
+   "start": 229.28,
+   "end": 234.5,
+   "text": "I'm in a weird situation that's unique in that I can't really tell the difference"
+  },
+  {
+   "start": 234.5,
+   "end": 238.92,
+   "text": "Between being overtrained and undertrained because it's the same exact feeling."
+  },
+  {
+   "start": 239.04,
+   "end": 240.2,
+   "text": "I feel like shit either way."
+  },
+  {
+   "start": 241.18,
+   "end": 246.08,
+   "text": "So you might as well just overdo it, overdo yourself."
+  },
+  {
+   "start": 246.08,
+   "end": 253.26,
+   "text": "So, yeah, but for some reason I didn't get around to trying to put"
+  },
+  {
+   "start": 253.26,
+   "end": 258.26,
+   "text": "Audiobook on my AP3 player that's for the underground, underwater."
+  },
+  {
+   "start": 259.02,
+   "end": 260.5,
+   "text": "So I think I'll just listen to music."
+  },
+  {
+   "start": 260.62,
+   "end": 261.92,
+   "text": "I kind of need the motivation anyway."
+  },
+  {
+   "start": 264.12,
+   "end": 267.82,
+   "text": "But, yeah, but I did manage to sleep yesterday."
+  },
+  {
+   "start": 268.06,
+   "end": 269.5,
+   "text": "I didn't sleep at all the night before."
+  },
+  {
+   "start": 269.68,
+   "end": 272.72,
+   "text": "And then, like, the night before last, it was only three hours of sleep a night."
+  },
+  {
+   "start": 272.72,
+   "end": 277.1,
+   "text": "And so, but I think I did sleep last night."
+  },
+  {
+   "start": 277.2,
+   "end": 279.5,
+   "text": "I don't, I don't, it wasn't that much, maybe four or five hours."
+  },
+  {
+   "start": 279.66,
+   "end": 284.62,
+   "text": "But so tonight I'm going to go to sleep and get up whenever I get up."
+  },
+  {
+   "start": 285.06,
+   "end": 287.76,
+   "text": "And, yeah, and then go swimming."
+  },
+  {
+   "start": 287.98,
+   "end": 293.78,
+   "text": "And I'll have this, I have my vision going for my, what I need to do for my timeline."
+  },
+  {
+   "start": 293.78,
+   "end": 294.56,
+   "text": "So I'll do that."
+  },
+  {
+   "start": 295.46,
+   "end": 296.62,
+   "text": "I don't think, I don't know."
+  },
+  {
+   "start": 296.7,
+   "end": 299.62,
+   "text": "I could do it on my bicycle, but I don't know if I will."
+  },
+  {
+   "start": 299.62,
+   "end": 303.82,
+   "text": "So, um, um, so anyways, that's the V-log for today."
+  },
+  {
+   "start": 303.94,
+   "end": 307.06,
+   "text": "Drain and didn't do shit, but, but I have a good excuse."
+  },
+  {
+   "start": 307.06,
+   "end": 309.8,
+   "text": "It's because of my car, fucking car, man."
+  },
+  {
+   "start": 310.46,
+   "end": 316.4,
+   "text": "I need to get my car to a point where it, where it works, um, at least 50% of the time."
+  },
+  {
+   "start": 316.4,
+   "end": 318.64,
+   "text": "And once that, my mood goes up really quickly."
+  },
+  {
+   "start": 318.92,
+   "end": 319.88,
+   "text": "All right, peace out."
+  },
+  {
+   "start": 319.96,
+   "end": 320.44,
+   "text": "Talk to you tomorrow."
+  }
+ ]
+}

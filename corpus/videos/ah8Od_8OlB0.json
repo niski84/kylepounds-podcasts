@@ -1,0 +1,464 @@
+{
+ "youtube_id": "ah8Od_8OlB0",
+ "title": "Living in Boulder Vlog 3 - 13 - 2017: 2.5 kilometer diameters in background",
+ "url": "https://youtu.be/ah8Od_8OlB0",
+ "published_at": "2017-03-14",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a late-night vlog (nearly 2am) about working on his website all day, including adding photos. He mentions a planned chore of photographing his van to sell it and making a video commercial for it, notes that five interested buyers lack recent photos, and describes a personal mental exercise he calls 'area circles imagination' where he incrementally expands a radius around himself each day (500m, 1000m, 2500m, etc.) as a spatial/imaginative practice he's been developing for his website.",
+  "speaker": "kyle",
+  "topics": [
+   "website work",
+   "van for sale",
+   "area circles imagination exercise",
+   "late night routine",
+   "Boulder vlog"
+  ],
+  "stances": [
+   {
+    "topic": "website progress",
+    "position": "excited about how fast it's coming together and finds it fun with his current computer"
+   },
+   {
+    "topic": "photographing the van tomorrow",
+    "position": "doesn't look forward to it but accepts it as a necessary chore"
+   },
+   {
+    "topic": "area circles imagination",
+    "position": "enthusiastic about the practice, incrementing the radius daily as a personal space/imagination exercise"
+   }
+  ],
+  "entities": [
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.17,
+   "end": 8.17,
+   "text": "Hello living in Boulder Viewlog from March 13, 2017."
+  },
+  {
+   "start": 8.17,
+   "end": 14.17,
+   "text": "Today I can't remember what time I got up."
+  },
+  {
+   "start": 14.17,
+   "end": 16.17,
+   "text": "It was like 10 or something."
+  },
+  {
+   "start": 16.17,
+   "end": 18.17,
+   "text": "Nine or something."
+  },
+  {
+   "start": 18.17,
+   "end": 22.17,
+   "text": "But I was working on my website all day long surface stuff."
+  },
+  {
+   "start": 22.17,
+   "end": 24.17,
+   "text": "But not just the writing."
+  },
+  {
+   "start": 24.17,
+   "end": 27.17,
+   "text": "A couple of days I was doing writing, but now I'm doing."
+  },
+  {
+   "start": 27.17,
+   "end": 30.17,
+   "text": "I was actually doing a website like I had pictures for some reason."
+  },
+  {
+   "start": 30.17,
+   "end": 32.17,
+   "text": "I never had a picture."
+  },
+  {
+   "start": 32.17,
+   "end": 35.17,
+   "text": "I think it's because I was working on my old computer."
+  },
+  {
+   "start": 35.17,
+   "end": 37.17,
+   "text": "I was just kicking the shit on my old computer."
+  },
+  {
+   "start": 37.17,
+   "end": 41.17,
+   "text": "It's my pages in a two big, but yeah, with this computer,"
+  },
+  {
+   "start": 41.17,
+   "end": 43.17,
+   "text": "the resume theory, it's really fun."
+  },
+  {
+   "start": 43.17,
+   "end": 44.17,
+   "text": "And photos."
+  },
+  {
+   "start": 44.17,
+   "end": 45.17,
+   "text": "I can't."
+  },
+  {
+   "start": 45.17,
+   "end": 46.17,
+   "text": "But tomorrow's chore."
+  },
+  {
+   "start": 46.17,
+   "end": 48.17,
+   "text": "I need you stuff to sell my car."
+  },
+  {
+   "start": 48.17,
+   "end": 51.17,
+   "text": "Tomorrow's chore is going to be."
+  },
+  {
+   "start": 51.17,
+   "end": 53.17,
+   "text": "I don't look forward to it."
+  },
+  {
+   "start": 53.17,
+   "end": 55.17,
+   "text": "Taking a bunch of photos on my band."
+  },
+  {
+   "start": 55.17,
+   "end": 56.17,
+   "text": "Hopefully it's something that's something to do."
+  },
+  {
+   "start": 56.17,
+   "end": 58.17,
+   "text": "And then video."
+  },
+  {
+   "start": 58.17,
+   "end": 59.17,
+   "text": "Then video."
+  },
+  {
+   "start": 59.17,
+   "end": 60.17,
+   "text": "Then video."
+  },
+  {
+   "start": 60.17,
+   "end": 61.17,
+   "text": "Then video."
+  },
+  {
+   "start": 61.17,
+   "end": 62.17,
+   "text": "Then video."
+  },
+  {
+   "start": 62.17,
+   "end": 64.17,
+   "text": "Then video."
+  },
+  {
+   "start": 64.17,
+   "end": 65.17,
+   "text": "Then video."
+  },
+  {
+   "start": 65.17,
+   "end": 66.17,
+   "text": "Then video."
+  },
+  {
+   "start": 66.17,
+   "end": 67.17,
+   "text": "Then video."
+  },
+  {
+   "start": 67.17,
+   "end": 68.17,
+   "text": "Then video."
+  },
+  {
+   "start": 68.17,
+   "end": 69.17,
+   "text": "Then video."
+  },
+  {
+   "start": 69.17,
+   "end": 70.17,
+   "text": "Then video."
+  },
+  {
+   "start": 70.17,
+   "end": 71.17,
+   "text": "Do like a commercial for my band."
+  },
+  {
+   "start": 71.17,
+   "end": 72.17,
+   "text": "I'll be fine."
+  },
+  {
+   "start": 72.17,
+   "end": 74.17,
+   "text": "And."
+  },
+  {
+   "start": 74.17,
+   "end": 77.17,
+   "text": "Yeah, that'll be my thing for some of the band."
+  },
+  {
+   "start": 77.17,
+   "end": 79.17,
+   "text": "Oh yeah, you mail back to people who are interested."
+  },
+  {
+   "start": 79.17,
+   "end": 83.86,
+   "text": "Like five people interested that didn't have modern photos."
+  },
+  {
+   "start": 86.27,
+   "end": 87.27,
+   "text": "Tomorrow."
+  },
+  {
+   "start": 87.27,
+   "end": 89.27,
+   "text": "And then also work on the website."
+  },
+  {
+   "start": 89.27,
+   "end": 91.27,
+   "text": "It's because it's coming so fast."
+  },
+  {
+   "start": 91.27,
+   "end": 92.27,
+   "text": "It's cool."
+  },
+  {
+   "start": 92.27,
+   "end": 94.27,
+   "text": "You should check it out."
+  },
+  {
+   "start": 94.27,
+   "end": 96.27,
+   "text": "So."
+  },
+  {
+   "start": 96.27,
+   "end": 98.27,
+   "text": "Oh, background."
+  },
+  {
+   "start": 98.27,
+   "end": 101.27,
+   "text": "background is."
+  },
+  {
+   "start": 101.27,
+   "end": 103.27,
+   "text": "2.5k."
+  },
+  {
+   "start": 103.27,
+   "end": 106.27,
+   "text": "Oh, and right now it's 2 o'clock in the morning."
+  },
+  {
+   "start": 106.27,
+   "end": 107.27,
+   "text": "1.57."
+  },
+  {
+   "start": 107.27,
+   "end": 109.27,
+   "text": "So yeah, I'm going."
+  },
+  {
+   "start": 109.27,
+   "end": 112.27,
+   "text": "I'm doing my area circles imagination."
+  },
+  {
+   "start": 112.27,
+   "end": 115.27,
+   "text": "I haven't even talked about that from my website."
+  },
+  {
+   "start": 115.27,
+   "end": 120.27,
+   "text": "I'm space imagination space."
+  },
+  {
+   "start": 120.27,
+   "end": 122.27,
+   "text": "I'll land here."
+  },
+  {
+   "start": 122.27,
+   "end": 124.27,
+   "text": "I'm in."
+  },
+  {
+   "start": 124.27,
+   "end": 127.27,
+   "text": "And so I'm incrementing up two times each day."
+  },
+  {
+   "start": 127.27,
+   "end": 128.27,
+   "text": "So I did 500."
+  },
+  {
+   "start": 128.27,
+   "end": 130.27,
+   "text": "Then it might house and then a thousand days."
+  },
+  {
+   "start": 130.27,
+   "end": 131.27,
+   "text": "2500 meters."
+  },
+  {
+   "start": 131.27,
+   "end": 132.27,
+   "text": "2,500."
+  },
+  {
+   "start": 132.27,
+   "end": 133.27,
+   "text": "Two and a half corners."
+  },
+  {
+   "start": 133.27,
+   "end": 136.27,
+   "text": "And then it's going to go up to five corners."
+  },
+  {
+   "start": 136.27,
+   "end": 137.27,
+   "text": "So."
+  },
+  {
+   "start": 137.27,
+   "end": 139.68,
+   "text": "Two."
+  },
+  {
+   "start": 139.68,
+   "end": 142.68,
+   "text": "Two and a half corners across is like."
+  },
+  {
+   "start": 142.68,
+   "end": 143.68,
+   "text": "I can't remember."
+  },
+  {
+   "start": 143.68,
+   "end": 145.68,
+   "text": "I have my what's on my website."
+  },
+  {
+   "start": 145.68,
+   "end": 147.68,
+   "text": "It's like a town or something."
+  },
+  {
+   "start": 147.68,
+   "end": 150.68,
+   "text": "You'll see."
+  },
+  {
+   "start": 150.68,
+   "end": 152.68,
+   "text": "So."
+  },
+  {
+   "start": 152.68,
+   "end": 154.68,
+   "text": "Yeah."
+  },
+  {
+   "start": 154.68,
+   "end": 157.68,
+   "text": "I've been like listening to anything."
+  },
+  {
+   "start": 157.68,
+   "end": 158.68,
+   "text": "And."
+  },
+  {
+   "start": 158.68,
+   "end": 159.68,
+   "text": "And."
+  },
+  {
+   "start": 159.68,
+   "end": 160.68,
+   "text": "And."
+  },
+  {
+   "start": 160.68,
+   "end": 161.68,
+   "text": "And."
+  },
+  {
+   "start": 161.68,
+   "end": 163.68,
+   "text": "And not anything else going on."
+  },
+  {
+   "start": 163.68,
+   "end": 169.76,
+   "text": "Don't have anything else to say."
+  },
+  {
+   "start": 169.76,
+   "end": 170.76,
+   "text": "Hmm."
+  },
+  {
+   "start": 170.76,
+   "end": 171.76,
+   "text": "Sting visits."
+  },
+  {
+   "start": 171.76,
+   "end": 172.76,
+   "text": "Funny."
+  },
+  {
+   "start": 172.76,
+   "end": 173.76,
+   "text": "Okay."
+  },
+  {
+   "start": 173.76,
+   "end": 175.76,
+   "text": "So that's what that's long enough."
+  },
+  {
+   "start": 175.76,
+   "end": 176.76,
+   "text": "Peace out."
+  }
+ ]
+}

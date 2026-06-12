@@ -1,0 +1,940 @@
+{
+ "youtube_id": "I2JCsR2bZ50",
+ "title": "Websites need to be designed for speed readers Amazon & Netflix U DUMBFUCKS!",
+ "url": "https://youtu.be/I2JCsR2bZ50",
+ "published_at": "2020-04-17",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle argues that major websites like Netflix, Amazon Video, and Flickr are designed with oversized fonts and large images that waste space and frustrate speed readers. He contends that his own website (kylepounds.com) is the only site properly designed for speed readers, using a dense grid layout with small text, and predicts websites will eventually adopt this approach.",
+  "speaker": "kyle",
+  "topics": [
+   "web design",
+   "speed reading",
+   "Netflix",
+   "Amazon Video",
+   "Flickr",
+   "UI/UX criticism",
+   "kylepounds.com"
+  ],
+  "stances": [
+   {
+    "topic": "website design",
+    "position": "Websites use oversized fonts and images to obscure small content libraries, which frustrates speed readers"
+   },
+   {
+    "topic": "Netflix/Amazon UI",
+    "position": "Their large-font grid layouts are a smoke screen to make small catalogs seem larger"
+   },
+   {
+    "topic": "speed reader infrastructure",
+    "position": "No mainstream website is built for speed readers; his own site is the only proper example"
+   },
+   {
+    "topic": "content density",
+    "position": "A grid of 100 small-text titles per screen is superior to scrolling through large thumbnails"
+   },
+   {
+    "topic": "women in design",
+    "position": "The childish design choices are made by women, whom he characterizes as overgrown children"
+   },
+   {
+    "topic": "future of web design",
+    "position": "Speed-reader-friendly layouts will eventually win out as the correct approach"
+   },
+   {
+    "topic": "color-coded text",
+    "position": "Books and websites should color-code sentence types (intro, topic sentences) to facilitate speed reading"
+   }
+  ],
+  "entities": [
+   "Netflix",
+   "Amazon Video",
+   "Flickr",
+   "Wikipedia",
+   "YouTube",
+   "Kyle Pounds Vlogs",
+   "kylepounds.com",
+   "Nancy Grace",
+   "Silicon Valley"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.82,
+   "end": 7.44,
+   "text": "Yes, I want to do a really important video that's important to me, and I think I should call society out on this."
+  },
+  {
+   "start": 8.2,
+   "end": 11.72,
+   "text": "It's that websites need to be designed for speed readers."
+  },
+  {
+   "start": 12.08,
+   "end": 19.92,
+   "text": "Websites are designed for children, you know, and we shouldn't be, but I mean like idiot children, not smart children."
+  },
+  {
+   "start": 20.64,
+   "end": 24.64,
+   "text": "What we need to do is design websites for the smart kids and not the idiot kids."
+  },
+  {
+   "start": 24.64,
+   "end": 39.14,
+   "text": "I've got a, I've got a, um, um, vlog channel called Kyle Pounds Vlogs and it's designed specifically for the children, the little itty bitties, under twelves, specifically dedicated to the sixties."
+  },
+  {
+   "start": 40.46,
+   "end": 44.48,
+   "text": "Um, and, uh, that's why I, you know, I, you can't comment on them."
+  },
+  {
+   "start": 44.78,
+   "end": 48.52,
+   "text": "I don't, I'll have to do some research and find out if anybody has a reason for that."
+  },
+  {
+   "start": 48.52,
+   "end": 55.74,
+   "text": "Uh, they should have done a video explaining the reasons YouTube, like these are the reasons why the little kitty channels don't get to comment."
+  },
+  {
+   "start": 56.08,
+   "end": 60.4,
+   "text": "Number one, people should be able to be allowed to police their own children."
+  },
+  {
+   "start": 60.4,
+   "end": 60.76,
+   "text": "Okay."
+  },
+  {
+   "start": 60.82,
+   "end": 67.08,
+   "text": "And not have the government, not have trust for people in policing their own children and then disable comments, man."
+  },
+  {
+   "start": 67.18,
+   "end": 70.06,
+   "text": "Kids, kids can communicate with each other's videos too."
+  },
+  {
+   "start": 70.8,
+   "end": 73.54,
+   "text": "I mean, don't you see the little kitties talking to each other?"
+  },
+  {
+   "start": 73.54,
+   "end": 85.98,
+   "text": "Anyway, um, look, children, children's books and children's big font and giant pictures is all right and stuff, but we need to have the speed reader alternative as well."
+  },
+  {
+   "start": 86.24,
+   "end": 87.92,
+   "text": "People talk about speed reading."
+  },
+  {
+   "start": 88.52,
+   "end": 95.42,
+   "text": "Well, if you're going to do speed reading and we're going to try to get speed reading going, then we need to assist, set up a system where people are allowed to speed reading."
+  },
+  {
+   "start": 95.66,
+   "end": 100.04,
+   "text": "You have to set up the infrastructure that's there for people and it's not even there."
+  },
+  {
+   "start": 100.46,
+   "end": 101.04,
+   "text": "It's ridiculous."
+  },
+  {
+   "start": 101.04,
+   "end": 105.3,
+   "text": "For example, and no website is set up for speed reader."
+  },
+  {
+   "start": 105.44,
+   "end": 108.18,
+   "text": "The only website set up for speed reading is my website."
+  },
+  {
+   "start": 108.32,
+   "end": 112.28,
+   "text": "If you want to know what a speed reader website is, go to my website, kylepounds.com."
+  },
+  {
+   "start": 112.46,
+   "end": 113.44,
+   "text": "It's the only website."
+  },
+  {
+   "start": 114.38,
+   "end": 120.16,
+   "text": "So let me give, let me, I want to, I want to, uh, I'm going to, um, call out some websites."
+  },
+  {
+   "start": 120.16,
+   "end": 120.54,
+   "text": "Okay."
+  },
+  {
+   "start": 120.92,
+   "end": 124.1,
+   "text": "So how about Netflix and Amazon video?"
+  },
+  {
+   "start": 124.1,
+   "end": 126.46,
+   "text": "They're both have their thing set up as the same way."
+  },
+  {
+   "start": 126.46,
+   "end": 130.56,
+   "text": "They're either designed by women or children."
+  },
+  {
+   "start": 131.26,
+   "end": 133.36,
+   "text": "Women are basically overgrown children."
+  },
+  {
+   "start": 133.5,
+   "end": 134.6,
+   "text": "That's the way I look at it."
+  },
+  {
+   "start": 135.5,
+   "end": 140.54,
+   "text": "Um, because you know that children aren't designing the websites because children are off at school."
+  },
+  {
+   "start": 140.54,
+   "end": 145.2,
+   "text": "So it has to be an adult who's doing it, but it's an adult who never fucking grew up."
+  },
+  {
+   "start": 145.2,
+   "end": 150.22,
+   "text": "Um, cause you're looking at these, uh, Netflix and these, uh, Amazon, right?"
+  },
+  {
+   "start": 150.22,
+   "end": 155.36,
+   "text": "And you've got these giant font, man, with the picture of the, of the movie, right?"
+  },
+  {
+   "start": 155.36,
+   "end": 159.34,
+   "text": "And then if you want to see any more movies, you have to click the arrow, the arrow off"
+  },
+  {
+   "start": 159.34,
+   "end": 159.9,
+   "text": "To the right."
+  },
+  {
+   "start": 160.0,
+   "end": 162.26,
+   "text": "And it's like a big font, big font."
+  },
+  {
+   "start": 162.32,
+   "end": 165.8,
+   "text": "And it's like, dude, I just want to know what fricking movies you have."
+  },
+  {
+   "start": 165.86,
+   "end": 166.54,
+   "text": "You idiots."
+  },
+  {
+   "start": 166.92,
+   "end": 170.44,
+   "text": "I don't want to have to go clickety click, click, click, click, click, click, click, click,"
+  },
+  {
+   "start": 170.44,
+   "end": 173.62,
+   "text": "Click, click, click, click, click over these giant pictures."
+  },
+  {
+   "start": 174.36,
+   "end": 177.44,
+   "text": "What I want to do is when I want to look at it as a website that's similar to mine, where"
+  },
+  {
+   "start": 177.44,
+   "end": 180.66,
+   "text": "You go click and you can see this list of all the movies."
+  },
+  {
+   "start": 181.14,
+   "end": 184.66,
+   "text": "Like, um, I don't know how many you can get packed actually into mine."
+  },
+  {
+   "start": 184.66,
+   "end": 188.52,
+   "text": "And I would say 20 times five, a hundred, you could get a hunt."
+  },
+  {
+   "start": 188.58,
+   "end": 191.62,
+   "text": "Cause I, I usually, my rule of thumb is 20 down and then five columns."
+  },
+  {
+   "start": 191.86,
+   "end": 197.24,
+   "text": "You could get a hundred videos in one showing on the, on the screen."
+  },
+  {
+   "start": 197.24,
+   "end": 201.48,
+   "text": "And if you have a speed reader brain, which I do, and which most people do, you could just"
+  },
+  {
+   "start": 201.48,
+   "end": 205.58,
+   "text": "Look at it, take one glance at it, no clickety click, click, click, and scrolly scroll, scroll,"
+  },
+  {
+   "start": 205.7,
+   "end": 205.98,
+   "text": "Scroll."
+  },
+  {
+   "start": 206.26,
+   "end": 208.04,
+   "text": "You just look and go, okay, those are the movies."
+  },
+  {
+   "start": 208.2,
+   "end": 209.22,
+   "text": "That's what the movies you have."
+  },
+  {
+   "start": 209.28,
+   "end": 209.42,
+   "text": "Good."
+  },
+  {
+   "start": 209.46,
+   "end": 210.14,
+   "text": "I want that movie."
+  },
+  {
+   "start": 210.8,
+   "end": 212.76,
+   "text": "You don't have to have the big ass picture next to it."
+  },
+  {
+   "start": 212.76,
+   "end": 215.48,
+   "text": "You just have the, the genre and they have the name of the movie."
+  },
+  {
+   "start": 215.48,
+   "end": 218.62,
+   "text": "And if the name of the movie strikes a bell or you mouse over and then the big picture"
+  },
+  {
+   "start": 218.62,
+   "end": 224.46,
+   "text": "Comes up, you idiots ever been to, uh, Wikipedia, you go to Wikipedia and there's a person and"
+  },
+  {
+   "start": 224.46,
+   "end": 227.06,
+   "text": "Then you mouse over the link and boom, the big old picture comes up."
+  },
+  {
+   "start": 227.1,
+   "end": 228.2,
+   "text": "Why don't you do it like that?"
+  },
+  {
+   "start": 229.38,
+   "end": 233.54,
+   "text": "But instead, I don't even know what the hell you guys have, have, uh, available."
+  },
+  {
+   "start": 233.54,
+   "end": 239.86,
+   "text": "It takes me like five minutes to find out, to, to, to find your, your entire collection"
+  },
+  {
+   "start": 239.86,
+   "end": 242.76,
+   "text": "Of movies because you have the font too goddamn big."
+  },
+  {
+   "start": 243.92,
+   "end": 246.28,
+   "text": "It's like, what the fuck you trying to do?"
+  },
+  {
+   "start": 246.34,
+   "end": 248.2,
+   "text": "And I know, I know female mentality."
+  },
+  {
+   "start": 248.2,
+   "end": 249.5,
+   "text": "Cause I've hung out with enough women."
+  },
+  {
+   "start": 249.8,
+   "end": 250.94,
+   "text": "Women like to fake."
+  },
+  {
+   "start": 251.26,
+   "end": 253.92,
+   "text": "They like to like smoke screen."
+  },
+  {
+   "start": 253.92,
+   "end": 258.6,
+   "text": "And so are you doing some fucking bitch ass smoke screen thing where you're like trying"
+  },
+  {
+   "start": 258.6,
+   "end": 264.04,
+   "text": "Where like Amazon and Flickr are trying to make it seem like you have more movies than"
+  },
+  {
+   "start": 264.04,
+   "end": 264.9,
+   "text": "You actually do."
+  },
+  {
+   "start": 265.1,
+   "end": 268.48,
+   "text": "And so you can do some kind of Jedi mind trick and make people think you have more movies."
+  },
+  {
+   "start": 268.48,
+   "end": 272.62,
+   "text": "If you make the font extra big, it's like, if you don't have more movies than just admit"
+  },
+  {
+   "start": 272.62,
+   "end": 273.54,
+   "text": "It, be true."
+  },
+  {
+   "start": 273.8,
+   "end": 277.78,
+   "text": "You don't have enough movies, whatever you want more movies and give people a better deal."
+  },
+  {
+   "start": 277.78,
+   "end": 284.12,
+   "text": "Pay them or, or, or, or look or allow more people into the Amazon family and the Netflix"
+  },
+  {
+   "start": 284.12,
+   "end": 288.18,
+   "text": "Family and then you can have more movies, but you don't got to make it seem like you"
+  },
+  {
+   "start": 288.18,
+   "end": 292.24,
+   "text": "Got more movies than you do because the big ass fonts, so annoying."
+  },
+  {
+   "start": 292.66,
+   "end": 296.84,
+   "text": "And the other thing, uh, you know, and it's like, well, if you want to do it little kitty"
+  },
+  {
+   "start": 296.84,
+   "end": 299.74,
+   "text": "Style, then at least have it, have it both ways."
+  },
+  {
+   "start": 299.74,
+   "end": 303.4,
+   "text": "Like, don't you guys have the money to at least set up the both ways."
+  },
+  {
+   "start": 303.4,
+   "end": 306.22,
+   "text": "I'm, I'm, I work by myself and I can set this stuff up like that."
+  },
+  {
+   "start": 306.22,
+   "end": 308.46,
+   "text": "Just have it, Hey, for speed readers, click here, boom."
+  },
+  {
+   "start": 308.5,
+   "end": 311.86,
+   "text": "And then you can have the whole grid system set up and I'm making a prediction here."
+  },
+  {
+   "start": 312.5,
+   "end": 318.16,
+   "text": "It's going to be like that in the future because people always in the end, um, go to the right"
+  },
+  {
+   "start": 318.16,
+   "end": 319.36,
+   "text": "Way that it's to be done."
+  },
+  {
+   "start": 319.42,
+   "end": 322.34,
+   "text": "I'm so I'm just telling you how it's going to be, whether you like it or not."
+  },
+  {
+   "start": 322.34,
+   "end": 325.54,
+   "text": "Like, you know, you can get old and then retire."
+  },
+  {
+   "start": 325.86,
+   "end": 329.22,
+   "text": "And then the next people who take your job from you, they're going to do it like the way"
+  },
+  {
+   "start": 329.22,
+   "end": 334.24,
+   "text": "I'm saying, because people like to speed read the mind can scan and look at stuff real"
+  },
+  {
+   "start": 334.24,
+   "end": 334.48,
+   "text": "Quick."
+  },
+  {
+   "start": 334.48,
+   "end": 336.16,
+   "text": "Like an Eagle, you know, the Eagle flying."
+  },
+  {
+   "start": 336.22,
+   "end": 340.7,
+   "text": "Flying like 5,000 feet up scan the scan for rodents."
+  },
+  {
+   "start": 340.7,
+   "end": 341.76,
+   "text": "It's like that."
+  },
+  {
+   "start": 341.76,
+   "end": 343.72,
+   "text": "You have to go 30,000 feet up and scan."
+  },
+  {
+   "start": 343.72,
+   "end": 346.86,
+   "text": "And now the other thing that was annoying the hell out of me is flicker."
+  },
+  {
+   "start": 346.86,
+   "end": 350.5,
+   "text": "I had flicker for a long time and then I go into flicker cause I haven't been a flicker"
+  },
+  {
+   "start": 350.5,
+   "end": 353.46,
+   "text": "For awhile and I go in and boom, all of a sudden it's gigantic font."
+  },
+  {
+   "start": 353.46,
+   "end": 358.84,
+   "text": "And if I want to go and look at find a, find a scroll down and find a video, I have to scroll"
+  },
+  {
+   "start": 358.84,
+   "end": 360.52,
+   "text": "Down on these big ass videos that are huge."
+  },
+  {
+   "start": 360.52,
+   "end": 364.1,
+   "text": "Why don't you have the little, the little grid system across and you click on it and it makes"
+  },
+  {
+   "start": 364.1,
+   "end": 370.34,
+   "text": "It big people, um, people are trying to train each other to, to, to speed read."
+  },
+  {
+   "start": 371.54,
+   "end": 377.24,
+   "text": "Um, you know, that you, where you can have all the, uh, all the, um, you know, where you"
+  },
+  {
+   "start": 377.24,
+   "end": 380.28,
+   "text": "Scan and then you can pick out, pick out the sections."
+  },
+  {
+   "start": 380.28,
+   "end": 384.66,
+   "text": "People need to design websites and, and write books that are designed for speed readers."
+  },
+  {
+   "start": 384.66,
+   "end": 387.34,
+   "text": "So instead of having to pick out the sections, you actually color code."
+  },
+  {
+   "start": 387.52,
+   "end": 393.2,
+   "text": "So you would color code the first introduction sentence as introduction color, say red, and"
+  },
+  {
+   "start": 393.2,
+   "end": 396.96,
+   "text": "Then you would have subject sentence purple and then have it all different font."
+  },
+  {
+   "start": 396.96,
+   "end": 398.9,
+   "text": "I have my website color coded and font coded."
+  },
+  {
+   "start": 398.9,
+   "end": 405.32,
+   "text": "And, um, you know, you have to facilitate the speed readers because the way that it is"
+  },
+  {
+   "start": 405.32,
+   "end": 409.62,
+   "text": "Now, it's like you have the speed readers who are trying to speed read, but then they"
+  },
+  {
+   "start": 409.62,
+   "end": 413.14,
+   "text": "Don't have a, uh, they don't have an infrastructure to speed read on."
+  },
+  {
+   "start": 413.32,
+   "end": 414.32,
+   "text": "So what does that mean?"
+  },
+  {
+   "start": 414.36,
+   "end": 417.84,
+   "text": "Does that mean that the people who control everything that these executives who get too"
+  },
+  {
+   "start": 417.84,
+   "end": 421.24,
+   "text": "Much money or whatever in Silicon Valley don't speed read?"
+  },
+  {
+   "start": 421.72,
+   "end": 424.38,
+   "text": "Cause you can't, you can't claim to be a speed reader, Mr. Executive."
+  },
+  {
+   "start": 424.38,
+   "end": 429.54,
+   "text": "If you don't set up a website that's designed for speed readers, that's like being like,"
+  },
+  {
+   "start": 429.54,
+   "end": 431.58,
+   "text": "Hey, I'm a triathlete man."
+  },
+  {
+   "start": 431.7,
+   "end": 436.7,
+   "text": "And I own like specialized bicycles and I've got these awesome triathlon bikes."
+  },
+  {
+   "start": 436.8,
+   "end": 437.82,
+   "text": "Look at my triathlon bike."
+  },
+  {
+   "start": 437.86,
+   "end": 440.56,
+   "text": "And it's like this fucking banana bike with these big ass tires."
+  },
+  {
+   "start": 441.2,
+   "end": 443.34,
+   "text": "It's like, uh, it's like you're being a hypocrite, man."
+  },
+  {
+   "start": 443.4,
+   "end": 445.78,
+   "text": "Do you believe in speed reading or you don't believe in speed reading?"
+  },
+  {
+   "start": 446.24,
+   "end": 448.2,
+   "text": "And you obviously don't believe in speed reading."
+  },
+  {
+   "start": 448.2,
+   "end": 452.88,
+   "text": "If you're designing these websites with these huge ass fonts, big ass picture, I don't"
+  },
+  {
+   "start": 452.88,
+   "end": 456.18,
+   "text": "Have to see a big ass picture just to know what the movie's about."
+  },
+  {
+   "start": 456.3,
+   "end": 457.3,
+   "text": "Just look, give me the title."
+  },
+  {
+   "start": 458.08,
+   "end": 463.52,
+   "text": "It's like here, we have the section of, of, uh, Roman videos or historical documentaries"
+  },
+  {
+   "start": 463.52,
+   "end": 464.58,
+   "text": "And it's just the list."
+  },
+  {
+   "start": 465.04,
+   "end": 468.2,
+   "text": "And you say Rome, you see, you see Turks, you see China."
+  },
+  {
+   "start": 468.4,
+   "end": 470.22,
+   "text": "I don't have to be sold on it."
+  },
+  {
+   "start": 470.86,
+   "end": 475.62,
+   "text": "It's not like I'm not going to watch the China movie just because there's not a China picture"
+  },
+  {
+   "start": 475.62,
+   "end": 480.28,
+   "text": "That's as big as three quarters of the fucking screen staring me in the face."
+  },
+  {
+   "start": 481.62,
+   "end": 482.62,
+   "text": "It's so stupid."
+  },
+  {
+   "start": 483.68,
+   "end": 485.92,
+   "text": "Um, it takes me forever."
+  },
+  {
+   "start": 486.34,
+   "end": 489.46,
+   "text": "I don't even know how many, I still don't even know how many movies you guys have."
+  },
+  {
+   "start": 489.5,
+   "end": 490.82,
+   "text": "Cause I, I lose my train of thought."
+  },
+  {
+   "start": 490.96,
+   "end": 492.42,
+   "text": "It's just click, click, click, click, click, click."
+  },
+  {
+   "start": 492.42,
+   "end": 499.7,
+   "text": "And, and also, you know, if you wanted to, to make it seem like, make, make people know"
+  },
+  {
+   "start": 499.7,
+   "end": 503.96,
+   "text": "Which, which movies are just recently added, which movies are recently deleted, you can"
+  },
+  {
+   "start": 503.96,
+   "end": 508.12,
+   "text": "Color code that, but in a speed read small font way, you got a small font."
+  },
+  {
+   "start": 508.16,
+   "end": 511.52,
+   "text": "If people have good eyes, if somebody is an old person, doesn't have good eyes, they"
+  },
+  {
+   "start": 511.52,
+   "end": 513.32,
+   "text": "Can do double click and it makes the screen big."
+  },
+  {
+   "start": 513.38,
+   "end": 514.68,
+   "text": "That's how my website works."
+  },
+  {
+   "start": 514.68,
+   "end": 523.64,
+   "text": "So, um, um, you have to, you have to, um, you have to accommodate the smart people."
+  },
+  {
+   "start": 523.78,
+   "end": 525.7,
+   "text": "Don't just accommodate the dumb asses."
+  },
+  {
+   "start": 526.3,
+   "end": 528.22,
+   "text": "That's what the world is set up for now."
+  },
+  {
+   "start": 528.34,
+   "end": 530.02,
+   "text": "It's just accommodating the dumb asses."
+  },
+  {
+   "start": 530.06,
+   "end": 534.64,
+   "text": "Like nobody's allowed to smoke reefer because nobody's responsible enough to smoke reefer."
+  },
+  {
+   "start": 534.74,
+   "end": 539.76,
+   "text": "If you smoke reefer, you'll like burn your house down, Nancy Grace."
+  },
+  {
+   "start": 539.96,
+   "end": 540.62,
+   "text": "It's not true."
+  },
+  {
+   "start": 540.68,
+   "end": 541.38,
+   "text": "It's not going to happen."
+  },
+  {
+   "start": 542.14,
+   "end": 545.9,
+   "text": "If you, there's too many, there's enough speed."
+  },
+  {
+   "start": 545.92,
+   "end": 547.82,
+   "text": "There are speed readers in the world who are going to want to speed read."
+  },
+  {
+   "start": 547.9,
+   "end": 551.98,
+   "text": "And if you set up a system of infrastructure where people can speed read, then the speed"
+  },
+  {
+   "start": 551.98,
+   "end": 552.64,
+   "text": "Readers will come."
+  },
+  {
+   "start": 552.72,
+   "end": 554.34,
+   "text": "People will learn to become speed readers."
+  },
+  {
+   "start": 555.1,
+   "end": 559.36,
+   "text": "The only reason that you guys have that big ass font is because you're insecure and you're"
+  },
+  {
+   "start": 559.36,
+   "end": 562.94,
+   "text": "Trying to make it seem like there's more movies than there actually are."
+  },
+  {
+   "start": 563.24,
+   "end": 564.02,
+   "text": "Why don't you just be honest?"
+  },
+  {
+   "start": 564.32,
+   "end": 567.72,
+   "text": "If you only have 30 movies, just pack them in there and be like, Hey, that's all we got."
+  },
+  {
+   "start": 568.24,
+   "end": 570.48,
+   "text": "But you, and you can defend yourself."
+  },
+  {
+   "start": 570.66,
+   "end": 573.42,
+   "text": "We're only charging 15 bucks a month for it though."
+  },
+  {
+   "start": 573.52,
+   "end": 574.74,
+   "text": "Sorry, we don't have more movies."
+  },
+  {
+   "start": 574.74,
+   "end": 575.8,
+   "text": "Get more movies on."
+  },
+  {
+   "start": 576.3,
+   "end": 577.76,
+   "text": "YouTube's got tons of movies."
+  },
+  {
+   "start": 578.32,
+   "end": 582.48,
+   "text": "Pay people, pay people, uh, I don't know the reasonable amount of money to get their"
+  },
+  {
+   "start": 582.48,
+   "end": 582.74,
+   "text": "Movies."
+  },
+  {
+   "start": 582.86,
+   "end": 586.9,
+   "text": "There's plenty of people would love to get their old movies, like classic movies on"
+  },
+  {
+   "start": 586.9,
+   "end": 587.58,
+   "text": "The, on the Amazon."
+  },
+  {
+   "start": 587.7,
+   "end": 591.16,
+   "text": "You have like a, a, a gigabyte storage problem."
+  },
+  {
+   "start": 591.3,
+   "end": 592.76,
+   "text": "We don't have a gigabyte storage problem."
+  },
+  {
+   "start": 592.86,
+   "end": 594.14,
+   "text": "Anybody can upload a video."
+  },
+  {
+   "start": 595.22,
+   "end": 596.54,
+   "text": "Anyway, it's totally ridiculous."
+  },
+  {
+   "start": 596.7,
+   "end": 598.94,
+   "text": "If you want to know what speed reading is all about, just visit my website."
+  },
+  {
+   "start": 599.06,
+   "end": 599.38,
+   "text": "Peace out."
+  }
+ ]
+}

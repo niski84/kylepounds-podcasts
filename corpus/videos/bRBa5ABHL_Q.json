@@ -1,0 +1,753 @@
+{
+ "youtube_id": "bRBa5ABHL_Q",
+ "title": "Living i Boulder vlog 3 - 15 - 2018: Bike Racer Levels Pages",
+ "url": "https://youtu.be/bRBa5ABHL_Q",
+ "published_at": "2018-03-15",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder on March 15, 2018 about the tedious work of building out bike racer levels pages for his website, converting units and enforcing data consistency across hundreds of pages. He spins out into broader reflections on slow computers limiting web design, his philosophy of long single-page scrollable sites over paginated ones, and predictions that faster computers and voice input will transform personal websites.",
+  "speaker": "kyle",
+  "topics": [
+   "website building",
+   "bike racing data",
+   "unit conversion",
+   "web design philosophy",
+   "long-form pages vs pagination",
+   "Control+F utility",
+   "future of computing",
+   "voice recognition predictions",
+   "historical data collection",
+   "Boulder vlog"
+  ],
+  "stances": [
+   {
+    "topic": "website consistency",
+    "position": "Worth extreme tedium — must get data format right the first time since numbers can't be bulk-changed like CSS"
+   },
+   {
+    "topic": "long scrollable pages",
+    "position": "Underutilized and superior; entire books should live on one page"
+   },
+   {
+    "topic": "Control+F search",
+    "position": "The most amazing tool for navigating long content; claims only his website supports it properly"
+   },
+   {
+    "topic": "future of web design",
+    "position": "Faster computers and voice input will make building massive personal websites trivially easy within ~10 years"
+   },
+   {
+    "topic": "pagination vs single pages",
+    "position": "Page-per-section is a workaround for slow computers and ad-count rules, not good design"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "England",
+   "America",
+   "Canada",
+   "Australia",
+   "Wikipedia",
+   "Living (his book/project)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.88,
+   "end": 3.68,
+   "text": "Hello everyone, Boulder V-Log."
+  },
+  {
+   "start": 3.68,
+   "end": 7.68,
+   "text": "1.42 or in March 15th."
+  },
+  {
+   "start": 7.68,
+   "end": 12.88,
+   "text": "I have a done V-Log for about a week."
+  },
+  {
+   "start": 12.88,
+   "end": 27.88,
+   "text": "You said that that means that that means that the work that I'm doing is very, very tedious."
+  },
+  {
+   "start": 27.88,
+   "end": 35.88,
+   "text": "I was working yesterday, I got up early early, like at 7."
+  },
+  {
+   "start": 35.88,
+   "end": 38.88,
+   "text": "Or something, no, 8."
+  },
+  {
+   "start": 38.88,
+   "end": 40.88,
+   "text": "And then I was working until 5 in the morning."
+  },
+  {
+   "start": 40.88,
+   "end": 42.88,
+   "text": "So right now it's 4.03."
+  },
+  {
+   "start": 42.88,
+   "end": 44.88,
+   "text": "I'm not going to have to do anything."
+  },
+  {
+   "start": 44.88,
+   "end": 51.47,
+   "text": "I have to do stuff on Saturday."
+  },
+  {
+   "start": 52.47,
+   "end": 56.47,
+   "text": "I raised our level pages."
+  },
+  {
+   "start": 58.47,
+   "end": 60.47,
+   "text": "Super tedious."
+  },
+  {
+   "start": 60.47,
+   "end": 77.47,
+   "text": "Yeah, what I'm doing is I want to divide up the levels from all different categories and all the businesses with all with the thorough set of data from England and America."
+  },
+  {
+   "start": 77.47,
+   "end": 81.47,
+   "text": "I couldn't really find stuff from Canada and Australia."
+  },
+  {
+   "start": 81.47,
+   "end": 82.47,
+   "text": "That's enough."
+  },
+  {
+   "start": 82.47,
+   "end": 85.47,
+   "text": "I've got enough because my computer is getting overheated anyway."
+  },
+  {
+   "start": 85.47,
+   "end": 90.47,
+   "text": "So yeah, I've been converting miles and hours to farmers and hours."
+  },
+  {
+   "start": 90.47,
+   "end": 92.47,
+   "text": "It's super tedious."
+  },
+  {
+   "start": 92.47,
+   "end": 104.47,
+   "text": "But the reason that I'm like being doing it perfectly being anal about it is because consistency."
+  },
+  {
+   "start": 104.47,
+   "end": 116.47,
+   "text": "I want my whole website to be consistent, to show information in the same way in each page to show it in similar ways I can."
+  },
+  {
+   "start": 116.47,
+   "end": 123.47,
+   "text": "Which is kind of a challenge because it's a day's exchange."
+  },
+  {
+   "start": 123.47,
+   "end": 132.47,
+   "text": "And if you have a thousand people and you accidentally skip a number and then you know, it's quite a good, you know, that happens all the time."
+  },
+  {
+   "start": 132.47,
+   "end": 139.47,
+   "text": "So, and not just let it numbers but everything else makes us stuff."
+  },
+  {
+   "start": 139.47,
+   "end": 151.47,
+   "text": "So, yeah, so you have to redo the days you change, so you have to make sure that you do it right the first time, but all but you know not just with the design but I mean numbers and stuff like the design."
+  },
+  {
+   "start": 151.47,
+   "end": 153.47,
+   "text": "Like how you're going to make it look."
+  },
+  {
+   "start": 153.47,
+   "end": 154.47,
+   "text": "You can change."
+  },
+  {
+   "start": 154.47,
+   "end": 158.47,
+   "text": "You have it with the this CSS, so you can change."
+  },
+  {
+   "start": 159.47,
+   "end": 165.47,
+   "text": "If you don't like it, this you know, whatever, I have a certain font color to signify a category."
+  },
+  {
+   "start": 165.47,
+   "end": 171.47,
+   "text": "You can change all that but there's things that you can't change and you have to change individually."
+  },
+  {
+   "start": 171.47,
+   "end": 174.47,
+   "text": "You know, so, I can't really think of it as an example."
+  },
+  {
+   "start": 174.47,
+   "end": 177.47,
+   "text": "It's an awesome way I got to restart my phone making this."
+  },
+  {
+   "start": 177.47,
+   "end": 179.47,
+   "text": "But yeah."
+  },
+  {
+   "start": 180.47,
+   "end": 190.47,
+   "text": "So, I have to be decisive at the very beginning and I work a lot and then be prepared to have to redo stuff all the time."
+  },
+  {
+   "start": 190.47,
+   "end": 193.47,
+   "text": "So, and I have been making very good progress."
+  },
+  {
+   "start": 193.47,
+   "end": 198.47,
+   "text": "Like yesterday it wasn't that much progress because it was just sitting around the living computer."
+  },
+  {
+   "start": 198.47,
+   "end": 201.47,
+   "text": "Like for example, the last thing I did."
+  },
+  {
+   "start": 201.47,
+   "end": 205.47,
+   "text": "I had all the time travels before the calendar which is the one hour."
+  },
+  {
+   "start": 206.47,
+   "end": 211.47,
+   "text": "And on the title it was it was double spaced and because there was like."
+  },
+  {
+   "start": 211.47,
+   "end": 217.47,
+   "text": "It adds on either side and somewhere along the line or there must be like a paragraph or a break that made it bigger but I."
+  },
+  {
+   "start": 217.47,
+   "end": 220.47,
+   "text": "I computer was too slow to be able to see that."
+  },
+  {
+   "start": 220.47,
+   "end": 222.47,
+   "text": "So I just replaced it."
+  },
+  {
+   "start": 222.47,
+   "end": 228.47,
+   "text": "You know, the ads in the table it's just the title, you know, it's just worse because you put the ads in the practical part anyway."
+  },
+  {
+   "start": 228.47,
+   "end": 232.47,
+   "text": "And that thing's did but just to do that operation, you know, cut."
+  },
+  {
+   "start": 233.47,
+   "end": 236.47,
+   "text": "And then paste cut in and paste."
+  },
+  {
+   "start": 236.47,
+   "end": 240.47,
+   "text": "Talk about at least five minutes."
+  },
+  {
+   "start": 240.47,
+   "end": 243.47,
+   "text": "At least that in time I solved it maybe 10."
+  },
+  {
+   "start": 243.47,
+   "end": 247.47,
+   "text": "And then there weren't much of those that I had to do because pages just so can be."
+  },
+  {
+   "start": 247.47,
+   "end": 250.47,
+   "text": "Yeah, the website was speaking in shit out of this computer."
+  },
+  {
+   "start": 250.47,
+   "end": 253.47,
+   "text": "I don't know how many pages it was in terms of."
+  },
+  {
+   "start": 253.47,
+   "end": 260.47,
+   "text": "Text or big about size but I'll figure that out later when I after I do the right."
+  },
+  {
+   "start": 260.47,
+   "end": 266.47,
+   "text": "But yeah, like that website's keeping the shit out of this computer with the computer can do it."
+  },
+  {
+   "start": 266.47,
+   "end": 271.47,
+   "text": "So yeah, if I built most of my website with that other computer, I don't know how to how I did it."
+  },
+  {
+   "start": 271.47,
+   "end": 276.47,
+   "text": "I must have just had a broken off and it was so many different pages and then paste them together."
+  },
+  {
+   "start": 276.47,
+   "end": 285.47,
+   "text": "That yet so much faster with this and so I had the idea I had the thought last night yesterday was like, she is."
+  },
+  {
+   "start": 285.47,
+   "end": 289.47,
+   "text": "I could make this so much faster if I had a faster here."
+  },
+  {
+   "start": 289.47,
+   "end": 299.47,
+   "text": "And so that yeah that led me to believe that I think the future of web design once computers are faster."
+  },
+  {
+   "start": 299.47,
+   "end": 310.47,
+   "text": "It's going to be pretty much looking like computers websites like mine or the pages are just breaking the page because that it won't be any time off out of your day."
+  },
+  {
+   "start": 310.47,
+   "end": 314.47,
+   "text": "To add stuff, you know, like you could."
+  },
+  {
+   "start": 314.47,
+   "end": 322.47,
+   "text": "In fact, you could probably do it with your voice, you know, if you just talk to your computer and then the computer can like fix the grammar and everything for you."
+  },
+  {
+   "start": 322.47,
+   "end": 324.47,
+   "text": "So I just write it and then maybe even the pictures."
+  },
+  {
+   "start": 324.47,
+   "end": 328.47,
+   "text": "You're like yeah, and then line the pictures, boom, it just does it."
+  },
+  {
+   "start": 328.47,
+   "end": 340.47,
+   "text": "So you could build like a like like you could take a page on my website like any page that's huge, you know, like like an ancient book, living, right."
+  },
+  {
+   "start": 340.47,
+   "end": 346.47,
+   "text": "Like maybe even in just 10 years because computers will understand your voice and because they'll be fast."
+  },
+  {
+   "start": 346.47,
+   "end": 352.88,
+   "text": "Like maybe in 10 years, somebody could literally build living in like one day."
+  },
+  {
+   "start": 352.88,
+   "end": 355.88,
+   "text": "Well, you like yeah, put living here."
+  },
+  {
+   "start": 355.88,
+   "end": 359.88,
+   "text": "Yes, just master and then put the chapters like this."
+  },
+  {
+   "start": 359.88,
+   "end": 360.88,
+   "text": "Okay."
+  },
+  {
+   "start": 360.88,
+   "end": 363.88,
+   "text": "And then put the photos, this photo, you know, and boom, it does it."
+  },
+  {
+   "start": 363.88,
+   "end": 370.88,
+   "text": "Or even if you do it manually with the computer doesn't think, you know, like right now, if I don't upload it, it's pretty pretty three hundred pages."
+  },
+  {
+   "start": 370.88,
+   "end": 372.88,
+   "text": "It takes like a half hour."
+  },
+  {
+   "start": 372.88,
+   "end": 375.88,
+   "text": "Same thing with my 40 kilometer levels."
+  },
+  {
+   "start": 375.88,
+   "end": 377.88,
+   "text": "They take about a half hour."
+  },
+  {
+   "start": 377.88,
+   "end": 381.88,
+   "text": "But imagine if it takes one second to load."
+  },
+  {
+   "start": 381.88,
+   "end": 386.88,
+   "text": "Like, no, there were websites where are going to be freaking huge."
+  },
+  {
+   "start": 386.88,
+   "end": 393.88,
+   "text": "Like right now it seems like in YouTube over last a little bit more like a whole lot more people are doing YouTube."
+  },
+  {
+   "start": 393.88,
+   "end": 399.13,
+   "text": "And I mean, I mean, I'd be cool looking to stats."
+  },
+  {
+   "start": 399.13,
+   "end": 401.13,
+   "text": "I don't know if you can really look at it."
+  },
+  {
+   "start": 401.13,
+   "end": 406.13,
+   "text": "Like an explosion, but imagine if there's an explosion, like a super explosion, everybody starts to think, you know, like they."
+  },
+  {
+   "start": 406.13,
+   "end": 409.13,
+   "text": "It changed from the horse and buggy to the car."
+  },
+  {
+   "start": 409.13,
+   "end": 414.13,
+   "text": "What it has to do with how to personal websites."
+  },
+  {
+   "start": 414.13,
+   "end": 422.13,
+   "text": "More you know, because it's so easy, you know, where you have, like on the other section where it's like what I think about this."
+  },
+  {
+   "start": 422.13,
+   "end": 424.13,
+   "text": "It's like three hundred different things."
+  },
+  {
+   "start": 424.13,
+   "end": 427.13,
+   "text": "And it's has you, you know, both in written and speaking."
+  },
+  {
+   "start": 427.13,
+   "end": 432.13,
+   "text": "You can just do it with a process, you know, like, maybe there's program on the computer that can do it all the time."
+  },
+  {
+   "start": 432.13,
+   "end": 436.13,
+   "text": "You just, I'm ready to do it with, you know, video and now put this in there, you know."
+  },
+  {
+   "start": 436.13,
+   "end": 440.13,
+   "text": "So only once it's easy and everybody starts doing that."
+  },
+  {
+   "start": 440.13,
+   "end": 445.13,
+   "text": "Because it's the most fulfilling way to express yourself."
+  },
+  {
+   "start": 445.13,
+   "end": 451.13,
+   "text": "That'll be an amazing world."
+  },
+  {
+   "start": 451.13,
+   "end": 454.13,
+   "text": "I don't think that's one of the world's effects."
+  },
+  {
+   "start": 454.13,
+   "end": 461.13,
+   "text": "So, so, yeah."
+  },
+  {
+   "start": 461.13,
+   "end": 467.13,
+   "text": "And myself, you know, like, myself, I can't really handle a page."
+  },
+  {
+   "start": 467.13,
+   "end": 469.13,
+   "text": "I was looking at what pages."
+  },
+  {
+   "start": 469.13,
+   "end": 472.13,
+   "text": "I think it was the 40,000 or time travel page."
+  },
+  {
+   "start": 472.13,
+   "end": 478.13,
+   "text": "So page that, in the case of the shit on my computer, my cell phone could navigate around that page."
+  },
+  {
+   "start": 478.13,
+   "end": 482.13,
+   "text": "You know, there was a lag, so it wasn't really worth it."
+  },
+  {
+   "start": 482.13,
+   "end": 486.13,
+   "text": "But we're actually, you could make it worth it if you just know how to, you know, know what the lag is."
+  },
+  {
+   "start": 486.13,
+   "end": 488.13,
+   "text": "It was only like, 3, 4, 5 seconds."
+  },
+  {
+   "start": 488.13,
+   "end": 494.54,
+   "text": "But, but, yeah, that means the next generation of cell phones, you're going to be a laginal problem."
+  },
+  {
+   "start": 494.54,
+   "end": 497.54,
+   "text": "You know, you can just click around for a page to page."
+  },
+  {
+   "start": 497.54,
+   "end": 504.54,
+   "text": "That's what, see, what I'm saying is, I don't think people are taking advantage of the scroll."
+  },
+  {
+   "start": 504.54,
+   "end": 508.54,
+   "text": "You know, maybe it's because of the rules that, since you stand, if they still have it,"
+  },
+  {
+   "start": 508.54,
+   "end": 510.54,
+   "text": "I'm not sure if they're trying to have it."
+  },
+  {
+   "start": 510.54,
+   "end": 515.54,
+   "text": "Where you could only have five ads per page, so then they, when I have lots of different pages."
+  },
+  {
+   "start": 515.54,
+   "end": 524.54,
+   "text": "But, when you're computer can handle it, and the pages can log in, that's going to have a scroll."
+  },
+  {
+   "start": 524.54,
+   "end": 526.54,
+   "text": "Should be, it's underutilized."
+  },
+  {
+   "start": 526.54,
+   "end": 532.54,
+   "text": "It should be utilized because I have, like, livi, for example, I've livi the Bible plenty."
+  },
+  {
+   "start": 532.54,
+   "end": 536.54,
+   "text": "I've got all these books that are 3000 plus pages."
+  },
+  {
+   "start": 536.54,
+   "end": 541.54,
+   "text": "And when the pages are loaded there in your scrolling, like, it's not too big."
+  },
+  {
+   "start": 541.54,
+   "end": 554.54,
+   "text": "You can still, you can still scroll to a page, like, like, you can still have enough control over it to control one single page, you know, barely."
+  },
+  {
+   "start": 554.54,
+   "end": 562.54,
+   "text": "But, you know, by the time you get there, you just use the trackboard or not the trackboard, but whatever, the world of wheel."
+  },
+  {
+   "start": 562.54,
+   "end": 575.54,
+   "text": "And so, you can zoom in, and then, of course, you know, you have the, the mirror, the menu on the top, and just click back to the menu, and yeah, you can just teleport to the part of the book."
+  },
+  {
+   "start": 575.54,
+   "end": 581.54,
+   "text": "And so there's no reason to not have an entire book on a page, also because of the control F."
+  },
+  {
+   "start": 581.54,
+   "end": 591.54,
+   "text": "Control F is the most amazing tool, because if you're listening to a book, you have to mean it's like, it's like, the gateway to our mission."
+  },
+  {
+   "start": 591.54,
+   "end": 606.54,
+   "text": "So if you're listening to a book, and you remember what book it is, because I heard some interesting stuff, and then I didn't remember the book, but yeah, and then you hear, like, you know, you hear something interesting, you know, like, like, say you're on a ride, right?"
+  },
+  {
+   "start": 606.54,
+   "end": 608.54,
+   "text": "You know, like, oh, wow, that was interesting."
+  },
+  {
+   "start": 608.54,
+   "end": 619.54,
+   "text": "And then you finish the book, you know, and then you come home, you know, like, okay, what was that, you know, well, if you have control F, which they don't have it any website, except for mine."
+  },
+  {
+   "start": 619.54,
+   "end": 626.54,
+   "text": "And you can find where you were, you know, you just do the word search over and over and so I'll go and you found it."
+  },
+  {
+   "start": 626.54,
+   "end": 635.98,
+   "text": "And, and then you can memorize where that was in the book, you know, so if you want to reference it later."
+  },
+  {
+   "start": 635.98,
+   "end": 647.98,
+   "text": "So, yeah, so it's, yeah, so the other thing that I was doing was, I'm continuing to collect all the books."
+  },
+  {
+   "start": 647.98,
+   "end": 652.98,
+   "text": "I'm continuing to collect all of the decades."
+  },
+  {
+   "start": 652.98,
+   "end": 667.98,
+   "text": "I did the centuries of the 20th century, and I'm doing the decades from zero to 2000, which is 200, so I'm, like, 1780s now, it's been 10, 100, because they get longer, as you go forward, and then you'd be like, nothing went too good, right?"
+  },
+  {
+   "start": 667.98,
+   "end": 672.98,
+   "text": "Yeah, I want to get to 1900s, and then I'll probably finish today if I were really into it."
+  },
+  {
+   "start": 672.98,
+   "end": 675.98,
+   "text": "And then, all of those decades get gone."
+  },
+  {
+   "start": 675.98,
+   "end": 681.98,
+   "text": "But, yeah, not to really fun, man. You should try it, because you always hear these things you're like, wait, what?"
+  },
+  {
+   "start": 681.98,
+   "end": 691.98,
+   "text": "First, what? I wasn't interested in you, this happened, what? You know? And then, so then you can go and read the Wikipedia, because it's often Wikipedia, so you just click it, it's amazing, rabbit hole."
+  },
+  {
+   "start": 691.98,
+   "end": 699.98,
+   "text": "So, I want to listen to it, though. I go, that's interesting, and then at the end of the one I go, yeah, that was interesting. What was that, that was it? I don't remember."
+  },
+  {
+   "start": 699.98,
+   "end": 707.98,
+   "text": "I didn't just move on, but, you know, I want to get moving forward, and then I want to do the ones that go back. That doesn't know how far, but it's going to be interesting."
+  },
+  {
+   "start": 707.98,
+   "end": 718.98,
+   "text": "When I collected the links from my webpage on it, I saw, you know, where it ended, it was like, I don't know, 250,000 BC or whatever, but yeah, that's the reason we find they go backwards."
+  },
+  {
+   "start": 718.98,
+   "end": 731.98,
+   "text": "But, and then implement the test, oh, and instead of the system, the grading system forward, I don't know what page for that, I'm going to take a while, but see that's what I'm saying, like if computers are faster, wouldn't take that much time."
+  },
+  {
+   "start": 731.98,
+   "end": 741.98,
+   "text": "It would be worth it, like Wikipedia, a bit, in my 2020 years, it's just going to be another fucking website, because everybody's going to be, you know,"
+  },
+  {
+   "start": 741.98,
+   "end": 747.98,
+   "text": "coaching each other's information and writing articles about this and that, you know, will be pretty good everywhere."
+  },
+  {
+   "start": 747.98,
+   "end": 755.98,
+   "text": "And yeah, and all these, like, you know, compudents that you have now, very much, everybody will just be other voices in the big channels and stuff."
+  },
+  {
+   "start": 755.98,
+   "end": 764.98,
+   "text": "Anyway, yeah, so today, I'm going to, I don't even know what I'm going to do."
+  },
+  {
+   "start": 764.98,
+   "end": 788.98,
+   "text": "I got, I stopped that this, this morning, and I really good stopping point, it was, I don't know if it's all, it's all, it's all, it's, I don't even know when I did this, it was when I moved into Boulder and I was working on it for a long time, but I collect all this stuff that I didn't remember, when I first started working on this page and I didn't remember how much stuff I collected, so,"
+  },
+  {
+   "start": 788.98,
+   "end": 798.98,
+   "text": "I've been working on the authorities for braces, I went, everything within Colorado, luckily not all, not everything, but all like the ones that fall into the representatives of different distances."
+  },
+  {
+   "start": 798.98,
+   "end": 807.98,
+   "text": "Yeah, but it's, I have to finish those, you know, the day's each in to make it all consistent."
+  },
+  {
+   "start": 807.98,
+   "end": 818.98,
+   "text": "So I have to do my hours and I can write up your commenters and all this math, but I figured out the math, the math is easy, I'm not like, I read trouble with it."
+  },
+  {
+   "start": 818.98,
+   "end": 820.98,
+   "text": "It's a simple dividing of the five."
+  },
+  {
+   "start": 820.98,
+   "end": 829.98,
+   "text": "Oh my god, if I've been talking to one, I get carried away. Oh my god, this is the longest one I've ever, I'm going to go later."
+  }
+ ]
+}

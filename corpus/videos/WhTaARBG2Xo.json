@@ -1,0 +1,121 @@
+{
+ "youtube_id": "WhTaARBG2Xo",
+ "title": "Living in Boulder Vlog 5 - 13 - 2014",
+ "url": "https://youtu.be/WhTaARBG2Xo",
+ "published_at": "2014-05-15",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs a morning before heading to work after four days off due to bad weather. He briefly describes his bike commute setup and recaps the previous day's activities, which included gluing protective parts onto his bike, mounting a GoPro on his helmet, and organizing music for swimming.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "bike commuting",
+   "Boulder living",
+   "daily routine",
+   "DIY bike maintenance"
+  ],
+  "stances": [
+   {
+    "topic": "bike commuting",
+    "position": "enjoys it despite recurring flat tire issues"
+   },
+   {
+    "topic": "days off",
+    "position": "ready to get back to work after four days off"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "GoPro"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 4.56,
+   "text": "been like four days off and so now it's time to work again and actually I think I'd find"
+  },
+  {
+   "start": 4.56,
+   "end": 10.88,
+   "text": "days up from the bad weather and it's 6.45 now I'm going to wait 15 minutes."
+  },
+  {
+   "start": 10.88,
+   "end": 15.16,
+   "text": "I've got to be there at 8 but it's way too much oil away."
+  },
+  {
+   "start": 15.16,
+   "end": 20.4,
+   "text": "We've put in a time especially if in case they get a flat because the morning is getting"
+  },
+  {
+   "start": 20.4,
+   "end": 26.2,
+   "text": "flat so I've had like four flat between this year and last year and already this year."
+  },
+  {
+   "start": 26.2,
+   "end": 30.6,
+   "text": "This is my rig by the way."
+  },
+  {
+   "start": 30.6,
+   "end": 34.79,
+   "text": "I just dropped my shoes to the back of that."
+  },
+  {
+   "start": 34.79,
+   "end": 38.55,
+   "text": "I've got some power bars in my bike lock and there, hat and stuff."
+  },
+  {
+   "start": 38.55,
+   "end": 41.31,
+   "text": "I've got to make sure to drink a lot."
+  },
+  {
+   "start": 41.31,
+   "end": 46.99,
+   "text": "I enjoyed it every time because the days are big day but yeah what did I do yesterday?"
+  },
+  {
+   "start": 46.99,
+   "end": 51.67,
+   "text": "I just glued a thing couple of glued some stuff on my bottom motorbike."
+  },
+  {
+   "start": 51.67,
+   "end": 55.47,
+   "text": "There's a protector plate and then that go pro thing on the helmet and then we're"
+  },
+  {
+   "start": 55.47,
+   "end": 58.59,
+   "text": "going to do the organizing music which took all day because I got anyone to be"
+  },
+  {
+   "start": 58.59,
+   "end": 62.79,
+   "text": "through player for swimming so I figured that out and did a little bit of work on my flight"
+  },
+  {
+   "start": 62.79,
+   "end": 63.79,
+   "text": "too."
+  },
+  {
+   "start": 63.79,
+   "end": 64.79,
+   "text": "That was that."
+  },
+  {
+   "start": 64.79,
+   "end": 65.35,
+   "text": "Okay, peace out."
+  }
+ ]
+}

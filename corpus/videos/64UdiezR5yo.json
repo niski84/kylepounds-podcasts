@@ -1,0 +1,107 @@
+{
+ "youtube_id": "64UdiezR5yo",
+ "title": "Living in Boulder Vlog 5 - 1 - 2014",
+ "url": "https://youtu.be/64UdiezR5yo",
+ "published_at": "",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle briefly explains why he skipped his previous day's vlog — he was exhausted after a full day of cycling 10 miles, cleaning two houses, mowing a lawn, and visiting his mom. He woke up refreshed and plans to work on his computer that day, and mentions upcoming gecko footage.",
+  "speaker": "kyle",
+  "topics": [
+   "daily routine",
+   "physical labor",
+   "sleep",
+   "vlogging",
+   "pet geckos"
+  ],
+  "stances": [
+   {
+    "topic": "sleep",
+    "position": "loves sleeping a lot and waking up fully rested"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 9.5,
+   "text": "Hello, Living in Boulder V-LOG. For the 1st of May 2013, I didn't do my V-LOG last night"
+  },
+  {
+   "start": 9.5,
+   "end": 18.24,
+   "text": "Because I got in bed because I was so tired. And then once I was in bed, I was like, oh"
+  },
+  {
+   "start": 18.24,
+   "end": 27.62,
+   "text": "Man, I'm staying here. So yeah, it was that. So I forgot I need to remember my bad. I was"
+  },
+  {
+   "start": 27.62,
+   "end": 33.3,
+   "text": "Tired yesterday because yesterday I got up and then I had to ride my bicycle 10 miles"
+  },
+  {
+   "start": 33.3,
+   "end": 40.48,
+   "text": "To do some house. And then I went to another one place and then I rode over and after cleaning"
+  },
+  {
+   "start": 40.48,
+   "end": 44.18,
+   "text": "This, doing the windows in the second house, I went and mowed the lawn on my friend and"
+  },
+  {
+   "start": 44.18,
+   "end": 49.06,
+   "text": "Then my mom called me. Let me come over and help her about, I didn't do that much for her"
+  },
+  {
+   "start": 49.06,
+   "end": 57.68,
+   "text": "Though. She just called me to hang out or something. Then I came back and at six and"
+  },
+  {
+   "start": 57.68,
+   "end": 62.72,
+   "text": "I worked a little bit on my computer, but then I got, I was just like, I was so tired that"
+  },
+  {
+   "start": 62.72,
+   "end": 69.88,
+   "text": "My brain wasn't working totally. So I was like, you know what, let's just go to bed. It was"
+  },
+  {
+   "start": 69.88,
+   "end": 74.76,
+   "text": "Like seven or something, six or something and got in bed and then I just got up now and it's"
+  },
+  {
+   "start": 74.76,
+   "end": 78.64,
+   "text": "Like seven in the morning. So I love it. I love sleeping a lot and then being rested the"
+  },
+  {
+   "start": 78.64,
+   "end": 86.78,
+   "text": "Next day. So, uh, yeah. So that means I think today I'll have energy to, uh, to work on the"
+  },
+  {
+   "start": 86.78,
+   "end": 97.44,
+   "text": "Computer this day. Uh, and that's about, that's all I have to say about that. I got some cool"
+  },
+  {
+   "start": 97.44,
+   "end": 101.28,
+   "text": "Footage of my geckos. I'll do a video about that soon. Okay. Peace out."
+  }
+ ]
+}

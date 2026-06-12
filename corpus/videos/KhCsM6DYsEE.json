@@ -1,0 +1,227 @@
+{
+ "youtube_id": "KhCsM6DYsEE",
+ "title": "Living in Boulder Vlog 1 - 5 - 2017",
+ "url": "https://youtu.be/KhCsM6DYsEE",
+ "published_at": "2017-01-05",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs at 5:37am from his Boulder apartment, recapping a busy day of organizing his space, making multiple trips to the store and his mom's house, and printing/hanging photos. He also shares excitement about buying a green screen for a planned show concept involving a homemade warrior costume assembled from cardboard and Speedos.",
+  "speaker": "kyle",
+  "topics": [
+   "apartment organizing",
+   "green screen purchase",
+   "DIY warrior costume",
+   "daily routine",
+   "vlogging schedule"
+  ],
+  "stances": [
+   {
+    "topic": "organizing",
+    "position": "loves it deeply and finds it fun"
+   },
+   {
+    "topic": "DIY approach",
+    "position": "enthusiastic about making do with cheap/cardboard materials rather than buying everything"
+   },
+   {
+    "topic": "getting things done",
+    "position": "advocates doing things out of order rather than waiting for perfect conditions"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Google Earth",
+   "Premiere Pro",
+   "mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.56,
+   "end": 8.9,
+   "text": "Hey, Boulder V-log for January 5th, it's 5.37am, figure I'll do my video, I wanted to do my"
+  },
+  {
+   "start": 8.9,
+   "end": 15.14,
+   "text": "Video in the morning, like, right when I go to bed before, but yesterday, but, like, I"
+  },
+  {
+   "start": 15.14,
+   "end": 20.96,
+   "text": "Went to sleep, I went to bed, and then I wasn't sleepy, and so I was like, oh shit, the video's"
+  },
+  {
+   "start": 20.96,
+   "end": 27.38,
+   "text": "Like, got up, out of bed, and I shut it on the couch to do the video, and, but then I"
+  },
+  {
+   "start": 27.38,
+   "end": 30.68,
+   "text": "Wanted to look at something on Google Earth, and then I jumped back in bed, and I closed"
+  },
+  {
+   "start": 30.68,
+   "end": 33.96,
+   "text": "The lights and everything, and I was like, oh shit, the video, but I didn't want to get"
+  },
+  {
+   "start": 33.96,
+   "end": 42.04,
+   "text": "Out of bed again, so, that's why I did the video when I got up, so today, I got up, like,"
+  },
+  {
+   "start": 42.04,
+   "end": 54.76,
+   "text": "One, so, and now it's, like, 5.37, so, but, um, so, uh, yeah, man, the first part took me"
+  },
+  {
+   "start": 54.76,
+   "end": 60.06,
+   "text": "Before I already get going, I had to, uh, I went to the store four times, because I had"
+  },
+  {
+   "start": 60.06,
+   "end": 65.1,
+   "text": "Confusion about the printer, and then I went to my mom's house twice, because I forgot to"
+  },
+  {
+   "start": 65.1,
+   "end": 74.56,
+   "text": "Get the lampshade, but, uh, anyway, I came back here, and then I was, um, yeah, yeah, printing"
+  },
+  {
+   "start": 74.56,
+   "end": 80.68,
+   "text": "And putting up photos, takes long ass time, oh, I didn't even manage to finish putting the"
+  },
+  {
+   "start": 80.68,
+   "end": 86.48,
+   "text": "Ones of the, the text ones in the bathroom, but, so, yeah, I still have, like, work cut"
+  },
+  {
+   "start": 86.48,
+   "end": 90.78,
+   "text": "Out for me, but what I wanted to say, I mean, oh, man, this is just the funnest thing ever,"
+  },
+  {
+   "start": 90.84,
+   "end": 97.34,
+   "text": "I love organizing, man, I love, love, love, love organizing, you know, and it's not really"
+  },
+  {
+   "start": 97.34,
+   "end": 105.96,
+   "text": "Taking that much money, um, it doesn't take that much money to, uh, do all what I'm doing,"
+  },
+  {
+   "start": 105.96,
+   "end": 117.31,
+   "text": "Like, comparatively, like, how much change, change I can do, um, well, you know, the printing"
+  },
+  {
+   "start": 117.31,
+   "end": 122.53,
+   "text": "Was a little more, but, yeah, so, I, I actually, uh, bought something today, I went ahead and"
+  },
+  {
+   "start": 122.53,
+   "end": 129.53,
+   "text": "Bought, um, the green screen, because I was looking, I have Premiere Pro on my computer,"
+  },
+  {
+   "start": 129.53,
+   "end": 135.81,
+   "text": "So I can do green screen, um, um, but I need to buy the green screen, so I went ahead and"
+  },
+  {
+   "start": 135.81,
+   "end": 145.31,
+   "text": "Got it, blue, so, be here, I guess, in a week or something, and I can, you know, fiddle"
+  },
+  {
+   "start": 145.31,
+   "end": 151.75,
+   "text": "With that and get going on my show, because I wanted to include that, you know, my body"
+  },
+  {
+   "start": 151.75,
+   "end": 159.37,
+   "text": "As a warrior, oh, shit, that means I have to buy my, get up my warrior outfit, I need"
+  },
+  {
+   "start": 159.37,
+   "end": 164.73,
+   "text": "To build greaves, greaves are the thing, or shin guards, I need to build shin guards, but"
+  },
+  {
+   "start": 164.73,
+   "end": 173.65,
+   "text": "I guess I can build those out of, like, uh, cardboard and shoestring, I do have my swords,"
+  },
+  {
+   "start": 173.73,
+   "end": 178.97,
+   "text": "I guess I don't need a shield, and if I do need a shield, I guess I can make a shield out"
+  },
+  {
+   "start": 178.97,
+   "end": 183.27,
+   "text": "Of cardboard, and then I'll, yeah, I'll make everything out of cardboard, I'll make, uh,"
+  },
+  {
+   "start": 183.47,
+   "end": 188.33,
+   "text": "My mom usually has extra cardboard laying around, I'll make, uh, knives out of cardboard"
+  },
+  {
+   "start": 188.33,
+   "end": 196.23,
+   "text": "That I'll hang off of my Speedos, um, those'll be my shorts, but I want to have, like, brown"
+  },
+  {
+   "start": 196.23,
+   "end": 204.63,
+   "text": "Ones, though, maybe I should buy, like, male diapers, that'd be funny, I'll make a brown"
+  },
+  {
+   "start": 204.63,
+   "end": 209.67,
+   "text": "Now, it's better just wear Speedos, but I'll hang the, um, cardboard knives off the side of"
+  },
+  {
+   "start": 209.67,
+   "end": 216.41,
+   "text": "It, oh, yeah, and I got my hat, that's my helmet, my beanie hat, so I think maybe I'll"
+  },
+  {
+   "start": 216.41,
+   "end": 222.01,
+   "text": "Make some cardboard, like, flaps that come down, representing, like, ear protectors, for"
+  },
+  {
+   "start": 222.01,
+   "end": 229.07,
+   "text": "My beanie hat, that'd be cool, uh, and then, yeah, that'll be my outfit, my warrior outfit,"
+  },
+  {
+   "start": 229.07,
+   "end": 239.11,
+   "text": "But, uh, but, yeah, it's called coming together, just do it, you know, fuck it, um, you don't"
+  },
+  {
+   "start": 239.11,
+   "end": 245.93,
+   "text": "Have to do shit in order, just do it, anyway, um, man, I gotta get to sleep though, I'm yawning"
+  },
+  {
+   "start": 245.93,
+   "end": 250.83,
+   "text": "And, like, watering up in the eyes and stuff, okay, peace out!"
+  }
+ ]
+}

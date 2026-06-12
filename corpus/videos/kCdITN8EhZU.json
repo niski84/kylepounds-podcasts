@@ -1,0 +1,228 @@
+{
+ "youtube_id": "kCdITN8EhZU",
+ "title": "Living in Boulder Vlog 2-19-2016",
+ "url": "https://youtu.be/kCdITN8EhZU",
+ "published_at": "2016-02-19",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle films a brief morning vlog before work, talking about his phone storage issues, plans to organize audiobooks, and ongoing projects including a Facebook page, Google Earth mapping of Boulder, and daily vlogging goals.",
+  "speaker": "kyle",
+  "topics": [
+   "morning routine",
+   "phone storage",
+   "audiobooks",
+   "social media",
+   "Google Earth project",
+   "daily vlogging"
+  ],
+  "stances": [
+   {
+    "topic": "modern smartphones",
+    "position": "amazed by their computer-like capability and large storage"
+   },
+   {
+    "topic": "daily vlogging",
+    "position": "committed to posting every day"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Facebook",
+   "Google Earth"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.49,
+   "end": 4.71,
+   "text": "Hello, I'm gonna have my antibiotic now."
+  },
+  {
+   "start": 8.1,
+   "end": 14.26,
+   "text": "It's, um, 8.40 in the morning and I have to go to work at 10 this morning."
+  },
+  {
+   "start": 15.94,
+   "end": 17.46,
+   "text": "And do big work."
+  },
+  {
+   "start": 19.31,
+   "end": 20.47,
+   "text": "Tomorrow, too."
+  },
+  {
+   "start": 21.65,
+   "end": 23.89,
+   "text": "Um, I got kind of sleeped late last night."
+  },
+  {
+   "start": 26.28,
+   "end": 31.42,
+   "text": "Um, yeah, because, uh, my phone, man."
+  },
+  {
+   "start": 31.84,
+   "end": 33.0,
+   "text": "I was just organizing."
+  },
+  {
+   "start": 33.0,
+   "end": 36.32,
+   "text": "I mean, 160 gigabytes on your phone."
+  },
+  {
+   "start": 37.1,
+   "end": 38.92,
+   "text": "Holy fuck, we're in the future now."
+  },
+  {
+   "start": 39.42,
+   "end": 42.9,
+   "text": "And these phones, they're like computers, dude."
+  },
+  {
+   "start": 43.02,
+   "end": 44.32,
+   "text": "They're like talking to you, you know."
+  },
+  {
+   "start": 44.38,
+   "end": 48.02,
+   "text": "They're like giving you all these little options and like you're on a computer."
+  },
+  {
+   "start": 48.3,
+   "end": 49.24,
+   "text": "It's insane."
+  },
+  {
+   "start": 50.8,
+   "end": 52.3,
+   "text": "So that's what I'm gonna do, man."
+  },
+  {
+   "start": 52.66,
+   "end": 54.72,
+   "text": "When I get back, I'm gonna..."
+  },
+  {
+   "start": 54.72,
+   "end": 59.04,
+   "text": "I gotta get a program to find my, uh, all of my audiobooks I put on there."
+  },
+  {
+   "start": 59.08,
+   "end": 61.2,
+   "text": "I can't find them because I guess you need an MP3 program."
+  },
+  {
+   "start": 61.62,
+   "end": 65.62,
+   "text": "But there's no space because even though I deleted a whole bunch of stuff off my phone,"
+  },
+  {
+   "start": 65.62,
+   "end": 67.94,
+   "text": "For some reason, there's still not enough space just to put a program."
+  },
+  {
+   "start": 68.1,
+   "end": 68.92,
+   "text": "So that's what I'm gonna do."
+  },
+  {
+   "start": 70.38,
+   "end": 72.3,
+   "text": "Um, I'm having my oatmeal for breakfast."
+  },
+  {
+   "start": 72.7,
+   "end": 73.02,
+   "text": "Oh!"
+  },
+  {
+   "start": 73.02,
+   "end": 81.5,
+   "text": "And, uh, um, today, yeah, yeah, I'm gonna, I think I'm gonna work on the Red Zinger Facebook"
+  },
+  {
+   "start": 81.5,
+   "end": 82.0,
+   "text": "Page."
+  },
+  {
+   "start": 82.12,
+   "end": 86.36,
+   "text": "I, I, I put videos up there and I've got, I want to cut them up in the pictures."
+  },
+  {
+   "start": 87.04,
+   "end": 88.88,
+   "text": "Just spend all day long doing that, man."
+  },
+  {
+   "start": 88.88,
+   "end": 91.36,
+   "text": "Um, and then I'll go back to my Google Earth tomorrow."
+  },
+  {
+   "start": 91.56,
+   "end": 93.68,
+   "text": "So it's good to take a little break, I think, for that."
+  },
+  {
+   "start": 95.06,
+   "end": 99.06,
+   "text": "Um, but yeah, my goal, my ETA is still the end of April for Google Earth and Boulder."
+  },
+  {
+   "start": 101.0,
+   "end": 102.54,
+   "text": "Whoops, excuse me."
+  },
+  {
+   "start": 103.36,
+   "end": 107.2,
+   "text": "So yeah, I don't know if I'll try to even do news today, but maybe I'll try to."
+  },
+  {
+   "start": 107.2,
+   "end": 111.06,
+   "text": "I didn't do, did you, yesterday or I guess day before or whatever, because I was just"
+  },
+  {
+   "start": 111.06,
+   "end": 115.88,
+   "text": "Like too many new things going on, you know, with the phone and the videos and stuff, bike"
+  },
+  {
+   "start": 115.88,
+   "end": 116.6,
+   "text": "Videos, so."
+  },
+  {
+   "start": 118.0,
+   "end": 119.72,
+   "text": "Okay, so that's enough, man."
+  },
+  {
+   "start": 119.8,
+   "end": 120.72,
+   "text": "Daily V-Log."
+  },
+  {
+   "start": 120.86,
+   "end": 122.56,
+   "text": "Keep it up every day."
+  },
+  {
+   "start": 122.86,
+   "end": 123.66,
+   "text": "Peace out."
+  }
+ ]
+}

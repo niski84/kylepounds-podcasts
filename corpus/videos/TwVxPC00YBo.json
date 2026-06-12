@@ -1,0 +1,2469 @@
+{
+ "youtube_id": "TwVxPC00YBo",
+ "title": "Living in Boulder vlog 9-16-2018: History Books, still",
+ "url": "https://youtu.be/TwVxPC00YBo",
+ "published_at": "2018-09-15",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives an update on his ongoing history books website project, which he's been stuck on for weeks working through ancient texts like the Vedas and Augustine. He discusses his philosophy around speed reading, website design for dense information, and his cycle of getting stressed and wanting to exercise but using the website as justification not to. He also outlines roughly 2.5 years of planned website projects including Google Earth-style maps of Rome and Boulder, and floats a Patreon idea where he'd only start exercising if fans buy him a time trial bike.",
+  "speaker": "kyle",
+  "topics": [
+   "website project update",
+   "history books project",
+   "speed reading philosophy",
+   "website design philosophy",
+   "exercise avoidance",
+   "Patreon idea",
+   "ancient texts",
+   "personal stress",
+   "long-term project planning"
+  ],
+  "stances": [
+   {
+    "topic": "history books / ancient texts",
+    "position": "The world needs all history books compiled in one uniform browsable format — this is more valuable than modern commentary"
+   },
+   {
+    "topic": "website design",
+    "position": "Maximize text density on screen to enable speed reading; children's-book-style big-font paginated apps are the wrong direction"
+   },
+   {
+    "topic": "modern intellectual culture",
+    "position": "People should anchor around original ancient texts like Greek philosophers rather than following modern commentators like Sam Harris or Ben Shapiro"
+   },
+   {
+    "topic": "exercise",
+    "position": "Knows it would help his learning and mental health but is using the website as justification to delay indefinitely"
+   },
+   {
+    "topic": "doing the work alone",
+    "position": "Sees merit in building his website solo, and plans to leverage not being paid by Google as a point of principle"
+   },
+   {
+    "topic": "Patreon",
+    "position": "Willing to join Patreon but only to crowdfund a time trial bike as a condition for starting exercise — framed as a psychological hack"
+   }
+  ],
+  "entities": [
+   "the Vedas",
+   "Rig Veda",
+   "Augustine of Hippo",
+   "St. John Chrysostom",
+   "Gregory the Great",
+   "Bob Woodward",
+   "Sam Harris",
+   "Ben Shapiro",
+   "Steven Molyneux",
+   "Steve Bannon",
+   "Donald Trump",
+   "Kyle's mom",
+   "Boulder",
+   "Rome",
+   "Strava",
+   "Adobe Stock",
+   "Google Earth",
+   "Patreon",
+   "Kindle",
+   "Librivox"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.27,
+   "end": 4.27,
+   "text": "Hello, it's live an unbolt or V-log."
+  },
+  {
+   "start": 4.27,
+   "end": 14.27,
+   "text": "For it 1.10 a.m. on September 15th, 2018."
+  },
+  {
+   "start": 14.27,
+   "end": 19.27,
+   "text": "This is my third time doing the video."
+  },
+  {
+   "start": 19.27,
+   "end": 24.27,
+   "text": "The first time the volume was turned to down."
+  },
+  {
+   "start": 24.27,
+   "end": 29.27,
+   "text": "On the microphone and I could be hearing myself, I actually had a check to make sure it was turned out"
+  },
+  {
+   "start": 29.27,
+   "end": 32.27,
+   "text": "but I didn't turn it down since I turned it up all the way."
+  },
+  {
+   "start": 32.27,
+   "end": 41.27,
+   "text": "And then the second time I was naked and I had the camera tilted too far down and so you could tell that I was naked."
+  },
+  {
+   "start": 41.27,
+   "end": 48.27,
+   "text": "Like when I moved, you could see the part of my skin, you know, between my waist and my crotch and you could see that I had nothing on."
+  },
+  {
+   "start": 48.27,
+   "end": 51.27,
+   "text": "And then I kept putting my hand down there and stuff."
+  },
+  {
+   "start": 51.27,
+   "end": 53.27,
+   "text": "It looked like... looked bad."
+  },
+  {
+   "start": 53.27,
+   "end": 55.27,
+   "text": "So..."
+  },
+  {
+   "start": 55.27,
+   "end": 60.27,
+   "text": "So... I have to redo it for the third time."
+  },
+  {
+   "start": 60.27,
+   "end": 64.27,
+   "text": "And that was like yesterday morning but that probably wasn't the greatest video anyway."
+  },
+  {
+   "start": 64.27,
+   "end": 70.27,
+   "text": "I was probably kind of tired. I did it like at 9 in the morning after having a bit of a follow-up."
+  },
+  {
+   "start": 70.27,
+   "end": 75.27,
+   "text": "So let me tell about... I'm pretty awake right now."
+  },
+  {
+   "start": 75.27,
+   "end": 82.27,
+   "text": "It's 11 in the morning but I get up at like 2 in the afternoon or whatever."
+  },
+  {
+   "start": 82.27,
+   "end": 85.27,
+   "text": "So it's like noon time for me."
+  },
+  {
+   "start": 85.27,
+   "end": 93.27,
+   "text": "So... I... since the last time I did a video it was like 2 weeks ago and I thought it was just one week ago."
+  },
+  {
+   "start": 93.27,
+   "end": 96.27,
+   "text": "But yeah it was 2 weeks ago."
+  },
+  {
+   "start": 96.27,
+   "end": 100.27,
+   "text": "When I did the video last time, I was..."
+  },
+  {
+   "start": 100.27,
+   "end": 114.12,
+   "text": "I was working on history books and I'm still working on the history books."
+  },
+  {
+   "start": 115.12,
+   "end": 122.12,
+   "text": "It's a project I got stuck on the... the Vedas."
+  },
+  {
+   "start": 122.12,
+   "end": 126.12,
+   "text": "And..."
+  },
+  {
+   "start": 126.12,
+   "end": 136.26,
+   "text": "And the Rig Vedas took a long time because there was tables with tables and I've never done that before."
+  },
+  {
+   "start": 136.26,
+   "end": 139.26,
+   "text": "I had to rebuild, make a new template for it."
+  },
+  {
+   "start": 139.26,
+   "end": 145.26,
+   "text": "Then I'd drug and drop the stuff that I had before but it was wrong and would have been faster to build different scratch."
+  },
+  {
+   "start": 145.26,
+   "end": 152.26,
+   "text": "But I ended up finishing it and then I had to do other ones to go while it took me a long time to do."
+  },
+  {
+   "start": 152.26,
+   "end": 158.26,
+   "text": "I see August time of Hippo."
+  },
+  {
+   "start": 158.26,
+   "end": 164.26,
+   "text": "There was just lots of chapters that I had to..."
+  },
+  {
+   "start": 164.26,
+   "end": 171.26,
+   "text": "If it's a name to chapter I have to add a time pages and time to it."
+  },
+  {
+   "start": 171.26,
+   "end": 176.26,
+   "text": "And so now I'm going on St. John Cresastrum."
+  },
+  {
+   "start": 176.26,
+   "end": 179.26,
+   "text": "And that's really big too."
+  },
+  {
+   "start": 179.26,
+   "end": 182.26,
+   "text": "He's like..."
+  },
+  {
+   "start": 182.26,
+   "end": 186.26,
+   "text": "You say in August time and then I'm going to do some others."
+  },
+  {
+   "start": 186.26,
+   "end": 193.26,
+   "text": "It's not that many more and then make sure that all the ones in the entire list are up to snuff."
+  },
+  {
+   "start": 193.26,
+   "end": 195.26,
+   "text": "It didn't totally check."
+  },
+  {
+   "start": 195.26,
+   "end": 199.26,
+   "text": "It's hard to totally check everything in all of them."
+  },
+  {
+   "start": 199.26,
+   "end": 208.26,
+   "text": "A couple of books ago or the last book I think I'd made for gotten to look and make sure that all the chapters in the bodies are actually had the right numbers on them and stuff."
+  },
+  {
+   "start": 208.26,
+   "end": 211.26,
+   "text": "And I haven't checked all the links of everything."
+  },
+  {
+   "start": 211.26,
+   "end": 216.54,
+   "text": "So probably work at least another week on these history books."
+  },
+  {
+   "start": 216.54,
+   "end": 220.54,
+   "text": "Before I'm done, I don't think I want to move on anything else."
+  },
+  {
+   "start": 220.54,
+   "end": 223.54,
+   "text": "I've worked on this for a game project for..."
+  },
+  {
+   "start": 224.54,
+   "end": 227.54,
+   "text": "A long time man."
+  },
+  {
+   "start": 227.54,
+   "end": 231.54,
+   "text": "As long as I've worked on anything for one period of time it seems like so."
+  },
+  {
+   "start": 231.54,
+   "end": 235.33,
+   "text": "Okay, I gotta be honest."
+  },
+  {
+   "start": 235.33,
+   "end": 240.33,
+   "text": "I am starting to feel stress in my mind."
+  },
+  {
+   "start": 240.33,
+   "end": 246.33,
+   "text": "Kind of like the identity crisis, midlife crisis thing."
+  },
+  {
+   "start": 246.33,
+   "end": 250.33,
+   "text": "People get it when they smoke weed and they have them smoking weed."
+  },
+  {
+   "start": 250.33,
+   "end": 252.33,
+   "text": "But I smoke weed all the time."
+  },
+  {
+   "start": 252.33,
+   "end": 259.64,
+   "text": "I'm just wondering maybe I should start exercising and stuff."
+  },
+  {
+   "start": 259.64,
+   "end": 263.64,
+   "text": "So I think I said in the last video that I was going to do that."
+  },
+  {
+   "start": 263.64,
+   "end": 265.64,
+   "text": "I..."
+  },
+  {
+   "start": 265.64,
+   "end": 269.64,
+   "text": "Yeah, and so I have all the bits and pieces."
+  },
+  {
+   "start": 269.64,
+   "end": 274.64,
+   "text": "If I wanted to do it, oh, but I had an idea."
+  },
+  {
+   "start": 274.64,
+   "end": 281.64,
+   "text": "A way for me to psychologically get myself to not experience any stress."
+  },
+  {
+   "start": 281.64,
+   "end": 285.64,
+   "text": "Having to do with continuing to work on my website."
+  },
+  {
+   "start": 285.64,
+   "end": 287.64,
+   "text": "You know?"
+  },
+  {
+   "start": 287.64,
+   "end": 299.64,
+   "text": "Because of the world of social media, it is kind of difficult to avoid watching all these people do all these things outside."
+  },
+  {
+   "start": 299.64,
+   "end": 302.64,
+   "text": "Without you kind of getting over."
+  },
+  {
+   "start": 302.64,
+   "end": 304.64,
+   "text": "Hmm, stressed about it."
+  },
+  {
+   "start": 304.64,
+   "end": 309.64,
+   "text": "So I found out a way to avoid the stress and so what I do is I..."
+  },
+  {
+   "start": 310.64,
+   "end": 312.64,
+   "text": "I think I'm going to get on Patreon."
+  },
+  {
+   "start": 312.64,
+   "end": 313.64,
+   "text": "I'm going to have to make a three minute video."
+  },
+  {
+   "start": 313.64,
+   "end": 316.64,
+   "text": "That's the thing that's been keeping me off Patreon as I don't..."
+  },
+  {
+   "start": 316.64,
+   "end": 319.64,
+   "text": "I felt like I haven't had the time to make a good three minute video."
+  },
+  {
+   "start": 319.64,
+   "end": 323.64,
+   "text": "But yeah, pretty soon, I make a three minute video of Patreon."
+  },
+  {
+   "start": 323.64,
+   "end": 325.64,
+   "text": "And I'll see in the video I'll be like..."
+  },
+  {
+   "start": 325.64,
+   "end": 332.64,
+   "text": "Well, if people buy me the very best time trial bike that there is, I'll start exercising."
+  },
+  {
+   "start": 332.64,
+   "end": 336.64,
+   "text": "Because that's like... that's like science."
+  },
+  {
+   "start": 336.64,
+   "end": 339.64,
+   "text": "I can do proper science for bike school."
+  },
+  {
+   "start": 339.64,
+   "end": 342.64,
+   "text": "If I have a time trial bike, I have it all."
+  },
+  {
+   "start": 342.64,
+   "end": 344.64,
+   "text": "Hmm..."
+  },
+  {
+   "start": 344.64,
+   "end": 345.64,
+   "text": "Kind of really time trial bikes."
+  },
+  {
+   "start": 345.64,
+   "end": 347.64,
+   "text": "Most of the people I'm there on time trial bikes."
+  },
+  {
+   "start": 347.64,
+   "end": 349.64,
+   "text": "I have to be on the same bikes as everybody else."
+  },
+  {
+   "start": 349.64,
+   "end": 351.64,
+   "text": "Or else the science is going to get screwed."
+  },
+  {
+   "start": 351.64,
+   "end": 352.64,
+   "text": "It's good."
+  },
+  {
+   "start": 352.64,
+   "end": 354.64,
+   "text": "So..."
+  },
+  {
+   "start": 354.64,
+   "end": 357.64,
+   "text": "Yeah, and I'll just be like, look, until I get the 20,000 or whatever."
+  },
+  {
+   "start": 357.64,
+   "end": 359.64,
+   "text": "Until I get that bike, I'm not doing anything."
+  },
+  {
+   "start": 359.64,
+   "end": 361.64,
+   "text": "I'm just going to work on my website."
+  },
+  {
+   "start": 361.64,
+   "end": 363.64,
+   "text": "And that's all I'm going to do."
+  },
+  {
+   "start": 363.64,
+   "end": 367.64,
+   "text": "And then so then that gives me a reason to not work on tonight exercising."
+  },
+  {
+   "start": 367.64,
+   "end": 369.64,
+   "text": "I know but you'll have a reason to be like, do you see?"
+  },
+  {
+   "start": 369.64,
+   "end": 370.64,
+   "text": "Do you see, do you see bag with big bag?"
+  },
+  {
+   "start": 370.64,
+   "end": 372.64,
+   "text": "I'll be like, look man, I'm not my problem."
+  },
+  {
+   "start": 372.64,
+   "end": 374.64,
+   "text": "The world says for me to not do it."
+  },
+  {
+   "start": 374.64,
+   "end": 377.64,
+   "text": "Everybody wants me to keep working on my god-deng website."
+  },
+  {
+   "start": 377.64,
+   "end": 380.64,
+   "text": "Because they love it so much and they can't wait for it to be done."
+  },
+  {
+   "start": 380.64,
+   "end": 384.64,
+   "text": "You know, it's like a win-win situation for me."
+  },
+  {
+   "start": 384.64,
+   "end": 387.64,
+   "text": "So I might do that if I start feeling stressed."
+  },
+  {
+   "start": 387.64,
+   "end": 390.64,
+   "text": "Because that's kind of like what happens."
+  },
+  {
+   "start": 390.64,
+   "end": 393.64,
+   "text": "That's like the cycle I've noticed."
+  },
+  {
+   "start": 393.64,
+   "end": 398.64,
+   "text": "We're working on my website and then I get stressed."
+  },
+  {
+   "start": 398.64,
+   "end": 400.64,
+   "text": "And I'm like, oh hey, let's do the exercise stuff."
+  },
+  {
+   "start": 400.64,
+   "end": 403.64,
+   "text": "And then I buy a couple of things and I'm like, and get back in the website."
+  },
+  {
+   "start": 403.64,
+   "end": 405.64,
+   "text": "And then I'm like, hey, let's do the exercise stuff."
+  },
+  {
+   "start": 405.64,
+   "end": 407.64,
+   "text": "And I buy some more things."
+  },
+  {
+   "start": 407.64,
+   "end": 411.64,
+   "text": "So if I need to buy more things, I'm kind of like running out of things to buy."
+  },
+  {
+   "start": 411.64,
+   "end": 412.64,
+   "text": "I mean, I don't like..."
+  },
+  {
+   "start": 412.64,
+   "end": 415.64,
+   "text": "I could buy bags if I want to go by during."
+  },
+  {
+   "start": 415.64,
+   "end": 417.64,
+   "text": "I could buy the time-trap bike."
+  },
+  {
+   "start": 417.64,
+   "end": 419.64,
+   "text": "But I'm not going to do that."
+  },
+  {
+   "start": 419.64,
+   "end": 423.64,
+   "text": "I'm not going to be like, I'm not going to be like,"
+  },
+  {
+   "start": 423.64,
+   "end": 425.64,
+   "text": "I'm not going to be like, be blinding a time-trap bike."
+  },
+  {
+   "start": 425.64,
+   "end": 428.64,
+   "text": "And then I'm like, okay, now I'm not going to do anything until it now."
+  },
+  {
+   "start": 428.64,
+   "end": 431.64,
+   "text": "I get a cycle-cras bike or a mountain bike."
+  },
+  {
+   "start": 431.64,
+   "end": 436.18,
+   "text": "I would be very tempted to do it with a mountain bike,"
+  },
+  {
+   "start": 436.18,
+   "end": 437.18,
+   "text": "but I wouldn't."
+  },
+  {
+   "start": 437.18,
+   "end": 440.55,
+   "text": "I wouldn't be bad."
+  },
+  {
+   "start": 440.55,
+   "end": 443.55,
+   "text": "So yeah, I think that might be what I'll do."
+  },
+  {
+   "start": 443.55,
+   "end": 445.55,
+   "text": "But the problem is if I get on Patreon that way,"
+  },
+  {
+   "start": 445.55,
+   "end": 447.55,
+   "text": "I'm going to get on Patreon that way."
+  },
+  {
+   "start": 447.55,
+   "end": 449.55,
+   "text": "Three minute video."
+  },
+  {
+   "start": 449.55,
+   "end": 453.55,
+   "text": "Okay, so let me explain what I'm up to, okay?"
+  },
+  {
+   "start": 453.55,
+   "end": 457.55,
+   "text": "So since the last time I was stuck on these books,"
+  },
+  {
+   "start": 457.55,
+   "end": 459.55,
+   "text": "it just takes a long time, man."
+  },
+  {
+   "start": 459.55,
+   "end": 461.55,
+   "text": "It's called Life."
+  },
+  {
+   "start": 461.55,
+   "end": 463.55,
+   "text": "I'm doing it by myself."
+  },
+  {
+   "start": 463.55,
+   "end": 465.55,
+   "text": "I think there's merit in that."
+  },
+  {
+   "start": 465.55,
+   "end": 466.55,
+   "text": "It's good street crowd."
+  },
+  {
+   "start": 466.55,
+   "end": 469.55,
+   "text": "It's also good street crowd that I don't get paid by Google."
+  },
+  {
+   "start": 469.55,
+   "end": 471.55,
+   "text": "I'm going to use that against them and for me and the future."
+  },
+  {
+   "start": 471.55,
+   "end": 473.55,
+   "text": "Maybe even back soon."
+  },
+  {
+   "start": 473.55,
+   "end": 478.55,
+   "text": "And see, I'm older now and I'm smarter."
+  },
+  {
+   "start": 478.55,
+   "end": 481.55,
+   "text": "When I was young and I think most people are like this."
+  },
+  {
+   "start": 481.55,
+   "end": 483.55,
+   "text": "When you're young, you're only thinking about money."
+  },
+  {
+   "start": 483.55,
+   "end": 486.55,
+   "text": "When you get old, you start thinking about principle."
+  },
+  {
+   "start": 486.55,
+   "end": 489.55,
+   "text": "You realize that that's what's actually important, so."
+  },
+  {
+   "start": 489.55,
+   "end": 491.55,
+   "text": "So yeah."
+  },
+  {
+   "start": 491.55,
+   "end": 497.55,
+   "text": "So, so anyways, let me say what I wanted to do after I finished my..."
+  },
+  {
+   "start": 497.55,
+   "end": 499.55,
+   "text": "...Hee-hee."
+  },
+  {
+   "start": 499.55,
+   "end": 501.55,
+   "text": "History books on my website."
+  },
+  {
+   "start": 501.55,
+   "end": 507.55,
+   "text": "There are... See, this is why I don't want to do anything to work on my website."
+  },
+  {
+   "start": 507.55,
+   "end": 511.55,
+   "text": "There are a lot of other projects on my website that if they were done."
+  },
+  {
+   "start": 511.55,
+   "end": 520.27,
+   "text": "I mean, apart from me, the world, it would do the world real good."
+  },
+  {
+   "start": 520.27,
+   "end": 522.27,
+   "text": "I mean, these are stuff that the world needs."
+  },
+  {
+   "start": 522.27,
+   "end": 524.27,
+   "text": "Like my history books."
+  },
+  {
+   "start": 524.27,
+   "end": 526.27,
+   "text": "The world needs, my history needs."
+  },
+  {
+   "start": 526.27,
+   "end": 532.27,
+   "text": "Like all of the history's books in one book."
+  },
+  {
+   "start": 532.27,
+   "end": 536.27,
+   "text": "In one language, they all look the same, franchise."
+  },
+  {
+   "start": 536.27,
+   "end": 539.27,
+   "text": "So you just click around and click around and click around and click around and click around them."
+  },
+  {
+   "start": 539.27,
+   "end": 541.27,
+   "text": "That's what learning a book is about."
+  },
+  {
+   "start": 541.27,
+   "end": 543.27,
+   "text": "That's how the world has changed."
+  },
+  {
+   "start": 543.27,
+   "end": 545.27,
+   "text": "I was explaining this to my mom today."
+  },
+  {
+   "start": 545.27,
+   "end": 547.27,
+   "text": "She invited me over for some dinner."
+  },
+  {
+   "start": 547.27,
+   "end": 550.27,
+   "text": "And I was telling her, you know, I was like,"
+  },
+  {
+   "start": 550.27,
+   "end": 552.27,
+   "text": "Why the fuck have you asked me about my website?"
+  },
+  {
+   "start": 552.27,
+   "end": 555.27,
+   "text": "Like I go over there and she's giving me food and she's talking about Trump and stuff."
+  },
+  {
+   "start": 555.27,
+   "end": 558.27,
+   "text": "And I'm like, you have to ask people about their lives."
+  },
+  {
+   "start": 558.27,
+   "end": 561.27,
+   "text": "You know, don't be a fucking sociopath."
+  },
+  {
+   "start": 561.27,
+   "end": 563.27,
+   "text": "So she's like, Oh, right. Yeah. What about your website?"
+  },
+  {
+   "start": 563.27,
+   "end": 569.27,
+   "text": "And she's like, I'm like, I'm like, um, well, there's really,"
+  },
+  {
+   "start": 569.27,
+   "end": 573.27,
+   "text": "You really have to do what I'm doing with the audiobooks, so that mom is done."
+  },
+  {
+   "start": 573.27,
+   "end": 581.27,
+   "text": "Because, um, you, um, I'm in, I lost my fucking train of fun."
+  },
+  {
+   "start": 581.27,
+   "end": 584.27,
+   "text": "You, uh, oh, yeah."
+  },
+  {
+   "start": 584.27,
+   "end": 587.27,
+   "text": "World, the way that you read is changed,"
+  },
+  {
+   "start": 587.27,
+   "end": 590.27,
+   "text": "the, um, before you would like read a book."
+  },
+  {
+   "start": 590.27,
+   "end": 593.27,
+   "text": "It's like, have you read the book? You know, you go through the book."
+  },
+  {
+   "start": 593.27,
+   "end": 596.27,
+   "text": "And then it, but nobody wants to talk about their book, you know,"
+  },
+  {
+   "start": 596.27,
+   "end": 598.27,
+   "text": "because for people reading a book, it's just kind of like,"
+  },
+  {
+   "start": 598.27,
+   "end": 601.27,
+   "text": "the experience of reading the book at the time of reading the book."
+  },
+  {
+   "start": 601.27,
+   "end": 607.27,
+   "text": "And then, yeah, it adds to a life, but you're not expected to memorize the entire book."
+  },
+  {
+   "start": 607.27,
+   "end": 614.27,
+   "text": "I think we need to change and look at books and something that you continuously go back to"
+  },
+  {
+   "start": 614.27,
+   "end": 618.27,
+   "text": "over and over again because, you know, there is an important book."
+  },
+  {
+   "start": 618.27,
+   "end": 624.27,
+   "text": "Instead of doing like half-ass books written by Joe Blot about whatever, you know,"
+  },
+  {
+   "start": 624.27,
+   "end": 628.27,
+   "text": "just, you know, modern day, a fluff."
+  },
+  {
+   "start": 628.27,
+   "end": 634.27,
+   "text": "You're staying at the surface level, but if much better to spend that same time learning"
+  },
+  {
+   "start": 634.27,
+   "end": 637.27,
+   "text": "a really important book, cover to cover."
+  },
+  {
+   "start": 637.27,
+   "end": 642.27,
+   "text": "And then you can talk about that book, you know, instead of, because that's the non-dilution"
+  },
+  {
+   "start": 642.27,
+   "end": 647.27,
+   "text": "of knowledge, because what other people, people do too much, is they'll get somebody"
+  },
+  {
+   "start": 647.27,
+   "end": 654.27,
+   "text": "read like the central book of the pillar of our culture, you know, like the Greek philosophers."
+  },
+  {
+   "start": 654.27,
+   "end": 658.27,
+   "text": "And then they'll come, I'll expound about that and then they'll try to get everybody to read their book."
+  },
+  {
+   "start": 658.27,
+   "end": 661.27,
+   "text": "Like, why don't you try to get everybody to read the original books?"
+  },
+  {
+   "start": 661.27,
+   "end": 665.27,
+   "text": "And then talk about that, because then we would have something for us to anchor ourselves around"
+  },
+  {
+   "start": 665.27,
+   "end": 671.27,
+   "text": "culturally. You know, you wouldn't be anchoring ourselves around like a femoral modern day."
+  },
+  {
+   "start": 671.27,
+   "end": 677.27,
+   "text": "Like, the garden day, leaders like the gauze, those guys in the dark web,"
+  },
+  {
+   "start": 677.27,
+   "end": 682.27,
+   "text": "who know the West. Everybody follows Ben Shapiro and the Sam Harris."
+  },
+  {
+   "start": 682.27,
+   "end": 687.27,
+   "text": "Then these guys, they have specific things they talk about, you know, Sam Harris doesn't like the Muslims."
+  },
+  {
+   "start": 687.27,
+   "end": 689.27,
+   "text": "Ben Shapiro doesn't like like poor people or whatever."
+  },
+  {
+   "start": 689.27,
+   "end": 696.27,
+   "text": "Who else? Steven Molli knew once to not like the blacks."
+  },
+  {
+   "start": 696.27,
+   "end": 699.27,
+   "text": "And it's because we're all following modern day people."
+  },
+  {
+   "start": 699.27,
+   "end": 706.27,
+   "text": "If we all follow the same thing, like because we have to think of the ancient Greek philosophers and the ancient Greek writings"
+  },
+  {
+   "start": 706.27,
+   "end": 710.27,
+   "text": "as like our constitution of our society."
+  },
+  {
+   "start": 710.27,
+   "end": 714.27,
+   "text": "And so if you're going to be good at law and knowledge and everything, you want to be familiar with the original constitution."
+  },
+  {
+   "start": 714.27,
+   "end": 717.27,
+   "text": "And then so we all look at that, we all talk about that."
+  },
+  {
+   "start": 717.27,
+   "end": 720.27,
+   "text": "And so it keeps us grounded. I mean, that is good information."
+  },
+  {
+   "start": 720.27,
+   "end": 723.27,
+   "text": "It's kind of like, you want to think of it as the golden information."
+  },
+  {
+   "start": 723.27,
+   "end": 726.27,
+   "text": "You know, thousands of years ago everybody's writing all this stuff."
+  },
+  {
+   "start": 726.27,
+   "end": 729.27,
+   "text": "And then it's time goes on people throw away books or burn books."
+  },
+  {
+   "start": 729.27,
+   "end": 733.27,
+   "text": "And the stuff that we have now that exists still because it was the best."
+  },
+  {
+   "start": 733.27,
+   "end": 735.27,
+   "text": "The cream rises to the top."
+  },
+  {
+   "start": 735.27,
+   "end": 748.27,
+   "text": "And so, you know, if you know, you know, that hear about like all the principles of Christianity, you know, that are all like selfless and all that stuff, giving and all that."
+  },
+  {
+   "start": 748.27,
+   "end": 752.27,
+   "text": "You know, that stuff that's kind of against our nature."
+  },
+  {
+   "start": 752.27,
+   "end": 756.27,
+   "text": "So we have to write it down to kind of remind ourselves that that's the best way to be."
+  },
+  {
+   "start": 756.27,
+   "end": 764.27,
+   "text": "But the ancient Greek philosophers were the same way. They said the same stuff, you know, forgiveness and all that kind of stuff and easy going or whatever."
+  },
+  {
+   "start": 764.27,
+   "end": 765.27,
+   "text": "Whatever."
+  },
+  {
+   "start": 765.27,
+   "end": 766.27,
+   "text": "Yeah."
+  },
+  {
+   "start": 766.27,
+   "end": 770.27,
+   "text": "So anyways, that's why it's important."
+  },
+  {
+   "start": 770.27,
+   "end": 773.27,
+   "text": "And but reading is that I'm saying is reading has become different."
+  },
+  {
+   "start": 773.27,
+   "end": 774.27,
+   "text": "It's evolved."
+  },
+  {
+   "start": 774.27,
+   "end": 777.27,
+   "text": "Speed reading is what we need we're doing now more."
+  },
+  {
+   "start": 777.27,
+   "end": 779.27,
+   "text": "You know, like, I read all day long all day."
+  },
+  {
+   "start": 779.27,
+   "end": 781.27,
+   "text": "That's all I do is speed reading."
+  },
+  {
+   "start": 781.27,
+   "end": 784.27,
+   "text": "You know, speed reading is like scan reading."
+  },
+  {
+   "start": 784.27,
+   "end": 789.27,
+   "text": "I mean, I mean, I've got a hundred and twenty one thousand pages of books on my website."
+  },
+  {
+   "start": 789.27,
+   "end": 792.27,
+   "text": "Right now."
+  },
+  {
+   "start": 792.27,
+   "end": 798.27,
+   "text": "And that's not the auto free audio history books because that's a different section."
+  },
+  {
+   "start": 798.27,
+   "end": 802.27,
+   "text": "That's like books and book titles and the titles of chapters of all the books."
+  },
+  {
+   "start": 802.27,
+   "end": 805.27,
+   "text": "You can hear people read you from Kindle and the Brevox."
+  },
+  {
+   "start": 805.27,
+   "end": 812.27,
+   "text": "But I have the actual book cover to cover just every book until until like the fall of"
+  },
+  {
+   "start": 812.27,
+   "end": 818.27,
+   "text": "Ram to 64 books might Kindle and the Brevox books are like, what was that like,"
+  },
+  {
+   "start": 818.27,
+   "end": 820.27,
+   "text": "1600 or something?"
+  },
+  {
+   "start": 820.27,
+   "end": 821.27,
+   "text": "Maybe it was less."
+  },
+  {
+   "start": 821.27,
+   "end": 822.27,
+   "text": "1100, 1200."
+  },
+  {
+   "start": 822.27,
+   "end": 825.27,
+   "text": "But so it's more books, but it goes up farther in history."
+  },
+  {
+   "start": 825.27,
+   "end": 828.27,
+   "text": "But I have every book and tell like the fall of Ram."
+  },
+  {
+   "start": 828.27,
+   "end": 831.27,
+   "text": "Like it's like cut off was Gregory the Great."
+  },
+  {
+   "start": 831.27,
+   "end": 836.27,
+   "text": "So, because that was like the last guy from classical world."
+  },
+  {
+   "start": 836.27,
+   "end": 842.27,
+   "text": "So, I have, but so I, so obviously since I've made those books,"
+  },
+  {
+   "start": 842.27,
+   "end": 847.27,
+   "text": "obviously I have come and visual contact with every word."
+  },
+  {
+   "start": 847.27,
+   "end": 850.27,
+   "text": "I mean, I haven't read every word, but I've seen it."
+  },
+  {
+   "start": 850.27,
+   "end": 853.27,
+   "text": "It's hitting my brain, hit my eye."
+  },
+  {
+   "start": 853.27,
+   "end": 855.27,
+   "text": "But I have scanned through this multiple times."
+  },
+  {
+   "start": 855.27,
+   "end": 858.27,
+   "text": "I haven't done just 121,000 pages once."
+  },
+  {
+   "start": 858.27,
+   "end": 862.27,
+   "text": "I just can't through that 120,000 pages like 20 times."
+  },
+  {
+   "start": 862.27,
+   "end": 866.27,
+   "text": "Each, each word 20 times already at least."
+  },
+  {
+   "start": 866.27,
+   "end": 870.27,
+   "text": "And so, that's the beginning of learning a book."
+  },
+  {
+   "start": 870.27,
+   "end": 873.27,
+   "text": "I mean, I feel like I'm learning a book because I'm speed reading."
+  },
+  {
+   "start": 873.27,
+   "end": 875.27,
+   "text": "I'm doing all the levels of speed reading."
+  },
+  {
+   "start": 875.27,
+   "end": 878.27,
+   "text": "I'm speed reading only scanning for numbers."
+  },
+  {
+   "start": 878.27,
+   "end": 882.27,
+   "text": "If there's missing numbers, if the beginnings of the chapters, I'm speed reading for numbers"
+  },
+  {
+   "start": 882.27,
+   "end": 884.27,
+   "text": "that shouldn't be there."
+  },
+  {
+   "start": 884.27,
+   "end": 888.27,
+   "text": "I'm speed reading for little signs, little characters that shouldn't be there."
+  },
+  {
+   "start": 888.27,
+   "end": 892.27,
+   "text": "Like the brackets and the, I'm scanning for, I'm scanning,"
+  },
+  {
+   "start": 892.27,
+   "end": 896.27,
+   "text": "I mean, I look for specific places in the books all the time."
+  },
+  {
+   "start": 896.27,
+   "end": 899.27,
+   "text": "I scan for battles, I scan for dates."
+  },
+  {
+   "start": 899.27,
+   "end": 904.27,
+   "text": "And I've eventually, in see the next level of speed reading is going to be color coded speed reading."
+  },
+  {
+   "start": 904.27,
+   "end": 907.27,
+   "text": "Because you can scan through it, believe me, I know."
+  },
+  {
+   "start": 907.27,
+   "end": 909.27,
+   "text": "Because I put all these books on one page."
+  },
+  {
+   "start": 909.27,
+   "end": 913.27,
+   "text": "You can scan through a fucking 3000 page book."
+  },
+  {
+   "start": 913.27,
+   "end": 916.27,
+   "text": "The entire mother fucking book."
+  },
+  {
+   "start": 916.27,
+   "end": 922.27,
+   "text": "And looking for one quote that's maybe a paragraph."
+  },
+  {
+   "start": 922.27,
+   "end": 929.27,
+   "text": "And, you know, and if you remember like, general what part of the book it was or whatever,"
+  },
+  {
+   "start": 929.27,
+   "end": 932.27,
+   "text": "or maybe then you can find it if it's color coded."
+  },
+  {
+   "start": 932.27,
+   "end": 937.27,
+   "text": "Because then you would have like maybe say a 3000 page book would have 300."
+  },
+  {
+   "start": 937.27,
+   "end": 942.27,
+   "text": "Like how many, how often, how, how, how, how, maybe like half of it's a third of it's"
+  },
+  {
+   "start": 942.27,
+   "end": 947.27,
+   "text": "a third of it's quotes, a third of it would be re-telling of a battle and then a third of it would be just telling the story."
+  },
+  {
+   "start": 947.27,
+   "end": 950.27,
+   "text": "off the top of my head, I've never researched it."
+  },
+  {
+   "start": 950.27,
+   "end": 953.27,
+   "text": "But so that's a thousand pages of quotes, right?"
+  },
+  {
+   "start": 953.27,
+   "end": 954.27,
+   "text": "Interspersed."
+  },
+  {
+   "start": 954.27,
+   "end": 958.27,
+   "text": "If all of that was color coded like red, you'd be able to see it."
+  },
+  {
+   "start": 958.27,
+   "end": 960.27,
+   "text": "You could just scan really fast, did you brain works fast?"
+  },
+  {
+   "start": 960.27,
+   "end": 965.27,
+   "text": "But especially with a big screen, and then you see the quote boom, that's it."
+  },
+  {
+   "start": 965.27,
+   "end": 970.27,
+   "text": "You know, if it's up, so if you have it, even out of ten different colors or whatever,"
+  },
+  {
+   "start": 970.27,
+   "end": 974.27,
+   "text": "and you're looking for some, I mean, I mean, I find stuff all the time also with control"
+  },
+  {
+   "start": 974.27,
+   "end": 975.27,
+   "text": "left."
+  },
+  {
+   "start": 975.27,
+   "end": 979.27,
+   "text": "That's why I put the entire book on one page, so that control that works."
+  },
+  {
+   "start": 979.27,
+   "end": 981.27,
+   "text": "And I think you can do control F on cell phones too."
+  },
+  {
+   "start": 981.27,
+   "end": 985.27,
+   "text": "I've never figured out how to do it in my iPhone 10, which is broken right now."
+  },
+  {
+   "start": 985.27,
+   "end": 988.27,
+   "text": "Dying, and you get me into my orbit."
+  },
+  {
+   "start": 988.27,
+   "end": 994.27,
+   "text": "But I mean, I hear something, and all I have to do is remember a couple words, and I can find where I was in the book."
+  },
+  {
+   "start": 994.27,
+   "end": 998.27,
+   "text": "Like if they see something interesting, or I want to like remember what date that was or where"
+  },
+  {
+   "start": 998.27,
+   "end": 1003.27,
+   "text": "but that was or that funny thing somebody said, you know, you can find it."
+  },
+  {
+   "start": 1003.27,
+   "end": 1005.27,
+   "text": "I can find it all the time."
+  },
+  {
+   "start": 1005.27,
+   "end": 1008.27,
+   "text": "So that's why I did that."
+  },
+  {
+   "start": 1008.27,
+   "end": 1010.27,
+   "text": "I got to kind of carry it away on that."
+  },
+  {
+   "start": 1010.27,
+   "end": 1011.27,
+   "text": "But it's, oh, yeah."
+  },
+  {
+   "start": 1011.27,
+   "end": 1014.27,
+   "text": "So the new way that we read is by scan."
+  },
+  {
+   "start": 1014.27,
+   "end": 1018.27,
+   "text": "Like instead of just like, yes, sure, you'll listen to an entire book or a cover."
+  },
+  {
+   "start": 1018.27,
+   "end": 1022.27,
+   "text": "But then you'll get back to it and try to find the, it's like a game, you know,"
+  },
+  {
+   "start": 1022.27,
+   "end": 1024.27,
+   "text": "puzzle. You try to find the quotes that you liked."
+  },
+  {
+   "start": 1024.27,
+   "end": 1029.27,
+   "text": "And remember they were, because with my website, and actually other people didn't do this to not just me."
+  },
+  {
+   "start": 1029.27,
+   "end": 1034.27,
+   "text": "If I'm saying something, if I'm writing something and I want to be like Steve Bannon, because those guys are smart."
+  },
+  {
+   "start": 1034.27,
+   "end": 1037.27,
+   "text": "You start quoting historians people going to think you're smart."
+  },
+  {
+   "start": 1037.27,
+   "end": 1039.27,
+   "text": "So I say, I quote his story."
+  },
+  {
+   "start": 1039.27,
+   "end": 1042.27,
+   "text": "Well, I can actually direct people to that quote in a story."
+  },
+  {
+   "start": 1042.27,
+   "end": 1045.27,
+   "text": "Because I go, okay, what book was that? And then I remember the quote."
+  },
+  {
+   "start": 1045.27,
+   "end": 1046.27,
+   "text": "And that's the boom."
+  },
+  {
+   "start": 1046.27,
+   "end": 1050.27,
+   "text": "But anybody can do that because my links are done the same and pretty much all my books."
+  },
+  {
+   "start": 1050.27,
+   "end": 1057.27,
+   "text": "The links are the same. Like if you see like book seven chapter 32, then you know the link is going to be seven dash 32."
+  },
+  {
+   "start": 1057.27,
+   "end": 1064.27,
+   "text": "So all you do is go link to that page and then at the end of your link, you just type a row number sign,"
+  },
+  {
+   "start": 1064.27,
+   "end": 1070.27,
+   "text": "pound sign, seven dash 32 and boom, and somebody who clicks it, it's going to take to that part of the book."
+  },
+  {
+   "start": 1070.27,
+   "end": 1073.27,
+   "text": "That quote or that chapter."
+  },
+  {
+   "start": 1073.27,
+   "end": 1079.27,
+   "text": "And then all they have to do is find another 250 words or whatever, because the chapters are pretty small in a lot of books."
+  },
+  {
+   "start": 1079.27,
+   "end": 1083.27,
+   "text": "And then you'll find the quote, you know, or you'll have people do the control out."
+  },
+  {
+   "start": 1083.27,
+   "end": 1087.27,
+   "text": "It's easy as part. And once people get in the habit of that people want to do it."
+  },
+  {
+   "start": 1087.27,
+   "end": 1091.27,
+   "text": "But you have to, but if you're going to be able to do that, you have to be able to link around the book for a quick."
+  },
+  {
+   "start": 1091.27,
+   "end": 1096.27,
+   "text": "And you can't link around and scroll up and down the books if they're divided up into lots of different pages."
+  },
+  {
+   "start": 1096.27,
+   "end": 1099.27,
+   "text": "And so it's time for us to put to condense it."
+  },
+  {
+   "start": 1099.27,
+   "end": 1101.27,
+   "text": "You know, like people are thinking about talking about speed reading."
+  },
+  {
+   "start": 1101.27,
+   "end": 1107.27,
+   "text": "Speed reading is the opposite of children's books. Children's books are huge, yes, font, big ass picture."
+  },
+  {
+   "start": 1107.27,
+   "end": 1112.27,
+   "text": "And then so you have to flip them through the pages. Well, that's what all of the apps on cell phones are look like these days."
+  },
+  {
+   "start": 1112.27,
+   "end": 1115.27,
+   "text": "It's just children's books. Giant font."
+  },
+  {
+   "start": 1115.27,
+   "end": 1123.27,
+   "text": "You know, a big old ad next to it. And it's like if you want to read something, you got to click to the next page and wait for the next page and find it."
+  },
+  {
+   "start": 1123.27,
+   "end": 1129.27,
+   "text": "It's like with my website. My website is set up like Google Earth looking at the world."
+  },
+  {
+   "start": 1129.27,
+   "end": 1131.27,
+   "text": "And then you just zoom in on it. And then you zoom in more."
+  },
+  {
+   "start": 1131.27,
+   "end": 1134.27,
+   "text": "I have it in zoom in and zoom out with all those pages."
+  },
+  {
+   "start": 1134.27,
+   "end": 1139.27,
+   "text": "The list that take up the entire page. It's like a grid. Just like you're looking at a map."
+  },
+  {
+   "start": 1139.27,
+   "end": 1142.27,
+   "text": "And then you just click on it and then it takes you to a new fucking grid."
+  },
+  {
+   "start": 1142.27,
+   "end": 1147.27,
+   "text": "Right? So it's like zooming in and zooming in and you're looking at it. And that's how websites need to look."
+  },
+  {
+   "start": 1147.27,
+   "end": 1151.27,
+   "text": "Because when you look at my website, now I know my website isn't totally polished for cell phones."
+  },
+  {
+   "start": 1151.27,
+   "end": 1153.27,
+   "text": "Some of the fonts different sizes and I'll get around to that."
+  },
+  {
+   "start": 1153.27,
+   "end": 1156.27,
+   "text": "But if you look at my website, you see like just the wall of text."
+  },
+  {
+   "start": 1156.27,
+   "end": 1159.27,
+   "text": "Somebody actually insulted me a couple of years ago."
+  },
+  {
+   "start": 1159.27,
+   "end": 1162.27,
+   "text": "Fuck your website. It's just wall of text. Well, exactly."
+  },
+  {
+   "start": 1162.27,
+   "end": 1165.27,
+   "text": "It's a wall of color-coated text. And then you look at it and you like something."
+  },
+  {
+   "start": 1165.27,
+   "end": 1170.27,
+   "text": "Because when you look, if you're a speed reader, what's the first thing you want to do in your speed reading?"
+  },
+  {
+   "start": 1170.27,
+   "end": 1173.27,
+   "text": "You want to maximize the number of characters on the screen at any given moment."
+  },
+  {
+   "start": 1173.27,
+   "end": 1175.27,
+   "text": "Because you're reading the entire book."
+  },
+  {
+   "start": 1175.27,
+   "end": 1178.27,
+   "text": "So what the hell is everybody making?"
+  },
+  {
+   "start": 1178.27,
+   "end": 1183.27,
+   "text": "Only be able to see a couple of words on the text and give them moment with all these new sites."
+  },
+  {
+   "start": 1183.27,
+   "end": 1188.27,
+   "text": "Every single website. Like if you have a list, it's just one line."
+  },
+  {
+   "start": 1188.27,
+   "end": 1192.27,
+   "text": "You need to have five lines across. There's ten lines all the way across."
+  },
+  {
+   "start": 1192.27,
+   "end": 1196.27,
+   "text": "So you're utilizing every square inch of the page so that you can see the entire list."
+  },
+  {
+   "start": 1196.27,
+   "end": 1199.27,
+   "text": "So it goes the 100 all there. You can see it."
+  },
+  {
+   "start": 1199.27,
+   "end": 1202.27,
+   "text": "So you have to scroll up and down. Because they have to remember what was the scroll up and down."
+  },
+  {
+   "start": 1202.27,
+   "end": 1203.27,
+   "text": "What the fuck?"
+  },
+  {
+   "start": 1203.27,
+   "end": 1207.27,
+   "text": "Speed reading is about scanning through the entire."
+  },
+  {
+   "start": 1207.27,
+   "end": 1211.27,
+   "text": "So if you're going to be able to scan through the entire book, you have to maximize your bandwidth."
+  },
+  {
+   "start": 1211.27,
+   "end": 1217.27,
+   "text": "You maximize the bandwidth by maximizing the text on the screen at that given moment."
+  },
+  {
+   "start": 1217.27,
+   "end": 1222.27,
+   "text": "So that your brain can actually train itself to actually read the entire book right at the same time."
+  },
+  {
+   "start": 1222.27,
+   "end": 1226.27,
+   "text": "And then if you think expense put in, you know, little pictures at the right size."
+  },
+  {
+   "start": 1226.27,
+   "end": 1228.27,
+   "text": "It's a point."
+  },
+  {
+   "start": 1228.27,
+   "end": 1232.27,
+   "text": "Then it's little maximizing more. You can zoom in on the pictures and stuff."
+  },
+  {
+   "start": 1232.27,
+   "end": 1235.27,
+   "text": "And so anyways, so I'm not done with these books."
+  },
+  {
+   "start": 1235.27,
+   "end": 1238.27,
+   "text": "I mean, I'm going to move on to something else after these books."
+  },
+  {
+   "start": 1238.27,
+   "end": 1240.27,
+   "text": "But when I have the money I have to pay the 200 bucks a month."
+  },
+  {
+   "start": 1240.27,
+   "end": 1244.27,
+   "text": "And then I get the 750 free photos, stock photos from Adobe Stock a month."
+  },
+  {
+   "start": 1244.27,
+   "end": 1252.27,
+   "text": "And then I can throw them down on line all the 120 1,000 pages of my books with the photos along with after I do the Google Earth."
+  },
+  {
+   "start": 1252.27,
+   "end": 1259.27,
+   "text": "Now if you go to my Strava Peloponnese chapter chapter eight, you'll see what I'm talking about."
+  },
+  {
+   "start": 1259.27,
+   "end": 1264.27,
+   "text": "Google everything like color-poded the sizes of all the cities of the day, the exact size."
+  },
+  {
+   "start": 1264.27,
+   "end": 1269.27,
+   "text": "Because you can see I made I drew in all of their walls and how far they are from each other."
+  },
+  {
+   "start": 1269.27,
+   "end": 1272.27,
+   "text": "And then under below and how big their walls are."
+  },
+  {
+   "start": 1272.27,
+   "end": 1275.27,
+   "text": "I'll put it on the description of all the book pictures."
+  },
+  {
+   "start": 1275.27,
+   "end": 1277.27,
+   "text": "And so that's how you learn."
+  },
+  {
+   "start": 1277.27,
+   "end": 1279.27,
+   "text": "So that's why I'm doing that project."
+  },
+  {
+   "start": 1279.27,
+   "end": 1281.27,
+   "text": "Holy shit, I got wakery to where I got to hurry up."
+  },
+  {
+   "start": 1281.27,
+   "end": 1283.27,
+   "text": "Because there's lots of other projects."
+  },
+  {
+   "start": 1283.27,
+   "end": 1284.27,
+   "text": "Because there's the problem."
+  },
+  {
+   "start": 1284.27,
+   "end": 1290.27,
+   "text": "When I'm done with these books before I put the photos and just after I fix the links, I'm going to be going, okay."
+  },
+  {
+   "start": 1290.27,
+   "end": 1293.27,
+   "text": "I am going to re-evaluate my situation."
+  },
+  {
+   "start": 1293.27,
+   "end": 1298.27,
+   "text": "I mean, I do have these like, uh, fielder's out all the time looking around."
+  },
+  {
+   "start": 1298.27,
+   "end": 1300.27,
+   "text": "I'm going to be looking at them."
+  },
+  {
+   "start": 1300.27,
+   "end": 1302.27,
+   "text": "Am I going to do that thing where I'm going to be exercising all the time?"
+  },
+  {
+   "start": 1302.27,
+   "end": 1304.27,
+   "text": "Because that sounds like fun."
+  },
+  {
+   "start": 1304.27,
+   "end": 1310.27,
+   "text": "Um, because I'm going to learn so much more when I'm training all the time."
+  },
+  {
+   "start": 1310.27,
+   "end": 1316.27,
+   "text": "Like all these like professional athletes and stuff, they are in such a better position than I am to learn."
+  },
+  {
+   "start": 1316.27,
+   "end": 1318.27,
+   "text": "And that's just them."
+  },
+  {
+   "start": 1318.27,
+   "end": 1327.27,
+   "text": "I'm talking about like, uh, you know, anybody with like a mundane job, like, something where you can think on the book and still do your job."
+  },
+  {
+   "start": 1327.27,
+   "end": 1336.27,
+   "text": "Um, and athletes, athletics is fucking perfect for that because it's got the blood in your brain, you're thinking, you're not having to think about anything else."
+  },
+  {
+   "start": 1336.27,
+   "end": 1345.27,
+   "text": "You know, you're not having to run through like inventory, like if a stalker or somebody, you all you have to do is make sure you don't crash into the bunny rabbit in front of you, you know."
+  },
+  {
+   "start": 1345.27,
+   "end": 1348.27,
+   "text": "So, you know, like the railing or whatever."
+  },
+  {
+   "start": 1348.27,
+   "end": 1352.27,
+   "text": "So, um, it's perfect."
+  },
+  {
+   "start": 1352.27,
+   "end": 1355.27,
+   "text": "So, uh, I mean, that's one reason I want to start doing that."
+  },
+  {
+   "start": 1355.27,
+   "end": 1359.27,
+   "text": "So, I can learn. I'm not really my learning has plateaued."
+  },
+  {
+   "start": 1359.27,
+   "end": 1365.27,
+   "text": "Uh, smoke so much weed up lost interest in learning. I can just sit there all day working, cutting and pacing or whatever."
+  },
+  {
+   "start": 1365.27,
+   "end": 1371.27,
+   "text": "Um, you know, I got that Bob Woodwood book a few days ago and I saw him finish it."
+  },
+  {
+   "start": 1371.27,
+   "end": 1377.27,
+   "text": "And I'm not watching that other, I've got much other stuff. So, that's a good way. I mean, it's a perfect thing to do."
+  },
+  {
+   "start": 1377.27,
+   "end": 1382.27,
+   "text": "But, um, but I might not want to do it, you know, because let me say what else I want to do."
+  },
+  {
+   "start": 1382.27,
+   "end": 1385.27,
+   "text": "God help, I'm not talking for too long. How many long time have I talked?"
+  },
+  {
+   "start": 1385.27,
+   "end": 1388.27,
+   "text": "Long time talk, how many?"
+  },
+  {
+   "start": 1388.27,
+   "end": 1393.27,
+   "text": "Um, oh God, 23 minutes. What was she?"
+  },
+  {
+   "start": 1393.27,
+   "end": 1400.27,
+   "text": "Dude. Okay, so, um, you know what, I shouldn't be a feel bad about taking a long time."
+  },
+  {
+   "start": 1400.27,
+   "end": 1403.27,
+   "text": "Somebody doesn't watch my mother fucking video, I watch my video."
+  },
+  {
+   "start": 1403.27,
+   "end": 1406.27,
+   "text": "I hardly do videos anyway."
+  },
+  {
+   "start": 1406.27,
+   "end": 1416.68,
+   "text": "So, um, um, I, okay, there's two things that I really want to do."
+  },
+  {
+   "start": 1416.68,
+   "end": 1421.68,
+   "text": "There's Googler thing, well, I'm Googler thing, I think I want to Googler a th butter more."
+  },
+  {
+   "start": 1421.68,
+   "end": 1425.68,
+   "text": "Um, I'm almost, it seems like I'm almost done with both."
+  },
+  {
+   "start": 1425.68,
+   "end": 1427.68,
+   "text": "That's how I thought about my history books."
+  },
+  {
+   "start": 1427.68,
+   "end": 1433.68,
+   "text": "And I'm not, I wasn't almost done with my history books. I had to put another month or two in just to get to where I am now."
+  },
+  {
+   "start": 1433.68,
+   "end": 1437.68,
+   "text": "And then there's another step. But I might want to throw in another like three months."
+  },
+  {
+   "start": 1437.68,
+   "end": 1443.68,
+   "text": "Into Boulder. The thing that I was doing before this was creating like all these little villages and stuff up in the mountains and"
+  },
+  {
+   "start": 1443.68,
+   "end": 1447.68,
+   "text": "Stony stuff, but, um, I think I want to go in there."
+  },
+  {
+   "start": 1447.68,
+   "end": 1449.68,
+   "text": "Do Boulder."
+  },
+  {
+   "start": 1449.68,
+   "end": 1452.68,
+   "text": "Uh, and then make videos, YouTube videos."
+  },
+  {
+   "start": 1452.68,
+   "end": 1455.68,
+   "text": "Because I want to be the first. I don't want to make all this."
+  },
+  {
+   "start": 1455.68,
+   "end": 1460.68,
+   "text": "I can't remember if I talked about this or not, it's really difficult to remember what I actually talked about on YouTube."
+  },
+  {
+   "start": 1460.68,
+   "end": 1464.68,
+   "text": "And I took three videos to do my last video and then it takes me three other times to do the video to this video."
+  },
+  {
+   "start": 1464.68,
+   "end": 1466.68,
+   "text": "So that's six fucking videos that I've done."
+  },
+  {
+   "start": 1466.68,
+   "end": 1470.68,
+   "text": "And it but only two uploads. I don't know if I'm talking about this or not."
+  },
+  {
+   "start": 1470.68,
+   "end": 1478.68,
+   "text": "Um, one thing that's motivating me to continue working on my website is I hate the idea of wasting time."
+  },
+  {
+   "start": 1478.68,
+   "end": 1482.68,
+   "text": "And I'll feel like my time's wasted if somebody else does something that I've done."
+  },
+  {
+   "start": 1482.68,
+   "end": 1488.68,
+   "text": "Like if I, like if I give up and I do something else and then somebody else builds Boulder Rome, I'll be like, well great. Why the fuck did I do it?"
+  },
+  {
+   "start": 1488.68,
+   "end": 1498.68,
+   "text": "You know what I mean? So, um, it would make it a lot easier if somebody were to be like, hey, I got the idea from Kyle."
+  },
+  {
+   "start": 1498.68,
+   "end": 1500.68,
+   "text": "I skimmed some stuff off Kyle."
+  },
+  {
+   "start": 1500.68,
+   "end": 1506.68,
+   "text": "But um, see, so I would at least, I would want to, I want to be a cog in the system."
+  },
+  {
+   "start": 1506.68,
+   "end": 1510.68,
+   "text": "I don't want to be like this dude wasting time off in the corner."
+  },
+  {
+   "start": 1510.68,
+   "end": 1514.68,
+   "text": "While everybody else was helping everybody build Google Earth on Boulder Rome."
+  },
+  {
+   "start": 1514.68,
+   "end": 1518.68,
+   "text": "I would have a part of it because I gave up halfway through or whatever."
+  },
+  {
+   "start": 1518.68,
+   "end": 1522.68,
+   "text": "So, the problem is I have so many of these projects that are like that. So I think what I'm going to do is I'm going to finish Boulder Rome."
+  },
+  {
+   "start": 1522.68,
+   "end": 1526.68,
+   "text": "Make the YouTube videos put a fuck, I'll fucking fork in it."
+  },
+  {
+   "start": 1526.68,
+   "end": 1530.68,
+   "text": "Um, and then I'm going to do Rome for the same reasons."
+  },
+  {
+   "start": 1530.68,
+   "end": 1537.68,
+   "text": "So, but anyways, I did the calculations in my last video. And so I figured two and a half more years of work just work on my website."
+  },
+  {
+   "start": 1537.68,
+   "end": 1542.68,
+   "text": "Because that's 10 projects at three months each. Three times 10 is a year and a half, two and a half years,"
+  },
+  {
+   "start": 1542.68,
+   "end": 1550.68,
+   "text": "to 30 months. And so, one of them is, um, is, um, a history book."
+  },
+  {
+   "start": 1550.68,
+   "end": 1555.68,
+   "text": "The other one's going to be, um, uh, free out of history books."
+  },
+  {
+   "start": 1555.68,
+   "end": 1557.68,
+   "text": "Although I don't have that much more time left on that one."
+  },
+  {
+   "start": 1557.68,
+   "end": 1560.68,
+   "text": "But, uh, Google Earthing Rome probably know the three months at least."
+  },
+  {
+   "start": 1560.68,
+   "end": 1565.68,
+   "text": "Google Earthing Boulder, yeah, three months, Boulder Rome itself probably threw it through itself."
+  },
+  {
+   "start": 1566.68,
+   "end": 1570.68,
+   "text": "Um, that's Boulder Rome is Rome on top of Boulder."
+  },
+  {
+   "start": 1570.68,
+   "end": 1579.68,
+   "text": "Um, and then, um, and then, um, um, well, I'd like to do politics."
+  },
+  {
+   "start": 1579.68,
+   "end": 1583.68,
+   "text": "And then news, just at least get it started, like maybe three months each."
+  },
+  {
+   "start": 1583.68,
+   "end": 1590.68,
+   "text": "And then, um, kind of why was my brain farting? There's all sorts of stuff on my website."
+  },
+  {
+   "start": 1590.68,
+   "end": 1595.68,
+   "text": "There's the TV show, Boulder Rome, but that's different."
+  },
+  {
+   "start": 1595.68,
+   "end": 1598.68,
+   "text": "Because that's, it would be like an ongoing thing, but preparing it could be a project."
+  },
+  {
+   "start": 1598.68,
+   "end": 1601.68,
+   "text": "Dude, there's stuff. I know that there's stuff."
+  },
+  {
+   "start": 1601.68,
+   "end": 1605.68,
+   "text": "It's just, oh, the bike race or levels. That's like three months by itself."
+  },
+  {
+   "start": 1605.68,
+   "end": 1612.68,
+   "text": "So, um, and, uh, and so, but then I decided after I built that, I built that one."
+  },
+  {
+   "start": 1612.68,
+   "end": 1615.68,
+   "text": "I first moved to Boulder to try to motivate me to have my bike, but then, since then,"
+  },
+  {
+   "start": 1615.68,
+   "end": 1620.68,
+   "text": "since then, I decided I want to be a triathlete instead of a bike racer, so not have to do triathlete levels."
+  },
+  {
+   "start": 1620.68,
+   "end": 1624.68,
+   "text": "Hopefully I won't give myself carried away like with a bike racer."
+  },
+  {
+   "start": 1624.68,
+   "end": 1629.68,
+   "text": "But, um, but then I have to finish up a bunch of pages that I already started that I didn't really get through."
+  },
+  {
+   "start": 1629.68,
+   "end": 1639.68,
+   "text": "All the ones I have on there. And, um, and, um, yeah, so you're talking about two and a half years."
+  },
+  {
+   "start": 1640.68,
+   "end": 1643.68,
+   "text": "Unless, of course, I have some kind of a mental breakdown."
+  },
+  {
+   "start": 1643.68,
+   "end": 1649.68,
+   "text": "Um, so, but I mean, I honestly don't know what could happen."
+  },
+  {
+   "start": 1649.68,
+   "end": 1654.68,
+   "text": "But I, but I, but I definitely wouldn't surprise myself if I do that, but bicycle,"
+  },
+  {
+   "start": 1654.68,
+   "end": 1656.68,
+   "text": "hostage technique."
+  },
+  {
+   "start": 1656.68,
+   "end": 1661.68,
+   "text": "And that'll give me some kind of saying, I honestly would not be surprised at all."
+  },
+  {
+   "start": 1661.68,
+   "end": 1666.68,
+   "text": "If I can go the entire two and a half years, polish the website,"
+  },
+  {
+   "start": 1666.68,
+   "end": 1671.68,
+   "text": "and it's done before I get enough money to get one of those bikes."
+  },
+  {
+   "start": 1671.68,
+   "end": 1677.68,
+   "text": "So, and that could actually end up working in my favor, because at the end of the day, you know,"
+  },
+  {
+   "start": 1677.68,
+   "end": 1681.68,
+   "text": "sometimes you just have to put the legwork in to build something."
+  },
+  {
+   "start": 1681.68,
+   "end": 1685.68,
+   "text": "Um, and my mama saying, well, you should do both. Be balanced."
+  },
+  {
+   "start": 1685.68,
+   "end": 1692.68,
+   "text": "Yeah, and I might do that. Because you can be a productive, if you just work in a little bit,"
+  },
+  {
+   "start": 1692.68,
+   "end": 1696.68,
+   "text": "or if you're doing the multitasking, like working while you're on the bike or while you're on the trail,"
+  },
+  {
+   "start": 1696.68,
+   "end": 1700.68,
+   "text": "uh, treadmill. But anyway, I've been talking too long. So what I want to say,"
+  },
+  {
+   "start": 1700.68,
+   "end": 1704.68,
+   "text": "basically just is that, uh, the last time I did a video, I was working on my,"
+  },
+  {
+   "start": 1704.68,
+   "end": 1707.68,
+   "text": "history book pages and I said that I was just about to start training."
+  },
+  {
+   "start": 1707.68,
+   "end": 1712.68,
+   "text": "And so the update is that I'm still working on my history books, and I'm not going to train for two and a half years."
+  },
+  {
+   "start": 1712.68,
+   "end": 1717.68,
+   "text": "What I'm going to do is as soon as I'm done with my history books, I'm going to do Google or things stuff."
+  },
+  {
+   "start": 1717.68,
+   "end": 1721.68,
+   "text": "And then maybe like polishing up my website. See if I could do it."
+  },
+  {
+   "start": 1721.68,
+   "end": 1725.68,
+   "text": "I do do the Patreon, which would detail a little bit more policy surface level."
+  },
+  {
+   "start": 1725.68,
+   "end": 1730.68,
+   "text": "So that's what I'm up to, man. Um, yeah, I did notice that I got 150 hits on my last video,"
+  },
+  {
+   "start": 1730.68,
+   "end": 1738.68,
+   "text": "and that's like 110 more than I normally get. So I think people were sparking interest in me talking about training,"
+  },
+  {
+   "start": 1738.68,
+   "end": 1742.68,
+   "text": "but it could be that people are getting more interest in just in my website."
+  },
+  {
+   "start": 1742.68,
+   "end": 1748.68,
+   "text": "You know, so, um, doesn't really matter. So I'm going to use a bare metric."
+  },
+  {
+   "start": 1748.68,
+   "end": 1753.68,
+   "text": "A little taste tester, a little, kind of like how Donald Trump does, he says crazy shit."
+  },
+  {
+   "start": 1753.68,
+   "end": 1757.68,
+   "text": "When people that, when that people yell at the most, he doesn't more of that."
+  },
+  {
+   "start": 1757.68,
+   "end": 1760.68,
+   "text": "I'm going to say, by me, a bike, people buying a bike, I'm going to go ahead and do training."
+  },
+  {
+   "start": 1760.68,
+   "end": 1766.68,
+   "text": "If people don't buy them, they'd be the bike. That means that people really want me to keep doing the website,"
+  },
+  {
+   "start": 1766.68,
+   "end": 1769.68,
+   "text": "because the website is the answer."
+  },
+  {
+   "start": 1769.68,
+   "end": 1779.68,
+   "text": "It's the, it's the, it's the solidification of the social contract, like social, what you call it,"
+  },
+  {
+   "start": 1779.68,
+   "end": 1787.68,
+   "text": "a constitution, the DNA of our knowledge tied together."
+  },
+  {
+   "start": 1787.68,
+   "end": 1791.68,
+   "text": "So which is much, much more important than doing this like fancy fancy stuff."
+  },
+  {
+   "start": 1791.68,
+   "end": 1798.68,
+   "text": "See, I, let me tell you, one reason that I really kind of motivated isn't just to learn, isn't just to, whatever."
+  },
+  {
+   "start": 1798.68,
+   "end": 1804.68,
+   "text": "But it's to, it's because I never, I never did anything like that ever."
+  },
+  {
+   "start": 1804.68,
+   "end": 1812.68,
+   "text": "I never was an athlete pretty much. I was always, um, want to be, because my dad and my parents didn't want me to be."
+  },
+  {
+   "start": 1812.68,
+   "end": 1816.68,
+   "text": "Um, and so it's like one of those things I never did."
+  },
+  {
+   "start": 1816.68,
+   "end": 1819.68,
+   "text": "So I kind of need to be a kid again. You know, like I was never a kid."
+  },
+  {
+   "start": 1819.68,
+   "end": 1825.68,
+   "text": "I'm going to be a kid. I'm going to just fucking run around, like, cats run around, you know,"
+  },
+  {
+   "start": 1825.68,
+   "end": 1830.68,
+   "text": "how young cats they just jump up on the, and dogs and six year olds, they jump up on the couch,"
+  },
+  {
+   "start": 1830.68,
+   "end": 1834.68,
+   "text": "and then they jump up on top of the bookshelf and stuff like that's what I want to do."
+  },
+  {
+   "start": 1834.68,
+   "end": 1840.68,
+   "text": "And just go for force, physically that, like not in my brain."
+  },
+  {
+   "start": 1840.68,
+   "end": 1844.68,
+   "text": "But I mean in my brain too, the thing is it helps each other. Let's see, amazing things."
+  },
+  {
+   "start": 1844.68,
+   "end": 1848.68,
+   "text": "So I know it's going to work. That's why I'm not doing it, but I know it's going to work."
+  },
+  {
+   "start": 1848.68,
+   "end": 1851.68,
+   "text": "I mean, that's, I'm not doing it, but I'm telling the whole world that I'm going to do it."
+  },
+  {
+   "start": 1851.68,
+   "end": 1854.68,
+   "text": "Because that's how confident I know that's going to work."
+  },
+  {
+   "start": 1854.68,
+   "end": 1858.68,
+   "text": "It's, it's going to be amazing when everybody does it."
+  },
+  {
+   "start": 1858.68,
+   "end": 1862.68,
+   "text": "So, but I'm talking about the mixture."
+  },
+  {
+   "start": 1862.68,
+   "end": 1866.68,
+   "text": "Okay, because we got a face that man, like, there's really nothing to talk about."
+  },
+  {
+   "start": 1866.68,
+   "end": 1871.68,
+   "text": "You know, because nobody knows anything. You know, people and people are just arguing over silly stuff."
+  },
+  {
+   "start": 1871.68,
+   "end": 1875.68,
+   "text": "Like, the America's at 3% growth."
+  },
+  {
+   "start": 1875.68,
+   "end": 1878.68,
+   "text": "No, it's not 3% disc growth."
+  },
+  {
+   "start": 1878.68,
+   "end": 1883.68,
+   "text": "It's like, why don't you just look at the chart together and then you can move on to the next level of the conversation."
+  },
+  {
+   "start": 1883.68,
+   "end": 1888.68,
+   "text": "Instead of doing the look and recovery, we all, we all reach on it for the whole fucking world."
+  },
+  {
+   "start": 1888.68,
+   "end": 1890.68,
+   "text": "So that's it. That's it. That's it."
+  },
+  {
+   "start": 1890.68,
+   "end": 1893.68,
+   "text": "I'm up to Holy See. 31.32."
+  },
+  {
+   "start": 1893.68,
+   "end": 1895.68,
+   "text": "Okay."
+  },
+  {
+   "start": 1895.68,
+   "end": 1901.68,
+   "text": "So somebody might be like, well, why don't you just do video five minutes every couple of days."
+  },
+  {
+   "start": 1901.68,
+   "end": 1906.68,
+   "text": "That's because that's how mother fucking a glued to my website."
+  },
+  {
+   "start": 1906.68,
+   "end": 1910.68,
+   "text": "I have to do it. I got it. I have the time to talk five minutes."
+  },
+  {
+   "start": 1910.68,
+   "end": 1914.68,
+   "text": "I haven't cleaned my bathroom for three and a half months. Like, my bathroom. I don't know."
+  },
+  {
+   "start": 1914.68,
+   "end": 1918.68,
+   "text": "Had smells I've never smelled before. I thought it was burnt."
+  },
+  {
+   "start": 1918.68,
+   "end": 1923.68,
+   "text": "burnt light bulbs. But then I'm like, no, I think it's some kind of fungus that's in there or something."
+  },
+  {
+   "start": 1923.68,
+   "end": 1929.68,
+   "text": "You know what I mean? Like, I would, I would clean my bathroom before I make a YouTube video."
+  },
+  {
+   "start": 1929.68,
+   "end": 1931.68,
+   "text": "You know?"
+  },
+  {
+   "start": 1931.68,
+   "end": 1935.68,
+   "text": "But I just made the YouTube video for cleaning the bathroom. So I guess I'm going to have to clean the bathroom now."
+  },
+  {
+   "start": 1935.68,
+   "end": 1939.68,
+   "text": "Okay. Peace out."
+  }
+ ]
+}

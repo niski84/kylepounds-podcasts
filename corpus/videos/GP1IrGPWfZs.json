@@ -1,0 +1,257 @@
+{
+ "youtube_id": "GP1IrGPWfZs",
+ "title": "Living in Boulder Vlog 12 - 22 - 2016",
+ "url": "https://youtu.be/GP1IrGPWfZs",
+ "published_at": "2016-12-25",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about his struggles keeping up with daily videos and a project he's working on involving digitally tracing cobblestones in ancient Rome for a ground-level exploration video. He describes his plan to multitask by riding a bike on rollers while doing the tedious tracing work, with a large screen mounted on the wall. He also mentions plans for Christmas Eve, including seeing the new Star Wars movie.",
+  "speaker": "kyle",
+  "topics": [
+   "vlog update",
+   "Rome cobblestone tracing project",
+   "indoor cycling",
+   "productivity hack",
+   "Christmas Eve plans",
+   "Star Wars movie"
+  ],
+  "stances": [
+   {
+    "topic": "tracing Rome cobblestones",
+    "position": "necessary but mind-numbingly tedious; needs a creative solution to make it bearable"
+   },
+   {
+    "topic": "riding bike on rollers while working",
+    "position": "excited about it as a way to multitask and stay sane during monotonous work"
+   },
+   {
+    "topic": "keeping up with daily vlogs",
+    "position": "struggles with consistency but is trying"
+   }
+  ],
+  "entities": [
+   "Rome (ancient)",
+   "Star Wars (new film, 2016)",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.31,
+   "end": 6.45,
+   "text": "Living in Boulder V-log, dude. I guess this will be for the 22nd, even though yesterday"
+  },
+  {
+   "start": 6.45,
+   "end": 13.23,
+   "text": "Was the 23rd, because today's the morning of the 24th. Man, I have such a hard time"
+  },
+  {
+   "start": 13.23,
+   "end": 19.79,
+   "text": "Keeping up on my videos. Um, I guess I'll have to do another one tomorrow to mean the"
+  },
+  {
+   "start": 19.79,
+   "end": 25.47,
+   "text": "Second one. I don't know. Woo! Hard to keep in... At least I'm doing another one. Jeepers."
+  },
+  {
+   "start": 25.89,
+   "end": 29.83,
+   "text": "Okay. For some reason I keep thinking that I already did it, but I didn't."
+  },
+  {
+   "start": 30.11,
+   "end": 34.19,
+   "text": "That's what's going on. So, okay, so what happened since the last time I did a video?"
+  },
+  {
+   "start": 34.33,
+   "end": 42.63,
+   "text": "A lot of time must have been gone by. Um, I, uh, decided that, see, I kind of got myself"
+  },
+  {
+   "start": 42.63,
+   "end": 57.71,
+   "text": "In trouble, man. Uh, what happened was I, uh, I started tracing every single, um, cobblestone"
+  },
+  {
+   "start": 57.71,
+   "end": 68.91,
+   "text": "In Rome, ancient Rome, and that's kind of, um, that's kind of crazy, man. Like, even if"
+  },
+  {
+   "start": 68.91,
+   "end": 78.65,
+   "text": "I'm, um, even if I'm listening to audiobook, it's a little bit too crazy-making. Smoking"
+  },
+  {
+   "start": 78.65,
+   "end": 85.17,
+   "text": "Weed, and woo! But I have a solution, because I really, really, really, really, really need"
+  },
+  {
+   "start": 85.17,
+   "end": 93.36,
+   "text": "To do it. Um, because it's the only way that if you're at ground level exploring around Rome,"
+  },
+  {
+   "start": 93.46,
+   "end": 98.08,
+   "text": "Which is what I want to make the videos of, it's the only way to illustrate yourself moving"
+  },
+  {
+   "start": 98.08,
+   "end": 106.24,
+   "text": "Forward in this space. Um, and, uh, so what I'm going to do is my solution, my magical"
+  },
+  {
+   "start": 106.24,
+   "end": 112.06,
+   "text": "Solution. At least I think I'll try to do it. Um, yeah, this is actually, I will do it,"
+  },
+  {
+   "start": 112.08,
+   "end": 117.82,
+   "text": "Because this is the perfect, the perfect time to do it, and that is to ride the bike on the"
+  },
+  {
+   "start": 117.82,
+   "end": 126.86,
+   "text": "Rollers while I work, because, um, I have never found myself working on something on my website."
+  },
+  {
+   "start": 127.06,
+   "end": 132.52,
+   "text": "At least, not that I can think of. Yeah, I don't think, I can't think of anything that"
+  },
+  {
+   "start": 132.52,
+   "end": 142.96,
+   "text": "I've ever done on my website, um, that is this fucking mind-numbingly easy. So, I might,"
+  },
+  {
+   "start": 142.96,
+   "end": 149.32,
+   "text": "I mean, I, I, and it came right at the time that I was going to put that TV up there on"
+  },
+  {
+   "start": 149.32,
+   "end": 155.7,
+   "text": "The wall. Um, and, you know, so that was when I got kind of re-interested in the whole biking"
+  },
+  {
+   "start": 155.7,
+   "end": 164.92,
+   "text": "Thing and started to, uh, collect videos to try to put up there on the TV. So, I'm going"
+  },
+  {
+   "start": 164.92,
+   "end": 171.96,
+   "text": "To go for it, man. Tomorrow, it's 4.44 in the morning now. Tomorrow, I'm going to..."
+  },
+  {
+   "start": 172.96,
+   "end": 182.08,
+   "text": "Go to the movie? What day is it? December 24th? Right, I guess, so I guess it's the day,"
+  },
+  {
+   "start": 182.74,
+   "end": 186.02,
+   "text": "Christmas Eve, huh? I thought it was Christmas Eve, but I guess, I guess Christmas Eve we go"
+  },
+  {
+   "start": 186.02,
+   "end": 195.41,
+   "text": "On the movie every year, the 3D movie. So, I'm going to go there, um, and, uh, 3D movie,"
+  },
+  {
+   "start": 195.49,
+   "end": 199.63,
+   "text": "We're going to do the North Star Wars movie. Woo! I can barely pronounce. We're going to do"
+  },
+  {
+   "start": 199.63,
+   "end": 209.82,
+   "text": "The new Star Wars movie. And, uh, yeah. Um, okay, yeah, so what happened?"
+  },
+  {
+   "start": 209.84,
+   "end": 216.8,
+   "text": "Um, yeah, I got myself into trouble because I realized that I couldn't, uh, uh, um, trace"
+  },
+  {
+   "start": 216.8,
+   "end": 225.2,
+   "text": "All of the, uh, cobblestones of Rome. It was just going too slowly. And, um, kind of took"
+  },
+  {
+   "start": 225.2,
+   "end": 228.26,
+   "text": "A few days, a couple days off doing other things, which made it go really slowly. And"
+  },
+  {
+   "start": 228.26,
+   "end": 234.48,
+   "text": "I, and then I was like, whoa, yeah. So, but if I ride while I do it, it could, I could,"
+  },
+  {
+   "start": 234.48,
+   "end": 238.18,
+   "text": "They could feed off each other and it could be really good because I've also been kind"
+  },
+  {
+   "start": 238.18,
+   "end": 243.92,
+   "text": "Of like, ha ha, you know, I need to, I need to, I'm kind of like that lion pacing back and"
+  },
+  {
+   "start": 243.92,
+   "end": 248.18,
+   "text": "Forth, freaking out in the zoo, you know, I have to do something. So I'm going to, I think"
+  },
+  {
+   "start": 248.18,
+   "end": 256.1,
+   "text": "I'm going to do the bike thing. Um, tomorrow, like we'll go to the thing, the movie, and then"
+  },
+  {
+   "start": 256.1,
+   "end": 262.66,
+   "text": "I'll come back and I'll fix the TV to the wall and clean up my room. And, uh, I'm going to"
+  },
+  {
+   "start": 262.66,
+   "end": 266.72,
+   "text": "Have to buy, what I think I want to do is have the time trial thing, attach those time"
+  },
+  {
+   "start": 266.72,
+   "end": 277.38,
+   "text": "Trial things, attach one of those, uh, thumb mouses to the bar and the handlebar. That'll"
+  },
+  {
+   "start": 277.38,
+   "end": 282.98,
+   "text": "Be the easiest way to do it. And then I just look forward and that big ass screen right"
+  },
+  {
+   "start": 282.98,
+   "end": 293.22,
+   "text": "In my face will be what I'll use to, um, do the tracing. So, um, yeah, man, that's the"
+  },
+  {
+   "start": 293.22,
+   "end": 297.74,
+   "text": "New way, dude. And I'll, yeah, I'll do a hundred miles a day. Oh, I'm so excited. I'm so excited."
+  },
+  {
+   "start": 297.74,
+   "end": 301.88,
+   "text": "Yeah, I think I'm going to upload this now."
+  }
+ ]
+}

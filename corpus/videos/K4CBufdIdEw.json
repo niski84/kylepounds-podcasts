@@ -1,0 +1,379 @@
+{
+ "youtube_id": "K4CBufdIdEw",
+ "title": "Living in Boulder Vlog 6 - 20  -  2014",
+ "url": "https://youtu.be/K4CBufdIdEw",
+ "published_at": "2014-06-21",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about his day in Boulder — working on his website, napping unexpectedly, and visiting his mom who introduced him to a light therapy pen she wants him to try. He discusses the device (which supposedly recharges DNA with colored lights), the cost of the pen ($500) and related training ($4,000), and his mom's suggestion he could use it to make money.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "website work",
+   "light therapy",
+   "alternative medicine",
+   "making money",
+   "Boulder life",
+   "request videos"
+  ],
+  "stances": [
+   {
+    "topic": "light therapy pen",
+    "position": "Skeptical but intrigued — doesn't know how much it actually does but finds it cool-looking and likes the idea of it"
+   },
+   {
+    "topic": "working for himself",
+    "position": "Strongly prefers self-employment over working for others"
+   },
+   {
+    "topic": "making videos",
+    "position": "Has been avoiding videos because feeling behind on work makes him want to sacrifice everything else"
+   },
+   {
+    "topic": "$4,000 training course",
+    "position": "Open to it if discounted, sees potential income opportunity"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Yosemite (likely 'Yosemook' misheard)",
+   "Orange is the New Black",
+   "Claude (author of a book about light therapy, last name unknown)",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 3.0,
+   "text": "The living in Boulder, if you like, with me kind of times."
+  },
+  {
+   "start": 4.0,
+   "end": 7.0,
+   "text": "It's 21st, you have to sign here."
+  },
+  {
+   "start": 7.0,
+   "end": 12.0,
+   "text": "Yesterday, um, did a house pretty close, really close to here."
+  },
+  {
+   "start": 12.0,
+   "end": 14.0,
+   "text": "And, uh, I was done early."
+  },
+  {
+   "start": 15.0,
+   "end": 17.0,
+   "text": "I spent the rest of the day working on my website."
+  },
+  {
+   "start": 17.0,
+   "end": 21.0,
+   "text": "All the problem was, uh, I passed out."
+  },
+  {
+   "start": 21.0,
+   "end": 25.0,
+   "text": "I guess I've been like exercising or working or something, but yeah, the summer,"
+  },
+  {
+   "start": 25.0,
+   "end": 28.0,
+   "text": "I passed out in the day, I have to take an absentee."
+  },
+  {
+   "start": 29.0,
+   "end": 34.0,
+   "text": "And, uh, I'm gonna do that in a Yosemook on the website, some more, just doing a color coating."
+  },
+  {
+   "start": 34.0,
+   "end": 35.0,
+   "text": "Color coating?"
+  },
+  {
+   "start": 35.0,
+   "end": 40.0,
+   "text": "Um, but yeah, it's coming together. It's way of taking way longer than I thought, but whatever."
+  },
+  {
+   "start": 40.0,
+   "end": 42.0,
+   "text": "It's one way of paging."
+  },
+  {
+   "start": 42.0,
+   "end": 46.0,
+   "text": "Uh, and, um,"
+  },
+  {
+   "start": 46.0,
+   "end": 51.7,
+   "text": "who might be a little bit giving me a bunch of weed, and I made a couple of videos."
+  },
+  {
+   "start": 51.7,
+   "end": 55.7,
+   "text": "I am Jesus Christ, and I am going to run for prison."
+  },
+  {
+   "start": 56.7,
+   "end": 59.7,
+   "text": "Um, I should do a couple more videos now in request videos."
+  },
+  {
+   "start": 59.7,
+   "end": 61.7,
+   "text": "I'm on videos for a while."
+  },
+  {
+   "start": 61.7,
+   "end": 62.7,
+   "text": "I've been, uh,"
+  },
+  {
+   "start": 62.7,
+   "end": 66.7,
+   "text": "I've been done videos because it makes me feel like I'm behind."
+  },
+  {
+   "start": 66.7,
+   "end": 71.7,
+   "text": "When I'm like working, working, working, I kind of try to sacrifice everything else."
+  },
+  {
+   "start": 71.7,
+   "end": 76.7,
+   "text": "And, like, if when I work, working on one page for too long, you know, for really long."
+  },
+  {
+   "start": 76.7,
+   "end": 79.7,
+   "text": "So I'm doing, like, this page is dragging out."
+  },
+  {
+   "start": 79.7,
+   "end": 81.7,
+   "text": "But anyways, uh,"
+  },
+  {
+   "start": 82.7,
+   "end": 86.7,
+   "text": "and yesterday, oh yeah, yesterday, we moved to my mom's house."
+  },
+  {
+   "start": 86.7,
+   "end": 88.7,
+   "text": "Because her house was,"
+  },
+  {
+   "start": 89.7,
+   "end": 95.7,
+   "text": "hmm, like right next to the house that I did, you know, so I went over there and she, uh,"
+  },
+  {
+   "start": 96.7,
+   "end": 100.7,
+   "text": "I guess I did a couple chores, but she wanted me to, she wanted to give me this light treatment."
+  },
+  {
+   "start": 100.7,
+   "end": 101.7,
+   "text": "She has these lights."
+  },
+  {
+   "start": 101.7,
+   "end": 103.7,
+   "text": "You got talked about it already."
+  },
+  {
+   "start": 103.7,
+   "end": 105.7,
+   "text": "I think she did it to me again."
+  },
+  {
+   "start": 105.7,
+   "end": 110.7,
+   "text": "Instead, I was supposed to get dreams or something, and I think I did get a dream, but I don't know if it was from that."
+  },
+  {
+   "start": 110.7,
+   "end": 114.7,
+   "text": "It's just a little pen that shoots these lights out, and it's like, um,"
+  },
+  {
+   "start": 114.7,
+   "end": 116.7,
+   "text": "recharges your DNA."
+  },
+  {
+   "start": 116.7,
+   "end": 125.7,
+   "text": "And it's supposed to, yeah, and it's, I guess, the future of, uh, of the medical profession of keeping us healthy,"
+  },
+  {
+   "start": 125.7,
+   "end": 129.7,
+   "text": "by recharging our DNA with different colored lights."
+  },
+  {
+   "start": 129.7,
+   "end": 131.7,
+   "text": "It looks really futuristic, badass."
+  },
+  {
+   "start": 131.7,
+   "end": 133.7,
+   "text": "It's like gray, pear."
+  },
+  {
+   "start": 133.7,
+   "end": 139.7,
+   "text": "You'll crystal thing looking thing that sticks out and then different colored lights, and, but it, but did it."
+  },
+  {
+   "start": 139.7,
+   "end": 142.7,
+   "text": "It's not like LED because I was to get it to me."
+  },
+  {
+   "start": 142.7,
+   "end": 143.7,
+   "text": "She got a phone call."
+  },
+  {
+   "start": 143.7,
+   "end": 148.7,
+   "text": "I'll get told the story, and then I kept holding it there and she didn't come back."
+  },
+  {
+   "start": 148.7,
+   "end": 151.7,
+   "text": "I like telling me that I didn't hold it and it started hurting."
+  },
+  {
+   "start": 151.7,
+   "end": 153.7,
+   "text": "I don't know how much stuff doesn't do."
+  },
+  {
+   "start": 153.7,
+   "end": 157.7,
+   "text": "So anyways, I'm going to go over to my house today, and she wants to give me another treatment."
+  },
+  {
+   "start": 157.7,
+   "end": 160.7,
+   "text": "And she wants to be the, even by me, the pen."
+  },
+  {
+   "start": 160.7,
+   "end": 161.7,
+   "text": "It's like 500 bucks."
+  },
+  {
+   "start": 161.7,
+   "end": 166.7,
+   "text": "And then there's this training that's $4,000 that she wants me to take, and she said she might."
+  },
+  {
+   "start": 167.7,
+   "end": 172.7,
+   "text": "She's gonna discount because she's gonna take it to and, uh, about how to use them."
+  },
+  {
+   "start": 172.7,
+   "end": 180.7,
+   "text": "And she says I can make money doing it because I said the other day that I was thinking about getting a color out of massage license because I do."
+  },
+  {
+   "start": 180.7,
+   "end": 182.7,
+   "text": "Hmm."
+  },
+  {
+   "start": 182.7,
+   "end": 185.7,
+   "text": "I'm sorry, I shouldn't be a cool boy to make money."
+  },
+  {
+   "start": 185.7,
+   "end": 188.7,
+   "text": "Um, working for myself."
+  },
+  {
+   "start": 188.7,
+   "end": 192.7,
+   "text": "Um, but she's like, should do the light thing and make money with that."
+  },
+  {
+   "start": 192.7,
+   "end": 193.7,
+   "text": "So that'd be cool."
+  },
+  {
+   "start": 193.7,
+   "end": 195.7,
+   "text": "Maybe I'll do that too."
+  },
+  {
+   "start": 195.7,
+   "end": 203.7,
+   "text": "But, uh, I like the idea of having some special light thing that can give you a super strength and super longevity."
+  },
+  {
+   "start": 203.7,
+   "end": 204.7,
+   "text": "You know, get, get it."
+  },
+  {
+   "start": 204.7,
+   "end": 207.7,
+   "text": "There's this book called by this guy Claude, something."
+  },
+  {
+   "start": 207.7,
+   "end": 213.7,
+   "text": "He talks about it, but anyways, I'll talk more about doing video about it later on with that figure out what it's all about."
+  },
+  {
+   "start": 213.7,
+   "end": 216.7,
+   "text": "So that's what I want to do with an hour ago for there."
+  },
+  {
+   "start": 216.7,
+   "end": 217.7,
+   "text": "She can be like, shh."
+  },
+  {
+   "start": 218.7,
+   "end": 219.7,
+   "text": "Hmm."
+  },
+  {
+   "start": 219.7,
+   "end": 222.7,
+   "text": "Maybe I'll watch another episode of Arggies and a new black."
+  },
+  {
+   "start": 224.7,
+   "end": 229.7,
+   "text": "Um, so yeah, and I think maybe I'll even do a request video now."
+  },
+  {
+   "start": 230.7,
+   "end": 233.7,
+   "text": "Um, yeah, with temperatures so nice right now."
+  },
+  {
+   "start": 233.7,
+   "end": 235.7,
+   "text": "Okay, peace out."
+  }
+ ]
+}

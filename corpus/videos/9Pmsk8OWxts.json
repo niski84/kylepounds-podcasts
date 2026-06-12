@@ -1,0 +1,478 @@
+{
+ "youtube_id": "9Pmsk8OWxts",
+ "title": "Living in Boulder Vlog 3 - 17 - 16",
+ "url": "https://youtu.be/9Pmsk8OWxts",
+ "published_at": "2016-03-18",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about a low-energy day in Boulder spent reorganizing lists in the wrong order and having to redo the work. He mentions recording 'History of Freedom', pulling a video he'd uploaded about an Asperger's diagnosis because it disclosed too much about others, and upcoming surgery the next day. He also talks about plans to finish uploading content to a website or 'box' and experimenting with text-to-speech at double speed.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "productivity struggles",
+   "list organization",
+   "content moderation",
+   "Asperger's diagnosis",
+   "upcoming surgery",
+   "History of Freedom podcast/recording",
+   "text-to-speech experimentation",
+   "website/content upload plans"
+  ],
+  "stances": [
+   {
+    "topic": "task switching",
+    "position": "Better to focus on one thing at a time and finish it completely"
+   },
+   {
+    "topic": "uploading the Asperger's diagnosis video",
+    "position": "Had to delete it because it disclosed too much about other people; will edit it before re-uploading"
+   },
+   {
+    "topic": "double-speed audio",
+    "position": "Believes he can absorb spoken content at roughly double speed, which is about his natural speaking pace"
+   }
+  ],
+  "entities": [
+   "History of Freedom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 2.35,
+   "end": 4.49,
+   "text": "Hello, living in Boulder, V-Log."
+  },
+  {
+   "start": 5.33,
+   "end": 13.57,
+   "text": "I was working all day long, basically trying to fix old stuff that I screwed up on these lists."
+  },
+  {
+   "start": 13.95,
+   "end": 16.85,
+   "text": "I put them in the wrong order, and I did the whole thing in the wrong order."
+  },
+  {
+   "start": 20.21,
+   "end": 24.49,
+   "text": "So I was just fixing it, dragging and dropping it all day long."
+  },
+  {
+   "start": 24.49,
+   "end": 34.01,
+   "text": "And that's all I did. I was listening to The History of Freedom today,"
+  },
+  {
+   "start": 34.97,
+   "end": 43.51,
+   "text": "And recording it with my computer, playing it with my speaker and recording it with my computer."
+  },
+  {
+   "start": 44.41,
+   "end": 45.89,
+   "text": "And so that's kind of my focus."
+  },
+  {
+   "start": 46.47,
+   "end": 51.87,
+   "text": "Yesterday I uploaded, last night I uploaded a video about the Asperger diagnosis,"
+  },
+  {
+   "start": 51.87,
+   "end": 60.97,
+   "text": "But then I had to delete the video because I disclosed too much about other stuff."
+  },
+  {
+   "start": 61.25,
+   "end": 66.17,
+   "text": "So I was going to splice a couple of bits out of that and then upload it again,"
+  },
+  {
+   "start": 66.87,
+   "end": 71.78,
+   "text": "But I was too lazy to do that, so I'll do that tomorrow."
+  },
+  {
+   "start": 75.32,
+   "end": 78.92,
+   "text": "Yeah, it's complicated when you're doing videos when you mention other people."
+  },
+  {
+   "start": 78.92,
+   "end": 87.24,
+   "text": "And so, yeah, I was kind of tired today."
+  },
+  {
+   "start": 87.36,
+   "end": 91.1,
+   "text": "Today was a day where I'm tired, and I don't know why."
+  },
+  {
+   "start": 91.3,
+   "end": 94.42,
+   "text": "I slept in really late today, until like 12."
+  },
+  {
+   "start": 96.82,
+   "end": 100.12,
+   "text": "I was up late last night, but not so late that I should get up at 12."
+  },
+  {
+   "start": 100.2,
+   "end": 102.16,
+   "text": "I think I got more than eight hours of sleep last night."
+  },
+  {
+   "start": 102.62,
+   "end": 103.72,
+   "text": "I keep forgetting to write."
+  },
+  {
+   "start": 103.72,
+   "end": 107.96,
+   "text": "And then I had to have a nap today."
+  },
+  {
+   "start": 110.36,
+   "end": 112.32,
+   "text": "The new weed that I have is super strong."
+  },
+  {
+   "start": 112.48,
+   "end": 117.58,
+   "text": "I have a boost banner to cross between super strong and other ones."
+  },
+  {
+   "start": 118.66,
+   "end": 127.41,
+   "text": "So, yeah, I have to go into my surgery tomorrow."
+  },
+  {
+   "start": 127.65,
+   "end": 128.55,
+   "text": "It snowed all day today."
+  },
+  {
+   "start": 128.63,
+   "end": 129.13,
+   "text": "That was cool."
+  },
+  {
+   "start": 129.13,
+   "end": 135.95,
+   "text": "I have to go into my soul surgery tomorrow, and it's 11.82 now, so I have to get up at like 8 or 7."
+  },
+  {
+   "start": 136.05,
+   "end": 140.15,
+   "text": "So I'm going to go to sleep here pretty soon, go into surgery, and then come back,"
+  },
+  {
+   "start": 140.21,
+   "end": 144.87,
+   "text": "And I'm going to, yeah, work on this list again, just trying to finish it."
+  },
+  {
+   "start": 145.01,
+   "end": 146.91,
+   "text": "I should be done by now, but I did it wrong."
+  },
+  {
+   "start": 148.21,
+   "end": 151.91,
+   "text": "I did it in the other order, and I thought all the things were ordered differently,"
+  },
+  {
+   "start": 152.07,
+   "end": 156.99,
+   "text": "And I thought I was sure that that's how it was without even looking at the other ones."
+  },
+  {
+   "start": 156.99,
+   "end": 157.93,
+   "text": "It was stupid."
+  },
+  {
+   "start": 157.93,
+   "end": 161.07,
+   "text": "And then when I was done, I looked to make sure, and it was like, oh, no, it was all different."
+  },
+  {
+   "start": 161.55,
+   "end": 162.41,
+   "text": "I had to change everything."
+  },
+  {
+   "start": 163.25,
+   "end": 164.75,
+   "text": "And I could see why it was all different."
+  },
+  {
+   "start": 168.04,
+   "end": 169.02,
+   "text": "So that's the problem."
+  },
+  {
+   "start": 169.18,
+   "end": 170.08,
+   "text": "That's the problem."
+  },
+  {
+   "start": 170.28,
+   "end": 174.42,
+   "text": "You have to switch around and do one thing, and then switch it up."
+  },
+  {
+   "start": 174.84,
+   "end": 178.32,
+   "text": "You have to do something else because you're not as good at it anymore."
+  },
+  {
+   "start": 178.32,
+   "end": 184.36,
+   "text": "It's better to do one thing and just stay on that while you can be efficient with it."
+  },
+  {
+   "start": 185.46,
+   "end": 188.72,
+   "text": "So, yeah, so for the next two weeks, I'm going to work on that,"
+  },
+  {
+   "start": 188.86,
+   "end": 192.22,
+   "text": "Just everything having to do with my website and my bicycle,"
+  },
+  {
+   "start": 192.6,
+   "end": 194.22,
+   "text": "So I'll be as ready as I can."
+  },
+  {
+   "start": 194.22,
+   "end": 200.52,
+   "text": "I'm more ready, you know, when I start writing on my rollers."
+  },
+  {
+   "start": 200.74,
+   "end": 203.8,
+   "text": "And then that's when I'll start doing that half and half,"
+  },
+  {
+   "start": 204.02,
+   "end": 208.24,
+   "text": "Half of that and then half the Google Earth thing."
+  },
+  {
+   "start": 209.78,
+   "end": 212.92,
+   "text": "And, yeah, I'll probably start doing some new things."
+  },
+  {
+   "start": 213.7,
+   "end": 215.28,
+   "text": "But, yeah, that's all I did today."
+  },
+  {
+   "start": 216.74,
+   "end": 218.26,
+   "text": "Maybe the same old, same old."
+  },
+  {
+   "start": 218.26,
+   "end": 220.6,
+   "text": "So, yeah, I'm excited when I get done with this book."
+  },
+  {
+   "start": 220.74,
+   "end": 221.86,
+   "text": "I think I'm going to be done with it tomorrow."
+  },
+  {
+   "start": 221.96,
+   "end": 222.52,
+   "text": "It's a big book."
+  },
+  {
+   "start": 222.64,
+   "end": 223.36,
+   "text": "It's like 1,000 pages."
+  },
+  {
+   "start": 224.24,
+   "end": 228.0,
+   "text": "But when I get done with it tomorrow, I'm going to put it up on the Google Box."
+  },
+  {
+   "start": 228.06,
+   "end": 229.62,
+   "text": "It'll be my first upload to Google Box."
+  },
+  {
+   "start": 229.66,
+   "end": 230.36,
+   "text": "I'm super excited."
+  },
+  {
+   "start": 232.18,
+   "end": 235.4,
+   "text": "And then just start doing a lot of them, you know,"
+  },
+  {
+   "start": 235.44,
+   "end": 237.66,
+   "text": "And then I can like one by one knock them off"
+  },
+  {
+   "start": 237.66,
+   "end": 242.04,
+   "text": "So that my whole list on my website is all MP3 Google Box and no Kindle at all."
+  },
+  {
+   "start": 243.8,
+   "end": 245.0,
+   "text": "So that's going to be groovy."
+  },
+  {
+   "start": 245.0,
+   "end": 247.1,
+   "text": "And then maybe after that, you know, when I have time,"
+  },
+  {
+   "start": 247.1,
+   "end": 250.02,
+   "text": "I'll go on other sources and see if there's other books available."
+  },
+  {
+   "start": 250.72,
+   "end": 253.78,
+   "text": "And I have other books I can upload myself to LibriVox"
+  },
+  {
+   "start": 253.78,
+   "end": 255.38,
+   "text": "That have just been created by programs."
+  },
+  {
+   "start": 256.54,
+   "end": 258.94,
+   "text": "The Mahabharata and all the Indian religion,"
+  },
+  {
+   "start": 259.06,
+   "end": 260.14,
+   "text": "Which they didn't have before."
+  },
+  {
+   "start": 260.94,
+   "end": 265.4,
+   "text": "And I know LibriVox takes audiobooks that are created by programs"
+  },
+  {
+   "start": 265.4,
+   "end": 268.04,
+   "text": "Because I've downloaded some books off LibriVox"
+  },
+  {
+   "start": 268.04,
+   "end": 270.28,
+   "text": "And they've been made by programs."
+  },
+  {
+   "start": 270.28,
+   "end": 277.24,
+   "text": "And the Kindle, the way that the Kindle reads is good."
+  },
+  {
+   "start": 277.34,
+   "end": 280.26,
+   "text": "I even think I like the way that the Kindle reads more"
+  },
+  {
+   "start": 280.26,
+   "end": 282.26,
+   "text": "Than how normal people read."
+  },
+  {
+   "start": 282.32,
+   "end": 283.58,
+   "text": "Even the best of the normal readers"
+  },
+  {
+   "start": 283.58,
+   "end": 285.42,
+   "text": "Because Kindle reads fast."
+  },
+  {
+   "start": 286.14,
+   "end": 289.82,
+   "text": "At double speed, you can get through, well, twice as fast."
+  },
+  {
+   "start": 290.44,
+   "end": 293.1,
+   "text": "And it's about the same speed that I talk normally, you know."
+  },
+  {
+   "start": 293.14,
+   "end": 294.86,
+   "text": "It's about as fast as I'm talking right now, you know."
+  },
+  {
+   "start": 294.86,
+   "end": 299.8,
+   "text": "So, which is about as fast as I would be able to absorb it, you know."
+  },
+  {
+   "start": 300.74,
+   "end": 308.51,
+   "text": "So, yeah, I'm excited to have MP3 files from the Kindle."
+  },
+  {
+   "start": 309.81,
+   "end": 318.27,
+   "text": "It's a zillion times better than that other text-to-speech program."
+  },
+  {
+   "start": 318.69,
+   "end": 320.45,
+   "text": "I remember it from a few years ago."
+  },
+  {
+   "start": 321.19,
+   "end": 322.81,
+   "text": "But the Mahabharata Zen, it's horrible."
+  },
+  {
+   "start": 326.88,
+   "end": 328.5,
+   "text": "Yeah, so anyways, that's enough."
+  },
+  {
+   "start": 328.56,
+   "end": 329.8,
+   "text": "That's all for today."
+  },
+  {
+   "start": 329.8,
+   "end": 333.38,
+   "text": "I'm okay."
+  },
+  {
+   "start": 334.34,
+   "end": 335.42,
+   "text": "Peace out."
+  },
+  {
+   "start": 336.68,
+   "end": 337.5,
+   "text": "Ooh, five minutes."
+  },
+  {
+   "start": 337.62,
+   "end": 338.34,
+   "text": "Talk to you too long."
+  }
+ ]
+}

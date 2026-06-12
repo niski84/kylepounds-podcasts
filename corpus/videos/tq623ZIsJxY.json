@@ -1,0 +1,348 @@
+{
+ "youtube_id": "tq623ZIsJxY",
+ "title": "Living in Boulder blog 6 - 23 - 2017: Roman Geography Book",
+ "url": "https://youtu.be/tq623ZIsJxY",
+ "published_at": "2017-06-24",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a late-night life update from Boulder, covering a deal he made with his mom to sell his car and do chores in exchange for not having to manage the sale himself, a bike ride they took together, and his ongoing project mapping ancient Rome using Google Earth and a Roman geography book organized alphabetically by building name.",
+  "speaker": "kyle",
+  "topics": [
+   "daily life update",
+   "family arrangement",
+   "bike riding",
+   "ancient Rome mapping project",
+   "Google Earth",
+   "Roman geography book",
+   "architecture",
+   "aqueducts"
+  ],
+  "stances": [
+   {
+    "topic": "selling his car",
+    "position": "Wants to sell it but doesn't want to deal with the process himself; relieved mom will handle it"
+   },
+   {
+    "topic": "Rome mapping project",
+    "position": "Excited and eager to finish it; believes the Google Earth trip visualization will be compelling"
+   },
+   {
+    "topic": "bike riding with mom",
+    "position": "Positive about it as a daily activity and a way to make her life easier"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "mom",
+   "Google Earth",
+   "Rome",
+   "Vitruvius",
+   "Thousand Years of Church History (book)",
+   "Hercules"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.14,
+   "end": 7.74,
+   "text": "Hello living in Boulder, Vilaq for June 23rd 2017 right now. It's two o'clock in the morning. I'm due to 24th"
+  },
+  {
+   "start": 8.58,
+   "end": 10.58,
+   "text": "I'm pretty tired"
+  },
+  {
+   "start": 10.58,
+   "end": 12.58,
+   "text": "kind of I"
+  },
+  {
+   "start": 12.58,
+   "end": 14.58,
+   "text": "Okay, so what did I do today?"
+  },
+  {
+   "start": 17.82,
+   "end": 23.18,
+   "text": "Think I got up at like 11 or something in the morning to my mom's house because I was working until like four and"
+  },
+  {
+   "start": 25.36,
+   "end": 31.6,
+   "text": "To try to do videos and stuff about my cut to sell my man, but we are really getting along"
+  },
+  {
+   "start": 31.68,
+   "end": 33.68,
+   "text": "Sounds like yo"
+  },
+  {
+   "start": 33.68,
+   "end": 39.28,
+   "text": "You just didn't all of it. So we came to the agreement that she's gonna sell my car to all the stuff just on my car"
+  },
+  {
+   "start": 39.52,
+   "end": 43.6,
+   "text": "But I'll still do chores. I'll go over there and I'll call every day to go to chores to make her like easy"
+  },
+  {
+   "start": 43.6,
+   "end": 49.8,
+   "text": "You know thing to ask and stuff and also we made an agreement to go on a bike right every day"
+  },
+  {
+   "start": 49.8,
+   "end": 53.84,
+   "text": "It's all we fun because you've got to try single today. We went we rode down"
+  },
+  {
+   "start": 55.36,
+   "end": 59.64,
+   "text": "We rode down from our house under this tunnel and then over to the supermarket"
+  },
+  {
+   "start": 60.16,
+   "end": 64.6,
+   "text": "And it was super good. It was like six, six, six, six, seven all the really great hands"
+  },
+  {
+   "start": 64.6,
+   "end": 66.6,
+   "text": "So now she knows how close it is"
+  },
+  {
+   "start": 66.8,
+   "end": 69.28,
+   "text": "First off first bike right down to downtown so"
+  },
+  {
+   "start": 69.72,
+   "end": 75.6,
+   "text": "Yeah, tomorrow we're gonna ride from our house to my house and back. So I'll be fine. Oh, and then we're gonna do it a sound test"
+  },
+  {
+   "start": 75.6,
+   "end": 80.6,
+   "text": "I want to know I want to find out exactly how far away you can hear somebody yelling"
+  },
+  {
+   "start": 81.24,
+   "end": 83.64,
+   "text": "For the purposes of my website"
+  },
+  {
+   "start": 83.64,
+   "end": 85.64,
+   "text": "You know to register that"
+  },
+  {
+   "start": 86.16,
+   "end": 88.16,
+   "text": "For my space will detail"
+  },
+  {
+   "start": 88.16,
+   "end": 90.16,
+   "text": "stuff"
+  },
+  {
+   "start": 90.16,
+   "end": 92.16,
+   "text": "There's a cool park nearby where we can do that"
+  },
+  {
+   "start": 94.28,
+   "end": 96.28,
+   "text": "and"
+  },
+  {
+   "start": 98.94,
+   "end": 103.58,
+   "text": "Yeah, I don't want to deal with selling my car. That'd be it's gonna be awesome. I do sell my car"
+  },
+  {
+   "start": 104.7,
+   "end": 106.7,
+   "text": "You know that but"
+  },
+  {
+   "start": 107.54,
+   "end": 111.9,
+   "text": "I don't want to deal with doing it because I'm like my film like my husband often slow because"
+  },
+  {
+   "start": 113.9,
+   "end": 116.86,
+   "text": "I was like recently kind of peeking at"
+  },
+  {
+   "start": 116.86,
+   "end": 122.22,
+   "text": "My Google Earth Rome and I'm like salivating"
+  },
+  {
+   "start": 122.86,
+   "end": 125.66,
+   "text": "I really want to finish that because I want to know it almost like like"
+  },
+  {
+   "start": 129.1,
+   "end": 137.49,
+   "text": "Like you did I think everybody's gonna have all kinds of past like memories just from life and other map of Rome and to it around it"
+  },
+  {
+   "start": 137.49,
+   "end": 145.21,
+   "text": "As much you can build an envelope. You can then draw lines on it and then it will trace you so you can do trips and make videos of like trips all over around different trips"
+  },
+  {
+   "start": 145.93,
+   "end": 147.93,
+   "text": "You know from like the king's house to the"
+  },
+  {
+   "start": 148.89,
+   "end": 153.69,
+   "text": "to the bath and back home, you know to the call of seeing them and you know some so"
+  },
+  {
+   "start": 155.37,
+   "end": 156.73,
+   "text": "So"
+  },
+  {
+   "start": 156.73,
+   "end": 162.21,
+   "text": "Yeah, but I can't do that until I finish my books and so I'm just trying to finish you know because I want to finish this project"
+  },
+  {
+   "start": 162.21,
+   "end": 164.21,
+   "text": "So I'm working on the"
+  },
+  {
+   "start": 164.21,
+   "end": 167.01,
+   "text": "But the things I'm doing now is gonna work perfectly for the"
+  },
+  {
+   "start": 168.05,
+   "end": 170.53,
+   "text": "Google Earth because I'm doing the alphabetical"
+  },
+  {
+   "start": 171.33,
+   "end": 173.85,
+   "text": "List of all the buildings here in Rome"
+  },
+  {
+   "start": 174.17,
+   "end": 179.11,
+   "text": "And this is the only book that I have that actually is alphabetical, so each letter corresponds to a"
+  },
+  {
+   "start": 179.65,
+   "end": 180.65,
+   "text": "color"
+  },
+  {
+   "start": 180.65,
+   "end": 186.53,
+   "text": "It's on color here on the books that's pretty cool. I'm on book A right now which is a dark blue and that's"
+  },
+  {
+   "start": 187.65,
+   "end": 189.65,
+   "text": "the ages so"
+  },
+  {
+   "start": 190.21,
+   "end": 196.45,
+   "text": "Hercules funnily to bloom and so yeah, and then maybe you know not anytime soon, but one day"
+  },
+  {
+   "start": 196.45,
+   "end": 198.09,
+   "text": "I'd be cool to"
+  },
+  {
+   "start": 198.09,
+   "end": 203.13,
+   "text": "have a link, you know to the 20 days and then I'll just open downloaded where it's a location"
+  },
+  {
+   "start": 203.77,
+   "end": 205.93,
+   "text": "And Google it you know exactly where they all are"
+  },
+  {
+   "start": 206.29,
+   "end": 210.83,
+   "text": "There's a bunch of houses named after famous rooms like upon a hill so that's cool"
+  },
+  {
+   "start": 211.09,
+   "end": 213.69,
+   "text": "Can we rebuild the you actually know"
+  },
+  {
+   "start": 214.37,
+   "end": 220.57,
+   "text": "What's a layout of ancient Romans to the houses not just from the planets that are going off the 29"
+  },
+  {
+   "start": 221.29,
+   "end": 223.29,
+   "text": "anyway"
+  },
+  {
+   "start": 224.29,
+   "end": 228.75,
+   "text": "Oh yeah, I was listening to thousand and church history. That's really big books"
+  },
+  {
+   "start": 228.75,
+   "end": 232.73,
+   "text": "That was like a lot of scribbled days and then you have something that was"
+  },
+  {
+   "start": 233.37,
+   "end": 235.37,
+   "text": "the truvius"
+  },
+  {
+   "start": 235.37,
+   "end": 238.13,
+   "text": "Interesting architecture. I want to do the aqueducts one again"
+  },
+  {
+   "start": 239.81,
+   "end": 242.61,
+   "text": "Because you know just because I can build things around"
+  },
+  {
+   "start": 244.01,
+   "end": 248.51,
+   "text": "Oh, yeah, so yeah, I'm looking forward to do a whole bunch of green screens on this sucker"
+  },
+  {
+   "start": 248.51,
+   "end": 252.07,
+   "text": "You know just drag and drop, you know try to do it quick like a cool 412"
+  },
+  {
+   "start": 252.43,
+   "end": 257.15,
+   "text": "You know that's a long enough of talking to do maybe I'll make it for 420 though, right?"
+  },
+  {
+   "start": 257.75,
+   "end": 259.75,
+   "text": "Just don't your time"
+  }
+ ]
+}

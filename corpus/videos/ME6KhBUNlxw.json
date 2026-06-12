@@ -1,0 +1,111 @@
+{
+ "youtube_id": "ME6KhBUNlxw",
+ "title": "Living in Boulder Vlog 5 - 28 - 2014",
+ "url": "https://youtu.be/ME6KhBUNlxw",
+ "published_at": "2014-05-29",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle briefly vlogs from his Boulder home on May 28, 2014, describing a productive day working on his porch until 11pm on what appears to be a website project, mentioning his nearby work commute and morning oatmeal routine.",
+  "speaker": "kyle",
+  "topics": [
+   "daily routine",
+   "work from home",
+   "Boulder living",
+   "website project",
+   "commute"
+  ],
+  "stances": [
+   {
+    "topic": "productive work sessions",
+    "position": "finds it exciting and rewarding to make progress on projects"
+   }
+  ],
+  "entities": [
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 4.4,
+   "text": "Living in Boulder for the year yesterday would have been the 28th"
+  },
+  {
+   "start": 6.32,
+   "end": 10.96,
+   "text": "I was I had in works. I was out there on my porch all day long yesterday"
+  },
+  {
+   "start": 12.16,
+   "end": 17.92,
+   "text": "Getting caught up or not getting caught up working until like 11"
+  },
+  {
+   "start": 19.36,
+   "end": 23.84,
+   "text": "From like nine I think I actually had started around 10 to 11"
+  },
+  {
+   "start": 23.84,
+   "end": 25.84,
+   "text": "Um"
+  },
+  {
+   "start": 26.96,
+   "end": 30.56,
+   "text": "Yeah, I did pretty well. I think I can finish that page today"
+  },
+  {
+   "start": 34.0,
+   "end": 42.56,
+   "text": "After work I go to work really close to where I am now so I'm not going to ride by my normal bicycle shoes just my normal sneakers"
+  },
+  {
+   "start": 43.44,
+   "end": 45.04,
+   "text": "And"
+  },
+  {
+   "start": 45.04,
+   "end": 47.04,
+   "text": "We'll drop me off really close to my house"
+  },
+  {
+   "start": 48.08,
+   "end": 50.88,
+   "text": "No, my oatmeal is cooking right now"
+  },
+  {
+   "start": 50.88,
+   "end": 55.92,
+   "text": "So um yes"
+  },
+  {
+   "start": 57.28,
+   "end": 59.76,
+   "text": "That's about what I did yesterday it was exciting"
+  },
+  {
+   "start": 61.2,
+   "end": 65.44,
+   "text": "It's always exciting to get to the next level. I'll explain all this stuff later"
+  },
+  {
+   "start": 66.08,
+   "end": 68.08,
+   "text": "My new all this website stuff on dirt"
+  },
+  {
+   "start": 68.96,
+   "end": 71.84,
+   "text": "I probably have it all uploaded a couple of months"
+  },
+  {
+   "start": 73.44,
+   "end": 75.44,
+   "text": "You can peace out"
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "youtube_id": "tF6Hdy7-dUs",
+ "title": "Living in Boulder Vlog 10 - 24 - 2016",
+ "url": "https://youtu.be/tF6Hdy7-dUs",
+ "published_at": "2016-10-25",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about his day in Boulder: a friend named Bayward visited, bought him a latte and sandwich, and they filmed an interview video. Kyle also worked on a ski resorts of Colorado web project he expects to complete the following week, and mentions wanting to do more viewer request videos.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "visitor/friend hangout",
+   "web development project",
+   "Boulder life",
+   "content creation plans"
+  ],
+  "stances": [
+   {
+    "topic": "ski resorts Colorado project",
+    "position": "proud of building it from scratch and staying on schedule"
+   },
+   {
+    "topic": "longer videos",
+    "position": "willing to experiment with longer format now that he has a better modem"
+   },
+   {
+    "topic": "request videos",
+    "position": "wants to do more viewer request content"
+   }
+  ],
+  "entities": [
+   "Bayward",
+   "Boulder",
+   "Colorado"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.27,
+   "end": 8.19,
+   "text": "Hey this is captain's log experimental video longer cuz dude came and gave me a"
+  },
+  {
+   "start": 8.19,
+   "end": 16.07,
+   "text": "New modem whoo yeah I've been suggesting that for a long time to them for a long"
+  },
+  {
+   "start": 16.07,
+   "end": 21.43,
+   "text": "Time and they are always like hmm but it's good that I did that so we'll make"
+  },
+  {
+   "start": 21.43,
+   "end": 29.71,
+   "text": "It longer and we'll see what happens so today oh today Bayward came and visited"
+  },
+  {
+   "start": 29.71,
+   "end": 35.71,
+   "text": "Me he came and bought me a latte over at the coffee place and then we went down"
+  },
+  {
+   "start": 35.71,
+   "end": 39.67,
+   "text": "To the sandwich price got me a sandwich and then we came back here and did the"
+  },
+  {
+   "start": 39.67,
+   "end": 48.71,
+   "text": "Interview video so that's cool thanks Bayward that's my first interview video"
+  },
+  {
+   "start": 49.71,
+   "end": 59.56,
+   "text": "So and today I worked this morning and then I came home"
+  },
+  {
+   "start": 59.56,
+   "end": 69.96,
+   "text": "And I worked more kind of on overalls ski resorts of Colorado and I'm still on ETA"
+  },
+  {
+   "start": 69.96,
+   "end": 78.96,
+   "text": "Next week for completion so I'm very proud of myself on this because it means that"
+  },
+  {
+   "start": 78.96,
+   "end": 84.96,
+   "text": "Um this is a project that went from beginning to end I mean I had the ski"
+  },
+  {
+   "start": 84.96,
+   "end": 89.96,
+   "text": "Ski resorts the locations that was pretty much it for some reason I thought I had"
+  },
+  {
+   "start": 89.96,
+   "end": 93.96,
+   "text": "More but that was pretty much it so I built everything from scratch it's pretty"
+  },
+  {
+   "start": 93.96,
+   "end": 101.27,
+   "text": "Badass I was just like ah so yeah I'll maybe I'll do yeah I'll do a demonstration but"
+  },
+  {
+   "start": 101.27,
+   "end": 106.27,
+   "text": "After that I think that yeah after that I'll do Boulder I'm excited about that and so"
+  },
+  {
+   "start": 106.27,
+   "end": 114.27,
+   "text": "That'll be next week when I get going on that so what else do I have to talk about"
+  },
+  {
+   "start": 114.27,
+   "end": 119.27,
+   "text": "Um you know I'm I need to get back in the groove like I don't have anything to talk"
+  },
+  {
+   "start": 119.27,
+   "end": 128.68,
+   "text": "About um you know but I want to do uh requesties yeah so I'm going to see how long this sucker"
+  },
+  {
+   "start": 128.68,
+   "end": 135.68,
+   "text": "Takes to upload and then it's going to be awesome if it uploads man it's going to be party time"
+  },
+  {
+   "start": 135.68,
+   "end": 137.68,
+   "text": "All right peace out"
+  }
+ ]
+}

@@ -1,0 +1,447 @@
+{
+ "youtube_id": "LFAKPulWcR8",
+ "title": "WE COME FROM MONKEYS!!! Jeezzzzusss!!!!",
+ "url": "https://youtu.be/LFAKPulWcR8",
+ "published_at": "2020-06-26",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle, unable to sleep at 4:30am and newly sober from marijuana, argues that humans do come from monkeys — contra the common scientific hedge that we share a common ancestor. He supports this with a self-taught paleontology framing, the recurrent laryngeal nerve as evidence of fish ancestry, and an ecological argument that environmental niches preserve species forms over time. He connects the hedged language to residual fundamentalist Christian influence and urges people to accept evolutionary lineage straightforwardly.",
+  "speaker": "kyle",
+  "topics": [
+   "evolution",
+   "human origins",
+   "paleontology",
+   "ecology",
+   "religious skepticism",
+   "sobriety/quitting weed",
+   "insomnia"
+  ],
+  "stances": [
+   {
+    "topic": "Human descent from monkeys",
+    "position": "We do come from monkeys; the 'common ancestor' framing is misleading and confusing"
+   },
+   {
+    "topic": "Recurrent laryngeal nerve",
+    "position": "It proves fish ancestry and how evolution works via incremental building blocks, not intelligent redesign"
+   },
+   {
+    "topic": "Ecological niches",
+    "position": "Stable environments preserve species forms; chimps haven't changed in millions of years for the same reason sharks haven't"
+   },
+   {
+    "topic": "Fundamentalist Christian influence on science communication",
+    "position": "Scientists' reluctance to say 'we come from monkeys' is residual deference to religious pressure"
+   },
+   {
+    "topic": "COVID/science denial",
+    "position": "People who reject science (e.g. Trump followers claiming immunity) are being illogical"
+   }
+  ],
+  "entities": [
+   "Kyle",
+   "Seoul, Korea",
+   "Ricky Gervais",
+   "Trump"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.46,
+   "end": 6.9,
+   "text": "Hi how's it going I'm doing a video because I'm bored out of my effing mind"
+  },
+  {
+   "start": 6.9,
+   "end": 15.0,
+   "text": "It's like 4 30 in the morning I'm just laying here sucks because that means I'm gonna sleep"
+  },
+  {
+   "start": 15.0,
+   "end": 20.68,
+   "text": "All goddamn day tomorrow trying to be a day turnalist a diurnalist anyways"
+  },
+  {
+   "start": 20.68,
+   "end": 28.48,
+   "text": "I wanted to do a video I figured because like I'm starting to sober up I quit smoking reefer"
+  },
+  {
+   "start": 28.48,
+   "end": 35.84,
+   "text": "Yesterday and so my brain is starting to like you know like come back together and stuff plus I'm"
+  },
+  {
+   "start": 35.84,
+   "end": 41.98,
+   "text": "Getting exercise the blood into the brain more thinking so do video I really wanted to do a"
+  },
+  {
+   "start": 41.98,
+   "end": 47.22,
+   "text": "Video this one video because I'm a paleontologist now for the last nine weeks I've been doing"
+  },
+  {
+   "start": 47.22,
+   "end": 53.84,
+   "text": "Paleontology hardcore up until just a few days ago um and um"
+  },
+  {
+   "start": 53.84,
+   "end": 60.92,
+   "text": "Some people like to say that we don't come from monkeys but we do come from the monkeys"
+  },
+  {
+   "start": 60.92,
+   "end": 69.54,
+   "text": "I was in um I was teaching english in like in uh korea in seoul korea back in 98"
+  },
+  {
+   "start": 69.54,
+   "end": 76.86,
+   "text": "And like I had this like really stupid like fundamentalist christian like really boring"
+  },
+  {
+   "start": 76.86,
+   "end": 83.18,
+   "text": "Stupid fundamentalist christian like korean girl who was like half korean half uh canadian"
+  },
+  {
+   "start": 83.18,
+   "end": 89.04,
+   "text": "And like and and and she was my co-teacher and then there was this other dude american"
+  },
+  {
+   "start": 89.04,
+   "end": 93.86,
+   "text": "Guy who's working the american guy said that he overheard her talking trash about me to some"
+  },
+  {
+   "start": 93.86,
+   "end": 97.58,
+   "text": "Other chick being like he said he was telling the kids that we come from monkeys and they're"
+  },
+  {
+   "start": 97.58,
+   "end": 105.18,
+   "text": "All laughing at me and stuff but um but like I've heard a lot of scientists try to say that"
+  },
+  {
+   "start": 105.18,
+   "end": 109.06,
+   "text": "Bullshit that we don't come from monkeys but we do come from the goddamn monkeys come on"
+  },
+  {
+   "start": 109.06,
+   "end": 120.06,
+   "text": "I even saw a video today on an actual scientific channel called that science channel it was like"
+  },
+  {
+   "start": 120.06,
+   "end": 125.46,
+   "text": "Scientific institute of america or the science channel or something like that and he had this"
+  },
+  {
+   "start": 125.46,
+   "end": 134.78,
+   "text": "70 year old scientist up there with his fancy board and the lions of the animals and he's trying to tell"
+  },
+  {
+   "start": 134.78,
+   "end": 143.16,
+   "text": "Us that we don't come from the monkeys when we do because he's saying we actually have we share"
+  },
+  {
+   "start": 143.16,
+   "end": 150.56,
+   "text": "Ancestors with the chimps six million years ago and those ancestors turned into chimps and the other"
+  },
+  {
+   "start": 150.56,
+   "end": 158.26,
+   "text": "Ones turned into us so therefore the ancestors six million years ago ain't no chimp but that's just"
+  },
+  {
+   "start": 158.26,
+   "end": 171.32,
+   "text": "Not true it's called ecology um we come from fish we do we evolved out of fish we come from fish"
+  },
+  {
+   "start": 171.32,
+   "end": 177.78,
+   "text": "That's what science says that's why we have this thing called the um and there's some really"
+  },
+  {
+   "start": 177.78,
+   "end": 181.26,
+   "text": "Interesting things having you know they can prove it like there's this thing called the um"
+  },
+  {
+   "start": 181.26,
+   "end": 188.9,
+   "text": "Phalangeal nerve I think it's called the phalangeal nerve and it's what connects your brain"
+  },
+  {
+   "start": 188.9,
+   "end": 198.24,
+   "text": "To your um to your um your heart and then back to your brain but it doesn't have to go from your"
+  },
+  {
+   "start": 198.24,
+   "end": 204.56,
+   "text": "Brain to your heart to your brain it only has to go from your brain to your brain so then why don't"
+  },
+  {
+   "start": 204.56,
+   "end": 212.3,
+   "text": "We just have a nerve that goes from brain to brain if we were if we if we were um um um engineers we"
+  },
+  {
+   "start": 212.3,
+   "end": 217.3,
+   "text": "Would just change the engineer of the design but with evolution doesn't work like that you can't just"
+  },
+  {
+   "start": 217.3,
+   "end": 221.98,
+   "text": "All of a sudden go oh yeah we're going to change the nerve evolution is little building blocks"
+  },
+  {
+   "start": 221.98,
+   "end": 227.04,
+   "text": "Building off of each other and we have the nerve from the brain to the heart to the nerve because when"
+  },
+  {
+   "start": 227.04,
+   "end": 234.22,
+   "text": "We were fish our heart was right next to our brain and then as we evolve slowly the nerve"
+  },
+  {
+   "start": 234.22,
+   "end": 242.3,
+   "text": "Gets longer and so now every single um um what are they called tetrapod every single animal"
+  },
+  {
+   "start": 242.3,
+   "end": 253.2,
+   "text": "With limbs has the nerve that exact nerve because we all came from the same thing okay so um but people"
+  },
+  {
+   "start": 253.2,
+   "end": 257.72,
+   "text": "Like to say if but if you say that we don't come from monkeys because monkeys are different and they"
+  },
+  {
+   "start": 257.72,
+   "end": 263.82,
+   "text": "Come from something else that we came from that's like saying we don't come from fish but we do come"
+  },
+  {
+   "start": 263.82,
+   "end": 272.04,
+   "text": "From fish so why would you say we don't come from monkeys if we do come from fish um fish and that's"
+  },
+  {
+   "start": 272.04,
+   "end": 278.94,
+   "text": "The it's because of ecology fish live in the water and there's always been water and there will always"
+  },
+  {
+   "start": 278.94,
+   "end": 286.18,
+   "text": "Be water so there will always be fish we used to be fish but then we evolved out of fish same thing"
+  },
+  {
+   "start": 286.18,
+   "end": 293.9,
+   "text": "With the monkeys um an animal lives in a uh in an environment like if you wanted to know what animals"
+  },
+  {
+   "start": 293.9,
+   "end": 300.32,
+   "text": "Live you don't even have to find the bones or the fossils just look at just look at what plants live"
+  },
+  {
+   "start": 300.32,
+   "end": 304.68,
+   "text": "There and then you know what animals live there like if it's a big forest with big tall trees jungle"
+  },
+  {
+   "start": 304.68,
+   "end": 312.0,
+   "text": "Trees with big branches then you know monkeys live there because monkeys live in trees and so six"
+  },
+  {
+   "start": 312.0,
+   "end": 319.6,
+   "text": "Million years ago the ancestor of the chimpanzee was a chimpanzee maybe it looked a little bit"
+  },
+  {
+   "start": 319.6,
+   "end": 324.34,
+   "text": "Different maybe because the environment was a little bit different maybe there were there were"
+  },
+  {
+   "start": 324.34,
+   "end": 332.16,
+   "text": "Different species you had the big ones but at the end of the day it was a chimpanzee you look at it"
+  },
+  {
+   "start": 332.16,
+   "end": 338.12,
+   "text": "From six million years ago and then you look at a modern chimpanzee it's the same thing it's a"
+  },
+  {
+   "start": 338.12,
+   "end": 345.7,
+   "text": "Chimpanzee it's it's like a shark sharks have been around for hundreds of millions of years"
+  },
+  {
+   "start": 345.7,
+   "end": 353.44,
+   "text": "But they don't evolve because they fill an ecological snitch that's what the monkeys do and that's what"
+  },
+  {
+   "start": 353.44,
+   "end": 362.18,
+   "text": "We were doing when we were monkeys when we were shrews when we were fish so we do come from monkeys so"
+  },
+  {
+   "start": 362.18,
+   "end": 368.24,
+   "text": "That whole thing about we don't come from monkeys we derive from the same ancestor as the monkey it"
+  },
+  {
+   "start": 368.24,
+   "end": 376.76,
+   "text": "Complicates things in a very in um in a very uh messy way it confuses people"
+  },
+  {
+   "start": 376.76,
+   "end": 387.86,
+   "text": "Um you know it's like saying it's like in a million three six million years from now you'll have some"
+  },
+  {
+   "start": 387.86,
+   "end": 392.48,
+   "text": "Kind of little alien person who's four feet tall and big old head and they'd be telling each other"
+  },
+  {
+   "start": 392.48,
+   "end": 397.16,
+   "text": "They came from us because they did but then there's some other idiot aliens could be like we don't come"
+  },
+  {
+   "start": 397.16,
+   "end": 403.38,
+   "text": "From them we come from the same thing that they're the same ancestor that lived that long ago but if us"
+  },
+  {
+   "start": 403.38,
+   "end": 411.42,
+   "text": "Humans still still exist they could say that they evolved out of us it's kind of like saying the solar"
+  },
+  {
+   "start": 411.42,
+   "end": 420.12,
+   "text": "Um the solar I mean not the solar the electric um mustang evolved out of the gas mustang"
+  },
+  {
+   "start": 420.12,
+   "end": 428.46,
+   "text": "Which evolved out of the diesel whatever the the lead gas mustang it's the same thing so people need"
+  },
+  {
+   "start": 428.46,
+   "end": 436.48,
+   "text": "To cut that out uh we come from the monkeys um it it it just helps everybody understand it better if"
+  },
+  {
+   "start": 436.48,
+   "end": 445.8,
+   "text": "You're just honest and uh and um you just can't you just can't beat that argument I think the reason"
+  },
+  {
+   "start": 445.8,
+   "end": 455.48,
+   "text": "People say that is because of um I think it's just some like uh the residual influence from these"
+  },
+  {
+   "start": 455.48,
+   "end": 459.46,
+   "text": "Fundamentalist christians who refuse to believe science and we all know how people refuse to"
+  },
+  {
+   "start": 459.46,
+   "end": 464.96,
+   "text": "Believe science with the whole coronavirus thing people have to be there's a blessed be ones who get"
+  },
+  {
+   "start": 464.96,
+   "end": 468.56,
+   "text": "To follow trump so then they're never going to get coronavirus and then there's the bad"
+  },
+  {
+   "start": 468.56,
+   "end": 473.04,
+   "text": "Stoners who they're going to get it even if they stay inside you know it doesn't it doesn't make any"
+  },
+  {
+   "start": 473.04,
+   "end": 479.06,
+   "text": "Sense you have to be logical and so that's why I'm doing the video stop doing it we come from the"
+  },
+  {
+   "start": 479.06,
+   "end": 486.26,
+   "text": "Monkeys um and it's important to to realize that because then we're going to know oh right that means"
+  },
+  {
+   "start": 486.26,
+   "end": 490.68,
+   "text": "We're going somewhere we're not going to be stuck as humans forever we're going to evolve into something"
+  },
+  {
+   "start": 490.68,
+   "end": 498.28,
+   "text": "Else so um and that's we need to understand that so that we can keep fighting to evolve you know"
+  },
+  {
+   "start": 498.28,
+   "end": 502.58,
+   "text": "Otherwise uh because there's too many people in the world who think that like the world's been like"
+  },
+  {
+   "start": 502.58,
+   "end": 507.12,
+   "text": "This forever and everything's been like this forever and and when you're not educated like"
+  },
+  {
+   "start": 507.12,
+   "end": 511.66,
+   "text": "That then you think that oh maybe if I become a criminal nobody's thought about becoming a criminal"
+  },
+  {
+   "start": 511.66,
+   "end": 517.28,
+   "text": "So then I'll win and I'll you know it's like that movie with ricky gervais I think where nobody knows"
+  },
+  {
+   "start": 517.28,
+   "end": 521.76,
+   "text": "Was what lying is and he figured out that he could lie he's the only person in the world who could"
+  },
+  {
+   "start": 521.76,
+   "end": 526.28,
+   "text": "Lie so he just lied his way through life and became successful because everybody believed him"
+  },
+  {
+   "start": 526.28,
+   "end": 535.54,
+   "text": "Kind of reminds me of that so um um yeah anyways we do we come from the monkeys"
+  }
+ ]
+}

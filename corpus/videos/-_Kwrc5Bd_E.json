@@ -1,0 +1,3789 @@
+{
+ "youtube_id": "-_Kwrc5Bd_E",
+ "title": "Income Inequality - Request",
+ "url": "https://youtu.be/-_Kwrc5Bd_E",
+ "published_at": "",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle responds to a video request about Thomas Piketty's 'Capital in the 21st Century,' discussing income inequality, wealth concentration, trickle-down economics, and the political corruption enabling it. He shares his own opinions on solutions including getting money out of politics, taxing the wealthy, limiting inheritance, and how technology could democratize political participation.",
+  "speaker": "kyle",
+  "topics": [
+   "income inequality",
+   "Piketty's Capital in the 21st Century",
+   "trickle-down economics",
+   "wealth taxation",
+   "campaign finance reform",
+   "inheritance and aristocracy",
+   "Glass-Steagall Act",
+   "political corruption",
+   "technology and democracy",
+   "personal responsibility"
+  ],
+  "stances": [
+   {
+    "topic": "income inequality",
+    "position": "a natural trend that requires intervention—revolution or reform—to reset wealth concentration"
+   },
+   {
+    "topic": "trickle-down economics",
+    "position": "bullshit; trickle-up economics makes more sense"
+   },
+   {
+    "topic": "global wealth tax",
+    "position": "supportive in principle; taxation is a necessary mechanism to recirculate wealth"
+   },
+   {
+    "topic": "campaign finance / money in politics",
+    "position": "strongly in favor of getting money out of politics via constitutional amendment (Article V process)"
+   },
+   {
+    "topic": "inheritance",
+    "position": "large inheritance transfers are harmful and should be limited; praises Bill Gates's pledge to give away wealth"
+   },
+   {
+    "topic": "wealthy individuals deserving their fortune",
+    "position": "rejects it—people like Bill Gates and Zuckerberg were in the right place at the right time, not uniquely deserving"
+   },
+   {
+    "topic": "blaming the wealthy alone",
+    "position": "wrong; everyone who doesn't speak out against the system shares blame"
+   },
+   {
+    "topic": "technology and elections",
+    "position": "personal websites and online transparency could level the electoral playing field and reduce need for campaign money"
+   },
+   {
+    "topic": "personal responsibility",
+    "position": "everyone should take more personal responsibility rather than blaming others"
+   }
+  ],
+  "entities": [
+   "Thomas Piketty",
+   "Capital in the 21st Century",
+   "Daft Bugger",
+   "Thomas Jefferson",
+   "Theodore Roosevelt",
+   "Franklin Roosevelt",
+   "Bill Clinton",
+   "Bill Gates",
+   "Mark Zuckerberg",
+   "Facebook",
+   "Wolf of Wall Street",
+   "Leonardo DiCaprio",
+   "Herman Cain",
+   "Alex Jones",
+   "Goldman Sachs",
+   "Vermont",
+   "Guyana",
+   "Chile",
+   "Glass-Steagall Act",
+   "DOS",
+   "Cardinal Wolsey",
+   "Roman Republic"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 5.06,
+   "text": "Hello, I'm going to do a video request now because I was working on Dreamweaver and all of a sudden"
+  },
+  {
+   "start": 5.06,
+   "end": 10.2,
+   "text": "When I type things on there, it just goes to the next table and so then I restarted the computer"
+  },
+  {
+   "start": 10.2,
+   "end": 15.68,
+   "text": "Doing everything. So now I'm doing the system mechanic thing and it's stuck on 5% dude for"
+  },
+  {
+   "start": 15.68,
+   "end": 19.26,
+   "text": "Like the last five minutes. So I'm just going to let it stay there and see what happens. So"
+  },
+  {
+   "start": 19.26,
+   "end": 25.64,
+   "text": "Let's do the video request. I'm like really freaking high right now. Here's my roommate,"
+  },
+  {
+   "start": 25.64,
+   "end": 32.26,
+   "text": "Give me a bunch of weed and I've been smoking it out of my bong all morning. But I think"
+  },
+  {
+   "start": 32.26,
+   "end": 36.9,
+   "text": "I can do okay. We'll see. We'll see. And if you don't like me doing the videos high, just"
+  },
+  {
+   "start": 36.9,
+   "end": 43.88,
+   "text": "Let me know. Okay, so Daft Bugger, my very best video requester. Video request. The recent"
+  },
+  {
+   "start": 43.88,
+   "end": 50.82,
+   "text": "Book by Thomas Piketty named Capital in the 21st Century quickly became a bestseller on"
+  },
+  {
+   "start": 50.82,
+   "end": 57.04,
+   "text": "Amazon. The focus of the book is income inequality, which the author provides his solution for."
+  },
+  {
+   "start": 57.16,
+   "end": 63.0,
+   "text": "Oh, interesting. I have a solution. He shows that without major world wars or government"
+  },
+  {
+   "start": 63.0,
+   "end": 71.36,
+   "text": "Interventions like the New Deal, the rich continue to amass more fortunes. The reason is that"
+  },
+  {
+   "start": 71.36,
+   "end": 78.82,
+   "text": "The gains on capital investments, capital gains, okay, so that's called investment, outpace"
+  },
+  {
+   "start": 78.82,
+   "end": 89.74,
+   "text": "Those on GDP. Thus, those with lots of investments, like the wealthy, such as wealthy, take a larger"
+  },
+  {
+   "start": 89.74,
+   "end": 95.68,
+   "text": "Percentage of the world's wealth with every passing year. The only interruption to this"
+  },
+  {
+   "start": 95.68,
+   "end": 102.78,
+   "text": "Process is major conflicts such as wars. In recent years of slow growth, we saw high unemployment"
+  },
+  {
+   "start": 102.78,
+   "end": 110.2,
+   "text": "And flat wages. Yet the stock market grew immensely, further intensifying wealth inequality. The major"
+  },
+  {
+   "start": 110.2,
+   "end": 115.76,
+   "text": "Flaw with the concept of trickle-down economics is that a billionaire and a person on minimum"
+  },
+  {
+   "start": 115.76,
+   "end": 122.6,
+   "text": "Wage only purchase one loaf of bread per supermarket visit. A millionaire and a poor person only need"
+  },
+  {
+   "start": 122.6,
+   "end": 129.04,
+   "text": "So many stocks. The meaning is that the wealthy have huge savings and don't need to consume much,"
+  },
+  {
+   "start": 129.04,
+   "end": 136.84,
+   "text": "While the poor consume everything and can't afford all they need. The funds aren't going where they"
+  },
+  {
+   "start": 136.84,
+   "end": 143.5,
+   "text": "Are needed. The huge savings held by the wealthy don't do anything to offset the lack of economic"
+  },
+  {
+   "start": 143.5,
+   "end": 153.96,
+   "text": "Demand caused by poverty. Piketty also debunks the conservative notion that raising tax on the wealthy"
+  },
+  {
+   "start": 153.96,
+   "end": 163.72,
+   "text": "Would slow growth. He says, if trends continue as if we are likely going to see social unrest as faith"
+  },
+  {
+   "start": 163.72,
+   "end": 173.58,
+   "text": "In the system erodes, his nightmare vision is a society where the wealthy are able to live off"
+  },
+  {
+   "start": 173.58,
+   "end": 181.16,
+   "text": "Investments and inheritance like aristocracy, while everyone else saves away barely able to afford the"
+  },
+  {
+   "start": 181.16,
+   "end": 187.78,
+   "text": "Cost of living. He says the solution is to have a global tax to prevent the wealthy minority"
+  },
+  {
+   "start": 187.78,
+   "end": 200.72,
+   "text": "From dominating the economy. A global tax. Thomas Jefferson also spoke about the dangers of so much"
+  },
+  {
+   "start": 200.72,
+   "end": 208.96,
+   "text": "Wealth in the hands of a few. Do you think closing tax loopholes and leveraging a global tax would be"
+  },
+  {
+   "start": 208.96,
+   "end": 215.2,
+   "text": "A solution to this immense problem? How would you resolve this problem if you were president?"
+  },
+  {
+   "start": 215.74,
+   "end": 223.22,
+   "text": "Also, do you think use value should replace exchange value in future? Meaning, there's lots of vacant"
+  },
+  {
+   "start": 223.22,
+   "end": 229.6,
+   "text": "Investment homes that people purchase to flip later on. While lots of people can't afford to pay rent in"
+  },
+  {
+   "start": 229.6,
+   "end": 238.06,
+   "text": "Cities, society could decide to focus on providing for the needs of poor people such as constructing free"
+  },
+  {
+   "start": 238.06,
+   "end": 245.12,
+   "text": "Cheap housing rather than focusing on profit exchange value which caters to the wealthy and drives out the"
+  },
+  {
+   "start": 245.12,
+   "end": 255.58,
+   "text": "Poor. Societal focus on profit incentive means that America needs aren't met due to the lack of"
+  },
+  {
+   "start": 255.58,
+   "end": 269.5,
+   "text": "Individual funds. Thanks. Um, yeah, there's another really good, um, really good, uh, and long,"
+  },
+  {
+   "start": 269.5,
+   "end": 280.86,
+   "text": "Which I like, uh, video requests. Um, yeah, so, yeah, so, uh, that sounds like an interesting book. Um,"
+  },
+  {
+   "start": 280.86,
+   "end": 287.96,
+   "text": "You know, just to know, just to study the stuff is like a historical perspective. He says that like"
+  },
+  {
+   "start": 287.96,
+   "end": 296.22,
+   "text": "Normally, um, and now you said because of wars and, um, stuff like the new deal, government"
+  },
+  {
+   "start": 296.22,
+   "end": 303.14,
+   "text": "Interventions. So, um, so the natural progression of things is that, uh, the rich continue to get"
+  },
+  {
+   "start": 303.14,
+   "end": 308.4,
+   "text": "Richer, richer, richer, and the poor get poorer, poorer, poorer until there's a revolution. Um, yeah,"
+  },
+  {
+   "start": 308.4,
+   "end": 316.96,
+   "text": "I think that's a general, um, uh, trend in, in society is that, um, the world is always changing"
+  },
+  {
+   "start": 316.96,
+   "end": 324.62,
+   "text": "And, um, and we're always developing and getting bigger. And so we, we, we create laws and rules"
+  },
+  {
+   "start": 324.62,
+   "end": 331.38,
+   "text": "And stuff, um, to, and, and, you know, ways to look at the world, to fit the world that you live in."
+  },
+  {
+   "start": 332.22,
+   "end": 337.24,
+   "text": "And then, um, the, the world grows and you outgrow it and you have to buy, you have to, you know,"
+  },
+  {
+   "start": 337.24,
+   "end": 342.44,
+   "text": "Throw away the old, uh, system and put on a new system. I think that's what Jesus was talking"
+  },
+  {
+   "start": 342.44,
+   "end": 347.2,
+   "text": "About when he said, you can't put new wine and old wine skins. You have to put new wine,"
+  },
+  {
+   "start": 347.96,
+   "end": 351.68,
+   "text": "Um, old wine and old wine skins. You have to put new wine and new wine skins,"
+  },
+  {
+   "start": 351.68,
+   "end": 359.2,
+   "text": "Like throw away all the old, um, you know, kind of like how geckos shed every, every month,"
+  },
+  {
+   "start": 359.42,
+   "end": 366.12,
+   "text": "You know, as you grow, you just have to get rid of it. And, um, you know, that's what revolutions are"
+  },
+  {
+   "start": 366.12,
+   "end": 372.46,
+   "text": "For. We have different systems of government as we pass through time. Um, you know, you have like"
+  },
+  {
+   "start": 372.46,
+   "end": 378.98,
+   "text": "The autocratic kind of familial structure and then even, even, uh, tribes, that's really autocratic."
+  },
+  {
+   "start": 379.46,
+   "end": 388.3,
+   "text": "Um, and then you become a, um, kind of, uh, aristocratic society and then, uh, you know, monarchy"
+  },
+  {
+   "start": 388.3,
+   "end": 395.6,
+   "text": "And, uh, goes to democracy and, you know, um, elected democracy and, and then, you know, at the"
+  },
+  {
+   "start": 395.6,
+   "end": 404.0,
+   "text": "Very end, way beyond where we are now, direct democracy. Um, you know, after right now, uh,"
+  },
+  {
+   "start": 404.04,
+   "end": 410.74,
+   "text": "We're in a, uh, democratic elected, uh, republic, uh, which is way better than a direct democracy"
+  },
+  {
+   "start": 410.74,
+   "end": 418.84,
+   "text": "For the state that we're in now as humans because, um, you know, humans, we have to, we have to think"
+  },
+  {
+   "start": 418.84,
+   "end": 425.84,
+   "text": "Stuff through. We don't have to, you know, we're, we're, we're beings of, uh, of, um, you know,"
+  },
+  {
+   "start": 425.9,
+   "end": 430.18,
+   "text": "We're for too brash. We just make wrong decisions. Anyway, I'm getting sidetracked. I'm talking about"
+  },
+  {
+   "start": 430.18,
+   "end": 436.46,
+   "text": "Republics, but we have, but anyways, yeah, we need to have all of these, um, you know, revolutions and"
+  },
+  {
+   "start": 436.46,
+   "end": 443.42,
+   "text": "Um, you know, it has to be a revolution. That's, it's, it's, it's a bizarre, um, thing that happens"
+  },
+  {
+   "start": 443.42,
+   "end": 449.16,
+   "text": "When people have money and they have power, they kind of, um, they kind of just take it. And I think"
+  },
+  {
+   "start": 449.16,
+   "end": 456.2,
+   "text": "The main problem with that, the root, root, root, root, root problem with the wealthy, um, accruing"
+  },
+  {
+   "start": 456.2,
+   "end": 461.94,
+   "text": "More wealth and then fighting against trying to make laws to share it, to beat out with the rest of the"
+  },
+  {
+   "start": 461.94,
+   "end": 472.25,
+   "text": "People is a lack of, um, a lack of, uh, the ability to look at everybody as equal, you know,"
+  },
+  {
+   "start": 472.25,
+   "end": 478.65,
+   "text": "A lack of empathy with another person. It's kind of like going sociopathic or, um, where you can't"
+  },
+  {
+   "start": 478.65,
+   "end": 484.73,
+   "text": "Feel the humanity in somebody else. So, you know, you can be like a certain class of people and, um,"
+  },
+  {
+   "start": 485.17,
+   "end": 490.51,
+   "text": "Who just sits around and, uh, has a bunch of money fly over the world. And then there's all those other"
+  },
+  {
+   "start": 490.51,
+   "end": 495.57,
+   "text": "People on the hillside who just work all the time and, um, don't have enough money to, you know,"
+  },
+  {
+   "start": 495.57,
+   "end": 500.21,
+   "text": "Survive. And, and you're like, oh, well, that's just the way it is. And you just kind of forget"
+  },
+  {
+   "start": 500.21,
+   "end": 506.13,
+   "text": "About it. Um, yeah, it's a bizarre, bizarre that that happens. So you need, yeah, you need, uh,"
+  },
+  {
+   "start": 507.01,
+   "end": 514.85,
+   "text": "You need intervention. Uh, right now we're trying to, they're, um, pass the, uh, uh, getting money out"
+  },
+  {
+   "start": 514.85,
+   "end": 520.79,
+   "text": "Of politics. Um, article five of, uh, the constitution says that, uh, if two thirds of"
+  },
+  {
+   "start": 520.79,
+   "end": 526.57,
+   "text": "The states in America, uh, want to pass a resolution to add a new, um, amendment to the"
+  },
+  {
+   "start": 526.57,
+   "end": 532.41,
+   "text": "Constitution, then we can do it. Uh, you can override, you know, the, uh, the federal government"
+  },
+  {
+   "start": 532.41,
+   "end": 540.29,
+   "text": "And, um, just, I think it was yesterday, Vermont is the first state to sign onto it. So all we"
+  },
+  {
+   "start": 540.29,
+   "end": 544.71,
+   "text": "Need is another, what, 30 more states and then we're there. We can make it, we can get"
+  },
+  {
+   "start": 544.71,
+   "end": 548.99,
+   "text": "Money out of politics and then we can get all of the people to, um, it'll be like a level"
+  },
+  {
+   "start": 548.99,
+   "end": 555.01,
+   "text": "Playing field where you can't, people won't vote for just the, uh, guy with the most money"
+  },
+  {
+   "start": 555.01,
+   "end": 561.33,
+   "text": "To spend with the most, uh, advertisements and stuff before my, my, I think we should"
+  },
+  {
+   "start": 561.33,
+   "end": 564.93,
+   "text": "Get money out of politics. And my position has changed about three or four years ago."
+  },
+  {
+   "start": 564.99,
+   "end": 568.47,
+   "text": "I thought that, or four years ago, I thought that, you know, we shouldn't bother just because"
+  },
+  {
+   "start": 568.47,
+   "end": 572.93,
+   "text": "It was just too many laws and too complicated. But the fact of the matter is that people, um,"
+  },
+  {
+   "start": 572.93,
+   "end": 576.99,
+   "text": "Are just so dumb that they'll vote for whoever they see, um, in the advertisements"
+  },
+  {
+   "start": 576.99,
+   "end": 581.97,
+   "text": "For, and they fall for the whole red versus blue game. And, um, and so they vote for either"
+  },
+  {
+   "start": 581.97,
+   "end": 586.77,
+   "text": "Or. And, um, you know, when all these companies are giving money to both candidates, so they"
+  },
+  {
+   "start": 586.77,
+   "end": 594.65,
+   "text": "Win both either way, but, um, it's weird. It's just a really messed up, um, it, uh, not efficient"
+  },
+  {
+   "start": 594.65,
+   "end": 600.17,
+   "text": "Way to run things, you know, cause they, what, they spend like $350 million each, the two"
+  },
+  {
+   "start": 600.17,
+   "end": 609.95,
+   "text": "Presidential candidates, the two. Um, yeah. So, um, yeah. So, um, let's, let's continue"
+  },
+  {
+   "start": 609.95,
+   "end": 616.89,
+   "text": "With what he said. I was just kind of, I guess, introduction. Um, yeah. Income inequality"
+  },
+  {
+   "start": 616.89,
+   "end": 621.85,
+   "text": "Shows that without major world wars, um, or government interventions like the new deal."
+  },
+  {
+   "start": 621.95,
+   "end": 628.11,
+   "text": "Yeah. Cause the new deal, um, government has, uh, we've done, we've had some good presidents"
+  },
+  {
+   "start": 628.11,
+   "end": 634.15,
+   "text": "In the past, we've done some good things. Um, the new deal, uh, well, yeah, the two Roosevelt's,"
+  },
+  {
+   "start": 634.21,
+   "end": 640.23,
+   "text": "There was Theodore Roosevelt who broke up the, um, standard oil. Now those guys, um, some"
+  },
+  {
+   "start": 640.23,
+   "end": 644.33,
+   "text": "Of those dudes, like one of those guys, um, owned most of the wealth of America at one"
+  },
+  {
+   "start": 644.33,
+   "end": 654.71,
+   "text": "Point. Um, and, um, so got rid of that, um, monopoly. And, um, and then, uh, Franklin Roosevelt,"
+  },
+  {
+   "start": 654.71,
+   "end": 661.79,
+   "text": "Um, made the, uh, the law, the, um, I can't remember what it was called, but to make it"
+  },
+  {
+   "start": 661.79,
+   "end": 667.81,
+   "text": "So that you couldn't, um, uh, bankers couldn't use our money to invest. And then Bill Clinton"
+  },
+  {
+   "start": 667.81,
+   "end": 674.15,
+   "text": "Signed that out. But, um, but yeah, having good leaders in there, um, helps. Um, so yeah,"
+  },
+  {
+   "start": 674.15,
+   "end": 680.91,
+   "text": "I'll get to what I would do if I was president, but let's continue really. Um, the reason is"
+  },
+  {
+   "start": 680.91,
+   "end": 686.35,
+   "text": "That the gains on capital outpace those of GDP. Yeah. Yeah. See, the main problem is"
+  },
+  {
+   "start": 686.35,
+   "end": 691.65,
+   "text": "That, you know, people who are rich, they just kind of see other people as just chattel."
+  },
+  {
+   "start": 692.17,
+   "end": 696.43,
+   "text": "Um, and one thing that I, one example that I like to think about, um, that I think about"
+  },
+  {
+   "start": 696.43,
+   "end": 702.61,
+   "text": "Actually in my head a lot is I was in Guyana a few, like 10 years ago, 13 years ago, whatever."
+  },
+  {
+   "start": 702.61,
+   "end": 707.33,
+   "text": "And, um, we were, I met these like American kids and they were staying, they were like,"
+  },
+  {
+   "start": 707.33,
+   "end": 711.43,
+   "text": "They're on some exchange program. We're hanging out and having a party or whatever. And there"
+  },
+  {
+   "start": 711.43,
+   "end": 715.11,
+   "text": "Were these other Guyanese and there's some young Guyanese girl there who was like their"
+  },
+  {
+   "start": 715.11,
+   "end": 719.61,
+   "text": "Friend or whatever. And she was, I guess just a regular, like poor Guyanese girl. And I"
+  },
+  {
+   "start": 719.61,
+   "end": 726.95,
+   "text": "Guess she wanted to buy a minivan so that she could pay a driver to drive it around and then"
+  },
+  {
+   "start": 726.95,
+   "end": 732.77,
+   "text": "She could make the money out of it, you know? And it's like, it's like, why don't you just"
+  },
+  {
+   "start": 732.77,
+   "end": 736.07,
+   "text": "Buy a minivan yourself and then you drive it around and make the money off of it, you know?"
+  },
+  {
+   "start": 736.07,
+   "end": 742.97,
+   "text": "Like it's like, and you know, or like people, it's just people having, and not just poor people"
+  },
+  {
+   "start": 742.97,
+   "end": 747.63,
+   "text": "From like a third world country, but that's just the example that I think about, but in all levels"
+  },
+  {
+   "start": 747.63,
+   "end": 751.29,
+   "text": "And all societies, people think about like ways that they can make money, but they don't think"
+  },
+  {
+   "start": 751.29,
+   "end": 756.75,
+   "text": "They don't take a step back and think if that like, it's good for the whole world. And if there's,"
+  },
+  {
+   "start": 756.87,
+   "end": 760.75,
+   "text": "You know, like what's, you know, like people are like, Oh, did you know that, you know,"
+  },
+  {
+   "start": 760.75,
+   "end": 766.37,
+   "text": "Bill Gates and, um, these guys who are super rich make most of their money off of their"
+  },
+  {
+   "start": 766.37,
+   "end": 772.35,
+   "text": "Investments, off of their capital gains and not off of what they originally got rich off"
+  },
+  {
+   "start": 772.35,
+   "end": 777.85,
+   "text": "Of, you know? He doesn't get his money off of his, um, you know, off of, you know, like"
+  },
+  {
+   "start": 777.85,
+   "end": 783.15,
+   "text": "The retirement or off of the money he made from his salary. It's from all these, uh, investment"
+  },
+  {
+   "start": 783.15,
+   "end": 788.45,
+   "text": "That he has. And, um, and so, and so people are like, and you know, and so a lot of people just"
+  },
+  {
+   "start": 788.45,
+   "end": 794.51,
+   "text": "Go, Oh wow. Yeah. You can get really rich just by investing. And Oh, that's, you know, and they"
+  },
+  {
+   "start": 794.51,
+   "end": 798.67,
+   "text": "Don't even question it. They're like, Oh wow. Yeah. Don't you love America? You can just get rich,"
+  },
+  {
+   "start": 798.75,
+   "end": 803.45,
+   "text": "Get rich. And they don't, they don't care about that. That's, that's not a self-sustaining,"
+  },
+  {
+   "start": 803.45,
+   "end": 807.67,
+   "text": "You know, thing. It's not good for everybody. It's like that movie Wolf of Wall Street,"
+  },
+  {
+   "start": 807.67,
+   "end": 815.05,
+   "text": "You know, it was so such an interesting, uh, scene when, uh, Leonardo DiCaprio, you know,"
+  },
+  {
+   "start": 815.09,
+   "end": 819.31,
+   "text": "He's given the big speech to his, all of his employees, you know, and there's like what"
+  },
+  {
+   "start": 819.31,
+   "end": 825.07,
+   "text": "A hundred people in there. And, uh, you know, and he's like, you guys are awesome. We're"
+  },
+  {
+   "start": 825.07,
+   "end": 828.85,
+   "text": "Going to kick ass. And they're like, Whoa, Whoa, Whoa, Whoa. And they're all proud of themselves,"
+  },
+  {
+   "start": 829.01,
+   "end": 833.97,
+   "text": "But like, they're all con artists, you know, but they're like, we love America, you know,"
+  },
+  {
+   "start": 833.97,
+   "end": 840.01,
+   "text": "Like they're not thinking beyond like they don't, they're, they're, they've gone completely"
+  },
+  {
+   "start": 840.01,
+   "end": 848.05,
+   "text": "Sociopathic. They have no, they have no empathy for other people and for, they don't know the"
+  },
+  {
+   "start": 848.05,
+   "end": 857.11,
+   "text": "Difference between right and wrong. And, um, and, uh, yeah. And that's a true story too. Um,"
+  },
+  {
+   "start": 857.11,
+   "end": 863.71,
+   "text": "Wolf of Wall Street. So, um, so, you know, I think that's the main problem."
+  },
+  {
+   "start": 863.97,
+   "end": 872.05,
+   "text": "Is that the people who, um, are involved in it, um, uh, don't care, but I don't think"
+  },
+  {
+   "start": 872.05,
+   "end": 876.93,
+   "text": "I'm not going to put just the blame on the people who are benefiting from it. I would put"
+  },
+  {
+   "start": 876.93,
+   "end": 882.67,
+   "text": "The blame on every, every single person who doesn't actively, you know, speak out against"
+  },
+  {
+   "start": 882.67,
+   "end": 890.57,
+   "text": "It or do something against it, you know? Um, because, uh, the whole reason that people are"
+  },
+  {
+   "start": 890.57,
+   "end": 896.39,
+   "text": "Able to do this kind of stuff, like, like that we, we have a system set up, you know, with legalized"
+  },
+  {
+   "start": 896.39,
+   "end": 904.75,
+   "text": "Bribery and, um, and you know, all these unfair trade practices and like business that make it"
+  },
+  {
+   "start": 904.75,
+   "end": 909.15,
+   "text": "Too hard for smaller people to come up and too easy for the franchises get bigger and bigger and"
+  },
+  {
+   "start": 909.15,
+   "end": 915.91,
+   "text": "Bigger, bigger, bigger. Um, that whole system is supported by everybody because we all seem to have"
+  },
+  {
+   "start": 915.91,
+   "end": 921.11,
+   "text": "This like, it's kind of, it's interesting. And it's, I think it's a little, it's, it's peculiar,"
+  },
+  {
+   "start": 921.47,
+   "end": 926.91,
+   "text": "Particular to America. And I think other people, foreigners outside of America realize this and"
+  },
+  {
+   "start": 926.91,
+   "end": 935.71,
+   "text": "We don't, but, um, it's kind of like this disease that America got. It's kind of like the, uh,"
+  },
+  {
+   "start": 936.27,
+   "end": 941.83,
+   "text": "Too big for your own good or too successful for your own good type of disease. We come to America,"
+  },
+  {
+   "start": 941.83,
+   "end": 951.7,
+   "text": "We, um, we, uh, you know, kick the Indians asses and we kick the French's asses and we kick the"
+  },
+  {
+   "start": 951.7,
+   "end": 959.48,
+   "text": "Spaniards asses and we just push West and push West and, and, you know, just, and then, and then"
+  },
+  {
+   "start": 959.48,
+   "end": 964.38,
+   "text": "We get richer and richer and richer and more powerful and more powerful and we win every war"
+  },
+  {
+   "start": 964.38,
+   "end": 970.04,
+   "text": "And we just, and so we just, and then, so we're, we're like, Oh wow. Yeah. More than, you know,"
+  },
+  {
+   "start": 970.04,
+   "end": 976.38,
+   "text": "When we just, it's kind of like a cancer, like out of control. And, um, maybe people from other"
+  },
+  {
+   "start": 976.38,
+   "end": 986.48,
+   "text": "Older, you know, Europe or something understand the dangers of, uh, of, uh, getting out of control"
+  },
+  {
+   "start": 986.48,
+   "end": 996.54,
+   "text": "With that. Cause, cause, uh, yeah. Um, but, uh, okay. So yeah, the, uh, the gain, the gains"
+  },
+  {
+   "start": 996.54,
+   "end": 1000.82,
+   "text": "On capital investment, um, outpaced those on GDP. And I did have some good examples of how"
+  },
+  {
+   "start": 1000.82,
+   "end": 1004.16,
+   "text": "The system works and how it could be fixed, but I can't remember it. Maybe I'll think of it later."
+  },
+  {
+   "start": 1004.64,
+   "end": 1008.32,
+   "text": "So that's those with lots of investments take larger percentage of the world's wealth every"
+  },
+  {
+   "start": 1008.32,
+   "end": 1017.62,
+   "text": "Passing year. Um, yeah. Um, yeah. Like the whole investment thing, um, like investing in land that"
+  },
+  {
+   "start": 1017.62,
+   "end": 1028.8,
+   "text": "Continues to pay out, um, whether it's, um, you know, you know, natural resources or if it's from a"
+  },
+  {
+   "start": 1028.8,
+   "end": 1034.42,
+   "text": "Company, you know, like if you build a company, um, this is an example of how we should change,"
+  },
+  {
+   "start": 1034.54,
+   "end": 1037.56,
+   "text": "You know, we, we're, we eventually are going to have to change the rules. Like you see,"
+  },
+  {
+   "start": 1037.62,
+   "end": 1044.28,
+   "text": "If you build a company, um, like, uh, Mark Zuckerberg builds Facebook and he becomes like"
+  },
+  {
+   "start": 1044.28,
+   "end": 1050.74,
+   "text": "What the 17th richest person in America with like $5 billion or something, 18 billion. I don't"
+  },
+  {
+   "start": 1050.74,
+   "end": 1058.24,
+   "text": "Know what it is, but, um, and I think it was like 18 billion or whatever. And, uh, and then"
+  },
+  {
+   "start": 1058.24,
+   "end": 1065.39,
+   "text": "He, um, we have a system where it's shares. So then he buys up, he has most of the shares"
+  },
+  {
+   "start": 1065.39,
+   "end": 1069.53,
+   "text": "Look thing. And then he, he just passes that off to his kids. He passes that off to their"
+  },
+  {
+   "start": 1069.53,
+   "end": 1074.09,
+   "text": "Kids. And it's this Facebook that everybody uses, you know, cause like it's Facebook is"
+  },
+  {
+   "start": 1074.09,
+   "end": 1078.17,
+   "text": "A, is the social networking tool that we all use. It's something that we all use just like,"
+  },
+  {
+   "start": 1078.17,
+   "end": 1083.87,
+   "text": "Um, you know, any natural resource, something that we all use. And if we all use it, then we"
+  },
+  {
+   "start": 1083.87,
+   "end": 1089.67,
+   "text": "All own it. You know, you can't have one group of people own it and then pass it off"
+  },
+  {
+   "start": 1089.67,
+   "end": 1096.15,
+   "text": "To their kids who then pass it off to their kids and they own it. Um, and none, none of"
+  },
+  {
+   "start": 1096.15,
+   "end": 1103.95,
+   "text": "Us do, you know, that's, that's, uh, like in the past, uh, with, uh, you know, the dark"
+  },
+  {
+   "start": 1103.95,
+   "end": 1109.47,
+   "text": "Ages where you would have the land, the baron own the land. Everybody's on, on his land, you"
+  },
+  {
+   "start": 1109.47,
+   "end": 1114.83,
+   "text": "Know, and so he can kick them off if he wants, or he can, um, if they want to even collect"
+  },
+  {
+   "start": 1114.83,
+   "end": 1121.29,
+   "text": "Firewood, they have to pay him for it, you know? And, um, and then, so he passes it off"
+  },
+  {
+   "start": 1121.29,
+   "end": 1126.19,
+   "text": "To his kid and that kind of stuff causes problems because then it creates this double class society"
+  },
+  {
+   "start": 1126.19,
+   "end": 1132.01,
+   "text": "And then they end up going crazy. The rich people go crazy, um, and then do crazy stuff"
+  },
+  {
+   "start": 1132.01,
+   "end": 1136.61,
+   "text": "And spend their money in crazy ways. And it's, uh, yeah, it's not good. So you have to, we're"
+  },
+  {
+   "start": 1136.61,
+   "end": 1139.99,
+   "text": "Better off when we're all more of a level playing field and we need to keep it as level"
+  },
+  {
+   "start": 1139.99,
+   "end": 1144.45,
+   "text": "As possible. And the more level is the better off. Um, as far as opportunity goes, you know,"
+  },
+  {
+   "start": 1145.45,
+   "end": 1148.99,
+   "text": "We have to keep that in mind that, that we're all, you know, there's always going to be the"
+  },
+  {
+   "start": 1148.99,
+   "end": 1153.37,
+   "text": "Capable people and the not capable people, but the capable people and the not capable people"
+  },
+  {
+   "start": 1153.37,
+   "end": 1158.93,
+   "text": "Are from all walks of life. You know, like you're going to have incapables coming from the"
+  },
+  {
+   "start": 1158.93,
+   "end": 1162.81,
+   "text": "Rich and the capable coming from the poor. So you have to have the, you know, social mobility,"
+  },
+  {
+   "start": 1162.81,
+   "end": 1169.13,
+   "text": "Um, switch, which, and you know, the point that I'm making is that you can't have the,"
+  },
+  {
+   "start": 1169.23,
+   "end": 1173.11,
+   "text": "You can't have, um, you know, the rich being too rich by being able to pass off all the"
+  },
+  {
+   "start": 1173.11,
+   "end": 1177.03,
+   "text": "Shares. So something like Facebook, you know, cause it's, it's technology, but something"
+  },
+  {
+   "start": 1177.03,
+   "end": 1181.61,
+   "text": "We all use something like Facebook needs to go into the public domain. So that's why we"
+  },
+  {
+   "start": 1181.61,
+   "end": 1189.55,
+   "text": "Can't be so afraid of like communism and stuff, you know, we, or maybe, um, and, and it's,"
+  },
+  {
+   "start": 1189.55,
+   "end": 1194.85,
+   "text": "I think it's, you know, people who, people who want to be pessimistic, I think it's a"
+  },
+  {
+   "start": 1194.85,
+   "end": 1198.75,
+   "text": "Beautiful thing that you should think about is, you know, how people can start up companies"
+  },
+  {
+   "start": 1198.75,
+   "end": 1203.05,
+   "text": "And then people, and then their shareholders take their companies from them. That's, that's"
+  },
+  {
+   "start": 1203.05,
+   "end": 1207.13,
+   "text": "A great example of democracy. You know, if you're crazy psycho and you started a company,"
+  },
+  {
+   "start": 1207.17,
+   "end": 1210.53,
+   "text": "You can have it taken from you and, you know, cause it's not your company anymore. Now it's"
+  },
+  {
+   "start": 1210.53,
+   "end": 1216.41,
+   "text": "The people's company. We all share it and you built it for them, you know? And, um, so that's"
+  },
+  {
+   "start": 1216.41,
+   "end": 1219.13,
+   "text": "Basically, I think that's the main thing we need to do. The main problem with the"
+  },
+  {
+   "start": 1219.13,
+   "end": 1223.67,
+   "text": "World policy, changing policies is, is a great thing to talk about and philosophize,"
+  },
+  {
+   "start": 1223.75,
+   "end": 1230.13,
+   "text": "But talking about changing the world, it all starts with our attitude about, um, you"
+  },
+  {
+   "start": 1230.13,
+   "end": 1236.19,
+   "text": "Know, ourselves and the basic stuff. And to know that, um, that just to, that if we could"
+  },
+  {
+   "start": 1236.19,
+   "end": 1241.47,
+   "text": "All come to an agreement that, um, we shouldn't have two different societies of people, then"
+  },
+  {
+   "start": 1241.47,
+   "end": 1246.13,
+   "text": "We could, then we can then pretty easily come to the next agreement that then we can't have"
+  },
+  {
+   "start": 1246.13,
+   "end": 1251.83,
+   "text": "These laws that allow people to, you know, pass off, um, so much inheritance to other"
+  },
+  {
+   "start": 1251.83,
+   "end": 1260.11,
+   "text": "People. Um, uh, Bill Gates, I think is doing a great example for everybody by giving all"
+  },
+  {
+   "start": 1260.11,
+   "end": 1264.25,
+   "text": "Of his money away, the richest person in the whole world. Um, and then he has a thing,"
+  },
+  {
+   "start": 1264.37,
+   "end": 1270.51,
+   "text": "You know, his foundation, but 10 years after he dies, all of his money has to be gone and"
+  },
+  {
+   "start": 1270.51,
+   "end": 1274.17,
+   "text": "He's only giving a minimal amount to his kids, you know, they're going to have to fend for"
+  },
+  {
+   "start": 1274.17,
+   "end": 1281.51,
+   "text": "Themselves. And so, uh, that's a great precedent to send, to set an example, to send for, um,"
+  },
+  {
+   "start": 1282.17,
+   "end": 1289.51,
+   "text": "You know, anybody else who could, who could, you know, have who, you know, who has just happened"
+  },
+  {
+   "start": 1290.23,
+   "end": 1293.11,
+   "text": "To be at the right place in the right time and made the money. You know, Bill Gates, and"
+  },
+  {
+   "start": 1293.11,
+   "end": 1297.89,
+   "text": "My brother was explaining this to me, um, didn't even make the program DOS. He missed DOS."
+  },
+  {
+   "start": 1297.89,
+   "end": 1302.13,
+   "text": "He bought it off some other dude and then he's packaged, sold it to everybody else. And that's"
+  },
+  {
+   "start": 1302.13,
+   "end": 1306.83,
+   "text": "What made him rich. And the guy who originally wrote the DOS is just some normal dude, poor dude"
+  },
+  {
+   "start": 1306.83,
+   "end": 1312.81,
+   "text": "Out there, you know? So, so, you know, when you think about like super wealthy, a lot of, you know,"
+  },
+  {
+   "start": 1313.79,
+   "end": 1318.97,
+   "text": "Conservative people are, you know, like to be like, you know, Oh, that's my money. It's,"
+  },
+  {
+   "start": 1319.49,
+   "end": 1323.23,
+   "text": "I deserved it. I earned it. I busted my ass. And so I get to be super, super wealthy,"
+  },
+  {
+   "start": 1323.23,
+   "end": 1326.91,
+   "text": "Like ridiculously wealthy. It's the American way. And that's the wrong attitude because"
+  },
+  {
+   "start": 1326.91,
+   "end": 1333.69,
+   "text": "The attitude that you really should be having is, you know, Bill Gates happened and Mark"
+  },
+  {
+   "start": 1333.69,
+   "end": 1337.65,
+   "text": "Zuckerberg, um, just happened to be at the right place in the right time. They're not"
+  },
+  {
+   "start": 1337.65,
+   "end": 1341.43,
+   "text": "Like so much smarter than, better than everybody else. They just happened. They're just that"
+  },
+  {
+   "start": 1341.43,
+   "end": 1344.75,
+   "text": "Much smarter and better than everybody else. So they were lucky in there. They happened"
+  },
+  {
+   "start": 1344.75,
+   "end": 1350.53,
+   "text": "To be the person who, who were, who were at the helm of a new technology that everybody was"
+  },
+  {
+   "start": 1350.53,
+   "end": 1356.91,
+   "text": "Ready for that, that was going to exist regardless of whether they existed or not. It was going"
+  },
+  {
+   "start": 1356.91,
+   "end": 1363.41,
+   "text": "To, it was going to pop up within a couple of years of them doing it. So, you know, them"
+  },
+  {
+   "start": 1363.41,
+   "end": 1367.45,
+   "text": "Being like, it was kind of like the, the, the racist owner of the, of the LA Knicks, remember"
+  },
+  {
+   "start": 1367.45,
+   "end": 1372.07,
+   "text": "Or whatever they're called. He's like, yeah, those blackies, you know, what I pay for them."
+  },
+  {
+   "start": 1372.13,
+   "end": 1376.05,
+   "text": "I pay for this, I pay for that. And they're like, but you're just the owner, dude, you know?"
+  },
+  {
+   "start": 1376.05,
+   "end": 1380.65,
+   "text": "And like, you're not God, you know, you don't pay them. They don't have to like, thank you."
+  },
+  {
+   "start": 1380.73,
+   "end": 1386.33,
+   "text": "You're just the owner. So it's kind of like, um, um, uh, oh, I lost my train of thought."
+  },
+  {
+   "start": 1386.61,
+   "end": 1396.87,
+   "text": "Oh, fuck. Um, um, um, yeah. So Bill Gates was just the right place at the right time, you"
+  },
+  {
+   "start": 1396.87,
+   "end": 1401.69,
+   "text": "Know? And, and, um, and was at the helm of a technology that everybody was ready for"
+  },
+  {
+   "start": 1401.69,
+   "end": 1405.83,
+   "text": "That, that exploded. And it, because he was at the helm of it, it got so big and he, his"
+  },
+  {
+   "start": 1405.83,
+   "end": 1411.07,
+   "text": "Thing took over everything. His company took over everything. And it's, which is a good"
+  },
+  {
+   "start": 1411.07,
+   "end": 1414.55,
+   "text": "Thing to have, like, you know, not too many different companies. It's kind of like having,"
+  },
+  {
+   "start": 1414.63,
+   "end": 1418.83,
+   "text": "You know, railroads, you know, every, every state you go to, you got to put all your, unload"
+  },
+  {
+   "start": 1418.83,
+   "end": 1422.19,
+   "text": "All your stuff onto, from one railroad car onto the next rail car. You know, they have"
+  },
+  {
+   "start": 1422.19,
+   "end": 1427.93,
+   "text": "That problem all over Europe. And, uh, you know, so, I mean, having one big monopoly, I guess"
+  },
+  {
+   "start": 1427.93,
+   "end": 1434.69,
+   "text": "At the beginning is good, you know, it's three lines, the development, but, um, but, you"
+  },
+  {
+   "start": 1434.69,
+   "end": 1438.39,
+   "text": "Know, to think that like, Oh, I deserve it. I, I deserve to be, have like all this"
+  },
+  {
+   "start": 1438.39,
+   "end": 1442.51,
+   "text": "Wealth, a hundred billion dollars. And you, Oh yeah, I need more. You know, I, I worked"
+  },
+  {
+   "start": 1442.51,
+   "end": 1446.69,
+   "text": "Harder and I smarter and I, no, he's just happened to be at the right place at the right"
+  },
+  {
+   "start": 1446.69,
+   "end": 1453.35,
+   "text": "Time. And he made all that money. And that's just how it worked. It went to him, all that"
+  },
+  {
+   "start": 1453.35,
+   "end": 1463.53,
+   "text": "Money. And it, it's his responsibility now to, um, if he's did the right thing to show, um,"
+  },
+  {
+   "start": 1463.53,
+   "end": 1467.93,
+   "text": "That it's possible to be good and to just give back, you know, and he's been giving"
+  },
+  {
+   "start": 1467.93,
+   "end": 1472.19,
+   "text": "That great, um, research for sicknesses and all this kind of stuff, trying to find it."
+  },
+  {
+   "start": 1472.19,
+   "end": 1477.33,
+   "text": "He says, we're going to find a cure for malaria within 10 years, you know, what a great goal"
+  },
+  {
+   "start": 1477.33,
+   "end": 1483.93,
+   "text": "Set out to find a cure for this and then to use all that money to do it. So, um, so, uh,"
+  },
+  {
+   "start": 1484.07,
+   "end": 1488.39,
+   "text": "That's the kind of stuff, but see, if we respected people like him, then people would be like him"
+  },
+  {
+   "start": 1488.39,
+   "end": 1492.35,
+   "text": "On all levels of society and people are not like him on all of society, which shows that"
+  },
+  {
+   "start": 1492.35,
+   "end": 1497.83,
+   "text": "People are not, don't respect people like him on all levels of society. So to, to blame"
+  },
+  {
+   "start": 1497.83,
+   "end": 1501.87,
+   "text": "Just a super rich is just dumb. I don't like how people like people like Alex Jones do that"
+  },
+  {
+   "start": 1501.87,
+   "end": 1505.77,
+   "text": "Because the super rich, it's not like they've been the same families through year after year"
+  },
+  {
+   "start": 1505.77,
+   "end": 1508.85,
+   "text": "For thousands of years. You know, that's just maybe a couple of families have been like"
+  },
+  {
+   "start": 1508.85,
+   "end": 1514.15,
+   "text": "That. There's always new rich, you know, like the bourgeoisie in the 1800s in Europe and"
+  },
+  {
+   "start": 1514.15,
+   "end": 1518.37,
+   "text": "Like, and that they, they can be like the worst, you know, the bourgeoisie were some"
+  },
+  {
+   "start": 1518.37,
+   "end": 1522.61,
+   "text": "Of the worst rich people back then. You know, it's, it's not like, it's not like a certain"
+  },
+  {
+   "start": 1522.61,
+   "end": 1526.93,
+   "text": "Kind of person. It's just human nature. And, and you can set a good example. Like somebody"
+  },
+  {
+   "start": 1526.93,
+   "end": 1530.89,
+   "text": "Was really pissed me off the other day on YouTube. They're all talking, Oh, people suck."
+  },
+  {
+   "start": 1531.17,
+   "end": 1534.33,
+   "text": "World's going to hell in hand. You don't understand you being too optimistic or something."
+  },
+  {
+   "start": 1534.41,
+   "end": 1538.63,
+   "text": "And I'm like, dude, you know, like, and they're like, you know, another anonymous, I don't"
+  },
+  {
+   "start": 1538.63,
+   "end": 1542.47,
+   "text": "Know anything about them. I'm just like, dude, there's no, Oh yeah. I said, there's"
+  },
+  {
+   "start": 1542.47,
+   "end": 1547.47,
+   "text": "No excuse to be a criminal. It was like, well, you, you idiot. Wake the fuck up, moron."
+  },
+  {
+   "start": 1548.09,
+   "end": 1554.11,
+   "text": "What about starving people? What about if you're forced for crime? Cause you're fucking"
+  },
+  {
+   "start": 1554.11,
+   "end": 1557.65,
+   "text": "Stuck. It's like, come on, dude, there's never an excuse. If you're rich, it's affluenza."
+  },
+  {
+   "start": 1557.89,
+   "end": 1561.03,
+   "text": "If you're poor, it's cause you think you're starving. If you're middle classes, cause you"
+  },
+  {
+   "start": 1561.03,
+   "end": 1565.81,
+   "text": "Want to be rich, you know, you think you belong up there. You know, if you're, if you're"
+  },
+  {
+   "start": 1565.81,
+   "end": 1569.23,
+   "text": "So poor and you're starving, you know, like maybe, like maybe you shouldn't be having"
+  },
+  {
+   "start": 1569.23,
+   "end": 1573.01,
+   "text": "So many kids that you can't pay for, you know? I mean, when are you going to stop"
+  },
+  {
+   "start": 1573.01,
+   "end": 1576.17,
+   "text": "Putting the blame on other people and put up and take some personal responsibility"
+  },
+  {
+   "start": 1576.17,
+   "end": 1580.23,
+   "text": "For yourself? If we could all do that, we wouldn't be wasting so much money on policing"
+  },
+  {
+   "start": 1580.85,
+   "end": 1587.59,
+   "text": "Ourselves with the FCC and all this bullshit. So, um, anyways, the reason that, um, okay."
+  },
+  {
+   "start": 1588.27,
+   "end": 1594.11,
+   "text": "That's those with lots of investments. Um, yeah. Okay. The only interruption is such as"
+  },
+  {
+   "start": 1594.11,
+   "end": 1598.93,
+   "text": "Words in recent years, slow growth. We saw high unemployment and flat wages. Um, yet the stock"
+  },
+  {
+   "start": 1598.93,
+   "end": 1603.27,
+   "text": "Market grew immensely, further intensifying wealth inequality. Yeah. If you look at the"
+  },
+  {
+   "start": 1603.27,
+   "end": 1609.49,
+   "text": "Graph, um, maybe I'll put the graph on this video. I shouldn't put it. Um, the, uh, the"
+  },
+  {
+   "start": 1609.49,
+   "end": 1617.07,
+   "text": "Wealth, um, GDP and, uh, per capita income, they're two different lines, but they were coming"
+  },
+  {
+   "start": 1617.07,
+   "end": 1623.61,
+   "text": "Up together ever since world war one coming up like that. And then in 1978, the GDP kept"
+  },
+  {
+   "start": 1623.61,
+   "end": 1629.33,
+   "text": "Going up just like it always was, but the wealth inequality went and the, and the rich"
+  },
+  {
+   "start": 1629.33,
+   "end": 1635.61,
+   "text": "Went, you know, and the poor went, you know, and, um, the richer, like the top, like 1% or"
+  },
+  {
+   "start": 1635.61,
+   "end": 1639.53,
+   "text": "Like 20% richer than everybody else compared to now compared to they were in like 78, because"
+  },
+  {
+   "start": 1639.53,
+   "end": 1646.31,
+   "text": "In 78 under Carter, um, they made that, um, they passed that amendment that said that, um,"
+  },
+  {
+   "start": 1646.51,
+   "end": 1651.39,
+   "text": "Corporations could lobby as people. And so, um, that's when they would just start giving"
+  },
+  {
+   "start": 1651.39,
+   "end": 1654.79,
+   "text": "Money and they got, just got worse from there. And then there was, um, and then they got"
+  },
+  {
+   "start": 1654.79,
+   "end": 1660.17,
+   "text": "Rid of the, uh, the Glass-Steagall, which is what, um, the one I couldn't think about"
+  },
+  {
+   "start": 1660.17,
+   "end": 1666.11,
+   "text": "Before, um, Franklin Roosevelt, which said that bankers could use our money to gamble to"
+  },
+  {
+   "start": 1666.11,
+   "end": 1669.89,
+   "text": "Make themselves richer. And when they lose the gamble, they just get bailed out by our"
+  },
+  {
+   "start": 1669.89,
+   "end": 1676.09,
+   "text": "Tax money again, because they own the popular, the politicians. They are the politicians. Like"
+  },
+  {
+   "start": 1676.09,
+   "end": 1680.01,
+   "text": "They don't own the, they are the politicians. They, when they, when they, when they, um,"
+  },
+  {
+   "start": 1681.01,
+   "end": 1688.39,
+   "text": "When they, uh, retire, they go into the, uh, Goldman Sachs or, um, you know, or one of"
+  },
+  {
+   "start": 1688.39,
+   "end": 1694.11,
+   "text": "These, the FCC, you know, any one of these, these, uh, places that are supposed to regulate"
+  },
+  {
+   "start": 1694.11,
+   "end": 1700.83,
+   "text": "The, they're in the government branch that's supposed to regulate, um, the companies that"
+  },
+  {
+   "start": 1700.83,
+   "end": 1705.95,
+   "text": "They're regulating, they go back and forth. It's like, I think it's, you would think it's"
+  },
+  {
+   "start": 1705.95,
+   "end": 1711.17,
+   "text": "Anti-constitutional. We should do a 29th amendment for that. Shouldn't we? I mean, this, these"
+  },
+  {
+   "start": 1711.17,
+   "end": 1714.71,
+   "text": "Have been laws that have been in place forever. I mean, back in the Roman Republic, dude, like"
+  },
+  {
+   "start": 1714.71,
+   "end": 1721.33,
+   "text": "In 400 BC, they had laws that said two members of one family couldn't, couldn't be, uh, like"
+  },
+  {
+   "start": 1721.33,
+   "end": 1726.65,
+   "text": "Senators at the same time, or one senator couldn't be, um, you know, they had term limits"
+  },
+  {
+   "start": 1726.65,
+   "end": 1730.75,
+   "text": "For senators, you know, and they had, you couldn't, you couldn't hold two different posts at the"
+  },
+  {
+   "start": 1730.75,
+   "end": 1734.67,
+   "text": "Same time. And then, you know, we go backwards and then it gets even worse, you know, like"
+  },
+  {
+   "start": 1734.67,
+   "end": 1741.03,
+   "text": "Cardinal Woolsey back in 1580s, he was the, uh, archbishop of like Canterbury and then"
+  },
+  {
+   "start": 1741.03,
+   "end": 1745.07,
+   "text": "The Duke of York or whatever, archbishop of all these different places, just collecting"
+  },
+  {
+   "start": 1745.07,
+   "end": 1749.77,
+   "text": "The money. And so, you know, people, they just collect and they, you know, they get more"
+  },
+  {
+   "start": 1749.77,
+   "end": 1754.17,
+   "text": "And more and then we have to put them, we have to reign them in, but they're not going"
+  },
+  {
+   "start": 1754.17,
+   "end": 1765.98,
+   "text": "To reign themselves unless they're exceptional like Bill Gates. Um, okay. Um, okay. So the"
+  },
+  {
+   "start": 1765.98,
+   "end": 1770.94,
+   "text": "Major flaw with concept of trickle-down economics is that a billionaire or a person with a minimum"
+  },
+  {
+   "start": 1770.94,
+   "end": 1775.76,
+   "text": "Wage, um, can purchase one loaf of bread per supermarket visit. A millionaire, uh, or a per"
+  },
+  {
+   "start": 1775.76,
+   "end": 1780.82,
+   "text": "Person only needs so many stocks. Yeah. So, yeah, yeah. So it's also, it makes, it makes"
+  },
+  {
+   "start": 1780.82,
+   "end": 1786.02,
+   "text": "Life really, really, um, inefficient when you have all these people just wasting shit."
+  },
+  {
+   "start": 1786.22,
+   "end": 1791.7,
+   "text": "It was like that other scene in a Wolf of Wall Street. He, he has a huge yacht with a"
+  },
+  {
+   "start": 1791.7,
+   "end": 1798.8,
+   "text": "Helicopter on top and he tries to go out and, and float across the sea just to, to assign"
+  },
+  {
+   "start": 1798.8,
+   "end": 1803.56,
+   "text": "Something. So he doesn't lose $20 million and, um, he sinks the boat and the helicopter"
+  },
+  {
+   "start": 1803.56,
+   "end": 1809.0,
+   "text": "Falls in, you know, and it's like, like, yeah, just, just what this is, just filthy"
+  },
+  {
+   "start": 1809.0,
+   "end": 1817.3,
+   "text": "Or rich, not knowing, not knowing what they own and just, um, um, you know, people having"
+  },
+  {
+   "start": 1817.3,
+   "end": 1821.9,
+   "text": "Like houses upon houses, you know, all these like abandoned houses cause they have, cause"
+  },
+  {
+   "start": 1821.9,
+   "end": 1826.06,
+   "text": "They, cause when they go to a new town, they, for a couple of months, they can't just stay"
+  },
+  {
+   "start": 1826.06,
+   "end": 1830.52,
+   "text": "In somebody else's house or hotel. They have to have their own house, you know, people just"
+  },
+  {
+   "start": 1830.52,
+   "end": 1834.4,
+   "text": "Wanting more and more and more. But, but you know, I mean, the way that I see it is"
+  },
+  {
+   "start": 1834.4,
+   "end": 1839.98,
+   "text": "That, you know, the normal person would give those kinds of person more respect than they"
+  },
+  {
+   "start": 1839.98,
+   "end": 1846.08,
+   "text": "Would give just an honest poor person, you know? Like we don't, we don't, we haven't"
+  },
+  {
+   "start": 1846.08,
+   "end": 1849.82,
+   "text": "Understood, we haven't understood that that's not cool and that those people aren't the people"
+  },
+  {
+   "start": 1849.82,
+   "end": 1854.56,
+   "text": "We need to be looking out for, up to. Like people like me, you know, I talk about my timeline"
+  },
+  {
+   "start": 1854.56,
+   "end": 1858.5,
+   "text": "And all this shit and people are like, fuck you, loser. And I bet they turn around and be"
+  },
+  {
+   "start": 1858.5,
+   "end": 1862.28,
+   "text": "Like, Oh, look at that awesome milk billionaire who made so much money. Cause you're so smart."
+  },
+  {
+   "start": 1862.38,
+   "end": 1867.62,
+   "text": "Oh, wow. Isn't money awesome. You know, it's like, and the money makes, makes you well, makes"
+  },
+  {
+   "start": 1867.62,
+   "end": 1872.5,
+   "text": "You a good person. See, all we need to do to fix all this stuff is just for people to"
+  },
+  {
+   "start": 1872.5,
+   "end": 1879.06,
+   "text": "Wake up and just to know what's valuable and what's not valuable. And, and then, and then"
+  },
+  {
+   "start": 1879.06,
+   "end": 1885.58,
+   "text": "We, um, you would vote for the right people. Um, let's see, people aren't really utilizing"
+  },
+  {
+   "start": 1885.58,
+   "end": 1890.58,
+   "text": "Technology yet. We have internet, we have YouTube, we have, um, all the, all the technology,"
+  },
+  {
+   "start": 1890.66,
+   "end": 1894.36,
+   "text": "But we aren't utilizing it. You know, like nobody does like daily vlogs, what I do. Well,"
+  },
+  {
+   "start": 1894.36,
+   "end": 1900.5,
+   "text": "Everybody's anonymous, you know, I don't know anybody. And, um, but if we did utilize you on"
+  },
+  {
+   "start": 1900.5,
+   "end": 1904.74,
+   "text": "Technology, we could all make you personal websites and showing our, our purse are like"
+  },
+  {
+   "start": 1904.74,
+   "end": 1908.94,
+   "text": "Philosophy, um, political views about everything. And, and which would, and then the, you know,"
+  },
+  {
+   "start": 1908.94,
+   "end": 1913.92,
+   "text": "The candidates who want to be the leaders would have really good personal websites and,"
+  },
+  {
+   "start": 1913.96,
+   "end": 1920.38,
+   "text": "Um, having everything and, um, that they know about everything on there. And the people with"
+  },
+  {
+   "start": 1920.38,
+   "end": 1924.4,
+   "text": "The best website who know the most and who, who have the best videos where they can express"
+  },
+  {
+   "start": 1924.4,
+   "end": 1930.66,
+   "text": "The best, um, you know, and prove to everybody that they're the best mind are those are the"
+  },
+  {
+   "start": 1930.66,
+   "end": 1934.66,
+   "text": "People who are going to win the elections. The cream is going to rise to the top and that's"
+  },
+  {
+   "start": 1934.66,
+   "end": 1939.02,
+   "text": "Going to make for some great policies, which is going to make for a great society in the"
+  },
+  {
+   "start": 1939.02,
+   "end": 1944.36,
+   "text": "Future. And, um, so all we need to do is utilize the technology. It's just really time consuming"
+  },
+  {
+   "start": 1944.36,
+   "end": 1948.44,
+   "text": "To do all that, you know, like it wasn't, hasn't been around that long, you know, like I've been"
+  },
+  {
+   "start": 1948.44,
+   "end": 1953.78,
+   "text": "Working on my website for like 10 years and it's a, it's a total mess, you know, it just takes"
+  },
+  {
+   "start": 1953.78,
+   "end": 1960.94,
+   "text": "Time. So, um, once people get around to it, you know, whoever, whoever's the way I see it,"
+  },
+  {
+   "start": 1960.94,
+   "end": 1968.82,
+   "text": "Whoever puts a good personal website together, um, um, centered around politics, that's the"
+  },
+  {
+   "start": 1968.82,
+   "end": 1972.36,
+   "text": "Person who's going to be winning the, who's going to have an advantage in the elections."
+  },
+  {
+   "start": 1973.44,
+   "end": 1978.58,
+   "text": "Um, like, like me, if I, when I make my website together, make it a political, I could use"
+  },
+  {
+   "start": 1978.58,
+   "end": 1984.2,
+   "text": "That to be the congressman, you know, boom, right there instead of, and that takes money"
+  },
+  {
+   "start": 1984.2,
+   "end": 1989.78,
+   "text": "Right out of, and you wouldn't even need the, um, you wouldn't even need that, um, constitution,"
+  },
+  {
+   "start": 1989.78,
+   "end": 1994.44,
+   "text": "The 38th amendment. People could just vote for you naturally. And I, you know, I don't"
+  },
+  {
+   "start": 1994.44,
+   "end": 1999.38,
+   "text": "Think we need a 38th amendment. And I, to be honest, I don't, I don't, I think we're,"
+  },
+  {
+   "start": 1999.42,
+   "end": 2003.06,
+   "text": "I think we're going to get it, but I think we're going to get it. And then like five years"
+  },
+  {
+   "start": 2003.06,
+   "end": 2006.82,
+   "text": "Later, it's not even going to matter whether they have it or not anyways, because our consciousness"
+  },
+  {
+   "start": 2006.82,
+   "end": 2012.06,
+   "text": "Will have evolved and we will have, uh, you know, have, we will know the difference."
+  },
+  {
+   "start": 2012.18,
+   "end": 2016.2,
+   "text": "People would be smart enough to know the difference between like a Herman Cain type who has a cheesy"
+  },
+  {
+   "start": 2016.2,
+   "end": 2019.66,
+   "text": "Ass website and those stupid commercials who just wants to be president because he's like,"
+  },
+  {
+   "start": 2019.66,
+   "end": 2024.88,
+   "text": "Got nothing better to do and he's saying he's plugged in and that's why, or somebody who's"
+  },
+  {
+   "start": 2024.88,
+   "end": 2030.04,
+   "text": "Like really smart and busted their ass and has everything figured out and like exactly"
+  },
+  {
+   "start": 2030.04,
+   "end": 2034.08,
+   "text": "Their policy or what they want to spend money on that they believe in everything, you know,"
+  },
+  {
+   "start": 2034.08,
+   "end": 2041.54,
+   "text": "Because leaders like governors and presidents, they have this, the executive order, their veto"
+  },
+  {
+   "start": 2041.54,
+   "end": 2049.14,
+   "text": "And they have a lot of power and over a lot of different things, very, um, a very wide range"
+  },
+  {
+   "start": 2049.14,
+   "end": 2055.36,
+   "text": "Of things, you know, from, am I going to stay the execution of this person to, you know, who"
+  },
+  {
+   "start": 2055.36,
+   "end": 2063.46,
+   "text": "Am I going to point as a judge? And you have to be smart and you have to be, um, um, and the"
+  },
+  {
+   "start": 2063.46,
+   "end": 2067.54,
+   "text": "People are going to want somebody who's going to explain to them what's going on and why they're"
+  },
+  {
+   "start": 2067.54,
+   "end": 2071.24,
+   "text": "Making decisions. The way that's going on now is ridiculous. You have all these pundits"
+  },
+  {
+   "start": 2071.24,
+   "end": 2073.88,
+   "text": "Like, Oh, what do you think he's thinking of the president? You know? And we're like,"
+  },
+  {
+   "start": 2073.9,
+   "end": 2077.56,
+   "text": "I don't know. Cause he doesn't have to, he doesn't have to express, share himself with"
+  },
+  {
+   "start": 2077.56,
+   "end": 2080.38,
+   "text": "Anybody. Cause we don't share each other with each other and we don't have that kind of"
+  },
+  {
+   "start": 2080.38,
+   "end": 2084.76,
+   "text": "Society. So the society itself will morph. That's the main thing that will fix everything."
+  },
+  {
+   "start": 2084.76,
+   "end": 2093.92,
+   "text": "But as far as policy, uh, well, yeah, let's see. Let's continue the major flaw. Um, yeah,"
+  },
+  {
+   "start": 2094.04,
+   "end": 2098.94,
+   "text": "Yeah. So yeah, the meaning is that the wealthy have huge savings and don't need to consume"
+  },
+  {
+   "start": 2098.94,
+   "end": 2105.46,
+   "text": "Much. Um, all right. Yeah. So the wealthy get wealthier and wealthier and, you know, they"
+  },
+  {
+   "start": 2105.46,
+   "end": 2110.84,
+   "text": "Make their money off of, um, their investments and so they get wealthier and wealthier. So now"
+  },
+  {
+   "start": 2110.84,
+   "end": 2114.46,
+   "text": "Their money is going into bank, but it's not doing anything. So it's kind of like the"
+  },
+  {
+   "start": 2114.46,
+   "end": 2119.5,
+   "text": "Economy is churning and churning and churning, but it's got all of this bleed off. There's"
+  },
+  {
+   "start": 2119.5,
+   "end": 2123.62,
+   "text": "All this bleed through that's good. So it's making it extremely inefficient. You know what"
+  },
+  {
+   "start": 2123.62,
+   "end": 2128.1,
+   "text": "I mean? Like when you're driving a car only like the, the engine produces a certain amount"
+  },
+  {
+   "start": 2128.1,
+   "end": 2133.74,
+   "text": "Of horsepower, but only maybe 20% of the, of the power that the actual pistons produce"
+  },
+  {
+   "start": 2133.74,
+   "end": 2138.74,
+   "text": "Actually translate into the thing, pushing the car down the road because of all the moving"
+  },
+  {
+   "start": 2138.74,
+   "end": 2142.82,
+   "text": "Parts and all the heat that it generates. So it's kind of like that with, with our, with"
+  },
+  {
+   "start": 2142.82,
+   "end": 2148.28,
+   "text": "Our political system or our economic system, when you have all these rich people who are"
+  },
+  {
+   "start": 2148.28,
+   "end": 2153.58,
+   "text": "Just saving money and not, and not putting it back into the economy. Um, it's all that,"
+  },
+  {
+   "start": 2153.68,
+   "end": 2157.54,
+   "text": "It's all that, you know, wealth that's generated, that's just going nowhere and just bleeding,"
+  },
+  {
+   "start": 2157.9,
+   "end": 2162.48,
+   "text": "Just bleed through. And it's like, you know, the a hundred percent turning into 20%. And, uh,"
+  },
+  {
+   "start": 2162.48,
+   "end": 2168.82,
+   "text": "And the people who suffer from that, um, is everybody, the, the poor suffer from it in a very"
+  },
+  {
+   "start": 2168.82,
+   "end": 2175.38,
+   "text": "Real way by not being able to afford things like healthcare or food or, you know, um, or"
+  },
+  {
+   "start": 2175.38,
+   "end": 2180.52,
+   "text": "Things that, you know, how quality of life that would cause them to be able to be good"
+  },
+  {
+   "start": 2180.52,
+   "end": 2185.0,
+   "text": "Parents to their kids and give their, show their kids good, good childhoods and all this"
+  },
+  {
+   "start": 2185.0,
+   "end": 2188.82,
+   "text": "Kind of stuff. But I think the poor people, the rich people suffer from it as well, because"
+  },
+  {
+   "start": 2188.82,
+   "end": 2193.82,
+   "text": "There's this like, you know, I mean, if you live a life and, and you're not smart enough"
+  },
+  {
+   "start": 2193.82,
+   "end": 2198.66,
+   "text": "To, or good enough to share your money or smart enough to come up with an idea to create something"
+  },
+  {
+   "start": 2198.66,
+   "end": 2205.76,
+   "text": "Great, um, then you just kind of spend your money, just spend more. And, and you, and you,"
+  },
+  {
+   "start": 2205.78,
+   "end": 2209.84,
+   "text": "And you always feel like you don't have enough because, because, you know, you've got a bunch"
+  },
+  {
+   "start": 2209.84,
+   "end": 2212.82,
+   "text": "Of other friends who are rich and they've gone on all these things and you would like to own"
+  },
+  {
+   "start": 2212.82,
+   "end": 2218.6,
+   "text": "What they own. But if you can own what Jessica owns and own what Jennifer owns, then, oh my God,"
+  },
+  {
+   "start": 2218.62,
+   "end": 2222.58,
+   "text": "That would cost so much. And it's like, oh, I just too bad. I don't have more. And so then you"
+  },
+  {
+   "start": 2222.58,
+   "end": 2226.56,
+   "text": "Start, so then you start like figuring out ways to cheat out people with less than you."
+  },
+  {
+   "start": 2226.7,
+   "end": 2230.02,
+   "text": "You know what I mean? And, uh, and then you're not going to be happy because then you've got"
+  },
+  {
+   "start": 2230.02,
+   "end": 2234.5,
+   "text": "This hole in your heart and this emptiness and like what, you know, and you'll eventually go nuts."
+  },
+  {
+   "start": 2234.6,
+   "end": 2242.94,
+   "text": "It's, it's much better to, um, it's much better to, uh, use what you need. You know? I mean,"
+  },
+  {
+   "start": 2242.96,
+   "end": 2248.1,
+   "text": "There's so many, it's a beautiful, I'll give an example, Chile. Chile is a beautiful place. You"
+  },
+  {
+   "start": 2248.1,
+   "end": 2252.24,
+   "text": "Could go mountain biking and there's so much for everybody, but the rich people, they, they close off"
+  },
+  {
+   "start": 2252.24,
+   "end": 2256.54,
+   "text": "Their private property and, and the best place right outside of Santa Yaga. If you want to go"
+  },
+  {
+   "start": 2256.54,
+   "end": 2263.08,
+   "text": "Hiking, you have to pay 10 bucks a day per person, which is ridiculous. I mean, hourly wage is like"
+  },
+  {
+   "start": 2263.08,
+   "end": 2268.4,
+   "text": "A dollar or something. I mean, what the fuck are you guys thinking? You know, they don't, it's like"
+  },
+  {
+   "start": 2268.4,
+   "end": 2272.78,
+   "text": "They've, they've become monsters. Like what's, but if you ask them to see when people are crazy"
+  },
+  {
+   "start": 2272.78,
+   "end": 2277.9,
+   "text": "Enough to make just policy decisions like that, you know that they're also crazy enough to not,"
+  },
+  {
+   "start": 2277.9,
+   "end": 2283.2,
+   "text": "To not, to not answer your questions, to, to be, to be like the wizard of Oz behind this"
+  },
+  {
+   "start": 2283.2,
+   "end": 2287.28,
+   "text": "Curtain, they can't, you can't have a two way conversation with them because they can't"
+  },
+  {
+   "start": 2287.28,
+   "end": 2295.5,
+   "text": "Back it up. So, um, so, uh, you know, communication can help communicating yourself, asking questions."
+  },
+  {
+   "start": 2295.5,
+   "end": 2305.3,
+   "text": "Anyways. Um, so, um, so yeah, it's better to, um, figure out ways cause they're not going to do it"
+  },
+  {
+   "start": 2305.3,
+   "end": 2311.8,
+   "text": "Themselves to, um, to tax them. I mean, if you tax the wealthy, then the money, that's a way of forcing"
+  },
+  {
+   "start": 2311.8,
+   "end": 2316.1,
+   "text": "The money back into society. Now, the other thing that wealthy spend their money on is stuff that"
+  },
+  {
+   "start": 2316.1,
+   "end": 2321.64,
+   "text": "Doesn't do anybody good, that, that just, uh, rapes the earth more like sports cars. Why would you drive"
+  },
+  {
+   "start": 2321.64,
+   "end": 2326.12,
+   "text": "Around a sports car that goes 200 miles an hour on a road that the speed limit is 60 miles an hour,"
+  },
+  {
+   "start": 2326.12,
+   "end": 2331.74,
+   "text": "You know, that costs, this thing costs like $300,000 and you're only going to drive it like"
+  },
+  {
+   "start": 2331.74,
+   "end": 2337.92,
+   "text": "10,000 miles in the life of them, its entire life, you know, like, like, and why would you buy a bunch"
+  },
+  {
+   "start": 2337.92,
+   "end": 2342.64,
+   "text": "Of them? And then why would you do, you know, like, why would you spend all this money on, um,"
+  },
+  {
+   "start": 2343.08,
+   "end": 2350.32,
+   "text": "Like industries, you know, if you have like the sports car industries, lots of money and, but it's,"
+  },
+  {
+   "start": 2350.54,
+   "end": 2355.08,
+   "text": "Doesn't do anything. It doesn't help people. It only, it only feeds into the economy and just"
+  },
+  {
+   "start": 2355.08,
+   "end": 2358.76,
+   "text": "Getting into the economy is not what we want, dude. And when you hear, when you see these"
+  },
+  {
+   "start": 2358.76,
+   "end": 2364.26,
+   "text": "Commercials, um, that are catered to, to, to, to stupid people like fracking, pro fracking"
+  },
+  {
+   "start": 2364.26,
+   "end": 2369.88,
+   "text": "Commercials, it's like the, all the people are talking about is a local economy. It has"
+  },
+  {
+   "start": 2369.88,
+   "end": 2374.94,
+   "text": "Nothing to do with what's good for everybody. They're like, yeah, this is job. This, they're"
+  },
+  {
+   "start": 2374.94,
+   "end": 2379.46,
+   "text": "Interviewing a guy. He's like, yeah, since we started fracking here, my hamburger business"
+  },
+  {
+   "start": 2379.46,
+   "end": 2384.6,
+   "text": "Has gone up tenfold. It's really been great. It's like, well, you know, shit, your hamburger"
+  },
+  {
+   "start": 2384.6,
+   "end": 2388.38,
+   "text": "Business is going to go up if there's a bunch of people all of a sudden living where you"
+  },
+  {
+   "start": 2388.38,
+   "end": 2392.12,
+   "text": "Are, but you're really not going to think why those people are there and what they're"
+  },
+  {
+   "start": 2392.12,
+   "end": 2396.24,
+   "text": "Doing. You know, that's basically what the fracking commercials are all about because"
+  },
+  {
+   "start": 2396.24,
+   "end": 2402.84,
+   "text": "They can't, that's the only argument they have since, uh, yeah. So anyways, yeah, we need"
+  },
+  {
+   "start": 2402.84,
+   "end": 2410.22,
+   "text": "To just be able to look at stuff from the ground up. Okay. Um, okay. So the meaning"
+  },
+  {
+   "start": 2410.22,
+   "end": 2413.72,
+   "text": "Is that the wealthy have huge savings and don't need to consume much while the poor consume"
+  },
+  {
+   "start": 2413.72,
+   "end": 2416.54,
+   "text": "Everything and can't afford all they need. The funds aren't going where they are needed."
+  },
+  {
+   "start": 2416.96,
+   "end": 2422.86,
+   "text": "Yeah. We need to be, we need to, uh, to funnel the funds where they need to go. And we really"
+  },
+  {
+   "start": 2422.86,
+   "end": 2426.34,
+   "text": "Need to think about that, especially the rich people in power who don't want to share, like,"
+  },
+  {
+   "start": 2426.48,
+   "end": 2430.14,
+   "text": "Like, you know, this is serious. This is like, this could be life or death, you know, global"
+  },
+  {
+   "start": 2430.14,
+   "end": 2435.1,
+   "text": "Warming, pollution, killing off species. Like, let's, let's, let's be good to the earth,"
+  },
+  {
+   "start": 2435.18,
+   "end": 2442.78,
+   "text": "Please. Um, okay. Um, yeah, the huge savings don't do anything to offset the lack of economic"
+  },
+  {
+   "start": 2442.78,
+   "end": 2448.5,
+   "text": "Demand caused by poverty. Piketty also debunks the conservative notion that raising tax on"
+  },
+  {
+   "start": 2448.5,
+   "end": 2453.62,
+   "text": "The wealthy, um, would slow growth. Yeah, I think their argument is that if you, um, if"
+  },
+  {
+   "start": 2453.62,
+   "end": 2459.22,
+   "text": "You let the wealthy be super wealthy, then they'll have a bunch of money to, um, to make more"
+  },
+  {
+   "start": 2459.22,
+   "end": 2465.28,
+   "text": "Businesses and, and, um, for us stupid people, you know what I mean? To like, oh, I've got"
+  },
+  {
+   "start": 2465.28,
+   "end": 2473.28,
+   "text": "So many grand plans. Whoa. I have this new plan for this new bag, this new bag. Oh, all the"
+  },
+  {
+   "start": 2473.28,
+   "end": 2478.4,
+   "text": "Ladies will love it. Make the bag. It'll make a great business. Yeah. I've got a new plan"
+  },
+  {
+   "start": 2478.4,
+   "end": 2483.56,
+   "text": "For this new eight lane highway. I want to bail through Texas or something like that. You"
+  },
+  {
+   "start": 2483.56,
+   "end": 2488.2,
+   "text": "Know, like going to make us a lot of, a lot of jobs, make me a lot of money, a lot of jobs,"
+  },
+  {
+   "start": 2488.2,
+   "end": 2493.46,
+   "text": "You know, dude, making you a lot of money. Like people will figure out how to make jobs"
+  },
+  {
+   "start": 2493.46,
+   "end": 2498.94,
+   "text": "For themselves. They don't need you to, to like be at the helm telling everybody how"
+  },
+  {
+   "start": 2498.94,
+   "end": 2503.1,
+   "text": "It goes. You're not, they're not so much smarter than everybody. Trickle, you can"
+  },
+  {
+   "start": 2503.1,
+   "end": 2510.1,
+   "text": "Trickle down economics. This is bullshit. Trickle, trickle up economics, man. How come"
+  },
+  {
+   "start": 2510.1,
+   "end": 2515.44,
+   "text": "People don't talk about trickle up economics when everybody has enough wealth and"
+  },
+  {
+   "start": 2515.44,
+   "end": 2521.88,
+   "text": "Enough, um, you know, spare time to have a quality of life, then it makes everybody"
+  },
+  {
+   "start": 2521.88,
+   "end": 2527.08,
+   "text": "Happier. You know, like the poor people can go and their kids can walk around their neighborhoods"
+  },
+  {
+   "start": 2527.08,
+   "end": 2531.92,
+   "text": "Without fear of being abducted or, or kidnapped or broken into or this or that. The next thing,"
+  },
+  {
+   "start": 2532.04,
+   "end": 2534.7,
+   "text": "You know, you can go mountain biking up in the hills without worrying about getting bugged."
+  },
+  {
+   "start": 2534.7,
+   "end": 2544.08,
+   "text": "Trickle up economics. Okay. Um, okay. Um, the huge savings, da, da, da, da, da, da, da,"
+  },
+  {
+   "start": 2544.08,
+   "end": 2548.42,
+   "text": "Pickity. Okay. No, no, no, no, no, no, no. He says if trends continue as if they are likely"
+  },
+  {
+   "start": 2548.42,
+   "end": 2556.54,
+   "text": "To go through social unrest, his faith in the system erodes. His nightmare vision is a society"
+  },
+  {
+   "start": 2556.54,
+   "end": 2564.08,
+   "text": "Where the wealthy are able to live off of investments and inheritance like aristocracy, while everyone"
+  },
+  {
+   "start": 2564.08,
+   "end": 2568.64,
+   "text": "Else slaves away, barely able to afford the cost of living. Well, yeah, this is the idea"
+  },
+  {
+   "start": 2568.64,
+   "end": 2573.52,
+   "text": "Since the beginning of time, I want the beginning of time, but since the last thousands, couple"
+  },
+  {
+   "start": 2573.52,
+   "end": 2578.52,
+   "text": "Thousand years, you've had in Europe, you've had these aristocracy, they're called the landed"
+  },
+  {
+   "start": 2578.52,
+   "end": 2584.88,
+   "text": "Classes and they own all this land and, um, where everybody, where all the people live and"
+  },
+  {
+   "start": 2584.88,
+   "end": 2588.8,
+   "text": "They just sit on their ass and they can hire the nights and people to go around and collect"
+  },
+  {
+   "start": 2588.8,
+   "end": 2592.34,
+   "text": "The money and they can do what they want with these people. They can kill them. They have life"
+  },
+  {
+   "start": 2592.34,
+   "end": 2596.62,
+   "text": "For death over them, you know, it's called serfdom and they didn't own the land and they"
+  },
+  {
+   "start": 2596.62,
+   "end": 2600.18,
+   "text": "Weren't even allowed to leave the land. They were stuck on the land. They were your prisoner"
+  },
+  {
+   "start": 2600.18,
+   "end": 2605.06,
+   "text": "And, um, you know, these aristocratic families, they could have civil wars with each other and"
+  },
+  {
+   "start": 2605.06,
+   "end": 2608.78,
+   "text": "They could send like all the peasants off to war and the war, the peasants couldn't say"
+  },
+  {
+   "start": 2608.78,
+   "end": 2613.52,
+   "text": "No. They can hang a bunch of, you know, peasants, there's an uprising. It was just, it was"
+  },
+  {
+   "start": 2613.52,
+   "end": 2619.88,
+   "text": "Just, um, the 30 years of war was, um, was just this whole thing with these, uh, people"
+  },
+  {
+   "start": 2619.88,
+   "end": 2625.4,
+   "text": "Just having power play with each other. Protestants against the Catholics and these guys against"
+  },
+  {
+   "start": 2625.4,
+   "end": 2629.22,
+   "text": "Those guys. And you ended up killing most of the people in Germany and all these wars."
+  },
+  {
+   "start": 2629.22,
+   "end": 2637.24,
+   "text": "It's like, it's, it's from, it's from, uh, I think from our, uh, too many, too much of"
+  },
+  {
+   "start": 2637.24,
+   "end": 2643.84,
+   "text": "This wealth, uh, um, concentration, but you don't have to, uh, I mean, I don't have to explain"
+  },
+  {
+   "start": 2643.84,
+   "end": 2648.74,
+   "text": "It. I think we all, I understand there's always been too much wealth concentration. So we're"
+  },
+  {
+   "start": 2648.74,
+   "end": 2653.16,
+   "text": "All, so of course, when people start thinking about the future, they see it as the same"
+  },
+  {
+   "start": 2653.16,
+   "end": 2657.58,
+   "text": "Way as the system would be on the same way that it was only, you know, it's only instead"
+  },
+  {
+   "start": 2657.58,
+   "end": 2661.88,
+   "text": "Of on land. Now we're using technology. People are just getting their money on their investments"
+  },
+  {
+   "start": 2661.88,
+   "end": 2667.42,
+   "text": "And stuff from their technology. Um, you know, but we all know that that's not good. Like"
+  },
+  {
+   "start": 2667.42,
+   "end": 2671.74,
+   "text": "Whenever you have these movies, they're, they're dystopian futures. They're not utopian. They're,"
+  },
+  {
+   "start": 2671.74,
+   "end": 2680.1,
+   "text": "You know, be for Vendetta, Elysium, um, you know, uh, Hunger Games, this kind of stuff."
+  },
+  {
+   "start": 2680.6,
+   "end": 2684.86,
+   "text": "We all know that it's, that's not what we want. So all we have to do is figure out what"
+  },
+  {
+   "start": 2684.86,
+   "end": 2690.12,
+   "text": "We do want. And, uh, and, you know, I think getting money out of politics, sharing herself"
+  },
+  {
+   "start": 2690.12,
+   "end": 2697.12,
+   "text": "On the internet, um, trying to make politically based personal websites and, um, allowing anybody"
+  },
+  {
+   "start": 2697.12,
+   "end": 2701.7,
+   "text": "To, to run for the offices, you know, not having to like have a certain number of signatures"
+  },
+  {
+   "start": 2701.7,
+   "end": 2706.96,
+   "text": "Or a certain number of, uh, be, be part of a political party or something like that and"
+  },
+  {
+   "start": 2706.96,
+   "end": 2711.64,
+   "text": "Get rid of those laws. You know, there's no danger in having anybody being able to see"
+  },
+  {
+   "start": 2711.64,
+   "end": 2716.08,
+   "text": "That's, that's beautiful democratic election process. That's the best kind of elected democracy."
+  },
+  {
+   "start": 2716.7,
+   "end": 2719.56,
+   "text": "Anybody can get elected. And then once you get elected, you know, it's the cream of the crop"
+  },
+  {
+   "start": 2719.56,
+   "end": 2728.79,
+   "text": "And then you make the laws. You have the smart people make the laws. So, um, but, uh, okay."
+  },
+  {
+   "start": 2728.79,
+   "end": 2738.15,
+   "text": "So, okay. Um, he says the solution is to have a global tax to prevent the wealthy minority"
+  },
+  {
+   "start": 2738.15,
+   "end": 2744.01,
+   "text": "From dominating the economy. Tax is a great way to level the playing field. It's the best"
+  },
+  {
+   "start": 2744.01,
+   "end": 2748.93,
+   "text": "Way to do it. Um, now I don't think income tax is a good way. I think that's a big waste"
+  },
+  {
+   "start": 2748.93,
+   "end": 2755.87,
+   "text": "Of, um, energy. We spend too much, um, legwork doing that. It's, um, you know, and if we do,"
+  },
+  {
+   "start": 2755.87,
+   "end": 2761.13,
+   "text": "And, or if we do have an income tax, it needs to be plugged into the freaking system. Somebody"
+  },
+  {
+   "start": 2761.13,
+   "end": 2765.53,
+   "text": "Needs to make a computer program. So you just type it in. You don't have to have tax"
+  },
+  {
+   "start": 2765.53,
+   "end": 2771.29,
+   "text": "Accounts and all this kind of stuff. But, um, but I think, um, but taxes is a great way"
+  },
+  {
+   "start": 2771.29,
+   "end": 2776.11,
+   "text": "To level playing field for sure. You know, like, I mean, I think we should have a tax on"
+  },
+  {
+   "start": 2776.11,
+   "end": 2783.23,
+   "text": "When once it, once a way, when somebody gets to a billion dollars, any, any, any money that"
+  },
+  {
+   "start": 2783.23,
+   "end": 2787.07,
+   "text": "They make more than that, it just goes right into the state. It goes right into taxes."
+  },
+  {
+   "start": 2787.25,
+   "end": 2799.61,
+   "text": "You can't be more, you can't be a billionaire. Um, okay. So, oh shit. Okay. I had to get"
+  },
+  {
+   "start": 2799.61,
+   "end": 2805.39,
+   "text": "That. Okay. Okay. So his nightmarish vision is a society where the wealthy are able to live"
+  },
+  {
+   "start": 2805.39,
+   "end": 2810.33,
+   "text": "Off investments and inheritance like aristocracy while everyone else slaves away barely to for"
+  },
+  {
+   "start": 2810.33,
+   "end": 2815.81,
+   "text": "The cost of living. Yes. And the reason that his nightmare vision is that is because, you"
+  },
+  {
+   "start": 2815.81,
+   "end": 2821.31,
+   "text": "Know, we haven't figured out the, the, the technology we were, we're plugging in old"
+  },
+  {
+   "start": 2821.31,
+   "end": 2827.45,
+   "text": "World politics with new world technology because we're stupid. You know, it's kind of like,"
+  },
+  {
+   "start": 2827.45,
+   "end": 2834.45,
+   "text": "Um, you know, Elra and Hubbard imagining the aliens flying over here on DC tens because you"
+  },
+  {
+   "start": 2834.45,
+   "end": 2840.27,
+   "text": "Can't imagine all flying saucers. I think spaceships look like airplanes, you know, this kind of thing."
+  },
+  {
+   "start": 2840.33,
+   "end": 2846.87,
+   "text": "Um, I would love it if we started having like utopian futuristic movies. That would be"
+  },
+  {
+   "start": 2846.87,
+   "end": 2859.96,
+   "text": "Cool. Um, without any war, just happy, happy. Okay. Um, so, um, he says the solution is to"
+  },
+  {
+   "start": 2859.96,
+   "end": 2865.32,
+   "text": "Have a global tax to prevent the wealthy. Yeah. Tax is good. John Thomas Jefferson also spoke"
+  },
+  {
+   "start": 2865.32,
+   "end": 2872.5,
+   "text": "About the dangers of so much wealth in the hands of a few. Well, yeah, um, Thomas Jefferson and all"
+  },
+  {
+   "start": 2872.5,
+   "end": 2876.46,
+   "text": "The founding fathers. And then that's why they put article five in the constitution that said that"
+  },
+  {
+   "start": 2876.46,
+   "end": 2881.64,
+   "text": "Two thirds of the States could override the federal government because they knew the power that federal"
+  },
+  {
+   "start": 2881.64,
+   "end": 2888.14,
+   "text": "Government was taking over. You know, the, that was in the late 1700s when the, uh, um, when the,"
+  },
+  {
+   "start": 2888.14,
+   "end": 2893.62,
+   "text": "Uh, King Louis the 16th, you know, was basically had, was autocratic control and was totally bad"
+  },
+  {
+   "start": 2893.62,
+   "end": 2904.62,
+   "text": "Shit and that's sucking up all the wealth from everybody else. Um, yeah. Um, okay. Um, do you"
+  },
+  {
+   "start": 2904.62,
+   "end": 2910.1,
+   "text": "Think that, um, closing tax loopholes and leveraging global tax would be a solution to this immense"
+  },
+  {
+   "start": 2910.1,
+   "end": 2915.74,
+   "text": "Problem? Yes, that's a solution. Um, but I think the thing that we should be focusing on the"
+  },
+  {
+   "start": 2915.74,
+   "end": 2925.88,
+   "text": "Most is how to create opportunities for people who, um, deserve it, you know, for smart people. Um,"
+  },
+  {
+   "start": 2926.96,
+   "end": 2931.36,
+   "text": "And, uh, in ways that aren't going to cost money, you know, people always think, oh, provide"
+  },
+  {
+   "start": 2931.36,
+   "end": 2935.06,
+   "text": "Opportunities by, you know, giving scholarships to colleges, you know, it's like, no, no, no, no,"
+  },
+  {
+   "start": 2935.06,
+   "end": 2940.74,
+   "text": "No, no, no. We need to, um, encourage people who have lots of spare time on their hands, you know,"
+  },
+  {
+   "start": 2940.74,
+   "end": 2944.92,
+   "text": "Because we have the high unemployment and then you have a lot of other people who may be,"
+  },
+  {
+   "start": 2944.92,
+   "end": 2948.92,
+   "text": "You know, are employed just as much as they ever would need to be, but they're bored and"
+  },
+  {
+   "start": 2948.92,
+   "end": 2952.04,
+   "text": "They don't have anything to do. You know, we need to provide cool activities for people"
+  },
+  {
+   "start": 2952.04,
+   "end": 2962.68,
+   "text": "To do is, um, you know, educating yourself and being, being, um, being, um, you know,"
+  },
+  {
+   "start": 2962.72,
+   "end": 2968.56,
+   "text": "A positive contributor to the cyber world to express yourself and share yourself and, um,"
+  },
+  {
+   "start": 2968.58,
+   "end": 2972.3,
+   "text": "Share with the rest of the world, like a new way of doing things in whatever industry that"
+  },
+  {
+   "start": 2972.3,
+   "end": 2975.94,
+   "text": "You're in, you know, sharing. People are starting to do that more with, you know,"
+  },
+  {
+   "start": 2975.96,
+   "end": 2981.08,
+   "text": "Getting their, their businesses on Facebook, making websites with galleries, um, of their"
+  },
+  {
+   "start": 2981.08,
+   "end": 2989.34,
+   "text": "Businesses, you know, little business blogs, this kind of thing. But, um, but we are so"
+  },
+  {
+   "start": 2989.34,
+   "end": 2994.64,
+   "text": "In the infant stages that like the opportunities for people, and I'm not talking about wealth"
+  },
+  {
+   "start": 2994.64,
+   "end": 2998.2,
+   "text": "Opportunities. See, people always, always, always go right to the wealth, making money."
+  },
+  {
+   "start": 2998.2,
+   "end": 3005.76,
+   "text": "No, I mean opportunities such as to be a force of change, like the kind of person who, like"
+  },
+  {
+   "start": 3005.76,
+   "end": 3010.42,
+   "text": "Your grandkids would be proud of bragging that they were your grandkids type of a situation."
+  },
+  {
+   "start": 3010.9,
+   "end": 3017.66,
+   "text": "Those kinds of opportunities, opportunities for greatness, opportunities for, um, to influence"
+  },
+  {
+   "start": 3017.66,
+   "end": 3022.76,
+   "text": "A lot, a lot of people, you know, not, you don't need opportunities for wealth. We have"
+  },
+  {
+   "start": 3022.76,
+   "end": 3028.06,
+   "text": "All the, dude, we have all the things right now to keep you occupied. You don't need too"
+  },
+  {
+   "start": 3028.06,
+   "end": 3032.06,
+   "text": "Much wealth. We have computers. I mean, one person living in a van down by the river with"
+  },
+  {
+   "start": 3032.06,
+   "end": 3036.76,
+   "text": "An internet connection, like that's all he needs. A pair of sneakers, he's got a better"
+  },
+  {
+   "start": 3036.76,
+   "end": 3041.36,
+   "text": "Life than a zillion or he can outrun on a nice trail behind where he's parked and the internet."
+  },
+  {
+   "start": 3041.54,
+   "end": 3045.44,
+   "text": "I mean, what? That's, that's wealth. It's the real wealth. We're going to find out pretty"
+  },
+  {
+   "start": 3045.44,
+   "end": 3051.22,
+   "text": "Soon that real wealth is having something worthwhile to do and having a passion. Um, because, you"
+  },
+  {
+   "start": 3051.22,
+   "end": 3054.56,
+   "text": "Know, rich people who have all this money to spend, they're not happy. They're just spending"
+  },
+  {
+   "start": 3054.56,
+   "end": 3057.68,
+   "text": "Money, money, money. And then they're, and then, you know, when they hear about people,"
+  },
+  {
+   "start": 3057.76,
+   "end": 3061.14,
+   "text": "You know, bitching about people, you know, killing the earth's resources and gobbling"
+  },
+  {
+   "start": 3061.14,
+   "end": 3064.92,
+   "text": "Up and they know that they're the bad guys and it just makes them depressed and it's just"
+  },
+  {
+   "start": 3064.92,
+   "end": 3070.44,
+   "text": "Not good for anybody. So, um, yeah. So the opportunities in the future for great, for greatness"
+  },
+  {
+   "start": 3070.44,
+   "end": 3077.34,
+   "text": "Are, I mean, it's like, it's like a gold mine, dude. It's like, uh, it's, it's like we're"
+  },
+  {
+   "start": 3077.34,
+   "end": 3080.74,
+   "text": "All, it's, it's like water, water everywhere, but not a drop to drink, but only because you"
+  },
+  {
+   "start": 3080.74,
+   "end": 3085.54,
+   "text": "Won't jump in the water. It's like right there. Like, like, like you name it, whatever"
+  },
+  {
+   "start": 3085.54,
+   "end": 3090.66,
+   "text": "Industry, like if you're a, um, if you're a local handyman, you know, you can make a"
+  },
+  {
+   "start": 3090.66,
+   "end": 3096.7,
+   "text": "Website, a whole tutorial handyman tutorial website and, uh, hell it could turn into maybe"
+  },
+  {
+   "start": 3096.7,
+   "end": 3100.22,
+   "text": "A really great website for educational and teach people how to fix up their own house."
+  },
+  {
+   "start": 3100.3,
+   "end": 3104.48,
+   "text": "And then people would go to you and, um, you know, people, people, it's the whole idea,"
+  },
+  {
+   "start": 3104.56,
+   "end": 3109.24,
+   "text": "Like the more you give and the more you share, the more that you'll, the more notoriety you'll"
+  },
+  {
+   "start": 3109.24,
+   "end": 3112.88,
+   "text": "Get within your industry and the more better off you are, the right and the way it is kind"
+  },
+  {
+   "start": 3112.88,
+   "end": 3116.52,
+   "text": "Of right now, the more it gives you, the more you share, the more people make fun of you"
+  },
+  {
+   "start": 3116.52,
+   "end": 3119.66,
+   "text": "And the more people hate you and the more of a fucking social pariah you are and the"
+  },
+  {
+   "start": 3119.66,
+   "end": 3125.98,
+   "text": "Less job opportunities you have, but it'll change. You know, the freaks are going to pretty"
+  },
+  {
+   "start": 3125.98,
+   "end": 3132.18,
+   "text": "Soon turn into the superheroes because it works like this. The whole mass of society is moving"
+  },
+  {
+   "start": 3132.18,
+   "end": 3138.46,
+   "text": "Forward in the future. Okay. Into a new realm on, on, on, on before to, you know, you have"
+  },
+  {
+   "start": 3138.46,
+   "end": 3143.62,
+   "text": "The, the, the few people in the front. Now the few people in the front come first, but"
+  },
+  {
+   "start": 3143.62,
+   "end": 3147.44,
+   "text": "They're so far out of the rest of the pack that they don't, that they're on their own."
+  },
+  {
+   "start": 3147.5,
+   "end": 3150.78,
+   "text": "Like people don't look at them like that. People look at them like stragglers or psychos"
+  },
+  {
+   "start": 3150.78,
+   "end": 3155.18,
+   "text": "Because the stragglers or psychos are on the, on the sides, but then they, but then they"
+  },
+  {
+   "start": 3155.18,
+   "end": 3158.86,
+   "text": "Lead other people and then they lead other people and then it explodes and everybody changes."
+  },
+  {
+   "start": 3158.86,
+   "end": 3166.88,
+   "text": "You know, like, like, uh, uh, world naked bike ride. Go to, go to London. Everybody is"
+  },
+  {
+   "start": 3166.88,
+   "end": 3170.44,
+   "text": "Fucking butt naked. Everybody. There's millions of people butt naked. I couldn't believe it."
+  },
+  {
+   "start": 3171.02,
+   "end": 3178.08,
+   "text": "I typed, uh, um, yeah, in London, it's like nowhere else. I couldn't believe it, dude. Unbelievable."
+  },
+  {
+   "start": 3178.36,
+   "end": 3183.18,
+   "text": "You would not see that five years ago. There's so much stuff you could name right now that"
+  },
+  {
+   "start": 3183.18,
+   "end": 3186.64,
+   "text": "You wouldn't even see a couple of years ago. I'm kind of surprised with how, with how long"
+  },
+  {
+   "start": 3186.64,
+   "end": 3190.66,
+   "text": "It's taking YouTube to catch on, I would have predicted that it would take on, catch on"
+  },
+  {
+   "start": 3190.66,
+   "end": 3194.98,
+   "text": "Quicker. People would share themselves more. Although it is like I, I predicted people were"
+  },
+  {
+   "start": 3194.98,
+   "end": 3198.96,
+   "text": "Going to use their real names and that's pretty much happened for the most part. People using"
+  },
+  {
+   "start": 3198.96,
+   "end": 3204.46,
+   "text": "Their real names now, but whatever. Um, anyway, my point is the world's getting better. Okay."
+  },
+  {
+   "start": 3204.46,
+   "end": 3210.74,
+   "text": "Um, do you think, um, okay. Would you resolve this problem if you, Oh, how would you resolve"
+  },
+  {
+   "start": 3210.74,
+   "end": 3216.22,
+   "text": "This problem if you were president? If I had the executive order, what would I do? Well, I would"
+  },
+  {
+   "start": 3216.22,
+   "end": 3224.56,
+   "text": "Employ, I would appoint, um, progressive, um, judges. Um, I wouldn't progress, uh, appoint"
+  },
+  {
+   "start": 3224.56,
+   "end": 3232.84,
+   "text": "Super, um, uh, conservative people like how Barack Obama has been doing. Um, like the"
+  },
+  {
+   "start": 3232.84,
+   "end": 3239.74,
+   "text": "Last one pointed to the Supreme court. I wouldn't, um, I wouldn't, uh, have signed into net neutrality."
+  },
+  {
+   "start": 3240.04,
+   "end": 3244.0,
+   "text": "That's kind of like the opposite for getting money out of politics. Now we're getting money"
+  },
+  {
+   "start": 3244.0,
+   "end": 3249.68,
+   "text": "Right into the internet and service providers can, um, can like make it so that your, your"
+  },
+  {
+   "start": 3249.68,
+   "end": 3254.1,
+   "text": "Site doesn't show up in search engines and stuff and can even block your, block your site"
+  },
+  {
+   "start": 3254.1,
+   "end": 3259.62,
+   "text": "And stuff like that. Um, I don't think it's all that dangerous of a thing as long as, um,"
+  },
+  {
+   "start": 3259.66,
+   "end": 3264.08,
+   "text": "You know, it's, it's affordable to have a service provider, like an alternative service provider."
+  },
+  {
+   "start": 3264.56,
+   "end": 3268.06,
+   "text": "You know, if the only way you could be a service provider is by being super rich and then those"
+  },
+  {
+   "start": 3268.06,
+   "end": 3272.7,
+   "text": "Service providers get to do all of, play all of their games, then that's when shit gets"
+  },
+  {
+   "start": 3272.7,
+   "end": 3278.94,
+   "text": "Really bad, really bad, really quick. But I think, um, but I think the really big service"
+  },
+  {
+   "start": 3278.94,
+   "end": 3283.32,
+   "text": "Providers offer already a much cheaper service than the smaller ones. It's already unfair."
+  },
+  {
+   "start": 3283.6,
+   "end": 3288.44,
+   "text": "So that whole net neutrality that the Supreme court was bullshit, man, that was, that's not"
+  },
+  {
+   "start": 3288.44,
+   "end": 3295.24,
+   "text": "Good. You need to have as much of a level playing field as possible. Um, so what else would"
+  },
+  {
+   "start": 3295.24,
+   "end": 3301.34,
+   "text": "I do? Um, I would set all of the people in prison free who were, who were put in there"
+  },
+  {
+   "start": 3301.34,
+   "end": 3306.2,
+   "text": "For, um, crimes that aren't crimes anymore. I'd let all the prisoners out, all the marijuana"
+  },
+  {
+   "start": 3306.2,
+   "end": 3311.76,
+   "text": "People, I'd let them all out onto the streets and dump them. And, um, that would save up"
+  },
+  {
+   "start": 3311.76,
+   "end": 3314.92,
+   "text": "A lot of money. And then I would use that money that we saved to provide public works"
+  },
+  {
+   "start": 3314.92,
+   "end": 3320.22,
+   "text": "Projects, uh, fixing roads and stuff and put those people in on and, you know, to work"
+  },
+  {
+   "start": 3320.22,
+   "end": 3328.62,
+   "text": "Doing that. Um, as far as, but as far as the economy, um, I would, uh, I would make"
+  },
+  {
+   "start": 3328.62,
+   "end": 3333.84,
+   "text": "All of the, uh, the Mexicans in America, United States citizens. And I'd give them, um, I would"
+  },
+  {
+   "start": 3333.84,
+   "end": 3339.54,
+   "text": "Give them insurance, um, so that they can work legally and they would pay into the, into"
+  },
+  {
+   "start": 3339.54,
+   "end": 3345.5,
+   "text": "Our taxes. And, um, but I would, um, I would finish the wall between Mexico and America."
+  },
+  {
+   "start": 3345.5,
+   "end": 3350.12,
+   "text": "I don't want any more moving here. Um, cause they're not learning English. They're kind"
+  },
+  {
+   "start": 3350.12,
+   "end": 3354.56,
+   "text": "Of making their own little enclaves too much. And that's aggravating to me. You know, English"
+  },
+  {
+   "start": 3354.56,
+   "end": 3359.0,
+   "text": "Is a pretty easy language to learn, a lot easier than Spanish. And, you know, Americans"
+  },
+  {
+   "start": 3359.0,
+   "end": 3364.28,
+   "text": "Go to Mexico. I flew it in four months. So you guys can kind of move here, learn, become"
+  },
+  {
+   "start": 3364.28,
+   "end": 3369.46,
+   "text": "An American. You know, you didn't move here just because you want to be rich. Move here"
+  },
+  {
+   "start": 3369.46,
+   "end": 3374.2,
+   "text": "Because you like America more. So you're supposed to, that's why you're supposed to move into"
+  },
+  {
+   "start": 3374.2,
+   "end": 3385.58,
+   "text": "Another country. Um, and what else would I do? Um, um, oh, as far as the wealthy, uh,"
+  },
+  {
+   "start": 3385.58,
+   "end": 3391.34,
+   "text": "Well, I would, um, I would do anything, everything in my power to get, um, money out of politics."
+  },
+  {
+   "start": 3391.34,
+   "end": 3396.42,
+   "text": "And, but if I was president, I would be totally hardcore. I would get up there. Um, I'd be like"
+  },
+  {
+   "start": 3396.42,
+   "end": 3400.72,
+   "text": "Hugo Chavez. I would have the weekly, um, call-in shows. Number one, I would work seven"
+  },
+  {
+   "start": 3400.72,
+   "end": 3404.52,
+   "text": "Days a week. I'd work all day long seven days a week. Cause like, you know, if I was president"
+  },
+  {
+   "start": 3404.52,
+   "end": 3408.0,
+   "text": "Right now, well, I mean, I'd be me. I don't have any other responsibilities, no family and"
+  },
+  {
+   "start": 3408.0,
+   "end": 3414.28,
+   "text": "Stuff. So, um, I'd have call-in shows where people can ask me questions about any and everything."
+  },
+  {
+   "start": 3414.28,
+   "end": 3419.08,
+   "text": "And then I would give them really long answers like what Hugo Chavez did. Um, I would, uh, have"
+  },
+  {
+   "start": 3419.08,
+   "end": 3424.6,
+   "text": "Much longer, um, uh, press conferences. I would have every single meeting that I have filmed"
+  },
+  {
+   "start": 3424.6,
+   "end": 3429.14,
+   "text": "And uploaded onto YouTube, every single thing that was said in all of the meetings. And"
+  },
+  {
+   "start": 3429.14,
+   "end": 3433.7,
+   "text": "Then I would have all of my, you know, my life, uh, recorded. I'd have every single second"
+  },
+  {
+   "start": 3433.7,
+   "end": 3437.68,
+   "text": "Of my life recorded. Only have it divided up into different YouTube channels. The meetings"
+  },
+  {
+   "start": 3437.68,
+   "end": 3441.18,
+   "text": "Would be on the meeting YouTube channel. And then the in-between meetings would be on like"
+  },
+  {
+   "start": 3441.18,
+   "end": 3447.72,
+   "text": "The pop culture human interest channel. Um, so, and, and then anytime anybody, um, attacked"
+  },
+  {
+   "start": 3447.72,
+   "end": 3452.82,
+   "text": "Me, I would have, um, you know, like in the media or whatever, I would have my assistants"
+  },
+  {
+   "start": 3452.82,
+   "end": 3455.92,
+   "text": "Behind me and I'd let them know. And then I would respond to him right away. And I would"
+  },
+  {
+   "start": 3455.92,
+   "end": 3459.42,
+   "text": "Have them, and I would have them filming me respond to him. They would upload that onto"
+  },
+  {
+   "start": 3459.42,
+   "end": 3463.12,
+   "text": "YouTube. So that would be a separate YouTube channel. It's my response to the attacker's"
+  },
+  {
+   "start": 3463.12,
+   "end": 3466.54,
+   "text": "YouTube channel. So I wouldn't have to be spending any of my own time uploading my own"
+  },
+  {
+   "start": 3466.54,
+   "end": 3470.6,
+   "text": "Videos. I would just say, okay, have me respond to this. Okay. John, do you know, Rush Limbaugh,"
+  },
+  {
+   "start": 3470.96,
+   "end": 3473.54,
+   "text": "You said this, and this is my answer, dah, dah, dah, dah, dah. And then I'd upload it."
+  },
+  {
+   "start": 3473.82,
+   "end": 3476.78,
+   "text": "And I would be, I would be answering people all day long and have another video camera"
+  },
+  {
+   "start": 3476.78,
+   "end": 3480.84,
+   "text": "Following me, filming me answering people on the video camera. I'd be showing people exactly how"
+  },
+  {
+   "start": 3480.84,
+   "end": 3485.0,
+   "text": "You can use the media to the maximum extent where every single thing, every single thing"
+  },
+  {
+   "start": 3485.0,
+   "end": 3489.04,
+   "text": "That I hear, every single thing that I say gets immediately transmitted to and from me"
+  },
+  {
+   "start": 3489.04,
+   "end": 3492.42,
+   "text": "Because I'm the president and I'm a public person. You know, if you're going to be the"
+  },
+  {
+   "start": 3492.42,
+   "end": 3495.42,
+   "text": "President, then don't be, start bitching and moaning how you want your fucking privacy."
+  },
+  {
+   "start": 3496.36,
+   "end": 3505.22,
+   "text": "Sarah Palin. Okay. Um, now as far as like the money, money thing, getting money out of politics"
+  },
+  {
+   "start": 3505.22,
+   "end": 3512.65,
+   "text": "As president, um, I don't know exactly what his powers are, but you know, I would be lecturing"
+  },
+  {
+   "start": 3512.65,
+   "end": 3522.25,
+   "text": "People all the time, you know, but whatever, anyways, um, okay. Tab, how would you resolve?"
+  },
+  {
+   "start": 3522.57,
+   "end": 3529.29,
+   "text": "Okay. Also, do you think, um, use value should replace exchange value in future?"
+  },
+  {
+   "start": 3529.29,
+   "end": 3539.01,
+   "text": "Uh, um, meaning there's lots of vacant investment homes that people purchase to flip later on while"
+  },
+  {
+   "start": 3539.01,
+   "end": 3545.21,
+   "text": "Lots of people can't afford to pay rent in cities. Society could decide to focus on providing for"
+  },
+  {
+   "start": 3545.21,
+   "end": 3550.59,
+   "text": "The needs of the poor people, such as constructing fire free housing rather than focus on profit"
+  },
+  {
+   "start": 3550.59,
+   "end": 3557.87,
+   "text": "Exchange value, which caters to the wealthy and drives out the poor. Um, okay. I'm not totally"
+  },
+  {
+   "start": 3557.87,
+   "end": 3564.45,
+   "text": "Sure. I understand exactly what you're saying there, but, um, as far as, um, as far as,"
+  },
+  {
+   "start": 3564.45,
+   "end": 3582.85,
+   "text": "Uh, as, um, um, yeah, as far as like, uh, that kind of stuff, something should always be worth"
+  },
+  {
+   "start": 3582.85,
+   "end": 3589.31,
+   "text": "What people are willing to, um, pay for it. You know, like if, if, if, if everybody wants to go"
+  },
+  {
+   "start": 3589.31,
+   "end": 3594.83,
+   "text": "And watch the Superbowl and they can only take 50,000 people and so they get to charge a thousand"
+  },
+  {
+   "start": 3594.83,
+   "end": 3598.97,
+   "text": "Dollars a seat, well then they get to charge a thousand dollars a seat because those people want"
+  },
+  {
+   "start": 3598.97,
+   "end": 3604.61,
+   "text": "To be there. Okay. And that's called, that's called, um, it's called real value. And so as far"
+  },
+  {
+   "start": 3604.61,
+   "end": 3608.79,
+   "text": "As the jobs go, you know, some jobs, they just, they're more in high demand. So the people deserve"
+  },
+  {
+   "start": 3608.79,
+   "end": 3614.67,
+   "text": "More money or the job is less desirable. So those people deserve more money, you know? So yeah,"
+  },
+  {
+   "start": 3614.67,
+   "end": 3622.27,
+   "text": "Some, some jobs deserve more money than others for sure. Um, and, uh, as far as like, as far as like,"
+  },
+  {
+   "start": 3622.29,
+   "end": 3626.69,
+   "text": "Um, housing, you know, like, like spreading out the wealth, you know, like where some places are,"
+  },
+  {
+   "start": 3626.79,
+   "end": 3631.01,
+   "text": "Are too, the, the, the rent's too much. And then over there, the rent's not enough. Well,"
+  },
+  {
+   "start": 3631.07,
+   "end": 3640.07,
+   "text": "We can use technology to, um, to balance that out by, by, um, promoting, um, industries that you can do,"
+  },
+  {
+   "start": 3640.07,
+   "end": 3645.03,
+   "text": "That you can use, um, remotely, you know, like if you're a customer service person, you don't have"
+  },
+  {
+   "start": 3645.03,
+   "end": 3649.45,
+   "text": "To be in the big office. You can be at your house doing the customer service. Then you do the meeting"
+  },
+  {
+   "start": 3649.45,
+   "end": 3653.79,
+   "text": "On Skype with your supervisors or whatever, and then you do the, your job all day long in your"
+  },
+  {
+   "start": 3653.79,
+   "end": 3658.55,
+   "text": "House. And so you can live in the middle of Detroit and a thousand dollar house, and then you can rebuild"
+  },
+  {
+   "start": 3658.55,
+   "end": 3664.87,
+   "text": "All these, re-gentrify all of these, uh, neighborhoods and these broken down cities because they don't have"
+  },
+  {
+   "start": 3664.87,
+   "end": 3668.63,
+   "text": "To be next to where they're getting their money from. They can be, they can be getting their money"
+  },
+  {
+   "start": 3668.63,
+   "end": 3674.59,
+   "text": "From anywhere with, you know, doing anything, you know, any kind of administrative duty, you know,"
+  },
+  {
+   "start": 3674.71,
+   "end": 3679.37,
+   "text": "Um, anything, you know, with, with all the communication with video that you can do across,"
+  },
+  {
+   "start": 3679.47,
+   "end": 3683.97,
+   "text": "You don't have to meet the person or go to their office or anything. And that's a great way to"
+  },
+  {
+   "start": 3683.97,
+   "end": 3688.27,
+   "text": "Re-gentrify everything and to spread out the wealth, you know, world's a big place, you know,"
+  },
+  {
+   "start": 3688.31,
+   "end": 3692.33,
+   "text": "Wealth, what's wealth, you know, I mean, wealth technically, I guess, is some rich dude getting"
+  },
+  {
+   "start": 3692.33,
+   "end": 3696.73,
+   "text": "Money off of his investments, but what's, what's the quality of life that's having a nice house"
+  },
+  {
+   "start": 3696.73,
+   "end": 3700.83,
+   "text": "In a nice neighborhood and trees and animals and happy people? That's, you know, that's"
+  },
+  {
+   "start": 3700.83,
+   "end": 3705.61,
+   "text": "All, that's all we, we really ever need. And, uh, so if we can create that, but in order"
+  },
+  {
+   "start": 3705.61,
+   "end": 3712.39,
+   "text": "To do that, we need to level the plant bill. Um, but we need to allow, we need to create"
+  },
+  {
+   "start": 3712.39,
+   "end": 3716.11,
+   "text": "A, uh, like a system that allows people to do that for themselves. You know, you don't"
+  },
+  {
+   "start": 3716.11,
+   "end": 3721.85,
+   "text": "Build housing structure because you, because you have some like magical idea that, oh, everybody's"
+  },
+  {
+   "start": 3721.85,
+   "end": 3726.17,
+   "text": "Going to want to live there, you know, like what Ceausescu did, building up all these huge"
+  },
+  {
+   "start": 3726.17,
+   "end": 3732.09,
+   "text": "Skyscrapers in Romania and then forcing people from the hillside into Romania, into the buildings"
+  },
+  {
+   "start": 3732.09,
+   "end": 3735.89,
+   "text": "To try to make it like, you know, big population, because that's what you're supposed to do to make"
+  },
+  {
+   "start": 3735.89,
+   "end": 3741.49,
+   "text": "A country strong. Um, no, you, you just allow, you just, you know, you know what the people want."
+  },
+  {
+   "start": 3741.61,
+   "end": 3745.43,
+   "text": "People want happiness, a nice life, a nice neighborhood. So then you create an industry"
+  },
+  {
+   "start": 3745.43,
+   "end": 3755.31,
+   "text": "Where people can do that for themselves. Um, okay. Um, focus on profit exchange, which caters"
+  },
+  {
+   "start": 3755.31,
+   "end": 3763.35,
+   "text": "To the wealthy. Um, okay. Now, yeah, I think what you're thinking, profit exchange, um, cater"
+  },
+  {
+   "start": 3763.35,
+   "end": 3769.69,
+   "text": "To the wealthy and drive out the poor. Well, yeah, I mean, laws can, laws can protect people"
+  },
+  {
+   "start": 3769.69,
+   "end": 3774.83,
+   "text": "For that kind of stuff though. You know, like driving poor, the poor out, you know, that,"
+  },
+  {
+   "start": 3774.89,
+   "end": 3781.33,
+   "text": "That's, that's stuff that, that good politicians can perfectly easily protect and bad politicians"
+  },
+  {
+   "start": 3781.33,
+   "end": 3787.33,
+   "text": "Can fuck up. Um, I'm kind of high, so I didn't really totally dwell on what you were saying,"
+  },
+  {
+   "start": 3787.37,
+   "end": 3794.77,
+   "text": "But I think that's what you meant. Anyways, um, rather than focusing on profit exchange,"
+  },
+  {
+   "start": 3794.77,
+   "end": 3802.75,
+   "text": "Means society, uh, societal focus or profit exchange means that many American needs aren't"
+  },
+  {
+   "start": 3802.75,
+   "end": 3809.31,
+   "text": "Met due to the lack of individual funds. Um, okay. Right. Yeah. Cause like where people"
+  },
+  {
+   "start": 3809.31,
+   "end": 3813.27,
+   "text": "Would do money and people would do stuff just because it makes some money. So then obviously"
+  },
+  {
+   "start": 3813.27,
+   "end": 3818.71,
+   "text": "They would cater to the people with the money. So then they would, they would deliberately"
+  },
+  {
+   "start": 3818.71,
+   "end": 3823.69,
+   "text": "Like build an industry like sports cars or whatever to cater to the rich dudes who have"
+  },
+  {
+   "start": 3823.69,
+   "end": 3830.75,
+   "text": "All that extra money. Well, well, instead of catering to rich dudes, fucking like childish"
+  },
+  {
+   "start": 3830.75,
+   "end": 3837.09,
+   "text": "Desires, why don't you cater to rich people's noble desires? You know, rich people aren't"
+  },
+  {
+   "start": 3837.09,
+   "end": 3842.61,
+   "text": "Like pure evil, rich people want to help the world. Just convince a rich person how powerful"
+  },
+  {
+   "start": 3842.61,
+   "end": 3846.55,
+   "text": "They are and what their money can do. You know, I mean, that's, that's what I'm going"
+  },
+  {
+   "start": 3846.55,
+   "end": 3851.31,
+   "text": "To do with my timeline. I'm going to, I'm going to build up my timeline explanation page"
+  },
+  {
+   "start": 3851.31,
+   "end": 3855.07,
+   "text": "Really good. I don't know when, but whenever I do it, I'm going to build it up really good."
+  },
+  {
+   "start": 3855.79,
+   "end": 3860.11,
+   "text": "And then I'm going to just let a whole bunch of like super, super, super filthy rich people"
+  },
+  {
+   "start": 3860.11,
+   "end": 3863.59,
+   "text": "Know about it and tell them that I want them to give me money so that I can, don't have"
+  },
+  {
+   "start": 3863.59,
+   "end": 3867.27,
+   "text": "To work and I can just hang out in my house all day long, work on my timeline or a half"
+  },
+  {
+   "start": 3867.27,
+   "end": 3871.47,
+   "text": "A day a day. You know, I have a life work four hours a day on my timeline, but that'd be"
+  },
+  {
+   "start": 3871.47,
+   "end": 3878.33,
+   "text": "My job. And, um, and, you know, and expect them to go cool. And if they say no, then I"
+  },
+  {
+   "start": 3878.33,
+   "end": 3883.29,
+   "text": "Could turn that into a whole, a whole reality show, which would be interesting too. So, but"
+  },
+  {
+   "start": 3883.29,
+   "end": 3888.41,
+   "text": "You, but, you know, they would, they would obviously, you know, look, this is good for"
+  },
+  {
+   "start": 3888.41,
+   "end": 3892.65,
+   "text": "Everybody. They want to help. They do. They just have to, they don't want to feel like"
+  },
+  {
+   "start": 3892.65,
+   "end": 3902.87,
+   "text": "They're, you know, idiots paying into some crap or whatever. Um, and that's how it is."
+  },
+  {
+   "start": 3902.93,
+   "end": 3908.65,
+   "text": "I mean, if you look in history, um, rich people always come through. There's always those rich"
+  },
+  {
+   "start": 3908.65,
+   "end": 3914.93,
+   "text": "People who come through and help, you know, there's a book written by, uh, uh, oh man,"
+  },
+  {
+   "start": 3914.95,
+   "end": 3918.91,
+   "text": "I can't remember his name. One of those black, black leaders around the turn of the 19th century"
+  },
+  {
+   "start": 3918.91,
+   "end": 3924.23,
+   "text": "And, uh, they, they teach the 19th and yeah, he was saying, talking about all these good"
+  },
+  {
+   "start": 3924.23,
+   "end": 3929.91,
+   "text": "Rich people, good white rich people he knew who helped him start his college. Um, and,"
+  },
+  {
+   "start": 3930.07,
+   "end": 3934.71,
+   "text": "Uh, you know, write chicks out to people and all that kind of stuff. I mean, people always"
+  },
+  {
+   "start": 3934.71,
+   "end": 3943.75,
+   "text": "Come through and the world always gets better. So just focus on that. Um, okay. Yes. So,"
+  },
+  {
+   "start": 3944.15,
+   "end": 3948.89,
+   "text": "Yeah. So the basic thing is, yeah, like, I mean, you have things that set stuff in"
+  },
+  {
+   "start": 3948.89,
+   "end": 3952.51,
+   "text": "The motion with the investors who get their return on their investment for getting something"
+  },
+  {
+   "start": 3952.51,
+   "end": 3958.55,
+   "text": "Started, but then see, and if we all understand this natural progression of history, then we'll"
+  },
+  {
+   "start": 3958.55,
+   "end": 3962.49,
+   "text": "All, we, nobody will fight against it. We'll understand that's the way it goes, right? So"
+  },
+  {
+   "start": 3962.49,
+   "end": 3966.03,
+   "text": "You have the investors and then you guys get it started and they can get rich off it. And"
+  },
+  {
+   "start": 3966.03,
+   "end": 3972.63,
+   "text": "Then it turns into, it turns into an actual institution, society that we, you know, that"
+  },
+  {
+   "start": 3972.63,
+   "end": 3976.59,
+   "text": "We all use. So that becomes something because we all use it, it becomes something that we all"
+  },
+  {
+   "start": 3976.59,
+   "end": 3981.69,
+   "text": "Own that we all benefit from and that no one person just kind of sits on his ass and sucks"
+  },
+  {
+   "start": 3981.69,
+   "end": 3989.49,
+   "text": "Off of. And, um, so we need to make laws that, that go in that direction. And those are laws"
+  },
+  {
+   "start": 3989.49,
+   "end": 3993.87,
+   "text": "That, you know, anything that helps with the democratic process and, um, you know, getting"
+  },
+  {
+   "start": 3993.87,
+   "end": 4004.88,
+   "text": "Money out of politics, um, um, encouraging, and, and, and it all ties in together too. If"
+  },
+  {
+   "start": 4004.88,
+   "end": 4009.9,
+   "text": "We're talking about future, uh, um, industries where you're not, where you're working out"
+  },
+  {
+   "start": 4009.9,
+   "end": 4016.14,
+   "text": "Of your house, uh, you know, that, that involves a lot of video speaking on the video, sharing"
+  },
+  {
+   "start": 4016.14,
+   "end": 4021.24,
+   "text": "Yourself, you know, getting, being able to share who you are and what you think on the internet,"
+  },
+  {
+   "start": 4021.24,
+   "end": 4029.62,
+   "text": "Um, so that people can feel comfortable with each other through distances. And, uh, so people"
+  },
+  {
+   "start": 4029.62,
+   "end": 4037.44,
+   "text": "Who do like what, what I do, a lot of videos, um, kind of break, bring that world more as"
+  },
+  {
+   "start": 4037.44,
+   "end": 4043.14,
+   "text": "A reality for everybody else to feel more comfortable so that we can then use this, use our, uh, technology"
+  },
+  {
+   "start": 4043.14,
+   "end": 4048.06,
+   "text": "To create these good industries where people can, don't have to commute so much, you know,"
+  },
+  {
+   "start": 4048.06,
+   "end": 4058.4,
+   "text": "To their work. It all ties in together. But, um, anyways, uh, um, yeah, but I mean, once"
+  },
+  {
+   "start": 4058.4,
+   "end": 4063.02,
+   "text": "We realize, once we realize that what the difference between happiness and unhappiness, what makes"
+  },
+  {
+   "start": 4063.02,
+   "end": 4066.48,
+   "text": "You happy, one doesn't make happy, what wealth isn't, what wealth isn't. Wealth is living"
+  },
+  {
+   "start": 4066.48,
+   "end": 4071.8,
+   "text": "In a nice neighborhood with nice people and having, and not having to work too much, you"
+  },
+  {
+   "start": 4071.8,
+   "end": 4076.94,
+   "text": "Know, and living in a society that, that doesn't have all the rich people sucking everything"
+  },
+  {
+   "start": 4076.94,
+   "end": 4082.0,
+   "text": "Up. So the money gets generated and spit back into the poor people so that everybody has"
+  },
+  {
+   "start": 4082.0,
+   "end": 4086.28,
+   "text": "Enough. And when everybody's happy and everybody's the same and equally, then you can travel anywhere"
+  },
+  {
+   "start": 4086.28,
+   "end": 4089.62,
+   "text": "In the world. There's no places where you can't, can't go because you're too rich or"
+  },
+  {
+   "start": 4089.62,
+   "end": 4096.8,
+   "text": "Too poor or to this or to that. And that makes everybody happy. And so, um, once we, uh, once"
+  },
+  {
+   "start": 4096.8,
+   "end": 4102.6,
+   "text": "We realize that, you know, that having a purpose to, to try to living a life, to bring that"
+  },
+  {
+   "start": 4102.6,
+   "end": 4107.86,
+   "text": "World about and make yourself smarter, um, then we'll all, well, and once enough of us"
+  },
+  {
+   "start": 4107.86,
+   "end": 4111.98,
+   "text": "Do that, then we'll all gravitate towards that. And then the people who gravitate towards"
+  },
+  {
+   "start": 4111.98,
+   "end": 4116.3,
+   "text": "Only making money will be the crazy minority and we'll never be able to get away with doing"
+  },
+  {
+   "start": 4116.3,
+   "end": 4124.08,
+   "text": "It because it'll just be so, you know, uh, transparent to everybody else. So, uh, anyways,"
+  },
+  {
+   "start": 4124.08,
+   "end": 4128.2,
+   "text": "Yeah, that's that video. Okay. Peace out."
+  }
+ ]
+}

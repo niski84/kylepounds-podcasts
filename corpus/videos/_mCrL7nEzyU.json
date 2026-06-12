@@ -1,0 +1,295 @@
+{
+ "youtube_id": "_mCrL7nEzyU",
+ "title": "Living in Boulder Vlog 1 - 15 - 2017",
+ "url": "https://youtu.be/_mCrL7nEzyU",
+ "published_at": "2017-01-15",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a vlog from Boulder on January 15th, 2017, around 6:20am after a disrupted sleep schedule. He talks about working on his website doing cleanup and standardization work, listening to history podcasts (Fall of Rome, History Chicks covering Mary Queen of Scots and Catherine the Great) while waiting on slow copy-paste tasks, and mentions plans to sell his car.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "sleep schedule",
+   "website work",
+   "podcasts",
+   "selling car",
+   "Boulder living"
+  ],
+  "stances": [
+   {
+    "topic": "current computer vs old computer",
+    "position": "His newer computer is dramatically faster, making website tasks that used to take forever now go by quickly"
+   },
+   {
+    "topic": "website progress",
+    "position": "He's in the finishing/standardization stage and it's going faster than expected"
+   },
+   {
+    "topic": "History Chicks podcast",
+    "position": "Wants to listen to all 120 episodes while doing the current website work"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Fall of Rome (podcast)",
+   "History Chicks (podcast)",
+   "Mary Queen of Scots",
+   "Catherine the Great",
+   "Reign (TV show)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.64,
+   "end": 5.46,
+   "text": "Hello, living in Boulder V-Log for January 15th at 6.20am."
+  },
+  {
+   "start": 6.52,
+   "end": 11.5,
+   "text": "I, uh, hmm, yesterday was kind of a weird, weird day."
+  },
+  {
+   "start": 12.24,
+   "end": 16.5,
+   "text": "I got, uh, I woke up and got out of bed, like, right as it was getting dark."
+  },
+  {
+   "start": 17.48,
+   "end": 22.88,
+   "text": "Because I, um, I was up until, like, I don't know, I didn't get to sleep last night, I don't think so."
+  },
+  {
+   "start": 23.42,
+   "end": 26.74,
+   "text": "I was up until, like, something, you know, 1 or something."
+  },
+  {
+   "start": 26.74,
+   "end": 31.48,
+   "text": "So then I got to sleep, and then I woke up at, like, 6 p.m. or something."
+  },
+  {
+   "start": 32.56,
+   "end": 37.42,
+   "text": "So I guess for me, it's 6.21, that would be, like, if somebody gets up at 6 a.m."
+  },
+  {
+   "start": 38.72,
+   "end": 42.66,
+   "text": "So, no, it's 6.21 in the evening, and I got up at 6 a.m., so."
+  },
+  {
+   "start": 44.28,
+   "end": 51.42,
+   "text": "You know, so, like, you'd expect me to maybe be up until noon, or midnight, so I'll be up until noon, probably to the, you know."
+  },
+  {
+   "start": 51.42,
+   "end": 57.02,
+   "text": "Unless I, unless I switch the days, like, by staying up all day, and then going to sleep tonight, which I might be able to see."
+  },
+  {
+   "start": 58.48,
+   "end": 67.16,
+   "text": "But, um, oh, wait, did I just, right now I'm copying and pasting stuff, and I, and I copied it right before I did the video."
+  },
+  {
+   "start": 67.3,
+   "end": 70.26,
+   "text": "I started the video, and it looks like it's ready to paste, so that's cool."
+  },
+  {
+   "start": 71.24,
+   "end": 72.26,
+   "text": "And there's paste."
+  },
+  {
+   "start": 73.22,
+   "end": 77.96,
+   "text": "And so I'm keeping an eye on my page right now, and when it pastes, that's when I go back and I'll copy the next one."
+  },
+  {
+   "start": 78.92,
+   "end": 83.02,
+   "text": "Uh, today I was working, yeah, I've been working on their website."
+  },
+  {
+   "start": 85.52,
+   "end": 88.68,
+   "text": "Ooh, but surface level stuff of my website."
+  },
+  {
+   "start": 88.68,
+   "end": 96.68,
+   "text": "Um, meaning the stuff that, like, if you go to my website and you'll start, you'll, like, notice that my website looks weird."
+  },
+  {
+   "start": 97.48,
+   "end": 100.66,
+   "text": "Like, there's something wrong with it, but you can't put your finger on it."
+  },
+  {
+   "start": 100.76,
+   "end": 101.84,
+   "text": "It's because it's not done."
+  },
+  {
+   "start": 102.96,
+   "end": 107.56,
+   "text": "And so what I'm doing is I'm doing that, uh, that stage is where you're finishing it up."
+  },
+  {
+   "start": 107.96,
+   "end": 110.32,
+   "text": "And it's going by very fast, man."
+  },
+  {
+   "start": 110.32,
+   "end": 122.18,
+   "text": "Like, way faster than, um, when I, uh, because when I was, when I was building this stuff, the stuff I'm working on right now, bike race level stuff, I was working with my other computer."
+  },
+  {
+   "start": 122.34,
+   "end": 125.6,
+   "text": "And I haven't worked on this since I got this computer, and I've had this computer, like, a couple years."
+  },
+  {
+   "start": 126.68,
+   "end": 133.26,
+   "text": "And this computer is a lot faster, and, like, doing the stuff that I'm doing today, uh, you know, it took me forever, and I didn't have a computer."
+  },
+  {
+   "start": 133.26,
+   "end": 141.46,
+   "text": "Like, I, I, I can't even believe that I built this without a computer."
+  },
+  {
+   "start": 142.82,
+   "end": 147.34,
+   "text": "I think, yeah, I do remember just sitting around all the time, just toying my thumbs, like, oh my god, I'm just waiting."
+  },
+  {
+   "start": 147.44,
+   "end": 149.4,
+   "text": "And that's what I've been doing for, like, the last hour with this."
+  },
+  {
+   "start": 151.16,
+   "end": 161.72,
+   "text": "Um, I was, uh, entertaining myself by, like, printing pictures and posting them on the wall, but, uh, but I ran out."
+  },
+  {
+   "start": 161.72,
+   "end": 170.68,
+   "text": "And so, I've been sitting here, I finished my, I finished my, uh, podcast, Fall of Rome."
+  },
+  {
+   "start": 171.26,
+   "end": 174.0,
+   "text": "I listened to a couple of chapters twice, and it was pretty good."
+  },
+  {
+   "start": 174.74,
+   "end": 182.22,
+   "text": "But then, uh, now I'm doing, uh, History Chicks, and I did, um, Mary Queen of Scots because we're watching, uh, Rain right now."
+  },
+  {
+   "start": 183.34,
+   "end": 185.3,
+   "text": "And now I'm doing Catherine the Great, I want Catherine through that."
+  },
+  {
+   "start": 185.36,
+   "end": 187.56,
+   "text": "Yeah, I want to do all their, they have, like, 120 episodes."
+  },
+  {
+   "start": 187.56,
+   "end": 199.7,
+   "text": "So, I want to do all the History podcasts, listen to all of them, uh, in this time period right now where I'm organizing, kind of tying up the loose ends of my website."
+  },
+  {
+   "start": 200.92,
+   "end": 203.72,
+   "text": "Huh, the guys in my house will come tomorrow."
+  },
+  {
+   "start": 203.96,
+   "end": 207.74,
+   "text": "On Monday I'm going to, uh, go full, full bore."
+  },
+  {
+   "start": 207.84,
+   "end": 210.58,
+   "text": "I'm trying to sell my car for whatever I can sell it for."
+  },
+  {
+   "start": 210.58,
+   "end": 215.86,
+   "text": "Um, oh yeah, so it just, it just copied, and now I'm just pasting my second one."
+  },
+  {
+   "start": 217.86,
+   "end": 222.48,
+   "text": "So, uh, yeah, it's the bike grazer stuff."
+  },
+  {
+   "start": 222.64,
+   "end": 224.68,
+   "text": "I don't, I can't really explain it, what I'm doing."
+  },
+  {
+   "start": 224.86,
+   "end": 225.84,
+   "text": "It's the simple stuff."
+  },
+  {
+   "start": 226.64,
+   "end": 230.24,
+   "text": "I'm, I'm, I'm, uh, standardizing my, the way that I have lists."
+  },
+  {
+   "start": 230.24,
+   "end": 237.24,
+   "text": "Um, a lot of the lists that I had, I, I built before I hadn't, I realized exactly what I want the list to do, you know."
+  },
+  {
+   "start": 238.0,
+   "end": 242.18,
+   "text": "So, I'm kind of doing like a, re-sweep through, fixing, standardizing stuff."
+  },
+  {
+   "start": 242.34,
+   "end": 246.74,
+   "text": "But it's going by quick, like, really quickly for my processing, because of this computer."
+  },
+  {
+   "start": 247.88,
+   "end": 248.52,
+   "text": "It's really cool."
+  },
+  {
+   "start": 250.04,
+   "end": 252.9,
+   "text": "Um, so let's see, ooh, 412 talks long enough."
+  },
+  {
+   "start": 252.96,
+   "end": 253.22,
+   "text": "Okay."
+  },
+  {
+   "start": 253.92,
+   "end": 254.46,
+   "text": "Peace out."
+  },
+  {
+   "start": 254.46,
+   "end": 284.44,
+   "text": "Peace out."
+  }
+ ]
+}

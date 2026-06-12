@@ -1,0 +1,344 @@
+{
+ "youtube_id": "djcYPue3mr0",
+ "title": "Boulder Co Vlog 4/8/18: Roller Rode 27min, Swam 1524M, Ran 5.5Mi",
+ "url": "https://youtu.be/djcYPue3mr0",
+ "published_at": "2018-04-09",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs the previous day's triathlon-style training in Boulder, CO on April 8, 2018. He recounts sleeping most of the day after a Unisom pill backfired, dealing with a flat tire and excruciating knee pain, then pushing through a swim of ~1524 meters (100 pool lengths), a 27-minute bike ride, and a 5.5-mile run — all interrupted repeatedly by severe stomach bloating that required Pepto-Bismol to resolve. He closes with notes on his Garmin troubleshooting, his habit of exercising until groggy, and a plan to start doing book/history talks once he runs out of weed.",
+  "speaker": "kyle",
+  "topics": [
+   "triathlon training",
+   "workout log",
+   "Boulder Colorado",
+   "stomach bloating",
+   "knee pain",
+   "sleep and Unisom",
+   "swimming",
+   "cycling",
+   "running",
+   "Garmin device issue",
+   "cannabis/weed"
+  ],
+  "stances": [
+   {
+    "topic": "exercise pacing",
+    "position": "Exercise until groggy — same rule he used when working, no reason to stop before that"
+   },
+   {
+    "topic": "book talks/history content",
+    "position": "Plans to start recording book and history discussions when he runs out of weed, framing it as a natural transition"
+   }
+  ],
+  "entities": [
+   "Boulder, CO",
+   "Unisom",
+   "Garmin",
+   "Pepto-Bismol"
+  ],
+  "date": "2018-04-08",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.46,
+   "end": 10.22,
+   "text": "Kella 11 and Bald Vlog for April 8 currently it is April 9, 137 in the morning"
+  },
+  {
+   "start": 11.5,
+   "end": 13.5,
+   "text": "Monday"
+  },
+  {
+   "start": 14.78,
+   "end": 16.78,
+   "text": "So yesterday"
+  },
+  {
+   "start": 17.82,
+   "end": 20.54,
+   "text": "I took a sleeping pill a unison"
+  },
+  {
+   "start": 21.34,
+   "end": 23.58,
+   "text": "But it ended up"
+  },
+  {
+   "start": 23.58,
+   "end": 28.46,
+   "text": "It just I was up all night and I could have"
+  },
+  {
+   "start": 28.46,
+   "end": 36.46,
+   "text": "God not been done worked out at five in the morning, but I was too tired and I didn't feel like I could ride"
+  },
+  {
+   "start": 37.26,
+   "end": 40.86,
+   "text": "I didn't want to swim around and I'm not that my first time knows that tired so"
+  },
+  {
+   "start": 41.74,
+   "end": 47.18,
+   "text": "And that's when the unison kicked us so I slept like a baby whole day and then got up"
+  },
+  {
+   "start": 48.38,
+   "end": 51.1,
+   "text": "And like five or something and got crickets and"
+  },
+  {
+   "start": 52.06,
+   "end": 56.3,
+   "text": "Had a gyro which was nasty and then"
+  },
+  {
+   "start": 56.3,
+   "end": 58.3,
+   "text": "I came home notice that my"
+  },
+  {
+   "start": 59.82,
+   "end": 64.54,
+   "text": "Car was flat so I took the tire to the place to have that fix the uncay back and"
+  },
+  {
+   "start": 67.5,
+   "end": 73.1,
+   "text": "We're oh yeah, but I noticed when I went to the store my knee is excursionating pain just moving it"
+  },
+  {
+   "start": 75.34,
+   "end": 78.94,
+   "text": "So I definitely wanted to do running or swimming so I came back and"
+  },
+  {
+   "start": 80.54,
+   "end": 82.54,
+   "text": "Went swimming"
+  },
+  {
+   "start": 82.54,
+   "end": 88.14,
+   "text": "Find my swimsuits on a maroon of I and other swimsuits. I also need to figure out a way to make it so that"
+  },
+  {
+   "start": 88.86,
+   "end": 91.42,
+   "text": "That was plug doesn't slip off or figure out how to"
+  },
+  {
+   "start": 92.78,
+   "end": 96.7,
+   "text": "You do the flip kicks without having a nose bug, but I want to do"
+  },
+  {
+   "start": 98.46,
+   "end": 101.82,
+   "text": "Be able to do the snorkel thinking you need a nose plug for that"
+  },
+  {
+   "start": 102.86,
+   "end": 104.46,
+   "text": "So"
+  },
+  {
+   "start": 104.46,
+   "end": 109.82,
+   "text": "I'll go in and see if I can figure that out tomorrow. I was swimming the beginning with the snorkel"
+  },
+  {
+   "start": 110.38,
+   "end": 112.38,
+   "text": "Then I know spot bail out"
+  },
+  {
+   "start": 113.34,
+   "end": 115.34,
+   "text": "So I started swimming normally and"
+  },
+  {
+   "start": 117.02,
+   "end": 121.9,
+   "text": "Manage to do a hundred length, which is about 1500 meters. So about how much they swim in the"
+  },
+  {
+   "start": 123.18,
+   "end": 126.06,
+   "text": "I think something like that in the Olympics almost a mile"
+  },
+  {
+   "start": 127.1,
+   "end": 134.86,
+   "text": "So a hundred length some I 50 foot pull before my stomach just bloated really big and became excursionating like painful"
+  },
+  {
+   "start": 134.86,
+   "end": 135.82,
+   "text": "So I"
+  },
+  {
+   "start": 135.82,
+   "end": 139.26,
+   "text": "Left and started running my bike get I managed to ride 27 minutes"
+  },
+  {
+   "start": 139.82,
+   "end": 143.02,
+   "text": "My garment I'm not gonna upload it because my garment"
+  },
+  {
+   "start": 143.66,
+   "end": 146.7,
+   "text": "Went connect to the heart rate or the speedometer"
+  },
+  {
+   "start": 147.82,
+   "end": 149.82,
+   "text": "So I'll try to"
+  },
+  {
+   "start": 150.54,
+   "end": 152.06,
+   "text": "Do"
+  },
+  {
+   "start": 152.06,
+   "end": 156.3,
+   "text": "The same thing I guess tomorrow with the Garment told me the other day because this happened the other day"
+  },
+  {
+   "start": 156.86,
+   "end": 158.86,
+   "text": "Where you take the battery out and you have to touch"
+  },
+  {
+   "start": 159.9,
+   "end": 165.82,
+   "text": "The positive and negative with a piece of metal at the same time like a coin and then put it back in and then see so do that"
+  },
+  {
+   "start": 166.06,
+   "end": 170.94,
+   "text": "But I made it about 27 minutes until"
+  },
+  {
+   "start": 172.86,
+   "end": 178.86,
+   "text": "My stomach continued to blow and it got really big and it was way too painful so I stopped"
+  },
+  {
+   "start": 179.58,
+   "end": 183.42,
+   "text": "Went to the store I got double string peta bismal on some other food"
+  },
+  {
+   "start": 184.22,
+   "end": 187.02,
+   "text": "Took that and then my stomach was fine"
+  },
+  {
+   "start": 187.98,
+   "end": 191.26,
+   "text": "To go running so I ran I think about five and a half miles"
+  },
+  {
+   "start": 192.22,
+   "end": 196.46,
+   "text": "Um, I ran I'm too admitted about two and a half miles before the same time down"
+  },
+  {
+   "start": 197.26,
+   "end": 204.46,
+   "text": "And so I think to keep it going you just do a bunch of five k runs so I did another five k so I told maybe five and have miles"
+  },
+  {
+   "start": 206.14,
+   "end": 209.58,
+   "text": "And I swam like a mile and then so I haven't written again"
+  },
+  {
+   "start": 209.82,
+   "end": 213.1,
+   "text": "I'm thinking maybe I'll ride now, but it's one foot in the morning. We'll see"
+  },
+  {
+   "start": 213.5,
+   "end": 221.02,
+   "text": "I think a good rule of thumb for me now is just exercise until I get groggy because that's what I was doing before when I was working on"
+  },
+  {
+   "start": 221.02,
+   "end": 223.42,
+   "text": "I was just working on what's until they get groggy"
+  },
+  {
+   "start": 224.06,
+   "end": 226.54,
+   "text": "So I should do the same thing otherwise I'll just be laying there"
+  },
+  {
+   "start": 226.86,
+   "end": 229.58,
+   "text": "You know whether it's writing or"
+  },
+  {
+   "start": 230.3,
+   "end": 232.54,
+   "text": "Stretching I think I'll stretch now"
+  },
+  {
+   "start": 232.94,
+   "end": 235.74,
+   "text": "I've been stretched once since I started exercising"
+  },
+  {
+   "start": 236.86,
+   "end": 240.14,
+   "text": "So I got them sweating a lot with the writing and they are"
+  },
+  {
+   "start": 241.34,
+   "end": 245.5,
+   "text": "Running probably still me too. So I'm gonna get fed. It's exciting"
+  },
+  {
+   "start": 247.34,
+   "end": 250.3,
+   "text": "Dad just listening to music haven't started doing"
+  },
+  {
+   "start": 251.34,
+   "end": 255.34,
+   "text": "I did look listening and still this is moving we don't at the time when I run out of weed"
+  },
+  {
+   "start": 255.34,
+   "end": 256.3,
+   "text": "I think that's when I"
+  },
+  {
+   "start": 257.26,
+   "end": 259.26,
+   "text": "While probably"
+  },
+  {
+   "start": 259.26,
+   "end": 261.02,
+   "text": "Decide that's the time that I'll do the"
+  },
+  {
+   "start": 261.98,
+   "end": 265.58,
+   "text": "I do a book talking about that'll be interesting and the test history test"
+  },
+  {
+   "start": 266.7,
+   "end": 269.9,
+   "text": "So that's what I did yesterday keep it up with it"
+  }
+ ]
+}

@@ -1,0 +1,431 @@
+{
+ "youtube_id": "-UtAFNKMhwY",
+ "title": "Living in Boulder vlog 6 - 11 - 2017: Cyprian",
+ "url": "https://youtu.be/-UtAFNKMhwY",
+ "published_at": "2017-06-13",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder on June 11, 2017, sharing progress on a personal project to compile ancient classical texts into a digital format. He describes completing Polybius (a 57-page menu compiled from Wikisource and Project Gutenberg), working on Cyprian (a church father), and plans to continue cataloging all ancient classics through the fall of Rome.",
+  "speaker": "kyle",
+  "topics": [
+   "ancient classics project",
+   "Polybius",
+   "Cyprian",
+   "Project Gutenberg",
+   "Wikisource",
+   "green screen setup",
+   "Boulder vlog"
+  ],
+  "stances": [
+   {
+    "topic": "Project Gutenberg",
+    "position": "best place to find ancient texts outside Wikisource"
+   },
+   {
+    "topic": "completing Polybius",
+    "position": "views it as a meaningful accomplishment worth noting"
+   },
+   {
+    "topic": "Bill Burr",
+    "position": "recommends listening to him, finds his takes on plutocracy interesting"
+   }
+  ],
+  "entities": [
+   "Polybius",
+   "Cyprian",
+   "Wikisource",
+   "Project Gutenberg",
+   "Bill Burr",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.11,
+   "end": 3.11,
+   "text": "Hello, living in the older V-log."
+  },
+  {
+   "start": 4.11,
+   "end": 10.11,
+   "text": "For the day of June 11th, so I'm gonna put my green screen."
+  },
+  {
+   "start": 10.11,
+   "end": 12.11,
+   "text": "Today, this is my paper."
+  },
+  {
+   "start": 12.11,
+   "end": 15.11,
+   "text": "I'm gonna see how the blue works though."
+  },
+  {
+   "start": 15.11,
+   "end": 23.11,
+   "text": "Um, but I hadn't had the time to do this to tear all these guys off on the back here."
+  },
+  {
+   "start": 23.11,
+   "end": 28.11,
+   "text": "To be able to do put on my green screen, so I'll just do it tomorrow."
+  },
+  {
+   "start": 28.11,
+   "end": 30.11,
+   "text": "I'm just too lazy."
+  },
+  {
+   "start": 30.11,
+   "end": 38.66,
+   "text": "But yeah, we'll see how it works if I try to put stuff in the background."
+  },
+  {
+   "start": 38.66,
+   "end": 46.17,
+   "text": "But, um, what was I saying? Oh, yeah, what happened?"
+  },
+  {
+   "start": 46.17,
+   "end": 51.17,
+   "text": "I was working on polibious, right now it's 10, 16 at night."
+  },
+  {
+   "start": 51.17,
+   "end": 56.17,
+   "text": "I was working on polibious, and that took like three days."
+  },
+  {
+   "start": 57.17,
+   "end": 58.17,
+   "text": "Um, but I'm done."
+  },
+  {
+   "start": 58.17,
+   "end": 61.17,
+   "text": "Polibious had three different levels of menu."
+  },
+  {
+   "start": 61.17,
+   "end": 69.17,
+   "text": "And the big menu was 57 pages, which I created from,"
+  },
+  {
+   "start": 69.17,
+   "end": 72.17,
+   "text": "I think, so we're going to go in here."
+  },
+  {
+   "start": 72.17,
+   "end": 79.17,
+   "text": "From, well, I got the first like five chapters, they were like 39 chapters."
+  },
+  {
+   "start": 79.17,
+   "end": 82.17,
+   "text": "And I got the first five from Wiky Source."
+  },
+  {
+   "start": 82.17,
+   "end": 85.17,
+   "text": "They only had five there, so I had to go to the other one."
+  },
+  {
+   "start": 85.17,
+   "end": 89.17,
+   "text": "Gutenberg, which is the best other place I think to get."
+  },
+  {
+   "start": 89.17,
+   "end": 93.17,
+   "text": "And Gutenberg was from a different translator."
+  },
+  {
+   "start": 93.17,
+   "end": 94.17,
+   "text": "So that's weird."
+  },
+  {
+   "start": 94.17,
+   "end": 99.83,
+   "text": "So the first five chapters."
+  },
+  {
+   "start": 99.83,
+   "end": 103.83,
+   "text": "I think this one translated from the other one."
+  },
+  {
+   "start": 103.83,
+   "end": 110.53,
+   "text": "But, um, when you got it off of Gutenberg,"
+  },
+  {
+   "start": 111.53,
+   "end": 115.53,
+   "text": "um, and I copied it, it would copy the titles, they made titles for it,"
+  },
+  {
+   "start": 115.53,
+   "end": 119.53,
+   "text": "like on the side, and they're averaging like three to each chapter,"
+  },
+  {
+   "start": 119.53,
+   "end": 122.53,
+   "text": "and uh, or two or three."
+  },
+  {
+   "start": 122.53,
+   "end": 128.53,
+   "text": "Um, so I had to like, I pasted on and then I had to go and read through and pick them out,"
+  },
+  {
+   "start": 128.53,
+   "end": 130.53,
+   "text": "like through sentences per like,"
+  },
+  {
+   "start": 130.53,
+   "end": 132.53,
+   "text": "each one was like 1.3's,"
+  },
+  {
+   "start": 132.53,
+   "end": 136.53,
+   "text": "because it's like 16 on pages worth of text and"
+  },
+  {
+   "start": 136.53,
+   "end": 138.53,
+   "text": "the body is like,"
+  },
+  {
+   "start": 140.81,
+   "end": 146.63,
+   "text": "I mean, or I mean, there's 1.3's, 1.3's."
+  },
+  {
+   "start": 146.63,
+   "end": 149.63,
+   "text": "So, um,"
+  },
+  {
+   "start": 149.63,
+   "end": 154.94,
+   "text": "yes, so, uh, it looks nice."
+  },
+  {
+   "start": 154.94,
+   "end": 157.94,
+   "text": "Polybius tells the history of Bob Waw."
+  },
+  {
+   "start": 157.94,
+   "end": 160.94,
+   "text": "And he was very, very, really like,"
+  },
+  {
+   "start": 160.94,
+   "end": 163.94,
+   "text": "um, living out of his stuff, and pull of his."
+  },
+  {
+   "start": 163.94,
+   "end": 166.94,
+   "text": "And so, hopefully this is like, I just think it's heavy."
+  },
+  {
+   "start": 166.94,
+   "end": 169.94,
+   "text": "So after that, that was an accomplishment,"
+  },
+  {
+   "start": 169.94,
+   "end": 171.94,
+   "text": "and then um,"
+  },
+  {
+   "start": 171.94,
+   "end": 174.94,
+   "text": "it's nice to be able to start living through again."
+  },
+  {
+   "start": 174.94,
+   "end": 180.45,
+   "text": "Uh, I'll talk to that I did, uh,"
+  },
+  {
+   "start": 180.45,
+   "end": 181.45,
+   "text": "uh, diage and ease."
+  },
+  {
+   "start": 181.45,
+   "end": 183.45,
+   "text": "Some of, when I, oh yeah,"
+  },
+  {
+   "start": 183.45,
+   "end": 186.45,
+   "text": "something goes to the fall of me,"
+  },
+  {
+   "start": 186.45,
+   "end": 188.45,
+   "text": "I've written the 11600,"
+  },
+  {
+   "start": 188.45,
+   "end": 191.45,
+   "text": "and then, uh,"
+  },
+  {
+   "start": 191.45,
+   "end": 194.45,
+   "text": "I'm Jane Cyphery, and I know, um,"
+  },
+  {
+   "start": 194.45,
+   "end": 198.45,
+   "text": "which is pretty, I'll be done, I think tomorrow,"
+  },
+  {
+   "start": 198.45,
+   "end": 200.45,
+   "text": "um, that's a church father."
+  },
+  {
+   "start": 200.45,
+   "end": 202.45,
+   "text": "Yeah, I'm going to keep trucking on,"
+  },
+  {
+   "start": 202.45,
+   "end": 205.45,
+   "text": "uh, trying to do all of the ancient classics,"
+  },
+  {
+   "start": 205.45,
+   "end": 208.45,
+   "text": "all like every single book,"
+  },
+  {
+   "start": 208.45,
+   "end": 211.45,
+   "text": "uh, everything all on the third, until, like,"
+  },
+  {
+   "start": 211.45,
+   "end": 214.45,
+   "text": "the follow-up row, you know, a little after the follow-up row."
+  },
+  {
+   "start": 214.45,
+   "end": 217.45,
+   "text": "So, uh, I'm gonna put all that in there."
+  },
+  {
+   "start": 217.45,
+   "end": 219.45,
+   "text": "I'm gonna make one of those five-hawing pages there."
+  },
+  {
+   "start": 219.45,
+   "end": 221.45,
+   "text": "So, uh,"
+  },
+  {
+   "start": 221.45,
+   "end": 224.45,
+   "text": "this week, the goals would be to,"
+  },
+  {
+   "start": 224.45,
+   "end": 227.45,
+   "text": "uh, yeah, just keep doing more, you know."
+  },
+  {
+   "start": 227.45,
+   "end": 230.45,
+   "text": "I haven't done play-to, and I understand what I'm doing."
+  },
+  {
+   "start": 230.45,
+   "end": 232.45,
+   "text": "It goes to get us my hangin' me up, though, uh,"
+  },
+  {
+   "start": 232.45,
+   "end": 235.45,
+   "text": "um, uh, uh, uh, and so what are they listening to?"
+  },
+  {
+   "start": 235.45,
+   "end": 237.45,
+   "text": "I've been having the book read me, um,"
+  },
+  {
+   "start": 237.45,
+   "end": 239.45,
+   "text": "the ones that I've been having."
+  },
+  {
+   "start": 239.45,
+   "end": 240.45,
+   "text": "They've been listening to Bill Moore,"
+  },
+  {
+   "start": 240.45,
+   "end": 241.45,
+   "text": "you just check out Bill Moore,"
+  },
+  {
+   "start": 241.45,
+   "end": 242.45,
+   "text": "you just used to be speaking to Uncle,"
+  },
+  {
+   "start": 242.45,
+   "end": 244.45,
+   "text": "you did cool."
+  },
+  {
+   "start": 244.45,
+   "end": 246.45,
+   "text": "Uh, I hear using people talking about,"
+  },
+  {
+   "start": 246.45,
+   "end": 251.24,
+   "text": "how the plutocracy happened,"
+  },
+  {
+   "start": 251.24,
+   "end": 253.24,
+   "text": "by schools and the answer."
+  },
+  {
+   "start": 253.24,
+   "end": 255.24,
+   "text": "Um,"
+  },
+  {
+   "start": 255.24,
+   "end": 256.24,
+   "text": "so,"
+  },
+  {
+   "start": 256.24,
+   "end": 258.24,
+   "text": "I guess that's a good foreturning."
+  },
+  {
+   "start": 258.24,
+   "end": 259.24,
+   "text": "Yeah."
+  }
+ ]
+}

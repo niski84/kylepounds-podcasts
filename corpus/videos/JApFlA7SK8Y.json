@@ -1,0 +1,447 @@
+{
+ "youtube_id": "JApFlA7SK8Y",
+ "title": "Living in Boulder Vlog 1 - 12 - 2017",
+ "url": "https://youtu.be/JApFlA7SK8Y",
+ "published_at": "2017-01-13",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder on January 12, 2017, covering a plumber visit to fix his shower, financial stress from borrowing money from his mom, and his plan to sell his van to get out of debt. He also mentions working on a bike race level page project and watching the TV show Versailles on Netflix.",
+  "speaker": "kyle",
+  "topics": [
+   "daily life update",
+   "home repair",
+   "finances",
+   "selling a van",
+   "creative project",
+   "TV watching"
+  ],
+  "stances": [
+   {
+    "topic": "selling his van",
+    "position": "committed to selling it this time with better photos, maintenance records, and creative YouTube commercials"
+   },
+   {
+    "topic": "borrowing from mom",
+    "position": "acknowledges it is causing tension and recognizes he needs to stop and become self-sufficient"
+   },
+   {
+    "topic": "bike race level page project",
+    "position": "feels he left it in a state of abandonment and wants to dedicate focused time to finish it"
+   },
+   {
+    "topic": "Versailles TV show",
+    "position": "thinks it is really good — realistic, seriously done, and exactly the kind of show he enjoys"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Virginia",
+   "Versailles (TV show)",
+   "Netflix"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "I'm loving and bolder V-look for January 12, 2017."
+  },
+  {
+   "start": 5.0,
+   "end": 13.0,
+   "text": "I didn't do yesterday because I guess it was a different day and I get through it easily."
+  },
+  {
+   "start": 13.0,
+   "end": 21.0,
+   "text": "I kind of think I may have reversed my sleep and scheduled a little because I just woke up in it 6.30 in the morning and that's usually when I go to sleep."
+  },
+  {
+   "start": 21.0,
+   "end": 23.0,
+   "text": "So that's kind of good."
+  },
+  {
+   "start": 23.0,
+   "end": 30.0,
+   "text": "What happened was yesterday I stayed up all night and then I didn't get to sleep until like 1 or something."
+  },
+  {
+   "start": 30.0,
+   "end": 35.0,
+   "text": "I had a little bit of that because I was in there working at the Plimer came."
+  },
+  {
+   "start": 35.0,
+   "end": 42.0,
+   "text": "I finally had my mom call a Plimer and I put a whole new fixture in there."
+  },
+  {
+   "start": 42.0,
+   "end": 48.0,
+   "text": "Working from 10 to 1 and my mom came over and was hanging out at the beginning."
+  },
+  {
+   "start": 48.0,
+   "end": 53.0,
+   "text": "I have the monor, and it's a lot easier to adjust and it gets hot and it doesn't leak."
+  },
+  {
+   "start": 53.0,
+   "end": 55.0,
+   "text": "It's not going to get tons better."
+  },
+  {
+   "start": 55.0,
+   "end": 64.0,
+   "text": "It's like 500 bucks but my shower stopped working because the hot water when you turn it on just stopped doing anything."
+  },
+  {
+   "start": 64.0,
+   "end": 68.0,
+   "text": "Anyway, I didn't have a shower last night either."
+  },
+  {
+   "start": 68.0,
+   "end": 72.0,
+   "text": "I waited until he got it fixed and since he left I jumped in there."
+  },
+  {
+   "start": 73.0,
+   "end": 77.0,
+   "text": "But yeah, my mom started to get super pissed off."
+  },
+  {
+   "start": 77.0,
+   "end": 82.0,
+   "text": "She's at the end of a rope because I keep getting him and her to give me money."
+  },
+  {
+   "start": 82.0,
+   "end": 85.0,
+   "text": "I had her give me $7,000 over the last couple months."
+  },
+  {
+   "start": 85.0,
+   "end": 92.0,
+   "text": "She sold her house, mom's house and a Virginia to her brother for cash and got money."
+  },
+  {
+   "start": 92.0,
+   "end": 96.0,
+   "text": "So I've been like, siphing it off on to me."
+  },
+  {
+   "start": 96.0,
+   "end": 101.0,
+   "text": "But as long as I borrow a list and my cards were so I really need on Monday."
+  },
+  {
+   "start": 101.0,
+   "end": 104.0,
+   "text": "I'm going to start trying to do everything I can to sell my car."
+  },
+  {
+   "start": 104.0,
+   "end": 106.0,
+   "text": "My mom says to start high."
+  },
+  {
+   "start": 106.0,
+   "end": 109.0,
+   "text": "So I think I'll start at 25 but I'll have it."
+  },
+  {
+   "start": 109.0,
+   "end": 112.0,
+   "text": "I'll sell it for reals this time."
+  },
+  {
+   "start": 112.0,
+   "end": 116.0,
+   "text": "Like last time I didn't include all the photos of the maintenance and stuff and information and the maintenance."
+  },
+  {
+   "start": 116.0,
+   "end": 117.0,
+   "text": "I'll do all that."
+  },
+  {
+   "start": 117.0,
+   "end": 119.0,
+   "text": "I'll curve the maintenance up to date."
+  },
+  {
+   "start": 119.0,
+   "end": 124.0,
+   "text": "I'll take more photos and I'll do YouTube video and I think I'll do like a YouTube video every week."
+  },
+  {
+   "start": 124.0,
+   "end": 129.0,
+   "text": "Like a different commercial like actual commercials like commercial genres."
+  },
+  {
+   "start": 129.0,
+   "end": 132.0,
+   "text": "To help entice people to try to buy my van."
+  },
+  {
+   "start": 132.0,
+   "end": 136.0,
+   "text": "You know, like maybe because it has more commercials that make them."
+  },
+  {
+   "start": 136.0,
+   "end": 139.0,
+   "text": "I feel like, oh that's my van or that's a cool van."
+  },
+  {
+   "start": 139.0,
+   "end": 142.0,
+   "text": "So maybe cool because there's an artistic car."
+  },
+  {
+   "start": 142.0,
+   "end": 145.0,
+   "text": "Like the art beet angles and stuff from the inside the outside."
+  },
+  {
+   "start": 145.0,
+   "end": 148.0,
+   "text": "Maybe I could do like mock trips and stuff."
+  },
+  {
+   "start": 148.0,
+   "end": 150.0,
+   "text": "I could have fun with it."
+  },
+  {
+   "start": 151.0,
+   "end": 154.0,
+   "text": "And you know between when it's good weather."
+  },
+  {
+   "start": 154.0,
+   "end": 160.0,
+   "text": "Yesterday I was spending my time working on the bike race level page stuff realizing how that I really did."
+  },
+  {
+   "start": 160.0,
+   "end": 162.0,
+   "text": "Just leave a lot of it in the state of abandonment."
+  },
+  {
+   "start": 162.0,
+   "end": 166.0,
+   "text": "Which makes it super like you can get a lockdown in a stroke or at a time."
+  },
+  {
+   "start": 166.0,
+   "end": 168.0,
+   "text": "It's tempting but."
+  },
+  {
+   "start": 168.0,
+   "end": 170.0,
+   "text": "I didn't finish in fish fish fish."
+  },
+  {
+   "start": 170.0,
+   "end": 172.0,
+   "text": "I didn't finish getting my pictures."
+  },
+  {
+   "start": 172.0,
+   "end": 173.0,
+   "text": "I need to do that."
+  },
+  {
+   "start": 173.0,
+   "end": 174.0,
+   "text": "Just a couple more."
+  },
+  {
+   "start": 174.0,
+   "end": 177.0,
+   "text": "Then I put my stuff back in."
+  },
+  {
+   "start": 178.0,
+   "end": 180.0,
+   "text": "And then I can."
+  },
+  {
+   "start": 180.0,
+   "end": 183.0,
+   "text": "And then."
+  },
+  {
+   "start": 183.0,
+   "end": 186.0,
+   "text": "Yeah, that'd be cool when I get my green screen in the mail."
+  },
+  {
+   "start": 186.0,
+   "end": 188.0,
+   "text": "I'll definitely that'll be a little project."
+  },
+  {
+   "start": 188.0,
+   "end": 191.0,
+   "text": "If you got how to work that."
+  },
+  {
+   "start": 191.0,
+   "end": 193.0,
+   "text": "But yeah, full time."
+  },
+  {
+   "start": 193.0,
+   "end": 196.0,
+   "text": "I told my mom I wouldn't start kind of sell the car full time."
+  },
+  {
+   "start": 196.0,
+   "end": 199.0,
+   "text": "Tell them I need to go because I wanted like Thursday Friday Saturday at Sunday."
+  },
+  {
+   "start": 199.0,
+   "end": 201.0,
+   "text": "Just just work on the bike race level page."
+  },
+  {
+   "start": 201.0,
+   "end": 203.0,
+   "text": "Just because I'm just like."
+  },
+  {
+   "start": 203.0,
+   "end": 206.0,
+   "text": "Didn't because it's something so much with it."
+  },
+  {
+   "start": 207.0,
+   "end": 213.0,
+   "text": "Yeah, I want to get my surface level stuff on the website fixed that probably helped and sell it in my car as well."
+  },
+  {
+   "start": 213.0,
+   "end": 215.0,
+   "text": "That."
+  },
+  {
+   "start": 215.0,
+   "end": 217.0,
+   "text": "Yeah, interest is a bit."
+  },
+  {
+   "start": 217.0,
+   "end": 220.0,
+   "text": "I take $2,000 out."
+  },
+  {
+   "start": 220.0,
+   "end": 221.0,
+   "text": "I."
+  },
+  {
+   "start": 221.0,
+   "end": 222.0,
+   "text": "I."
+  },
+  {
+   "start": 222.0,
+   "end": 229.0,
+   "text": "Line of credit because I forgot I thought I'd have to pay anything from but that's with the credit cards and like before I know what I would nine nine bucks."
+  },
+  {
+   "start": 229.0,
+   "end": 231.0,
+   "text": "I'm interested."
+  },
+  {
+   "start": 231.0,
+   "end": 233.0,
+   "text": "Yeah, time to sell the car."
+  },
+  {
+   "start": 233.0,
+   "end": 235.0,
+   "text": "I tried to last summer but right after I put it on sale."
+  },
+  {
+   "start": 235.0,
+   "end": 239.0,
+   "text": "I got these light problems that took a couple weeks to fix because it was confusing."
+  },
+  {
+   "start": 239.0,
+   "end": 241.0,
+   "text": "I'm inside, but it's still good now."
+  },
+  {
+   "start": 241.0,
+   "end": 244.0,
+   "text": "Oh, and then my rocket box full off after fix that anyways."
+  },
+  {
+   "start": 244.0,
+   "end": 246.0,
+   "text": "So now I think I'll get started."
+  },
+  {
+   "start": 246.0,
+   "end": 252.0,
+   "text": "Oh, it was I listening to well, we were doing rain and then by myself, I do."
+  },
+  {
+   "start": 252.0,
+   "end": 257.0,
+   "text": "Versaiman, that's really good for side TV show."
+  },
+  {
+   "start": 257.0,
+   "end": 261.0,
+   "text": "It's like really realistic and seriously done and it shows all of these days."
+  },
+  {
+   "start": 261.0,
+   "end": 265.0,
+   "text": "I was like the exact kind of show and I would like to record kind of like you got to get a show."
+  },
+  {
+   "start": 265.0,
+   "end": 266.0,
+   "text": "And then they have it."
+  },
+  {
+   "start": 266.0,
+   "end": 269.0,
+   "text": "There's so many historical shows on on eight of Netflix."
+  },
+  {
+   "start": 269.0,
+   "end": 271.0,
+   "text": "It's like it's awesome."
+  },
+  {
+   "start": 271.0,
+   "end": 273.0,
+   "text": "So my TV set up later."
+  },
+  {
+   "start": 273.0,
+   "end": 275.0,
+   "text": "Ooh, I think I've talked for a long enough."
+  },
+  {
+   "start": 275.0,
+   "end": 276.0,
+   "text": "Okay, peace out."
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "youtube_id": "tse5p4rxeBQ",
+ "title": "Living in Boulder Vlog 6 - 18 - 2014",
+ "url": "https://youtu.be/tse5p4rxeBQ",
+ "published_at": "2014-06-19",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a morning vlog from Boulder, recapping a day without paid work where he helped his mother with cleaning and organizing, then worked on his webpage late into the night. He shares his current audiobook rotation method—sampling books in a day to decide which ones to revisit—and briefly mentions titles he's been listening to.",
+  "speaker": "kyle",
+  "topics": [
+   "daily routine",
+   "freelance/cleaning work",
+   "helping family",
+   "web page project",
+   "audiobook method",
+   "book reviews"
+  ],
+  "stances": [
+   {
+    "topic": "irregular work schedule",
+    "position": "accepts cancellations as a downside of his cleaning job without complaint"
+   },
+   {
+    "topic": "audiobook sampling method",
+    "position": "enthusiastically endorses going through an audiobook in one day to decide if it's worth returning to"
+   },
+   {
+    "topic": "some audiobooks",
+    "position": "finds books packed with real information more valuable than flowery, poetic ones that say nothing"
+   }
+  ],
+  "entities": [
+   "Mark Twain",
+   "China Treaty (Mark Twain)",
+   "Mary Rowlandson",
+   "King Philip's War",
+   "Captain Coucon (likely Captain Courageous or similar)",
+   "Boulder",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.21,
+   "end": 6.09,
+   "text": "Hello good morning living with me vlog. I don't know what date is because my computer can't start"
+  },
+  {
+   "start": 7.89,
+   "end": 11.49,
+   "text": "But myself on what no what date is it's Thursday"
+  },
+  {
+   "start": 12.05,
+   "end": 15.05,
+   "text": "Anyways, I didn't work yesterday"
+  },
+  {
+   "start": 17.25,
+   "end": 19.25,
+   "text": "Those with it"
+  },
+  {
+   "start": 19.73,
+   "end": 21.77,
+   "text": "I guess the downside if we're in double-ashing"
+  },
+  {
+   "start": 21.77,
+   "end": 25.29,
+   "text": "Sometimes you don't work necessarily five days a week sometimes people cancel and I guess"
+  },
+  {
+   "start": 26.25,
+   "end": 28.25,
+   "text": "whatever I yesterday"
+  },
+  {
+   "start": 29.21,
+   "end": 35.77,
+   "text": "I worked all morning and then I went over to my mom's house by five and half hours. She wanted me to"
+  },
+  {
+   "start": 36.45,
+   "end": 38.45,
+   "text": "help her do random things"
+  },
+  {
+   "start": 38.45,
+   "end": 40.45,
+   "text": "cleaning house and"
+  },
+  {
+   "start": 40.45,
+   "end": 45.85,
+   "text": "organizing and stuff for business and stuff and then came home and worked until like"
+  },
+  {
+   "start": 48.61,
+   "end": 50.61,
+   "text": "10 o'clock I think so"
+  },
+  {
+   "start": 51.53,
+   "end": 53.53,
+   "text": "Just regular all day"
+  },
+  {
+   "start": 53.53,
+   "end": 55.53,
+   "text": "Um"
+  },
+  {
+   "start": 55.93,
+   "end": 59.41,
+   "text": "But I do work today at seven fifty and I have to show up there"
+  },
+  {
+   "start": 60.09,
+   "end": 67.61,
+   "text": "Which means but we're only doing one place and means I come home early so I can do a lot of work. I'm at our interesting place in my web page web page. I'm working on"
+  },
+  {
+   "start": 70.17,
+   "end": 73.65,
+   "text": "Yeah, I'm getting to the point of seeing what it'll look like in the end"
+  },
+  {
+   "start": 74.93,
+   "end": 79.09,
+   "text": "Then I get to I don't have YouTube page. That's about what's going on with my life"
+  },
+  {
+   "start": 79.57,
+   "end": 81.57,
+   "text": "listening to"
+  },
+  {
+   "start": 81.57,
+   "end": 86.33,
+   "text": "Yesterday it was a China treaty by Mark Twain and then today before that it was"
+  },
+  {
+   "start": 88.37,
+   "end": 90.87,
+   "text": "captivity and restoration by Mary"
+  },
+  {
+   "start": 91.81,
+   "end": 96.03,
+   "text": "Last name in"
+  },
+  {
+   "start": 96.03,
+   "end": 101.63,
+   "text": "King Phillips Warren 1680 pretty interesting in capture by onions and"
+  },
+  {
+   "start": 103.51,
+   "end": 109.15,
+   "text": "Anyways, yeah, it's exciting man. I like this method of you go through an audio book in one day"
+  },
+  {
+   "start": 109.15,
+   "end": 114.99,
+   "text": "Just so you know what it's all about you know the kind of style or whatever if you like it or not and then you just move on to next one"
+  },
+  {
+   "start": 114.99,
+   "end": 118.95,
+   "text": "And then you get to sit out the ones that you really got to get back to you know, I mean some are just"
+  },
+  {
+   "start": 119.79,
+   "end": 121.79,
+   "text": "Crazy interesting like"
+  },
+  {
+   "start": 122.35,
+   "end": 124.35,
+   "text": "Captain Cuckon"
+  },
+  {
+   "start": 124.35,
+   "end": 127.35,
+   "text": "Oh, I did this one China in the Chinese by some guy"
+  },
+  {
+   "start": 128.11,
+   "end": 130.11,
+   "text": "That was really good"
+  },
+  {
+   "start": 130.11,
+   "end": 132.79,
+   "text": "Some are really good actually China treaty by Mark Twain is good too"
+  },
+  {
+   "start": 133.35,
+   "end": 137.79,
+   "text": "So much as jam packed with really good information, you know and some are just flowery"
+  },
+  {
+   "start": 138.31,
+   "end": 141.15,
+   "text": "Poetic plays on words and doesn't mean a chair"
+  },
+  {
+   "start": 141.15,
+   "end": 143.95,
+   "text": "But yeah, I'll do I'll do like book review. Oh, no"
+  },
+  {
+   "start": 144.75,
+   "end": 148.51,
+   "text": "I see something I got oatmeal on my chin. Okay, so"
+  },
+  {
+   "start": 149.79,
+   "end": 154.45,
+   "text": "That's about that same all same all with me just working on my lip page. It's all I do and"
+  },
+  {
+   "start": 155.47,
+   "end": 158.71,
+   "text": "Here's my breakfast same breakfast oatmeal and fruit"
+  },
+  {
+   "start": 160.15,
+   "end": 162.15,
+   "text": "Okay, peace out"
+  }
+ ]
+}

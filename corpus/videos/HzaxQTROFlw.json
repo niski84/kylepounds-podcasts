@@ -1,0 +1,761 @@
+{
+ "youtube_id": "HzaxQTROFlw",
+ "title": "Living in Boulder vlog 11 - 26 - 2018",
+ "url": "https://youtu.be/HzaxQTROFlw",
+ "published_at": "2018-11-26",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about returning to cycling after completing the Old Testament section of his website, describing his first 4-hour-20-minute roller ride in months, his current low fitness level and power output (~160W), and his plans to prioritize riding going forward. He also covers streaming/OBS technical issues, his website project involving Theodor Mommsen's History of Rome, and touches on his complicated relationship with his mother.",
+  "speaker": "kyle",
+  "topics": [
+   "cycling return",
+   "roller training",
+   "power output / watts per kilogram",
+   "website Bible project",
+   "streaming / OBS issues",
+   "fitness and weight",
+   "Theodor Mommsen History of Rome",
+   "family relationship",
+   "Boulder life",
+   "training plan"
+  ],
+  "stances": [
+   {
+    "topic": "his Bible website",
+    "position": "believes it is the best Bible resource in the world and sees finishing it as a major milestone"
+   },
+   {
+    "topic": "Theodor Mommsen's History of Rome",
+    "position": "considers it his favorite book, like an encyclopedia of Ancient Rome"
+   },
+   {
+    "topic": "exercise priority",
+    "position": "now fully committed to cycling first, then running, then swimming — treats riding with the same obsessive focus he previously gave his website"
+   },
+   {
+    "topic": "his mother",
+    "position": "paranoid she will discourage him and prefers to avoid talking to her while pursuing his goals"
+   },
+   {
+    "topic": "current fitness",
+    "position": "openly acknowledges he is out of shape, riding at roughly 1.76–1.82 W/kg, and attributes it partly to excess weight (~190–200 lbs)"
+   }
+  ],
+  "entities": [
+   "Kyle's mother",
+   "Kyle's fiancée",
+   "Theodor Mommsen",
+   "History of Rome",
+   "Strava",
+   "OBS",
+   "Zwift",
+   "Haystack time trial",
+   "Boulder",
+   "Austin"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.43,
+   "end": 19.91,
+   "text": "Hello, Living in Boulder vlog for November 26th. Wow, future goes forward. It's 2.38pm. So this is my first vlog since I decided that I was going to do the exercising again."
+  },
+  {
+   "start": 19.91,
+   "end": 35.29,
+   "text": "So what happened was I finished the Old Testament and it had all these problems with it. And I ended up losing a bunch of stuff. I didn't even want to talk about it because it would stress me out. It was so distressful."
+  },
+  {
+   "start": 35.29,
+   "end": 65.94,
+   "text": "So I, yeah, and then I went riding yesterday and then I realized, oh, wow, yeah, that's definitely what I want to do. I was, I went, so I did my first ride on the rollers yesterday. Started at like nine or something and I went for four hours and 20 minutes. And my bike computer is not calibrated right. It was saying I was going five miles an hour."
+  },
+  {
+   "start": 65.94,
+   "end": 81.18,
+   "text": "So I don't want to look, I haven't had a chance to look into that yet. And I didn't upload the ride to Strava yet because I haven't gotten around to it. Um, I'll, yeah, I'm curious to see if it'll register the watts accurately. It can't do the speed."
+  },
+  {
+   "start": 81.18,
+   "end": 100.5,
+   "text": "And then I'll, when I get around to it, I'll fix the bike computer and make sure that it's good, that it's working right. Um, yesterday I, uh, I didn't get riding until like nine because, um, I got up kind of late and then I had to go to my mom's house for a few hours to help organize her basement."
+  },
+  {
+   "start": 100.5,
+   "end": 109.42,
+   "text": "And then I came back and I would clean my house all day long. I hadn't, um, like, you know, swept her in a vacuum for like months."
+  },
+  {
+   "start": 110.3,
+   "end": 119.44,
+   "text": "So then, so, uh, then I, you know, scrubbed the bathroom and everything and, uh, you know, had to get caught up on regular life stuff."
+  },
+  {
+   "start": 119.44,
+   "end": 129.72,
+   "text": "Um, cause working on the website all the time took me away from other stuff. Maybe not that one's got obsessed. Cause I really wanted to finish the Bible. It's crazy."
+  },
+  {
+   "start": 130.9,
+   "end": 137.2,
+   "text": "Um, but yeah, but now I feel like I have that up. So that's a sense of accomplishment. And so I think that's, that tipped it over."
+  },
+  {
+   "start": 137.74,
+   "end": 148.98,
+   "text": "Cause what I've been doing is I've just been waiting for a point where I feel like my website is good enough to leave and not, not on a, um,"
+  },
+  {
+   "start": 149.44,
+   "end": 156.54,
+   "text": "Not leave, but to take some time off of them, uh, have to share it with other things like exercising. Um,"
+  },
+  {
+   "start": 157.44,
+   "end": 167.56,
+   "text": "And it wasn't a, uh, it wasn't a, um, logical, it's not a logical thing. It's just an emotional thing."
+  },
+  {
+   "start": 167.68,
+   "end": 177.62,
+   "text": "You know, it's hard to determine what's at what level I need my website. Um, um, but yeah, getting those Bibles up,"
+  },
+  {
+   "start": 177.68,
+   "end": 182.86,
+   "text": "That's a good milestone. Um, so, and I think it's the best Bible in the, in the world."
+  },
+  {
+   "start": 183.62,
+   "end": 186.46,
+   "text": "I want to compare it to all the other ones, but I don't think there's that many."
+  },
+  {
+   "start": 187.58,
+   "end": 192.24,
+   "text": "Um, I did look and I didn't find that many and I didn't, I wasn't impressed with what I saw."
+  },
+  {
+   "start": 193.66,
+   "end": 199.34,
+   "text": "So, uh, so yeah, so yesterday I wrote for four hours and 20 minutes. And, uh, so yeah,"
+  },
+  {
+   "start": 199.34,
+   "end": 202.72,
+   "text": "Let me tell you how that goes. My view logs every day are going to be about the writing."
+  },
+  {
+   "start": 202.72,
+   "end": 205.34,
+   "text": "Cause I'm not going to be doing anything else. I'm normally going to be writing."
+  },
+  {
+   "start": 205.34,
+   "end": 208.98,
+   "text": "And then when I can't write anymore, I'll run. And then when I can't run anymore,"
+  },
+  {
+   "start": 208.98,
+   "end": 212.58,
+   "text": "That's when I'll swim. And so I'll always be able to do something."
+  },
+  {
+   "start": 212.72,
+   "end": 216.16,
+   "text": "And if something happens where I can't do any of those three, you know,"
+  },
+  {
+   "start": 216.16,
+   "end": 224.08,
+   "text": "Like my Achilles tendon is torn. My knees are sore and my shoulders sore all at the same time."
+  },
+  {
+   "start": 224.08,
+   "end": 227.54,
+   "text": "Uh, you know, I could probably do the rowing machine. I have a rowing machine,"
+  },
+  {
+   "start": 227.54,
+   "end": 232.0,
+   "text": "So I just want to stay busy. And, uh, and then only do the exercise,"
+  },
+  {
+   "start": 232.0,
+   "end": 236.32,
+   "text": "Do the work on the website. The project I'm working on now is just,"
+  },
+  {
+   "start": 236.38,
+   "end": 240.82,
+   "text": "I want to finish Theodore Momsen, History of Rome. Um,"
+  },
+  {
+   "start": 240.82,
+   "end": 244.56,
+   "text": "I was going to finish it and then start exercising. But then I decided to just go ahead and start"
+  },
+  {
+   "start": 244.56,
+   "end": 251.64,
+   "text": "Writing first. Um, so, uh, yeah, I think that's my favorite book. It's like an encyclopedia of"
+  },
+  {
+   "start": 251.64,
+   "end": 258.04,
+   "text": "Ancient Rome. And, but it's really big. It's 3,263 pages. So it takes forever from my computer"
+  },
+  {
+   "start": 258.04,
+   "end": 263.78,
+   "text": "To work with it. So I'm just going to, not now, but whenever I get around to a couple of days or"
+  },
+  {
+   "start": 263.78,
+   "end": 269.88,
+   "text": "Whatever, I'm going to start working on it. But, you know, while I do other things as a priority."
+  },
+  {
+   "start": 269.88,
+   "end": 273.94,
+   "text": "And then when I see that it's done thinking, cause it takes like 10 minutes to do the each,"
+  },
+  {
+   "start": 274.02,
+   "end": 280.62,
+   "text": "Each little action. So I'll just slowly finish that. And then, uh, that'll be pretty much a"
+  },
+  {
+   "start": 280.62,
+   "end": 284.18,
+   "text": "Milestone. I'll look through all the other books. There's a lot of things that we'll do on my"
+  },
+  {
+   "start": 284.18,
+   "end": 289.1,
+   "text": "Website. So I don't even know. Um, now that I'm writing, maybe I'll start focusing on the cycling"
+  },
+  {
+   "start": 289.1,
+   "end": 296.24,
+   "text": "Sectors. I have a really developed cycling sector on my website. Oh, science, life science,"
+  },
+  {
+   "start": 296.24,
+   "end": 304.3,
+   "text": "Cycle science. Um, and, uh, yeah, that'd be cool to, to, uh, finally explain that and develop that."
+  },
+  {
+   "start": 304.3,
+   "end": 311.38,
+   "text": "So anyways, um, so as far as the writing goes, I, uh, I was, um, yeah, I mean, it's fun to write"
+  },
+  {
+   "start": 311.38,
+   "end": 315.22,
+   "text": "Everything. Obviously I'm really out of shape. Somebody commented on my, I streamed it. I'm going"
+  },
+  {
+   "start": 315.22,
+   "end": 319.2,
+   "text": "To stream everything now. And they were like, yeah, it looks like you're doing two to three"
+  },
+  {
+   "start": 319.2,
+   "end": 324.5,
+   "text": "Watts per kilogram. So let's two to three Watts per kilogram. I'm going to look on my website"
+  },
+  {
+   "start": 324.5,
+   "end": 329.22,
+   "text": "And I'm going to see what he's talking about. Cause I'll see if that's accurate. Cause yeah,"
+  },
+  {
+   "start": 329.26,
+   "end": 338.86,
+   "text": "I wasn't going very fast. So let's see here. Um, two to three Watts per kilogram. Um,"
+  },
+  {
+   "start": 338.86,
+   "end": 356.92,
+   "text": "So 7.8, that's if you're going 31 miles an hour. Um, one point, um, Oh, okay. Let's see two"
+  },
+  {
+   "start": 356.92,
+   "end": 362.36,
+   "text": "To three. All right, here we go for a 200 pound dude, which is what I am pretty much. I'm like"
+  },
+  {
+   "start": 362.36,
+   "end": 369.48,
+   "text": "One 90 2.65 Watts per kilogram. It's going to get me 24 miles an hour on a trip on a triathlon"
+  },
+  {
+   "start": 369.48,
+   "end": 385.12,
+   "text": "Bike on a triathlon time trial bike. Um, um, 240 Watts. Yeah, no, I wasn't riding no 240 to 250"
+  },
+  {
+   "start": 385.12,
+   "end": 392.56,
+   "text": "Watts. I was riding at about 160 Watts. So my, my strength to weight ratio, hang on, I'll tell"
+  },
+  {
+   "start": 392.56,
+   "end": 398.02,
+   "text": "You what my, and this is, this is off my website, not off of my computer. My strength to weight"
+  },
+  {
+   "start": 398.02,
+   "end": 406.5,
+   "text": "Ratio, um, at 160 Watts for 200 pounds. Yeah, I was, I was running at about 1.76 to 1.82 Watts"
+  },
+  {
+   "start": 406.5,
+   "end": 414.26,
+   "text": "Per kilogram, not two to three, two to three is way too fast. Um, but I'm a fat ass. Um, once I get"
+  },
+  {
+   "start": 414.26,
+   "end": 422.42,
+   "text": "Down to 150 pounds, I'm not going to have to, I'm not going to have to, uh, I will be able to"
+  },
+  {
+   "start": 422.42,
+   "end": 430.98,
+   "text": "Ride that two to three Watts per kilogram. My, uh, 20 kilometer time trial best is 21 miles"
+  },
+  {
+   "start": 430.98,
+   "end": 437.62,
+   "text": "An hour, which is level 45, which puts me into, here, let's see what this says, puts me into,"
+  },
+  {
+   "start": 437.62,
+   "end": 444.08,
+   "text": "Uh, a bike racer level because I think bike racer starts at 19 miles an hour. And so, yeah,"
+  },
+  {
+   "start": 444.08,
+   "end": 451.32,
+   "text": "That was the 20 K. I think I did a 20 K at around like 35 minutes. The, um, the haystack time"
+  },
+  {
+   "start": 451.32,
+   "end": 457.22,
+   "text": "Trial, which is not a slow time trial. You know, I bet you, it's probably a fast, I would"
+  },
+  {
+   "start": 457.22,
+   "end": 463.38,
+   "text": "Say it's a, it's about as fast of a time trial as you can get because it ends at a lower elevation"
+  },
+  {
+   "start": 463.38,
+   "end": 468.8,
+   "text": "Than it starts. It does have some, uh, rolling hills and the road services are kind of rough,"
+  },
+  {
+   "start": 468.8,
+   "end": 473.72,
+   "text": "But there's, uh, but there's not really that many hills, you know, so I would put it up there"
+  },
+  {
+   "start": 473.72,
+   "end": 479.58,
+   "text": "As a good, good one. Um, so yeah, I'll go and see how I'm doing. Uh, I should probably"
+  },
+  {
+   "start": 479.58,
+   "end": 484.42,
+   "text": "Do a test pretty soon and I'm not going to today. My priority right now is to ride. Like"
+  },
+  {
+   "start": 484.42,
+   "end": 489.54,
+   "text": "I'm addicted to writing like a, like I was addicted to my website before. Now I'm addicted"
+  },
+  {
+   "start": 489.54,
+   "end": 494.88,
+   "text": "To my writing in the same way. Like, um, meaning I'm not a good time manager. I'm not going to"
+  },
+  {
+   "start": 494.88,
+   "end": 501.48,
+   "text": "Go ahead. I'm not going to like upload my Strava ride from yesterday or go right outside"
+  },
+  {
+   "start": 501.48,
+   "end": 507.74,
+   "text": "Or, or, uh, even really have like lunch, you know, I had a little bit of a breakfast this"
+  },
+  {
+   "start": 507.74,
+   "end": 510.82,
+   "text": "Morning. I'm just going to ride. Like all I want to do is ride. And if I get hungry while"
+  },
+  {
+   "start": 510.82,
+   "end": 516.18,
+   "text": "I'm riding, I'll just eat while I ride while I'm streaming. Um, so anyways, let me tell you"
+  },
+  {
+   "start": 516.18,
+   "end": 520.5,
+   "text": "About the ride. Um, so yeah, I'm riding and I'm obviously I'm not in good shape and I'm not"
+  },
+  {
+   "start": 520.5,
+   "end": 523.7,
+   "text": "Producing many Watts. I don't know what I was doing. My computer's broken."
+  },
+  {
+   "start": 523.7,
+   "end": 530.0,
+   "text": "But, uh, okay. What gear was I in? Um, I was about three to four years up from the bottom"
+  },
+  {
+   "start": 530.0,
+   "end": 537.36,
+   "text": "In the back and I have a 52 chain ring in the front. Um, and so the back is like 11. So"
+  },
+  {
+   "start": 537.36,
+   "end": 544.74,
+   "text": "I was like 52, 17, 52, 15 peddling like this. So probably about 160 Watts before four hours,"
+  },
+  {
+   "start": 544.84,
+   "end": 550.18,
+   "text": "20 minutes. And I could have gone longer, but what happened was after about four or five hours,"
+  },
+  {
+   "start": 550.6,
+   "end": 553.68,
+   "text": "I start to get hungry and I need something to eat. So I'm going to bonk."
+  },
+  {
+   "start": 553.7,
+   "end": 559.62,
+   "text": "I start to bonk. And, um, I did feel like I wanted to eat yesterday while I was riding"
+  },
+  {
+   "start": 559.62,
+   "end": 565.62,
+   "text": "Because it was my first ride and my stomach would not do very well. I would get stomach"
+  },
+  {
+   "start": 565.62,
+   "end": 571.56,
+   "text": "Ache and, uh, maybe feel like barfing even. Um, I went out the last time I went on a mountain"
+  },
+  {
+   "start": 571.56,
+   "end": 577.92,
+   "text": "Bike ride. I almost threw up because I did two laps of potassium preserve and I like, I was"
+  },
+  {
+   "start": 577.92,
+   "end": 583.5,
+   "text": "Way too much exercise and I was like almost threw up on the way home. So, um, I think maybe for now,"
+  },
+  {
+   "start": 583.56,
+   "end": 588.96,
+   "text": "The best thing to do is to just like eat. Well, no, actually that was the best thing to do yesterday."
+  },
+  {
+   "start": 588.96,
+   "end": 592.96,
+   "text": "The best thing to do now is to ride when I feel like I'm going to bonk because I didn't have that"
+  },
+  {
+   "start": 592.96,
+   "end": 597.0,
+   "text": "Bigger breakfast. That's when I'm just going to kind of stop peddling. I'm going to sit up on my"
+  },
+  {
+   "start": 597.0,
+   "end": 600.96,
+   "text": "Thing. I'm not going to turn off stream. I'm going to drink a bunch of my food juice. I'm going to eat"
+  },
+  {
+   "start": 600.96,
+   "end": 605.44,
+   "text": "A bunch of food. Maybe try to eat in the position where you can see me. I don't know. And then just"
+  },
+  {
+   "start": 605.44,
+   "end": 612.08,
+   "text": "Keep riding, you know, that's the best thing. Um, and, uh, yeah. And I got to be honest. I'm super"
+  },
+  {
+   "start": 612.08,
+   "end": 618.83,
+   "text": "Paranoid about my mother. Um, I kind of don't want to talk to my mother unless of course she's,"
+  },
+  {
+   "start": 618.87,
+   "end": 625.55,
+   "text": "She's going to encourage me. Uh, cause, uh, she has a tendency of making me try to stop doing things"
+  },
+  {
+   "start": 625.55,
+   "end": 632.07,
+   "text": "Cause it's like weird or whatever. It's like too much. Who does that? It's like, Oh my God. Anyway,"
+  },
+  {
+   "start": 632.07,
+   "end": 640.33,
+   "text": "I don't want to talk about it. Um, so, um, yeah, so just stay focused. So it's awesome that I got a"
+  },
+  {
+   "start": 640.33,
+   "end": 646.13,
+   "text": "Lot of, uh, encouragement and stuff. So that's, I love it. When I was writing last night, it was two,"
+  },
+  {
+   "start": 646.27,
+   "end": 651.69,
+   "text": "Three in the morning and stuff. And I'd be writing like watching a music video and then, you know,"
+  },
+  {
+   "start": 651.71,
+   "end": 655.83,
+   "text": "And then I go and see, Oh, I wonder, I wonder if I'm still streaming because it kept dropping the stream"
+  },
+  {
+   "start": 655.83,
+   "end": 660.55,
+   "text": "Like four times. It just dropped the stream and I look back and it's not streaming anymore. It's like,"
+  },
+  {
+   "start": 660.55,
+   "end": 666.33,
+   "text": "Geez, thanks. Because yesterday when I, when I turned on the fucking OBS program,"
+  },
+  {
+   "start": 666.87,
+   "end": 672.81,
+   "text": "It just starts streaming. Like I was talking to my fiance on the phone and I, all I did was turn"
+  },
+  {
+   "start": 672.81,
+   "end": 676.31,
+   "text": "On the OBS program, didn't hit start. And she's like, Oh my God, you're streaming. Why are you"
+  },
+  {
+   "start": 676.31,
+   "end": 681.83,
+   "text": "Streaming? Talk to me and streaming. I'm like, I didn't turn it on. So, so, so this OBS program,"
+  },
+  {
+   "start": 681.95,
+   "end": 686.31,
+   "text": "If you turn it on, but you don't hit start, it'll stream. And then if you hit stream,"
+  },
+  {
+   "start": 686.31,
+   "end": 690.33,
+   "text": "It'll only stream for a little bit and then it will stop streaming. So you have to keep"
+  },
+  {
+   "start": 690.33,
+   "end": 696.41,
+   "text": "Continuously hit stream, stream, stream over and over again. So, um, I wasn't, I have gigabit"
+  },
+  {
+   "start": 696.41,
+   "end": 701.03,
+   "text": "Internet, but I don't have it like hardwired because, um, I haven't figured out how to,"
+  },
+  {
+   "start": 701.17,
+   "end": 705.15,
+   "text": "I want to stream with a video camera so that I don't have that computer in front of me. So anyways,"
+  },
+  {
+   "start": 705.25,
+   "end": 709.83,
+   "text": "I don't have that cable. Yeah. Maybe I need to put a cable, ethernet cable so that I can hardwire"
+  },
+  {
+   "start": 709.83,
+   "end": 717.33,
+   "text": "To my mat to my, uh, my, uh, uh, modem. If this keeps dropping, maybe it'll stop from dropping"
+  },
+  {
+   "start": 717.33,
+   "end": 721.87,
+   "text": "Because I think streaming that does require a lot of bandwidth. And so, yeah, I think I definitely"
+  },
+  {
+   "start": 721.87,
+   "end": 726.21,
+   "text": "Need to hardwire. I'll buy a, but I'm not going to buy ethernet cable today because I have one"
+  },
+  {
+   "start": 726.21,
+   "end": 730.35,
+   "text": "Ethernet cable that goes to where my computer is, where it's in front of my TV because it's"
+  },
+  {
+   "start": 730.35,
+   "end": 734.37,
+   "text": "Always losing connection. So I have to reconnect to start to see my TV at my computer. So that's"
+  },
+  {
+   "start": 734.37,
+   "end": 737.53,
+   "text": "Where that ethernet cable goes. And then on the other side of my room is where my bike"
+  },
+  {
+   "start": 737.53,
+   "end": 741.01,
+   "text": "Rollers are. And so I'll have another ethernet cable so I can plug it into my computer for"
+  },
+  {
+   "start": 741.01,
+   "end": 747.61,
+   "text": "When I do that streaming there. Uh, when I stream myself running and when I do, uh, Zwift running,"
+  },
+  {
+   "start": 747.61,
+   "end": 750.53,
+   "text": "I'm going to run on the treadmill here on my big computer. So the computer will be at a"
+  },
+  {
+   "start": 750.53,
+   "end": 757.57,
+   "text": "Different location. So anyways, I'll, um, so, um, okay. I keep trying to get back to the ride."
+  },
+  {
+   "start": 757.65,
+   "end": 762.53,
+   "text": "So I go to the ride. Obviously I'm not very strong and I'm not very good. So the biggest problem"
+  },
+  {
+   "start": 762.53,
+   "end": 767.35,
+   "text": "Was my hips. Uh, my hips were kind of like, what the fuck is going on here?"
+  },
+  {
+   "start": 767.53,
+   "end": 773.99,
+   "text": "Um, you know, like they felt really like, uh, sore, but not in a sore cause I've been exercising"
+  },
+  {
+   "start": 773.99,
+   "end": 777.71,
+   "text": "Too much sore, like a sore, it sores. And then you just got kicked in the balls. Like"
+  },
+  {
+   "start": 777.71,
+   "end": 782.61,
+   "text": "You can kind of feel like the bone kind of wiggling around and the joint sockets and all"
+  },
+  {
+   "start": 782.61,
+   "end": 789.47,
+   "text": "The muscles and tendons around my hips kind of being like, like feeling like, like they're waking"
+  },
+  {
+   "start": 789.47,
+   "end": 795.35,
+   "text": "Up and like feeling like if he, am I hurting or whatever? And just weird, you know, and obviously"
+  },
+  {
+   "start": 795.35,
+   "end": 802.39,
+   "text": "Producing like no power. Um, and then, so yeah, my, my left, I noticed my left leg was"
+  },
+  {
+   "start": 802.39,
+   "end": 807.93,
+   "text": "Hurting more than my right leg. Um, and, and I do remember when I was sitting in my couch"
+  },
+  {
+   "start": 807.93,
+   "end": 812.17,
+   "text": "Before I got this TV, it was my left buttock that started to be sore all the time, just"
+  },
+  {
+   "start": 812.17,
+   "end": 815.71,
+   "text": "From all the pressure of sitting. And then when I started laying in my bed after I got"
+  },
+  {
+   "start": 815.71,
+   "end": 820.87,
+   "text": "The TV a couple of months ago, I noticed that my, my butt never healed. It just kept sore,"
+  },
+  {
+   "start": 820.87,
+   "end": 825.23,
+   "text": "But it just subsided, but it never got better. And so when I started riding, it kind of,"
+  },
+  {
+   "start": 825.23,
+   "end": 829.91,
+   "text": "I think it was acting that up again. It's like I have a knot and not in my one part of"
+  },
+  {
+   "start": 829.91,
+   "end": 836.29,
+   "text": "My butt, my whole butt is a big old knot or whatever, some kind of like soreness. And"
+  },
+  {
+   "start": 836.29,
+   "end": 841.17,
+   "text": "Then of course it was all my leg and even my left knee, my left side actually, um, I had"
+  },
+  {
+   "start": 841.17,
+   "end": 845.47,
+   "text": "An injury, uh, sprained my ankle really bad on the left side when I was like 20. And even"
+  },
+  {
+   "start": 845.47,
+   "end": 848.95,
+   "text": "Before that I was tearing it. And then when I went riding or running a couple of times"
+  },
+  {
+   "start": 848.95,
+   "end": 855.13,
+   "text": "A few years ago, before I went to Austin in 2008, I was going to be a triathlete. I even"
+  },
+  {
+   "start": 855.13,
+   "end": 861.15,
+   "text": "Went to a triathlon. I watched it. I did a time trial. I got 33 minutes, 33 minutes, 27 seconds"
+  },
+  {
+   "start": 861.15,
+   "end": 866.93,
+   "text": "From the, um, lines to Boulder, which got me dead last. And the guys, I think I beat like"
+  },
+  {
+   "start": 866.93,
+   "end": 872.21,
+   "text": "Two ladies for like seven years old. Yeah, but I was gonna, I was just about to start to"
+  },
+  {
+   "start": 872.21,
+   "end": 877.21,
+   "text": "Riding and then I got invited on a job down in Austin and I just, my mom, uh, I was living"
+  },
+  {
+   "start": 877.21,
+   "end": 885.21,
+   "text": "With my mom and she's like, kicked me out. Um, yeah. So, uh, so anyways, um, I, uh, I felt"
+  },
+  {
+   "start": 885.21,
+   "end": 886.21,
+   "text": "Good."
+  }
+ ]
+}

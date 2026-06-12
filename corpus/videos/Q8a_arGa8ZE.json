@@ -1,0 +1,86 @@
+{
+ "youtube_id": "Q8a_arGa8ZE",
+ "title": "Hobos should live at the Library in exchange for Google Earthing the local town",
+ "url": "https://youtu.be/Q8a_arGa8ZE",
+ "published_at": "2016-02-21",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle proposes that homeless people and van dwellers should offer services — specifically creating Google Earth historical records of local towns — in exchange for permission to camp on library property and receive food. He frames it as a mutually beneficial barter system between transient individuals and local municipalities.",
+  "speaker": "kyle",
+  "topics": [
+   "homelessness",
+   "barter economy",
+   "van dwelling",
+   "Google Earth",
+   "local history",
+   "libraries",
+   "travel"
+  ],
+  "stances": [
+   {
+    "topic": "homeless people and public spaces",
+    "position": "Should be allowed to exchange services for access to city resources like library grounds"
+   },
+   {
+    "topic": "barter system for transients",
+    "position": "Thinks it's a cool, practical model for nomadic living in the modern age"
+   },
+   {
+    "topic": "van dwellers",
+    "position": "Should consider the library-barter approach if their van breaks down as an alternative to moving on"
+   }
+  ],
+  "entities": [
+   "Google Earth"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.3,
+   "end": 17.06,
+   "text": "Hello. Homeless people should be allowed to exchange their services for services of the city."
+  },
+  {
+   "start": 17.06,
+   "end": 45.06,
+   "text": "For example, if some homeless guy rides his bike into some town, what he should do is go to the local mayor and tell the mayor that the mayor needs to let him camp out in the library front lawn in exchange and solicit food from people in exchange for being able to..."
+  },
+  {
+   "start": 45.06,
+   "end": 60.2,
+   "text": "You know, so that he can hang out in the library all day long and create, like, history of the local town on Google Earth and then give it to the library or the Google Earth, the local history of the local area."
+  },
+  {
+   "start": 60.2,
+   "end": 80.2,
+   "text": "And then that, you know, and then that same homeless person can then ride his bike or walk to the next town and do the next thing at the next town, camp in the front lawn in exchange for rebuilding their city on Google Earth at their local library."
+  },
+  {
+   "start": 80.2,
+   "end": 89.38,
+   "text": "That'd be a really cool way to be, like, a traveling willberry, you know, like a wandering sawdew of the modern age. Don't you think?"
+  },
+  {
+   "start": 90.38,
+   "end": 94.84,
+   "text": "Y'all should do it. I think I have a lot of van dwellers. You know, if your van breaks down, you should try that."
+  },
+  {
+   "start": 94.92,
+   "end": 101.12,
+   "text": "Or maybe in exchange for parking your van in the library because then you could, you don't even have to go anywhere and just stay in the library."
+  },
+  {
+   "start": 101.12,
+   "end": 108.94,
+   "text": "And they're like, oh, yeah. And then you can do, like, weekly status upgrades, updates with the head of the library and head librarian and stuff."
+  },
+  {
+   "start": 109.94,
+   "end": 111.42,
+   "text": "Okay, that was that."
+  }
+ ]
+}

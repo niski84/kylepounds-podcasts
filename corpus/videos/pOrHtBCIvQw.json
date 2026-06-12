@@ -1,0 +1,482 @@
+{
+ "youtube_id": "pOrHtBCIvQw",
+ "title": "Living in Boulder Vlog 11 - 16 - 2016",
+ "url": "https://youtu.be/pOrHtBCIvQw",
+ "published_at": "2016-11-17",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs a morning in Boulder, recounting two mishaps: leaving cricket feeders outside overnight during a cold snap (killing $30 worth of crickets he needed for his geckos) and repeatedly losing hours of Google Earth tracing work to crashes. He shares his workflow for a detailed cartoon map of Boulder County, including all towns, roads, and county boundaries, and notes his leg pain from extended sitting.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "pet care mishap",
+   "weed/cannabis effects",
+   "Google Earth mapping project",
+   "window/gutter cleaning work",
+   "leg pain/physical health",
+   "Boulder County cartography"
+  ],
+  "stances": [
+   {
+    "topic": "cannabis/weed",
+    "position": "Weed gives you a false sense of 'it'll be fine' that leads to dumb mistakes like leaving crickets out in the cold"
+   },
+   {
+    "topic": "memory as a coping mechanism",
+    "position": "Having a good memory is a silver lining — he'll remember not to repeat this mistake"
+   },
+   {
+    "topic": "Google Earth workflow",
+    "position": "Saving towns as individual smaller files instead of one large file prevents crashes and lost work"
+   }
+  ],
+  "entities": [
+   "Boulder County",
+   "Sugarloaf",
+   "Jamestown",
+   "Allen's Park",
+   "Primo's",
+   "Latinium/Kingdom of Rome (Latin territory comparison)",
+   "Google Earth"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.44,
+   "end": 7.18,
+   "text": "Hello, Living in Boulder V-Log for, I guess, Wednesday, November 16th."
+  },
+  {
+   "start": 7.66,
+   "end": 15.14,
+   "text": "Um, I just got up, it's 8-7-14, I can't remember how late I was working last night, but midnight"
+  },
+  {
+   "start": 15.14,
+   "end": 15.72,
+   "text": "Or something."
+  },
+  {
+   "start": 16.4,
+   "end": 23.87,
+   "text": "Um, yeah, I'm not working the rest of the week because it's cold, but last night I put"
+  },
+  {
+   "start": 23.87,
+   "end": 29.47,
+   "text": "My crickets in my things, but then I put them outside, knowing that I was going to have"
+  },
+  {
+   "start": 29.47,
+   "end": 30.01,
+   "text": "A cold spell."
+  },
+  {
+   "start": 30.01,
+   "end": 32.83,
+   "text": "I even knew in my head, I was like, oh, we're going to have a cold spell, and I was like,"
+  },
+  {
+   "start": 32.91,
+   "end": 38.39,
+   "text": "Oh, but it's like so warm out today, it was like summer yesterday, so I was like, put"
+  },
+  {
+   "start": 38.39,
+   "end": 43.49,
+   "text": "It outside, and I, and then I woke up this morning and I looked outside and I was like,"
+  },
+  {
+   "start": 43.55,
+   "end": 44.65,
+   "text": "Oh my god, the crickets."
+  },
+  {
+   "start": 46.35,
+   "end": 50.79,
+   "text": "So I got them all, it looks like they're all dead, and then I looked and somehow my geckos"
+  },
+  {
+   "start": 50.79,
+   "end": 56.05,
+   "text": "Ate all their crickets, and so I just lost 30 bucks, and maybe I have to even go to the"
+  },
+  {
+   "start": 56.05,
+   "end": 61.17,
+   "text": "Store to buy more crickets instead of, you know, on top of order more."
+  },
+  {
+   "start": 61.71,
+   "end": 63.97,
+   "text": "So, that's what weed does, man."
+  },
+  {
+   "start": 64.33,
+   "end": 70.59,
+   "text": "Like, sometimes weed, for me, I mean, it's, it like, somehow it puts some kind of mind"
+  },
+  {
+   "start": 70.59,
+   "end": 74.89,
+   "text": "Trick on you, and it says, oh no, it'll be alright, like, don't worry about it, you know."
+  },
+  {
+   "start": 74.89,
+   "end": 81.19,
+   "text": "So, and then, you know, like, just trust you have everything or something, and it's"
+  },
+  {
+   "start": 81.19,
+   "end": 88.35,
+   "text": "Like, you almost need to set an artificial, uh, artificial checklist or something for"
+  },
+  {
+   "start": 88.35,
+   "end": 90.97,
+   "text": "Stoners, because they're like, oh, whatever."
+  },
+  {
+   "start": 92.25,
+   "end": 96.13,
+   "text": "So, yeah, I don't know, I don't think they're going to come back to life, I think I killed"
+  },
+  {
+   "start": 96.13,
+   "end": 101.41,
+   "text": "All my crickets, so I'll just dispose them, all of them, and just order more crickets, and"
+  },
+  {
+   "start": 101.41,
+   "end": 107.57,
+   "text": "Just, one thing that's going for me, is that I have a really good memory, so I'll always"
+  },
+  {
+   "start": 107.57,
+   "end": 112.91,
+   "text": "Remember that I did this, and so, next time I, I'm putting crickets outside, knowing that"
+  },
+  {
+   "start": 112.91,
+   "end": 117.11,
+   "text": "There's going to be a cold spell that night, and it's like, halfway through November, that"
+  },
+  {
+   "start": 117.11,
+   "end": 120.69,
+   "text": "I'll be like, you know what, this isn't, this is a Tusa stoner thing to do, don't do that."
+  },
+  {
+   "start": 121.57,
+   "end": 129.54,
+   "text": "So, anyways, um, um, so what did I do yesterday?"
+  },
+  {
+   "start": 129.66,
+   "end": 132.02,
+   "text": "I came home, I had worked, like, all day yesterday."
+  },
+  {
+   "start": 132.02,
+   "end": 134.48,
+   "text": "Somebody commented, they're like, oh, you install gutters?"
+  },
+  {
+   "start": 134.6,
+   "end": 137.44,
+   "text": "No, no, no, I clean windows, but then I, sometimes I clean gutters."
+  },
+  {
+   "start": 138.1,
+   "end": 141.46,
+   "text": "So, I was cleaning, but I was cleaning gutters yesterday, and right next door, there were"
+  },
+  {
+   "start": 141.46,
+   "end": 143.82,
+   "text": "These guys installing gutters, so that's trippy."
+  },
+  {
+   "start": 145.18,
+   "end": 155.54,
+   "text": "Um, yeah, and, uh, then I came home, and, uh, it was like, you know, for, I worked for,"
+  },
+  {
+   "start": 155.64,
+   "end": 160.32,
+   "text": "Like, two hours, two hours and sixteen minutes, and then, uh, Google Earth crashed on me."
+  },
+  {
+   "start": 160.32,
+   "end": 166.38,
+   "text": "Um, I think I'm going to mute, um, take this down, so I don't look at myself for the first"
+  },
+  {
+   "start": 166.38,
+   "end": 169.3,
+   "text": "Time, and just assume that it keeps recording."
+  },
+  {
+   "start": 169.56,
+   "end": 184.38,
+   "text": "Um, I, uh, came home, and, um, was, uh, working for two hours, sixteen minutes, and then my Google"
+  },
+  {
+   "start": 184.38,
+   "end": 189.7,
+   "text": "Earth crashed, and, um, and the two, and the, and that, but that includes, like, I guess,"
+  },
+  {
+   "start": 189.7,
+   "end": 190.54,
+   "text": "Getting a meal."
+  },
+  {
+   "start": 191.28,
+   "end": 197.38,
+   "text": "I, I put all the cities in, um, Sugarloaf and Jamestown, which was, like, 200 each, and"
+  },
+  {
+   "start": 197.38,
+   "end": 199.58,
+   "text": "Then it, I was just about doing Jamestown, it crashed."
+  },
+  {
+   "start": 200.4,
+   "end": 206.28,
+   "text": "So, if you have, like, the file that has all the little buildings, like, like, thousands"
+  },
+  {
+   "start": 206.28,
+   "end": 209.74,
+   "text": "Of them, because of all the little files, it'll crash."
+  },
+  {
+   "start": 209.74,
+   "end": 214.74,
+   "text": "So, um, I changed how I was doing it, instead of just creating more, and making the file"
+  },
+  {
+   "start": 214.74,
+   "end": 220.02,
+   "text": "Bigger, I would just delete it as I go along, so it gets smaller, and then I would just save"
+  },
+  {
+   "start": 220.02,
+   "end": 225.64,
+   "text": "The little towns by themselves, so I can zoom through and not worry about it crashing, because"
+  },
+  {
+   "start": 225.64,
+   "end": 230.08,
+   "text": "It crashed, and, you know, and I lost, like, a couple hours of work, and then I started"
+  },
+  {
+   "start": 230.08,
+   "end": 230.86,
+   "text": "Working again."
+  },
+  {
+   "start": 230.86,
+   "end": 236.94,
+   "text": "And this time I was really paranoid, so I was saving it, and I got, like, halfway through, uh,"
+  },
+  {
+   "start": 237.22,
+   "end": 243.28,
+   "text": "No, I got, like, all the way through Jamestown, like, for the second time, and it just crashed"
+  },
+  {
+   "start": 243.28,
+   "end": 248.4,
+   "text": "Again, and this was after I took out the, made, I just took the folder out and made it a lot"
+  },
+  {
+   "start": 248.4,
+   "end": 249.56,
+   "text": "Smaller, just for the towns."
+  },
+  {
+   "start": 251.32,
+   "end": 257.02,
+   "text": "And so, and so that's when I decided to just, uh, save them as individual towns."
+  },
+  {
+   "start": 257.02,
+   "end": 263.76,
+   "text": "And, yeah, I make sure that I get it smaller as I go along, so, and it hasn't crashed since,"
+  },
+  {
+   "start": 263.82,
+   "end": 271.1,
+   "text": "So, and I did a few more towns, so, yeah, I did, um, Sugarloaf, Jamestown, Allen's Park,"
+  },
+  {
+   "start": 272.38,
+   "end": 281.34,
+   "text": "Um, Primo's, yeah, well, I did them before, but, yeah, so, today's gonna be an all-out day."
+  },
+  {
+   "start": 282.22,
+   "end": 283.94,
+   "text": "Man, my leg was hurting, though."
+  },
+  {
+   "start": 283.94,
+   "end": 293.68,
+   "text": "I was laying in bed here, um, I have my wee, like, right above my head, and so, and I haven't"
+  },
+  {
+   "start": 293.68,
+   "end": 297.16,
+   "text": "Been doing this for so long, very long, but when I get up, like, when I first wake up,"
+  },
+  {
+   "start": 297.44,
+   "end": 302.58,
+   "text": "I like to get really high and then lay, lay down again, because I love sleeping when I'm"
+  },
+  {
+   "start": 302.58,
+   "end": 308.66,
+   "text": "Really relaxed and sleep easily while I'm high, and then I'll get up, and so, yeah, so as I was"
+  },
+  {
+   "start": 308.66,
+   "end": 313.76,
+   "text": "Laying there, I was still kind of awake, and my leg was really hurting, dude, really bad,"
+  },
+  {
+   "start": 313.82,
+   "end": 319.96,
+   "text": "My right hamstring, from all the pressure sitting in my chair, so, um, yeah, I don't think I can"
+  },
+  {
+   "start": 319.96,
+   "end": 320.86,
+   "text": "Sit on a chair anymore."
+  },
+  {
+   "start": 320.86,
+   "end": 327.1,
+   "text": "I can ride on the bike, I was doing that before, but I can't do that when I'm tracing"
+  },
+  {
+   "start": 327.1,
+   "end": 333.8,
+   "text": "Stuff, and, um, when I'm in full steam, yeah, because I think I want to, uh, do all of the"
+  },
+  {
+   "start": 333.8,
+   "end": 334.18,
+   "text": "Towns."
+  },
+  {
+   "start": 334.18,
+   "end": 337.92,
+   "text": "Yeah, I'm working on lions now."
+  },
+  {
+   "start": 338.14,
+   "end": 341.02,
+   "text": "I want to do all of the towns in Boulder County."
+  },
+  {
+   "start": 341.4,
+   "end": 346.04,
+   "text": "Oh, yeah, and I didn't just, it wasn't just, uh, Sugarloaf and Jamestown."
+  },
+  {
+   "start": 346.5,
+   "end": 355.48,
+   "text": "I traced the entire Boulder County, um, making some modifications in the bottom, and then, uh,"
+  },
+  {
+   "start": 356.8,
+   "end": 362.4,
+   "text": "Um, yeah, I got rid of a lot of extraneous stuff, and, uh, yeah, I did some other stuff,"
+  },
+  {
+   "start": 362.4,
+   "end": 368.06,
+   "text": "Too, so, uh, but whatever, it's always faster the next time, second time you do it, um, but"
+  },
+  {
+   "start": 368.06,
+   "end": 373.78,
+   "text": "Yeah, the goal is to, uh, do all the towns, and then all the roads, and I did all the roads"
+  },
+  {
+   "start": 373.78,
+   "end": 381.86,
+   "text": "Already, so all the roads between them, and then, the reason I have a background on it,"
+  },
+  {
+   "start": 381.92,
+   "end": 387.42,
+   "text": "Like a solid level layer, is to just block out all this world, you know what I mean, trying"
+  },
+  {
+   "start": 387.42,
+   "end": 391.96,
+   "text": "To make your own world, and, uh, that's, that, that completes the cartoon world, but if"
+  },
+  {
+   "start": 391.96,
+   "end": 397.4,
+   "text": "You do that, you have to have it really detailed, so that it doesn't look blank, and unrealistic,"
+  },
+  {
+   "start": 397.6,
+   "end": 403.02,
+   "text": "Because it's just a blank canvas, you know, so, I think at the end of making all of the towns,"
+  },
+  {
+   "start": 403.02,
+   "end": 408.52,
+   "text": "I'm going to, uh, I'm going to make, like, the out, like, the farmers, I'll make, I'll make, like,"
+  },
+  {
+   "start": 408.84,
+   "end": 414.9,
+   "text": "Rich guy territories, estates, and then farmers, maybe throughout the entire freaking,"
+  },
+  {
+   "start": 414.9,
+   "end": 424.0,
+   "text": "I probably will, the entire, uh, county, and, and, and this is really trippy, I said it the other day,"
+  },
+  {
+   "start": 424.0,
+   "end": 433.56,
+   "text": "But, um, Boulder County is the exact same size as, as Latinia, like, the Latins, you know,"
+  },
+  {
+   "start": 433.6,
+   "end": 437.6,
+   "text": "Like, the Kingdom of Rome, if you were to put, like, I'll belong in Rome together, same size,"
+  },
+  {
+   "start": 437.6,
+   "end": 445.12,
+   "text": "So, uh, yeah, so, I don't know, maybe I'll do it to some extent over there, too, I mean, in Italy,"
+  },
+  {
+   "start": 445.48,
+   "end": 452.14,
+   "text": "You know, the roads between them and stuff, anyway, so, I'm going to get to work, how, how many long"
+  },
+  {
+   "start": 452.14,
+   "end": 457.48,
+   "text": "Time have I been talking, because, oh, wow, yeah, it's supposed to be five, just eight minutes,"
+  },
+  {
+   "start": 458.18,
+   "end": 462.76,
+   "text": "They said, the person said, and it's, and we're just under eight, okay, so, peace out!"
+  }
+ ]
+}

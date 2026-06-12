@@ -1,0 +1,405 @@
+{
+ "youtube_id": "GSt8_K8PRyc",
+ "title": "Living in Boulder vlog 4 - 12 - 18: Recording Audiobooks Chapters",
+ "url": "https://youtu.be/GSt8_K8PRyc",
+ "published_at": "2018-04-13",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs at 6-7am after pulling an all-nighter working on his audio history project. He describes recording and editing Wikipedia articles (organized by era) and free audiobook history pages from his website, with a plan to upload them to YouTube with synchronized highlighted text. He outlines a study system using these recordings on MP3 players, paired with history tests every two weeks.",
+  "speaker": "kyle",
+  "topics": [
+   "audiobook recording",
+   "Wikipedia audio project",
+   "YouTube content creation",
+   "history study system",
+   "insomnia/all-nighter",
+   "file organization",
+   "Boulder vlog"
+  ],
+  "stances": [
+   {
+    "topic": "audio history project",
+    "position": "deeply committed, willing to go sleepless to finish recording and editing"
+   },
+   {
+    "topic": "YouTube upload plan",
+    "position": "wants to pair audio with highlighted text so viewers can read along"
+   },
+   {
+    "topic": "study system design",
+    "position": "believes a structured listen-then-test cycle every two weeks is the right way to learn history without burnout"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Wikipedia",
+   "YouTube",
+   "Kendall and Loverbuck (website with free audio history books)",
+   "America (country being recorded currently)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 4.0,
+   "text": "Hello, I'm glad I did an old B-log."
+  },
+  {
+   "start": 8.75,
+   "end": 10.75,
+   "text": "I can't remember what time it is, what date it is."
+  },
+  {
+   "start": 12.03,
+   "end": 17.87,
+   "text": "But it's like the 12th, but the time is like 6 or 7 in the morning or something."
+  },
+  {
+   "start": 18.43,
+   "end": 22.35,
+   "text": "I never went to sleep last night, I've been working so yesterday."
+  },
+  {
+   "start": 23.47,
+   "end": 24.19,
+   "text": "I got up."
+  },
+  {
+   "start": 26.59,
+   "end": 29.07,
+   "text": "Whenever my mom saw something, I was so stuck in bed."
+  },
+  {
+   "start": 29.07,
+   "end": 40.27,
+   "text": "I was stretched in the song, but mainly on a chopping down these recorded Wikipedia articles from"
+  },
+  {
+   "start": 42.27,
+   "end": 44.99,
+   "text": "zero to 2000 in the decades, 200 decades."
+  },
+  {
+   "start": 46.51,
+   "end": 49.39,
+   "text": "I recorded them before, but I was making sure that they were all cut,"
+  },
+  {
+   "start": 49.39,
+   "end": 51.47,
+   "text": "probably still got 15 minutes to go through."
+  },
+  {
+   "start": 52.35,
+   "end": 54.35,
+   "text": "On both sides of the beginning and the end."
+  },
+  {
+   "start": 54.35,
+   "end": 60.03,
+   "text": "And then, yeah, I'm putting them together and then, you know, transferring stuff,"
+  },
+  {
+   "start": 60.03,
+   "end": 62.67,
+   "text": "organizing my files to keep space."
+  },
+  {
+   "start": 63.71,
+   "end": 64.51,
+   "text": "I'm like computer."
+  },
+  {
+   "start": 66.51,
+   "end": 74.66,
+   "text": "And, uh, and uh, making it, making it,"
+  },
+  {
+   "start": 77.22,
+   "end": 78.74,
+   "text": "this big of a file as I can."
+  },
+  {
+   "start": 79.14,
+   "end": 83.62,
+   "text": "I have two files for the 20th century Wikipedia articles,"
+  },
+  {
+   "start": 83.7,
+   "end": 86.9,
+   "text": "zero to 50, 90, 50 in the 1950 to 1999."
+  },
+  {
+   "start": 87.78,
+   "end": 92.58,
+   "text": "And then I'll have four for the 80, 0 to 500, 500 to 1000, 500,"
+  },
+  {
+   "start": 92.58,
+   "end": 93.7,
+   "text": "your increments."
+  },
+  {
+   "start": 95.06,
+   "end": 97.38,
+   "text": "And I think you hear that, but that's I'm recording."
+  },
+  {
+   "start": 98.02,
+   "end": 103.38,
+   "text": "So yeah, also recording all of the audio history book, pre-adjustory book,"
+  },
+  {
+   "start": 104.1,
+   "end": 107.3,
+   "text": "pages on my website from Kendall and Loverbuck."
+  },
+  {
+   "start": 110.27,
+   "end": 118.75,
+   "text": "Um, I, um, I'm doing America right now."
+  },
+  {
+   "start": 118.75,
+   "end": 125.39,
+   "text": "I wanted to put those, um, I got the idea today that I want to put the Wikipedia as well as my, um,"
+  },
+  {
+   "start": 127.63,
+   "end": 131.47,
+   "text": "free audio history books on YouTube, out of the recording."
+  },
+  {
+   "start": 131.87,
+   "end": 137.31,
+   "text": "So you can hear it, but also be highlighting as it's reading, so that you can see it too."
+  },
+  {
+   "start": 138.19,
+   "end": 141.55,
+   "text": "And then upload and was playlists that you can play them all at once."
+  },
+  {
+   "start": 142.43,
+   "end": 146.11,
+   "text": "You want to and then if you ever want to look at what you're hearing,"
+  },
+  {
+   "start": 146.11,
+   "end": 147.63,
+   "text": "you can see it actually read it too."
+  },
+  {
+   "start": 148.75,
+   "end": 152.51,
+   "text": "So, um, yeah, that'll be a whole bunch of videos and playlists."
+  },
+  {
+   "start": 153.07,
+   "end": 155.39,
+   "text": "So that's what all I want to focus to go now."
+  },
+  {
+   "start": 158.75,
+   "end": 165.15,
+   "text": "I'm, um, I want to just land that, you know, because now I want to have a problem with insomnia at all."
+  },
+  {
+   "start": 165.71,
+   "end": 168.35,
+   "text": "Until I'm done recording that. So when I record all the audio history books,"
+  },
+  {
+   "start": 168.35,
+   "end": 172.11,
+   "text": "I'll do America and then, but two countries, so it'll take a while."
+  },
+  {
+   "start": 173.23,
+   "end": 177.55,
+   "text": "But, uh, yeah, I can just land that and listen to that and it's just thing to listen to."
+  },
+  {
+   "start": 178.35,
+   "end": 181.71,
+   "text": "And then after that, I'm going to start writing the bike on the rollers."
+  },
+  {
+   "start": 182.43,
+   "end": 187.71,
+   "text": "And, uh, that's what I'll do. The tracing and that'll take a long time. The, uh,"
+  },
+  {
+   "start": 187.71,
+   "end": 191.47,
+   "text": "because I'm doing Wikipedia as well as my audio history book pages."
+  },
+  {
+   "start": 192.11,
+   "end": 203.97,
+   "text": "Ah, um, the 20th century is like 23 on the 24 hours solid."
+  },
+  {
+   "start": 203.97,
+   "end": 206.13,
+   "text": "And that's so then I have to do."
+  },
+  {
+   "start": 209.33,
+   "end": 213.89,
+   "text": "The AD zero to two, thousand, and all are BC's. When you first century at all,"
+  },
+  {
+   "start": 213.89,
+   "end": 218.69,
+   "text": "you create a history books. So there reason that I'm doing all of this"
+  },
+  {
+   "start": 218.69,
+   "end": 223.97,
+   "text": "is, yeah, I'm gonna start, you know, right in my back all the time, but I'm gonna be organized"
+  },
+  {
+   "start": 223.97,
+   "end": 229.21,
+   "text": "when I stop smoking, we don't even organize video, I just read my plan that I have where you"
+  },
+  {
+   "start": 229.21,
+   "end": 233.69,
+   "text": "listen to the artistry book and then you do the video about it that night."
+  },
+  {
+   "start": 233.69,
+   "end": 239.21,
+   "text": "I've been every two weeks, you take your history test."
+  },
+  {
+   "start": 239.21,
+   "end": 247.02,
+   "text": "And so you would listen to, you know, one of the files of the theme-tire, or all the files"
+  },
+  {
+   "start": 247.02,
+   "end": 256.1,
+   "text": "of the entire history, so the test you're gonna do, I'm just reading it all, I can edit it later."
+  },
+  {
+   "start": 256.1,
+   "end": 266.66,
+   "text": "So yeah, and so I'm gonna put all those on all of my MP3 players, as big files, but"
+  },
+  {
+   "start": 266.66,
+   "end": 270.26,
+   "text": "I can just listen to it, I'm like six hours long."
+  },
+  {
+   "start": 270.26,
+   "end": 272.5,
+   "text": "And so that's the backbone of history."
+  },
+  {
+   "start": 272.5,
+   "end": 281.14,
+   "text": "It's the Wikipedia, and then the contents of all of the free history books that you can get."
+  },
+  {
+   "start": 281.14,
+   "end": 299.03,
+   "text": "And, yeah, and then from that you would decide what you want to listen to, apart, you know,"
+  },
+  {
+   "start": 299.03,
+   "end": 303.35,
+   "text": "like the different audiobooks, you would listen to the list, and then you would know what the"
+  },
+  {
+   "start": 303.35,
+   "end": 308.03,
+   "text": "list is, so you would always know what you want to listen to next, and it can be at the"
+  },
+  {
+   "start": 308.03,
+   "end": 309.83,
+   "text": "entire range."
+  },
+  {
+   "start": 309.83,
+   "end": 317.19,
+   "text": "So it'll keep your interest, paint without, you know, burning out on certain subjects, and"
+  },
+  {
+   "start": 317.19,
+   "end": 318.19,
+   "text": "same thing with the Wikipedia."
+  },
+  {
+   "start": 318.19,
+   "end": 323.11,
+   "text": "You know, when you listen to Wikipedia, listen to the history, the list these things you go"
+  },
+  {
+   "start": 323.11,
+   "end": 324.11,
+   "text": "away, what happened?"
+  },
+  {
+   "start": 324.11,
+   "end": 326.71,
+   "text": "Then you want to read the article of that."
+  },
+  {
+   "start": 326.71,
+   "end": 333.71,
+   "text": "So yeah, so I want to make those YouTube videos and then link them to my website."
+  },
+  {
+   "start": 333.71,
+   "end": 343.35,
+   "text": "Oh, well, so linking, declining polaromanation to the virus level and back and forth right now."
+  },
+  {
+   "start": 343.35,
+   "end": 348.23,
+   "text": "We did a good time at doing that, because it takes my computer like a half hour to get it"
+  },
+  {
+   "start": 348.23,
+   "end": 349.23,
+   "text": "next up."
+  },
+  {
+   "start": 349.23,
+   "end": 355.47,
+   "text": "So my busy doing this other stuff, I just see when it's done, and I just do it like it was just"
+  },
+  {
+   "start": 355.47,
+   "end": 356.47,
+   "text": "a second ago."
+  },
+  {
+   "start": 356.47,
+   "end": 359.99,
+   "text": "So I don't have to deal with any of it, stress it, taking forever."
+  },
+  {
+   "start": 359.99,
+   "end": 360.99,
+   "text": "It's pretty cool."
+  },
+  {
+   "start": 360.99,
+   "end": 362.99,
+   "text": "So anyways, yeah, that's enough talking."
+  },
+  {
+   "start": 362.99,
+   "end": 365.63,
+   "text": "You can feel it going up the business now."
+  }
+ ]
+}

@@ -1,0 +1,366 @@
+{
+ "youtube_id": "8k-VOPA0ZN0",
+ "title": "Boulder Co Vlog 4/7/18: Roller Rode 3 hrs, 44.69Mi",
+ "url": "https://youtu.be/8k-VOPA0ZN0",
+ "published_at": "2018-04-08",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder, Colorado after a 3-hour, 44.69-mile roller ride on April 7, 2018. He discusses knee pain that forced him to back off intensity, exercise-induced asthma disrupting his sleep, and his plan to swap tomorrow's bike session for running and swimming. He's also looking forward to his first real swim workout using underwater earphones.",
+  "speaker": "kyle",
+  "topics": [
+   "cycling training",
+   "knee pain",
+   "cadence and power management",
+   "exercise-induced asthma",
+   "sleep disruption",
+   "triathlon cross-training",
+   "swimming",
+   "Boulder Colorado vlog"
+  ],
+  "stances": [
+   {
+    "topic": "knee pain management",
+    "position": "ride at 100W and ~85 RPM, not 65 RPM or 150-200W, to protect knees"
+   },
+   {
+    "topic": "exercise-induced asthma",
+    "position": "believes fatigue triggers immune overdrive that causes airway inflammation and breathing difficulty"
+   },
+   {
+    "topic": "tomorrow's training",
+    "position": "will skip biking and do running and swimming to let knees recover"
+   },
+   {
+    "topic": "swimming readiness",
+    "position": "was nervous before but now excited; plans to use underwater earphones"
+   }
+  ],
+  "entities": [
+   "Boulder, Colorado"
+  ],
+  "date": "2018-04-07",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 4.6,
+   "text": "Well, I live in a Boulder Vain log. It's 10.15 on April 7."
+  },
+  {
+   "start": 4.6,
+   "end": 8.0,
+   "text": "She's out, 17.18 on Saturday."
+  },
+  {
+   "start": 8.0,
+   "end": 13.0,
+   "text": "I don't know what the weather's going to be like tomorrow. I'm not going to do tomorrow."
+  },
+  {
+   "start": 13.0,
+   "end": 16.0,
+   "text": "Actually, I do know what I'm going to do tomorrow."
+  },
+  {
+   "start": 16.0,
+   "end": 18.0,
+   "text": "I'm not going to red my bike."
+  },
+  {
+   "start": 19.0,
+   "end": 23.0,
+   "text": "So, yeah, last night I got to sleep. I was up all night."
+  },
+  {
+   "start": 23.0,
+   "end": 29.0,
+   "text": "But now I'm remembering why I've been up all night. I've been able to sleep because I haven't been able to breathe."
+  },
+  {
+   "start": 29.0,
+   "end": 32.0,
+   "text": "Even though I've been sucking down the air in the supplementary moment."
+  },
+  {
+   "start": 32.0,
+   "end": 39.0,
+   "text": "I think what's going on is the general tired feeling from the exercising."
+  },
+  {
+   "start": 39.0,
+   "end": 44.0,
+   "text": "The kick-sendee asthma."
+  },
+  {
+   "start": 44.0,
+   "end": 48.0,
+   "text": "Because asthma is a immune system problem."
+  },
+  {
+   "start": 48.0,
+   "end": 58.0,
+   "text": "The immune system goes into overdrive and puffs up the flesh around the capillaries and protects them from small constaff."
+  },
+  {
+   "start": 58.0,
+   "end": 63.0,
+   "text": "It makes it so that you can still survive, but not destroy your lungs."
+  },
+  {
+   "start": 63.0,
+   "end": 72.0,
+   "text": "So, I think you'll never get tired. That's when I have my immune system pumps that starts the asthma."
+  },
+  {
+   "start": 72.0,
+   "end": 76.0,
+   "text": "I think it goes as tough as the stomach and lean."
+  },
+  {
+   "start": 76.0,
+   "end": 79.0,
+   "text": "Because you sleep well."
+  },
+  {
+   "start": 79.0,
+   "end": 84.0,
+   "text": "So, I sleep well. I had to do some work this morning."
+  },
+  {
+   "start": 84.0,
+   "end": 91.52,
+   "text": "I came back and..."
+  },
+  {
+   "start": 91.52,
+   "end": 97.42,
+   "text": "I rode..."
+  },
+  {
+   "start": 97.42,
+   "end": 104.42,
+   "text": "No, no, no, no, no, no, no. I came back and I was doing some on my computer for a little bit, but then I fell asleep."
+  },
+  {
+   "start": 104.42,
+   "end": 109.42,
+   "text": "So, I jumped in bed and fell asleep. I had my sleep to catch up from last night."
+  },
+  {
+   "start": 109.42,
+   "end": 112.42,
+   "text": "And then got up and rode for three hours."
+  },
+  {
+   "start": 112.42,
+   "end": 116.42,
+   "text": "So, I was thinking about maybe riding for four."
+  },
+  {
+   "start": 117.42,
+   "end": 121.42,
+   "text": "I figured three is enough. I only had one, three hours right before this."
+  },
+  {
+   "start": 121.42,
+   "end": 124.42,
+   "text": "I had to ride extra slow today."
+  },
+  {
+   "start": 124.42,
+   "end": 130.42,
+   "text": "Today my pain and my knee got so bad that I had to actually back off from the riding."
+  },
+  {
+   "start": 130.42,
+   "end": 134.42,
+   "text": "And make sure that I was trying to pedal. I hadn't been riding for very long."
+  },
+  {
+   "start": 134.42,
+   "end": 138.42,
+   "text": "So, I naturally just gravitating to riding at 65 RPM."
+  },
+  {
+   "start": 138.42,
+   "end": 141.42,
+   "text": "But that's really bad on my knees."
+  },
+  {
+   "start": 141.42,
+   "end": 146.42,
+   "text": "And you'd think now is the time to train myself to ride more like 85 RPM."
+  },
+  {
+   "start": 146.42,
+   "end": 150.42,
+   "text": "But even..."
+  },
+  {
+   "start": 150.42,
+   "end": 154.42,
+   "text": "You didn't even have my knees restilled when you were still hurting."
+  },
+  {
+   "start": 154.42,
+   "end": 160.42,
+   "text": "So, I remember thinking, I was starting bad enough and I shouldn't ride tomorrow."
+  },
+  {
+   "start": 160.42,
+   "end": 165.42,
+   "text": "So, I'm going to get up tomorrow and do the running in the swimming."
+  },
+  {
+   "start": 165.42,
+   "end": 167.42,
+   "text": "For like two days."
+  },
+  {
+   "start": 167.42,
+   "end": 169.42,
+   "text": "And then come back and see how my knees do."
+  },
+  {
+   "start": 169.42,
+   "end": 171.42,
+   "text": "My knee was doing okay."
+  },
+  {
+   "start": 171.42,
+   "end": 177.42,
+   "text": "Like today, after I relaxed and was spinning more, it wasn't really hurting."
+  },
+  {
+   "start": 177.42,
+   "end": 179.42,
+   "text": "It only hurts when I hammer."
+  },
+  {
+   "start": 179.42,
+   "end": 183.42,
+   "text": "I noticed that yesterday, it grew through."
+  },
+  {
+   "start": 183.42,
+   "end": 186.42,
+   "text": "Who would've been paying an relation now on and riding."
+  },
+  {
+   "start": 186.42,
+   "end": 191.42,
+   "text": "So, as long as I keep it like 100, 100 watts, I'm fine."
+  },
+  {
+   "start": 191.42,
+   "end": 194.42,
+   "text": "200 watts, my knees are killing me."
+  },
+  {
+   "start": 194.42,
+   "end": 197.42,
+   "text": "150 watts today."
+  },
+  {
+   "start": 197.42,
+   "end": 200.42,
+   "text": "Yeah, what have been way too much?"
+  },
+  {
+   "start": 200.42,
+   "end": 205.42,
+   "text": "Yeah, time to do that."
+  },
+  {
+   "start": 205.42,
+   "end": 207.42,
+   "text": "So, I'm looking forward for that."
+  },
+  {
+   "start": 207.42,
+   "end": 211.42,
+   "text": "I was kind of afraid to swim before, because I was so I should..."
+  },
+  {
+   "start": 211.42,
+   "end": 215.42,
+   "text": "Who would've been able to pull with my mom like last month and two months ago or whatever?"
+  },
+  {
+   "start": 215.42,
+   "end": 217.42,
+   "text": "I don't need to do as many laps as I could."
+  },
+  {
+   "start": 217.42,
+   "end": 218.42,
+   "text": "Because I can't cross."
+  },
+  {
+   "start": 218.42,
+   "end": 219.42,
+   "text": "And I was up breath."
+  },
+  {
+   "start": 219.42,
+   "end": 220.42,
+   "text": "But it was really fun."
+  },
+  {
+   "start": 220.42,
+   "end": 223.42,
+   "text": "So, I'm going to do that tomorrow."
+  },
+  {
+   "start": 223.42,
+   "end": 229.42,
+   "text": "Yeah, it'll be my first time actually swimming more than a couple of likes with your funds"
+  },
+  {
+   "start": 229.42,
+   "end": 231.42,
+   "text": "and stay in bed at underwater earphones."
+  },
+  {
+   "start": 231.42,
+   "end": 235.42,
+   "text": "So, I'm not... I'm still listening to music."
+  },
+  {
+   "start": 235.42,
+   "end": 241.93,
+   "text": "Maybe in a few weeks, he feels like I'm starting to argue."
+  },
+  {
+   "start": 241.93,
+   "end": 245.93,
+   "text": "I'm starting to argue about the time I was starting to do more fit."
+  },
+  {
+   "start": 245.93,
+   "end": 250.93,
+   "text": "But, yeah, I went to Mara, I think I'd like to do my history test."
+  },
+  {
+   "start": 250.93,
+   "end": 252.93,
+   "text": "I want to clean up my room first."
+  },
+  {
+   "start": 252.93,
+   "end": 253.93,
+   "text": "I still need to find stuff."
+  },
+  {
+   "start": 253.93,
+   "end": 256.93,
+   "text": "Okay, so that's enough talking for today."
+  },
+  {
+   "start": 256.93,
+   "end": 258.93,
+   "text": "For 20."
+  }
+ ]
+}

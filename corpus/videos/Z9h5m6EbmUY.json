@@ -1,0 +1,362 @@
+{
+ "youtube_id": "Z9h5m6EbmUY",
+ "title": "Living in Boulder Vlog 11 - 27 - 2016",
+ "url": "https://youtu.be/Z9h5m6EbmUY",
+ "published_at": "2016-11-28",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a brief daily vlog from Boulder, recapping that he worked until 4am on a 3D reconstruction project in Google Earth building classical Roman structures (a temple, housing, and Circus Flaminius). He plans to continue at a pace of one major building per day, with goals including the Basilica, Caracalla, and a mission, and muses that a fully rebuilt classical Rome could trigger past-life memories in visitors. He also mentions listening to a podcast about the Tetrarchy to inform a historical timeline project.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "3D Rome reconstruction in Google Earth",
+   "ancient Roman architecture",
+   "historical research",
+   "past-life speculation",
+   "podcast listening",
+   "Boulder life"
+  ],
+  "stances": [
+   {
+    "topic": "3D Rome reconstruction",
+    "position": "Excited and committed; believes rebuilding classical Rome would be beautiful and could unlock past-life memories"
+   },
+   {
+    "topic": "Google Earth street-level exploration",
+    "position": "Prefers walking around at ground level over zooming in from above"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Rome",
+   "Circus Flaminius",
+   "Basilica",
+   "Baths of Caracalla",
+   "Google Earth"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Hey, how's it going?"
+  },
+  {
+   "start": 2.0,
+   "end": 12.0,
+   "text": "Living Boulder V-Log today. It's Monday, November 28th, so this will be the V-Log for you today, November 27th, on Sunday."
+  },
+  {
+   "start": 12.0,
+   "end": 15.0,
+   "text": "It's noon now."
+  },
+  {
+   "start": 15.0,
+   "end": 23.0,
+   "text": "It's noon now. I just got up. I was working until 4.30 in the morning, 4.15."
+  },
+  {
+   "start": 23.0,
+   "end": 27.0,
+   "text": "And then I got up so 6.5 hours."
+  },
+  {
+   "start": 27.0,
+   "end": 29.0,
+   "text": "We're 7.5."
+  },
+  {
+   "start": 29.0,
+   "end": 31.0,
+   "text": "Between working times."
+  },
+  {
+   "start": 31.0,
+   "end": 35.0,
+   "text": "I just smoked some rufr. Maybe 6 or 7 minutes."
+  },
+  {
+   "start": 35.0,
+   "end": 37.0,
+   "text": "I don't know."
+  },
+  {
+   "start": 37.0,
+   "end": 39.0,
+   "text": "And I do the video."
+  },
+  {
+   "start": 39.0,
+   "end": 43.0,
+   "text": "So yesterday,"
+  },
+  {
+   "start": 43.0,
+   "end": 48.0,
+   "text": "I did a temple next to the,"
+  },
+  {
+   "start": 48.0,
+   "end": 51.0,
+   "text": "I think the old school, I didn't know all of it."
+  },
+  {
+   "start": 51.0,
+   "end": 54.0,
+   "text": "Then I went to housing, all of it,"
+  },
+  {
+   "start": 54.0,
+   "end": 56.0,
+   "text": "tracing."
+  },
+  {
+   "start": 56.0,
+   "end": 60.0,
+   "text": "And then I did a circus flamenia."
+  },
+  {
+   "start": 60.0,
+   "end": 62.0,
+   "text": "I don't think I finished it."
+  },
+  {
+   "start": 62.0,
+   "end": 64.0,
+   "text": "I think I did."
+  },
+  {
+   "start": 64.0,
+   "end": 66.0,
+   "text": "And so, yeah,"
+  },
+  {
+   "start": 66.0,
+   "end": 70.0,
+   "text": "I'm kind of in a pace to do like one big building a day, so we're,"
+  },
+  {
+   "start": 70.0,
+   "end": 74.0,
+   "text": "I still have to do bad as a caracol and a mission."
+  },
+  {
+   "start": 74.0,
+   "end": 76.0,
+   "text": "I started to care about all those."
+  },
+  {
+   "start": 76.0,
+   "end": 78.0,
+   "text": "Whatever, a lot's a little stuff too."
+  },
+  {
+   "start": 78.0,
+   "end": 81.0,
+   "text": "So I'm still,"
+  },
+  {
+   "start": 81.0,
+   "end": 87.0,
+   "text": "I'm still in the zone and the void hammering ahead."
+  },
+  {
+   "start": 87.0,
+   "end": 91.0,
+   "text": "I think I'm really excited to look at Rome because,"
+  },
+  {
+   "start": 91.0,
+   "end": 93.0,
+   "text": "and walk around Rome,"
+  },
+  {
+   "start": 93.0,
+   "end": 94.0,
+   "text": "because with Google Earth,"
+  },
+  {
+   "start": 94.0,
+   "end": 96.0,
+   "text": "it's not just about looking at it in Zubing Union and Mal,"
+  },
+  {
+   "start": 96.0,
+   "end": 99.0,
+   "text": "but it's good on Earth level and walk around the side."
+  },
+  {
+   "start": 99.0,
+   "end": 103.0,
+   "text": "Even in the individual buildings and hang out with your furniture and stuff,"
+  },
+  {
+   "start": 103.0,
+   "end": 108.28,
+   "text": "you know, they'd have to look like blocks, but."
+  },
+  {
+   "start": 108.28,
+   "end": 112.28,
+   "text": "And one meter time permits, but yeah,"
+  },
+  {
+   "start": 112.28,
+   "end": 115.28,
+   "text": "I'm going to build a little room."
+  },
+  {
+   "start": 115.28,
+   "end": 118.28,
+   "text": "I think it'll unleash like past life memories, man."
+  },
+  {
+   "start": 118.28,
+   "end": 120.28,
+   "text": "People will be like,"
+  },
+  {
+   "start": 120.28,
+   "end": 122.28,
+   "text": "I don't even feel like I'll be like, oh, I know this town."
+  },
+  {
+   "start": 122.28,
+   "end": 126.53,
+   "text": "But it's, it's grand."
+  },
+  {
+   "start": 126.53,
+   "end": 128.53,
+   "text": "I mean,"
+  },
+  {
+   "start": 128.53,
+   "end": 129.53,
+   "text": "if we could have a room,"
+  },
+  {
+   "start": 129.53,
+   "end": 132.53,
+   "text": "we should rebuild Rome the way it was in classical times."
+  },
+  {
+   "start": 133.53,
+   "end": 135.53,
+   "text": "It's, because it's beautiful."
+  },
+  {
+   "start": 139.53,
+   "end": 142.53,
+   "text": "But yeah, so,"
+  },
+  {
+   "start": 143.53,
+   "end": 146.53,
+   "text": "I'm just working hard on that."
+  },
+  {
+   "start": 146.53,
+   "end": 148.53,
+   "text": "I'm listening to,"
+  },
+  {
+   "start": 150.53,
+   "end": 151.53,
+   "text": "the podcast,"
+  },
+  {
+   "start": 151.53,
+   "end": 152.53,
+   "text": "I'm like, don't,"
+  },
+  {
+   "start": 152.53,
+   "end": 154.53,
+   "text": "can I just go down with the tetrake?"
+  },
+  {
+   "start": 154.53,
+   "end": 156.53,
+   "text": "So, yeah,"
+  },
+  {
+   "start": 156.53,
+   "end": 158.53,
+   "text": "I want to get through the,"
+  },
+  {
+   "start": 159.53,
+   "end": 161.53,
+   "text": "get through the,"
+  },
+  {
+   "start": 161.53,
+   "end": 163.53,
+   "text": "with his podcast,"
+  },
+  {
+   "start": 163.53,
+   "end": 164.53,
+   "text": "and then I'm going to do it again."
+  },
+  {
+   "start": 164.53,
+   "end": 166.53,
+   "text": "Only I'm going to be,"
+  },
+  {
+   "start": 166.53,
+   "end": 169.53,
+   "text": "touching it on my timeline for Italy for Rome."
+  },
+  {
+   "start": 169.53,
+   "end": 170.53,
+   "text": "When I do that,"
+  },
+  {
+   "start": 170.53,
+   "end": 173.53,
+   "text": "so I'll kind of have two projects going on for a while."
+  },
+  {
+   "start": 173.53,
+   "end": 174.53,
+   "text": "What?"
+  },
+  {
+   "start": 174.53,
+   "end": 176.53,
+   "text": "Oh,"
+  },
+  {
+   "start": 176.53,
+   "end": 178.53,
+   "text": "I don't have anything else to talk about."
+  },
+  {
+   "start": 178.53,
+   "end": 179.53,
+   "text": "Right now."
+  },
+  {
+   "start": 179.53,
+   "end": 181.53,
+   "text": "Right, peace out."
+  },
+  {
+   "start": 181.53,
+   "end": 189.46,
+   "text": "There's this thing stopped."
+  },
+  {
+   "start": 189.46,
+   "end": 192.93,
+   "text": "Okay, now peace out."
+  }
+ ]
+}

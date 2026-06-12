@@ -1,0 +1,612 @@
+{
+ "youtube_id": "vF1HzP9QEfc",
+ "title": "Isis Vs Anonymous   Request",
+ "url": "https://youtu.be/vF1HzP9QEfc",
+ "published_at": "2015-02-22",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle responds to a viewer request about Anonymous hacking ISIS accounts, expressing support for the cyber warfare effort while criticizing ISIS's poor security practices. He then discusses Anonymous activism more broadly, YouTube ad blocker revenue loss, and the future of internet privacy and copyright law.",
+  "speaker": "mixed",
+  "topics": [
+   "ISIS vs Anonymous",
+   "cyber warfare and hacking",
+   "Anonymous hacking collective",
+   "YouTube monetization",
+   "ad blockers",
+   "internet privacy",
+   "freedom of speech",
+   "anonymous online activism",
+   "copyright and creator income"
+  ],
+  "stances": [
+   {
+    "topic": "Anonymous hacking ISIS",
+    "position": "Supportive — it's legitimate techno-warfare and ISIS deserves it for poor security"
+   },
+   {
+    "topic": "Anonymous activism generally",
+    "position": "Smart strategically now but has an expiration date; ideally people should be willing to speak openly"
+   },
+   {
+    "topic": "Ad blockers hurting YouTube creators",
+    "position": "Harmful to creators like him; YouTube charging for ad-free is fine but won't be widely adopted"
+   },
+   {
+    "topic": "Internet privacy",
+    "position": "Privacy is going away completely and that's okay — just need smart, specific laws around copyright and data use"
+   },
+   {
+    "topic": "Copyright and creator income",
+    "position": "Original creators deserve to profit from their work before others can copy it"
+   }
+  ],
+  "entities": [
+   "ISIS",
+   "ISIL",
+   "Anonymous",
+   "Young Turks",
+   "YouTube",
+   "Kyle's brother",
+   "Dallas"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.53,
+   "end": 2.53,
+   "text": "Okay, hello request video."
+  },
+  {
+   "start": 3.65,
+   "end": 8.33,
+   "text": "So, I would love to see you do a video on ISIL."
+  },
+  {
+   "start": 8.33,
+   "end": 11.65,
+   "text": "ISIL, ISIS versus anonymous."
+  },
+  {
+   "start": 11.65,
+   "end": 15.53,
+   "text": "Yeah, and I just saw the YouTube video or the young Turks video about it."
+  },
+  {
+   "start": 15.53,
+   "end": 21.53,
+   "text": "Or even just anonymous on hacking and an IRC privacy and freedom of speech on the internet."
+  },
+  {
+   "start": 21.53,
+   "end": 24.53,
+   "text": "Where do you see it going? How will it affect you?"
+  },
+  {
+   "start": 24.53,
+   "end": 28.53,
+   "text": "When YouTube starts starting a previous price to get rid of advertisements,"
+  },
+  {
+   "start": 28.53,
+   "end": 32.53,
+   "text": "and they will not allow for the use of that on such a bad block."
+  },
+  {
+   "start": 32.53,
+   "end": 36.53,
+   "text": "They said they would start charging as much as 8 bucks a month."
+  },
+  {
+   "start": 36.53,
+   "end": 39.53,
+   "text": "I believe for this premium service when our block does it for free."
+  },
+  {
+   "start": 39.53,
+   "end": 40.53,
+   "text": "Okay."
+  },
+  {
+   "start": 40.53,
+   "end": 43.53,
+   "text": "What do I think about ISIS versus anonymous?"
+  },
+  {
+   "start": 43.53,
+   "end": 51.53,
+   "text": "Yeah, anonymous has been hacking anti-ISIS's accounts and doing damage to them."
+  },
+  {
+   "start": 51.53,
+   "end": 56.53,
+   "text": "I guess because they're really better internet hackers than ISIS."
+  },
+  {
+   "start": 56.53,
+   "end": 60.53,
+   "text": "Yeah, I think any kind of work like that against ISIS is good."
+  },
+  {
+   "start": 60.53,
+   "end": 63.53,
+   "text": "It's kind of, you know, it's part of the whole warfare. You do all of it."
+  },
+  {
+   "start": 63.53,
+   "end": 66.53,
+   "text": "You do the techno warfare, you do this and you do that."
+  },
+  {
+   "start": 66.53,
+   "end": 73.53,
+   "text": "But I wish we could, you know, tighten up security so that they couldn't do that."
+  },
+  {
+   "start": 73.53,
+   "end": 75.53,
+   "text": "Although, maybe ISIS, they're not that smart."
+  },
+  {
+   "start": 75.53,
+   "end": 79.53,
+   "text": "So they don't know how to take the precautions so they can't get hacked."
+  },
+  {
+   "start": 79.53,
+   "end": 83.53,
+   "text": "If they took the responsibility, they wouldn't get hacked in the first place."
+  },
+  {
+   "start": 83.53,
+   "end": 88.53,
+   "text": "And it's kind of too bad that they would get hacked. I don't get hacked."
+  },
+  {
+   "start": 88.53,
+   "end": 91.53,
+   "text": "But I don't think I would get hacked."
+  },
+  {
+   "start": 91.53,
+   "end": 95.81,
+   "text": "But anyway."
+  },
+  {
+   "start": 95.81,
+   "end": 102.95,
+   "text": "Okay. Okay. So I guess that's that."
+  },
+  {
+   "start": 102.95,
+   "end": 106.95,
+   "text": "Now what do I think about anonymous and hacking?"
+  },
+  {
+   "start": 106.95,
+   "end": 110.95,
+   "text": "Yeah, I was asked to do a video about anonymous like three years ago and it was before."
+  },
+  {
+   "start": 110.95,
+   "end": 113.95,
+   "text": "I didn't really do a whole lot of research on to them when I did the video."
+  },
+  {
+   "start": 113.95,
+   "end": 116.95,
+   "text": "I just kind of was like, oh, anonymous."
+  },
+  {
+   "start": 116.95,
+   "end": 118.95,
+   "text": "So it's kind of a bad video."
+  },
+  {
+   "start": 118.95,
+   "end": 124.95,
+   "text": "But now that they know it more about it, you know? I like who they, they have the same enemies that I do."
+  },
+  {
+   "start": 124.95,
+   "end": 127.95,
+   "text": "So they seem like smart people."
+  },
+  {
+   "start": 127.95,
+   "end": 134.95,
+   "text": "It's cool that they, you know, they do that kind of damage to the bad people for free."
+  },
+  {
+   "start": 134.95,
+   "end": 141.95,
+   "text": "They're kind of, you know, they don't, they're not like asking money for the government to do it."
+  },
+  {
+   "start": 141.95,
+   "end": 153.95,
+   "text": "And the concept of hacking the bad guys from an anonymous place is a smart strategic thing to do because a lot of the people who work for"
+  },
+  {
+   "start": 153.95,
+   "end": 158.95,
+   "text": "who work for anonymous are really good at the computers."
+  },
+  {
+   "start": 158.95,
+   "end": 163.95,
+   "text": "And computers are kind of, one of those jobs, computer engineering is one of those jobs."
+  },
+  {
+   "start": 163.95,
+   "end": 167.95,
+   "text": "So you don't have to be a certain kind of person to do it because, you know, it's computer engineering."
+  },
+  {
+   "start": 167.95,
+   "end": 170.95,
+   "text": "Everybody uses computers. And so just like the mechanic, the automatic mechanic."
+  },
+  {
+   "start": 170.95,
+   "end": 175.95,
+   "text": "You know, your automatic mechanic could be anybody. And so, you know, so computers engineers are the same thing."
+  },
+  {
+   "start": 175.95,
+   "end": 183.95,
+   "text": "They could be this religion, that religion, this ideology, that all working together in the same office."
+  },
+  {
+   "start": 183.95,
+   "end": 191.95,
+   "text": "And, you know, they're all relatively smart because doing that higher and computer stuff."
+  },
+  {
+   "start": 191.95,
+   "end": 196.95,
+   "text": "You need to have a little bit better of a brain than like a car mechanic."
+  },
+  {
+   "start": 197.95,
+   "end": 205.95,
+   "text": "But still, if you throw all those people together, they're still going to, it's not a place where you could have like a pulpit, you know, they'll all hang out, you know,"
+  },
+  {
+   "start": 205.95,
+   "end": 212.95,
+   "text": "they're all doing the baseball team and stuff. You can have a company baseball team for like a,"
+  },
+  {
+   "start": 212.95,
+   "end": 217.95,
+   "text": "I don't know, I'm getting carried away anyway."
+  },
+  {
+   "start": 218.95,
+   "end": 229.95,
+   "text": "So yeah, it makes sense to be an honest because you don't want to piss off the dude who you work for, who may be, you know, on the other side, who may be like a Republican."
+  },
+  {
+   "start": 229.95,
+   "end": 238.95,
+   "text": "But I think in the future activism from an anonymous place will be seen as more of a cowardly thing to do."
+  },
+  {
+   "start": 239.95,
+   "end": 248.95,
+   "text": "As it becomes more and more possible to express yourself on the internet without having to make enemies who are going to do what they can to fuck you over."
+  },
+  {
+   "start": 248.95,
+   "end": 256.95,
+   "text": "And, we just true man, you know, I mean, I was having an argument with my brother yesterday about atheism and I was like,"
+  },
+  {
+   "start": 256.95,
+   "end": 265.95,
+   "text": "Oh, let's do the, let's do it on YouTube and he's like, oh, I don't know man, I don't want to piss off with the Christians I work with, you know, and it's like, you know, yeah, I mean,"
+  },
+  {
+   "start": 265.95,
+   "end": 270.95,
+   "text": "my brother's just trying to get started in his industry. I don't want to, you know, you know,"
+  },
+  {
+   "start": 270.95,
+   "end": 275.95,
+   "text": "get a black ball because remember what they did with the comments in the 60 and the 50s."
+  },
+  {
+   "start": 275.95,
+   "end": 279.95,
+   "text": "People are idiots to do. They did it then they do it again."
+  },
+  {
+   "start": 279.95,
+   "end": 288.95,
+   "text": "But we should look at anonymous activism like that is something with a, with a expiration date, you know,"
+  },
+  {
+   "start": 288.95,
+   "end": 291.95,
+   "text": "something that we want to try to look to get out of."
+  },
+  {
+   "start": 291.95,
+   "end": 301.95,
+   "text": "It's not for me because I don't need to. I'm a janitor and a window washer, which is kind of like those jobs that you can have and get away with being a weirdo on the side"
+  },
+  {
+   "start": 301.95,
+   "end": 304.95,
+   "text": "because you can't go down from that."
+  },
+  {
+   "start": 304.95,
+   "end": 306.95,
+   "text": "I'm at the very bottom of the barrel."
+  },
+  {
+   "start": 306.95,
+   "end": 322.38,
+   "text": "Oh, far as like, yeah, where are you, put somebody like me? You know, you wouldn't want even me working in a McDonald's exactly where I thought there are people."
+  },
+  {
+   "start": 322.38,
+   "end": 325.38,
+   "text": "So I just put it in the janitor."
+  },
+  {
+   "start": 328.01,
+   "end": 331.01,
+   "text": "So I can get away with something whatever the fuck I want. So I don't have to be in on this."
+  },
+  {
+   "start": 334.01,
+   "end": 342.12,
+   "text": "So anyways, so where do you see, okay, so in anonymous and hacking internet privacy and freedom of speech on internet."
+  },
+  {
+   "start": 342.12,
+   "end": 344.12,
+   "text": "Okay, yes, so where do you see this all going?"
+  },
+  {
+   "start": 344.12,
+   "end": 347.12,
+   "text": "Cool, yes, so I just explained all that."
+  },
+  {
+   "start": 347.12,
+   "end": 352.12,
+   "text": "How old did it affect you when you two starts charging your premium price to get rid of advertisements?"
+  },
+  {
+   "start": 352.12,
+   "end": 354.12,
+   "text": "Yeah."
+  },
+  {
+   "start": 355.12,
+   "end": 362.12,
+   "text": "Back when I was in Dallas, I had like 1500 subscribers and I was making 350 bucks a month."
+  },
+  {
+   "start": 362.12,
+   "end": 367.12,
+   "text": "And then over the last year, you know, I've got 5000 subscribers."
+  },
+  {
+   "start": 367.12,
+   "end": 369.12,
+   "text": "And I made 75 bucks a month."
+  },
+  {
+   "start": 369.12,
+   "end": 374.4,
+   "text": "And I haven't really looked at my statistics."
+  },
+  {
+   "start": 374.4,
+   "end": 380.4,
+   "text": "So I don't know how many hits I'm getting if I'm getting less hits, but if I had more subscribers, I think I'm getting just as many hits."
+  },
+  {
+   "start": 380.4,
+   "end": 386.4,
+   "text": "And I think I'm getting less money because somebody came up with that ad block program that people are using."
+  },
+  {
+   "start": 386.4,
+   "end": 394.4,
+   "text": "And so once YouTube figures out how to block those kinds of programs and offer that eight dollar a month, which nobody is going to take."
+  },
+  {
+   "start": 394.4,
+   "end": 398.4,
+   "text": "You know, only people I guess we don't do it for money, I guess some people do that."
+  },
+  {
+   "start": 398.4,
+   "end": 401.4,
+   "text": "Then it'll allow me to start making money again."
+  },
+  {
+   "start": 401.4,
+   "end": 409.4,
+   "text": "And people need to realize that that's the direction that the world economy is going."
+  },
+  {
+   "start": 409.4,
+   "end": 413.4,
+   "text": "People who've always gotten their advertisements or gotten made their money."
+  },
+  {
+   "start": 413.4,
+   "end": 418.4,
+   "text": "People who do like what I do teaching, talking, entertaining."
+  },
+  {
+   "start": 418.4,
+   "end": 428.4,
+   "text": "They get their money from exposure through the advertisements, like, through subscription fee, but you don't get subscription fee with YouTube."
+  },
+  {
+   "start": 428.4,
+   "end": 431.4,
+   "text": "So the only way is with advertisements."
+  },
+  {
+   "start": 431.4,
+   "end": 443.4,
+   "text": "And so as mainstream media starts to lose their piece of the pie, people like me gain that piece of the pie."
+  },
+  {
+   "start": 443.4,
+   "end": 447.4,
+   "text": "And so it just kind of transfers the income kind of transfers to people like me."
+  },
+  {
+   "start": 447.4,
+   "end": 453.4,
+   "text": "So you shouldn't really look at people like me as people who don't deserve to make any money off of it."
+  },
+  {
+   "start": 453.4,
+   "end": 464.4,
+   "text": "You know, I mean, look at how much work people put into their channels and how much they talk and yeah, to make money back is something that I think everybody can understand."
+  },
+  {
+   "start": 464.4,
+   "end": 467.4,
+   "text": "Through the ads."
+  },
+  {
+   "start": 467.4,
+   "end": 478.99,
+   "text": "Yeah, so that's how I would like to make money in my life, my videos, my YouTube, my website with the ads and the website."
+  },
+  {
+   "start": 478.99,
+   "end": 490.98,
+   "text": "Okay, so yeah, so privacy and stuff privacy is going to go away, man."
+  },
+  {
+   "start": 490.98,
+   "end": 492.98,
+   "text": "It's going to go away completely."
+  },
+  {
+   "start": 492.98,
+   "end": 495.98,
+   "text": "I can notice I was making like bike, let race, or level page on my website."
+  },
+  {
+   "start": 495.98,
+   "end": 500.98,
+   "text": "I was collecting pictures of people because I wanted to attach names to people for this one page that I had."
+  },
+  {
+   "start": 500.98,
+   "end": 503.98,
+   "text": "And it's really easy to get pictures of people off the internet."
+  },
+  {
+   "start": 503.98,
+   "end": 507.98,
+   "text": "They have their Facebook pages or like not private it."
+  },
+  {
+   "start": 507.98,
+   "end": 513.98,
+   "text": "They have like Instagram with pictures of the, you know, you can just snatch all kinds of pictures and."
+  },
+  {
+   "start": 513.98,
+   "end": 520.98,
+   "text": "And people can grab all kinds of other stuff from people's other websites, you know, cutting and pasting stuff and sharing."
+  },
+  {
+   "start": 520.98,
+   "end": 527.98,
+   "text": "And the more we do that, the quicker we can evolve to the next level, whatever that may be, whatever our imaginations can take us."
+  },
+  {
+   "start": 527.98,
+   "end": 536.98,
+   "text": "So we should definitely not get freaked out, you know, try to make people stop cheering themselves or."
+  },
+  {
+   "start": 536.98,
+   "end": 541.98,
+   "text": "You know, taking your photo and using it for whatever, you know."
+  },
+  {
+   "start": 541.98,
+   "end": 545.98,
+   "text": "But we definitely need to write up really specific laws."
+  },
+  {
+   "start": 545.98,
+   "end": 550.98,
+   "text": "Really, really, really good laws that make sense from smart people."
+  },
+  {
+   "start": 550.98,
+   "end": 555.98,
+   "text": "You know, maybe like a wiki kind of a way like allow everybody to try to write the law, whoever has the best law, loaded up."
+  },
+  {
+   "start": 555.98,
+   "end": 562.98,
+   "text": "But laws about how people should make money with the copyright, you know, like if you make."
+  },
+  {
+   "start": 562.98,
+   "end": 566.98,
+   "text": "If you build a."
+  },
+  {
+   "start": 566.98,
+   "end": 572.98,
+   "text": "If you build something that's yours, you know, you, and you're the first person to build it, you should get some money from that."
+  },
+  {
+   "start": 572.98,
+   "end": 580.98,
+   "text": "Before people start stealing it from you, you know, I had a perfect example, but I forgot what it was."
+  },
+  {
+   "start": 580.98,
+   "end": 586.98,
+   "text": "But I think we're figuring that out, you know, as long as we have the attitude that we can make it work and then it's destined to work."
+  },
+  {
+   "start": 586.98,
+   "end": 594.98,
+   "text": "It's the attitude that it's it's all crap and then the bad guys you're going to take over and you got to be defensive and you know, then we never going to be able to move ahead."
+  },
+  {
+   "start": 594.98,
+   "end": 599.98,
+   "text": "People have to be fearless and just move ahead and continue to create."
+  },
+  {
+   "start": 599.98,
+   "end": 604.98,
+   "text": "Not good, somebody else because there is a YouTube video that thinks something you need to agree on my God. So now we're doing a new."
+  },
+  {
+   "start": 604.98,
+   "end": 605.98,
+   "text": "I should."
+  },
+  {
+   "start": 605.98,
+   "end": 607.98,
+   "text": "I think I've done enough of that."
+  }
+ ]
+}

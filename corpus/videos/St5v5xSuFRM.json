@@ -1,0 +1,869 @@
+{
+ "youtube_id": "St5v5xSuFRM",
+ "title": "Training with Kyle 5/9/19 Swam 7,520 Meters",
+ "url": "https://youtu.be/St5v5xSuFRM",
+ "published_at": "2019-05-10",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle recaps a 7,520-meter swim session (short of his 10K goal) on May 9, 2019, attributing underperformance to a hangover and depression over car trouble. He discusses his fitness comeback routine, malfunctioning pool earphones, plans for a mountain run the next day, and what he's been listening to/reading while training.",
+  "speaker": "kyle",
+  "topics": [
+   "swimming training",
+   "fitness comeback",
+   "depression/mental state",
+   "car trouble",
+   "nutrition/appetite",
+   "earphones/gear",
+   "running plans",
+   "audiobooks/reading",
+   "asthma/medication",
+   "vlog channel management"
+  ],
+  "stances": [
+   {
+    "topic": "training approach",
+    "position": "Prefers overtraining over careful recovery, especially early in a fitness comeback"
+   },
+   {
+    "topic": "mountain running",
+    "position": "Prefers mountain running over treadmill because hills naturally slow pace and reduce pressure"
+   },
+   {
+    "topic": "flip turns",
+    "position": "Not doing them yet — currently too out of shape, but expects to add them as fitness improves"
+   },
+   {
+    "topic": "pool earphones",
+    "position": "Frustrated that no reliable waterproof earphone solution exists; considers it a real problem for endurance swimmers"
+   },
+   {
+    "topic": "audiobooks while training",
+    "position": "Prefers music or books during swimming but finds them useless when audio quality is poor"
+   },
+   {
+    "topic": "Popular History of Ireland book",
+    "position": "Finds it extremely boring and too long but wants to finish it before moving on to philosophy"
+   }
+  ],
+  "entities": [
+   "Boulder, Colorado",
+   "Costco",
+   "Acai juice",
+   "Jägermeister",
+   "Taco Bell",
+   "Apple Watch",
+   "swim.com",
+   "Strava",
+   "iPod Shuffle",
+   "Advair",
+   "Medicaid",
+   "Diogenes",
+   "Popular History of Ireland",
+   "Kyle's mom"
+  ],
+  "date": "2019-05-09",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.98,
+   "end": 10.66,
+   "text": "Hello, trading with Kyle. May 9th of 2019, and it's a Thursday. Pretty sure it's a Thursday."
+  },
+  {
+   "start": 11.54,
+   "end": 15.24,
+   "text": "But currently it's 9.46 p.m. Mountain Time in Boulder, Colorado."
+  },
+  {
+   "start": 16.66,
+   "end": 24.44,
+   "text": "So today I swam 7,520 meters until I basically got tired."
+  },
+  {
+   "start": 24.44,
+   "end": 34.26,
+   "text": "And I was like, I originally wanted to swim 10,000 meters, but I did 75% of that."
+  },
+  {
+   "start": 34.98,
+   "end": 43.4,
+   "text": "Didn't really get all that close to it, but I wasn't at 100% today."
+  },
+  {
+   "start": 43.4,
+   "end": 54.48,
+   "text": "I drank a bottle of Jägermeister last night and had Taco Bell for dinner because I was depressed about my fucking car breaking down at the emissions."
+  },
+  {
+   "start": 55.18,
+   "end": 56.1,
+   "text": "It's unbelievable."
+  },
+  {
+   "start": 56.76,
+   "end": 61.98,
+   "text": "It was this thing that it keeps happening when you turn the key and nothing happens and nobody can figure out how to fix it."
+  },
+  {
+   "start": 62.04,
+   "end": 63.06,
+   "text": "It's this recurring problem."
+  },
+  {
+   "start": 63.3,
+   "end": 71.38,
+   "text": "So if they fix that and then these other hoses they have to fix, then I'll be like, yay, I have the most reliable car ever."
+  },
+  {
+   "start": 71.38,
+   "end": 77.38,
+   "text": "The only problem is my wheels have a tendency of falling off once my rear right wheel fell off."
+  },
+  {
+   "start": 77.46,
+   "end": 83.44,
+   "text": "And then like a couple of years ago, my fucking front right wheel just fell right off on the way to my mom's house."
+  },
+  {
+   "start": 83.6,
+   "end": 85.28,
+   "text": "And so, sketchy."
+  },
+  {
+   "start": 86.24,
+   "end": 88.68,
+   "text": "Maybe I should have my wheels checked if there's a way to do that."
+  },
+  {
+   "start": 88.78,
+   "end": 98.16,
+   "text": "But anyway, yeah, I might start melding my daily vlogs from my vlog channel into my main channel again because it's hard to keep track."
+  },
+  {
+   "start": 98.16,
+   "end": 106.72,
+   "text": "I accidentally put my uploaded my daily vlog, my vlog channel vlog to my main channel because then maybe I was logged into my main channel."
+  },
+  {
+   "start": 106.9,
+   "end": 109.14,
+   "text": "And so then I got on my main channel and I had to delete it."
+  },
+  {
+   "start": 109.2,
+   "end": 111.36,
+   "text": "And so you will see."
+  },
+  {
+   "start": 111.48,
+   "end": 111.92,
+   "text": "We'll see."
+  },
+  {
+   "start": 112.02,
+   "end": 112.18,
+   "text": "Yeah."
+  },
+  {
+   "start": 112.26,
+   "end": 118.46,
+   "text": "So I didn't do a vlog video today for the first time because I got up kind of late."
+  },
+  {
+   "start": 118.46,
+   "end": 121.68,
+   "text": "And then I went, my mom picked me up because I was kind of depressed today."
+  },
+  {
+   "start": 121.8,
+   "end": 123.58,
+   "text": "Even when I got up today, I was still depressed."
+  },
+  {
+   "start": 124.02,
+   "end": 126.52,
+   "text": "And I was just laying in bed like, oh, God."
+  },
+  {
+   "start": 127.2,
+   "end": 129.24,
+   "text": "Oh, God."
+  },
+  {
+   "start": 129.72,
+   "end": 134.06,
+   "text": "So then she took me and we went to Costco and I went and got 180 bucks worth of food."
+  },
+  {
+   "start": 134.14,
+   "end": 134.62,
+   "text": "So that's chill."
+  },
+  {
+   "start": 134.66,
+   "end": 136.94,
+   "text": "I got a, I got a bottle of Akai."
+  },
+  {
+   "start": 136.94,
+   "end": 138.8,
+   "text": "I love this Akai juice."
+  },
+  {
+   "start": 138.86,
+   "end": 140.38,
+   "text": "And then I just watched a video about it."
+  },
+  {
+   "start": 141.02,
+   "end": 141.68,
+   "text": "Drink a whole bottle."
+  },
+  {
+   "start": 141.92,
+   "end": 143.26,
+   "text": "After I drink this, it's my whole bottle."
+  },
+  {
+   "start": 143.6,
+   "end": 145.46,
+   "text": "You can get a big ass bottle for six bucks at Costco."
+  },
+  {
+   "start": 146.74,
+   "end": 155.38,
+   "text": "Yeah, I guess it's good for your connective tissue because of vitamin C and the fat and your, and your like cardiovascular system."
+  },
+  {
+   "start": 155.52,
+   "end": 156.92,
+   "text": "So, yeah, I'm ready to do that."
+  },
+  {
+   "start": 156.92,
+   "end": 167.2,
+   "text": "But I only ate one thing today, a chicken sandwich or a turkey sandwich over at my, over at Costco with my mom and a couple of bites of her salad."
+  },
+  {
+   "start": 167.32,
+   "end": 168.44,
+   "text": "And that's all I had."
+  },
+  {
+   "start": 168.64,
+   "end": 174.78,
+   "text": "I just cooked up a, um, a microwave, um, uh, lasagna, which is up there."
+  },
+  {
+   "start": 174.9,
+   "end": 176.38,
+   "text": "So I'll eat that right after my video."
+  },
+  {
+   "start": 176.48,
+   "end": 177.56,
+   "text": "So that's all I'll eat today."
+  },
+  {
+   "start": 178.14,
+   "end": 180.64,
+   "text": "So my appetite has not kicked in."
+  },
+  {
+   "start": 180.88,
+   "end": 182.42,
+   "text": "The general rule of thumb."
+  },
+  {
+   "start": 182.42,
+   "end": 197.88,
+   "text": "I'm kind of experienced with getting in back into shape from being way out of shape because most of my life I'm way out of shape because my priorities were trying to do school because of my stupid parents."
+  },
+  {
+   "start": 197.88,
+   "end": 200.28,
+   "text": "But, um, and then I go bike touring or something."
+  },
+  {
+   "start": 200.28,
+   "end": 209.62,
+   "text": "So I know that from experience that, uh, getting back in shape, it's usually about three weeks of working out all day long or every day until your appetite kicks in."
+  },
+  {
+   "start": 209.62,
+   "end": 215.08,
+   "text": "And it happens pretty suddenly, like all of a sudden you notice that you're hungry and you're like, wait, I just ate a little bit ago."
+  },
+  {
+   "start": 215.2,
+   "end": 216.8,
+   "text": "You know, that's when I know."
+  },
+  {
+   "start": 216.88,
+   "end": 220.62,
+   "text": "But also when that happens, your strength level goes up."
+  },
+  {
+   "start": 220.98,
+   "end": 228.26,
+   "text": "So, um, so yeah, I'm looking forward to my appetite going up, strength level going up, fat count, fat going down."
+  },
+  {
+   "start": 228.34,
+   "end": 229.66,
+   "text": "I feel a little bit more cut."
+  },
+  {
+   "start": 230.32,
+   "end": 231.64,
+   "text": "That's going to be the cool thing."
+  },
+  {
+   "start": 231.74,
+   "end": 232.54,
+   "text": "Losing weight."
+  },
+  {
+   "start": 232.66,
+   "end": 235.44,
+   "text": "I was at 197.5 pounds when I started."
+  },
+  {
+   "start": 235.44,
+   "end": 240.86,
+   "text": "And that's with like little, like sub 13 inch arms, you know, no muscle, just fat."
+  },
+  {
+   "start": 241.78,
+   "end": 243.74,
+   "text": "So, uh, so yeah, I swam today."
+  },
+  {
+   "start": 243.98,
+   "end": 248.22,
+   "text": "Uh, I was going to send back my earphones to the Amazon, but maybe they're not even broken."
+  },
+  {
+   "start": 248.22,
+   "end": 249.72,
+   "text": "Cause these fucking earphones weren't even work."
+  },
+  {
+   "start": 249.72,
+   "end": 256.98,
+   "text": "Like I couldn't even get the earphones that come with my iPod, uh, nano."
+  },
+  {
+   "start": 257.14,
+   "end": 257.36,
+   "text": "No, no."
+  },
+  {
+   "start": 257.42,
+   "end": 258.16,
+   "text": "IPod shuffle."
+  },
+  {
+   "start": 258.7,
+   "end": 259.9,
+   "text": "What I use for the water."
+  },
+  {
+   "start": 259.9,
+   "end": 265.66,
+   "text": "I was, I'm here holding this thing in my ear and I'm like, push it in, put it a little bit in, push it in."
+  },
+  {
+   "start": 265.68,
+   "end": 266.98,
+   "text": "I'm like, there's no sound."
+  },
+  {
+   "start": 267.08,
+   "end": 268.36,
+   "text": "Why, how is this thing blocked?"
+  },
+  {
+   "start": 269.0,
+   "end": 270.44,
+   "text": "That's what happened to the other thing."
+  },
+  {
+   "start": 270.48,
+   "end": 272.92,
+   "text": "But then I tried it when I took it out and it was totally blocked, no sound."
+  },
+  {
+   "start": 273.08,
+   "end": 278.52,
+   "text": "So I don't the hell, I need to find a, an earphone that's better."
+  },
+  {
+   "start": 278.64,
+   "end": 284.66,
+   "text": "That's like, that's reliable and that'll work because for the last part of the swim, there was nothing over here."
+  },
+  {
+   "start": 284.66,
+   "end": 288.12,
+   "text": "And usually there's nothing over here, but today there was nothing sound over there, nothing."
+  },
+  {
+   "start": 288.6,
+   "end": 295.16,
+   "text": "And on this sound, it was like, it was like, like just the sound was cut out."
+  },
+  {
+   "start": 295.24,
+   "end": 296.46,
+   "text": "All I could hear was the bass."
+  },
+  {
+   "start": 296.48,
+   "end": 301.36,
+   "text": "Like it was far away and it was just, oh my God, total disaster."
+  },
+  {
+   "start": 301.52,
+   "end": 304.9,
+   "text": "Somebody needs to invent a new goddamn earphones for these at work."
+  },
+  {
+   "start": 305.94,
+   "end": 308.02,
+   "text": "Cause that'll really keep me going for the swimming."
+  },
+  {
+   "start": 308.14,
+   "end": 311.0,
+   "text": "You know, I'm not a good swimmer and I'm out of shape."
+  },
+  {
+   "start": 311.0,
+   "end": 313.96,
+   "text": "And so to have music in there would really help, but it's the mute, the sounds."
+  },
+  {
+   "start": 314.66,
+   "end": 323.22,
+   "text": "I'm glad I didn't try to listen to a book today in the pool because there's no way that I could have understood anything, you know?"
+  },
+  {
+   "start": 323.5,
+   "end": 325.86,
+   "text": "I mean, I could barely even tell what song was playing."
+  },
+  {
+   "start": 325.98,
+   "end": 326.6,
+   "text": "So it was bullshit."
+  },
+  {
+   "start": 327.16,
+   "end": 328.62,
+   "text": "I'm not doing the flip kicks."
+  },
+  {
+   "start": 328.72,
+   "end": 333.58,
+   "text": "I think I tried a flip kick though today and it was way better than yesterday."
+  },
+  {
+   "start": 333.72,
+   "end": 339.22,
+   "text": "The last time I tried to flip kick, I do the flip kick and I'm just like, until I get to the other side."
+  },
+  {
+   "start": 339.22,
+   "end": 341.68,
+   "text": "I'm like, not another flip kick, you know?"
+  },
+  {
+   "start": 341.68,
+   "end": 346.06,
+   "text": "So today I did one and I was a little bit out of shape, but out of breath, but I was good."
+  },
+  {
+   "start": 346.16,
+   "end": 352.2,
+   "text": "So, you know, once I get my appetite going and my, my fitness going, I'll be able to do the flip turns and maybe flip turns the whole day."
+  },
+  {
+   "start": 352.2,
+   "end": 358.82,
+   "text": "And then I'll actually be able to do, um, do, do these 10 Ks like in a reasonable time."
+  },
+  {
+   "start": 359.16,
+   "end": 361.88,
+   "text": "It took me like three hours and 20 minutes or something."
+  },
+  {
+   "start": 361.98,
+   "end": 369.16,
+   "text": "I don't have my watch with me to do, to do the 7,520 meters in the pool, 15 meter pool."
+  },
+  {
+   "start": 369.16,
+   "end": 374.0,
+   "text": "But, um, it's actually a 15.2 meter pool, but they don't have it so that you can set it in feet."
+  },
+  {
+   "start": 374.0,
+   "end": 377.94,
+   "text": "So they're chancing me a quarter of a meter every time I turn around."
+  },
+  {
+   "start": 378.16,
+   "end": 385.6,
+   "text": "But, um, but, um, um, I used swim.com on my Apple watch."
+  },
+  {
+   "start": 385.68,
+   "end": 386.9,
+   "text": "It's the first time I used that app."
+  },
+  {
+   "start": 386.9,
+   "end": 395.98,
+   "text": "I used the, the, the workout app that comes with the Apple watch until now, but it only connected to my watch a couple of times and I couldn't find it."
+  },
+  {
+   "start": 395.98,
+   "end": 401.2,
+   "text": "So if it can, if you can get it to connect to the watch, you can upload it to Strava and use Strava with it."
+  },
+  {
+   "start": 401.2,
+   "end": 414.06,
+   "text": "But if it can't connect to the watch, you know, so I'm going to see maybe now tonight, I'll see if I can use swim.com to connect to my watch so that I can then connect it to Strava."
+  },
+  {
+   "start": 414.06,
+   "end": 420.94,
+   "text": "So, um, um, so yeah, tomorrow's it snowed all day today is unfucking believable."
+  },
+  {
+   "start": 420.94,
+   "end": 422.68,
+   "text": "So tomorrow, and it was freezing."
+  },
+  {
+   "start": 422.68,
+   "end": 425.42,
+   "text": "It's like 35 degrees now is freezing cold today."
+  },
+  {
+   "start": 425.42,
+   "end": 428.98,
+   "text": "So, but tomorrow I didn't look the temperature."
+  },
+  {
+   "start": 429.06,
+   "end": 433.94,
+   "text": "I got to look at the temperature, but there's not going to be any, uh, rain tomorrow."
+  },
+  {
+   "start": 433.94,
+   "end": 435.62,
+   "text": "So I'm going to try and do my run."
+  },
+  {
+   "start": 435.72,
+   "end": 437.18,
+   "text": "That'll be my first real run."
+  },
+  {
+   "start": 437.28,
+   "end": 437.62,
+   "text": "Yay."
+  },
+  {
+   "start": 437.8,
+   "end": 438.22,
+   "text": "Tomorrow."
+  },
+  {
+   "start": 438.72,
+   "end": 440.4,
+   "text": "Cause I ran 4.85 miles."
+  },
+  {
+   "start": 440.46,
+   "end": 441.34,
+   "text": "Didn't go well at all."
+  },
+  {
+   "start": 441.34,
+   "end": 447.42,
+   "text": "My max miles one 1129 and my average mile is 1230 for less than five miles of running."
+  },
+  {
+   "start": 447.42,
+   "end": 451.2,
+   "text": "So, um, and I can't run at all on the treadmill."
+  },
+  {
+   "start": 451.4,
+   "end": 454.6,
+   "text": "I can run like four miles an hour, which doesn't even look like running on Swift."
+  },
+  {
+   "start": 454.68,
+   "end": 456.22,
+   "text": "It's just looks like a guy walking."
+  },
+  {
+   "start": 457.28,
+   "end": 459.74,
+   "text": "Um, and that only lasted a little, a mile and a half."
+  },
+  {
+   "start": 459.74,
+   "end": 462.06,
+   "text": "So what I'm going to do is I'm going to do mountain running."
+  },
+  {
+   "start": 462.16,
+   "end": 463.84,
+   "text": "Mountain running makes stuff easy."
+  },
+  {
+   "start": 464.28,
+   "end": 469.34,
+   "text": "Cause cause when you're going up a hill, you don't go fast anyway."
+  },
+  {
+   "start": 469.34,
+   "end": 472.7,
+   "text": "It's kind of like riding a bike and then going downhill, you can just kind of take advantage"
+  },
+  {
+   "start": 472.7,
+   "end": 476.12,
+   "text": "Of the, of the, uh, gravity."
+  },
+  {
+   "start": 476.12,
+   "end": 478.6,
+   "text": "As long as you don't, you know, lose control."
+  },
+  {
+   "start": 478.94,
+   "end": 480.0,
+   "text": "I can't stop."
+  },
+  {
+   "start": 480.04,
+   "end": 483.12,
+   "text": "Remember when you're a kid and you're running downhill and you're like, Oh shit, I can't"
+  },
+  {
+   "start": 483.12,
+   "end": 483.48,
+   "text": "Stop."
+  },
+  {
+   "start": 483.54,
+   "end": 484.54,
+   "text": "I can't slow down either."
+  },
+  {
+   "start": 484.88,
+   "end": 486.72,
+   "text": "You're like a truck without the brakes."
+  },
+  {
+   "start": 487.64,
+   "end": 490.86,
+   "text": "I haven't, that's never happened as an adult, but I used to have it a lot as a kid."
+  },
+  {
+   "start": 490.86,
+   "end": 498.3,
+   "text": "Um, so, um, so yeah, I'm going to just climb as many mountains as I can, but I feel kind"
+  },
+  {
+   "start": 498.3,
+   "end": 499.2,
+   "text": "Of beat today, dude."
+  },
+  {
+   "start": 499.2,
+   "end": 501.28,
+   "text": "Like I couldn't, I couldn't have swum 10 kilometers."
+  },
+  {
+   "start": 501.54,
+   "end": 506.1,
+   "text": "I don't think maybe I was fully recovered or I was kind of maybe from yesterday, you know,"
+  },
+  {
+   "start": 506.16,
+   "end": 508.2,
+   "text": "Wasn't totally firing at all."
+  },
+  {
+   "start": 510.4,
+   "end": 512.9,
+   "text": "So that's my, uh, that's my V log."
+  },
+  {
+   "start": 512.98,
+   "end": 514.24,
+   "text": "Hopefully I'll be able to sleep tonight."
+  },
+  {
+   "start": 514.28,
+   "end": 515.14,
+   "text": "I'm back on Adver."
+  },
+  {
+   "start": 515.14,
+   "end": 519.18,
+   "text": "I got a new medical, I'm one level up for Medicaid now."
+  },
+  {
+   "start": 519.88,
+   "end": 522.9,
+   "text": "I was on Medicaid the last few years and now I'm one level up from it."
+  },
+  {
+   "start": 523.56,
+   "end": 527.28,
+   "text": "Um, but they still give you the Advairs for like three bucks or six bucks or something."
+  },
+  {
+   "start": 527.28,
+   "end": 528.56,
+   "text": "So you can still get the Advair."
+  },
+  {
+   "start": 528.66,
+   "end": 529.16,
+   "text": "So that's good."
+  },
+  {
+   "start": 529.54,
+   "end": 535.1,
+   "text": "I can start taking my Advair and get my steroids, be able to breathe, but I never get asthma"
+  },
+  {
+   "start": 535.1,
+   "end": 535.6,
+   "text": "In the pool."
+  },
+  {
+   "start": 536.22,
+   "end": 540.18,
+   "text": "I, uh, even if I go in there with a slight asthma attack, the asthma goes away in the pool"
+  },
+  {
+   "start": 540.18,
+   "end": 543.52,
+   "text": "Because the water, it's all pure and the ions is awesome."
+  },
+  {
+   "start": 543.6,
+   "end": 544.18,
+   "text": "I love it."
+  },
+  {
+   "start": 544.18,
+   "end": 545.2,
+   "text": "Um, okay."
+  },
+  {
+   "start": 545.22,
+   "end": 546.32,
+   "text": "So that's enough talking."
+  },
+  {
+   "start": 546.38,
+   "end": 551.34,
+   "text": "I'll talk tomorrow and say how my run went and see, see if I was recovered enough from"
+  },
+  {
+   "start": 551.34,
+   "end": 551.72,
+   "text": "The swim."
+  },
+  {
+   "start": 551.82,
+   "end": 557.1,
+   "text": "I'm really not interested in recovering, you know, I'll just go ahead and overtrain now."
+  },
+  {
+   "start": 557.18,
+   "end": 562.1,
+   "text": "It's a, it's the best way for me, you know, as long as your spirits are high, maybe I'll"
+  },
+  {
+   "start": 562.1,
+   "end": 568.98,
+   "text": "Listen to music tomorrow, but I want to finish my, uh, my popular, popular history of Ireland"
+  },
+  {
+   "start": 568.98,
+   "end": 572.82,
+   "text": "Because, um, uh, it's the most boring fucking book ever."
+  },
+  {
+   "start": 572.82,
+   "end": 576.9,
+   "text": "It's like 2000 pages and I shouldn't have started after I'm done with Ireland, I'll"
+  },
+  {
+   "start": 576.9,
+   "end": 579.8,
+   "text": "Study a little bit of the history of Ireland cause I'm not really even learning anything"
+  },
+  {
+   "start": 579.8,
+   "end": 583.78,
+   "text": "Because it's just like, and then O'Connell, you know what I mean?"
+  },
+  {
+   "start": 583.78,
+   "end": 590.86,
+   "text": "But, um, um, yeah, I'll do like Diogenes, a book that I'm good at that's philosophy and"
+  },
+  {
+   "start": 590.86,
+   "end": 591.62,
+   "text": "That'll be good."
+  },
+  {
+   "start": 592.16,
+   "end": 593.82,
+   "text": "But yeah, I'll try to make my Ireland book."
+  },
+  {
+   "start": 593.88,
+   "end": 595.1,
+   "text": "I want to, you know, get this going."
+  },
+  {
+   "start": 595.22,
+   "end": 597.98,
+   "text": "As soon as I do my Ireland book, I'll feel like I'm, I'm getting going."
+  },
+  {
+   "start": 598.1,
+   "end": 599.66,
+   "text": "I like the gears are engaged, you know?"
+  },
+  {
+   "start": 599.66,
+   "end": 602.4,
+   "text": "Okay, there's, so there's my 10 minute video for today."
+  },
+  {
+   "start": 602.54,
+   "end": 603.24,
+   "text": "Talk to you tomorrow."
+  }
+ ]
+}

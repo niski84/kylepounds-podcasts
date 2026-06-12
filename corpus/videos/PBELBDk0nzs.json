@@ -1,0 +1,398 @@
+{
+ "youtube_id": "PBELBDk0nzs",
+ "title": "Living in Boulder vlog 1 -  21 - 2018: Google Earthing Roman Colosseum Stairs",
+ "url": "https://youtu.be/PBELBDk0nzs",
+ "published_at": "2018-01-21",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder on January 21, 2018, giving a progress update on his ongoing Google Earth reconstruction of the Roman Colosseum. He explains the stair and seating tier structure he has been mapping (lower rows, upper rows, tunnels, levels), describes his poor internet connection preventing him from loading Google's own 3D Rome model, and outlines his next steps: finishing the stairs, tracing the stands, color-coding zones, and eventually modeling the two-level basement.",
+  "speaker": "kyle",
+  "topics": [
+   "Google Earth 3D modeling",
+   "Roman Colosseum architecture",
+   "Boulder daily life vlog",
+   "poor internet connection",
+   "screen capture video planning"
+  ],
+  "stances": [
+   {
+    "topic": "Google Earth Colosseum model",
+    "position": "Worth building his own because his internet is too slow to use Google's Rome and his version will be more understandable via organized folders"
+   },
+   {
+    "topic": "Colosseum stair complexity",
+    "position": "The stair routing is not totally simple and needs careful modeling so viewers can understand the design"
+   }
+  ],
+  "entities": [
+   "Roman Colosseum",
+   "Google Earth",
+   "Boulder",
+   "Rome"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.69,
+   "end": 3.69,
+   "text": "Well, I didn't, and bolder V-log."
+  },
+  {
+   "start": 5.69,
+   "end": 11.69,
+   "text": "And currently it is 10 o'clock AM on January,"
+  },
+  {
+   "start": 11.69,
+   "end": 13.69,
+   "text": "Wow, January 21st."
+  },
+  {
+   "start": 13.69,
+   "end": 16.69,
+   "text": "We have moved them forward in time."
+  },
+  {
+   "start": 16.69,
+   "end": 18.69,
+   "text": "Okay."
+  },
+  {
+   "start": 19.69,
+   "end": 25.69,
+   "text": "So, I think that I get a video about two or three, four days ago."
+  },
+  {
+   "start": 25.69,
+   "end": 39.09,
+   "text": "Probably, and I can't remember what I was doing with the Coliseum."
+  },
+  {
+   "start": 40.09,
+   "end": 52.49,
+   "text": "But right now, I'm tracing, I mean, I'm not tracing."
+  },
+  {
+   "start": 52.49,
+   "end": 57.49,
+   "text": "I'm punching in the altitude to the stairs."
+  },
+  {
+   "start": 57.49,
+   "end": 62.49,
+   "text": "So, after that, oh, and since the last time I did a video,"
+  },
+  {
+   "start": 62.49,
+   "end": 65.49,
+   "text": "I traced the stance."
+  },
+  {
+   "start": 65.49,
+   "end": 70.49,
+   "text": "I traced the stance earlier, but I did it wrong."
+  },
+  {
+   "start": 70.49,
+   "end": 75.49,
+   "text": "Because I just did it directly out of the plethora of the plethora of national music."
+  },
+  {
+   "start": 75.49,
+   "end": 79.49,
+   "text": "But then I didn't realize that there was another section."
+  },
+  {
+   "start": 79.49,
+   "end": 84.49,
+   "text": "So, this said, in the lower part there's 20 rows, and then the upper part there's 16 rows."
+  },
+  {
+   "start": 84.49,
+   "end": 88.49,
+   "text": "And then the second part is divided into two."
+  },
+  {
+   "start": 88.49,
+   "end": 93.49,
+   "text": "So, what I did was I just put up a 20 rows in the lower part, 16 rows in the upper part,"
+  },
+  {
+   "start": 93.49,
+   "end": 97.49,
+   "text": "and then another eight rows on top of that out in the upper upper part."
+  },
+  {
+   "start": 97.49,
+   "end": 102.49,
+   "text": "And then another five rows, whatever, in the upper upper part."
+  },
+  {
+   "start": 102.49,
+   "end": 113.18,
+   "text": "Yes, so after I've done punching in these stairs, which will be like tomorrow,"
+  },
+  {
+   "start": 113.18,
+   "end": 116.18,
+   "text": "or whatever today, this afternoon I think I'm going to go see now,"
+  },
+  {
+   "start": 116.18,
+   "end": 118.18,
+   "text": "going to bed, try to get sleep."
+  },
+  {
+   "start": 118.18,
+   "end": 122.18,
+   "text": "I'm going to go work a little bit more until I get that first."
+  },
+  {
+   "start": 122.18,
+   "end": 127.18,
+   "text": "You know how like you, you forget to eat, and then you get that first target pack,"
+  },
+  {
+   "start": 127.18,
+   "end": 129.18,
+   "text": "and then you go, oh yeah, I'm going to go eat."
+  },
+  {
+   "start": 129.18,
+   "end": 131.18,
+   "text": "And then that's the same thing with going to sleep."
+  },
+  {
+   "start": 131.18,
+   "end": 134.18,
+   "text": "Like you're working, and then you get that first tired pack, and then you go, okay,"
+  },
+  {
+   "start": 134.18,
+   "end": 136.18,
+   "text": "and then you go, okay, then you go, so yeah, maybe I'll do that."
+  },
+  {
+   "start": 136.18,
+   "end": 140.18,
+   "text": "I'll work until I get that first tired pack."
+  },
+  {
+   "start": 140.18,
+   "end": 144.81,
+   "text": "It's just got really high, you know,"
+  },
+  {
+   "start": 144.81,
+   "end": 148.81,
+   "text": "I don't know, I don't know, I really high, it kind of makes you wake up a little bit."
+  },
+  {
+   "start": 148.81,
+   "end": 158.81,
+   "text": "But, um, so, uh, yeah, so the next thing, when I assume it's under these stairs,"
+  },
+  {
+   "start": 158.81,
+   "end": 162.81,
+   "text": "which isn't very long, wouldn't, won't take very long,"
+  },
+  {
+   "start": 162.81,
+   "end": 165.81,
+   "text": "I'm going to trace in the stands."
+  },
+  {
+   "start": 165.81,
+   "end": 171.81,
+   "text": "Well, I'm going to do it the top of the stairs, so I know where to trace the stands,"
+  },
+  {
+   "start": 171.81,
+   "end": 175.81,
+   "text": "and then trace the stands, and then do the altitude from the stands,"
+  },
+  {
+   "start": 175.81,
+   "end": 179.81,
+   "text": "and then I'll begin to close, so now I'm going to redo the bubbles around,"
+  },
+  {
+   "start": 179.81,
+   "end": 187.81,
+   "text": "I just make a color-coded, um, and then, oh, and then figure out,"
+  },
+  {
+   "start": 187.81,
+   "end": 194.81,
+   "text": "yeah, or do the different tunnels on the top, just complicated, so, um,"
+  },
+  {
+   "start": 195.81,
+   "end": 202.81,
+   "text": "just do as good as I can, um, and stairs to, um,"
+  },
+  {
+   "start": 202.81,
+   "end": 206.81,
+   "text": "the way that the call is to emerge is not totally simple."
+  },
+  {
+   "start": 206.81,
+   "end": 214.81,
+   "text": "You have the inner ring and the stairs go up to take it to the first level,"
+  },
+  {
+   "start": 214.81,
+   "end": 219.81,
+   "text": "and then you have the stairs as exact, take it to the second level, and then the other stairs go up,"
+  },
+  {
+   "start": 219.81,
+   "end": 226.81,
+   "text": "instead of going up to the third level, they go to like, a level just blow the third level,"
+  },
+  {
+   "start": 226.81,
+   "end": 231.81,
+   "text": "and this little tunnels that go around the edge, and if you want to get to the third level,"
+  },
+  {
+   "start": 231.81,
+   "end": 236.81,
+   "text": "you have to go up another little five stairs, so it's, um,"
+  },
+  {
+   "start": 236.81,
+   "end": 245.81,
+   "text": "but the idea is to design it on Google Earth to make it so that it's really easy to understand how it's designed,"
+  },
+  {
+   "start": 245.81,
+   "end": 249.81,
+   "text": "because you can dismantle it with all the different folders,"
+  },
+  {
+   "start": 249.81,
+   "end": 258.44,
+   "text": "it's, uh, different bits and pieces that, um, and, um, and, you know,"
+  },
+  {
+   "start": 258.44,
+   "end": 262.44,
+   "text": "and also it's a travel through a YouTube capture, screen captures of myself writing that by,"
+  },
+  {
+   "start": 262.44,
+   "end": 269.44,
+   "text": "through the, uh, call, zoom, but, uh, yeah, hopefully the computer can handle it."
+  },
+  {
+   "start": 269.44,
+   "end": 274.44,
+   "text": "I'm curious to see if the computer will be able to handle wrong when I'm done with"
+  },
+  {
+   "start": 274.44,
+   "end": 281.44,
+   "text": "room, because I'll get a pretty big pile. I can't do room, uh, Google's room at all,"
+  },
+  {
+   "start": 281.44,
+   "end": 288.44,
+   "text": "because my internet sucks. I left it right on top of the call of zoom, because I wanted to look"
+  },
+  {
+   "start": 288.44,
+   "end": 292.44,
+   "text": "at something, and I went to a shower or something, or it got some of the, like, 10 minutes,"
+  },
+  {
+   "start": 292.44,
+   "end": 298.44,
+   "text": "came back, and never appeared. And then I tried it again, just staring at it for letting it"
+  },
+  {
+   "start": 298.44,
+   "end": 304.44,
+   "text": "there, it looked like five minutes, and it just never appeared. And that's with my Ethernet cable,"
+  },
+  {
+   "start": 304.44,
+   "end": 309.44,
+   "text": "plugged in, so I can't, um, I thought there was something wrong with my website,"
+  },
+  {
+   "start": 309.44,
+   "end": 315.44,
+   "text": "and what's my website, and the pages weren't letting it, but I realized it was because my internet sucks."
+  },
+  {
+   "start": 315.44,
+   "end": 325.44,
+   "text": "So, uh, so yeah, that's, so, that's why I'm building, or why I need my, uh,"
+  },
+  {
+   "start": 325.44,
+   "end": 333.44,
+   "text": "the Google version of, uh, room that I'm making, Google Earth. But, uh, I'm looking,"
+  },
+  {
+   "start": 333.44,
+   "end": 339.44,
+   "text": "I'm curious to see if it'll be able to handle it when I'm done, because I don't need a really big pile."
+  },
+  {
+   "start": 339.44,
+   "end": 347.04,
+   "text": "Uh, it's not that big of a deal, because you can just cut bits out if you want to screen capture"
+  },
+  {
+   "start": 347.04,
+   "end": 354.04,
+   "text": "certain stuff. And if you want to screen capture video screen capture the whole city, when it's frozen like that,"
+  },
+  {
+   "start": 355.04,
+   "end": 361.04,
+   "text": "just, you know, you just moved around slowly and then make the video a bit lighter by piecing it together,"
+  },
+  {
+   "start": 361.04,
+   "end": 367.04,
+   "text": "and you can make it work. And then hopefully the next generation of computers will be able to handle it."
+  },
+  {
+   "start": 367.04,
+   "end": 381.04,
+   "text": "Um, so, uh, yeah, so, um, that'd be awesome to be done with the, uh, the call,"
+  },
+  {
+   "start": 381.04,
+   "end": 389.04,
+   "text": "and see the finishing, uh, product. I think that one also dried the, uh, basement."
+  },
+  {
+   "start": 389.04,
+   "end": 396.04,
+   "text": "There was a two-level basement. Um, and I had numbers, I had yet to see a plan of that on the internet."
+  },
+  {
+   "start": 396.04,
+   "end": 399.04,
+   "text": "I should type that. Because I have a look at that."
+  },
+  {
+   "start": 399.04,
+   "end": 403.04,
+   "text": "Okay, anyways, I think I've talked long enough. I'm gonna go straight now."
+  },
+  {
+   "start": 403.04,
+   "end": 405.04,
+   "text": "Later."
+  }
+ ]
+}

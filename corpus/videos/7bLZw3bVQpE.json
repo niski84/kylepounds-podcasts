@@ -1,0 +1,183 @@
+{
+ "youtube_id": "7bLZw3bVQpE",
+ "title": "Living in Boulder Vlog 10 - 23 - 2016",
+ "url": "https://youtu.be/7bLZw3bVQpE",
+ "published_at": "2016-10-24",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle shares a late-night vlog update from Boulder, recounting spotting 13 wild turkeys on a morning hike and working on a Google Earth ski resort project covering all 93 Colorado ski resorts (63 defunct, 28 current) for mobile viewing. He expects to finish the project within the week and muses about making follow-up videos comparing his favorite resorts.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "Colorado ski resorts",
+   "Google Earth project",
+   "wildlife encounter",
+   "goal tracking",
+   "internet issues"
+  ],
+  "stances": [
+   {
+    "topic": "ski resort project",
+    "position": "Excited and personally invested — describes resorts as feeling 'like people' with unique qualities"
+   },
+   {
+    "topic": "vlogging for accountability",
+    "position": "Finds the videos help him track time and remember what he accomplishes"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Colorado",
+   "Google Earth"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.02,
+   "end": 9.04,
+   "text": "Living in Boulder, V-Log. It's 12.03 a.m. on 24th, so this would be for the 23rd of October 2016."
+  },
+  {
+   "start": 9.76,
+   "end": 19.3,
+   "text": "This morning, I did a house up in the mountains at 9 and saw a gaggle of wild turkeys, 13 of them."
+  },
+  {
+   "start": 19.4,
+   "end": 26.66,
+   "text": "That was cool. I could smell them and see their little red things under their necks and everything."
+  },
+  {
+   "start": 26.66,
+   "end": 39.58,
+   "text": "And then came home and worked some more on the ski resorts, I think."
+  },
+  {
+   "start": 39.78,
+   "end": 53.44,
+   "text": "Today's subject was going to be talking about my different goals and how I do them and talking about them on YouTube."
+  },
+  {
+   "start": 53.44,
+   "end": 57.4,
+   "text": "It was interesting because I can never remember what I do."
+  },
+  {
+   "start": 59.62,
+   "end": 63.78,
+   "text": "And I lose track of time, so now that I'm doing videos."
+  },
+  {
+   "start": 67.16,
+   "end": 74.32,
+   "text": "So I'm going to... I think I said the other day that I thought I'd get done with the ski resorts in a week."
+  },
+  {
+   "start": 74.6,
+   "end": 76.42,
+   "text": "So today's Monday. So yeah, okay."
+  },
+  {
+   "start": 76.42,
+   "end": 79.82,
+   "text": "Okay, so next week between Monday and Friday, I think I'll be done with the ski resorts."
+  },
+  {
+   "start": 80.64,
+   "end": 88.2,
+   "text": "All the ski resorts in Colorado on my website for download on your cell phone."
+  },
+  {
+   "start": 88.2,
+   "end": 99.32,
+   "text": "So you could watch, you could see the line, you'll see it, the run, but you'll also see the movie."
+  },
+  {
+   "start": 100.06,
+   "end": 113.44,
+   "text": "You could ride along with every single run of all of the 63 defunct ski resorts and 28 current running ski resorts."
+  },
+  {
+   "start": 113.44,
+   "end": 116.2,
+   "text": "I'm in Colorado, 93 in total."
+  },
+  {
+   "start": 119.87,
+   "end": 123.89,
+   "text": "Do Google Earth movies on them with your cell phone in one week."
+  },
+  {
+   "start": 124.55,
+   "end": 129.91,
+   "text": "So, and then I can go back to Google Earth Boulder."
+  },
+  {
+   "start": 130.57,
+   "end": 133.09,
+   "text": "Maybe I could do some videos about the ski resorts, though."
+  },
+  {
+   "start": 133.13,
+   "end": 134.23,
+   "text": "That'd be cool because I'd be done."
+  },
+  {
+   "start": 134.39,
+   "end": 134.87,
+   "text": "That'd be cool."
+  },
+  {
+   "start": 134.95,
+   "end": 139.63,
+   "text": "I should do videos about it, like my favorite ski resorts in all the different categories."
+  },
+  {
+   "start": 139.63,
+   "end": 144.77,
+   "text": "Because I kind of feel like they're like people, you know, and they all have different qualities."
+  },
+  {
+   "start": 145.17,
+   "end": 146.33,
+   "text": "And it's really, it's cool."
+  },
+  {
+   "start": 146.85,
+   "end": 150.61,
+   "text": "Makes me want to look at the ones in Europe and compare them a little bit after."
+  },
+  {
+   "start": 152.63,
+   "end": 155.97,
+   "text": "So that's what I was doing today."
+  },
+  {
+   "start": 157.27,
+   "end": 159.55,
+   "text": "They're going to come out and see if they can fix my internet tomorrow."
+  },
+  {
+   "start": 159.67,
+   "end": 161.07,
+   "text": "If they can, I can do videos."
+  },
+  {
+   "start": 161.45,
+   "end": 166.97,
+   "text": "But that's probably all that I should do for now."
+  },
+  {
+   "start": 167.51,
+   "end": 168.31,
+   "text": "Peace out."
+  },
+  {
+   "start": 168.31,
+   "end": 198.29,
+   "text": "Peace out."
+  }
+ ]
+}

@@ -1,0 +1,229 @@
+{
+ "youtube_id": "zrOtbVutquc",
+ "title": "Living in Boulder Vlog 5 - 3 - 2014",
+ "url": "https://youtu.be/zrOtbVutquc",
+ "published_at": "",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle films a short vlog from Boulder on a Sunday, recounting how he accidentally went to work on Saturday, discovered a new outdoor summer workspace near his home, got high with his roommate, and plans to spend the day making videos. The vlog ends with a brief dramatic spoken-word passage about warlords and battle.",
+  "speaker": "kyle",
+  "topics": [
+   "daily life",
+   "Boulder living",
+   "working from home",
+   "cannabis",
+   "outdoor workspace",
+   "vlog"
+  ],
+  "stances": [
+   {
+    "topic": "outdoor workspace",
+    "position": "Excited about his new summertime outdoor office spot with mountain views"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Flatirons",
+   "Luis Buraki"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 8.84,
+   "text": "Hello, living in Boulder V-Log for the, I think the, uh, well, for yesterday, the 3rd of, uh, of, uh, May."
+  },
+  {
+   "start": 9.74,
+   "end": 11.96,
+   "text": "Oh, it was Saturday. I didn't know it was Saturday."
+  },
+  {
+   "start": 12.16,
+   "end": 13.84,
+   "text": "And I went to work thinking it was a weekday."
+  },
+  {
+   "start": 14.66,
+   "end": 24.36,
+   "text": "Just a block from my house, a couple places, three places, and then came back and, um, was working, um, here."
+  },
+  {
+   "start": 25.96,
+   "end": 29.84,
+   "text": "And then I, until my computer broke, and then I, or I thought that the computer broke."
+  },
+  {
+   "start": 30.0,
+   "end": 31.02,
+   "text": "I'll show you what really happened."
+  },
+  {
+   "start": 31.68,
+   "end": 34.1,
+   "text": "But I discovered my new, my new place."
+  },
+  {
+   "start": 34.64,
+   "end": 39.32,
+   "text": "Here's my new, uh, summertime, summertime office area."
+  },
+  {
+   "start": 40.22,
+   "end": 45.18,
+   "text": "I'm gonna put, um, flowers up there, here, in a little bit."
+  },
+  {
+   "start": 45.92,
+   "end": 48.88,
+   "text": "Got my tree. You can see the mountaintop over there."
+  },
+  {
+   "start": 50.0,
+   "end": 51.36,
+   "text": "Pretty groovy, pretty groovy."
+  },
+  {
+   "start": 52.78,
+   "end": 55.1,
+   "text": "So, it's like, yeah, working out all day here."
+  },
+  {
+   "start": 55.54,
+   "end": 63.28,
+   "text": "Um, and, um, I guess that's all I do."
+  },
+  {
+   "start": 63.3,
+   "end": 64.92,
+   "text": "Oh, I did. Oh, yeah, and I did the videos."
+  },
+  {
+   "start": 65.04,
+   "end": 69.84,
+   "text": "I did videos. But then, um, yeah, I ran out of time."
+  },
+  {
+   "start": 70.24,
+   "end": 72.62,
+   "text": "So, I'm gonna spend the rest of the day doing videos."
+  },
+  {
+   "start": 72.76,
+   "end": 74.04,
+   "text": "Today is, uh, Sunday."
+  },
+  {
+   "start": 75.4,
+   "end": 76.34,
+   "text": "My day off."
+  },
+  {
+   "start": 76.44,
+   "end": 78.44,
+   "text": "So, uh, do some videos today."
+  },
+  {
+   "start": 79.42,
+   "end": 80.86,
+   "text": "Oh, wait, well, that's today's vlog."
+  },
+  {
+   "start": 81.52,
+   "end": 85.2,
+   "text": "Um, man, I had a lot of stuff to say."
+  },
+  {
+   "start": 85.26,
+   "end": 87.2,
+   "text": "I got really high. My roommate was giving me a weeb."
+  },
+  {
+   "start": 87.2,
+   "end": 89.72,
+   "text": "Um, but I was doing pretty good with the talking video,"
+  },
+  {
+   "start": 89.88,
+   "end": 91.08,
+   "text": "So I think I'll do it some more."
+  },
+  {
+   "start": 91.62,
+   "end": 92.16,
+   "text": "Peace out."
+  },
+  {
+   "start": 94.32,
+   "end": 96.5,
+   "text": "Flatirons are looking nice today."
+  },
+  {
+   "start": 142.08,
+   "end": 144.12,
+   "text": "Battlezone's fought over by warlords."
+  },
+  {
+   "start": 145.04,
+   "end": 146.12,
+   "text": "Warrior against warrior."
+  },
+  {
+   "start": 146.46,
+   "end": 147.36,
+   "text": "Upon the battlefield."
+  },
+  {
+   "start": 150.25,
+   "end": 151.51,
+   "text": "He is an Omega warlord."
+  },
+  {
+   "start": 152.71,
+   "end": 153.85,
+   "text": "He is an Omega commander."
+  },
+  {
+   "start": 153.85,
+   "end": 154.85,
+   "text": "Upon the field of battle."
+  },
+  {
+   "start": 154.85,
+   "end": 154.99,
+   "text": "Thank you."
+  },
+  {
+   "start": 156.55,
+   "end": 157.03,
+   "text": "Luis Buraki."
+  },
+  {
+   "start": 157.11,
+   "end": 162.41,
+   "text": "Thank you."
+  },
+  {
+   "start": 162.47,
+   "end": 162.95,
+   "text": "Thank you."
+  },
+  {
+   "start": 167.13,
+   "end": 167.47,
+   "text": "Let's give it to you."
+  },
+  {
+   "start": 177.57,
+   "end": 178.23,
+   "text": "Because of the glory."
+  },
+  {
+   "start": 178.23,
+   "end": 178.25,
+   "text": "Welcome to the resurrection."
+  }
+ ]
+}

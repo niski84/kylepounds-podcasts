@@ -1,0 +1,194 @@
+{
+ "youtube_id": "zN42Q6cTg2c",
+ "title": "Do I like Pancakes? - Request",
+ "url": "https://youtu.be/zN42Q6cTg2c",
+ "published_at": "2016-02-06",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle responds to a viewer request asking if he likes pancakes. He says he does enjoy them but rarely makes them since he typically eats oatmeal, canned fruit, and protein powder for breakfast. He prefers waffles over pancakes for ease of cooking, and mentions pancake mix is great for backpacking trips due to its light weight and high calorie density, drawing on his experience traveling Europe in 2010.",
+  "speaker": "kyle",
+  "topics": [
+   "pancakes",
+   "breakfast habits",
+   "waffles",
+   "backpacking food",
+   "travel",
+   "diet"
+  ],
+  "stances": [
+   {
+    "topic": "pancakes",
+    "position": "Likes them but rarely eats them due to his usual breakfast routine"
+   },
+   {
+    "topic": "waffles vs pancakes",
+    "position": "Prefers waffles because they require less effort than flipping pancakes"
+   },
+   {
+    "topic": "pancake mix for travel",
+    "position": "Considers it an excellent backpacking food due to light weight and high calorie density"
+   },
+   {
+    "topic": "bread and grain",
+    "position": "Believes bread and grain are the most effective foods for energy while traveling"
+   }
+  ],
+  "entities": [
+   "Mark Dorio"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.58,
+   "end": 5.74,
+   "text": "Hello, hello, who's a video request by my"
+  },
+  {
+   "start": 7.46,
+   "end": 9.46,
+   "text": "Homey Mark Dorio"
+  },
+  {
+   "start": 11.14,
+   "end": 13.14,
+   "text": "What's a Kyle?"
+  },
+  {
+   "start": 13.54,
+   "end": 15.54,
+   "text": "Next video request five months ago"
+  },
+  {
+   "start": 16.34,
+   "end": 18.62,
+   "text": "But I did it even almost five months later"
+  },
+  {
+   "start": 18.94,
+   "end": 26.78,
+   "text": "Do you like pancakes it so what do you think about it? Please tell me your thoughts? Okay? I like pancakes. Yes pancakes are good. I don't need pancakes very often"
+  },
+  {
+   "start": 28.46,
+   "end": 30.46,
+   "text": "Because they take I eat"
+  },
+  {
+   "start": 31.26,
+   "end": 33.26,
+   "text": "oatmeal and"
+  },
+  {
+   "start": 34.1,
+   "end": 37.1,
+   "text": "Can fruit and how did"
+  },
+  {
+   "start": 37.62,
+   "end": 39.62,
+   "text": "protein powder for breakfast?"
+  },
+  {
+   "start": 39.62,
+   "end": 45.82,
+   "text": "But I like pancakes pancakes are good to make I should make more of them. I get I got to do"
+  },
+  {
+   "start": 47.74,
+   "end": 49.98,
+   "text": "crusty as types of pancakes that"
+  },
+  {
+   "start": 53.02,
+   "end": 57.9,
+   "text": "We just add the water and then you throw in I actually I don't do pancakes. I do awful as well"
+  },
+  {
+   "start": 57.9,
+   "end": 60.06,
+   "text": "Better than pancakes because you just throw it in"
+  },
+  {
+   "start": 60.86,
+   "end": 64.7,
+   "text": "We make the next thing you just pour it out with the pancake you have to kind of flip it around"
+  },
+  {
+   "start": 64.7,
+   "end": 68.62,
+   "text": "It sits more work, you know, it's with lawful which is kind of screaming and pick it out"
+  },
+  {
+   "start": 69.42,
+   "end": 71.42,
+   "text": "yeah, and then you can do your"
+  },
+  {
+   "start": 71.78,
+   "end": 73.78,
+   "text": "your"
+  },
+  {
+   "start": 75.5,
+   "end": 81.3,
+   "text": "Serum and you're a little bit of butter and it's good health it, you know, but I don't do it that much, but yeah, I do get"
+  },
+  {
+   "start": 81.86,
+   "end": 88.58,
+   "text": "pancakes are definitely definitely good good good food and also, you know for traveling, you know like the ordered and shell people"
+  },
+  {
+   "start": 89.7,
+   "end": 96.42,
+   "text": "It's a good lightweight if you to travel like if you're if you're on a backpack and trip it would be a good way because"
+  },
+  {
+   "start": 97.26,
+   "end": 103.06,
+   "text": "It's just a great, you know and grain doesn't weigh much and it's so it's a lot of calories for how much weight you're bringing and"
+  },
+  {
+   "start": 103.9,
+   "end": 108.9,
+   "text": "You know water comes along out the rivers and the streams and so yeah, you just get bringing it there and"
+  },
+  {
+   "start": 109.62,
+   "end": 112.18,
+   "text": "And it puffs up on this nice tasty thing and"
+  },
+  {
+   "start": 113.78,
+   "end": 114.98,
+   "text": "grain"
+  },
+  {
+   "start": 114.98,
+   "end": 122.74,
+   "text": "You know bread and grain is a good a lot of calories a good way to give you a food and energy to move down the road"
+  },
+  {
+   "start": 123.46,
+   "end": 128.26,
+   "text": "When I was back turning you're up in the 2010 I remember eating like vegetables of fruit"
+  },
+  {
+   "start": 130.58,
+   "end": 135.46,
+   "text": "Does really do it for you what does though the food is bread, you know bread and grain pancakes that get in into"
+  },
+  {
+   "start": 135.94,
+   "end": 137.94,
+   "text": "Good breakfast"
+  },
+  {
+   "start": 137.94,
+   "end": 139.94,
+   "text": "Okay"
+  }
+ ]
+}

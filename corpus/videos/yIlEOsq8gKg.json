@@ -1,0 +1,233 @@
+{
+ "youtube_id": "yIlEOsq8gKg",
+ "title": "Living in Boulder Vlog 3-7-2016",
+ "url": "https://youtu.be/yIlEOsq8gKg",
+ "published_at": "2016-03-09",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about a lazy day in Boulder on March 7, 2016: sleeping until 11am, biking to his mom's house to pay rent, watching six episodes of the TV show Outlander with her, and working ahead on his website before an upcoming surgery that he expects will significantly cut his productivity.",
+  "speaker": "kyle",
+  "topics": [
+   "daily routine",
+   "sleep habits",
+   "paying rent",
+   "TV show watching",
+   "website productivity",
+   "upcoming surgery",
+   "bike race content",
+   "computer repair"
+  ],
+  "stances": [
+   {
+    "topic": "sleeping late",
+    "position": "enjoys it and sees it as a pleasure"
+   },
+   {
+    "topic": "exercise and sleep",
+    "position": "being an athlete who exercises helps you sleep better; looks forward to that"
+   },
+   {
+    "topic": "Outlander (TV show)",
+    "position": "really good; plans to watch more episodes"
+   },
+   {
+    "topic": "upcoming surgery",
+    "position": "concerned it will cut his writing/production output by at least 50%; wants to get as far ahead as possible beforehand"
+   },
+   {
+    "topic": "current productivity window",
+    "position": "cherishes the remaining pre-surgery days of full output capacity"
+   }
+  ],
+  "entities": [
+   "Kyle's mom",
+   "Outlander",
+   "Boulder",
+   "Google Earth"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 6.64,
+   "text": "Who's living in boulder vlog for um the 7th I don't know I'll have to make sure"
+  },
+  {
+   "start": 6.64,
+   "end": 22.28,
+   "text": "Uh so what did I do today um I got up kind of late I got up at like uh like 10 30 or something"
+  },
+  {
+   "start": 22.28,
+   "end": 30.06,
+   "text": "Or 11 when you when I when I get up late um I like I like getting up late I like being up"
+  },
+  {
+   "start": 30.06,
+   "end": 36.16,
+   "text": "Really late you know I think I think uh yeah it was like seven hours last night I get like seven"
+  },
+  {
+   "start": 36.16,
+   "end": 45.44,
+   "text": "Hours when I'm not exercising you know seven maybe seven average or six even but yeah last night it"
+  },
+  {
+   "start": 45.44,
+   "end": 52.54,
+   "text": "Was seven because I think 11 minus seven is four yeah I was up to like four something and then got"
+  },
+  {
+   "start": 52.54,
+   "end": 57.34,
+   "text": "Up at like 11 that'd be like typical so I think that was like today was but sleeping in is pretty"
+  },
+  {
+   "start": 57.34,
+   "end": 65.82,
+   "text": "Cool because then the daylight's there you know and it's all bright but um but you're just totally"
+  },
+  {
+   "start": 65.82,
+   "end": 76.24,
+   "text": "Like glued to the bed and it's really um it's really enjoyable but I don't exercise at all and"
+  },
+  {
+   "start": 76.24,
+   "end": 82.9,
+   "text": "You know a lot of times when I work that it makes me tired enough to go to sleep but I smoke a lot of"
+  },
+  {
+   "start": 82.9,
+   "end": 92.64,
+   "text": "Um sativa weed and that makes me like you know also keeps you up so um sometimes I have excess"
+  },
+  {
+   "start": 92.64,
+   "end": 99.34,
+   "text": "Energy and I have trouble getting to sleep uh that's one bonus about being an athlete and exercising all"
+  },
+  {
+   "start": 99.34,
+   "end": 104.3,
+   "text": "The time I'm looking forward to when I start doing that is because you'd be able to sleep at night"
+  },
+  {
+   "start": 104.3,
+   "end": 116.88,
+   "text": "And uh but I'm going to uh you know what was I talking about yes that's what I did I got you got"
+  },
+  {
+   "start": 116.88,
+   "end": 127.28,
+   "text": "Up um at like 11 and then I think I had some food and I I went and got rent and then rode my bike over"
+  },
+  {
+   "start": 127.28,
+   "end": 136.4,
+   "text": "To my mom's house to pay my mom rent and uh she told me to watch to stay there and watch the tv show"
+  },
+  {
+   "start": 136.4,
+   "end": 143.56,
+   "text": "Outlander which I was talking about yesterday the lady who travels back in time to 1743 from 1943 and"
+  },
+  {
+   "start": 143.56,
+   "end": 150.2,
+   "text": "Hangs out with the scots and uh yeah so I I came back here I got my computer and went over there"
+  },
+  {
+   "start": 150.2,
+   "end": 155.14,
+   "text": "And uh watched the first six episodes it's really good I think I'm gonna go there tomorrow and watch"
+  },
+  {
+   "start": 155.14,
+   "end": 163.02,
+   "text": "The others like as many as I can to like the 17 episodes I'll work on friday uh so I'm gonna get as"
+  },
+  {
+   "start": 163.02,
+   "end": 172.82,
+   "text": "Much work done here until then I love working these um when I'm not working as much because"
+  },
+  {
+   "start": 172.82,
+   "end": 181.24,
+   "text": "I can't really get ahead on my website I want to get as head as I can as far ahead as I can for the"
+  },
+  {
+   "start": 181.24,
+   "end": 189.46,
+   "text": "Next three weeks or so however long it is because um yeah it's it yeah it's getting pretty soon until"
+  },
+  {
+   "start": 189.46,
+   "end": 196.12,
+   "text": "My surgery that's good yeah because yeah um once I start riding my bike you know my production"
+  },
+  {
+   "start": 196.12,
+   "end": 204.18,
+   "text": "Um power especially when I'm working too you know my production uh from my website is gonna"
+  },
+  {
+   "start": 204.18,
+   "end": 215.36,
+   "text": "Dip tremendously you know maybe at least 50 or more you know so um you know I need to cherish the last"
+  },
+  {
+   "start": 215.36,
+   "end": 222.1,
+   "text": "Remaining days of just super nitro power I have you know I'm getting a lot of I'm finishing up my"
+  },
+  {
+   "start": 222.1,
+   "end": 230.3,
+   "text": "Bike racer level pages on stuff that's super interesting and easy um you know I'm learning"
+  },
+  {
+   "start": 230.3,
+   "end": 243.63,
+   "text": "All kinds of stuff that I didn't know kind of like uh and then uh um my computer's still at the shop so"
+  },
+  {
+   "start": 243.63,
+   "end": 247.31,
+   "text": "Hopefully the guy said they try to get back to me by the end of the week so once I get that back I'll"
+  },
+  {
+   "start": 247.31,
+   "end": 255.07,
+   "text": "Get back on on my um on my google earth and see if I can power through that and get maybe boulder done"
+  },
+  {
+   "start": 255.07,
+   "end": 262.35,
+   "text": "Before I start riding my bike that'd be cool I don't know the town of boulder um or at least the"
+  },
+  {
+   "start": 262.35,
+   "end": 273.39,
+   "text": "Hard part done the plotting the everything tracing it uh so you know everything and not including all"
+  },
+  {
+   "start": 273.39,
+   "end": 282.51,
+   "text": "The buildings that'll be easy so uh and I can do that on the on the on the bike yeah I'm uh"
+  },
+  {
+   "start": 282.51,
+   "end": 295.37,
+   "text": "The more I think about it the more excited I get for it so 453 you know what five minute video that's"
+  },
+  {
+   "start": 295.37,
+   "end": 298.89,
+   "text": "Long enough peace out"
+  }
+ ]
+}

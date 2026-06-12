@@ -1,0 +1,973 @@
+{
+ "youtube_id": "UJlzhR4lces",
+ "title": "Living in Boulder vlog 5 - 17 - 2018: Google Earthing BouldeRome",
+ "url": "https://youtu.be/UJlzhR4lces",
+ "published_at": "2018-05-18",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle describes his ongoing Google Earth project mapping Boulder County, Colorado onto ancient Latium (Rome), finding geographic and historical parallels between the two regions. He details technical frustrations with Google Earth crashing, his method of matching 30 Boulder mountain towns to 30 Latium city-states, and his theory that Boulder County and Latium are nearly identical in size (~1860 square kilometers).",
+  "speaker": "kyle",
+  "topics": [
+   "Google Earth project",
+   "Boulder County history",
+   "ancient Rome/Latium parallels",
+   "mountain towns",
+   "historical geography",
+   "cannabis use",
+   "daily vlog"
+  ],
+  "stances": [
+   {
+    "topic": "Boulder County / Latium comparison",
+    "position": "Genuinely excited by the geographic and historical parallels; sees it as a meaningful pattern, not coincidence"
+   },
+   {
+    "topic": "May in Boulder",
+    "position": "Favorite month because of how green everything is"
+   },
+   {
+    "topic": "Wikipedia",
+    "position": "Getting really good with history — timelines for everything are impressive"
+   },
+   {
+    "topic": "Google Earth stability",
+    "position": "Frustrating to work with; crashes constantly and loses progress"
+   }
+  ],
+  "entities": [
+   "Boulder County",
+   "Boulder Canyon",
+   "Caribou (town)",
+   "Switzerland Trail",
+   "Albion (Boulder)",
+   "Alba Longa (Rome)",
+   "Latium",
+   "Rome",
+   "Italy",
+   "Greece",
+   "Colorado",
+   "America",
+   "Wikipedia",
+   "Mom (unnamed)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.5,
+   "end": 9.44,
+   "text": "Hello, holy shit. Oh right when I was saying that my flashlight died. I mean my my light bulb died"
+  },
+  {
+   "start": 11.44,
+   "end": 14.44,
+   "text": "Cuz it was happening like literally right when I hit play"
+  },
+  {
+   "start": 14.94,
+   "end": 18.94,
+   "text": "So I don't have enough light there cuz my light bulb just died like literally right now"
+  },
+  {
+   "start": 19.58,
+   "end": 21.58,
+   "text": "Okay, it's their talking"
+  },
+  {
+   "start": 23.78,
+   "end": 25.78,
+   "text": "Okay, so it's 544 PM"
+  },
+  {
+   "start": 25.78,
+   "end": 27.78,
+   "text": "Um"
+  },
+  {
+   "start": 28.98,
+   "end": 32.1,
+   "text": "That may 17 of"
+  },
+  {
+   "start": 32.74,
+   "end": 34.74,
+   "text": "2018 on the Thursday"
+  },
+  {
+   "start": 35.5,
+   "end": 37.5,
+   "text": "So"
+  },
+  {
+   "start": 37.5,
+   "end": 41.42,
+   "text": "It's super super random green outside may I think is my"
+  },
+  {
+   "start": 43.06,
+   "end": 45.06,
+   "text": "Oh"
+  },
+  {
+   "start": 45.06,
+   "end": 48.94,
+   "text": "It's my favorite month because it's just a green"
+  },
+  {
+   "start": 51.82,
+   "end": 53.82,
+   "text": "So"
+  },
+  {
+   "start": 55.78,
+   "end": 61.54,
+   "text": "Yeah, it's been like a few days since I did my last video in the last that I just looked on YouTube the last video I did"
+  },
+  {
+   "start": 62.22,
+   "end": 65.14,
+   "text": "It said like Googler thing"
+  },
+  {
+   "start": 65.74,
+   "end": 68.74,
+   "text": "Boulder photos. I thought I did a video since then"
+  },
+  {
+   "start": 71.06,
+   "end": 74.06,
+   "text": "Yeah, cuz I have I"
+  },
+  {
+   "start": 74.62,
+   "end": 77.82,
+   "text": "'ve I've I've I've I've kind of moved on since then"
+  },
+  {
+   "start": 79.46,
+   "end": 82.68,
+   "text": "Yeah, living in Boulder Googler thing. Oh, it doesn't say"
+  },
+  {
+   "start": 82.68,
+   "end": 89.0,
+   "text": "Good to learn anything you have to click on it to be able to see the whole title. Yeah, yeah, Boulder photos"
+  },
+  {
+   "start": 89.56,
+   "end": 91.56,
+   "text": "Yeah, so"
+  },
+  {
+   "start": 91.96,
+   "end": 95.65,
+   "text": "So I've kind of finished Boulder photos"
+  },
+  {
+   "start": 95.81,
+   "end": 101.81,
+   "text": "Maybe you want to do the video. I thought it was gonna finish that day and then but then I moved on and then I remember there are a couple more photos"
+  },
+  {
+   "start": 101.81,
+   "end": 105.57,
+   "text": "There's like a couple of ditch. Oh, they got you know me that I'll see what he says about the ditches"
+  },
+  {
+   "start": 105.97,
+   "end": 108.45,
+   "text": "I didn't know exactly where some of those photos were taking but um"
+  },
+  {
+   "start": 109.53,
+   "end": 113.81,
+   "text": "So they don't want to do the photos of Boulder Canyon. I guess when I did talk about this already"
+  },
+  {
+   "start": 114.53,
+   "end": 116.53,
+   "text": "but um"
+  },
+  {
+   "start": 117.85,
+   "end": 120.93,
+   "text": "Yeah, I think there's only because I made a full letter of them"
+  },
+  {
+   "start": 121.33,
+   "end": 126.45,
+   "text": "And I think there's only like 175 photos, you know not including"
+  },
+  {
+   "start": 126.81,
+   "end": 132.37,
+   "text": "Carboh that is like only mountain town that has a song folder, which is like 50 or something"
+  },
+  {
+   "start": 133.65,
+   "end": 139.09,
+   "text": "So that's what's so bad that I was thinking you know out instead of just going ahead and doing that"
+  },
+  {
+   "start": 139.09,
+   "end": 144.13,
+   "text": "I think I'd do a better job and be easier if I just make the"
+  },
+  {
+   "start": 144.29,
+   "end": 148.21,
+   "text": "Google do some good at everything first so because I looked it my"
+  },
+  {
+   "start": 150.85,
+   "end": 154.45,
+   "text": "I did a recap the review of my um I"
+  },
+  {
+   "start": 155.65,
+   "end": 157.65,
+   "text": "Have three different giant"
+  },
+  {
+   "start": 157.65,
+   "end": 164.21,
+   "text": "Canems the files on my Google Earth at the same time. I have to open it keep them all three open at the same time because I'm"
+  },
+  {
+   "start": 165.25,
+   "end": 172.37,
+   "text": "Cutting and pasting between them you know I'm gathering between Italy and Boulder Canyon to put into my Google Earth and my whole room"
+  },
+  {
+   "start": 172.37,
+   "end": 179.81,
+   "text": "So that's just like a lot of stuff on there and my Google Earth crash like 10 times yesterday"
+  },
+  {
+   "start": 180.21,
+   "end": 187.33,
+   "text": "So annoying the crash is I have to figure out ways for it to not crash and then when it rings it up it tries to bring me up something from 3 to 0"
+  },
+  {
+   "start": 187.33,
+   "end": 192.77,
+   "text": "It's been if I saved that without noticing that I'm jackback three weeks and the stores and somewhere of thing, but"
+  },
+  {
+   "start": 194.93,
+   "end": 195.65,
+   "text": "Um"
+  },
+  {
+   "start": 195.65,
+   "end": 200.61,
+   "text": "If I I can't right click paste if I right click paste it crashes"
+  },
+  {
+   "start": 202.45,
+   "end": 207.57,
+   "text": "I have to I have to right click double click to highlight it again and then paste"
+  },
+  {
+   "start": 209.33,
+   "end": 211.33,
+   "text": "And then I also can't um"
+  },
+  {
+   "start": 212.45,
+   "end": 215.99,
+   "text": "I can't uh"
+  },
+  {
+   "start": 215.99,
+   "end": 220.15,
+   "text": "I think I think that was the other thing thought that was something else I'm pretty high right now"
+  },
+  {
+   "start": 220.71,
+   "end": 222.71,
+   "text": "But yeah, that's really easy"
+  },
+  {
+   "start": 224.71,
+   "end": 227.75,
+   "text": "She constantly remember and so I had to redo like"
+  },
+  {
+   "start": 228.55,
+   "end": 232.15,
+   "text": "Recycling care with three times because I literally couldn't get ahead"
+  },
+  {
+   "start": 232.15,
+   "end": 235.99,
+   "text": "I'm trying to stay left everyone but so anyways, um"
+  },
+  {
+   "start": 237.11,
+   "end": 239.11,
+   "text": "I"
+  },
+  {
+   "start": 239.27,
+   "end": 242.31,
+   "text": "The thing that I so what I decided is yeah, I needed to I was gonna build"
+  },
+  {
+   "start": 244.15,
+   "end": 245.35,
+   "text": "Um"
+  },
+  {
+   "start": 245.59,
+   "end": 249.51,
+   "text": "I guess finished Boulder County the Google of Boulder County and then Boulder Row and"
+  },
+  {
+   "start": 250.23,
+   "end": 252.71,
+   "text": "So yeah, I cuz I saw this map"
+  },
+  {
+   "start": 253.59,
+   "end": 260.95,
+   "text": "I guess when I talked about this already, but it resolved the um the mines and I drew mines that and then I found this website that had the actual"
+  },
+  {
+   "start": 263.35,
+   "end": 267.75,
+   "text": "GPS and names of all the mines so I'll use them together the map that I'm looking at and the website"
+  },
+  {
+   "start": 268.63,
+   "end": 271.03,
+   "text": "But um just the map shows how big they are"
+  },
+  {
+   "start": 272.47,
+   "end": 274.47,
+   "text": "And we're there"
+  },
+  {
+   "start": 275.51,
+   "end": 277.51,
+   "text": "but"
+  },
+  {
+   "start": 280.1,
+   "end": 286.5,
+   "text": "So I finished drawing Boulder County and that was interesting because there's three reservoirs that"
+  },
+  {
+   "start": 286.5,
+   "end": 289.86,
+   "text": "It means there's one reservoir that has a town of you know since when you look at it"
+  },
+  {
+   "start": 289.86,
+   "end": 297.06,
+   "text": "You don't you think the mines and everything are but it was on the map so and the map is from 1914 and my map of Boulder"
+  },
+  {
+   "start": 297.06,
+   "end": 301.06,
+   "text": "1915 so I it's all for the same time I think that's cool"
+  },
+  {
+   "start": 302.42,
+   "end": 305.06,
+   "text": "Cuz the map of Boulder for 1915 is the most detailed"
+  },
+  {
+   "start": 305.94,
+   "end": 310.18,
+   "text": "uh so yeah, so I traced and the"
+  },
+  {
+   "start": 311.7,
+   "end": 313.7,
+   "text": "there"
+  },
+  {
+   "start": 314.42,
+   "end": 319.7,
+   "text": "Switzerland Trail that the train in Boulder County and and"
+  },
+  {
+   "start": 321.22,
+   "end": 323.22,
+   "text": "and"
+  },
+  {
+   "start": 323.46,
+   "end": 325.46,
+   "text": "all of the different towns and"
+  },
+  {
+   "start": 326.42,
+   "end": 332.9,
+   "text": "that I didn't have them for and then I built little areas around them as though they were on their little city state"
+  },
+  {
+   "start": 333.7,
+   "end": 337.06,
+   "text": "and then I went into"
+  },
+  {
+   "start": 339.54,
+   "end": 342.85,
+   "text": "um"
+  },
+  {
+   "start": 343.09,
+   "end": 346.69,
+   "text": "My Italy folder and I made sure that I had exactly 30"
+  },
+  {
+   "start": 347.57,
+   "end": 349.57,
+   "text": "Italian towns and"
+  },
+  {
+   "start": 351.25,
+   "end": 354.5,
+   "text": "Latte"
+  },
+  {
+   "start": 355.7,
+   "end": 357.7,
+   "text": "and"
+  },
+  {
+   "start": 358.26,
+   "end": 362.98,
+   "text": "Yeah and then I looked make sure that Latte was sized like make sure it was all good and"
+  },
+  {
+   "start": 363.94,
+   "end": 365.94,
+   "text": "and"
+  },
+  {
+   "start": 366.58,
+   "end": 370.9,
+   "text": "And so yeah, so I might 30 Latte and towns and then I matched them with a 30 Boulder towns"
+  },
+  {
+   "start": 371.62,
+   "end": 373.46,
+   "text": "And that's pretty much just what I finished now"
+  },
+  {
+   "start": 373.78,
+   "end": 376.42,
+   "text": "staying forever. I think it crashed even today a couple of times"
+  },
+  {
+   "start": 377.3,
+   "end": 382.74,
+   "text": "But I was hanging out with them on my mom earlier today so I wasn't working all like all day on this but uh"
+  },
+  {
+   "start": 385.46,
+   "end": 390.74,
+   "text": "So now what I'm going to do is I think they're all lined up so now"
+  },
+  {
+   "start": 393.46,
+   "end": 396.66,
+   "text": "I'm going to build build the own my own like"
+  },
+  {
+   "start": 397.7,
+   "end": 399.7,
+   "text": "territory around each one of these"
+  },
+  {
+   "start": 401.14,
+   "end": 403.38,
+   "text": "these uh mountain villages"
+  },
+  {
+   "start": 406.66,
+   "end": 414.02,
+   "text": "And I guess to the same thing at the same time in the Italian I have to make sure we can freaking copy all of them all the time"
+  },
+  {
+   "start": 414.02,
+   "end": 416.18,
+   "text": "Like when I went out in a copy I can't just copy it"
+  },
+  {
+   "start": 416.58,
+   "end": 420.5,
+   "text": "I did not copy it and copy it and copy it and I'm going to find the folder to copy it on the third one"
+  },
+  {
+   "start": 420.82,
+   "end": 426.02,
+   "text": "For the copy because it's crashed up the charting you know I would do this all 30 so"
+  },
+  {
+   "start": 427.38,
+   "end": 428.58,
+   "text": "But um"
+  },
+  {
+   "start": 428.74,
+   "end": 434.26,
+   "text": "Yeah, I build up that's what I'm going to do today like full force you know it's like a minute"
+  },
+  {
+   "start": 437.88,
+   "end": 443.64,
+   "text": "It's like a mini America you know you look at America and you see 50 states there or 48 states there boom"
+  },
+  {
+   "start": 444.52,
+   "end": 446.52,
+   "text": "Well and it and"
+  },
+  {
+   "start": 446.76,
+   "end": 449.24,
+   "text": "Ancient Latte I only found this up today but"
+  },
+  {
+   "start": 449.32,
+   "end": 456.44,
+   "text": "Ancient like Italy, Latte and 30 was a magical number and Greece 12 was a magical number 30 so I always like to have 30 city states"
+  },
+  {
+   "start": 457.56,
+   "end": 459.8,
+   "text": "Just like the truskins like to have 12"
+  },
+  {
+   "start": 461.32,
+   "end": 465.96,
+   "text": "Like states but so 30 it's kind of like 30 states within the country"
+  },
+  {
+   "start": 465.96,
+   "end": 468.84,
+   "text": "Latte but the trippy thing is the country of Latte"
+  },
+  {
+   "start": 469.56,
+   "end": 474.12,
+   "text": "This is in country is lower county you know it's the same concept only shrunk it you know like"
+  },
+  {
+   "start": 474.68,
+   "end": 480.84,
+   "text": "Tiny house or something little people like little countries and there's hundreds the first hot like two I don't know how many"
+  },
+  {
+   "start": 481.16,
+   "end": 486.76,
+   "text": "That's why I really want to figure this up. That's an excraject but the first like 300 pages or something 500 pages of"
+  },
+  {
+   "start": 487.64,
+   "end": 489.64,
+   "text": "thousand pages or something"
+  },
+  {
+   "start": 490.2,
+   "end": 492.84,
+   "text": "The living is about living"
+  },
+  {
+   "start": 493.32,
+   "end": 498.6,
+   "text": "When their whole world was the size of all the county they like yeah, you know the other country those guys"
+  },
+  {
+   "start": 498.6,
+   "end": 501.0,
+   "text": "Rebuild it's like yeah that other country those guys"
+  },
+  {
+   "start": 501.32,
+   "end": 504.84,
+   "text": "Literally a little village like I might as well boy so"
+  },
+  {
+   "start": 506.76,
+   "end": 508.76,
+   "text": "So"
+  },
+  {
+   "start": 509.08,
+   "end": 514.36,
+   "text": "Yeah, so what I'm gonna do is I'm gonna take Boulder County and I'm gonna build the 30 states within the Boulder County"
+  },
+  {
+   "start": 514.36,
+   "end": 519.64,
+   "text": "Just like when you look at America you see 48 states then you go into it's like power of 10"
+  },
+  {
+   "start": 519.64,
+   "end": 522.12,
+   "text": "I'll make a little video about this later after I get it down"
+  },
+  {
+   "start": 522.76,
+   "end": 527.56,
+   "text": "You see America for you states and then you go into Colorado and you have like you know 50 you whatever"
+  },
+  {
+   "start": 531.0,
+   "end": 537.08,
+   "text": "Counties and then you go into one of the counties boy color which is a which is a"
+  },
+  {
+   "start": 538.12,
+   "end": 541.32,
+   "text": "You know a perfect little quad rectangle and"
+  },
+  {
+   "start": 542.04,
+   "end": 544.68,
+   "text": "And so you're looking at it and you see 30"
+  },
+  {
+   "start": 545.88,
+   "end": 546.84,
+   "text": "Little"
+  },
+  {
+   "start": 546.84,
+   "end": 548.84,
+   "text": "States in there"
+  },
+  {
+   "start": 548.84,
+   "end": 554.68,
+   "text": "And so yeah, I'll do the same thing with Latin one 30 little states and not here see a little claim countries"
+  },
+  {
+   "start": 555.24,
+   "end": 560.76,
+   "text": "But the trippy thing yes, I think that's really in that and so I when I look at the Wikipedia"
+  },
+  {
+   "start": 561.96,
+   "end": 566.2,
+   "text": "Wikipedia is getting really good with history like they're starting to list everything now"
+  },
+  {
+   "start": 566.36,
+   "end": 572.52,
+   "text": "It got time line in for everything in a time like for anything back in 2011 and they have like"
+  },
+  {
+   "start": 573.8,
+   "end": 577.4,
+   "text": "Yeah, like historical stuff all stuff amazing but"
+  },
+  {
+   "start": 578.04,
+   "end": 580.04,
+   "text": "Wikipedia said"
+  },
+  {
+   "start": 581.08,
+   "end": 587.08,
+   "text": "Mop that theater or mom said and I read the book I don't remember when you said this he must have and I must have put it in my notes my website, but"
+  },
+  {
+   "start": 587.8,
+   "end": 589.8,
+   "text": "monsoon"
+  },
+  {
+   "start": 590.76,
+   "end": 592.76,
+   "text": "Yes the size of latitude"
+  },
+  {
+   "start": 595.24,
+   "end": 599.56,
+   "text": "You know like the size of the kingdom of Rome as being 1860s to our Columbus"
+  },
+  {
+   "start": 601.7,
+   "end": 606.18,
+   "text": "Okay, well the official size of old economy is 1893 square kilometers"
+  },
+  {
+   "start": 606.58,
+   "end": 608.58,
+   "text": "It's like 99% similarity and"
+  },
+  {
+   "start": 611.46,
+   "end": 615.78,
+   "text": "But if you're gonna take chop away the tundra part and just consider"
+  },
+  {
+   "start": 616.42,
+   "end": 618.1,
+   "text": "Older County to be until"
+  },
+  {
+   "start": 618.1,
+   "end": 626.02,
+   "text": "Treline then border counties like 1830 so latim is about halfway between Treline and the cotton on divide and that's latim"
+  },
+  {
+   "start": 626.74,
+   "end": 630.98,
+   "text": "According to mom's so my latim was 1730s five or something"
+  },
+  {
+   "start": 631.7,
+   "end": 638.66,
+   "text": "So I haven't had a chance but today I want to get in there and see if I can stretch my latim out to match mom's since latim"
+  },
+  {
+   "start": 639.54,
+   "end": 647.3,
+   "text": "And then I can make my latim be just the same as border county which is like 99% similarity and then you get 30"
+  },
+  {
+   "start": 648.26,
+   "end": 653.46,
+   "text": "And so I haven't actually looked in border county to see if like it was actually magical 30 in border county too"
+  },
+  {
+   "start": 653.46,
+   "end": 658.98,
+   "text": "You know, because but it looks to be so you know the extraneous towns are just no late towns"
+  },
+  {
+   "start": 659.54,
+   "end": 661.54,
+   "text": "But I try to have the"
+  },
+  {
+   "start": 662.02,
+   "end": 665.7,
+   "text": "The history to match up between the towns and I get a really good job"
+  },
+  {
+   "start": 666.82,
+   "end": 668.82,
+   "text": "Caribou is"
+  },
+  {
+   "start": 669.14,
+   "end": 673.54,
+   "text": "Abba Longa and they have the same history you know Caribou used to be the capital of"
+  },
+  {
+   "start": 674.18,
+   "end": 676.34,
+   "text": "border county and then it got"
+  },
+  {
+   "start": 676.58,
+   "end": 682.58,
+   "text": "Completely dismantled and they all moved to border same story with Alburo Longa same distance away"
+  },
+  {
+   "start": 684.58,
+   "end": 686.58,
+   "text": "And"
+  },
+  {
+   "start": 686.58,
+   "end": 692.18,
+   "text": "There's a place called Albeon which is like all right at the top of right at Timberlight"
+  },
+  {
+   "start": 692.98,
+   "end": 698.1,
+   "text": "Right at the limit next to a right next to a lake which is the lake that's right above the chumberland"
+  },
+  {
+   "start": 698.1,
+   "end": 700.82,
+   "text": "There are a lot of lakes that start right at chumberlight and"
+  },
+  {
+   "start": 701.78,
+   "end": 708.82,
+   "text": "And so I matched that with the place called Natalia and Rome which was right on the ridge of the mountains on the edge Rome also has Latia"
+  },
+  {
+   "start": 709.86,
+   "end": 716.98,
+   "text": "Also is shaped the same way you have the side with the ocean that's flat and all the people come in just like America"
+  },
+  {
+   "start": 717.22,
+   "end": 722.5,
+   "text": "Eastern side flat people come in none of the other sides the mountains and they have a ring of mountains"
+  },
+  {
+   "start": 723.3,
+   "end": 728.42,
+   "text": "And then you can see from Rome and then you know the top of the blue sea ground just like with with Boulder and the front range"
+  },
+  {
+   "start": 729.22,
+   "end": 730.42,
+   "text": "And"
+  },
+  {
+   "start": 730.42,
+   "end": 735.94,
+   "text": "And so they had a town that was right on the top so that's the sister that is Albeon but"
+  },
+  {
+   "start": 736.42,
+   "end": 738.42,
+   "text": "Yeah, but that town looked like there was"
+  },
+  {
+   "start": 739.7,
+   "end": 744.34,
+   "text": "But Albeon actually when I Wikipedia it's an ancient 5,000 year old"
+  },
+  {
+   "start": 745.14,
+   "end": 748.42,
+   "text": "Native American deer pearl like"
+  },
+  {
+   "start": 748.74,
+   "end": 752.1,
+   "text": "Structures up in it's amazing nice to come it's like the oldest"
+  },
+  {
+   "start": 752.66,
+   "end": 757.94,
+   "text": "Archaeological city ever founded in America or something we're gonna call a rata and it's right here"
+  },
+  {
+   "start": 758.9,
+   "end": 760.9,
+   "text": "It's Albeon so"
+  },
+  {
+   "start": 760.9,
+   "end": 762.9,
+   "text": "So yeah, what else"
+  },
+  {
+   "start": 763.14,
+   "end": 768.34,
+   "text": "Yeah, they're like I have a town here and they're disappearing. I think it's called crack tells and then so it's"
+  },
+  {
+   "start": 768.74,
+   "end": 772.74,
+   "text": "Sister town and Rome's appear. There a lot of sounds ancient that Latin is just disappeared"
+  },
+  {
+   "start": 773.62,
+   "end": 776.26,
+   "text": "because they brought the people to Rome and the"
+  },
+  {
+   "start": 778.18,
+   "end": 780.18,
+   "text": "And same thing with the boy"
+  },
+  {
+   "start": 780.9,
+   "end": 782.9,
+   "text": "Yeah, and so"
+  },
+  {
+   "start": 782.9,
+   "end": 787.46,
+   "text": "What I'm gonna do right now is build the the countries you know and see if the bubbles"
+  },
+  {
+   "start": 787.7,
+   "end": 790.02,
+   "text": "Try to you know, I'm gonna make it like color like America"
+  },
+  {
+   "start": 790.34,
+   "end": 794.98,
+   "text": "Where it's even size I want to look at cobalt account and see 30 even space little"
+  },
+  {
+   "start": 795.94,
+   "end": 800.66,
+   "text": "City states in there and then do the same thing with Latin and try to make it and see if it looks the same"
+  },
+  {
+   "start": 800.98,
+   "end": 805.46,
+   "text": "You know the the ideas eventually because I'm making a folder where it has both of them so you can compare"
+  },
+  {
+   "start": 805.7,
+   "end": 807.7,
+   "text": "You do the 360s and so"
+  },
+  {
+   "start": 808.1,
+   "end": 812.9,
+   "text": "That's my project so hopefully I'll be done with that next few days. But as soon as I'm done that"
+  },
+  {
+   "start": 813.38,
+   "end": 818.74,
+   "text": "That's one of the idea of photos just of building counties just like a folder and and"
+  },
+  {
+   "start": 819.54,
+   "end": 824.58,
+   "text": "And yeah, I guess I'm not gonna move on"
+  },
+  {
+   "start": 825.3,
+   "end": 828.1,
+   "text": "But this is super exciting. I'm super excited right now because"
+  },
+  {
+   "start": 829.14,
+   "end": 832.98,
+   "text": "Just to see what it looks like. Let's come up with like especially when you get really high"
+  },
+  {
+   "start": 833.94,
+   "end": 837.94,
+   "text": "You know get into the moral you're like the country"
+  },
+  {
+   "start": 838.82,
+   "end": 840.82,
+   "text": "We're our country now"
+  },
+  {
+   "start": 841.22,
+   "end": 843.86,
+   "text": "You know and then look at the latches"
+  },
+  {
+   "start": 845.86,
+   "end": 849.7,
+   "text": "Yeah, but after remember right click double click"
+  },
+  {
+   "start": 850.66,
+   "end": 853.06,
+   "text": "Hey, it's not right click pace where it's crash"
+  },
+  {
+   "start": 856.34,
+   "end": 859.94,
+   "text": "Okay, I'm gonna go I'm gonna go too many long time"
+  }
+ ]
+}

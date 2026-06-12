@@ -1,0 +1,238 @@
+{
+ "youtube_id": "nFgoqXq66fM",
+ "title": "Living in Boulder Vlog 3 - 16 - 2016",
+ "url": "https://youtu.be/nFgoqXq66fM",
+ "published_at": "2016-03-17",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a casual vlog update about getting his Mac back, his daily routine in Boulder, and listening to an audiobook ('The History of Food') at double speed using a speaker his mom gave him. He mentions working on a webpage and briefly notes he tried to record a vlog the night before but was too tired.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog update",
+   "audiobooks",
+   "tech setup",
+   "webpage work",
+   "routine"
+  ],
+  "stances": [
+   {
+    "topic": "listening to audiobooks at double speed",
+    "position": "likes it — says you still understand everything and get through books faster"
+   },
+   {
+    "topic": "the audiobook speaker setup",
+    "position": "positive — says you can hear it perfectly in the corner"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Mac (Macintosh)",
+   "The History of Food (audiobook)",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.5,
+   "end": 8.14,
+   "text": "All right, hello, video vlog. First vlog having my Macintosh back, even though I've had it back for a few days."
+  },
+  {
+   "start": 9.16,
+   "end": 16.08,
+   "text": "I wanted to do a video vlog last night with my cell phone, but it won't record for more than a couple of seconds."
+  },
+  {
+   "start": 16.38,
+   "end": 23.98,
+   "text": "And so I was already in bed. It was like 2.30 in the morning, and I was just too busy."
+  },
+  {
+   "start": 23.98,
+   "end": 28.0,
+   "text": "I mean, I was too tired. I was tired. And so I didn't do the video."
+  },
+  {
+   "start": 28.38,
+   "end": 29.92,
+   "text": "But now I'm remembering to do the video."
+  },
+  {
+   "start": 30.5,
+   "end": 33.08,
+   "text": "With my Macintosh, and I'll just do this every day."
+  },
+  {
+   "start": 33.2,
+   "end": 36.14,
+   "text": "And I'll call tech support and see why my cell phone doesn't do it."
+  },
+  {
+   "start": 36.18,
+   "end": 37.98,
+   "text": "Because I deleted it."
+  },
+  {
+   "start": 37.98,
+   "end": 39.24,
+   "text": "And I created space."
+  },
+  {
+   "start": 41.08,
+   "end": 41.92,
+   "text": "Okay, so."
+  },
+  {
+   "start": 44.48,
+   "end": 47.44,
+   "text": "I guess I didn't do a video vlog yesterday. What did I do yesterday?"
+  },
+  {
+   "start": 49.26,
+   "end": 50.08,
+   "text": "I don't remember."
+  },
+  {
+   "start": 50.08,
+   "end": 53.48,
+   "text": "And then today I got up and I got lead. I drove to a new."
+  },
+  {
+   "start": 54.48,
+   "end": 56.24,
+   "text": "Hey, spin searing."
+  },
+  {
+   "start": 56.68,
+   "end": 58.32,
+   "text": "Because the other one I'll have is going to now."
+  },
+  {
+   "start": 58.38,
+   "end": 59.52,
+   "text": "It's too expensive, so I'm up there."
+  },
+  {
+   "start": 59.52,
+   "end": 75.92,
+   "text": "And then I was in my room and I was doing my first day, kind of like my first full day of recording the audio books with this new speaker that my mom got me with the Kindle."
+  },
+  {
+   "start": 75.92,
+   "end": 80.08,
+   "text": "And you can hear it perfectly, man."
+  },
+  {
+   "start": 80.08,
+   "end": 84.54,
+   "text": "The recording. It's a great one."
+  },
+  {
+   "start": 84.72,
+   "end": 86.34,
+   "text": "It reads it at double speed."
+  },
+  {
+   "start": 87.5,
+   "end": 88.64,
+   "text": "So, um."
+  },
+  {
+   "start": 89.78,
+   "end": 90.78,
+   "text": "At double speed."
+  },
+  {
+   "start": 91.06,
+   "end": 94.04,
+   "text": "You're getting through that book fast."
+  },
+  {
+   "start": 94.18,
+   "end": 95.18,
+   "text": "You know what I'm saying?"
+  },
+  {
+   "start": 96.54,
+   "end": 98.14,
+   "text": "You're understanding everything, too."
+  },
+  {
+   "start": 98.24,
+   "end": 98.84,
+   "text": "So it's cool."
+  },
+  {
+   "start": 98.84,
+   "end": 112.32,
+   "text": "I'm listening to the history of freedom."
+  },
+  {
+   "start": 112.46,
+   "end": 112.86,
+   "text": "It's good."
+  },
+  {
+   "start": 112.96,
+   "end": 114.28,
+   "text": "And I'm going to do another one now."
+  },
+  {
+   "start": 116.32,
+   "end": 117.66,
+   "text": "As soon as I'm done with this video."
+  },
+  {
+   "start": 117.76,
+   "end": 119.0,
+   "text": "I think I'm going to do my other video."
+  },
+  {
+   "start": 119.62,
+   "end": 120.34,
+   "text": "Vote 2 now."
+  },
+  {
+   "start": 120.34,
+   "end": 128.0,
+   "text": "Yeah, so right now I'm just still working on the web page."
+  },
+  {
+   "start": 130.5,
+   "end": 131.76,
+   "text": "All day, every day."
+  },
+  {
+   "start": 131.94,
+   "end": 139.16,
+   "text": "I'm not having much more time left of life."
+  },
+  {
+   "start": 139.82,
+   "end": 149.34,
+   "text": "So, that's all."
+  },
+  {
+   "start": 149.48,
+   "end": 150.0,
+   "text": "That's all."
+  },
+  {
+   "start": 150.74,
+   "end": 152.06,
+   "text": "That's going on."
+  },
+  {
+   "start": 152.78,
+   "end": 156.84,
+   "text": "And I'll explain what I'm doing pretty soon, you know, when it starts to get tied together."
+  },
+  {
+   "start": 156.84,
+   "end": 159.08,
+   "text": "All right, see how it is."
+  }
+ ]
+}

@@ -1,0 +1,262 @@
+{
+ "youtube_id": "Zk8y3rXhJo0",
+ "title": "Living in Boulder Vlog 10 - 20 - 2016",
+ "url": "https://youtu.be/Zk8y3rXhJo0",
+ "published_at": "2016-10-22",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle films a late-night vlog recapping his day in Boulder. He spent the day organizing and numbering ski run files for a project, hit some snags moving files around, and talked about his diet goals — wanting to cut out junk food and eat only rice and vegetables, inspired by reading about Apollonius of Tyana and the idea that vegetarians have sharper senses. He mentions reading Decline and Fall of the Roman Empire and plans to do a manuscript request video.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "file organization project",
+   "diet and clean eating",
+   "vegetarianism",
+   "historical reading",
+   "YouTube channel plans"
+  ],
+  "stances": [
+   {
+    "topic": "diet",
+    "position": "wants to eat only rice and vegetables, cut out junk food and candy entirely"
+   },
+   {
+    "topic": "vegetarianism",
+    "position": "drawn to it for spiritual/sensory reasons, citing historical religious figures"
+   },
+   {
+    "topic": "YouTube content",
+    "position": "not ready to analyze his own channel yet; will stick to request videos for now"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Apollonius of Tyana",
+   "Decline and Fall of the Roman Empire"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.02,
+   "end": 4.44,
+   "text": "Hello, Living in Boulder Vlog, October 20th, 2016."
+  },
+  {
+   "start": 5.7,
+   "end": 7.96,
+   "text": "Time flies when you're having fun."
+  },
+  {
+   "start": 8.66,
+   "end": 11.78,
+   "text": "It's 10.57 at night."
+  },
+  {
+   "start": 13.26,
+   "end": 16.28,
+   "text": "I have to work tomorrow. I got to get up at 6."
+  },
+  {
+   "start": 17.72,
+   "end": 21.48,
+   "text": "So I'm going to go and jump in bed right after I do the video."
+  },
+  {
+   "start": 22.86,
+   "end": 29.56,
+   "text": "So, I think I got up at like 9 today."
+  },
+  {
+   "start": 30.02,
+   "end": 42.99,
+   "text": "Um, and, um, and I was, uh, I think I finished, uh, yeah, distances of runs yesterday."
+  },
+  {
+   "start": 42.99,
+   "end": 50.01,
+   "text": "And so today I was doing, uh, organizing the runs and numbering them."
+  },
+  {
+   "start": 50.49,
+   "end": 55.53,
+   "text": "But I ran into some snafus because I accidentally had some runs in other ski resorts."
+  },
+  {
+   "start": 55.53,
+   "end": 58.27,
+   "text": "And so I numbered them and then I had to number them again after I move them out."
+  },
+  {
+   "start": 58.27,
+   "end": 62.31,
+   "text": "That happened a few times, but I think I'm done with that kind of a snafu."
+  },
+  {
+   "start": 64.11,
+   "end": 65.93,
+   "text": "It's hard when you're adding a bunch of files."
+  },
+  {
+   "start": 66.03,
+   "end": 69.71,
+   "text": "It's hard to keep them in the folder, you know, because if you, you know, click somewhere else,"
+  },
+  {
+   "start": 69.75,
+   "end": 71.33,
+   "text": "They move around and save in different places."
+  },
+  {
+   "start": 71.33,
+   "end": 73.29,
+   "text": "So, that's basically what I'm doing still."
+  },
+  {
+   "start": 73.95,
+   "end": 79.51,
+   "text": "Um, but yeah, so maybe tomorrow after work, we'll see how far through I get."
+  },
+  {
+   "start": 79.85,
+   "end": 86.67,
+   "text": "Um, yeah, I think maybe like if, if I give it one more week, maybe I could finish it."
+  },
+  {
+   "start": 86.83,
+   "end": 87.75,
+   "text": "Maybe I could finish it."
+  },
+  {
+   "start": 87.81,
+   "end": 89.03,
+   "text": "All of them in one more week."
+  },
+  {
+   "start": 89.03,
+   "end": 105.68,
+   "text": "So, um, yeah, so, um, that's all I did today."
+  },
+  {
+   "start": 107.06,
+   "end": 114.02,
+   "text": "I kind of had the munchies and I got, uh, enchilada TV dinner and some, uh, egg roll TV dinner."
+  },
+  {
+   "start": 114.12,
+   "end": 114.92,
+   "text": "Those egg rolls are nasty."
+  },
+  {
+   "start": 115.0,
+   "end": 116.68,
+   "text": "You have to remember to never buy those again."
+  },
+  {
+   "start": 116.86,
+   "end": 121.44,
+   "text": "Enchilada's pretty good, but I want to try to only live on the rice and, uh, veggies."
+  },
+  {
+   "start": 121.44,
+   "end": 130.52,
+   "text": "Um, they were saying in, uh, in books, different historical books, um, you know, like Apollonius of Tiana"
+  },
+  {
+   "start": 130.52,
+   "end": 136.1,
+   "text": "And then in, uh, Ever Given when he talks about religions in the East and Asia and different people,"
+  },
+  {
+   "start": 136.18,
+   "end": 144.28,
+   "text": "They say like the religious people, they like to be vegetarians because it can, uh, it heightens their senses and their awareness."
+  },
+  {
+   "start": 145.32,
+   "end": 149.28,
+   "text": "Like Apollonius, he went into a town and he knew where the plague of the town came from,"
+  },
+  {
+   "start": 149.28,
+   "end": 151.94,
+   "text": "A certain old man because he could smell it because he was the only vegetarian."
+  },
+  {
+   "start": 153.64,
+   "end": 158.46,
+   "text": "So, yeah, I want to try to do that instead of getting munchies because then I feel kind of sick after I do munchies."
+  },
+  {
+   "start": 160.02,
+   "end": 165.92,
+   "text": "I think I have like a subconscious fear that I feel like hungry after I eat, but if I'm still hungry, just have another one, you know, it's like."
+  },
+  {
+   "start": 166.92,
+   "end": 170.96,
+   "text": "So, yeah, doing the uploads, that's actually a new goal of mine, like a resolution."
+  },
+  {
+   "start": 171.14,
+   "end": 175.74,
+   "text": "No more, no more of those kinds of foods and only, uh, only my rice and veggies."
+  },
+  {
+   "start": 175.74,
+   "end": 179.0,
+   "text": "I'm not doing, like, candy anymore."
+  },
+  {
+   "start": 179.14,
+   "end": 183.54,
+   "text": "I was doing candy, um, and I was wondering what would happen maybe if you start smoking weed,"
+  },
+  {
+   "start": 183.6,
+   "end": 187.52,
+   "text": "But when you start smoking weed, it's just, uh, yeah, you just want to eat clean."
+  },
+  {
+   "start": 189.02,
+   "end": 191.74,
+   "text": "But, uh, yeah, so anyway, I did the ski resorts today."
+  },
+  {
+   "start": 191.84,
+   "end": 199.56,
+   "text": "Oh, and as far as listening, yeah, I just did, uh, decline in fall, uh, more, like, parts about the fall of Rome,"
+  },
+  {
+   "start": 199.56,
+   "end": 207.18,
+   "text": "But, um, and maybe I'll do some historical talking videos, but I want to do that after I look at my YouTube download,"
+  },
+  {
+   "start": 207.46,
+   "end": 213.18,
+   "text": "My YouTube videos page, you know, and I'm not ready for that, so I'll just do request videos."
+  },
+  {
+   "start": 213.28,
+   "end": 216.56,
+   "text": "Somebody wanted me to do a, uh, manuscript one, so I'll do that."
+  },
+  {
+   "start": 216.62,
+   "end": 218.4,
+   "text": "Anyways, I think I've been babbling long enough."
+  },
+  {
+   "start": 218.5,
+   "end": 219.22,
+   "text": "Okay, peace out."
+  },
+  {
+   "start": 219.22,
+   "end": 249.2,
+   "text": "Peace out."
+  }
+ ]
+}

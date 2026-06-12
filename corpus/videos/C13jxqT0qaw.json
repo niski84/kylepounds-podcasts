@@ -1,0 +1,342 @@
+{
+ "youtube_id": "C13jxqT0qaw",
+ "title": "Living in Boulder Vlog 11-  8 - 2016",
+ "url": "https://youtu.be/C13jxqT0qaw",
+ "published_at": "2016-11-09",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a catch-up vlog on November 9th, reflecting on his Google Earth ski resort mapping project, internet problems, and project timeline. He briefly notes Trump won the election and plans a separate video, mentions skipping a Doctor Strange outing with his mom, and shares his financial situation — planning to sell his van and borrow from his mom — while philosophizing about his detachment from time.",
+  "speaker": "kyle",
+  "topics": [
+   "Google Earth mapping project",
+   "ski resort work",
+   "internet/Carbonite issues",
+   "Trump election win",
+   "movies/Doctor Strange",
+   "financial situation",
+   "time perception",
+   "van life"
+  ],
+  "stances": [
+   {
+    "topic": "movies/theater",
+    "position": "Done with movies entirely, even good 3D ones at the theater"
+   },
+   {
+    "topic": "project completion",
+    "position": "Expects to finish ski resort mapping within a week but doesn't intend to fully finish the broader project"
+   },
+   {
+    "topic": "burnout cycle",
+    "position": "Naturally burns out on projects after 2-3 weeks and moves on — treats this as normal"
+   },
+   {
+    "topic": "time perception",
+    "position": "Lives in a 'void' where time is meaningless and all moments feel identical"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Trump",
+   "Doctor Strange",
+   "Carbonite",
+   "Google Earth",
+   "Kyle's mom",
+   "Kyle's van"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.14,
+   "end": 7.86,
+   "text": "I'm living in Boulder V-LOG for Tuesday, November 8th, because today is November 9th."
+  },
+  {
+   "start": 8.3,
+   "end": 12.28,
+   "text": "I forgot to do my V-LOG this morning, so I did it coming back from work."
+  },
+  {
+   "start": 13.92,
+   "end": 15.26,
+   "text": "Just did one place today."
+  },
+  {
+   "start": 16.68,
+   "end": 24.6,
+   "text": "So yesterday, I think I finished, I pretty much finished Ski Resorts."
+  },
+  {
+   "start": 24.6,
+   "end": 27.02,
+   "text": "You should check it out. It's on my website."
+  },
+  {
+   "start": 27.02,
+   "end": 30.72,
+   "text": "For education, Google Earth, down the park."
+  },
+  {
+   "start": 32.22,
+   "end": 33.88,
+   "text": "But I have more work to do."
+  },
+  {
+   "start": 34.4,
+   "end": 39.32,
+   "text": "There's a bunch of Ski Resorts I didn't do, because I didn't have any internet when I tried to do them,"
+  },
+  {
+   "start": 39.34,
+   "end": 42.24,
+   "text": "And I couldn't see anything, so I just guessed, and then I realized later,"
+  },
+  {
+   "start": 42.52,
+   "end": 45.7,
+   "text": "They were a lot bigger than I thought, and they were all, like, actual cut-out trails, so I have to redo that."
+  },
+  {
+   "start": 46.66,
+   "end": 50.12,
+   "text": "I have internet now. I was having internet problems before, because I, um,"
+  },
+  {
+   "start": 51.08,
+   "end": 53.46,
+   "text": "I think it was before they got a new modem, and then they gave me a new modem,"
+  },
+  {
+   "start": 53.5,
+   "end": 55.84,
+   "text": "And I still had weird internet, which that's totally freaking me out,"
+  },
+  {
+   "start": 55.84,
+   "end": 59.54,
+   "text": "But that was right after I got Carbonite, and I had my Carbonite on,"
+  },
+  {
+   "start": 59.54,
+   "end": 64.26,
+   "text": "So I have to have, make sure that my Carbonite's turned off, back up during the day,"
+  },
+  {
+   "start": 64.98,
+   "end": 71.16,
+   "text": "Um, and then I just turn it back on when I'm at work or at night, and I can upload stuff, so."
+  },
+  {
+   "start": 72.32,
+   "end": 81.3,
+   "text": "Um, uh, yeah, so what did I do yesterday?"
+  },
+  {
+   "start": 81.3,
+   "end": 85.78,
+   "text": "Um, yeah, it just worked, and I finished those, and so then I'm going to do more."
+  },
+  {
+   "start": 85.86,
+   "end": 89.74,
+   "text": "I'm going to do flyovers, just some more movie files, and then I'm going to link them."
+  },
+  {
+   "start": 90.72,
+   "end": 96.06,
+   "text": "Um, yeah, so it's just more touch-ups, and then I'm going to do the ski resorts that were never built,"
+  },
+  {
+   "start": 96.14,
+   "end": 97.44,
+   "text": "So maybe another week, you know?"
+  },
+  {
+   "start": 97.44,
+   "end": 100.06,
+   "text": "Maybe I'll be done next week, between Monday and Friday."
+  },
+  {
+   "start": 101.72,
+   "end": 111.22,
+   "text": "Um, and, um, yeah, and then I can get going on the other stuff."
+  },
+  {
+   "start": 111.36,
+   "end": 113.8,
+   "text": "Yeah, I'm starting to wear out, starting to get old."
+  },
+  {
+   "start": 114.18,
+   "end": 117.32,
+   "text": "I can usually go about two or three weeks before I burn out on something,"
+  },
+  {
+   "start": 117.86,
+   "end": 121.68,
+   "text": "And then when I burn out, that's when I move on to something else."
+  },
+  {
+   "start": 121.74,
+   "end": 122.8,
+   "text": "That's why I'm not done with you."
+  },
+  {
+   "start": 122.8,
+   "end": 125.18,
+   "text": "And I don't really intend on finishing this one, either."
+  },
+  {
+   "start": 126.08,
+   "end": 129.72,
+   "text": "Just a little bit longer, do the main stuff, and then I'll back out and move on."
+  },
+  {
+   "start": 130.18,
+   "end": 132.54,
+   "text": "But I think I can finish everything in a year."
+  },
+  {
+   "start": 133.24,
+   "end": 134.72,
+   "text": "So, what else, what else, what else?"
+  },
+  {
+   "start": 134.82,
+   "end": 135.44,
+   "text": "Trump won."
+  },
+  {
+   "start": 136.0,
+   "end": 138.02,
+   "text": "I'll do a video about that soon, like today."
+  },
+  {
+   "start": 139.46,
+   "end": 143.36,
+   "text": "Um, so, uh, yeah, that's what I'm up to."
+  },
+  {
+   "start": 143.86,
+   "end": 145.38,
+   "text": "All right, peace out."
+  },
+  {
+   "start": 145.48,
+   "end": 147.94,
+   "text": "All right, so yesterday my mom wanted to go to the movies with me."
+  },
+  {
+   "start": 148.6,
+   "end": 149.46,
+   "text": "Doctor Strange."
+  },
+  {
+   "start": 150.14,
+   "end": 152.62,
+   "text": "Because I told her I would a few days ago, but then yesterday she was going to,"
+  },
+  {
+   "start": 152.62,
+   "end": 156.22,
+   "text": "I called her before she picked me up."
+  },
+  {
+   "start": 156.26,
+   "end": 158.44,
+   "text": "I didn't want to do it, because I was too busy working on my side."
+  },
+  {
+   "start": 158.48,
+   "end": 160.06,
+   "text": "I think I'm done with movies, even at the theater."
+  },
+  {
+   "start": 160.38,
+   "end": 161.82,
+   "text": "Even the good 3D ones, I'm done."
+  },
+  {
+   "start": 163.0,
+   "end": 165.4,
+   "text": "And that was the last thing that I did, so now I'm done with everything."
+  },
+  {
+   "start": 165.64,
+   "end": 166.92,
+   "text": "Now the only thing I do is work."
+  },
+  {
+   "start": 168.44,
+   "end": 170.9,
+   "text": "So, and then when I run out of money, I'm going to, um,"
+  },
+  {
+   "start": 172.0,
+   "end": 173.84,
+   "text": "I'm going to sell my van this winter."
+  },
+  {
+   "start": 175.2,
+   "end": 179.18,
+   "text": "I'm going to see if I can get another thousand, borrow another thousand from my mom."
+  },
+  {
+   "start": 180.52,
+   "end": 182.54,
+   "text": "But I don't think she's going to want to owe me anymore."
+  },
+  {
+   "start": 182.62,
+   "end": 185.18,
+   "text": "After that, so I'll just sell my car, pay off my debts."
+  },
+  {
+   "start": 185.94,
+   "end": 189.14,
+   "text": "And then at the end of next year, I'll be going."
+  },
+  {
+   "start": 190.5,
+   "end": 191.84,
+   "text": "This might sound weird to some people."
+  },
+  {
+   "start": 191.92,
+   "end": 194.5,
+   "text": "I say the same thing every day, but that's what it's like living in the void."
+  },
+  {
+   "start": 195.0,
+   "end": 195.92,
+   "text": "Like, time doesn't matter."
+  },
+  {
+   "start": 196.12,
+   "end": 198.08,
+   "text": "Like, three years ago was like yesterday."
+  },
+  {
+   "start": 198.32,
+   "end": 199.18,
+   "text": "It's the same fucking thing."
+  },
+  {
+   "start": 199.62,
+   "end": 202.62,
+   "text": "Next year, January 1st, 2018, it's going to be like tomorrow."
+  },
+  {
+   "start": 203.18,
+   "end": 204.22,
+   "text": "Same exact fucking thing."
+  },
+  {
+   "start": 204.22,
+   "end": 205.92,
+   "text": "All right, peace out."
+  }
+ ]
+}

@@ -1,0 +1,411 @@
+{
+ "youtube_id": "fiHlpSrkKOM",
+ "title": "Living in Boulder Vlog 6 - 4 - 2014",
+ "url": "https://youtu.be/fiHlpSrkKOM",
+ "published_at": "2014-06-06",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder on June 5, 2014, recapping his week: visiting his mom, passing his motorcycle license test, getting high with his roommate, and considering weekend plans including riding his new motorcycle and working on his website. He also mentions watching The Young Turks and Cenk Uygur videos.",
+  "speaker": "kyle",
+  "topics": [
+   "daily life",
+   "marijuana use",
+   "motorcycle license test",
+   "weekend plans",
+   "media consumption",
+   "website work"
+  ],
+  "stances": [
+   {
+    "topic": "motorcycle test difficulty",
+    "position": "Easy for him personally but understandably hard for others due to tight cone spacing"
+   },
+   {
+    "topic": "The Young Turks / Cenk Uygur",
+    "position": "Highly recommends watching; praises the information density of the content"
+   }
+  ],
+  "entities": [
+   "Kyle Pounds",
+   "Boulder",
+   "Mom",
+   "roommate (referred to as 'rematch')",
+   "The Young Turks",
+   "Cenk Uygur"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "Hello living in Boulder, Vlog for the fourth and five June."
+  },
+  {
+   "start": 5.0,
+   "end": 7.0,
+   "text": "Hmm, hmm."
+  },
+  {
+   "start": 7.0,
+   "end": 13.0,
+   "text": "2014, today's the fifth and June 2014 at 530 pm."
+  },
+  {
+   "start": 13.0,
+   "end": 16.0,
+   "text": "My name's Kyle Pounds."
+  },
+  {
+   "start": 16.0,
+   "end": 22.44,
+   "text": "And I'm really high because my rematch has been giving me lots of weed."
+  },
+  {
+   "start": 22.44,
+   "end": 25.44,
+   "text": "A little bit more hairs that I could smoke."
+  },
+  {
+   "start": 26.44,
+   "end": 31.44,
+   "text": "Um, if I go back to my hash pipe, hash pan."
+  },
+  {
+   "start": 31.44,
+   "end": 34.44,
+   "text": "So yesterday I went to work and then came back,"
+  },
+  {
+   "start": 34.44,
+   "end": 36.44,
+   "text": "like one, then went over to my mama house."
+  },
+  {
+   "start": 36.44,
+   "end": 39.44,
+   "text": "Went to the back to the house."
+  },
+  {
+   "start": 39.44,
+   "end": 42.44,
+   "text": "And then went to my mom tells me that they're,"
+  },
+  {
+   "start": 42.44,
+   "end": 46.44,
+   "text": "and then cleaned her dishes for like an hour."
+  },
+  {
+   "start": 46.44,
+   "end": 55.06,
+   "text": "And then came back here and worked."
+  },
+  {
+   "start": 55.06,
+   "end": 57.06,
+   "text": "Yeah, until like,"
+  },
+  {
+   "start": 57.06,
+   "end": 62.06,
+   "text": "I think I passed out, I actually passed out yesterday in the middle of the day."
+  },
+  {
+   "start": 62.06,
+   "end": 64.06,
+   "text": "While they were painting here,"
+  },
+  {
+   "start": 64.06,
+   "end": 70.06,
+   "text": "we painted the outside of my, uh, of my deck in my building."
+  },
+  {
+   "start": 70.06,
+   "end": 77.06,
+   "text": "And then yeah, I got up and I worked to like,"
+  },
+  {
+   "start": 77.06,
+   "end": 79.06,
+   "text": "wander something."
+  },
+  {
+   "start": 79.06,
+   "end": 82.06,
+   "text": "And then, um, had a piece of, with my rematch."
+  },
+  {
+   "start": 82.06,
+   "end": 84.06,
+   "text": "I got a piece of this from market."
+  },
+  {
+   "start": 85.06,
+   "end": 88.06,
+   "text": "But I kind of got up at like, I started working in a like nine or ten a day."
+  },
+  {
+   "start": 88.06,
+   "end": 90.06,
+   "text": "And I did work today."
+  },
+  {
+   "start": 90.06,
+   "end": 93.06,
+   "text": "I guess some people just cancel for the end of the week."
+  },
+  {
+   "start": 93.06,
+   "end": 95.06,
+   "text": "I don't think I'm going to work tomorrow either."
+  },
+  {
+   "start": 95.06,
+   "end": 97.06,
+   "text": "But um, so that's a 40 weekend."
+  },
+  {
+   "start": 97.06,
+   "end": 100.06,
+   "text": "So I can just insert a series damage on the 40 weekend on my website."
+  },
+  {
+   "start": 100.06,
+   "end": 103.06,
+   "text": "Uh, so you have an work in a pretty good."
+  },
+  {
+   "start": 103.06,
+   "end": 106.06,
+   "text": "Uh, but today I had to go in."
+  },
+  {
+   "start": 106.06,
+   "end": 111.06,
+   "text": "Hmm, in the middle of the day to, um,"
+  },
+  {
+   "start": 111.06,
+   "end": 114.06,
+   "text": "take my motorcycle test."
+  },
+  {
+   "start": 114.06,
+   "end": 118.06,
+   "text": "I did, I just got you a like three freaky weeks ago."
+  },
+  {
+   "start": 118.06,
+   "end": 122.06,
+   "text": "But um, yeah, I took it to the test."
+  },
+  {
+   "start": 122.06,
+   "end": 124.06,
+   "text": "Um, do those tests are hard."
+  },
+  {
+   "start": 124.06,
+   "end": 127.06,
+   "text": "I mean, it was easy for me, but I could see how it'd be hard for somebody,"
+  },
+  {
+   "start": 127.06,
+   "end": 129.06,
+   "text": "because they put those cones for it and close together, dude."
+  },
+  {
+   "start": 129.06,
+   "end": 132.06,
+   "text": "Like they say like 10 feet or whatever, but I don't know."
+  },
+  {
+   "start": 132.06,
+   "end": 134.06,
+   "text": "I think closer than 10 feet."
+  },
+  {
+   "start": 134.06,
+   "end": 137.06,
+   "text": "But uh, well yeah, you have to weave in and out of cones."
+  },
+  {
+   "start": 137.06,
+   "end": 142.06,
+   "text": "And you have to turn and stop and you're turning and stop and what fun."
+  },
+  {
+   "start": 142.06,
+   "end": 144.06,
+   "text": "It's fun, right?"
+  },
+  {
+   "start": 144.06,
+   "end": 148.06,
+   "text": "And that freaking motorbike dude, because it's so fast man."
+  },
+  {
+   "start": 148.06,
+   "end": 151.06,
+   "text": "I mean, it's so fast man."
+  },
+  {
+   "start": 151.06,
+   "end": 154.06,
+   "text": "Probably shit like I, I still can't."
+  },
+  {
+   "start": 154.06,
+   "end": 158.5,
+   "text": "Florida on 1st or 2nd gear, you know."
+  },
+  {
+   "start": 158.5,
+   "end": 162.5,
+   "text": "But uh, you guys should take it out, do a little bit of, uh,"
+  },
+  {
+   "start": 162.5,
+   "end": 164.5,
+   "text": "and then sharing that guess."
+  },
+  {
+   "start": 164.5,
+   "end": 166.5,
+   "text": "Maybe on myself."
+  },
+  {
+   "start": 166.5,
+   "end": 167.5,
+   "text": "Maybe on my, I'd be cool to do."
+  },
+  {
+   "start": 167.5,
+   "end": 168.5,
+   "text": "I'd be cool to do it."
+  },
+  {
+   "start": 168.5,
+   "end": 171.5,
+   "text": "What trip on myself actually."
+  },
+  {
+   "start": 171.5,
+   "end": 175.5,
+   "text": "But anyway, um, maybe I won't do that."
+  },
+  {
+   "start": 175.5,
+   "end": 176.5,
+   "text": "Because not in legal."
+  },
+  {
+   "start": 176.5,
+   "end": 178.5,
+   "text": "I can legally do it."
+  },
+  {
+   "start": 178.5,
+   "end": 181.5,
+   "text": "Oh, I didn't even think about that."
+  },
+  {
+   "start": 181.5,
+   "end": 184.5,
+   "text": "Because I was just planning on all week and long doing my, uh,"
+  },
+  {
+   "start": 184.5,
+   "end": 186.5,
+   "text": "we're thinking about it."
+  },
+  {
+   "start": 186.5,
+   "end": 188.5,
+   "text": "We're thinking about it."
+  },
+  {
+   "start": 188.5,
+   "end": 190.5,
+   "text": "We're thinking about my website."
+  },
+  {
+   "start": 190.5,
+   "end": 195.5,
+   "text": "But we'll see when we go, um, but the weather might be good tomorrow."
+  },
+  {
+   "start": 195.5,
+   "end": 197.5,
+   "text": "And I've been listening watching a lot of Jeff, just even,"
+  },
+  {
+   "start": 197.5,
+   "end": 199.5,
+   "text": "sure, uh, as video."
+  },
+  {
+   "start": 199.5,
+   "end": 202.5,
+   "text": "So now, now I, I know I watch every single one of young Turks and everything"
+  },
+  {
+   "start": 202.5,
+   "end": 204.5,
+   "text": "one of just even, sure."
+  },
+  {
+   "start": 204.5,
+   "end": 208.5,
+   "text": "Uh, because holy shit they do, they pack in on an information, do you?"
+  },
+  {
+   "start": 208.5,
+   "end": 209.5,
+   "text": "You should watch."
+  },
+  {
+   "start": 209.5,
+   "end": 212.5,
+   "text": "He's got his assistance to pump in the information."
+  },
+  {
+   "start": 212.5,
+   "end": 214.5,
+   "text": "Like you got to watch that shit a couple of times."
+  },
+  {
+   "start": 214.5,
+   "end": 218.5,
+   "text": "If you want to remember, um, get a little bit of that, not way"
+  },
+  {
+   "start": 218.5,
+   "end": 220.5,
+   "text": "similar to young Turks."
+  },
+  {
+   "start": 220.5,
+   "end": 224.5,
+   "text": "Anyways, uh, okay."
+  },
+  {
+   "start": 224.5,
+   "end": 227.5,
+   "text": "Yeah, yeah, yeah, yeah, yeah."
+  },
+  {
+   "start": 227.5,
+   "end": 229.5,
+   "text": "Okay, so I guess that's it."
+  },
+  {
+   "start": 229.5,
+   "end": 230.5,
+   "text": "Okay, peace out."
+  }
+ ]
+}

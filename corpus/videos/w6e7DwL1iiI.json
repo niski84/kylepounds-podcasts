@@ -1,0 +1,315 @@
+{
+ "youtube_id": "w6e7DwL1iiI",
+ "title": "Living in Boulder vlog 4 - 1 - 2017: 2,500 kilometer diameter backgrounds",
+ "url": "https://youtu.be/w6e7DwL1iiI",
+ "published_at": "2017-04-02",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a late-night vlog entry for April 1, 2017, noting he woke up at 11am and stayed up until 2:30am. He describes working on a 'race distance grid' or 'circle grid' project involving geographic distances, which he expects to finish the next day, and briefly mentions starting a Google Analytics tutorial.",
+  "speaker": "kyle",
+  "topics": [
+   "daily routine",
+   "distance/circle grid project",
+   "Google Analytics",
+   "productivity"
+  ],
+  "stances": [
+   {
+    "topic": "circle grid project",
+    "position": "Very excited about it; sees it as a tool for understanding size, scale, and how political/cultural groupings form"
+   },
+   {
+    "topic": "sleep schedule",
+    "position": "Aware he is on a consistent late-night schedule but not concerned about it"
+   }
+  ],
+  "entities": [
+   "Google Analytics",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.3,
+   "end": 5.3,
+   "text": "Hello living in Boulder, Villog for April 1st 2017."
+  },
+  {
+   "start": 5.3,
+   "end": 9.3,
+   "text": "Right now it's April 2nd, but 231 am."
+  },
+  {
+   "start": 9.3,
+   "end": 16.3,
+   "text": "Well, okay so today I think I got up at 11, which was the same as..."
+  },
+  {
+   "start": 16.3,
+   "end": 21.3,
+   "text": "Hmm, all of the other days."
+  },
+  {
+   "start": 21.3,
+   "end": 24.3,
+   "text": "Then I think I was up until like this time."
+  },
+  {
+   "start": 24.3,
+   "end": 25.3,
+   "text": "History."
+  },
+  {
+   "start": 25.3,
+   "end": 28.3,
+   "text": "So I'm on the same path."
+  },
+  {
+   "start": 28.3,
+   "end": 41.3,
+   "text": "I was working on my Google, or I think the race distance grid."
+  },
+  {
+   "start": 41.3,
+   "end": 46.3,
+   "text": "And I was building more distances."
+  },
+  {
+   "start": 46.3,
+   "end": 52.3,
+   "text": "It's a lot more intricate than I originally planned a designing it as I'm going along."
+  },
+  {
+   "start": 53.3,
+   "end": 56.3,
+   "text": "I'm starting to make it complete."
+  },
+  {
+   "start": 56.3,
+   "end": 59.3,
+   "text": "I'm really excited to see..."
+  },
+  {
+   "start": 59.3,
+   "end": 60.3,
+   "text": "I think I'll be done with it tomorrow."
+  },
+  {
+   "start": 60.3,
+   "end": 62.3,
+   "text": "I'll be done with a grid tomorrow."
+  },
+  {
+   "start": 62.3,
+   "end": 66.3,
+   "text": "And it'll be ready for checking it on itself."
+  },
+  {
+   "start": 66.3,
+   "end": 68.3,
+   "text": "I'm super excited about that."
+  },
+  {
+   "start": 68.3,
+   "end": 70.3,
+   "text": "I think I want to include..."
+  },
+  {
+   "start": 70.3,
+   "end": 72.3,
+   "text": "I wouldn't call it the distance."
+  },
+  {
+   "start": 72.3,
+   "end": 73.3,
+   "text": "I don't call it the circle grid."
+  },
+  {
+   "start": 73.3,
+   "end": 78.3,
+   "text": "Because then I could put it all the circles on the left, I'm not gonna try that."
+  },
+  {
+   "start": 78.3,
+   "end": 81.3,
+   "text": "Just see how the fed."
+  },
+  {
+   "start": 85.7,
+   "end": 91.7,
+   "text": "I'm curious to see who likes and more of the owners of the solvers."
+  },
+  {
+   "start": 91.7,
+   "end": 94.7,
+   "text": "Because it seems to me super standing."
+  },
+  {
+   "start": 94.7,
+   "end": 99.7,
+   "text": "Like the, like, the one it is, it's just understanding size."
+  },
+  {
+   "start": 99.7,
+   "end": 111.7,
+   "text": "Or so you can unden plug it in to understanding political groups, groupings of people."
+  },
+  {
+   "start": 111.7,
+   "end": 115.7,
+   "text": "Exactly how it became that they were going to say how they are."
+  },
+  {
+   "start": 115.7,
+   "end": 121.7,
+   "text": "They are like different languages or then try to that size."
+  },
+  {
+   "start": 121.7,
+   "end": 124.7,
+   "text": "Let anyway I'll talk about that later."
+  },
+  {
+   "start": 124.7,
+   "end": 131.22,
+   "text": "Yeah, it's super super exciting."
+  },
+  {
+   "start": 131.22,
+   "end": 134.91,
+   "text": "Oh, oh."
+  },
+  {
+   "start": 134.91,
+   "end": 139.91,
+   "text": "Tonight I decided to start listening to Google Analytics tutorial."
+  },
+  {
+   "start": 139.91,
+   "end": 141.91,
+   "text": "That's interesting."
+  },
+  {
+   "start": 141.91,
+   "end": 148.24,
+   "text": "Was it a listening to something else though?"
+  },
+  {
+   "start": 148.24,
+   "end": 155.87,
+   "text": "Remember my solpe and that?"
+  },
+  {
+   "start": 155.87,
+   "end": 160.84,
+   "text": "I'm really happy."
+  },
+  {
+   "start": 160.84,
+   "end": 168.83,
+   "text": "Yeah, but tomorrow will be done."
+  },
+  {
+   "start": 168.83,
+   "end": 171.83,
+   "text": "Maybe even done with the page."
+  },
+  {
+   "start": 171.83,
+   "end": 173.83,
+   "text": "What is it Sunday?"
+  },
+  {
+   "start": 173.83,
+   "end": 175.83,
+   "text": "Okay, so it's the weekend."
+  },
+  {
+   "start": 175.83,
+   "end": 177.83,
+   "text": "Wow, it was on Saturday."
+  },
+  {
+   "start": 177.83,
+   "end": 180.83,
+   "text": "Okay, so Yale just treated like a weekend thing."
+  },
+  {
+   "start": 180.83,
+   "end": 184.83,
+   "text": "So I'll just try to finish tomorrow and then I'll move on."
+  },
+  {
+   "start": 184.83,
+   "end": 186.83,
+   "text": "I'll back up and go back to surface law."
+  },
+  {
+   "start": 186.83,
+   "end": 189.83,
+   "text": "That tomorrow."
+  },
+  {
+   "start": 189.83,
+   "end": 194.83,
+   "text": "Yeah, I can finish the whole page because it was pretty much doing the Google or stuff."
+  },
+  {
+   "start": 194.83,
+   "end": 196.83,
+   "text": "It was pretty much the whole thing."
+  },
+  {
+   "start": 196.83,
+   "end": 199.83,
+   "text": "Or well, I need to do."
+  },
+  {
+   "start": 199.83,
+   "end": 211.94,
+   "text": "And yeah, to jump some other pretty good."
+  },
+  {
+   "start": 211.94,
+   "end": 215.94,
+   "text": "So I guess that's all I have to say."
+  },
+  {
+   "start": 215.94,
+   "end": 218.94,
+   "text": "The day was kind of short backgrounds."
+  },
+  {
+   "start": 218.94,
+   "end": 222.94,
+   "text": "Our, the, let's see what it's about."
+  },
+  {
+   "start": 222.94,
+   "end": 225.94,
+   "text": "12's are going to be the 24th, 50's."
+  },
+  {
+   "start": 225.94,
+   "end": 228.94,
+   "text": "And sorry if it's making people dizzy."
+  },
+  {
+   "start": 228.94,
+   "end": 230.94,
+   "text": "But we're almost thrilled."
+  },
+  {
+   "start": 230.94,
+   "end": 231.94,
+   "text": "Okay."
+  },
+  {
+   "start": 231.94,
+   "end": 233.94,
+   "text": "Peace out."
+  }
+ ]
+}

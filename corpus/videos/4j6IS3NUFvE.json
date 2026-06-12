@@ -1,0 +1,327 @@
+{
+ "youtube_id": "4j6IS3NUFvE",
+ "title": "Living in Boulder Vlog 11 - 11 - 2016",
+ "url": "https://youtu.be/4j6IS3NUFvE",
+ "published_at": "2016-11-12",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs on a Saturday morning about his previous day, which included work and a visit to his mom's house. He discusses the difficulty of estimating project timelines for his ski resort website work, reflects on his plan to finish the Boulder project, and talks about leg pain from sitting too long.",
+  "speaker": "kyle",
+  "topics": [
+   "daily routine",
+   "work progress",
+   "website development",
+   "physical health",
+   "time estimation"
+  ],
+  "stances": [
+   {
+    "topic": "estimating project timelines",
+    "position": "Gave up trying to predict how long things take; better to decide how long you can work and just go"
+   },
+   {
+    "topic": "finishing the Boulder project",
+    "position": "Must finish it regardless — staying another year if necessary despite leg pain"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "mom's house",
+   "ski resort website"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 3.64,
+   "text": "It has the kind of living in Boulder,"
+  },
+  {
+   "start": 3.64,
+   "end": 7.84,
+   "text": "the log of the for a Friday,"
+  },
+  {
+   "start": 7.84,
+   "end": 10.32,
+   "text": "which was Saturday,"
+  },
+  {
+   "start": 10.32,
+   "end": 13.32,
+   "text": "not even 11, 2016."
+  },
+  {
+   "start": 13.32,
+   "end": 14.76,
+   "text": "I'd be Friday."
+  },
+  {
+   "start": 14.76,
+   "end": 15.96,
+   "text": "Because today's Saturday,"
+  },
+  {
+   "start": 15.96,
+   "end": 17.6,
+   "text": "the room at 12, so,"
+  },
+  {
+   "start": 20.6,
+   "end": 23.44,
+   "text": "yesterday I had a pretty good day at work."
+  },
+  {
+   "start": 24.64,
+   "end": 27.36,
+   "text": "I got tired a little bit earlier at 10 or something."
+  },
+  {
+   "start": 28.36,
+   "end": 30.2,
+   "text": "In fact, I got up at 7,"
+  },
+  {
+   "start": 30.2,
+   "end": 33.8,
+   "text": "I got to sleep at 11."
+  },
+  {
+   "start": 33.8,
+   "end": 36.0,
+   "text": "But I'd last night, went to bed at 10."
+  },
+  {
+   "start": 36.0,
+   "end": 37.52,
+   "text": "It was kind of tired."
+  },
+  {
+   "start": 37.52,
+   "end": 41.12,
+   "text": "Yesterday I got up, I can't remember kind of early."
+  },
+  {
+   "start": 41.12,
+   "end": 44.32,
+   "text": "I was going to leave my mom's house."
+  },
+  {
+   "start": 44.32,
+   "end": 45.92,
+   "text": "I worked and then I went to my mom's house."
+  },
+  {
+   "start": 45.92,
+   "end": 49.64,
+   "text": "I wanted to put some weight on her windows,"
+  },
+  {
+   "start": 49.64,
+   "end": 52.68,
+   "text": "but I never got her under doing it."
+  },
+  {
+   "start": 52.68,
+   "end": 55.92,
+   "text": "I'm going to do it today after work."
+  },
+  {
+   "start": 55.92,
+   "end": 61.32,
+   "text": "And going on my paper again,"
+  },
+  {
+   "start": 61.32,
+   "end": 62.92,
+   "text": "her my page, my website."
+  },
+  {
+   "start": 62.92,
+   "end": 68.28,
+   "text": "Yeah, the ski resort thing is really trading on,"
+  },
+  {
+   "start": 68.28,
+   "end": 69.76,
+   "text": "because there's lots of stuff I didn't consider."
+  },
+  {
+   "start": 69.76,
+   "end": 72.12,
+   "text": "It's really hard to predict how long it takes to do stuff."
+  },
+  {
+   "start": 72.12,
+   "end": 75.24,
+   "text": "You could stuff always goes wrong and there's more."
+  },
+  {
+   "start": 75.24,
+   "end": 76.6,
+   "text": "So, I don't know, I don't, I don't,"
+  },
+  {
+   "start": 76.6,
+   "end": 79.36,
+   "text": "I'm giving up trying to predict how long it takes to do stuff."
+  },
+  {
+   "start": 79.36,
+   "end": 83.28,
+   "text": "Instead of protecting all it takes to do stuff."
+  },
+  {
+   "start": 84.24,
+   "end": 86.52,
+   "text": "Each best to just decide how long you can work"
+  },
+  {
+   "start": 86.52,
+   "end": 90.52,
+   "text": "on something and then just go as long as you can."
+  },
+  {
+   "start": 90.52,
+   "end": 93.92,
+   "text": "But I could probably finish it if I go another few days."
+  },
+  {
+   "start": 93.92,
+   "end": 97.68,
+   "text": "And then I'll get going on, I might do circus level stuff, though."
+  },
+  {
+   "start": 97.68,
+   "end": 99.28,
+   "text": "I'd be fine."
+  },
+  {
+   "start": 99.28,
+   "end": 104.4,
+   "text": "But I really, really, really, really, really need to finish bolder."
+  },
+  {
+   "start": 104.4,
+   "end": 106.72,
+   "text": "And that's like an order to not solve it, I left the works."
+  },
+  {
+   "start": 106.72,
+   "end": 113.36,
+   "text": "So, what else, what else, what else?"
+  },
+  {
+   "start": 113.36,
+   "end": 117.87,
+   "text": "Yeah, my legs are starting to hurt, though."
+  },
+  {
+   "start": 117.87,
+   "end": 121.95,
+   "text": "I should sit down so much, it's like squashed my hamstrings"
+  },
+  {
+   "start": 121.95,
+   "end": 124.83,
+   "text": "to the point where it like squeeze the nerves or something,"
+  },
+  {
+   "start": 124.83,
+   "end": 127.35,
+   "text": "and it makes my keep coming out on my legs hurt."
+  },
+  {
+   "start": 127.35,
+   "end": 130.91,
+   "text": "Like you want to walk around, and you want to'm laying in bed."
+  },
+  {
+   "start": 130.91,
+   "end": 133.75,
+   "text": "That's started like two weeks ago."
+  },
+  {
+   "start": 133.83,
+   "end": 139.19,
+   "text": "Well, I started sleeping, laying on that couch."
+  },
+  {
+   "start": 139.19,
+   "end": 142.63,
+   "text": "Well, I'm not so much on my couch in my room,"
+  },
+  {
+   "start": 142.63,
+   "end": 147.19,
+   "text": "because it's eight, but my leg on the table on it, pinched my legs, so."
+  },
+  {
+   "start": 147.19,
+   "end": 150.55,
+   "text": "But, so it's kind of a kind of under-me that I'm in,"
+  },
+  {
+   "start": 150.55,
+   "end": 154.79,
+   "text": "because it's going to be difficult to go another year physically,"
+  },
+  {
+   "start": 154.79,
+   "end": 156.79,
+   "text": "because of my legs."
+  },
+  {
+   "start": 156.79,
+   "end": 161.35,
+   "text": "But I can't get my website done this year."
+  },
+  {
+   "start": 161.35,
+   "end": 163.19,
+   "text": "There's no way in how."
+  },
+  {
+   "start": 163.27,
+   "end": 166.95,
+   "text": "I'm going to need another year, a whole another year,"
+  },
+  {
+   "start": 166.95,
+   "end": 168.71,
+   "text": "but I think I can finish it another year."
+  },
+  {
+   "start": 170.07,
+   "end": 173.91,
+   "text": "So, I guess I'll just have to buckle up and deal with some, like, pain."
+  },
+  {
+   "start": 177.11,
+   "end": 181.83,
+   "text": "Or maybe I could, yeah, maybe I could just exercise a little bit more."
+  },
+  {
+   "start": 182.87,
+   "end": 184.55,
+   "text": "I guess we'll be with my mom or son."
+  },
+  {
+   "start": 185.59,
+   "end": 188.47,
+   "text": "Okay, I think that's enough for now."
+  },
+  {
+   "start": 188.47,
+   "end": 190.07,
+   "text": "I'll try to keep them around three minutes."
+  },
+  {
+   "start": 190.07,
+   "end": 190.87,
+   "text": "Alright, peace out."
+  }
+ ]
+}

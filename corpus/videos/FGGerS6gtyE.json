@@ -1,0 +1,499 @@
+{
+ "youtube_id": "FGGerS6gtyE",
+ "title": "Living in Boulder Vlog 4 - 27 - 2014",
+ "url": "https://youtu.be/FGGerS6gtyE",
+ "published_at": "",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a casual Sunday vlog recapping his weekend: he drank three large beers the night before, made some videos while drunk, slept in, watched a movie, and spent most of the day working on a computer project he describes as a 'bike racer level' thing. He also mentions visiting his mom's house to walk his brother's dog and discusses his cannabis oil/molasses product.",
+  "speaker": "kyle",
+  "topics": [
+   "weekend routine",
+   "drinking",
+   "cannabis",
+   "work/project progress",
+   "daily vlog",
+   "Boulder living"
+  ],
+  "stances": [
+   {
+    "topic": "weekend productivity",
+    "position": "Prefers to spend weekends in deep work mode on the computer rather than going out"
+   },
+   {
+    "topic": "cannabis oil/molasses",
+    "position": "Plans to stop buying the molasses/goober product and switch back to smoking because the oil isn't getting him high enough"
+   },
+   {
+    "topic": "vlogging on weekends",
+    "position": "Unsure whether he'll continue making talking videos on weekends since he goes into work-only mode"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Casey Neistat (likely 'Call me Casey')",
+   "Kyle's mom",
+   "Kyle's brother",
+   "Kyle's brother's dog"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.14,
+   "end": 5.02,
+   "text": "Hello, living in Boulder, V-Log for the 26th of April, 2013."
+  },
+  {
+   "start": 6.58,
+   "end": 11.14,
+   "text": "This morning, today's Sunday, this morning I got up at like noon,"
+  },
+  {
+   "start": 11.92,
+   "end": 14.18,
+   "text": "Because last night I had me a party."
+  },
+  {
+   "start": 15.0,
+   "end": 17.98,
+   "text": "I had three like 32-ounce beers."
+  },
+  {
+   "start": 17.98,
+   "end": 22.34,
+   "text": "I went over and got two, three two-ouncers and was like, ooh, that was fun."
+  },
+  {
+   "start": 22.4,
+   "end": 23.26,
+   "text": "So I got another one."
+  },
+  {
+   "start": 24.26,
+   "end": 29.96,
+   "text": "And yeah, I got them because it got kind of late."
+  },
+  {
+   "start": 30.14,
+   "end": 33.46,
+   "text": "It was like 10 or something, 10.30, and still had time."
+  },
+  {
+   "start": 33.66,
+   "end": 39.08,
+   "text": "Or I guess when I got the first one was early, but I was getting kind of tired, you know,"
+  },
+  {
+   "start": 39.44,
+   "end": 44.76,
+   "text": "Worn out from working all day, and I just wanted to like, you know, keep going,"
+  },
+  {
+   "start": 44.76,
+   "end": 50.9,
+   "text": "Because I was working on something that was really easy, but I wanted to get through it."
+  },
+  {
+   "start": 51.56,
+   "end": 53.26,
+   "text": "The whole bike racer level thing."
+  },
+  {
+   "start": 53.38,
+   "end": 58.08,
+   "text": "I mean, it's like taking on a life that's on, like every page I do."
+  },
+  {
+   "start": 58.08,
+   "end": 60.88,
+   "text": "I always get really, really big, and then I go, wow."
+  },
+  {
+   "start": 61.06,
+   "end": 65.14,
+   "text": "And then I, yeah, so it's going to be really cool at the end of the year"
+  },
+  {
+   "start": 65.14,
+   "end": 69.0,
+   "text": "To see how everything I made ties together and like put the links and everything."
+  },
+  {
+   "start": 70.0,
+   "end": 74.06,
+   "text": "But right now I'm just building still."
+  },
+  {
+   "start": 74.92,
+   "end": 77.88,
+   "text": "But I love, I had a three-day weekend this time."
+  },
+  {
+   "start": 77.88,
+   "end": 85.26,
+   "text": "And I love, like, having all the work, doing lots of work day after day."
+  },
+  {
+   "start": 85.44,
+   "end": 86.82,
+   "text": "It's what I like doing in the wintertime."
+  },
+  {
+   "start": 86.88,
+   "end": 89.58,
+   "text": "But on the weekend, like I'm still kind of in that mode."
+  },
+  {
+   "start": 90.14,
+   "end": 96.42,
+   "text": "When I'm working all day long, I've developed a really good skill of like just solid,"
+  },
+  {
+   "start": 96.56,
+   "end": 97.54,
+   "text": "Like not breaking off."
+  },
+  {
+   "start": 98.32,
+   "end": 101.36,
+   "text": "I'm going, yeah, I don't know if I explained that right."
+  },
+  {
+   "start": 101.36,
+   "end": 105.96,
+   "text": "But, yeah, I got kind of drunk last night."
+  },
+  {
+   "start": 107.38,
+   "end": 111.92,
+   "text": "Like I made a couple of videos, three videos, and I forgot that I even made one of them."
+  },
+  {
+   "start": 112.14,
+   "end": 114.2,
+   "text": "When I saw it there on the computer, I was like, oh, yeah."
+  },
+  {
+   "start": 115.64,
+   "end": 119.0,
+   "text": "But I wasn't hungover when I woke up, but I slept in."
+  },
+  {
+   "start": 119.04,
+   "end": 120.82,
+   "text": "I don't know how late I was up last night, though."
+  },
+  {
+   "start": 121.74,
+   "end": 123.32,
+   "text": "Worked all day today, I didn't go out."
+  },
+  {
+   "start": 123.68,
+   "end": 125.32,
+   "text": "Oh, I watched a movie last night."
+  },
+  {
+   "start": 126.16,
+   "end": 127.3,
+   "text": "Call me Casey View."
+  },
+  {
+   "start": 127.3,
+   "end": 129.78,
+   "text": "Oh, he's just in line."
+  },
+  {
+   "start": 129.88,
+   "end": 130.38,
+   "text": "It was pretty good."
+  },
+  {
+   "start": 132.12,
+   "end": 134.56,
+   "text": "But I returned it today, but that's the only time I went out."
+  },
+  {
+   "start": 134.7,
+   "end": 135.14,
+   "text": "Didn't mind anything."
+  },
+  {
+   "start": 135.3,
+   "end": 136.3,
+   "text": "I was just working all day long."
+  },
+  {
+   "start": 136.42,
+   "end": 138.1,
+   "text": "Had a pretty good day working."
+  },
+  {
+   "start": 139.04,
+   "end": 143.02,
+   "text": "Yeah, I don't know if I'll be making videos, talking videos on the weekends, man."
+  },
+  {
+   "start": 143.16,
+   "end": 146.72,
+   "text": "Like when the weekends come, I kind of go into just working on a computer mode"
+  },
+  {
+   "start": 146.72,
+   "end": 147.78,
+   "text": "Where I don't want to do anything else."
+  },
+  {
+   "start": 148.94,
+   "end": 149.94,
+   "text": "But I don't know."
+  },
+  {
+   "start": 149.96,
+   "end": 150.24,
+   "text": "We'll see."
+  },
+  {
+   "start": 150.24,
+   "end": 154.3,
+   "text": "But, yeah, all I would like to do is some good talking, like, request videos tomorrow."
+  },
+  {
+   "start": 155.46,
+   "end": 156.6,
+   "text": "When I come back from work."
+  },
+  {
+   "start": 157.3,
+   "end": 162.48,
+   "text": "What else?"
+  },
+  {
+   "start": 166.38,
+   "end": 167.02,
+   "text": "That's all."
+  },
+  {
+   "start": 167.74,
+   "end": 168.48,
+   "text": "Ooh, look."
+  },
+  {
+   "start": 169.2,
+   "end": 170.32,
+   "text": "This is the goober stuff."
+  },
+  {
+   "start": 170.38,
+   "end": 172.04,
+   "text": "I'm not going to buy the goober stuff anymore."
+  },
+  {
+   "start": 172.42,
+   "end": 173.44,
+   "text": "It's called the molasses."
+  },
+  {
+   "start": 173.6,
+   "end": 176.66,
+   "text": "This is the shit that they scrape off the side of the vats when they boil it, when they make it."
+  },
+  {
+   "start": 177.48,
+   "end": 181.38,
+   "text": "And the guy says the best way to do oil is with the oil."
+  },
+  {
+   "start": 181.38,
+   "end": 182.68,
+   "text": "So I'm not going to buy this anymore."
+  },
+  {
+   "start": 182.78,
+   "end": 184.18,
+   "text": "So maybe I should just start smoking this."
+  },
+  {
+   "start": 185.18,
+   "end": 187.72,
+   "text": "Because I'm, like, not getting high anymore for my oil, dude."
+  },
+  {
+   "start": 187.72,
+   "end": 190.1,
+   "text": "And I've been sucking on it for, like, all day long."
+  },
+  {
+   "start": 190.16,
+   "end": 193.26,
+   "text": "And it's, like, it takes you to a certain level that you just can't get higher than it."
+  },
+  {
+   "start": 193.88,
+   "end": 195.92,
+   "text": "So I'll have to get fucked with this, I guess."
+  },
+  {
+   "start": 198.3,
+   "end": 200.16,
+   "text": "And, yeah, should I work tomorrow?"
+  },
+  {
+   "start": 203.7,
+   "end": 204.26,
+   "text": "Probably come."
+  },
+  {
+   "start": 204.32,
+   "end": 206.64,
+   "text": "Oh, today I had to go over to my mom's house, actually."
+  },
+  {
+   "start": 206.78,
+   "end": 208.4,
+   "text": "Because she's taking care of my brother's dog."
+  },
+  {
+   "start": 208.9,
+   "end": 209.7,
+   "text": "Had to walk the dog."
+  },
+  {
+   "start": 209.78,
+   "end": 210.32,
+   "text": "Poop the dog."
+  },
+  {
+   "start": 211.1,
+   "end": 212.26,
+   "text": "So I did go outside today."
+  },
+  {
+   "start": 212.26,
+   "end": 214.28,
+   "text": "But I made that really quick."
+  },
+  {
+   "start": 214.38,
+   "end": 215.04,
+   "text": "Almost forgot."
+  },
+  {
+   "start": 217.08,
+   "end": 218.3,
+   "text": "But tomorrow, yeah."
+  },
+  {
+   "start": 218.54,
+   "end": 220.14,
+   "text": "I'd probably come home at, like, 2 or 3."
+  },
+  {
+   "start": 220.28,
+   "end": 220.68,
+   "text": "I don't know."
+  },
+  {
+   "start": 220.9,
+   "end": 222.18,
+   "text": "And then just go to work, man."
+  },
+  {
+   "start": 222.42,
+   "end": 222.84,
+   "text": "Kick it."
+  },
+  {
+   "start": 223.48,
+   "end": 224.6,
+   "text": "I'm making so much progress."
+  },
+  {
+   "start": 224.76,
+   "end": 226.58,
+   "text": "I'm getting really good at this cutting, cutting, and pasting."
+  },
+  {
+   "start": 227.52,
+   "end": 228.4,
+   "text": "It's coming together."
+  },
+  {
+   "start": 228.56,
+   "end": 229.5,
+   "text": "It's getting really cool, man."
+  },
+  {
+   "start": 230.06,
+   "end": 231.92,
+   "text": "But that's all I can say about that right now."
+  },
+  {
+   "start": 232.42,
+   "end": 233.36,
+   "text": "Okay, peace out."
+  },
+  {
+   "start": 233.36,
+   "end": 233.46,
+   "text": "Peace out."
+  },
+  {
+   "start": 233.46,
+   "end": 233.52,
+   "text": "Peace out."
+  },
+  {
+   "start": 233.52,
+   "end": 234.36,
+   "text": "Peace out."
+  },
+  {
+   "start": 234.36,
+   "end": 235.36,
+   "text": "Peace out."
+  },
+  {
+   "start": 235.36,
+   "end": 235.46,
+   "text": "Peace out."
+  },
+  {
+   "start": 235.46,
+   "end": 236.46,
+   "text": "Peace out."
+  },
+  {
+   "start": 236.46,
+   "end": 237.46,
+   "text": "Peace out."
+  },
+  {
+   "start": 237.46,
+   "end": 238.46,
+   "text": "Peace out."
+  },
+  {
+   "start": 238.46,
+   "end": 239.46,
+   "text": "Peace out."
+  },
+  {
+   "start": 239.46,
+   "end": 240.46,
+   "text": "Peace out."
+  },
+  {
+   "start": 240.46,
+   "end": 241.46,
+   "text": "Peace out."
+  },
+  {
+   "start": 241.46,
+   "end": 242.24,
+   "text": "Peace out."
+  }
+ ]
+}

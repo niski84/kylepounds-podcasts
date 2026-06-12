@@ -1,0 +1,339 @@
+{
+ "youtube_id": "Ok040Fr3eCE",
+ "title": "Living in Boulder Vlog 3-4-2016",
+ "url": "https://youtu.be/Ok040Fr3eCE",
+ "published_at": "2016-03-06",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about a frustrating day dealing with multiple tech failures: his repaired Mac stopped working again after getting it back, his Windows computer has a broken keyboard and USB port, and he struggled to get a 125GB SD card of LibriVox audiobooks recognized by his phone and MP3 player.",
+  "speaker": "kyle",
+  "topics": [
+   "tech frustration",
+   "computer problems",
+   "SD card issues",
+   "audiobooks",
+   "daily vlog",
+   "Boulder life"
+  ],
+  "stances": [
+   {
+    "topic": "phone storage technology",
+    "position": "Suspects phones offer large SD card support but it doesn't actually work reliably in practice"
+   },
+   {
+    "topic": "audiobook collection",
+    "position": "Values having a large portable collection of LibriVox history, philosophy, and religion audiobooks"
+   }
+  ],
+  "entities": [
+   "LibriVox",
+   "Boulder",
+   "Macintosh",
+   "Windows computer"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.66,
+   "end": 6.76,
+   "text": "I should have done this video when I was sitting in a chair, but it's too late now."
+  },
+  {
+   "start": 8.82,
+   "end": 11.16,
+   "text": "I kind of had a frustrating day."
+  },
+  {
+   "start": 11.32,
+   "end": 12.28,
+   "text": "Well, I had a good day."
+  },
+  {
+   "start": 12.34,
+   "end": 22.46,
+   "text": "I had a great day, but then it became frustrating at the end because today I was working on"
+  },
+  {
+   "start": 22.46,
+   "end": 29.0,
+   "text": "My website, and that was doing well, but then my, oh, and I got my computer yesterday, my"
+  },
+  {
+   "start": 29.0,
+   "end": 34.06,
+   "text": "Computer back, my Macintosh, and I didn't even turn it on yesterday, and then I turned"
+  },
+  {
+   "start": 34.06,
+   "end": 40.92,
+   "text": "It on today, and I spent the day working on my Windows computer on my website, but then"
+  },
+  {
+   "start": 40.92,
+   "end": 45.88,
+   "text": "Dragging and dropping stuff from my Macintosh to this new card that I got, the SD card, 128"
+  },
+  {
+   "start": 45.88,
+   "end": 56.6,
+   "text": "Gigabytes, and so I filled it up, and then my phone can't see it, and then also my MP3 player"
+  },
+  {
+   "start": 56.6,
+   "end": 63.94,
+   "text": "Can't see it, and the tech support for the phone was closed by that time, and I think"
+  },
+  {
+   "start": 63.94,
+   "end": 69.48,
+   "text": "They'll be open tomorrow, so I probably, you know, I was going to format it, but the USB"
+  },
+  {
+   "start": 69.48,
+   "end": 71.0,
+   "text": "Broke on my Windows computer."
+  },
+  {
+   "start": 72.2,
+   "end": 74.54,
+   "text": "Maybe I can format it with you on my other computers."
+  },
+  {
+   "start": 75.42,
+   "end": 78.38,
+   "text": "I have two other computers my mom and brother gave me, but they don't really work."
+  },
+  {
+   "start": 78.38,
+   "end": 86.8,
+   "text": "I couldn't get them to turn on last time I tried, but, um, um, and, uh, yeah, and so"
+  },
+  {
+   "start": 86.8,
+   "end": 92.86,
+   "text": "I was working, and then my, my new Macintosh, it wouldn't work, so I restarted it, and then"
+  },
+  {
+   "start": 92.86,
+   "end": 96.9,
+   "text": "It wouldn't, like, shut down, so I manually shut it down, and then I started it, and then"
+  },
+  {
+   "start": 96.9,
+   "end": 99.7,
+   "text": "I couldn't do anything, so I restarted again, and then I wouldn't, couldn't do anything."
+  },
+  {
+   "start": 99.7,
+   "end": 101.64,
+   "text": "Like, it won't do anything."
+  },
+  {
+   "start": 102.3,
+   "end": 109.28,
+   "text": "Um, yeah, I can move the mouse around, that's all I can do, so, and none of the icons are"
+  },
+  {
+   "start": 109.28,
+   "end": 110.12,
+   "text": "On the desktop, so."
+  },
+  {
+   "start": 112.22,
+   "end": 117.58,
+   "text": "I, oh, and I got the Macintosh back yesterday on the video card, video board, it's like the"
+  },
+  {
+   "start": 117.58,
+   "end": 122.56,
+   "text": "Motherboard was replaced, was broken, but now, but it's not working, now there's something"
+  },
+  {
+   "start": 122.56,
+   "end": 126.86,
+   "text": "Else that's broken, so I'll have to take it in tomorrow, and call it tomorrow."
+  },
+  {
+   "start": 126.86,
+   "end": 131.88,
+   "text": "Um, so that's what was a bummer, that was a real big bummer, when my Macintosh, and then"
+  },
+  {
+   "start": 131.88,
+   "end": 137.64,
+   "text": "Just wouldn't work at all, and then my, um, so then I had to work on the Windows computer"
+  },
+  {
+   "start": 137.64,
+   "end": 142.06,
+   "text": "Again, but the Windows computer, uh, keyboard is broken, and I went to take the little USB"
+  },
+  {
+   "start": 142.06,
+   "end": 146.72,
+   "text": "Chip out of the Macintosh to put in the Windows computer, so that I could, you know, use the"
+  },
+  {
+   "start": 146.72,
+   "end": 151.84,
+   "text": "Keyboard, the keyboard, my external keyboard, because I was using it on my Mac, because I"
+  },
+  {
+   "start": 151.84,
+   "end": 154.24,
+   "text": "Thought I was going to be able to use my Mac, and it has a better mouse than the other"
+  },
+  {
+   "start": 154.24,
+   "end": 156.6,
+   "text": "Mouse, so that's why I switched it, so I had to switch it back."
+  },
+  {
+   "start": 156.86,
+   "end": 162.08,
+   "text": "Because the Mac died, but somehow, between taking it out of the Mac and trying to get"
+  },
+  {
+   "start": 162.08,
+   "end": 163.48,
+   "text": "It into the new computer, I lost it."
+  },
+  {
+   "start": 163.9,
+   "end": 167.38,
+   "text": "I had no idea, it just disappeared, and I can't see it, and it was only like three feet."
+  },
+  {
+   "start": 168.38,
+   "end": 172.96,
+   "text": "So I have to go buy another one, another external keyboard tomorrow, so that I can work the computer,"
+  },
+  {
+   "start": 173.14,
+   "end": 177.84,
+   "text": "And then take the Mac into the store, and, uh, and then figure out what's going on with"
+  },
+  {
+   "start": 177.84,
+   "end": 179.32,
+   "text": "The, with the SD card, you know?"
+  },
+  {
+   "start": 179.32,
+   "end": 183.76,
+   "text": "I mean, I was thinking, I finally gave up, I was, I got it, and I was, and the phone"
+  },
+  {
+   "start": 183.76,
+   "end": 188.02,
+   "text": "Didn't even see the stuff, 128 gigabytes, and it's interesting, it's actually 125 gigabytes."
+  },
+  {
+   "start": 189.18,
+   "end": 191.5,
+   "text": "Oh, but I think I forgot to do world history."
+  },
+  {
+   "start": 191.5,
+   "end": 200.4,
+   "text": "But all of, all of my MP3, um, files for audio books, and, um, you know, and stuff relating,"
+  },
+  {
+   "start": 200.56,
+   "end": 205.96,
+   "text": "I mean, audio books relating to history, and philosophy, and, you know, religion, historical"
+  },
+  {
+   "start": 205.96,
+   "end": 212.3,
+   "text": "Stuff, all the ones in that, in those areas that you can get from LibriVox, an MP3 format"
+  },
+  {
+   "start": 212.3,
+   "end": 217.5,
+   "text": "Where people read the books, is about, um, 100, I mean, it was about 125 gigabytes."
+  },
+  {
+   "start": 217.5,
+   "end": 220.24,
+   "text": "It's just, like, just about as much as you can buy on your phone, except it wasn't the"
+  },
+  {
+   "start": 220.24,
+   "end": 224.7,
+   "text": "World, so I'll have to do some more tweaking, but, yeah, it kind of just about fits in."
+  },
+  {
+   "start": 225.0,
+   "end": 231.54,
+   "text": "Um, but, um, but, yeah, my phone wouldn't register it, can't see it, and I was thinking"
+  },
+  {
+   "start": 231.54,
+   "end": 236.44,
+   "text": "If my phone can't see it at all, you know, if, like, the phone just can't, you know, the"
+  },
+  {
+   "start": 236.44,
+   "end": 240.48,
+   "text": "Technology isn't at that level for it to actually work, they just offer it, but it doesn't actually"
+  },
+  {
+   "start": 240.48,
+   "end": 245.04,
+   "text": "Work, um, then I'll see, I was like, fuck it, I don't care, I'll just see if it'll work"
+  },
+  {
+   "start": 245.04,
+   "end": 248.36,
+   "text": "In an MP3 player, because if you can just get it to work in an MP3 player, then you"
+  },
+  {
+   "start": 248.36,
+   "end": 252.36,
+   "text": "Still have your whole collection right there, which is really cool, it's just too bad that"
+  },
+  {
+   "start": 252.36,
+   "end": 255.78,
+   "text": "You can't do it with the phone, because the phone has better apps for you to navigate quicker"
+  },
+  {
+   "start": 255.78,
+   "end": 262.72,
+   "text": "And better, um, so, then, you know, a little old MP3 player, but I'll try again, um, with"
+  },
+  {
+   "start": 262.72,
+   "end": 275.75,
+   "text": "My phone, um, yeah, um, so, yeah, I basically couldn't do anything, but it was kind of late"
+  },
+  {
+   "start": 275.75,
+   "end": 280.41,
+   "text": "Anyway, it's like 12.20 in the morning now, so, time to go to sleep anyway, it'll be"
+  },
+  {
+   "start": 280.41,
+   "end": 283.73,
+   "text": "A little bit harder for me to get to sleep tonight, though, because I got up kind of late"
+  },
+  {
+   "start": 283.73,
+   "end": 289.89,
+   "text": "Today, because I was up late last night, so, um, but, yeah, that's what I'll do, try to"
+  },
+  {
+   "start": 289.89,
+   "end": 294.81,
+   "text": "Get stuff working again, and if I have to take my Mac back to the store, I'll just work on"
+  },
+  {
+   "start": 294.81,
+   "end": 299.15,
+   "text": "My website on my computer with a new external heart, uh, keyboard, okay, peace out!"
+  }
+ ]
+}

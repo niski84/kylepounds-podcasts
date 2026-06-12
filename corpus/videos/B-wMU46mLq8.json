@@ -1,0 +1,233 @@
+{
+ "youtube_id": "B-wMU46mLq8",
+ "title": "Living in Boulder vlog 6 - 20 - 2017: Collecting Green Screen Props",
+ "url": "https://youtu.be/B-wMU46mLq8",
+ "published_at": "2017-06-21",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs on June 20, 2017 from Boulder about his obsessive green screen background collecting, having grown his library from 855 to 1655 backgrounds in a short time. He also shares a creative idea to visualize his book collection as armies of agents facing off against each other.",
+  "speaker": "kyle",
+  "topics": [
+   "green screen collecting",
+   "video production workflow",
+   "book collection visualization",
+   "listening habits",
+   "daily vlog"
+  ],
+  "stances": [
+   {
+    "topic": "green screen collecting",
+    "position": "deeply engrossed and excited, planning to stop downloading once past 2000"
+   },
+   {
+    "topic": "book army visualization idea",
+    "position": "enthusiastic about turning book chapters/categories into competing agent armies as a fun visual project"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "In Birdland (likely a book or audio)",
+   "Church History by Sousum (phonetic; exact title unclear)",
+   "Google"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.62,
+   "end": 4.62,
+   "text": "Hello living in Bulgaria, the lock for June 20th."
+  },
+  {
+   "start": 4.62,
+   "end": 10.62,
+   "text": "It's 2017 and the evening."
+  },
+  {
+   "start": 10.62,
+   "end": 26.44,
+   "text": "And I didn't do a video yesterday because I was too busy with my green screens."
+  },
+  {
+   "start": 26.44,
+   "end": 31.44,
+   "text": "The last time I did a video, I had 855 green screen backgrounds."
+  },
+  {
+   "start": 31.44,
+   "end": 35.44,
+   "text": "Right now, I'll let's check that 1655."
+  },
+  {
+   "start": 35.44,
+   "end": 43.44,
+   "text": "So, probably have over an engine over 2000, I'm done."
+  },
+  {
+   "start": 43.44,
+   "end": 48.44,
+   "text": "I'm not downloading it, I'm just from subscribing to all the green screen channels."
+  },
+  {
+   "start": 48.44,
+   "end": 52.44,
+   "text": "And running through there, listening to stuff, I'm just typing stuff on that."
+  },
+  {
+   "start": 52.44,
+   "end": 55.44,
+   "text": "And then just downloading all the ones that look interesting."
+  },
+  {
+   "start": 55.44,
+   "end": 59.44,
+   "text": "So, I guess, you know, at the end, I'll just look through the list and everything."
+  },
+  {
+   "start": 59.44,
+   "end": 62.44,
+   "text": "But basically, again, I guess everything on the side."
+  },
+  {
+   "start": 62.44,
+   "end": 66.44,
+   "text": "And, you know, break them up in there and turn them into digital bits."
+  },
+  {
+   "start": 66.44,
+   "end": 68.44,
+   "text": "And then organize them."
+  },
+  {
+   "start": 68.44,
+   "end": 73.44,
+   "text": "And like, I have my green screen folder, which has like 50, and then I have folders."
+  },
+  {
+   "start": 73.44,
+   "end": 75.44,
+   "text": "And then I'm inside each one of those."
+  },
+  {
+   "start": 75.44,
+   "end": 80.44,
+   "text": "I have like, those have like 50, you know, 30 folders each."
+  },
+  {
+   "start": 82.44,
+   "end": 87.44,
+   "text": "That's like a thousand folders or something."
+  },
+  {
+   "start": 87.44,
+   "end": 96.84,
+   "text": "So, I'm super excited to do the green screen for the one that I do today."
+  },
+  {
+   "start": 96.84,
+   "end": 102.84,
+   "text": "Because, I have a little spoon in there, there's so much."
+  },
+  {
+   "start": 102.84,
+   "end": 105.84,
+   "text": "Yeah, it's all prepared to just work through us, so the week."
+  },
+  {
+   "start": 105.84,
+   "end": 113.12,
+   "text": "I've been listening to a, like, in Birdland, in Birdland."
+  },
+  {
+   "start": 113.12,
+   "end": 120.19,
+   "text": "And then, uh, church history."
+  },
+  {
+   "start": 120.19,
+   "end": 125.19,
+   "text": "And, uh, by, a little bit to see if I can see."
+  },
+  {
+   "start": 125.19,
+   "end": 135.51,
+   "text": "Church history by Sousum and so, um,"
+  },
+  {
+   "start": 135.51,
+   "end": 137.51,
+   "text": "oh, there's this other thing I wanted to talk about."
+  },
+  {
+   "start": 137.51,
+   "end": 140.51,
+   "text": "I got this idea, like, the graph of my book sorting us, no, I'm setting it up."
+  },
+  {
+   "start": 140.51,
+   "end": 142.51,
+   "text": "It looked kind of like an agent."
+  },
+  {
+   "start": 142.51,
+   "end": 144.51,
+   "text": "And so I could piece them together and make an agent's out of them."
+  },
+  {
+   "start": 144.51,
+   "end": 149.79,
+   "text": "And just make each chapter a, like, a person."
+  },
+  {
+   "start": 149.79,
+   "end": 154.79,
+   "text": "And then I could have my book square off each other with each other."
+  },
+  {
+   "start": 154.79,
+   "end": 157.79,
+   "text": "Well, big armies of books, square off with each other."
+  },
+  {
+   "start": 157.79,
+   "end": 163.79,
+   "text": "I think I know like the Greek classics, person with the Norman classics, just seeing how many, like,"
+  },
+  {
+   "start": 163.79,
+   "end": 171.07,
+   "text": "India versus zero, seeing how many, uh, you know, big armies you can make out of that."
+  },
+  {
+   "start": 171.07,
+   "end": 174.07,
+   "text": "I'll be able to find a little visual thing to do."
+  },
+  {
+   "start": 174.07,
+   "end": 178.07,
+   "text": "Maybe super puzzle on Google or something."
+  },
+  {
+   "start": 178.07,
+   "end": 184.07,
+   "text": "Um, okay, so, um, I will go and build this."
+  },
+  {
+   "start": 184.07,
+   "end": 186.07,
+   "text": "How many long times are talking?"
+  },
+  {
+   "start": 186.07,
+   "end": 188.07,
+   "text": "3, 7, alright, let's go."
+  },
+  {
+   "start": 188.07,
+   "end": 190.07,
+   "text": "Well, this thing I'm with the Greek screen."
+  }
+ ]
+}

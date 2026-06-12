@@ -1,0 +1,3885 @@
+{
+ "youtube_id": "5yPQxwGeeoM",
+ "title": "Roman Republic to Empire Transition - Request",
+ "url": "https://youtu.be/5yPQxwGeeoM",
+ "published_at": "2018-10-10",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a wide-ranging, stream-of-consciousness history of the Roman Republic's fall and the rise of the Empire, covering key figures from Sulla through Augustus while explicitly drawing parallels to modern American wealth inequality, corporate political power, and what he sees as creeping fascism. He frames the period as the most fascinating 100-year window in history and debates whether empire inevitably requires autocracy.",
+  "speaker": "kyle",
+  "topics": [
+   "Roman Republic history",
+   "Republic-to-Empire transition",
+   "democracy vs autocracy",
+   "wealth inequality in Rome",
+   "Rome-America parallels",
+   "Julius Caesar",
+   "Crassus",
+   "Mark Antony and Cleopatra",
+   "Augustus Caesar",
+   "Sulla",
+   "Cicero",
+   "military conquest and enrichment",
+   "corporate/oligarchic capture of government"
+  ],
+  "stances": [
+   {
+    "topic": "most interesting historical period",
+    "position": "The end of the Roman Republic is the most interesting 100-year window in all of ancient history"
+   },
+   {
+    "topic": "inevitability of autocracy in empire",
+    "position": "Skeptical but uncertain — thinks a parallel-universe Rome staying democratic is conceivable, but empire's scale and communication limits made autocracy likely"
+   },
+   {
+    "topic": "Crassus",
+    "position": "Greedy, crude, politically corrupt — compares him unfavorably to Julius Caesar and likens him to Donald Trump"
+   },
+   {
+    "topic": "Mark Antony",
+    "position": "A bumbling, uneducated womanizer and drunk who is personally responsible for Rome becoming an autocratic empire"
+   },
+   {
+    "topic": "Julius Caesar",
+    "position": "Genuinely impressive soldier and writer, but still an agent of eroding democratic norms"
+   },
+   {
+    "topic": "America's current political system",
+    "position": "Already a fascist state — laws reflect lobbyist and wealthy interests, not popular will, just like late-Republic Rome"
+   },
+   {
+    "topic": "Rome-America parallels",
+    "position": "The parallels are striking and alarming, particularly around wealth concentration and oligarchic override of democratic institutions"
+   },
+   {
+    "topic": "Roman banking class after Hannibal's invasion",
+    "position": "Predatory and dishonest — they foreclosed on farmers who couldn't pay taxes during war devastation, concentrating land wealth"
+   },
+   {
+    "topic": "Augustus",
+    "position": "Ultimately responsible for cementing the autocratic system, though arguably necessary given the power vacuum"
+   }
+  ],
+  "entities": [
+   "Romulus",
+   "Tarquinius (bad king)",
+   "Numa Pompilius",
+   "Cincinnatus",
+   "Sulla",
+   "Marius",
+   "Jugurtha",
+   "Julius Caesar",
+   "Crassus",
+   "Pompey",
+   "Cicero",
+   "Brutus",
+   "Mark Antony",
+   "Cleopatra",
+   "Augustus Caesar",
+   "Agrippa",
+   "Tiberius",
+   "Hannibal",
+   "Aeneas",
+   "Sallust",
+   "Jacob Abbott",
+   "Neil deGrasse Tyson",
+   "Joe Rogan",
+   "Richard Tainter",
+   "Richard Wolff",
+   "cranty (subscriber who requested video)",
+   "Carthage",
+   "Numidia",
+   "Gaul (France)",
+   "Syria",
+   "Egypt",
+   "Battle of Actium",
+   "Rubicon",
+   "The Jugurthine War (Sallust)",
+   "The Catiline Conspiracy (Sallust)",
+   "The Philippics (Cicero)",
+   "Cleopatra (Jacob Abbott)",
+   "Gallic Wars commentaries (Caesar)",
+   "Twelve Tables",
+   "SPQR (Roman flag motto)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 10.5,
+   "text": "Hello, here's a video request by Kranty. I hope the volume's right. This is my new"
+  },
+  {
+   "start": 10.5,
+   "end": 19.08,
+   "text": "Operating system. Kranty Nubwani, my Taiwanese subscriber who is a computer"
+  },
+  {
+   "start": 19.08,
+   "end": 24.56,
+   "text": "Programmer or web designer who has to do the high-end stuff so he can't do the"
+  },
+  {
+   "start": 24.56,
+   "end": 32.96,
+   "text": "Audiobooks while he works. So he wanted me to do a rundown on Roman Republic"
+  },
+  {
+   "start": 32.96,
+   "end": 43.18,
+   "text": "Turning into Roman Empire. So I read up on some stuff for a couple days first"
+  },
+  {
+   "start": 43.18,
+   "end": 50.08,
+   "text": "Refresh of course because this is, oh and I'm super high right now, I had"
+  },
+  {
+   "start": 50.08,
+   "end": 57.86,
+   "text": "Like 20 hits of top-shelf weed and now I'm starting to feel higher. I got this"
+  },
+  {
+   "start": 57.86,
+   "end": 66.44,
+   "text": "Stuff I want to get the concentrates more but they're hard on my lungs. So yeah"
+  },
+  {
+   "start": 66.44,
+   "end": 75.02,
+   "text": "It's an important video because I mean because it's the most interesting period"
+  },
+  {
+   "start": 75.02,
+   "end": 82.86,
+   "text": "Of history I think. Neil deGrasse Tyson was telling Joe Rogan the other day that"
+  },
+  {
+   "start": 82.86,
+   "end": 90.9,
+   "text": "He thinks Columbus discovering America is the most important time and it creates"
+  },
+  {
+   "start": 90.9,
+   "end": 98.22,
+   "text": "Some interesting stuff happened after that like how the Spanish armies could"
+  },
+  {
+   "start": 98.22,
+   "end": 104.22,
+   "text": "Come over and take over the Incas and the Aztecs. But if you're gonna talk about on"
+  },
+  {
+   "start": 104.22,
+   "end": 110.46,
+   "text": "The ancient world and the most interesting 50 year period of history 100 year period of"
+  },
+  {
+   "start": 110.46,
+   "end": 114.56,
+   "text": "History would be the Rome. One interesting thing that I don't think the end of the"
+  },
+  {
+   "start": 114.56,
+   "end": 118.9,
+   "text": "Roman Republic. One interesting thing that people don't think about that I didn't"
+  },
+  {
+   "start": 118.9,
+   "end": 124.08,
+   "text": "Realize to really think about is that when you think about the Roman Empire the"
+  },
+  {
+   "start": 124.08,
+   "end": 133.04,
+   "text": "Roman Empire lasted for thousand years and but everything that you think about the"
+  },
+  {
+   "start": 133.04,
+   "end": 142.38,
+   "text": "Roman Empire happened within a hundred year period pretty much. It was just like all the"
+  },
+  {
+   "start": 142.38,
+   "end": 148.02,
+   "text": "Players knew each other the entire story and that was the period of the end of the"
+  },
+  {
+   "start": 148.02,
+   "end": 156.54,
+   "text": "Republic and the beginning of the Empire. That's where all of the literature is"
+  },
+  {
+   "start": 156.54,
+   "end": 163.32,
+   "text": "About like 90 percent of the literature. There's other periods of... there's two"
+  },
+  {
+   "start": 163.32,
+   "end": 167.22,
+   "text": "Periods of Rome that have all the literature pretty much. It's that period end of the"
+  },
+  {
+   "start": 167.22,
+   "end": 175.86,
+   "text": "Rome the Republic and then the the Christian the end of the end of the Roman Empire like"
+  },
+  {
+   "start": 175.86,
+   "end": 179.54,
+   "text": "Right before the end of the Roman Empire with all the Christian writers talking about all"
+  },
+  {
+   "start": 179.54,
+   "end": 188.88,
+   "text": "All their philosophy and then they're talking you you get an idea of what the"
+  },
+  {
+   "start": 188.88,
+   "end": 197.0,
+   "text": "World was like so those are the two periods but there but it's but if you're the more"
+  },
+  {
+   "start": 197.0,
+   "end": 204.4,
+   "text": "Interesting of those two periods are the the end of the Republic because that's where all the"
+  },
+  {
+   "start": 204.4,
+   "end": 214.66,
+   "text": "Interesting stuff was happening you know it's not just somebody philosophizing so yeah so it"
+  },
+  {
+   "start": 214.66,
+   "end": 222.04,
+   "text": "Would so that the the interesting juicy times come from like where that where it"
+  },
+  {
+   "start": 222.04,
+   "end": 233.4,
+   "text": "Starts to change is from Sulla on down through I guess you know Nero so"
+  },
+  {
+   "start": 233.4,
+   "end": 248.22,
+   "text": "Uh okay so let's talk about some paradoxical things um Rome became a Republic to an Empire"
+  },
+  {
+   "start": 248.22,
+   "end": 255.84,
+   "text": "Okay now an Empire is something that controls the whole world um at the same time that it"
+  },
+  {
+   "start": 255.84,
+   "end": 268.5,
+   "text": "Became a democratically elected democracy to a hereditary autocracy so it might make"
+  },
+  {
+   "start": 268.5,
+   "end": 276.54,
+   "text": "People think that in order to be in to control the whole world you have to make"
+  },
+  {
+   "start": 276.54,
+   "end": 288.72,
+   "text": "Your country autocracy and that's that's that's the juicy part about this whole video that's that's"
+  },
+  {
+   "start": 288.72,
+   "end": 300.9,
+   "text": "Where the whole that's what makes it so fascinating and so I don't think it's necessary to have an auto let's"
+  },
+  {
+   "start": 300.9,
+   "end": 309.06,
+   "text": "Talk about how that how it happened just really simply um when they become a big empire they have"
+  },
+  {
+   "start": 309.06,
+   "end": 317.46,
+   "text": "To be controlled by an army and uh traditionally an army is an autocratic uh system in ancient Rome"
+  },
+  {
+   "start": 317.46,
+   "end": 327.9,
+   "text": "They'd have their um their um democracy and they have the way that their democracy in ancient Roman Republic"
+  },
+  {
+   "start": 327.9,
+   "end": 333.34,
+   "text": "Yeah because I think the video request was talk about the Roman Republic so yeah let's just give"
+  },
+  {
+   "start": 333.34,
+   "end": 343.08,
+   "text": "A really quick uh history of the Roman Republic so Rome was started in 753 BC by Romulus who was a member"
+  },
+  {
+   "start": 343.08,
+   "end": 351.66,
+   "text": "Of the royal family of Alba Longa which was started in like um 1150 BC so that let you know that was like"
+  },
+  {
+   "start": 351.66,
+   "end": 358.1,
+   "text": "400 years uh for 30 years uh for 30 years they were uh their capital was um on the shore it's called"
+  },
+  {
+   "start": 358.1,
+   "end": 364.64,
+   "text": "Latinia and there were a people the Latins who were founded by Aeneas who was the prince of Troy"
+  },
+  {
+   "start": 364.64,
+   "end": 376.28,
+   "text": "So Troy he he escaped Troy after it got captured they went to uh Italy um and uh Italy had always been"
+  },
+  {
+   "start": 376.28,
+   "end": 383.74,
+   "text": "Uh like a place like a place on the root it was a place in the civilized world Hercules uh made a stop"
+  },
+  {
+   "start": 383.74,
+   "end": 391.46,
+   "text": "There and Rome actually was always a uh like a holy city and uh so Aeneas came and he teamed up with"
+  },
+  {
+   "start": 391.46,
+   "end": 398.3,
+   "text": "The locals they were called the Aborigines that's what their tribe was called and uh I think so and uh"
+  },
+  {
+   "start": 398.3,
+   "end": 406.88,
+   "text": "Yeah and that's they started the Latins and um anyway so uh so it was a kingdom but then it was"
+  },
+  {
+   "start": 406.88,
+   "end": 413.98,
+   "text": "After 244 years of being a kingdom there they had a uh a bad king Tarquinius who was overworking"
+  },
+  {
+   "start": 413.98,
+   "end": 423.18,
+   "text": "Everybody and uh uh uh suppressing people so they had a revolution and one interesting thing about that"
+  },
+  {
+   "start": 423.18,
+   "end": 430.06,
+   "text": "Is that uh 244 years after the writing of the U.S. Constitution in 1886 that's going to be"
+  },
+  {
+   "start": 430.06,
+   "end": 439.2,
+   "text": "21 I mean 2030 that's the 244 year anniversary and that's the day that's the year that uh this guy"
+  },
+  {
+   "start": 439.2,
+   "end": 446.06,
+   "text": "I think his name is Richard Tainter who writes about collapses civilizations or some uh but a famous"
+  },
+  {
+   "start": 446.06,
+   "end": 452.6,
+   "text": "Economist or a guy who wrote a big book that who was who's uh Richard Wolff is talking about it"
+  },
+  {
+   "start": 452.6,
+   "end": 460.86,
+   "text": "Anyway he thinks that American uh empire is going to collapse in the year 23 so it's uh"
+  },
+  {
+   "start": 460.86,
+   "end": 468.26,
+   "text": "I it's it's like um there are these guys who talk about uh generations and there's generational cycles"
+  },
+  {
+   "start": 468.26,
+   "end": 474.66,
+   "text": "And so yeah maybe we have this we I think we have this interior clock built into our society"
+  },
+  {
+   "start": 474.66,
+   "end": 480.88,
+   "text": "Based on number of generations that um you kind of have to have a re-evaluation"
+  },
+  {
+   "start": 480.88,
+   "end": 489.2,
+   "text": "Of your political system so anyways that was 250 years 244 years and then that's kind of like the"
+  },
+  {
+   "start": 489.2,
+   "end": 503.72,
+   "text": "Golden era of Rome um where they had uh I they had the most democratic I think uh city-state ever"
+  },
+  {
+   "start": 503.72,
+   "end": 509.66,
+   "text": "The um the the Athens the Athenians had this thing I think that was purely democratic people would go I"
+  },
+  {
+   "start": 509.66,
+   "end": 515.08,
+   "text": "Think it was 6,000 people could go to the Agora forum and vote for whoever was going to be their leader"
+  },
+  {
+   "start": 515.08,
+   "end": 525.76,
+   "text": "But but the most uh the the the best one I can think of is Rome and uh so they'd have these guys"
+  },
+  {
+   "start": 525.76,
+   "end": 535.98,
+   "text": "The consuls and they'd have two consuls and um one consul could veto the other consul and one guy"
+  },
+  {
+   "start": 535.98,
+   "end": 540.74,
+   "text": "Had the precedence over the other one I think for one day so they'd stagger it and they would"
+  },
+  {
+   "start": 540.74,
+   "end": 546.44,
+   "text": "Only get to be the consuls for one year and then they'd have to elect new consuls so if you look at"
+  },
+  {
+   "start": 546.44,
+   "end": 552.34,
+   "text": "Their consul list uh it's really long because it's just one year I think they have the same thing with"
+  },
+  {
+   "start": 552.34,
+   "end": 560.46,
+   "text": "Uh the Athens they'd have their archon for one year but um yeah so that's better than America we do"
+  },
+  {
+   "start": 560.46,
+   "end": 565.94,
+   "text": "It every four years and so the way that they did it is when they they stopped the the uh kingdom they"
+  },
+  {
+   "start": 565.94,
+   "end": 572.58,
+   "text": "Just had all the rules that the the king had just transferred to the uh consul but they didn't have"
+  },
+  {
+   "start": 572.58,
+   "end": 585.24,
+   "text": "A written constitution um that we know and uh and so that was going on Rome was doing well and then"
+  },
+  {
+   "start": 585.24,
+   "end": 592.32,
+   "text": "They took over all of Italy and because they were the one city state they were the they had the best"
+  },
+  {
+   "start": 592.32,
+   "end": 602.16,
+   "text": "Uh political system I think they were the most um democratic uh and all-inclusive ever since the"
+  },
+  {
+   "start": 602.16,
+   "end": 608.16,
+   "text": "Beginning that's how it was started it was started as a as a city from scratch so they included everybody"
+  },
+  {
+   "start": 608.16,
+   "end": 613.62,
+   "text": "Um all of the outcasts from all the different races it was it's some kind of a meeting place of"
+  },
+  {
+   "start": 613.62,
+   "end": 619.54,
+   "text": "Different races the Etruscans on the north uh who looked different like different you could tell by"
+  },
+  {
+   "start": 619.54,
+   "end": 625.42,
+   "text": "Looking at them and then the Sabin Sabins up in the mountains and then the Latins and so uh they all"
+  },
+  {
+   "start": 625.42,
+   "end": 634.52,
+   "text": "Learned to get along and um and uh and then the third king turned it into a holy place to further gain"
+  },
+  {
+   "start": 634.52,
+   "end": 640.84,
+   "text": "Which I think it already to was but he officially made it they had like a they made a bunch of temples and"
+  },
+  {
+   "start": 640.84,
+   "end": 650.3,
+   "text": "Um made made like official religion and um Pompilus I think was it was his name and he wasn't even a"
+  },
+  {
+   "start": 650.3,
+   "end": 656.58,
+   "text": "Roman Roman he was a Sabbath Sabinian so their third king was already a foreigner so they had this"
+  },
+  {
+   "start": 656.58,
+   "end": 662.82,
+   "text": "Tradition of kind of like a meritocracy and they actually hunted him down he wasn't even living in"
+  },
+  {
+   "start": 662.82,
+   "end": 668.94,
+   "text": "Rome they went and got him because they heard he was the smartest guy in the area so um so Rome's"
+  },
+  {
+   "start": 668.94,
+   "end": 674.12,
+   "text": "Doing well and they're taking over and they're very democratic and so that's the thing that you"
+  },
+  {
+   "start": 674.12,
+   "end": 680.84,
+   "text": "Need to take away from Rome Roman Republic um is that they're very they're the most democratic um"
+  },
+  {
+   "start": 680.84,
+   "end": 687.72,
+   "text": "Society where uh they celebrated you know the individual and power in the individual and um"
+  },
+  {
+   "start": 687.72,
+   "end": 697.52,
+   "text": "So um so anyway they end up having a battle they have a showdown with Carthage which was the other"
+  },
+  {
+   "start": 697.52,
+   "end": 706.1,
+   "text": "Big power Rome had all of Italy and Carthage had all of northern Africa and Spain and so then they"
+  },
+  {
+   "start": 706.1,
+   "end": 713.14,
+   "text": "Were gonna I think they started fighting over uh Sicily and uh Rome ends up having these three big"
+  },
+  {
+   "start": 713.14,
+   "end": 720.06,
+   "text": "Wars with Carthage and they beat Carthage and uh I'm trying to zoom to the the yeah end of the"
+  },
+  {
+   "start": 720.06,
+   "end": 726.5,
+   "text": "Republic beginning empire so so they beat Carthage but the problem is and then they take over Carthage"
+  },
+  {
+   "start": 726.5,
+   "end": 732.88,
+   "text": "And they get you know wealthy as an empire but the problem is um the war with Carthage"
+  },
+  {
+   "start": 732.88,
+   "end": 739.64,
+   "text": "Ravaged Italy because Hannibal came in from the north with all of his elephants over the mountains"
+  },
+  {
+   "start": 739.64,
+   "end": 745.68,
+   "text": "Into Italy and was there for like years and was kicking the Romans asses and almost could have"
+  },
+  {
+   "start": 745.68,
+   "end": 753.26,
+   "text": "Taken over Rome but didn't uh for some reason but uh they eventually took him uh beat him but"
+  },
+  {
+   "start": 753.26,
+   "end": 760.58,
+   "text": "He uh he ravaged the countryside he he made it so that the farmers couldn't farm for a few years"
+  },
+  {
+   "start": 760.58,
+   "end": 769.2,
+   "text": "And so the Roman bankers okay this is another thing I wanted to talk about um"
+  },
+  {
+   "start": 769.2,
+   "end": 775.3,
+   "text": "I shouldn't get sidetracked because I'll lose my train of thought because I'm high but uh but yeah"
+  },
+  {
+   "start": 775.3,
+   "end": 779.18,
+   "text": "The problems of the falls of empires and stuff it's always the same thing it's always"
+  },
+  {
+   "start": 779.18,
+   "end": 784.52,
+   "text": "From the same causes um yeah I think I will get sidetracked and then I'll try to pick up"
+  },
+  {
+   "start": 784.52,
+   "end": 796.7,
+   "text": "Um actually I won't so where was I um oh right so they got ravaged so the bankers made all made all of"
+  },
+  {
+   "start": 796.7,
+   "end": 805.58,
+   "text": "The um the farmers pay all of their uh the same taxes that they had to pay before but they couldn't"
+  },
+  {
+   "start": 805.58,
+   "end": 815.0,
+   "text": "Grow their plants so it wasn't fair so it was like one of these tricks banker tricks"
+  },
+  {
+   "start": 815.0,
+   "end": 822.52,
+   "text": "So instead of changing the laws and understanding that they you know being realistic with people"
+  },
+  {
+   "start": 822.52,
+   "end": 829.96,
+   "text": "They just threw them in jail and took over their land and gave it to the rich people"
+  },
+  {
+   "start": 829.96,
+   "end": 839.92,
+   "text": "Um and so that's where this big wealth discrepancy problem in Rome happened so um I think the main"
+  },
+  {
+   "start": 839.92,
+   "end": 848.44,
+   "text": "Role of the story is that it's just really difficult to transform into a really big complex society"
+  },
+  {
+   "start": 848.44,
+   "end": 858.66,
+   "text": "And keep it democratic because of just the natural flow of communication maybe gets lost in translation and"
+  },
+  {
+   "start": 858.66,
+   "end": 864.38,
+   "text": "Um people just start fighting and so then you just have to make it simple and then have an autocracy"
+  },
+  {
+   "start": 864.38,
+   "end": 874.7,
+   "text": "So and um and also the lack of communication causing people to not be able to make those banking adjustments"
+  },
+  {
+   "start": 874.7,
+   "end": 884.64,
+   "text": "So they ended up having a uh a revolution um they were about to get taken over by some a neighboring tribe"
+  },
+  {
+   "start": 884.64,
+   "end": 892.5,
+   "text": "And the poor people refused to fight uh so they had to make concessions and um they made a law that no"
+  },
+  {
+   "start": 892.5,
+   "end": 898.92,
+   "text": "No one person could own more than 500 jujera of land which is 1.36 square kilometers which is the same"
+  },
+  {
+   "start": 898.92,
+   "end": 905.06,
+   "text": "Size as uh one of those uh crops if you look at the uh earth america and google earth and you see those"
+  },
+  {
+   "start": 905.06,
+   "end": 915.24,
+   "text": "Circular crop formations it's about that size and um and so Rome was uh was doing okay"
+  },
+  {
+   "start": 915.24,
+   "end": 924.22,
+   "text": "But the first signs of the fall of the empire of the the democratically elected uh where they were"
+  },
+  {
+   "start": 924.22,
+   "end": 930.18,
+   "text": "Able to have these consuls who were getting elected and then they would act as the the boss like the king"
+  },
+  {
+   "start": 930.18,
+   "end": 935.48,
+   "text": "And then every year it was another guy you know and if you wanted to run again you could run again"
+  },
+  {
+   "start": 935.48,
+   "end": 939.96,
+   "text": "You just had to you know wait a year so there were guys who were consuls five and six times so"
+  },
+  {
+   "start": 939.96,
+   "end": 945.8,
+   "text": "It's kind of similar to a president you know um I guess the same amount of time as we have"
+  },
+  {
+   "start": 945.8,
+   "end": 950.14,
+   "text": "Presidents now we have it four to eight years so you know maybe once in a while you'd have"
+  },
+  {
+   "start": 950.14,
+   "end": 957.3,
+   "text": "You know the consul with four times would be it was less time actually them you know an eight-time"
+  },
+  {
+   "start": 957.3,
+   "end": 968.66,
+   "text": "Consul was uh didn't happen so much so um it was a really good system that they had and they respected"
+  },
+  {
+   "start": 968.66,
+   "end": 977.26,
+   "text": "It and um they had their senators of 300 senators I think it was 100 in the beginning and that 300 and"
+  },
+  {
+   "start": 977.26,
+   "end": 985.3,
+   "text": "Who uh they all deliberated and you know represented everybody but then um with this wealth discrepancy"
+  },
+  {
+   "start": 985.3,
+   "end": 993.26,
+   "text": "Problem uh they had these two brothers the gracchus brothers who made those laws it was called lex licinia"
+  },
+  {
+   "start": 993.26,
+   "end": 1006.62,
+   "text": "The land law um but they got killed by uh aristocratic factions and um and then so so okay so the beginning"
+  },
+  {
+   "start": 1006.62,
+   "end": 1014.82,
+   "text": "Of the end happened with uh with sulla he was the first guy who showed that being a general just um"
+  },
+  {
+   "start": 1014.82,
+   "end": 1024.44,
+   "text": "You could take over the whole um country uh before that what they did was if they had to have a big"
+  },
+  {
+   "start": 1024.44,
+   "end": 1034.34,
+   "text": "General to fight a battle they would make uh they would make them a dictator um and I think it was for"
+  },
+  {
+   "start": 1034.34,
+   "end": 1040.82,
+   "text": "10 days the first one there was a guy called cincinnatus they made him dictator he went and so"
+  },
+  {
+   "start": 1040.82,
+   "end": 1046.34,
+   "text": "So now he had he had like autocratic control so that there was no wasting of time and double"
+  },
+  {
+   "start": 1046.34,
+   "end": 1052.3,
+   "text": "Deliberating and it was like one head controlling the whole body and uh that's the argument for why"
+  },
+  {
+   "start": 1052.3,
+   "end": 1058.18,
+   "text": "You would want an autocratic system for an empire it's just too complicated complicated for too many"
+  },
+  {
+   "start": 1058.18,
+   "end": 1064.96,
+   "text": "People because we can't get along but he was a hero because at the end of the war he he gave up his uh"
+  },
+  {
+   "start": 1064.96,
+   "end": 1071.66,
+   "text": "His office like he said he would and he started he went back to his farm and so everybody held him up"
+  },
+  {
+   "start": 1071.66,
+   "end": 1081.42,
+   "text": "To be the greatest roman ever the you know the example of the roman who who um who uh thinks for"
+  },
+  {
+   "start": 1081.42,
+   "end": 1089.0,
+   "text": "The people and not for himself and they even had it um in their uh their their their flag they had uh"
+  },
+  {
+   "start": 1089.0,
+   "end": 1096.56,
+   "text": "Like the flag was actually words that said we the people and in latin and everybody else that would"
+  },
+  {
+   "start": 1096.56,
+   "end": 1101.62,
+   "text": "Have a flag of the king their king's face or maybe the emblem of their country or something but"
+  },
+  {
+   "start": 1101.62,
+   "end": 1111.08,
+   "text": "They had words that said this is this we are the country of the people so um with no you know no one"
+  },
+  {
+   "start": 1111.08,
+   "end": 1117.58,
+   "text": "Person ever being able to take over and ever since the beginning they had that pride um even from the"
+  },
+  {
+   "start": 1117.58,
+   "end": 1127.98,
+   "text": "Very first king romulus um romulus was started rome when he was 18 and uh just out of nothing and uh so"
+  },
+  {
+   "start": 1127.98,
+   "end": 1139.92,
+   "text": "It was this kind of you know um total meritocracy inviting anybody over um like tribal um where you know"
+  },
+  {
+   "start": 1139.92,
+   "end": 1145.16,
+   "text": "If you didn't like the the chief you just kill him so anyways that's what they that's what a lot of"
+  },
+  {
+   "start": 1145.16,
+   "end": 1151.38,
+   "text": "People think what happened to him he'd been king for 30 years so 18 28 38 48 he's still in his prime"
+  },
+  {
+   "start": 1151.38,
+   "end": 1162.19,
+   "text": "And um and uh he was out there in campus marches watching his uh his his people his army do their"
+  },
+  {
+   "start": 1162.19,
+   "end": 1168.67,
+   "text": "Exercises and then he just died and they say that that all the senators around him said it was this"
+  },
+  {
+   "start": 1168.67,
+   "end": 1175.47,
+   "text": "Magical dust bowl came and swooped him up to the heavens but other people thought maybe they killed"
+  },
+  {
+   "start": 1175.47,
+   "end": 1180.11,
+   "text": "Him because they didn't like how he was he was the king they wanted to make it more of an a uh"
+  },
+  {
+   "start": 1180.11,
+   "end": 1185.77,
+   "text": "Democracy and so their second king well it wasn't the third king their second king they actually yeah"
+  },
+  {
+   "start": 1185.77,
+   "end": 1190.61,
+   "text": "Like I said they went up into the mountains and they found some old guy numus pompilus and brought"
+  },
+  {
+   "start": 1190.61,
+   "end": 1195.17,
+   "text": "Him down just because he was a scholar and he he just that's when he made all those religious laws so"
+  },
+  {
+   "start": 1195.17,
+   "end": 1204.51,
+   "text": "That's what rome was and uh it was a democracy and you know they're probably comparing themselves with"
+  },
+  {
+   "start": 1204.51,
+   "end": 1210.83,
+   "text": "Ancient athens you know um athens was a pure democracy too at the same time when rome turned"
+  },
+  {
+   "start": 1210.83,
+   "end": 1220.57,
+   "text": "Into democracy a uh democracy a republic in 510 bc and athens had all those pericles and socrates and"
+  },
+  {
+   "start": 1220.57,
+   "end": 1227.65,
+   "text": "Those guys that was in the 400s so that was at the same time as the very first consuls of rome and"
+  },
+  {
+   "start": 1227.65,
+   "end": 1237.83,
+   "text": "So anyway um but sulla was a general and they who went over to uh they had a battle with um"
+  },
+  {
+   "start": 1237.83,
+   "end": 1245.67,
+   "text": "A neighboring kingdom because this guy jugurtha uh king of numidia which is in modern day tunisia"
+  },
+  {
+   "start": 1245.67,
+   "end": 1256.89,
+   "text": "He um he uh took over the rest of the country from his brothers illegally and he wasn't even the"
+  },
+  {
+   "start": 1256.89,
+   "end": 1263.69,
+   "text": "Legitimate um heir he was just this like he was from the prostitute of his grandson and uh"
+  },
+  {
+   "start": 1263.69,
+   "end": 1273.53,
+   "text": "And uh so he was a bad dude and so rome went over and uh tried to uh and squashed him but he he"
+  },
+  {
+   "start": 1273.53,
+   "end": 1282.19,
+   "text": "Actually went over and bribed a bunch of romans to help his cause and but jugurtha I mean uh salas I"
+  },
+  {
+   "start": 1282.19,
+   "end": 1297.13,
+   "text": "Mean um uh sulla was the general who took over uh numidia and uh he came back and was having problems"
+  },
+  {
+   "start": 1297.13,
+   "end": 1308.57,
+   "text": "With the uh the consul um what was his name marius who was like 30 years older than him and uh"
+  },
+  {
+   "start": 1308.57,
+   "end": 1316.13,
+   "text": "Wasn't giving him proper um like respect and they they are having I need to listen to listen to that"
+  },
+  {
+   "start": 1316.13,
+   "end": 1323.69,
+   "text": "Book again did he girth and war it's a book written 150 page book written by uh salas uh who was I think"
+  },
+  {
+   "start": 1323.69,
+   "end": 1333.01,
+   "text": "A contemporary it's on my website and uh uh he also wrote another book um oh yeah catiline conspiracy"
+  },
+  {
+   "start": 1333.01,
+   "end": 1347.69,
+   "text": "And so um um sulla comes back into rome and with an army and takes over rome with his army which no roman"
+  },
+  {
+   "start": 1347.69,
+   "end": 1356.83,
+   "text": "Had uh had done before um rome was uh had always been you know they'd send the the general was always"
+  },
+  {
+   "start": 1356.83,
+   "end": 1366.79,
+   "text": "Subject to this the uh consul and the senate and so you know that set a precedent so you know gave"
+  },
+  {
+   "start": 1366.79,
+   "end": 1373.79,
+   "text": "Other people idea maybe they could do it but he was a good guy he was he was uh he killed I think it"
+  },
+  {
+   "start": 1373.79,
+   "end": 1381.43,
+   "text": "Was 9 000 followers of his political opponent and that also had never been done before it's like a"
+  },
+  {
+   "start": 1381.43,
+   "end": 1393.15,
+   "text": "Genocide and he um and he was uh he was like autocratic dictator but then he quit and he went"
+  },
+  {
+   "start": 1393.15,
+   "end": 1399.51,
+   "text": "And retired to his farm just like cincinnatus so there was still that sentiment of trying to of"
+  },
+  {
+   "start": 1399.51,
+   "end": 1407.89,
+   "text": "People trying to keep it democratic um but what he didn't realize probably is that every time you do"
+  },
+  {
+   "start": 1407.89,
+   "end": 1415.41,
+   "text": "Something that's that strong you're you're you're chipping away at the democracy you know you can't"
+  },
+  {
+   "start": 1415.41,
+   "end": 1422.99,
+   "text": "Go and kill 9 000 people uh just because they're fault they follow somebody else your opponent um"
+  },
+  {
+   "start": 1422.99,
+   "end": 1434.85,
+   "text": "And uh yeah so so they were uh so what happened after that and then uh he was he was gonna kill"
+  },
+  {
+   "start": 1434.85,
+   "end": 1441.59,
+   "text": "Julius caesar he was one of the followers of the wrong side but he uh julius caesar escaped"
+  },
+  {
+   "start": 1441.59,
+   "end": 1450.71,
+   "text": "And uh so anyway then they had some more and then what happened was rome the here's here's here's the"
+  },
+  {
+   "start": 1450.71,
+   "end": 1460.09,
+   "text": "Part of the transference from the republic to the empire rome started really turned into an empire now"
+  },
+  {
+   "start": 1460.09,
+   "end": 1470.79,
+   "text": "Um now it wasn't just italy now they had taken over nemidia um and now julius caesar takes over france"
+  },
+  {
+   "start": 1470.79,
+   "end": 1476.69,
+   "text": "Which had five million people and he took it over with 20 000 soldiers um"
+  },
+  {
+   "start": 1476.69,
+   "end": 1483.83,
+   "text": "When another thing about rome is that they were very strong and they they uh"
+  },
+  {
+   "start": 1483.83,
+   "end": 1490.89,
+   "text": "They were uh disciplined and uh they prided themselves on their ability to"
+  },
+  {
+   "start": 1490.89,
+   "end": 1495.65,
+   "text": "Be good warriors and if you want to be a good warrior that means being a good athlete which means"
+  },
+  {
+   "start": 1495.65,
+   "end": 1502.99,
+   "text": "Training all the time which means not having the time to buy things you know and beautify and spend"
+  },
+  {
+   "start": 1502.99,
+   "end": 1509.51,
+   "text": "All of your extra time and money with plants or whatever and so um they were very capable"
+  },
+  {
+   "start": 1509.51,
+   "end": 1516.39,
+   "text": "Yeah and they they took over all of uh all of france and killed a million people while they while"
+  },
+  {
+   "start": 1516.39,
+   "end": 1525.77,
+   "text": "They did it and so they got really rich every time you take over uh another country you get it's you"
+  },
+  {
+   "start": 1525.77,
+   "end": 1533.39,
+   "text": "Get this huge bonus um maybe that's where the ceos of these multinational corporations get their bonus"
+  },
+  {
+   "start": 1533.39,
+   "end": 1538.99,
+   "text": "Idea they feel like they just they just took over any segment of the population and this is their"
+  },
+  {
+   "start": 1538.99,
+   "end": 1547.23,
+   "text": "Pillage money so yeah so that made rome but it's like a one-time injection because basically what"
+  },
+  {
+   "start": 1547.23,
+   "end": 1551.95,
+   "text": "You're doing is it's like you're going into the other country you take all their their gold reserves"
+  },
+  {
+   "start": 1551.95,
+   "end": 1555.25,
+   "text": "And you bring them to your country and then you use it to build stuff and then their people"
+  },
+  {
+   "start": 1555.25,
+   "end": 1562.37,
+   "text": "You take all their people back to work as slaves and um so yeah so it makes you really rich"
+  },
+  {
+   "start": 1562.37,
+   "end": 1570.63,
+   "text": "So um and that you know that uh I'll talk about that later so they take over france and then they"
+  },
+  {
+   "start": 1570.63,
+   "end": 1578.71,
+   "text": "Take over uh spain that was after the carthaginians and then they they took over um all of greece"
+  },
+  {
+   "start": 1578.71,
+   "end": 1590.78,
+   "text": "Um and that's another book I think or that was with the uh I can't remember him but uh anyway and so"
+  },
+  {
+   "start": 1590.78,
+   "end": 1599.14,
+   "text": "Then they were gonna they tried to take over uh syria too and that's where um crassus comes in uh"
+  },
+  {
+   "start": 1599.14,
+   "end": 1607.68,
+   "text": "Um oh I'm sorry I forgot your name but my friend wanted me to talk about crassus"
+  },
+  {
+   "start": 1607.68,
+   "end": 1618.85,
+   "text": "And uh so all right so let's talk about crassus um he was the richest guy ever in the history of the"
+  },
+  {
+   "start": 1618.85,
+   "end": 1624.17,
+   "text": "World um that's what cranty that's what you're my friend's name is yeah and I would say if you"
+  },
+  {
+   "start": 1624.17,
+   "end": 1628.65,
+   "text": "Ever wanted to I think it was even a saying that everybody said and maybe they still say it they"
+  },
+  {
+   "start": 1628.65,
+   "end": 1633.61,
+   "text": "Were like rich as crassus I want to be as rich as crassus and that's who they're talking about"
+  },
+  {
+   "start": 1633.61,
+   "end": 1642.17,
+   "text": "Before it was rich as creases c-r-e-o-s-u-s who's the king of lydia but he was taken over by cyrus and"
+  },
+  {
+   "start": 1642.17,
+   "end": 1650.57,
+   "text": "He was made his uh to be his like advisor until cyrus got killed but um but yeah crassus was this"
+  },
+  {
+   "start": 1650.57,
+   "end": 1657.71,
+   "text": "Roman in the roman republic but this was at the end of the roman republic where rome was had become"
+  },
+  {
+   "start": 1657.71,
+   "end": 1664.85,
+   "text": "An empire because they took over uh uh you know africa and spain from the carthaginians and the"
+  },
+  {
+   "start": 1664.85,
+   "end": 1672.63,
+   "text": "And so it was kind of you had the first triumvirate and this was the first time where"
+  },
+  {
+   "start": 1672.63,
+   "end": 1679.33,
+   "text": "It wasn't really so much the consul it was it was now just rich dudes and so the triumvirate was"
+  },
+  {
+   "start": 1679.33,
+   "end": 1688.59,
+   "text": "Julius caesar and he was rich off his ass from france crassus who was rich from uh just being rich"
+  },
+  {
+   "start": 1688.59,
+   "end": 1696.99,
+   "text": "Probably from all of the taking the land back from people you know uh cheating with the bankers and"
+  },
+  {
+   "start": 1696.99,
+   "end": 1702.29,
+   "text": "Um and then crap and then there was this other guy called lepidus who was another one of those rich"
+  },
+  {
+   "start": 1702.29,
+   "end": 1711.05,
+   "text": "Guys but he was uh we don't talk about him crassus got super rich because there was this fire in rome"
+  },
+  {
+   "start": 1711.05,
+   "end": 1717.25,
+   "text": "And so he just rebuilt all of everybody's houses that I guess they previously they were owners of"
+  },
+  {
+   "start": 1717.25,
+   "end": 1721.47,
+   "text": "And so now they were his houses and so he rented them out for his whatever he wanted to"
+  },
+  {
+   "start": 1721.47,
+   "end": 1727.99,
+   "text": "And so crassus was this is how rich crassus was this is why they say rich is crassus he owned maybe I"
+  },
+  {
+   "start": 1727.99,
+   "end": 1732.81,
+   "text": "Don't know how they probably had an estimate how much he owned it was like a you know a quarter of"
+  },
+  {
+   "start": 1732.81,
+   "end": 1742.09,
+   "text": "The city was his or something but um and there's actually you know there's a uh 57 page"
+  },
+  {
+   "start": 1742.09,
+   "end": 1752.37,
+   "text": "Article written about him on my website by uh somebody one of the contemporaries one of those"
+  },
+  {
+   "start": 1752.37,
+   "end": 1757.71,
+   "text": "Ancient roman writers who did a biography book about people and he was one of the guys and I that"
+  },
+  {
+   "start": 1757.71,
+   "end": 1762.45,
+   "text": "Was one of the books I read the other day in preparation for this video and yeah crassus was"
+  },
+  {
+   "start": 1762.45,
+   "end": 1774.23,
+   "text": "Just like a just a crude backstabbing lying you know uh throw parties for for for gangs of people"
+  },
+  {
+   "start": 1774.23,
+   "end": 1778.55,
+   "text": "Just to get them on his side or whatever you know just like a donald trump I gotta got the idea he was"
+  },
+  {
+   "start": 1778.55,
+   "end": 1786.41,
+   "text": "Like a donald trump type of guy you know not particularly not a scholar so anyway you know lazy"
+  },
+  {
+   "start": 1786.41,
+   "end": 1797.03,
+   "text": "So this guy this is how rich crassus was so um julius caesar is taking over uh france and getting"
+  },
+  {
+   "start": 1797.03,
+   "end": 1806.83,
+   "text": "Rich off of his ass and so crassus wants crassus wants to get rich and uh and uh so this this is"
+  },
+  {
+   "start": 1806.83,
+   "end": 1812.01,
+   "text": "Actually kind of like the beginning of the end if you're talking about like the morals of rome because"
+  },
+  {
+   "start": 1812.01,
+   "end": 1821.59,
+   "text": "Um because you've got this triumvirate so it's like these three kings instead of following their"
+  },
+  {
+   "start": 1821.59,
+   "end": 1827.93,
+   "text": "Uh their uh their consul being in charge and then you know every every year it's a new people in"
+  },
+  {
+   "start": 1827.93,
+   "end": 1837.27,
+   "text": "Charge and that had been going on for julius caesar died in 54 bc and so we're talking like you know"
+  },
+  {
+   "start": 1837.27,
+   "end": 1845.03,
+   "text": "Like 70 bc or whatever so from 510 so for 450 years so a long ass time more than 400 years"
+  },
+  {
+   "start": 1845.03,
+   "end": 1854.99,
+   "text": "It had been a uh with this steady political system and so um and now they got this huge injection of"
+  },
+  {
+   "start": 1854.99,
+   "end": 1862.03,
+   "text": "Wealth so it's super just destabilizing so you see these three kings anyway julius caesar and then"
+  },
+  {
+   "start": 1862.03,
+   "end": 1870.55,
+   "text": "Crassus okay so crassus wanted to take over the who are they who are they called the parthian empire"
+  },
+  {
+   "start": 1870.55,
+   "end": 1877.17,
+   "text": "They were a huge empire all of the middle east okay we're like a competitor to rome and and this"
+  },
+  {
+   "start": 1877.17,
+   "end": 1883.71,
+   "text": "Is the middle east so they're more ancient society than the romans and so he wants to take them over"
+  },
+  {
+   "start": 1883.71,
+   "end": 1889.91,
+   "text": "And he goes over to syria but all the other romans didn't want him to all the senate told him it was a"
+  },
+  {
+   "start": 1889.91,
+   "end": 1895.91,
+   "text": "Crazy idea he couldn't do it it's too much it's the parthians like julius caesar's already we're"
+  },
+  {
+   "start": 1895.91,
+   "end": 1905.91,
+   "text": "Already got our hands full with this julius caesar guy but you know he he was so rich uh that his rich"
+  },
+  {
+   "start": 1905.91,
+   "end": 1914.65,
+   "text": "Wealth was able to trump the actual country you know he was like richer than the whole country"
+  },
+  {
+   "start": 1914.65,
+   "end": 1921.81,
+   "text": "A fascist state is a country where the richest guys the richest businessmen in the country have"
+  },
+  {
+   "start": 1921.81,
+   "end": 1927.39,
+   "text": "More money and power than the actual country so it actually is actually not even a country anymore"
+  },
+  {
+   "start": 1927.39,
+   "end": 1932.93,
+   "text": "It's just kind of like pretending to be a country um and a lot of people say that america there's so"
+  },
+  {
+   "start": 1932.93,
+   "end": 1938.25,
+   "text": "Many parallels you can make between america and rome and that's what's so fascinating about this video"
+  },
+  {
+   "start": 1938.25,
+   "end": 1941.35,
+   "text": "Because when you make the comparisons you're talking about"
+  },
+  {
+   "start": 1941.35,
+   "end": 1947.31,
+   "text": "This this period of time I think more than anything um this period of time and then the"
+  },
+  {
+   "start": 1947.31,
+   "end": 1956.61,
+   "text": "Fall of them but uh yeah you have all of these uh there is a study some political scientists did a"
+  },
+  {
+   "start": 1956.61,
+   "end": 1962.95,
+   "text": "Study in all of uh that's well known and they studied uh the percentages from all the polls of what"
+  },
+  {
+   "start": 1962.95,
+   "end": 1971.25,
+   "text": "People want of the laws to be you know 70 for medicare for all and 70 get out of wars and all this kind"
+  },
+  {
+   "start": 1971.25,
+   "end": 1978.13,
+   "text": "Of stuff and then you look at the actual laws that are passed and then you compare the the laws and"
+  },
+  {
+   "start": 1978.13,
+   "end": 1985.51,
+   "text": "Then the desires of the wealthy you know from what their um their lobbyists want and you compare it"
+  },
+  {
+   "start": 1985.51,
+   "end": 1991.25,
+   "text": "And the laws that are actually written are the laws of the lobbyists and the rich people and they're not"
+  },
+  {
+   "start": 1991.25,
+   "end": 2000.25,
+   "text": "The laws of the of the uh the actual people okay so we're already in a fascist society um"
+  },
+  {
+   "start": 2000.25,
+   "end": 2008.03,
+   "text": "And then they then then they get the stupid of us to you know believe believe their way by you know"
+  },
+  {
+   "start": 2008.03,
+   "end": 2014.73,
+   "text": "Doing for fox news and doing all these uh straw man arguments you know like this transgender or"
+  },
+  {
+   "start": 2014.73,
+   "end": 2022.21,
+   "text": "Whatever so that they can then turn around and say that it's the communist fault that um why we need to"
+  },
+  {
+   "start": 2022.21,
+   "end": 2034.51,
+   "text": "Stay fascist so anyways um I'll talk more about that later in this video so um so that's basically"
+  },
+  {
+   "start": 2034.51,
+   "end": 2043.07,
+   "text": "What rome had become you know like like it was like if some rich guy wanted to take over iran because he"
+  },
+  {
+   "start": 2043.07,
+   "end": 2051.79,
+   "text": "Was the king of boeing or he owned boeing and northrop or whatever and all those whatever those"
+  },
+  {
+   "start": 2051.79,
+   "end": 2057.27,
+   "text": "Contractors are and they they want their they want bonuses and they want to be able to feed the mouths"
+  },
+  {
+   "start": 2057.27,
+   "end": 2064.41,
+   "text": "Of all of their like acolytes and so they want to take over uh iran so that they can sell the government"
+  },
+  {
+   "start": 2064.41,
+   "end": 2071.77,
+   "text": "Us taxpayers the weapons to kill the iranians you know and so we end up killing the iranian oh wait"
+  },
+  {
+   "start": 2071.77,
+   "end": 2077.43,
+   "text": "We already did that with iraq didn't we it's like that you know the people didn't want people were"
+  },
+  {
+   "start": 2077.43,
+   "end": 2081.75,
+   "text": "Marching in the streets against it and all over the world I was in chile like everybody nobody wanted"
+  },
+  {
+   "start": 2081.75,
+   "end": 2087.45,
+   "text": "It but we did it anyway because we were fascists and so that's basically crassus crassus is like yeah"
+  },
+  {
+   "start": 2087.45,
+   "end": 2093.65,
+   "text": "I want to take over like uh I want to take over the middle east and so all of the senate was like"
+  },
+  {
+   "start": 2093.65,
+   "end": 2099.37,
+   "text": "No like everybody will die like why do we need to take over them and he's like oh fuck you I'm gonna"
+  },
+  {
+   "start": 2099.37,
+   "end": 2110.16,
+   "text": "Go do it anyway anyway so what he did is he he uh he did one of these and bought his own army I don't"
+  },
+  {
+   "start": 2110.16,
+   "end": 2115.04,
+   "text": "Know how many legions it was but it was like thousands and thousands of people like 50 000 or"
+  },
+  {
+   "start": 2115.04,
+   "end": 2121.5,
+   "text": "Whatever a huge army julius dj had 20 000 so it was just four legions or something legions is 5 000"
+  },
+  {
+   "start": 2121.5,
+   "end": 2130.6,
+   "text": "People so he walked he marches up to up to uh with his own private bought army to syria but he was an"
+  },
+  {
+   "start": 2130.6,
+   "end": 2139.32,
+   "text": "Idiot and he just he allowed himself to get led in by like false um false scouts you know traitors"
+  },
+  {
+   "start": 2139.32,
+   "end": 2151.4,
+   "text": "Into a valley or where he could get ambushed by all of the uh the syrians and um just um without you"
+  },
+  {
+   "start": 2151.4,
+   "end": 2155.82,
+   "text": "Know finding out what's going on first like how julius caesar did you should read julius caesar's"
+  },
+  {
+   "start": 2155.82,
+   "end": 2163.92,
+   "text": "Book about how he did battle I mean he had his shit together so uh crassus then ended up getting killed"
+  },
+  {
+   "start": 2163.92,
+   "end": 2170.42,
+   "text": "There and uh I think yeah most of the army so it was just this giant waste of money it was like"
+  },
+  {
+   "start": 2170.42,
+   "end": 2178.78,
+   "text": "Iraq one first it was crassus and then it was george bush with iraq so uh he was out of the picture"
+  },
+  {
+   "start": 2178.78,
+   "end": 2188.06,
+   "text": "But um but see but now that you have this this triumvirate you know that's I mean people should"
+  },
+  {
+   "start": 2188.06,
+   "end": 2194.92,
+   "text": "And I think people were um there's uh predicting that that was kind of the beginning of the end and"
+  },
+  {
+   "start": 2194.92,
+   "end": 2204.56,
+   "text": "We were in a dangerous situation um the most prolific roman writer ever is is cicero and he"
+  },
+  {
+   "start": 2204.56,
+   "end": 2217.62,
+   "text": "Wrote like 3 000 pages of uh of like philosophy and his and uh his law arguments and and he was the"
+  },
+  {
+   "start": 2217.62,
+   "end": 2228.88,
+   "text": "Consul of rome at this time he was it was cicero against um versus uh man I shouldn't have gotten"
+  },
+  {
+   "start": 2228.88,
+   "end": 2239.57,
+   "text": "So high before doing this video um but it was yeah cicero was basically these guys oh my god I can't"
+  },
+  {
+   "start": 2239.57,
+   "end": 2244.01,
+   "text": "Believe I should put my glasses on I should have put my computer on and seen looked at my timeline"
+  },
+  {
+   "start": 2244.01,
+   "end": 2251.11,
+   "text": "While I did this but uh cicero was about the same time as caesar and those guys and he was"
+  },
+  {
+   "start": 2251.11,
+   "end": 2260.31,
+   "text": "Preaching against all of these uh all the corruption and the people trying to uh underhand the the"
+  },
+  {
+   "start": 2260.31,
+   "end": 2266.37,
+   "text": "People you know and trying to remind everybody that rome was about the people and um he ended up"
+  },
+  {
+   "start": 2266.37,
+   "end": 2272.27,
+   "text": "Getting his head cut cut off just assassinated he people the people were trying to protect him they"
+  },
+  {
+   "start": 2272.27,
+   "end": 2276.25,
+   "text": "Were camping in his front lawn because they knew the rich people were going to come and try and get"
+  },
+  {
+   "start": 2276.25,
+   "end": 2282.15,
+   "text": "Assassinated but they ended up ambushing him in his carriage and um cut his head off and then they"
+  },
+  {
+   "start": 2282.15,
+   "end": 2290.75,
+   "text": "Cut off a bunch of the other like pro democracy senate guys and uh I don't know if cicero cicero may"
+  },
+  {
+   "start": 2290.75,
+   "end": 2294.97,
+   "text": "Have actually been I need to study up on this more the consul at the time when he got assassinated but"
+  },
+  {
+   "start": 2294.97,
+   "end": 2305.15,
+   "text": "But that was it um after that uh everybody knows about rome about caesar caesar comes back after taking"
+  },
+  {
+   "start": 2305.15,
+   "end": 2314.89,
+   "text": "Over france and um the law said and this is why caesar caesar is this big I remember when I was a"
+  },
+  {
+   "start": 2314.89,
+   "end": 2321.19,
+   "text": "Kid caesar was the most famous roman and like the greatest roman you know and he was the most"
+  },
+  {
+   "start": 2321.19,
+   "end": 2327.87,
+   "text": "Impressive person ever because he was the best soldier ever taking over a country of five million"
+  },
+  {
+   "start": 2327.87,
+   "end": 2332.75,
+   "text": "People with 20 000 people and that was an ancient society too like they were more advanced than the"
+  },
+  {
+   "start": 2332.75,
+   "end": 2342.13,
+   "text": "Italians about I think when he when he redid the italian uh uh um calendar it was from stuff he learned"
+  },
+  {
+   "start": 2342.13,
+   "end": 2347.39,
+   "text": "From the celts up in france because they were farther north and they had more information about stars"
+  },
+  {
+   "start": 2347.39,
+   "end": 2357.41,
+   "text": "And they're ancient and and um yeah so that was impressive and then he took over um armies bigger than"
+  },
+  {
+   "start": 2357.41,
+   "end": 2364.91,
+   "text": "His from his from his in his civil wars when he beat uh pompey who was another great general that was an"
+  },
+  {
+   "start": 2364.91,
+   "end": 2372.77,
+   "text": "Army twice his size and uh he was also a really good writer he wrote all of his books uh he would he"
+  },
+  {
+   "start": 2372.77,
+   "end": 2378.77,
+   "text": "He was said to have been able to write seven letters at once you know from scribes with scribes"
+  },
+  {
+   "start": 2378.77,
+   "end": 2382.93,
+   "text": "And um people were always having you know reading books to him and stuff but"
+  },
+  {
+   "start": 2382.93,
+   "end": 2388.63,
+   "text": "That's what those books that all of his writing is from it's it's actually his reports that he would"
+  },
+  {
+   "start": 2388.63,
+   "end": 2396.67,
+   "text": "Send back to rome and uh yeah just the way that he gained power and uh supported the people"
+  },
+  {
+   "start": 2396.67,
+   "end": 2408.35,
+   "text": "And uh but at the same time he uh he was one of these agents of destroying the uh fabric of the uh"
+  },
+  {
+   "start": 2408.35,
+   "end": 2417.95,
+   "text": "Democratic democratic zeitgeist that they had the democratic respect for um the people's authority"
+  },
+  {
+   "start": 2417.95,
+   "end": 2423.41,
+   "text": "And distrust for people always wanting to become king they always they always remembered that"
+  },
+  {
+   "start": 2423.41,
+   "end": 2432.73,
+   "text": "And so he came back from france and his what he was the governor of france or that part of the northern"
+  },
+  {
+   "start": 2432.73,
+   "end": 2437.83,
+   "text": "Part well I guess france but before they took over france that part of the part next to france"
+  },
+  {
+   "start": 2437.83,
+   "end": 2444.35,
+   "text": "And so he wasn't supposed to come into france to italy as governor or with his army because the"
+  },
+  {
+   "start": 2444.35,
+   "end": 2449.39,
+   "text": "Army belonged to the people he was just the governor of france he was just supposed to come back to"
+  },
+  {
+   "start": 2449.39,
+   "end": 2458.69,
+   "text": "Italy and be as as a subordinate to the consul but uh he came back with his army and um and that's"
+  },
+  {
+   "start": 2458.69,
+   "end": 2463.01,
+   "text": "What the whole saying from crossing the rubicon because the rubicon was the borderline between his"
+  },
+  {
+   "start": 2463.01,
+   "end": 2469.79,
+   "text": "Province and so when he crossed it um that was a signal to them that he was coming with his army"
+  },
+  {
+   "start": 2469.79,
+   "end": 2478.11,
+   "text": "To take over all of rome like uh like how sulla did so now he was uh uh so that broke like the cardinal"
+  },
+  {
+   "start": 2478.11,
+   "end": 2487.97,
+   "text": "Rule when they first became when they first became a uh a uh republican 510 bc with um with brutus"
+  },
+  {
+   "start": 2487.97,
+   "end": 2494.99,
+   "text": "They didn't have a uh constitution they made a constitution and I think the three or four hundreds"
+  },
+  {
+   "start": 2494.99,
+   "end": 2503.91,
+   "text": "Called the 12 tablets um from this um the december there were like the 10 um consuls that they have"
+  },
+  {
+   "start": 2503.91,
+   "end": 2511.39,
+   "text": "For a little bit but uh but that but they did have one golden rule so the very first the comp the"
+  },
+  {
+   "start": 2511.39,
+   "end": 2517.21,
+   "text": "Basically the original constitution of the roman republic was kill anybody who tries to become king"
+  },
+  {
+   "start": 2517.21,
+   "end": 2526.07,
+   "text": "That was the first the first thing that they said when they made the consuls um because that's that's"
+  },
+  {
+   "start": 2526.07,
+   "end": 2534.13,
+   "text": "The one thing that you need in order to keep your political system going is every time your year"
+  },
+  {
+   "start": 2534.13,
+   "end": 2539.03,
+   "text": "Comes up you have to leave to let the other guy in you know because if you don't leave well then all"
+  },
+  {
+   "start": 2539.03,
+   "end": 2544.55,
+   "text": "Our whole idea about this whole consuls and the rules of the republic is gone so so anyways and they"
+  },
+  {
+   "start": 2544.55,
+   "end": 2552.77,
+   "text": "Remembered that and so um uh that's why julius caesar was killed by brutus who was a descendant of the"
+  },
+  {
+   "start": 2552.77,
+   "end": 2561.57,
+   "text": "Original brutus but uh so julius caesar comes in he they have the civil war he wins and then but then"
+  },
+  {
+   "start": 2561.57,
+   "end": 2571.05,
+   "text": "He gets killed by brutus and then brutus gets um people understand it at the beginning but then"
+  },
+  {
+   "start": 2571.05,
+   "end": 2579.73,
+   "text": "But then they read caesar's a will and he gave all of his money to the people and so they they turned"
+  },
+  {
+   "start": 2579.73,
+   "end": 2586.27,
+   "text": "Uh they turned against the people who killed caesar and uh they started looking at him like a god and so"
+  },
+  {
+   "start": 2586.27,
+   "end": 2594.73,
+   "text": "They uh they were they first they put the guys who killed him brutus and those guys as um uh like"
+  },
+  {
+   "start": 2594.73,
+   "end": 2600.75,
+   "text": "Governors of territories on the outer skirts so that they wouldn't you know have problems but then"
+  },
+  {
+   "start": 2600.75,
+   "end": 2605.65,
+   "text": "I think they ended up getting assassinated I don't think a single person of who killed caesar lived"
+  },
+  {
+   "start": 2605.65,
+   "end": 2613.99,
+   "text": "More than three years afterwards so um so yeah it's just interesting this this this particular part"
+  },
+  {
+   "start": 2613.99,
+   "end": 2620.39,
+   "text": "Of history right now like the three years after the death of caesar could be the most psychologically"
+  },
+  {
+   "start": 2620.39,
+   "end": 2628.99,
+   "text": "The most interesting part of history that ever happened because because uh you you you officially had a"
+  },
+  {
+   "start": 2628.99,
+   "end": 2642.59,
+   "text": "Roman republic that had been around for 450 years um and so and you had all of these uh educated romans"
+  },
+  {
+   "start": 2642.59,
+   "end": 2652.77,
+   "text": "You know cicero had just been not assassinated not so long before that um and uh so you could have gone"
+  },
+  {
+   "start": 2652.77,
+   "end": 2667.51,
+   "text": "Gone back to the way it was but um but uh just because of all of the erosion to the idea of uh democracy"
+  },
+  {
+   "start": 2667.51,
+   "end": 2674.41,
+   "text": "That had happened beforehand and that had been such so fresh in people's minds that that people were just"
+  },
+  {
+   "start": 2674.41,
+   "end": 2684.91,
+   "text": "Uh numb to the idea of having the consuls and um uh but another argument maybe that it was just too big"
+  },
+  {
+   "start": 2684.91,
+   "end": 2692.09,
+   "text": "You know because now they had to have an army to constantly keep all of these all of these uh"
+  },
+  {
+   "start": 2692.09,
+   "end": 2698.51,
+   "text": "Provinces in check you know like it was the roman empire was pretty much at its full fully grown extent"
+  },
+  {
+   "start": 2698.51,
+   "end": 2704.61,
+   "text": "At that point um the only thing that they had to take over in order to make it a little bit bigger"
+  },
+  {
+   "start": 2704.61,
+   "end": 2711.91,
+   "text": "Would have been dacia romania and then saudi I mean iraq but they only had that iraq for a little bit"
+  },
+  {
+   "start": 2711.91,
+   "end": 2721.89,
+   "text": "And dacia wasn't for very long either so um so uh they yeah they had uh they had more civil wars"
+  },
+  {
+   "start": 2721.89,
+   "end": 2728.71,
+   "text": "So they had been ravaged by civil wars after caesar but then they had another set of civil wars after that"
+  },
+  {
+   "start": 2728.71,
+   "end": 2736.01,
+   "text": "That was against um that was with augustus who was the adopted son of julius caesar"
+  },
+  {
+   "start": 2736.01,
+   "end": 2744.27,
+   "text": "Um and people were supporting him he was only 18 when caesar died he came back to france I mean"
+  },
+  {
+   "start": 2744.27,
+   "end": 2752.37,
+   "text": "Rome and got support and then there was mark antony who was who was actual consul of rome when caesar was"
+  },
+  {
+   "start": 2752.37,
+   "end": 2759.11,
+   "text": "Killed it was two consuls rome caesar was consul and mark antony were consul but caesar had made"
+  },
+  {
+   "start": 2759.11,
+   "end": 2764.61,
+   "text": "Himself dictator for life and so that was what pissed people off and that's where he screwed up"
+  },
+  {
+   "start": 2764.61,
+   "end": 2772.21,
+   "text": "He shouldn't have done that so um so mark antony was consul he could have been consul and then let"
+  },
+  {
+   "start": 2772.21,
+   "end": 2779.79,
+   "text": "Himself retire from consulship and then let another consul come in so you could blame the entire autocratic"
+  },
+  {
+   "start": 2779.79,
+   "end": 2785.99,
+   "text": "System of the roman empire on one person mark antony so because he tried to make himself king"
+  },
+  {
+   "start": 2785.99,
+   "end": 2791.61,
+   "text": "Like how julius caesar did because mark antony was just a soldier he probably wasn't I mean he came"
+  },
+  {
+   "start": 2791.61,
+   "end": 2796.53,
+   "text": "From a good family but I don't know he probably wasn't educated enough to have enough respect"
+  },
+  {
+   "start": 2796.53,
+   "end": 2803.03,
+   "text": "And that was actually the reason the reputation he had mark antony was just a womanizing drunk"
+  },
+  {
+   "start": 2803.03,
+   "end": 2811.23,
+   "text": "Um cicero in fact maybe it was mark antony who had cicero killed because cicero wrote a book called"
+  },
+  {
+   "start": 2811.23,
+   "end": 2817.13,
+   "text": "The uh the philippics it's called philippics because it's it's when a philippic is a type"
+  },
+  {
+   "start": 2817.13,
+   "end": 2822.73,
+   "text": "Of book that you wrote in the ancient times where you rail into somebody politically you you just"
+  },
+  {
+   "start": 2822.73,
+   "end": 2827.23,
+   "text": "Trash him and it's called philippics because somebody trashed I think the king of king of"
+  },
+  {
+   "start": 2827.23,
+   "end": 2832.47,
+   "text": "Uh greece called philippics and so yeah he wrote this book called philippics where he just trashed"
+  },
+  {
+   "start": 2832.47,
+   "end": 2838.49,
+   "text": "Mark antony and called him a drunk and he just barfs in front of people and woman steals people's"
+  },
+  {
+   "start": 2838.49,
+   "end": 2845.61,
+   "text": "Wives from him and is like a total tyrant and all he can do is is fight battles but he's not a scholar and"
+  },
+  {
+   "start": 2845.61,
+   "end": 2851.87,
+   "text": "So that was the guy that was the guy who was consul and then yeah so he tried to make himself king"
+  },
+  {
+   "start": 2851.87,
+   "end": 2860.61,
+   "text": "And um and so so I guess augustus was like well we can't let this guy become king so I'll fight him"
+  },
+  {
+   "start": 2860.61,
+   "end": 2868.47,
+   "text": "Fight him so they have their uh civil wars mark antony went um had and mark antony had his own bat army"
+  },
+  {
+   "start": 2868.47,
+   "end": 2875.77,
+   "text": "Too he was like powerful and he tried to take over julius caesar was going to take over the middle east he was"
+  },
+  {
+   "start": 2875.77,
+   "end": 2881.35,
+   "text": "Going to take over the parthians just like crassus tried to uh julius caesar was the only roman who"
+  },
+  {
+   "start": 2881.35,
+   "end": 2888.53,
+   "text": "Actually encouraged crassus to do it um but he got killed uh julius caesar got assassinated so uh"
+  },
+  {
+   "start": 2888.53,
+   "end": 2895.17,
+   "text": "So then mark antony went over to try to do it but mark antony was a was a bumbling fool he uh he would"
+  },
+  {
+   "start": 2895.17,
+   "end": 2901.01,
+   "text": "Like he instead of having horses pull his his war chariot he'd have lions pull his war chariot"
+  },
+  {
+   "start": 2901.01,
+   "end": 2909.85,
+   "text": "And um and then he I think he got like misled in the mountains and anyway he failed he failed but he"
+  },
+  {
+   "start": 2909.85,
+   "end": 2921.22,
+   "text": "Didn't die trying to take over but then he teamed up with uh cleopatra um and uh he was going but then"
+  },
+  {
+   "start": 2921.22,
+   "end": 2928.44,
+   "text": "Cleopatra like greekified him and he was gonna people were romans were afraid he was going to try to"
+  },
+  {
+   "start": 2928.44,
+   "end": 2937.28,
+   "text": "Make a like a a um a separate roman empire based out of greece I mean based out of egypt"
+  },
+  {
+   "start": 2937.28,
+   "end": 2941.9,
+   "text": "And then maybe eventually try to take over the western part of the roman empire"
+  },
+  {
+   "start": 2941.9,
+   "end": 2950.46,
+   "text": "So to start new civil wars so that's when uh agrippa and uh augustus uh had declared war against"
+  },
+  {
+   "start": 2950.46,
+   "end": 2955.22,
+   "text": "Mark antony and they managed to beat mark antony in the battle of actium which I think is in the"
+  },
+  {
+   "start": 2955.22,
+   "end": 2962.38,
+   "text": "Modern day islands of croatia where uh they had all the they had the navy of cleopatra and she was the"
+  },
+  {
+   "start": 2962.38,
+   "end": 2967.76,
+   "text": "Leader of the navy she was the queen of egypt so the egyptian navy and then mark antony because it's"
+  },
+  {
+   "start": 2967.76,
+   "end": 2980.35,
+   "text": "Like a civil war mark antony's legions of romans and uh cleopatra uh like uh fled from the scene and"
+  },
+  {
+   "start": 2980.35,
+   "end": 2986.61,
+   "text": "Her boats because they were getting beat and uh and then mark antony got I guess escaped too and so"
+  },
+  {
+   "start": 2986.61,
+   "end": 2996.59,
+   "text": "They lost and went back to um to uh egypt and uh they were going to end up getting getting taken"
+  },
+  {
+   "start": 2996.59,
+   "end": 3003.09,
+   "text": "Over because they lost too many of their ships in the battle of actium and so they were they"
+  },
+  {
+   "start": 3003.09,
+   "end": 3010.37,
+   "text": "Committed suicide in a pretty pathetic way um I think it's the original story of uh romeo and juliet"
+  },
+  {
+   "start": 3010.37,
+   "end": 3025.62,
+   "text": "Uh um yeah like cleopatra heard that uh mark antony killed himself so cleopatra jumped into a coffin"
+  },
+  {
+   "start": 3025.62,
+   "end": 3034.95,
+   "text": "With a bunch of vipers and had herself bitten to death so then uh mark antony oh no no that's not"
+  },
+  {
+   "start": 3034.95,
+   "end": 3043.97,
+   "text": "What happened mark antony heard that that's what she did so then he stabbed himself um and was"
+  },
+  {
+   "start": 3043.97,
+   "end": 3048.05,
+   "text": "Bleeding out but then someone told him and they were they were like in the same town but in different"
+  },
+  {
+   "start": 3048.05,
+   "end": 3053.67,
+   "text": "Buildings being besieged by the romans you know they only have a few days left until they they get"
+  },
+  {
+   "start": 3053.67,
+   "end": 3062.45,
+   "text": "Taken over and um because uh mark antony's people had deserted him mark antony was a bumbling idiot he"
+  },
+  {
+   "start": 3062.45,
+   "end": 3068.75,
+   "text": "Blew all of his money on parties all the time he would he had like these epic feasts of where they"
+  },
+  {
+   "start": 3068.75,
+   "end": 3076.17,
+   "text": "Had like seven boars or something and um and they would have like hundreds of people and he just was"
+  },
+  {
+   "start": 3076.17,
+   "end": 3082.73,
+   "text": "Blowing all he just he was like commodus later later on he just blew all the money and cleopatra"
+  },
+  {
+   "start": 3082.73,
+   "end": 3090.51,
+   "text": "Was was along going along with it and uh so they eventually uh deserted him so he stabs himself because"
+  },
+  {
+   "start": 3090.51,
+   "end": 3096.57,
+   "text": "He hears that she kills herself but then someone tells him that oh no she's still alive so he's"
+  },
+  {
+   "start": 3096.57,
+   "end": 3104.59,
+   "text": "But he's already dying so he gets somebody to help him like get to her house and but they can't get up"
+  },
+  {
+   "start": 3104.59,
+   "end": 3111.09,
+   "text": "Into the building because it's being uh besieged by the romans or something so they had to take him"
+  },
+  {
+   "start": 3111.09,
+   "end": 3120.53,
+   "text": "Up to her balcony door window it was like three stories up by carrying him with a big rope but he"
+  },
+  {
+   "start": 3120.53,
+   "end": 3125.55,
+   "text": "Couldn't help himself because he was passing out so he finally got up and he died in her arms that's"
+  },
+  {
+   "start": 3125.55,
+   "end": 3130.85,
+   "text": "What I read in jacob abig's book cleopatra so I don't know where he heard that I haven't heard that"
+  },
+  {
+   "start": 3130.85,
+   "end": 3138.53,
+   "text": "From any of the ancient books but but yeah um so then so um augustus caesar"
+  },
+  {
+   "start": 3138.53,
+   "end": 3147.01,
+   "text": "Uh is is now the emperor of rome and he he made all of he changed the um"
+  },
+  {
+   "start": 3147.01,
+   "end": 3155.65,
+   "text": "The uh the the all of the uh the constitution of rome to give himself even more power he made himself"
+  },
+  {
+   "start": 3155.65,
+   "end": 3165.25,
+   "text": "The the leader for life for the first time so it's actually augustus's fault that uh rome became a"
+  },
+  {
+   "start": 3165.25,
+   "end": 3176.29,
+   "text": "A empire but um but that's but I guess that that means I mean that goes to show that you have to have"
+  },
+  {
+   "start": 3176.29,
+   "end": 3185.41,
+   "text": "One guy because if it because if it had been just augustus as the um as the consul"
+  },
+  {
+   "start": 3185.41,
+   "end": 3195.03,
+   "text": "For one year and then he retires then maybe there was some other guy you know there was this"
+  },
+  {
+   "start": 3195.03,
+   "end": 3200.49,
+   "text": "Power vacuum just in the general culture of rome and so that one guy somebody else would take over"
+  },
+  {
+   "start": 3200.49,
+   "end": 3212.25,
+   "text": "And be worse than him so um and augustus left the empire as an autocratic system the guy who took over"
+  },
+  {
+   "start": 3212.25,
+   "end": 3218.75,
+   "text": "From augustus was another autocratic was another you know another uh one of these emperors who didn't"
+  },
+  {
+   "start": 3218.75,
+   "end": 3225.93,
+   "text": "Give up his power until he was dead tiberius and he killed a bunch of people too just like sulla he um"
+  },
+  {
+   "start": 3225.93,
+   "end": 3234.63,
+   "text": "So that it just that's that's what rome had devolved into it it devolved into um a system where people"
+  },
+  {
+   "start": 3234.63,
+   "end": 3243.13,
+   "text": "Would kill your uh political opponents instead of discussing it in the forum and you would grab all"
+  },
+  {
+   "start": 3243.13,
+   "end": 3252.03,
+   "text": "The power to yourself and so the big question is um in order to control an entire empire do you need to"
+  },
+  {
+   "start": 3252.03,
+   "end": 3259.75,
+   "text": "Be does it need to be run like an autocracy um because if it isn't then people then"
+  },
+  {
+   "start": 3259.75,
+   "end": 3268.43,
+   "text": "People will not follow the rule and take take take it um you know take you take each other over"
+  },
+  {
+   "start": 3268.43,
+   "end": 3274.69,
+   "text": "I think I think a good way to think about it is like the concept of parallel universes I'm talking a"
+  },
+  {
+   "start": 3274.69,
+   "end": 3280.69,
+   "text": "Long ass time and I'm not I haven't even gotten started on the juicy parts I hope this thing is still"
+  },
+  {
+   "start": 3280.69,
+   "end": 3290.53,
+   "text": "Is still uh recording I hate when I do videos and then and then it um and then it like stops recording"
+  },
+  {
+   "start": 3290.53,
+   "end": 3302.69,
+   "text": "All right 54 minutes my god okay so um so uh yeah like a parallel universe maybe there's a parallel"
+  },
+  {
+   "start": 3302.69,
+   "end": 3310.67,
+   "text": "Universe where people followed the they took over all of those other uh countries they got"
+  },
+  {
+   "start": 3310.67,
+   "end": 3320.55,
+   "text": "Rich and then they stayed a democracy with the uh with the the consuls that are only consul for one"
+  },
+  {
+   "start": 3320.55,
+   "end": 3327.19,
+   "text": "Year that's co-consuls you know and I think every day they would take over so one consul would be the"
+  },
+  {
+   "start": 3327.19,
+   "end": 3335.27,
+   "text": "Boss so you'd only be a consul for a day and uh and so that made it so that people were not afraid to"
+  },
+  {
+   "start": 3335.27,
+   "end": 3341.81,
+   "text": "Speak their minds so there were more ciceros uh doing all these kinds of philippics against each"
+  },
+  {
+   "start": 3341.81,
+   "end": 3349.37,
+   "text": "Other and uh nobody so nobody did coups against each other so there were no civil wars so the roman"
+  },
+  {
+   "start": 3349.37,
+   "end": 3357.49,
+   "text": "Empire never never crashes and then we we invent all the things that you know and like uh you know the"
+  },
+  {
+   "start": 3357.49,
+   "end": 3365.15,
+   "text": "Internal combustion engines to five fifteen hundred years ago and and then we we democratically and"
+  },
+  {
+   "start": 3365.15,
+   "end": 3371.93,
+   "text": "Responsibly convert them into electric 50 years later and without having a war destroying the"
+  },
+  {
+   "start": 3371.93,
+   "end": 3376.55,
+   "text": "Environment and then we have this perfectly sustainable environment without destroying any of"
+  },
+  {
+   "start": 3376.55,
+   "end": 3381.49,
+   "text": "The natural world and we you know we get all the lions and tigers and bears and monkeys"
+  },
+  {
+   "start": 3381.49,
+   "end": 3389.55,
+   "text": "And polar bears get to keep living no global warming um or we live in the world we live now where"
+  },
+  {
+   "start": 3389.55,
+   "end": 3397.09,
+   "text": "People couldn't um couldn't get along and um and so then it just turned into an empire that was"
+  },
+  {
+   "start": 3397.09,
+   "end": 3403.49,
+   "text": "Controlled by an army and so that's that's the interesting part about how all that where I'll circle"
+  },
+  {
+   "start": 3403.49,
+   "end": 3412.51,
+   "text": "Back around how all of the interesting literature of rome came from the very beginning of the empire"
+  },
+  {
+   "start": 3412.51,
+   "end": 3416.59,
+   "text": "Or the very end of the republic and the very beginning of the empire those two periods"
+  },
+  {
+   "start": 3416.59,
+   "end": 3427.89,
+   "text": "Um the people and I think it was uh it was people's uh at the very maybe it's for different reasons at the"
+  },
+  {
+   "start": 3427.89,
+   "end": 3432.81,
+   "text": "Very beginning of the empire was people trying to preserve world culture through the new religion maybe"
+  },
+  {
+   "start": 3432.81,
+   "end": 3440.61,
+   "text": "They felt like uh trying to replace the corrupt um system the roman empire was corrupt in the time"
+  },
+  {
+   "start": 3440.61,
+   "end": 3448.77,
+   "text": "Of all the writings of the roman of the christian writings and so uh yeah maybe I'll talk about that"
+  },
+  {
+   "start": 3448.77,
+   "end": 3454.59,
+   "text": "Let's talk about the similarities between the fall of the american empire and the fall of the roman empire"
+  },
+  {
+   "start": 3454.59,
+   "end": 3461.93,
+   "text": "And the and and all of the the problems with our current system and why it's it's not sustainable"
+  },
+  {
+   "start": 3461.93,
+   "end": 3468.27,
+   "text": "And rome because it's exactly the same exact same culture it's exact same problems exact same"
+  },
+  {
+   "start": 3468.27,
+   "end": 3476.97,
+   "text": "Uh causes for problems and solutions okay so and it's the most simple freaking concept you don't see"
+  },
+  {
+   "start": 3476.97,
+   "end": 3482.07,
+   "text": "This is what this is another interesting thing is how you can get all these bankers to have steve"
+  },
+  {
+   "start": 3482.07,
+   "end": 3487.09,
+   "text": "Mnuchin has 300 million dollars and he works in our government he's one of our government workers"
+  },
+  {
+   "start": 3487.09,
+   "end": 3492.17,
+   "text": "And he has 300 million dollars so if you look at it like at rome you know with the fascists taking"
+  },
+  {
+   "start": 3492.17,
+   "end": 3503.55,
+   "text": "Over america's looks like that um but uh okay so um you don't have to believe all these bankers you"
+  },
+  {
+   "start": 3503.55,
+   "end": 3508.05,
+   "text": "Know and think that they're smarter than you just because they they know what a complex derivative is"
+  },
+  {
+   "start": 3508.05,
+   "end": 3511.33,
+   "text": "And they get all their money and so because they have all that money and they have all their workers"
+  },
+  {
+   "start": 3511.33,
+   "end": 3516.17,
+   "text": "Well that must mean that they're smarter than you and all that and so don't even talk to talk to me"
+  },
+  {
+   "start": 3516.17,
+   "end": 3520.77,
+   "text": "About it because and then if you go like well let's just raise the taxes on wealthy oh you don't"
+  },
+  {
+   "start": 3520.77,
+   "end": 3524.81,
+   "text": "Understand because the whole economy will crash if you do that because you need to be able to invest"
+  },
+  {
+   "start": 3524.81,
+   "end": 3531.41,
+   "text": "It's like but why can't the country invest oh no you can't have the state you can't trust the state"
+  },
+  {
+   "start": 3531.41,
+   "end": 3536.01,
+   "text": "Because the state will just try to take your freedoms it's like you're talking to crazy people"
+  },
+  {
+   "start": 3536.01,
+   "end": 3541.57,
+   "text": "But because they have the money they can pump craziness to you at you for the room the tv and"
+  },
+  {
+   "start": 3541.57,
+   "end": 3548.17,
+   "text": "Then people I guess aren't educated enough to you know to think we realize what they're saying is crazy"
+  },
+  {
+   "start": 3548.17,
+   "end": 3556.29,
+   "text": "So you could just um you could just say um you you can just be simple and be like"
+  },
+  {
+   "start": 3556.29,
+   "end": 3559.29,
+   "text": "You know like don't"
+  },
+  {
+   "start": 3560.81,
+   "end": 3564.61,
+   "text": "Do you know one guy can't be the boss of all the other guys that's like"
+  },
+  {
+   "start": 3564.61,
+   "end": 3568.89,
+   "text": "Ancient times you know so anyways you can make it really simple with the with the economy too"
+  },
+  {
+   "start": 3568.89,
+   "end": 3576.35,
+   "text": "This is how you need to have a good economic system and any four-year-old can tell you this"
+  },
+  {
+   "start": 3576.35,
+   "end": 3582.83,
+   "text": "You have to keep it simple you have to keep it um you have to use technology for what"
+  },
+  {
+   "start": 3582.83,
+   "end": 3591.97,
+   "text": "It can give you but not use technology as a weapon against you so you just have to stay true"
+  },
+  {
+   "start": 3591.97,
+   "end": 3596.73,
+   "text": "To the past you have to you have to remember the past you have to know your history and you have"
+  },
+  {
+   "start": 3596.73,
+   "end": 3601.87,
+   "text": "To try to remember how it was and know how you can be you know not forget that you can do things"
+  },
+  {
+   "start": 3601.87,
+   "end": 3608.61,
+   "text": "And so so yeah our society gets too complex where we have to have too many middlemen doing too many"
+  },
+  {
+   "start": 3608.61,
+   "end": 3615.25,
+   "text": "Things that so it ends up getting clogging it down so let's just sit let's just explain it really"
+  },
+  {
+   "start": 3615.25,
+   "end": 3621.69,
+   "text": "Simply you have a uh back in the ancient times you have a really simple society where it's just"
+  },
+  {
+   "start": 3621.69,
+   "end": 3628.79,
+   "text": "Bands of people so you have so one person would do lots of different tasks you know the mother would"
+  },
+  {
+   "start": 3628.79,
+   "end": 3636.19,
+   "text": "Be the nurse the doctor the teacher the provider everything you know and then if you find a piece"
+  },
+  {
+   "start": 3636.19,
+   "end": 3642.41,
+   "text": "Of technology like a coke bottle falls out of the sky now you have something coke bottle that you can"
+  },
+  {
+   "start": 3642.41,
+   "end": 3648.65,
+   "text": "Smack against the seeds to make the seeds make pudding for you know your baby and then you can"
+  },
+  {
+   "start": 3648.65,
+   "end": 3655.13,
+   "text": "Hammer in the nails for your house and stuff um well that's that's great technology is great"
+  },
+  {
+   "start": 3655.13,
+   "end": 3662.65,
+   "text": "But if you but if you allow that to cause problems here's a perfect example the luddites from scotland"
+  },
+  {
+   "start": 3662.65,
+   "end": 3672.23,
+   "text": "They invented the uh the uh the machine that um that helped mining and so it put a bunch of people out of"
+  },
+  {
+   "start": 3672.23,
+   "end": 3678.79,
+   "text": "Or or threat caution threshing the um the the wheat so it put a bunch of people out of business right"
+  },
+  {
+   "start": 3678.79,
+   "end": 3686.33,
+   "text": "So they got mad and so that that invention in itself is a beautiful thing right but the the rich"
+  },
+  {
+   "start": 3686.33,
+   "end": 3691.57,
+   "text": "Guys who own the businesses collected all the money for themselves so then all the people got mad and"
+  },
+  {
+   "start": 3691.57,
+   "end": 3696.73,
+   "text": "They got mad at the machine but instead of getting mad at the threshing machine you you want to embrace"
+  },
+  {
+   "start": 3696.73,
+   "end": 3702.41,
+   "text": "The technology you need to get mad at the at the uh the rich guy for taking all the money and you"
+  },
+  {
+   "start": 3702.41,
+   "end": 3707.35,
+   "text": "Need so that's where the country comes in the state you need to pass a law that makes it so that the rich"
+  },
+  {
+   "start": 3707.35,
+   "end": 3713.81,
+   "text": "Guy has to share his money with the poor people and so that's what we need to do now um we get these"
+  },
+  {
+   "start": 3713.81,
+   "end": 3725.03,
+   "text": "New technology um and uh and it ends up becoming a uh you know a weapon against the people um for"
+  },
+  {
+   "start": 3725.03,
+   "end": 3732.73,
+   "text": "Example uh our educational system um and our military system um it's just too bogged down you"
+  },
+  {
+   "start": 3732.73,
+   "end": 3736.79,
+   "text": "Know people go to school just to go to school because they're supposed to use the degree to get"
+  },
+  {
+   "start": 3736.79,
+   "end": 3740.67,
+   "text": "A job but what they're really doing is just using taxpayer money to sit around and be bored"
+  },
+  {
+   "start": 3740.67,
+   "end": 3744.57,
+   "text": "And then they're wasting their whole life away being bored and watching somebody drone on"
+  },
+  {
+   "start": 3744.57,
+   "end": 3747.91,
+   "text": "And getting and then paying a bunch of money for it and then paying somebody else"
+  },
+  {
+   "start": 3747.91,
+   "end": 3753.09,
+   "text": "To you know so just to do uselessness and then maybe you you graduate and then you'll have"
+  },
+  {
+   "start": 3753.09,
+   "end": 3759.31,
+   "text": "Enough money to or you go to the army you know you spend all the taxpayer money killing people"
+  },
+  {
+   "start": 3759.31,
+   "end": 3764.49,
+   "text": "And then you use the money that you're paid to then go to the school to waste all your time looking"
+  },
+  {
+   "start": 3764.49,
+   "end": 3770.41,
+   "text": "At it so you're using technology all the electricity and the ability to build these nice buildings"
+  },
+  {
+   "start": 3770.41,
+   "end": 3777.89,
+   "text": "And to and to you know put water in the buildings and you know all the administrators and for what"
+  },
+  {
+   "start": 3777.89,
+   "end": 3784.25,
+   "text": "Where you could just as easily do what I do and just stay in a room and learn everything yourself"
+  },
+  {
+   "start": 3784.25,
+   "end": 3789.33,
+   "text": "And become 10 times smarter than if you ever were to go to a college and spend all that money"
+  },
+  {
+   "start": 3789.33,
+   "end": 3797.57,
+   "text": "And so the so the system gets so complex and it's people are just getting jobs within this system"
+  },
+  {
+   "start": 3797.57,
+   "end": 3804.19,
+   "text": "That is useless and so if you just so then people just start looking out for themselves because"
+  },
+  {
+   "start": 3804.19,
+   "end": 3809.67,
+   "text": "They're not looking at the old system and then it all comes to a freezing halt because everybody's"
+  },
+  {
+   "start": 3809.67,
+   "end": 3815.23,
+   "text": "In debt and working all the time doing nothing and then you have to you have to just change all of it"
+  },
+  {
+   "start": 3815.23,
+   "end": 3821.13,
+   "text": "And so and so with america how it'll change is we'll just have to forgive everybody all the"
+  },
+  {
+   "start": 3821.13,
+   "end": 3827.39,
+   "text": "Student debts we'll have to shut down all the schools and we'll have to all the and we'll have"
+  },
+  {
+   "start": 3827.39,
+   "end": 3832.67,
+   "text": "To tax all the wealthy and throw all the extra money into people uh just riding their bikes and"
+  },
+  {
+   "start": 3832.67,
+   "end": 3836.91,
+   "text": "Enjoying themselves riding their bikes and educating themselves and educating others on youtube"
+  },
+  {
+   "start": 3836.91,
+   "end": 3847.21,
+   "text": "And um trying to convince everybody else to not spend all the taxpayer money um and uh forcing people"
+  },
+  {
+   "start": 3847.21,
+   "end": 3855.57,
+   "text": "To go to school and then um and then go off to some war you know and then uh without ever actually"
+  },
+  {
+   "start": 3855.57,
+   "end": 3864.79,
+   "text": "Being able to uh um have your voice heard you know um so anyways so let's talk about the fall of rome"
+  },
+  {
+   "start": 3864.79,
+   "end": 3870.51,
+   "text": "Um and how that how that's how that's kind of got bogged down the same way that I'm describing america"
+  },
+  {
+   "start": 3870.51,
+   "end": 3880.83,
+   "text": "Um so rome had this big so let's talk about empire really quick american empire I think america is"
+  },
+  {
+   "start": 3880.83,
+   "end": 3893.13,
+   "text": "An empire because we um we have our um uh we we uh our dollar is the world currency so everybody has to"
+  },
+  {
+   "start": 3893.13,
+   "end": 3901.41,
+   "text": "Uh has to buy and sell everything um based on your what you charge so every you get a discount on"
+  },
+  {
+   "start": 3901.41,
+   "end": 3907.05,
+   "text": "Everything I don't know exactly I can't explain how that works I would I want to watch some economics"
+  },
+  {
+   "start": 3907.05,
+   "end": 3915.17,
+   "text": "Videos but you get about a five percent gdp boost just for having the world reserve currency and being"
+  },
+  {
+   "start": 3915.17,
+   "end": 3923.57,
+   "text": "And therefore being into your empire um and so I think it's the same thing with rome um the city"
+  },
+  {
+   "start": 3923.57,
+   "end": 3934.85,
+   "text": "In ancient rome rome had their just their general um well I mean um yeah like with the city of rome"
+  },
+  {
+   "start": 3934.85,
+   "end": 3939.25,
+   "text": "Because they were the capital of the empire they got all that extra money coming to rome um"
+  },
+  {
+   "start": 3939.25,
+   "end": 3945.09,
+   "text": "Just like how america gets the money extra money coming to us just because we're kind of like the"
+  },
+  {
+   "start": 3945.09,
+   "end": 3959.48,
+   "text": "Capital of the empire of the world and so um so uh but there's another way that empires make money"
+  },
+  {
+   "start": 3959.48,
+   "end": 3970.46,
+   "text": "And that is or that's not really that's by kind of um skimming off the top well I think it works"
+  },
+  {
+   "start": 3970.46,
+   "end": 3974.38,
+   "text": "Differently with america than rome let me talk about rome first the other way that rome made money"
+  },
+  {
+   "start": 3974.38,
+   "end": 3980.2,
+   "text": "Off being an empire other than taxing all of the people in the empire um and then they could even"
+  },
+  {
+   "start": 3980.2,
+   "end": 3985.48,
+   "text": "Tax them too much um because they couldn't fight back because the army was controlled by rome"
+  },
+  {
+   "start": 3985.48,
+   "end": 3990.46,
+   "text": "But the other way that they that they got money was when they first took over these places"
+  },
+  {
+   "start": 3990.46,
+   "end": 3995.94,
+   "text": "They would go in there and they would take their uh they would take their um"
+  },
+  {
+   "start": 3995.94,
+   "end": 4002.16,
+   "text": "Their treasury so then they could use that treasury to beautify the the main city of rome"
+  },
+  {
+   "start": 4002.16,
+   "end": 4007.42,
+   "text": "And then they would take because they're mad at everybody they made all of their or because they"
+  },
+  {
+   "start": 4007.42,
+   "end": 4013.26,
+   "text": "Had to you know to not allow there to be another army to rise up they had to make them slaves and"
+  },
+  {
+   "start": 4013.26,
+   "end": 4020.16,
+   "text": "Bring them back so they had all this free labor force and money so you can trace things in rome"
+  },
+  {
+   "start": 4020.16,
+   "end": 4029.0,
+   "text": "To specific countries that they took over um julius caesar's wealth and and um building up rome"
+  },
+  {
+   "start": 4029.0,
+   "end": 4038.94,
+   "text": "Came from the money that he got from france um julius caesar went to uh um egypt after he went to"
+  },
+  {
+   "start": 4038.94,
+   "end": 4045.62,
+   "text": "France and had a baby with cleopatra called caesarium and he was very impressed with alexandria"
+  },
+  {
+   "start": 4045.62,
+   "end": 4052.74,
+   "text": "And egypt because it was an ancient city 10 000 years old or whatever oh wait no not I mean egypt"
+  },
+  {
+   "start": 4052.74,
+   "end": 4058.34,
+   "text": "Is but and it was and so he wanted to beautify france I mean uh rome so he did that he built a"
+  },
+  {
+   "start": 4058.34,
+   "end": 4065.5,
+   "text": "Bath and stuff and yeah a bunch of things with the money he got from france and then the coliseum"
+  },
+  {
+   "start": 4065.5,
+   "end": 4072.58,
+   "text": "Was built from the money and of course slaves from france and the coliseum in rome was built from the"
+  },
+  {
+   "start": 4072.58,
+   "end": 4079.84,
+   "text": "Slaves the roman slave I mean the jewish slaves from the kingdom of judea that vitruvius I mean"
+  },
+  {
+   "start": 4079.84,
+   "end": 4085.64,
+   "text": "That titus took over and annexed into the roman empire and then all of their treasury and the money"
+  },
+  {
+   "start": 4085.64,
+   "end": 4092.1,
+   "text": "That they took back so jewish slaves and money built the coliseum so if he had spent that money"
+  },
+  {
+   "start": 4092.1,
+   "end": 4097.52,
+   "text": "On something else like when they like in that period right after they got the they got judea and he had"
+  },
+  {
+   "start": 4097.52,
+   "end": 4104.72,
+   "text": "Was like commodus and had a bunch of parties and killed 800 lions like how commodus did in parties"
+  },
+  {
+   "start": 4104.72,
+   "end": 4110.24,
+   "text": "Well then you would have this legend of these fantastic parties that titus funded but you would"
+  },
+  {
+   "start": 4110.24,
+   "end": 4117.8,
+   "text": "Have no coliseum because you can only fund that once um rome if rome had a you know grown up"
+  },
+  {
+   "start": 4117.8,
+   "end": 4123.76,
+   "text": "I mean they could have they could have funded the coliseum with taxes if they were um more"
+  },
+  {
+   "start": 4123.76,
+   "end": 4129.94,
+   "text": "Responsible but normally rome wouldn't have just been able to fund that coliseum um"
+  },
+  {
+   "start": 4129.94,
+   "end": 4137.66,
+   "text": "Well actually no they were they they they spent money pretty uh they wasted money they would build"
+  },
+  {
+   "start": 4137.66,
+   "end": 4143.98,
+   "text": "Stuff they built augustus built a huge lake just just for a battle but they did this stuff because"
+  },
+  {
+   "start": 4143.98,
+   "end": 4149.44,
+   "text": "They could from all of the people they took over um for example let's what's another thing that they"
+  },
+  {
+   "start": 4149.44,
+   "end": 4156.38,
+   "text": "Built when they when uh when uh trajan took over dacia he used their money they had a bunch of gold"
+  },
+  {
+   "start": 4156.38,
+   "end": 4162.36,
+   "text": "Mines and so he took over their slaves their gold and their their treasury and their mines and he used"
+  },
+  {
+   "start": 4162.36,
+   "end": 4171.62,
+   "text": "That money to build to dig out like 120 they dug away 120 foot high mountain they just dug it out with"
+  },
+  {
+   "start": 4171.62,
+   "end": 4179.56,
+   "text": "Manpower pickaxes and then he built a um the trajan's column this big huge column that tells"
+  },
+  {
+   "start": 4179.56,
+   "end": 4186.58,
+   "text": "The story of his conquest and dacia and a spiral that goes up and the spiral the the spire is as high"
+  },
+  {
+   "start": 4186.58,
+   "end": 4191.64,
+   "text": "As the mountain was just to show like how much of the mountain they moved away and they built a whole"
+  },
+  {
+   "start": 4191.64,
+   "end": 4197.64,
+   "text": "Bunch of other stuff too so um so yeah you could trace like baths of diocletian"
+  },
+  {
+   "start": 4197.64,
+   "end": 4209.55,
+   "text": "Um well a lot of things you can trace to when they first took something over so anyway what I'm saying"
+  },
+  {
+   "start": 4209.55,
+   "end": 4221.31,
+   "text": "Is um wow what rabbit hole was I going down um so you uh well that's kind of similar to the american"
+  },
+  {
+   "start": 4221.31,
+   "end": 4227.61,
+   "text": "Empire um american we have to understand that it's just these fleeting fleeting moments you know like"
+  },
+  {
+   "start": 4227.61,
+   "end": 4233.97,
+   "text": "The american empire we're an empire because the whole world there was this power vacuum at the"
+  },
+  {
+   "start": 4233.97,
+   "end": 4243.85,
+   "text": "End of world war ii and um we uh and we had we also had this young labor force with women who were used"
+  },
+  {
+   "start": 4243.85,
+   "end": 4251.61,
+   "text": "To working because they had to in world war ii and um and uh we became we were able to become the world"
+  },
+  {
+   "start": 4251.61,
+   "end": 4258.59,
+   "text": "Power because we had really no competition after that and uh so if we're going to lose the world"
+  },
+  {
+   "start": 4258.59,
+   "end": 4266.15,
+   "text": "The american empire to uh to eat to china in the year 2030 I guess when they're going to pass us"
+  },
+  {
+   "start": 4266.15,
+   "end": 4273.53,
+   "text": "Uh we can't be mad about that because china has uh like four times as many people as we do"
+  },
+  {
+   "start": 4273.53,
+   "end": 4285.59,
+   "text": "What we need to do is compare the personal gdp and um and uh you know uh cherish our political system"
+  },
+  {
+   "start": 4285.59,
+   "end": 4292.05,
+   "text": "That we have I think that's why the roman republic fell is because they didn't well they didn't even"
+  },
+  {
+   "start": 4292.05,
+   "end": 4298.45,
+   "text": "Have a democracy a constitution they had the 12 tablets and I don't know what they say I thought"
+  },
+  {
+   "start": 4298.45,
+   "end": 4301.47,
+   "text": "They were on my website I could have sworn they're on my website but they're not"
+  },
+  {
+   "start": 4301.47,
+   "end": 4307.19,
+   "text": "In a parallel universe they're on my website I should have put it in this this universe"
+  },
+  {
+   "start": 4307.19,
+   "end": 4315.21,
+   "text": "But um yeah they didn't they didn't have they should have they should have had it written down"
+  },
+  {
+   "start": 4315.21,
+   "end": 4323.11,
+   "text": "Like you know not just kill anybody who tries to become king but um you know don't let the bankers"
+  },
+  {
+   "start": 4323.11,
+   "end": 4331.37,
+   "text": "Buy off the console and stuff like that you know and if that had been a golden saying"
+  },
+  {
+   "start": 4331.37,
+   "end": 4340.03,
+   "text": "We would have remembered it for america now um so uh so yeah but I was actually saying this to"
+  },
+  {
+   "start": 4340.03,
+   "end": 4347.15,
+   "text": "Somebody else if I wanted to compare america to rome and that's if you're going to be a true american"
+  },
+  {
+   "start": 4347.15,
+   "end": 4351.31,
+   "text": "That's what you have to do you have to be focused on rome and you have to be constantly comparing"
+  },
+  {
+   "start": 4351.31,
+   "end": 4357.65,
+   "text": "America to rome because that's what the founding fathers of america did if you read the federalist"
+  },
+  {
+   "start": 4357.65,
+   "end": 4365.53,
+   "text": "Papers um alexander hamilton james hamilton james monroe and john j they their names their aliases were"
+  },
+  {
+   "start": 4365.53,
+   "end": 4376.05,
+   "text": "Roman uh roman uh consuls from the republic like publius and tiberius and and uh you know um so"
+  },
+  {
+   "start": 4376.05,
+   "end": 4384.65,
+   "text": "And they were always they were always talking about the roman democracy and the uh egypt the uh"
+  },
+  {
+   "start": 4384.65,
+   "end": 4394.04,
+   "text": "The athenian democracy and so if you if if you cherish that and you're constantly talking about"
+  },
+  {
+   "start": 4394.04,
+   "end": 4402.42,
+   "text": "That and if the romans had have done that um then it would be people would have a lot less tolerance for"
+  },
+  {
+   "start": 4402.42,
+   "end": 4411.18,
+   "text": "People doing autocratic things and for people getting too rich um which then uh you know because"
+  },
+  {
+   "start": 4411.18,
+   "end": 4415.2,
+   "text": "Crassus would have turned himself into a king he already was like one third of a king"
+  },
+  {
+   "start": 4415.2,
+   "end": 4423.4,
+   "text": "So um so yeah we just need to one thing we need to remember is that there was no real literature"
+  },
+  {
+   "start": 4423.4,
+   "end": 4430.38,
+   "text": "After cicero cicero wrote 3 000 pages of philosophy just like the ancient greeks like we have all these"
+  },
+  {
+   "start": 4430.38,
+   "end": 4435.1,
+   "text": "Ancient greeks with all this greek philosophy and the only real philosopher we have talking about stuff"
+  },
+  {
+   "start": 4435.1,
+   "end": 4441.24,
+   "text": "Is like you have cicero and then and then there were some writers like at the very beginning of"
+  },
+  {
+   "start": 4441.24,
+   "end": 4448.56,
+   "text": "The empire like seneca but there was no there was no other writing um and even historians there were"
+  },
+  {
+   "start": 4448.56,
+   "end": 4456.7,
+   "text": "No there were no historians in the autocratic roman empire because nobody trusted each other you"
+  },
+  {
+   "start": 4456.7,
+   "end": 4464.28,
+   "text": "Couldn't you couldn't write a history book because it would just be the the uh the emperor's like"
+  },
+  {
+   "start": 4464.28,
+   "end": 4472.92,
+   "text": "Story about how he um you know cheated everybody or or you know or he didn't even know anything"
+  },
+  {
+   "start": 4472.92,
+   "end": 4480.96,
+   "text": "And then that book would be destroyed the next year you know um so yeah just if you're talking about"
+  },
+  {
+   "start": 4480.96,
+   "end": 4487.86,
+   "text": "History books you have um livy was at the very beginning of the empire he wrote a 3 000 page book"
+  },
+  {
+   "start": 4487.86,
+   "end": 4496.76,
+   "text": "Pliny was at the very beginning of the empire um sallust was was it um democratic uh republican times"
+  },
+  {
+   "start": 4496.76,
+   "end": 4510.65,
+   "text": "Cicero all those guys caesar then you become an empire and then it's nothing um if you talk about um"
+  },
+  {
+   "start": 4510.65,
+   "end": 4517.57,
+   "text": "Emperor uh what's his name um there was this emperor who was another one of these buffoon emperors"
+  },
+  {
+   "start": 4517.57,
+   "end": 4527.21,
+   "text": "Um he tried to make he he married a vestal virgin he was originally he was he was originally from"
+  },
+  {
+   "start": 4527.21,
+   "end": 4537.89,
+   "text": "Syria uh his religion was saul invictus um and um he was became emperor when he was 14 just because he"
+  },
+  {
+   "start": 4537.89,
+   "end": 4542.21,
+   "text": "Was part of like the right dynasty I think was the severin dynasty the end the tail end of it"
+  },
+  {
+   "start": 4542.21,
+   "end": 4552.15,
+   "text": "I can't remember his name um elegalibus and um he uh oh shit I lost my train of thought"
+  },
+  {
+   "start": 4552.15,
+   "end": 4563.13,
+   "text": "Um oh yeah there's no first-hand story of that whole time period he had no there were no literate"
+  },
+  {
+   "start": 4563.13,
+   "end": 4568.65,
+   "text": "People um you know even though they had the money of an empire it was like it was like they're going"
+  },
+  {
+   "start": 4568.65,
+   "end": 4574.19,
+   "text": "Into the dark ages literally literacy wise all of the history that edward gibbon collected to write"
+  },
+  {
+   "start": 4574.19,
+   "end": 4580.13,
+   "text": "The decline to follow roman empire of alegalibus in that time period was just from bits and pieces"
+  },
+  {
+   "start": 4580.13,
+   "end": 4587.93,
+   "text": "From people who live like a hundred years after okay so and the reason for that was and and I think"
+  },
+  {
+   "start": 4587.93,
+   "end": 4595.53,
+   "text": "It was livy who described it and explained it or no no it was um it was uh there was another guy who"
+  },
+  {
+   "start": 4595.53,
+   "end": 4602.41,
+   "text": "Was at the very beginning of the empire um tacitus who described that that yeah people just you know"
+  },
+  {
+   "start": 4602.41,
+   "end": 4607.51,
+   "text": "You're afraid to talk and you can't talk and it's not allowed to talk and so and then there's no"
+  },
+  {
+   "start": 4607.51,
+   "end": 4619.29,
+   "text": "Investment in the in education and and it's just war and so um and so yeah that's kind of what's"
+  },
+  {
+   "start": 4619.29,
+   "end": 4626.25,
+   "text": "Happening now um and that wasting money okay but wait let me talk about I'm like super sidetracked"
+  },
+  {
+   "start": 4626.25,
+   "end": 4640.31,
+   "text": "This is the stoner version okay so um shit this person's gonna keep calling me back I gotta I gotta"
+  },
+  {
+   "start": 4640.31,
+   "end": 4650.63,
+   "text": "Wrap this up um so uh so yeah we uh wait I'll just turn the phone off oh just a sec turn the phone"
+  },
+  {
+   "start": 4650.63,
+   "end": 4667.09,
+   "text": "Off so um so um so uh just a second okay so um rome so when you this is this is the main this is the"
+  },
+  {
+   "start": 4667.09,
+   "end": 4678.69,
+   "text": "Main uh lesson when you get um you have to you have to be historical and you have to think like uh"
+  },
+  {
+   "start": 4678.69,
+   "end": 4686.07,
+   "text": "Like natural you have to treat people naturally you know when we took the the the the uh the apaches"
+  },
+  {
+   "start": 4686.07,
+   "end": 4691.49,
+   "text": "Out of new mexico and brought them into south carolina they all died because they didn't know"
+  },
+  {
+   "start": 4691.49,
+   "end": 4695.93,
+   "text": "Any of the plants they weren't natives they were native americans but they weren't native south"
+  },
+  {
+   "start": 4695.93,
+   "end": 4704.25,
+   "text": "Carolinans and so that's how humans are and noam chomsky talks about this a lot humans are we have"
+  },
+  {
+   "start": 4704.25,
+   "end": 4710.57,
+   "text": "Brains and we're smart and we strategize and we work hard and we try to memorize things and we try"
+  },
+  {
+   "start": 4710.57,
+   "end": 4718.57,
+   "text": "To have relationships with people and so if you take those natural tendencies away then people are"
+  },
+  {
+   "start": 4718.57,
+   "end": 4727.51,
+   "text": "Going to become unhealthy and they're going to become like in order to survive you either numb down"
+  },
+  {
+   "start": 4727.51,
+   "end": 4735.03,
+   "text": "And become retarded and do what people tell you to do or you rebel and you fight back and and if"
+  },
+  {
+   "start": 4735.03,
+   "end": 4742.95,
+   "text": "You're not educated in the first place you fight back in a bad way and so when you and so you need to"
+  },
+  {
+   "start": 4742.95,
+   "end": 4749.45,
+   "text": "Preserve those tendencies of humans whenever you turn into an empire and so you need to respect those you"
+  },
+  {
+   "start": 4749.45,
+   "end": 4756.21,
+   "text": "Can't you can't have people just be subjects and then like america you know making somebody go to"
+  },
+  {
+   "start": 4756.21,
+   "end": 4761.53,
+   "text": "School just to get the degree and then follow the teacher because that could fail you and then"
+  },
+  {
+   "start": 4761.53,
+   "end": 4770.63,
+   "text": "You're lost you know the autocratic system or or or in the the the uh the corporation um people trying"
+  },
+  {
+   "start": 4770.63,
+   "end": 4776.19,
+   "text": "To backstab each other in order to get extra points to get to the next level and then you backstab each"
+  },
+  {
+   "start": 4776.19,
+   "end": 4781.03,
+   "text": "Other to get to the next level so by the time you get to the highest level it's a bunch of backstabbers"
+  },
+  {
+   "start": 4781.03,
+   "end": 4790.15,
+   "text": "And um and so and nobody knows anything because you spend all of your time trying to become good at"
+  },
+  {
+   "start": 4790.15,
+   "end": 4796.81,
+   "text": "Um trickery and stuff and so what we need to do is we need to you know realize that that's what"
+  },
+  {
+   "start": 4796.81,
+   "end": 4804.51,
+   "text": "Destroyed the roman empire cicero got his head cut off um for talking and that was that was in the uh"
+  },
+  {
+   "start": 4804.51,
+   "end": 4811.85,
+   "text": "The republic so so yeah we need to just stay educated and talk and communicate and not put"
+  },
+  {
+   "start": 4811.85,
+   "end": 4819.55,
+   "text": "Anybody above anybody else in terms of um you know thinking somebody's there's a lot to talk about I"
+  },
+  {
+   "start": 4819.55,
+   "end": 4823.57,
+   "text": "Mean you could do another video about the end of the roman empire because that's that's when it was"
+  },
+  {
+   "start": 4823.57,
+   "end": 4830.79,
+   "text": "Really bad um oh yeah let me talk about the fall of roman empire so rome was this huge empire"
+  },
+  {
+   "start": 4830.79,
+   "end": 4839.69,
+   "text": "And you the the empire is going to crash when the tax when the taxes are too high and you can't get"
+  },
+  {
+   "start": 4839.69,
+   "end": 4844.57,
+   "text": "Any taxes when you're having a combination you're going to have a really good country if you can get"
+  },
+  {
+   "start": 4844.57,
+   "end": 4855.15,
+   "text": "Lots of taxes and the taxes are low rome and america were the opposite rome um they they they taxed um"
+  },
+  {
+   "start": 4855.15,
+   "end": 4863.21,
+   "text": "Everybody in order to maintain an army um to uh but they couldn't get the tax money because the people"
+  },
+  {
+   "start": 4863.21,
+   "end": 4868.05,
+   "text": "Were the landowners were just kind of starting their fighting each other and starting their own"
+  },
+  {
+   "start": 4868.05,
+   "end": 4872.19,
+   "text": "Armies that's why diocletian had to break up all the provinces and the little provinces"
+  },
+  {
+   "start": 4872.19,
+   "end": 4877.43,
+   "text": "Because if they were too big they would start their own country and so that was how he could"
+  },
+  {
+   "start": 4877.43,
+   "end": 4883.73,
+   "text": "Maintain control but that increased the prices the the cost of the army because then the administrative"
+  },
+  {
+   "start": 4883.73,
+   "end": 4887.75,
+   "text": "Costs you had lots of different of the same administrative jobs and all the different uh"
+  },
+  {
+   "start": 4887.75,
+   "end": 4895.57,
+   "text": "The different little provinces and uh um he made the he streamlined the army a little bit"
+  },
+  {
+   "start": 4895.57,
+   "end": 4903.41,
+   "text": "By making smaller units uh that were more equestrian but uh but yeah um so then it eventually fell like"
+  },
+  {
+   "start": 4903.41,
+   "end": 4907.49,
+   "text": "People saw the writing on the wall like there were people you're officially part of the roman empire"
+  },
+  {
+   "start": 4907.49,
+   "end": 4914.73,
+   "text": "But at the same time you don't pay taxes and you have your own private army and you don't rely on"
+  },
+  {
+   "start": 4914.73,
+   "end": 4920.25,
+   "text": "The roman army you know and so that's kind of like how america is going you have all these rich people"
+  },
+  {
+   "start": 4920.25,
+   "end": 4926.79,
+   "text": "Who are officially americans um but at the same time they send their they want to send their own"
+  },
+  {
+   "start": 4926.79,
+   "end": 4932.57,
+   "text": "Kids to their own schools and live in their own like towns and villages and fly around and have their"
+  },
+  {
+   "start": 4932.57,
+   "end": 4938.67,
+   "text": "Own friends and their own economic system um but then at the same time they want to get their"
+  },
+  {
+   "start": 4938.67,
+   "end": 4944.33,
+   "text": "They're really rich and their companies get really rich off of the taxes of the country that they"
+  },
+  {
+   "start": 4944.33,
+   "end": 4952.15,
+   "text": "Supposedly have um and if you if you talk to the bankers like julia prince and uh you know that's how"
+  },
+  {
+   "start": 4952.15,
+   "end": 4959.37,
+   "text": "It works they they just uh you know like a company you know like the the it's called socializing the"
+  },
+  {
+   "start": 4959.37,
+   "end": 4965.83,
+   "text": "Uh gains privatizing the gains and socializing the losses so they use people's taxpayer money to"
+  },
+  {
+   "start": 4965.83,
+   "end": 4974.55,
+   "text": "Um you know subsidize their auto industry and then when they when they when they go bankrupt from"
+  },
+  {
+   "start": 4974.55,
+   "end": 4982.79,
+   "text": "Um embezzling it they just uh the country our taxpayers bail them out and then they get to keep"
+  },
+  {
+   "start": 4982.79,
+   "end": 4988.27,
+   "text": "Their bonuses the next year anyways that's another video so that's basically my video on the fall of the"
+  },
+  {
+   "start": 4988.27,
+   "end": 4997.35,
+   "text": "Roman republic in the beginning of the empire um it's uh I don't think you have to have a in order"
+  },
+  {
+   "start": 4997.35,
+   "end": 5002.81,
+   "text": "To have a world system world empire it doesn't have to be an autocracy if you're going to look about"
+  },
+  {
+   "start": 5002.81,
+   "end": 5009.69,
+   "text": "If you're going to talk about the beauty of rome everything about the beauty of rome was from when"
+  },
+  {
+   "start": 5009.69,
+   "end": 5015.73,
+   "text": "It was a roman republic rome was taking over all those other cities city states and countries"
+  },
+  {
+   "start": 5015.73,
+   "end": 5024.31,
+   "text": "And ethnic groups and uh other empires because they were democratic and because the other ones"
+  },
+  {
+   "start": 5024.31,
+   "end": 5032.11,
+   "text": "Were autocratic and that's where their pride came in that's where you know like when a consul went out"
+  },
+  {
+   "start": 5032.11,
+   "end": 5039.65,
+   "text": "To do negotiation with another with another um king you couldn't bribe that consul because he wouldn't"
+  },
+  {
+   "start": 5039.65,
+   "end": 5044.33,
+   "text": "Be the consul the next year and he would get prosecuted for being bribed because everybody was knew what"
+  },
+  {
+   "start": 5044.33,
+   "end": 5051.03,
+   "text": "Was going on and they were pretty good at prosecuting people for doing that and uh but at the same time"
+  },
+  {
+   "start": 5051.03,
+   "end": 5057.09,
+   "text": "He had the power of a king you know um there's a story I think it was maybe jugurth or something one"
+  },
+  {
+   "start": 5057.09,
+   "end": 5064.59,
+   "text": "Of the consuls went to a king and and he wrote a he drew a he drew a circle like a circle of the sand"
+  },
+  {
+   "start": 5064.59,
+   "end": 5071.87,
+   "text": "Around the king or around himself and he's like he's like if you step out of that without making my"
+  },
+  {
+   "start": 5071.87,
+   "end": 5077.05,
+   "text": "Giving me my concession then we're gonna go to war and he's like and that's my decision you know"
+  },
+  {
+   "start": 5077.05,
+   "end": 5086.07,
+   "text": "So you know you're anyway um so uh it was like and so that's what america is this is one last thing I"
+  },
+  {
+   "start": 5086.07,
+   "end": 5091.09,
+   "text": "Want to talk about in this video america if you wanted to compare america with rome"
+  },
+  {
+   "start": 5091.09,
+   "end": 5097.41,
+   "text": "Um I mean if you wanted to compare america yeah america with rome like two periods of history"
+  },
+  {
+   "start": 5097.41,
+   "end": 5113.07,
+   "text": "I would compare america in 2018 with rome um um rome like 250 bc like rome right before the punic wars"
+  },
+  {
+   "start": 5113.07,
+   "end": 5121.63,
+   "text": "Okay so in rome right before the punic wars you have the known world okay you have you have rome"
+  },
+  {
+   "start": 5121.63,
+   "end": 5128.31,
+   "text": "And you have carthage the two superpowers rome is a democratically and then maybe greece over here"
+  },
+  {
+   "start": 5128.31,
+   "end": 5137.99,
+   "text": "Rome is a democratically elected democracy democratic republic where I mean as democratic as you can get"
+  },
+  {
+   "start": 5137.99,
+   "end": 5142.63,
+   "text": "You're only a consul for a day or you know it's two consuls and they're only consuls for a year"
+  },
+  {
+   "start": 5142.63,
+   "end": 5149.57,
+   "text": "And then they have to get re-elected uh a few years later you know and it's and then they're only"
+  },
+  {
+   "start": 5149.57,
+   "end": 5153.35,
+   "text": "Consul for again if they want to be consul again they have to get re-elected and they have to wait"
+  },
+  {
+   "start": 5153.35,
+   "end": 5161.99,
+   "text": "A year and so and then it's against the versus the uh carthaginians who are this plutocratic um small"
+  },
+  {
+   "start": 5161.99,
+   "end": 5171.89,
+   "text": "Knit group of rich jewish traders not jewish rich like ex-phenician traders um who then pay out their"
+  },
+  {
+   "start": 5171.89,
+   "end": 5177.53,
+   "text": "Lower classes to do all their dirty work for them including the army and and then you know over in"
+  },
+  {
+   "start": 5177.53,
+   "end": 5184.99,
+   "text": "Greece you have a kingdom of philip you know so so there's the snapshot and you go well which one"
+  },
+  {
+   "start": 5184.99,
+   "end": 5188.83,
+   "text": "Of these all these different ones are going to survive well it's going to be the romans of course"
+  },
+  {
+   "start": 5188.83,
+   "end": 5193.81,
+   "text": "Because they're because they all have pride in their people and they're the country of the people and"
+  },
+  {
+   "start": 5193.81,
+   "end": 5200.47,
+   "text": "Um you know there's social mobility because you can get elected and meritocracy and um and so sure"
+  },
+  {
+   "start": 5200.47,
+   "end": 5205.45,
+   "text": "Enough rome takes over the whole world and and they have the roman senate you know and sure it's an"
+  },
+  {
+   "start": 5205.45,
+   "end": 5211.03,
+   "text": "Autocracy but it was that was the you know that was the one that took over the world it wasn't one of"
+  },
+  {
+   "start": 5211.03,
+   "end": 5217.35,
+   "text": "These little kingdom uh these uh plutocratic aristocratic kingdoms and so let's fast forward"
+  },
+  {
+   "start": 5217.35,
+   "end": 5229.15,
+   "text": "To now you have china over here that has 1.2 billion people you have russia up here that has like half of"
+  },
+  {
+   "start": 5229.15,
+   "end": 5236.33,
+   "text": "The land mass of the earth you have and then you have america over here and then you have like all"
+  },
+  {
+   "start": 5236.33,
+   "end": 5243.05,
+   "text": "These little ancient uh city states of europe over here and then you have dysfunctional africa or like"
+  },
+  {
+   "start": 5243.05,
+   "end": 5247.91,
+   "text": "Primitive the barbarian primitive africa and then dysfunctional south america and up here you have"
+  },
+  {
+   "start": 5247.91,
+   "end": 5254.71,
+   "text": "America uh the the most democratic of all the countries so if you're gonna if you're gonna predict"
+  },
+  {
+   "start": 5254.71,
+   "end": 5259.77,
+   "text": "Well okay what's gonna happen in the future well a lot of people like to predict oh no america is"
+  },
+  {
+   "start": 5259.77,
+   "end": 5266.21,
+   "text": "Gonna go down because china has got the land mass they're gonna build this super highway rail system"
+  },
+  {
+   "start": 5266.21,
+   "end": 5271.33,
+   "text": "With solar powered rail systems to do trading with russia and europe and we're gonna lose all the"
+  },
+  {
+   "start": 5271.33,
+   "end": 5276.65,
+   "text": "Business and we're gonna go down but I I think it's better to predict the future based on and the"
+  },
+  {
+   "start": 5276.65,
+   "end": 5285.23,
+   "text": "Success of countries based on their current political system china is a um is an autocratically"
+  },
+  {
+   "start": 5285.23,
+   "end": 5293.45,
+   "text": "Dictatorship their king their president is a president for life he's a king um they're a russia"
+  },
+  {
+   "start": 5293.45,
+   "end": 5300.05,
+   "text": "Their president is president for life he's the king richest man in the world putin um we have these"
+  },
+  {
+   "start": 5300.05,
+   "end": 5306.43,
+   "text": "Presidents who go for four years and then they have to and then they have to re-elect them re-run again"
+  },
+  {
+   "start": 5306.43,
+   "end": 5310.47,
+   "text": "For another four years and then they can only go a maximum of eight years and then they can never"
+  },
+  {
+   "start": 5310.47,
+   "end": 5316.99,
+   "text": "Run again um and I think maybe when our founding fathers wrote the constitution they may have had"
+  },
+  {
+   "start": 5316.99,
+   "end": 5323.73,
+   "text": "Roman in my mind because I've seen the roman lists a lot of times on my timeline and they're yeah there's"
+  },
+  {
+   "start": 5323.73,
+   "end": 5328.31,
+   "text": "Like a maximum of six times console maybe one guy was eight time console but never more than eight"
+  },
+  {
+   "start": 5328.31,
+   "end": 5334.77,
+   "text": "Times so they're probably trying to keep it to that but um so then yeah what so who's obviously who's"
+  },
+  {
+   "start": 5334.77,
+   "end": 5338.31,
+   "text": "Going to be who's going to be the successful country in the future that's going to take over"
+  },
+  {
+   "start": 5338.31,
+   "end": 5343.67,
+   "text": "The whole world when you're talking about the next empire I'd say america I don't think it's the end"
+  },
+  {
+   "start": 5343.67,
+   "end": 5348.37,
+   "text": "Of the american empire I think it's the beginning of the american empire we're gonna we may lose the"
+  },
+  {
+   "start": 5348.37,
+   "end": 5354.07,
+   "text": "World currency as the dollar uh we may not we're not going to be definitely not going to be the"
+  },
+  {
+   "start": 5354.07,
+   "end": 5360.05,
+   "text": "Strongest gdp in the world because we don't have the biggest population but we have the most effective"
+  },
+  {
+   "start": 5360.05,
+   "end": 5365.83,
+   "text": "Political uh political system so we're the we're the most freest society so we can make the quickest"
+  },
+  {
+   "start": 5365.83,
+   "end": 5370.39,
+   "text": "Adjustments if we have to and we can make the quickest change and have the smartest people so"
+  },
+  {
+   "start": 5370.39,
+   "end": 5376.53,
+   "text": "We could end up culturally continuing to take over the world and and of course the worlds are going to"
+  },
+  {
+   "start": 5376.53,
+   "end": 5381.53,
+   "text": "Change anyway it's not commerce like we'll lose power because china will make all the money with the"
+  },
+  {
+   "start": 5381.53,
+   "end": 5387.07,
+   "text": "High speed rails with europe we're going to take over the world because uh because of the respect that"
+  },
+  {
+   "start": 5387.07,
+   "end": 5391.61,
+   "text": "We have that's why rome rome was always took over the world because people had respect for him"
+  },
+  {
+   "start": 5391.61,
+   "end": 5399.47,
+   "text": "There was one guy there was one kingdom somewhere like in in turkey or somewhere like that where the"
+  },
+  {
+   "start": 5399.47,
+   "end": 5407.17,
+   "text": "Guy died and he didn't have a son so he just gave his kingdom to rome okay so that's basically I mean"
+  },
+  {
+   "start": 5407.17,
+   "end": 5412.11,
+   "text": "If america is good enough people just want to get annexed by america you know like how texas wanted to"
+  },
+  {
+   "start": 5412.11,
+   "end": 5417.73,
+   "text": "You know that's how you can make people make people spread your culture is you you make them"
+  },
+  {
+   "start": 5417.73,
+   "end": 5424.27,
+   "text": "Want to join you so that's what those are the lessons we can learn you know just don't um the"
+  },
+  {
+   "start": 5424.27,
+   "end": 5431.51,
+   "text": "Oligarchy keep protect the education and democracy don't start these wars so we can have the money for"
+  },
+  {
+   "start": 5431.51,
+   "end": 5438.87,
+   "text": "Education and uh and then we can move on and we can stay but I think also stay true to the idea of"
+  },
+  {
+   "start": 5438.87,
+   "end": 5444.51,
+   "text": "Democracy you know uh julius caesar at the end of the day even though he was smart and and bequeathed"
+  },
+  {
+   "start": 5444.51,
+   "end": 5452.99,
+   "text": "This stuff to uh the people because he made himself an autocrat for his lifetime then he's bad"
+  },
+  {
+   "start": 5452.99,
+   "end": 5458.29,
+   "text": "You have to give him bad grades same thing with uh with augustus like and I'm sure that they"
+  },
+  {
+   "start": 5458.29,
+   "end": 5463.87,
+   "text": "And I don't know maybe when you get in that kind of power you you have different insights but as far"
+  },
+  {
+   "start": 5463.87,
+   "end": 5471.75,
+   "text": "As I can tell um you want to be as democratic as you can okay so that's enough talking I tried to"
+  },
+  {
+   "start": 5471.75,
+   "end": 5479.69,
+   "text": "Keep it down but that's a big big big a big uh a big subject another subject I could do about is a"
+  },
+  {
+   "start": 5479.69,
+   "end": 5487.51,
+   "text": "Follow-around but I've talked about that a lot um okay hopefully is this still recording okay good"
+  },
+  {
+   "start": 5487.51,
+   "end": 5488.33,
+   "text": "All right peace"
+  },
+  {
+   "start": 5488.33,
+   "end": 5492.21,
+   "text": "All right"
+  },
+  {
+   "start": 5492.21,
+   "end": 5494.21,
+   "text": "You"
+  },
+  {
+   "start": 5494.21,
+   "end": 5496.21,
+   "text": "You"
+  },
+  {
+   "start": 5496.21,
+   "end": 5498.21,
+   "text": "You"
+  },
+  {
+   "start": 5498.21,
+   "end": 5500.21,
+   "text": "You"
+  },
+  {
+   "start": 5500.21,
+   "end": 5502.21,
+   "text": "You"
+  },
+  {
+   "start": 5502.21,
+   "end": 5504.21,
+   "text": "You"
+  },
+  {
+   "start": 5504.21,
+   "end": 5506.21,
+   "text": "You"
+  },
+  {
+   "start": 5506.21,
+   "end": 5508.21,
+   "text": "You"
+  },
+  {
+   "start": 5508.21,
+   "end": 5510.21,
+   "text": "You"
+  }
+ ]
+}

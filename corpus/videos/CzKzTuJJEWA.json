@@ -1,0 +1,220 @@
+{
+ "youtube_id": "CzKzTuJJEWA",
+ "title": "Living in Boulder Vlog 11 - 7 - 2016",
+ "url": "https://youtu.be/CzKzTuJJEWA",
+ "published_at": "2016-11-08",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a brief daily vlog about his progress on a mapping project called Monarch, which involves tracing, naming, numbering ski runs and creating links in Dreamweaver. He updates his sleep schedule, his cannabis use, and what he's been listening to while working — notably a nine-and-a-half hour Seneca audiobook.",
+  "speaker": "kyle",
+  "topics": [
+   "work/project progress",
+   "sleep",
+   "cannabis",
+   "audiobooks",
+   "productivity",
+   "daily routine"
+  ],
+  "stances": [
+   {
+    "topic": "project timeline predictions",
+    "position": "admits he made an unrealistic prediction without actually reviewing remaining work"
+   },
+   {
+    "topic": "current productivity state",
+    "position": "feels he is in a focused creative zone and will finish the project that day"
+   },
+   {
+    "topic": "Seneca audiobook",
+    "position": "found it enjoyable and thought-provoking, may listen to another philosophy recording"
+   }
+  ],
+  "entities": [
+   "Monarch",
+   "Dreamweaver",
+   "Seneca",
+   "History Books (YouTube channel)",
+   "Decline and Fall (likely Gibbon's Decline and Fall of the Roman Empire)",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 24.14,
+   "text": "This is one of those Scrapped in Stardake vlogs, uh, for, let's see here, uh, well, today's, it's Tuesday, November 8th, but this is the one for yesterday, Monday, November 7th, yeah, so, uh, I'm not working the Monday and Tuesday this week, so I got an extra long weekend, cause, uh, I work with, uh, they went off to out of state."
+  },
+  {
+   "start": 24.14,
+   "end": 54.06,
+   "text": "Okay, so, I get to go full blast, solid days, uh, trying to wrap up this project, I didn't wrap it up yesterday, I made, I made the prediction I'd be done before Monday and Friday in the last week, so I guess I screwed that up, but I didn't really think it through very much, um, yeah, I, like, I didn't, I made that prediction without actually looking at what I had left to do, I just, like, uh, and I didn't realize there were lots of places I didn't do."
+  },
+  {
+   "start": 54.14,
+   "end": 63.34,
+   "text": "Um, I'm still finishing, um, Monarch, but I'm done tracing it, all the hard stuff, now I'm just filling stuff in."
+  },
+  {
+   "start": 63.76,
+   "end": 83.74,
+   "text": "I have to name them, cause I didn't name them, I just traced them, and then I have to put the, I already put the distance, I think, then I have to organize it, and then I have to number it, and then I have to create the movies, and then I have to make the links for both of it, and then I have to paste it onto Dreamweaver, and then I have to paste on the links."
+  },
+  {
+   "start": 84.14,
+   "end": 98.5,
+   "text": "And then connect the links, and then change the font on the numbers, but it's only, like, um, 50 runs or something, I don't know, maybe 100, though, if you include the, all the cat stuff, they had a lot of there."
+  },
+  {
+   "start": 99.18,
+   "end": 117.64,
+   "text": "So I was working until, like, um, um, two, no, no, no, no, no, it was just after midnight last night, and then I got up at, like, 9, but I was on the phone, so, um, yeah, or 9.30 or something, so, yeah, I guess I got, like, nine hours of sleep last night."
+  },
+  {
+   "start": 117.64,
+   "end": 121.72,
+   "text": "Um, but I'm rested now."
+  },
+  {
+   "start": 123.8,
+   "end": 126.28,
+   "text": "Um, yeah, I was pretty tired, pretty worn out."
+  },
+  {
+   "start": 126.74,
+   "end": 128.16,
+   "text": "I worked solid yesterday."
+  },
+  {
+   "start": 129.94,
+   "end": 132.88,
+   "text": "Um, but, yeah, I'll finish it today."
+  },
+  {
+   "start": 133.44,
+   "end": 136.9,
+   "text": "But then I have to go and add, um, like, area links."
+  },
+  {
+   "start": 138.3,
+   "end": 142.56,
+   "text": "Oh, and then the dates to all of them, and then I have to do the, uh, the ones that were never built."
+  },
+  {
+   "start": 142.98,
+   "end": 144.94,
+   "text": "That's going to be interesting, and then I want to build my own."
+  },
+  {
+   "start": 145.22,
+   "end": 145.72,
+   "text": "Ha ha ha ha!"
+  },
+  {
+   "start": 146.38,
+   "end": 148.28,
+   "text": "I haven't even looked to see where I would put it."
+  },
+  {
+   "start": 148.3,
+   "end": 148.9,
+   "text": "I want to do that now."
+  },
+  {
+   "start": 148.96,
+   "end": 149.42,
+   "text": "I keep forgetting."
+  },
+  {
+   "start": 151.02,
+   "end": 153.38,
+   "text": "Um, I'm not that high right now."
+  },
+  {
+   "start": 155.2,
+   "end": 156.6,
+   "text": "Um, but I am high."
+  },
+  {
+   "start": 158.22,
+   "end": 162.62,
+   "text": "Uh, yeah, man."
+  },
+  {
+   "start": 162.94,
+   "end": 164.24,
+   "text": "So I'm in the void right now."
+  },
+  {
+   "start": 164.36,
+   "end": 166.72,
+   "text": "I'm in the zone, kicking ass, creating."
+  },
+  {
+   "start": 167.82,
+   "end": 168.48,
+   "text": "Like a motherfucker."
+  },
+  {
+   "start": 168.7,
+   "end": 172.42,
+   "text": "Oh, yeah, I was listening to, um, I think I listened to all the history scientists."
+  },
+  {
+   "start": 172.56,
+   "end": 180.06,
+   "text": "So, um, oh, but I listened to Seneca yesterday, from beginning to end."
+  },
+  {
+   "start": 180.48,
+   "end": 181.68,
+   "text": "It was like nine and a half hours."
+  },
+  {
+   "start": 182.72,
+   "end": 186.54,
+   "text": "Um, on this history books, uh, YouTube channel that I subscribed to."
+  },
+  {
+   "start": 188.0,
+   "end": 191.28,
+   "text": "But, yeah, I think I'll get going on Decline and Fall some more."
+  },
+  {
+   "start": 192.12,
+   "end": 194.78,
+   "text": "Although, it was fun listening to the guy thinking and philosophizing."
+  },
+  {
+   "start": 194.88,
+   "end": 195.86,
+   "text": "He's really good."
+  },
+  {
+   "start": 196.48,
+   "end": 197.82,
+   "text": "Maybe I'll do another one of those today."
+  },
+  {
+   "start": 197.82,
+   "end": 200.6,
+   "text": "Uh, but I'll talk about it tomorrow."
+  },
+  {
+   "start": 200.78,
+   "end": 202.44,
+   "text": "Okay, I think I've talked for long enough."
+  },
+  {
+   "start": 202.5,
+   "end": 204.32,
+   "text": "I like to keep it to around three minutes."
+  },
+  {
+   "start": 205.02,
+   "end": 206.08,
+   "text": "Alright, peace out."
+  }
+ ]
+}

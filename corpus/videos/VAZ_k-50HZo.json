@@ -1,0 +1,330 @@
+{
+ "youtube_id": "VAZ_k-50HZo",
+ "title": "Hypocondria - Request",
+ "url": "https://youtu.be/VAZ_k-50HZo",
+ "published_at": "2014-05-05",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle responds to a video request about hypochondria, the placebo effect, and the mind-body connection. He shares his view that people can psychologically talk themselves into illness or physical limitation, and relates it to a personal story about back pain from inactivity versus a real shoulder injury he got from overexerting at the gym after a long break.",
+  "speaker": "kyle",
+  "topics": [
+   "hypochondria",
+   "placebo effect",
+   "mind-body connection",
+   "back pain",
+   "shoulder injury",
+   "exercise",
+   "muscle recovery"
+  ],
+  "stances": [
+   {
+    "topic": "hypochondria",
+    "position": "People can genuinely make themselves sick through belief, and hypochondriacs can benefit from the placebo effect"
+   },
+   {
+    "topic": "back pain and inactivity",
+    "position": "Avoiding exercise due to fear of injury actually causes weakness and real injury over time"
+   },
+   {
+    "topic": "muscle injuries",
+    "position": "Most muscle and even tendon injuries are best addressed by continuing to exercise through them, not resting"
+   },
+   {
+    "topic": "his own back pain",
+    "position": "Recognized it as a muscle knot from inactivity, not a serious injury, and worked through it successfully"
+   }
+  ],
+  "entities": [
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.21,
+   "end": 6.29,
+   "text": "Hello, uh, here's a video request about hypocondria normally. I don't do video requests from videos because"
+  },
+  {
+   "start": 7.17,
+   "end": 11.61,
+   "text": "It's not I'm not in the mood. You have to leave me on my channel, but luckily"
+  },
+  {
+   "start": 11.93,
+   "end": 18.09,
+   "text": "So this what you take on hypocondria and you whole idea of your mind being a huge factor in how you're"
+  },
+  {
+   "start": 18.57,
+   "end": 21.89,
+   "text": "Body reacts to it and the placebo effect thanks, bro"
+  },
+  {
+   "start": 22.17,
+   "end": 26.93,
+   "text": "Have a good enough in your talk cool things. So my take on hypocondria"
+  },
+  {
+   "start": 27.89,
+   "end": 30.85,
+   "text": "What's my taking taking on hypocondria?"
+  },
+  {
+   "start": 31.57,
+   "end": 34.37,
+   "text": "Hypocondria actually people who think that they're sick all the time"
+  },
+  {
+   "start": 36.13,
+   "end": 43.13,
+   "text": "And you're mind being a factor on how your body reacts to it in the placebo effect. Yes, so if somebody could"
+  },
+  {
+   "start": 44.57,
+   "end": 48.69,
+   "text": "The hypocondria could benefit from the placebo effect. I'm sure that they could because"
+  },
+  {
+   "start": 49.69,
+   "end": 56.25,
+   "text": "Yeah, I think that they can make themselves sick. I know I know this there's an aber of my mom"
+  },
+  {
+   "start": 56.25,
+   "end": 58.25,
+   "text": "Is a lady of crazy lady"
+  },
+  {
+   "start": 58.49,
+   "end": 60.49,
+   "text": "She-"
+  },
+  {
+   "start": 60.49,
+   "end": 66.97,
+   "text": "Once she's all hey come over here. There's like there's like an army of ants getting in my house and dating my house"
+  },
+  {
+   "start": 66.97,
+   "end": 70.97,
+   "text": "All stream of ants whole line of them come help me on getting like kill the attack"
+  },
+  {
+   "start": 71.53,
+   "end": 75.45,
+   "text": "So I look and it was like I saw one hand like walking up her house and like"
+  },
+  {
+   "start": 76.29,
+   "end": 78.29,
+   "text": "You know"
+  },
+  {
+   "start": 79.61,
+   "end": 82.41,
+   "text": "Hell sometimes people can make like mountains out of my eyes"
+  },
+  {
+   "start": 82.41,
+   "end": 86.41,
+   "text": "And I know people who"
+  },
+  {
+   "start": 88.09,
+   "end": 93.45,
+   "text": "Who think that you know like they have I'm in fact I met a lot of people like this who think that they have like a"
+  },
+  {
+   "start": 94.01,
+   "end": 97.13,
+   "text": "Like an injured back or something or an injured"
+  },
+  {
+   "start": 98.81,
+   "end": 100.81,
+   "text": "I don't know"
+  },
+  {
+   "start": 100.81,
+   "end": 105.37,
+   "text": "An ankle and they think and they don't want to go like running with you because and they're gonna hurt their ankle"
+  },
+  {
+   "start": 107.05,
+   "end": 109.77,
+   "text": "And I was actually thinking about this the other day because"
+  },
+  {
+   "start": 110.33,
+   "end": 111.85,
+   "text": "Um"
+  },
+  {
+   "start": 111.85,
+   "end": 116.57,
+   "text": "About the back because like somebody just says they have a back injury and on my back injury"
+  },
+  {
+   "start": 116.57,
+   "end": 119.85,
+   "text": "I can't do anything and then so that causes them to not exercise"
+  },
+  {
+   "start": 119.85,
+   "end": 123.85,
+   "text": "Which makes them get me to week a week or back and then they're gonna actually get a back injury"
+  },
+  {
+   "start": 124.41,
+   "end": 129.69,
+   "text": "And I was because I was having that pain over the last couple weeks because"
+  },
+  {
+   "start": 130.33,
+   "end": 134.09,
+   "text": "For four months I was sitting in my couch like this, okay?"
+  },
+  {
+   "start": 134.65,
+   "end": 138.25,
+   "text": "And that's all I did. I wasn't exercising at all. I went my bike on the roller's like three days"
+  },
+  {
+   "start": 139.21,
+   "end": 144.41,
+   "text": "And so and then all of a sudden I'm working on washing windows. I'm I'm hauling ladders around"
+  },
+  {
+   "start": 145.13,
+   "end": 150.97,
+   "text": "And I'm like so I'm like a wrecked and stuff and so I have like really really really really painful"
+  },
+  {
+   "start": 151.45,
+   "end": 157.37,
+   "text": "Really really really really sharp pain in my back also on my arm. I still have it in my shoulder"
+  },
+  {
+   "start": 158.81,
+   "end": 160.81,
+   "text": "So I think I got a shoulder injury last"
+  },
+  {
+   "start": 163.29,
+   "end": 167.53,
+   "text": "Yeah, but I but I recognize that that back pain was from my muscle"
+  },
+  {
+   "start": 168.25,
+   "end": 171.69,
+   "text": "It was from like between my clavicle and my back. It's just a muscle that's"
+  },
+  {
+   "start": 172.41,
+   "end": 173.69,
+   "text": "That's"
+  },
+  {
+   "start": 173.69,
+   "end": 178.33,
+   "text": "It's just a knot, you know, not in my muscles because my muscles haven't been working. I know that"
+  },
+  {
+   "start": 179.13,
+   "end": 183.61,
+   "text": "All I have to do is keep working and it'll go away. You know, or I can get my little massage"
+  },
+  {
+   "start": 184.17,
+   "end": 186.17,
+   "text": "Thing my little curly Q thing"
+  },
+  {
+   "start": 186.81,
+   "end": 191.45,
+   "text": "Ball and and just beat the shit out of it with that and make it go anyways. I went away and I'm fine"
+  },
+  {
+   "start": 192.09,
+   "end": 194.81,
+   "text": "So with a lot of these injuries"
+  },
+  {
+   "start": 195.61,
+   "end": 200.97,
+   "text": "You just especially if they're like muscle or they're tendon injuries even tendon injuries"
+  },
+  {
+   "start": 201.37,
+   "end": 203.37,
+   "text": "Especially muscle injuries"
+  },
+  {
+   "start": 204.17,
+   "end": 208.81,
+   "text": "You exercise them away, you know you get injuries by not exercising like my shoulder injury"
+  },
+  {
+   "start": 208.81,
+   "end": 210.17,
+   "text": "I got that injury"
+  },
+  {
+   "start": 210.17,
+   "end": 213.61,
+   "text": "Last summer or last fall I went into gym for the first time like a year"
+  },
+  {
+   "start": 214.17,
+   "end": 220.33,
+   "text": "I'm like bitching and stuff all these different chest machines and then at the end like after an hour that I go over to the"
+  },
+  {
+   "start": 221.29,
+   "end": 225.69,
+   "text": "The finally freed up the incline bench press off. I put a hundred or five on my foot"
+  },
+  {
+   "start": 225.69,
+   "end": 227.93,
+   "text": "Well, it's two ten and a hundred five and I was like, I don't think I could"
+  },
+  {
+   "start": 228.33,
+   "end": 230.01,
+   "text": "I was like, I don't know"
+  },
+  {
+   "start": 230.01,
+   "end": 234.17,
+   "text": "So then you know how sometimes you get on it, you know, I thought get let's go for the whole ten so I did that and"
+  },
+  {
+   "start": 234.57,
+   "end": 236.57,
+   "text": "On number eight dude"
+  },
+  {
+   "start": 236.57,
+   "end": 238.57,
+   "text": "I fucking"
+  },
+  {
+   "start": 238.57,
+   "end": 241.69,
+   "text": "Totally tore my fucking like shoulder. It was like a tear"
+  },
+  {
+   "start": 242.89,
+   "end": 245.85,
+   "text": "And I"
+  },
+  {
+   "start": 245.85,
+   "end": 247.85,
+   "text": "Shit"
+  }
+ ]
+}

@@ -1,0 +1,420 @@
+{
+ "youtube_id": "r6I-Az7vn1I",
+ "title": "Living in Boulder vlog 6 - 7-  2017: Polybius",
+ "url": "https://youtu.be/r6I-Az7vn1I",
+ "published_at": "2017-06-08",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder on June 7, 2017, explaining a two-day gap in posting due to the hassle of his green-screen setup, then shares his plan to simplify by mounting green paper directly to the bathroom wall. He gives an update on his ongoing project of cataloging every classic book in history on his website — currently deep in Polybius — and excitedly previews a future video about using his phone's text-to-speech to listen to Wikipedia articles all day.",
+  "speaker": "kyle",
+  "topics": [
+   "vlog setup / green screen",
+   "classic books cataloging project",
+   "Polybius",
+   "speed reading / text-to-speech",
+   "Wikipedia read-aloud",
+   "self-education",
+   "Boulder daily life"
+  ],
+  "stances": [
+   {
+    "topic": "video recording setup",
+    "position": "current green-cloth setup is too cumbersome; switching to fixed green paper on bathroom wall will be simpler and higher quality"
+   },
+   {
+    "topic": "classic books cataloging",
+    "position": "deeply motivated to catalog every classic book's page count and reading time; fascination with the scale keeps him going"
+   },
+   {
+    "topic": "Polybius",
+    "position": "most time-consuming entry in the project yet due to the number of books and chapters, but a major accomplishment when done"
+   },
+   {
+    "topic": "Wikipedia read-aloud on phone",
+    "position": "thinks it may be the best invention he has encountered; extremely excited about passive learning while going about daily life"
+   }
+  ],
+  "entities": [
+   "Polybius",
+   "Thucydides (likely the ~3,200-page work referenced)",
+   "Wikipedia",
+   "Mac",
+   "Google Earth",
+   "Boulder (Colorado)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.56,
+   "end": 6.36,
+   "text": "Hello living in Boulder, view log for Wednesday, June 7th, 2017."
+  },
+  {
+   "start": 6.36,
+   "end": 15.84,
+   "text": "I think I took two days off because I'm having trouble motivating doing videos because"
+  },
+  {
+   "start": 15.84,
+   "end": 25.64,
+   "text": "I have to, I do my videos on my bathroom and I have to hang up a green, screen,"
+  },
+  {
+   "start": 25.64,
+   "end": 32.44,
+   "text": "green cloth and it takes time and I usually only do videos like late at night when I'm"
+  },
+  {
+   "start": 32.44,
+   "end": 35.72,
+   "text": "allowed to go to sleep and I'm just too lazy to put that thing out so I can go to the"
+  },
+  {
+   "start": 35.72,
+   "end": 40.0,
+   "text": "video and I don't want to come out here just my roommate and I was a minor in my"
+  },
+  {
+   "start": 40.0,
+   "end": 48.12,
+   "text": "room I was going to stop the street and so I need to, but I need to do as I make it"
+  },
+  {
+   "start": 48.12,
+   "end": 54.68,
+   "text": "simpler so what I'm going to do is I already had my wall covered with the time"
+  },
+  {
+   "start": 54.68,
+   "end": 59.6,
+   "text": "child, Google Earth time trial and times for the 20K time trial for the bike or"
+  },
+  {
+   "start": 59.6,
+   "end": 61.6,
+   "text": "survival whenever I do that."
+  },
+  {
+   "start": 61.6,
+   "end": 64.96,
+   "text": "But then I didn't want to attach it to anywhere in my room filled up and I didn't want"
+  },
+  {
+   "start": 64.96,
+   "end": 65.96,
+   "text": "to attach it to anywhere."
+  },
+  {
+   "start": 65.96,
+   "end": 71.4,
+   "text": "I get in my house because I don't want to make my house look too cluttered but then I decided"
+  },
+  {
+   "start": 71.4,
+   "end": 75.6,
+   "text": "I'm going to take it off a wall and put it on the outside of my door to my room and then the"
+  },
+  {
+   "start": 75.6,
+   "end": 78.12,
+   "text": "door to the bathroom."
+  },
+  {
+   "start": 78.12,
+   "end": 85.6,
+   "text": "So then I can, because I have green paper that I bought and I think it's enough to put"
+  },
+  {
+   "start": 85.6,
+   "end": 91.32,
+   "text": "on the wall and so this way I just go in the bathroom and I just record plus it's going to"
+  },
+  {
+   "start": 91.32,
+   "end": 93.68,
+   "text": "be a lot better quality."
+  },
+  {
+   "start": 93.68,
+   "end": 99.36,
+   "text": "I think in the bathroom I'm too close to the side or whatever so you see the wrinkles and what"
+  },
+  {
+   "start": 99.36,
+   "end": 101.36,
+   "text": "the paper you won't see anything able to perfect."
+  },
+  {
+   "start": 101.36,
+   "end": 103.64,
+   "text": "So yeah that's what I want."
+  },
+  {
+   "start": 103.64,
+   "end": 109.88,
+   "text": "And I think the cloth, green cloth in my main room like where I can jump around and stuff,"
+  },
+  {
+   "start": 109.88,
+   "end": 113.68,
+   "text": "it's going to work fine with the cloth that I have there because I'm firing up away from front"
+  },
+  {
+   "start": 113.68,
+   "end": 114.68,
+   "text": "up."
+  },
+  {
+   "start": 114.68,
+   "end": 125.12,
+   "text": "So yeah and if not, I guess I'll just have to iron it and then fold it."
+  },
+  {
+   "start": 125.12,
+   "end": 128.96,
+   "text": "And then every time."
+  },
+  {
+   "start": 128.96,
+   "end": 137.24,
+   "text": "So what I've been doing, spending my time on has been my, yeah, still working over."
+  },
+  {
+   "start": 137.24,
+   "end": 147.32,
+   "text": "Classic old books for a main ship, a break and run, put every single book from history on my"
+  },
+  {
+   "start": 147.32,
+   "end": 155.48,
+   "text": "website and then so I can record how many pages it is and how long it takes to get through,"
+  },
+  {
+   "start": 155.48,
+   "end": 157.36,
+   "text": "reading it with fast speed on Mac."
+  },
+  {
+   "start": 157.36,
+   "end": 165.08,
+   "text": "So to make it appear small because you can, because what you see on my website now on the"
+  },
+  {
+   "start": 165.08,
+   "end": 171.08,
+   "text": "education page, that's like the vast majority of what there is."
+  },
+  {
+   "start": 171.08,
+   "end": 173.08,
+   "text": "I'm a great room."
+  },
+  {
+   "start": 173.08,
+   "end": 174.64,
+   "text": "It's pretty much it right there."
+  },
+  {
+   "start": 174.64,
+   "end": 176.64,
+   "text": "That was the first round."
+  },
+  {
+   "start": 176.64,
+   "end": 182.44,
+   "text": "I'm working on Polybius now, which is super time consuming because it's like, I think it's going"
+  },
+  {
+   "start": 182.44,
+   "end": 188.08,
+   "text": "to be the most time consuming one yet because of the way that had to set it up, it's just"
+  },
+  {
+   "start": 188.08,
+   "end": 192.52,
+   "text": "the most books and chapters of anyone that I've done of any of these."
+  },
+  {
+   "start": 192.52,
+   "end": 198.0,
+   "text": "I'm really curious to see how many pages it is because it seems really big too."
+  },
+  {
+   "start": 198.0,
+   "end": 200.48,
+   "text": "But yeah, that's part of the fascination."
+  },
+  {
+   "start": 200.48,
+   "end": 202.52,
+   "text": "That's what keeps me going with the project."
+  },
+  {
+   "start": 202.52,
+   "end": 208.48,
+   "text": "I'm super curious to see how many pages we just books are."
+  },
+  {
+   "start": 208.48,
+   "end": 213.52,
+   "text": "And then obviously after that to find out what they're consistent and I need to make it"
+  },
+  {
+   "start": 213.52,
+   "end": 215.48,
+   "text": "because it's page."
+  },
+  {
+   "start": 215.48,
+   "end": 218.52,
+   "text": "Super huge book appears small."
+  },
+  {
+   "start": 218.52,
+   "end": 225.84,
+   "text": "For example, theater or mobs and mums and 3,200 pages and I was going through it and I got to"
+  },
+  {
+   "start": 225.84,
+   "end": 228.12,
+   "text": "point where I felt like I'd done a traditional book."
+  },
+  {
+   "start": 228.12,
+   "end": 233.84,
+   "text": "Like it's still really multiple times because I was looking at the menus."
+  },
+  {
+   "start": 233.84,
+   "end": 240.84,
+   "text": "So I'm not like memorizing menus but I probably didn't listen to it ever."
+  },
+  {
+   "start": 240.84,
+   "end": 242.36,
+   "text": "Of course I did."
+  },
+  {
+   "start": 242.36,
+   "end": 245.0,
+   "text": "But yeah, that's the idea."
+  },
+  {
+   "start": 245.0,
+   "end": 249.92,
+   "text": "So you feel like you see you understand every book."
+  },
+  {
+   "start": 249.92,
+   "end": 254.36,
+   "text": "So after hopefully I'll finish Polybius on those today or tomorrow."
+  },
+  {
+   "start": 254.36,
+   "end": 259.52,
+   "text": "But yeah, that'll be a major accomplishment and then I'll just keep going and yeah, but I'm still"
+  },
+  {
+   "start": 259.52,
+   "end": 262.96,
+   "text": "motivated to focus on nothing but this."
+  },
+  {
+   "start": 262.96,
+   "end": 266.32,
+   "text": "Like there was a month that I have to."
+  },
+  {
+   "start": 266.32,
+   "end": 268.88,
+   "text": "And I'm listening to yeah, Wikipedia articles."
+  },
+  {
+   "start": 268.88,
+   "end": 272.84,
+   "text": "I'm super jacked about what you do YouTube video at this later."
+  },
+  {
+   "start": 272.84,
+   "end": 275.2,
+   "text": "But this week."
+  },
+  {
+   "start": 275.2,
+   "end": 281.6,
+   "text": "The Wikipedia read aloud program."
+  },
+  {
+   "start": 281.6,
+   "end": 285.44,
+   "text": "You can read my phone, can read Wikipedia to me all day long."
+  },
+  {
+   "start": 285.44,
+   "end": 292.24,
+   "text": "And I create these, I play, I say, can make these folders and then."
+  },
+  {
+   "start": 292.24,
+   "end": 297.56,
+   "text": "Because I, you know, when I'm laying in bed, I've been sounding like, create all of different"
+  },
+  {
+   "start": 297.56,
+   "end": 308.2,
+   "text": "playlists of them and then, and then, when I'm around, I just, like, well, so cool, oh my God."
+  },
+  {
+   "start": 308.2,
+   "end": 309.2,
+   "text": "Oh my god."
+  },
+  {
+   "start": 309.2,
+   "end": 311.76,
+   "text": "That's going to be the best invention I think."
+  },
+  {
+   "start": 311.76,
+   "end": 315.58,
+   "text": "I feel like whenever I came out, I need to, I hope I got."
+  },
+  {
+   "start": 315.58,
+   "end": 317.28,
+   "text": "I thought, I got about that."
+  },
+  {
+   "start": 317.28,
+   "end": 324.72,
+   "text": "soon. Soon rather than later. Anyway, so I'm gonna go back to Paloia. So I just took some time off."
+  },
+  {
+   "start": 324.72,
+   "end": 329.68,
+   "text": "Did you have my video because I took two days off? Hopefully maybe I don't know if I'll do it today."
+  },
+  {
+   "start": 329.68,
+   "end": 335.2,
+   "text": "I did my video next. I don't know if I'll do it today. Maybe I'll take those photos."
+  },
+  {
+   "start": 335.2,
+   "end": 344.0,
+   "text": "The things off the wall, that data, the wall, and then attach the green paper to the wall."
+  },
+  {
+   "start": 344.96,
+   "end": 350.48,
+   "text": "And then I can start out looking forward to how good the quality will be too. So yeah, definitely that tomorrow."
+  },
+  {
+   "start": 350.48,
+   "end": 357.52,
+   "text": "Okay, peace. Oh, this was a long one almost six minutes. Well, I took two days off first."
+  }
+ ]
+}

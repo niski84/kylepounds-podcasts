@@ -1,0 +1,4213 @@
+{
+ "youtube_id": "TrnUDouUjgw",
+ "title": "Living in Boulder Vlog 6 - 8 - 2015",
+ "url": "https://youtu.be/TrnUDouUjgw",
+ "published_at": "2015-06-09",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder on a Monday, discussing his elaborate website project that maps historical kingdoms (Rome, Babylonia) onto local geography, then pivots to his plan to pair his own life with Julius Caesar's military career and Augustus Caesar's political career. He also covers marijuana/cannabis products at length, proposes a future sport involving full-body sensor armor for realistic simulated combat, and briefly discusses his retirement vision.",
+  "speaker": "kyle",
+  "topics": [
+   "living in boulder",
+   "website development",
+   "historical geography mapping",
+   "julius caesar",
+   "augustus caesar",
+   "ancient sparta",
+   "cannabis/marijuana",
+   "endurance athletics",
+   "cycling",
+   "fantasy world building",
+   "future combat sport concept",
+   "roman history",
+   "ancient olympics",
+   "retirement fantasy"
+  ],
+  "stances": [
+   {
+    "topic": "cannabis concentrates (shatter/oil)",
+    "position": "Makes you mentally slow and impairs creative work; prefers smoking flower from a vaporizer for a better high and mental clarity"
+   },
+   {
+    "topic": "pairing modern life with historical figures",
+    "position": "Believes it deepens understanding of history and makes the past feel personally relevant, like a best friend from another time"
+   },
+   {
+    "topic": "ancient Jerusalem sacrifices/reenactments",
+    "position": "Should be viewed as cool tourism and historical celebration, not feared as dangerous religious regression"
+   },
+   {
+    "topic": "future of nightclubs and social spaces",
+    "position": "Should be immersed in nature outdoors with natural elements like smells, breezes, and rain rather than indoor venues"
+   },
+   {
+    "topic": "cycling as military training analog",
+    "position": "Views endurance cycling and skiing as modern equivalents of ancient scout warrior training"
+   },
+   {
+    "topic": "combat sport concept",
+    "position": "Wants to invent a full-contact sensor-suit sport that realistically simulates battlefield combat for everyone regardless of size"
+   }
+  ],
+  "entities": [
+   "Julius Caesar",
+   "Augustus Caesar",
+   "Spartans",
+   "Herodotus",
+   "Pheidippides",
+   "Eddy Merckx",
+   "Marco Pantani",
+   "Lance Armstrong",
+   "Vince McMahon",
+   "Haystack Mountain",
+   "Boulder Colorado",
+   "Lake Geneva",
+   "Helvetii (Swiss tribe)",
+   "Gaul",
+   "Rome",
+   "Babylonia",
+   "Delphi",
+   "Tour de France",
+   "Tour de Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 3.25,
+   "end": 10.07,
+   "text": "It was so up dude. I think I'll do a V-log living in Boulder V-log for the day of today"
+  },
+  {
+   "start": 12.67,
+   "end": 13.67,
+   "text": "I"
+  },
+  {
+   "start": 13.67,
+   "end": 15.67,
+   "text": "realized this thing is a plugged in"
+  },
+  {
+   "start": 16.21,
+   "end": 18.21,
+   "text": "Wanna keep my video on my plug-in"
+  },
+  {
+   "start": 19.21,
+   "end": 29.03,
+   "text": "Which is Monday the 8th of June and I think it's been like a week since I did one, but yeah, dude"
+  },
+  {
+   "start": 29.03,
+   "end": 31.03,
+   "text": "There's been some serious"
+  },
+  {
+   "start": 31.03,
+   "end": 36.07,
+   "text": "Development so my website since I'm and I wanted to talk about it"
+  },
+  {
+   "start": 37.63,
+   "end": 40.63,
+   "text": "Today I got some oh"
+  },
+  {
+   "start": 44.77,
+   "end": 46.77,
+   "text": "I got some pineapple Express"
+  },
+  {
+   "start": 47.89,
+   "end": 56.45,
+   "text": "I got a my roommate got 10 bucks talking to him. I got a pineapple Express and then a grandma shader"
+  },
+  {
+   "start": 57.65,
+   "end": 59.65,
+   "text": "My shader pipe"
+  },
+  {
+   "start": 59.65,
+   "end": 64.41,
+   "text": "From the 60 bucks and this dude lives at his dad and my guy work with introduced me"
+  },
+  {
+   "start": 65.45,
+   "end": 68.77,
+   "text": "So that's pretty cool man who grows it so that's extra cheap"
+  },
+  {
+   "start": 70.57,
+   "end": 74.29,
+   "text": "Nice, maybe oh, maybe I should start smoking out of the freaking"
+  },
+  {
+   "start": 75.33,
+   "end": 79.09,
+   "text": "Vaporizer then I'm just really nice Vaporizer. That's the best way to smoke weed"
+  },
+  {
+   "start": 81.37,
+   "end": 83.37,
+   "text": "Anyways, um"
+  },
+  {
+   "start": 84.01,
+   "end": 88.25,
+   "text": "The development some my website"
+  },
+  {
+   "start": 88.77,
+   "end": 94.57,
+   "text": "Yeah, man, I've been on fire with my website"
+  },
+  {
+   "start": 96.01,
+   "end": 98.85,
+   "text": "Just doing new things man. I like I came keep up myself"
+  },
+  {
+   "start": 98.85,
+   "end": 104.63,
+   "text": "I get all started on something and I have to like as soon as I get it to the point where I can pick it up"
+  },
+  {
+   "start": 104.63,
+   "end": 107.63,
+   "text": "I'm like okay next one so yeah, let me show you"
+  },
+  {
+   "start": 108.43,
+   "end": 113.85,
+   "text": "So I had some ideas, but let me catch you up on what I was talking about before"
+  },
+  {
+   "start": 114.69,
+   "end": 116.69,
+   "text": "Cuz it's tied together"
+  },
+  {
+   "start": 116.81,
+   "end": 129.32,
+   "text": "Before I was talking about sanctimonium to my area before on the other videos"
+  },
+  {
+   "start": 129.32,
+   "end": 132.96,
+   "text": "I was talking about sanctimonium and fantasy landia"
+  },
+  {
+   "start": 134.4,
+   "end": 139.48,
+   "text": "What you do is you pair um you pair history with"
+  },
+  {
+   "start": 141.92,
+   "end": 143.92,
+   "text": "History with"
+  },
+  {
+   "start": 143.92,
+   "end": 147.92,
+   "text": "Historical areas with"
+  },
+  {
+   "start": 148.8,
+   "end": 150.8,
+   "text": "Current areas spaces"
+  },
+  {
+   "start": 151.12,
+   "end": 153.62,
+   "text": "So people can get an idea of how big it is"
+  },
+  {
+   "start": 155.68,
+   "end": 161.22,
+   "text": "For example, like when Rome was really big it was how to I'd had a lot of good diameter of like 20 kilometers thick the city"
+  },
+  {
+   "start": 161.84,
+   "end": 164.16,
+   "text": "Like it when it was it's you know capital and"
+  },
+  {
+   "start": 166.76,
+   "end": 171.76,
+   "text": "And a Imperial capital, but you know for the first couple hundred years when it was a kingdom"
+  },
+  {
+   "start": 172.36,
+   "end": 174.84,
+   "text": "That was how big the old kingdom was and"
+  },
+  {
+   "start": 174.84,
+   "end": 179.24,
+   "text": "And"
+  },
+  {
+   "start": 179.24,
+   "end": 185.84,
+   "text": "There's different you know back in the early days long time ago that have the different you know kingdoms"
+  },
+  {
+   "start": 186.4,
+   "end": 190.0,
+   "text": "Taking over each other and they're all about"
+  },
+  {
+   "start": 191.12,
+   "end": 195.8,
+   "text": "You know kind of like the same size kind of like 50 miles 50 kilometers across or something like that"
+  },
+  {
+   "start": 198.64,
+   "end": 203.54,
+   "text": "Babelonia, you know the kingdom of Babelonia the area of Babelonia was about that"
+  },
+  {
+   "start": 204.34,
+   "end": 206.34,
+   "text": "You know all these areas are not all that big"
+  },
+  {
+   "start": 207.54,
+   "end": 209.54,
+   "text": "So I"
+  },
+  {
+   "start": 209.54,
+   "end": 214.26,
+   "text": "Wanted to create like a world that's the same size as"
+  },
+  {
+   "start": 214.66,
+   "end": 217.3,
+   "text": "Rome and all of"
+  },
+  {
+   "start": 218.02,
+   "end": 220.02,
+   "text": "It's different developmental stages"
+  },
+  {
+   "start": 222.02,
+   "end": 227.14,
+   "text": "Because there's lots of geographical features around here that are exactly the same size a lot of lakes that are a"
+  },
+  {
+   "start": 227.78,
+   "end": 231.34,
+   "text": "Squar kilometer which here about the size of your inch in walled city and"
+  },
+  {
+   "start": 231.74,
+   "end": 238.5,
+   "text": "And even a lot of bike trails that go around the loops that are that big a one of them"
+  },
+  {
+   "start": 238.62,
+   "end": 245.7,
+   "text": "But there so and then there's haystack which is the size of a pyramid and that's the area around that's like a square kilometer and"
+  },
+  {
+   "start": 246.7,
+   "end": 255.06,
+   "text": "And then calibrate or put all of these different like bike time trials and running a long haystack"
+  },
+  {
+   "start": 256.02,
+   "end": 262.62,
+   "text": "So that you get an idea of how long it is and how long it takes to get a travel element to distance over what it"
+  },
+  {
+   "start": 263.26,
+   "end": 266.06,
+   "text": "The area and also the longer"
+  },
+  {
+   "start": 266.58,
+   "end": 269.54,
+   "text": "Incorporate biking with all of it though like all the different"
+  },
+  {
+   "start": 270.02,
+   "end": 274.26,
+   "text": "Distances because 20 kilometers takes you right around taste doc"
+  },
+  {
+   "start": 274.5,
+   "end": 276.98,
+   "text": "So that would be like going around you know your city"
+  },
+  {
+   "start": 278.18,
+   "end": 284.82,
+   "text": "Back in the days back like when somebody would kind of if you would go to the king and he would give you like"
+  },
+  {
+   "start": 285.06,
+   "end": 287.46,
+   "text": "Around you know kingdom within his kingdom, you know"
+  },
+  {
+   "start": 289.46,
+   "end": 292.42,
+   "text": "Or somebody where to try to establish your kingdom"
+  },
+  {
+   "start": 293.34,
+   "end": 302.54,
+   "text": "A lot of the times the general rule of thumb would be whatever you could ride your horse around in a day and that's about something that's like 20 kilometers across so that's kind of like"
+  },
+  {
+   "start": 304.78,
+   "end": 310.5,
+   "text": "If the center was haystack mountain the edges would be like bolder and a little bit in bolder and"
+  },
+  {
+   "start": 311.78,
+   "end": 313.78,
+   "text": "long ones"
+  },
+  {
+   "start": 315.06,
+   "end": 319.02,
+   "text": "To go the I think the circumference of that would be"
+  },
+  {
+   "start": 319.58,
+   "end": 326.38,
+   "text": "33 kilometers which is I think it takes like four hours if you're doing a truck which is 8.1 miles an hour and then"
+  },
+  {
+   "start": 327.3,
+   "end": 329.06,
+   "text": "13 hours if you're doing a"
+  },
+  {
+   "start": 329.06,
+   "end": 331.06,
+   "text": "Walk which is 4 miles an hour and the horse"
+  },
+  {
+   "start": 332.22,
+   "end": 339.08,
+   "text": "So that sounds about right so and"
+  },
+  {
+   "start": 339.76,
+   "end": 341.76,
+   "text": "Then create like histories"
+  },
+  {
+   "start": 343.36,
+   "end": 346.0,
+   "text": "You know because when Rome fought the"
+  },
+  {
+   "start": 347.52,
+   "end": 349.52,
+   "text": "The"
+  },
+  {
+   "start": 351.08,
+   "end": 354.48,
+   "text": "Sabines it was like a you know like a kingdom next door"
+  },
+  {
+   "start": 355.08,
+   "end": 356.52,
+   "text": "They're"
+  },
+  {
+   "start": 356.52,
+   "end": 363.2,
+   "text": "They're battle you know like kind of like the frontier you know was like five miles six miles from the center of Rome"
+  },
+  {
+   "start": 363.2,
+   "end": 365.2,
+   "text": "Who's like 20 kilometers across"
+  },
+  {
+   "start": 366.52,
+   "end": 369.52,
+   "text": "Which is actually the same exact size as a current ring row of room"
+  },
+  {
+   "start": 370.4,
+   "end": 374.24,
+   "text": "So I ride the edge right at the ring row. It's where their battle was but"
+  },
+  {
+   "start": 376.72,
+   "end": 381.48,
+   "text": "You know, so that's like so you could kind of make like a fantasy battle, you know, like six miles away and"
+  },
+  {
+   "start": 381.88,
+   "end": 387.44,
+   "text": "Just calibrate all of it throughout the entire you know even when they go into the Republic and they take over all of Italy"
+  },
+  {
+   "start": 387.88,
+   "end": 389.24,
+   "text": "That's"
+  },
+  {
+   "start": 389.24,
+   "end": 394.68,
+   "text": "Because here if you take the size of the front reins cultivatable area"
+  },
+  {
+   "start": 394.68,
+   "end": 399.52,
+   "text": "That's about the size of kind of Italy, you know and then up there and Walden"
+  },
+  {
+   "start": 400.12,
+   "end": 406.04,
+   "text": "They have sand dunes there and that's that's kind of like it's own little geographical area and that's about the exact same size of the ice"
+  },
+  {
+   "start": 406.84,
+   "end": 409.32,
+   "text": "Trid which are build against the Romans"
+  },
+  {
+   "start": 410.36,
+   "end": 416.12,
+   "text": "So okay, so I we just got caught up. How long is I talking six minutes of getting ketchup ketchup okay?"
+  },
+  {
+   "start": 416.68,
+   "end": 418.68,
+   "text": "So"
+  },
+  {
+   "start": 419.08,
+   "end": 421.08,
+   "text": "So anyways since then I"
+  },
+  {
+   "start": 422.24,
+   "end": 424.24,
+   "text": "came up with the idea"
+  },
+  {
+   "start": 425.48,
+   "end": 429.34,
+   "text": "to"
+  },
+  {
+   "start": 429.34,
+   "end": 432.22,
+   "text": "Oh, and I also said yeah, I was in your you know trips"
+  },
+  {
+   "start": 433.18,
+   "end": 436.38,
+   "text": "Trace trips big trips you know because the"
+  },
+  {
+   "start": 437.02,
+   "end": 440.74,
+   "text": "The Empire of Rome was like the size of America the same size and so"
+  },
+  {
+   "start": 441.26,
+   "end": 447.02,
+   "text": "To go across the Empire would be like riding a bike across America. Okay, so since then I came up with the idea of"
+  },
+  {
+   "start": 448.3,
+   "end": 452.16,
+   "text": "Take into the next level and"
+  },
+  {
+   "start": 453.6,
+   "end": 457.16,
+   "text": "That was to pair my life"
+  },
+  {
+   "start": 458.12,
+   "end": 461.36,
+   "text": "With the historical figure, you know not just parier"
+  },
+  {
+   "start": 461.92,
+   "end": 464.72,
+   "text": "You're where you live with the historical"
+  },
+  {
+   "start": 467.16,
+   "end": 471.74,
+   "text": "Place but to parier life with historical figures. I decided to par my life with Julius Caesar"
+  },
+  {
+   "start": 474.36,
+   "end": 476.68,
+   "text": "You can seize the ultimate Roma and"
+  },
+  {
+   "start": 478.16,
+   "end": 480.16,
+   "text": "Because he"
+  },
+  {
+   "start": 481.52,
+   "end": 486.0,
+   "text": "He when he started his big Gallet campaigns which were the thing that made him"
+  },
+  {
+   "start": 486.72,
+   "end": 488.72,
+   "text": "Who he was"
+  },
+  {
+   "start": 489.36,
+   "end": 491.36,
+   "text": "He was"
+  },
+  {
+   "start": 492.08,
+   "end": 494.88,
+   "text": "When he had his first battle with the hell Vescii"
+  },
+  {
+   "start": 495.84,
+   "end": 500.92,
+   "text": "The Swiss tribe and they have an interesting story let me tell their story really quickly"
+  },
+  {
+   "start": 501.36,
+   "end": 503.76,
+   "text": "200,000 Swiss people who had"
+  },
+  {
+   "start": 504.24,
+   "end": 508.36,
+   "text": "Nice ass I told the story to my mom like two days ago and she's like"
+  },
+  {
+   "start": 509.96,
+   "end": 511.96,
+   "text": "Fucking it"
+  },
+  {
+   "start": 513.24,
+   "end": 515.24,
+   "text": "Oh, I can"
+  },
+  {
+   "start": 515.48,
+   "end": 516.52,
+   "text": "Anyway"
+  },
+  {
+   "start": 516.52,
+   "end": 524.44,
+   "text": "So they live like right on the bank of like Lake Geneva or something right but they decided that they wanted to move into"
+  },
+  {
+   "start": 524.96,
+   "end": 526.96,
+   "text": "France because it was nicer"
+  },
+  {
+   "start": 528.16,
+   "end": 532.0,
+   "text": "Or maybe they were getting kind of like harassed by other Germans"
+  },
+  {
+   "start": 532.8,
+   "end": 534.8,
+   "text": "This is a quandie but anyway"
+  },
+  {
+   "start": 535.28,
+   "end": 542.32,
+   "text": "So they they burnt down all of their houses to give an extra motivation to go to France and then they got to the river but the"
+  },
+  {
+   "start": 542.8,
+   "end": 544.8,
+   "text": "Romans had"
+  },
+  {
+   "start": 544.8,
+   "end": 547.2,
+   "text": "Destroyed all the bridges across the wrong by that and"
+  },
+  {
+   "start": 548.52,
+   "end": 553.8,
+   "text": "They were like and so they had to fight and so the Romans killed them all of them I think and"
+  },
+  {
+   "start": 555.52,
+   "end": 560.08,
+   "text": "genocide killed everybody they'll try but"
+  },
+  {
+   "start": 561.72,
+   "end": 563.96,
+   "text": "So anyways, so the first battle with them"
+  },
+  {
+   "start": 565.88,
+   "end": 570.0,
+   "text": "That was his first battle and he was 41 years and 11 months old"
+  },
+  {
+   "start": 571.64,
+   "end": 573.64,
+   "text": "So"
+  },
+  {
+   "start": 573.64,
+   "end": 579.48,
+   "text": "If I start my my campaign my military campaign because in the last video"
+  },
+  {
+   "start": 579.48,
+   "end": 583.56,
+   "text": "I was talking about how also people should pair"
+  },
+  {
+   "start": 584.12,
+   "end": 587.64,
+   "text": "We can pair our lives in the current day to try to"
+  },
+  {
+   "start": 588.56,
+   "end": 591.88,
+   "text": "mimic the past to help understand the past better"
+  },
+  {
+   "start": 593.44,
+   "end": 601.28,
+   "text": "Kind of like how and Jerusalem people are doing ancient sacrifices and stuff and instead of getting scared about them"
+  },
+  {
+   "start": 601.28,
+   "end": 605.6,
+   "text": "Oh no, they're becoming superstitious again. What's becoming decline?"
+  },
+  {
+   "start": 606.4,
+   "end": 611.46,
+   "text": "Just look at it like a cool tourism thing. You know just just celebrating the past and reenacting"
+  },
+  {
+   "start": 611.46,
+   "end": 614.88,
+   "text": "You know, it's the same thing as history reenel battlefield reenacting itself"
+  },
+  {
+   "start": 615.28,
+   "end": 619.76,
+   "text": "Doesn't have to brainwash people into thinking that you have to you know sacrifice to go in order to have good luck"
+  },
+  {
+   "start": 619.76,
+   "end": 621.76,
+   "text": "We're beyond that"
+  },
+  {
+   "start": 621.76,
+   "end": 623.76,
+   "text": "so"
+  },
+  {
+   "start": 624.24,
+   "end": 627.6,
+   "text": "Yeah, so you could take it even a step far there"
+  },
+  {
+   "start": 627.6,
+   "end": 629.6,
+   "text": "and"
+  },
+  {
+   "start": 629.6,
+   "end": 631.68,
+   "text": "Oh shit I'm starting to lose my turn"
+  },
+  {
+   "start": 631.68,
+   "end": 633.68,
+   "text": "thought and"
+  },
+  {
+   "start": 634.84,
+   "end": 638.04,
+   "text": "Okay, this is my turn. I thought all right. Let me segue really quick"
+  },
+  {
+   "start": 638.76,
+   "end": 643.2,
+   "text": "That fucking chatter shit did makes you retarded man like"
+  },
+  {
+   "start": 644.16,
+   "end": 646.8,
+   "text": "Did like if you smoke I'm not gonna do chatter"
+  },
+  {
+   "start": 646.8,
+   "end": 651.88,
+   "text": "I think I'm only gonna do I mean I'll only just shout it cuz I you know about it once and"
+  },
+  {
+   "start": 652.76,
+   "end": 657.32,
+   "text": "But I'm still smoking the stuff that I bought once to like 90 bucks or something like over a week"
+  },
+  {
+   "start": 657.32,
+   "end": 662.48,
+   "text": "You go and shit I think it as far as and I was a super heavyweight when I started the shatter"
+  },
+  {
+   "start": 662.84,
+   "end": 664.84,
+   "text": "so as far as how"
+  },
+  {
+   "start": 666.48,
+   "end": 670.6,
+   "text": "You know effective it is I think it's super effective I mean"
+  },
+  {
+   "start": 671.24,
+   "end": 675.4,
+   "text": "As far as bang for your buck, you know, it like money goes along with the shatter"
+  },
+  {
+   "start": 675.96,
+   "end": 681.2,
+   "text": "But it makes you retarded like I remember and I did the video before I talked about it when I first started smoking the oil"
+  },
+  {
+   "start": 681.2,
+   "end": 683.48,
+   "text": "It's pretty much the same thing as shatter the same shit"
+  },
+  {
+   "start": 684.2,
+   "end": 687.08,
+   "text": "It's just different the way that you smoke it, but"
+  },
+  {
+   "start": 688.56,
+   "end": 692.84,
+   "text": "Yeah, the oil man when I started smoking that I noticed it made me kind of retard it like"
+  },
+  {
+   "start": 693.84,
+   "end": 700.2,
+   "text": "And then I noticed it had because it kind of doesn't get you high like it has like less THC or something"
+  },
+  {
+   "start": 700.2,
+   "end": 702.2,
+   "text": "So like you have to smoke more of it"
+  },
+  {
+   "start": 703.04,
+   "end": 710.12,
+   "text": "Literally you have to smoke like you have to take like 300 hits at that shit"
+  },
+  {
+   "start": 710.96,
+   "end": 714.2,
+   "text": "You have to smoke it solidly constantly for like an hour"
+  },
+  {
+   "start": 715.84,
+   "end": 721.28,
+   "text": "Before you get high but then by the time you're high you're just like fucking"
+  },
+  {
+   "start": 722.88,
+   "end": 724.88,
+   "text": "I mean"
+  },
+  {
+   "start": 724.88,
+   "end": 726.88,
+   "text": "Yeah, like my"
+  },
+  {
+   "start": 726.88,
+   "end": 729.88,
+   "text": "Ability to to work on my website kind of"
+  },
+  {
+   "start": 730.72,
+   "end": 735.36,
+   "text": "Knocked me back to the days, you know when I was more of a lightweight and I'd get really high and then try to work on my website"
+  },
+  {
+   "start": 735.36,
+   "end": 740.4,
+   "text": "And I'd be like hey who you know like I couldn't remember what I was doing and"
+  },
+  {
+   "start": 740.4,
+   "end": 742.4,
+   "text": "I"
+  },
+  {
+   "start": 743.08,
+   "end": 746.24,
+   "text": "Think smoking just flower has what they call it"
+  },
+  {
+   "start": 748.64,
+   "end": 752.24,
+   "text": "The buds herodic is calls it the seeds"
+  },
+  {
+   "start": 753.2,
+   "end": 757.8,
+   "text": "But by smoking the buds the weed the natural I think it's the best"
+  },
+  {
+   "start": 757.8,
+   "end": 762.24,
+   "text": "You you get the high the quickest you most the bag in the front of the block"
+  },
+  {
+   "start": 762.84,
+   "end": 765.24,
+   "text": "I'm gonna try this way some time. I'm gonna be more bangin with it"
+  },
+  {
+   "start": 765.24,
+   "end": 767.24,
+   "text": "and"
+  },
+  {
+   "start": 767.52,
+   "end": 772.84,
+   "text": "The highs better and you're in your smarter your smarter, but but yeah, I'm gonna smoke that out of the vaporizer"
+  },
+  {
+   "start": 772.84,
+   "end": 774.84,
+   "text": "Maybe I think you mean more I but um"
+  },
+  {
+   "start": 776.2,
+   "end": 778.2,
+   "text": "But I"
+  },
+  {
+   "start": 778.2,
+   "end": 780.2,
+   "text": "I did have a big ass"
+  },
+  {
+   "start": 782.6,
+   "end": 784.6,
+   "text": "Creative leap"
+  },
+  {
+   "start": 784.6,
+   "end": 788.88,
+   "text": "You know, so maybe I was I thought I was retarded, but I wasn't retarded"
+  },
+  {
+   "start": 789.4,
+   "end": 791.4,
+   "text": "Maybe I was just the next level of high"
+  },
+  {
+   "start": 792.2,
+   "end": 794.2,
+   "text": "You know what I mean"
+  },
+  {
+   "start": 794.36,
+   "end": 799.24,
+   "text": "Like I was high to my high like that's what's jaddle do because you"
+  },
+  {
+   "start": 801.0,
+   "end": 809.08,
+   "text": "Can keep smoking it because like the smoke is really pure and even and especially if you just smoke the shatter because what happens is you smoke the shatter"
+  },
+  {
+   "start": 810.12,
+   "end": 816.12,
+   "text": "Which is this like nice golden nugget and then it bubbles down and then you can but then you can scoop"
+  },
+  {
+   "start": 817.24,
+   "end": 819.24,
+   "text": "The goober I"
+  },
+  {
+   "start": 819.96,
+   "end": 821.96,
+   "text": "Oh"
+  },
+  {
+   "start": 822.44,
+   "end": 824.44,
+   "text": "Then you can scoop the"
+  },
+  {
+   "start": 826.08,
+   "end": 829.24,
+   "text": "Okay, this stuff off the edges see those little dots and"
+  },
+  {
+   "start": 830.2,
+   "end": 835.4,
+   "text": "Then you put it in there on the top, but it's but it's darker. It's like it's like dark brown now"
+  },
+  {
+   "start": 835.4,
+   "end": 841.2,
+   "text": "You know, it's like dirtier and when it burns it hurts your lungs more, but it's still waste way way cleaner than we you know"
+  },
+  {
+   "start": 841.68,
+   "end": 848.64,
+   "text": "So if you were to just smoke shatter and then be snoddy it's not be about them just throw that in the thing to clean it and then just only smoke fresh"
+  },
+  {
+   "start": 849.8,
+   "end": 856.04,
+   "text": "Yeah, it's really not that bad for your lungs smoke all the time all day long like for an hour straight and your lungs can take it and you keep going"
+  },
+  {
+   "start": 856.04,
+   "end": 859.24,
+   "text": "If you smoke and fire like that you're lungs can sort and then you have to stop or"
+  },
+  {
+   "start": 859.72,
+   "end": 862.04,
+   "text": "Me I get asthma. I'm gonna do getting asthma so"
+  },
+  {
+   "start": 863.4,
+   "end": 868.28,
+   "text": "Yeah, anyway, um here. Let's go back to what I was talking about before I was talking about"
+  },
+  {
+   "start": 870.92,
+   "end": 873.56,
+   "text": "The the comparing history and"
+  },
+  {
+   "start": 874.52,
+   "end": 878.52,
+   "text": "You pair the kingdoms together like the whole history"
+  },
+  {
+   "start": 878.92,
+   "end": 883.64,
+   "text": "And how big the kingdom is of your fantasy kingdom here and all the things are going along"
+  },
+  {
+   "start": 884.44,
+   "end": 886.92,
+   "text": "But then I decided to take it to the next level"
+  },
+  {
+   "start": 887.56,
+   "end": 889.56,
+   "text": "which was to"
+  },
+  {
+   "start": 889.8,
+   "end": 892.44,
+   "text": "pair my life with somebody else"
+  },
+  {
+   "start": 893.96,
+   "end": 897.72,
+   "text": "And I decided Julie Caesar because when he thought his first battle"
+  },
+  {
+   "start": 898.2,
+   "end": 900.52,
+   "text": "He was 41 years nine months old"
+  },
+  {
+   "start": 900.52,
+   "end": 902.52,
+   "text": "No, no 41 years 11 months old"
+  },
+  {
+   "start": 902.84,
+   "end": 906.04,
+   "text": "because the battle was in June and he was born in July and"
+  },
+  {
+   "start": 906.44,
+   "end": 908.44,
+   "text": "and"
+  },
+  {
+   "start": 911.4,
+   "end": 919.16,
+   "text": "So if I start my military campaign. Oh, yeah, because I said that another thing that we should pair history with is is is"
+  },
+  {
+   "start": 920.04,
+   "end": 922.04,
+   "text": "is also the lifestyles and"
+  },
+  {
+   "start": 923.88,
+   "end": 930.84,
+   "text": "In ancient sparta you are a soldier and you know sparta is the number one place that you would look for if you're gonna talk about soldiers"
+  },
+  {
+   "start": 931.72,
+   "end": 933.32,
+   "text": "was"
+  },
+  {
+   "start": 933.32,
+   "end": 935.32,
+   "text": "ancient sparta was"
+  },
+  {
+   "start": 936.44,
+   "end": 938.04,
+   "text": "You join the army at"
+  },
+  {
+   "start": 938.44,
+   "end": 940.44,
+   "text": "18 and"
+  },
+  {
+   "start": 940.44,
+   "end": 945.56,
+   "text": "And the girls would actually train militarily alongside the boys up until they were 20 I think"
+  },
+  {
+   "start": 947.72,
+   "end": 949.72,
+   "text": "And then"
+  },
+  {
+   "start": 949.72,
+   "end": 954.68,
+   "text": "I guess they would do their own train by themselves I thought but um oh and they all train naked all together"
+  },
+  {
+   "start": 955.88,
+   "end": 961.96,
+   "text": "But um and one of their trainings they didn't really have a lot of detail but their training had to do with"
+  },
+  {
+   "start": 963.32,
+   "end": 965.32,
+   "text": "a lot of like tumbling"
+  },
+  {
+   "start": 966.52,
+   "end": 970.36,
+   "text": "Like if you were you know the best tumbler was the best warrior if you're a warrior you knew how to tumble"
+  },
+  {
+   "start": 970.76,
+   "end": 972.76,
+   "text": "You know like how gymnastics gymnast"
+  },
+  {
+   "start": 973.4,
+   "end": 975.4,
+   "text": "And then makes sense because"
+  },
+  {
+   "start": 975.72,
+   "end": 981.64,
+   "text": "I mean think about you know in the movies like with sparta cuz some stuff you know how like they hit him and they're flipping around and all that's kind of stuff"
+  },
+  {
+   "start": 981.96,
+   "end": 986.76,
+   "text": "Well imagine a battle with Spartans with with a bunch of people who know how to tumble"
+  },
+  {
+   "start": 987.64,
+   "end": 992.36,
+   "text": "You know they're probably tumbling in the battlefield like watch this more the fucker do do do do do do"
+  },
+  {
+   "start": 992.44,
+   "end": 995.16,
+   "text": "Remember they come at you like an African cartoon or something"
+  },
+  {
+   "start": 995.88,
+   "end": 1000.04,
+   "text": "But it doesn't make sense because you know tumble like how much how many pounds per"
+  },
+  {
+   "start": 1000.6,
+   "end": 1003.88,
+   "text": "Square inches that on your hands when you flip it around and that's some spurners"
+  },
+  {
+   "start": 1004.52,
+   "end": 1008.12,
+   "text": "That's a good way to make your your super strong and athletic that way and"
+  },
+  {
+   "start": 1009.4,
+   "end": 1011.08,
+   "text": "Anyway"
+  },
+  {
+   "start": 1011.08,
+   "end": 1011.8,
+   "text": "But"
+  },
+  {
+   "start": 1011.8,
+   "end": 1016.68,
+   "text": "That's only really but you know you know that they trained all of them all sorts of martial art skills, but um"
+  },
+  {
+   "start": 1017.48,
+   "end": 1020.2,
+   "text": "They're in the army from 18 until 16"
+  },
+  {
+   "start": 1021.16,
+   "end": 1024.04,
+   "text": "Okay, so they had dudes in the battlefield at 60"
+  },
+  {
+   "start": 1025.48,
+   "end": 1029.24,
+   "text": "And they had different jobs for the different soldiers, but um"
+  },
+  {
+   "start": 1030.52,
+   "end": 1032.52,
+   "text": "So I decided to prepare to"
+  },
+  {
+   "start": 1033.72,
+   "end": 1035.72,
+   "text": "Pre kind of pair"
+  },
+  {
+   "start": 1036.12,
+   "end": 1041.64,
+   "text": "modern day with past day so I have the cycling and those I would call them the scout warriors"
+  },
+  {
+   "start": 1042.92,
+   "end": 1048.2,
+   "text": "Because in the in the past you had scouts all the time running you had distance runners you had short distance"
+  },
+  {
+   "start": 1049.0,
+   "end": 1052.2,
+   "text": "Professional runners of all distances, you know to relay"
+  },
+  {
+   "start": 1053.72,
+   "end": 1059.88,
+   "text": "Come and messages within the camp, you know within the city within everything and then from city to city and long distance"
+  },
+  {
+   "start": 1060.52,
+   "end": 1062.52,
+   "text": "Fidipidies who invented the"
+  },
+  {
+   "start": 1065.16,
+   "end": 1067.56,
+   "text": "The marathon did the first marathon"
+  },
+  {
+   "start": 1068.28,
+   "end": 1071.96,
+   "text": "He ran 75 miles next day ran 75 miles and then"
+  },
+  {
+   "start": 1072.44,
+   "end": 1077.64,
+   "text": "The next day or he ran 150 miles in two days. I don't know exactly, but I guess 75"
+  },
+  {
+   "start": 1078.84,
+   "end": 1083.8,
+   "text": "They know the course I didn't look at it, but then he ran the marathon and I guess he died nothing in the bit but um"
+  },
+  {
+   "start": 1085.08,
+   "end": 1087.96,
+   "text": "And I think did they see what's how long it took him? That'd be cool, but I"
+  },
+  {
+   "start": 1089.48,
+   "end": 1092.12,
+   "text": "Guess they went but yeah, so"
+  },
+  {
+   "start": 1093.08,
+   "end": 1098.12,
+   "text": "So you know you could make a list like all-time greatest and like the dipidies then you could try to do it the dipidies did but"
+  },
+  {
+   "start": 1099.24,
+   "end": 1101.24,
+   "text": "um"
+  },
+  {
+   "start": 1101.56,
+   "end": 1106.84,
+   "text": "And they do you know there are historical references to how endurance stuff that people did"
+  },
+  {
+   "start": 1108.92,
+   "end": 1115.8,
+   "text": "There was one story of just like in the 1817 I'm just something something like possessed girl like ran a seven-minute mile with like a"
+  },
+  {
+   "start": 1116.84,
+   "end": 1122.36,
+   "text": "Something wrong with her leg or something but um then there's another story that there's this woman oh a mod"
+  },
+  {
+   "start": 1122.76,
+   "end": 1124.76,
+   "text": "a modgy who is the"
+  },
+  {
+   "start": 1125.08,
+   "end": 1127.08,
+   "text": "Queen of"
+  },
+  {
+   "start": 1127.08,
+   "end": 1129.08,
+   "text": "Sarmashans or something"
+  },
+  {
+   "start": 1129.8,
+   "end": 1133.24,
+   "text": "Kind of up there the skidians who are badass is kind of the edge of"
+  },
+  {
+   "start": 1134.2,
+   "end": 1136.2,
+   "text": "Plains and"
+  },
+  {
+   "start": 1136.44,
+   "end": 1139.24,
+   "text": "Her husband was lazy so she took over the government and"
+  },
+  {
+   "start": 1140.44,
+   "end": 1148.68,
+   "text": "And she made a tree with some of her neighboring a neighboring tribe and and then and that so a neighboring king was her asking them and"
+  },
+  {
+   "start": 1149.56,
+   "end": 1152.52,
+   "text": "I guess he told he she said told him to stop and"
+  },
+  {
+   "start": 1155.58,
+   "end": 1157.58,
+   "text": "And then he was like fuck off so"
+  },
+  {
+   "start": 1158.54,
+   "end": 1160.94,
+   "text": "She wrote her horse with 150"
+  },
+  {
+   "start": 1161.66,
+   "end": 1163.66,
+   "text": "horse men three horses each"
+  },
+  {
+   "start": 1164.62,
+   "end": 1168.46,
+   "text": "174 kilometers all day and all night so I guess"
+  },
+  {
+   "start": 1170.78,
+   "end": 1172.78,
+   "text": "Would that be in 24 hours"
+  },
+  {
+   "start": 1173.26,
+   "end": 1178.94,
+   "text": "Which makes sense you can you could probably get three horses to run for 24 hours if you take turns"
+  },
+  {
+   "start": 1180.06,
+   "end": 1185.5,
+   "text": "Jumping on them and and you know and interestingly enough they buy sickle as can ride 24 hours in a day"
+  },
+  {
+   "start": 1185.66,
+   "end": 1191.58,
+   "text": "You know they have 24 hour bike races so you can pair that too enough. I can go when I did my 24 hour bike race"
+  },
+  {
+   "start": 1191.66,
+   "end": 1193.58,
+   "text": "I made it"
+  },
+  {
+   "start": 1193.58,
+   "end": 1195.58,
+   "text": "194 miles"
+  },
+  {
+   "start": 1195.58,
+   "end": 1197.58,
+   "text": "over rough terrain and"
+  },
+  {
+   "start": 1200.06,
+   "end": 1203.26,
+   "text": "So she made it 175 kilometers which was like a hundred and"
+  },
+  {
+   "start": 1204.54,
+   "end": 1208.8,
+   "text": "Damn what is that like a hundred and eight miles or something"
+  },
+  {
+   "start": 1213.23,
+   "end": 1217.87,
+   "text": "Will they're probably similar type of correct terrain so it's kind of you know comparable you know"
+  },
+  {
+   "start": 1217.87,
+   "end": 1221.39,
+   "text": "It's like something you could relate to you know you can make like a bike ride from here to there"
+  },
+  {
+   "start": 1222.35,
+   "end": 1230.67,
+   "text": "One day and then for her to her back, you know, I'm gonna retrace so you can you know make up the story like oh that king and then he and so then we have to go and assess"
+  },
+  {
+   "start": 1230.67,
+   "end": 1232.67,
+   "text": "Need him and come back"
+  },
+  {
+   "start": 1232.67,
+   "end": 1238.35,
+   "text": "Before he knows what's going on because what happens is that kings I guess capital was like 175 kilometers from her capital"
+  },
+  {
+   "start": 1239.23,
+   "end": 1241.23,
+   "text": "And so she rides there and"
+  },
+  {
+   "start": 1243.39,
+   "end": 1245.39,
+   "text": "like"
+  },
+  {
+   "start": 1245.39,
+   "end": 1247.39,
+   "text": "like blitz creaks their"
+  },
+  {
+   "start": 1247.63,
+   "end": 1254.27,
+   "text": "Castle with their soldiers and but so he thought that she was there with like all armors on so he like ran inside of his"
+  },
+  {
+   "start": 1255.15,
+   "end": 1257.15,
+   "text": "his that citadel and she like"
+  },
+  {
+   "start": 1257.31,
+   "end": 1260.51,
+   "text": "busted in and ran after him and like killed him herself"
+  },
+  {
+   "start": 1261.95,
+   "end": 1267.07,
+   "text": "Oh and all of his family and all of his friends except for his son and then left his son on the"
+  },
+  {
+   "start": 1267.47,
+   "end": 1271.07,
+   "text": "throne saying not to bother the like the tribe but um"
+  },
+  {
+   "start": 1272.03,
+   "end": 1275.63,
+   "text": "And what else uh"
+  },
+  {
+   "start": 1275.63,
+   "end": 1278.67,
+   "text": "There are a lot I want to collect all those stories I haven't gotten around to doing that yet"
+  },
+  {
+   "start": 1280.51,
+   "end": 1284.67,
+   "text": "Harada to says a lot you know he says like it takes 10 days to get from"
+  },
+  {
+   "start": 1285.39,
+   "end": 1287.39,
+   "text": "Cairo to"
+  },
+  {
+   "start": 1287.63,
+   "end": 1292.91,
+   "text": "One of those oasis is and then another 10 days from an oasis to another oasis that that you know"
+  },
+  {
+   "start": 1292.91,
+   "end": 1295.15,
+   "text": "We know which ones they are and then another 10 days to get"
+  },
+  {
+   "start": 1295.87,
+   "end": 1297.87,
+   "text": "to like"
+  },
+  {
+   "start": 1297.87,
+   "end": 1303.15,
+   "text": "in o moraco so get across Africa was like 30 days and so you can travel so I was actually marked exactly how far you"
+  },
+  {
+   "start": 1303.15,
+   "end": 1307.23,
+   "text": "a travel on a camel that can those days and a day I think it was like"
+  },
+  {
+   "start": 1309.23,
+   "end": 1312.43,
+   "text": "10 days there was like 40 miles a day or something anyway"
+  },
+  {
+   "start": 1313.87,
+   "end": 1320.91,
+   "text": "But yeah map it all out and then pair that with those with the cycling and the running and all that but um"
+  },
+  {
+   "start": 1322.67,
+   "end": 1326.67,
+   "text": "so I decided to do that and"
+  },
+  {
+   "start": 1328.51,
+   "end": 1330.51,
+   "text": "so then I decided to"
+  },
+  {
+   "start": 1331.87,
+   "end": 1334.51,
+   "text": "pair my my life with Julius Caesar and"
+  },
+  {
+   "start": 1337.42,
+   "end": 1343.18,
+   "text": "And so when he started his battles and I'll start my military campaign so my military campaign I'm a"
+  },
+  {
+   "start": 1344.78,
+   "end": 1349.1,
+   "text": "I'm a scout warrior and endurance athlete so I'll"
+  },
+  {
+   "start": 1350.7,
+   "end": 1352.7,
+   "text": "I'll do bicycling and"
+  },
+  {
+   "start": 1353.58,
+   "end": 1359.1,
+   "text": "skiing cross country skiing because of cross country skiing I recently like remember there was cross country skiing"
+  },
+  {
+   "start": 1359.18,
+   "end": 1360.46,
+   "text": "really nice cross country skiing here"
+  },
+  {
+   "start": 1362.46,
+   "end": 1366.94,
+   "text": "and then the cycle cross and the winter or road biking all set the running"
+  },
+  {
+   "start": 1367.5,
+   "end": 1374.54,
+   "text": "this is like a giant playground and then you can kind of calibrate it all to the same"
+  },
+  {
+   "start": 1375.82,
+   "end": 1382.78,
+   "text": "mileage so the absolute would be road miles and then mountain bike miles I had it double actually"
+  },
+  {
+   "start": 1382.78,
+   "end": 1387.1,
+   "text": "because I just had it paired to the 24 hours of my lab because"
+  },
+  {
+   "start": 1387.9,
+   "end": 1393.82,
+   "text": "I actually put in the results of 25 hours of mob and my result I'm gonna make like the standard"
+  },
+  {
+   "start": 1395.82,
+   "end": 1403.1,
+   "text": "the standard soldier you know like if you were to go to war what you would expect all of your soldiers to be ready"
+  },
+  {
+   "start": 1403.98,
+   "end": 1405.26,
+   "text": "at what level"
+  },
+  {
+   "start": 1408.54,
+   "end": 1412.11,
+   "text": "and"
+  },
+  {
+   "start": 1412.11,
+   "end": 1414.11,
+   "text": "so I'm"
+  },
+  {
+   "start": 1414.11,
+   "end": 1418.43,
+   "text": "I'm sure that kind of allows me to turn a thought so I wanted to"
+  },
+  {
+   "start": 1420.43,
+   "end": 1421.07,
+   "text": "do the"
+  },
+  {
+   "start": 1422.59,
+   "end": 1424.59,
+   "text": "do that and then"
+  },
+  {
+   "start": 1425.47,
+   "end": 1427.47,
+   "text": "compare myself to"
+  },
+  {
+   "start": 1428.19,
+   "end": 1430.83,
+   "text": "Julius Caesar so it took Julius Caesar eight years"
+  },
+  {
+   "start": 1433.39,
+   "end": 1435.63,
+   "text": "well see I'll be in the army until I'm 60"
+  },
+  {
+   "start": 1436.51,
+   "end": 1439.23,
+   "text": "because that's how long you're supposed to be in the army in Sparta"
+  },
+  {
+   "start": 1439.71,
+   "end": 1445.31,
+   "text": "so that gives me if I start in January oh yeah and if I start in January the beginning of January"
+  },
+  {
+   "start": 1446.43,
+   "end": 1450.19,
+   "text": "I turn 42 in January now December 27th"
+  },
+  {
+   "start": 1450.75,
+   "end": 1454.67,
+   "text": "so if I start on January 1st which is the beginning of the year you know like me as a resolution"
+  },
+  {
+   "start": 1456.03,
+   "end": 1458.27,
+   "text": "and also it makes it for the calendar"
+  },
+  {
+   "start": 1460.91,
+   "end": 1465.39,
+   "text": "starting beginning in January and so I'll be exactly 42 so I'll be pretty much exactly"
+  },
+  {
+   "start": 1465.39,
+   "end": 1472.03,
+   "text": "Julius Caesar's age when I started my military campaign and so Julius Caesar lived until he was 56 and so"
+  },
+  {
+   "start": 1473.07,
+   "end": 1478.11,
+   "text": "if I if I just pair my life with Julius Caesar who was basically fighting his whole life until"
+  },
+  {
+   "start": 1478.51,
+   "end": 1480.91,
+   "text": "the military battles until one year before he died"
+  },
+  {
+   "start": 1482.51,
+   "end": 1486.11,
+   "text": "then I just have to do three more years after that after he died"
+  },
+  {
+   "start": 1487.31,
+   "end": 1490.75,
+   "text": "and you know there were civil wars after that so maybe I'll come back from the civil war now"
+  },
+  {
+   "start": 1490.75,
+   "end": 1497.71,
+   "text": "and then until I'm 60 so I'll have 18 seasons of the military 18 seasons 18 years"
+  },
+  {
+   "start": 1498.27,
+   "end": 1504.11,
+   "text": "until I graduate from the military at 60 and then at 60 I'm going to pair my life with a"
+  },
+  {
+   "start": 1504.11,
+   "end": 1512.27,
+   "text": "Augusta Caesar because that's when I have my political career because Augusta Caesar's political career"
+  },
+  {
+   "start": 1512.27,
+   "end": 1517.79,
+   "text": "was exactly 40 years and I want my political career to be exactly 40 years"
+  },
+  {
+   "start": 1518.35,
+   "end": 1525.15,
+   "text": "because it takes me from 60 until 100 and so I'll retire from life at 100 and that's when I will"
+  },
+  {
+   "start": 1526.35,
+   "end": 1532.27,
+   "text": "that's what I will soak in the lagoon with the maidens I will go with the maidens of the lagoon that's another"
+  },
+  {
+   "start": 1533.39,
+   "end": 1538.83,
+   "text": "maybe I should talk about that now yeah like in the future somebody actually asked me to do a video about"
+  },
+  {
+   "start": 1540.19,
+   "end": 1546.27,
+   "text": "about nightclubs and the future of nightclubs and when I think about the future of like"
+  },
+  {
+   "start": 1547.23,
+   "end": 1552.99,
+   "text": "the economy and the world and social and social interaction and everything I want it to be"
+  },
+  {
+   "start": 1555.79,
+   "end": 1562.19,
+   "text": "immersed in nature but star the alien talks about his home planet and he says they live in spaceships"
+  },
+  {
+   "start": 1563.23,
+   "end": 1567.71,
+   "text": "above the planet and his home planet just has a couple of structures it's basically just nature"
+  },
+  {
+   "start": 1567.71,
+   "end": 1575.31,
+   "text": "because they just party there and so that's what I want so in the future you know like if you go to the"
+  },
+  {
+   "start": 1575.39,
+   "end": 1580.43,
+   "text": "disco I want it to be out in the woods outside where it's all warm we're making it seem like it's out there"
+  },
+  {
+   "start": 1580.43,
+   "end": 1586.67,
+   "text": "and with the flower smells of flowers and nice breezes hitting you and you know a little mist rain coming down"
+  },
+  {
+   "start": 1588.67,
+   "end": 1598.67,
+   "text": "thunder you know make it natural and you know how people dress really like you know like in like silk"
+  },
+  {
+   "start": 1598.75,
+   "end": 1606.35,
+   "text": "robes and stuff you know just really or on tight tight you know just sexy you know and then so yeah"
+  },
+  {
+   "start": 1606.35,
+   "end": 1613.63,
+   "text": "when you retire instead of going to some like what do see I watch when it was on all people's home"
+  },
+  {
+   "start": 1614.19,
+   "end": 1620.35,
+   "text": "and I go in there and I see them and they you know like what do you do just hang out and watch TV"
+  },
+  {
+   "start": 1620.35,
+   "end": 1625.87,
+   "text": "on a couch inside no son what I want to do is hang out with the maidens a little good when I'm 100"
+  },
+  {
+   "start": 1625.95,
+   "end": 1634.67,
+   "text": "I'm gonna go to some like heated lagoon with like you know fast fare or at for a vessent water"
+  },
+  {
+   "start": 1634.67,
+   "end": 1641.55,
+   "text": "because of the big as waterfall that falls down and like silk and these big all like two meter tall"
+  },
+  {
+   "start": 1641.55,
+   "end": 1647.71,
+   "text": "18 year old Scandinavian large breast and naked girls give me a she-a-two all day long and"
+  },
+  {
+   "start": 1648.19,
+   "end": 1657.79,
+   "text": "and then I sleep on the beach you know we're in a hammock like in the nude like I'm totally in nature"
+  },
+  {
+   "start": 1658.51,
+   "end": 1663.87,
+   "text": "you know my whole life and then until I just until they kind of come to wake me up one day to give me my"
+  },
+  {
+   "start": 1664.51,
+   "end": 1669.39,
+   "text": "background or whatever feed me my breakfast and I'm dead you know all that goes Kyle I guess"
+  },
+  {
+   "start": 1671.47,
+   "end": 1674.75,
+   "text": "so that that's well I'll spend the rest of my life with the maidens of the lagoon but"
+  },
+  {
+   "start": 1678.27,
+   "end": 1682.83,
+   "text": "but my political career will last exactly 40 years and that's gonna be"
+  },
+  {
+   "start": 1683.71,
+   "end": 1689.87,
+   "text": "mixed with um that's I mean that's gonna be paired up with a guest the Caesar because the guest the"
+  },
+  {
+   "start": 1689.87,
+   "end": 1694.83,
+   "text": "Caesar turned Rome around he did all kinds of reforms and did all kinds of"
+  },
+  {
+   "start": 1696.03,
+   "end": 1701.63,
+   "text": "construction and this that and the next and so I could try to be like oh what want to do this reform"
+  },
+  {
+   "start": 1701.63,
+   "end": 1706.03,
+   "text": "and this reform and this construction this is construction and what's the guest is doing you know like he's my buddy"
+  },
+  {
+   "start": 1706.35,
+   "end": 1712.51,
+   "text": "because you can start at the same time and you can edit at the same time so you can go you know okay this"
+  },
+  {
+   "start": 1712.51,
+   "end": 1716.51,
+   "text": "moment of the guest this is doing this okay and I'm doing this how am I doing you know compare yourself with the"
+  },
+  {
+   "start": 1716.51,
+   "end": 1721.95,
+   "text": "Jones is why not compare yourself with the fucking the guest the Caesar because that really that really connects you with the"
+  },
+  {
+   "start": 1721.95,
+   "end": 1726.91,
+   "text": "past you know it's like your best friend well he doesn't know you you know your best friend"
+  },
+  {
+   "start": 1728.11,
+   "end": 1735.63,
+   "text": "doesn't live in the same fucking time is here he lives in the past so you know you think at all about the past"
+  },
+  {
+   "start": 1736.43,
+   "end": 1740.59,
+   "text": "and you're kind of and then you you understand the past and the difference is you know"
+  },
+  {
+   "start": 1740.59,
+   "end": 1749.07,
+   "text": "makes you more multicultural so um but and it also works great with Julius Caesar because he was a warrior and so when"
+  },
+  {
+   "start": 1749.07,
+   "end": 1755.63,
+   "text": "I do my warrior campaign I shout you know and it's pretty much Paris it took him eight years to take over"
+  },
+  {
+   "start": 1755.63,
+   "end": 1761.39,
+   "text": "Gaul so maybe by the time I'm 58 he was 58 then that's maybe when I'll be at my peak"
+  },
+  {
+   "start": 1762.11,
+   "end": 1766.67,
+   "text": "that's when I'll be at my military peak and then I'll be kind of kind of a survivor"
+  },
+  {
+   "start": 1768.43,
+   "end": 1772.83,
+   "text": "until for the last so for the first eight years I'll be getting better and then in the eight to"
+  },
+  {
+   "start": 1772.83,
+   "end": 1777.87,
+   "text": "your oh in the eighth year I'll win the two or two friends because he took over friends and that's when"
+  },
+  {
+   "start": 1777.87,
+   "end": 1784.59,
+   "text": "I'll win the two friends because I designed a way that you know normal schmows like me can win the two"
+  },
+  {
+   "start": 1784.59,
+   "end": 1793.79,
+   "text": "two to friends what you to do is you pair you pair the two or a boulder with the two to"
+  },
+  {
+   "start": 1793.79,
+   "end": 1798.43,
+   "text": "friends like you do the two or boulder or you win the two to boulder that it's just as hard or harder than"
+  },
+  {
+   "start": 1798.43,
+   "end": 1806.03,
+   "text": "two to friends and if you win the stage also of two to friends it means you better so it's like I have"
+  },
+  {
+   "start": 1807.63,
+   "end": 1813.07,
+   "text": "sunshine cannon and then there's a lot of the west that's exactly the same time to take get up both of them"
+  },
+  {
+   "start": 1813.07,
+   "end": 1818.83,
+   "text": "they're exactly the same they're like carbon copies of each other so so so if you can break"
+  },
+  {
+   "start": 1818.83,
+   "end": 1823.71,
+   "text": "mark on pentani's record of the sunshine cannon that means you bust it you beat mark on pentani and so if you"
+  },
+  {
+   "start": 1823.71,
+   "end": 1829.31,
+   "text": "can beat eddy merrix that two to friends which means you beat them up the up to us or right he would get up the"
+  },
+  {
+   "start": 1829.31,
+   "end": 1834.35,
+   "text": "up to us compared to how strong he was when you did the hour record and then you beat him at the hour record also"
+  },
+  {
+   "start": 1834.35,
+   "end": 1840.27,
+   "text": "so you beat him at the help to us and then the time trial that means you beat eddy merrix that two to friends that means"
+  },
+  {
+   "start": 1841.07,
+   "end": 1850.11,
+   "text": "you you know so you have to do like you have to do like a two an hour and a hour after red like 33 miles or something"
+  },
+  {
+   "start": 1851.63,
+   "end": 1856.75,
+   "text": "you pair it to he was an a traditional bike but so you of course you have to go on mile and how"
+  },
+  {
+   "start": 1856.75,
+   "end": 1862.83,
+   "text": "a faster but so anyway you do that you have it written into bike by grace of law american bike"
+  },
+  {
+   "start": 1862.83,
+   "end": 1868.27,
+   "text": "grace of love that once if somebody wins a two to boulder difference whatever you can't automatically"
+  },
+  {
+   "start": 1868.27,
+   "end": 1874.59,
+   "text": "spend on the two to friends team and so then you win the two to friends that and so you don't have to do any of those"
+  },
+  {
+   "start": 1874.59,
+   "end": 1884.59,
+   "text": "other bike races and all of the battles like he had like 16 major battles and so each battle would be like a"
+  },
+  {
+   "start": 1884.59,
+   "end": 1889.63,
+   "text": "bike race like the big bike race of the hour one of the big bike races of the year you know or when he has a series of battles"
+  },
+  {
+   "start": 1889.63,
+   "end": 1894.51,
+   "text": "that would be like you just I don't know just like when you really want to peek because it's like here comes"
+  },
+  {
+   "start": 1894.51,
+   "end": 1898.83,
+   "text": "this battle okay here because he was successful in all of his battles and that's how he wants so"
+  },
+  {
+   "start": 1899.95,
+   "end": 1904.75,
+   "text": "and so like maybe you could pair it day by day because he wrote a very very very extensive"
+  },
+  {
+   "start": 1906.03,
+   "end": 1915.55,
+   "text": "book very long I think it was like seven and a half hours if you listen to it and so just trace it a long"
+  },
+  {
+   "start": 1915.55,
+   "end": 1920.27,
+   "text": "month by month you know and then they marched here and it's cool because he said when they marked like"
+  },
+  {
+   "start": 1920.35,
+   "end": 1926.43,
+   "text": "they marched in one day like some you know exactly where they marched from so you know how far they could go"
+  },
+  {
+   "start": 1927.31,
+   "end": 1933.07,
+   "text": "and so and you know and those guys at March they would they were bad asses like they marched 20 miles or something"
+  },
+  {
+   "start": 1933.07,
+   "end": 1941.15,
+   "text": "carrying 60 pounds or something so if you can so basically my military campaign similar because those guys"
+  },
+  {
+   "start": 1941.23,
+   "end": 1947.31,
+   "text": "they're like they're like endurance athletes slash battlefield athletes that's what they were"
+  },
+  {
+   "start": 1949.79,
+   "end": 1955.95,
+   "text": "and and so I'll be a battlefield athlete but I'll also lift weights and stuff to try to you know"
+  },
+  {
+   "start": 1955.95,
+   "end": 1960.51,
+   "text": "be in dirt I mean I'll be in a derothite but I'll still lift weights to try to be battlefield athlete"
+  },
+  {
+   "start": 1962.51,
+   "end": 1969.39,
+   "text": "but yeah so I'll try to ride my bike 50,000 miles a year because I think that's what they said"
+  },
+  {
+   "start": 1969.95,
+   "end": 1975.07,
+   "text": "the lands on son rotus bike when he was totally kicking ass but 2000 anyway that's a nice round number"
+  },
+  {
+   "start": 1975.07,
+   "end": 1982.19,
+   "text": "50,000 miles a year so that's 137 miles a day so every day you're out there just all day long"
+  },
+  {
+   "start": 1983.31,
+   "end": 1989.87,
+   "text": "riding your bike you know we're skiing so if you ski 80 miles that means it gets it gets bumped up 1.75"
+  },
+  {
+   "start": 1990.43,
+   "end": 1996.27,
+   "text": "and I did all of the conversions based on how fast people went like the record for the hour and all the different sports"
+  },
+  {
+   "start": 1997.23,
+   "end": 2004.67,
+   "text": "so yeah so you know that that makes us say you can do your 50,000 miles a year because you know I swim a 100"
+  },
+  {
+   "start": 2005.39,
+   "end": 2011.47,
+   "text": "100 laps so that what that pairs I think I had 47.7 or something you multiply it so that would pair to like"
+  },
+  {
+   "start": 2012.19,
+   "end": 2018.91,
+   "text": "50 miles or something you know so so that and so that's your military campaign and then the race would be"
+  },
+  {
+   "start": 2019.63,
+   "end": 2024.43,
+   "text": "the actual race with other people and there's lots of races around here and I'll do all the ones I can't oh I think I'll set up a"
+  },
+  {
+   "start": 2024.43,
+   "end": 2030.56,
+   "text": "go find me though so I have to pay for that those races and maybe even bikes but um"
+  },
+  {
+   "start": 2031.84,
+   "end": 2039.2,
+   "text": "you know but I'll do the races even if I don't have a nicer bikes but um I don't know if you pay for the races"
+  },
+  {
+   "start": 2040.24,
+   "end": 2048.24,
+   "text": "but anyway uh and I'm gonna map it all out to like Google or the download but so anyway"
+  },
+  {
+   "start": 2048.56,
+   "end": 2058.72,
+   "text": "I had the idea to also take it on one step farther and see if you really want to pair it to history"
+  },
+  {
+   "start": 2061.28,
+   "end": 2070.88,
+   "text": "you would you would you would make the national sport of the world today"
+  },
+  {
+   "start": 2071.04,
+   "end": 2080.56,
+   "text": "the same as the national sport in times past now in times past they had the Olympic games"
+  },
+  {
+   "start": 2081.12,
+   "end": 2092.08,
+   "text": "which went from 771 I mean 777 777 6BC all the way until like the year 300 or something 80 every four years"
+  },
+  {
+   "start": 2092.64,
+   "end": 2097.84,
+   "text": "for like 13 for like a thousand years they had the Olympic games every four years mum mum mum mum"
+  },
+  {
+   "start": 2097.92,
+   "end": 2102.48,
+   "text": "that Olympus and they also had other games too you know like we have the pan-am games"
+  },
+  {
+   "start": 2102.8,
+   "end": 2109.6,
+   "text": "they had the pithian games with the delfic delfic games like I went to Delphi and they had this huge like you know like"
+  },
+  {
+   "start": 2109.6,
+   "end": 2116.0,
+   "text": "a stadium like a track you know it's a little in those days it was more oval than today but it was about the same size"
+  },
+  {
+   "start": 2116.24,
+   "end": 2123.04,
+   "text": "like up on the side of a mountain or they would have the Delphi games and um and they had sprinting"
+  },
+  {
+   "start": 2123.84,
+   "end": 2127.04,
+   "text": "I think distance running chariote racing boxing wrestling"
+  },
+  {
+   "start": 2128.72,
+   "end": 2132.16,
+   "text": "was a spear throwing you know all the same stuff as they do now you know fighting"
+  },
+  {
+   "start": 2132.64,
+   "end": 2138.48,
+   "text": "boxing and wrestling mixing boxing wrestling what they did and and that's basically mma mixing boxing and"
+  },
+  {
+   "start": 2138.48,
+   "end": 2144.56,
+   "text": "wrestling you know like that guy that firecatcher the movie I saw teach Steve Garrow where he kills the wrestler"
+  },
+  {
+   "start": 2145.28,
+   "end": 2152.56,
+   "text": "and his brother actually like I guess to lay off steam like god into UFC back in those days was"
+  },
+  {
+   "start": 2152.56,
+   "end": 2157.76,
+   "text": "called UFC and like just like eight months after his brother got shot he did a UFC fight and"
+  },
+  {
+   "start": 2157.76,
+   "end": 2165.04,
+   "text": "fucking beat up like in the first round like right in the beginning like a black belt or something"
+  },
+  {
+   "start": 2166.72,
+   "end": 2174.48,
+   "text": "just because he took him down he did the wrestle take down so so yeah boxing the so they you know"
+  },
+  {
+   "start": 2174.48,
+   "end": 2179.44,
+   "text": "it was basically mma they did the mma only they they mixed it with boxing wrestling but I think they didn't"
+  },
+  {
+   "start": 2179.44,
+   "end": 2184.96,
+   "text": "mix too I'm sure they did mix and the cool thing was like when they started in 176 BC that was"
+  },
+  {
+   "start": 2184.96,
+   "end": 2195.44,
+   "text": "a revival like they had they had them even before that going on so anyway but but the big sport I mean"
+  },
+  {
+   "start": 2195.44,
+   "end": 2200.48,
+   "text": "oh but other sports that they did were rolling you know because because of the actually what I was"
+  },
+  {
+   "start": 2200.48,
+   "end": 2205.28,
+   "text": "going to get to before the big sport was battles they fought they go battles that's what they did like"
+  },
+  {
+   "start": 2205.36,
+   "end": 2210.4,
+   "text": "on a regular basis but you know if you go in the you'd wick a pd lists it's like a thousand"
+  },
+  {
+   "start": 2210.4,
+   "end": 2216.72,
+   "text": "battles and I haven't well actually on google or if I haven't a bit down my person but you know like"
+  },
+  {
+   "start": 2216.72,
+   "end": 2221.76,
+   "text": "so it was kind of like every generation had a battle and some generations had a battle every year you know"
+  },
+  {
+   "start": 2221.76,
+   "end": 2226.56,
+   "text": "every month you know I mean this battles all the time all the way around and but a lot of having to do"
+  },
+  {
+   "start": 2226.56,
+   "end": 2232.08,
+   "text": "with the battles especially you know in Greece how to do it throwing they rode so they'd rowing battle"
+  },
+  {
+   "start": 2232.08,
+   "end": 2236.32,
+   "text": "and so when you have the rowers and all the different different distances it was the same thing in"
+  },
+  {
+   "start": 2236.32,
+   "end": 2241.52,
+   "text": "real life too you know you'd need your all different roses to you know the sprint rowers the for the for the"
+  },
+  {
+   "start": 2241.52,
+   "end": 2245.2,
+   "text": "ramming the 2k rowers for the you know the for the for the for the for the for the for the for the for the for the"
+  },
+  {
+   "start": 2245.2,
+   "end": 2250.24,
+   "text": "whatever and then the distance rowers and everything so it's like your modern day warriors when you do the"
+  },
+  {
+   "start": 2250.24,
+   "end": 2255.2,
+   "text": "rowing and so that's the name that's a historic and it's the same movement too that's a historic sport"
+  },
+  {
+   "start": 2256.0,
+   "end": 2262.8,
+   "text": "but also the battlefield okay so if you want it I think we should make you know how like Vince McMahon"
+  },
+  {
+   "start": 2262.8,
+   "end": 2269.12,
+   "text": "tried to start his own sport well we should contact Vince McMahon and try to have him give it a go again only this time"
+  },
+  {
+   "start": 2269.12,
+   "end": 2274.88,
+   "text": "that's a real sport a good sport and so what you do is you revive see if you really want to if you really want to"
+  },
+  {
+   "start": 2274.88,
+   "end": 2284.08,
+   "text": "pair the current day to the past day current to past then you would pair it straight up so pair it so so"
+  },
+  {
+   "start": 2284.08,
+   "end": 2291.36,
+   "text": "you should make our our big our big national sport you know even bigger than soccer everybody does"
+  },
+  {
+   "start": 2291.36,
+   "end": 2296.4,
+   "text": "long-boggains or whatever that we do every year and then you even do for school interleague and"
+  },
+  {
+   "start": 2296.4,
+   "end": 2302.56,
+   "text": "inside your school and all over is just the world's part these battles and so what it is is it's in my"
+  },
+  {
+   "start": 2303.52,
+   "end": 2309.04,
+   "text": "it's the same thing as in my words one on one fighting but everybody fights everybody because that's how it"
+  },
+  {
+   "start": 2309.04,
+   "end": 2315.76,
+   "text": "was in the battlefield everybody would fight everybody so so what you do is you you you you you you invent a fight suit"
+  },
+  {
+   "start": 2317.04,
+   "end": 2322.88,
+   "text": "which is what you're you're dressed you know like halo you're just like a halo warrior and we have"
+  },
+  {
+   "start": 2323.76,
+   "end": 2330.72,
+   "text": "the we have the technology now I think to make it possible so you're just in these like really light but"
+  },
+  {
+   "start": 2330.72,
+   "end": 2337.6,
+   "text": "really strong protective armor all over you you know your joints too you're like a walking cyborg"
+  },
+  {
+   "start": 2338.56,
+   "end": 2344.0,
+   "text": "and then you have a helmet that even protection neck but you can move your head around and all of that but"
+  },
+  {
+   "start": 2344.0,
+   "end": 2349.92,
+   "text": "it has a big bubble so you can see people's heads because it's all glass and it's all clear so it's like you're"
+  },
+  {
+   "start": 2349.92,
+   "end": 2358.8,
+   "text": "not you know it's like you know you can you can see everything but but you have a big all like helmet"
+  },
+  {
+   "start": 2358.96,
+   "end": 2363.12,
+   "text": "and covers your neck and your shoulders and but you can still agile and run and jump"
+  },
+  {
+   "start": 2364.24,
+   "end": 2369.28,
+   "text": "and so you have them in the fight so you have people fight each other in those suits and the suits"
+  },
+  {
+   "start": 2369.28,
+   "end": 2377.12,
+   "text": "would register based on it knows where it got hit because like the engineers would figure that out"
+  },
+  {
+   "start": 2378.24,
+   "end": 2383.68,
+   "text": "and you would know the force by which you get hit by the little sensors at the end of the"
+  },
+  {
+   "start": 2384.0,
+   "end": 2390.32,
+   "text": "knuckles and so you would be able to pair the hits like this hit from that knuckle on this person was hit here and so"
+  },
+  {
+   "start": 2390.88,
+   "end": 2396.72,
+   "text": "and so then you you program into the thing exactly like how much force it takes to knock somebody out so"
+  },
+  {
+   "start": 2397.28,
+   "end": 2400.88,
+   "text": "and also the different sizes in the suits you would have programmed the size of the person"
+  },
+  {
+   "start": 2401.6,
+   "end": 2407.28,
+   "text": "and so if it takes you know I don't know what it is but so many pounds and I'll plug it into my website because I'm actually building this"
+  },
+  {
+   "start": 2407.28,
+   "end": 2415.6,
+   "text": "the page now I started last night or yesterday you know so if somebody is up there and doing the"
+  },
+  {
+   "start": 2415.6,
+   "end": 2420.4,
+   "text": "in the make-up and you hit somebody in the helmet right and it's it's cushion you know your all cushion"
+  },
+  {
+   "start": 2420.4,
+   "end": 2427.52,
+   "text": "you hit the guy in the helmet hard enough to knock him out then a big red light starts flashing on the top"
+  },
+  {
+   "start": 2427.52,
+   "end": 2435.68,
+   "text": "is so but and he has to sit down that means it's over for him so so you have actually in the make-fights"
+  },
+  {
+   "start": 2435.68,
+   "end": 2440.48,
+   "text": "and and you could have people fight each other and you could have different size people people who are totally out"
+  },
+  {
+   "start": 2440.48,
+   "end": 2445.44,
+   "text": "class by each other because you know what he gets hurt you would just have the person come in and if they get a good hit"
+  },
+  {
+   "start": 2445.84,
+   "end": 2450.24,
+   "text": "and you would have it all over the body because you would have you would have armor all over their body so you could have like the"
+  },
+  {
+   "start": 2450.24,
+   "end": 2457.36,
+   "text": "strongest dude hit a small person so hard it's kind of like getting bullet professor something so hard that it would actually knock them"
+  },
+  {
+   "start": 2458.16,
+   "end": 2463.92,
+   "text": "back onto their back like flat on their back you know and if it's in you know little people can get knocked on their back"
+  },
+  {
+   "start": 2463.92,
+   "end": 2470.88,
+   "text": "and still get up and so you know you could actually have like a you know like a"
+  },
+  {
+   "start": 2471.84,
+   "end": 2475.92,
+   "text": "hundred pound twelve-year-old kid boy fight a"
+  },
+  {
+   "start": 2477.04,
+   "end": 2479.04,
+   "text": "250 pound"
+  },
+  {
+   "start": 2479.68,
+   "end": 2487.6,
+   "text": "you know solid muscle and black belt you know and the black belt will run up and I can kick that kid right in the chest and"
+  },
+  {
+   "start": 2488.32,
+   "end": 2490.32,
+   "text": "oh and also"
+  },
+  {
+   "start": 2491.36,
+   "end": 2500.32,
+   "text": "you have sinners on the outsensors on the tips of your the ball of your foot and also the tops of the front of your foot like where you kick people"
+  },
+  {
+   "start": 2501.2,
+   "end": 2506.56,
+   "text": "and yeah so the sensor you know the kick goes flying back and the sensor says okay in real life"
+  },
+  {
+   "start": 2507.12,
+   "end": 2514.08,
+   "text": "you know the kid would be dead you know or you know or ribs broke and so he'd be lying on the floor or like bleeding"
+  },
+  {
+   "start": 2514.08,
+   "end": 2521.84,
+   "text": "the death or whatever but in real life the kid can get up you know of it and do it you know and maybe you would actually have"
+  },
+  {
+   "start": 2521.84,
+   "end": 2527.92,
+   "text": "regulations like you would have size limits you know like what did I say a hundred versus a 250 so that's a"
+  },
+  {
+   "start": 2528.16,
+   "end": 2533.2,
+   "text": "hundred and fifty maybe you would have like a hundred pound weight different maximum because that's kind of how it was in the real bad"
+  },
+  {
+   "start": 2533.2,
+   "end": 2537.84,
+   "text": "of the anyway you wouldn't have a little kids fight of adults you would have everybody would be warriors you know so yeah you"
+  },
+  {
+   "start": 2537.84,
+   "end": 2540.24,
+   "text": "have like maybe a 50 or 150 pound"
+  },
+  {
+   "start": 2540.72,
+   "end": 2543.12,
+   "text": "weight limit lower or 150 or 75 pound"
+  },
+  {
+   "start": 2543.92,
+   "end": 2551.28,
+   "text": "hundred pound weight difference limit but um but uh but you could do all sorts of stuff like in a fight"
+  },
+  {
+   "start": 2551.84,
+   "end": 2555.28,
+   "text": "you could have a real fight with somebody and it would be totally realistic and you could"
+  },
+  {
+   "start": 2556.24,
+   "end": 2560.96,
+   "text": "defeat them in all the ways that are realistic for example arm bar you could have the suit rigged"
+  },
+  {
+   "start": 2561.6,
+   "end": 2569.28,
+   "text": "so that you could not move your arm past a certain amount but if it does get pushed to that amount that you"
+  },
+  {
+   "start": 2569.28,
+   "end": 2574.88,
+   "text": "would normally do then the light goes on because it says oh broken arm sit down over for you you know"
+  },
+  {
+   "start": 2576.8,
+   "end": 2582.4,
+   "text": "also with uh choke holes you could put somebody in a choke hole in the little sensors around the neck"
+  },
+  {
+   "start": 2583.36,
+   "end": 2589.2,
+   "text": "you know like if you push like two sensors like away you know that you have to you could only push"
+  },
+  {
+   "start": 2589.2,
+   "end": 2593.12,
+   "text": "them if you're actually getting them in a social and then push like push two buttons or something and then go"
+  },
+  {
+   "start": 2593.12,
+   "end": 2601.28,
+   "text": "chink that means that they just got choked out and uh and so you could have one on one fights like in"
+  },
+  {
+   "start": 2601.28,
+   "end": 2607.36,
+   "text": "school they could be like um one of the sports that people would go at each other and then you could have"
+  },
+  {
+   "start": 2607.36,
+   "end": 2611.28,
+   "text": "even rankings you could have everybody fight everybody you know and then you could have like"
+  },
+  {
+   "start": 2611.36,
+   "end": 2616.0,
+   "text": "so you could map out like how good different sizes do against each other know everything it would be a good really"
+  },
+  {
+   "start": 2616.0,
+   "end": 2624.96,
+   "text": "good scientific uh on discovery tool for MMA but um and and uh and then you know and so that you know"
+  },
+  {
+   "start": 2624.96,
+   "end": 2629.2,
+   "text": "people have beef you could charge chon some of the do a fight or you could be a little bit of a fight for fun you know"
+  },
+  {
+   "start": 2629.2,
+   "end": 2633.76,
+   "text": "because you're hurting and like in your helmet you have you know like in the movies you have the little"
+  },
+  {
+   "start": 2633.76,
+   "end": 2637.76,
+   "text": "screens but you could make those in home it's now in the glass you have the screen and so when you're in"
+  },
+  {
+   "start": 2637.76,
+   "end": 2643.52,
+   "text": "the battlefield you can even have like a sky view like if you're in a you're in a video game because you"
+  },
+  {
+   "start": 2643.52,
+   "end": 2648.0,
+   "text": "would have the video cameras up above the field like you would have the battle like on turn the football"
+  },
+  {
+   "start": 2648.0,
+   "end": 2652.8,
+   "text": "field and a new battlefield and so you just look you'd be like okay give me a screen five and you go okay"
+  },
+  {
+   "start": 2653.36,
+   "end": 2658.72,
+   "text": "okay they're my guys we need to go run over there because there's nothing wrong with increasing intelligence"
+  },
+  {
+   "start": 2658.72,
+   "end": 2665.36,
+   "text": "in order to um you know that doesn't make it less realistic because in real life back in those days"
+  },
+  {
+   "start": 2666.0,
+   "end": 2669.84,
+   "text": "the people who really knew it was going on did they did have a bird's eye view you know like they're"
+  },
+  {
+   "start": 2669.84,
+   "end": 2675.04,
+   "text": "up on the ridge above or up on their horse they're elephant above watching everything you know and they're"
+  },
+  {
+   "start": 2675.04,
+   "end": 2678.96,
+   "text": "directing everything so you can kind of direct everything but you're directing it yourself too"
+  },
+  {
+   "start": 2679.6,
+   "end": 2684.64,
+   "text": "you know so everybody can be like their own general out on the battlefield but everybody would still"
+  },
+  {
+   "start": 2684.64,
+   "end": 2688.24,
+   "text": "you move in unison because everybody would know what needs to be done because everybody knows that's the"
+  },
+  {
+   "start": 2688.24,
+   "end": 2694.48,
+   "text": "experience but imagine like what you would look because my idea is you wouldn't just do um one on one"
+  },
+  {
+   "start": 2694.56,
+   "end": 2698.24,
+   "text": "and then you might find it's um which you and you wouldn't have to have weight classes is anybody"
+  },
+  {
+   "start": 2698.24,
+   "end": 2705.2,
+   "text": "anybody on but uh because of the suits but but then you would have battles so you would have like um you know"
+  },
+  {
+   "start": 2705.2,
+   "end": 2710.8,
+   "text": "like if there is like a start battle where it was like you know well maybe you would start small like 50 against 50 you know"
+  },
+  {
+   "start": 2710.8,
+   "end": 2716.32,
+   "text": "like a football team or 12 against 12 or whatever oh like you have like glad a tutorial combat"
+  },
+  {
+   "start": 2716.32,
+   "end": 2721.12,
+   "text": "re-enactments so like glad a choice maybe like a football team those like 12 guys against 12 guys"
+  },
+  {
+   "start": 2721.12,
+   "end": 2724.88,
+   "text": "I don't even know how many people are in a football team but you'd have those guys go against each other"
+  },
+  {
+   "start": 2724.88,
+   "end": 2728.4,
+   "text": "but run at each other in the battlefield you know so it's like just like in the movies or people would be"
+  },
+  {
+   "start": 2728.4,
+   "end": 2733.12,
+   "text": "running at each other and then they clash same thing they run each other they hunt clash they jump up"
+  },
+  {
+   "start": 2733.12,
+   "end": 2737.92,
+   "text": "one guy does a karate kick through the air and you can't break somebody's neck because of because you have the neck"
+  },
+  {
+   "start": 2737.92,
+   "end": 2743.52,
+   "text": "brace like helmet thing on so somebody hugged as a flying karate kick tag somebody in the head"
+  },
+  {
+   "start": 2743.52,
+   "end": 2748.4,
+   "text": "knocks them flat on their back obviously they're dead so they're little light thing you go's"
+  },
+  {
+   "start": 2748.48,
+   "end": 2752.16,
+   "text": "and then they set up you know because they have to be able to protect themselves somebody actually falls on"
+  },
+  {
+   "start": 2752.16,
+   "end": 2757.76,
+   "text": "but they also when they're sitting up they get to watch the whole thing like right there in the middle of it the whole"
+  },
+  {
+   "start": 2757.76,
+   "end": 2764.32,
+   "text": "battle but so you could see all sorts of stuff you would learn so much about battles because"
+  },
+  {
+   "start": 2765.2,
+   "end": 2771.52,
+   "text": "because you would you because they're whole like you would have people doing the same stuff coming information"
+  },
+  {
+   "start": 2772.24,
+   "end": 2777.68,
+   "text": "chasing each other you know tactics would evolve you would have some strategies who are way better than"
+  },
+  {
+   "start": 2777.76,
+   "end": 2782.56,
+   "text": "everybody else who people would follow that's why Julia Caesar was so good another people weren't good like that's how"
+  },
+  {
+   "start": 2782.56,
+   "end": 2791.92,
+   "text": "Julia Caesar I mean it's amazing to think that he had four legions I think go in and there and that's what 6,000 people per"
+  },
+  {
+   "start": 2791.92,
+   "end": 2800.64,
+   "text": "legions so 12,000 so 24,000 Roman dudes went into a country of like 6 million people in fucking"
+  },
+  {
+   "start": 2800.64,
+   "end": 2806.32,
+   "text": "took over I was like kicked their asses and they were bad asses and they were the goals were bad asses they were like"
+  },
+  {
+   "start": 2806.32,
+   "end": 2811.52,
+   "text": "your classic bad ass warrior but that's just shows the show about tactics and if your general's good you know so"
+  },
+  {
+   "start": 2814.56,
+   "end": 2821.44,
+   "text": "so yeah people would fight and and run around in circles and root each other and then you would see how certain"
+  },
+  {
+   "start": 2821.44,
+   "end": 2827.12,
+   "text": "sides would get the upper hand and then the this stragglers would like fight and then get ganged up on you"
+  },
+  {
+   "start": 2827.12,
+   "end": 2831.68,
+   "text": "would see how quickly somebody could get taken down no matter how good of a fighter they were or you would see like"
+  },
+  {
+   "start": 2831.68,
+   "end": 2838.32,
+   "text": "really big dudes be able to fight off you know how many how many like hundred pounders if a 300 pounder could fight off"
+  },
+  {
+   "start": 2838.88,
+   "end": 2843.84,
+   "text": "and then you could you could and then you could see him finally take him down you know kind of like in the movies like in the"
+  },
+  {
+   "start": 2843.84,
+   "end": 2848.08,
+   "text": "twin tower or whatever the more of the rings move finally take him down and kill them and"
+  },
+  {
+   "start": 2849.36,
+   "end": 2855.04,
+   "text": "I mean when you mix them all together I mean they would be the most fascinating sporting events ever you know"
+  },
+  {
+   "start": 2855.6,
+   "end": 2860.72,
+   "text": "each battle would have its different character and then you could have really big ones like on the on the battlefield"
+  },
+  {
+   "start": 2860.72,
+   "end": 2866.56,
+   "text": "like maybe you could fit like I don't know like a thousand people are something on a football field then you even use bigger fields though"
+  },
+  {
+   "start": 2866.56,
+   "end": 2868.56,
+   "text": "you know for example there's a field"
+  },
+  {
+   "start": 2869.2,
+   "end": 2873.84,
+   "text": "right outside of boulder that I'm gonna call the battlefield because it's five kilometers across and some of those"
+  },
+  {
+   "start": 2873.84,
+   "end": 2879.68,
+   "text": "armors were really big it was like 50,000 people you know again 50,000 people like hundred thousand people so you can have huge battles"
+  },
+  {
+   "start": 2879.76,
+   "end": 2885.52,
+   "text": "you know like for example the ironman of boulders 36,000 people why not why not you have like the ironman battle or something"
+  },
+  {
+   "start": 2885.84,
+   "end": 2892.0,
+   "text": "So and then it would be just as popular so you get like 4,000 people so it'd be 2,000 people against 2,000 people"
+  },
+  {
+   "start": 2892.72,
+   "end": 2898.48,
+   "text": "and then they would all and you would know who is who because it was like red suit against Jocelyn so you get them out on this big ass five kilometer"
+  },
+  {
+   "start": 2899.28,
+   "end": 2900.24,
+   "text": "lot wide"
+  },
+  {
+   "start": 2900.24,
+   "end": 2908.0,
+   "text": "field and then you would have you know you'd have everybody filament from these big crane towers all around and maybe even set up portable like"
+  },
+  {
+   "start": 2908.48,
+   "end": 2909.84,
+   "text": "stadium to watch it"
+  },
+  {
+   "start": 2910.24,
+   "end": 2917.04,
+   "text": "people watch and TV from helicopter whatever and you have 2,000 people charge a 2,000 people and they'd literally run at each other and all the"
+  },
+  {
+   "start": 2917.04,
+   "end": 2922.56,
+   "text": "cruddy kick and they're clashing and everything just like in the movies and then they fight you fight and if you don't and it goes all day long"
+  },
+  {
+   "start": 2922.56,
+   "end": 2928.08,
+   "text": "you know because if you get tired and then because that's what happens in a real battle that's and then you find out what really happens"
+  },
+  {
+   "start": 2928.08,
+   "end": 2933.12,
+   "text": "you know like some guy would sit down and we got to run around so I go some guy would quit and just get kicked in the head and"
+  },
+  {
+   "start": 2933.28,
+   "end": 2938.16,
+   "text": "you could like you could like with all those people you could like follow certain people and look what happened to him"
+  },
+  {
+   "start": 2938.16,
+   "end": 2944.96,
+   "text": "and then and then you could be like this battle reminds me of a real historic battle that happened to the past so it actually sparked people's interest and"
+  },
+  {
+   "start": 2944.96,
+   "end": 2951.28,
+   "text": "real historic battles that happened in the past when current battles that happen are are are are are of comparable"
+  },
+  {
+   "start": 2951.68,
+   "end": 2955.76,
+   "text": "size and have the same kinds of developments and tactics and everything going on"
+  },
+  {
+   "start": 2955.76,
+   "end": 2959.2,
+   "text": "now the only difference is that back in those days they had like swords and"
+  },
+  {
+   "start": 2960.16,
+   "end": 2965.44,
+   "text": "and shields and I think it's we I think it's cool to"
+  },
+  {
+   "start": 2968.08,
+   "end": 2972.56,
+   "text": "tweak it a little bit and just make it straight up simple raw roots in the may because"
+  },
+  {
+   "start": 2973.28,
+   "end": 2978.08,
+   "text": "because you don't have to carry anything that means you can run if you're a good run you can outrun"
+  },
+  {
+   "start": 2978.08,
+   "end": 2983.92,
+   "text": "somebody who's a better fighter than you you can dodge you can jump you can you can do the tumbling you know"
+  },
+  {
+   "start": 2984.0,
+   "end": 2992.72,
+   "text": "okay you can and when you actually fight it's actually realistic it's like the same exact now"
+  },
+  {
+   "start": 2992.72,
+   "end": 2997.68,
+   "text": "it's the same thing as when you were doing the ring thing the one on one in the may it's it's not what you're"
+  },
+  {
+   "start": 2997.68,
+   "end": 3002.32,
+   "text": "trying to do and that's what you do and then so so and that's kind of how it was in the past anyway like in the"
+  },
+  {
+   "start": 3002.32,
+   "end": 3006.88,
+   "text": "really basic battles when they fought they probably did fight like that they probably didn't have any"
+  },
+  {
+   "start": 3006.88,
+   "end": 3011.44,
+   "text": "any shields and they probably they probably had like rocks you know and they're trying to bang each other"
+  },
+  {
+   "start": 3011.44,
+   "end": 3016.56,
+   "text": "have the rocks and it's basically the same thing so you know you're just just caveman battles and"
+  },
+  {
+   "start": 3016.56,
+   "end": 3019.84,
+   "text": "and so yeah it would be interesting to watch different people different training levels you know like people"
+  },
+  {
+   "start": 3019.84,
+   "end": 3024.08,
+   "text": "who don't know anything about it and then people who really tactic you could have like you could have like"
+  },
+  {
+   "start": 3024.08,
+   "end": 3030.8,
+   "text": "you could have like girls like a you could have like 20 girls kill 20 guys just because they have"
+  },
+  {
+   "start": 3030.8,
+   "end": 3035.52,
+   "text": "better tactics you know or they're from our fit or something and yeah you know you could"
+  },
+  {
+   "start": 3035.52,
+   "end": 3039.92,
+   "text": "or you could challenge you know you could have like the team of like bad dad or something and that could"
+  },
+  {
+   "start": 3039.92,
+   "end": 3045.36,
+   "text": "actually for it divert the interest of those people in the middle of the way so they could be like they could"
+  },
+  {
+   "start": 3045.36,
+   "end": 3052.88,
+   "text": "think they're all bad ass being their chest and then they turn on their TV and they watch us and we're"
+  },
+  {
+   "start": 3052.88,
+   "end": 3058.88,
+   "text": "doing MMA 2004 thousand people fighting each other and the battlefield punching you know little kids"
+  },
+  {
+   "start": 3058.88,
+   "end": 3065.04,
+   "text": "old people old people gonna win up you know girls everybody and they're and they're like oh he would"
+  },
+  {
+   "start": 3065.04,
+   "end": 3069.44,
+   "text": "like to do that why don't we do that with them instead of a cow that's my bed that's"
+  },
+  {
+   "start": 3069.44,
+   "end": 3076.88,
+   "text": "we fight we do you give us your cell as the the the suits you know when we sell in the suits economy"
+  },
+  {
+   "start": 3076.88,
+   "end": 3082.24,
+   "text": "and there you go maybe my title so so what I'm doing right now in my website what I started yesterday is"
+  },
+  {
+   "start": 3082.24,
+   "end": 3092.56,
+   "text": "I started a page that actually maps out um fighter qualities based on actual physical you know"
+  },
+  {
+   "start": 3092.56,
+   "end": 3096.24,
+   "text": "benchmarks you have to say you know like with crossfit you have to I don't even know what it is but"
+  },
+  {
+   "start": 3096.24,
+   "end": 3100.24,
+   "text": "I guess you have to do a certain number to get level whatever and then like when you're in high school"
+  },
+  {
+   "start": 3100.24,
+   "end": 3104.48,
+   "text": "I remember you would have like if you could do certain setups or whatever you were at 90th percent of 20th"
+  },
+  {
+   "start": 3104.48,
+   "end": 3112.56,
+   "text": "so so yeah I have you have um to get a level of the warrior I wanted to pair it with the past so you would have all the"
+  },
+  {
+   "start": 3112.56,
+   "end": 3116.8,
+   "text": "different historical peoples of the past all the different warriors of the past from the different armors and even"
+  },
+  {
+   "start": 3116.8,
+   "end": 3121.28,
+   "text": "peasants and slaves and to people from different historical periods you know like in the industrial"
+  },
+  {
+   "start": 3121.36,
+   "end": 3125.44,
+   "text": "revolution when they got really out of shape or even when they're out of shape you know in the 50s"
+  },
+  {
+   "start": 3125.44,
+   "end": 3133.28,
+   "text": "I don't know in the 1800s or whatever or um just so you'd have typical people and then you would have like you know even"
+  },
+  {
+   "start": 3133.92,
+   "end": 3139.36,
+   "text": "movie actors and different typical sports actors and then typical people from different walks of life and ages and"
+  },
+  {
+   "start": 3139.36,
+   "end": 3146.16,
+   "text": "plug them all in there to make fighting levels and then but you have it but you also have it um you know"
+  },
+  {
+   "start": 3146.16,
+   "end": 3152.16,
+   "text": "if you could to have individual people like me try to obtain a certain fighting level by the certain fitness"
+  },
+  {
+   "start": 3152.16,
+   "end": 3156.56,
+   "text": "benchmarks so I have it by by burpees how many burpees in seven minutes because that's one of the"
+  },
+  {
+   "start": 3156.56,
+   "end": 3162.32,
+   "text": "um the um exercises and crossfit and a lot of people do that so you can plug yourself in"
+  },
+  {
+   "start": 3162.32,
+   "end": 3166.32,
+   "text": "and compare yourself with a lot of other people and burpees is kind of like a battle because you'd fall"
+  },
+  {
+   "start": 3166.32,
+   "end": 3172.48,
+   "text": "down try to get up in the battle and it's a bit as your whole body kind of like an battle and then uh"
+  },
+  {
+   "start": 3172.56,
+   "end": 3179.2,
+   "text": "rowing obviously for for the rowing but then for the fitness pull-ups I think I was going to do one how many pull-ups"
+  },
+  {
+   "start": 3179.92,
+   "end": 3185.76,
+   "text": "and then and then strength just raw brood strength because that has a lot to do with it so uh your total from"
+  },
+  {
+   "start": 3185.76,
+   "end": 3195.52,
+   "text": "uh bench press uh deadlift and uh squat and then um what else uh yeah and then and then um"
+  },
+  {
+   "start": 3195.92,
+   "end": 3202.8,
+   "text": "you would plug it in and also your size because I did it based off of a fighter divisions"
+  },
+  {
+   "start": 3203.44,
+   "end": 3211.44,
+   "text": "the average fighter division size difference is 90 is uh 9% so you know a well-to-weight to the next one up the middle"
+  },
+  {
+   "start": 3211.44,
+   "end": 3216.48,
+   "text": "way or whatever is it was going to be uh well-to-weight is going to be 91% of the middle way you know so the"
+  },
+  {
+   "start": 3216.48,
+   "end": 3222.56,
+   "text": "next one what is it and it always going to be actually gonna be 108% more so which interestingly enough is"
+  },
+  {
+   "start": 3222.56,
+   "end": 3228.56,
+   "text": "exactly same because I was looking at a form whatever somebody said that uh men like a man a top man"
+  },
+  {
+   "start": 3228.56,
+   "end": 3232.32,
+   "text": "athlete would have like three to four percent body fat and a top female athlete would have like"
+  },
+  {
+   "start": 3232.96,
+   "end": 3240.4,
+   "text": "12 to 15 or whatever 12 to 16 so like I compared it and so if you were to take female um"
+  },
+  {
+   "start": 3240.4,
+   "end": 3248.16,
+   "text": "but strength away based on like strength strength uh to weight ratio away based on their more"
+  },
+  {
+   "start": 3248.16,
+   "end": 3256.24,
+   "text": "fat content um that would mean that um the woman would be 91% as strong as a man pound pound for pound"
+  },
+  {
+   "start": 3256.24,
+   "end": 3263.04,
+   "text": "which is which is exactly the same as a division so one would be like one division down so so that uh you"
+  },
+  {
+   "start": 3263.04,
+   "end": 3271.44,
+   "text": "know so like a 200 pound girl would be a match for like 186 pound guy um and then um what else what other"
+  },
+  {
+   "start": 3271.44,
+   "end": 3278.4,
+   "text": "conversions and then ones for a skilled fighting like if you're like a black belt blue belt and stuff"
+  },
+  {
+   "start": 3278.4,
+   "end": 3284.4,
+   "text": "and uh in uh different martial arts you would add a certain you would add points so you would add a weight"
+  },
+  {
+   "start": 3285.04,
+   "end": 3288.8,
+   "text": "like each point would be like a pound you would add a pound if you're like a black belt and I think"
+  },
+  {
+   "start": 3288.8,
+   "end": 3293.84,
+   "text": "tumbling like if you're a tumbler that would be kind of like being like a brown belt um"
+  },
+  {
+   "start": 3294.72,
+   "end": 3303.12,
+   "text": "is that's what they did in those days um and then um and then yeah so I plugged in skill as well"
+  },
+  {
+   "start": 3304.0,
+   "end": 3307.6,
+   "text": "so I'll have kind of like two categories like without skill and then with skill but to just"
+  },
+  {
+   "start": 3307.6,
+   "end": 3312.4,
+   "text": "to kind of incorporate the whole MMA thing and make people interested in it and also to make it"
+  },
+  {
+   "start": 3312.4,
+   "end": 3316.48,
+   "text": "you know in the battlefield and when you do the fight you're actually learned the skill and um"
+  },
+  {
+   "start": 3317.44,
+   "end": 3326.0,
+   "text": "and what else did I decide to plug in um height because of the reach weight oh yeah so I have the"
+  },
+  {
+   "start": 3326.0,
+   "end": 3332.48,
+   "text": "different divisions so every 91 every 9% I would have like a new division and then a new division and then"
+  },
+  {
+   "start": 3332.48,
+   "end": 3338.4,
+   "text": "within you would have each division with uh goes from well right now from 300 pounds and increments of six"
+  },
+  {
+   "start": 3338.4,
+   "end": 3343.76,
+   "text": "pounds but I'm thinking about changing that too because you would get more points for help if you weigh"
+  },
+  {
+   "start": 3343.84,
+   "end": 3352.16,
+   "text": "more um and I only have it to 300 and people weigh 300 so anyway is um and what other what other"
+  },
+  {
+   "start": 3352.16,
+   "end": 3364.08,
+   "text": "bench mark um I have the page right here could have shown it um uh double unders maybe I had a whole"
+  },
+  {
+   "start": 3364.08,
+   "end": 3371.84,
+   "text": "bunch of lists of all these different exercises um I think I will put double unders because it's uh"
+  },
+  {
+   "start": 3372.0,
+   "end": 3376.16,
+   "text": "you know in like seven minutes you know that's kind of like what about away you would fight for somebody"
+  },
+  {
+   "start": 3376.16,
+   "end": 3380.48,
+   "text": "for you know people in the battle for running away or whatever and then coming back but yeah double"
+  },
+  {
+   "start": 3380.48,
+   "end": 3384.4,
+   "text": "under is what we'll be one because that's because there's muscles you use like in a battle or you would want to"
+  },
+  {
+   "start": 3384.4,
+   "end": 3389.2,
+   "text": "train for if you're gonna go out there in the battle oh and also studying people's punching power"
+  },
+  {
+   "start": 3389.2,
+   "end": 3394.24,
+   "text": "or to you know to plug in for the suit like I was even thinking about plugging the numbers for the suit"
+  },
+  {
+   "start": 3394.24,
+   "end": 3398.8,
+   "text": "and also what kind of uh activities people do to get better punching power so you would know"
+  },
+  {
+   "start": 3398.88,
+   "end": 3404.16,
+   "text": "the rough punching power different from people from different sports you know like um"
+  },
+  {
+   "start": 3405.28,
+   "end": 3409.68,
+   "text": "so that you would so so you would you would be able to give them a certain extra extra number of"
+  },
+  {
+   "start": 3409.68,
+   "end": 3420.8,
+   "text": "pounds or points based on what sport they did um and um what else maybe I should bring it up"
+  },
+  {
+   "start": 3420.8,
+   "end": 3430.11,
+   "text": "some sun talking about this let's see if it's already open oh it is check this out I know this"
+  },
+  {
+   "start": 3430.11,
+   "end": 3439.34,
+   "text": "I started this yesterday I don't know how my glasses are on so oh I'm actually showing it"
+  },
+  {
+   "start": 3442.19,
+   "end": 3447.87,
+   "text": "we're gonna show you a battle I call it battle soldier level because the other one was uh scout soldier"
+  },
+  {
+   "start": 3447.87,
+   "end": 3452.43,
+   "text": "so battle soldier fighter and those are the fighters so 200 pounds that's a new division because that's what"
+  },
+  {
+   "start": 3452.43,
+   "end": 3461.87,
+   "text": "the division differences is with uh I mean so um so we have fitness with binspits what deadlift body weight"
+  },
+  {
+   "start": 3461.95,
+   "end": 3466.83,
+   "text": "strength with burpees and seven hits pull ups fighting fitness punching power punching speed"
+  },
+  {
+   "start": 3466.83,
+   "end": 3471.79,
+   "text": "kicking power kicking speed yeah just like estimating based on what sport they did and then what you"
+  },
+  {
+   "start": 3471.79,
+   "end": 3477.15,
+   "text": "can do swimming rolling riding like just just sprinting you would plug that in a little bit too like"
+  },
+  {
+   "start": 3477.15,
+   "end": 3481.31,
+   "text": "because I wanted it running marked you have skill with and then what all these different ones"
+  },
+  {
+   "start": 3482.19,
+   "end": 3486.11,
+   "text": "and then athleticism you can do tumbling back flip you get extra points and if you're super flexible you"
+  },
+  {
+   "start": 3486.11,
+   "end": 3492.99,
+   "text": "get extra points and then height weight and then sex yeah and then what other sports you do but also um"
+  },
+  {
+   "start": 3494.03,
+   "end": 3502.19,
+   "text": "um and I think what else yeah oh and then yeah grace will be one crossfit grace will be one"
+  },
+  {
+   "start": 3503.31,
+   "end": 3509.87,
+   "text": "double enters I have it here and then pistol squat handclin the rope pistol squat handclin"
+  },
+  {
+   "start": 3510.51,
+   "end": 3516.51,
+   "text": "anyway think about making a couple but um I'd want to do it maybe something that anybody could do"
+  },
+  {
+   "start": 3516.51,
+   "end": 3522.59,
+   "text": "though you know somebody who doesn't have resources could kind of do this okay so uh I was going to"
+  },
+  {
+   "start": 3522.59,
+   "end": 3528.83,
+   "text": "how okay so I was going to have all of those binsh marks and yeah so then you could estimate what level of"
+  },
+  {
+   "start": 3528.83,
+   "end": 3534.43,
+   "text": "fighter you are compared to yourself and I have and I have a whole oh maybe I'll even show that do I"
+  },
+  {
+   "start": 3534.43,
+   "end": 3541.47,
+   "text": "have none here yet I have a whole um let me look I have a whole cross chart so you can"
+  },
+  {
+   "start": 3541.47,
+   "end": 3548.35,
+   "text": "I'm building it you can compare cross chart so like I have like 50 different levels"
+  },
+  {
+   "start": 3551.16,
+   "end": 3555.96,
+   "text": "all the way down here because like with my bike race or level I have a hundred so this is in there in 50"
+  },
+  {
+   "start": 3555.96,
+   "end": 3560.76,
+   "text": "so like with a cross chart because I have the cross chart with the bike race or level two so if you put"
+  },
+  {
+   "start": 3560.76,
+   "end": 3566.44,
+   "text": "like a level one against like a level 60 you would know exactly how long it would take them to take them out"
+  },
+  {
+   "start": 3566.44,
+   "end": 3573.72,
+   "text": "like like one on one like because you have you have five rounds of five minutes so I have it so that"
+  },
+  {
+   "start": 3574.68,
+   "end": 3579.4,
+   "text": "they haveiest person in one division against the lightest person in the same division"
+  },
+  {
+   "start": 3581.48,
+   "end": 3586.12,
+   "text": "for example you know like you feel a welterweight they haveiest in a welterweight compared to the lightest"
+  },
+  {
+   "start": 3586.12,
+   "end": 3591.8,
+   "text": "in the welterweight and in this one so somebody who's 300 against somebody who's 270 that means that I"
+  },
+  {
+   "start": 3591.8,
+   "end": 3597.24,
+   "text": "have it plugged in so it would take them 1,500 seconds to defeat them which is the whole round and 25 minutes I have"
+  },
+  {
+   "start": 3597.8,
+   "end": 3604.28,
+   "text": "calibrated to a championship round which is five rounds that are three rounds so they're in the same league but"
+  },
+  {
+   "start": 3607.0,
+   "end": 3614.12,
+   "text": "but no no I mean I'm sorry if it's the extreme that means he takes him out in one round the first round so they're in the same"
+  },
+  {
+   "start": 3614.12,
+   "end": 3621.96,
+   "text": "league but you take them out the first round so it's kind of a man handily whereas if this guy 300 pounds against"
+  },
+  {
+   "start": 3621.96,
+   "end": 3628.52,
+   "text": "two ninety four go against each other that means it takes him 300 seconds to take him out no no 1500 seconds to take him out"
+  },
+  {
+   "start": 3629.16,
+   "end": 3637.08,
+   "text": "so it'll take the whole bout because they're in the same level they're in level one just two extremes and if I"
+  },
+  {
+   "start": 3637.08,
+   "end": 3640.76,
+   "text": "guess if they're both 300 I guess theoretically it would have to be like decision or something but"
+  },
+  {
+   "start": 3641.4,
+   "end": 3649.16,
+   "text": "so anyway you plug it in exactly how many seconds you have it inversely calculated to a two an actual formula"
+  },
+  {
+   "start": 3650.52,
+   "end": 3655.88,
+   "text": "and you have it down so yeah so then you could you could you could predict that somebody in level"
+  },
+  {
+   "start": 3656.6,
+   "end": 3660.04,
+   "text": "you know like level 250 pounds and it doesn't mean that there are two hundred fifty count"
+  },
+  {
+   "start": 3660.04,
+   "end": 3662.92,
+   "text": "person that could be like a hundred fifty on person but they have all these skills you know"
+  },
+  {
+   "start": 3664.04,
+   "end": 3668.6,
+   "text": "and they're extra strong and stuff because because I'm all have the base level as somebody"
+  },
+  {
+   "start": 3668.6,
+   "end": 3673.48,
+   "text": "who is average strength which isn't really that strong and then it goes up from there so if somebody"
+  },
+  {
+   "start": 3673.48,
+   "end": 3678.2,
+   "text": "proves to be strong and then they have skill and they can be like one fifty so anyway so if you have somebody in like level"
+  },
+  {
+   "start": 3678.2,
+   "end": 3684.6,
+   "text": "250 a level like three go against somebody who's in level four so like thirty four so like somebody who's like"
+  },
+  {
+   "start": 3684.6,
+   "end": 3688.36,
+   "text": "two to fifty pounds against somebody's one hundred pounds how many seconds would it take him to"
+  },
+  {
+   "start": 3688.36,
+   "end": 3695.0,
+   "text": "take him out you know so like so and to make it like and I think if I calculate it mathematically"
+  },
+  {
+   "start": 3695.08,
+   "end": 3699.72,
+   "text": "and I was looking at it last night it actually works out to look pretty realistic you know like you would take"
+  },
+  {
+   "start": 3700.28,
+   "end": 3702.44,
+   "text": "like a 250 pounder"
+  },
+  {
+   "start": 3704.36,
+   "end": 3708.76,
+   "text": "12 seconds to take out somebody was 150 pounds so that's not about right"
+  },
+  {
+   "start": 3710.92,
+   "end": 3717.48,
+   "text": "and then it would take somebody who's like 60 seconds somebody I think I can have it written here"
+  },
+  {
+   "start": 3718.28,
+   "end": 3730.84,
+   "text": "there's somebody who's uh uh uh uh here's my here's my my golden rules those two and then uh"
+  },
+  {
+   "start": 3733.08,
+   "end": 3744.81,
+   "text": "and then um what was I talking about oh yeah the formula that's the formula there but um"
+  },
+  {
+   "start": 3745.77,
+   "end": 3749.61,
+   "text": "yeah but uh I think it was making sense like uh"
+  },
+  {
+   "start": 3751.21,
+   "end": 3757.53,
+   "text": "what was the middle one uh somebody who's uh in level one would take like 60 seconds to take up"
+  },
+  {
+   "start": 3759.37,
+   "end": 3764.01,
+   "text": "200 I can't remember it was like a 200 pounder would take 60 seconds to take out like a"
+  },
+  {
+   "start": 3764.81,
+   "end": 3773.05,
+   "text": "hundred and fifty pounder or something I don't know whatever so many cents so like uh I can"
+  },
+  {
+   "start": 3773.13,
+   "end": 3776.17,
+   "text": "make it make it make sense and then yeah you're plugging what your level is then you can be like"
+  },
+  {
+   "start": 3776.89,
+   "end": 3782.41,
+   "text": "so the whenever you do these these things you know who this person versus this person who wins"
+  },
+  {
+   "start": 3782.97,
+   "end": 3788.25,
+   "text": "you just refer to my chart or you just find out what level you are based on what you can do these"
+  },
+  {
+   "start": 3788.25,
+   "end": 3795.05,
+   "text": "different physical activities in and then maybe you even find time to figure out what your skill is I don't"
+  },
+  {
+   "start": 3795.05,
+   "end": 3800.17,
+   "text": "know like take a test like what is a triple lateral arm bar that's when you do this and then you pass"
+  },
+  {
+   "start": 3800.17,
+   "end": 3804.17,
+   "text": "and you can be okay so don't that oh maybe that doesn't work that way I have to practice but um"
+  },
+  {
+   "start": 3806.89,
+   "end": 3811.21,
+   "text": "yeah and so then you could compare yourself to people in the past like Alexander the Great like I'll"
+  },
+  {
+   "start": 3811.21,
+   "end": 3815.05,
+   "text": "all plug in actual people in the past here you know because you know big they are you know basically"
+  },
+  {
+   "start": 3815.05,
+   "end": 3820.09,
+   "text": "what they know off it there and then you can plug them in for the endurance too because when the past"
+  },
+  {
+   "start": 3820.09,
+   "end": 3824.09,
+   "text": "they were kind of like half endurance half that'll feel they have to be both but see that one of the"
+  },
+  {
+   "start": 3824.09,
+   "end": 3828.01,
+   "text": "reasons that I made this battlefield level battle soldier level is for the people who live in cities"
+  },
+  {
+   "start": 3828.01,
+   "end": 3833.05,
+   "text": "some of you people live in cities and they don't live in bolt and bolter you know in nice places where"
+  },
+  {
+   "start": 3833.05,
+   "end": 3838.33,
+   "text": "they can go out and bike ride and run and be an indoor athlete so they stay in cities and they get"
+  },
+  {
+   "start": 3838.33,
+   "end": 3842.09,
+   "text": "really muscular and strong well when they get really muscular and strong they get really heavy like"
+  },
+  {
+   "start": 3842.09,
+   "end": 3846.25,
+   "text": "two hundred like if I'm five ten if I was a big ass cross better dude when I'd be like 200 pounds"
+  },
+  {
+   "start": 3847.53,
+   "end": 3852.41,
+   "text": "so they can't really they're not as good at the endurance stuff it kind of brings their skill level down"
+  },
+  {
+   "start": 3852.41,
+   "end": 3857.37,
+   "text": "I mean a little bit I mean they're still good at like five k they can run at five k at like 20 minutes"
+  },
+  {
+   "start": 3857.37,
+   "end": 3865.85,
+   "text": "and stuff but the women can but um but um I think but um but like endurance they're a little bit less but I mean"
+  },
+  {
+   "start": 3865.85,
+   "end": 3872.89,
+   "text": "but the upsides like let's try to find it upside is that they can you know pick stuff up and move anything around"
+  },
+  {
+   "start": 3872.89,
+   "end": 3880.41,
+   "text": "and they could they'll do really good at these at these these these field battles this like the new sport you know"
+  },
+  {
+   "start": 3880.41,
+   "end": 3891.13,
+   "text": "and at the MMA one on one on all that kind of stuff and um and so um yeah so what was I talking about?"
+  },
+  {
+   "start": 3892.33,
+   "end": 3897.93,
+   "text": "yeah so you could oh and also to help you understand like history so you could be like yeah like me I'm a level"
+  },
+  {
+   "start": 3899.45,
+   "end": 3906.81,
+   "text": "14 I could be in you know I'm like with Bruce Lee I could I could hang with Bruce Lee out and you know"
+  },
+  {
+   "start": 3906.81,
+   "end": 3911.61,
+   "text": "the streets are on the car and be in the front fuckers up or I could be Bruce Lee out or I could like"
+  },
+  {
+   "start": 3912.49,
+   "end": 3918.65,
+   "text": "I could get John Colvin and Dan Zass or I could be in Alexander Greithass or I could like I could be in part of"
+  },
+  {
+   "start": 3919.61,
+   "end": 3924.41,
+   "text": "part of the the enderity because see what I wanted to do is mix them I wanted them to overlap"
+  },
+  {
+   "start": 3924.81,
+   "end": 3930.09,
+   "text": "so one of the benchmarks is actually you know it's a rolling it's only only short distance because it's more like fighting"
+  },
+  {
+   "start": 3930.09,
+   "end": 3935.53,
+   "text": "is more short distance and speed but like running you have to be able to sprint when you're a"
+  },
+  {
+   "start": 3935.53,
+   "end": 3940.17,
+   "text": "fight a good fighter on the battlefield so like a hundred meter sprints gonna be one of the benchmarks"
+  },
+  {
+   "start": 3941.53,
+   "end": 3947.93,
+   "text": "maybe the one hundred you know probably the one hundred the four hundred um the the mile you know"
+  },
+  {
+   "start": 3948.73,
+   "end": 3955.53,
+   "text": "and the rolling 200k two two thousand k because you want to be like um because like the good warrior has to be"
+  },
+  {
+   "start": 3956.25,
+   "end": 3961.13,
+   "text": "I you make yourself like a historical warrior different categories of warrior this is battlefield warrior"
+  },
+  {
+   "start": 3961.13,
+   "end": 3966.17,
+   "text": "but if you want to make sure you're like historical well rounded warrior you know or whatever you could"
+  },
+  {
+   "start": 3966.17,
+   "end": 3973.93,
+   "text": "maybe I could make the level I don't know but there's um kind of overlaps so I don't know if you're if you're"
+  },
+  {
+   "start": 3973.93,
+   "end": 3979.53,
+   "text": "what I'm trying to say is if you're a endurance athlete and you still do a little bit of weightlifting you can still have"
+  },
+  {
+   "start": 3979.53,
+   "end": 3987.21,
+   "text": "some fun and tinker with this and be like okay I could I could be a I could be a I could be this kind of a"
+  },
+  {
+   "start": 3987.21,
+   "end": 3993.37,
+   "text": "scout you know I could do what this guy did in this because historical story I don't know how many there are people doing stuff"
+  },
+  {
+   "start": 3993.37,
+   "end": 3998.09,
+   "text": "but I could do it filled with 50BDs did and I'm at this level battle I could hang with these warriors"
+  },
+  {
+   "start": 3999.37,
+   "end": 4004.89,
+   "text": "you know I could beat your your standard gyrcus soldier because there are a lot of soldiers in the past and real life wars"
+  },
+  {
+   "start": 4005.45,
+   "end": 4014.25,
+   "text": "who sucked ass like the you know like when the Persians tried to attack the Greeks remember from 300"
+  },
+  {
+   "start": 4014.81,
+   "end": 4020.81,
+   "text": "those guys suck like the the the the 10,000 remember the mortals what the mortals were it was"
+  },
+  {
+   "start": 4020.81,
+   "end": 4026.73,
+   "text": "just it was like a legion of 10,000 people in a formation and so whenever people in them would die they would just"
+  },
+  {
+   "start": 4026.73,
+   "end": 4033.37,
+   "text": "fill them up and originally it was you know as the best fighters but but the big bulk of the fighters who crossed over there were just"
+  },
+  {
+   "start": 4034.33,
+   "end": 4040.41,
+   "text": "there were just farmers they were like who didn't even speak their language they were just gathered up and brought over there"
+  },
+  {
+   "start": 4040.81,
+   "end": 4044.65,
+   "text": "because they he thought like a big hoard could kill him you know and so"
+  },
+  {
+   "start": 4045.53,
+   "end": 4047.53,
+   "text": "that's why 300"
+  },
+  {
+   "start": 4048.41,
+   "end": 4052.65,
+   "text": "Spartans were able to defeat what it was like 12,000 guys or something you know"
+  },
+  {
+   "start": 4056.17,
+   "end": 4063.85,
+   "text": "all right my card filled up and to put another card in so that was saying is that if you're gonna get like a somebody who is you equivalent"
+  },
+  {
+   "start": 4063.93,
+   "end": 4070.89,
+   "text": "of you know like a bad ass historical warrior you know like there's a story of this giant"
+  },
+  {
+   "start": 4072.09,
+   "end": 4077.05,
+   "text": "Viking soldier who in the Vikings were doing the raids on like one of those"
+  },
+  {
+   "start": 4079.37,
+   "end": 4086.17,
+   "text": "you know English towns he was standing on the on a bridge and nobody could get past him he was just"
+  },
+  {
+   "start": 4086.17,
+   "end": 4091.05,
+   "text": "killing everybody until somebody finally got under the bridge and there was a hole into the bridge and"
+  },
+  {
+   "start": 4091.05,
+   "end": 4098.41,
+   "text": "like got him from below so like but if you were gonna get somebody you know like a modern day person who is like at that level"
+  },
+  {
+   "start": 4098.89,
+   "end": 4103.05,
+   "text": "and get him on the battlefield and fight off like people who are at the same level as um"
+  },
+  {
+   "start": 4103.85,
+   "end": 4110.57,
+   "text": "like your common you know Persian slave warrior who came over to try to take over Greece you know"
+  },
+  {
+   "start": 4113.29,
+   "end": 4119.05,
+   "text": "either guy would just like mo do it down you know like especially if they weren't trained you know"
+  },
+  {
+   "start": 4119.13,
+   "end": 4125.37,
+   "text": "like there there were not only were they like just farmers and stuff but they were like not didn't know what they were doing"
+  },
+  {
+   "start": 4125.37,
+   "end": 4129.77,
+   "text": "because you know any like MMA person when tell you it's all about training so and then"
+  },
+  {
+   "start": 4130.41,
+   "end": 4133.61,
+   "text": "they were you know back in those days it was there were like MMA that were trained"
+  },
+  {
+   "start": 4135.45,
+   "end": 4141.37,
+   "text": "for some reason they were actual tactics didn't go come down but um so it's very historical so"
+  },
+  {
+   "start": 4141.37,
+   "end": 4146.25,
+   "text": "you could even have and there's people in real life we're just normal people who you could get to go in there"
+  },
+  {
+   "start": 4146.25,
+   "end": 4150.57,
+   "text": "because they don't get hit because it hurt because they're in their suits so you could actually recreate"
+  },
+  {
+   "start": 4151.13,
+   "end": 4156.17,
+   "text": "real life battles that really happened like you could you could have like a TV show you know who puts on the"
+  },
+  {
+   "start": 4156.17,
+   "end": 4161.69,
+   "text": "productions for the entertainment of the people in TV you could say okay now we're recreating the battle of"
+  },
+  {
+   "start": 4164.73,
+   "end": 4169.93,
+   "text": "some battle where you know it's it's the right size for the certain field it's maybe it's like"
+  },
+  {
+   "start": 4169.93,
+   "end": 4179.85,
+   "text": "to 2500 against 2500 and and we need you know a certain number of people because of certain"
+  },
+  {
+   "start": 4179.85,
+   "end": 4186.73,
+   "text": "sides of the people were like picked peasants you know rebelling and then the other side were a bunch of"
+  },
+  {
+   "start": 4186.73,
+   "end": 4193.37,
+   "text": "knights so you would have to get you know you'd say okay we're doing cast and call we need so and so"
+  },
+  {
+   "start": 4193.37,
+   "end": 4198.65,
+   "text": "it dudes at this level and then we need so and so dudes at this level and then when you get them at the"
+  },
+  {
+   "start": 4198.65,
+   "end": 4203.93,
+   "text": "battle you just put the guys where they need to go to correspond to the actual battle in history and then you"
+  },
+  {
+   "start": 4203.93,
+   "end": 4209.69,
+   "text": "haven't got each other and the battle probably turned out kind of the same way you know that i mean like"
+  },
+  {
+   "start": 4209.69,
+   "end": 4215.05,
+   "text": "tactics you would just you try to recreate battles by getting the right kind of fighters in the right position"
+  },
+  {
+   "start": 4215.05,
+   "end": 4220.65,
+   "text": "and just let them do what they do and so everybody wins and you know or you know you could you"
+  },
+  {
+   "start": 4220.65,
+   "end": 4223.93,
+   "text": "and there's all sorts of different ways you can go about that you could you could have them tell them"
+  },
+  {
+   "start": 4224.73,
+   "end": 4230.73,
+   "text": "to do certain tactics to try to win you know and they each wanted the same tactic but it"
+  },
+  {
+   "start": 4230.73,
+   "end": 4234.73,
+   "text": "ends up making the battle kind of the same because people in those days knew tactics too so"
+  },
+  {
+   "start": 4234.73,
+   "end": 4240.81,
+   "text": "and you would make the battle field like the same kind of physical you know like you could recreate the"
+  },
+  {
+   "start": 4240.81,
+   "end": 4247.29,
+   "text": "battle 300 and a football field you would just you know put a wedge and then you just have a bunch of like"
+  },
+  {
+   "start": 4247.29,
+   "end": 4252.89,
+   "text": "normal people run out a bunch of football players or something and try to kill them in a hundred you"
+  },
+  {
+   "start": 4252.97,
+   "end": 4256.57,
+   "text": "just watching you mow down just like in the move but it would make it so realistic because it's real"
+  },
+  {
+   "start": 4257.61,
+   "end": 4266.01,
+   "text": "and yeah so and it kind of makes everybody it can make everybody participate I like the idea of making"
+  },
+  {
+   "start": 4266.01,
+   "end": 4272.09,
+   "text": "everybody participate to everybody with everybody you don't have any you don't have any one custodian kind of person"
+  },
+  {
+   "start": 4273.93,
+   "end": 4278.49,
+   "text": "watching while the other person deal the other person does it or there it's all segregated these guys"
+  },
+  {
+   "start": 4278.49,
+   "end": 4282.57,
+   "text": "go and then these guys go just throw them all in the battlefield you know because when we're trying to"
+  },
+  {
+   "start": 4282.57,
+   "end": 4289.21,
+   "text": "make everybody understand everything the same way kind of bring everybody to to experience the same stuff so"
+  },
+  {
+   "start": 4289.77,
+   "end": 4295.05,
+   "text": "with the suits and nobody gets hurt and have everybody jump in there together and you know maybe you could"
+  },
+  {
+   "start": 4295.05,
+   "end": 4300.73,
+   "text": "have like family bands we're the band to family's trying to just trying to get across the battlefield without dying you know"
+  },
+  {
+   "start": 4300.73,
+   "end": 4305.69,
+   "text": "because maybe that's what people do let's just get the hell out of here oh shit oh they're trying to kill us that kind"
+  },
+  {
+   "start": 4305.69,
+   "end": 4311.13,
+   "text": "of stuff and you're a good runner so you just absolutely mayhem on the fucking battlefield it would be"
+  },
+  {
+   "start": 4311.13,
+   "end": 4316.73,
+   "text": "so fucking hilarious you can have people like undrugs you could you could get the whole people on the"
+  },
+  {
+   "start": 4316.73,
+   "end": 4322.09,
+   "text": "ass and then have them and see what happens you know it's like modern gladiatorial combat but not with animals who"
+  },
+  {
+   "start": 4322.09,
+   "end": 4327.13,
+   "text": "can't say yes or no but with humans who decide to do it who are having fun and I'll get hurt because of the suits"
+  },
+  {
+   "start": 4327.93,
+   "end": 4331.61,
+   "text": "so anyways that's what I was talking about so I'm gonna I'm trying to work on the site to make the levels"
+  },
+  {
+   "start": 4332.17,
+   "end": 4340.81,
+   "text": "and and and all that other stuff too which I'm doing I'm not gonna like do any of the detail of"
+  },
+  {
+   "start": 4340.81,
+   "end": 4346.57,
+   "text": "pairing I guess the scenes are only I only set the casket of the the shell of that up and then"
+  },
+  {
+   "start": 4347.13,
+   "end": 4352.01,
+   "text": "doly sees or I just set that kind of the shell of that up there but I oh yeah I do want to try to connect"
+  },
+  {
+   "start": 4352.01,
+   "end": 4359.45,
+   "text": "all of it because I have been making a lot of your pages you know like the non-buyking so I do want to connect"
+  },
+  {
+   "start": 4359.45,
+   "end": 4365.05,
+   "text": "and also have to download the the Google Earth stuff because you know like I said I want to"
+  },
+  {
+   "start": 4365.05,
+   "end": 4370.89,
+   "text": "start writing my bike at the beginning of uh dead January and so yeah I decided to go hardcore you know it's"
+  },
+  {
+   "start": 4370.89,
+   "end": 4375.05,
+   "text": "like a battle you know I gotta be a battle you gotta oh yeah 103 seven miles a day so start I'm"
+  },
+  {
+   "start": 4375.05,
+   "end": 4380.25,
+   "text": "gonna try to do like what I said I take I tried it not last winter but the winter before last I rode"
+  },
+  {
+   "start": 4383.45,
+   "end": 4387.53,
+   "text": "my rollers three 300 miles and three days 100 miles a day for three days"
+  },
+  {
+   "start": 4388.33,
+   "end": 4396.41,
+   "text": "because I wanted to ride 100 miles a day for a whole month 3000 miles in a month to get in a shape"
+  },
+  {
+   "start": 4396.41,
+   "end": 4402.09,
+   "text": "because that would be like my battle that would be like my late my late two or because you know a normal"
+  },
+  {
+   "start": 4402.09,
+   "end": 4408.09,
+   "text": "person could ride 100 miles a day for a month but you know it took me like an eight and a half hours to ride"
+  },
+  {
+   "start": 4408.09,
+   "end": 4414.25,
+   "text": "on a mile because I'm not that strong because I'm out of shape so that doesn't leave me much time to do"
+  },
+  {
+   "start": 4414.33,
+   "end": 4419.13,
+   "text": "other stuff so I would do it in the winter obviously so I was just like I'd be writing all day long so that would"
+  },
+  {
+   "start": 4419.13,
+   "end": 4425.29,
+   "text": "be like mimicking my life as that when I'm actually doing it I'm in shape just all day long writing and so"
+  },
+  {
+   "start": 4425.29,
+   "end": 4430.57,
+   "text": "it would take me all day long to do that so that's my goal and then once I do that I'll be in pretty good shape"
+  },
+  {
+   "start": 4430.57,
+   "end": 4435.77,
+   "text": "and that can make I can make predictions of how strong I think I'll be at this certain level and then go out and"
+  },
+  {
+   "start": 4435.77,
+   "end": 4442.89,
+   "text": "see if it's true you know that's also so so anyway so that's the news is that I'm gonna be starting"
+  },
+  {
+   "start": 4442.89,
+   "end": 4449.47,
+   "text": "on the banyu jarenory first to be as steelius Caesar to permele see it because as steelius"
+  },
+  {
+   "start": 4449.47,
+   "end": 4453.71,
+   "text": "Caesar goes through his life see like in the battle in the battle of the least he of the last battle when"
+  },
+  {
+   "start": 4453.71,
+   "end": 4468.75,
+   "text": "he was 58 years old he was in the front of his army dressed in a bright red robe on top of his horse"
+  },
+  {
+   "start": 4469.55,
+   "end": 4475.79,
+   "text": "charging at the enemy with a sword in his hand killing mother fuckers himself"
+  },
+  {
+   "start": 4480.11,
+   "end": 4488.83,
+   "text": "you know what I mean so so that motherfucker did it I don't know he wasn't 58 he was 48 but yeah so if"
+  },
+  {
+   "start": 4488.83,
+   "end": 4492.51,
+   "text": "you can do it I'm gonna I'll be out there conquering the friendship 48 too"
+  },
+  {
+   "start": 4492.99,
+   "end": 4497.95,
+   "text": "um only I'll be wearing the yellow jersey not the red robe"
+  },
+  {
+   "start": 4499.55,
+   "end": 4505.87,
+   "text": "so that's after the torsion vortex opens I'll explain the all the whole training"
+  },
+  {
+   "start": 4506.83,
+   "end": 4512.75,
+   "text": "the whole training technique it's it's complicated and take like an hour to talk about so"
+  },
+  {
+   "start": 4515.9,
+   "end": 4519.58,
+   "text": "that's that so that's what I'm doing now oh yeah but so I told my mom that I was going to take"
+  },
+  {
+   "start": 4519.58,
+   "end": 4524.78,
+   "text": "my mom took me out to eat my mom says I'm gonna take you out to eat every week now it's like awesome"
+  },
+  {
+   "start": 4525.34,
+   "end": 4530.06,
+   "text": "because we went to the fucking grocery mall there you have beers but I was like she's like how many"
+  },
+  {
+   "start": 4530.06,
+   "end": 4536.38,
+   "text": "longer until you're website and I was like yeah I said the beginning of January she's like that long"
+  },
+  {
+   "start": 4536.38,
+   "end": 4540.86,
+   "text": "like this was a month so many months every month the world's gonna change everybody's gonna get out of"
+  },
+  {
+   "start": 4540.86,
+   "end": 4547.9,
+   "text": "you and something like what no I don't know I think I can do it I mean by then it'll be if I can do"
+  },
+  {
+   "start": 4549.58,
+   "end": 4557.5,
+   "text": "see what I'm gonna do is I'm just gonna like I want to try to do whatever I'll just I'll just I can't"
+  },
+  {
+   "start": 4559.9,
+   "end": 4566.86,
+   "text": "focus in on certain things that I focus on that's kind of futile to hide for that so I'll just like I'll try to"
+  },
+  {
+   "start": 4566.86,
+   "end": 4571.74,
+   "text": "focus I'll try as much as I can to focus on I want to tie up the loose ends and then the the levels"
+  },
+  {
+   "start": 4571.74,
+   "end": 4578.94,
+   "text": "by grizzled page and try to triage out back out of the yeah yeah so I'll just try to back out"
+  },
+  {
+   "start": 4579.58,
+   "end": 4583.42,
+   "text": "of the Google Earth tracing thing like I was trying to do before and not even try to catch up to"
+  },
+  {
+   "start": 4583.42,
+   "end": 4589.98,
+   "text": "where I was before because I can do that shit on the bike anyway even if it's yeah thank you interest so"
+  },
+  {
+   "start": 4591.58,
+   "end": 4597.02,
+   "text": "yeah so at the 7 months I don't think it's that long off so I'll just hammer and tell then I think I can"
+  },
+  {
+   "start": 4597.02,
+   "end": 4603.98,
+   "text": "uh I can think I can tie up some loose ends enough to be able to ignite the fire where I can"
+  },
+  {
+   "start": 4603.98,
+   "end": 4611.58,
+   "text": "have the self-generating flame the free energy machine where I don't go oh fuck I'm not"
+  },
+  {
+   "start": 4611.58,
+   "end": 4615.9,
+   "text": "fine off and I'm a wet site fuck I got it all this one but you know I'll be more locked in this time"
+  },
+  {
+   "start": 4615.9,
+   "end": 4620.14,
+   "text": "because I'll try to be paired up with Julia Cesar you know I mean Julia Cesar's doing it with the same age"
+  },
+  {
+   "start": 4620.78,
+   "end": 4625.82,
+   "text": "we went to high school together you know my my friend Julia Cesar doing it I'm Julia's doing it"
+  },
+  {
+   "start": 4625.9,
+   "end": 4630.3,
+   "text": "you know so so that's that you have talked long enough"
+  },
+  {
+   "start": 4630.3,
+   "end": 4632.3,
+   "text": "good peace out"
+  }
+ ]
+}

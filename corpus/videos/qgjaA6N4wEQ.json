@@ -1,0 +1,3467 @@
+{
+ "youtube_id": "qgjaA6N4wEQ",
+ "title": "Timeline on my Website Tour - Stoned",
+ "url": "https://youtu.be/qgjaA6N4wEQ",
+ "published_at": "2015-09-08",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle tours his personal history timeline website, a multi-section project spanning 15 billion years into the past to 52,000 years into the future, organized into six interlinked sections (prehistory, BC, CE, a 3000-year dense section, and future). He explains its design philosophy: five-column pages for visual and mental symmetry, 12 exponentially-scaling time dimensions, 99 color-and-font-coded event types (11 categories × 9 causes), and UN subregion navigation. He argues that a complete, condensed timeline makes it possible for anyone to become 'history literate' and predict current events by recognizing historical patterns.",
+  "speaker": "kyle",
+  "topics": [
+   "history timeline",
+   "website tour",
+   "information design",
+   "memorization",
+   "visual layout",
+   "time dimensions",
+   "historical literacy",
+   "color coding"
+  ],
+  "stances": [
+   {
+    "topic": "completeness of information",
+    "position": "knowing the full scope and outer boundaries of a subject makes it feel smaller and easier to learn"
+   },
+   {
+    "topic": "five-column layout",
+    "position": "five columns is the perfect number for lists — visually and mentally symmetrical, best use of page width"
+   },
+   {
+    "topic": "history literacy",
+    "position": "people who know history can identify patterns in current events and make better decisions"
+   },
+   {
+    "topic": "non-linear learning",
+    "position": "people learn better when they can skip around freely, so a complete navigable timeline beats a linear book"
+   },
+   {
+    "topic": "exponential time scaling",
+    "position": "prehistory must scale exponentially because human knowledge of the past decreases exponentially the further back you go"
+   }
+  ],
+  "entities": [
+   "Francis Drake",
+   "Elizabeth I",
+   "Henry VII",
+   "James I",
+   "Ottoman Empire",
+   "British Empire",
+   "France",
+   "Russia",
+   "Rome",
+   "Sparta",
+   "World War I",
+   "Battle of Gallipoli",
+   "United Nations"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 4.88,
+   "text": "I would like to introduce you to my history timeline now."
+  },
+  {
+   "start": 4.88,
+   "end": 9.08,
+   "text": "It has five different sections."
+  },
+  {
+   "start": 9.08,
+   "end": 12.08,
+   "text": "The biggest ones are the BC and C,"
+  },
+  {
+   "start": 12.08,
+   "end": 16.64,
+   "text": "each one BC has 200 pages, because it goes back farther years."
+  },
+  {
+   "start": 19.64,
+   "end": 25.64,
+   "text": "With 397 pages of text, the common arrow one has 160 pages,"
+  },
+  {
+   "start": 25.64,
+   "end": 30.64,
+   "text": "because it only goes 200 years, 2000 years from zero to present."
+  },
+  {
+   "start": 30.64,
+   "end": 35.64,
+   "text": "BC goes from zero to 5000 years back."
+  },
+  {
+   "start": 35.64,
+   "end": 40.64,
+   "text": "The 80 section has 2390 pages."
+  },
+  {
+   "start": 40.64,
+   "end": 44.64,
+   "text": "Future section as well has 160 pages."
+  },
+  {
+   "start": 44.64,
+   "end": 47.64,
+   "text": "Each page is to about a page of text right now."
+  },
+  {
+   "start": 47.64,
+   "end": 48.64,
+   "text": "It hasn't been filled in yet."
+  },
+  {
+   "start": 48.64,
+   "end": 52.02,
+   "text": "We've gotten that far."
+  },
+  {
+   "start": 52.02,
+   "end": 56.02,
+   "text": "Then I have prehistory pages 58 of those,"
+  },
+  {
+   "start": 56.02,
+   "end": 61.02,
+   "text": "which go out in the different time dimensions, which I'll explain."
+  },
+  {
+   "start": 61.02,
+   "end": 63.02,
+   "text": "And that's 83 pages of text right now."
+  },
+  {
+   "start": 63.02,
+   "end": 66.02,
+   "text": "It's still in its beginner stages."
+  },
+  {
+   "start": 66.02,
+   "end": 70.02,
+   "text": "Then I have the 3000 years back section,"
+  },
+  {
+   "start": 70.02,
+   "end": 76.02,
+   "text": "which has two pages, one from present to 500 and then 500 to 3000 years back."
+  },
+  {
+   "start": 76.02,
+   "end": 78.02,
+   "text": "So they're 15 years."
+  },
+  {
+   "start": 79.02,
+   "end": 82.02,
+   "text": "It's like twice as big as this one."
+  },
+  {
+   "start": 82.02,
+   "end": 84.02,
+   "text": "It's when you will let's talk about it all."
+  },
+  {
+   "start": 84.02,
+   "end": 89.49,
+   "text": "So this is complete history timeline."
+  },
+  {
+   "start": 89.49,
+   "end": 96.27,
+   "text": "So let's have this thing read to us."
+  },
+  {
+   "start": 96.27,
+   "end": 100.27,
+   "text": "And then I will explain."
+  },
+  {
+   "start": 100.27,
+   "end": 103.97,
+   "text": "Welcome to the complete world history timeline."
+  },
+  {
+   "start": 103.97,
+   "end": 105.97,
+   "text": "The purpose of this timeline is to make it so the users,"
+  },
+  {
+   "start": 105.97,
+   "end": 107.97,
+   "text": "able to memorize all of the events that ever happened in recorded history,"
+  },
+  {
+   "start": 107.97,
+   "end": 109.97,
+   "text": "and categorized and classified into any context that they need to."
+  },
+  {
+   "start": 109.97,
+   "end": 111.97,
+   "text": "So that they are history literate."
+  },
+  {
+   "start": 111.97,
+   "end": 113.97,
+   "text": "When someone is just re-literate, they are able to identify the types of current events,"
+  },
+  {
+   "start": 113.97,
+   "end": 115.97,
+   "text": "and predict what their results will be."
+  },
+  {
+   "start": 115.97,
+   "end": 117.97,
+   "text": "The more of us who are just re-literate, the better death these sounds,"
+  },
+  {
+   "start": 117.97,
+   "end": 119.97,
+   "text": "we will be able to make regarding our present in future conditions."
+  },
+  {
+   "start": 119.97,
+   "end": 123.97,
+   "text": "One, the complete history timeline includes everything that ever happened in the entirety of recorded and non recorded history,"
+  },
+  {
+   "start": 123.97,
+   "end": 124.97,
+   "text": "as well as the future."
+  },
+  {
+   "start": 124.97,
+   "end": 127.97,
+   "text": "To the entire collection of the timeline is divided into six interlinkable sections,"
+  },
+  {
+   "start": 127.97,
+   "end": 131.97,
+   "text": "one prehistory, two BC, three CE, four five 3000 years back in dense AMP and six future."
+  },
+  {
+   "start": 131.97,
+   "end": 135.97,
+   "text": "The prehistory goes as far back as 15 billion years and the future goes 52,000 years into the future,"
+  },
+  {
+   "start": 135.97,
+   "end": 139.97,
+   "text": "for a total time span of 15 billion and 52,000 years or 15 billion, 52,000 years."
+  },
+  {
+   "start": 139.97,
+   "end": 142.97,
+   "text": "And a historical event on the timeline are in a list format with five columns per page."
+  },
+  {
+   "start": 142.97,
+   "end": 145.97,
+   "text": "I have found this to be the perfect number of columns to have side by side in a page,"
+  },
+  {
+   "start": 145.97,
+   "end": 147.97,
+   "text": "we'd listen them because it is the most visually symmetrical."
+  },
+  {
+   "start": 147.97,
+   "end": 150.97,
+   "text": "With one column in the middle and two on each side of that, as well as the most mentally symmetrical."
+  },
+  {
+   "start": 150.97,
+   "end": 153.97,
+   "text": "With multiples of five you can grow it through the exponent and continuously symmetrical way,"
+  },
+  {
+   "start": 153.97,
+   "end": 155.97,
+   "text": "such as one to five to fifteen so on."
+  },
+  {
+   "start": 155.97,
+   "end": 157.97,
+   "text": "The width of the columns for lists is also the best with five,"
+  },
+  {
+   "start": 157.97,
+   "end": 160.97,
+   "text": "because most subjects of a list can be consents down to the number of words that would almost take up the width of the column,"
+  },
+  {
+   "start": 160.97,
+   "end": 162.97,
+   "text": "so the most amount of space is being used."
+  },
+  {
+   "start": 162.97,
+   "end": 164.97,
+   "text": "For the bulk of the timeline is in the BC and CE sections,"
+  },
+  {
+   "start": 164.97,
+   "end": 167.97,
+   "text": "in these sections each column represents 100 years and the width of the page represents 500 years."
+  },
+  {
+   "start": 167.97,
+   "end": 168.97,
+   "text": "The other four pages can then time differently."
+  },
+  {
+   "start": 168.97,
+   "end": 171.97,
+   "text": "The two 3000 year gap pages can then time five times more than the BC and CE pages,"
+  },
+  {
+   "start": 171.97,
+   "end": 176.97,
+   "text": "so that each column represents 500 years instead of 100 years and the width of the page represents 2500 years instead of 500 years."
+  },
+  {
+   "start": 176.97,
+   "end": 180.97,
+   "text": "Part A goes from 2000 CE to 500 BC and Part B goes from 500 BC to 3000 BC."
+  },
+  {
+   "start": 180.97,
+   "end": 182.97,
+   "text": "The timeline can then say it's time into 12 total time dimensions."
+  },
+  {
+   "start": 182.97,
+   "end": 185.97,
+   "text": "There are four time dimensions for the future, one for the BC and CE sections,"
+  },
+  {
+   "start": 185.97,
+   "end": 188.97,
+   "text": "a special one for the 3000 years, concept section, and nine for the prehistory section."
+  },
+  {
+   "start": 188.97,
+   "end": 191.97,
+   "text": "In the future sections, the time dimensions increase by a factor of 10, twice and five once."
+  },
+  {
+   "start": 191.97,
+   "end": 196.97,
+   "text": "In the prehistory section, the increase by a factor of 5, 4, 3, 10, 10, 10, 10, 10, 10."
+  },
+  {
+   "start": 196.97,
+   "end": 199.97,
+   "text": "Five at the top of each page is the traditional horizontal timeline section."
+  },
+  {
+   "start": 199.97,
+   "end": 203.97,
+   "text": "Six each page divides the different parts of the world into 16 sections created from the 19 United Nations suffrogens."
+  },
+  {
+   "start": 203.97,
+   "end": 207.97,
+   "text": "Seven the timeline is linked so that you can navigate to any United Nations suffrogent within the current page,"
+  },
+  {
+   "start": 207.97,
+   "end": 211.97,
+   "text": "or navigate to any one of the other 500 year pages within the section, as well as navigate one page forward or backward."
+  },
+  {
+   "start": 211.97,
+   "end": 216.97,
+   "text": "Eight the events are divided into 99 events that are created by the combination of one of the 11 event categories and one of the nine event causes."
+  },
+  {
+   "start": 216.97,
+   "end": 221.97,
+   "text": "Nine event types are called or infong coded in their text and borders to reflect their event category and event cause."
+  },
+  {
+   "start": 221.97,
+   "end": 240.97,
+   "text": "So the idea of the timeline is to make it so that you can memorize all of the events that ever happen in history and categorize them, classify them in any context that you need to, so that you'll be history later."
+  },
+  {
+   "start": 240.97,
+   "end": 245.97,
+   "text": "So I think that's possible to do that."
+  },
+  {
+   "start": 245.97,
+   "end": 251.97,
+   "text": "If you get interested in it and you just keep studying it and studying it, you'll be able to know all of it."
+  },
+  {
+   "start": 251.97,
+   "end": 253.97,
+   "text": "If you know how big it is."
+  },
+  {
+   "start": 253.97,
+   "end": 262.97,
+   "text": "So it includes everything that ever happened in history and the entirety of recorded and non-requorded history as well in the future."
+  },
+  {
+   "start": 262.97,
+   "end": 270.97,
+   "text": "So everything we know about non-requorded history so I can include everything because we don't know everything so we can put it all in that."
+  },
+  {
+   "start": 270.97,
+   "end": 276.97,
+   "text": "And then recorded history is even limited so you can include that as well all of that in there."
+  },
+  {
+   "start": 276.97,
+   "end": 278.97,
+   "text": "So."
+  },
+  {
+   "start": 278.97,
+   "end": 284.97,
+   "text": "Non-requorded history goes back really far so you have to have it extend back in time."
+  },
+  {
+   "start": 284.97,
+   "end": 294.97,
+   "text": "And in an exponential way because you learn you know things in history exponentially as both back in time you know the, you know, exponentially less as it goes exponentially back."
+  },
+  {
+   "start": 294.97,
+   "end": 297.97,
+   "text": "So."
+  },
+  {
+   "start": 297.97,
+   "end": 300.97,
+   "text": "I have it grow exponentially."
+  },
+  {
+   "start": 300.97,
+   "end": 307.97,
+   "text": "Yeah, it's included it's important to have everything that ever happened in history because."
+  },
+  {
+   "start": 307.97,
+   "end": 312.97,
+   "text": "Then you know it helps you study because."
+  },
+  {
+   "start": 312.97,
+   "end": 315.97,
+   "text": "Whenever somebody studying something."
+  },
+  {
+   "start": 315.97,
+   "end": 324.97,
+   "text": "Sometimes you get bored and you want to study something else another part of whatever you're studying you know you want to skip around."
+  },
+  {
+   "start": 324.97,
+   "end": 330.97,
+   "text": "If you're reading a book you get bored and you just want to read the end of it and so."
+  },
+  {
+   "start": 330.97,
+   "end": 335.97,
+   "text": "For people who just want to read the end of it and then get back to the beginning and then."
+  },
+  {
+   "start": 335.97,
+   "end": 343.97,
+   "text": "Do the middle and learn in a non-linear way which is what might as well as that website is designed around to learn stuff."
+  },
+  {
+   "start": 343.97,
+   "end": 347.97,
+   "text": "Being able to just skip around."
+  },
+  {
+   "start": 347.97,
+   "end": 349.97,
+   "text": "Then."
+  },
+  {
+   "start": 349.97,
+   "end": 351.97,
+   "text": "You."
+  },
+  {
+   "start": 351.97,
+   "end": 355.97,
+   "text": "Then you need to be able to."
+  },
+  {
+   "start": 355.97,
+   "end": 361.28,
+   "text": "Know where the end is you know so just don't you have to have."
+  },
+  {
+   "start": 361.28,
+   "end": 364.28,
+   "text": "Everything you just don't you don't want to say okay so here."
+  },
+  {
+   "start": 364.28,
+   "end": 369.28,
+   "text": "Here you have someone here this is a castle and now this is one of the bigger."
+  },
+  {
+   "start": 369.28,
+   "end": 376.28,
+   "text": "You say no this is castle number five twenty six out of eleven hundred ninety two."
+  },
+  {
+   "start": 377.28,
+   "end": 384.28,
+   "text": "And you know you know number you know exactly and and it's numbered in terms of something you know like how big it is or one of us."
+  },
+  {
+   "start": 384.28,
+   "end": 386.28,
+   "text": "You know all the text about it."
+  },
+  {
+   "start": 386.28,
+   "end": 392.28,
+   "text": "It's possible to know everything because it's limited you know there's only like a thousand or whatever in the world."
+  },
+  {
+   "start": 392.28,
+   "end": 401.28,
+   "text": "That's why it has to be complete and that's what I'm going to complain come explain here and you can even illustrate it visually."
+  },
+  {
+   "start": 402.28,
+   "end": 413.28,
+   "text": "See I can't even it's a lot easier to it condenses knowledge if you know something that's complete."
+  },
+  {
+   "start": 413.28,
+   "end": 421.28,
+   "text": "Then it makes it all seem smaller if you don't know where the outer boundaries of it are and what and how many of there are of them there are and."
+  },
+  {
+   "start": 421.28,
+   "end": 427.28,
+   "text": "How big it actually is then it makes it kind of seem like it goes out forever and it's."
+  },
+  {
+   "start": 427.28,
+   "end": 428.28,
+   "text": "And it's."
+  },
+  {
+   "start": 428.28,
+   "end": 431.28,
+   "text": "I'm not going to believe it and it's gigantic."
+  },
+  {
+   "start": 431.28,
+   "end": 437.28,
+   "text": "You know kind of like this and when it spread out vertically one two three down like this."
+  },
+  {
+   "start": 437.28,
+   "end": 444.28,
+   "text": "If it had to get all the way to 100 it would be way off the page and so I had to just quit."
+  },
+  {
+   "start": 444.28,
+   "end": 450.28,
+   "text": "And now once it gets off the page you could go off who knows how long so it seems really big."
+  },
+  {
+   "start": 451.28,
+   "end": 454.28,
+   "text": "People use this optical illusion and television for example."
+  },
+  {
+   "start": 456.28,
+   "end": 458.28,
+   "text": "In game shows and talk shows."
+  },
+  {
+   "start": 459.28,
+   "end": 466.28,
+   "text": "They have they pat around to the audience and they just pan right before the edge and then pan around and."
+  },
+  {
+   "start": 466.28,
+   "end": 473.28,
+   "text": "To make it the audience in bigger when you're actually in there it's only like 50 people are something so."
+  },
+  {
+   "start": 474.28,
+   "end": 479.28,
+   "text": "So here in the condensed grid you see it'll go all the way to 100 and it fits."
+  },
+  {
+   "start": 480.28,
+   "end": 483.28,
+   "text": "Much smaller than if this were to go away off the page."
+  },
+  {
+   "start": 484.28,
+   "end": 489.28,
+   "text": "And so so this is you can make stuff can complete."
+  },
+  {
+   "start": 490.28,
+   "end": 494.28,
+   "text": "It's possible to be complete if you can then sit when you can't."
+  },
+  {
+   "start": 494.28,
+   "end": 497.28,
+   "text": "Then it can't be complete."
+  },
+  {
+   "start": 498.28,
+   "end": 499.28,
+   "text": "So."
+  },
+  {
+   "start": 500.28,
+   "end": 510.28,
+   "text": "There's the completeness and so it's divided into six interlinkable sections so the section you can interlink between it section so in the pre history."
+  },
+  {
+   "start": 510.28,
+   "end": 513.28,
+   "text": "You can link between the pre history."
+  },
+  {
+   "start": 513.28,
+   "end": 518.94,
+   "text": "I'm an all linked to that in a second actually let's do that right now."
+  },
+  {
+   "start": 518.94,
+   "end": 522.94,
+   "text": "And you can't link to it from that page because you need to change something so."
+  },
+  {
+   "start": 522.94,
+   "end": 531.51,
+   "text": "If you're going to go to the pre history section like zero to 30,000 years back."
+  },
+  {
+   "start": 531.51,
+   "end": 535.51,
+   "text": "You can go anywhere else in the pre and then."
+  },
+  {
+   "start": 536.51,
+   "end": 538.51,
+   "text": "Pre history section."
+  },
+  {
+   "start": 539.51,
+   "end": 546.51,
+   "text": "You can go all the way to 15 billion there of South this is where it lannus lose of land 30,000 years ago."
+  },
+  {
+   "start": 546.51,
+   "end": 549.51,
+   "text": "Or you like well what happened 15 billion."
+  },
+  {
+   "start": 550.51,
+   "end": 553.51,
+   "text": "The archeological eon happened 3 billion."
+  },
+  {
+   "start": 554.51,
+   "end": 558.51,
+   "text": "And then if you want to go all the way to 15 billion."
+  },
+  {
+   "start": 559.51,
+   "end": 563.51,
+   "text": "I don't have the other one but because I don't have anything."
+  },
+  {
+   "start": 564.51,
+   "end": 567.51,
+   "text": "Recording that but I sure have it below but yeah."
+  },
+  {
+   "start": 567.51,
+   "end": 572.51,
+   "text": "So you can just jump around all the way from 30,000 to 15 billion so."
+  },
+  {
+   "start": 572.51,
+   "end": 586.45,
+   "text": "So that is what I mean by an early couple of sections so."
+  },
+  {
+   "start": 587.45,
+   "end": 591.45,
+   "text": "So you have pre history you have BC."
+  },
+  {
+   "start": 592.45,
+   "end": 595.45,
+   "text": "I'll show you BC so that was the pre history one."
+  },
+  {
+   "start": 596.45,
+   "end": 599.45,
+   "text": "Right here and they're all they're all shown by columns."
+  },
+  {
+   "start": 600.45,
+   "end": 604.45,
+   "text": "You have five columns here so here's the 500 year cross one."
+  },
+  {
+   "start": 605.45,
+   "end": 609.82,
+   "text": "So like this is."
+  },
+  {
+   "start": 611.82,
+   "end": 614.82,
+   "text": "West director is nothing I don't know about it."
+  },
+  {
+   "start": 615.82,
+   "end": 619.82,
+   "text": "That's how how you can see it for the navigation bar."
+  },
+  {
+   "start": 620.82,
+   "end": 622.82,
+   "text": "This is really simple so let's show you."
+  },
+  {
+   "start": 625.33,
+   "end": 630.33,
+   "text": "I just show pre history so here's BC my favorite BC section."
+  },
+  {
+   "start": 630.33,
+   "end": 640.33,
+   "text": "I think it's like the beginning of Rome and my my most interesting and I haven't had a chance to fill this in and I'm just so."
+  },
+  {
+   "start": 641.33,
+   "end": 642.33,
+   "text": "I can excited to do it."
+  },
+  {
+   "start": 643.33,
+   "end": 644.33,
+   "text": "I just want to show that."
+  },
+  {
+   "start": 645.33,
+   "end": 646.33,
+   "text": "We just soon."
+  },
+  {
+   "start": 647.33,
+   "end": 657.33,
+   "text": "So here's South Europe for 1,500 and you can see how BC works it goes all the way to 5000 BC down to zero down to the took the."
+  },
+  {
+   "start": 657.33,
+   "end": 660.31,
+   "text": "So."
+  },
+  {
+   "start": 661.31,
+   "end": 669.56,
+   "text": "And so if you want to get to the 80 and have to get jump across from here and then jump forward over that tip of time."
+  },
+  {
+   "start": 670.56,
+   "end": 673.56,
+   "text": "So here's the unilinkable section of BC look at BC."
+  },
+  {
+   "start": 677.02,
+   "end": 679.02,
+   "text": "You have their cross."
+  },
+  {
+   "start": 680.02,
+   "end": 681.02,
+   "text": "With."
+  },
+  {
+   "start": 682.02,
+   "end": 684.02,
+   "text": "Sparta was at the same time as Rome and."
+  },
+  {
+   "start": 685.02,
+   "end": 686.02,
+   "text": "Arcade Greece."
+  },
+  {
+   "start": 687.02,
+   "end": 688.02,
+   "text": "And."
+  },
+  {
+   "start": 689.02,
+   "end": 690.02,
+   "text": "I hope along this is pretty simple."
+  },
+  {
+   "start": 691.02,
+   "end": 692.02,
+   "text": "I'll go on those taking up about."
+  },
+  {
+   "start": 693.02,
+   "end": 694.02,
+   "text": "So then 80."
+  },
+  {
+   "start": 696.02,
+   "end": 697.02,
+   "text": "There's a little bit different."
+  },
+  {
+   "start": 698.02,
+   "end": 702.02,
+   "text": "I'm is my favorite section of 80 my most complete section more through 15."
+  },
+  {
+   "start": 703.02,
+   "end": 704.02,
+   "text": "2000."
+  },
+  {
+   "start": 705.02,
+   "end": 706.02,
+   "text": "And."
+  },
+  {
+   "start": 707.02,
+   "end": 708.02,
+   "text": "It is."
+  },
+  {
+   "start": 709.02,
+   "end": 715.02,
+   "text": "You can go in these sections so 0 to 500 500 to 1000 all the way up and 500 sections to."
+  },
+  {
+   "start": 715.02,
+   "end": 716.02,
+   "text": "To."
+  },
+  {
+   "start": 717.02,
+   "end": 722.02,
+   "text": "To the present on but then kind of like with the BC was in 500 years sections down to."
+  },
+  {
+   "start": 723.02,
+   "end": 728.02,
+   "text": "5000 BC but then I hear you can it actually time dimension changes and."
+  },
+  {
+   "start": 729.02,
+   "end": 738.02,
+   "text": "Then 50 years is a page so 1900 and 1950 to 2000 and then it condenses again from 2000 to 2000 10."
+  },
+  {
+   "start": 739.02,
+   "end": 742.02,
+   "text": "So because that's kind of when I was building at before 2000 10."
+  },
+  {
+   "start": 743.02,
+   "end": 745.02,
+   "text": "Maybe I should fix that a little bit but I'm."
+  },
+  {
+   "start": 746.02,
+   "end": 749.02,
+   "text": "His present history is more important is more than I."
+  },
+  {
+   "start": 750.02,
+   "end": 755.02,
+   "text": "Contemporary history so here's the section that goes from 5,000 to."
+  },
+  {
+   "start": 756.02,
+   "end": 757.02,
+   "text": "1000."
+  },
+  {
+   "start": 758.02,
+   "end": 765.02,
+   "text": "1500 to a thought to 2000 across and north Europe all the different kingdoms all explain this later."
+  },
+  {
+   "start": 766.02,
+   "end": 769.02,
+   "text": "It's something and then future."
+  },
+  {
+   "start": 770.02,
+   "end": 773.68,
+   "text": "Is."
+  },
+  {
+   "start": 774.68,
+   "end": 775.68,
+   "text": "Increases exponentially."
+  },
+  {
+   "start": 776.68,
+   "end": 777.68,
+   "text": "So 2000 to."
+  },
+  {
+   "start": 778.68,
+   "end": 781.96,
+   "text": "250 and then."
+  },
+  {
+   "start": 782.96,
+   "end": 785.96,
+   "text": "2000 50 to 2001 100 and then."
+  },
+  {
+   "start": 786.96,
+   "end": 790.96,
+   "text": "2000 to 2005 100 to the phone 3000 and then."
+  },
+  {
+   "start": 791.96,
+   "end": 792.96,
+   "text": "2000 to 1000 to 500 and then."
+  },
+  {
+   "start": 793.96,
+   "end": 796.96,
+   "text": "1000 so 500 your sections for four of them."
+  },
+  {
+   "start": 797.96,
+   "end": 800.96,
+   "text": "But then it goes up from present up to 7000."
+  },
+  {
+   "start": 801.96,
+   "end": 804.96,
+   "text": "You know it condenses and then the present up to 52,000."
+  },
+  {
+   "start": 805.96,
+   "end": 806.96,
+   "text": "But I haven't felt that in."
+  },
+  {
+   "start": 808.96,
+   "end": 812.96,
+   "text": "So you feel that enough to you then with the past to figure out the past and we'll build a lot of future."
+  },
+  {
+   "start": 813.96,
+   "end": 816.96,
+   "text": "And so those are the different five the five different sections that I have."
+  },
+  {
+   "start": 817.96,
+   "end": 818.96,
+   "text": "Of my time line."
+  },
+  {
+   "start": 819.96,
+   "end": 820.96,
+   "text": "Okay."
+  },
+  {
+   "start": 821.96,
+   "end": 822.96,
+   "text": "I'm on my education page."
+  },
+  {
+   "start": 823.96,
+   "end": 824.96,
+   "text": "Let's go back to that time on page."
+  },
+  {
+   "start": 825.96,
+   "end": 826.96,
+   "text": "So that's these guys."
+  },
+  {
+   "start": 826.96,
+   "end": 832.2,
+   "text": "So it's a total of 15 billion 52,000 years."
+  },
+  {
+   "start": 833.2,
+   "end": 836.2,
+   "text": "Now because it's a 13 billion in the past and then for two thousand years of nature."
+  },
+  {
+   "start": 837.2,
+   "end": 839.2,
+   "text": "I get a case."
+  },
+  {
+   "start": 840.2,
+   "end": 843.2,
+   "text": "So the historical events the timeline are in a list format with five columns."
+  },
+  {
+   "start": 844.2,
+   "end": 847.2,
+   "text": "So that's what I explained on the front page of my website."
+  },
+  {
+   "start": 848.2,
+   "end": 849.2,
+   "text": "It's the it's the perfect number of columns because the list are only about is."
+  },
+  {
+   "start": 850.2,
+   "end": 852.2,
+   "text": "I'm."
+  },
+  {
+   "start": 853.2,
+   "end": 858.2,
+   "text": "It's the it's the perfect number of columns because the list are only about is."
+  },
+  {
+   "start": 860.2,
+   "end": 865.2,
+   "text": "It's perfect number of columns for a list because it's visually symmetrical."
+  },
+  {
+   "start": 866.2,
+   "end": 868.74,
+   "text": "You have the column in the middle."
+  },
+  {
+   "start": 869.74,
+   "end": 871.74,
+   "text": "The column in the middle here with the two columns on the side."
+  },
+  {
+   "start": 872.74,
+   "end": 873.74,
+   "text": "So."
+  },
+  {
+   "start": 874.74,
+   "end": 875.74,
+   "text": "It can be in."
+  },
+  {
+   "start": 876.74,
+   "end": 877.74,
+   "text": "And I'm."
+  },
+  {
+   "start": 880.74,
+   "end": 881.74,
+   "text": "And."
+  },
+  {
+   "start": 883.74,
+   "end": 886.74,
+   "text": "It's also mentally symmetrical because the multiples of five can grow."
+  },
+  {
+   "start": 887.74,
+   "end": 888.74,
+   "text": "So when you want to make yours."
+  },
+  {
+   "start": 889.74,
+   "end": 891.74,
+   "text": "Grow and shrink so much."
+  },
+  {
+   "start": 892.74,
+   "end": 898.74,
+   "text": "And the width is the best because maybe you can condense it down to number of words."
+  },
+  {
+   "start": 899.74,
+   "end": 904.74,
+   "text": "We take up the width of the column so the appropriate numbers space so look like this one."
+  },
+  {
+   "start": 905.74,
+   "end": 908.74,
+   "text": "They don't just names of countries with what number they are."
+  },
+  {
+   "start": 909.74,
+   "end": 910.74,
+   "text": "It doesn't have to take a double."
+  },
+  {
+   "start": 910.74,
+   "end": 913.74,
+   "text": "So you can pack them side by side and you can see."
+  },
+  {
+   "start": 914.74,
+   "end": 917.74,
+   "text": "Have it nicely organized and have it condensed that way."
+  },
+  {
+   "start": 918.74,
+   "end": 919.74,
+   "text": "And."
+  },
+  {
+   "start": 920.74,
+   "end": 923.74,
+   "text": "And even if you're writing more stuff like with my timeline."
+  },
+  {
+   "start": 924.74,
+   "end": 925.74,
+   "text": "You know, I'll show you that."
+  },
+  {
+   "start": 926.74,
+   "end": 927.74,
+   "text": "Um."
+  },
+  {
+   "start": 930.75,
+   "end": 931.75,
+   "text": "I'm."
+  },
+  {
+   "start": 932.75,
+   "end": 936.75,
+   "text": "So the most developed page of my timeline is north Europe."
+  },
+  {
+   "start": 936.75,
+   "end": 940.75,
+   "text": "I've been working here at the."
+  },
+  {
+   "start": 941.75,
+   "end": 942.75,
+   "text": "Of England, the most developed country."
+  },
+  {
+   "start": 943.75,
+   "end": 945.75,
+   "text": "And this in the the list for now."
+  },
+  {
+   "start": 946.75,
+   "end": 947.75,
+   "text": "Now, right."
+  },
+  {
+   "start": 950.42,
+   "end": 956.42,
+   "text": "And so all the different things are color coded and so you know, you got the thing about the information about the king."
+  },
+  {
+   "start": 957.42,
+   "end": 958.42,
+   "text": "His title."
+  },
+  {
+   "start": 959.42,
+   "end": 961.42,
+   "text": "And it all kind of fits kind of in a block."
+  },
+  {
+   "start": 962.42,
+   "end": 964.42,
+   "text": "Kind of like in a square block."
+  },
+  {
+   "start": 964.42,
+   "end": 969.42,
+   "text": "It has more you know, like this is who these are all of his wives and all of his wives."
+  },
+  {
+   "start": 970.42,
+   "end": 974.42,
+   "text": "Fit and kind of like a unit like the block."
+  },
+  {
+   "start": 975.42,
+   "end": 982.74,
+   "text": "Something that can you can see."
+  },
+  {
+   "start": 983.74,
+   "end": 984.74,
+   "text": "I understand."
+  },
+  {
+   "start": 985.74,
+   "end": 987.74,
+   "text": "You can stand out and."
+  },
+  {
+   "start": 988.74,
+   "end": 992.74,
+   "text": "And you can also move across hundred years across quickly this way."
+  },
+  {
+   "start": 992.74,
+   "end": 1006.52,
+   "text": "And yeah, so I like making things look like a square."
+  },
+  {
+   "start": 1007.52,
+   "end": 1011.52,
+   "text": "You know, even though it's text is I think a visual."
+  },
+  {
+   "start": 1012.52,
+   "end": 1013.52,
+   "text": "Make the stuff."
+  },
+  {
+   "start": 1014.52,
+   "end": 1017.52,
+   "text": "Makes sense and it can make a lot of a text coming."
+  },
+  {
+   "start": 1018.52,
+   "end": 1021.52,
+   "text": "And then time and look at this list all five of these."
+  },
+  {
+   "start": 1022.52,
+   "end": 1025.52,
+   "text": "If you're at a copy and paste all of the words or even though they're."
+  },
+  {
+   "start": 1026.52,
+   "end": 1027.52,
+   "text": "And I'm font."
+  },
+  {
+   "start": 1029.52,
+   "end": 1035.84,
+   "text": "Let's see how many words that is."
+  },
+  {
+   "start": 1036.84,
+   "end": 1043.84,
+   "text": "That is 8,300 and 7 to 6 words."
+  },
+  {
+   "start": 1044.84,
+   "end": 1047.84,
+   "text": "So what we're looking at here."
+  },
+  {
+   "start": 1049.84,
+   "end": 1051.84,
+   "text": "8,376."
+  },
+  {
+   "start": 1057.96,
+   "end": 1061.96,
+   "text": "That's 33 and a page of so like 34 pages right here."
+  },
+  {
+   "start": 1062.96,
+   "end": 1063.96,
+   "text": "34 pages of text."
+  },
+  {
+   "start": 1063.96,
+   "end": 1066.96,
+   "text": "So if you're reading a book for 34 pages."
+  },
+  {
+   "start": 1067.96,
+   "end": 1068.96,
+   "text": "Okay."
+  },
+  {
+   "start": 1069.96,
+   "end": 1072.96,
+   "text": "Um, that seems like a lot, you know, doesn't it?"
+  },
+  {
+   "start": 1073.96,
+   "end": 1074.96,
+   "text": "I got to read 34 pages."
+  },
+  {
+   "start": 1075.96,
+   "end": 1079.24,
+   "text": "Well, look what it look what it covers."
+  },
+  {
+   "start": 1080.24,
+   "end": 1081.24,
+   "text": "Oh, wait, it covers all the way down to."
+  },
+  {
+   "start": 1082.24,
+   "end": 1084.24,
+   "text": "It's not just that you see."
+  },
+  {
+   "start": 1085.24,
+   "end": 1086.24,
+   "text": "I'm stunned."
+  },
+  {
+   "start": 1087.24,
+   "end": 1089.24,
+   "text": "And that doesn't even include the, I guess the end of this."
+  },
+  {
+   "start": 1090.24,
+   "end": 1092.24,
+   "text": "I mean, if you want to do that, let's do this right."
+  },
+  {
+   "start": 1093.24,
+   "end": 1095.24,
+   "text": "So I mean, I'll go down out of the way."
+  },
+  {
+   "start": 1096.24,
+   "end": 1101.66,
+   "text": "Whoa, whoa, whoa."
+  },
+  {
+   "start": 1102.66,
+   "end": 1103.66,
+   "text": "I'm just going."
+  },
+  {
+   "start": 1104.66,
+   "end": 1107.66,
+   "text": "Why don't know how to cover text that you can see, but."
+  },
+  {
+   "start": 1108.66,
+   "end": 1109.66,
+   "text": "But just in then."
+  },
+  {
+   "start": 1110.66,
+   "end": 1113.66,
+   "text": "Just we could, well, just what we could see without."
+  },
+  {
+   "start": 1114.66,
+   "end": 1118.66,
+   "text": "But the 1900's was 34 pages, but it was just."
+  },
+  {
+   "start": 1120.66,
+   "end": 1122.66,
+   "text": "Just condensed off."
+  },
+  {
+   "start": 1122.66,
+   "end": 1124.66,
+   "text": "So you know, I didn't say there was an idea. It's where it was just."
+  },
+  {
+   "start": 1125.66,
+   "end": 1129.66,
+   "text": "I like to figure out how to, I see how much text is right here."
+  },
+  {
+   "start": 1130.66,
+   "end": 1132.66,
+   "text": "So sorry about that's nothing."
+  },
+  {
+   "start": 1133.66,
+   "end": 1135.66,
+   "text": "Anyway, the five column is."
+  },
+  {
+   "start": 1136.66,
+   "end": 1139.13,
+   "text": "Is."
+  },
+  {
+   "start": 1140.13,
+   "end": 1142.13,
+   "text": "The best way to convince."
+  },
+  {
+   "start": 1143.13,
+   "end": 1145.57,
+   "text": "So."
+  },
+  {
+   "start": 1149.98,
+   "end": 1154.98,
+   "text": "Now, the other thing is the timeline is the bulk of the time on is in this BC and C.B."
+  },
+  {
+   "start": 1154.98,
+   "end": 1155.98,
+   "text": "These sections."
+  },
+  {
+   "start": 1156.98,
+   "end": 1161.98,
+   "text": "They represent one hundred years on the width of the page is 500 years across."
+  },
+  {
+   "start": 1162.98,
+   "end": 1163.98,
+   "text": "So."
+  },
+  {
+   "start": 1164.98,
+   "end": 1167.98,
+   "text": "And the other four pages, they technically condensed time."
+  },
+  {
+   "start": 1168.98,
+   "end": 1169.98,
+   "text": "I differently. So."
+  },
+  {
+   "start": 1171.98,
+   "end": 1177.47,
+   "text": "So this this page condenses it like five."
+  },
+  {
+   "start": 1178.47,
+   "end": 1180.47,
+   "text": "Like each column is 500 years, where this."
+  },
+  {
+   "start": 1181.47,
+   "end": 1184.47,
+   "text": "Normally on these ones, the whole page is five hundred years."
+  },
+  {
+   "start": 1185.47,
+   "end": 1186.47,
+   "text": "And."
+  },
+  {
+   "start": 1187.47,
+   "end": 1192.47,
+   "text": "And then in the future, it just goes away out. So you have 12 total time dimensions."
+  },
+  {
+   "start": 1193.47,
+   "end": 1195.47,
+   "text": "And they increased by a factor of 10."
+  },
+  {
+   "start": 1196.47,
+   "end": 1197.47,
+   "text": "Even."
+  },
+  {
+   "start": 1198.47,
+   "end": 1199.47,
+   "text": "Four times in the."
+  },
+  {
+   "start": 1200.47,
+   "end": 1202.47,
+   "text": "And the, and the BC section."
+  },
+  {
+   "start": 1203.47,
+   "end": 1206.47,
+   "text": "So I think I'll show that right now. Let's show that. Let's show them the mechanics that I like."
+  },
+  {
+   "start": 1209.1,
+   "end": 1212.1,
+   "text": "So the the the pre history page."
+  },
+  {
+   "start": 1212.1,
+   "end": 1216.1,
+   "text": "This goes to 30,000 years across this is 2000 years."
+  },
+  {
+   "start": 1217.1,
+   "end": 1220.1,
+   "text": "And so this is 30,000 years back."
+  },
+  {
+   "start": 1221.1,
+   "end": 1228.39,
+   "text": "And the 6,000 this is 6,000 years."
+  },
+  {
+   "start": 1229.39,
+   "end": 1231.39,
+   "text": "So that's it. So this is 30,000 years."
+  },
+  {
+   "start": 1232.39,
+   "end": 1235.39,
+   "text": "But this is supposed to pay to go to 300,000 years."
+  },
+  {
+   "start": 1236.39,
+   "end": 1239.39,
+   "text": "So there's 10 of these sections. I don't have more on the things."
+  },
+  {
+   "start": 1240.39,
+   "end": 1241.39,
+   "text": "I don't have."
+  },
+  {
+   "start": 1242.39,
+   "end": 1245.39,
+   "text": "It built it. If they're going to be 10 of these stacked up."
+  },
+  {
+   "start": 1246.39,
+   "end": 1249.39,
+   "text": "And this is just the first 30,000 years."
+  },
+  {
+   "start": 1250.39,
+   "end": 1258.39,
+   "text": "So, um, 6000 years across and that's the first. Now if you wanted it to go out even more, it's going to go out by 10."
+  },
+  {
+   "start": 1259.39,
+   "end": 1262.39,
+   "text": "So instead of 30,000 years across back."
+  },
+  {
+   "start": 1263.39,
+   "end": 1266.39,
+   "text": "With 6000 years across, you're going to go 300,000 years back."
+  },
+  {
+   "start": 1267.39,
+   "end": 1270.39,
+   "text": "With, um,"
+  },
+  {
+   "start": 1272.74,
+   "end": 1276.74,
+   "text": "I'm sorry. That was the 300,000 years back."
+  },
+  {
+   "start": 1277.74,
+   "end": 1281.74,
+   "text": "This is the 30,000 years back. So each column is 2000 years. So this is 10,000 years back."
+  },
+  {
+   "start": 1282.74,
+   "end": 1284.74,
+   "text": "So then you go this."
+  },
+  {
+   "start": 1285.74,
+   "end": 1288.74,
+   "text": "And instead of 2000 years, it's 3,"
+  },
+  {
+   "start": 1289.74,
+   "end": 1304.09,
+   "text": "it's, um, 36, 66, and a few."
+  },
+  {
+   "start": 1305.09,
+   "end": 1311.06,
+   "text": "And it means to work in it."
+  },
+  {
+   "start": 1312.06,
+   "end": 1313.06,
+   "text": "Well, it goes out even more here. We'll go this way."
+  },
+  {
+   "start": 1314.06,
+   "end": 1315.06,
+   "text": "We'll go back this way."
+  },
+  {
+   "start": 1316.06,
+   "end": 1317.06,
+   "text": "I'm not how I'm going to survive."
+  },
+  {
+   "start": 1318.06,
+   "end": 1320.06,
+   "text": "So this is the 30,000 years section."
+  },
+  {
+   "start": 1321.06,
+   "end": 1323.06,
+   "text": "There's only three of them. And then you go to 300,000 years back."
+  },
+  {
+   "start": 1324.06,
+   "end": 1326.06,
+   "text": "And, um,"
+  },
+  {
+   "start": 1327.06,
+   "end": 1333.07,
+   "text": "6000 years across the column and 30,000 years across the page."
+  },
+  {
+   "start": 1334.07,
+   "end": 1335.07,
+   "text": "Where is this one?"
+  },
+  {
+   "start": 1335.07,
+   "end": 1346.64,
+   "text": "This one was just a, oh, I'm using whether it's just, this one."
+  },
+  {
+   "start": 1346.64,
+   "end": 1351.64,
+   "text": "2000 was across the column and 10,000 was across the page."
+  },
+  {
+   "start": 1351.64,
+   "end": 1356.64,
+   "text": "So, 2000 was across column, 10,000 was across the page."
+  },
+  {
+   "start": 1356.64,
+   "end": 1360.64,
+   "text": "There's 6,000 was across column, 30,000 was across the page up to,"
+  },
+  {
+   "start": 1360.64,
+   "end": 1368.64,
+   "text": "60,000 was across the column to 300,000 was across the page."
+  },
+  {
+   "start": 1368.64,
+   "end": 1373.21,
+   "text": "That goes back 3,000 was on anyone,"
+  },
+  {
+   "start": 1373.21,
+   "end": 1381.21,
+   "text": "the one that goes back 30,000 was across the column."
+  },
+  {
+   "start": 1381.21,
+   "end": 1385.21,
+   "text": "And 3,000 was across the page."
+  },
+  {
+   "start": 1385.21,
+   "end": 1391.68,
+   "text": "For 10 of these, that don't talk to each other for 30,000 was."
+  },
+  {
+   "start": 1391.68,
+   "end": 1396.68,
+   "text": "And then 300,000 was that, 6,000 was across the column,"
+  },
+  {
+   "start": 1396.68,
+   "end": 1403.68,
+   "text": "30,000 was across the page, and 10 of them stuck on top of each other for 300,000,000 was."
+  },
+  {
+   "start": 1403.68,
+   "end": 1411.4,
+   "text": "Oh, and I have these as different pages, so it's not like that on the other page already."
+  },
+  {
+   "start": 1411.4,
+   "end": 1416.4,
+   "text": "So, this is the first, and then you go to the next one."
+  },
+  {
+   "start": 1416.4,
+   "end": 1421.4,
+   "text": "And I'll explain this in just a second after I have,"
+  },
+  {
+   "start": 1421.4,
+   "end": 1425.4,
+   "text": "and explain just the different size dimensions."
+  },
+  {
+   "start": 1425.4,
+   "end": 1427.4,
+   "text": "So, that was 300,000 was that."
+  },
+  {
+   "start": 1427.4,
+   "end": 1431.4,
+   "text": "So, then it's 3,000 was back, you're still going out in the back of your tent,"
+  },
+  {
+   "start": 1431.4,
+   "end": 1434.4,
+   "text": "because it goes up back to 10, 4 times in a row."
+  },
+  {
+   "start": 1434.4,
+   "end": 1438.4,
+   "text": "So, here's 60,000 was across, with 300,000 was across,"
+  },
+  {
+   "start": 1438.4,
+   "end": 1441.4,
+   "text": "60,000 was across the column, 300,000 was across the page."
+  },
+  {
+   "start": 1441.4,
+   "end": 1443.4,
+   "text": "So, if you wanted to look at this like a microscope,"
+  },
+  {
+   "start": 1443.4,
+   "end": 1446.4,
+   "text": "look at that, this is how you do it like a microscope."
+  },
+  {
+   "start": 1446.4,
+   "end": 1449.4,
+   "text": "This is 3 billion, so you're on this page, not sure if you're out."
+  },
+  {
+   "start": 1449.4,
+   "end": 1456.4,
+   "text": "300,000, 30,000, 30,000, whoops, broken, broken, broken,"
+  },
+  {
+   "start": 1456.4,
+   "end": 1461.4,
+   "text": "then you should say 300,000, and then 300,000, and then 30,000."
+  },
+  {
+   "start": 1461.4,
+   "end": 1464.4,
+   "text": "So, how does it, how does it expand out?"
+  },
+  {
+   "start": 1464.4,
+   "end": 1467.4,
+   "text": "My own, my own, it's standing out."
+  },
+  {
+   "start": 1467.4,
+   "end": 1472.4,
+   "text": "Like you're looking at time at a microscope, it's going to be on the same."
+  },
+  {
+   "start": 1472.4,
+   "end": 1475.4,
+   "text": "And then it goes all the way out to 3 billion,"
+  },
+  {
+   "start": 1475.4,
+   "end": 1479.4,
+   "text": "15 billion was up to 3 billion across."
+  },
+  {
+   "start": 1479.4,
+   "end": 1483.4,
+   "text": "So, I'll up all the time, so yeah."
+  },
+  {
+   "start": 1483.4,
+   "end": 1488.4,
+   "text": "So, let me show you, yes, some of these four pages that we have in the working's out of."
+  },
+  {
+   "start": 1488.4,
+   "end": 1496.4,
+   "text": "5000 year in my anage, and then you have the great years,"
+  },
+  {
+   "start": 1496.4,
+   "end": 1504.74,
+   "text": "we boxed, that's going around the solar system,"
+  },
+  {
+   "start": 1504.74,
+   "end": 1512.74,
+   "text": "and then 3 million years back, these are revelations of a solar system called"
+  },
+  {
+   "start": 1512.74,
+   "end": 1518.74,
+   "text": "growth years, so they're like years, so it's 6 million years, so they're like"
+  },
+  {
+   "start": 1518.74,
+   "end": 1521.74,
+   "text": "4 million years."
+  },
+  {
+   "start": 1521.74,
+   "end": 1526.38,
+   "text": "So, we can soon have this all stuff happen."
+  },
+  {
+   "start": 1526.38,
+   "end": 1533.38,
+   "text": "So, and then just want to show something else, it's going to pull."
+  },
+  {
+   "start": 1533.38,
+   "end": 1540.01,
+   "text": "And that's what I was just looking at, 2 million, 3 million, 3 million."
+  },
+  {
+   "start": 1540.01,
+   "end": 1547.83,
+   "text": "These are those great years, condensed even more, mixed in with the impacts."
+  },
+  {
+   "start": 1547.83,
+   "end": 1553.83,
+   "text": "So, this goes back."
+  },
+  {
+   "start": 1553.83,
+   "end": 1557.83,
+   "text": "So, that's prehistory, it's kind of the least developed."
+  },
+  {
+   "start": 1557.83,
+   "end": 1568.14,
+   "text": "And then BC, like I shared before, my favorite section is, well, actually,"
+  },
+  {
+   "start": 1568.14,
+   "end": 1573.14,
+   "text": "the most developed section is going to be because it's 42 pages of text you see here,"
+  },
+  {
+   "start": 1573.14,
+   "end": 1578.14,
+   "text": "is South Europe from 500 BC to zero."
+  },
+  {
+   "start": 1578.14,
+   "end": 1583.14,
+   "text": "That the vertical part is not really over $1,000,"
+  },
+  {
+   "start": 1583.14,
+   "end": 1584.14,
+   "text": "but it's going to be $1,000."
+  },
+  {
+   "start": 1584.14,
+   "end": 1587.14,
+   "text": "This is the largest thing that I would ever say."
+  },
+  {
+   "start": 1587.14,
+   "end": 1590.14,
+   "text": "Here's the horizontal, here's the vertical."
+  },
+  {
+   "start": 1590.14,
+   "end": 1594.14,
+   "text": "Here's the era of the consoles, and it's the revenue, probably,"
+  },
+  {
+   "start": 1594.14,
+   "end": 1596.14,
+   "text": "they'd only be in charge for a year or so."
+  },
+  {
+   "start": 1596.14,
+   "end": 1598.14,
+   "text": "It's all about the consoles."
+  },
+  {
+   "start": 1598.14,
+   "end": 1601.14,
+   "text": "Now, if there are worries and stuff too, and then here's an old,"
+  },
+  {
+   "start": 1601.14,
+   "end": 1606.49,
+   "text": "an old, ancient, Bruce."
+  },
+  {
+   "start": 1606.49,
+   "end": 1611.49,
+   "text": "So, that was explaining, all of the different condensate,"
+  },
+  {
+   "start": 1611.49,
+   "end": 1615.49,
+   "text": "oh yeah, time, moving it in and out like they like the microscope."
+  },
+  {
+   "start": 1615.49,
+   "end": 1619.49,
+   "text": "Now, I don't have a good way of showing you how I did show it."
+  },
+  {
+   "start": 1619.49,
+   "end": 1621.49,
+   "text": "Same thing we've been in that."
+  },
+  {
+   "start": 1621.49,
+   "end": 1625.49,
+   "text": "The best thing that I could show was the, this great years."
+  },
+  {
+   "start": 1625.49,
+   "end": 1627.49,
+   "text": "So, the great year, 3 million."
+  },
+  {
+   "start": 1627.49,
+   "end": 1630.49,
+   "text": "And then you've got a 30 million."
+  },
+  {
+   "start": 1630.49,
+   "end": 1633.49,
+   "text": "And the great year gets smaller and this."
+  },
+  {
+   "start": 1634.49,
+   "end": 1636.49,
+   "text": "And then, open it."
+  },
+  {
+   "start": 1636.49,
+   "end": 1639.49,
+   "text": "3 million."
+  },
+  {
+   "start": 1639.49,
+   "end": 1644.49,
+   "text": "So, and then, see here's the great, like, great year here."
+  },
+  {
+   "start": 1644.49,
+   "end": 1646.49,
+   "text": "I'm not a good student, but."
+  },
+  {
+   "start": 1646.49,
+   "end": 1649.49,
+   "text": "So, so, if you're looking at something,"
+  },
+  {
+   "start": 1649.49,
+   "end": 1652.49,
+   "text": "and it's a telescope, it's the same thing."
+  },
+  {
+   "start": 1652.49,
+   "end": 1661.21,
+   "text": "The law, the smallest, looks at me, not at me,"
+  },
+  {
+   "start": 1661.21,
+   "end": 1663.21,
+   "text": "but I can't, I can't, I can't, I can't, I can't, I can't."
+  },
+  {
+   "start": 1663.21,
+   "end": 1665.21,
+   "text": "Anyway, it's quarter, sort of, but things like that."
+  },
+  {
+   "start": 1665.21,
+   "end": 1668.21,
+   "text": "I can't do it yet, but."
+  },
+  {
+   "start": 1668.21,
+   "end": 1671.21,
+   "text": "So, those are the time dimensions with the time one."
+  },
+  {
+   "start": 1671.21,
+   "end": 1676.21,
+   "text": "So, now, the top of each page is a traditional horizontal timeline section."
+  },
+  {
+   "start": 1676.21,
+   "end": 1679.21,
+   "text": "And this is what people are used to, normally,"
+  },
+  {
+   "start": 1679.21,
+   "end": 1682.21,
+   "text": "and the most of all, just show how that works."
+  },
+  {
+   "start": 1682.21,
+   "end": 1684.21,
+   "text": "I do have that."
+  },
+  {
+   "start": 1684.21,
+   "end": 1687.21,
+   "text": "That's this here."
+  },
+  {
+   "start": 1687.21,
+   "end": 1688.21,
+   "text": "Or as on all."
+  },
+  {
+   "start": 1688.21,
+   "end": 1691.21,
+   "text": "So, you can see everything on top of each other."
+  },
+  {
+   "start": 1691.21,
+   "end": 1694.21,
+   "text": "You know, the George 2, the same time as."
+  },
+  {
+   "start": 1694.21,
+   "end": 1698.21,
+   "text": "Chloe, Kayla, we all over whatever is named."
+  },
+  {
+   "start": 1698.21,
+   "end": 1700.21,
+   "text": "Well, is the seventh."
+  },
+  {
+   "start": 1700.21,
+   "end": 1702.21,
+   "text": "And that the Stuart dynasty was at the same time,"
+  },
+  {
+   "start": 1702.21,
+   "end": 1704.21,
+   "text": "is the Aldenberg dynasty."
+  },
+  {
+   "start": 1704.21,
+   "end": 1707.21,
+   "text": "You know, that the has dynasty."
+  },
+  {
+   "start": 1707.21,
+   "end": 1710.21,
+   "text": "These guys control both of these countries."
+  },
+  {
+   "start": 1710.21,
+   "end": 1714.21,
+   "text": "So, these are these countries are ones that I choose countries that are independent now."
+  },
+  {
+   "start": 1714.21,
+   "end": 1717.21,
+   "text": "But in these days, they want to control both of the same guy."
+  },
+  {
+   "start": 1717.21,
+   "end": 1721.21,
+   "text": "So, instead of saying the guy twice, I just have, you know,"
+  },
+  {
+   "start": 1721.21,
+   "end": 1724.21,
+   "text": "the dynasty that controls him, same other control,"
+  },
+  {
+   "start": 1724.21,
+   "end": 1725.21,
+   "text": "less than the."
+  },
+  {
+   "start": 1725.21,
+   "end": 1727.21,
+   "text": "By the dynasty's."
+  },
+  {
+   "start": 1727.21,
+   "end": 1729.21,
+   "text": "And everything's on top of each other."
+  },
+  {
+   "start": 1729.21,
+   "end": 1732.21,
+   "text": "And I'll have wars related to."
+  },
+  {
+   "start": 1732.21,
+   "end": 1735.21,
+   "text": "So, and then then have it linkable to."
+  },
+  {
+   "start": 1735.21,
+   "end": 1737.21,
+   "text": "It's a little bit of a little bit of stuff."
+  },
+  {
+   "start": 1737.21,
+   "end": 1740.21,
+   "text": "Like if you click here and you take it on the photo projection."
+  },
+  {
+   "start": 1740.21,
+   "end": 1744.21,
+   "text": "So, the horizontal section of the timeline is pretty self-conplanatory."
+  },
+  {
+   "start": 1744.21,
+   "end": 1747.21,
+   "text": "Now, each page divides it into 16 different."
+  },
+  {
+   "start": 1747.21,
+   "end": 1750.21,
+   "text": "You go, you go, you."
+  },
+  {
+   "start": 1750.21,
+   "end": 1752.21,
+   "text": "United nations sections."
+  },
+  {
+   "start": 1752.21,
+   "end": 1756.21,
+   "text": "So, that's what, um, that's what this is all about up here."
+  },
+  {
+   "start": 1756.21,
+   "end": 1759.21,
+   "text": "Who's at the United Nations section?"
+  },
+  {
+   "start": 1759.21,
+   "end": 1760.21,
+   "text": "So, this is south."
+  },
+  {
+   "start": 1760.21,
+   "end": 1761.21,
+   "text": "This is north Europe."
+  },
+  {
+   "start": 1761.21,
+   "end": 1766.21,
+   "text": "It's a United Nations section of north Europe that has."
+  },
+  {
+   "start": 1766.21,
+   "end": 1767.21,
+   "text": "These countries."
+  },
+  {
+   "start": 1767.21,
+   "end": 1769.21,
+   "text": "These are for one to note."
+  },
+  {
+   "start": 1769.21,
+   "end": 1771.21,
+   "text": "That's kind of not related."
+  },
+  {
+   "start": 1771.21,
+   "end": 1774.21,
+   "text": "But these countries, as these countries are."
+  },
+  {
+   "start": 1775.21,
+   "end": 1776.21,
+   "text": "So, north Europe."
+  },
+  {
+   "start": 1776.21,
+   "end": 1777.21,
+   "text": "And that's here."
+  },
+  {
+   "start": 1777.21,
+   "end": 1780.21,
+   "text": "And it moves and move in, like the way that looks at the map."
+  },
+  {
+   "start": 1780.21,
+   "end": 1784.21,
+   "text": "So, north Europe is on the north, eastern part of the world globe."
+  },
+  {
+   "start": 1784.21,
+   "end": 1786.21,
+   "text": "West Europe is to the west of it."
+  },
+  {
+   "start": 1786.21,
+   "end": 1789.21,
+   "text": "No, and then, and then, Africa is below Europe."
+  },
+  {
+   "start": 1789.21,
+   "end": 1791.21,
+   "text": "So, now, here in the Asia's up, off to the east."
+  },
+  {
+   "start": 1791.21,
+   "end": 1795.21,
+   "text": "But those, you know, in America, even farther or so."
+  },
+  {
+   "start": 1795.21,
+   "end": 1797.21,
+   "text": "So, here's another one."
+  },
+  {
+   "start": 1797.21,
+   "end": 1800.21,
+   "text": "West Europe has these countries here."
+  },
+  {
+   "start": 1800.21,
+   "end": 1801.21,
+   "text": "So, it's just the way to divide."
+  },
+  {
+   "start": 1801.21,
+   "end": 1804.21,
+   "text": "So, you have, like, kind of the same way you divide into Rome."
+  },
+  {
+   "start": 1804.21,
+   "end": 1805.21,
+   "text": "10 group, like 10."
+  },
+  {
+   "start": 1805.21,
+   "end": 1809.21,
+   "text": "Kind of, like, each United Nations has like 10 groups."
+  },
+  {
+   "start": 1809.21,
+   "end": 1811.21,
+   "text": "Let's see how it is actually."
+  },
+  {
+   "start": 1811.21,
+   "end": 1813.21,
+   "text": "Because I have it now and here."
+  },
+  {
+   "start": 1813.21,
+   "end": 1818.21,
+   "text": "There's an explain, explain the explanation of time to mention."
+  },
+  {
+   "start": 1818.21,
+   "end": 1820.21,
+   "text": "And you can see how it brings up exponentially."
+  },
+  {
+   "start": 1820.21,
+   "end": 1822.21,
+   "text": "Where's the exponentially?"
+  },
+  {
+   "start": 1822.21,
+   "end": 1825.21,
+   "text": "By the fact you have 10, 1, 2, 2, 3, 4, 5 times and 1."
+  },
+  {
+   "start": 1825.21,
+   "end": 1827.21,
+   "text": "For that fact, you have five, five to four."
+  },
+  {
+   "start": 1827.21,
+   "end": 1828.21,
+   "text": "That's actually a three and one."
+  },
+  {
+   "start": 1828.21,
+   "end": 1831.21,
+   "text": "And then, future is 10, 5, 6, and then, 4."
+  },
+  {
+   "start": 1831.21,
+   "end": 1833.21,
+   "text": "Anyway, how the world is organized?"
+  },
+  {
+   "start": 1833.21,
+   "end": 1835.21,
+   "text": "Here's the traditional timeline."
+  },
+  {
+   "start": 1835.21,
+   "end": 1837.21,
+   "text": "I'm showing the demonstration."
+  },
+  {
+   "start": 1837.21,
+   "end": 1838.21,
+   "text": "You can do it."
+  },
+  {
+   "start": 1838.21,
+   "end": 1840.21,
+   "text": "Here's how the world is organized."
+  },
+  {
+   "start": 1840.21,
+   "end": 1844.21,
+   "text": "Here are the six different world areas."
+  },
+  {
+   "start": 1844.21,
+   "end": 1848.21,
+   "text": "And then, the 16th, the 19th, those 19 different,"
+  },
+  {
+   "start": 1848.21,
+   "end": 1851.21,
+   "text": "so human sub-regions."
+  },
+  {
+   "start": 1851.21,
+   "end": 1856.21,
+   "text": "So, I have designed, divided into 16 different areas."
+  },
+  {
+   "start": 1856.21,
+   "end": 1861.81,
+   "text": "Or five different areas here."
+  },
+  {
+   "start": 1861.81,
+   "end": 1866.66,
+   "text": "So, America is here as one."
+  },
+  {
+   "start": 1866.66,
+   "end": 1868.66,
+   "text": "And then, Oceania is by itself."
+  },
+  {
+   "start": 1868.66,
+   "end": 1872.66,
+   "text": "And then, you have Asia here."
+  },
+  {
+   "start": 1872.66,
+   "end": 1875.66,
+   "text": "So, Asia, Oceania in America is this side here."
+  },
+  {
+   "start": 1875.66,
+   "end": 1876.66,
+   "text": "And then, this side."
+  },
+  {
+   "start": 1876.66,
+   "end": 1878.66,
+   "text": "You have Europe, which is the top one."
+  },
+  {
+   "start": 1878.66,
+   "end": 1880.66,
+   "text": "And then, Africa on the bottom."
+  },
+  {
+   "start": 1880.66,
+   "end": 1882.66,
+   "text": "Europe, Africa, Asia."
+  },
+  {
+   "start": 1882.66,
+   "end": 1884.66,
+   "text": "And then, this one is America."
+  },
+  {
+   "start": 1884.66,
+   "end": 1886.66,
+   "text": "And so, four different sets."
+  },
+  {
+   "start": 1886.66,
+   "end": 1888.66,
+   "text": "And then, this one is America."
+  },
+  {
+   "start": 1888.66,
+   "end": 1890.66,
+   "text": "And so, four different sets."
+  },
+  {
+   "start": 1890.66,
+   "end": 1893.66,
+   "text": "And then, you need to run into a size of a sample country."
+  },
+  {
+   "start": 1893.66,
+   "end": 1897.66,
+   "text": "So, to make it, it's a metric bowl here."
+  },
+  {
+   "start": 1897.66,
+   "end": 1900.66,
+   "text": "And this is what they look like on the map."
+  },
+  {
+   "start": 1900.66,
+   "end": 1904.66,
+   "text": "And so, yeah, they kind of organize it in terms of culture."
+  },
+  {
+   "start": 1904.66,
+   "end": 1909.66,
+   "text": "And, you know, like that."
+  },
+  {
+   "start": 1909.66,
+   "end": 1912.66,
+   "text": "So, then, you have five different united nations."
+  },
+  {
+   "start": 1912.66,
+   "end": 1914.66,
+   "text": "So, here are the five different united nations."
+  },
+  {
+   "start": 1914.66,
+   "end": 1916.66,
+   "text": "And we want to mention sub-udence."
+  },
+  {
+   "start": 1916.66,
+   "end": 1918.66,
+   "text": "And all the different countries in them."
+  },
+  {
+   "start": 1918.66,
+   "end": 1923.66,
+   "text": "So, Europe, Africa, Asia, Oceania in America, Oceania."
+  },
+  {
+   "start": 1923.66,
+   "end": 1926.66,
+   "text": "Doesn't have sub-udence."
+  },
+  {
+   "start": 1926.66,
+   "end": 1928.66,
+   "text": "Which is how it's done."
+  },
+  {
+   "start": 1928.66,
+   "end": 1930.66,
+   "text": "So, it has four two countries."
+  },
+  {
+   "start": 1930.66,
+   "end": 1931.66,
+   "text": "And this is how a list stuff."
+  },
+  {
+   "start": 1931.66,
+   "end": 1933.66,
+   "text": "I didn't explain this, but I list stuff."
+  },
+  {
+   "start": 1933.66,
+   "end": 1936.66,
+   "text": "It's number 150 on the entire list."
+  },
+  {
+   "start": 1936.66,
+   "end": 1938.66,
+   "text": "But one on the local list."
+  },
+  {
+   "start": 1938.66,
+   "end": 1939.66,
+   "text": "So, that's how it works."
+  },
+  {
+   "start": 1939.66,
+   "end": 1941.66,
+   "text": "One is before the 150."
+  },
+  {
+   "start": 1941.66,
+   "end": 1944.66,
+   "text": "And so, in the Americans, you have this,"
+  },
+  {
+   "start": 1944.66,
+   "end": 1947.66,
+   "text": "four different sub-udence."
+  },
+  {
+   "start": 1947.66,
+   "end": 1953.66,
+   "text": "And actually, Caribbean is its own."
+  },
+  {
+   "start": 1953.66,
+   "end": 1954.66,
+   "text": "Maybe."
+  },
+  {
+   "start": 1954.66,
+   "end": 1960.66,
+   "text": "Yeah, the niche one has like an average of 10 countries."
+  },
+  {
+   "start": 1960.66,
+   "end": 1965.66,
+   "text": "So, like central America, seven countries, north America,"
+  },
+  {
+   "start": 1965.66,
+   "end": 1966.66,
+   "text": "and three."
+  },
+  {
+   "start": 1966.66,
+   "end": 1971.66,
+   "text": "And so, these are the all the countries in the world that I have on my time."
+  },
+  {
+   "start": 1971.66,
+   "end": 1973.66,
+   "text": "And then the linking system is just like this."
+  },
+  {
+   "start": 1973.66,
+   "end": 1977.66,
+   "text": "And I haven't been thinking about it up here."
+  },
+  {
+   "start": 1977.66,
+   "end": 1979.66,
+   "text": "There's a link."
+  },
+  {
+   "start": 1979.66,
+   "end": 1983.66,
+   "text": "So, you can navigate to any other sub-udence within the current page."
+  },
+  {
+   "start": 1983.66,
+   "end": 1986.66,
+   "text": "To a navigate to any other five of them you're searching."
+  },
+  {
+   "start": 1986.66,
+   "end": 1991.66,
+   "text": "So, yeah, I'd like to have it linked to the each country or two, maybe."
+  },
+  {
+   "start": 1991.66,
+   "end": 1993.66,
+   "text": "But also."
+  },
+  {
+   "start": 1993.66,
+   "end": 1998.66,
+   "text": "So, and then each of the events are divided into 99 event types that are created"
+  },
+  {
+   "start": 1998.66,
+   "end": 2003.66,
+   "text": "by the combination of 11 event categories and one of the nine event causes."
+  },
+  {
+   "start": 2003.66,
+   "end": 2007.66,
+   "text": "So, down here."
+  },
+  {
+   "start": 2007.66,
+   "end": 2012.38,
+   "text": "Oh, do I skip this?"
+  },
+  {
+   "start": 2012.38,
+   "end": 2014.38,
+   "text": "So, it's color and font color."
+  },
+  {
+   "start": 2014.38,
+   "end": 2019.38,
+   "text": "The jigsling on the front page of my website."
+  },
+  {
+   "start": 2019.38,
+   "end": 2024.38,
+   "text": "So, here's the acronyms with the name for acronyms in the wars."
+  },
+  {
+   "start": 2024.38,
+   "end": 2027.38,
+   "text": "So, make it convincing the information."
+  },
+  {
+   "start": 2027.38,
+   "end": 2030.38,
+   "text": "So, here's the 99 different event categories."
+  },
+  {
+   "start": 2030.38,
+   "end": 2038.38,
+   "text": "You have different, 11 different kind of events, which actually divided up into four different types of events."
+  },
+  {
+   "start": 2038.38,
+   "end": 2042.38,
+   "text": "So, you would have like political types of events."
+  },
+  {
+   "start": 2042.38,
+   "end": 2049.38,
+   "text": "And you have positive events, negative events and then people."
+  },
+  {
+   "start": 2049.38,
+   "end": 2053.38,
+   "text": "So, out of the political types of events there's three."
+  },
+  {
+   "start": 2053.38,
+   "end": 2060.38,
+   "text": "There is your country, which comes up the city, which is a little bit smaller than the building."
+  },
+  {
+   "start": 2060.38,
+   "end": 2065.38,
+   "text": "So, the building could be like a political event or a political."
+  },
+  {
+   "start": 2065.38,
+   "end": 2074.38,
+   "text": "A, a vote on individual political independent political country."
+  },
+  {
+   "start": 2074.38,
+   "end": 2077.38,
+   "text": "You know, like a castle, like a crusader castle."
+  },
+  {
+   "start": 2077.38,
+   "end": 2083.38,
+   "text": "You can be the stronghold of the area and call it like a independent policy."
+  },
+  {
+   "start": 2083.38,
+   "end": 2090.38,
+   "text": "So, so, from big to small country city building, city would be like the city state country would be like maybe the city state."
+  },
+  {
+   "start": 2090.38,
+   "end": 2097.38,
+   "text": "When the positive event would be an invention cultural event, something that happened, maybe something."
+  },
+  {
+   "start": 2097.38,
+   "end": 2100.38,
+   "text": "Culture and then a law."
+  },
+  {
+   "start": 2100.38,
+   "end": 2105.38,
+   "text": "And then, negative event would be a war godlar disaster, and then people would be divided into the leader and scholar."
+  },
+  {
+   "start": 2105.38,
+   "end": 2112.38,
+   "text": "So, I have all these progress through the normal color progression."
+  },
+  {
+   "start": 2112.38,
+   "end": 2115.38,
+   "text": "And so, I'm going to have the event causes."
+  },
+  {
+   "start": 2115.38,
+   "end": 2118.38,
+   "text": "So, those are divided into three practical culture and theoretical."
+  },
+  {
+   "start": 2118.38,
+   "end": 2123.38,
+   "text": "So, practical event causes would be conflict, transportation trader, technologies."
+  },
+  {
+   "start": 2123.38,
+   "end": 2126.38,
+   "text": "So, so, like a practical cause, you know, like a conflict."
+  },
+  {
+   "start": 2126.38,
+   "end": 2130.38,
+   "text": "That's like the first thing, like a war."
+  },
+  {
+   "start": 2130.38,
+   "end": 2132.38,
+   "text": "So, like a conflict."
+  },
+  {
+   "start": 2132.38,
+   "end": 2139.38,
+   "text": "So, number one conflict mixed with number one country would be like a war for space."
+  },
+  {
+   "start": 2139.38,
+   "end": 2143.38,
+   "text": "And I actually have it. So, I have it explained down here."
+  },
+  {
+   "start": 2143.38,
+   "end": 2146.38,
+   "text": "Here's my 99th event type list."
+  },
+  {
+   "start": 2146.38,
+   "end": 2152.38,
+   "text": "So, let's see country war. That would be like a country of war would be allowed to monitor."
+  },
+  {
+   "start": 2152.38,
+   "end": 2156.38,
+   "text": "So, that's what you get when you mix conflict with country."
+  },
+  {
+   "start": 2156.38,
+   "end": 2160.38,
+   "text": "So, it's like the Congress, a conflict, a country, and that's what it's like."
+  },
+  {
+   "start": 2160.38,
+   "end": 2165.38,
+   "text": "And so, that goes, we've got for everything."
+  },
+  {
+   "start": 2165.38,
+   "end": 2168.38,
+   "text": "And it's kind of, it would be complicated to explain it."
+  },
+  {
+   "start": 2168.38,
+   "end": 2170.38,
+   "text": "I don't have to do that in the same video."
+  },
+  {
+   "start": 2170.38,
+   "end": 2173.38,
+   "text": "So, that's basically how that works though."
+  },
+  {
+   "start": 2173.38,
+   "end": 2183.38,
+   "text": "So, like if you have a natural cause to a cultural event, that would be five and five."
+  },
+  {
+   "start": 2183.38,
+   "end": 2187.38,
+   "text": "So, cultural event with a natural cause."
+  },
+  {
+   "start": 2187.38,
+   "end": 2191.38,
+   "text": "That would be like just like a new music and new song."
+  },
+  {
+   "start": 2191.38,
+   "end": 2196.38,
+   "text": "You know, like nobody knows, and we just pop some of the weird beer to spot that and switch to the song."
+  },
+  {
+   "start": 2196.38,
+   "end": 2200.38,
+   "text": "So, there's a 99th event you can classify and kind of dance."
+  },
+  {
+   "start": 2200.38,
+   "end": 2205.38,
+   "text": "And I haven't done it all yet, but I have, you know, like a science with actors and actors and actors and actors."
+  },
+  {
+   "start": 2205.38,
+   "end": 2208.38,
+   "text": "So, our scholar mixed with entertainment, we're the actor of the answer."
+  },
+  {
+   "start": 2208.38,
+   "end": 2210.38,
+   "text": "Scallion, we're the actor of the answer."
+  },
+  {
+   "start": 2210.38,
+   "end": 2212.38,
+   "text": "Scallion, we're the artist."
+  },
+  {
+   "start": 2212.38,
+   "end": 2216.38,
+   "text": "Scallion, we're the original, we'd like the religious founder, where's a leader in the entertainment."
+  },
+  {
+   "start": 2216.38,
+   "end": 2221.38,
+   "text": "Mix with religion, we'd be like the religious leader, like the religious type of actors."
+  },
+  {
+   "start": 2221.38,
+   "end": 2224.38,
+   "text": "That's how those work."
+  },
+  {
+   "start": 2224.38,
+   "end": 2228.38,
+   "text": "And that's the list of all the different event types in the five of column lists."
+  },
+  {
+   "start": 2228.38,
+   "end": 2232.38,
+   "text": "And here's the chart and the charts, the side chart."
+  },
+  {
+   "start": 2232.38,
+   "end": 2240.38,
+   "text": "Showing it, it was all the different fonts for all the different 99 different terms."
+  },
+  {
+   "start": 2240.38,
+   "end": 2243.38,
+   "text": "And here's the link to all the different seasons, it's the same way to different pages."
+  },
+  {
+   "start": 2243.38,
+   "end": 2246.38,
+   "text": "Just a different song right now, and it fits it for me."
+  },
+  {
+   "start": 2246.38,
+   "end": 2251.38,
+   "text": "So that is basically describing my timeline."
+  },
+  {
+   "start": 2251.38,
+   "end": 2260.38,
+   "text": "If you want to go to, so that's like read it."
+  },
+  {
+   "start": 2260.38,
+   "end": 2263.38,
+   "text": "It just condenses in and you're information."
+  },
+  {
+   "start": 2263.38,
+   "end": 2267.38,
+   "text": "So if you're looking at a war, there's a battle."
+  },
+  {
+   "start": 2267.38,
+   "end": 2271.38,
+   "text": "I wanted to know what World War One was all about."
+  },
+  {
+   "start": 2271.38,
+   "end": 2279.38,
+   "text": "You could just read this and no know that it was 8.8 million, 8.66 million people on the ally."
+  },
+  {
+   "start": 2279.38,
+   "end": 2294.38,
+   "text": "And where is the bad guys."
+  },
+  {
+   "start": 2294.38,
+   "end": 2297.38,
+   "text": "Oh, yeah, first is just right on here."
+  },
+  {
+   "start": 2297.38,
+   "end": 2301.7,
+   "text": "So this is the whole information at the whole war."
+  },
+  {
+   "start": 2301.7,
+   "end": 2305.7,
+   "text": "Okay, so, so you had a total of 8.66 million people?"
+  },
+  {
+   "start": 2305.7,
+   "end": 2310.7,
+   "text": "6 million people fight a total of 13.25 million people."
+  },
+  {
+   "start": 2310.7,
+   "end": 2315.7,
+   "text": "So I didn't know that Central Axis had more people by almost like double."
+  },
+  {
+   "start": 2315.7,
+   "end": 2321.7,
+   "text": "But in these are all the people and how much they brought, starting with the biggest, most people."
+  },
+  {
+   "start": 2321.7,
+   "end": 2329.7,
+   "text": "So, you know, in British Empire the most they went 8, 4 million and then France, 16, 16, and Russia 12."
+  },
+  {
+   "start": 2329.7,
+   "end": 2334.7,
+   "text": "They said it in the organized by sides here."
+  },
+  {
+   "start": 2334.7,
+   "end": 2337.7,
+   "text": "And then, and here is how many people died."
+  },
+  {
+   "start": 2337.7,
+   "end": 2339.7,
+   "text": "This is in my, in my code page."
+  },
+  {
+   "start": 2339.7,
+   "end": 2343.7,
+   "text": "So you just supposed to remember, as with all these men on its back."
+  },
+  {
+   "start": 2343.7,
+   "end": 2346.7,
+   "text": "So you can just look at them, you're like, whoa, that's how big that is."
+  },
+  {
+   "start": 2346.7,
+   "end": 2347.7,
+   "text": "And compare all the wars down there."
+  },
+  {
+   "start": 2347.7,
+   "end": 2351.7,
+   "text": "And when they're all shown the same exactly, you can be interested in different wars."
+  },
+  {
+   "start": 2351.7,
+   "end": 2352.7,
+   "text": "Like, well, it's just another war."
+  },
+  {
+   "start": 2352.7,
+   "end": 2354.7,
+   "text": "I don't know what it looks like on a timer."
+  },
+  {
+   "start": 2354.7,
+   "end": 2357.7,
+   "text": "So, and when you, then you can go to individual battles."
+  },
+  {
+   "start": 2357.7,
+   "end": 2359.7,
+   "text": "So in the battle of Galipoli,"
+  },
+  {
+   "start": 2359.7,
+   "end": 2366.7,
+   "text": "it was Turkey, there was, it was in Turkey."
+  },
+  {
+   "start": 2366.7,
+   "end": 2372.7,
+   "text": "Populines, I mean, orange means it's in Turkey."
+  },
+  {
+   "start": 2372.7,
+   "end": 2375.7,
+   "text": "And it was the Ottomans versus the British."
+  },
+  {
+   "start": 2375.7,
+   "end": 2378.7,
+   "text": "So Ottomans is modern-day Turkey versus the British."
+  },
+  {
+   "start": 2378.7,
+   "end": 2383.7,
+   "text": "The Ottomans had a 315 million, 340 million people."
+  },
+  {
+   "start": 2383.7,
+   "end": 2393.7,
+   "text": "And it was 6 then, and then after 15 divisions to be off the battle."
+  },
+  {
+   "start": 2393.7,
+   "end": 2398.9,
+   "text": "Now, couldn't have been 316 million people on that battle."
+  },
+  {
+   "start": 2398.9,
+   "end": 2403.9,
+   "text": "So it must have been like 315 people as it was in the battle."
+  },
+  {
+   "start": 2403.9,
+   "end": 2406.9,
+   "text": "And then 215 people died, which is 60%."
+  },
+  {
+   "start": 2406.9,
+   "end": 2410.9,
+   "text": "And then it was the British who had 49 people in the France had,"
+  },
+  {
+   "start": 2410.9,
+   "end": 2413.9,
+   "text": "Oh, no, this was, this is the ship."
+  },
+  {
+   "start": 2414.9,
+   "end": 2417.9,
+   "text": "I'm sorry. I don't have these in the United States."
+  },
+  {
+   "start": 2417.9,
+   "end": 2424.9,
+   "text": "Yeah, so France had 79 and they lost 5, so with a total of 220 lost,"
+  },
+  {
+   "start": 2424.9,
+   "end": 2426.9,
+   "text": "so 59% lost."
+  },
+  {
+   "start": 2426.9,
+   "end": 2429.9,
+   "text": "Now, the people who are in the first are win."
+  },
+  {
+   "start": 2429.9,
+   "end": 2431.9,
+   "text": "So the Ottomans won battle, of course."
+  },
+  {
+   "start": 2431.9,
+   "end": 2433.9,
+   "text": "I can see it because it's first."
+  },
+  {
+   "start": 2433.9,
+   "end": 2435.9,
+   "text": "Even though they lost more people, percentage lost."
+  },
+  {
+   "start": 2435.9,
+   "end": 2437.9,
+   "text": "But it was just by a little bit."
+  },
+  {
+   "start": 2437.9,
+   "end": 2440.9,
+   "text": "So you can see here it was just a hard battle."
+  },
+  {
+   "start": 2440.9,
+   "end": 2443.9,
+   "text": "Yeah."
+  },
+  {
+   "start": 2443.9,
+   "end": 2446.9,
+   "text": "And there were a number."
+  },
+  {
+   "start": 2446.9,
+   "end": 2452.9,
+   "text": "Sorry, I can't explain this better with my not with that level of development."
+  },
+  {
+   "start": 2452.9,
+   "end": 2454.9,
+   "text": "But over here you have movies."
+  },
+  {
+   "start": 2454.9,
+   "end": 2458.9,
+   "text": "If you want to know a movie about the first Englishman to sail around the world,"
+  },
+  {
+   "start": 2458.9,
+   "end": 2460.9,
+   "text": "France is Drake."
+  },
+  {
+   "start": 2460.9,
+   "end": 2464.9,
+   "text": "And this is, you know, this is travel, because it's arms and men."
+  },
+  {
+   "start": 2464.9,
+   "end": 2466.9,
+   "text": "It's like scholarly leader."
+  },
+  {
+   "start": 2466.9,
+   "end": 2470.9,
+   "text": "That looks like actually the font of leader."
+  },
+  {
+   "start": 2470.9,
+   "end": 2472.9,
+   "text": "I don't know."
+  },
+  {
+   "start": 2472.9,
+   "end": 2479.95,
+   "text": "And he was in the time of Henry VII."
+  },
+  {
+   "start": 2479.95,
+   "end": 2482.95,
+   "text": "Now he was in the time of Elizabeth,"
+  },
+  {
+   "start": 2482.95,
+   "end": 2486.95,
+   "text": "earlier Elizabeth, Elizabeth, she was a scholar."
+  },
+  {
+   "start": 2486.95,
+   "end": 2489.95,
+   "text": "And this is all the stuff that happened within Elizabeth, by the way."
+  },
+  {
+   "start": 2489.95,
+   "end": 2493.95,
+   "text": "So you have Elizabeth here and everything under Elizabeth."
+  },
+  {
+   "start": 2493.95,
+   "end": 2496.95,
+   "text": "I'm telling you get to the next king, which is written in the book."
+  },
+  {
+   "start": 2496.95,
+   "end": 2502.95,
+   "text": "So this guy, James I, is everything that happened under Elizabeth's land."
+  },
+  {
+   "start": 2502.95,
+   "end": 2510.95,
+   "text": "So you had all these guys and all these inventions."
+  },
+  {
+   "start": 2510.95,
+   "end": 2514.95,
+   "text": "And so if you wanted to just look at adventures, the history of adventures,"
+  },
+  {
+   "start": 2514.95,
+   "end": 2521.95,
+   "text": "all you have to do is tune your eye to this green order and the green font and"
+  },
+  {
+   "start": 2521.95,
+   "end": 2526.95,
+   "text": "and just scan for green and go, okay, invention, do the way the inventions,"
+  },
+  {
+   "start": 2526.95,
+   "end": 2527.95,
+   "text": "scan, okay, cool, invention."
+  },
+  {
+   "start": 2527.95,
+   "end": 2532.95,
+   "text": "And then if you go, cool, now I want to do was, or companies, you know,"
+  },
+  {
+   "start": 2532.95,
+   "end": 2534.95,
+   "text": "but you just scan for the purple."
+  },
+  {
+   "start": 2534.95,
+   "end": 2536.95,
+   "text": "You do the blue and then you can just scan the spence band."
+  },
+  {
+   "start": 2536.95,
+   "end": 2541.95,
+   "text": "And when you have different fonts and different borders and stuff,"
+  },
+  {
+   "start": 2541.95,
+   "end": 2546.95,
+   "text": "it makes you easier to scan for certain things you're looking for."
+  },
+  {
+   "start": 2546.95,
+   "end": 2551.95,
+   "text": "So that's why I have it like this and have it all condensed, especially for the battle,"
+  },
+  {
+   "start": 2551.95,
+   "end": 2552.95,
+   "text": "so that you can hide all."
+  },
+  {
+   "start": 2552.95,
+   "end": 2556.95,
+   "text": "But I have the entire information for the world I want to add here."
+  },
+  {
+   "start": 2556.95,
+   "end": 2559.95,
+   "text": "Boom, and how many words is this by the way?"
+  },
+  {
+   "start": 2559.95,
+   "end": 2560.95,
+   "text": "Let's find out."
+  },
+  {
+   "start": 2560.95,
+   "end": 2561.95,
+   "text": "Very quickly."
+  },
+  {
+   "start": 2561.95,
+   "end": 2563.95,
+   "text": "I have all of the information."
+  },
+  {
+   "start": 2563.95,
+   "end": 2567.95,
+   "text": "I know right here in this many words, you just a little block that's, you know,"
+  },
+  {
+   "start": 2567.95,
+   "end": 2569.95,
+   "text": "your whole hand can cover."
+  },
+  {
+   "start": 2569.95,
+   "end": 2575.95,
+   "text": "I have as many soldiers entered and died on the entire world."
+  },
+  {
+   "start": 2575.95,
+   "end": 2579.95,
+   "text": "On the entire world, all the countries in World World 1,"
+  },
+  {
+   "start": 2579.95,
+   "end": 2588.95,
+   "text": "and including one, and which countries were the ones who were on the who lost and how much people lost."
+  },
+  {
+   "start": 2588.95,
+   "end": 2590.95,
+   "text": "How much is person lost?"
+  },
+  {
+   "start": 2590.95,
+   "end": 2599.19,
+   "text": "And it was all, and a hundred and thirty nine words, which is like,"
+  },
+  {
+   "start": 2599.19,
+   "end": 2607.19,
+   "text": "two, two, eighty, a little over half of a page of text, a little over half of a page of text."
+  },
+  {
+   "start": 2607.19,
+   "end": 2612.19,
+   "text": "And there's two remarkable things about this."
+  },
+  {
+   "start": 2612.19,
+   "end": 2623.19,
+   "text": "Number one, it says all that information about World World 1, and just to have a little over half of a page of text."
+  },
+  {
+   "start": 2623.19,
+   "end": 2631.19,
+   "text": "And number two, that half page of text we're talking about fits in an area like smaller than a cell phone."
+  },
+  {
+   "start": 2631.19,
+   "end": 2639.54,
+   "text": "So it's, it's the condensation of information at its height,"
+  },
+  {
+   "start": 2639.54,
+   "end": 2646.54,
+   "text": "because you can already understand what all it means to move the font in the color of everything."
+  },
+  {
+   "start": 2646.54,
+   "end": 2650.54,
+   "text": "So that's the concept behind the vertical timeline."
+  },
+  {
+   "start": 2650.54,
+   "end": 2654.54,
+   "text": "And the font and colors, coded, so by every time."
+  },
+  {
+   "start": 2654.54,
+   "end": 2661.54,
+   "text": "So if you wanted to go to the city, my timeline, so high, I'm not seeing any of the words."
+  },
+  {
+   "start": 2661.54,
+   "end": 2667.54,
+   "text": "You can go forward and back where you know, so if you're tracing like England, you're just tracing England here,"
+  },
+  {
+   "start": 2667.54,
+   "end": 2670.54,
+   "text": "oh there, what happened? So just go to previous."
+  },
+  {
+   "start": 2670.54,
+   "end": 2673.54,
+   "text": "Okay, so you're tracing England back, what happened?"
+  },
+  {
+   "start": 2673.54,
+   "end": 2678.54,
+   "text": "We do do do do do, you're tracing one back. Oh, now we're here, five hundred, two, nine hundred."
+  },
+  {
+   "start": 2678.54,
+   "end": 2680.54,
+   "text": "And don't freeze a mean."
+  },
+  {
+   "start": 2680.54,
+   "end": 2686.54,
+   "text": "Now, trippy, what's the list? Oh wow, how many different countries?"
+  },
+  {
+   "start": 2686.54,
+   "end": 2691.54,
+   "text": "And this will link to that. But then if you're like, well, what was happening in South Europe,"
+  },
+  {
+   "start": 2691.54,
+   "end": 2696.54,
+   "text": "like Roman stuff in the time of kingdom of Fortory, and me, because I heard it from now,"
+  },
+  {
+   "start": 2696.54,
+   "end": 2701.54,
+   "text": "maybe there were all the kingdoms of the story of some in Spain,"
+  },
+  {
+   "start": 2701.54,
+   "end": 2707.54,
+   "text": "and the one by kingdom of just died in England and Italy. Oh, what's happening in North America?"
+  },
+  {
+   "start": 2707.54,
+   "end": 2713.54,
+   "text": "Oh, and two to no, it's all time interesting. So you can just jump around like this,"
+  },
+  {
+   "start": 2713.54,
+   "end": 2720.54,
+   "text": "and then you can also jump around in time. So if you're looking at like South Europe from 1500 to 900,"
+  },
+  {
+   "start": 2720.54,
+   "end": 2726.54,
+   "text": "then you can go all of a sudden, oh, what was happening like in the Roman Empire though?"
+  },
+  {
+   "start": 2726.54,
+   "end": 2732.54,
+   "text": "Oh, right, the Christian persecutions, and you have the five different periods that came right after the Flavian Dynasty."
+  },
+  {
+   "start": 2732.54,
+   "end": 2738.54,
+   "text": "What was happening during the time of the Roman Empire in China?"
+  },
+  {
+   "start": 2738.54,
+   "end": 2744.54,
+   "text": "Yeah, and these days you're in China. Well, let's see who all these go very open them,"
+  },
+  {
+   "start": 2744.54,
+   "end": 2751.54,
+   "text": "and the Yario current in Japan, and trippy, but you can you can jump around a lot like this way too,"
+  },
+  {
+   "start": 2751.54,
+   "end": 2757.54,
+   "text": "like that from this way, so you can use anyway I'll explain that later."
+  },
+  {
+   "start": 2757.54,
+   "end": 2762.54,
+   "text": "So that's basically the concept of my history, like the greatest or talent, because it's complete,"
+  },
+  {
+   "start": 2762.54,
+   "end": 2765.54,
+   "text": "because as you can see these lists, it's going to have throughout the history."
+  },
+  {
+   "start": 2765.54,
+   "end": 2772.54,
+   "text": "It's going to have every single king, you know, war, and what was the war?"
+  },
+  {
+   "start": 2772.54,
+   "end": 2777.54,
+   "text": "You're going to have a war on your sense from a webballion, you know, every single everything ever,"
+  },
+  {
+   "start": 2777.54,
+   "end": 2781.54,
+   "text": "because it's the list that I get off with the media that I ever have them. So it's complete."
+  },
+  {
+   "start": 2781.54,
+   "end": 2787.54,
+   "text": "So that's why it's a good time left. Okay, we'll see you soon."
+  }
+ ]
+}

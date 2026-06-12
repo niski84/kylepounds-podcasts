@@ -1,0 +1,78 @@
+{
+ "youtube_id": "iGHWo4bLNE8",
+ "title": "Living in Boulder Vlog 11 - 19 - 2016",
+ "url": "https://youtu.be/iGHWo4bLNE8",
+ "published_at": "2016-11-20",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle recaps his Saturday, describing staying up late and then spending the day working on a personal mapping/geography project that creates 'sister cities to Rome' centered on Boulder, Colorado — matching distances proportionally to map Roman Empire geography onto the Boulder area, with plans to eventually recreate all Roman Empire territories.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "Boulder Colorado",
+   "personal project",
+   "Roman Empire mapping",
+   "sister cities"
+  ],
+  "stances": [
+   {
+    "topic": "Boulder as Rome analogue",
+    "position": "Enthusiastically treating Boulder as the Rome counterpart for a personal geographic mapping project"
+   },
+   {
+    "topic": "project scope",
+    "position": "Wants to recreate a counterpart to everything in the Roman Empire, going all-in on the project"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Rome",
+   "Roman Empire",
+   "Italy"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.66,
+   "end": 13.06,
+   "text": "Okay, hey, how's it going? Living in Boulder Vlog. Today's Sunday, so this one's going to be for Saturday the 19th of November."
+  },
+  {
+   "start": 13.06,
+   "end": 44.49,
+   "text": "So, um, so yesterday what I did was I got up at like 9 or something. I can't remember. I was up until, oh right, I was up until 4 and then I got 6 hours of sleep. So I got up at like 10. It's only like my second or third end of the day."
+  },
+  {
+   "start": 44.49,
+   "end": 59.84,
+   "text": "Okay. So yesterday I just got going on building sister cities to Rome, man. You know, like all roads lead to Rome. So all roads lead to Boulder because Boulder's Boulder Rome."
+  },
+  {
+   "start": 59.84,
+   "end": 71.84,
+   "text": "Um, so I just started with the ones farthest out, you know, and it was like, if it's the same distance away, you know, within 90% and I, and I, I write down what percentage of closest they are."
+  },
+  {
+   "start": 73.54,
+   "end": 84.7,
+   "text": "I wish one's bigger, but, um, yeah, I keep them about the same. And then I kind of, I didn't get all of them, but I kind of reined it in on the interesting ones and just did it all, you know, and did the little ones close."
+  },
+  {
+   "start": 84.7,
+   "end": 94.34,
+   "text": "And now I'm doing the ones in Italy. So, and off of that, I can then create the tribe areas and the, uh, Roman States and stuff."
+  },
+  {
+   "start": 95.06,
+   "end": 103.16,
+   "text": "I want to make a counterpart to everything in the Roman Empire, man. Just get totally, uh, just go for all of it."
+  },
+  {
+   "start": 103.28,
+   "end": 109.36,
+   "text": "I don't do it all because I think I can get away with it. Oh shit. All right. So that's enough."
+  }
+ ]
+}

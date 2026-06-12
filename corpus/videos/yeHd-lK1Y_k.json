@@ -1,0 +1,633 @@
+{
+ "youtube_id": "yeHd-lK1Y_k",
+ "title": "Living in Boulder Vlog 4/14/18: Free Audio History Books Pages",
+ "url": "https://youtu.be/yeHd-lK1Y_k",
+ "published_at": "2018-04-14",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from his Boulder apartment about a project to create YouTube videos from free audio history books sourced from Kindle and Librivox. He explains his workflow (recording audio, screen-capturing the text, splicing them together), his punctuation editing process, and a personal learning system using bimonthly history tests and rotating audiobook topics to maximize brain absorption.",
+  "speaker": "kyle",
+  "topics": [
+   "vlog update",
+   "audio history book project",
+   "YouTube content creation",
+   "personal learning system",
+   "exercise routine",
+   "schedule and productivity"
+  ],
+  "stances": [
+   {
+    "topic": "consistent exercise",
+    "position": "Acknowledges he bailed on daily exercise after only about a week, which surprised him"
+   },
+   {
+    "topic": "personal learning system",
+    "position": "Enthusiastic advocate for a biweekly rotation of history topics to keep the brain absorbing at 'maximum bandwidth'"
+   },
+   {
+    "topic": "audio history book YouTube project",
+    "position": "Committed and close to finishing; eager to get it live so he can use it personally as study material"
+   }
+  ],
+  "entities": [
+   "Kindle",
+   "Librivox",
+   "Wikipedia",
+   "Rome",
+   "Greece",
+   "Russia",
+   "Ancient Rome",
+   "Boulder",
+   "Kyle's mom"
+  ],
+  "date": "2018-04-14",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.4,
+   "end": 5.4,
+   "text": "Hello livin' and bolder V-log figure, I do want in a different place this time."
+  },
+  {
+   "start": 5.4,
+   "end": 8.4,
+   "text": "This is my apartment by the way."
+  },
+  {
+   "start": 8.4,
+   "end": 12.4,
+   "text": "That's my bicycle. There's my backup bike."
+  },
+  {
+   "start": 12.4,
+   "end": 17.4,
+   "text": "There's the other parts of my apartment. There's my fishy with my geckos."
+  },
+  {
+   "start": 17.4,
+   "end": 20.4,
+   "text": "And stuff, here I'm saying."
+  },
+  {
+   "start": 20.4,
+   "end": 23.4,
+   "text": "So, that's not a whole lot of light here, here."
+  },
+  {
+   "start": 23.4,
+   "end": 29.4,
+   "text": "So let me tell you what I'm up to. I, here we are all the computer manually with my arms."
+  },
+  {
+   "start": 29.4,
+   "end": 32.4,
+   "text": "So that there's light in my face."
+  },
+  {
+   "start": 32.4,
+   "end": 37.4,
+   "text": "Okay, so last time I didn't do a video yesterday because I actually bailed."
+  },
+  {
+   "start": 37.4,
+   "end": 39.4,
+   "text": "I bailed on the extra sizing."
+  },
+  {
+   "start": 39.4,
+   "end": 42.4,
+   "text": "Isn't that trippy? I never knew that I would do that."
+  },
+  {
+   "start": 42.4,
+   "end": 45.4,
+   "text": "I only lasted like a few days, like a week."
+  },
+  {
+   "start": 45.4,
+   "end": 51.4,
+   "text": "So, yes, so yesterday I didn't do it at V-log because I was working the whole time."
+  },
+  {
+   "start": 51.4,
+   "end": 54.4,
+   "text": "I got up yesterday or whatever."
+  },
+  {
+   "start": 55.4,
+   "end": 58.4,
+   "text": "I was up until like the daytime."
+  },
+  {
+   "start": 58.4,
+   "end": 63.4,
+   "text": "So I slept until the afternoon and then I was working all afternoon and all night."
+  },
+  {
+   "start": 63.4,
+   "end": 67.4,
+   "text": "And then, I was working right now."
+  },
+  {
+   "start": 67.4,
+   "end": 68.4,
+   "text": "It's 4.58 in the afternoon."
+  },
+  {
+   "start": 68.4,
+   "end": 71.4,
+   "text": "I was working all night and then I was working maybe into the day."
+  },
+  {
+   "start": 71.4,
+   "end": 74.4,
+   "text": "But I didn't look at the time. It was like an eight or nine or something."
+  },
+  {
+   "start": 74.4,
+   "end": 83.4,
+   "text": "And so what I'm doing is I'm, well, I'm, I want to make the YouTube videos out of my,"
+  },
+  {
+   "start": 83.4,
+   "end": 87.4,
+   "text": "free audio history books from Kindle and Libra box."
+  },
+  {
+   "start": 87.4,
+   "end": 95.4,
+   "text": "And so the first step is to record the audio and then I'll record the video of me"
+  },
+  {
+   "start": 95.4,
+   "end": 99.4,
+   "text": "mousing over it, highlighting it, whatever it's reading, to make it a video."
+  },
+  {
+   "start": 99.4,
+   "end": 102.4,
+   "text": "And then I put them together."
+  },
+  {
+   "start": 102.4,
+   "end": 107.4,
+   "text": "But before I record the audio and the video, you know, I have to make sure that they're good."
+  },
+  {
+   "start": 107.4,
+   "end": 109.4,
+   "text": "Because some of these pages had some boobles."
+  },
+  {
+   "start": 109.4,
+   "end": 111.4,
+   "text": "I didn't finish it all the way."
+  },
+  {
+   "start": 112.4,
+   "end": 117.4,
+   "text": "And, and I also need to finish fine tune the punctuation."
+  },
+  {
+   "start": 117.4,
+   "end": 121.4,
+   "text": "I decided that I wanted to put a period at the end of every book."
+  },
+  {
+   "start": 121.4,
+   "end": 123.4,
+   "text": "But that's going to be the only punctuation."
+  },
+  {
+   "start": 123.4,
+   "end": 128.4,
+   "text": "Apart from that, it's just breathlessly shooting down the line."
+  },
+  {
+   "start": 128.4,
+   "end": 131.4,
+   "text": "So that'll give it a cool, at least on the top."
+  },
+  {
+   "start": 131.4,
+   "end": 135.4,
+   "text": "Meaning part, it'll give it a nice sing-songy flavor to it with the periods."
+  },
+  {
+   "start": 135.4,
+   "end": 140.4,
+   "text": "And it'll, it'll help you know when one book ends and when one starts because a lot of them."
+  },
+  {
+   "start": 140.4,
+   "end": 143.4,
+   "text": "It's just a title down below."
+  },
+  {
+   "start": 143.4,
+   "end": 144.4,
+   "text": "So."
+  },
+  {
+   "start": 144.4,
+   "end": 148.4,
+   "text": "So I was recording, I already recorded all of America."
+  },
+  {
+   "start": 148.4,
+   "end": 149.4,
+   "text": "That's like five and a half hours."
+  },
+  {
+   "start": 149.4,
+   "end": 151.4,
+   "text": "I'm going to make that one video."
+  },
+  {
+   "start": 151.4,
+   "end": 155.4,
+   "text": "And then I recorded the video of the menus and the first sections."
+  },
+  {
+   "start": 155.4,
+   "end": 159.4,
+   "text": "So yeah, as soon as I get that done, I'll splice it in the other and I'll put it up on YouTube."
+  },
+  {
+   "start": 159.4,
+   "end": 163.4,
+   "text": "And then I'll have the links to get to the certain kind of different sections of it."
+  },
+  {
+   "start": 163.4,
+   "end": 165.4,
+   "text": "Because it's a five and a half hour video."
+  },
+  {
+   "start": 165.4,
+   "end": 169.4,
+   "text": "There's like, tick, 11 different sections of whatever."
+  },
+  {
+   "start": 169.4,
+   "end": 171.4,
+   "text": "So that's like what a half hour per section."
+  },
+  {
+   "start": 171.4,
+   "end": 173.4,
+   "text": "So that you can jump to on the videos."
+  },
+  {
+   "start": 173.4,
+   "end": 174.4,
+   "text": "So."
+  },
+  {
+   "start": 174.4,
+   "end": 179.4,
+   "text": "And then I'm going to do the same thing with all of Wikipedia."
+  },
+  {
+   "start": 179.4,
+   "end": 181.4,
+   "text": "It's 23 to half hours."
+  },
+  {
+   "start": 181.4,
+   "end": 182.4,
+   "text": "Whoo!"
+  },
+  {
+   "start": 182.4,
+   "end": 183.4,
+   "text": "Wikipedia."
+  },
+  {
+   "start": 183.4,
+   "end": 186.4,
+   "text": "But I'll do that on the bike."
+  },
+  {
+   "start": 186.4,
+   "end": 188.4,
+   "text": "That's 23 and half hours."
+  },
+  {
+   "start": 188.4,
+   "end": 189.4,
+   "text": "They're just a 20th century."
+  },
+  {
+   "start": 189.4,
+   "end": 191.4,
+   "text": "But I'll do all that on the bike."
+  },
+  {
+   "start": 191.4,
+   "end": 195.4,
+   "text": "And so right now, I'm, what I'm the task I'm going to do right now is I'm just going to attach"
+  },
+  {
+   "start": 195.4,
+   "end": 201.4,
+   "text": "a, attach a period to all the books and then make sure that that they look good."
+  },
+  {
+   "start": 201.4,
+   "end": 205.4,
+   "text": "And then, and then record it, you know, so that's basically what I'm doing."
+  },
+  {
+   "start": 205.4,
+   "end": 207.4,
+   "text": "Like that's my only."
+  },
+  {
+   "start": 207.4,
+   "end": 212.4,
+   "text": "Frantically, you know, because I'm suddenly realizing I suddenly realize how close I actually was"
+  },
+  {
+   "start": 212.4,
+   "end": 215.4,
+   "text": "to finishing that and making it, putting it up and getting it ready."
+  },
+  {
+   "start": 215.4,
+   "end": 222.4,
+   "text": "And I wanted to be ready as MP3 file so I can listen to the ideas that like every two week."
+  },
+  {
+   "start": 223.4,
+   "end": 226.4,
+   "text": "And in ancient Rome, over two weeks, they would have their fitness test."
+  },
+  {
+   "start": 226.4,
+   "end": 231.4,
+   "text": "They'd put on their 60 pound backpacks, like 10 miles out, and like 10 miles back, 20 miles a day,"
+  },
+  {
+   "start": 231.4,
+   "end": 232.4,
+   "text": "or 60 pound backpacks."
+  },
+  {
+   "start": 232.4,
+   "end": 235.4,
+   "text": "And if they could do that, they could stand there on me."
+  },
+  {
+   "start": 235.4,
+   "end": 240.4,
+   "text": "And so every two weeks, I'm going to have the history test."
+  },
+  {
+   "start": 240.4,
+   "end": 243.4,
+   "text": "But every two weeks and so in between, then I'll do along your listen to audiobooks."
+  },
+  {
+   "start": 243.4,
+   "end": 247.4,
+   "text": "But every two weeks, you're going to listen to, before you take the history test,"
+  },
+  {
+   "start": 247.4,
+   "end": 251.4,
+   "text": "you listen to the audio, the Wikipedia of the history test you're going to take."
+  },
+  {
+   "start": 251.4,
+   "end": 253.4,
+   "text": "So it's fresh in your mind, you can do well."
+  },
+  {
+   "start": 253.4,
+   "end": 258.4,
+   "text": "But you also, every two weeks, you also listen to the free audio history books."
+  },
+  {
+   "start": 258.4,
+   "end": 260.4,
+   "text": "What?"
+  },
+  {
+   "start": 260.4,
+   "end": 266.4,
+   "text": "Like one of the countries, or a few countries, to refresh and what you want to study, you know,"
+  },
+  {
+   "start": 266.4,
+   "end": 267.4,
+   "text": "because your brain fills up."
+  },
+  {
+   "start": 267.4,
+   "end": 269.4,
+   "text": "I was explaining this to my mom earlier today."
+  },
+  {
+   "start": 269.4,
+   "end": 273.4,
+   "text": "I was just at her house helping her out with stuff that her screen back in and stuff."
+  },
+  {
+   "start": 273.4,
+   "end": 275.4,
+   "text": "And she fed me."
+  },
+  {
+   "start": 275.4,
+   "end": 280.4,
+   "text": "But yeah, I was telling her that like your brain fills up like a sponge."
+  },
+  {
+   "start": 280.4,
+   "end": 285.4,
+   "text": "And it can only take a certain amount of information, then it fills up like certain areas of your brain fill up."
+  },
+  {
+   "start": 285.4,
+   "end": 287.4,
+   "text": "And then you have to fill up another area."
+  },
+  {
+   "start": 287.4,
+   "end": 292.4,
+   "text": "So if you're listening to Rome and then you're just burnt out on Rome because your brain filled up on it."
+  },
+  {
+   "start": 292.4,
+   "end": 294.4,
+   "text": "And you need to expand."
+  },
+  {
+   "start": 294.4,
+   "end": 297.4,
+   "text": "It's not always easy to know what else you're going to be interested in."
+  },
+  {
+   "start": 297.4,
+   "end": 299.4,
+   "text": "You kind of have to have somebody suggest."
+  },
+  {
+   "start": 299.4,
+   "end": 303.4,
+   "text": "And so that's where the listening to the free audio history books sections come in."
+  },
+  {
+   "start": 303.4,
+   "end": 304.4,
+   "text": "You just listen to that."
+  },
+  {
+   "start": 304.4,
+   "end": 307.4,
+   "text": "You run through and then you go, oh, wow, I forgot that book."
+  },
+  {
+   "start": 307.4,
+   "end": 308.4,
+   "text": "He says, oh, wow, that book."
+  },
+  {
+   "start": 308.4,
+   "end": 315.4,
+   "text": "So then at the end of it, you're sure you're fired up to go for another two weeks of all this new subject."
+  },
+  {
+   "start": 315.4,
+   "end": 320.4,
+   "text": "So like it's two weeks, Rome, two weeks, Greece, maybe two weeks, Russia."
+  },
+  {
+   "start": 320.4,
+   "end": 329.4,
+   "text": "And he just bounced around and that way your brain's always absorbing at maximum bandwidth with no downtime."
+  },
+  {
+   "start": 329.4,
+   "end": 331.4,
+   "text": "You know, always downloading."
+  },
+  {
+   "start": 331.4,
+   "end": 335.4,
+   "text": "So, so that's what I'm up to now."
+  },
+  {
+   "start": 335.4,
+   "end": 337.4,
+   "text": "I'm just, I don't know, man."
+  },
+  {
+   "start": 337.4,
+   "end": 339.4,
+   "text": "I mean, I feel like."
+  },
+  {
+   "start": 339.4,
+   "end": 345.4,
+   "text": "As far as the audio recording, getting it prepped."
+  },
+  {
+   "start": 345.4,
+   "end": 350.68,
+   "text": "Yeah, maybe by the end of the week."
+  },
+  {
+   "start": 350.68,
+   "end": 353.68,
+   "text": "And then I can get on the bike and I actually make the videos."
+  },
+  {
+   "start": 353.68,
+   "end": 358.68,
+   "text": "But yeah, I haven't been able to do any exercise apart from that because I was doing that."
+  },
+  {
+   "start": 358.68,
+   "end": 359.68,
+   "text": "It was yesterday."
+  },
+  {
+   "start": 359.68,
+   "end": 361.68,
+   "text": "I was splicing a lot of the B.C."
+  },
+  {
+   "start": 361.68,
+   "end": 362.68,
+   "text": "So I just didn't have the time."
+  },
+  {
+   "start": 362.68,
+   "end": 363.68,
+   "text": "I had to concentrate."
+  },
+  {
+   "start": 363.68,
+   "end": 366.68,
+   "text": "But as soon as I do that, extra time like when the computer's thinking,"
+  },
+  {
+   "start": 366.68,
+   "end": 370.68,
+   "text": "do nothing but thinking, then yeah, I'll be stretching."
+  },
+  {
+   "start": 370.68,
+   "end": 375.68,
+   "text": "But I'll start writing the bike on the rollers as soon as I get ready to."
+  },
+  {
+   "start": 375.68,
+   "end": 379.68,
+   "text": "Woo, the screen capture the video."
+  },
+  {
+   "start": 379.68,
+   "end": 381.68,
+   "text": "Oh yeah, that's what I'm doing right now."
+  },
+  {
+   "start": 381.68,
+   "end": 383.68,
+   "text": "I'm adding, I'm adding periods."
+  },
+  {
+   "start": 383.68,
+   "end": 385.68,
+   "text": "So sitting around adding periods."
+  },
+  {
+   "start": 385.68,
+   "end": 391.68,
+   "text": "And also, you know, the punctuation, like sometimes some of the books have periods after all of the chapters."
+  },
+  {
+   "start": 391.68,
+   "end": 392.68,
+   "text": "So I have to get those out."
+  },
+  {
+   "start": 392.68,
+   "end": 394.68,
+   "text": "But I can batch edit that pretty easily."
+  },
+  {
+   "start": 394.68,
+   "end": 399.68,
+   "text": "So yeah, that's why I'm up to do a video tomorrow."
+  },
+  {
+   "start": 399.68,
+   "end": 401.68,
+   "text": "Later."
+  }
+ ]
+}

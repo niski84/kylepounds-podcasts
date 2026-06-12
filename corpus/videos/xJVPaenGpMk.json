@@ -1,0 +1,194 @@
+{
+ "youtube_id": "xJVPaenGpMk",
+ "title": "Living in Boulder Vlog 10 - 26 - 2016",
+ "url": "https://youtu.be/xJVPaenGpMk",
+ "published_at": "2016-10-27",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle films a quick morning vlog before work, explaining he forgot to record the night before. He recaps the previous day: work, visiting his mom who fed him dinner and gave him money, working on his website, and researching ski resorts. He mentions plans for the day including working on defunct ski resorts and driving rather than biking to Longmont due to cold weather.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "work routine",
+   "family",
+   "cannabis",
+   "website project",
+   "ski resort research",
+   "commuting",
+   "Boulder living"
+  ],
+  "stances": [
+   {
+    "topic": "morning video routine",
+    "position": "prefers recording at night but will do it in the morning when necessary"
+   },
+   {
+    "topic": "biking to work in cold weather",
+    "position": "won't ride his bike to Longmont when it's cold"
+   },
+   {
+    "topic": "mom asking for help",
+    "position": "mildly frustrated that she calls him over but then doesn't actually let him do much"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Longmont",
+   "Colorado (implied)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.21,
+   "end": 2.57,
+   "text": "Hey, what's up? Living in Boulder, V-Log."
+  },
+  {
+   "start": 3.61,
+   "end": 7.01,
+   "text": "It's now 7.34 in the morning. I gots to go to work, but"
+  },
+  {
+   "start": 7.01,
+   "end": 10.27,
+   "text": "I forgot to do my video last night because"
+  },
+  {
+   "start": 10.27,
+   "end": 14.69,
+   "text": "I, uh, I was getting in bed at like 11.30"
+  },
+  {
+   "start": 14.69,
+   "end": 19.51,
+   "text": "And I was like, holy shit, the video, but I forgot and I didn't want to, you know, I was too tired."
+  },
+  {
+   "start": 19.59,
+   "end": 23.81,
+   "text": "I was exhausted. I just didn't want to get up and do it. So I have to do another methodology"
+  },
+  {
+   "start": 23.81,
+   "end": 28.09,
+   "text": "Where I do the video in the day, but before, you know,"
+  },
+  {
+   "start": 28.09,
+   "end": 31.83,
+   "text": "The very end of the day. So I don't freak. Here's my breakfast."
+  },
+  {
+   "start": 33.71,
+   "end": 36.63,
+   "text": "Um, yeah, so yesterday I went to work, came home."
+  },
+  {
+   "start": 36.99,
+   "end": 41.81,
+   "text": "Did two places yesterday, came home. I worked on my website a little bit, then my mom had me come over"
+  },
+  {
+   "start": 41.81,
+   "end": 45.81,
+   "text": "To do things, but I only kind of carried a couple things around"
+  },
+  {
+   "start": 45.81,
+   "end": 49.61,
+   "text": "And she didn't really want me to do anything. She comes me over and tells me she wants me to do stuff,"
+  },
+  {
+   "start": 49.67,
+   "end": 52.65,
+   "text": "But then she doesn't really want me to do anything. But she fed me dinner."
+  },
+  {
+   "start": 53.67,
+   "end": 57.95,
+   "text": "Um, and I managed to get some money out of her."
+  },
+  {
+   "start": 58.09,
+   "end": 61.45,
+   "text": "For my other work that I was doing. So that's cool. I've got my coffer filled up"
+  },
+  {
+   "start": 61.45,
+   "end": 63.61,
+   "text": "For my next batch of weed. So that's pretty chill."
+  },
+  {
+   "start": 65.39,
+   "end": 71.29,
+   "text": "Um, I can't get it myself though, because my card expired. I have to get somebody else with a card to get it."
+  },
+  {
+   "start": 72.11,
+   "end": 72.75,
+   "text": "But that's cool."
+  },
+  {
+   "start": 74.77,
+   "end": 80.65,
+   "text": "Um, and, um, yeah, I did more ski resorts."
+  },
+  {
+   "start": 80.65,
+   "end": 83.47,
+   "text": "So I think today I'm going to work on the defunct ski resorts today."
+  },
+  {
+   "start": 84.09,
+   "end": 87.71,
+   "text": "But I still have like five more to do with the ones that are not defunct, the big ones."
+  },
+  {
+   "start": 89.17,
+   "end": 92.15,
+   "text": "Um, so I'll be working all day today."
+  },
+  {
+   "start": 92.61,
+   "end": 94.73,
+   "text": "I don't think I'll ride my bike to work. I go into Longmont."
+  },
+  {
+   "start": 94.81,
+   "end": 96.95,
+   "text": "I don't think I'm going to do it. I think I'll drive my roommate's car because"
+  },
+  {
+   "start": 96.95,
+   "end": 99.89,
+   "text": "It's cold and I don't like riding in the cold that far."
+  },
+  {
+   "start": 100.01,
+   "end": 101.55,
+   "text": "And, you know, it's like almost November."
+  },
+  {
+   "start": 102.45,
+   "end": 104.59,
+   "text": "Okay, so anyways, that's it."
+  },
+  {
+   "start": 104.67,
+   "end": 106.51,
+   "text": "I gots to have breakfast and get the hell out of here."
+  },
+  {
+   "start": 107.03,
+   "end": 108.57,
+   "text": "But I did the video for yesterday."
+  },
+  {
+   "start": 108.75,
+   "end": 109.77,
+   "text": "Okay, peace out."
+  }
+ ]
+}

@@ -1,0 +1,401 @@
+{
+ "youtube_id": "1HGWY8zD1cA",
+ "title": "Living in Boulder Vlog 11 - 26 - 2016",
+ "url": "https://youtu.be/1HGWY8zD1cA",
+ "published_at": "2016-11-27",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a casual Sunday morning vlog recapping his Saturday, which he spent entirely indoors working on a 3D reconstruction of ancient Rome in Google Earth. He discusses his progress modeling the Circus Maximus, his pace of about one large building per day, and his use of Mike Duncan's History of Rome podcast as supplementary research. He also muses about how cool it would be if Rome had never been destroyed.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "3D Rome reconstruction",
+   "Google Earth modeling",
+   "ancient Rome",
+   "productivity",
+   "podcasts",
+   "history"
+  ],
+  "stances": [
+   {
+    "topic": "Rome reconstruction project",
+    "position": "Deeply engaged and excited; wants to trace everything before building so the build phase is pure fun"
+   },
+   {
+    "topic": "Mike Duncan's History of Rome podcast",
+    "position": "Recommends it as great supplementary material; plans to listen again after finishing"
+   },
+   {
+    "topic": "Hypothetical preserved Rome",
+    "position": "Thinks it would have been amazing if Rome had never been destroyed and could be explored car-free today"
+   },
+   {
+    "topic": "His modeling detail",
+    "position": "Proud of going beyond existing models, e.g. including a water channel at Circus Maximus that others omitted"
+   }
+  ],
+  "entities": [
+   "Circus Maximus",
+   "Baths of Diocletian",
+   "Mike Duncan",
+   "History of Rome (podcast)",
+   "Google Earth",
+   "Severan Marble Plan",
+   "Boulder (Colorado)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.34,
+   "end": 15.84,
+   "text": "Hello, living at Boulder V-Log for, it's Sunday, November 27th, so this is the V-Log for Saturday, November 26th."
+  },
+  {
+   "start": 17.84,
+   "end": 26.02,
+   "text": "So yesterday I got up, right now it's 10.13 and I was working until 4.20 in the morning."
+  },
+  {
+   "start": 26.02,
+   "end": 43.66,
+   "text": "Um, so I got up, uh, so yesterday I got up a little bit late, um, but I worked until 4.15, so, uh, I'm pretty high right now."
+  },
+  {
+   "start": 44.42,
+   "end": 45.8,
+   "text": "Woke up, had a bunch of hands."
+  },
+  {
+   "start": 47.28,
+   "end": 49.7,
+   "text": "Hmm, literally just got out of bed."
+  },
+  {
+   "start": 49.7,
+   "end": 58.68,
+   "text": "Um, so I finished, um, yesterday was a day where I just stayed in the house all day."
+  },
+  {
+   "start": 60.36,
+   "end": 68.72,
+   "text": "I can't remember if I even went out to the store, so, um, and I was working the whole time, so, um, I, you know, that's a good day."
+  },
+  {
+   "start": 68.78,
+   "end": 72.54,
+   "text": "Another good day, I, I finished, uh, Circus Maximus."
+  },
+  {
+   "start": 72.68,
+   "end": 75.58,
+   "text": "I started it the day before, but most of the day was Circus Maximus."
+  },
+  {
+   "start": 75.58,
+   "end": 77.66,
+   "text": "Circus Maximus, and then some other buildings."
+  },
+  {
+   "start": 78.44,
+   "end": 83.66,
+   "text": "I think my, uh, my pace is about a large building a day, you know?"
+  },
+  {
+   "start": 83.76,
+   "end": 85.84,
+   "text": "So, like, Baths of Diocletian, I could probably,"
+  },
+  {
+   "start": 87.46,
+   "end": 90.8,
+   "text": "Just about do that in a day."
+  },
+  {
+   "start": 91.48,
+   "end": 94.26,
+   "text": "So, and there's like six buildings like that, so."
+  },
+  {
+   "start": 95.8,
+   "end": 101.16,
+   "text": "I'm just trying to see how much I can get ahead now before I burn out."
+  },
+  {
+   "start": 101.16,
+   "end": 108.63,
+   "text": "Um, I'm doing, uh, Mike Duncan, History of Rome, so that's supplementary."
+  },
+  {
+   "start": 109.07,
+   "end": 111.85,
+   "text": "Once I get through him, um, I think I'll listen to him again."
+  },
+  {
+   "start": 113.57,
+   "end": 117.47,
+   "text": "Um, he condenses it and the good, all the good stuff."
+  },
+  {
+   "start": 118.55,
+   "end": 123.59,
+   "text": "Um, and, uh, and fix my timeline, my Italy timeline, my Rome timeline."
+  },
+  {
+   "start": 123.59,
+   "end": 127.59,
+   "text": "Uh, as I do the two, kind of like two projects together."
+  },
+  {
+   "start": 127.79,
+   "end": 131.37,
+   "text": "That, with the, ooh, Google everything Rome."
+  },
+  {
+   "start": 132.41,
+   "end": 135.69,
+   "text": "Um, I was thinking about it this morning."
+  },
+  {
+   "start": 135.79,
+   "end": 140.77,
+   "text": "That would have been so cool if Rome could have never been, like, destroyed."
+  },
+  {
+   "start": 141.73,
+   "end": 145.55,
+   "text": "If it could have really, could have, people could have, you know,"
+  },
+  {
+   "start": 145.63,
+   "end": 148.49,
+   "text": "The empire not, never fell on the city, never torn apart."
+  },
+  {
+   "start": 148.49,
+   "end": 152.99,
+   "text": "And it looks just the way it does now, as it did in the Severian plan."
+  },
+  {
+   "start": 154.65,
+   "end": 156.03,
+   "text": "And there's no cars allowed."
+  },
+  {
+   "start": 156.13,
+   "end": 161.25,
+   "text": "People can just, like, ride their bikes around and do whatever they do at the temples and stuff."
+  },
+  {
+   "start": 162.13,
+   "end": 162.93,
+   "text": "That would have been cool."
+  },
+  {
+   "start": 163.13,
+   "end": 164.91,
+   "text": "But maybe we should rebuild Rome."
+  },
+  {
+   "start": 165.09,
+   "end": 165.85,
+   "text": "Yeah, that's what we should do."
+  },
+  {
+   "start": 165.93,
+   "end": 166.67,
+   "text": "We should rebuild Rome."
+  },
+  {
+   "start": 167.81,
+   "end": 168.45,
+   "text": "But, uh,"
+  },
+  {
+   "start": 170.23,
+   "end": 171.49,
+   "text": "Hey!"
+  },
+  {
+   "start": 172.61,
+   "end": 173.05,
+   "text": "Um,"
+  },
+  {
+   "start": 174.05,
+   "end": 177.59,
+   "text": "Yes, I have nothing else to say apart from that."
+  },
+  {
+   "start": 177.59,
+   "end": 179.29,
+   "text": "I'm really getting into the zone now."
+  },
+  {
+   "start": 180.31,
+   "end": 181.53,
+   "text": "This winter, um,"
+  },
+  {
+   "start": 181.89,
+   "end": 183.77,
+   "text": "I can't wait to see what Rome looks like."
+  },
+  {
+   "start": 183.83,
+   "end": 184.39,
+   "text": "Oh my god."
+  },
+  {
+   "start": 185.51,
+   "end": 185.91,
+   "text": "Um,"
+  },
+  {
+   "start": 186.39,
+   "end": 188.53,
+   "text": "But I don't wanna,"
+  },
+  {
+   "start": 188.83,
+   "end": 189.33,
+   "text": "I wanna,"
+  },
+  {
+   "start": 189.45,
+   "end": 192.15,
+   "text": "I'm gonna trace the whole thing before I actually build it."
+  },
+  {
+   "start": 192.49,
+   "end": 193.93,
+   "text": "Because the building part's fun."
+  },
+  {
+   "start": 195.07,
+   "end": 195.63,
+   "text": "And, uh,"
+  },
+  {
+   "start": 195.67,
+   "end": 197.95,
+   "text": "That'd be cool to just not have to worry about any tracing."
+  },
+  {
+   "start": 198.09,
+   "end": 198.67,
+   "text": "Just build it."
+  },
+  {
+   "start": 199.87,
+   "end": 200.31,
+   "text": "Um,"
+  },
+  {
+   "start": 201.27,
+   "end": 205.59,
+   "text": "Yeah, and I'm actually doing it in more detail than anything."
+  },
+  {
+   "start": 205.59,
+   "end": 210.81,
+   "text": "I was looking at these models and these really detailed videos they do of the Circus Maximus."
+  },
+  {
+   "start": 210.95,
+   "end": 213.25,
+   "text": "And nobody included, um,"
+  },
+  {
+   "start": 213.81,
+   "end": 216.27,
+   "text": "A water lake,"
+  },
+  {
+   "start": 216.39,
+   "end": 217.29,
+   "text": "A fountain or whatever."
+  },
+  {
+   "start": 218.49,
+   "end": 218.97,
+   "text": "Um,"
+  },
+  {
+   "start": 219.65,
+   "end": 221.69,
+   "text": "Between the stands and the race course."
+  },
+  {
+   "start": 221.93,
+   "end": 223.07,
+   "text": "That lines the whole thing."
+  },
+  {
+   "start": 224.29,
+   "end": 225.37,
+   "text": "So I put that there."
+  },
+  {
+   "start": 225.45,
+   "end": 225.79,
+   "text": "It's gonna,"
+  },
+  {
+   "start": 225.99,
+   "end": 226.73,
+   "text": "And it makes sense."
+  },
+  {
+   "start": 226.79,
+   "end": 229.83,
+   "text": "I guess it was to dampen people from getting in the way of the"
+  },
+  {
+   "start": 229.83,
+   "end": 231.67,
+   "text": "Chariot races before"
+  },
+  {
+   "start": 231.67,
+   "end": 232.75,
+   "text": "People,"
+  },
+  {
+   "start": 232.87,
+   "end": 233.69,
+   "text": "They could be apprehended."
+  },
+  {
+   "start": 234.65,
+   "end": 235.11,
+   "text": "But, uh,"
+  },
+  {
+   "start": 235.15,
+   "end": 235.43,
+   "text": "Yeah."
+  },
+  {
+   "start": 235.61,
+   "end": 235.87,
+   "text": "Anyway."
+  },
+  {
+   "start": 236.29,
+   "end": 238.91,
+   "text": "I think I babbled nonsense for long enough."
+  },
+  {
+   "start": 240.13,
+   "end": 241.51,
+   "text": "Alright, peace out."
+  },
+  {
+   "start": 241.51,
+   "end": 242.11,
+   "text": "Uh..."
+  }
+ ]
+}

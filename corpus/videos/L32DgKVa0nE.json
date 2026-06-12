@@ -1,0 +1,250 @@
+{
+ "youtube_id": "L32DgKVa0nE",
+ "title": "Living in Boulder Vlog 12 - 18 - 2016",
+ "url": "https://youtu.be/L32DgKVa0nE",
+ "published_at": "2016-12-20",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from his mom's house in Boulder on December 18-19, 2016, describing a late night working on a 3D modeling/tracing project (using Google Earth and Wikipedia images), taking his mom to cataract surgery, grabbing food, and struggling with sleep deprivation. He ends with a brief rant about TV drug commercials.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "3D modeling/mapping project",
+   "family",
+   "sleep deprivation",
+   "TV rants"
+  ],
+  "stances": [
+   {
+    "topic": "TV news and drug commercials",
+    "position": "Drives him crazy; finds them absurd and worth satirizing"
+   },
+   {
+    "topic": "his mapping/tracing project",
+    "position": "Tedious but wants to power through before losing momentum"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Mary Queen of Scots (TV show)",
+   "Google Earth",
+   "Wikipedia",
+   "Netflix",
+   "Titus (Roman forum reference)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.5,
+   "end": 3.5,
+   "text": "Hey, how's it going? Living in Boulder, Fieldogue?"
+  },
+  {
+   "start": 3.5,
+   "end": 10.5,
+   "text": "For Sunday, December 18th, even what it is, December 19th, I guess it's outwards."
+  },
+  {
+   "start": 10.5,
+   "end": 16.5,
+   "text": "So yesterday, my mom's last night yesterday, I worked."
+  },
+  {
+   "start": 16.5,
+   "end": 22.5,
+   "text": "Which I was six. I just had enough stuff on the screen and buildings."
+  },
+  {
+   "start": 22.5,
+   "end": 24.5,
+   "text": "I started going on the bad side of the equation."
+  },
+  {
+   "start": 24.5,
+   "end": 29.5,
+   "text": "I had to take the picture, lift the picture off, and the Wikipedia off the site."
+  },
+  {
+   "start": 29.5,
+   "end": 34.5,
+   "text": "I hope it was the biggest one that I can find, because I don't think it was just good, good work."
+  },
+  {
+   "start": 34.5,
+   "end": 42.5,
+   "text": "But yeah, and then I superimpose it on top of the Google Earth and so I'm tracing that."
+  },
+  {
+   "start": 42.5,
+   "end": 46.5,
+   "text": "I'm not done now. I'm going to do an abad of Titus and then finish the forum, not much."
+  },
+  {
+   "start": 46.5,
+   "end": 48.5,
+   "text": "So I'm almost done tracing."
+  },
+  {
+   "start": 48.5,
+   "end": 53.5,
+   "text": "After that, I organized the files, which I don't know how I'm going to take, and then I make the buildings."
+  },
+  {
+   "start": 53.5,
+   "end": 56.5,
+   "text": "So that's going to be super exciting on my go."
+  },
+  {
+   "start": 56.5,
+   "end": 64.5,
+   "text": "So, so yeah, so today I was working until six o'clock in the morning and got to sleep while, like,"
+  },
+  {
+   "start": 64.5,
+   "end": 67.5,
+   "text": "before it got light, so I could feel like I'm getting asleep at night."
+  },
+  {
+   "start": 67.5,
+   "end": 70.5,
+   "text": "And then I slept until nine, so I only got three hours of sleep."
+  },
+  {
+   "start": 70.5,
+   "end": 73.5,
+   "text": "I was going to head by mom, no, no, 15."
+  },
+  {
+   "start": 73.5,
+   "end": 77.5,
+   "text": "I was just going to my mom, 15 or the 930 to take her to her other cataract surgery."
+  },
+  {
+   "start": 77.5,
+   "end": 82.5,
+   "text": "And I was hanging out there in the hospital, like in an hour, and then take that long."
+  },
+  {
+   "start": 82.5,
+   "end": 85.5,
+   "text": "I've been taking that long, working on my site, and then I picked her up and she took me to eat."
+  },
+  {
+   "start": 85.5,
+   "end": 89.5,
+   "text": "It's mass burger, everyone's well, all of you meet."
+  },
+  {
+   "start": 89.5,
+   "end": 93.5,
+   "text": "And then I came home and I worked for a little bit, like an hour or so, and then I passed out."
+  },
+  {
+   "start": 93.5,
+   "end": 97.5,
+   "text": "Couldn't keep my eyes open, so I went to the right bowl."
+  },
+  {
+   "start": 97.5,
+   "end": 98.5,
+   "text": "I'm going to go to the room."
+  },
+  {
+   "start": 98.5,
+   "end": 102.5,
+   "text": "Then I slept, I don't know, and then I would just got up and I watched."
+  },
+  {
+   "start": 102.5,
+   "end": 107.5,
+   "text": "I used it 641 now, so I've been working the last couple hours or whatever."
+  },
+  {
+   "start": 107.5,
+   "end": 111.5,
+   "text": "So my mom just went upstairs to her room, and so now I'm down here."
+  },
+  {
+   "start": 111.5,
+   "end": 114.5,
+   "text": "I wanted to watch Netflix, watch that movie, or that."
+  },
+  {
+   "start": 114.5,
+   "end": 121.5,
+   "text": "I started last night, I started watching the Mary Queen of Scotch Show, and I want to watch that whole thing."
+  },
+  {
+   "start": 121.5,
+   "end": 125.5,
+   "text": "I was just into more about Mary Queen of Scotch Show."
+  },
+  {
+   "start": 125.5,
+   "end": 130.5,
+   "text": "It's just talking to me about castle, so, but there's no signal for Netflix at my mom's house right now."
+  },
+  {
+   "start": 130.5,
+   "end": 135.5,
+   "text": "So I've got a fire going right now, so I'm just going to try to finish up."
+  },
+  {
+   "start": 135.5,
+   "end": 140.5,
+   "text": "Yeah, maybe today I could finish finished the tracing of raw, not really exciting."
+  },
+  {
+   "start": 140.5,
+   "end": 151.5,
+   "text": "It still feels fresh in my mind, so if I can get to the next tour before I feel like it's a new project,"
+  },
+  {
+   "start": 151.5,
+   "end": 153.5,
+   "text": "then while that's awesome, I'd be really quiet."
+  },
+  {
+   "start": 153.5,
+   "end": 156.5,
+   "text": "It gets tedious, that's what I always switch."
+  },
+  {
+   "start": 156.5,
+   "end": 160.5,
+   "text": "You're going to be able to power through it this time."
+  },
+  {
+   "start": 161.5,
+   "end": 165.5,
+   "text": "I was just watching TV with my mom and the news, drives me crazy."
+  },
+  {
+   "start": 165.5,
+   "end": 167.5,
+   "text": "I can't sanity all of them."
+  },
+  {
+   "start": 167.5,
+   "end": 170.5,
+   "text": "All the drug commercials."
+  },
+  {
+   "start": 170.5,
+   "end": 175.5,
+   "text": "Next time I go to my doctor, I should bring like a list of 20 drugs, and I should be like,"
+  },
+  {
+   "start": 175.5,
+   "end": 180.5,
+   "text": "hey, let me ask you about these drugs, because the TV said to ask you about it, so should I be funny."
+  },
+  {
+   "start": 180.5,
+   "end": 183.5,
+   "text": "All right, anyway, so that's enough."
+  }
+ ]
+}

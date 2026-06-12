@@ -1,0 +1,356 @@
+{
+ "youtube_id": "stYsHoQYVPU",
+ "title": "Living in Boulder blog 7 - 27 - 2017: Justinian Law Code, Roman buildings book fm P &Ash",
+ "url": "https://youtu.be/stYsHoQYVPU",
+ "published_at": "2017-07-28",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a late-night blog update from Boulder, discussing his work cataloging ancient books (including the Justinian Law Code and a Platner & Ashby Roman buildings dictionary) for an education page on his website. He also mentions visiting his mom at a hospital, eating food she provided, and plans to learn Adobe Creative Cloud programs.",
+  "speaker": "kyle",
+  "topics": [
+   "personal update",
+   "ancient books project",
+   "Justinian Law Code",
+   "Roman architecture reference",
+   "website/education page",
+   "Adobe Creative Cloud",
+   "family visit",
+   "appetite/health"
+  ],
+  "stances": [
+   {
+    "topic": "Justinian Law Code",
+    "position": "Finds it significant and large (~960 pages); worth cataloging on his education page"
+   },
+   {
+    "topic": "Platner and Ashby Roman buildings dictionary",
+    "position": "Prefers it over Wikipedia's list because it covers ~32 buildings vs Wikipedia's 12; wants to include it on his site"
+   },
+   {
+    "topic": "Adobe Creative Cloud",
+    "position": "Has had it for a couple years but hasn't learned the programs; wants to watch all the tutorials"
+   },
+   {
+    "topic": "ancient sources page",
+    "position": "Excited to finish and organize all books by page count; notes some authors have far more pages than others"
+   }
+  ],
+  "entities": [
+   "Justinian",
+   "Platner and Ashby (Platner & Ashby)",
+   "Wikipedia",
+   "Adobe Creative Cloud",
+   "Boulder",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.66,
+   "end": 9.04,
+   "text": "Hello living and Boulder B-Loggaist for July 27th right now, July 28th right at 4.33 in the morning"
+  },
+  {
+   "start": 12.06,
+   "end": 16.06,
+   "text": "I didn't do video yesterday because I"
+  },
+  {
+   "start": 17.46,
+   "end": 24.36,
+   "text": "Was working until 5 and then just got tired and went to sleep and I got up at like one or something"
+  },
+  {
+   "start": 25.38,
+   "end": 29.1,
+   "text": "Today and I'm gonna work in a talk much now. I did"
+  },
+  {
+   "start": 29.1,
+   "end": 38.0,
+   "text": "Like a book of a park just yeah because I'm taking like a week off and not writing my bike because I don't have right pedals"
+  },
+  {
+   "start": 38.6,
+   "end": 40.6,
+   "text": "So wait for these jeans. So"
+  },
+  {
+   "start": 42.1,
+   "end": 44.1,
+   "text": "I wanted to finish my ancient books page"
+  },
+  {
+   "start": 45.3,
+   "end": 49.8,
+   "text": "So I did a book of a park. I said"
+  },
+  {
+   "start": 52.1,
+   "end": 54.1,
+   "text": "The Justinian lockup"
+  },
+  {
+   "start": 55.1,
+   "end": 60.1,
+   "text": "I found out that the first chapter and the numbers were screwed up which means the first I mean first book"
+  },
+  {
+   "start": 60.58,
+   "end": 64.1,
+   "text": "So all the chapters are the first book. I think I'm gonna page this on and I have to like"
+  },
+  {
+   "start": 64.6,
+   "end": 68.1,
+   "text": "redo it in the media part, but I'm gonna do"
+  },
+  {
+   "start": 68.86,
+   "end": 70.86,
+   "text": "Jordan and Scott the history"
+  },
+  {
+   "start": 70.86,
+   "end": 71.86,
+   "text": "um"
+  },
+  {
+   "start": 71.86,
+   "end": 76.76,
+   "text": "And so there's a few more, but yeah tomorrow. I'm gonna make sure that I got everything and"
+  },
+  {
+   "start": 77.42,
+   "end": 78.54,
+   "text": "Get"
+  },
+  {
+   "start": 78.54,
+   "end": 80.54,
+   "text": "Try to tie up all of the books"
+  },
+  {
+   "start": 80.54,
+   "end": 82.54,
+   "text": "Yeah, and then put them on a"
+  },
+  {
+   "start": 83.22,
+   "end": 86.42,
+   "text": "Education page that's gonna be awesome and then to listen to it"
+  },
+  {
+   "start": 88.42,
+   "end": 91.54,
+   "text": "The Justinian lockup. I think is like 960 pages"
+  },
+  {
+   "start": 93.54,
+   "end": 95.54,
+   "text": "So yeah, that's pretty big"
+  },
+  {
+   "start": 96.54,
+   "end": 105.0,
+   "text": "Oh yeah, and platinum actually I want to do platinum ash meat tomorrow because I was looking at like I got I got originally from my menu"
+  },
+  {
+   "start": 105.0,
+   "end": 110.26,
+   "text": "I got the list from all the buildings on Wikipedia and Wikipedia has 12"
+  },
+  {
+   "start": 110.54,
+   "end": 114.94,
+   "text": "Gardens, but a little platter in Ashgok on like 32 or something. So I"
+  },
+  {
+   "start": 116.02,
+   "end": 119.14,
+   "text": "Yeah, I want to be about just you know the building to kind of"
+  },
+  {
+   "start": 119.92,
+   "end": 121.92,
+   "text": "the buildings"
+  },
+  {
+   "start": 121.92,
+   "end": 123.92,
+   "text": "It's kind of like a"
+  },
+  {
+   "start": 124.48,
+   "end": 128.64,
+   "text": "Like a dick shener and then I'm an address book"
+  },
+  {
+   "start": 129.18,
+   "end": 131.18,
+   "text": "The Brown and the Vatient Row"
+  },
+  {
+   "start": 131.82,
+   "end": 134.46,
+   "text": "I had that a boulder to on my website"
+  },
+  {
+   "start": 135.34,
+   "end": 137.34,
+   "text": "Submire"
+  },
+  {
+   "start": 137.34,
+   "end": 139.34,
+   "text": "But"
+  },
+  {
+   "start": 140.66,
+   "end": 145.38,
+   "text": "So that's what I'll do I'll take me on week into that, but it's gonna be nice to be done with that"
+  },
+  {
+   "start": 146.38,
+   "end": 150.46,
+   "text": "I know how many pages are the different arts authors like"
+  },
+  {
+   "start": 153.66,
+   "end": 159.7,
+   "text": "See how it seems 14,000 and for some pages. It's a lot. None of those change sink as sauce and it's like eight and a thousand pages"
+  },
+  {
+   "start": 160.62,
+   "end": 164.54,
+   "text": "So we have a way more and because the biggest we have way more stuff than"
+  },
+  {
+   "start": 165.34,
+   "end": 168.94,
+   "text": "For me to write us from right up the follow-around being an Christianity"
+  },
+  {
+   "start": 169.34,
+   "end": 173.82,
+   "text": "Then we hear from like the golden age of room sisteros has only 20 can look ages"
+  },
+  {
+   "start": 174.94,
+   "end": 179.06,
+   "text": "Yeah, so I want to make a little list of all the you know all the ones"
+  },
+  {
+   "start": 180.02,
+   "end": 182.52,
+   "text": "Who have the most pages to least"
+  },
+  {
+   "start": 184.1,
+   "end": 188.02,
+   "text": "Yeah, and then a tally of all of the page we have because I'm getting like every book"
+  },
+  {
+   "start": 188.74,
+   "end": 190.74,
+   "text": "How to be cool"
+  },
+  {
+   "start": 191.7,
+   "end": 193.7,
+   "text": "Yeah, so that's a little dinner"
+  },
+  {
+   "start": 193.7,
+   "end": 195.7,
+   "text": "Oh, so today"
+  },
+  {
+   "start": 195.7,
+   "end": 198.9,
+   "text": "I went on our address my mom on a new course"
+  },
+  {
+   "start": 198.9,
+   "end": 201.54,
+   "text": "It's fun a little look around the hospital and then"
+  },
+  {
+   "start": 203.38,
+   "end": 208.54,
+   "text": "She gave me some nice food and gonna look at it more now. So there's"
+  },
+  {
+   "start": 209.1,
+   "end": 211.1,
+   "text": "Momas and then some like"
+  },
+  {
+   "start": 211.74,
+   "end": 213.74,
+   "text": "Girl chicken and"
+  },
+  {
+   "start": 213.74,
+   "end": 215.74,
+   "text": "Call of lovers and corn"
+  },
+  {
+   "start": 215.74,
+   "end": 223.06,
+   "text": "Because I've kind of had the munchies, you know like my my appetite for taste deep in this gone out"
+  },
+  {
+   "start": 223.5,
+   "end": 225.82,
+   "text": "So I was going to talk about a couple of times but"
+  },
+  {
+   "start": 228.74,
+   "end": 234.78,
+   "text": "But anyway this thing hasn't been like working so I'm gonna try and figure out this whole system"
+  },
+  {
+   "start": 235.5,
+   "end": 241.42,
+   "text": "Yeah, it's gonna be fun to learn I have creative cloud. I've had it feel like a year or more whatever, you know"
+  },
+  {
+   "start": 241.78,
+   "end": 243.58,
+   "text": "Very couple years since this computer and"
+  },
+  {
+   "start": 246.06,
+   "end": 253.82,
+   "text": "So I got like what 30 programs and I don't know if they do so I want to like watch all of the tutorials of all the programs"
+  },
+  {
+   "start": 253.82,
+   "end": 258.46,
+   "text": "A lot of red meat like inside of these little stuff and then to Google either the analytics videos"
+  },
+  {
+   "start": 259.98,
+   "end": 261.98,
+   "text": "Yeah, and then like record the lots"
+  },
+  {
+   "start": 263.5,
+   "end": 265.98,
+   "text": "Okay, I'm I'm getting like"
+  },
+  {
+   "start": 266.86,
+   "end": 271.66,
+   "text": "Like neck pains and stuff. I'm not just stretching when I do the Viking okay"
+  },
+  {
+   "start": 271.66,
+   "end": 275.5,
+   "text": "Enough talking probably too much talking piece"
+  }
+ ]
+}

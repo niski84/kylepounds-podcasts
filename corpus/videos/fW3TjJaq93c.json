@@ -1,0 +1,499 @@
+{
+ "youtube_id": "fW3TjJaq93c",
+ "title": "Living in Boulder Vlog 5 - 21 - 2018: Google Earthing Boulder Country Roads still",
+ "url": "https://youtu.be/fW3TjJaq93c",
+ "published_at": "2018-05-22",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle shares a late-night epiphany about his Google Earth project visualizing Boulder County: instead of overlaying a color block or single image to hide modern development, he'll use screen-captured patches of natural terrain (trees, plains) to paste directly over neighborhoods, making the county appear as it did in its pre-development natural state. He also mentions being busy helping his mom organize her garage and estimates the patching work could take about a week.",
+  "speaker": "kyle",
+  "topics": [
+   "Google Earth project",
+   "Boulder County visualization",
+   "digital image patching technique",
+   "time-lapse landscape concept",
+   "personal life update"
+  ],
+  "stances": [
+   {
+    "topic": "Google Earth patching technique",
+    "position": "Excited about the patch-over approach as a breakthrough solution he can't believe took him so long to figure out"
+   },
+   {
+    "topic": "project scope",
+    "position": "Willing to throw a full week at the patching work if it produces the immersive natural landscape effect he envisions"
+   },
+   {
+    "topic": "Google's own patching (Babylon, Atlantis)",
+    "position": "Notes Google fuzzes out certain locations with interest but doesn't endorse their approach — his method will look more seamless"
+   }
+  ],
+  "entities": [
+   "Boulder County",
+   "Italy",
+   "Google Earth",
+   "Babylon",
+   "Atlantis",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.42,
+   "end": 10.28,
+   "text": "Oh, they're gonna boil it in the middle of the rug. It's currently at 2.19 in the morning on May 22nd"
+  },
+  {
+   "start": 10.28,
+   "end": 13.78,
+   "text": "I did a video just a couple days ago, but"
+  },
+  {
+   "start": 15.42,
+   "end": 22.54,
+   "text": "Some groovy things I mean, I had an epiphanie since the last time I did a video and I want to"
+  },
+  {
+   "start": 24.7,
+   "end": 26.7,
+   "text": "I want to share it because I"
+  },
+  {
+   "start": 26.7,
+   "end": 31.7,
+   "text": "Kind of feel like it"
+  },
+  {
+   "start": 33.7,
+   "end": 42.7,
+   "text": "I'm like I'm trying to make a wrong like I mean, Boulder County. I'm trying to explain visually visually"
+  },
+  {
+   "start": 42.7,
+   "end": 45.7,
+   "text": "Explain border"
+  },
+  {
+   "start": 45.7,
+   "end": 48.7,
+   "text": "Who the county that shows all the interesting stuff?"
+  },
+  {
+   "start": 49.7,
+   "end": 54.7,
+   "text": "By blocking out all the non-interesting stuff. I like trying to exchange weight on what I choose"
+  },
+  {
+   "start": 54.7,
+   "end": 57.7,
+   "text": "And so I'm really creating Boulder County"
+  },
+  {
+   "start": 58.7,
+   "end": 62.7,
+   "text": "As a time before roads before houses"
+  },
+  {
+   "start": 63.7,
+   "end": 66.7,
+   "text": "It's natural state so that I can superimpose on that"
+  },
+  {
+   "start": 67.7,
+   "end": 69.7,
+   "text": "Ancient realm"
+  },
+  {
+   "start": 69.7,
+   "end": 75.7,
+   "text": "And then do the same thing with Italy, but the last time I did the video I was saying yeah"
+  },
+  {
+   "start": 75.7,
+   "end": 77.7,
+   "text": "Yeah"
+  },
+  {
+   "start": 79.7,
+   "end": 81.7,
+   "text": "To block out the houses of stuff"
+  },
+  {
+   "start": 82.7,
+   "end": 90.3,
+   "text": "I had a choice to either put a big image which covers the one image which covers the entire"
+  },
+  {
+   "start": 91.7,
+   "end": 97.1,
+   "text": "Boulder County or cover it with a polygon on color just put a slap a color on there"
+  },
+  {
+   "start": 97.7,
+   "end": 102.3,
+   "text": "Neither of those were good ideas and so I was just choosing on I guess the color in anyways"
+  },
+  {
+   "start": 102.3,
+   "end": 107.3,
+   "text": "Of course there's another way that I didn't think about until I think it was yesterday"
+  },
+  {
+   "start": 107.3,
+   "end": 111.3,
+   "text": "I was looking up the county and I was thinking oh man, I can't do this without having the real"
+  },
+  {
+   "start": 112.3,
+   "end": 115.3,
+   "text": "I have to be able to look at the real landscape"
+  },
+  {
+   "start": 116.3,
+   "end": 120.3,
+   "text": "I sandwiched you know Google everything with the polygon and you see the cartoon but"
+  },
+  {
+   "start": 121.3,
+   "end": 123.3,
+   "text": "I have to have the real stuff"
+  },
+  {
+   "start": 124.3,
+   "end": 128.3,
+   "text": "I remember what I can do"
+  },
+  {
+   "start": 128.3,
+   "end": 133.3,
+   "text": "All I have to do is plug it up, patch it up"
+  },
+  {
+   "start": 134.3,
+   "end": 143.61,
+   "text": "Like it actually not even better than what Google does when they patch up certain things on Google or for some reason"
+  },
+  {
+   "start": 144.61,
+   "end": 146.61,
+   "text": "They patched over Babylon"
+  },
+  {
+   "start": 147.61,
+   "end": 152.61,
+   "text": "And so if you look at Babylon on you see is like a rock like I guess yeah like what they do about the same way you just see a rock"
+  },
+  {
+   "start": 152.61,
+   "end": 164.61,
+   "text": "But better than I think what they did with with Atlantis they found a bit of I think something Atlantis off this south western"
+  },
+  {
+   "start": 165.61,
+   "end": 173.61,
+   "text": "So it's interesting to look at what they can't look at it because they fuzzed it out but you don't have to do it you don't have to fuzz it"
+  },
+  {
+   "start": 174.61,
+   "end": 176.61,
+   "text": "But what I'm going to do patchwork"
+  },
+  {
+   "start": 177.61,
+   "end": 179.61,
+   "text": "So I get a"
+  },
+  {
+   "start": 180.61,
+   "end": 185.61,
+   "text": "So if I want to patch over all the houses in the bowler county and I told him on that today and she's gone"
+  },
+  {
+   "start": 186.61,
+   "end": 190.61,
+   "text": "Oh no, that's too much work but you know you're not patching over individual houses"
+  },
+  {
+   "start": 191.61,
+   "end": 195.61,
+   "text": "It's your thousands of that's eat forever but you're patching over neighborhoods"
+  },
+  {
+   "start": 196.61,
+   "end": 199.61,
+   "text": "Most houses are clumped together in neighborhoods"
+  },
+  {
+   "start": 200.61,
+   "end": 202.61,
+   "text": "Hmm, still"
+  },
+  {
+   "start": 203.61,
+   "end": 208.61,
+   "text": "Yeah, you just you just do a screen capture you know like if houses are next to trees"
+  },
+  {
+   "start": 209.61,
+   "end": 214.61,
+   "text": "You just do a screen capture of an area of trees that covers the same area as the houses you want to cover"
+  },
+  {
+   "start": 215.61,
+   "end": 216.61,
+   "text": "And then you just paste that"
+  },
+  {
+   "start": 217.61,
+   "end": 219.61,
+   "text": "Lay that right on top of"
+  },
+  {
+   "start": 220.61,
+   "end": 221.61,
+   "text": "Google Earth on top of those houses"
+  },
+  {
+   "start": 222.61,
+   "end": 223.61,
+   "text": "I don't just look continuous I've been trying it yet"
+  },
+  {
+   "start": 224.61,
+   "end": 227.61,
+   "text": "But I want to try them what I'm thinking is if you do it well"
+  },
+  {
+   "start": 228.61,
+   "end": 229.61,
+   "text": "It just looks like a continuous"
+  },
+  {
+   "start": 230.61,
+   "end": 232.61,
+   "text": "Meowl landscape"
+  },
+  {
+   "start": 233.61,
+   "end": 238.61,
+   "text": "And so and you know so half the houses over the are over the plains you just do a screen capture of the plains"
+  },
+  {
+   "start": 239.61,
+   "end": 241.61,
+   "text": "Paste it right on top of the house isn't"
+  },
+  {
+   "start": 242.61,
+   "end": 243.61,
+   "text": "I"
+  },
+  {
+   "start": 244.61,
+   "end": 247.61,
+   "text": "I'm super interested to see how"
+  },
+  {
+   "start": 250.61,
+   "end": 253.61,
+   "text": "Boulder County will look when I've pasted over"
+  },
+  {
+   "start": 253.61,
+   "end": 258.61,
+   "text": "The entire county and so Boulder County looks like it's looked"
+  },
+  {
+   "start": 259.61,
+   "end": 262.61,
+   "text": "Since they're getting in time, I'll just you know hundred years ago"
+  },
+  {
+   "start": 263.61,
+   "end": 268.61,
+   "text": "So yeah, that's that's what that's my next project"
+  },
+  {
+   "start": 269.61,
+   "end": 271.61,
+   "text": "That's what I wanted to talk about today"
+  },
+  {
+   "start": 272.61,
+   "end": 275.61,
+   "text": "But that's the idea I had and I can't believe it took me that long to figure out"
+  },
+  {
+   "start": 276.61,
+   "end": 278.61,
+   "text": "Hmm"
+  },
+  {
+   "start": 279.61,
+   "end": 282.98,
+   "text": "So"
+  },
+  {
+   "start": 284.98,
+   "end": 289.98,
+   "text": "Yeah, I'm hoping I'm just visioning in my head that is doing a really this such a good job"
+  },
+  {
+   "start": 290.98,
+   "end": 292.98,
+   "text": "And you just literally fly over you know like a plane and all you see this land"
+  },
+  {
+   "start": 293.98,
+   "end": 295.98,
+   "text": "And then I can select my certain"
+  },
+  {
+   "start": 297.98,
+   "end": 301.98,
+   "text": "Certain towns, historic towns that only the roads that are that matter"
+  },
+  {
+   "start": 302.98,
+   "end": 304.98,
+   "text": "Just cut off all of the extremists"
+  },
+  {
+   "start": 305.98,
+   "end": 307.98,
+   "text": "Bending roads or whatever and"
+  },
+  {
+   "start": 308.98,
+   "end": 310.98,
+   "text": "Limit simplify"
+  },
+  {
+   "start": 310.98,
+   "end": 311.98,
+   "text": "Over County"
+  },
+  {
+   "start": 312.98,
+   "end": 315.98,
+   "text": "So I haven't been that had"
+  },
+  {
+   "start": 316.98,
+   "end": 321.98,
+   "text": "He had that much time over the last couple days to work kind of in busy"
+  },
+  {
+   "start": 322.98,
+   "end": 326.98,
+   "text": "From busy old day long today I was working with my mom and trying to help her organize her garage"
+  },
+  {
+   "start": 327.98,
+   "end": 332.98,
+   "text": "So anyways, I'm gonna go to sleep so I'm certainly a graggy on"
+  },
+  {
+   "start": 333.98,
+   "end": 337.98,
+   "text": "And you have to close this video for you on you"
+  },
+  {
+   "start": 337.98,
+   "end": 339.98,
+   "text": "And"
+  },
+  {
+   "start": 339.98,
+   "end": 344.98,
+   "text": "And you'll hopefully want to next to the video. I'm not even done making the roads and Boulder County"
+  },
+  {
+   "start": 345.98,
+   "end": 347.98,
+   "text": "That's just this"
+  },
+  {
+   "start": 347.98,
+   "end": 355.98,
+   "text": "Big project but maybe I'll be done tonight if I work a little bit more tomorrow and then it's in minutes photos and it might take a while that if it's I mean"
+  },
+  {
+   "start": 357.98,
+   "end": 360.98,
+   "text": "We're never in the start. I don't know if project like this"
+  },
+  {
+   "start": 360.98,
+   "end": 367.98,
+   "text": "You do project I think off the bat. Well, let's at worth two in terms of time. I'm thinking wow this is an amazing idea"
+  },
+  {
+   "start": 368.98,
+   "end": 375.98,
+   "text": "To patch over the houses and other roads and make it look like natural. I mean I throw a week at that without even liking"
+  },
+  {
+   "start": 376.98,
+   "end": 378.98,
+   "text": "And if I could get done without a week"
+  },
+  {
+   "start": 379.98,
+   "end": 382.98,
+   "text": "Yeah, I'd be happy because that's a huge step"
+  },
+  {
+   "start": 383.98,
+   "end": 388.98,
+   "text": "You know because I'm not even sure the effect of like how good"
+  },
+  {
+   "start": 389.98,
+   "end": 393.98,
+   "text": "It'll be but I'm dealing like I'll be I smoking a free for a hand"
+  },
+  {
+   "start": 393.98,
+   "end": 399.98,
+   "text": "I will be taking into a place where I will be in home time travel back to Rome"
+  },
+  {
+   "start": 400.98,
+   "end": 404.98,
+   "text": "And then to look at it in Boulder County and then Rome and back we get amazing stuff"
+  },
+  {
+   "start": 405.98,
+   "end": 407.98,
+   "text": "Yeah, um"
+  },
+  {
+   "start": 408.98,
+   "end": 409.98,
+   "text": "Yeah, um"
+  },
+  {
+   "start": 409.98,
+   "end": 417.98,
+   "text": "And by one more week I could I'll know it's how long it'll take me the patch of thousands and I'll probably be a pretty good one"
+  },
+  {
+   "start": 418.98,
+   "end": 422.98,
+   "text": "Anyways, yes, stay tuned. Maybe we'll be like another week before I do an upload persona"
+  },
+  {
+   "start": 423.98,
+   "end": 427.98,
+   "text": "Get the moment to go. I just didn't project the button over the houses"
+  },
+  {
+   "start": 428.98,
+   "end": 430.98,
+   "text": "Okay, peace out"
+  }
+ ]
+}

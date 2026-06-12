@@ -1,0 +1,103 @@
+{
+ "youtube_id": "c5ap-86FNS0",
+ "title": "Living in Boulder Vlog 1 - 14 - 2017",
+ "url": "https://youtu.be/c5ap-86FNS0",
+ "published_at": "2017-01-14",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a morning vlog while working on his website, explaining that he stayed up all night pasting AdSense ads onto his free audiobook pages after discovering the old ads had stopped displaying. He mentions finishing a 40km bike pace page, plans to work all weekend on his site, and notes his priority is selling his car.",
+  "speaker": "kyle",
+  "topics": [
+   "website monetization",
+   "AdSense ads",
+   "sleep deprivation",
+   "weekend work plans",
+   "selling a car",
+   "Boulder life"
+  ],
+  "stances": [
+   {
+    "topic": "AdSense ad limits",
+    "position": "glad the old 5-per-page rule is gone; loading pages with ads is now viable"
+   },
+   {
+    "topic": "selling his car",
+    "position": "considers it the most important task right now, even if he has to take a deal"
+   },
+   {
+    "topic": "surface-level website work",
+    "position": "gives him a sense of accomplishment that helps him mentally separate and refocus"
+   }
+  ],
+  "entities": [],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.3,
+   "end": 31.9,
+   "text": "Hello. Living in Boulder Vlog for the 14th. So it's 10.18 in the morning right now. Excuse me. I never went to sleep last night. I just worked all night long because I'm doing a really, in fact, you know what? I think I'm going to work while I talk because I'm doing a, I'm right now I'm pasting ads."
+  },
+  {
+   "start": 32.22,
+   "end": 59.8,
+   "text": "On my free audio book pages, my website didn't get ads because, um, like, I don't know, like a couple of years ago or something, a few years ago, I don't remember when I filled my whole website up with ads and I think they appeared, but then next thing I know, they don't appear. They didn't appear. And I didn't know what was going on. Then I just forgot about it."
+  },
+  {
+   "start": 59.8,
+   "end": 74.94,
+   "text": "So now, yeah, I see, I do see that there are a lot of them here because I put them inside a table. So I see the tables, but so I'm just pasting my new ads, the ones that do appear. And, uh, but it's taking, it's decided on my audio books, but I'm working on a new care right now."
+  },
+  {
+   "start": 74.94,
+   "end": 97.94,
+   "text": "It's taking forever. It's like I'm waiting right now because, uh, it's just such a big page. But before I remember the rules with AdSense were, uh, you can only have like five per page, which was problematic for me because I have such big pages, but, but I just counted, uh, on this one, I counted 29."
+  },
+  {
+   "start": 97.94,
+   "end": 117.7,
+   "text": "It showed up before they stopped showing up. So that's cool. You can load your pages up with ads now. So, um, I should have done this a long before, but yeah, I mean, after I attach ads all over my website and then I attach a bunch of, and then I like fix up the links and then I attach a bunch of words."
+  },
+  {
+   "start": 117.7,
+   "end": 133.94,
+   "text": "I can basically have like a regular website that looks like it makes money and stuff, you know? So it's pretty exciting. I'm waiting for it to get pasted now. So what was I, and I was doing a bike, pace, and level page link."
+  },
+  {
+   "start": 136.94,
+   "end": 151.54,
+   "text": "Today, I finished the 40 kilometer one and I'm going to do the rest of them. And yeah, I didn't realize how close I actually was to being done with like everything on my website. It's crazy."
+  },
+  {
+   "start": 151.54,
+   "end": 165.03,
+   "text": "So, but, but anyway, today's Saturday, so I'm going to work all day today and Sunday and just get as far ahead on my site as I can."
+  },
+  {
+   "start": 165.09,
+   "end": 182.13,
+   "text": "Cause when I work, when I go do this like surface level stuff on my website, you know, like the attach the ads and stuff like that, it gives me that sense of accomplishment that'll allow me to separate myself from working on the website or my, trying to set up my house and stuff and focus on trying to sell my car."
+  },
+  {
+   "start": 182.13,
+   "end": 194.09,
+   "text": "Cause that's really the important thing right now. Like, yeah, even if I have to sell it for like a deal or something."
+  },
+  {
+   "start": 194.09,
+   "end": 204.93,
+   "text": "So I think I'm just going to work here and still until I start to get tired and then, uh, lay down."
+  },
+  {
+   "start": 206.93,
+   "end": 210.97,
+   "text": "Okay. So anyway, where's the video? Oh, here we are."
+  },
+  {
+   "start": 212.17,
+   "end": 216.67,
+   "text": "Uh, was there anything else? No, I've talked for long enough. Okay. Peace out."
+  }
+ ]
+}

@@ -1,0 +1,259 @@
+{
+ "youtube_id": "l9rsmmZOYEk",
+ "title": "Living in Boulder Vlog 5 - 6 - 2014",
+ "url": "https://youtu.be/l9rsmmZOYEk",
+ "published_at": "2014-05-07",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle does a catch-up daily vlog from his Boulder home, recapping the previous day: his hamster escaped and is likely dead, he biked to work, spent the day on his porch organizing playlists and doing website work, and reflects on his casual bike commute and continuous marijuana use since Colorado legalization.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "hamster escape",
+   "bike commuting",
+   "marijuana use",
+   "Strava",
+   "working from home porch",
+   "playlist organization",
+   "Boulder living"
+  ],
+  "stances": [
+   {
+    "topic": "hamster escape",
+    "position": "resigned acceptance — it's probably dead, 'it's fine'"
+   },
+   {
+    "topic": "Strava racing",
+    "position": "refuses to race his commute; wants to enjoy the ride and smell the flowers"
+   },
+   {
+    "topic": "marijuana use",
+    "position": "casual and positive — has been continuously high since legalization, considers functionality essentially normal"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Strava",
+   "Garmin"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.02,
+   "end": 4.94,
+   "text": "Hello, hello. I forgot to do my daily vlog for yesterday. So I'll do it now or"
+  },
+  {
+   "start": 5.82,
+   "end": 12.54,
+   "text": "Anyways, here's where my hamster escaped by the way. I put a little thing down there. Hopefully maybe you can climb up a part of much of food down there"
+  },
+  {
+   "start": 13.1,
+   "end": 15.74,
+   "text": "Got a little water bowl poured some water down there"
+  },
+  {
+   "start": 16.42,
+   "end": 18.42,
+   "text": "But the problem is that"
+  },
+  {
+   "start": 18.42,
+   "end": 22.18,
+   "text": "He he has to climb up a sheer wall to get out and hamsters can't do that"
+  },
+  {
+   "start": 22.74,
+   "end": 27.42,
+   "text": "You could jump down as you see. You could jump down but then he died"
+  },
+  {
+   "start": 27.98,
+   "end": 32.62,
+   "text": "Even if you survived the fall a human would have to find a pretty damn a quick girl"
+  },
+  {
+   "start": 32.62,
+   "end": 34.62,
+   "text": "She's gonna get lost"
+  },
+  {
+   "start": 35.42,
+   "end": 37.42,
+   "text": "Die so it's probably dead"
+  },
+  {
+   "start": 37.42,
+   "end": 39.42,
+   "text": "It's fine. I don't know"
+  },
+  {
+   "start": 39.42,
+   "end": 41.42,
+   "text": "All right, so"
+  },
+  {
+   "start": 42.22,
+   "end": 48.3,
+   "text": "What did I do yesterday? I came back from work the two houses came back like one or something"
+  },
+  {
+   "start": 49.26,
+   "end": 55.26,
+   "text": "And then worked oh yeah research on the motorcycles, but I did a bunch of random stuff"
+  },
+  {
+   "start": 55.26,
+   "end": 57.26,
+   "text": "Did just kept me busy all day. Oh, yeah"
+  },
+  {
+   "start": 58.54,
+   "end": 63.98,
+   "text": "It was organizing playlists for living in Boulder, we log in. I was like I hadn't done that for like months"
+  },
+  {
+   "start": 64.54,
+   "end": 68.22,
+   "text": "So I've taken forever and I didn't even finish maybe I could put it so I'm not actually"
+  },
+  {
+   "start": 68.94,
+   "end": 74.22,
+   "text": "So I didn't actually I think I did maybe a little bit of work on my website, but not much dude"
+  },
+  {
+   "start": 75.74,
+   "end": 77.74,
+   "text": "So I'll play today"
+  },
+  {
+   "start": 78.14,
+   "end": 80.14,
+   "text": "We'll do that"
+  },
+  {
+   "start": 80.86,
+   "end": 82.86,
+   "text": "So yesterday"
+  },
+  {
+   "start": 83.66,
+   "end": 88.46,
+   "text": "Yeah, that's what I did came home and it was working on my porch all day long"
+  },
+  {
+   "start": 90.14,
+   "end": 93.02,
+   "text": "Hey, it's awesome working on a porch because um"
+  },
+  {
+   "start": 94.46,
+   "end": 98.3,
+   "text": "Yeah, it's warm and it's like I rediscovered a new part of my house pretty cool"
+  },
+  {
+   "start": 100.62,
+   "end": 104.86,
+   "text": "Man, I was gonna talk about a lot of stuff, but I can't remember there's my setup"
+  },
+  {
+   "start": 105.74,
+   "end": 115.98,
+   "text": "When getting to work I got my my shoes strap to the to the rack there and inside I have power"
+  },
+  {
+   "start": 115.98,
+   "end": 118.46,
+   "text": "bars and my wallet and my bike log and"
+  },
+  {
+   "start": 119.5,
+   "end": 124.3,
+   "text": "Extra parts if I need stuff and got the water have my little garment on top"
+  },
+  {
+   "start": 124.62,
+   "end": 129.58,
+   "text": "But I've been forgetting to plug it in and I didn't remember to plug it into Strav and I'm around up to like retrace my steps"
+  },
+  {
+   "start": 130.06,
+   "end": 132.3,
+   "text": "And see how fast I would compare to everybody"
+  },
+  {
+   "start": 132.3,
+   "end": 135.74,
+   "text": "But I though, but I don't do Strav I'm not gonna race Strava on my way to"
+  },
+  {
+   "start": 136.06,
+   "end": 138.94,
+   "text": "Worked dude. It's not too much weed all I want to do is wall a gag"
+  },
+  {
+   "start": 139.74,
+   "end": 143.18,
+   "text": "And you can't you know you can't enjoy you can't smell this on shiner smell the flowers"
+  },
+  {
+   "start": 143.34,
+   "end": 145.74,
+   "text": "Enjoy the sunshine all kind of stuff if you're racing"
+  },
+  {
+   "start": 147.96,
+   "end": 151.88,
+   "text": "Besides a lot of times I write to work. I write you bike paths there's some new bike paths here"
+  },
+  {
+   "start": 151.88,
+   "end": 155.96,
+   "text": "And that's Monday just a while I get on the bike path because like I'm still a little bit high"
+  },
+  {
+   "start": 155.96,
+   "end": 159.08,
+   "text": "Like I haven't been I haven't been sober since they legalize waiting"
+  },
+  {
+   "start": 159.08,
+   "end": 163.4,
+   "text": "You know if you smoke weed all day long and into the night by the time you wake up you're still high dude"
+  },
+  {
+   "start": 164.36,
+   "end": 166.36,
+   "text": "You know, I mean as far as"
+  },
+  {
+   "start": 166.36,
+   "end": 170.44,
+   "text": "Functionality goes you're just as good as normal pretty much your 99% is good"
+  },
+  {
+   "start": 170.92,
+   "end": 175.56,
+   "text": "The structure memory so it's not a big deal that as far as I say you're still high. You're still like well"
+  },
+  {
+   "start": 175.56,
+   "end": 178.36,
+   "text": "It should be like the colors are still high"
+  },
+  {
+   "start": 179.56,
+   "end": 182.81,
+   "text": "Anyways, uh"
+  },
+  {
+   "start": 182.81,
+   "end": 187.37,
+   "text": "So I guess that's that that's keep it up with the vlog peace out"
+  }
+ ]
+}

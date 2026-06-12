@@ -1,0 +1,241 @@
+{
+ "youtube_id": "QsSSchyZnKs",
+ "title": "Living in Boulder Vlog 12 - 9 - 2016",
+ "url": "https://youtu.be/QsSSchyZnKs",
+ "published_at": "2016-12-10",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder on December 9, 2016, describing his late-night work schedule and excitement over discovering the Naumachia of Augustus on a historical map of Rome he is using as reference. He is building a 3D recreation of ancient Rome and recalibrates his timeline, now planning to work on the project until early February after realizing it is far larger than expected.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "sleep schedule",
+   "ancient Rome",
+   "Naumachia of Augustus",
+   "3D Rome building project",
+   "project timeline",
+   "Boulder lakes"
+  ],
+  "stances": [
+   {
+    "topic": "project scope",
+    "position": "Vastly underestimated how long the Rome recreation will take; now committing ~10 weeks through early February"
+   },
+   {
+    "topic": "Naumachia of Augustus",
+    "position": "Finds it fascinating and is excited to build it; loves that Boulder has a lake of the same size"
+   },
+   {
+    "topic": "project quality goal",
+    "position": "Wants the entire area within the Aurelian Wall to look like one cohesive 3D city, even buildings not on the source map"
+   },
+   {
+    "topic": "work habits",
+    "position": "Usually limits himself to 2-3 weeks on a project, but will extend to months if it is mind-blowingly interesting"
+   }
+  ],
+  "entities": [
+   "Augustus",
+   "Naumachia of Augustus",
+   "Aurelian Wall",
+   "Servian Wall",
+   "Rome",
+   "Boulder",
+   "1840 historical map of Rome"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.37,
+   "end": 5.69,
+   "text": "Hello, living in Boulder Vlog. Right when I hit this video, this button, my washing machine started going."
+  },
+  {
+   "start": 6.05,
+   "end": 10.21,
+   "text": "So if I had known, I wouldn't have done it. This is the one for Friday, December 9th."
+  },
+  {
+   "start": 13.93,
+   "end": 19.87,
+   "text": "Yeah, so yesterday, I was working until 6 in the morning."
+  },
+  {
+   "start": 22.05,
+   "end": 28.01,
+   "text": "I went to bed right as it was getting light. I like to go to sleep before it gets light, so I can feel like I'm sleeping at night."
+  },
+  {
+   "start": 28.01,
+   "end": 32.89,
+   "text": "But I got up at noon or something, noon one, so I was 67 hours of sleep."
+  },
+  {
+   "start": 35.55,
+   "end": 46.05,
+   "text": "And so yesterday, I discovered the Namatia. I didn't even know the Namatia was there, because I hadn't looked at it."
+  },
+  {
+   "start": 46.93,
+   "end": 52.25,
+   "text": "It takes a long time to notice buildings when there's a lot of them in the city, but I'm going to drag this to the side so I don't distract myself."
+  },
+  {
+   "start": 52.25,
+   "end": 73.31,
+   "text": "So, the Namatia of Augustus, the Namatia, the water battles, Augustus made a 500 meter diameter lake that he had 30 boats go on with 3,000 prisoners of war, all fight to the death."
+  },
+  {
+   "start": 73.31,
+   "end": 81.97,
+   "text": "So, it's where the saying, for those about to die, we salute you, comes from, originally, I think."
+  },
+  {
+   "start": 84.65,
+   "end": 86.03,
+   "text": "Yeah, so that's pretty trippy."
+  },
+  {
+   "start": 86.97,
+   "end": 94.19,
+   "text": "And it's the same exact size as this lake up here, so Boulder has our twin lake to the Namatia."
+  },
+  {
+   "start": 94.19,
+   "end": 100.45,
+   "text": "And also, the other lake inside of, there's another, like, man-made palace lake in Rome."
+  },
+  {
+   "start": 100.55,
+   "end": 103.27,
+   "text": "It's the same size as this other lake that used to live here, so that's cool."
+  },
+  {
+   "start": 104.15,
+   "end": 109.85,
+   "text": "But, yeah, so the, I was saying, and also yesterday, I started working on Serbian Wall."
+  },
+  {
+   "start": 110.03,
+   "end": 114.27,
+   "text": "I deleted my Serbian Wall and started working on the Serbian Wall from this new map, because it's better."
+  },
+  {
+   "start": 114.27,
+   "end": 123.37,
+   "text": "So, yeah, I mean, it would take at least a whole day just to do the Serbian Wall and at least a whole day just to do the Namatia."
+  },
+  {
+   "start": 123.63,
+   "end": 125.89,
+   "text": "I mean, maybe if I can finish the Namatia today, that'd be cool."
+  },
+  {
+   "start": 126.23,
+   "end": 130.25,
+   "text": "So, yeah, to be done by Sunday is ridiculous."
+  },
+  {
+   "start": 130.53,
+   "end": 132.33,
+   "text": "I don't know, I mean, Monday, I don't know what the hell I was thinking."
+  },
+  {
+   "start": 132.53,
+   "end": 136.15,
+   "text": "It was because I didn't, I just didn't notice how big it was."
+  },
+  {
+   "start": 136.19,
+   "end": 141.39,
+   "text": "And also, I also was looking at the map yesterday, and I noticed that once I'm done with all these buildings that I'm working on,"
+  },
+  {
+   "start": 141.39,
+   "end": 148.19,
+   "text": "That they're on the map in the area, and then I build them, that's only half of the territory of the Aurelian Wall."
+  },
+  {
+   "start": 148.35,
+   "end": 152.97,
+   "text": "Like, I'm going to have to fill another half of it up with my own buildings."
+  },
+  {
+   "start": 153.13,
+   "end": 159.81,
+   "text": "And if I want to make it all look 3D, which I do, I really do want to make it all look one city within the Aurelian Wall."
+  },
+  {
+   "start": 160.77,
+   "end": 165.65,
+   "text": "If I'm going to do that and make all the other new buildings look like the old buildings, that's going to take a fucking long-ass time."
+  },
+  {
+   "start": 165.65,
+   "end": 172.73,
+   "text": "So, I think I'll just hammer until the beginning of February."
+  },
+  {
+   "start": 172.99,
+   "end": 176.65,
+   "text": "I mean, I like to make a rule, I only work on something for 2 or 3 weeks,"
+  },
+  {
+   "start": 176.73,
+   "end": 182.55,
+   "text": "But if it's something that's, like, mind-blowingly interesting, then I could put more, I could put months into it."
+  },
+  {
+   "start": 182.69,
+   "end": 186.77,
+   "text": "So, I'll go 10 weeks from this, 2 1⁄2 months, because that's how I want to take those other guys."
+  },
+  {
+   "start": 186.77,
+   "end": 192.13,
+   "text": "And so, I'll see what I can do, and then I'll probably bail and work on something else."
+  },
+  {
+   "start": 192.39,
+   "end": 200.75,
+   "text": "But, the Nomatia only existed for a little bit in the time of Augustus, like, you know, like 15 AD or whatever, on the time of Jesus."
+  },
+  {
+   "start": 201.11,
+   "end": 208.79,
+   "text": "So, this guy who put this map together in 1840, they kind of put all of the greatest hits,"
+  },
+  {
+   "start": 209.21,
+   "end": 211.87,
+   "text": "But not exactly how it looked in one particular year."
+  },
+  {
+   "start": 211.87,
+   "end": 229.46,
+   "text": "So, I want to do my request video about Courage, whoo, later on today, but I got to, I'm still running ahead on going on this Nomatia thing."
+  },
+  {
+   "start": 229.62,
+   "end": 234.58,
+   "text": "I'm really excited, because I wanted to know where it was, I knew about it, and I didn't know that it was on this map, so it's awesome."
+  },
+  {
+   "start": 235.48,
+   "end": 237.42,
+   "text": "And it's all within the, we're all in the wall, too."
+  },
+  {
+   "start": 237.76,
+   "end": 241.52,
+   "text": "So, anyways, I think that's enough talking for now, I'm going to get back to the project."
+  },
+  {
+   "start": 241.52,
+   "end": 242.02,
+   "text": "Ciao."
+  }
+ ]
+}

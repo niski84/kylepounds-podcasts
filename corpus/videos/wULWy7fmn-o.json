@@ -1,0 +1,355 @@
+{
+ "youtube_id": "wULWy7fmn-o",
+ "title": "Living in Boulder vlog 4 - 8 - 2017: 20 Area Dimensions still",
+ "url": "https://youtu.be/wULWy7fmn-o",
+ "published_at": "2017-04-09",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle recaps his day on April 8, 2017 in Boulder: helping his mom with errands and dishes, working late into the night on what appears to be an art or design project (filling in buttons/shapes on a page), and rewatching a movie on Netflix while taking notes. He notes it's around 2:25-2:30 AM and that the next day is his last day of winter break before returning to work.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "family",
+   "night routine",
+   "creative work",
+   "movie watching",
+   "winter break"
+  ],
+  "stances": [
+   {
+    "topic": "the movie he rewatched",
+    "position": "thinks it is really well made and enjoyed it as much as the first time"
+   },
+   {
+    "topic": "his current project",
+    "position": "excited to be close to finishing a page, feels like it has taken forever"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Katie",
+   "Netflix",
+   "Alexa (Amazon device)",
+   "Wikipedia"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.39,
+   "end": 5.39,
+   "text": "Hello living in a Boulder, a few locked for April 8th."
+  },
+  {
+   "start": 5.39,
+   "end": 11.39,
+   "text": "I can't remember how time I got at the Smyrning, but it was like a 9 or 10."
+  },
+  {
+   "start": 11.39,
+   "end": 16.39,
+   "text": "Then I was working for a little bit."
+  },
+  {
+   "start": 16.39,
+   "end": 21.39,
+   "text": "And then all of a sudden I realized my mom wanted me to go to her house."
+  },
+  {
+   "start": 21.39,
+   "end": 27.39,
+   "text": "So I went over there and looked at her stuff, clean dishes and stuff like that."
+  },
+  {
+   "start": 27.39,
+   "end": 34.39,
+   "text": "And, and, uh, oh, and then we went on up at some errands."
+  },
+  {
+   "start": 34.39,
+   "end": 38.39,
+   "text": "I got some help to pick up some stuff, Katie, and stuff."
+  },
+  {
+   "start": 38.39,
+   "end": 42.39,
+   "text": "I got some emails in that end."
+  },
+  {
+   "start": 42.39,
+   "end": 44.39,
+   "text": "You should drop me off."
+  },
+  {
+   "start": 44.39,
+   "end": 48.39,
+   "text": "It should pick me up tomorrow to take me back to pick up my bike or Alice."
+  },
+  {
+   "start": 48.39,
+   "end": 53.39,
+   "text": "And so then I worked here on the same treatment."
+  },
+  {
+   "start": 53.39,
+   "end": 60.39,
+   "text": "And right now, I'm just filling in buttons."
+  },
+  {
+   "start": 60.39,
+   "end": 62.39,
+   "text": "I don't find any gaps."
+  },
+  {
+   "start": 62.39,
+   "end": 67.95,
+   "text": "And then I'm going to go to work in mine."
+  },
+  {
+   "start": 67.95,
+   "end": 70.95,
+   "text": "It's 2.30 in the morning, 2.25 in the morning."
+  },
+  {
+   "start": 70.95,
+   "end": 76.95,
+   "text": "So I'm going to record this and then pop in my little fancy videos."
+  },
+  {
+   "start": 76.95,
+   "end": 81.95,
+   "text": "And then I'll process it up, let it go."
+  },
+  {
+   "start": 81.95,
+   "end": 86.95,
+   "text": "And then yeah, I'll put the photos on clicker and then I'll start tomorrow."
+  },
+  {
+   "start": 86.95,
+   "end": 89.95,
+   "text": "And then I'll get to sign again."
+  },
+  {
+   "start": 89.95,
+   "end": 92.95,
+   "text": "The fun part."
+  },
+  {
+   "start": 92.95,
+   "end": 100.7,
+   "text": "Yeah, and but tomorrow's my last day, winter break."
+  },
+  {
+   "start": 100.7,
+   "end": 102.7,
+   "text": "Because I work on the new days."
+  },
+  {
+   "start": 102.7,
+   "end": 110.02,
+   "text": "So I'm sorry, so I have to wait for it."
+  },
+  {
+   "start": 110.02,
+   "end": 113.02,
+   "text": "I'll get to see it."
+  },
+  {
+   "start": 113.02,
+   "end": 122.02,
+   "text": "So I was listening to different Wikipedia articles."
+  },
+  {
+   "start": 122.02,
+   "end": 129.39,
+   "text": "I wrote a little bit of Renatus."
+  },
+  {
+   "start": 129.39,
+   "end": 134.02,
+   "text": "And yeah, just that too."
+  },
+  {
+   "start": 134.02,
+   "end": 136.02,
+   "text": "Just those too."
+  },
+  {
+   "start": 136.02,
+   "end": 137.02,
+   "text": "Okay."
+  },
+  {
+   "start": 137.02,
+   "end": 143.62,
+   "text": "Oh, no, but then who watched the first movie."
+  },
+  {
+   "start": 143.62,
+   "end": 144.62,
+   "text": "It's the same."
+  },
+  {
+   "start": 144.62,
+   "end": 146.62,
+   "text": "I originally got in that foot."
+  },
+  {
+   "start": 146.62,
+   "end": 147.62,
+   "text": "So my mom got in this TV."
+  },
+  {
+   "start": 147.62,
+   "end": 149.62,
+   "text": "And then I got off Netflix with the money."
+  },
+  {
+   "start": 149.62,
+   "end": 151.62,
+   "text": "I got back on Netflix there."
+  },
+  {
+   "start": 151.62,
+   "end": 155.62,
+   "text": "And then I started watching that first movie."
+  },
+  {
+   "start": 155.62,
+   "end": 157.62,
+   "text": "I'm not fucked with these Alexia."
+  },
+  {
+   "start": 157.62,
+   "end": 159.62,
+   "text": "I'm going to have to hurry it up."
+  },
+  {
+   "start": 159.62,
+   "end": 160.62,
+   "text": "And I'll remember it."
+  },
+  {
+   "start": 160.62,
+   "end": 163.62,
+   "text": "I like to record whatever 3.5 hours."
+  },
+  {
+   "start": 163.62,
+   "end": 164.62,
+   "text": "It was really good."
+  },
+  {
+   "start": 164.62,
+   "end": 167.62,
+   "text": "And I saw it when it first came out."
+  },
+  {
+   "start": 167.62,
+   "end": 169.62,
+   "text": "But now I'm seeing it again."
+  },
+  {
+   "start": 169.62,
+   "end": 171.62,
+   "text": "And I take the notes while I'm just to read."
+  },
+  {
+   "start": 171.62,
+   "end": 172.62,
+   "text": "Look at it."
+  },
+  {
+   "start": 172.62,
+   "end": 173.62,
+   "text": "It's really well made."
+  },
+  {
+   "start": 173.62,
+   "end": 174.62,
+   "text": "It's a little bit."
+  },
+  {
+   "start": 174.62,
+   "end": 179.27,
+   "text": "So."
+  },
+  {
+   "start": 179.27,
+   "end": 181.27,
+   "text": "So, and then I was there to work."
+  },
+  {
+   "start": 181.27,
+   "end": 184.27,
+   "text": "But I think, oh, finished this page tomorrow."
+  },
+  {
+   "start": 184.27,
+   "end": 186.27,
+   "text": "Which would be exciting."
+  },
+  {
+   "start": 186.27,
+   "end": 192.27,
+   "text": "Like, I'm getting done with this like being buried forever."
+  },
+  {
+   "start": 192.27,
+   "end": 193.27,
+   "text": "And stuff."
+  },
+  {
+   "start": 193.27,
+   "end": 194.27,
+   "text": "All right."
+  },
+  {
+   "start": 194.27,
+   "end": 195.27,
+   "text": "And they're good times."
+  },
+  {
+   "start": 195.27,
+   "end": 197.27,
+   "text": "Because I think continuing with it."
+  },
+  {
+   "start": 197.27,
+   "end": 199.27,
+   "text": "I think I'm crazy."
+  },
+  {
+   "start": 199.27,
+   "end": 204.27,
+   "text": "But you know, let's hope you'll respond to everything happens."
+  },
+  {
+   "start": 204.27,
+   "end": 209.7,
+   "text": "Open to the second."
+  },
+  {
+   "start": 209.7,
+   "end": 211.7,
+   "text": "So let's see."
+  },
+  {
+   "start": 211.7,
+   "end": 214.7,
+   "text": "I think that's all on your own time."
+  },
+  {
+   "start": 214.7,
+   "end": 216.7,
+   "text": "Well, that's all we've talked about."
+  },
+  {
+   "start": 216.7,
+   "end": 217.7,
+   "text": "So let's go."
+  }
+ ]
+}

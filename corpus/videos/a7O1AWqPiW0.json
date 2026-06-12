@@ -1,0 +1,357 @@
+{
+ "youtube_id": "a7O1AWqPiW0",
+ "title": "Living in Boulder Vlog 10 - 30 - 2016",
+ "url": "https://youtu.be/a7O1AWqPiW0",
+ "published_at": "2016-10-31",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs at 2:34am about a day plagued by internet outages from CenturyLink, describing the frustrating cycle of restarting his computer to temporarily restore connectivity. He discusses plans to switch to Comcast or use Verizon's cellular hotspot, and recaps his day working on a Google Earth ski resorts project and discovering a YouTube channel covering Gibbon's Decline and Fall of the Roman Empire.",
+  "speaker": "kyle",
+  "topics": [
+   "internet outage",
+   "ISP frustration",
+   "daily vlog",
+   "Google Earth project",
+   "ski resorts research",
+   "YouTube discovery",
+   "Roman Empire history"
+  ],
+  "stances": [
+   {
+    "topic": "CenturyLink service",
+    "position": "completely unacceptable — cannot provide working internet at all"
+   },
+   {
+    "topic": "switching to Comcast",
+    "position": "likely necessary despite higher cost and shared bandwidth"
+   },
+   {
+    "topic": "studying the Roman Empire",
+    "position": "deep understanding of it could be a form of enlightenment"
+   },
+   {
+    "topic": "internet availability in 2016 Boulder",
+    "position": "absurd that a major city only has two providers and one can't deliver service"
+   }
+  ],
+  "entities": [
+   "CenturyLink",
+   "Comcast",
+   "Verizon",
+   "Google Earth",
+   "Boulder Colorado",
+   "History Scientist (YouTube channel)",
+   "Decline and Fall of the Roman Empire (Gibbon)",
+   "Bertha Pass"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.62,
+   "end": 8.44,
+   "text": "Hey, Living in Boulder, V-Log. It's 2.34 in the morning on October 31st. This is the V-Log for October 30th."
+  },
+  {
+   "start": 8.94,
+   "end": 15.54,
+   "text": "I'm not going to be able to upload the video now. I literally have no internet. Like, no internet. Nothing."
+  },
+  {
+   "start": 17.48,
+   "end": 22.94,
+   "text": "It's been like that most of the day. My internet pretty much has gone off the deep end completely."
+  },
+  {
+   "start": 23.2,
+   "end": 26.7,
+   "text": "I can't do anything. My roommate's freaking out. He can't do internet."
+  },
+  {
+   "start": 26.7,
+   "end": 35.76,
+   "text": "The only way I can get internet back, I bought a $30 ethernet cord today, so I can use it anywhere I want in my apartment."
+  },
+  {
+   "start": 37.2,
+   "end": 39.9,
+   "text": "But even with ethernet, I have no internet."
+  },
+  {
+   "start": 41.46,
+   "end": 44.46,
+   "text": "The only way to get my internet back is by restarting my computer."
+  },
+  {
+   "start": 45.66,
+   "end": 52.88,
+   "text": "But then I only have internet for a couple minutes, and then I lose my internet, and the only way to get it back is to restart the computer."
+  },
+  {
+   "start": 52.88,
+   "end": 59.48,
+   "text": "I called tech support, and they said maybe I could clear history, but that never helped."
+  },
+  {
+   "start": 60.24,
+   "end": 62.12,
+   "text": "Restarting the computer is the only thing that helps."
+  },
+  {
+   "start": 62.92,
+   "end": 68.22,
+   "text": "Sometimes unplugging the ethernet cable and plugging it back in has helped to reboot it."
+  },
+  {
+   "start": 69.98,
+   "end": 79.38,
+   "text": "But, yeah, I'm going to call my cell phone provider, Verizon, and they have a system where you can use your cell phone as the modem and get internet off that."
+  },
+  {
+   "start": 79.38,
+   "end": 85.54,
+   "text": "So we'll look into that, but then I don't know how that would work with my roommate."
+  },
+  {
+   "start": 86.74,
+   "end": 90.2,
+   "text": "So I think what I'm going to do is we're going to just get on Comcast."
+  },
+  {
+   "start": 90.34,
+   "end": 93.82,
+   "text": "Comcast is more expensive, and it's technically the same price."
+  },
+  {
+   "start": 94.74,
+   "end": 100.6,
+   "text": "The guy at CenturyLink said that Comcast would be slower because it's not dedicated, and CenturyLink is dedicated."
+  },
+  {
+   "start": 100.6,
+   "end": 105.54,
+   "text": "And I'll also make sure that there's no other companies that service this area, but I tried it."
+  },
+  {
+   "start": 105.6,
+   "end": 108.24,
+   "text": "The last time I checked, it was only Comcast and CenturyLink."
+  },
+  {
+   "start": 108.82,
+   "end": 117.8,
+   "text": "But I think I'll call CenturyLink first a few times, you know, and then call the Homeowners Association and just exhaust that, you know,"
+  },
+  {
+   "start": 117.86,
+   "end": 121.68,
+   "text": "Because I still have enough internet intermittently throughout the day."
+  },
+  {
+   "start": 121.68,
+   "end": 132.38,
+   "text": "Like, if I restart the computer to, I guess, do essentials or whatever, but, and I can still listen to interesting YouTube videos with my cell phone."
+  },
+  {
+   "start": 132.74,
+   "end": 135.68,
+   "text": "I have the five gigabytes, but that'll probably fill out pretty quick."
+  },
+  {
+   "start": 135.84,
+   "end": 140.62,
+   "text": "So this is an absolute unbelievable nightmare situation."
+  },
+  {
+   "start": 141.0,
+   "end": 143.68,
+   "text": "I can't believe it's 2016, almost 2017."
+  },
+  {
+   "start": 143.68,
+   "end": 154.52,
+   "text": "I'm in Boulder, Colorado, and, you know, and there's two internet companies, and one of the internet companies, they can't give me internet."
+  },
+  {
+   "start": 154.66,
+   "end": 156.94,
+   "text": "Like, literally, they can't give me internet at all."
+  },
+  {
+   "start": 157.0,
+   "end": 157.64,
+   "text": "I don't have internet."
+  },
+  {
+   "start": 158.78,
+   "end": 160.78,
+   "text": "So it's weird."
+  },
+  {
+   "start": 162.0,
+   "end": 166.18,
+   "text": "So I'm going to call, try to hook up with Comcast."
+  },
+  {
+   "start": 166.18,
+   "end": 173.88,
+   "text": "So today, I was working on Google Earth and ski resorts."
+  },
+  {
+   "start": 174.18,
+   "end": 177.32,
+   "text": "It was difficult because I couldn't connect."
+  },
+  {
+   "start": 178.08,
+   "end": 184.71,
+   "text": "Google Earth couldn't connect, so I was, I was limited on what I could do."
+  },
+  {
+   "start": 184.83,
+   "end": 190.97,
+   "text": "But I was, I was just doing defunct ski resorts, and now I'm doing Bertha Pass."
+  },
+  {
+   "start": 190.97,
+   "end": 198.57,
+   "text": "And, um, yeah, I've been, I mean, it was 237, I've been working since I got up at, like, 10."
+  },
+  {
+   "start": 198.63,
+   "end": 199.51,
+   "text": "I kind of slept in."
+  },
+  {
+   "start": 201.09,
+   "end": 203.57,
+   "text": "I think I was working until, since, like, 11 or something."
+  },
+  {
+   "start": 204.81,
+   "end": 207.91,
+   "text": "But I had a good day."
+  },
+  {
+   "start": 208.27,
+   "end": 215.07,
+   "text": "I, uh, um, I discovered a couple of cool internet, or YouTube channels."
+  },
+  {
+   "start": 215.19,
+   "end": 217.03,
+   "text": "There's this one guy called History Scientist."
+  },
+  {
+   "start": 217.03,
+   "end": 227.75,
+   "text": "Yeah, and he, he, he's, he's doing, like, his, like, a review of every single, um, chapter in the Decline and Fall of the Roman Empire."
+  },
+  {
+   "start": 227.95,
+   "end": 228.49,
+   "text": "So that's cool."
+  },
+  {
+   "start": 228.85,
+   "end": 229.79,
+   "text": "Over the last few years."
+  },
+  {
+   "start": 230.19,
+   "end": 231.93,
+   "text": "And it has 298 chapters."
+  },
+  {
+   "start": 232.99,
+   "end": 236.05,
+   "text": "So, yeah, I'm starting to piece it together in my mind."
+  },
+  {
+   "start": 236.23,
+   "end": 239.21,
+   "text": "You learn it slowly when you listen to it when you're high all the time."
+  },
+  {
+   "start": 239.43,
+   "end": 243.13,
+   "text": "But, yeah, piecing it together, it's interesting."
+  },
+  {
+   "start": 243.13,
+   "end": 250.63,
+   "text": "To figure out the Roman Empire, it might be, hey, that would be, like, a form of enlightenment, you know?"
+  },
+  {
+   "start": 250.99,
+   "end": 252.09,
+   "text": "You could, like, know everything."
+  },
+  {
+   "start": 252.29,
+   "end": 253.51,
+   "text": "You can base everything off that."
+  },
+  {
+   "start": 254.69,
+   "end": 255.17,
+   "text": "Understand."
+  },
+  {
+   "start": 255.95,
+   "end": 256.91,
+   "text": "Deep understanding."
+  },
+  {
+   "start": 257.95,
+   "end": 263.95,
+   "text": "So, um, uh, yeah, so tomorrow, oof."
+  },
+  {
+   "start": 264.77,
+   "end": 267.39,
+   "text": "I mean, I said I'd be done this week sometime."
+  },
+  {
+   "start": 267.39,
+   "end": 280.51,
+   "text": "But, I mean, that's, that was, whew, that was kind of a, it's always hard to make your prediction, you know, realistically, especially in something like this."
+  },
+  {
+   "start": 280.59,
+   "end": 282.35,
+   "text": "But, yeah, we'll see if I can be done by Friday."
+  },
+  {
+   "start": 282.65,
+   "end": 282.99,
+   "text": "Woo-hoo."
+  },
+  {
+   "start": 283.87,
+   "end": 291.49,
+   "text": "We'll see unless there's a whole bunch of new other ski resorts I haven't, you know, found that I need to, in the list that I need to add."
+  },
+  {
+   "start": 291.49,
+   "end": 297.65,
+   "text": "But, doing the ones that I have now, maybe I could be done by Friday."
+  },
+  {
+   "start": 298.13,
+   "end": 301.33,
+   "text": "Okay, so I've talked for five minutes, as I guess that's enough, right?"
+  },
+  {
+   "start": 302.31,
+   "end": 303.63,
+   "text": "Hopefully I'll get my internet back."
+  },
+  {
+   "start": 304.29,
+   "end": 305.11,
+   "text": "Alright, peace out."
+  }
+ ]
+}

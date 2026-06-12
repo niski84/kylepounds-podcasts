@@ -1,0 +1,524 @@
+{
+ "youtube_id": "h19lpzApB1g",
+ "title": "Living in Boulder Vlog 2 - 21 - 2015",
+ "url": "https://youtu.be/h19lpzApB1g",
+ "published_at": "2015-02-22",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle recaps his February 21, 2015 day living in Boulder: he's increasing cycling on the roll trainer and tracking food intake, but his car broke down twice this winter due to a gas pedal detaching from the floorboard, and a stranger at a gas station helped him improvise a fix. He also discusses writing goals, his website, upcoming cycling fitness tests, and plans to improve his vlog lighting setup.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "cycling training",
+   "car breakdown",
+   "diet and appetite",
+   "writing and website work",
+   "vlog production setup",
+   "Boulder living"
+  ],
+  "stances": [
+   {
+    "topic": "sleeping in after hard training",
+    "position": "trusts his body and stays in bed as long as he feels tired"
+   },
+   {
+    "topic": "going to work on Sundays",
+    "position": "dislikes it because of the people at the yoga studio"
+   },
+   {
+    "topic": "writing productivity",
+    "position": "optimistic he can make this summer a big writing season if he keeps up the daily momentum"
+   },
+   {
+    "topic": "car repair quality",
+    "position": "frustrated the Kansas mechanic didn't fix it properly the first time"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Colorado",
+   "Texas",
+   "Kansas",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.05,
+   "end": 4.15,
+   "text": "Hey, living in the Boulder V-Log"
+  },
+  {
+   "start": 4.15,
+   "end": 11.75,
+   "text": "for the 21st, today's the 21st of February."
+  },
+  {
+   "start": 11.75,
+   "end": 18.35,
+   "text": "So yesterday I rode 13 miles I think on the Roll Trainer"
+  },
+  {
+   "start": 18.35,
+   "end": 22.45,
+   "text": "and then you can, I'm gonna add the link to the ride I do the day before."
+  },
+  {
+   "start": 22.45,
+   "end": 26.25,
+   "text": "The, the, the shoplinks to the road the ride I do the day before."
+  },
+  {
+   "start": 26.25,
+   "end": 27.25,
+   "text": "For now on every time."
+  },
+  {
+   "start": 28.25,
+   "end": 31.25,
+   "text": "Um, it was over like a couple hours or something."
+  },
+  {
+   "start": 31.25,
+   "end": 35.25,
+   "text": "It was pretty cool and I slept in today. I was all tired. I slept in till midnight and it's,"
+  },
+  {
+   "start": 35.25,
+   "end": 38.25,
+   "text": "it's interesting. You don't really know how long you should sleep in."
+  },
+  {
+   "start": 38.25,
+   "end": 40.25,
+   "text": "I mean like I've never felt this tired in the morning."
+  },
+  {
+   "start": 40.25,
+   "end": 43.25,
+   "text": "So I just stay in bed."
+  },
+  {
+   "start": 43.25,
+   "end": 48.25,
+   "text": "So, uh, what else? Oh yeah, my appetite is going up."
+  },
+  {
+   "start": 48.25,
+   "end": 54.25,
+   "text": "So, I have to eat more. Um, but I'm just, you know, simple thing to my meal."
+  },
+  {
+   "start": 54.25,
+   "end": 57.25,
+   "text": "But I'm right some veggies so I just have more."
+  },
+  {
+   "start": 57.25,
+   "end": 61.25,
+   "text": "And I'll record how much I eat to every day. I'm a jade and how much I ride."
+  },
+  {
+   "start": 61.25,
+   "end": 66.25,
+   "text": "Because I'm bike, I'm a bike trainer, be longer."
+  },
+  {
+   "start": 66.25,
+   "end": 71.25,
+   "text": "So today I didn't really get to any work done in the morning or writing for work."
+  },
+  {
+   "start": 71.25,
+   "end": 75.25,
+   "text": "The morning, because I did do just stuff setting up, you know, my new sister racing here."
+  },
+  {
+   "start": 75.25,
+   "end": 79.25,
+   "text": "Um, but I was gonna do it when I came back from work."
+  },
+  {
+   "start": 79.25,
+   "end": 82.25,
+   "text": "So I went to drive to work. I did do a couple hours."
+  },
+  {
+   "start": 83.25,
+   "end": 86.25,
+   "text": "Today, it was really snowy, so I drove."
+  },
+  {
+   "start": 86.25,
+   "end": 90.25,
+   "text": "And my car broke down. It was a second time. It was winter that my car broke down."
+  },
+  {
+   "start": 90.25,
+   "end": 94.25,
+   "text": "I'm gonna need this. I didn't distract myself by looking at myself."
+  },
+  {
+   "start": 94.25,
+   "end": 96.25,
+   "text": "Yeah, I usually drop all right to work."
+  },
+  {
+   "start": 96.25,
+   "end": 101.25,
+   "text": "But yeah, the first time I covered my car broke down, I was going to my mom's house first to, uh,"
+  },
+  {
+   "start": 101.25,
+   "end": 106.25,
+   "text": "I think, drop something off and, so like a block from my mom's house."
+  },
+  {
+   "start": 106.25,
+   "end": 109.25,
+   "text": "My friend left wheel just falls off."
+  },
+  {
+   "start": 109.25,
+   "end": 117.25,
+   "text": "So, um, I took that in to the mechanic. He said he'd seen that happen before with the hands."
+  },
+  {
+   "start": 117.25,
+   "end": 121.25,
+   "text": "And, uh, and, and then today it broke down again."
+  },
+  {
+   "start": 121.25,
+   "end": 125.25,
+   "text": "I'm at the, uh, stuck light and then I go and then I fill the little like break."
+  },
+  {
+   "start": 125.25,
+   "end": 132.25,
+   "text": "I'm like, snap on my, uh, gas pedal. And so, but I could still go in first like five miles an hour."
+  },
+  {
+   "start": 132.25,
+   "end": 137.25,
+   "text": "You know how cars they can naturally go. Just a little bit if you just keep it in gear."
+  },
+  {
+   "start": 137.25,
+   "end": 141.25,
+   "text": "So it creeped to the gas station. It was there."
+  },
+  {
+   "start": 141.25,
+   "end": 144.25,
+   "text": "And I took open the floor board to figure out what was going on."
+  },
+  {
+   "start": 144.25,
+   "end": 148.25,
+   "text": "It was the same problem that happened at two and a half years ago and I was on the way down to Texas."
+  },
+  {
+   "start": 148.25,
+   "end": 152.25,
+   "text": "And, uh, Kansas, I had to get the car fixed."
+  },
+  {
+   "start": 152.25,
+   "end": 155.25,
+   "text": "Uh, so the guy who fixed it there didn't fix it right."
+  },
+  {
+   "start": 155.25,
+   "end": 158.25,
+   "text": "So, because it's the same thing happens. So, I told him I can't get it."
+  },
+  {
+   "start": 158.25,
+   "end": 162.25,
+   "text": "If he could fix it, please fix it so that it stays fixed this time."
+  },
+  {
+   "start": 162.25,
+   "end": 166.25,
+   "text": "Uh, what happened was the gas pedal came on the gun."
+  },
+  {
+   "start": 166.25,
+   "end": 173.25,
+   "text": "He attached from the floor board. So when I push down I can't, there's nothing to, for it to fix so I can't get any gas."
+  },
+  {
+   "start": 173.25,
+   "end": 178.25,
+   "text": "So I'm sitting there and I'm like, I'm like, I'm not going to have to get like, have somebody hold it on the floor board for me."
+  },
+  {
+   "start": 178.25,
+   "end": 181.25,
+   "text": "Well, I push the gas to get to the mechanic."
+  },
+  {
+   "start": 181.25,
+   "end": 192.25,
+   "text": "And, uh, my, so I'm on the phone with my mom and then this dude and, oh yeah, but then the dude is talking to me before he's like, yeah, I saw you."
+  },
+  {
+   "start": 192.25,
+   "end": 195.25,
+   "text": "Turn on your hazards and pull into the gas station when it was wrong."
+  },
+  {
+   "start": 195.25,
+   "end": 199.25,
+   "text": "I'm going to move in and I showed him and then he left and I was gone. No, it's talking to me."
+  },
+  {
+   "start": 199.25,
+   "end": 209.25,
+   "text": "Mom, he comes back and just had this like metal bar and a viscrips and he fixed it way to kind of keep the bottom of the thing attached to the floor board."
+  },
+  {
+   "start": 209.25,
+   "end": 214.25,
+   "text": "The pedal, attached to the floor board and in a way that I could actually drive to work and he was going to pick it up at the mechanics."
+  },
+  {
+   "start": 214.25,
+   "end": 216.25,
+   "text": "That's pretty nice."
+  },
+  {
+   "start": 216.25,
+   "end": 220.25,
+   "text": "I don't even know you're, so then I called my mom and she took me back."
+  },
+  {
+   "start": 220.25,
+   "end": 223.25,
+   "text": "So I have to go to work tomorrow. I don't like going to work on Sunday because there's people there."
+  },
+  {
+   "start": 223.25,
+   "end": 228.25,
+   "text": "It's a yoga studio. I don't like seeing the people and they're on Sundays."
+  },
+  {
+   "start": 228.25,
+   "end": 230.25,
+   "text": "Well, whatever."
+  },
+  {
+   "start": 230.25,
+   "end": 235.25,
+   "text": "Because they come back and they're all going for the rest of the day if I come inside a day and whatever."
+  },
+  {
+   "start": 235.25,
+   "end": 240.25,
+   "text": "This is the second time it's happened. The last thing that happened was on a Saturday too, so then I had to go in on Sunday."
+  },
+  {
+   "start": 240.25,
+   "end": 244.25,
+   "text": "But I didn't have my keys anyway."
+  },
+  {
+   "start": 244.25,
+   "end": 246.25,
+   "text": "So that's what I did today."
+  },
+  {
+   "start": 247.25,
+   "end": 251.25,
+   "text": "And then I was writing and working on just on my website."
+  },
+  {
+   "start": 251.25,
+   "end": 256.25,
+   "text": "I have paperwork to do, but since I'm new to writing my bike, I think I want to do the brain candy stuff."
+  },
+  {
+   "start": 256.25,
+   "end": 262.25,
+   "text": "If I don't get writing until late, tomorrow I work all day long until I have to go work."
+  },
+  {
+   "start": 262.25,
+   "end": 265.25,
+   "text": "I'm going to do the paperwork stuff."
+  },
+  {
+   "start": 265.25,
+   "end": 268.25,
+   "text": "This paperwork stuff that I don't want to talk about."
+  },
+  {
+   "start": 268.25,
+   "end": 275.25,
+   "text": "It'll take a while. It's tedious, but that'll be, I don't get that out of the way for the first week for like a week and then I can."
+  },
+  {
+   "start": 275.25,
+   "end": 279.25,
+   "text": "And then I can, yeah, I'm excited. I think I can do quite well."
+  },
+  {
+   "start": 279.25,
+   "end": 284.25,
+   "text": "And I don't think I'm going to go back. I'm going to, I'm on a stock now. I'm writing this thing every day."
+  },
+  {
+   "start": 284.25,
+   "end": 290.25,
+   "text": "And you know what I might even, it wouldn't surprise me if I turn this summer into my big summer where I start writing a lot."
+  },
+  {
+   "start": 290.25,
+   "end": 291.25,
+   "text": "It depends."
+  },
+  {
+   "start": 291.25,
+   "end": 297.25,
+   "text": "But yeah, it might, it might actually, because if I'm writing in here all the time, I'm in sheep and I look outside."
+  },
+  {
+   "start": 297.25,
+   "end": 301.25,
+   "text": "And I feel like I'm balancing, I'm making good progress on my website."
+  },
+  {
+   "start": 301.25,
+   "end": 304.25,
+   "text": "I think yeah, I will. I'm writing outside."
+  },
+  {
+   "start": 304.25,
+   "end": 307.25,
+   "text": "Or maybe as soon as the snow breaks, I think the first ride I want to do."
+  },
+  {
+   "start": 307.25,
+   "end": 315.25,
+   "text": "I'm going to try to, I'll let you know in a couple of days, I'll try to get this new, the tour of Boulder, put on my website, so that I can reference it."
+  },
+  {
+   "start": 315.25,
+   "end": 319.25,
+   "text": "Because there's this one stage that I want to do, just as soon as it gets."
+  },
+  {
+   "start": 319.25,
+   "end": 322.25,
+   "text": "It's probably the one that you use your stages for me."
+  },
+  {
+   "start": 322.25,
+   "end": 326.25,
+   "text": "So it's the better way, it's all of the climbs and the boulder."
+  },
+  {
+   "start": 326.25,
+   "end": 331.25,
+   "text": "But I want to do the test, I want to do all the tests of how strong I am to put myself into the list."
+  },
+  {
+   "start": 331.25,
+   "end": 336.25,
+   "text": "I know how strong I am on the bottom level, which is, but I need to figure out exactly what that was."
+  },
+  {
+   "start": 336.25,
+   "end": 339.25,
+   "text": "And then make a little chart from it. So I know how many watts I'm doing."
+  },
+  {
+   "start": 339.25,
+   "end": 345.56,
+   "text": "So I know how fast I'm doing in the rural, and I'll put the chart on down here."
+  },
+  {
+   "start": 345.56,
+   "end": 348.56,
+   "text": "So work work work."
+  },
+  {
+   "start": 348.56,
+   "end": 353.56,
+   "text": "See, when I suddenly change my life up and all of a sudden I'm doing more things, because I think about life,"
+  },
+  {
+   "start": 353.56,
+   "end": 357.56,
+   "text": "I started noticing all the little things I need to fix in all the different areas."
+  },
+  {
+   "start": 357.56,
+   "end": 361.56,
+   "text": "And it kind of takes a few days to hash it all out."
+  },
+  {
+   "start": 361.56,
+   "end": 366.56,
+   "text": "So I think that's it for the vlog for today. There's not much light on me."
+  },
+  {
+   "start": 366.56,
+   "end": 369.56,
+   "text": "Oh, no, I forgot to turn the light on me behind me."
+  },
+  {
+   "start": 369.56,
+   "end": 371.56,
+   "text": "Hold the line totally dark."
+  },
+  {
+   "start": 371.56,
+   "end": 375.56,
+   "text": "But yeah, after work I was going to go to the hardware store and get lights."
+  },
+  {
+   "start": 375.56,
+   "end": 377.56,
+   "text": "I'm going to put lights over there."
+  },
+  {
+   "start": 377.56,
+   "end": 380.56,
+   "text": "And then lights down here to put a lot of lights, so there's light on me when I talk."
+  },
+  {
+   "start": 380.56,
+   "end": 384.56,
+   "text": "And when I have money, I'll even hang like a green stream behind me."
+  },
+  {
+   "start": 384.56,
+   "end": 385.56,
+   "text": "Pull it down."
+  },
+  {
+   "start": 385.56,
+   "end": 389.56,
+   "text": "I don't have the money now, but then I can do like green screen technology."
+  },
+  {
+   "start": 389.56,
+   "end": 390.56,
+   "text": "That'd be cool."
+  },
+  {
+   "start": 390.56,
+   "end": 396.56,
+   "text": "So, okay, that's that for now."
+  },
+  {
+   "start": 396.56,
+   "end": 398.56,
+   "text": "Ciao, ciao."
+  }
+ ]
+}

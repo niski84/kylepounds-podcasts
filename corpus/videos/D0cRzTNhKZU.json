@@ -1,0 +1,219 @@
+{
+ "youtube_id": "D0cRzTNhKZU",
+ "title": "Living in Boulder Vlog 3-11-2016",
+ "url": "https://youtu.be/D0cRzTNhKZU",
+ "published_at": "2016-03-14",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a late-night/early-morning vlog at 4:35am from Boulder, giving a scattered update on his day and plans. He mentions working on a 'migratory civil page' website project, wanting to fill an SD card with MP3 files, and an idea to record Kindle audiobooks through speakers to convert them into a free, shareable audio collection. He also mentions intending to do a video about a diagnosis.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "website project",
+   "audiobook conversion idea",
+   "technology frustration",
+   "daily routine",
+   "upcoming video plans"
+  ],
+  "stances": [
+   {
+    "topic": "smartphone video recording",
+    "position": "loves the ease of recording and uploading directly to YouTube"
+   },
+   {
+    "topic": "Amazon Kindle audiobook DRM",
+    "position": "frustrated that Amazon restricts audiobook conversion, sees it as a problem worth working around"
+   },
+   {
+    "topic": "Kindle text-to-speech playback",
+    "position": "finds it unreliable and annoying — stops frequently, sometimes only plays for 30 seconds"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Amazon",
+   "Kindle",
+   "YouTube",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 8.08,
+   "text": "Hello, it's 4.35 in the morning, I think the 11th of March, 2016."
+  },
+  {
+   "start": 10.04,
+   "end": 16.02,
+   "text": "I'm having thoughts. The thoughts that I'm having right now are that I think it's really cool,"
+  },
+  {
+   "start": 16.38,
+   "end": 23.9,
+   "text": "I think it's really good, and I like it a lot that I can record with my cell phone so easily"
+  },
+  {
+   "start": 23.9,
+   "end": 29.24,
+   "text": "And then upload it right to YouTube. It just makes it very happy thoughts."
+  },
+  {
+   "start": 29.24,
+   "end": 45.04,
+   "text": "Um, I'm pretty high right now, so I kind of got asthma, but, so, I'm going, uh, did I say"
+  },
+  {
+   "start": 45.04,
+   "end": 51.96,
+   "text": "It was like 4.30 in the morning? Yeah, because I'm getting to sleep now. This is my pre-go-to-sleep"
+  },
+  {
+   "start": 51.96,
+   "end": 60.28,
+   "text": "Video. Um, trying to keep an eye on the seconds so as to not let it go on too long. So, I got"
+  },
+  {
+   "start": 60.28,
+   "end": 68.6,
+   "text": "Up today at, like, 11 or something, and then I worked just right now on, um, the week section"
+  },
+  {
+   "start": 68.6,
+   "end": 76.04,
+   "text": "Of my bike racer level page, Race Across America. I'll put it all to explain all that later."
+  },
+  {
+   "start": 77.04,
+   "end": 84.46,
+   "text": "Oh, I, I decided, um, just today I'll start out my thing with a six-day race. Only I'll"
+  },
+  {
+   "start": 84.46,
+   "end": 95.15,
+   "text": "Be working the whole time, so, you know. Yeah, yeah, it's just the same old thing."
+  },
+  {
+   "start": 95.31,
+   "end": 99.19,
+   "text": "Oh, tomorrow's Monday, so I have to, I can, I'm going to try and get my, oh, I'm excited"
+  },
+  {
+   "start": 99.19,
+   "end": 109.9,
+   "text": "Tomorrow. Tomorrow I'm going to, um, try to fill up my whole card with, um, um, all of"
+  },
+  {
+   "start": 109.9,
+   "end": 114.2,
+   "text": "My MP3 files, and I also had an idea, oh, I had my mom, said she's going to buy me a speaker"
+  },
+  {
+   "start": 114.2,
+   "end": 119.6,
+   "text": "From my Kindle, so I can have read to me, and I even had an idea, because Amazon, they're"
+  },
+  {
+   "start": 119.6,
+   "end": 127.36,
+   "text": "All chintzy. They're not letting people convert their audio books. They're Kindle to MP3, even"
+  },
+  {
+   "start": 127.36,
+   "end": 134.82,
+   "text": "Though, even the books that they have that, um, you know, are copyright free. So, I had"
+  },
+  {
+   "start": 134.82,
+   "end": 141.74,
+   "text": "The idea to have my computer record my Kindle reading with some speakers, and then convert"
+  },
+  {
+   "start": 141.74,
+   "end": 145.94,
+   "text": "It into MP3 that way, from the Kindle books, and if I do that with all the Kindle books,"
+  },
+  {
+   "start": 146.6,
+   "end": 150.4,
+   "text": "I can put that collection, my whole collection on my website, on my cell phone. That'd be"
+  },
+  {
+   "start": 150.4,
+   "end": 157.64,
+   "text": "Cool. Maybe, if, I mean, that'd be a lot of more space, but, maybe, pretty soon they'll"
+  },
+  {
+   "start": 157.64,
+   "end": 163.18,
+   "text": "Come out with, like, the 360 gigabyte card or whatever, but anyway, just to have those MP3"
+  },
+  {
+   "start": 163.18,
+   "end": 170.27,
+   "text": "Would be cool, because, that Kindle man doesn't like reading. Number one, they're big, to carry"
+  },
+  {
+   "start": 170.27,
+   "end": 174.73,
+   "text": "Around into you, and then they, they always skip, I mean, they always stop reading, you"
+  },
+  {
+   "start": 174.73,
+   "end": 180.13,
+   "text": "Know? You have to play again, over and over, and there's nothing you can do about it. It's"
+  },
+  {
+   "start": 180.13,
+   "end": 183.53,
+   "text": "Just, and then sometimes it gets so bad, it only plays for, like, 30 seconds, and that's"
+  },
+  {
+   "start": 183.53,
+   "end": 189.51,
+   "text": "Just stops. So, yeah, the converter of MP3 would be the schnitz. If you're talking, like,"
+  },
+  {
+   "start": 189.51,
+   "end": 195.21,
+   "text": "A thousand books, that's a lot of fucking work, but, yeah, if anybody else has an idea,"
+  },
+  {
+   "start": 195.29,
+   "end": 200.31,
+   "text": "Let me know, and then you can share that collection. Imagine sharing that collection around in these"
+  },
+  {
+   "start": 200.31,
+   "end": 207.05,
+   "text": "Little cards, holy in the Lord. So, anyway, uh, um, so, yeah, so,"
+  },
+  {
+   "start": 207.35,
+   "end": 216.29,
+   "text": "I'll probably get up at, like, 11 or something, you know, and do the same thing tomorrow, so,"
+  },
+  {
+   "start": 216.29,
+   "end": 222.57,
+   "text": "I'll let y'all know how it's all, how, how it's all going. Oh, yeah, in the video. I'll try to do my"
+  },
+  {
+   "start": 222.57,
+   "end": 227.95,
+   "text": "Video about the diagnosis tomorrow. I didn't today, because I was just so busy all day long,"
+  },
+  {
+   "start": 228.01,
+   "end": 232.51,
+   "text": "You know, or maybe day after tomorrow, you know, I'm kind of on a roll right now. Oh, yeah,"
+  },
+  {
+   "start": 232.61,
+   "end": 239.99,
+   "text": "Plus tomorrow is my big thing about the, uh, the cards, so. Anyway, uh, uh, uh, uh, uh, uh, uh,"
+  }
+ ]
+}

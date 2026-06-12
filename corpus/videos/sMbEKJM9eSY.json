@@ -1,0 +1,314 @@
+{
+ "youtube_id": "sMbEKJM9eSY",
+ "title": "Living in Boulder 3 - 30 - 2017: 640 Kilometers in background",
+ "url": "https://youtu.be/sMbEKJM9eSY",
+ "published_at": "2017-03-31",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle logs his day on March 30, 2017 late at night. He lost several hours of work when his computer crashed, wiping tracing work that involves 1600 different tracings. He also discusses his ongoing study of libertarianism, his response to their 'people are lazy' argument via a 'by schools' (bicycle?) daily routine concept, and his research into dark money by reading Jane Mayer's book 'Dark Money' while pausing to Wikipedia foundations and institutes she mentions.",
+  "speaker": "kyle",
+  "topics": [
+   "daily log",
+   "computer crash / lost work",
+   "libertarianism",
+   "dark money research",
+   "tracing/art project",
+   "website/web page"
+  ],
+  "stances": [
+   {
+    "topic": "libertarian 'people are lazy' argument",
+    "position": "Has a counter — a daily routine (biking/by schools) is self-fixing and makes laziness a non-issue"
+   },
+   {
+    "topic": "dark money",
+    "position": "Studying it to understand how to redirect finances; implies opposition to dark money influence"
+   },
+   {
+    "topic": "commenting online",
+    "position": "Actively leaving comments on libertarian content and saving them for his own website"
+   }
+  ],
+  "entities": [
+   "Jane Mayer",
+   "Dark Money (book)",
+   "Wikipedia",
+   "YouTube",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.5,
+   "end": 6.64,
+   "text": "Hello living in Boulder, the log for March 30 is because right now it's March 31st at 231"
+  },
+  {
+   "start": 8.42,
+   "end": 11.89,
+   "text": "in the morning"
+  },
+  {
+   "start": 11.89,
+   "end": 13.89,
+   "text": "soon"
+  },
+  {
+   "start": 14.21,
+   "end": 16.37,
+   "text": "Today I got up at like"
+  },
+  {
+   "start": 17.09,
+   "end": 20.53,
+   "text": "Well that better something because I was working until like one or two"
+  },
+  {
+   "start": 23.21,
+   "end": 25.21,
+   "text": "and"
+  },
+  {
+   "start": 25.21,
+   "end": 29.87,
+   "text": "I was just tracing stuff all day long like yesterday. I got set back yesterday"
+  },
+  {
+   "start": 29.87,
+   "end": 32.97,
+   "text": "and maybe it was more than two hours maybe it was like four hours"
+  },
+  {
+   "start": 32.97,
+   "end": 38.39,
+   "text": "you know maybe it was a time-awakable or something but thinking computer just crashed and front of me and I said lost everything so"
+  },
+  {
+   "start": 41.15,
+   "end": 44.19,
+   "text": "More maybe just bigger than I thought it has 1600 different"
+  },
+  {
+   "start": 45.67,
+   "end": 47.19,
+   "text": "Tracings"
+  },
+  {
+   "start": 47.19,
+   "end": 52.79,
+   "text": "so to make that on a grid on my side it's gonna be interesting especially for the so long"
+  },
+  {
+   "start": 52.79,
+   "end": 54.79,
+   "text": "I'm"
+  },
+  {
+   "start": 54.79,
+   "end": 59.27,
+   "text": "Forty-fired of that and I'm now long it's gonna take the open man. I'm not like it's worth another week"
+  },
+  {
+   "start": 62.39,
+   "end": 65.75,
+   "text": "And I don't think I'll be able to do anything just on the current home dough with this"
+  },
+  {
+   "start": 67.67,
+   "end": 72.34,
+   "text": "I'm like like foot-skating drying thank you"
+  },
+  {
+   "start": 73.14,
+   "end": 75.14,
+   "text": "You know"
+  },
+  {
+   "start": 76.02,
+   "end": 80.74,
+   "text": "I'm still studying up on all of the libertarians. That's my project now"
+  },
+  {
+   "start": 81.54,
+   "end": 87.9,
+   "text": "I'm reading on listening to libertarian and now I'm actually commenting for it in comment on commenting and leaving my website"
+  },
+  {
+   "start": 88.06,
+   "end": 90.06,
+   "text": "I don't know comments"
+  },
+  {
+   "start": 90.06,
+   "end": 94.4,
+   "text": "Because you know I have the economic alternative the libertarians say that"
+  },
+  {
+   "start": 95.38,
+   "end": 98.58,
+   "text": "People are lazy and so you shouldn't give anything because I'll just be laser"
+  },
+  {
+   "start": 99.3,
+   "end": 101.78,
+   "text": "but I have the by schools the perfect"
+  },
+  {
+   "start": 102.7,
+   "end": 104.7,
+   "text": "fixed to that because"
+  },
+  {
+   "start": 105.54,
+   "end": 107.54,
+   "text": "in order to"
+  },
+  {
+   "start": 107.62,
+   "end": 112.96,
+   "text": "Roger by called a everyday and so not a look and then do like two hours a day of talking or at least an already of talking"
+  },
+  {
+   "start": 114.02,
+   "end": 116.02,
+   "text": "How could you do that not be laser?"
+  },
+  {
+   "start": 117.7,
+   "end": 119.7,
+   "text": "It's it's the self fixing"
+  },
+  {
+   "start": 121.34,
+   "end": 124.18,
+   "text": "So and then of course everybody want to do that because it's so fun"
+  },
+  {
+   "start": 124.94,
+   "end": 127.22,
+   "text": "So then of course I'm just like saying so here you go"
+  },
+  {
+   "start": 127.78,
+   "end": 131.14,
+   "text": "Everybody and everybody just ended and it's so cheap you know"
+  },
+  {
+   "start": 131.14,
+   "end": 133.14,
+   "text": "So there's no reason not to do"
+  },
+  {
+   "start": 133.7,
+   "end": 135.7,
+   "text": "So"
+  },
+  {
+   "start": 135.7,
+   "end": 137.7,
+   "text": "then sir, but yeah"
+  },
+  {
+   "start": 140.42,
+   "end": 146.7,
+   "text": "But yeah, you know the libertarians I think I leave everything so now I know to copy"
+  },
+  {
+   "start": 148.06,
+   "end": 151.14,
+   "text": "And then because then I can then grab it later because I'm writing a lot"
+  },
+  {
+   "start": 151.42,
+   "end": 154.7,
+   "text": "Grab it later and then write stuff for my own thing on my website"
+  },
+  {
+   "start": 156.26,
+   "end": 159.9,
+   "text": "Whenever I get around to I can't type for shit on this computer though"
+  },
+  {
+   "start": 160.7,
+   "end": 162.7,
+   "text": "I'm like"
+  },
+  {
+   "start": 166.7,
+   "end": 171.5,
+   "text": "I want to experiment with the dictation of it so anyways the backgrounds are six forty"
+  },
+  {
+   "start": 172.86,
+   "end": 177.26,
+   "text": "640 kilometers in diameter, which is like"
+  },
+  {
+   "start": 178.7,
+   "end": 182.08,
+   "text": "I don't know"
+  },
+  {
+   "start": 182.08,
+   "end": 184.08,
+   "text": "Try"
+  },
+  {
+   "start": 184.08,
+   "end": 187.36,
+   "text": "See I've been made the website I made the web page yet so I don't have it memorized"
+  },
+  {
+   "start": 187.36,
+   "end": 193.95,
+   "text": "Yes, I was listening to the book"
+  },
+  {
+   "start": 195.47,
+   "end": 199.47,
+   "text": "Dark money by Jane mayor and then whatever she mentions a foundation or"
+  },
+  {
+   "start": 200.43,
+   "end": 206.43,
+   "text": "Institute or a person you know about that their book on pause and I'll Wikipedia"
+  },
+  {
+   "start": 206.43,
+   "end": 208.43,
+   "text": "I don't watch it be a YouTube of it"
+  },
+  {
+   "start": 209.55,
+   "end": 216.99,
+   "text": "To get myself caught up on the history of dark money so that I can divert it because you know you have to in order to direct the finances"
+  },
+  {
+   "start": 216.99,
+   "end": 220.03,
+   "text": "You have to understand how it works in order to direct the finances so"
+  },
+  {
+   "start": 221.39,
+   "end": 228.08,
+   "text": "I don't know how to put any of ideas I'm sure later hopefully won't take too long"
+  },
+  {
+   "start": 233.72,
+   "end": 235.72,
+   "text": "Okay, so"
+  },
+  {
+   "start": 236.52,
+   "end": 238.04,
+   "text": "Anyways"
+  },
+  {
+   "start": 238.04,
+   "end": 241.0,
+   "text": "Four minutes that's long enough he's out"
+  }
+ ]
+}

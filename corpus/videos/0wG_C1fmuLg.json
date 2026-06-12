@@ -1,0 +1,358 @@
+{
+ "youtube_id": "0wG_C1fmuLg",
+ "title": "Living in Boulder Vlog 11 -  30 - 2016",
+ "url": "https://youtu.be/0wG_C1fmuLg",
+ "published_at": "2016-12-01",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs on December 1st about his Google Earth recreation project of ancient Rome, his sleep schedule, running errands with his mom, and his enthusiasm for history podcasts including History of Rome and History of Byzantium. He ends the vlog frustrated after accidentally losing video footage by minimizing his recording software.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "ancient Rome Google Earth project",
+   "sleep deprivation",
+   "history podcasts",
+   "recording software mishap",
+   "errands"
+  ],
+  "stances": [
+   {
+    "topic": "Google Earth Rome project",
+    "position": "Excited about the potential for ground-level virtual tours of ancient Rome despite feeling like he's still near the beginning"
+   },
+   {
+    "topic": "multitasking projects",
+    "position": "Can't work on his timeline and listen to History of Rome simultaneously — too much of a headache"
+   },
+   {
+    "topic": "History of Byzantium podcast",
+    "position": "Positive; likes that it picks up where History of Rome left off"
+   }
+  ],
+  "entities": [
+   "Duncan (podcast host, likely Duncan Trussell or Dan Carlin)",
+   "History of Rome (podcast)",
+   "History of Byzantium (podcast)",
+   "Circus Maximus",
+   "Augustus",
+   "Boulder",
+   "Google Earth",
+   "Facebook History Vlog Podcast group",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.68,
+   "end": 17.98,
+   "text": "Good morning. So this is living in Boulder V-Log. Oh my god, it's December 1st today, so I have to pay rent. Hmm. Okay, so this is the one from yesterday, 30th of November, 2011."
+  },
+  {
+   "start": 17.98,
+   "end": 41.35,
+   "text": "Um, so, what did I do? Let's look at Google Earth. Um, I got most of the buildings, of the big buildings done. Um, and, uh, yeah, I can tell that I'm most of the way there as far as tracing, but I've got a lot more to go."
+  },
+  {
+   "start": 41.35,
+   "end": 53.41,
+   "text": "So, so, uh, in my mind, I still feel like I'm, uh, towards the beginning. Um, you know, there's different ways to gauge getting through something."
+  },
+  {
+   "start": 54.19,
+   "end": 61.15,
+   "text": "How far you actually are, and how far you, if you feel like you're still in the beginning, and it's all fresh to you, and yeah, so I'm still free, tripping out."
+  },
+  {
+   "start": 61.15,
+   "end": 75.49,
+   "text": "Over the prospect, because you can do, you can do ground level tours, like, uh, trip from Augustus' house down to the Circus Maximum or the Forum and back, you know, like, from ground level through the rooms and stuff."
+  },
+  {
+   "start": 75.49,
+   "end": 84.69,
+   "text": "I want to do that. All kinds of cool stuff. And then recreating stuff that people do, like, famous things that people did, like, the way that they went."
+  },
+  {
+   "start": 84.69,
+   "end": 107.39,
+   "text": "Yeah, so, um, so yesterday I got up, I think I got four and a half hours of sleep or something, and then, because my mom woke me up, went in to do the, uh, the, uh, insurance, took out the insurance, and then come home."
+  },
+  {
+   "start": 107.39,
+   "end": 111.51,
+   "text": "Um, no, no, no, no, no, no. And then we went out to eat at some restaurant, uh, hamburger place."
+  },
+  {
+   "start": 112.57,
+   "end": 118.47,
+   "text": "And then I came home and worked the rest of the day until 6.17 in the morning, and now it's 12.30."
+  },
+  {
+   "start": 119.61,
+   "end": 128.39,
+   "text": "Um, so I guess that's six hours. Uh, oh, I have to go to my mom's house, though."
+  },
+  {
+   "start": 129.33,
+   "end": 132.97,
+   "text": "Because I had to take a TV to recycle for her."
+  },
+  {
+   "start": 132.97,
+   "end": 136.83,
+   "text": "Yeah I guess I'll come back here"
+  },
+  {
+   "start": 136.83,
+   "end": 137.77,
+   "text": "And get going again"
+  },
+  {
+   "start": 137.77,
+   "end": 140.75,
+   "text": "Oh I finished"
+  },
+  {
+   "start": 140.75,
+   "end": 142.85,
+   "text": "My Duncan podcast yesterday and I was going"
+  },
+  {
+   "start": 142.85,
+   "end": 144.57,
+   "text": "To History of Rome you should check it out"
+  },
+  {
+   "start": 144.57,
+   "end": 145.43,
+   "text": "And I was going to"
+  },
+  {
+   "start": 145.43,
+   "end": 148.61,
+   "text": "Work on my timeline and listen to it again"
+  },
+  {
+   "start": 148.61,
+   "end": 150.13,
+   "text": "But it was way too much of a headache"
+  },
+  {
+   "start": 150.13,
+   "end": 152.99,
+   "text": "I can't do two projects at the same time"
+  },
+  {
+   "start": 152.99,
+   "end": 154.79,
+   "text": "But I managed"
+  },
+  {
+   "start": 154.79,
+   "end": 156.65,
+   "text": "To get through it for the first couple hundred years of Rome"
+  },
+  {
+   "start": 156.65,
+   "end": 158.17,
+   "text": "So then"
+  },
+  {
+   "start": 158.17,
+   "end": 161.17,
+   "text": "I decided"
+  },
+  {
+   "start": 161.17,
+   "end": 162.67,
+   "text": "To listen to History of Byzantium"
+  },
+  {
+   "start": 162.67,
+   "end": 163.69,
+   "text": "From this English guy"
+  },
+  {
+   "start": 163.69,
+   "end": 166.57,
+   "text": "Who picks off where he left off"
+  },
+  {
+   "start": 166.57,
+   "end": 167.51,
+   "text": "So that's pretty cool"
+  },
+  {
+   "start": 167.51,
+   "end": 170.07,
+   "text": "And then he says there's 20 History"
+  },
+  {
+   "start": 170.07,
+   "end": 171.35,
+   "text": "Vlog"
+  },
+  {
+   "start": 171.35,
+   "end": 174.79,
+   "text": "Podcasters"
+  },
+  {
+   "start": 174.79,
+   "end": 176.77,
+   "text": "On a Facebook History vlog podcast"
+  },
+  {
+   "start": 176.77,
+   "end": 178.07,
+   "text": "So I should check out the other ones too"
+  },
+  {
+   "start": 178.07,
+   "end": 180.57,
+   "text": "That was the first History"
+  },
+  {
+   "start": 180.57,
+   "end": 181.77,
+   "text": "Podcast I listened to"
+  },
+  {
+   "start": 181.77,
+   "end": 186.47,
+   "text": "So yeah I do the other ones too"
+  },
+  {
+   "start": 186.47,
+   "end": 188.61,
+   "text": "While I"
+  },
+  {
+   "start": 188.61,
+   "end": 189.31,
+   "text": "Work on this"
+  },
+  {
+   "start": 189.31,
+   "end": 192.57,
+   "text": "Okie dokie"
+  },
+  {
+   "start": 192.57,
+   "end": 195.47,
+   "text": "Peace out"
+  },
+  {
+   "start": 195.47,
+   "end": 200.06,
+   "text": "I gotta find the video now"
+  },
+  {
+   "start": 200.06,
+   "end": 202.56,
+   "text": "Oh no my video's missing"
+  },
+  {
+   "start": 202.56,
+   "end": 205.12,
+   "text": "Ok so from now on when I record a video"
+  },
+  {
+   "start": 205.12,
+   "end": 207.32,
+   "text": "Don't minimize it"
+  },
+  {
+   "start": 207.32,
+   "end": 207.64,
+   "text": "Because"
+  },
+  {
+   "start": 207.64,
+   "end": 210.58,
+   "text": "It's missing"
+  },
+  {
+   "start": 210.58,
+   "end": 214.54,
+   "text": "So let's stop this"
+  },
+  {
+   "start": 214.54,
+   "end": 217.82,
+   "text": "Oh my god it's not stopping"
+  },
+  {
+   "start": 217.82,
+   "end": 218.88,
+   "text": "It's not stopping"
+  },
+  {
+   "start": 218.88,
+   "end": 220.32,
+   "text": "I have to name it"
+  },
+  {
+   "start": 220.32,
+   "end": 222.48,
+   "text": "Before it'll stop"
+  },
+  {
+   "start": 222.48,
+   "end": 225.24,
+   "text": "God damn dude"
+  },
+  {
+   "start": 225.24,
+   "end": 228.72,
+   "text": "This is fucked up"
+  },
+  {
+   "start": 228.72,
+   "end": 233.37,
+   "text": "Well from now on I won't minimize it"
+  },
+  {
+   "start": 233.37,
+   "end": 234.15,
+   "text": "I'm not want to do the rest of it"
+  },
+  {
+   "start": 234.15,
+   "end": 234.53,
+   "text": "So it's not"
+  },
+  {
+   "start": 234.53,
+   "end": 235.23,
+   "text": "Everybody else this has to"
+  },
+  {
+   "start": 235.23,
+   "end": 235.53,
+   "text": "This happened"
+  },
+  {
+   "start": 235.53,
+   "end": 236.25,
+   "text": "Or else this has to happen"
+  },
+  {
+   "start": 236.25,
+   "end": 236.85,
+   "text": "Or else this has to happen"
+  },
+  {
+   "start": 236.85,
+   "end": 241.75,
+   "text": "Or else this has this happened"
+  },
+  {
+   "start": 241.75,
+   "end": 243.03,
+   "text": "This has happened"
+  }
+ ]
+}

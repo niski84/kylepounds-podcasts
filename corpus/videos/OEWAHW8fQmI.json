@@ -1,0 +1,409 @@
+{
+ "youtube_id": "OEWAHW8fQmI",
+ "title": "Living in Boulder vlog 2 -  26 -  2017: Google Earthing on Circus Maximus Bike Time Trials",
+ "url": "https://youtu.be/OEWAHW8fQmI",
+ "published_at": "2018-02-26",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a morning vlog update about his 'bike racer levels' project, which maps historical endurance racing distances (Circus Maximus chariot races, Greek and Byzantine lap counts) onto modern cycling time trial benchmarks using Google Earth. He explains recent adjustments to distance categories (adding 10km, restructuring 5km and 20km tiers) and outlines his goal of building an interactive calculator that factors in age, country, and lifestyle to assign users a fitness level. He also mentions wanting to eventually build a full recreation of ancient Rome in Google Earth.",
+  "speaker": "kyle",
+  "topics": [
+   "bike racer levels project",
+   "Circus Maximus historical racing",
+   "Google Earth mapping",
+   "endurance sports history",
+   "project workflow and motivation",
+   "Boulder vlog"
+  ],
+  "stances": [
+   {
+    "topic": "Historical endurance racing",
+    "position": "Finds deep value in connecting ancient racing (Circus Maximus, Greeks, Byzantines) to modern endurance sports as a way to motivate cyclists and appreciate modern technology"
+   },
+   {
+    "topic": "Project structure",
+    "position": "Prefers to front-load tedious work so he can end on exciting, rewarding tasks to maintain psychological momentum"
+   },
+   {
+    "topic": "Sleep schedule",
+    "position": "Embraces a non-normalized sleep cycle, finding it peaceful and productive to work at night"
+   }
+  ],
+  "entities": [
+   "Circus Maximus",
+   "Rome",
+   "Boulder",
+   "Google Earth",
+   "TED Talk (unnamed speaker about ultra-running)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.01,
+   "end": 8.25,
+   "text": "Hello living in Boulder, be a lot of person 6 to you in the morning at February 26th. I'm not"
+  },
+  {
+   "start": 8.25,
+   "end": 10.25,
+   "text": "turnilized."
+  },
+  {
+   "start": 10.25,
+   "end": 20.87,
+   "text": "I'm about to this because in order to get to the next level of what I'm working on, I have"
+  },
+  {
+   "start": 20.87,
+   "end": 31.99,
+   "text": "to do math. I'm working on bike racer level, so right now I segue into that because I"
+  },
+  {
+   "start": 31.99,
+   "end": 41.99,
+   "text": "have started working on the circus max of in a slung google earth where they did the horse racing"
+  },
+  {
+   "start": 41.99,
+   "end": 54.79,
+   "text": "and I still want to connect historical endurance racing to modern. I saw this TED talk on"
+  },
+  {
+   "start": 54.79,
+   "end": 60.39,
+   "text": "the other day where the sky was saying that people couldn't imagine like 50 years ago that"
+  },
+  {
+   "start": 60.39,
+   "end": 66.53,
+   "text": "all of these things have been turned to athletes doing how. There's a sky you rip it"
+  },
+  {
+   "start": 66.53,
+   "end": 75.99,
+   "text": "is around 150 miles in one run and the day in a night, I guess that 24 hours and so now it's"
+  },
+  {
+   "start": 75.99,
+   "end": 82.47,
+   "text": "the race that people do. That's about as far as people can run and then plenty of people"
+  },
+  {
+   "start": 82.47,
+   "end": 91.63,
+   "text": "running 100 miles, they're doing 100 miles in the circus maximus. The chariots were racing"
+  },
+  {
+   "start": 91.63,
+   "end": 101.91,
+   "text": "4 kilometers for the main duration, the Romans were in the circus maximus. The Greeks were doing"
+  },
+  {
+   "start": 101.91,
+   "end": 111.51,
+   "text": "so on and a half and the Byzantines did like 9 or 10. So there was on how many lapsed."
+  },
+  {
+   "start": 111.51,
+   "end": 122.81,
+   "text": "So yeah, so I'm just, for the last couple days I've been doing the combination of working on my"
+  },
+  {
+   "start": 122.81,
+   "end": 134.97,
+   "text": "website, bike race levels. I created a new distance before I had it like 250 meters. I wanted"
+  },
+  {
+   "start": 134.97,
+   "end": 140.97,
+   "text": "to have a double so then it was like 2 to 5 kilometers and also based on how long the race is"
+  },
+  {
+   "start": 140.97,
+   "end": 146.81,
+   "text": "there. But then I jumped from 5 kilometers to 4 kilometers all at the 20 and so I was"
+  },
+  {
+   "start": 146.81,
+   "end": 152.25,
+   "text": "here remember why did that so I added the 10 kilometers because that's a lot of the time trials"
+  },
+  {
+   "start": 152.25,
+   "end": 157.21,
+   "text": "anyway and it also was able to take a bunch out of the 20 kilometers and make it in the hatch bolts to"
+  },
+  {
+   "start": 157.21,
+   "end": 162.65,
+   "text": "big and the 10 kilometers is really big so yeah, I needed to get some and then I'm going to take away"
+  },
+  {
+   "start": 162.65,
+   "end": 169.61,
+   "text": "the month instead of that I can have 12 because there's lots of results for a week but not a month. So"
+  },
+  {
+   "start": 169.61,
+   "end": 175.29,
+   "text": "like race across America is a week. So I'm going to build them into all the different levels in the circus"
+  },
+  {
+   "start": 175.29,
+   "end": 182.01,
+   "text": "maximus, rather than just in the system but I'll draw the people in for all levels and then I let"
+  },
+  {
+   "start": 182.01,
+   "end": 188.97,
+   "text": "the background the level but I think I'm also going to do that in Boulder Room for the straight ahead month"
+  },
+  {
+   "start": 188.97,
+   "end": 194.81,
+   "text": "so what I have when it goes around and when it goes straight ahead to to help calibrate distance."
+  },
+  {
+   "start": 195.13,
+   "end": 211.13,
+   "text": "Number one, another reason would be to create a culture which is good. It's a motivate"
+  },
+  {
+   "start": 211.13,
+   "end": 219.37,
+   "text": "people to write their bikes and to be interested in history and to value all the technology we have"
+  },
+  {
+   "start": 220.33,
+   "end": 223.05,
+   "text": "like somebody in history what if they were to teleport now."
+  },
+  {
+   "start": 226.57,
+   "end": 240.47,
+   "text": "And so but right now I'm going to spot where I have to do math because on this one I'm kind of doing"
+  },
+  {
+   "start": 240.47,
+   "end": 247.19,
+   "text": "each one's different. I'll do the straight ones and I'm going to do the 10 kilometer but I'm doing"
+  },
+  {
+   "start": 247.19,
+   "end": 252.71,
+   "text": "different distances so I'm doing it by half fast they average and I'm including the fastest"
+  },
+  {
+   "start": 252.71,
+   "end": 261.59,
+   "text": "actually at 7.6 kilometers the fastest of time trial which is like 36.5 or 3 miles an hour so"
+  },
+  {
+   "start": 261.59,
+   "end": 267.83,
+   "text": "then other ones are my 10 kilometers or more you have 10 kilometers so I haven't even figured out how I'm"
+  },
+  {
+   "start": 267.83,
+   "end": 275.91,
+   "text": "going to do that so how long how far behind next guy's going to be and thought about it because I only"
+  },
+  {
+   "start": 275.91,
+   "end": 282.39,
+   "text": "just now finished creating the circles around it because I'm going to have when I have lots of them"
+  },
+  {
+   "start": 282.39,
+   "end": 290.47,
+   "text": "when they go around they have to to go out into another level out to then you can see them on top of"
+  },
+  {
+   "start": 290.47,
+   "end": 295.51,
+   "text": "the different colored level there to help those straight levels and also your head is they go around laps"
+  },
+  {
+   "start": 296.47,
+   "end": 308.15,
+   "text": "in space so yeah that'll be cool and it's done so yeah I don't know how long I got like a bug by here"
+  },
+  {
+   "start": 308.15,
+   "end": 316.39,
+   "text": "it's weird bug bites um I should clean my room I'm going to vacuum up for a while I hope you did"
+  },
+  {
+   "start": 317.35,
+   "end": 323.03,
+   "text": "I'm going to get it today I've been perfectly not turnable but I'm going to go to sleep in a wake up at night"
+  },
+  {
+   "start": 323.03,
+   "end": 329.59,
+   "text": "I like it though it's very peaceful when you're literally on the open it's a wake up night"
+  },
+  {
+   "start": 331.19,
+   "end": 351.98,
+   "text": "yeah time goes by really fast and you work just oh okay so yeah tomorrow maybe I'll be able to do the"
+  },
+  {
+   "start": 351.98,
+   "end": 356.7,
+   "text": "entire people and 10 kilometers of you amazing I could do that it's like almost three of people"
+  },
+  {
+   "start": 357.1,
+   "end": 370.42,
+   "text": "two or ninety sort of so the eventual goal is to make a map some charts that illustrate"
+  },
+  {
+   "start": 370.98,
+   "end": 378.74,
+   "text": "what different life styles and technologies and things to do and how are you trading and how"
+  },
+  {
+   "start": 378.74,
+   "end": 384.42,
+   "text": "are you trading and how old you are and even what country you are we know what six you are"
+  },
+  {
+   "start": 385.38,
+   "end": 392.98,
+   "text": "let's plug it into like a calculator thing then I'll give you a level so that's uh"
+  },
+  {
+   "start": 394.26,
+   "end": 401.54,
+   "text": "and then of course I finished the what the bit the page experiment on myself you know"
+  },
+  {
+   "start": 401.54,
+   "end": 409.7,
+   "text": "hone it don't it with my scientific experiments by writing myself I'll have to get it time travel like"
+  },
+  {
+   "start": 410.02,
+   "end": 416.02,
+   "text": "and I'm like I want to get a fast route back to I think I'm going to make a downhill"
+  },
+  {
+   "start": 417.7,
+   "end": 426.74,
+   "text": "category so anyways I think I'm done talking so yeah I just been trying to work get it get"
+  },
+  {
+   "start": 427.94,
+   "end": 432.9,
+   "text": "some momentum going since a lot of time into the video that's why I did do video for a couple days because"
+  },
+  {
+   "start": 432.9,
+   "end": 439.14,
+   "text": "I just just working so I kind of still feel like that too I still feel like I'm not doing work on a"
+  },
+  {
+   "start": 439.14,
+   "end": 448.33,
+   "text": "very long which makes it super exciting which makes me work really hard on it so I have looking for it too"
+  },
+  {
+   "start": 448.33,
+   "end": 455.45,
+   "text": "maybe I'll work on this for a whole month and then like the month of March and then we'll see if I can"
+  },
+  {
+   "start": 456.57,
+   "end": 467.37,
+   "text": "how far along I can go for them to make it fun psychologically I like to um when I pick it up I like to pick it"
+  },
+  {
+   "start": 467.37,
+   "end": 472.57,
+   "text": "up you know I like to have good stopping coins and starting points it places where"
+  },
+  {
+   "start": 474.41,
+   "end": 481.69,
+   "text": "like a turning point you know like like do really tedious stuff on the bike race or level stuff and then"
+  },
+  {
+   "start": 481.69,
+   "end": 487.77,
+   "text": "right when it's time to plug in you know make the charging graphs and I'll do that later so when I go to it"
+  },
+  {
+   "start": 487.77,
+   "end": 493.37,
+   "text": "I'm fresh and I've already done the tedious stuff you know so I'm going to do more exciting so I'm working"
+  },
+  {
+   "start": 493.69,
+   "end": 503.69,
+   "text": "on harder it so yeah but I've got the Google Earth thing of Rome which is really making I'm thinking about that too"
+  },
+  {
+   "start": 503.69,
+   "end": 511.13,
+   "text": "so that's another thing that's motivating me to work really hard on this because not just not only do I"
+  },
+  {
+   "start": 512.81,
+   "end": 519.69,
+   "text": "see you get to see the bike race or levels of finish that but I get to mix it sooner for me to start to build"
+  },
+  {
+   "start": 520.65,
+   "end": 527.61,
+   "text": "finish building Rome in Google Earth um you know and not just and then after that I can do"
+  },
+  {
+   "start": 527.61,
+   "end": 533.45,
+   "text": "the the entire room and then bolder room which is gonna be really interesting so"
+  },
+  {
+   "start": 534.81,
+   "end": 536.81,
+   "text": "we'll see"
+  },
+  {
+   "start": 538.25,
+   "end": 539.45,
+   "text": "how"
+  },
+  {
+   "start": 540.33,
+   "end": 541.29,
+   "text": "what I can do"
+  },
+  {
+   "start": 543.77,
+   "end": 546.49,
+   "text": "okay so yeah I think I've talked long enough"
+  },
+  {
+   "start": 547.45,
+   "end": 553.05,
+   "text": "just about them listening really a bit of really high this week it's made me really stupid"
+  },
+  {
+   "start": 553.05,
+   "end": 558.49,
+   "text": "might not really interested in you know paying attention to history stuff but"
+  },
+  {
+   "start": 559.45,
+   "end": 566.73,
+   "text": "makes me work really hard like constantly just I've been doing listening to astronauts interviews"
+  },
+  {
+   "start": 566.73,
+   "end": 572.49,
+   "text": "about you guys who wants to learn like I want to do all of them okay so that's enough talking"
+  }
+ ]
+}

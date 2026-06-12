@@ -1,0 +1,446 @@
+{
+ "youtube_id": "YBQr5f1cN9A",
+ "title": "Training with Kyle 5/7/19 Treadmill Ran 1.5 Miles",
+ "url": "https://youtu.be/YBQr5f1cN9A",
+ "published_at": "2019-05-08",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about a low-energy training day on May 6-7, 2019, where he walked 1.5 miles on his treadmill at 4mph after a night of zero sleep. He reflects on the physical pain of being sedentary for years, compares it to overtraining symptoms, and plans to swim 10km the next day while trying to finish a 2000-page audiobook on Irish history for an upcoming book review.",
+  "speaker": "kyle",
+  "topics": [
+   "treadmill workout",
+   "insomnia",
+   "fitness comeback",
+   "sedentary lifestyle recovery",
+   "swimming",
+   "audiobooks",
+   "daily routine"
+  ],
+  "stances": [
+   {
+    "topic": "sedentary lifestyle pain",
+    "position": "Years of inactivity produce body pain identical to overtraining, making it impossible to gauge fitness level"
+   },
+   {
+    "topic": "treadmill motivation",
+    "position": "Watching movies while running was too depressing at his current pace; needs to reframe expectations and just 'trot'"
+   },
+   {
+    "topic": "testosterone and insomnia",
+    "position": "Entertains the idea that lower testosterone from age may explain his insomnia, but doesn't commit to it"
+   },
+   {
+    "topic": "Training with Kyle philosophy",
+    "position": "Training and book reviews are intertwined like the caduceus snakes — must do both together"
+   }
+  ],
+  "entities": [
+   "Kyle's mom",
+   "Netflix",
+   "Robin Hood (film)",
+   "Swift (app)",
+   "Herodotus",
+   "A Popular History of Ireland (audiobook)",
+   "Amazon"
+  ],
+  "date": "2019-05-07",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.91,
+   "end": 12.93,
+   "text": "Hello, here's training with Kyle. Vlog of May 6th, 7th of 2019. My hair looks calmed even though it's not, so I'm like, I'm very proper today."
+  },
+  {
+   "start": 14.29,
+   "end": 21.91,
+   "text": "So I'm not really going to go into detail what I did because that's from my personal vlog, but basically I was busy all day long most of the day."
+  },
+  {
+   "start": 22.53,
+   "end": 30.89,
+   "text": "I had to go to my mom's house, help her with some things. She helped me with some things, went over there and got my health insurance and then took my car to the mechanic and got the car back from the mechanic."
+  },
+  {
+   "start": 30.91,
+   "end": 39.85,
+   "text": "I organized my house with the treadmill and that kind of stuff. It just took all day. But what happened was last night I didn't sleep like at all, not even a single second of sleep."
+  },
+  {
+   "start": 40.03,
+   "end": 50.93,
+   "text": "I was like, before I went to sleep, I saw a video of some dude talking about testosterone for dudes over 40. I'm 45, but that's not the, that's not the big problem."
+  },
+  {
+   "start": 50.93,
+   "end": 60.27,
+   "text": "The big problem is that I haven't done dick forever. I've been like laying in bed forever, like years and years and years and years just laying like this."
+  },
+  {
+   "start": 60.27,
+   "end": 69.91,
+   "text": "This is, or sitting, you know, my whole life. So, um, so, uh, you know, I went running the other day and I could barely run, but yesterday, yeah, it was yesterday."
+  },
+  {
+   "start": 70.01,
+   "end": 78.09,
+   "text": "I swam 9,345 kilometers. I mean, meters in the pool. And, uh, and so, but then I didn't sleep in the video that I saw."
+  },
+  {
+   "start": 78.09,
+   "end": 88.81,
+   "text": "The guy said that if you have lesser testosterone somehow, because you're older, that mean that can give you insomnia. So, but you know, my body is basically kind of in recovery mode."
+  },
+  {
+   "start": 88.81,
+   "end": 97.79,
+   "text": "Like since I started training, whatever, a week ago, whatever that was, I haven't, I haven't completely recovered, but the problem is, and I've done this, I've talked about this before."
+  },
+  {
+   "start": 98.27,
+   "end": 104.69,
+   "text": "The problem is the physical pain that you feel that I feel from not exercising at all for, for years and years and on end."
+  },
+  {
+   "start": 104.69,
+   "end": 120.53,
+   "text": "Like, I don't know if anybody could relate to me because it takes years to get this bad, but the kind of pain that you feel in your body from not exercising all day long, it's the same exact feeling that you feel when you're over, when you're over, uh, exercise, when you're over trained."
+  },
+  {
+   "start": 120.53,
+   "end": 126.57,
+   "text": "Like, you know, if you go like a hundred mile ride and then you come back and you're feverish and you're just want to lay there, it's the same damn feeling."
+  },
+  {
+   "start": 126.65,
+   "end": 130.77,
+   "text": "The only difference is when you're in shape, then that feeling goes away and you feel good."
+  },
+  {
+   "start": 130.79,
+   "end": 133.55,
+   "text": "But if you're not in shape, that feeling just stays and then gets worse."
+  },
+  {
+   "start": 133.63,
+   "end": 136.83,
+   "text": "So it's impossible to tell if I'm over trained or not."
+  },
+  {
+   "start": 137.09,
+   "end": 138.01,
+   "text": "I don't know."
+  },
+  {
+   "start": 138.17,
+   "end": 140.15,
+   "text": "I'm just, cause I feel like shit anyway."
+  },
+  {
+   "start": 140.15,
+   "end": 146.67,
+   "text": "So, so, so, um, uh, but anyway, yeah, I didn't get a single ounce of sleep yesterday."
+  },
+  {
+   "start": 147.21,
+   "end": 149.43,
+   "text": "Um, and, uh, but then I felt okay today."
+  },
+  {
+   "start": 149.43,
+   "end": 157.57,
+   "text": "Like I could have done stuff, but I started running on the treadmill cause I was going to do running today because it was cold and it was raining all day long."
+  },
+  {
+   "start": 158.27,
+   "end": 167.83,
+   "text": "So I put this, um, I put this, um, treadmill out on the ground on my room and I'm running and I have this big ass 70 inch TV and right in front of my face."
+  },
+  {
+   "start": 168.33,
+   "end": 171.53,
+   "text": "And so I'm doing Swift and I'm not even running."
+  },
+  {
+   "start": 171.87,
+   "end": 173.01,
+   "text": "I'm going four miles an hour."
+  },
+  {
+   "start": 173.09,
+   "end": 173.89,
+   "text": "That's the fastest I can run."
+  },
+  {
+   "start": 173.97,
+   "end": 178.45,
+   "text": "So the Swift is showing this dude walking and I'm like, come on, don't show me walking."
+  },
+  {
+   "start": 178.57,
+   "end": 179.21,
+   "text": "Show me running."
+  },
+  {
+   "start": 179.87,
+   "end": 183.25,
+   "text": "So this is just this dude walking and I'm like, fuck this."
+  },
+  {
+   "start": 183.29,
+   "end": 185.01,
+   "text": "I was like, okay, well, it's a big old TV."
+  },
+  {
+   "start": 185.09,
+   "end": 185.73,
+   "text": "Let's watch a movie."
+  },
+  {
+   "start": 185.79,
+   "end": 186.51,
+   "text": "Let's try to watch a movie."
+  },
+  {
+   "start": 186.57,
+   "end": 194.45,
+   "text": "So I turn on, uh, uh, Robin hood on Netflix and, um, but watching the movie was too painful to run cause I can't run."
+  },
+  {
+   "start": 194.49,
+   "end": 196.31,
+   "text": "Like I literally can't run at all."
+  },
+  {
+   "start": 196.69,
+   "end": 198.03,
+   "text": "All I can do is walk fast."
+  },
+  {
+   "start": 198.09,
+   "end": 200.81,
+   "text": "I can go about four miles an hour and that's kind of like a trot."
+  },
+  {
+   "start": 201.29,
+   "end": 202.65,
+   "text": "So that kind of depressed me."
+  },
+  {
+   "start": 202.65,
+   "end": 205.29,
+   "text": "So I ran a mile and a half and then I said, I can't do this anymore."
+  },
+  {
+   "start": 205.39,
+   "end": 205.95,
+   "text": "It was just too depressing."
+  },
+  {
+   "start": 205.95,
+   "end": 208.77,
+   "text": "So tomorrow I'm going to psych myself up tomorrow."
+  },
+  {
+   "start": 208.77,
+   "end": 211.13,
+   "text": "I know what I can't do and what I can do."
+  },
+  {
+   "start": 211.25,
+   "end": 218.37,
+   "text": "So tomorrow when I go running on the treadmill, I'm going to, um, I'm going to trot."
+  },
+  {
+   "start": 218.37,
+   "end": 219.85,
+   "text": "I'm just going to expect to trot."
+  },
+  {
+   "start": 219.93,
+   "end": 222.47,
+   "text": "I'm going to trot just like I'm riding a bike."
+  },
+  {
+   "start": 222.47,
+   "end": 228.37,
+   "text": "Only I'm riding the treadmill bike, you know, trotting on the treadmill and, um, but I'm going to swim first."
+  },
+  {
+   "start": 228.37,
+   "end": 243.15,
+   "text": "I'm going to get up and I'm going to, if I sleep tonight, if I don't sleep tonight, that's going to, that's going to turn it into 48, 55, 60 hours of zero sleep, which drives you, drives you, which takes away your energy a little bit."
+  },
+  {
+   "start": 243.15,
+   "end": 249.65,
+   "text": "So, um, um, I'm going to, uh, yeah, tomorrow I'm going to swim 10 kilometers."
+  },
+  {
+   "start": 249.83,
+   "end": 250.41,
+   "text": "That's my deal."
+  },
+  {
+   "start": 250.55,
+   "end": 252.51,
+   "text": "I swim 10 kilometers every time I get the pool."
+  },
+  {
+   "start": 254.37,
+   "end": 264.59,
+   "text": "Only last time I swam 10 kilometers, I didn't listen to an audio book and I was going to set up my, um, MP3 player today, but I kind of didn't have the time because I was doing website website work for like three hours today."
+  },
+  {
+   "start": 264.59,
+   "end": 272.39,
+   "text": "I don't want to talk about what that was, uh, collecting, um, uh, castles photos from my, uh, Google or from my timeline."
+  },
+  {
+   "start": 272.81,
+   "end": 276.97,
+   "text": "So, um, uh, oh shit, got myself sidetracked."
+  },
+  {
+   "start": 277.11,
+   "end": 279.27,
+   "text": "So yeah, tomorrow all I have is music."
+  },
+  {
+   "start": 279.37,
+   "end": 282.45,
+   "text": "I don't have audio books, but I'm not so totally sure I can hear an audio book."
+  },
+  {
+   "start": 282.49,
+   "end": 288.17,
+   "text": "I'm going to have to send my, uh, my new earphones home tomorrow cause they don't work on the left side or to Amazon again."
+  },
+  {
+   "start": 288.17,
+   "end": 295.77,
+   "text": "And so I use my original earphones and, uh, just listen to music, but the music is really motivation to, um, to ride."
+  },
+  {
+   "start": 295.87,
+   "end": 296.53,
+   "text": "I mean, to swim."
+  },
+  {
+   "start": 296.65,
+   "end": 297.87,
+   "text": "So, and I kind of need the motivation."
+  },
+  {
+   "start": 297.87,
+   "end": 298.41,
+   "text": "So that's fine."
+  },
+  {
+   "start": 298.43,
+   "end": 299.09,
+   "text": "And I might do that."
+  },
+  {
+   "start": 299.25,
+   "end": 301.43,
+   "text": "So tonight, and this is the mistake I've been making."
+  },
+  {
+   "start": 301.51,
+   "end": 306.73,
+   "text": "I've been not, I've been just laying there like until sunrise comes."
+  },
+  {
+   "start": 307.01,
+   "end": 319.53,
+   "text": "So tonight all night long, I'm just going to listen to my audio book cause I want to finish, uh, um, um, uh, the popular history of Ireland because training with Kyle, it, it, it, it,"
+  },
+  {
+   "start": 319.55,
+   "end": 326.81,
+   "text": "It's, it's like the snake, you know, the snake of the, the symbol of the, of the doctor from ancient Greece, Herodotus, the two snakes intertwined."
+  },
+  {
+   "start": 326.97,
+   "end": 328.97,
+   "text": "You have to treat them as the same exact thing."
+  },
+  {
+   "start": 328.97,
+   "end": 334.07,
+   "text": "So if I'm doing a training with Kyle Villag, I also have to do a book review of the last book I did."
+  },
+  {
+   "start": 334.15,
+   "end": 335.05,
+   "text": "And so I'm super frantic."
+  },
+  {
+   "start": 335.13,
+   "end": 336.21,
+   "text": "I'm like, I got to do that book review."
+  },
+  {
+   "start": 336.49,
+   "end": 337.97,
+   "text": "So I got to finish this fucking book."
+  },
+  {
+   "start": 338.05,
+   "end": 338.87,
+   "text": "It's 2000 pages."
+  },
+  {
+   "start": 338.97,
+   "end": 340.05,
+   "text": "I've been working on it for a few days."
+  },
+  {
+   "start": 340.45,
+   "end": 341.89,
+   "text": "So that's, that's what I'm doing."
+  },
+  {
+   "start": 342.25,
+   "end": 343.59,
+   "text": "So that's what I'm going to go do now."
+  },
+  {
+   "start": 343.65,
+   "end": 345.37,
+   "text": "I'm going to just go listen to my audio book."
+  },
+  {
+   "start": 345.49,
+   "end": 346.33,
+   "text": "You're back here."
+  },
+  {
+   "start": 346.85,
+   "end": 347.87,
+   "text": "Cause it's late enough."
+  },
+  {
+   "start": 347.93,
+   "end": 349.33,
+   "text": "It's fricking 11 o'clock at night."
+  },
+  {
+   "start": 349.33,
+   "end": 349.63,
+   "text": "All right."
+  },
+  {
+   "start": 349.69,
+   "end": 350.25,
+   "text": "Peace out."
+  },
+  {
+   "start": 350.37,
+   "end": 350.81,
+   "text": "Talk tomorrow."
+  }
+ ]
+}

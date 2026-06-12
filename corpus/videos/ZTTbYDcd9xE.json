@@ -1,0 +1,533 @@
+{
+ "youtube_id": "ZTTbYDcd9xE",
+ "title": "Living in Boulder vlog 2 - 6  - 2017: Google Earthing Theater of Castrense",
+ "url": "https://youtu.be/ZTTbYDcd9xE",
+ "published_at": "2018-02-06",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a captain's log update on his Google Earth project to map and calculate seating capacities of ancient Roman venues, including Circus Maximus, Stadium of Domitian, Theater of Marcellus, and smaller theaters. He explains his methodology of tracing stands at 19-inch intervals and discusses plans to rebuild the Theater of Castrense in Google Earth to visualize individual people inside ancient Roman seating structures. He briefly mentions waiting on results from a cancer biopsy.",
+  "speaker": "kyle",
+  "topics": [
+   "Google Earth 3D modeling",
+   "ancient Rome",
+   "Roman venue seating capacity",
+   "Circus Maximus",
+   "Theater of Castrense",
+   "personal health update"
+  ],
+  "stances": [
+   {
+    "topic": "Rome as a gathering place",
+    "position": "Rome would be the perfect city to host a massive gathering of YouTubers or performers — it has enough seating capacity to hold a million people across its venues"
+   },
+   {
+    "topic": "Wikipedia estimates for Circus Maximus",
+    "position": "Skeptical of the 260,000 figure; his own calculations came out to 150,000"
+   },
+   {
+    "topic": "Theater of Castrense rebuild",
+    "position": "Worth rebuilding as a small-scale model to calibrate understanding of what people looked like inside Roman stands"
+   }
+  ],
+  "entities": [
+   "Circus Maximus",
+   "Colosseum",
+   "Stadium of Domitian",
+   "Theater of Marcellus",
+   "Theater of Castrense",
+   "Aurelian Wall",
+   "Rome",
+   "Wikipedia",
+   "Google Earth"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.3,
+   "end": 6.3,
+   "text": "Hello, Captain's log for 24PM February 6th."
+  },
+  {
+   "start": 6.3,
+   "end": 13.42,
+   "text": "I usually don't do videos at this time, but I'm particularly interested in things that"
+  },
+  {
+   "start": 13.42,
+   "end": 15.42,
+   "text": "have been happening."
+  },
+  {
+   "start": 15.42,
+   "end": 20.86,
+   "text": "For the last time I did a video, I was working on circus and magazines."
+  },
+  {
+   "start": 20.86,
+   "end": 30.78,
+   "text": "So since then, I decided that I wanted to figure out the seating capacity of all of the different"
+  },
+  {
+   "start": 30.78,
+   "end": 33.1,
+   "text": "venues in Rome."
+  },
+  {
+   "start": 33.1,
+   "end": 36.62,
+   "text": "We need to turn Rome."
+  },
+  {
+   "start": 36.62,
+   "end": 50.78,
+   "text": "We need to bring Rome back to where it was because it was just the perfect vacation"
+  },
+  {
+   "start": 50.78,
+   "end": 52.78,
+   "text": "and whatever."
+  },
+  {
+   "start": 52.78,
+   "end": 57.82,
+   "text": "It's the perfect city for people to get together."
+  },
+  {
+   "start": 57.82,
+   "end": 59.1,
+   "text": "Like some posum city."
+  },
+  {
+   "start": 59.1,
+   "end": 64.94,
+   "text": "Like all the YouTubers get together and watch YouTube for people to do YouTube videos live or whatever"
+  },
+  {
+   "start": 64.94,
+   "end": 67.1,
+   "text": "or people performing live."
+  },
+  {
+   "start": 67.1,
+   "end": 73.26,
+   "text": "You could, you could, you could house and in a seating venue, everybody."
+  },
+  {
+   "start": 74.22,
+   "end": 80.7,
+   "text": "And we'll sit like a million people."
+  },
+  {
+   "start": 80.7,
+   "end": 87.82,
+   "text": "So yeah, I wanted to get to the bottom of all that for those who do all the stands all at once."
+  },
+  {
+   "start": 87.82,
+   "end": 90.14,
+   "text": "So I did circus maximus."
+  },
+  {
+   "start": 91.18,
+   "end": 97.58,
+   "text": "I did college the first and I think it worked out at 47,000 someone people."
+  },
+  {
+   "start": 98.38,
+   "end": 102.62,
+   "text": "At 22 kilometers something worth of stands."
+  },
+  {
+   "start": 103.5,
+   "end": 104.94,
+   "text": "At 19 inches of stand."
+  },
+  {
+   "start": 107.34,
+   "end": 110.14,
+   "text": "So I did that with the circus maximus."
+  },
+  {
+   "start": 110.94,
+   "end": 114.3,
+   "text": "And I traced the first three stands."
+  },
+  {
+   "start": 115.18,
+   "end": 121.82,
+   "text": "And it was like 14, 1914 and then maybe I should make it 20,000, I guess it's too late."
+  },
+  {
+   "start": 122.22,
+   "end": 132.86,
+   "text": "And then it was like 120,000 so then I added the last one, which was putting stands behind the columns."
+  },
+  {
+   "start": 133.42,
+   "end": 138.94,
+   "text": "The top of the circus maximus has columns, just like the Colosseum does and in those columns"
+  },
+  {
+   "start": 138.94,
+   "end": 141.26,
+   "text": "and the Colosseum does stands and so on."
+  },
+  {
+   "start": 141.26,
+   "end": 146.46,
+   "text": "So it just maximus that stands and it turns out that if I did that, it was 150,000."
+  },
+  {
+   "start": 146.46,
+   "end": 147.58,
+   "text": "So that was cool."
+  },
+  {
+   "start": 147.58,
+   "end": 150.3,
+   "text": "My circus maximus is checked out."
+  },
+  {
+   "start": 150.86,
+   "end": 155.5,
+   "text": "That's why other people like on the Wikipedia article they estimate it being"
+  },
+  {
+   "start": 159.66,
+   "end": 164.22,
+   "text": "I saw on the Wikipedia article that placed it at 260,000."
+  },
+  {
+   "start": 165.02,
+   "end": 169.66,
+   "text": "So I controlled that circus maximus and it only set on my play page when I was sick."
+  },
+  {
+   "start": 170.14,
+   "end": 174.38,
+   "text": "And it only said something about it in the circus maximus before running 160 miles a day."
+  },
+  {
+   "start": 174.38,
+   "end": 185.58,
+   "text": "But it didn't show anywhere else and so I just and I controlled that 250,000 and it"
+  },
+  {
+   "start": 185.58,
+   "end": 187.5,
+   "text": "shut up a whole bunch of times but not for that."
+  },
+  {
+   "start": 188.38,
+   "end": 194.86,
+   "text": "So I decided to go ahead and just read that chapter that I thought it would be in, like the stone"
+  },
+  {
+   "start": 194.86,
+   "end": 199.34,
+   "text": "and the shelter and then I heard it and it was like spelled differently."
+  },
+  {
+   "start": 199.5,
+   "end": 200.78,
+   "text": "That's why I didn't show it."
+  },
+  {
+   "start": 200.78,
+   "end": 204.14,
+   "text": "And it wasn't 260, it was 250, it was 260,000."
+  },
+  {
+   "start": 204.94,
+   "end": 208.3,
+   "text": "After I built it maybe after I'm done with Rome maybe I'll figure out if I can get"
+  },
+  {
+   "start": 211.58,
+   "end": 217.1,
+   "text": "260,000 people somehow watching looking into the circus maximus."
+  },
+  {
+   "start": 219.5,
+   "end": 220.62,
+   "text": "So then I did the other ones."
+  },
+  {
+   "start": 220.94,
+   "end": 231.58,
+   "text": "There's this one called Stadium of Dimitian and it's when I looked at it that was 26"
+  },
+  {
+   "start": 231.58,
+   "end": 235.9,
+   "text": "kilometers worth of stands which is more than a Colosseum."
+  },
+  {
+   "start": 235.9,
+   "end": 241.26,
+   "text": "That's like 52,000 people or something and the Wikipedia article says it's 15 to 20,000 and the"
+  },
+  {
+   "start": 241.26,
+   "end": 246.62,
+   "text": "region or catalog. Because the region or cataloging all these different ones it said the stand capacity."
+  },
+  {
+   "start": 246.62,
+   "end": 252.62,
+   "text": "And this is from 350,000. So I've got excited. You know I was like well let's cool let's do this"
+  },
+  {
+   "start": 252.62,
+   "end": 256.46,
+   "text": "let's figure out. So in the region I've had a lot of you said it."
+  },
+  {
+   "start": 260.06,
+   "end": 265.34,
+   "text": "Did the um, um, has 30,000?"
+  },
+  {
+   "start": 267.18,
+   "end": 273.9,
+   "text": "So but that's still not big enough. So so I didn't know what to do. So I went and figured I have to think about that later."
+  },
+  {
+   "start": 273.9,
+   "end": 278.54,
+   "text": "So then I looked at one of the just something easier. So I looked at a stadium of"
+  },
+  {
+   "start": 280.38,
+   "end": 288.14,
+   "text": "a minute and a no the theater of our cell list which has 17,000 something. So in 2005 I'm 100 and then there's"
+  },
+  {
+   "start": 288.14,
+   "end": 295.02,
+   "text": "another one that's 20,000. He was pump 8, 20,000 and then another one has like 11,000 but they're all like the same"
+  },
+  {
+   "start": 295.02,
+   "end": 302.54,
+   "text": "size so I didn't know what that meant. So but I looked at the theater of my cell list and I did the"
+  },
+  {
+   "start": 302.54,
+   "end": 309.1,
+   "text": "did work out too. If you put stands under the columns because they have the columns the same way too."
+  },
+  {
+   "start": 309.74,
+   "end": 316.14,
+   "text": "That works out too yeah about the same you know 17,000 something so that works. So then I said it's"
+  },
+  {
+   "start": 316.14,
+   "end": 324.46,
+   "text": "so then I looked at the circus dominus and I couldn't find anywhere where anybody even estimated what the"
+  },
+  {
+   "start": 324.54,
+   "end": 335.98,
+   "text": "capacity of the circus dominus was. I guess what would be and it was about 30,000. I could make it about 30,000."
+  },
+  {
+   "start": 335.98,
+   "end": 341.58,
+   "text": "So some of these that stadium I figured I just put it in a certain make it the circus dominus and then make the"
+  },
+  {
+   "start": 341.58,
+   "end": 347.74,
+   "text": "stadium up to mission it's regular 50,000 and if they meant you know the way to be or it will so it's 15 to 20,000"
+  },
+  {
+   "start": 347.74,
+   "end": 357.66,
+   "text": "that's probably because it was it's shrunked in by then so because you know wrong change over the years so"
+  },
+  {
+   "start": 359.26,
+   "end": 370.54,
+   "text": "so yeah so I'll just go ahead and you know make those others um theaters they're just as big as"
+  },
+  {
+   "start": 370.54,
+   "end": 377.26,
+   "text": "the theater of my cell list the same size of my cell list and then just the soon that the"
+  },
+  {
+   "start": 379.34,
+   "end": 387.58,
+   "text": "regier catalogs that was smaller because maybe it's shrunked by then. So the math that I'm looking"
+  },
+  {
+   "start": 387.58,
+   "end": 393.66,
+   "text": "on this got so many theaters and rich courses on scratch made like who built this or somebody there's"
+  },
+  {
+   "start": 393.66,
+   "end": 399.34,
+   "text": "some things on there that like there's a race course right next to the caustine that I don't"
+  },
+  {
+   "start": 399.42,
+   "end": 405.42,
+   "text": "see anywhere else so with no name it's just there I'm like okay just did I guess I'll try to"
+  },
+  {
+   "start": 407.18,
+   "end": 412.3,
+   "text": "yeah there's another guy you wrote wrong either bigger with all those detail I was thinking about trying to"
+  },
+  {
+   "start": 412.3,
+   "end": 420.86,
+   "text": "build that but it was like the 70 meters anyway um yeah so I'll build those and then I got the idea"
+  },
+  {
+   "start": 420.94,
+   "end": 431.73,
+   "text": "to um I wanted I wanted to well then there's this other um because I was doing all the all these"
+  },
+  {
+   "start": 431.73,
+   "end": 437.73,
+   "text": "caustians or whatever theaters I wanted to do the one for the theater of caustic strip and the theater"
+  },
+  {
+   "start": 437.73,
+   "end": 442.37,
+   "text": "of caustic strip which is this little particularly you know all of looking one that the it's on the"
+  },
+  {
+   "start": 442.37,
+   "end": 449.09,
+   "text": "south me as part of Rome where the the Arrelian logos through it's like a mini caustian but there's"
+  },
+  {
+   "start": 449.09,
+   "end": 454.29,
+   "text": "none of it left so I thought I figured I wanted to rebuild it I did it but the bad way I don't"
+  },
+  {
+   "start": 454.29,
+   "end": 459.65,
+   "text": "thought wait just do plans so I typed plan it was right there so I put it on top and I traced it so I"
+  },
+  {
+   "start": 459.65,
+   "end": 464.77,
+   "text": "decided to rebuild theater of caustic strip because it's like a little mini caustic strip and I wanted to"
+  },
+  {
+   "start": 464.77,
+   "end": 469.41,
+   "text": "know and I wanted to build something to show all of the people individually draw the people in"
+  },
+  {
+   "start": 469.41,
+   "end": 475.57,
+   "text": "individually just just call their code if you know once they're 10 blocks so you could help understand"
+  },
+  {
+   "start": 476.53,
+   "end": 483.09,
+   "text": "what people look like inside a caustian so that you can then or inside of the stands and"
+  },
+  {
+   "start": 483.09,
+   "end": 487.81,
+   "text": "around so that you could picture what it would look like in a caustian and the uh certain access to stuff"
+  },
+  {
+   "start": 487.81,
+   "end": 494.05,
+   "text": "because I'm not gonna trace in each one individually without it take too long but if I could do it for a"
+  },
+  {
+   "start": 494.05,
+   "end": 500.61,
+   "text": "little one then you could use that to calibrate the other ones and so I worked out that the"
+  },
+  {
+   "start": 500.61,
+   "end": 512.13,
+   "text": "theater of caustic strip to be uh 355 people so that leads since and yeah so I'm gonna rebuild that"
+  },
+  {
+   "start": 512.13,
+   "end": 519.97,
+   "text": "I remember rebuilding that right now right now I'm tracing it right now tracing in the people"
+  },
+  {
+   "start": 522.21,
+   "end": 527.97,
+   "text": "I'm just doing every 19 inches and then I'm gonna do one of the blocks what color put it and then do it"
+  },
+  {
+   "start": 528.77,
+   "end": 533.81,
+   "text": "you know staggered so you know the difference do it up the lines and then yeah look at"
+  },
+  {
+   "start": 533.81,
+   "end": 543.17,
+   "text": "what it looks like and that's another way you know which one is numbers but yeah so I've tried"
+  },
+  {
+   "start": 543.17,
+   "end": 548.05,
+   "text": "to do this theater it's gonna be I'm looking at looking forward to looking at it and see if I can do"
+  },
+  {
+   "start": 548.05,
+   "end": 553.25,
+   "text": "it two or three it's just like a caustian but and then also it wasn't just the plan of that it was"
+  },
+  {
+   "start": 553.25,
+   "end": 560.93,
+   "text": "also the villa that it was next to it was part of a big domus it was a private impotator so"
+  },
+  {
+   "start": 562.21,
+   "end": 567.81,
+   "text": "I'll yeah so then I'll go back and I'll finish you know the easy stuff tracing in the stands for the"
+  },
+  {
+   "start": 567.81,
+   "end": 572.53,
+   "text": "Colt uh certain access and then go do the stands for all those other ones you know and then everything you"
+  },
+  {
+   "start": 572.53,
+   "end": 585.65,
+   "text": "know all the places around so I'll listen to I'm listening to different decades right now"
+  },
+  {
+   "start": 586.13,
+   "end": 592.21,
+   "text": "I'm gonna be here so that's something out there running through right now we like the tens or something"
+  },
+  {
+   "start": 593.49,
+   "end": 599.97,
+   "text": "oh oh got my cancer cutout today they're gonna find out in five days like if it was cancer"
+  },
+  {
+   "start": 599.97,
+   "end": 603.33,
+   "text": "and preserve was this a little what you call it um"
+  },
+  {
+   "start": 604.45,
+   "end": 611.71,
+   "text": "access look the same as the other one okay piece out"
+  }
+ ]
+}

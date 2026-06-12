@@ -1,0 +1,118 @@
+{
+ "youtube_id": "qjhz1c-hg1w",
+ "title": "Living in Boulder Vlog 1 - 13 - 2017",
+ "url": "https://youtu.be/qjhz1c-hg1w",
+ "published_at": "2017-01-14",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle shares a vlog update about his inverted sleep schedule, working overnight, and spending most of his time updating audio download lists on his website and fixing broken links in Dreamweaver. He also recounts frustrations with his old web host iPower deleting files without warning, and previews plans to sell his car next week.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "sleep schedule",
+   "website maintenance",
+   "web hosting",
+   "link fixing",
+   "car sale plans"
+  ],
+  "stances": [
+   {
+    "topic": "iPower web hosting",
+    "position": "Unreliable and bad — deleted his files without warning; left them for SiteGround"
+   },
+   {
+    "topic": "SiteGround",
+    "position": "Best web host he has used"
+   },
+   {
+    "topic": "Dreamweaver link fixing",
+    "position": "Much faster and easier now than it used to be; gives him a sense of accomplishment"
+   }
+  ],
+  "entities": [
+   "iPower",
+   "SiteGround",
+   "Dreamweaver",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 17.3,
+   "text": "Hey, living in Boulder vlog for January 13th. So I still haven't missed a day. I thought I missed a day, but I didn't. What happened was yesterday, I got up and I thought it was six in the morning, but it was actually six in the afternoon, in the evening, because it was dark. So, crazy."
+  },
+  {
+   "start": 17.3,
+   "end": 32.94,
+   "text": "Yeah, so then yesterday I worked all night. I was like, ooh, free 12 hours. So I work all night. And then I go to sleep at like six in the morning, but then I got up at like one or something."
+  },
+  {
+   "start": 32.94,
+   "end": 55.48,
+   "text": "Um, and, um, today I, yeah, I did print up and post some pictures, but kind of finishing that. But today I spent most of my time, um, well, last night, yesterday, I went on just a, one of my pages that I have, uh, audio history, audio downloads."
+  },
+  {
+   "start": 55.48,
+   "end": 83.52,
+   "text": "It's like categorizing all the things in the world, all the things on the earth, like everything. Um, so then you can then click it to download the audio file. So if you want to put it on your MP3 player, you can just download all of it. And I have it even to download, I think for the entire folders too, but that got defunct. Now it's just a list. It's not audio files. It's just lists because I built it because I was with iPower at the time, iPower server."
+  },
+  {
+   "start": 83.52,
+   "end": 113.0,
+   "text": "And they said I had 20 gigabytes of space. So I uploaded it, which was like five gigabytes or whatever. And then they deleted everything without telling me. And they said it because, Oh, you actually don't have 20 gigabytes. Why? Oh, cause you share it with a bunch of people. How many are like a hundred? Well, then how many do you actually get? Oh, we don't know. So it wasn't dedicated. So I eventually, uh, left iPower because they deleted one of my folders that had a whole section of, it was a whole section of webpages on my website."
+  },
+  {
+   "start": 113.0,
+   "end": 124.56,
+   "text": "It works like three weeks on it, like the religions of the world. And I had them all categorized, but I lost it on my computer. And on that server, they deleted it. So I lost it for good."
+  },
+  {
+   "start": 124.56,
+   "end": 138.52,
+   "text": "So then they did another thing where they deleted a folder. Oh yeah. And that almost freaked me out and caused problems. Cause I thought, um, cause I made a mistake on a timeline page, the most important big one, 1500 to 2000 North Europe."
+  },
+  {
+   "start": 138.52,
+   "end": 153.96,
+   "text": "And, uh, I didn't have anywhere else where it was backed up and they deleted it. And then, so I had to call and I was like, and they finally restarted for me. But anyway, so I left iPower. Now I'm with a site ground, which is the best, but, uh, but yeah, so I was working on that page cause it wasn't updated."
+  },
+  {
+   "start": 154.12,
+   "end": 165.2,
+   "text": "The lists weren't updated. So I updated all the lists. It took me a few hours and that's what I did last night. But then today, um, yeah, I was just fixing links. I'm on a link fixing, uh, tour."
+  },
+  {
+   "start": 165.2,
+   "end": 189.4,
+   "text": "I did the links for bike racer level page. 40 kilometer, the big one, the standardized one. So that's cool. So now I'm going to do it with all the other ones. And then once I do that, I just want to fix the links for my entire website. Cause it'll go really fast. The way that you can fix links on the Dreamweaver now is a lot better than it was when I, uh, when I was doing it before."
+  },
+  {
+   "start": 189.4,
+   "end": 198.94,
+   "text": "And so I'm glad it goes a lot faster. And so putting a links for me, it's going to make it seem super fast and easy and make me happy and give me a sense of accomplishment."
+  },
+  {
+   "start": 199.08,
+   "end": 208.0,
+   "text": "I'm going to give myself the whole weekend. Should just try to fix links. And then on Monday, that's when I'm going to go full time and try to sell my car."
+  },
+  {
+   "start": 208.0,
+   "end": 215.78,
+   "text": "Uh, that'll take like a week probably to do everything to sell my car. I have to fix my rocket box. If I can somehow mend that plastic together."
+  },
+  {
+   "start": 217.22,
+   "end": 226.08,
+   "text": "And then see if I can sell it. I'll make like commercials and stuff. Okay. I've talked long enough. 3.42. Yeah, it's like 11.49 at night. So I made it just in time."
+  },
+  {
+   "start": 226.08,
+   "end": 246.54,
+   "text": "So I made it, just in time."
+  }
+ ]
+}

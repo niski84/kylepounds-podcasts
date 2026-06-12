@@ -1,0 +1,336 @@
+{
+ "youtube_id": "XGf_5H52_1s",
+ "title": "Living in Boulder vlog 3 - 20 - 2017",
+ "url": "https://youtu.be/XGf_5H52_1s",
+ "published_at": "2017-03-20",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle films a casual vlog from his room in Boulder, explaining why he skipped yesterday's video — he was busy working on his '25 area dimensions' webpage. He talks about needing to finish his site, sell his car with his mom's help, and mentions he's been doing circles (walking/running routes) and may do a green screen video next.",
+  "speaker": "kyle",
+  "topics": [
+   "personal website work",
+   "daily vlog",
+   "car sale",
+   "exercise/walking routes",
+   "motivation",
+   "Boulder life"
+  ],
+  "stances": [
+   {
+    "topic": "skipping yesterday's video",
+    "position": "was too motivated to work on his website to bother filming"
+   },
+   {
+    "topic": "selling his car",
+    "position": "wants his mom's involvement because it's partly her money on the line"
+   },
+   {
+    "topic": "website progress",
+    "position": "needs to finish the surface level before going deeper"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.75,
+   "end": 5.39,
+   "text": "Hello living in Boulder, if you like I figured I do want just in my room today."
+  },
+  {
+   "start": 5.39,
+   "end": 9.63,
+   "text": "Unless my room I come out of his room and he distracts me."
+  },
+  {
+   "start": 9.63,
+   "end": 13.75,
+   "text": "Um, because I'm too lazy to go in my room and do it."
+  },
+  {
+   "start": 13.75,
+   "end": 15.75,
+   "text": "That's why I didn't do a video yesterday."
+  },
+  {
+   "start": 15.75,
+   "end": 19.75,
+   "text": "Um, no man there's lag."
+  },
+  {
+   "start": 19.75,
+   "end": 22.75,
+   "text": "I wonder if there's gonna be sound lag in my computer."
+  },
+  {
+   "start": 22.75,
+   "end": 25.75,
+   "text": "Um, yeah, I was too motivated."
+  },
+  {
+   "start": 25.75,
+   "end": 29.75,
+   "text": "Not motivated enough to do the video yesterday because I was too motivated."
+  },
+  {
+   "start": 29.75,
+   "end": 34.75,
+   "text": "To work on my 25 area dimensions page."
+  },
+  {
+   "start": 34.75,
+   "end": 39.06,
+   "text": "Um, it was in its basic state."
+  },
+  {
+   "start": 39.06,
+   "end": 41.06,
+   "text": "I think I built it in like one day."
+  },
+  {
+   "start": 41.06,
+   "end": 42.06,
+   "text": "But then just left it there."
+  },
+  {
+   "start": 42.06,
+   "end": 47.06,
+   "text": "So I wanted to fix it, but I couldn't figure what I wanted it to look like."
+  },
+  {
+   "start": 47.06,
+   "end": 50.06,
+   "text": "So I just kept fixing and fixing it and she's going on forever."
+  },
+  {
+   "start": 50.06,
+   "end": 54.06,
+   "text": "And I put photos in and I realized I had to fix finish with keys."
+  },
+  {
+   "start": 54.06,
+   "end": 57.06,
+   "text": "You Google downloads."
+  },
+  {
+   "start": 57.06,
+   "end": 61.06,
+   "text": "So I could upload the right photos with all the details."
+  },
+  {
+   "start": 61.06,
+   "end": 63.06,
+   "text": "And that I needed."
+  },
+  {
+   "start": 63.06,
+   "end": 67.06,
+   "text": "So I have like 50, I'm not there right now."
+  },
+  {
+   "start": 67.06,
+   "end": 69.06,
+   "text": "Just to make people understand I guess."
+  },
+  {
+   "start": 69.06,
+   "end": 75.06,
+   "text": "And then I'll come back and finish it later because I'm trying to tie up the surface level of my site now."
+  },
+  {
+   "start": 75.06,
+   "end": 78.06,
+   "text": "I need to do stuff to some of my car."
+  },
+  {
+   "start": 78.06,
+   "end": 82.06,
+   "text": "I really wanted to do this up right now."
+  },
+  {
+   "start": 82.06,
+   "end": 86.06,
+   "text": "I'm doing the words on it once I do the words on dog right now."
+  },
+  {
+   "start": 86.06,
+   "end": 88.06,
+   "text": "And then I can get going on the surface low."
+  },
+  {
+   "start": 88.06,
+   "end": 90.06,
+   "text": "I wanted to explain the surface."
+  },
+  {
+   "start": 90.06,
+   "end": 93.06,
+   "text": "I was going to do car stuff today, but I don't really know."
+  },
+  {
+   "start": 93.06,
+   "end": 95.06,
+   "text": "I remember my mom's going to help me out."
+  },
+  {
+   "start": 95.06,
+   "end": 100.06,
+   "text": "So that's cool. She's going to help like actually help me put the ad on live because I'm not doing it."
+  },
+  {
+   "start": 100.06,
+   "end": 105.06,
+   "text": "And it's kind of her money on the line."
+  },
+  {
+   "start": 105.06,
+   "end": 106.06,
+   "text": "You know."
+  },
+  {
+   "start": 106.06,
+   "end": 110.06,
+   "text": "What you're seeing right now is like if somebody wanted to be like a stone or something."
+  },
+  {
+   "start": 110.06,
+   "end": 113.06,
+   "text": "There's no motivation. Yeah, yeah, here's an example."
+  },
+  {
+   "start": 113.06,
+   "end": 118.06,
+   "text": "Somebody who can't motivate to do something because they're like this."
+  },
+  {
+   "start": 118.06,
+   "end": 120.06,
+   "text": "Something else."
+  },
+  {
+   "start": 120.06,
+   "end": 123.06,
+   "text": "But I feel like my voice that's coming together pretty good."
+  },
+  {
+   "start": 123.06,
+   "end": 125.06,
+   "text": "Getting to a point where I can work."
+  },
+  {
+   "start": 125.06,
+   "end": 130.06,
+   "text": "I can finish it up on my bite inside though, not outside."
+  },
+  {
+   "start": 130.06,
+   "end": 132.06,
+   "text": "So I'm not spending any money."
+  },
+  {
+   "start": 132.06,
+   "end": 134.06,
+   "text": "But."
+  },
+  {
+   "start": 134.06,
+   "end": 138.06,
+   "text": "Yes, so I think we need a day I'll put the I really do need to move."
+  },
+  {
+   "start": 138.06,
+   "end": 140.06,
+   "text": "I'm going to do that."
+  },
+  {
+   "start": 140.06,
+   "end": 142.06,
+   "text": "Like gravity is compressing me."
+  },
+  {
+   "start": 142.06,
+   "end": 144.06,
+   "text": "So I might have to just exercise."
+  },
+  {
+   "start": 144.06,
+   "end": 148.06,
+   "text": "I might have to go out there and attach my curtains."
+  },
+  {
+   "start": 148.06,
+   "end": 150.06,
+   "text": "Again."
+  },
+  {
+   "start": 150.06,
+   "end": 153.06,
+   "text": "Right now my phone is upgrading."
+  },
+  {
+   "start": 153.06,
+   "end": 156.06,
+   "text": "I want to just send photos of my car to my mom and myself."
+  },
+  {
+   "start": 156.06,
+   "end": 160.06,
+   "text": "But I still feel like we need to get with a computer because it needs to upgrade."
+  },
+  {
+   "start": 160.06,
+   "end": 162.06,
+   "text": "So it's doing a day and I know."
+  },
+  {
+   "start": 162.06,
+   "end": 164.06,
+   "text": "So that's what I'm up to."
+  },
+  {
+   "start": 164.06,
+   "end": 166.06,
+   "text": "I think I've done enough talking now."
+  },
+  {
+   "start": 166.06,
+   "end": 170.06,
+   "text": "I'm just going to try to do a green screen video next time."
+  },
+  {
+   "start": 170.06,
+   "end": 172.06,
+   "text": "I'm doing circles, which is actually what I'm working on now."
+  },
+  {
+   "start": 172.06,
+   "end": 174.06,
+   "text": "Like 25 or 30 inches in the last one I did."
+  },
+  {
+   "start": 174.06,
+   "end": 178.06,
+   "text": "I think it was like five kilometers and I've got a bunch more."
+  },
+  {
+   "start": 178.06,
+   "end": 180.06,
+   "text": "Take another month, half month, a left."
+  },
+  {
+   "start": 180.06,
+   "end": 182.06,
+   "text": "So that's fine."
+  },
+  {
+   "start": 182.06,
+   "end": 184.06,
+   "text": "All right. Peace out."
+  }
+ ]
+}

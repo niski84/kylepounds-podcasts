@@ -1,0 +1,211 @@
+{
+ "youtube_id": "PVNm7cjvIkQ",
+ "title": "Living in Boulder Vlog 12 - 13 - 2016",
+ "url": "https://youtu.be/PVNm7cjvIkQ",
+ "published_at": "2016-12-15",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a casual daily vlog update covering his afternoon work session, exploring Google Earth while studying Rome, downloading cycling race videos to watch while riding his stationary bike, and noting he finished the History of Byzantium podcast (which appears abandoned) and started History of England.",
+  "speaker": "kyle",
+  "topics": [
+   "daily routine",
+   "Google Earth",
+   "Rome research",
+   "indoor cycling",
+   "podcasts",
+   "video uploading",
+   "request videos"
+  ],
+  "stances": [
+   {
+    "topic": "Google Earth and Rome",
+    "position": "Happily addicted to it; genuinely wants to understand what Rome looks like"
+   },
+   {
+    "topic": "History of Byzantium podcast",
+    "position": "Disappointed it appears abandoned before covering the fall of Constantinople"
+   },
+   {
+    "topic": "GoPro cycling videos",
+    "position": "Plans to watch race footage while riding his bike as immersive entertainment"
+   }
+  ],
+  "entities": [
+   "History of Byzantium (podcast)",
+   "History of England (podcast)",
+   "Google Earth",
+   "Constantinople",
+   "Rome",
+   "GoPro"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.22,
+   "end": 5.16,
+   "text": "Hello, living in Boulder Vlog for the 13th. It's 4 o'clock in the afternoon."
+  },
+  {
+   "start": 6.0,
+   "end": 11.84,
+   "text": "I've been working since like 11. I was working until like 3 or something. I don't know. I don't remember."
+  },
+  {
+   "start": 14.44,
+   "end": 21.54,
+   "text": "Yesterday I helped my mom. I don't really remember the details, but yeah, I was over there and then I was working here."
+  },
+  {
+   "start": 22.66,
+   "end": 28.32,
+   "text": "Oh, and then I started doing the videos because my idea to put the flat screen TV on the wall"
+  },
+  {
+   "start": 28.32,
+   "end": 31.56,
+   "text": "For when I ride my bike like in a couple of years or whatever."
+  },
+  {
+   "start": 32.68,
+   "end": 39.9,
+   "text": "So I started like downloading videos like of all these ideas of stuff to watch like GoPro and stuff"
+  },
+  {
+   "start": 39.9,
+   "end": 46.08,
+   "text": "So you can pretend you're in the race and then going around and then the pursuit and stuff."
+  },
+  {
+   "start": 46.24,
+   "end": 49.14,
+   "text": "So I'll probably do that. Well, I don't know how long I'll do that."
+  },
+  {
+   "start": 49.14,
+   "end": 54.34,
+   "text": "I wanted to do it all day today because I did it last night, like the last part of the day,"
+  },
+  {
+   "start": 54.34,
+   "end": 58.4,
+   "text": "But I just did it for like, oh no, no, no, I didn't. I was going to do it, but then"
+  },
+  {
+   "start": 58.4,
+   "end": 64.36,
+   "text": "I did one video and then I just started working on Google Earth and Rome again."
+  },
+  {
+   "start": 65.42,
+   "end": 71.52,
+   "text": "I'm actually addicted to Google Earth and Rome. It's a good thing to be addicted to though"
+  },
+  {
+   "start": 71.52,
+   "end": 77.14,
+   "text": "Because I really want to know what it looks like."
+  },
+  {
+   "start": 77.14,
+   "end": 82.92,
+   "text": "Um, so, uh, I can't remember what I was talking about."
+  },
+  {
+   "start": 84.68,
+   "end": 87.9,
+   "text": "Oh yeah, that's what I'm doing today. So yeah, this is what I'm doing."
+  },
+  {
+   "start": 88.42,
+   "end": 91.94,
+   "text": "I'd like to go back and do, do it intermittently though, but"
+  },
+  {
+   "start": 91.94,
+   "end": 94.86,
+   "text": "I'm still in the, ah,"
+  },
+  {
+   "start": 95.44,
+   "end": 99.26,
+   "text": "Part of the run."
+  },
+  {
+   "start": 99.9,
+   "end": 104.38,
+   "text": "There's a request video that I should do too, maybe tomorrow."
+  },
+  {
+   "start": 104.38,
+   "end": 109.84,
+   "text": "So, um, what else, what else? Oh, I finished History of Byzantium."
+  },
+  {
+   "start": 109.98,
+   "end": 112.78,
+   "text": "It appears this is the guy who did History of Byzantium on podcast."
+  },
+  {
+   "start": 113.68,
+   "end": 116.66,
+   "text": "Just abandoned it, which is too bad because I wanted to hear the part"
+  },
+  {
+   "start": 116.66,
+   "end": 121.8,
+   "text": "When they broke into Constantinople. So anyway, um, now I started History of England."
+  },
+  {
+   "start": 123.38,
+   "end": 127.82,
+   "text": "Uh, and, uh, I have nothing to say."
+  },
+  {
+   "start": 128.66,
+   "end": 132.16,
+   "text": "I need to keep this super short because I haven't gotten around to,"
+  },
+  {
+   "start": 132.16,
+   "end": 136.0,
+   "text": "You like getting the upgrade or whatever to the program"
+  },
+  {
+   "start": 136.0,
+   "end": 138.24,
+   "text": "That condenses these videos."
+  },
+  {
+   "start": 138.44,
+   "end": 141.92,
+   "text": "Although, as I was uploading my video last night, non-condensed,"
+  },
+  {
+   "start": 143.02,
+   "end": 144.82,
+   "text": "It seemed to be uploading just as fast."
+  },
+  {
+   "start": 145.12,
+   "end": 147.84,
+   "text": "So maybe, in my internet speed, it only,"
+  },
+  {
+   "start": 148.6,
+   "end": 151.42,
+   "text": "My slow internet speed only affects downloading but not uploading."
+  },
+  {
+   "start": 151.52,
+   "end": 152.54,
+   "text": "But we'll see how long this goes."
+  },
+  {
+   "start": 152.54,
+   "end": 154.92,
+   "text": "I think I babbled long enough though. Peace out."
+  }
+ ]
+}

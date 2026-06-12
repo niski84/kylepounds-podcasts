@@ -1,0 +1,535 @@
+{
+ "youtube_id": "a-Ju0NOdtDQ",
+ "title": "Living in Boulder Vlog 10 - 28 - 2016",
+ "url": "https://youtu.be/a-Ju0NOdtDQ",
+ "published_at": "2016-10-29",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs a Friday in Boulder where he spent the day doing detailed ski resort mapping work in Google Earth and Dreamweaver, tracing runs and lifts for Breckenridge. He describes a time-consuming snafu with missing and incorrectly traced ski runs, discusses his interest in making and honing project-completion predictions as a skill and untapped YouTube genre, and notes his terrible home internet preventing a live demo.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "ski resort mapping project",
+   "Google Earth / Dreamweaver workflow",
+   "project predictions",
+   "bad internet",
+   "Boulder living"
+  ],
+  "stances": [
+   {
+    "topic": "making predictions",
+    "position": "genuinely enjoys it, sees accurate prediction as a hone-able skill and an undiscovered YouTube genre"
+   },
+   {
+    "topic": "ski resort project",
+    "position": "excited — it's his first project he has done fully end-to-end and is actively predicting completion within the next week"
+   }
+  ],
+  "entities": [
+   "Breckenridge",
+   "Google Earth",
+   "Dreamweaver",
+   "Kindle",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 9.5,
+   "text": "Hey, Living in Boulder Vlog of October 28th, 2016."
+  },
+  {
+   "start": 11.86,
+   "end": 13.08,
+   "text": "It's Friday."
+  },
+  {
+   "start": 15.1,
+   "end": 16.44,
+   "text": "I didn't work today."
+  },
+  {
+   "start": 16.78,
+   "end": 18.92,
+   "text": "I think I'm not going to work as much."
+  },
+  {
+   "start": 20.16,
+   "end": 21.4,
+   "text": "I'm not going to work tomorrow."
+  },
+  {
+   "start": 21.96,
+   "end": 24.14,
+   "text": "It's going to be the first time I've been working on a Saturday for a while."
+  },
+  {
+   "start": 25.5,
+   "end": 29.22,
+   "text": "So what happened today was I actually kind of got up late."
+  },
+  {
+   "start": 29.22,
+   "end": 30.82,
+   "text": "It's fun to do videos."
+  },
+  {
+   "start": 31.56,
+   "end": 34.58,
+   "text": "I actually don't have internet right now, though, like at all."
+  },
+  {
+   "start": 35.04,
+   "end": 36.7,
+   "text": "I can't even get to anything."
+  },
+  {
+   "start": 38.4,
+   "end": 41.7,
+   "text": "And I'm hardwired on ethernet."
+  },
+  {
+   "start": 42.64,
+   "end": 44.34,
+   "text": "But I got up at like 9 or 10."
+  },
+  {
+   "start": 44.38,
+   "end": 47.44,
+   "text": "I think it was like 10 today because I was up late last night."
+  },
+  {
+   "start": 47.6,
+   "end": 51.66,
+   "text": "And I was, I guess, getting caught up on sleep."
+  },
+  {
+   "start": 52.26,
+   "end": 55.48,
+   "text": "So, and I was doing work today."
+  },
+  {
+   "start": 55.48,
+   "end": 62.66,
+   "text": "So today I kind of, I got delayed a lot."
+  },
+  {
+   "start": 62.78,
+   "end": 64.38,
+   "text": "I hit a snafu, you know."
+  },
+  {
+   "start": 65.64,
+   "end": 71.82,
+   "text": "It's super difficult to predict how long it's going to take me to do stuff because I'm always hitting snafus."
+  },
+  {
+   "start": 72.96,
+   "end": 73.72,
+   "text": "I'll explain."
+  },
+  {
+   "start": 73.86,
+   "end": 77.32,
+   "text": "And every single one, almost every other ski resort I hit a snafu."
+  },
+  {
+   "start": 77.4,
+   "end": 78.58,
+   "text": "I'll tell you about today's snafu."
+  },
+  {
+   "start": 78.58,
+   "end": 84.72,
+   "text": "So I do some ski, so I'm, there's the files on Google Earth."
+  },
+  {
+   "start": 85.66,
+   "end": 91.58,
+   "text": "And like each ski resort has like 20 lifts and like 150 runs or something."
+  },
+  {
+   "start": 91.58,
+   "end": 100.9,
+   "text": "So I'm doing Breckenridge and I'm, so I'm numbering the runs and then I make the little movies."
+  },
+  {
+   "start": 101.26,
+   "end": 110.1,
+   "text": "And then, so I make the connectors, the links for Google or Dreamweaver to connect to for each of those."
+  },
+  {
+   "start": 110.24,
+   "end": 115.06,
+   "text": "And it's 173 for Breckenridge."
+  },
+  {
+   "start": 115.06,
+   "end": 123.11,
+   "text": "And so, and so I noticed that I didn't name a lift for some reason."
+  },
+  {
+   "start": 123.95,
+   "end": 130.19,
+   "text": "So I have to go and I get the, the map, but I deleted the map, but I found it in the trash."
+  },
+  {
+   "start": 130.27,
+   "end": 132.35,
+   "text": "So I restore it, bring it up."
+  },
+  {
+   "start": 132.41,
+   "end": 136.97,
+   "text": "I see the name and I put the name on the lift, but then the, the run under the lift is not there."
+  },
+  {
+   "start": 136.97,
+   "end": 139.63,
+   "text": "And so I'm like, what?"
+  },
+  {
+   "start": 139.97,
+   "end": 145.91,
+   "text": "And so I click all the ski resorts just in case it's in another ski resort and it doesn't show up."
+  },
+  {
+   "start": 145.97,
+   "end": 147.73,
+   "text": "It's not there, right?"
+  },
+  {
+   "start": 148.43,
+   "end": 152.43,
+   "text": "Like you look at the whole ski resort and only there's a missing rung, you know?"
+  },
+  {
+   "start": 152.49,
+   "end": 153.47,
+   "text": "So I just didn't see it."
+  },
+  {
+   "start": 154.37,
+   "end": 164.63,
+   "text": "So I say, I, I trace it in and out of 173 ski resorts, this one's going to be like 73, which is like top half, well under the top half."
+  },
+  {
+   "start": 164.63,
+   "end": 166.99,
+   "text": "And it seems like it's always like that."
+  },
+  {
+   "start": 167.25,
+   "end": 167.87,
+   "text": "It's like at the top."
+  },
+  {
+   "start": 167.93,
+   "end": 170.51,
+   "text": "And then I see a couple other ones that are just traced wrong."
+  },
+  {
+   "start": 170.75,
+   "end": 171.51,
+   "text": "I just didn't notice."
+  },
+  {
+   "start": 171.59,
+   "end": 172.47,
+   "text": "So I trace them, right?"
+  },
+  {
+   "start": 173.31,
+   "end": 177.99,
+   "text": "You know, like doing all these screws or it's so intricate that it's easy to not notice stuff, you know?"
+  },
+  {
+   "start": 178.03,
+   "end": 183.33,
+   "text": "So then I had to reorganize those, you know, as well as the lengths."
+  },
+  {
+   "start": 183.53,
+   "end": 185.49,
+   "text": "And so, and then I remembered it."
+  },
+  {
+   "start": 185.49,
+   "end": 193.79,
+   "text": "And so I had to do all that before I could then go back into copying it and pasting it onto my list on Google on Dreamweaver."
+  },
+  {
+   "start": 193.79,
+   "end": 198.59,
+   "text": "So, um, that was like a, a lot of time snafu."
+  },
+  {
+   "start": 198.77,
+   "end": 199.67,
+   "text": "So that's why it's difficult."
+  },
+  {
+   "start": 199.79,
+   "end": 204.93,
+   "text": "Anyway, so, um, I'm on another one now, you know, no snafus right now."
+  },
+  {
+   "start": 205.03,
+   "end": 208.25,
+   "text": "And so it's 941."
+  },
+  {
+   "start": 208.97,
+   "end": 211.41,
+   "text": "I got kind of cold outside on the deck."
+  },
+  {
+   "start": 211.47,
+   "end": 222.54,
+   "text": "So I came in here and, um, yeah, I should do some talking videos,"
+  },
+  {
+   "start": 222.54,
+   "end": 227.24,
+   "text": "But I'm kind of, uh, I'm riding the wave right now."
+  },
+  {
+   "start": 227.52,
+   "end": 236.96,
+   "text": "Just seeing, you know, like, um, this, uh, ski resort thing is the first."
+  },
+  {
+   "start": 237.82,
+   "end": 239.76,
+   "text": "It's actually the first of two things."
+  },
+  {
+   "start": 239.9,
+   "end": 241.66,
+   "text": "So it's kind of, it's exciting for me."
+  },
+  {
+   "start": 241.7,
+   "end": 246.54,
+   "text": "It's the first, number one, I've said this before, kind of project that I started from scratch."
+  },
+  {
+   "start": 246.62,
+   "end": 247.94,
+   "text": "No, I didn't really start it from scratch."
+  },
+  {
+   "start": 248.02,
+   "end": 252.78,
+   "text": "I did have, like, the lifts traced in the area, the general area, which was really time consuming."
+  },
+  {
+   "start": 255.22,
+   "end": 260.82,
+   "text": "But I didn't put any of the lifts or, um, so, you know, from there."
+  },
+  {
+   "start": 261.12,
+   "end": 265.38,
+   "text": "But it's the first thing that I kind of did all the way through, you know, because I'm so good now."
+  },
+  {
+   "start": 266.52,
+   "end": 268.06,
+   "text": "Well, or that I intend on doing."
+  },
+  {
+   "start": 268.26,
+   "end": 274.66,
+   "text": "And also the first thing that I'm, I'm actually predicting on how long it's going to take, you know,"
+  },
+  {
+   "start": 275.0,
+   "end": 277.84,
+   "text": "Like halfway through and I'm like, hey, I'll be, I think I'll be done like in two weeks."
+  },
+  {
+   "start": 277.84,
+   "end": 279.18,
+   "text": "And so this is interesting."
+  },
+  {
+   "start": 279.9,
+   "end": 283.3,
+   "text": "I love making predictions, man."
+  },
+  {
+   "start": 283.3,
+   "end": 290.54,
+   "text": "I mean, and I think this is a genre, you know, on YouTube that has not been discovered yet."
+  },
+  {
+   "start": 290.9,
+   "end": 292.06,
+   "text": "Hey, there goes the cricket."
+  },
+  {
+   "start": 292.9,
+   "end": 294.84,
+   "text": "Where in the heck did them and their crickets come from?"
+  },
+  {
+   "start": 296.02,
+   "end": 299.38,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 299.86,
+   "end": 302.36,
+   "text": "So, like, yeah."
+  },
+  {
+   "start": 303.24,
+   "end": 310.86,
+   "text": "And predicting all of my, um, because you can, uh, you can go back, you know?"
+  },
+  {
+   "start": 310.86,
+   "end": 312.74,
+   "text": "Like, if you get your predictions right, you can prove it."
+  },
+  {
+   "start": 312.74,
+   "end": 316.0,
+   "text": "And so, uh, and it's a skill you can hone."
+  },
+  {
+   "start": 316.08,
+   "end": 321.0,
+   "text": "And if you get really good at it, you can kind of try to expand your predictions onto other like real world stuff."
+  },
+  {
+   "start": 321.0,
+   "end": 325.16,
+   "text": "So, and also for me, you know, with my timeline, I have future timeline that I want to do."
+  },
+  {
+   "start": 325.26,
+   "end": 328.02,
+   "text": "So, so, yeah."
+  },
+  {
+   "start": 328.5,
+   "end": 333.02,
+   "text": "So, I say, I'm still saying between, uh, Monday and Friday and next week I could be done with that."
+  },
+  {
+   "start": 333.12,
+   "end": 338.36,
+   "text": "And then, uh, if you have a smartphone that's good enough, and maybe even, uh, I don't know, a Kindle if it's good enough."
+  },
+  {
+   "start": 338.4,
+   "end": 339.3,
+   "text": "My Kindle can do it."
+  },
+  {
+   "start": 339.3,
+   "end": 341.14,
+   "text": "But, um, my smartphone can."
+  },
+  {
+   "start": 342.22,
+   "end": 344.94,
+   "text": "You know, if you don't know what the fuck I'm talking about, people are like,"
+  },
+  {
+   "start": 344.94,
+   "end": 346.62,
+   "text": "What the fuck you talking about, motherfucker?"
+  },
+  {
+   "start": 347.5,
+   "end": 349.0,
+   "text": "I think I'll show you."
+  },
+  {
+   "start": 349.8,
+   "end": 351.34,
+   "text": "That is if I have InterTube."
+  },
+  {
+   "start": 351.86,
+   "end": 352.24,
+   "text": "You know?"
+  },
+  {
+   "start": 352.24,
+   "end": 356.8,
+   "text": "I have such bad internet here."
+  },
+  {
+   "start": 356.92,
+   "end": 359.26,
+   "text": "It is un-fucking-believable."
+  },
+  {
+   "start": 360.86,
+   "end": 363.48,
+   "text": "See, look, I'm trying to load this and it's just not loading."
+  },
+  {
+   "start": 365.14,
+   "end": 366.02,
+   "text": "There ain't no internet."
+  },
+  {
+   "start": 366.5,
+   "end": 368.72,
+   "text": "Yeah, I don't have enough internet to do the demonstration."
+  },
+  {
+   "start": 369.4,
+   "end": 371.98,
+   "text": "But I guess I'll do it when I have the internet."
+  },
+  {
+   "start": 372.38,
+   "end": 376.03,
+   "text": "Um, but yeah."
+  },
+  {
+   "start": 376.21,
+   "end": 379.87,
+   "text": "But yeah, it'll be cool when I'm done if anybody thinks it's interesting."
+  },
+  {
+   "start": 379.87,
+   "end": 383.17,
+   "text": "It's definitely good, um, for calibration."
+  },
+  {
+   "start": 383.67,
+   "end": 388.19,
+   "text": "For distance calibration for my overall distance and space project."
+  },
+  {
+   "start": 388.49,
+   "end": 391.13,
+   "text": "So anyway, I think I've talked enough for the day."
+  },
+  {
+   "start": 391.23,
+   "end": 391.95,
+   "text": "Ooh, 6.30."
+  },
+  {
+   "start": 392.09,
+   "end": 394.51,
+   "text": "Yeah, you want to try to keep them just for a couple minutes?"
+  },
+  {
+   "start": 395.13,
+   "end": 396.49,
+   "text": "Okay, peace out."
+  }
+ ]
+}

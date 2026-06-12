@@ -1,0 +1,357 @@
+{
+ "youtube_id": "we5TTBnqNg4",
+ "title": "Training with Kyle 5/4/19 Ran 4.85 Miles 1:00:49",
+ "url": "https://youtu.be/we5TTBnqNg4",
+ "published_at": "2019-05-05",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle documents his second training video, recapping a 4.85-mile run completed in about an hour despite being physically exhausted from an 85-mile bike ride the day before. He discusses his asthma, his slow running pace, and his philosophy of prioritizing training obsessively over other work like his website.",
+  "speaker": "kyle",
+  "topics": [
+   "running",
+   "triathlon training",
+   "asthma",
+   "recovery",
+   "training psychology",
+   "stretching"
+  ],
+  "stances": [
+   {
+    "topic": "rest days",
+    "position": "avoids resting even if it means incomplete recovery — mentally prefers to keep going"
+   },
+   {
+    "topic": "training balance",
+    "position": "must obsessively prioritize training or he defaults entirely to website work — no natural middle ground"
+   },
+   {
+    "topic": "stretching",
+    "position": "believes stretching is as important as any sport and wants to do three hours a day"
+   },
+   {
+    "topic": "triathlon sport difficulty",
+    "position": "swimming and cycling are easier to pick up than running because they are easier on joints"
+   }
+  ],
+  "entities": [
+   "Kyle's mom",
+   "Kyle's brother",
+   "Avengers: Endgame",
+   "Advair"
+  ],
+  "date": "2019-05-04",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.85,
+   "end": 6.23,
+   "text": "Hello, training with Kyle, video number two."
+  },
+  {
+   "start": 7.97,
+   "end": 14.13,
+   "text": "So, I'm super, super, super basic, starting from the bottom in the worst shape you can be in."
+  },
+  {
+   "start": 16.19,
+   "end": 21.13,
+   "text": "And, yeah, so it's just, you know, can't expect too much."
+  },
+  {
+   "start": 21.85,
+   "end": 25.99,
+   "text": "Yesterday I went on a big ride, like 85 miles, the first time I went on such a big ride."
+  },
+  {
+   "start": 25.99,
+   "end": 31.47,
+   "text": "And so long, so today I was physically shot."
+  },
+  {
+   "start": 31.75,
+   "end": 33.53,
+   "text": "You know, I could have slept all day if I wanted to."
+  },
+  {
+   "start": 34.47,
+   "end": 40.51,
+   "text": "Last night, I didn't really sleep much at all."
+  },
+  {
+   "start": 40.75,
+   "end": 42.53,
+   "text": "I mean, I did get sleep. I don't know how much."
+  },
+  {
+   "start": 42.67,
+   "end": 45.95,
+   "text": "But it took me forever to get to sleep because I got really bad asthma."
+  },
+  {
+   "start": 46.41,
+   "end": 50.07,
+   "text": "I'm going to need to go in as soon as I can next week on the weekday."
+  },
+  {
+   "start": 50.17,
+   "end": 54.55,
+   "text": "Go and sign up for whatever kind of health insurance I can get so I can get back on those Advairs."
+  },
+  {
+   "start": 54.55,
+   "end": 62.29,
+   "text": "You can't just buy Advair at $650 because, yeah, it's debilitating."
+  },
+  {
+   "start": 63.43,
+   "end": 72.13,
+   "text": "But, yeah, so I got up, but I did get up kind of late, like 10.30, and I had to meet my mom at 1.30."
+  },
+  {
+   "start": 73.19,
+   "end": 77.95,
+   "text": "We were going to go see the Avengers Endgame with my mom and my brother."
+  },
+  {
+   "start": 78.09,
+   "end": 80.67,
+   "text": "And so we went, this is supposed to be just about training."
+  },
+  {
+   "start": 80.67,
+   "end": 85.01,
+   "text": "So, yeah, so I got up, and I ran."
+  },
+  {
+   "start": 85.27,
+   "end": 87.77,
+   "text": "So let's show you here what I did."
+  },
+  {
+   "start": 89.95,
+   "end": 91.13,
+   "text": "So I ran."
+  },
+  {
+   "start": 92.47,
+   "end": 93.57,
+   "text": "Oh, whoops, I have to."
+  },
+  {
+   "start": 94.35,
+   "end": 95.45,
+   "text": "Oh, whoops, why is there no?"
+  },
+  {
+   "start": 96.63,
+   "end": 97.55,
+   "text": "Okay, here we are."
+  },
+  {
+   "start": 97.63,
+   "end": 98.97,
+   "text": "Somehow the computer went dark."
+  },
+  {
+   "start": 99.69,
+   "end": 101.39,
+   "text": "Okay, let's make that go away."
+  },
+  {
+   "start": 101.39,
+   "end": 106.69,
+   "text": "So I ran 4.85 miles, and it took me an hour."
+  },
+  {
+   "start": 106.87,
+   "end": 110.79,
+   "text": "I was averaging 12.31 a mile, and there's the course I did."
+  },
+  {
+   "start": 110.85,
+   "end": 118.69,
+   "text": "I ran up to the local track that's just a couple miles away."
+  },
+  {
+   "start": 119.73,
+   "end": 126.99,
+   "text": "And I ran around the track a few times and then came back and got to my mom's house by 1.30."
+  },
+  {
+   "start": 126.99,
+   "end": 130.33,
+   "text": "So, yeah, I'm running at, like, 11."
+  },
+  {
+   "start": 131.29,
+   "end": 135.19,
+   "text": "My fastest mile was 11.29."
+  },
+  {
+   "start": 136.51,
+   "end": 138.87,
+   "text": "So that's the fastest I could run."
+  },
+  {
+   "start": 139.01,
+   "end": 140.79,
+   "text": "Like, that's my full-blown running pace."
+  },
+  {
+   "start": 141.87,
+   "end": 144.87,
+   "text": "So, yeah, it was super freaky to not be able to run."
+  },
+  {
+   "start": 145.07,
+   "end": 149.05,
+   "text": "My legs basically don't move, you know, and I can't bound."
+  },
+  {
+   "start": 149.15,
+   "end": 150.65,
+   "text": "I'm just like this, my legs."
+  },
+  {
+   "start": 150.65,
+   "end": 155.03,
+   "text": "So, yeah, I'm super motivated."
+  },
+  {
+   "start": 155.93,
+   "end": 164.75,
+   "text": "If I want to be a triathlete, the sports that are the easiest for me to pick up as a totally basic is swimming and riding."
+  },
+  {
+   "start": 164.89,
+   "end": 169.85,
+   "text": "I could swim just fine and ride just fine because it's not joints, I guess."
+  },
+  {
+   "start": 171.21,
+   "end": 174.25,
+   "text": "But running is just problematic."
+  },
+  {
+   "start": 174.79,
+   "end": 178.91,
+   "text": "So, yeah, I stretched a little bit over at my mom's house."
+  },
+  {
+   "start": 178.91,
+   "end": 181.95,
+   "text": "We saw the movie and then I did this light treatment and it made me feel much better."
+  },
+  {
+   "start": 182.13,
+   "end": 184.15,
+   "text": "So it put me to sleep."
+  },
+  {
+   "start": 184.81,
+   "end": 190.47,
+   "text": "So I think stretching is just as important as any other kind of a sport."
+  },
+  {
+   "start": 190.61,
+   "end": 193.01,
+   "text": "I'm going to stretch, like, three hours a day, I think."
+  },
+  {
+   "start": 195.99,
+   "end": 203.81,
+   "text": "But as far as resting, I'm not really into resting, even if it, you know, makes it so that I don't fully recover."
+  },
+  {
+   "start": 203.95,
+   "end": 205.03,
+   "text": "It's just a mental thing."
+  },
+  {
+   "start": 205.03,
+   "end": 208.83,
+   "text": "I don't, um, I just want to go for it, you know."
+  },
+  {
+   "start": 209.21,
+   "end": 213.37,
+   "text": "Um, I'll explain really quickly psychology of training for me."
+  },
+  {
+   "start": 213.69,
+   "end": 228.27,
+   "text": "Um, like in a visual, it's kind of like there's a, if you can imagine a flat surface with a ball on the top and on the left, on the, like, one side is, uh, is, is, is, is just work."
+  },
+  {
+   "start": 228.27,
+   "end": 231.47,
+   "text": "Like, like my website and then the other side would be exercising."
+  },
+  {
+   "start": 231.73,
+   "end": 232.87,
+   "text": "I can't have it."
+  },
+  {
+   "start": 233.39,
+   "end": 236.03,
+   "text": "There's no groove in the middle to just make it balanced."
+  },
+  {
+   "start": 236.41,
+   "end": 240.49,
+   "text": "So the ball is going to, is going to just go to one side and stay there."
+  },
+  {
+   "start": 240.49,
+   "end": 249.29,
+   "text": "And so I need to have the ball over with my priority over with the training because I'm, I'm not, I'm naturally going to work on my website anyway."
+  },
+  {
+   "start": 249.29,
+   "end": 255.67,
+   "text": "So that'll bring it back to balance because I'll just do the works, you know, on the worksite whenever I can."
+  },
+  {
+   "start": 255.71,
+   "end": 264.85,
+   "text": "But if I have the, the ball over here where it's all motivated priority of the website, I, um, I'm not going to do any training at all."
+  },
+  {
+   "start": 264.85,
+   "end": 266.01,
+   "text": "I know that from my life."
+  },
+  {
+   "start": 266.01,
+   "end": 275.33,
+   "text": "So, so yeah, as long as all I, all I think about in my obsessive mind is training, I'm there and I'm ready to feel good."
+  },
+  {
+   "start": 275.55,
+   "end": 279.03,
+   "text": "Um, I'll probably look healthier and healthier as the time goes on."
+  },
+  {
+   "start": 279.27,
+   "end": 287.57,
+   "text": "So anyways, tomorrow I want to try and get up early, try to sleep tonight, get up early, start swimming and then go running, you know, do the ones that are the hardest."
+  },
+  {
+   "start": 288.09,
+   "end": 288.49,
+   "text": "Okay."
+  },
+  {
+   "start": 288.57,
+   "end": 289.35,
+   "text": "So peace out."
+  },
+  {
+   "start": 289.67,
+   "end": 290.29,
+   "text": "Talk to you tomorrow."
+  }
+ ]
+}

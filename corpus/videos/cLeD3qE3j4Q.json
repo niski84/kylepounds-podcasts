@@ -1,0 +1,208 @@
+{
+ "youtube_id": "cLeD3qE3j4Q",
+ "title": "Living in Boulder Vlog 3-11-2016",
+ "url": "https://youtu.be/cLeD3qE3j4Q",
+ "published_at": "2016-03-13",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs a routine day in Boulder on March 11, 2016: sleeping late, visiting his mom to discuss a recent Asperger's diagnosis report, and working on his website. He mentions being high while recording, excitement about a new phone for audiobooks, and the satisfying feeling of making progress on a new section of his site.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "Asperger's diagnosis",
+   "family visit",
+   "website work",
+   "marijuana use",
+   "technology/smartphones",
+   "audiobooks"
+  ],
+  "stances": [
+   {
+    "topic": "Asperger's diagnosis",
+    "position": "open about it, plans to discuss it in a dedicated video"
+   },
+   {
+    "topic": "new smartphones",
+    "position": "amazed by them, feels like living in the future"
+   },
+   {
+    "topic": "website progress",
+    "position": "energized by the momentum of working on a new page section"
+   },
+   {
+    "topic": "the day overall",
+    "position": "uneventful and low-key, brain felt fried"
+   }
+  ],
+  "entities": [
+   "Kyle's mom",
+   "Boulder (Colorado)",
+   "YouTube",
+   "Lairthing Baller (personal project, unclear)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 3.6,
+   "text": "Hello, living in Boulder vlog. I think it's the, uh, for the 11th."
+  },
+  {
+   "start": 3.7,
+   "end": 7.9,
+   "text": "I gotta clean this. God damn, I got up late yesterday and then it was like spittle."
+  },
+  {
+   "start": 8.04,
+   "end": 9.56,
+   "text": "Oh, so gross. So gross."
+  },
+  {
+   "start": 11.5,
+   "end": 14.5,
+   "text": "Um, but, uh, yeah, so what'd I do today?"
+  },
+  {
+   "start": 14.88,
+   "end": 19.44,
+   "text": "Um, I got up kind of late. It's three, it's like four in the morning now."
+  },
+  {
+   "start": 19.54,
+   "end": 24.62,
+   "text": "I'm finally getting to sleep. Kind of, um, yeah, I got up kind of late, like 11 or something today"
+  },
+  {
+   "start": 24.62,
+   "end": 29.84,
+   "text": "Because I was up really late last night. Um, and then I got up and I was working a little bit"
+  },
+  {
+   "start": 29.84,
+   "end": 35.0,
+   "text": "And then I went to my mom's house, um, because I wanted to show her I got the Asperger diagnosis."
+  },
+  {
+   "start": 35.16,
+   "end": 40.4,
+   "text": "I'm going to talk about that tomorrow. A few days ago, but I wanted to talk to my mom about the report"
+  },
+  {
+   "start": 40.4,
+   "end": 45.78,
+   "text": "And I was like, yeah, I'm going to read this on YouTube into a video and she's like, what? No!"
+  },
+  {
+   "start": 46.28,
+   "end": 51.34,
+   "text": "Anyway, I'll talk about that later. Um, so I was hanging out with her for like an hour and a half or something"
+  },
+  {
+   "start": 51.34,
+   "end": 55.62,
+   "text": "Because I think we had a meal on. Um, yeah, chilling."
+  },
+  {
+   "start": 55.62,
+   "end": 61.32,
+   "text": "Then I came back here and I was working again. Um, I'm pretty high right now."
+  },
+  {
+   "start": 62.58,
+   "end": 67.42,
+   "text": "Um, yeah, I didn't read, I was, uh, probably would have done the video sitting on the couch, I guess,"
+  },
+  {
+   "start": 67.5,
+   "end": 73.76,
+   "text": "But I remembered when I got here in bed. Uh, my brain is fried. I don't really have much to say."
+  },
+  {
+   "start": 73.82,
+   "end": 78.56,
+   "text": "I didn't really listen to anything today. Um, I don't even know if I could have called tech."
+  },
+  {
+   "start": 78.56,
+   "end": 82.88,
+   "text": "I don't think I can call tech support, so I'll just have to wait until Monday to get the, uh,"
+  },
+  {
+   "start": 83.54,
+   "end": 88.46,
+   "text": "Thing resolved about my, uh, phone. See if I can get the phone filled up with, um,"
+  },
+  {
+   "start": 90.02,
+   "end": 94.2,
+   "text": "I mean, get the phone working with all of the audiobooks. I'm really excited about that."
+  },
+  {
+   "start": 94.6,
+   "end": 103.52,
+   "text": "These new phones they have now are so, um, so, uh, like new, like awesome."
+  },
+  {
+   "start": 103.52,
+   "end": 110.28,
+   "text": "They're like computers. Um, so, makes me feel like I'm in the future. I'm starting to feel like I'm going"
+  },
+  {
+   "start": 110.28,
+   "end": 122.22,
+   "text": "In the future. So, uh, yeah, um, yeah, that's all I did today. Pretty simple. No thoughts either."
+  },
+  {
+   "start": 122.38,
+   "end": 127.28,
+   "text": "Just kind of sitting there. So I guess that's all I have to say because I was just working on my site,"
+  },
+  {
+   "start": 127.34,
+   "end": 131.68,
+   "text": "But I don't want to talk about the details of that, but I'm, I'm moving forward. Just friendly in the"
+  },
+  {
+   "start": 131.68,
+   "end": 136.74,
+   "text": "Void on that. You know, whenever I started a new segment of my website, like when I'm working on"
+  },
+  {
+   "start": 136.74,
+   "end": 140.36,
+   "text": "Something, you know, cause I was working on Google Earth in Boulder for a while, like a couple months"
+  },
+  {
+   "start": 140.36,
+   "end": 145.66,
+   "text": "Or something, Google Earth in Boulder County in Boulder. And, and then, so only like over the last"
+  },
+  {
+   "start": 145.66,
+   "end": 150.58,
+   "text": "Week or so, I've been working on my website again. And, uh, so whenever I'm, I'm working on,"
+  },
+  {
+   "start": 150.62,
+   "end": 156.5,
+   "text": "On a new thing, like a new page at the beginning, I'm just like, cause I can't believe how much I'm"
+  },
+  {
+   "start": 156.5,
+   "end": 161.86,
+   "text": "Getting done. You know, um, it, you, you feel like you're getting a lot done when you hit a page"
+  },
+  {
+   "start": 161.86,
+   "end": 166.72,
+   "text": "You haven't hit before. Um, you know, like, like you dropped it when you were almost done."
+  },
+  {
+   "start": 167.26,
+   "end": 170.96,
+   "text": "So it's a cool feeling. Anyway, I've dabbled on long enough. Peace out."
+  }
+ ]
+}

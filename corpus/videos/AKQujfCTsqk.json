@@ -1,0 +1,317 @@
+{
+ "youtube_id": "AKQujfCTsqk",
+ "title": "Living in Boulder Vlog 12 - 12 - 2016",
+ "url": "https://youtu.be/AKQujfCTsqk",
+ "published_at": "2016-12-14",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a casual daily vlog update covering helping his mom after her cataract surgery, watching the TV show 'Hell on Wheels' on Netflix, discovering he can connect his laptop to his TV via HDMI, and his plans to set up his room with the TV in front of his exercise bike. He also briefly mentions progress on a map-tracing project and trying to stay focused on an unspecified trip/itinerary project.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "family caregiving",
+   "cataract surgery",
+   "TV show recommendation",
+   "room organization",
+   "HDMI setup",
+   "exercise bike",
+   "map tracing project",
+   "Apple Store visit"
+  ],
+  "stances": [
+   {
+    "topic": "cataract surgery vs LASIK",
+    "position": "Thinks waiting for cataracts and getting lens replacement might be better than LASIK after seeing his mom's results"
+   },
+   {
+    "topic": "Hell on Wheels",
+    "position": "Thinks it's a good historical TV show worth watching"
+   },
+   {
+    "topic": "HDMI TV connection",
+    "position": "Excited about the discovery and plans to use it for watching TV while biking indoors"
+   }
+  ],
+  "entities": [
+   "Hell on Wheels",
+   "Netflix",
+   "Apple Store",
+   "Boulder",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.26,
+   "end": 7.9,
+   "text": "Hello living in Boulder for you log it's 506 on December 13th so this is the one for the 12th"
+  },
+  {
+   "start": 11.42,
+   "end": 13.42,
+   "text": "yesterday"
+  },
+  {
+   "start": 15.42,
+   "end": 22.34,
+   "text": "We know to my mom's house and I helped her and so I didn't do quite as much work on my project"
+  },
+  {
+   "start": 22.34,
+   "end": 25.54,
+   "text": "But I did some yesterday I finished"
+  },
+  {
+   "start": 25.54,
+   "end": 31.86,
+   "text": "the Nail Matcha and then I started working on more building so I'll do more buildings now that I've"
+  },
+  {
+   "start": 32.42,
+   "end": 35.54,
+   "text": "Now today I don't think I've worked much today though"
+  },
+  {
+   "start": 38.82,
+   "end": 45.18,
+   "text": "I took my I had to stay with my mom last night at her house because she got"
+  },
+  {
+   "start": 47.74,
+   "end": 49.74,
+   "text": "cataract surgery"
+  },
+  {
+   "start": 49.82,
+   "end": 55.34,
+   "text": "Just like because she's old her eyes glazed up so she couldn't read like"
+  },
+  {
+   "start": 56.22,
+   "end": 59.26,
+   "text": "three signs anymore and it was like super sketchy to drive"
+  },
+  {
+   "start": 60.14,
+   "end": 62.14,
+   "text": "So she went in for the cataract surgery and"
+  },
+  {
+   "start": 63.02,
+   "end": 68.22,
+   "text": "and now they put a whole new lens in so now she sees perfectly clear with all the colors with 2020 vision"
+  },
+  {
+   "start": 68.22,
+   "end": 75.02,
+   "text": "So so I don't know maybe I should wait till I get cataracts and set it and then get just new lenses put in instead of Lasix"
+  },
+  {
+   "start": 75.34,
+   "end": 77.34,
+   "text": "Maybe that's better"
+  },
+  {
+   "start": 79.74,
+   "end": 85.26,
+   "text": "Yeah, but so I had to drive around and do stuff for house and then I guess next week she'd go in for the other eye so"
+  },
+  {
+   "start": 86.06,
+   "end": 88.78,
+   "text": "I'll have to do that again, but she pays me a line you to call her whether"
+  },
+  {
+   "start": 89.34,
+   "end": 93.98,
+   "text": "Remind her to put my hours up because then I came up and I I polished"
+  },
+  {
+   "start": 94.86,
+   "end": 96.86,
+   "text": "Silver for her and"
+  },
+  {
+   "start": 96.86,
+   "end": 100.86,
+   "text": "Back in the house and I'll do organized too a whole bunch through a bunch way of much paper work"
+  },
+  {
+   "start": 100.86,
+   "end": 106.62,
+   "text": "But so last night I was at her house and I was watching that TV show and I want to finish it because I really like did it's called Hell's Cation"
+  },
+  {
+   "start": 106.7,
+   "end": 110.78,
+   "text": "She told me to watch it because I guess friends lot thought it was good and it is good man"
+  },
+  {
+   "start": 110.78,
+   "end": 115.02,
+   "text": "It's a historic and I didn't even see it when I went through to see by historical TV shows, but I Netflix"
+  },
+  {
+   "start": 116.7,
+   "end": 123.18,
+   "text": "It's about building the railroad across America and they're in this you know 10 village called hills kitchen"
+  },
+  {
+   "start": 123.66,
+   "end": 125.66,
+   "text": "or whatever hell on wheels and"
+  },
+  {
+   "start": 125.82,
+   "end": 134.62,
+   "text": "And so the Indians come by and blow up the train and then there's the black slaves and or not the slaves the black workers and then the white guys"
+  },
+  {
+   "start": 135.5,
+   "end": 136.62,
+   "text": "And then the"
+  },
+  {
+   "start": 136.78,
+   "end": 138.78,
+   "text": "prostitutes when I don't have any Chinese yet though"
+  },
+  {
+   "start": 138.78,
+   "end": 142.14,
+   "text": "I guess the Chinese have to show up when they get closer across and the other side of the rockies"
+  },
+  {
+   "start": 142.94,
+   "end": 144.94,
+   "text": "but yeah, it's good"
+  },
+  {
+   "start": 145.66,
+   "end": 152.7,
+   "text": "But I had to quit at 1130 which is super early for me because my mom made me go a bed because I had to get up at like 11"
+  },
+  {
+   "start": 153.18,
+   "end": 155.82,
+   "text": "to take her into her follow up appointment"
+  },
+  {
+   "start": 156.22,
+   "end": 158.22,
+   "text": "But I'd you go a bit like nine"
+  },
+  {
+   "start": 158.94,
+   "end": 164.22,
+   "text": "So I kind of had to stop it until like three, but so I went in oh, yeah, but I went into the story"
+  },
+  {
+   "start": 164.22,
+   "end": 169.42,
+   "text": "The Apple story started to find out like how to burn CDs and we burned to CD there and he's in a game in the CD"
+  },
+  {
+   "start": 169.42,
+   "end": 174.06,
+   "text": "Because I forgot to bring mine but you said it was fine, but it my mom's TV couldn't read it"
+  },
+  {
+   "start": 174.06,
+   "end": 175.66,
+   "text": "I think I forgot to bring it back"
+  },
+  {
+   "start": 175.9,
+   "end": 180.94,
+   "text": "So I just have to pick it up there later, but he told me that you can just connect your computer to their TV with the HDMI cable"
+  },
+  {
+   "start": 182.06,
+   "end": 185.74,
+   "text": "I didn't know that so I went and bought an HDMI cable and look I can see this computer screen for my TV"
+  },
+  {
+   "start": 185.74,
+   "end": 187.1,
+   "text": "So it's awesome so I got a new idea"
+  },
+  {
+   "start": 187.34,
+   "end": 190.22,
+   "text": "I'm gonna fix my TV under my bike things all show it next week"
+  },
+  {
+   "start": 190.22,
+   "end": 193.9,
+   "text": "How I organized my rep because my room now is gonna be the best working measure member pretty soon"
+  },
+  {
+   "start": 195.9,
+   "end": 201.42,
+   "text": "Put the TV so I can write the bike when I do start writing the bike like in a couple of years or in a year or whatever"
+  },
+  {
+   "start": 203.74,
+   "end": 207.58,
+   "text": "TV's like right in front of you so I can like watch up watch whatever that I want"
+  },
+  {
+   "start": 208.54,
+   "end": 214.38,
+   "text": "That's gonna be that's gonna be pretty cool and then when I get sick of that I can just sit up and work on my computer on the top part"
+  },
+  {
+   "start": 216.06,
+   "end": 218.06,
+   "text": "I love it"
+  },
+  {
+   "start": 219.02,
+   "end": 222.54,
+   "text": "Yeah, so I'm gonna do that like get all of that set up. I can't wait"
+  },
+  {
+   "start": 223.26,
+   "end": 226.54,
+   "text": "I already organized my room a little bit reorganized at some so"
+  },
+  {
+   "start": 228.7,
+   "end": 231.34,
+   "text": "Yeah, I will start working again once it warms up um"
+  },
+  {
+   "start": 232.54,
+   "end": 238.38,
+   "text": "But I'm making progress. Yeah, I guess I'll just do the same thing just tracing buildings all the rest of the day and I screwed out as"
+  },
+  {
+   "start": 239.66,
+   "end": 245.74,
+   "text": "What else what else yeah, I was just in a little bit of this trip as anti-ampony to get going back on that"
+  },
+  {
+   "start": 246.7,
+   "end": 252.46,
+   "text": "It's kind of hard to focus on that when I'm at my mom's house. It's just more tempting to watch you because I was watching some of it with her and stuff"
+  },
+  {
+   "start": 253.42,
+   "end": 255.42,
+   "text": "but"
+  },
+  {
+   "start": 258.7,
+   "end": 264.7,
+   "text": "Okay, yeah, oh shit. I was probably talking too long because I still need to get a new program of the update to the program to convert and"
+  },
+  {
+   "start": 265.02,
+   "end": 267.98,
+   "text": "Dance this this is gonna take for getting 12 hours to upload okay"
+  }
+ ]
+}

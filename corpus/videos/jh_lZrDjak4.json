@@ -1,0 +1,491 @@
+{
+ "youtube_id": "jh_lZrDjak4",
+ "title": "Living in Boulder Vlog 2 - 24 - 2017: Strava in Background",
+ "url": "https://youtu.be/jh_lZrDjak4",
+ "published_at": "2017-02-25",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a late-night vlog from Boulder, discussing a failed upload the previous night (no sound due to a computer glitch), his ongoing work on a free audiobook website with thousands of pages of book content, and a vision for a large-scale page template that could hold up to a million pages of books. He also mentions his car is ready for pickup but he's waiting until Monday.",
+  "speaker": "kyle",
+  "topics": [
+   "vlog update",
+   "website development",
+   "audiobook collection",
+   "computer problems",
+   "daily life in Boulder",
+   "page template concept",
+   "car pickup"
+  ],
+  "stances": [
+   {
+    "topic": "failed video upload",
+    "position": "Was too tired to redo the video at 2am, blames a computer glitch not user error"
+   },
+   {
+    "topic": "website work",
+    "position": "Excited about building out a large audiobook/book content website with elaborate page structures"
+   },
+   {
+    "topic": "million-page template concept",
+    "position": "Enthusiastic about an ambitious vision for a hierarchical book template system"
+   },
+   {
+    "topic": "car pickup",
+    "position": "Deliberately waiting until Monday rather than picking it up over the weekend"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Strava",
+   "Google Earth",
+   "Adobe Premiere",
+   "Mahabharata",
+   "Kildo",
+   "Malibu Luxe"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.43,
+   "end": 5.43,
+   "text": "Hello living in Boulder, be looked for the 24th, it's 1154 at night."
+  },
+  {
+   "start": 5.43,
+   "end": 7.43,
+   "text": "I"
+  },
+  {
+   "start": 7.43,
+   "end": 8.43,
+   "text": "I"
+  },
+  {
+   "start": 8.43,
+   "end": 13.43,
+   "text": "I didn't upload it on yesterday because I reported it and I uploaded it and there was no sound."
+  },
+  {
+   "start": 13.43,
+   "end": 18.43,
+   "text": "So maybe that is something to do with, I made an extra wide to show the side."
+  },
+  {
+   "start": 18.43,
+   "end": 19.43,
+   "text": "I don't know."
+  },
+  {
+   "start": 19.43,
+   "end": 21.43,
+   "text": "I think I'll use the same background here to you."
+  },
+  {
+   "start": 21.43,
+   "end": 22.43,
+   "text": "I'll get the background."
+  },
+  {
+   "start": 22.43,
+   "end": 24.43,
+   "text": "Okay, so this background is strong."
+  },
+  {
+   "start": 24.43,
+   "end": 27.43,
+   "text": "This one, this one, this one I did this last night when I computer was acting worried"
+  },
+  {
+   "start": 27.43,
+   "end": 28.43,
+   "text": "and I crashed."
+  },
+  {
+   "start": 28.43,
+   "end": 32.43,
+   "text": "I was going to do a print around on Boulder, it's just sections around Boulder but I'm showing all"
+  },
+  {
+   "start": 32.43,
+   "end": 39.43,
+   "text": "different style of sections so you can see how I'm clicking on clicking on the different folders."
+  },
+  {
+   "start": 39.43,
+   "end": 50.43,
+   "text": "You know, I have different sports running mountain biking, road biking, cycle across mountain climbing,"
+  },
+  {
+   "start": 51.43,
+   "end": 62.43,
+   "text": "and yeah, and I don't think I have all of them now, but yeah, I'll do a video about that later though."
+  },
+  {
+   "start": 62.43,
+   "end": 66.43,
+   "text": "So from my video, I was pretty sure."
+  },
+  {
+   "start": 66.43,
+   "end": 75.34,
+   "text": "So yesterday I was just saying I was working on a good notebook, I mean, I know free audio history books,"
+  },
+  {
+   "start": 75.34,
+   "end": 81.34,
+   "text": "which was my whole website was a nice, I didn't realize how bad it was but I made it look pretty,"
+  },
+  {
+   "start": 81.34,
+   "end": 86.34,
+   "text": "and I'll go back later and fix the links on it but just you have to just make it all look pretty."
+  },
+  {
+   "start": 86.34,
+   "end": 88.34,
+   "text": "So I know what my website looks like."
+  },
+  {
+   "start": 88.34,
+   "end": 93.34,
+   "text": "And then today I'm working on the history and not on the education page and then the Google page."
+  },
+  {
+   "start": 93.34,
+   "end": 98.34,
+   "text": "Yeah, just adding words, just about to start adding words, that's going to be fun."
+  },
+  {
+   "start": 98.34,
+   "end": 101.34,
+   "text": "So yeah, I'm doing a lot."
+  },
+  {
+   "start": 102.34,
+   "end": 113.34,
+   "text": "Oh, I felt dead. I have almost 500,000 words, I mean almost 500,000 pages of books, audio books."
+  },
+  {
+   "start": 113.34,
+   "end": 119.34,
+   "text": "On my list of the contents of the books between Kildo and Malibu Luxe."
+  },
+  {
+   "start": 119.34,
+   "end": 126.34,
+   "text": "And what's actually on my pages over a thousand pages, just on the chapter contents that I made."
+  },
+  {
+   "start": 126.34,
+   "end": 131.34,
+   "text": "Yeah, I'm on the process right now figuring out how many pages in that website actually has."
+  },
+  {
+   "start": 131.34,
+   "end": 136.34,
+   "text": "And it actually did that. So that's what we can forward to that."
+  },
+  {
+   "start": 136.34,
+   "end": 141.34,
+   "text": "Yeah, I'm tying it all up and it's going to be fun."
+  },
+  {
+   "start": 141.34,
+   "end": 142.34,
+   "text": "Oh, yeah."
+  },
+  {
+   "start": 142.34,
+   "end": 144.34,
+   "text": "It's going by quickly."
+  },
+  {
+   "start": 144.34,
+   "end": 147.34,
+   "text": "Hmm."
+  },
+  {
+   "start": 147.34,
+   "end": 153.34,
+   "text": "Yes, yesterday the sound didn't go up. I don't know why computer is disacting weird."
+  },
+  {
+   "start": 153.34,
+   "end": 160.34,
+   "text": "I was going to cancel the upload because I found out before it was an effort to, I did the video like two in the morning."
+  },
+  {
+   "start": 160.34,
+   "end": 163.34,
+   "text": "I didn't want it morning. And I was like, I don't know, this is two in the morning."
+  },
+  {
+   "start": 163.34,
+   "end": 165.34,
+   "text": "It was just too tired."
+  },
+  {
+   "start": 165.34,
+   "end": 171.34,
+   "text": "I guess I was just thinking clearly not to stop the upload, but they're just too tired to redo it. The whole thing."
+  },
+  {
+   "start": 171.34,
+   "end": 179.34,
+   "text": "But yeah, I'm not so tired now. If you go back and work some more on some type of videos through the Google."
+  },
+  {
+   "start": 180.34,
+   "end": 181.34,
+   "text": "Should we do you for exciting?"
+  },
+  {
+   "start": 183.34,
+   "end": 185.34,
+   "text": "I made a thought of another cool page."
+  },
+  {
+   "start": 185.34,
+   "end": 194.34,
+   "text": "I want to do a page that's like a template for books for other books I want to make or something like what he also wants to use my design to put books on."
+  },
+  {
+   "start": 194.34,
+   "end": 197.34,
+   "text": "But you can make one for a thought, 1000 page book."
+  },
+  {
+   "start": 197.34,
+   "end": 201.34,
+   "text": "You just have the five columns across."
+  },
+  {
+   "start": 202.34,
+   "end": 209.34,
+   "text": "And each column would have it's a 100, a chapter with a 100 pages in it and you can go to each page."
+  },
+  {
+   "start": 209.34,
+   "end": 212.34,
+   "text": "So it's just a chapter with 100."
+  },
+  {
+   "start": 212.34,
+   "end": 219.34,
+   "text": "And there, going like on my Mahabharata pages, five across, you know, so two rows."
+  },
+  {
+   "start": 223.34,
+   "end": 225.34,
+   "text": "And so that's 10, right?"
+  },
+  {
+   "start": 225.34,
+   "end": 228.34,
+   "text": "And 110,000, 100,000."
+  },
+  {
+   "start": 228.34,
+   "end": 231.34,
+   "text": "And so then you just do another one of those."
+  },
+  {
+   "start": 231.34,
+   "end": 236.34,
+   "text": "Well, that's the one that you would use is the template, but that you could imagine a million words a million pages."
+  },
+  {
+   "start": 236.34,
+   "end": 239.34,
+   "text": "Because each one of those would be a song book."
+  },
+  {
+   "start": 239.34,
+   "end": 241.34,
+   "text": "That's a thousand."
+  },
+  {
+   "start": 241.34,
+   "end": 252.34,
+   "text": "I'll explain it later, but that's a quite a vision of a million pages."
+  },
+  {
+   "start": 252.34,
+   "end": 257.34,
+   "text": "And in that million pages, it would be a thought of billion characters."
+  },
+  {
+   "start": 257.34,
+   "end": 263.34,
+   "text": "So anyways, that was on there's some other pages I want to do too."
+  },
+  {
+   "start": 263.34,
+   "end": 267.34,
+   "text": "But yeah, we ended all together."
+  },
+  {
+   "start": 267.34,
+   "end": 274.34,
+   "text": "Yeah, I wanted to redo the video yesterday, but the premiere was crashed on me."
+  },
+  {
+   "start": 274.34,
+   "end": 276.34,
+   "text": "And so I couldn't read back."
+  },
+  {
+   "start": 276.34,
+   "end": 278.34,
+   "text": "It was just there and wouldn't come up."
+  },
+  {
+   "start": 278.34,
+   "end": 280.34,
+   "text": "So I had to shut it down and I lost it."
+  },
+  {
+   "start": 280.34,
+   "end": 281.34,
+   "text": "I lost the project."
+  },
+  {
+   "start": 281.34,
+   "end": 283.34,
+   "text": "I mean, I had to do files."
+  },
+  {
+   "start": 283.34,
+   "end": 286.34,
+   "text": "I could have brought them back on, but it took like an hour to render."
+  },
+  {
+   "start": 286.34,
+   "end": 288.34,
+   "text": "Because it can be a result of me so slow."
+  },
+  {
+   "start": 288.34,
+   "end": 295.34,
+   "text": "My computer, not just crashing from recording the Google Earth, but also when I was recording myself."
+  },
+  {
+   "start": 295.34,
+   "end": 297.34,
+   "text": "I couldn't see myself because it was slow."
+  },
+  {
+   "start": 297.34,
+   "end": 300.34,
+   "text": "So the lesson from last night was restarted the computer."
+  },
+  {
+   "start": 300.34,
+   "end": 301.34,
+   "text": "But it's actually slow."
+  },
+  {
+   "start": 301.34,
+   "end": 302.34,
+   "text": "We start to appear."
+  },
+  {
+   "start": 302.34,
+   "end": 307.34,
+   "text": "So I think it didn't have sound because of a glitch because it was just over a while under something."
+  },
+  {
+   "start": 307.34,
+   "end": 310.34,
+   "text": "Not because of something I did because I tested the sound."
+  },
+  {
+   "start": 310.34,
+   "end": 312.34,
+   "text": "Anyways, anyways."
+  },
+  {
+   "start": 312.34,
+   "end": 313.34,
+   "text": "So it was okay."
+  },
+  {
+   "start": 313.34,
+   "end": 314.34,
+   "text": "So tomorrow."
+  },
+  {
+   "start": 315.34,
+   "end": 317.34,
+   "text": "Yeah, they call. They have my car ready, but I'm not."
+  },
+  {
+   "start": 317.34,
+   "end": 318.34,
+   "text": "I didn't pick it up."
+  },
+  {
+   "start": 318.34,
+   "end": 319.34,
+   "text": "Thanks. It's so slow."
+  },
+  {
+   "start": 321.34,
+   "end": 322.34,
+   "text": "Hmm."
+  },
+  {
+   "start": 322.34,
+   "end": 324.34,
+   "text": "So I'm just going to go through the weekend working on my voice."
+  },
+  {
+   "start": 324.34,
+   "end": 325.34,
+   "text": "I'm sort of nervous stuff so fast."
+  },
+  {
+   "start": 325.34,
+   "end": 328.34,
+   "text": "And then I'm Monday. I'll call you to come back and I'll go focus on some."
+  },
+  {
+   "start": 328.34,
+   "end": 330.34,
+   "text": "And then I was like, I'll call them."
+  },
+  {
+   "start": 330.34,
+   "end": 335.34,
+   "text": "Which I think will help me so the car make me look cooler."
+  },
+  {
+   "start": 335.34,
+   "end": 336.34,
+   "text": "Okay."
+  },
+  {
+   "start": 336.34,
+   "end": 338.34,
+   "text": "So that's enough talking."
+  },
+  {
+   "start": 338.34,
+   "end": 341.34,
+   "text": "There's the video that I made for just about six minutes."
+  },
+  {
+   "start": 341.34,
+   "end": 343.34,
+   "text": "I forgot to look exactly."
+  },
+  {
+   "start": 343.34,
+   "end": 344.34,
+   "text": "Okay."
+  }
+ ]
+}

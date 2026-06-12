@@ -1,0 +1,561 @@
+{
+ "youtube_id": "T4qZDtEihz8",
+ "title": "I figured out how to multitask riding and running inside (which I  needed) w/ Timeline testing",
+ "url": "https://youtu.be/T4qZDtEihz8",
+ "published_at": "2025-01-31",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle describes a breakthrough: he can study his visual history timeline tests (a website he built covering 500 years of English history with 150 items) while riding his stationary bike or running on a treadmill, using simple button presses on a laptop trackpad. This solves his previous lack of motivation to exercise, since visual learning had been the one thing he couldn't do while working out. He also briefly outlines his broader goals of passing these tests on YouTube to attract sponsorship as a 'professional intellectual/athlete.'",
+  "speaker": "kyle",
+  "topics": [
+   "exercise motivation",
+   "visual learning while exercising",
+   "history timeline website",
+   "multitasking",
+   "personal goals",
+   "job search",
+   "intellectual athleticism"
+  ],
+  "stances": [
+   {
+    "topic": "exercising",
+    "position": "Had no motivation to exercise because auditory learning could be done anytime, but visual learning on the bike solves that"
+   },
+   {
+    "topic": "multitasking learning and exercise",
+    "position": "Riding a bike or treadmill while studying a visual timeline is ideal; weights and swimming don't work"
+   },
+   {
+    "topic": "history memorization",
+    "position": "Memorizing his timeline (England 1500–2000, 150 items) is a goal that can prove his intellectual performance and attract financial sponsorship"
+   },
+   {
+    "topic": "open source collaboration",
+    "position": "Welcomes others to contribute code to his timeline website"
+   }
+  ],
+  "entities": [
+   "England",
+   "Rome"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.33,
+   "end": 11.71,
+   "text": "Hello, I just had an MBT, an MBT, major breakthrough at the MBT, so that's cool, and I'll explain"
+  },
+  {
+   "start": 11.71,
+   "end": 16.87,
+   "text": "To you what that is, so, yeah, I'm here trying to get caught up in my life and gather everything"
+  },
+  {
+   "start": 16.87,
+   "end": 28.61,
+   "text": "And retool everything, I had a, I'm trying to get a job and I had a relapse into my website,"
+  },
+  {
+   "start": 28.61,
+   "end": 37.69,
+   "text": "And so today I was looking through, you know, I got around to scrolling through my timeline"
+  },
+  {
+   "start": 37.69,
+   "end": 48.79,
+   "text": "And to do a, for England for 1500 to 2000, and I was to do a, to look at it, to really"
+  },
+  {
+   "start": 48.79,
+   "end": 55.27,
+   "text": "Look at it, because I need to memorize it, that's like one of my goals, so that I can"
+  },
+  {
+   "start": 55.27,
+   "end": 61.07,
+   "text": "Get help, financial help, if I can memorize it, I can prove that I'm performing, and I'll"
+  },
+  {
+   "start": 61.07,
+   "end": 65.45,
+   "text": "Show in just a second, it's 150 things, because it's for 500 years and three different rows,"
+  },
+  {
+   "start": 66.41,
+   "end": 77.88,
+   "text": "I was laying down, I was thinking to myself, okay, this is something that I could do on"
+  },
+  {
+   "start": 77.88,
+   "end": 87.42,
+   "text": "The bike or running, so on the bicycle or treadmill, I've been doing the auditory learning, listening"
+  },
+  {
+   "start": 87.42,
+   "end": 96.64,
+   "text": "To, you know, the podcasts, YouTube, audio books, I'll have text to speech, like for my"
+  },
+  {
+   "start": 96.64,
+   "end": 110.6,
+   "text": "Website, I need to do more of that, mainly audible, but, and that, that, that covers you for so"
+  },
+  {
+   "start": 110.6,
+   "end": 117.18,
+   "text": "Much, you go to the gym, listen to an audio book while you're working out, you know, same"
+  },
+  {
+   "start": 117.18,
+   "end": 123.42,
+   "text": "Thing, even when you're swimming underwater with those earphones, but when it comes to visual"
+  },
+  {
+   "start": 123.42,
+   "end": 134.16,
+   "text": "Learning, that was the thing that was keeping me from exercising, because you can do auditory"
+  },
+  {
+   "start": 134.16,
+   "end": 142.08,
+   "text": "Learning and everything else, so it's like, why would I exercise, because I can do auditory"
+  },
+  {
+   "start": 142.08,
+   "end": 146.74,
+   "text": "Learning every time else, and then the other, every other second of my day, I'm trying to"
+  },
+  {
+   "start": 146.74,
+   "end": 158.5,
+   "text": "Do all my other stuff, right, so I don't have time, but if you, but learning visually, like"
+  },
+  {
+   "start": 158.5,
+   "end": 164.34,
+   "text": "Looking at my, my test here, take, basically taking my history test here, the visual one,"
+  },
+  {
+   "start": 165.52,
+   "end": 177.08,
+   "text": "And also my other bi-weekly history test you could do, but that's, that's something you would,"
+  },
+  {
+   "start": 177.08,
+   "end": 181.56,
+   "text": "You're trying to get an actual score in, you're not studying for it, and so you'd want to sit"
+  },
+  {
+   "start": 181.56,
+   "end": 189.58,
+   "text": "Down and just, just focus on it, but you could kind of study it on this, but it's, it's too"
+  },
+  {
+   "start": 189.58,
+   "end": 194.52,
+   "text": "Many buttons to try to do the bi-weekly where you're clicking around and stuff and studying"
+  },
+  {
+   "start": 194.52,
+   "end": 200.46,
+   "text": "Things, so something that it's just simple buttons, but you're looking at something, is"
+  },
+  {
+   "start": 200.46,
+   "end": 211.06,
+   "text": "This, and so let me show you what this is first, so on my timeline, so here's my timeline on"
+  },
+  {
+   "start": 211.06,
+   "end": 219.52,
+   "text": "My cell phone, and there, so you can get it zoomed up some, so those are the tests for"
+  },
+  {
+   "start": 219.52,
+   "end": 230.68,
+   "text": "England, that's England 500 to, to 2000, and so you know that it's 1500 to 2000, and this"
+  },
+  {
+   "start": 230.68,
+   "end": 235.82,
+   "text": "Is the 1500s, and you know it is, because this is where this ends, they'll line up like"
+  },
+  {
+   "start": 235.82,
+   "end": 242.15,
+   "text": "That, and so you could look at it like this, where it magically takes up the whole cell phone"
+  },
+  {
+   "start": 242.15,
+   "end": 248.19,
+   "text": "Screen, or you could look it up like that, or with, where the hundred years takes up the"
+  },
+  {
+   "start": 248.19,
+   "end": 251.59,
+   "text": "Whole cell phone screen, but now you can see who the king was and stuff, and what's happening"
+  },
+  {
+   "start": 251.59,
+   "end": 256.79,
+   "text": "In the other countries, so it's easier to actually hold the phone when you do it like"
+  },
+  {
+   "start": 256.79,
+   "end": 264.71,
+   "text": "This, but you basically just hit the button, and it takes you down, and then you see if"
+  },
+  {
+   "start": 264.71,
+   "end": 271.33,
+   "text": "It's right, and then you hit the back button, and it takes you back up, right, and so you"
+  },
+  {
+   "start": 271.33,
+   "end": 277.67,
+   "text": "Basically just hit these buttons to check, hit this button, and that's all you have to"
+  },
+  {
+   "start": 277.67,
+   "end": 283.67,
+   "text": "Do, and other than that, you're just looking at this, and it's all visual, and so what I"
+  },
+  {
+   "start": 283.67,
+   "end": 290.53,
+   "text": "Would do is, on the, you could put a computer in front of you, but I even have a TV, so I"
+  },
+  {
+   "start": 290.53,
+   "end": 295.79,
+   "text": "Could attach my computer to the TV, I thought maybe it'd be easier to have my computer than"
+  },
+  {
+   "start": 295.79,
+   "end": 300.91,
+   "text": "The TV, because I can use a trackpad, and I don't have like an external, I don't have"
+  },
+  {
+   "start": 300.91,
+   "end": 308.47,
+   "text": "An external trackpad, trackpad, because the trackpad is right above, I have a time trial"
+  },
+  {
+   "start": 308.47,
+   "end": 316.87,
+   "text": "Bike, and so I have the ear, the handlebars, go up like this, and so as I'm riding and"
+  },
+  {
+   "start": 316.87,
+   "end": 320.37,
+   "text": "Looking at the screen, I can just touch my finger down on the trackpad, just bop, bop,"
+  },
+  {
+   "start": 320.37,
+   "end": 330.84,
+   "text": "Bop, bop, and so I'm there, riding, and I'm concentrating as hard as I can, but I'm not"
+  },
+  {
+   "start": 330.84,
+   "end": 338.18,
+   "text": "Concentrating on like, I'm only concentrating on learning the thing, and so I can, I have"
+  },
+  {
+   "start": 338.18,
+   "end": 343.72,
+   "text": "Enough extra concentration to ride the bike, it's not like I'll stop riding, and then if"
+  },
+  {
+   "start": 343.72,
+   "end": 352.55,
+   "text": "I get frustrated, like you can even listen to music, and you can even, you can even triple"
+  },
+  {
+   "start": 352.55,
+   "end": 358.85,
+   "text": "Task, multitask, and listen, maybe even listen to an audio book as you're taking the test,"
+  },
+  {
+   "start": 358.93,
+   "end": 362.51,
+   "text": "You know, because you're just studying, you're just studying for the test so you can pass"
+  },
+  {
+   "start": 362.51,
+   "end": 370.77,
+   "text": "It, so that works perfectly for the bike, for me that gives me a reason to do it on"
+  },
+  {
+   "start": 370.77,
+   "end": 382.24,
+   "text": "The bike, because, because I don't have a reason, you know, to exercise at all, and"
+  },
+  {
+   "start": 382.24,
+   "end": 386.08,
+   "text": "That's like bad, I'm getting older, and that could get me back in shape, riding the"
+  },
+  {
+   "start": 386.08,
+   "end": 390.46,
+   "text": "Bike, and then I, and then that would motivate me to exercise and other things, because I've"
+  },
+  {
+   "start": 390.46,
+   "end": 397.32,
+   "text": "Had this sense of accomplishment from learning this, and so, and it also works for, like it"
+  },
+  {
+   "start": 397.32,
+   "end": 401.96,
+   "text": "Doesn't work for lifting weights, because you have to, you have to use your hands, you know,"
+  },
+  {
+   "start": 402.32,
+   "end": 407.54,
+   "text": "Like if you could have somebody hold a computer screen and touch the buttons for you, maybe"
+  },
+  {
+   "start": 407.54,
+   "end": 411.76,
+   "text": "It would, but, but you have to concentrate on counting your reps though too, so you wouldn't"
+  },
+  {
+   "start": 411.76,
+   "end": 416.16,
+   "text": "Be able to do it lifting weights, you can't do it swimming, because there's no like screens"
+  },
+  {
+   "start": 416.16,
+   "end": 420.32,
+   "text": "That follow you, below you in the pool, and you can't push the buttons, but it works great"
+  },
+  {
+   "start": 420.32,
+   "end": 427.74,
+   "text": "Bikes, and it also works great on the treadmill, because, because you can run and easily just"
+  },
+  {
+   "start": 427.74,
+   "end": 432.2,
+   "text": "Reach up and push a button, you know, or run and move the mouse just to one thing, and"
+  },
+  {
+   "start": 432.2,
+   "end": 438.86,
+   "text": "So, yeah, I'm excited, I'm gonna try to, I'm gonna start writing and treadmilling, because"
+  },
+  {
+   "start": 438.86,
+   "end": 448.98,
+   "text": "The way that, the way that part of my whole like life goal is my timeline, but I have to"
+  },
+  {
+   "start": 448.98,
+   "end": 456.92,
+   "text": "Sell it, like for money, just to foundations, people to help me get going, so that I can"
+  },
+  {
+   "start": 456.92,
+   "end": 466.21,
+   "text": "Make it a, make it catch on for society, and so the idea is that I would deserve money,"
+  },
+  {
+   "start": 466.45,
+   "end": 472.95,
+   "text": "And this is, deserves an idea, when I do this, like when I prove, so I, and I have other tests"
+  },
+  {
+   "start": 472.95,
+   "end": 479.87,
+   "text": "Too that I'll talk about after this real quickly, but, so this is 150, that's just 500, I mean,"
+  },
+  {
+   "start": 479.89,
+   "end": 491.48,
+   "text": "That's just 100 years, this is the whole thing, so that's the whole thing, and that's 150 of"
+  },
+  {
+   "start": 491.48,
+   "end": 497.2,
+   "text": "Those, so, because it's three rows across, as you can see, red on top for wars, blue in"
+  },
+  {
+   "start": 497.2,
+   "end": 504.54,
+   "text": "The middle for science, and then culture in brown, maroon on the bottom, and so it's 30"
+  },
+  {
+   "start": 504.54,
+   "end": 512.12,
+   "text": "Per, per century, so it's 150 of them, and so as soon as I can touch the button, and I"
+  },
+  {
+   "start": 512.12,
+   "end": 515.32,
+   "text": "Can guess, I can go, okay, so that button is, and then, and then you touch it, and you"
+  },
+  {
+   "start": 515.32,
+   "end": 522.68,
+   "text": "Guess, and you run through the whole 150, and you get all of them correct, then you"
+  },
+  {
+   "start": 522.68,
+   "end": 527.04,
+   "text": "Pass, and then on your cue card that takes you to the pages, which I was talking about"
+  },
+  {
+   "start": 527.04,
+   "end": 533.44,
+   "text": "Yesterday, and I'll do this as a separate video later, my cue card idea, you could mark"
+  },
+  {
+   "start": 533.44,
+   "end": 539.34,
+   "text": "In the white, white dot below it, you mark as red, so now you're certified in England for"
+  },
+  {
+   "start": 539.34,
+   "end": 544.9,
+   "text": "1,500 to 2,000, the other test would be the bi-weekly history test, where it gives you"
+  },
+  {
+   "start": 544.9,
+   "end": 550.26,
+   "text": "A, for zero to 2,000, it gives you a random number, you know, like a 56, that would be"
+  },
+  {
+   "start": 550.26,
+   "end": 556.88,
+   "text": "The 550s, and you, so then you have to get, say all the things that happen in the 550s,"
+  },
+  {
+   "start": 556.88,
+   "end": 560.6,
+   "text": "And then you have one minute to do it, and so you do 60 of it an hour, and then you grade"
+  },
+  {
+   "start": 560.6,
+   "end": 565.42,
+   "text": "Yourself, studying for that is, that's the other test, and then the other, the other test"
+  },
+  {
+   "start": 565.42,
+   "end": 570.68,
+   "text": "Would be book reviews, you read a book, and then you talk about it for like an hour afterwards,"
+  },
+  {
+   "start": 570.84,
+   "end": 576.8,
+   "text": "After every book you do, so that would be like the three ways on YouTube to show your"
+  },
+  {
+   "start": 576.8,
+   "end": 582.66,
+   "text": "Intelligence, and then to get sponsored by a rich person, or the government, once the"
+  },
+  {
+   "start": 582.66,
+   "end": 587.78,
+   "text": "Government has the money, to be a professional, intellectual, slash athlete, because I'm going"
+  },
+  {
+   "start": 587.78,
+   "end": 591.58,
+   "text": "To throw athletes and athletics into it, because the training of it involves running"
+  },
+  {
+   "start": 591.58,
+   "end": 600.6,
+   "text": "And riding with the visual, so as soon as I, as soon as I, um, pass this test from the"
+  },
+  {
+   "start": 600.6,
+   "end": 606.26,
+   "text": "Riding, because now I have reason to run and ride, it's awesome, um, because I'm at a point"
+  },
+  {
+   "start": 606.26,
+   "end": 609.98,
+   "text": "In my life right now, like where there's all this stuff I can do on my website, but I have"
+  },
+  {
+   "start": 609.98,
+   "end": 614.92,
+   "text": "To get a job first, so I'm, I'm like not rushing anything, and so I'm going to be able to focus"
+  },
+  {
+   "start": 614.92,
+   "end": 622.32,
+   "text": "On this, because I need to get in shape, but, um, so, uh, once I, once I pass this one though,"
+  },
+  {
+   "start": 622.36,
+   "end": 626.08,
+   "text": "I'm going to build another one, and it is kind of open source, that people are welcome"
+  },
+  {
+   "start": 626.08,
+   "end": 630.56,
+   "text": "To help me build this site, they just copy whatever they need, and then they just paste"
+  },
+  {
+   "start": 630.56,
+   "end": 635.18,
+   "text": "To me the code, and I pop it on, and I'll, I'll try to organize that later, but, um, I'm"
+  },
+  {
+   "start": 635.18,
+   "end": 640.86,
+   "text": "Going to try to build it for another country, and another five, ten year period, you know,"
+  },
+  {
+   "start": 640.86,
+   "end": 645.66,
+   "text": "So I think I'll do, like, uh, Rome, from zero to five hundred, because I already have"
+  },
+  {
+   "start": 645.66,
+   "end": 651.24,
+   "text": "The kings up there, and stuff, and so I'll add those three rows, and add the images to"
+  },
+  {
+   "start": 651.24,
+   "end": 656.44,
+   "text": "It, and then pass it, and then, um, or, or add it to it, and then I study, and that's"
+  },
+  {
+   "start": 656.44,
+   "end": 661.22,
+   "text": "When I'm riding, and running, and riding, and running, until I pass it, so, it, it,"
+  },
+  {
+   "start": 661.22,
+   "end": 666.78,
+   "text": "Compliment's perfect, so, I'm super excited about that, so anyways, that's that video,"
+  },
+  {
+   "start": 666.84,
+   "end": 670.44,
+   "text": "I didn't want to take too long, tomorrow, or whenever, I'll, I'll talk about my"
+  },
+  {
+   "start": 670.44,
+   "end": 676.04,
+   "text": "Cue cards, I have cue cards that, um, you, uh, you zoom over them, and you can download"
+  },
+  {
+   "start": 676.04,
+   "end": 688.32,
+   "text": "Google Earth, uh, takes you to, uh, webpages, certain parts of webpages, um, um, and, uh,"
+  },
+  {
+   "start": 689.0,
+   "end": 693.5,
+   "text": "Audio books, and everything, so, okay, talk to you tomorrow, later."
+  }
+ ]
+}

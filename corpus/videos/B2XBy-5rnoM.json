@@ -1,0 +1,180 @@
+{
+ "youtube_id": "B2XBy-5rnoM",
+ "title": "Living in Boulder Vlog 1 - 9 - 2017",
+ "url": "https://youtu.be/B2XBy-5rnoM",
+ "published_at": "2017-01-09",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle shares a brief daily vlog from Boulder on January 9, 2017, recounting his sleep troubles from skipping a shower, his productive day working on a bike racer level page he feels close to finishing, and his excitement about starting a new history podcast on the fall of the Roman Empire.",
+  "speaker": "kyle",
+  "topics": [
+   "daily routine",
+   "sleep",
+   "coding/web project",
+   "podcast",
+   "marijuana"
+  ],
+  "stances": [
+   {
+    "topic": "personal hygiene and sleep",
+    "position": "Must be completely clean to sleep well — skipping a shower noticeably disrupted his rest"
+   },
+   {
+    "topic": "bike racer level page project",
+    "position": "Excited and motivated; believes he can finish it in about a week"
+   },
+   {
+    "topic": "history podcasts",
+    "position": "Enthusiastic about history as a new genre; wants to explore more historical podcasts and films"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Roman Empire (podcast topic)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.17,
+   "end": 10.95,
+   "text": "Hello, living in Boulder V-Log for January 9th, 2017."
+  },
+  {
+   "start": 13.19,
+   "end": 20.85,
+   "text": "Yesterday, I got just, oh yeah, was it yesterday that I got too tired?"
+  },
+  {
+   "start": 20.97,
+   "end": 25.31,
+   "text": "I was working until like 8 and then I got too tired to go down to the clubhouse and take a shower."
+  },
+  {
+   "start": 25.89,
+   "end": 29.65,
+   "text": "So I jumped in bed and that was a bad idea because I didn't sleep right."
+  },
+  {
+   "start": 30.59,
+   "end": 34.85,
+   "text": "If I'm not perfectly clean, man, I don't sleep right. I have to be totally clean."
+  },
+  {
+   "start": 37.63,
+   "end": 40.61,
+   "text": "So yeah, I didn't make that mistake today. I just got back from the shower."
+  },
+  {
+   "start": 40.83,
+   "end": 43.27,
+   "text": "It's 6.42 in the morning now."
+  },
+  {
+   "start": 44.99,
+   "end": 51.29,
+   "text": "I got up at like 1 or something or 2. I think it was 2."
+  },
+  {
+   "start": 53.03,
+   "end": 57.93,
+   "text": "And then, yeah, I was just working all day long. I was printing and doing photos."
+  },
+  {
+   "start": 57.93,
+   "end": 66.33,
+   "text": "But mainly, my bike racer level page, I was looking at fixing stuff on that all day long."
+  },
+  {
+   "start": 66.41,
+   "end": 72.15,
+   "text": "And it's all just totally easy and going by really fast."
+  },
+  {
+   "start": 72.15,
+   "end": 81.27,
+   "text": "I remember when I abandoned it, knowing that I didn't have that much longer to go and I feel like that."
+  },
+  {
+   "start": 81.59,
+   "end": 89.63,
+   "text": "I feel like I can, I'm actually fired up to go at least a week on it because I feel like I could finish it in just maybe a week."
+  },
+  {
+   "start": 89.63,
+   "end": 92.75,
+   "text": "So, yeah, it's super exciting."
+  },
+  {
+   "start": 93.63,
+   "end": 96.05,
+   "text": "And it's, yeah, it's the appropriate time to do it. I should work on it."
+  },
+  {
+   "start": 96.55,
+   "end": 98.05,
+   "text": "Yeah, it definitely deserves the whole week."
+  },
+  {
+   "start": 101.23,
+   "end": 103.47,
+   "text": "So, yeah, I'll probably go to sleep pretty soon."
+  },
+  {
+   "start": 103.71,
+   "end": 108.99,
+   "text": "I was listening to, oh, I got started on a new podcast."
+  },
+  {
+   "start": 111.07,
+   "end": 113.31,
+   "text": "History, the fall of Roman Empire."
+  },
+  {
+   "start": 113.31,
+   "end": 116.23,
+   "text": "And it's not that long until I got like 10 episodes."
+  },
+  {
+   "start": 116.47,
+   "end": 119.55,
+   "text": "Yeah, I want to do all of the different historical podcasts."
+  },
+  {
+   "start": 119.87,
+   "end": 121.05,
+   "text": "It's a new genre for me."
+  },
+  {
+   "start": 122.03,
+   "end": 125.81,
+   "text": "And, yeah, and I noticed there's a lot of cool historical movies too, so I want to watch those."
+  },
+  {
+   "start": 126.05,
+   "end": 130.49,
+   "text": "It's a, I feel like Christmas, all this new stuff for me."
+  },
+  {
+   "start": 131.97,
+   "end": 138.07,
+   "text": "Um, so, um, I'm really high right now."
+  },
+  {
+   "start": 138.17,
+   "end": 139.05,
+   "text": "Just got really high."
+  },
+  {
+   "start": 140.23,
+   "end": 142.53,
+   "text": "But I don't have anything else to say."
+  },
+  {
+   "start": 143.31,
+   "end": 146.65,
+   "text": "So, peace out."
+  }
+ ]
+}

@@ -1,0 +1,690 @@
+{
+ "youtube_id": "oHayRgXDxtc",
+ "title": "5/10/19 Ran 1.5 Miles, rode like 5 Miles, did errands, History of Ireland video, castles on timeline",
+ "url": "https://youtu.be/oHayRgXDxtc",
+ "published_at": "2019-05-11",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle discusses his daily activities including running 1.5 miles to his mom's house to get his bike, doing errands, and working on his castle timeline project for his website which is approaching 100,000 monthly page views.",
+  "speaker": "kyle",
+  "topics": [
+   "exercise",
+   "running",
+   "biking",
+   "website development",
+   "castle timeline project",
+   "weather",
+   "future plans",
+   "Amazon history"
+  ],
+  "stances": [
+   {
+    "topic": "exercise priority",
+    "position": "Exercise comes before website work from now on"
+   },
+   {
+    "topic": "website monetization",
+    "position": "Wants to reach 100k page views to qualify for Ad Thrive"
+   },
+   {
+    "topic": "copyright",
+    "position": "Will take Chinese pyramid photos since China takes US copyrighted content"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "mom",
+   "Apple Watch",
+   "Sunitas",
+   "Red Rocks Hill",
+   "Ebbinge Fine Park",
+   "Green Mountain",
+   "Bear Mountain",
+   "South Boulder Peak",
+   "Google Earth",
+   "Ad Thrive",
+   "Ireland",
+   "Amazon",
+   "London"
+  ],
+  "date": "2019-05-10",
+  "model": "anthropic/claude-sonnet-4"
+ },
+ "transcript": [
+  {
+   "start": 0.21,
+   "end": 1.61,
+   "text": "Hello, whoa, uh-oh."
+  },
+  {
+   "start": 3.43,
+   "end": 4.93,
+   "text": "Hello, Living in Boulder Vlog."
+  },
+  {
+   "start": 5.11,
+   "end": 10.25,
+   "text": "I think I'm going to go ahead and just do Living in Boulder Vlog on my main channel, maybe, from now on."
+  },
+  {
+   "start": 10.77,
+   "end": 16.19,
+   "text": "Instead of just training, because now it's kind of like everything."
+  },
+  {
+   "start": 16.93,
+   "end": 21.91,
+   "text": "And I have a more interesting life now than just sitting around on the computer all the time doing stuff."
+  },
+  {
+   "start": 22.83,
+   "end": 29.89,
+   "text": "So yeah, today I was thinking about, I wanted to ride my bike on the inside and work on my computer all day long."
+  },
+  {
+   "start": 30.63,
+   "end": 33.51,
+   "text": "Doing these castles, getting going on the timeline again."
+  },
+  {
+   "start": 34.39,
+   "end": 40.97,
+   "text": "I'm kind of realizing I can do a lot with my timeline in not as much time as I thought with these castles."
+  },
+  {
+   "start": 41.21,
+   "end": 43.23,
+   "text": "It's time I do it."
+  },
+  {
+   "start": 44.23,
+   "end": 46.35,
+   "text": "So I got up at like 11.30."
+  },
+  {
+   "start": 46.55,
+   "end": 48.69,
+   "text": "I think I had a little bit of insomnia last night."
+  },
+  {
+   "start": 49.07,
+   "end": 52.25,
+   "text": "And then I ran to my mom's house because she had my bike."
+  },
+  {
+   "start": 52.93,
+   "end": 55.07,
+   "text": "And so that was a mile and a half."
+  },
+  {
+   "start": 55.69,
+   "end": 58.37,
+   "text": "It's a mile as a crow flies, but a mile and a half."
+  },
+  {
+   "start": 58.69,
+   "end": 59.87,
+   "text": "And I ran better."
+  },
+  {
+   "start": 60.05,
+   "end": 61.27,
+   "text": "I was running 11."
+  },
+  {
+   "start": 62.43,
+   "end": 63.13,
+   "text": "I mean, I'm sorry."
+  },
+  {
+   "start": 63.19,
+   "end": 65.27,
+   "text": "I was running like a 1205 mile."
+  },
+  {
+   "start": 65.43,
+   "end": 66.53,
+   "text": "That's what my Apple Watch said."
+  },
+  {
+   "start": 67.01,
+   "end": 69.81,
+   "text": "Apple Watch still can't communicate with the phone."
+  },
+  {
+   "start": 69.91,
+   "end": 70.31,
+   "text": "It's so weird."
+  },
+  {
+   "start": 70.39,
+   "end": 72.23,
+   "text": "I'm going to call Apple and ask them what the hell."
+  },
+  {
+   "start": 73.13,
+   "end": 75.81,
+   "text": "But yeah, I managed to run."
+  },
+  {
+   "start": 75.89,
+   "end": 77.75,
+   "text": "My calves are blown to hell."
+  },
+  {
+   "start": 78.47,
+   "end": 80.39,
+   "text": "And then I got my bike and I did some errands."
+  },
+  {
+   "start": 80.39,
+   "end": 97.33,
+   "text": "I went down to town and I got, well, I went back home on my bike and I wanted to put my triathlon aero bars on my bike right there to ride on the inside because that's the way that you do a mouse."
+  },
+  {
+   "start": 97.33,
+   "end": 101.99,
+   "text": "You hold, you get your hands on the triathlon bars."
+  },
+  {
+   "start": 102.11,
+   "end": 105.21,
+   "text": "And then in one hand, you hold the trackball mouse."
+  },
+  {
+   "start": 106.07,
+   "end": 109.01,
+   "text": "And with the computer right in front of you, you can just worky, worky."
+  },
+  {
+   "start": 109.17,
+   "end": 110.83,
+   "text": "And then if you have to hit a button, you just hit it."
+  },
+  {
+   "start": 110.89,
+   "end": 114.67,
+   "text": "It's right there on the table, on the table right in front of me."
+  },
+  {
+   "start": 115.13,
+   "end": 118.31,
+   "text": "I'll do a demo of my setup tomorrow probably."
+  },
+  {
+   "start": 119.47,
+   "end": 121.03,
+   "text": "And it works great, man."
+  },
+  {
+   "start": 121.27,
+   "end": 123.17,
+   "text": "Like, back in January, I was doing it."
+  },
+  {
+   "start": 123.27,
+   "end": 126.69,
+   "text": "I was riding 100 miles a day and working the whole time."
+  },
+  {
+   "start": 127.95,
+   "end": 130.23,
+   "text": "So, yeah, I was going to do that today."
+  },
+  {
+   "start": 130.43,
+   "end": 135.43,
+   "text": "But with this new bike, I had to put the aero bars on and the screws weren't long enough."
+  },
+  {
+   "start": 135.51,
+   "end": 136.67,
+   "text": "So that was one of my errands."
+  },
+  {
+   "start": 136.91,
+   "end": 142.73,
+   "text": "One of my errands was to get a long Ethernet cable so I didn't have to step over it and under it."
+  },
+  {
+   "start": 142.73,
+   "end": 144.99,
+   "text": "So I got that Ethernet cable right yonder."
+  },
+  {
+   "start": 145.87,
+   "end": 147.19,
+   "text": "So I got a 25-footer."
+  },
+  {
+   "start": 147.25,
+   "end": 148.95,
+   "text": "So now that makes my life a lot easier."
+  },
+  {
+   "start": 149.15,
+   "end": 153.83,
+   "text": "And then I got the four extra, or actually six to get extra so I don't lose one,"
+  },
+  {
+   "start": 153.95,
+   "end": 162.37,
+   "text": "But really long screws so I can put the aero bars on with big rubber things and stick them on."
+  },
+  {
+   "start": 163.21,
+   "end": 165.65,
+   "text": "And then I got, I did another errand."
+  },
+  {
+   "start": 165.89,
+   "end": 171.97,
+   "text": "I got, oh, yeah, I got a swimming cap from the swimming place because I tore the top of my swimming cap off"
+  },
+  {
+   "start": 171.97,
+   "end": 174.45,
+   "text": "Because I tried to take it off without taking my goggles off first."
+  },
+  {
+   "start": 175.07,
+   "end": 177.71,
+   "text": "The crazy mistakes you make when you're starting out."
+  },
+  {
+   "start": 178.61,
+   "end": 181.71,
+   "text": "Yeah, so I blew a bunch of money on that stuff and then came back."
+  },
+  {
+   "start": 181.75,
+   "end": 184.85,
+   "text": "And by the time I came back, I was like, I had noticed I was tired."
+  },
+  {
+   "start": 184.85,
+   "end": 190.41,
+   "text": "I swam 7,520 meters yesterday and that was enough to make me kind of tired today."
+  },
+  {
+   "start": 191.39,
+   "end": 195.01,
+   "text": "You know, I'm just starting out and it's okay to not overcook yourself."
+  },
+  {
+   "start": 195.91,
+   "end": 197.21,
+   "text": "I mean, I've been gone years."
+  },
+  {
+   "start": 197.51,
+   "end": 198.57,
+   "text": "I've been gone years and years."
+  },
+  {
+   "start": 198.65,
+   "end": 202.19,
+   "text": "It's basically laying in like a coma in bed for like 20 years, you know."
+  },
+  {
+   "start": 202.25,
+   "end": 204.81,
+   "text": "I mean, when was the last time?"
+  },
+  {
+   "start": 204.83,
+   "end": 206.27,
+   "text": "I can't even remember the last time I did anything."
+  },
+  {
+   "start": 207.27,
+   "end": 208.59,
+   "text": "So, yeah."
+  },
+  {
+   "start": 208.89,
+   "end": 212.83,
+   "text": "I mean, I was lifting weights and stretching 10 years ago, but nothing since then, you know."
+  },
+  {
+   "start": 212.91,
+   "end": 218.85,
+   "text": "So, you kind of get, and plus I'm 45, so you got to kind of ratchet it up slowly, you know."
+  },
+  {
+   "start": 218.93,
+   "end": 220.19,
+   "text": "Like I feel febrish now."
+  },
+  {
+   "start": 220.45,
+   "end": 222.73,
+   "text": "Plus it was freaking arctic temperatures today again."
+  },
+  {
+   "start": 222.89,
+   "end": 223.71,
+   "text": "Well, not arctic temperatures."
+  },
+  {
+   "start": 223.73,
+   "end": 224.43,
+   "text": "It was too cold."
+  },
+  {
+   "start": 224.79,
+   "end": 226.21,
+   "text": "I looked in the mountains, it's snow everywhere."
+  },
+  {
+   "start": 226.21,
+   "end": 230.53,
+   "text": "So, I'm like, I don't want to run up in the mountains and slip on some snow or run through mud."
+  },
+  {
+   "start": 231.11,
+   "end": 234.53,
+   "text": "So, tomorrow it's supposed to be, and then the computer said it was raining and it was raining."
+  },
+  {
+   "start": 234.53,
+   "end": 237.77,
+   "text": "So, tomorrow it's supposed to be like not rainy and freezing."
+  },
+  {
+   "start": 238.03,
+   "end": 239.89,
+   "text": "So, tomorrow is the day I'm going to run."
+  },
+  {
+   "start": 239.95,
+   "end": 243.55,
+   "text": "I'm going to get up whenever I get up, probably 11, try to get to sleep as soon as I can at night."
+  },
+  {
+   "start": 244.19,
+   "end": 249.11,
+   "text": "Get up and just run all the along, climb the mountains as I can."
+  },
+  {
+   "start": 249.39,
+   "end": 250.61,
+   "text": "I'll do, I'll start with Sunitas."
+  },
+  {
+   "start": 250.87,
+   "end": 252.49,
+   "text": "I'll probably make it up to the top of Sunitas."
+  },
+  {
+   "start": 252.99,
+   "end": 261.45,
+   "text": "I'll make it up to the top of Red Rocks Hill and then I'll run over the other side."
+  },
+  {
+   "start": 261.45,
+   "end": 263.95,
+   "text": "I'll get to Ebbinge Fine Park and I'll probably be like, ah, let's do it."
+  },
+  {
+   "start": 264.47,
+   "end": 266.85,
+   "text": "And I might make it to the top of Green Mountain."
+  },
+  {
+   "start": 266.95,
+   "end": 268.39,
+   "text": "And if I do that, that's accomplishment."
+  },
+  {
+   "start": 269.05,
+   "end": 272.63,
+   "text": "And if I'm hardcore enough, I'll do Bear Mountain and then South Boulder Peak and run home."
+  },
+  {
+   "start": 272.67,
+   "end": 273.79,
+   "text": "And that'll be a freaking marathon."
+  },
+  {
+   "start": 274.71,
+   "end": 277.31,
+   "text": "So, we'll see if I can or cannot do it."
+  },
+  {
+   "start": 277.31,
+   "end": 285.41,
+   "text": "But, yeah, tomorrow, but I didn't want to ride my bike so much today because that meant that I would be too beat, too extra to run tomorrow."
+  },
+  {
+   "start": 285.47,
+   "end": 288.15,
+   "text": "And I wanted to be on as strong as I could to run tomorrow."
+  },
+  {
+   "start": 288.45,
+   "end": 295.31,
+   "text": "And I wanted to get ahead on my, put a whole day onto my castles."
+  },
+  {
+   "start": 296.07,
+   "end": 299.65,
+   "text": "So, I have North Europe 1,000 to 1,500 castles."
+  },
+  {
+   "start": 299.65,
+   "end": 307.65,
+   "text": "If you click on the, um, the Google Earth of the castles in Ireland, it will take you to the Google Earth location."
+  },
+  {
+   "start": 307.79,
+   "end": 317.91,
+   "text": "And if you click on the flicker of all of them on the North Europe 1,500, you will see, uh, the image of, uh, flicker."
+  },
+  {
+   "start": 318.03,
+   "end": 318.89,
+   "text": "So, yeah."
+  },
+  {
+   "start": 319.17,
+   "end": 320.37,
+   "text": "So, I got a good ahead."
+  },
+  {
+   "start": 320.45,
+   "end": 322.01,
+   "text": "I got a good start on that."
+  },
+  {
+   "start": 322.01,
+   "end": 331.33,
+   "text": "You know, and now I'm primed to do it on my bike if I want on the inside or, you know, evening on the, uh, on my, uh, on my computer."
+  },
+  {
+   "start": 332.19,
+   "end": 334.27,
+   "text": "You know, I sacrificed stretching to do that."
+  },
+  {
+   "start": 334.33,
+   "end": 339.73,
+   "text": "But, I mean, I can't completely, uh, abandon my website."
+  },
+  {
+   "start": 340.25,
+   "end": 344.07,
+   "text": "I checked analytics and my website's at 82,000 page views a month."
+  },
+  {
+   "start": 344.29,
+   "end": 345.23,
+   "text": "Um, and that's up."
+  },
+  {
+   "start": 345.29,
+   "end": 347.51,
+   "text": "I mean, just last week it said 71, you know."
+  },
+  {
+   "start": 347.51,
+   "end": 351.15,
+   "text": "And I've been stuck in the 70s for, like, a year or whatever."
+  },
+  {
+   "start": 352.01,
+   "end": 358.43,
+   "text": "But the thing is, once I hit a hundred, I can start getting paid because Ad Thrive told me that they want me."
+  },
+  {
+   "start": 358.55,
+   "end": 360.85,
+   "text": "And so, but they have a minimum of a hundred thousand."
+  },
+  {
+   "start": 361.61,
+   "end": 369.05,
+   "text": "Um, but, you know, once I hit to a hundred thousand, that means I also have to look at the surface level and make my website presentable, you know, make it okay to me too."
+  },
+  {
+   "start": 369.73,
+   "end": 377.11,
+   "text": "And I have to take away all the, not all my dimensions page, I only think I live alone, but I have to take away some, like, other photos."
+  },
+  {
+   "start": 377.11,
+   "end": 378.61,
+   "text": "I don't want to get busted for copyright."
+  },
+  {
+   "start": 378.61,
+   "end": 378.75,
+   "text": "Right."
+  },
+  {
+   "start": 381.57,
+   "end": 388.61,
+   "text": "I have, like, Chinese, um, uh, pyramids up there, but I don't think I'm going to take those away."
+  },
+  {
+   "start": 388.71,
+   "end": 392.15,
+   "text": "China, Chinamen like to take our copyright, so I'll take their pyramid photos."
+  },
+  {
+   "start": 392.99,
+   "end": 394.59,
+   "text": "And they're from, like, a hundred years ago anyway."
+  },
+  {
+   "start": 394.67,
+   "end": 395.67,
+   "text": "It's probably outside of copyright."
+  },
+  {
+   "start": 396.39,
+   "end": 398.65,
+   "text": "But, uh, so, yeah, that's what I'm up to now."
+  },
+  {
+   "start": 398.65,
+   "end": 401.93,
+   "text": "Um, uh, it doesn't matter."
+  },
+  {
+   "start": 402.11,
+   "end": 405.23,
+   "text": "I'm not bummed that I didn't exercise that much today because I did exercise."
+  },
+  {
+   "start": 405.23,
+   "end": 408.01,
+   "text": "I rode, like, a few, five miles and ran a mile and a half."
+  },
+  {
+   "start": 408.13,
+   "end": 410.33,
+   "text": "But, um, the priority is exercise."
+  },
+  {
+   "start": 410.33,
+   "end": 412.67,
+   "text": "I will exercise before I will work on my website."
+  },
+  {
+   "start": 413.07,
+   "end": 414.89,
+   "text": "And that's just how it is from now on."
+  },
+  {
+   "start": 415.33,
+   "end": 418.13,
+   "text": "The only thing keeping me back is this fucking rain, man."
+  },
+  {
+   "start": 418.19,
+   "end": 419.17,
+   "text": "As soon as I start, it's like,"
+  },
+  {
+   "start": 419.23,
+   "end": 421.69,
+   "text": "Don't go outside."
+  },
+  {
+   "start": 421.69,
+   "end": 425.53,
+   "text": "So, it's like, okay, then I won't go outside and work on my computer."
+  },
+  {
+   "start": 426.11,
+   "end": 430.85,
+   "text": "Oh, yeah, plus I wanted to finish that, uh, book of, uh, Ireland and then, you know,"
+  },
+  {
+   "start": 430.89,
+   "end": 435.79,
+   "text": "Listen to a Wikipedia article and then do my Ireland book so that I could get started on another one."
+  },
+  {
+   "start": 436.47,
+   "end": 441.81,
+   "text": "Um, there's this, I want to do, and then there's this book about this dude who, uh,"
+  },
+  {
+   "start": 442.03,
+   "end": 448.15,
+   "text": "Took a boat across South America and saw, like, all these, like, boats in, like, huge cities in the Amazon."
+  },
+  {
+   "start": 448.15,
+   "end": 451.03,
+   "text": "And apparently the Amazon had 20 million people living in it in the 1500s."
+  },
+  {
+   "start": 451.07,
+   "end": 453.77,
+   "text": "And there were all these cities with 50,000, 50,000 people in the city,"
+  },
+  {
+   "start": 453.85,
+   "end": 455.09,
+   "text": "Which is as big as London at the time."
+  },
+  {
+   "start": 455.15,
+   "end": 455.77,
+   "text": "So, that's pretty amazing."
+  },
+  {
+   "start": 456.29,
+   "end": 457.29,
+   "text": "Okay, enough talking."
+  },
+  {
+   "start": 457.51,
+   "end": 457.95,
+   "text": "Peace out."
+  }
+ ]
+}

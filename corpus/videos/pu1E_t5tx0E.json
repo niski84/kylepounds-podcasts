@@ -1,0 +1,326 @@
+{
+ "youtube_id": "pu1E_t5tx0E",
+ "title": "Boulder Co Vlog 4/6/18: Roller Rode 50 Mi 3Hrs, finished taxes",
+ "url": "https://youtu.be/pu1E_t5tx0E",
+ "published_at": "2018-04-07",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle recaps his April 6th day: he slept poorly for the second night in a row, spent the day at his mom's house doing taxes (which cost around $360 through TurboTax), then came home and rode his bike on rollers for three hours, covering about 50 miles with a suffer score of 161. He reflects on his incremental training approach inspired by NASA's baby-steps philosophy and expresses excitement about his current solo training environment.",
+  "speaker": "kyle",
+  "topics": [
+   "cycling training",
+   "sleep issues",
+   "taxes",
+   "indoor roller riding",
+   "training philosophy",
+   "power/watts tracking",
+   "daily vlog"
+  ],
+  "stances": [
+   {
+    "topic": "training progression",
+    "position": "Believes in baby steps rather than jumping to maximum effort, inspired by NASA's methodical approach"
+   },
+   {
+    "topic": "current training environment",
+    "position": "Excited that living alone with no distractions is the ideal situation for serious training, unlike high school"
+   },
+   {
+    "topic": "tax preparation cost",
+    "position": "Thinks ~$360 for TurboTax is expensive and not cheaper than H&R Block as he expected"
+   }
+  ],
+  "entities": [
+   "Boulder CO",
+   "NASA",
+   "TurboTax",
+   "H&R Block",
+   "Kyle's mom",
+   "Strava (suffer score reference)"
+  ],
+  "date": "2018-04-06",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.65,
+   "end": 8.65,
+   "text": "Well, living in the bold, UV log right now, it's 1245 a.m. on April 7th."
+  },
+  {
+   "start": 8.65,
+   "end": 12.65,
+   "text": "So this was the one for the 6th."
+  },
+  {
+   "start": 12.65,
+   "end": 18.65,
+   "text": "So, yes, yeah, I run my bike to the level in and back, which is 49,"
+  },
+  {
+   "start": 18.65,
+   "end": 25.65,
+   "text": "I was about 70 by miles, get a suffer score of 161, which is extreme."
+  },
+  {
+   "start": 26.65,
+   "end": 33.65,
+   "text": "I'm pretty sure I got an extra driver, but I wanted to ride today, but I felt like I could ride today,"
+  },
+  {
+   "start": 33.65,
+   "end": 38.65,
+   "text": "but the problem was, I was up on night, I thought I was going to be able to sleep less night"
+  },
+  {
+   "start": 38.65,
+   "end": 41.65,
+   "text": "because I didn't sleep at all the night before our last night."
+  },
+  {
+   "start": 41.65,
+   "end": 47.65,
+   "text": "So, I didn't have to speed that up up for two nights in a row, but I was up the entire night."
+  },
+  {
+   "start": 47.65,
+   "end": 51.65,
+   "text": "I set my alarm for five, I'm only going to start off with 5 more night."
+  },
+  {
+   "start": 51.65,
+   "end": 57.97,
+   "text": "earlier. I go riding because you can, you know, have to have breakfast and then by the time you"
+  },
+  {
+   "start": 57.97,
+   "end": 63.89,
+   "text": "get out even as before it's decided it's light enough. So, but when the alarm went off, that was"
+  },
+  {
+   "start": 63.89,
+   "end": 68.53,
+   "text": "right when I was finally starting to feel like I could relax enough to enjoy lying there."
+  },
+  {
+   "start": 69.57,
+   "end": 74.45,
+   "text": "So, it's news to see if another 10 minutes and but I was just sinking at that point."
+  },
+  {
+   "start": 75.01,
+   "end": 81.49,
+   "text": "It's hot tub. I'm totally awake until five of this. So, I guess I just said the one for 440 or something."
+  },
+  {
+   "start": 82.05,
+   "end": 89.01,
+   "text": "But anyway, so yeah, I slept until I three because by then I was gone and I was tired."
+  },
+  {
+   "start": 89.89,
+   "end": 95.57,
+   "text": "And I was enjoying the rest. It was just awesome about training all the time. It was the rest was amazing."
+  },
+  {
+   "start": 96.53,
+   "end": 102.45,
+   "text": "So, I got up in a couple of my mom because I wanted to do this tax stuff out of the way. So, I went over"
+  },
+  {
+   "start": 102.45,
+   "end": 107.57,
+   "text": "my mom's house and we were doing tax. It's got a confused, called somebody, the person."
+  },
+  {
+   "start": 108.45,
+   "end": 112.93,
+   "text": "They wanted like 360 bucks. So, we're a turtle tax. That's as much as each and a block. I think they're not"
+  },
+  {
+   "start": 112.93,
+   "end": 121.01,
+   "text": "cheaper than each and a block anymore. But, so that took like all day. We were just hanging out and doing that"
+  },
+  {
+   "start": 122.13,
+   "end": 130.21,
+   "text": "and made a fire because it was snowing today. Then I came home and decided that was a good time to ride."
+  },
+  {
+   "start": 131.17,
+   "end": 140.29,
+   "text": "So, I rode for three hours this time. So, I, that was the longest that I've written on a rollers."
+  },
+  {
+   "start": 140.29,
+   "end": 145.89,
+   "text": "I read, there's been running two hours and two hours twice to hours long. I've been ready for a week or something."
+  },
+  {
+   "start": 147.65,
+   "end": 153.09,
+   "text": "And yesterday I would afford to have four and a half hours. So, today three hours, I, you know,"
+  },
+  {
+   "start": 153.09,
+   "end": 158.45,
+   "text": "maybe you could have done four hours today. But, I like doing it in increments. I never would have been like"
+  },
+  {
+   "start": 158.53,
+   "end": 165.01,
+   "text": "four. I would have just wanted to jump right into it. But, I've been watching NASA videos and"
+  },
+  {
+   "start": 165.81,
+   "end": 172.13,
+   "text": "learning about, um, this, you know, the moon landing stuff and they did all that stuff and they"
+  },
+  {
+   "start": 172.13,
+   "end": 180.91,
+   "text": "be steps, you know. If they wouldn't do, they wouldn't skip anything. So, so that's when I think I'll do"
+  },
+  {
+   "start": 180.91,
+   "end": 185.87,
+   "text": "just baby steps. Just to keep it comfortable. So, yeah, that's why I wrote three hours because I have"
+  },
+  {
+   "start": 185.87,
+   "end": 191.15,
+   "text": "written three hours and I felt good. I felt like I was, I felt like I was stronger. But, um, the"
+  },
+  {
+   "start": 191.15,
+   "end": 196.75,
+   "text": "lots, I'm proud of the state 143. So, I guess I'm still at about 150. It's about how many lots I can do."
+  },
+  {
+   "start": 197.79,
+   "end": 202.75,
+   "text": "But, I can, I feel like I'm going to be getting stronger quick. I should do a hour test in a, uh,"
+  },
+  {
+   "start": 202.75,
+   "end": 209.79,
+   "text": "20 minute outside here and do it through soon. Okay, well, next time. I need to do stuff tomorrow morning."
+  },
+  {
+   "start": 209.79,
+   "end": 211.31,
+   "text": "That's another reason I didn't keep writing."
+  },
+  {
+   "start": 212.27,
+   "end": 219.54,
+   "text": "Uh, uh, yeah, still listening to music. Oh, that's what I was doing at my mom's health"
+  },
+  {
+   "start": 219.54,
+   "end": 229.06,
+   "text": "all night making videos. Just loops with, like, spiking and swimming and uh, to get into it."
+  },
+  {
+   "start": 234.18,
+   "end": 240.02,
+   "text": "Um, and uh, all kinds of stuff. So, uh, yeah."
+  },
+  {
+   "start": 240.9,
+   "end": 246.98,
+   "text": "Hmm. Um, I'm going to do a test. Actually, I decided I'm not going to do my history tests."
+  },
+  {
+   "start": 247.86,
+   "end": 253.14,
+   "text": "Like this, like I planned. The way that I'm going to do all of my history tests, my daily"
+  },
+  {
+   "start": 253.14,
+   "end": 257.46,
+   "text": "history tests and all of my everything that I do talking for now, except for my daily belox."
+  },
+  {
+   "start": 258.66,
+   "end": 265.62,
+   "text": "Or maybe, like, you know, important videos right to think. But, uh, yeah, a lot, all of those writing"
+  },
+  {
+   "start": 265.7,
+   "end": 270.5,
+   "text": "in the bike. And then you record how many watts. Because the watts that I was writing"
+  },
+  {
+   "start": 271.7,
+   "end": 277.54,
+   "text": "today were pretty much what I could write while I was while I'm talking, you know, I wasn't totally hammering."
+  },
+  {
+   "start": 278.42,
+   "end": 286.16,
+   "text": "I'm not fed enough to totally hammer. If I totally hammered, I'd definitely, I definitely wouldn't be able to talk."
+  },
+  {
+   "start": 287.12,
+   "end": 293.04,
+   "text": "You'd bring it to art. But, uh, yeah, so I'll do that pretty soon. But, you know, I'm doing it the"
+  },
+  {
+   "start": 293.04,
+   "end": 303.73,
+   "text": "NASA way of baby steps. Oh, show them. I've never tried to train like I'm training now."
+  },
+  {
+   "start": 303.73,
+   "end": 308.37,
+   "text": "I've never, I've never, uh, the last time that I tried was back when I was in high school."
+  },
+  {
+   "start": 310.05,
+   "end": 314.29,
+   "text": "I'm living with my parents and that's totally different. Because they were, that was a fact that was"
+  },
+  {
+   "start": 314.29,
+   "end": 323.57,
+   "text": "I'm not good in the situation. Right now, I'm all by myself, you know, nothing to distract me. So, um,"
+  },
+  {
+   "start": 325.65,
+   "end": 330.21,
+   "text": "yeah, so it's super exciting. Sometimes I land bad. It's not going to be like, oh my god."
+  },
+  {
+   "start": 331.17,
+   "end": 337.73,
+   "text": "Because I've been totally, I've totally been not taking advantage, you know, I haven't been writing. And now I can."
+  },
+  {
+   "start": 338.85,
+   "end": 344.93,
+   "text": "So, anyway, I'm done talking. That's my view log for the day. Maybe I should do flexors."
+  },
+  {
+   "start": 345.49,
+   "end": 347.49,
+   "text": "Who? Beach? Who?"
+  },
+  {
+   "start": 348.45,
+   "end": 349.49,
+   "text": "Who?"
+  },
+  {
+   "start": 354.53,
+   "end": 357.34,
+   "text": "Right."
+  },
+  {
+   "start": 357.34,
+   "end": 358.38,
+   "text": "lighter."
+  }
+ ]
+}

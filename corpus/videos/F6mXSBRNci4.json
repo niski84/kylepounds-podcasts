@@ -1,0 +1,185 @@
+{
+ "youtube_id": "F6mXSBRNci4",
+ "title": "Living in Boulder Vlog 12 - 11 - 2016",
+ "url": "https://youtu.be/F6mXSBRNci4",
+ "published_at": "2016-12-13",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle posts a late-night vlog apologizing for the delay in uploading, explaining that a new OS installation broke his video compression software. He briefly mentions visiting the Apple Store, watching Hell's Wheels on Netflix at his mom's house, and making progress on a 3D modeling project (Nutriculus and buildings around a forum).",
+  "speaker": "kyle",
+  "topics": [
+   "video production delay",
+   "OS upgrade issues",
+   "Apple Store visit",
+   "Netflix recommendation",
+   "3D modeling project progress",
+   "living at mom's house"
+  ],
+  "stances": [
+   {
+    "topic": "Hell's Wheels (Netflix)",
+    "position": "Really likes it; calls it a good show"
+   },
+   {
+    "topic": "3D modeling project",
+    "position": "Super motivated and fired up to keep building it out"
+   },
+   {
+    "topic": "video compression issue",
+    "position": "Frustrated but plans to resolve it the next day"
+   }
+  ],
+  "entities": [
+   "Apple Store",
+   "Netflix",
+   "Hell's Wheels",
+   "Nutriculus",
+   "mom",
+   "Zantan"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.16,
+   "end": 3.98,
+   "text": "Hello Living in Boulder Vlog for December 11th, 2016."
+  },
+  {
+   "start": 4.76,
+   "end": 8.22,
+   "text": "It's 11.52 at night on the 12th."
+  },
+  {
+   "start": 8.32,
+   "end": 11.22,
+   "text": "I took forever to do this video because"
+  },
+  {
+   "start": 11.22,
+   "end": 16.32,
+   "text": "I didn't have the program to condense the video"
+  },
+  {
+   "start": 16.32,
+   "end": 20.36,
+   "text": "So I thought I was going to get it. I didn't have the program because I had to"
+  },
+  {
+   "start": 20.36,
+   "end": 24.38,
+   "text": "Put the new operating system in and so it rendered my old"
+  },
+  {
+   "start": 24.38,
+   "end": 28.5,
+   "text": "Video reduction program obsolete"
+  },
+  {
+   "start": 28.5,
+   "end": 32.22,
+   "text": "So I guess I have to go and get the upgrade or something. It doesn't work anymore"
+  },
+  {
+   "start": 32.22,
+   "end": 35.7,
+   "text": "From that and I was going to talk to the person at the Apple store about it today"
+  },
+  {
+   "start": 35.7,
+   "end": 40.04,
+   "text": "Because I went in today but I forgot to talk to her about it and then I"
+  },
+  {
+   "start": 40.04,
+   "end": 43.52,
+   "text": "Was postponing doing the video because I was watching TV"
+  },
+  {
+   "start": 43.52,
+   "end": 48.26,
+   "text": "At my mom's house. This TV show called Hell's Wheels on Netflix about the West."
+  },
+  {
+   "start": 48.32,
+   "end": 51.98,
+   "text": "I really like it. It was a good stony show while I was working on my site."
+  },
+  {
+   "start": 52.54,
+   "end": 56.2,
+   "text": "I finished the Nutriculus. It wasn't that much work"
+  },
+  {
+   "start": 56.2,
+   "end": 59.32,
+   "text": "And now I'm working on buildings around the forum."
+  },
+  {
+   "start": 59.52,
+   "end": 62.6,
+   "text": "So yeah, I'm super, super fired up still. Super hammered."
+  },
+  {
+   "start": 63.42,
+   "end": 66.96,
+   "text": "I'm motivated to, yeah, to power this out."
+  },
+  {
+   "start": 67.92,
+   "end": 70.46,
+   "text": "Do the survey and all that stuff and then make them 3D."
+  },
+  {
+   "start": 70.54,
+   "end": 71.48,
+   "text": "Just one building at a time."
+  },
+  {
+   "start": 71.48,
+   "end": 76.44,
+   "text": "Um, so, um, what was I talking about?"
+  },
+  {
+   "start": 76.66,
+   "end": 80.96,
+   "text": "Um, oh yeah, so I can't make this smaller, render this smaller."
+  },
+  {
+   "start": 81.16,
+   "end": 84.6,
+   "text": "Um, and my mom's internet, I don't think it's that fast because she poaches off her neighbor"
+  },
+  {
+   "start": 84.6,
+   "end": 88.6,
+   "text": "Anyway so I should probably cut this short and then tomorrow though I'll make sure"
+  },
+  {
+   "start": 88.6,
+   "end": 94.36,
+   "text": "To figure out, to get a way to condense my videos again so I can just upload them"
+  },
+  {
+   "start": 94.36,
+   "end": 100.1,
+   "text": "Right away so, uh, so yeah, uh, nothing else."
+  },
+  {
+   "start": 100.24,
+   "end": 103.02,
+   "text": "Oh yeah, it wasn't, so I wasn't really listening too much to the history of the Zantan today"
+  },
+  {
+   "start": 103.02,
+   "end": 103.6,
+   "text": "Which is the TV."
+  },
+  {
+   "start": 104.88,
+   "end": 109.56,
+   "text": "Um, yes, okay, so, peace out."
+  }
+ ]
+}

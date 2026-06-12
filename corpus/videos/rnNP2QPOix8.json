@@ -1,0 +1,432 @@
+{
+ "youtube_id": "rnNP2QPOix8",
+ "title": "Boulder Co Vlog 4/5/18: Rode to Loveland 75.88mi 4:33:52  3,187ft   161SS",
+ "url": "https://youtu.be/rnNP2QPOix8",
+ "published_at": "2018-04-06",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs after completing a 75.88-mile bike ride from Boulder to Loveland, CO — his first big ride in a while. He recaps the ride logistics, food choices, and physical sensations, then describes spending the afternoon at his mom's house helping with chores and taking his brother's dog to the park.",
+  "speaker": "kyle",
+  "topics": [
+   "cycling",
+   "physical fitness",
+   "body awareness",
+   "nutrition on long rides",
+   "recovery",
+   "triathlon plans",
+   "daily life",
+   "family time"
+  ],
+  "stances": [
+   {
+    "topic": "recovery strategy",
+    "position": "Keep riding until too weak to go effectively rather than taking prescribed rest days"
+   },
+   {
+    "topic": "ride nutrition",
+    "position": "Real food like a breakfast burrito is better than power bars or oatmeal for long rides"
+   },
+   {
+    "topic": "triathlon training",
+    "position": "Will stick to cycling until his knee blows out, then switch to running and swimming"
+   },
+   {
+    "topic": "athletic lifestyle",
+    "position": "Being an athlete heightens everything — food, water, sleep all feel better when your body truly needs them"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Loveland",
+   "Good Times (restaurant)",
+   "Kyle's mom",
+   "Kyle's brother",
+   "Strava (implied via suffer score/SS metric)",
+   "watt pedals"
+  ],
+  "date": "2018-04-05",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 5.68,
+   "text": "Hello, living in Boulder View, vlog. It is April 5, 734 pm"
+  },
+  {
+   "start": 6.8,
+   "end": 15.12,
+   "text": "on the year of 2018. Thursday. So it's time for me to go to sleep."
+  },
+  {
+   "start": 17.44,
+   "end": 21.92,
+   "text": "So what did I do last time? I was like to do anything."
+  },
+  {
+   "start": 21.92,
+   "end": 31.52,
+   "text": "And when I was piloting on extra... I was putting on writing days. So yeah, I got to..."
+  },
+  {
+   "start": 31.52,
+   "end": 37.52,
+   "text": "I actually didn't sleep last night at all because I'm not turn last, but I laid there."
+  },
+  {
+   "start": 38.56,
+   "end": 44.32,
+   "text": "I made sure to lay there and I slept in late and I didn't work all night. So I said,"
+  },
+  {
+   "start": 44.32,
+   "end": 50.8,
+   "text": "when we were 5 when I got up at 5 I was ready to go and by the time I was ready to get out the door"
+  },
+  {
+   "start": 50.8,
+   "end": 57.12,
+   "text": "and I was like... a fish to sunrise with 645. I was like... I don't know, 670 or whatever. But I"
+  },
+  {
+   "start": 57.12,
+   "end": 61.68,
+   "text": "half hour before the sun officially arrived, it was already light enough to ride. So"
+  },
+  {
+   "start": 62.08,
+   "end": 67.36,
+   "text": "now you can get going all like... I could have been out of the door at 6 o'clock today. I know I'm in the final."
+  },
+  {
+   "start": 67.36,
+   "end": 72.16,
+   "text": "There was a little bit cold but I had all the clothes I need. You know, like if I jack myself up all the way,"
+  },
+  {
+   "start": 72.16,
+   "end": 76.4,
+   "text": "I would bite clothes and just warm it up to be all the end. I'll... the day like today,"
+  },
+  {
+   "start": 76.4,
+   "end": 87.44,
+   "text": "which was like 40 degrees so I could on a 40. So yeah, so I get up and I crack a daughter."
+  },
+  {
+   "start": 89.84,
+   "end": 96.48,
+   "text": "I had like a bunch of fruit. I think that's all I had just a bunch of fruit from my fist."
+  },
+  {
+   "start": 97.76,
+   "end": 104.24,
+   "text": "And then I rode my bike over to a lovelin town. I'd never been there. I was like, it was exciting."
+  },
+  {
+   "start": 104.72,
+   "end": 110.88,
+   "text": "Then we went down to downtown and found myself a good time, some bearer place."
+  },
+  {
+   "start": 111.28,
+   "end": 118.24,
+   "text": "Got it breakfast burrito and some hash browns and then rode up to the canyon,"
+  },
+  {
+   "start": 118.24,
+   "end": 124.32,
+   "text": "saw him and back back to Boulder. From there it's pretty riding. Good riding. There are a lot of riders out there."
+  },
+  {
+   "start": 127.04,
+   "end": 132.8,
+   "text": "So that's like I would do another world and it was really fun then. I remember it she"
+  },
+  {
+   "start": 132.8,
+   "end": 138.88,
+   "text": "because today was my first big ride since I started to start riding. I went on a little ride the other day"
+  },
+  {
+   "start": 138.88,
+   "end": 141.76,
+   "text": "but so this morning, before I was getting ready to go out."
+  },
+  {
+   "start": 144.0,
+   "end": 149.52,
+   "text": "I was super super super, super fired up man. I was like, yeah, I'm all riding, finally."
+  },
+  {
+   "start": 150.56,
+   "end": 156.88,
+   "text": "So yeah, I'm just going to do tomorrow. So let's see, I did 75 miles today."
+  },
+  {
+   "start": 157.76,
+   "end": 161.36,
+   "text": "Took four and a half hours of riding time. I would just like 16 miles an hour."
+  },
+  {
+   "start": 162.8,
+   "end": 168.16,
+   "text": "I think maybe the blocks are like 150. I can hold like 150. I think my battery is dying."
+  },
+  {
+   "start": 168.16,
+   "end": 171.44,
+   "text": "I think that's why I didn't register. So I'll have to buy and be battery for my"
+  },
+  {
+   "start": 171.92,
+   "end": 177.68,
+   "text": "watt pedals tomorrow. But my speed and not far I went a little register."
+  },
+  {
+   "start": 180.0,
+   "end": 189.92,
+   "text": "And I had a suffer score of 161 which they say is extreme. So that's cool. I'm going to get a higher next time."
+  },
+  {
+   "start": 190.8,
+   "end": 196.72,
+   "text": "You have higher levels like epic and stuff. Now it works out. But my suffer score said that"
+  },
+  {
+   "start": 196.72,
+   "end": 206.4,
+   "text": "I should take me like three or four days to recover and yeah, that makes sense. I could probably"
+  },
+  {
+   "start": 206.4,
+   "end": 214.08,
+   "text": "recover in three or four days. Completely. But the best way, you just keep riding until you get"
+  },
+  {
+   "start": 214.88,
+   "end": 220.4,
+   "text": "so weak that it would be stupid to ride the next day. Because you just would go to slow."
+  },
+  {
+   "start": 220.4,
+   "end": 226.88,
+   "text": "And at that point I would switch up and do another sport. My left knee was starting my whole"
+  },
+  {
+   "start": 226.88,
+   "end": 236.24,
+   "text": "was weird. My whole left side was turning. Right side was tight and fresh. Just like I had ever been."
+  },
+  {
+   "start": 236.24,
+   "end": 243.52,
+   "text": "You know, on my left side, my knee was turning like it does a lot. Kind of like that knee,"
+  },
+  {
+   "start": 243.52,
+   "end": 249.6,
+   "text": "the pain that almost feels good. Like it's where you're kind of pain like getting kicked in the nuts."
+  },
+  {
+   "start": 250.88,
+   "end": 256.4,
+   "text": "It's like a sweet pain or something. That's what my knee was feeling like today."
+  },
+  {
+   "start": 257.6,
+   "end": 261.92,
+   "text": "It feels like my knee is like rigidity. It's not tight and a joint or something."
+  },
+  {
+   "start": 262.64,
+   "end": 266.48,
+   "text": "But that's definitely on my shoulder focus. My left shoulder was like that every time I'd stand up"
+  },
+  {
+   "start": 266.48,
+   "end": 273.12,
+   "text": "it would feel like I was waddling at her. And then my hip, my left hip, which is the first time I"
+  },
+  {
+   "start": 273.12,
+   "end": 278.16,
+   "text": "have this and I've had problems sounding in the knee. So as we were left knee was hurting and"
+  },
+  {
+   "start": 278.56,
+   "end": 290.88,
+   "text": "loose with the right knee. A whole side was by it. It was a really good strategy to go get a breakfast burrito"
+  },
+  {
+   "start": 292.88,
+   "end": 300.56,
+   "text": "at good times because those that kind of food slides down a lot easier than if you're at a"
+  },
+  {
+   "start": 301.04,
+   "end": 308.16,
+   "text": "power bars or try to have your breakfast with oatmeal or something because it's tasting."
+  },
+  {
+   "start": 309.44,
+   "end": 315.04,
+   "text": "I could have eaten any of those best for that sort of tuck up elder dolls. Anything you put in me?"
+  },
+  {
+   "start": 318.16,
+   "end": 325.2,
+   "text": "Did you get a single power bar there, Rob? Yeah, I'm still there. Rob, so you can today. It's been so long"
+  },
+  {
+   "start": 325.2,
+   "end": 330.88,
+   "text": "since I read my bike. I don't know anything. I don't know how many clothes I need to wear. I figured out today"
+  },
+  {
+   "start": 331.6,
+   "end": 336.48,
+   "text": "I don't know how many power bars I need to ride a bike for a long time because"
+  },
+  {
+   "start": 340.0,
+   "end": 346.08,
+   "text": "yeah, I don't have these experience but my body works differently now anyway. I wouldn't need a lot"
+  },
+  {
+   "start": 346.16,
+   "end": 350.16,
+   "text": "let's food now that I would later."
+  },
+  {
+   "start": 352.16,
+   "end": 359.44,
+   "text": "Oh, new feeling. So yes, I came back from there or the ride and then I went to my mom's house."
+  },
+  {
+   "start": 359.44,
+   "end": 364.24,
+   "text": "I was actually thinking of you doing a very right forest there to feel tired and then I felt tired and I was like"
+  },
+  {
+   "start": 364.24,
+   "end": 366.16,
+   "text": "getting back home but"
+  },
+  {
+   "start": 369.84,
+   "end": 373.92,
+   "text": "shit, lots of much and I thought I'm kind of tired. Oh yeah and then afterwards I went to my mom's house"
+  },
+  {
+   "start": 374.56,
+   "end": 377.36,
+   "text": "and helped, she was going out with my taxes but we ended up"
+  },
+  {
+   "start": 380.48,
+   "end": 386.96,
+   "text": "organizing her, I ended up like vacuuming her all-house, cleaning her dishes and organizing her"
+  },
+  {
+   "start": 386.96,
+   "end": 392.56,
+   "text": "office and then I accompanied her because she always said she went to go on the social and gum and then we"
+  },
+  {
+   "start": 392.56,
+   "end": 399.12,
+   "text": "got my brother's dog to the dog park so it's kind of like a hangout day today. But yeah I'm going to"
+  },
+  {
+   "start": 399.12,
+   "end": 408.24,
+   "text": "try and get it asleep now. I'm totally wasted. I really it's all this stuff about being an athlete"
+  },
+  {
+   "start": 408.24,
+   "end": 413.68,
+   "text": "starting to come back to me. I really like it. I'm feeling of being really tired so you can sleep"
+  },
+  {
+   "start": 414.8,
+   "end": 418.16,
+   "text": "and then the feeling of being feeling like your body is wasted the other day."
+  },
+  {
+   "start": 418.16,
+   "end": 431.15,
+   "text": "I didn't even need to recoup you know, reclace yourself but oops I forgot what I was going to say."
+  },
+  {
+   "start": 432.11,
+   "end": 437.79,
+   "text": "Anyway, yeah I think I'm going to go to sleep now just light out because I'm excited I'll be able to"
+  },
+  {
+   "start": 437.79,
+   "end": 442.99,
+   "text": "actually sleep today. I won't just be laying there and just tooling my thumbs waiting for the daytime to come."
+  },
+  {
+   "start": 443.79,
+   "end": 452.67,
+   "text": "Yeah that's the other thing about riding all the time. Like food is delicious, water's delicious,"
+  },
+  {
+   "start": 452.67,
+   "end": 460.03,
+   "text": "sleeps delicious like everything else is heightened a lot of hundred times just you need it so much."
+  },
+  {
+   "start": 460.03,
+   "end": 466.83,
+   "text": "Anyways so tomorrow yeah I'm not going to run or swim but this is I'm going to be triathlete."
+  },
+  {
+   "start": 466.83,
+   "end": 471.07,
+   "text": "I'm not going to do the other two sports and tell I blow out my knee on my run the riding and my"
+  },
+  {
+   "start": 471.07,
+   "end": 476.67,
+   "text": "knee was hurting today so my knee will blow out sooner than before because I'm older. I pretty"
+  },
+  {
+   "start": 476.67,
+   "end": 482.99,
+   "text": "need to be like another week or two. Tell my knee blows and I don't have to take a week off so I'll do"
+  },
+  {
+   "start": 482.99,
+   "end": 488.67,
+   "text": "other sports when I do that. One of my knee blows is like a sharp shooting pain where you can't"
+  },
+  {
+   "start": 489.31,
+   "end": 496.27,
+   "text": "extend the knee all the way so it's like you know a prohibitively painful to do like that so you can only"
+  },
+  {
+   "start": 496.27,
+   "end": 506.83,
+   "text": "ride like that and at a high RPM but yeah what I don't know when that happens I never know what"
+  },
+  {
+   "start": 506.83,
+   "end": 512.27,
+   "text": "will happen and suddenly I'm okay cool we go yeah I'm looking forward to the other stuff"
+  },
+  {
+   "start": 513.71,
+   "end": 519.63,
+   "text": "my hip is kind of sorry I couldn't have started this two or two early."
+  },
+  {
+   "start": 519.63,
+   "end": 528.75,
+   "text": "Anyways let's root 846 against an attractive tomorrow."
+  }
+ ]
+}

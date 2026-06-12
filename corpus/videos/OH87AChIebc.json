@@ -1,0 +1,115 @@
+{
+ "youtube_id": "OH87AChIebc",
+ "title": "Living in Boulder vlog 4 - 14 - 2017: Did Taxes",
+ "url": "https://youtu.be/OH87AChIebc",
+ "published_at": "2017-04-15",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle briefly recaps April 14th: a low-energy day spent doing taxes at his mom's house and working on a project pitch called 'dimensions.' He notes he was exhausted after four difficult days and didn't exercise.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "taxes",
+   "low energy/recovery",
+   "personal project pitch"
+  ],
+  "stances": [
+   {
+    "topic": "tax day",
+    "position": "finds it draining and unpleasant"
+   },
+   {
+    "topic": "the day's productivity",
+    "position": "acknowledges it was boring and simple but made some progress on a side project"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Hmm."
+  },
+  {
+   "start": 2.0,
+   "end": 6.0,
+   "text": "Hello living in Boulder View Log for New District Day, before 14th."
+  },
+  {
+   "start": 6.0,
+   "end": 12.0,
+   "text": "Right now it's 314 pm on April 15th. I didn't have a motivation to do the video before."
+  },
+  {
+   "start": 12.0,
+   "end": 16.0,
+   "text": "This is kind of tired."
+  },
+  {
+   "start": 16.0,
+   "end": 20.0,
+   "text": "Yesterday, I just, there."
+  },
+  {
+   "start": 20.0,
+   "end": 24.0,
+   "text": "Oh, but you just did taxes all day yesterday, I didn't exercise."
+  },
+  {
+   "start": 24.0,
+   "end": 30.0,
+   "text": "Um, but I was feeling like shit all day. I was wasted."
+  },
+  {
+   "start": 30.0,
+   "end": 34.0,
+   "text": "I had 4 days in a row from after being at the absolute bottom."
+  },
+  {
+   "start": 34.0,
+   "end": 43.25,
+   "text": "So, um, and uh, so I was just went to my mom's house and was hanging out,"
+  },
+  {
+   "start": 43.25,
+   "end": 49.25,
+   "text": "trying to detects it like we'd get stuck and then wait for a call and then I was working on my, uh,"
+  },
+  {
+   "start": 49.25,
+   "end": 55.25,
+   "text": "uh, dimensions pitch, the thing that I, ditched a few days ago, so it's nice to do that."
+  },
+  {
+   "start": 55.25,
+   "end": 57.25,
+   "text": "Have that on the back burner."
+  },
+  {
+   "start": 57.25,
+   "end": 65.25,
+   "text": "Um, so that's what I did yesterday, uh, pretty boring, pretty pretty simple day."
+  },
+  {
+   "start": 65.25,
+   "end": 69.25,
+   "text": "Um, and then I'll do today's few log later on."
+  },
+  {
+   "start": 69.25,
+   "end": 71.25,
+   "text": "Peace."
+  },
+  {
+   "start": 71.25,
+   "end": 75.25,
+   "text": "I don't know if you like me that goes to shit."
+  }
+ ]
+}

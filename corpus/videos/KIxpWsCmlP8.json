@@ -1,0 +1,194 @@
+{
+ "youtube_id": "KIxpWsCmlP8",
+ "title": "Living in Boulder Vlog 2 - 7 - 2017: 100 feet above the middle of 40,000 people",
+ "url": "https://youtu.be/KIxpWsCmlP8",
+ "published_at": "2017-02-08",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from his Boulder room on February 7, 2017, using a green screen setup to show aerial density visualizations of Boulder's population. He talks about sleeping 12 hours, adding fans to his bike, planning to sell his car, ordering a new microphone to fix audio quality issues, and spending the day cleaning and organizing his room.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "green screen setup",
+   "Boulder population visualization",
+   "room organization",
+   "audio equipment",
+   "transportation plans",
+   "sleep"
+  ],
+  "stances": [
+   {
+    "topic": "green screen background concept",
+    "position": "enthusiastic about showing different backgrounds each day"
+   },
+   {
+    "topic": "microphone upgrade",
+    "position": "necessary fix after bad audio from computer fan noise"
+   },
+   {
+    "topic": "selling his car",
+    "position": "plans to sell it next week"
+   },
+   {
+    "topic": "room acoustics",
+    "position": "loves the acoustics in his current room"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Statue of Nero (Rome)",
+   "Statue of Liberty",
+   "Great Pyramid of Giza",
+   "Apple"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.2,
+   "end": 9.92,
+   "text": "Hello living in Boulder, Vila, for the 7th of February. Here's my green screen show number"
+  },
+  {
+   "start": 9.92,
+   "end": 20.16,
+   "text": "camp. I'm wearing my green t-shirt, just a random green t-shirt I have. I don't know if you're"
+  },
+  {
+   "start": 20.16,
+   "end": 24.88,
+   "text": "cool to get it on your green outfit, now you see it's in my head and I can nothing will get in the way."
+  },
+  {
+   "start": 24.88,
+   "end": 35.66,
+   "text": "You can show stuff above below me. You should probably do that green outfit. You tell them, you know,"
+  },
+  {
+   "start": 35.66,
+   "end": 43.98,
+   "text": "this stuff. So what you see behind me today, every day I'll have a different background. So today's"
+  },
+  {
+   "start": 43.98,
+   "end": 51.82,
+   "text": "background, we're looking at 160,000 people. I'm in the middle of 160,000 people 100 feet up,"
+  },
+  {
+   "start": 52.46,
+   "end": 58.46,
+   "text": "which is a good height to be up because that's the height of the statue of Neuro and Rome, which is also"
+  },
+  {
+   "start": 58.46,
+   "end": 63.02,
+   "text": "the height of the scene, Sister Statue by Grace and Love of Stouching. Which you actually can see."
+  },
+  {
+   "start": 64.3,
+   "end": 69.26,
+   "text": "The video starts out looking down and then it goes up looking north. The middle of it, I think it's"
+  },
+  {
+   "start": 69.26,
+   "end": 74.62,
+   "text": "somewhere near downtown, just east of downtown Boulder. They look north. They look the edge of 160,000"
+  },
+  {
+   "start": 74.7,
+   "end": 83.82,
+   "text": "green. There's the yellow is 40,000 people and then the very beginning you see 10 and then it goes"
+  },
+  {
+   "start": 83.82,
+   "end": 91.66,
+   "text": "up to 100 and yellow of red is 100,000 and then 10,000, which is a dark light yellow and then 100,000."
+  },
+  {
+   "start": 91.66,
+   "end": 101.98,
+   "text": "40,000 and then 160,000 people. So, you know, depending on looking at South, you can see the"
+  },
+  {
+   "start": 101.98,
+   "end": 109.82,
+   "text": "great pyramid of Gisa and then the Black Rixibble. Building, which is 100 feet high, which is highest"
+  },
+  {
+   "start": 109.82,
+   "end": 117.82,
+   "text": "per hour. So today, what did I do? I got a really late, I slept 12 hours. Today was one of those days,"
+  },
+  {
+   "start": 117.82,
+   "end": 121.9,
+   "text": "you know, you were, as far as you know, I'm going to go, but if you don't get as much time. I decided I wanted"
+  },
+  {
+   "start": 121.9,
+   "end": 128.62,
+   "text": "to get two of the fans, front of my bike now, I have three fans that they can cool me down and I'm going to"
+  },
+  {
+   "start": 129.58,
+   "end": 138.78,
+   "text": "go more printing. Yeah, I'm done. I'll sell my car to the next week. I'll sell my car."
+  },
+  {
+   "start": 139.42,
+   "end": 147.58,
+   "text": "That's my mom. I'm just going to get a microphone because yesterday's video that we're getting"
+  },
+  {
+   "start": 147.58,
+   "end": 152.3,
+   "text": "you a sound is really good. But then the second part of the sound is really bad because one of the"
+  },
+  {
+   "start": 152.3,
+   "end": 160.06,
+   "text": "computers and cool down mode that makes it sound really bad. So tomorrow I ordered a mic. So the"
+  },
+  {
+   "start": 160.06,
+   "end": 164.22,
+   "text": "Apple started to say that I have a mic for me and we'll see how that works. You know, hopefully it'll"
+  },
+  {
+   "start": 165.42,
+   "end": 173.5,
+   "text": "record really well. Even when there's no, you know, be able to cancel out that rattle when the"
+  },
+  {
+   "start": 173.5,
+   "end": 180.86,
+   "text": "computers cooling itself. And then acoustics in this room are perfect. I love it. I can sing, I was singing"
+  },
+  {
+   "start": 180.86,
+   "end": 187.9,
+   "text": "yesterday. Oh, I put some of that to my. So yeah, today was just about cleaning my room. I was just cleaning my"
+  },
+  {
+   "start": 187.9,
+   "end": 195.74,
+   "text": "room. Organizing my room all day busy. You know, I don't know. I was putting a whole bunch of stuff in the wall"
+  },
+  {
+   "start": 195.74,
+   "end": 202.38,
+   "text": "like hooks on the wall and hugging hang and stuff. Utilizing all this space in my room, I went through"
+  },
+  {
+   "start": 202.78,
+   "end": 210.54,
+   "text": "storage thing and living room that I didn't look at for years. Just, you know, closet shopping and"
+  },
+  {
+   "start": 210.54,
+   "end": 215.9,
+   "text": "all right. So let's see, I think that's enough talking. Yeah, 33 by all right, peace out."
+  }
+ ]
+}

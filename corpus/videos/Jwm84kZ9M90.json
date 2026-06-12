@@ -1,0 +1,443 @@
+{
+ "youtube_id": "Jwm84kZ9M90",
+ "title": "Living in Boulder Vlog 3 - 21 - 2016",
+ "url": "https://youtu.be/Jwm84kZ9M90",
+ "published_at": "2016-03-22",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about his day in Boulder: dropping off his broken Mac for overnight repair, researching the Race Across America (RAAM) cycling event and planning to attempt it as an unofficial 'shadow racer' doing half the distance, and working on his website's bike race pages. He also mentions listening to an audiobook about American history on his phone and acknowledges wasting time because he was high.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "computer repair",
+   "Race Across America cycling",
+   "exercise and fitness goals",
+   "audiobook listening",
+   "website development",
+   "sleep schedule",
+   "marijuana use"
+  ],
+  "stances": [
+   {
+    "topic": "Race Across America",
+    "position": "Can't do the full race because he's out of shape; plans to attempt it as a shadow racer at half the distance and double the sleep"
+   },
+   {
+    "topic": "audiobooks on phone",
+    "position": "Phone is unreliable for long audiobooks due to storage issues; a dedicated MP3 player works better"
+   },
+   {
+    "topic": "being high while working",
+    "position": "Self-critical — admits it caused him to waste time and create more work for himself"
+   }
+  ],
+  "entities": [
+   "Race Across America (RAAM)",
+   "Boulder",
+   "Apple Store (Mac)",
+   "Google Earth",
+   "Charles Beard (historian, 'history of America' audiobook)",
+   "ES File Explorer",
+   "Kindle"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.66,
+   "end": 4.38,
+   "text": "Oh, this is living in Boulder V-log, but I can't remember what day."
+  },
+  {
+   "start": 5.6,
+   "end": 7.86,
+   "text": "Ooh, I'll put it up when I have a letter."
+  },
+  {
+   "start": 10.1,
+   "end": 15.62,
+   "text": "So, today I got up at, like, noon, because I was up really late last night."
+  },
+  {
+   "start": 15.68,
+   "end": 18.4,
+   "text": "For the last, like, four or five days or something, I've been needing, like, nine hours of sleep."
+  },
+  {
+   "start": 20.68,
+   "end": 25.24,
+   "text": "And then I went over to the, brought my computer in to see what was wrong with it,"
+  },
+  {
+   "start": 25.28,
+   "end": 26.4,
+   "text": "Because yesterday it wasn't working right."
+  },
+  {
+   "start": 26.44,
+   "end": 29.02,
+   "text": "I think I was talking about that on the video from last night."
+  },
+  {
+   "start": 29.02,
+   "end": 32.8,
+   "text": "The computer's broken still, again, my Macintosh, so I brought it in."
+  },
+  {
+   "start": 36.2,
+   "end": 40.48,
+   "text": "But then it was working, because I couldn't get it to detect my external,"
+  },
+  {
+   "start": 40.6,
+   "end": 43.3,
+   "text": "To drag my stuff back onto it, because I nuked everything on it."
+  },
+  {
+   "start": 44.3,
+   "end": 47.72,
+   "text": "And then when I brought it in, I could detect it, but I left it there anyway."
+  },
+  {
+   "start": 47.72,
+   "end": 50.2,
+   "text": "They're going to take it overnight and see if they can find something wrong with it."
+  },
+  {
+   "start": 50.66,
+   "end": 53.72,
+   "text": "If they bring it back and they don't know anything that happened, I'm going to be freaked out,"
+  },
+  {
+   "start": 53.82,
+   "end": 55.4,
+   "text": "But hopefully it'll work when I get it back."
+  },
+  {
+   "start": 55.4,
+   "end": 61.12,
+   "text": "And so then I came back here, and I was just working on this slower computer."
+  },
+  {
+   "start": 62.96,
+   "end": 63.76,
+   "text": "That computer."
+  },
+  {
+   "start": 65.56,
+   "end": 76.73,
+   "text": "And I'll be long on my list, Race Across America,"
+  },
+  {
+   "start": 76.87,
+   "end": 80.91,
+   "text": "Because that's what I'm going to do when I start exercising again in a couple weeks,"
+  },
+  {
+   "start": 80.91,
+   "end": 82.25,
+   "text": "Two and a half weeks."
+  },
+  {
+   "start": 85.25,
+   "end": 90.21,
+   "text": "And in the Race Across America, you have to ride 250 miles a day for 12 days,"
+  },
+  {
+   "start": 90.47,
+   "end": 91.93,
+   "text": "If you're going to make the time limit."
+  },
+  {
+   "start": 94.47,
+   "end": 97.97,
+   "text": "And that's like, I think people usually, that's like, if in the Enduro division,"
+  },
+  {
+   "start": 98.07,
+   "end": 101.37,
+   "text": "Where you have to have minimum sleeping, it's 40 hours minimum sleeping,"
+  },
+  {
+   "start": 101.69,
+   "end": 102.95,
+   "text": "For the 12 days."
+  },
+  {
+   "start": 103.01,
+   "end": 104.79,
+   "text": "So that's three hours, 20 minutes a night."
+  },
+  {
+   "start": 104.79,
+   "end": 106.61,
+   "text": "So I guess three and a half hours a night is what people do."
+  },
+  {
+   "start": 107.79,
+   "end": 111.67,
+   "text": "So if I can ride 250 miles a day, sleeping three and a half hours a night for 12 days,"
+  },
+  {
+   "start": 111.71,
+   "end": 112.19,
+   "text": "I can make it."
+  },
+  {
+   "start": 112.27,
+   "end": 115.83,
+   "text": "But I can't do that, because I'm fat and out of shape."
+  },
+  {
+   "start": 117.35,
+   "end": 119.91,
+   "text": "I'm a chunky, bunsy guy."
+  },
+  {
+   "start": 121.47,
+   "end": 128.69,
+   "text": "So maybe I can do it in half of that."
+  },
+  {
+   "start": 128.97,
+   "end": 129.81,
+   "text": "I can be shadow."
+  },
+  {
+   "start": 130.09,
+   "end": 131.47,
+   "text": "I can be a shadow racer."
+  },
+  {
+   "start": 131.47,
+   "end": 135.53,
+   "text": "Because the shadow is like the half of the size of the person."
+  },
+  {
+   "start": 136.43,
+   "end": 140.91,
+   "text": "So if I can do it in one, and if I can average 125 miles a day for 24 days,"
+  },
+  {
+   "start": 143.05,
+   "end": 146.73,
+   "text": "With, I guess, twice as much sleeping, six hours a night, I don't know,"
+  },
+  {
+   "start": 147.49,
+   "end": 149.17,
+   "text": "Or three and a half hours, whatever I need,"
+  },
+  {
+   "start": 150.37,
+   "end": 154.43,
+   "text": "Then, yeah, I'm there."
+  },
+  {
+   "start": 155.83,
+   "end": 160.66,
+   "text": "And I am, that's what I'll do."
+  },
+  {
+   "start": 160.66,
+   "end": 165.48,
+   "text": "So, but I need to see, but I only have, I need to see if I can get all that stuff done"
+  },
+  {
+   "start": 165.48,
+   "end": 169.22,
+   "text": "In two and a half weeks, because the more, the farther along I am on bike racer level pages"
+  },
+  {
+   "start": 169.22,
+   "end": 173.06,
+   "text": "On my website, the easier it is, is it going to be for me to ride my bike?"
+  },
+  {
+   "start": 173.2,
+   "end": 177.5,
+   "text": "Because the less work I'm going to have to do more on the interesting stuff that gets me"
+  },
+  {
+   "start": 177.5,
+   "end": 177.78,
+   "text": "Riding."
+  },
+  {
+   "start": 177.94,
+   "end": 183.42,
+   "text": "What I want to do is get back to Google Earth in Boulder, in Boulder County, as quick as I"
+  },
+  {
+   "start": 183.42,
+   "end": 183.68,
+   "text": "Can."
+  },
+  {
+   "start": 183.74,
+   "end": 188.62,
+   "text": "But the problem is I got to work on my website, bike racer level, if I'm going to ride my"
+  },
+  {
+   "start": 188.62,
+   "end": 191.7,
+   "text": "Bike, so I'll just work as much as I can."
+  },
+  {
+   "start": 192.34,
+   "end": 197.1,
+   "text": "I work tomorrow at nine, so it's midnight now, so I'm going to go to sleep now."
+  },
+  {
+   "start": 197.92,
+   "end": 200.5,
+   "text": "Set the alarm for seven, I'll get seven hours of sleep."
+  },
+  {
+   "start": 200.5,
+   "end": 210.28,
+   "text": "Um, and, uh, uh, so what else happened today?"
+  },
+  {
+   "start": 210.32,
+   "end": 216.32,
+   "text": "I listened to, uh, The History of America by Mary Austin Beard, or Henry Austin Beard,"
+  },
+  {
+   "start": 216.4,
+   "end": 220.92,
+   "text": "Mary Ritter Beard, but kind of jumping around, because I have, I have it on my cell phone,"
+  },
+  {
+   "start": 220.98,
+   "end": 226.04,
+   "text": "I'm still getting used to listening to stuff on my cell phone, but it always drops it, but"
+  },
+  {
+   "start": 226.04,
+   "end": 227.72,
+   "text": "I think normally it drops it towards the end."
+  },
+  {
+   "start": 227.72,
+   "end": 229.82,
+   "text": "Like, as you get stuck towards the end, it drops it."
+  },
+  {
+   "start": 230.12,
+   "end": 230.62,
+   "text": "It's weird."
+  },
+  {
+   "start": 231.5,
+   "end": 237.4,
+   "text": "Um, I think it drops it, like it suddenly stops playing on ES File Explorer, because I have"
+  },
+  {
+   "start": 237.4,
+   "end": 243.22,
+   "text": "A 128 gigabyte card in my phone, and I think it's just too much information, I guess, to"
+  },
+  {
+   "start": 243.22,
+   "end": 247.58,
+   "text": "Hold between, but, and this is the only program that's been able to work this, so I think that's"
+  },
+  {
+   "start": 247.58,
+   "end": 248.0,
+   "text": "The problem."
+  },
+  {
+   "start": 248.1,
+   "end": 250.98,
+   "text": "But, you know, it's better than nothing, and, um, but, you know, if you really want to"
+  },
+  {
+   "start": 250.98,
+   "end": 255.86,
+   "text": "Be able to listen to a book all the way through, you have to do it with a regular MP3"
+  },
+  {
+   "start": 255.86,
+   "end": 261.04,
+   "text": "Player, so, you know, that's not too bad, you just drag and drop whatever you listen"
+  },
+  {
+   "start": 261.04,
+   "end": 265.22,
+   "text": "To it, you know, for a bike ride, and then the phone, you use it for just jumping around"
+  },
+  {
+   "start": 265.22,
+   "end": 266.48,
+   "text": "And checking stuff out, you know."
+  },
+  {
+   "start": 268.32,
+   "end": 272.88,
+   "text": "Um, yeah, I'm excited to, when I get all the books on it, because then I can use it,"
+  },
+  {
+   "start": 273.76,
+   "end": 277.22,
+   "text": "What I can actually hear in relation with the website that I made, the webpage, once I"
+  },
+  {
+   "start": 277.22,
+   "end": 282.62,
+   "text": "Fixed that webpage, the audiobook, pre-audiobook, once I get them all transferred from Kindle"
+  },
+  {
+   "start": 282.62,
+   "end": 293.06,
+   "text": "To LibraVux. Um, so, yeah, so that's all I did today. Um, I didn't really, I'm still"
+  },
+  {
+   "start": 293.06,
+   "end": 299.12,
+   "text": "Working on the list, because, um, I was stupid, I was high, see, this is an example of me being"
+  },
+  {
+   "start": 299.12,
+   "end": 302.86,
+   "text": "High and taking something longer than it should. I haven't done this for a while, though, but,"
+  },
+  {
+   "start": 303.38,
+   "end": 306.4,
+   "text": "Yeah, I just threw it all in, and now I have to fix it, and I didn't put all the information,"
+  },
+  {
+   "start": 306.54,
+   "end": 310.98,
+   "text": "So I have to look in again, and, um, but I think I'll fix it tomorrow. I think I'll finish"
+  },
+  {
+   "start": 310.98,
+   "end": 313.96,
+   "text": "It tomorrow, and then I can start on the other ones, and, yeah, it'll be interesting. I'm super"
+  },
+  {
+   "start": 313.96,
+   "end": 318.7,
+   "text": "Excited to get all those lists, and then I want to, I need to make a thing, a little thing"
+  },
+  {
+   "start": 318.7,
+   "end": 327.48,
+   "text": "For myself, um, where I, uh, figure out miles and a little page, a journal page and stuff on my"
+  },
+  {
+   "start": 327.48,
+   "end": 338.36,
+   "text": "Website, so, yeah, so that'll be fun. Um, and, uh, so pretty much same old thing, just another day,"
+  },
+  {
+   "start": 339.32,
+   "end": 344.06,
+   "text": "Um, but I work tomorrow, so that's different. Oh, I think I may have talked too long. Okay, peace out."
+  }
+ ]
+}

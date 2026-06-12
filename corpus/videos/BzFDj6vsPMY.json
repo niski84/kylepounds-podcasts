@@ -1,0 +1,221 @@
+{
+ "youtube_id": "BzFDj6vsPMY",
+ "title": "Living in Boulder Vlog 1 - 16 - 2017",
+ "url": "https://youtu.be/BzFDj6vsPMY",
+ "published_at": "2017-01-16",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a morning vlog from Boulder on January 16, 2017, describing his irregular sleep schedule, being snowed in, and spending the day working on his website. He reflects on the scale of his website project and a frustrating day of indecision about layout choices.",
+  "speaker": "kyle",
+  "topics": [
+   "sleep schedule",
+   "Boulder weather",
+   "website work",
+   "daily vlog",
+   "working from home"
+  ],
+  "stances": [
+   {
+    "topic": "staying productive despite obstacles",
+    "position": "progress is expected to be messy; just keep going"
+   },
+   {
+    "topic": "new computer",
+    "position": "excited about how fast it is"
+   },
+   {
+    "topic": "window setup",
+    "position": "prefers being near big windows to feel connected to outside"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "History Chicks podcast",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.62,
+   "end": 10.74,
+   "text": "Hey, living in Boulder, V-Log, for the 16th of January, 2017, and it is 9.45 in the morning."
+  },
+  {
+   "start": 13.38,
+   "end": 31.3,
+   "text": "Um, so, yesterday, hmm, hmm, hmm, yesterday, I, um, I can't remember what time I got up."
+  },
+  {
+   "start": 31.3,
+   "end": 37.94,
+   "text": "Um, I, I got to sleep at, like, noon or something, and then I got up at, like, five."
+  },
+  {
+   "start": 38.12,
+   "end": 43.06,
+   "text": "Yeah, it wasn't that many hours that I slept yesterday, um, but I remember I did get up"
+  },
+  {
+   "start": 43.06,
+   "end": 48.7,
+   "text": "Before it got dark, but, and then I was up all night, and so now it's 9.46, and yeah,"
+  },
+  {
+   "start": 49.02,
+   "end": 51.58,
+   "text": "So, I don't know how much longer I'll be up before I get to sleep."
+  },
+  {
+   "start": 52.8,
+   "end": 57.88,
+   "text": "Um, if every day that goes by I go to sleep, or later, you know, I'll eventually cycle through"
+  },
+  {
+   "start": 57.88,
+   "end": 66.68,
+   "text": "And go to sleep, like, at sunset, but, um, so yesterday, yeah, I, uh, I was just trying"
+  },
+  {
+   "start": 66.68,
+   "end": 71.82,
+   "text": "To get as far ahead of my website as I could, surface level stuff, by Monday, because I was"
+  },
+  {
+   "start": 71.82,
+   "end": 75.9,
+   "text": "Planning on doing stuff selling my car, but I didn't, I wasn't paying attention to the"
+  },
+  {
+   "start": 75.9,
+   "end": 85.16,
+   "text": "Weather, and I, like, I look outside, hmm, and, um, there's all this snow, and so I just"
+  },
+  {
+   "start": 85.16,
+   "end": 88.26,
+   "text": "Called my mom, and she said I shouldn't go outside today, because it's, like, too dangerous,"
+  },
+  {
+   "start": 88.42,
+   "end": 96.04,
+   "text": "So, um, I guess I'll just stay inside, and work on my website tomorrow."
+  },
+  {
+   "start": 97.16,
+   "end": 103.34,
+   "text": "I'm super jazzed by how fast this computer is, like, I haven't worked on this stuff since"
+  },
+  {
+   "start": 103.34,
+   "end": 108.52,
+   "text": "I had got this new computer, and that's really cool, but, uh, yeah, I'm just doing everything,"
+  },
+  {
+   "start": 108.52,
+   "end": 116.2,
+   "text": "Just surface level stuff, and that's going by fast, but I have so much, oh my god, uh,"
+  },
+  {
+   "start": 116.44,
+   "end": 125.5,
+   "text": "Yeah, yeah, I mean, uh, I'll be honest, there were, there are lots of, like, uh, moments"
+  },
+  {
+   "start": 125.5,
+   "end": 129.66,
+   "text": "In my head as I'm going around, and I'm, like, re-looking, revisiting, and seeing how big"
+  },
+  {
+   "start": 129.66,
+   "end": 135.36,
+   "text": "All this stuff is, and how many times I've been and stuff, yeah, I am thinking to myself,"
+  },
+  {
+   "start": 135.36,
+   "end": 142.46,
+   "text": "Like, holy shit, you're kind of, this is kind of crazy, but, um, it's not something that"
+  },
+  {
+   "start": 142.46,
+   "end": 151.64,
+   "text": "I can't, uh, gather, so, uh, I can gather the sheep, just have to keep riding the horse,"
+  },
+  {
+   "start": 151.64,
+   "end": 161.16,
+   "text": "Um, so, right, I'm, I don't, I'm just doing a list, fixing lists right now, I was adding"
+  },
+  {
+   "start": 161.16,
+   "end": 167.4,
+   "text": "Ads before, I realized I was adding the right, wrong ad, though, um, oh, I remember, yeah,"
+  },
+  {
+   "start": 167.46,
+   "end": 171.38,
+   "text": "Because I was adding this block one that's too wide, so I had to re-add the more narrow"
+  },
+  {
+   "start": 171.38,
+   "end": 176.22,
+   "text": "One, but yesterday was kind of a waste, I didn't, or I didn't do, it was one of those"
+  },
+  {
+   "start": 176.22,
+   "end": 180.08,
+   "text": "Stuck-in-the-mud days, I wasn't making that much progress, because I couldn't decide what"
+  },
+  {
+   "start": 180.08,
+   "end": 188.82,
+   "text": "I wanted my, uh, 100 levels to look like on my 40-kilometer page, and so I had to redo"
+  },
+  {
+   "start": 188.82,
+   "end": 194.88,
+   "text": "It, I, like, paste, like, 170, there's two pages, 100 each, and I'd do, like, half of"
+  },
+  {
+   "start": 194.88,
+   "end": 199.44,
+   "text": "One, and I'd be like, oh, shit, no, no, I wanted that, oh, shit, so, but that's to be"
+  },
+  {
+   "start": 199.44,
+   "end": 207.0,
+   "text": "Expected, you know, so, uh, anyway, it's so nice that it's, that it's cold out, and I'm,"
+  },
+  {
+   "start": 207.0,
+   "end": 210.78,
+   "text": "Like, all wintery, uh, I'm right next to the window with my new situation I have, and"
+  },
+  {
+   "start": 210.78,
+   "end": 215.74,
+   "text": "Then I can look out that window, so, I feel like I'm more outside, I can feel, like, the"
+  },
+  {
+   "start": 215.74,
+   "end": 218.82,
+   "text": "Outside being here, because the windows are big, so, and I'm next to them, so it's really"
+  },
+  {
+   "start": 218.82,
+   "end": 225.0,
+   "text": "Cool, it's better than, way better than what I had before, um, yeah, so anyways, uh,"
+  },
+  {
+   "start": 225.4,
+   "end": 231.74,
+   "text": "I was listening to the V-log chicks, they're good, I mean, I don't know, the history chicks,"
+  },
+  {
+   "start": 231.74,
+   "end": 236.06,
+   "text": "They're good, okay, so I've talked long enough, peace out!"
+  }
+ ]
+}

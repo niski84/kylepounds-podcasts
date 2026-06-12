@@ -1,0 +1,348 @@
+{
+ "youtube_id": "2oHb1SCYXgQ",
+ "title": "Living in Boulder Vlog 2 - 17 - 2017: Area Circles Background",
+ "url": "https://youtu.be/2oHb1SCYXgQ",
+ "published_at": "2017-02-18",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about his day in Boulder, which included shampooing his car at his mom's house for hours. He explains the 'area circles' background used in his videos — concentric rings doubling in size starting at 500 meters, meant to give viewers a spatial sense of scale when traveling. He also vents about feeling overwhelmed trying to start too many projects simultaneously: biking, acting/a show, and his website, which has multiple unfinished pages.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "car cleaning",
+   "website project",
+   "area circles map tool",
+   "overwhelm/productivity",
+   "Boulder living",
+   "cannabis use"
+  ],
+  "stances": [
+   {
+    "topic": "car shampooing",
+    "position": "Should have done it long ago; it's time-consuming but worth it"
+   },
+   {
+    "topic": "area circles project",
+    "position": "Useful tool for calibrating geographic scale; plans to make videos for each size from different world locations"
+   },
+   {
+    "topic": "juggling multiple projects",
+    "position": "Feels overwhelmed trying to start biking, acting, and website work all at once; things feel like they're falling apart"
+   },
+   {
+    "topic": "his website",
+    "position": "It's a mess — multiple unfinished pages; needs to be fixed before he can move forward"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "mom's house",
+   "Google Earth",
+   "Roman agrarian law"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.72,
+   "end": 2.72,
+   "text": "Hello."
+  },
+  {
+   "start": 5.12,
+   "end": 8.32,
+   "text": "Living in Boulder if you look for 1021PM."
+  },
+  {
+   "start": 11.76,
+   "end": 13.76,
+   "text": "There were 17."
+  },
+  {
+   "start": 14.8,
+   "end": 21.6,
+   "text": "So today I got up kind of early like at 8 and I think I even did a little bit of work on my website."
+  },
+  {
+   "start": 22.56,
+   "end": 25.2,
+   "text": "You're like an hour or something for a half hour."
+  },
+  {
+   "start": 26.08,
+   "end": 29.68,
+   "text": "But then I laid down again. I hadn't saw on the old night."
+  },
+  {
+   "start": 30.96,
+   "end": 34.56,
+   "text": "And slept until I got a lot and then I went to my mom's house and a"
+  },
+  {
+   "start": 35.68,
+   "end": 38.72,
+   "text": "shampooed, like noon to six."
+  },
+  {
+   "start": 39.84,
+   "end": 44.0,
+   "text": "Constantly it was dumping out a white foam,"
+  },
+  {
+   "start": 44.08,
+   "end": 47.44,
+   "text": "both. I didn't realize how"
+  },
+  {
+   "start": 49.76,
+   "end": 62.37,
+   "text": "I'm up with it's uh, I did the whole car. I'm doing the doors and everything and it's uh,"
+  },
+  {
+   "start": 63.33,
+   "end": 68.45,
+   "text": "I didn't realize how dirty it was before and it's starting to look really good."
+  },
+  {
+   "start": 71.09,
+   "end": 73.09,
+   "text": "Like a work of art."
+  },
+  {
+   "start": 73.41,
+   "end": 75.41,
+   "text": "I can use MPs."
+  },
+  {
+   "start": 76.29,
+   "end": 81.17,
+   "text": "And uh, yeah, I didn't realize how much, how much better little I should have done this long time ago."
+  },
+  {
+   "start": 81.89,
+   "end": 83.73,
+   "text": "But it's a very time consuming."
+  },
+  {
+   "start": 83.73,
+   "end": 90.45,
+   "text": "It's a days hours. So you know, go back to normal as early as I can and hopefully I can finish tomorrow."
+  },
+  {
+   "start": 90.53,
+   "end": 94.93,
+   "text": "Going to shampoo it until it stops coming up with uh,"
+  },
+  {
+   "start": 96.61,
+   "end": 105.68,
+   "text": "white foam. Um, because, yeah, I just must have put away too much shampoo concentrate in there."
+  },
+  {
+   "start": 106.32,
+   "end": 109.2,
+   "text": "And then I'll do the thing here and I'll do the same thing here and I'll with my road."
+  },
+  {
+   "start": 109.92,
+   "end": 114.16,
+   "text": "I'm probably did the same thing. I'll just go over it without putting any constant"
+  },
+  {
+   "start": 114.16,
+   "end": 120.8,
+   "text": "to it. Detergent on there and it'll just bring the white foam out from the detergent put it before."
+  },
+  {
+   "start": 120.88,
+   "end": 125.52,
+   "text": "Oh, no, I forgot to do talk about the background. Okay."
+  },
+  {
+   "start": 126.72,
+   "end": 133.04,
+   "text": "Background for today is uh, let's see my area circle. So I started it."
+  },
+  {
+   "start": 133.76,
+   "end": 142.64,
+   "text": "So this is to um, give an idea of size. And so for uh, so that you can use it to calibrate in your head"
+  },
+  {
+   "start": 142.64,
+   "end": 150.32,
+   "text": "from when you travel around, build a realm and roam. Um, or wherever you're in the world, because I have"
+  },
+  {
+   "start": 150.4,
+   "end": 155.36,
+   "text": "it on all the different, I'll different types of places in the world. And then when they open up it,"
+  },
+  {
+   "start": 156.0,
+   "end": 162.16,
+   "text": "it overlaps, so it takes over the whole world and then it, um, it's areas from 500 meters"
+  },
+  {
+   "start": 162.16,
+   "end": 167.12,
+   "text": "and then it just doubles or no, I didn't have it for one meter. But on the Google Earth right now,"
+  },
+  {
+   "start": 167.12,
+   "end": 174.88,
+   "text": "because I'm not done with it, um, I have it from 500 meters and then it doubles. So on 1,000 meters"
+  },
+  {
+   "start": 174.96,
+   "end": 181.6,
+   "text": "and then 2.5 plumber is 5 plumber, just in plumber than that. So, you know, and I'll stand,"
+  },
+  {
+   "start": 182.16,
+   "end": 186.24,
+   "text": "I can label each one of these 20 plumber across and be a kingdom. That's what we're running. That's"
+  },
+  {
+   "start": 186.24,
+   "end": 191.92,
+   "text": "this kingdom once you can move on to the beginning. 40 plumber across would be linked to Latins,"
+  },
+  {
+   "start": 191.92,
+   "end": 199.04,
+   "text": "but people will speak that language. And then yeah. So, uh, I think later on under a video where I'll"
+  },
+  {
+   "start": 199.04,
+   "end": 203.84,
+   "text": "do, um, the same size from all the different places in the world jumping, that'd be cool."
+  },
+  {
+   "start": 204.96,
+   "end": 208.72,
+   "text": "For each size, each video, each size, because this was this took eight minutes, just to do that."
+  },
+  {
+   "start": 209.44,
+   "end": 214.4,
+   "text": "So yeah, I'll take on make this video take eight minutes. So, um,"
+  },
+  {
+   "start": 215.28,
+   "end": 221.76,
+   "text": "where? Um, okay, so yeah, I just shampooed all the dialogue and I just didn't even use it."
+  },
+  {
+   "start": 221.76,
+   "end": 226.4,
+   "text": "And I can't worry about that. I need to, uh, clip audio books on there now."
+  },
+  {
+   "start": 227.04,
+   "end": 234.19,
+   "text": "Um, the thing is right now, kind of like, I'm like, uh,"
+  },
+  {
+   "start": 236.03,
+   "end": 241.39,
+   "text": "I feel like the, uh, starts to get better, cries, going down, work nine, and just like,"
+  },
+  {
+   "start": 241.39,
+   "end": 245.47,
+   "text": "rattling apart, because we're trying to do too many things at the same time."
+  },
+  {
+   "start": 247.23,
+   "end": 250.11,
+   "text": "I'm like, I desperately need me to want to do like all these different things. So, I,"
+  },
+  {
+   "start": 250.11,
+   "end": 254.51,
+   "text": "I want to, because I want, I need to, I want to start, I'm like, I need to start, I'm like, I need to start"
+  },
+  {
+   "start": 254.51,
+   "end": 257.23,
+   "text": "running my bike, I'm in it like, and, uh,"
+  },
+  {
+   "start": 258.27,
+   "end": 266.35,
+   "text": "for a while, like, and, uh, but in order to do that, I need to start acting. I need to do the"
+  },
+  {
+   "start": 266.35,
+   "end": 271.31,
+   "text": "show. I need to have it all started at the same time. But in order to do those two things, I have"
+  },
+  {
+   "start": 271.31,
+   "end": 274.51,
+   "text": "to have the webpage for it, and I never meant to, but they're actually didn't make the webpage"
+  },
+  {
+   "start": 277.28,
+   "end": 284.88,
+   "text": "for show. But I made one for the biking, but it disappeared. I made like 300, I mean, the whole length,"
+  },
+  {
+   "start": 284.88,
+   "end": 289.52,
+   "text": "like I think 300 of them one for each day. And I thought I made, and I just disappeared."
+  },
+  {
+   "start": 289.52,
+   "end": 298.64,
+   "text": "I thought I went into my site, I didn't. So, I have to rebuild it again. So, I have to make that,"
+  },
+  {
+   "start": 303.15,
+   "end": 308.83,
+   "text": "but within order to make that, that links that will, I'm trying to looking at my more surface level"
+  },
+  {
+   "start": 308.83,
+   "end": 317.23,
+   "text": "pages on that website. I got the education page, which never was finished, and then I was the"
+  },
+  {
+   "start": 317.31,
+   "end": 321.79,
+   "text": "audience, the free audience, the books, and I need to start listening to those two, and those pages"
+  },
+  {
+   "start": 321.79,
+   "end": 330.11,
+   "text": "were never finished. Like my website is like, it's like, it's like, Syria, Mom doubts Syria."
+  },
+  {
+   "start": 330.67,
+   "end": 336.67,
+   "text": "So I need to go on there and fix it up real quick. So it's like, that's what I was doing. I'm working on"
+  },
+  {
+   "start": 336.75,
+   "end": 352.75,
+   "text": "Italy right now. So it's cool. Yeah. So, I'm 47. Tomorrow I'm going to go into my morning"
+  },
+  {
+   "start": 352.75,
+   "end": 359.15,
+   "text": "house. I already said that shampoo, and I know if listen up, listen to something other than music."
+  },
+  {
+   "start": 359.23,
+   "end": 370.35,
+   "text": "Yeah. We're building a candle on it to listen to Roman agrarian law. I'll do that."
+  },
+  {
+   "start": 372.59,
+   "end": 378.91,
+   "text": "And I guess that's enough talking for tonight. I'm really high right now. Peace out."
+  }
+ ]
+}

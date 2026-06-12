@@ -1,0 +1,515 @@
+{
+ "youtube_id": "PkO-Xl2_sWE",
+ "title": "Living in Boulder Vlog 12 - 5 - 2016",
+ "url": "https://youtu.be/PkO-Xl2_sWE",
+ "published_at": "2016-12-07",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about his day in Boulder on December 5, 2016, explaining he missed the previous day's video after staying up late to help his mom move wood. He spent the day working on a 3D reconstruction/tracing project of ancient Rome — currently doing columns and planning the Roman Forum — while listening to a 'History of Byzantium' audiobook.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "Boulder life",
+   "ancient Rome 3D reconstruction project",
+   "helping family",
+   "History of Byzantium audiobook",
+   "cannabis use"
+  ],
+  "stances": [
+   {
+    "topic": "Rome reconstruction project",
+    "position": "excited about progress and eager to start building structures one by one once tracing is complete"
+   },
+   {
+    "topic": "Rome software/navigation",
+    "position": "finds it frustrating that the Rome simulation keeps pulling you to ground level unexpectedly"
+   }
+  ],
+  "entities": [
+   "Kyle's mom",
+   "History of Byzantium (podcast/audiobook)",
+   "Roman Forum",
+   "Boulder (Colorado)",
+   "Rome (city/reconstruction subject)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.34,
+   "end": 3.06,
+   "text": "Hello, living in Boulder, Vlog."
+  },
+  {
+   "start": 4.06,
+   "end": 6.8,
+   "text": "For Monday, December 5th."
+  },
+  {
+   "start": 7.46,
+   "end": 9.18,
+   "text": "I think we're still in our cold spell."
+  },
+  {
+   "start": 10.18,
+   "end": 12.22,
+   "text": "I don't know if I'm still working all the time."
+  },
+  {
+   "start": 12.3,
+   "end": 13.9,
+   "text": "I'm gonna take this over."
+  },
+  {
+   "start": 14.74,
+   "end": 15.98,
+   "text": "Um..."
+  },
+  {
+   "start": 16.82,
+   "end": 18.7,
+   "text": "So what did I do yesterday?"
+  },
+  {
+   "start": 18.7,
+   "end": 19.54,
+   "text": "Um..."
+  },
+  {
+   "start": 20.34,
+   "end": 21.18,
+   "text": "God up."
+  },
+  {
+   "start": 22.26,
+   "end": 25.06,
+   "text": "Oh yeah, I forgot to do my video yesterday because I got up."
+  },
+  {
+   "start": 25.78,
+   "end": 27.82,
+   "text": "I had to get up to help my mom."
+  },
+  {
+   "start": 27.82,
+   "end": 29.02,
+   "text": "I was up until six."
+  },
+  {
+   "start": 29.02,
+   "end": 30.86,
+   "text": "So I just kind of forced myself up and then..."
+  },
+  {
+   "start": 31.18,
+   "end": 33.1,
+   "text": "So the rest of the day I thought that I..."
+  },
+  {
+   "start": 33.66,
+   "end": 35.9,
+   "text": "I'd done the video because I usually do when I get up."
+  },
+  {
+   "start": 36.3,
+   "end": 38.86,
+   "text": "I went to her house to help put..."
+  },
+  {
+   "start": 38.86,
+   "end": 39.66,
+   "text": "Uhhh..."
+  },
+  {
+   "start": 39.98,
+   "end": 42.3,
+   "text": "Wood in the backyard."
+  },
+  {
+   "start": 42.94,
+   "end": 43.98,
+   "text": "And um..."
+  },
+  {
+   "start": 44.86,
+   "end": 47.26,
+   "text": "And then I came back and I was just working all day."
+  },
+  {
+   "start": 48.22,
+   "end": 50.3,
+   "text": "From listening to the history of the Xanthium from..."
+  },
+  {
+   "start": 50.3,
+   "end": 52.3,
+   "text": "I can't remember his name."
+  },
+  {
+   "start": 52.3,
+   "end": 53.1,
+   "text": "Let's see if I..."
+  },
+  {
+   "start": 53.1,
+   "end": 53.5,
+   "text": "I've..."
+  },
+  {
+   "start": 53.5,
+   "end": 54.46,
+   "text": "It's still here."
+  },
+  {
+   "start": 55.18,
+   "end": 56.06,
+   "text": "My tunes."
+  },
+  {
+   "start": 56.86,
+   "end": 57.66,
+   "text": "Um..."
+  },
+  {
+   "start": 58.62,
+   "end": 61.18,
+   "text": "History of the Xanthium doesn't have his name on here."
+  },
+  {
+   "start": 61.58,
+   "end": 62.3,
+   "text": "Anyway..."
+  },
+  {
+   "start": 62.7,
+   "end": 63.42,
+   "text": "It's big."
+  },
+  {
+   "start": 63.42,
+   "end": 64.46,
+   "text": "It's long, doesn't it, forever."
+  },
+  {
+   "start": 66.46,
+   "end": 69.42,
+   "text": "Yeah, and I found out some cool source material too."
+  },
+  {
+   "start": 69.42,
+   "end": 71.42,
+   "text": "So I'll have the computer read that to me."
+  },
+  {
+   "start": 72.7,
+   "end": 73.18,
+   "text": "Um..."
+  },
+  {
+   "start": 73.18,
+   "end": 73.82,
+   "text": "But uh..."
+  },
+  {
+   "start": 73.82,
+   "end": 75.82,
+   "text": "Yeah, so I was just working all day long."
+  },
+  {
+   "start": 75.82,
+   "end": 76.06,
+   "text": "Um..."
+  },
+  {
+   "start": 76.06,
+   "end": 77.9,
+   "text": "I don't even remember what I was doing."
+  },
+  {
+   "start": 77.9,
+   "end": 79.58,
+   "text": "I did a bunch of apartment buildings."
+  },
+  {
+   "start": 88.73,
+   "end": 90.09,
+   "text": "I'm kind of high right now."
+  },
+  {
+   "start": 90.09,
+   "end": 90.81,
+   "text": "I had like..."
+  },
+  {
+   "start": 91.77,
+   "end": 93.13,
+   "text": "I had some more..."
+  },
+  {
+   "start": 93.13,
+   "end": 94.01,
+   "text": "Something like that."
+  },
+  {
+   "start": 96.57,
+   "end": 97.61,
+   "text": "So..."
+  },
+  {
+   "start": 97.61,
+   "end": 99.13,
+   "text": "Right now I'm doing columns."
+  },
+  {
+   "start": 100.41,
+   "end": 103.45,
+   "text": "I wanted to do the forum today."
+  },
+  {
+   "start": 103.45,
+   "end": 104.33,
+   "text": "Roman forum."
+  },
+  {
+   "start": 106.25,
+   "end": 108.25,
+   "text": "That's the last complicated part."
+  },
+  {
+   "start": 108.81,
+   "end": 111.05,
+   "text": "Once I trace the whole thing, but then I..."
+  },
+  {
+   "start": 111.05,
+   "end": 112.09,
+   "text": "I mean uh..."
+  },
+  {
+   "start": 112.09,
+   "end": 114.49,
+   "text": "Well I have to do tiles from the ground."
+  },
+  {
+   "start": 114.49,
+   "end": 116.89,
+   "text": "I'll have a bunch of the temples which would take forever."
+  },
+  {
+   "start": 116.89,
+   "end": 117.93,
+   "text": "Somehow I can do that."
+  },
+  {
+   "start": 118.57,
+   "end": 119.13,
+   "text": "Right away."
+  },
+  {
+   "start": 120.33,
+   "end": 121.69,
+   "text": "I'll have to do the roads too."
+  },
+  {
+   "start": 122.49,
+   "end": 125.37,
+   "text": "But once I trace everything, which is within the next."
+  },
+  {
+   "start": 126.09,
+   "end": 126.57,
+   "text": "We..."
+  },
+  {
+   "start": 128.41,
+   "end": 130.41,
+   "text": "It's a lot faster to go the left Roman Boulder."
+  },
+  {
+   "start": 131.85,
+   "end": 132.81,
+   "text": "Because it's more uniform."
+  },
+  {
+   "start": 133.61,
+   "end": 135.45,
+   "text": "Um... yeah, man."
+  },
+  {
+   "start": 135.45,
+   "end": 136.65,
+   "text": "Then hopefully Lord..."
+  },
+  {
+   "start": 136.65,
+   "end": 137.45,
+   "text": "Oh my god."
+  },
+  {
+   "start": 138.25,
+   "end": 140.09,
+   "text": "I can really... I can like build them."
+  },
+  {
+   "start": 140.09,
+   "end": 142.25,
+   "text": "I can start to build them one after the egg."
+  },
+  {
+   "start": 142.25,
+   "end": 143.69,
+   "text": "Next, start with the easiest one."
+  },
+  {
+   "start": 144.49,
+   "end": 145.61,
+   "text": "And it was kind of..."
+  },
+  {
+   "start": 145.61,
+   "end": 146.57,
+   "text": "toying around with..."
+  },
+  {
+   "start": 147.53,
+   "end": 148.57,
+   "text": "HEEEHHHHH!"
+  },
+  {
+   "start": 148.57,
+   "end": 150.41,
+   "text": "One before and I was like,"
+  },
+  {
+   "start": 150.41,
+   "end": 151.13,
+   "text": "wow..."
+  },
+  {
+   "start": 152.09,
+   "end": 154.41,
+   "text": "The only problem is, um, is you're scrolling around,"
+  },
+  {
+   "start": 154.41,
+   "end": 156.09,
+   "text": "walking around the palaces."
+  },
+  {
+   "start": 156.81,
+   "end": 158.09,
+   "text": "You're always like to catch,"
+  },
+  {
+   "start": 158.09,
+   "end": 160.57,
+   "text": "because you're in Roman, Rome, and Rome is so active."
+  },
+  {
+   "start": 161.45,
+   "end": 163.93,
+   "text": "It always likes to catch and pull you down on a ground level."
+  },
+  {
+   "start": 164.57,
+   "end": 165.93,
+   "text": "Hey look where you are now."
+  },
+  {
+   "start": 165.93,
+   "end": 166.81,
+   "text": "It's like a..."
+  },
+  {
+   "start": 166.81,
+   "end": 168.49,
+   "text": "I got pulled down into ground level,"
+  },
+  {
+   "start": 168.49,
+   "end": 170.89,
+   "text": "right into some like statues at it."
+  },
+  {
+   "start": 170.89,
+   "end": 172.89,
+   "text": "Make it at, right in my face."
+  },
+  {
+   "start": 174.09,
+   "end": 175.61,
+   "text": "I don't remember what Temple that was,"
+  },
+  {
+   "start": 175.93,
+   "end": 177.37,
+   "text": "but um..."
+  },
+  {
+   "start": 180.01,
+   "end": 181.37,
+   "text": "Anyway, um..."
+  },
+  {
+   "start": 182.57,
+   "end": 184.01,
+   "text": "So I'm doing..."
+  },
+  {
+   "start": 186.33,
+   "end": 187.77,
+   "text": "I'm doing columns right now,"
+  },
+  {
+   "start": 187.77,
+   "end": 190.73,
+   "text": "and yeah, it set episodes at 81."
+  },
+  {
+   "start": 190.73,
+   "end": 191.77,
+   "text": "Show them where they're going to lay up."
+  },
+  {
+   "start": 192.73,
+   "end": 194.33,
+   "text": "HEEEHHHHH!"
+  },
+  {
+   "start": 194.33,
+   "end": 195.61,
+   "text": "Oh, okay."
+  },
+  {
+   "start": 195.61,
+   "end": 197.13,
+   "text": "Oh, I think I'll do my video today."
+  },
+  {
+   "start": 197.13,
+   "end": 198.41,
+   "text": "I thought how we should rebuild Rome."
+  },
+  {
+   "start": 199.37,
+   "end": 200.17,
+   "text": "You'll want to get those,"
+  },
+  {
+   "start": 200.17,
+   "end": 201.93,
+   "text": "let me pull this video up and stop it."
+  },
+  {
+   "start": 201.93,
+   "end": 202.41,
+   "text": "Alright."
+  },
+  {
+   "start": 202.97,
+   "end": 203.61,
+   "text": "Peace out."
+  }
+ ]
+}

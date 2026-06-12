@@ -1,0 +1,182 @@
+{
+ "youtube_id": "y7b87_UUSUc",
+ "title": "Living in Boulder Vlog 6 - 16 -  2014",
+ "url": "https://youtu.be/y7b87_UUSUc",
+ "published_at": "2014-06-17",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle logs a typical day in Boulder: a 12.5-mile bike commute, a frustrated visit to his mom's house over a phone call he couldn't complete, and an evening spent iterating on his website. He also shares his new habit of listening to a different audiobook each day at work, mentioning the book 'Life in a Black Regiment.'",
+  "speaker": "kyle",
+  "topics": [
+   "daily routine",
+   "bike commuting",
+   "website work",
+   "audiobooks",
+   "family"
+  ],
+  "stances": [
+   {
+    "topic": "audiobook variety",
+    "position": "prefers cycling through different audiobooks rather than repeating the same one — more exciting"
+   },
+   {
+    "topic": "website iteration",
+    "position": "found the day's design work frustrating but worthwhile — kept changing things until something felt right"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Life in a Black Regiment",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 8.0,
+   "text": "Good morning living in Boulder, Vilaug, and for the 16th of June, 2014, I guess we're halfway through June."
+  },
+  {
+   "start": 8.0,
+   "end": 11.0,
+   "text": "It's finally starting to warm up, that's nice."
+  },
+  {
+   "start": 11.0,
+   "end": 18.0,
+   "text": "I wrote my bike like they're 12 and a half miles to first house yesterday, and then I did."
+  },
+  {
+   "start": 18.0,
+   "end": 22.0,
+   "text": "And then went over to another one and then came home."
+  },
+  {
+   "start": 22.0,
+   "end": 26.0,
+   "text": "I went to my mom's house because she wanted me to, oh we're going to help her organize her office,"
+  },
+  {
+   "start": 26.0,
+   "end": 30.0,
+   "text": "but I mentioned my life taking my life. I'm a Zotans, she made me call."
+  },
+  {
+   "start": 30.0,
+   "end": 38.0,
+   "text": "Medicates, if I could get it taken out, but I couldn't get through, which frustrated me, so I ended up not wanting to help her."
+  },
+  {
+   "start": 38.0,
+   "end": 41.0,
+   "text": "I just came home and then I was working on my computer, but on my website."
+  },
+  {
+   "start": 41.0,
+   "end": 46.0,
+   "text": "But it was basically a day of just figuring out what I wanted it to look like. It was weird."
+  },
+  {
+   "start": 46.0,
+   "end": 53.0,
+   "text": "I went through fixing like 80 different things, and then I can't give it to the de-stilter right now."
+  },
+  {
+   "start": 53.0,
+   "end": 61.0,
+   "text": "But 80 different things, like over and over again, didn't realize it was, I didn't like it that way until I was actually like that."
+  },
+  {
+   "start": 61.0,
+   "end": 65.0,
+   "text": "Anyway, I'm listening to audiobooks."
+  },
+  {
+   "start": 65.0,
+   "end": 68.0,
+   "text": "I'm doing this new thing, I was doing audiobook every day."
+  },
+  {
+   "start": 68.0,
+   "end": 73.0,
+   "text": "So you have been working now for a bit month and a half now, so I'm getting into a groove."
+  },
+  {
+   "start": 73.0,
+   "end": 79.0,
+   "text": "So the groove I want to do, I'm doing excited about this new audiobook every day."
+  },
+  {
+   "start": 79.0,
+   "end": 84.0,
+   "text": "Before I was just going to say one over and over again, but now I'm doing a different one, which is really exciting."
+  },
+  {
+   "start": 84.0,
+   "end": 86.0,
+   "text": "Because some books are just fascinating."
+  },
+  {
+   "start": 86.0,
+   "end": 90.0,
+   "text": "Others, you just want to get through once and every do again, but some are just really good."
+  },
+  {
+   "start": 90.0,
+   "end": 94.0,
+   "text": "Yesterday I did one called Life in a Black Regiment."
+  },
+  {
+   "start": 94.0,
+   "end": 103.0,
+   "text": "It was this like white guy who is the commander of the first Black Regiment in the Civil War, and I was good."
+  },
+  {
+   "start": 103.0,
+   "end": 108.0,
+   "text": "But I have a whole bunch of other audiobooks on my MP3 that I just put on."
+  },
+  {
+   "start": 108.0,
+   "end": 116.0,
+   "text": "Once you just want to get through it, my real thumb is if I don't make it through the whole audiobook, like it work,"
+  },
+  {
+   "start": 116.0,
+   "end": 124.0,
+   "text": "then I've finished it at home, but if it does finish it at work, and I just listen to it, it loops over and I can listen to it."
+  },
+  {
+   "start": 124.0,
+   "end": 127.0,
+   "text": "And then when I get home, I just put another one on."
+  },
+  {
+   "start": 127.0,
+   "end": 132.0,
+   "text": "Or if I'm halfway through one, then I just start where I was, you know."
+  },
+  {
+   "start": 132.0,
+   "end": 143.0,
+   "text": "But yeah, anyways, I'm excited to, I have to ride back from superhero today, so it's kind of another comedian coming home."
+  },
+  {
+   "start": 143.0,
+   "end": 150.0,
+   "text": "And then I get home, I'm excited to get home and see how far I can get it by website."
+  },
+  {
+   "start": 150.0,
+   "end": 152.0,
+   "text": "Or this webpage, rather."
+  },
+  {
+   "start": 152.0,
+   "end": 156.0,
+   "text": "And that's about all. Okay, peace out."
+  }
+ ]
+}

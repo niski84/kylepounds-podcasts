@@ -1,0 +1,227 @@
+{
+ "youtube_id": "3cpl15GKLSU",
+ "title": "Living in Boulder Vlog 12 - 10 - 2016",
+ "url": "https://youtu.be/3cpl15GKLSU",
+ "published_at": "2016-12-11",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle films a morning vlog from Boulder, describing a long work session the day before on a 3D map project called the NOMACCHI (a man-made lake in Rome). He also mentions helping his mom with household errands, listening to the History of Byzantium podcast, and abandoning a historical TV show in favor of fast-forwarding to visually useful scenes.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "3D mapping project",
+   "ancient Rome",
+   "Boulder Colorado",
+   "podcast listening",
+   "historical TV shows",
+   "family errands"
+  ],
+  "stances": [
+   {
+    "topic": "The Last Kingdom TV show",
+    "position": "Abandoned it as just another stupid TV show"
+   },
+   {
+    "topic": "Historical TV shows generally",
+    "position": "Only worth watching for wide-angle shots of castles and battlefields, not as entertainment"
+   },
+   {
+    "topic": "NOMACCHI mapping project",
+    "position": "Tedious and time-consuming but glad to have it; excited about comparing it to Hayden Lake in Boulder"
+   }
+  ],
+  "entities": [
+   "NOMACCHI",
+   "Rome",
+   "Hayden Lake",
+   "Boulder",
+   "History of Byzantium (podcast)",
+   "The Last Kingdom (TV show)",
+   "Alfred the Great"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.85,
+   "end": 8.05,
+   "text": "Good morning, living in Boulder vlog. Today is Sunday, so this vlog is for Saturday of the 11th show."
+  },
+  {
+   "start": 9.05,
+   "end": 11.89,
+   "text": "Ooh, I'm pretty high right now."
+  },
+  {
+   "start": 13.17,
+   "end": 19.21,
+   "text": "So yesterday I got up at like, I was working until like 6 and then I got up at like 11 or 12."
+  },
+  {
+   "start": 19.53,
+   "end": 26.73,
+   "text": "And I worked all day until 4 in the morning because, 3.30 or 4 in the morning because I had to get up today."
+  },
+  {
+   "start": 26.73,
+   "end": 33.59,
+   "text": "Um, it's 11.22 now. I had to get up to go and help my mom with stuff."
+  },
+  {
+   "start": 34.11,
+   "end": 44.85,
+   "text": "Uh, polish silver for like Christmas meal, help her buy something at the hardware store and clean the house and stuff."
+  },
+  {
+   "start": 45.17,
+   "end": 51.65,
+   "text": "So yesterday I worked on the NOMACCHI all day long. That's all I did all day long."
+  },
+  {
+   "start": 51.65,
+   "end": 57.47,
+   "text": "So, the NOMACCHI is the man-made lake in Rome, built by, I guess, just 500 meters across."
+  },
+  {
+   "start": 58.91,
+   "end": 65.13,
+   "text": "Um, and it's super complicated. Um, I'm not even, I mean, I could probably, I probably have to work all day again on it."
+  },
+  {
+   "start": 65.39,
+   "end": 72.35,
+   "text": "It's like two full days just on that because only like between a half and two thirds of it was actually,"
+  },
+  {
+   "start": 72.35,
+   "end": 79.57,
+   "text": "I'm, I'm able to trace because it's that much, only like two thirds or half of it's on the map."
+  },
+  {
+   "start": 79.67,
+   "end": 86.81,
+   "text": "So, I have to, um, I have to, like an artist, draw out the rest of it."
+  },
+  {
+   "start": 87.07,
+   "end": 93.21,
+   "text": "Um, kind of like when I was building Boulder, which is like 10 times more time consuming than just tracing it."
+  },
+  {
+   "start": 93.21,
+   "end": 98.57,
+   "text": "So, I'm going to be happy when I'm done with the NOMACCHI, but I'm really glad that I have it."
+  },
+  {
+   "start": 99.65,
+   "end": 104.33,
+   "text": "I'm tripped out that it's the same size as Hayden Lake here in Boulder."
+  },
+  {
+   "start": 104.51,
+   "end": 105.99,
+   "text": "Pretty much the exact same size."
+  },
+  {
+   "start": 108.57,
+   "end": 115.21,
+   "text": "It's a pretty good idea to like put photos up on the internet of like, um,"
+  },
+  {
+   "start": 117.63,
+   "end": 121.55,
+   "text": "The NOMACCHI and Hayden Lake soon proposed on top of each other as a picture."
+  },
+  {
+   "start": 121.55,
+   "end": 126.23,
+   "text": "And then not just that, but everything, every sister thing I have, have them superimposed,"
+  },
+  {
+   "start": 126.45,
+   "end": 128.69,
+   "text": "Like the tribes to everything, buildings."
+  },
+  {
+   "start": 131.93,
+   "end": 137.5,
+   "text": "Um, yeah, so that's what I'll do today."
+  },
+  {
+   "start": 137.56,
+   "end": 141.2,
+   "text": "I'll go and work with my mom, come back, work on the NOMACCHI."
+  },
+  {
+   "start": 141.26,
+   "end": 142.66,
+   "text": "I probably won't even finish it today."
+  },
+  {
+   "start": 143.16,
+   "end": 143.92,
+   "text": "Or maybe I will."
+  },
+  {
+   "start": 146.88,
+   "end": 149.44,
+   "text": "I was listening to the History of Byzantium."
+  },
+  {
+   "start": 149.52,
+   "end": 150.58,
+   "text": "I'm not watching TV anymore."
+  },
+  {
+   "start": 150.94,
+   "end": 154.66,
+   "text": "I got about halfway through the first episode of Last Kingdom about,"
+  },
+  {
+   "start": 154.66,
+   "end": 157.46,
+   "text": "Alfred the Great, and then I realized it's just another stupid TV show."
+  },
+  {
+   "start": 157.6,
+   "end": 161.54,
+   "text": "But, um, what I do want to do is go back and all those historical TV shows,"
+  },
+  {
+   "start": 161.74,
+   "end": 164.86,
+   "text": "Just fast forward to the good parts, just so I know where they are."
+  },
+  {
+   "start": 164.86,
+   "end": 173.56,
+   "text": "And so I can see the, like the, their, uh, wide pans of the castles and battlefields and stuff like that."
+  },
+  {
+   "start": 174.76,
+   "end": 179.6,
+   "text": "So, uh, maybe even put it on screen captures on my website."
+  },
+  {
+   "start": 179.76,
+   "end": 182.44,
+   "text": "I did, I have a bunch of that collected on my other hard drive."
+  },
+  {
+   "start": 183.28,
+   "end": 184.24,
+   "text": "That I think died."
+  },
+  {
+   "start": 184.24,
+   "end": 186.98,
+   "text": "But, anyways, I think I've babbled enough."
+  },
+  {
+   "start": 187.78,
+   "end": 188.44,
+   "text": "Peace out."
+  }
+ ]
+}

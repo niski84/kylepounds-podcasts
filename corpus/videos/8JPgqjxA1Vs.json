@@ -1,0 +1,811 @@
+{
+ "youtube_id": "8JPgqjxA1Vs",
+ "title": "Living in Boulder Vlog 3 - 23 - 2016",
+ "url": "https://youtu.be/8JPgqjxA1Vs",
+ "published_at": "2016-03-24",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs late at night from Boulder, covering a chaotic day: recording Native American audiobooks, dealing with a freezing Mac (fixed via Apple support with Control-R first aid), biking to his mom's house to retrieve his roommate's car, and realizing his YouTube presence may be hurting his mom's teaching business since they share a last name. He reflects on needing to mature his online presence, drop weight, and stabilize his life before pursuing other goals.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "tech problems",
+   "audiobook recording",
+   "YouTube presence",
+   "family concerns",
+   "website maintenance",
+   "lifestyle goals",
+   "sleep schedule",
+   "storage limits"
+  ],
+  "stances": [
+   {
+    "topic": "YouTube presence",
+    "position": "May need to scale back or change his YouTube identity to protect his mom's reputation as a teacher"
+   },
+   {
+    "topic": "tech storage claims",
+    "position": "Advertised gigabyte figures don't necessarily mean the device performs at that level in practice"
+   },
+   {
+    "topic": "personal priorities",
+    "position": "Needs to ensure his mom stays off the streets first, which keeps him stable too — self-sufficiency before activism"
+   },
+   {
+    "topic": "website maintenance",
+    "position": "Keeping links working is a constant battle and frustrating"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Apple",
+   "Bernie Sanders",
+   "Young Turks",
+   "Sanctimonium"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.01,
+   "end": 11.24,
+   "text": "Hey, how's it going? I live in Boulder V-Log for March 23rd, 2016. Right now, it's 11.57 at night."
+  },
+  {
+   "start": 12.54,
+   "end": 20.42,
+   "text": "I got up kind of early. Only got six hours of sleep last night, because I got to sleep at four, I think, and then I got up at like 11."
+  },
+  {
+   "start": 21.86,
+   "end": 26.8,
+   "text": "But then I had a nap for a couple hours during the day, so I'm still kind of at like nine hours of sleep a night."
+  },
+  {
+   "start": 26.8,
+   "end": 33.62,
+   "text": "And apart from that, I'm just working on this list, dude."
+  },
+  {
+   "start": 34.04,
+   "end": 40.1,
+   "text": "Part of the reason it's taking so long is because it's really big, but because I couldn't decide what I want it to look like."
+  },
+  {
+   "start": 40.14,
+   "end": 45.12,
+   "text": "I had to build it all the way through a bunch of different times, but I don't really want to talk about that."
+  },
+  {
+   "start": 45.12,
+   "end": 60.38,
+   "text": "I went over. I was working on my website here today, and I was recording also audiobooks."
+  },
+  {
+   "start": 60.38,
+   "end": 69.38,
+   "text": "So I did various legends of Native American books today, and a couple of them, I think, two of them."
+  },
+  {
+   "start": 70.48,
+   "end": 77.48,
+   "text": "And then, but at one point, I couldn't, I was like, I was between chapters."
+  },
+  {
+   "start": 77.64,
+   "end": 85.24,
+   "text": "I was like, why don't you watch YouTube a little bit, like Young Turks, because I saw Bernie Sanders was on Young Turks."
+  },
+  {
+   "start": 85.24,
+   "end": 91.48,
+   "text": "I was like, oh, look, Bernie Sanders. But I couldn't watch the video, and I couldn't scroll down, like it froze."
+  },
+  {
+   "start": 91.7,
+   "end": 96.7,
+   "text": "And then even when I rebooted Safari, so then I turned the computer off, but it couldn't turn off."
+  },
+  {
+   "start": 97.62,
+   "end": 99.24,
+   "text": "So I was like, here we go again."
+  },
+  {
+   "start": 100.24,
+   "end": 105.98,
+   "text": "So I called Apple, but it was waiting a long time, so I rode my bike down to my mom's house to go pick up my roommate's car,"
+  },
+  {
+   "start": 106.04,
+   "end": 107.22,
+   "text": "Because I left it there the other day."
+  },
+  {
+   "start": 108.68,
+   "end": 111.68,
+   "text": "And then, so I was talking to Apple, and I told them what happened, and they told me, you know,"
+  },
+  {
+   "start": 111.68,
+   "end": 114.86,
+   "text": "When you reboot it, you hit Control-R, and then you can do like first aid on it."
+  },
+  {
+   "start": 114.86,
+   "end": 126.29,
+   "text": "So I did that, and yeah, so, and they said to call every time that happens, so, you know."
+  },
+  {
+   "start": 126.97,
+   "end": 134.37,
+   "text": "I guess I'll just have to get in the habit of uploading my website every time I work on it and dragging and dropping it to my external one."
+  },
+  {
+   "start": 134.59,
+   "end": 138.37,
+   "text": "All the, I guess, videos I download, drag and drop them immediately to the external one,"
+  },
+  {
+   "start": 138.37,
+   "end": 144.05,
+   "text": "In case this computer hits the shitter and just play it by ear, man."
+  },
+  {
+   "start": 144.47,
+   "end": 145.43,
+   "text": "But, fuck, dude."
+  },
+  {
+   "start": 147.47,
+   "end": 149.41,
+   "text": "Oh, and I can't do videos on this either."
+  },
+  {
+   "start": 149.97,
+   "end": 151.89,
+   "text": "I tried to do a backup video on this last night."
+  },
+  {
+   "start": 151.95,
+   "end": 155.43,
+   "text": "I actually talked for like five minutes last night on this."
+  },
+  {
+   "start": 155.49,
+   "end": 160.91,
+   "text": "I was talking about sanctimonium, because I haven't had time to write the rules and regulations and the lifestyle of sanctimonium."
+  },
+  {
+   "start": 160.91,
+   "end": 169.55,
+   "text": "Um, so I was doing it last night on YouTube, for YouTube video, and then this just crapped out on me, even though I just deleted a 300 megabyte file."
+  },
+  {
+   "start": 169.73,
+   "end": 174.95,
+   "text": "So, maybe you have to like wait a day for it to empty out the recycle bin."
+  },
+  {
+   "start": 175.05,
+   "end": 176.21,
+   "text": "I don't know what the fuck's going on."
+  },
+  {
+   "start": 176.21,
+   "end": 184.21,
+   "text": "But, uh, but also, maybe because it's 128 gigabyte, because it drops audiobooks on this all the time."
+  },
+  {
+   "start": 184.27,
+   "end": 186.29,
+   "text": "I can't get through a chapter on this."
+  },
+  {
+   "start": 187.31,
+   "end": 192.79,
+   "text": "Um, you know, I think it gets towards the end, but I can't get through a chapter on any of the audiobook chapters, MP3 files."
+  },
+  {
+   "start": 193.29,
+   "end": 195.75,
+   "text": "So, I think because it's a 128 gigabyte card."
+  },
+  {
+   "start": 195.99,
+   "end": 199.67,
+   "text": "And same thing, maybe because it saves to the card, and it automatically saves to the card."
+  },
+  {
+   "start": 199.67,
+   "end": 201.93,
+   "text": "You can't, I don't think you can set it to save to the phone."
+  },
+  {
+   "start": 202.57,
+   "end": 203.57,
+   "text": "So, it drops it."
+  },
+  {
+   "start": 203.81,
+   "end": 204.67,
+   "text": "So, yeah."
+  },
+  {
+   "start": 205.01,
+   "end": 207.67,
+   "text": "These phones aren't quite ready to handle 120 gigabytes."
+  },
+  {
+   "start": 213.08,
+   "end": 218.84,
+   "text": "So, that's one thing I've noticed over the years, just as I'm looking at the internet and stuff."
+  },
+  {
+   "start": 219.0,
+   "end": 224.48,
+   "text": "Is people, you know, say they have offered this gigabytes and that gigabytes for websites and computers."
+  },
+  {
+   "start": 224.84,
+   "end": 228.32,
+   "text": "But, doesn't that necessarily mean that it works at that level."
+  },
+  {
+   "start": 228.46,
+   "end": 229.68,
+   "text": "But, that's pretty cool, man."
+  },
+  {
+   "start": 229.68,
+   "end": 233.14,
+   "text": "Anyway, so I'm going to do another book here pretty soon after I do my video."
+  },
+  {
+   "start": 233.28,
+   "end": 233.64,
+   "text": "So, yeah."
+  },
+  {
+   "start": 233.76,
+   "end": 235.86,
+   "text": "So, I went over to my mom's house and I was talking to my mom for a little bit."
+  },
+  {
+   "start": 237.08,
+   "end": 238.88,
+   "text": "And, oh yeah, and I was talking to her."
+  },
+  {
+   "start": 240.98,
+   "end": 244.94,
+   "text": "How about, you know, I'm going to change up my lifestyle."
+  },
+  {
+   "start": 245.46,
+   "end": 249.8,
+   "text": "And, I was telling her that, you know, I should change up my YouTube presence too."
+  },
+  {
+   "start": 249.92,
+   "end": 252.02,
+   "text": "Because, I think it might be hurting her."
+  },
+  {
+   "start": 252.1,
+   "end": 256.93,
+   "text": "And, she's like, and she kind of said, you know, kind of like in passing."
+  },
+  {
+   "start": 257.11,
+   "end": 259.57,
+   "text": "I'm like, oh yeah, I have three women on the phone."
+  },
+  {
+   "start": 259.57,
+   "end": 261.03,
+   "text": "And, I thought that they were going to have them."
+  },
+  {
+   "start": 261.09,
+   "end": 262.03,
+   "text": "But, then I didn't have them."
+  },
+  {
+   "start": 262.09,
+   "end": 263.37,
+   "text": "And, I was like, ah, it was probably me."
+  },
+  {
+   "start": 264.19,
+   "end": 270.33,
+   "text": "So, all of a sudden, for the first time, I'm like blaming myself for my mom of not doing so."
+  },
+  {
+   "start": 270.51,
+   "end": 273.31,
+   "text": "Maybe if my, you know, if my mom doesn't have as many students as she wants."
+  },
+  {
+   "start": 273.37,
+   "end": 274.09,
+   "text": "Because, she's a teacher."
+  },
+  {
+   "start": 274.23,
+   "end": 275.85,
+   "text": "And, her name just kind of shares my name."
+  },
+  {
+   "start": 276.49,
+   "end": 276.93,
+   "text": "You know."
+  },
+  {
+   "start": 276.93,
+   "end": 279.21,
+   "text": "So, if you Google her, you can find me."
+  },
+  {
+   "start": 279.27,
+   "end": 280.39,
+   "text": "If you Google me, you can find her."
+  },
+  {
+   "start": 280.61,
+   "end": 284.29,
+   "text": "And, I'm starting to feel like, even though she's said a bunch of times in the past."
+  },
+  {
+   "start": 284.69,
+   "end": 286.57,
+   "text": "Right now, I'm just, I'm finally, I'm like, you know what?"
+  },
+  {
+   "start": 287.27,
+   "end": 289.17,
+   "text": "I need to keep my mom off the streets."
+  },
+  {
+   "start": 290.03,
+   "end": 293.15,
+   "text": "And, if my mom stays off the streets, I'm less likely to stay off the streets."
+  },
+  {
+   "start": 293.27,
+   "end": 293.71,
+   "text": "You know what I mean?"
+  },
+  {
+   "start": 294.37,
+   "end": 297.35,
+   "text": "I mean, I don't, I don't even have my backup job secure."
+  },
+  {
+   "start": 297.69,
+   "end": 299.93,
+   "text": "I'm still a, fucking unworthy."
+  },
+  {
+   "start": 299.93,
+   "end": 302.41,
+   "text": "You know, can't be a midnight stalker over at Walmart."
+  },
+  {
+   "start": 302.59,
+   "end": 304.55,
+   "text": "Because, stoners are, like, subhumans."
+  },
+  {
+   "start": 305.35,
+   "end": 306.95,
+   "text": "But, I'm not even going to be a stoner anymore."
+  },
+  {
+   "start": 307.07,
+   "end": 308.51,
+   "text": "So, I guess it's not really that big of a deal."
+  },
+  {
+   "start": 308.61,
+   "end": 309.53,
+   "text": "I guess I'm past that."
+  },
+  {
+   "start": 310.55,
+   "end": 311.25,
+   "text": "So, yeah."
+  },
+  {
+   "start": 311.77,
+   "end": 318.45,
+   "text": "I guess I'll have to pass the mantle of, of the freedom fighter to, you know, the younger generation."
+  },
+  {
+   "start": 318.63,
+   "end": 319.19,
+   "text": "The other crowd."
+  },
+  {
+   "start": 319.31,
+   "end": 320.25,
+   "text": "And, I'll kind of graduate."
+  },
+  {
+   "start": 320.47,
+   "end": 325.89,
+   "text": "Move my, move my career off to the next level."
+  },
+  {
+   "start": 325.89,
+   "end": 333.95,
+   "text": "Where I can, I can ensure my, you know, keep myself inside and not on the streets."
+  },
+  {
+   "start": 334.89,
+   "end": 337.17,
+   "text": "And, then I'll be able to get that midnight stalker job."
+  },
+  {
+   "start": 337.39,
+   "end": 338.49,
+   "text": "Have that money coming in."
+  },
+  {
+   "start": 339.11,
+   "end": 340.55,
+   "text": "But, I might not have to worry about that."
+  },
+  {
+   "start": 340.59,
+   "end": 341.49,
+   "text": "Because, I'm going to sell my van."
+  },
+  {
+   "start": 342.19,
+   "end": 343.55,
+   "text": "And, I'm going to get going on my videos."
+  },
+  {
+   "start": 343.69,
+   "end": 345.03,
+   "text": "You know, maybe I can make enough money for that."
+  },
+  {
+   "start": 346.55,
+   "end": 347.93,
+   "text": "But, I have all the gear I need."
+  },
+  {
+   "start": 348.43,
+   "end": 351.21,
+   "text": "But, I'm probably going to want, I'm going to drop, I'm going to drop a lot of weight."
+  },
+  {
+   "start": 353.54,
+   "end": 353.86,
+   "text": "Um."
+  },
+  {
+   "start": 353.86,
+   "end": 358.32,
+   "text": "Yeah, and then I'm probably going to want a faster bike after I drop weight."
+  },
+  {
+   "start": 358.46,
+   "end": 360.3,
+   "text": "But, that's, uh."
+  },
+  {
+   "start": 360.88,
+   "end": 362.2,
+   "text": "Jeez, that's going to be in a while."
+  },
+  {
+   "start": 363.88,
+   "end": 364.28,
+   "text": "Uh."
+  },
+  {
+   "start": 365.22,
+   "end": 365.94,
+   "text": "But, uh."
+  },
+  {
+   "start": 366.84,
+   "end": 367.12,
+   "text": "Uh."
+  },
+  {
+   "start": 368.2,
+   "end": 368.6,
+   "text": "Excited."
+  },
+  {
+   "start": 369.04,
+   "end": 369.44,
+   "text": "Um."
+  },
+  {
+   "start": 370.56,
+   "end": 371.42,
+   "text": "Yeah, but, ooh."
+  },
+  {
+   "start": 371.46,
+   "end": 373.24,
+   "text": "I need to pick power through this page, though."
+  },
+  {
+   "start": 373.38,
+   "end": 373.98,
+   "text": "This list."
+  },
+  {
+   "start": 374.12,
+   "end": 375.32,
+   "text": "It's driving me crazy."
+  },
+  {
+   "start": 376.16,
+   "end": 377.06,
+   "text": "But, it's big."
+  },
+  {
+   "start": 377.18,
+   "end": 378.9,
+   "text": "So, it was just."
+  },
+  {
+   "start": 379.74,
+   "end": 380.14,
+   "text": "Yeah."
+  },
+  {
+   "start": 381.14,
+   "end": 381.58,
+   "text": "Uh."
+  },
+  {
+   "start": 381.58,
+   "end": 382.98,
+   "text": "And, then what am I going to do?"
+  },
+  {
+   "start": 384.04,
+   "end": 384.4,
+   "text": "Um."
+  },
+  {
+   "start": 385.4,
+   "end": 385.92,
+   "text": "Oh, yeah."
+  },
+  {
+   "start": 385.96,
+   "end": 387.4,
+   "text": "I'm going to take a step back, dude."
+  },
+  {
+   "start": 387.6,
+   "end": 388.78,
+   "text": "As quick as soon as I can."
+  },
+  {
+   "start": 388.84,
+   "end": 390.6,
+   "text": "I'm going to take a step back on my website."
+  },
+  {
+   "start": 391.68,
+   "end": 392.04,
+   "text": "Um."
+  },
+  {
+   "start": 392.56,
+   "end": 394.06,
+   "text": "And, actually look at my website."
+  },
+  {
+   "start": 394.48,
+   "end": 394.8,
+   "text": "You know."
+  },
+  {
+   "start": 395.24,
+   "end": 396.12,
+   "text": "And, click around."
+  },
+  {
+   "start": 396.26,
+   "end": 397.74,
+   "text": "And, make sure links work."
+  },
+  {
+   "start": 397.96,
+   "end": 399.12,
+   "text": "And, make."
+  },
+  {
+   "start": 399.22,
+   "end": 400.1,
+   "text": "Try to fix the links."
+  },
+  {
+   "start": 400.16,
+   "end": 400.68,
+   "text": "And, get them working."
+  },
+  {
+   "start": 401.06,
+   "end": 402.14,
+   "text": "It seems like."
+  },
+  {
+   "start": 402.5,
+   "end": 404.16,
+   "text": "Every time I fix my links."
+  },
+  {
+   "start": 404.18,
+   "end": 405.08,
+   "text": "I get all the links work."
+  },
+  {
+   "start": 405.1,
+   "end": 405.72,
+   "text": "And, they all work."
+  },
+  {
+   "start": 406.1,
+   "end": 406.98,
+   "text": "I could have sworn I did this."
+  },
+  {
+   "start": 407.04,
+   "end": 407.52,
+   "text": "Like, last year."
+  },
+  {
+   "start": 407.72,
+   "end": 408.42,
+   "text": "And, they all link."
+  },
+  {
+   "start": 408.42,
+   "end": 409.64,
+   "text": "All the links work everywhere."
+  },
+  {
+   "start": 410.52,
+   "end": 411.12,
+   "text": "But, now you go."
+  },
+  {
+   "start": 411.2,
+   "end": 411.76,
+   "text": "None of them work."
+  },
+  {
+   "start": 412.0,
+   "end": 412.38,
+   "text": "It's like."
+  },
+  {
+   "start": 412.44,
+   "end": 414.08,
+   "text": "Somehow the links reprogram themselves."
+  },
+  {
+   "start": 414.26,
+   "end": 414.54,
+   "text": "I don't know."
+  },
+  {
+   "start": 415.52,
+   "end": 416.16,
+   "text": "Constant battle."
+  },
+  {
+   "start": 416.24,
+   "end": 417.6,
+   "text": "To keep those links working, man."
+  },
+  {
+   "start": 418.02,
+   "end": 418.96,
+   "text": "If you don't have a website."
+  },
+  {
+   "start": 419.08,
+   "end": 420.04,
+   "text": "You don't even fucking know."
+  },
+  {
+   "start": 420.7,
+   "end": 421.82,
+   "text": "So, don't judge."
+  },
+  {
+   "start": 423.0,
+   "end": 423.44,
+   "text": "But, anyway."
+  },
+  {
+   "start": 424.54,
+   "end": 424.9,
+   "text": "Uh."
+  },
+  {
+   "start": 425.68,
+   "end": 426.26,
+   "text": "Oh, shit."
+  },
+  {
+   "start": 426.32,
+   "end": 427.7,
+   "text": "I've been talking for seven minutes."
+  },
+  {
+   "start": 427.9,
+   "end": 428.12,
+   "text": "God."
+  },
+  {
+   "start": 428.16,
+   "end": 429.2,
+   "text": "I try to keep these short."
+  },
+  {
+   "start": 429.3,
+   "end": 430.8,
+   "text": "These are not supposed to be that long."
+  },
+  {
+   "start": 430.86,
+   "end": 432.08,
+   "text": "And, they're supposed to be short."
+  },
+  {
+   "start": 434.14,
+   "end": 436.56,
+   "text": "But, I ramble."
+  },
+  {
+   "start": 436.56,
+   "end": 437.16,
+   "text": "Okay."
+  },
+  {
+   "start": 438.7,
+   "end": 440.8,
+   "text": "So, I think I'm going to have some more orange juice now."
+  },
+  {
+   "start": 440.9,
+   "end": 441.5,
+   "text": "Peace out."
+  },
+  {
+   "start": 441.6,
+   "end": 442.28,
+   "text": "Doggy style."
+  },
+  {
+   "start": 468.15,
+   "end": 468.47,
+   "text": "Ugh."
+  },
+  {
+   "start": 468.47,
+   "end": 483.71,
+   "text": "Oh, my God."
+  },
+  {
+   "start": 483.71,
+   "end": 485.65,
+   "text": "Oh."
+  }
+ ]
+}

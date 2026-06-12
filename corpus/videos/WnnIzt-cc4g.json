@@ -1,0 +1,339 @@
+{
+ "youtube_id": "WnnIzt-cc4g",
+ "title": "Living in Bouler Vlog 11 - 22 - 2016",
+ "url": "https://youtu.be/WnnIzt-cc4g",
+ "published_at": "2016-11-24",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a replacement vlog for November 22nd after forgetting to unplug his earphones in a prior take. He shares an update on his Google Earth mapping project covering ancient Rome, describing his excitement after discovering the Forma Urbis Romae (the Severan marble plan of Rome) and the Aurelian Wall, while acknowledging he may burn out before finishing due to the city's scale.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "Google Earth mapping project",
+   "ancient Rome reconstruction",
+   "Forma Urbis Romae",
+   "Aurelian Wall",
+   "David Rumsey map website",
+   "sleep schedule",
+   "haircut"
+  ],
+  "stances": [
+   {
+    "topic": "Google Earth Rome project",
+    "position": "Super excited but realistic he'll burn out before finishing due to Rome's size"
+   },
+   {
+    "topic": "Forma Urbis Romae as a source",
+    "position": "Reliable enough to reconstruct ancient Rome's streets and buildings despite being partially recovered"
+   },
+   {
+    "topic": "3D Rome on Google Earth",
+    "position": "The best and most developed city Google has built in 3D"
+   },
+   {
+    "topic": "Wanting advanced 3D building tools",
+    "position": "Wishes Google's automated 3D-from-photo technology were available to regular users"
+   },
+   {
+    "topic": "Finishing boulder and Rome maps",
+    "position": "Goals to finish Google Earthing both cities by end of winter"
+   }
+  ],
+  "entities": [
+   "Rome",
+   "Boulder",
+   "Aurelian",
+   "Marcus Aurelius",
+   "Septimius Severus",
+   "Forma Urbis Romae",
+   "Aurelian Wall",
+   "David Rumsey Map website",
+   "Google Earth",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 4.48,
+   "text": "To a video vlog I was talking for a couple of minutes and then I looked over and I noticed I"
+  },
+  {
+   "start": 4.48,
+   "end": 8.14,
+   "text": "Forgot to unplug my earphones man you got to remember to unplug the earphones or else you"
+  },
+  {
+   "start": 8.14,
+   "end": 14.5,
+   "text": "Can't hear yourself talk so you can't hear it there's no sound you can like barely hear it I"
+  },
+  {
+   "start": 14.5,
+   "end": 22.86,
+   "text": "Have one video up there like that so I'll start over uh today is the vlog video of uh uh tuesday"
+  },
+  {
+   "start": 22.86,
+   "end": 30.74,
+   "text": "November 22nd because today's november 23rd at 1209 uh because I slept in I was working till like"
+  },
+  {
+   "start": 30.74,
+   "end": 36.92,
+   "text": "Three I need to try to get my day back to being daytime again okay and then I said yeah I was"
+  },
+  {
+   "start": 36.92,
+   "end": 46.18,
+   "text": "Working on rome I redid rome um yeah I can work on it about two to three weeks um before I burn out"
+  },
+  {
+   "start": 46.18,
+   "end": 49.68,
+   "text": "On it so I don't think I'm gonna finish google earthing rome before I burn out on it it's too"
+  },
+  {
+   "start": 49.68,
+   "end": 55.74,
+   "text": "Big um and then I'll get going on boulder again so my goal is to finish google earthing boulder in"
+  },
+  {
+   "start": 55.74,
+   "end": 61.3,
+   "text": "Rome by the end of the winter I said something pretty much along those lines so I hate doing"
+  },
+  {
+   "start": 61.3,
+   "end": 66.5,
+   "text": "Videos twice the same video twice you really got to remember to take these out maybe I'll paint these"
+  },
+  {
+   "start": 66.5,
+   "end": 75.22,
+   "text": "Red or something um so uh yeah man I just got up oh and I did trace a couple buildings before I did"
+  },
+  {
+   "start": 75.22,
+   "end": 79.34,
+   "text": "The video because I forgot I was like let's do the video and then I took a hit and then I was like"
+  },
+  {
+   "start": 79.34,
+   "end": 83.2,
+   "text": "Okay let's get working and I'm like I'm hungry I need to have breakfast and I'm like oh shit I"
+  },
+  {
+   "start": 83.2,
+   "end": 89.58,
+   "text": "Didn't do the video yeah so uh it's uh my hair's kind of getting along I might need a haircut pretty"
+  },
+  {
+   "start": 89.58,
+   "end": 94.34,
+   "text": "Soon as soon as it gets in my eyes although it's getting into being winter and I don't need to cut"
+  },
+  {
+   "start": 94.34,
+   "end": 101.52,
+   "text": "All my hair for work oh my mom likes to get make me cut my hair I'll just do it until my mom makes me do"
+  },
+  {
+   "start": 101.52,
+   "end": 111.04,
+   "text": "Um but uh but yeah um I read I remember what I said about that map that I was doing it and I got"
+  },
+  {
+   "start": 111.04,
+   "end": 116.3,
+   "text": "Some things wrong it's actually uh it's not like 100 feet by 100 feet it's like 30 feet by 30 feet and"
+  },
+  {
+   "start": 116.3,
+   "end": 120.94,
+   "text": "I actually had a picture of the map of rome up on them on a wall on the actual wall that it was on"
+  },
+  {
+   "start": 120.94,
+   "end": 126.74,
+   "text": "And it fell off and I guess some smart people picked up as many shards as they could before they"
+  },
+  {
+   "start": 126.74,
+   "end": 131.76,
+   "text": "Were used as building material and hid them behind the church but it was only 10 that was"
+  },
+  {
+   "start": 131.76,
+   "end": 138.18,
+   "text": "Recovered so but the guy who built rome because you can see the part that is built out of the slabs"
+  },
+  {
+   "start": 138.18,
+   "end": 143.18,
+   "text": "And so he did a lot of like he did a lot of guesswork so but I think there was a lot actually"
+  },
+  {
+   "start": 143.18,
+   "end": 149.64,
+   "text": "Probably that wasn't you know also all areas of territory within the aurelian wall"
+  },
+  {
+   "start": 149.64,
+   "end": 157.9,
+   "text": "Um yeah made this map made by severus I should probably start it earlier but um I talk like"
+  },
+  {
+   "start": 157.9,
+   "end": 163.66,
+   "text": "For people who watch all of my videos I shouldn't do that um yeah the map of rome etched in stone"
+  },
+  {
+   "start": 163.66,
+   "end": 171.36,
+   "text": "200 205 um and then the aurelian wall was built in like 270 or something so that's like 65 years"
+  },
+  {
+   "start": 171.36,
+   "end": 178.26,
+   "text": "Later so it's before rome really started to fall too much so itself the city so uh I think it's pretty"
+  },
+  {
+   "start": 178.26,
+   "end": 186.12,
+   "text": "Safe to say that the rome that you see in the plan of severina is the same rome that uh marcus aurelius"
+  },
+  {
+   "start": 186.12,
+   "end": 191.8,
+   "text": "I mean aurelian built the wall around so you know it's pretty much the same rome"
+  },
+  {
+   "start": 191.8,
+   "end": 198.24,
+   "text": "Just put the wall in and all those buildings that you see and then fill it up the rest up with"
+  },
+  {
+   "start": 198.24,
+   "end": 204.78,
+   "text": "Um buildings to match the population how many because they tell you how many like"
+  },
+  {
+   "start": 204.78,
+   "end": 211.22,
+   "text": "Dumbest and insula houses and apartments there are so yeah man it's gonna be it's super I'm super"
+  },
+  {
+   "start": 211.22,
+   "end": 215.9,
+   "text": "Excited I've never been I'm I mean I'm like how the hell did I take so long to do this one and the"
+  },
+  {
+   "start": 215.9,
+   "end": 224.86,
+   "text": "Reason is because um because uh I didn't know that that somehow I I missed that map I didn't know"
+  },
+  {
+   "start": 224.86,
+   "end": 231.22,
+   "text": "That man I was looking for it I was looking for a map that had the walls on it and and then I went"
+  },
+  {
+   "start": 231.22,
+   "end": 237.48,
+   "text": "Into the david rumsey map website and I was like rome because I was looking for the uh um the"
+  },
+  {
+   "start": 237.48,
+   "end": 244.16,
+   "text": "Aqueducts to build an aqueduct map off of and on google earth and lo and behold there's that map of"
+  },
+  {
+   "start": 244.16,
+   "end": 253.1,
+   "text": "The walls and then there's another map of the planet uh severiana that I didn't even know existed and"
+  },
+  {
+   "start": 253.1,
+   "end": 260.14,
+   "text": "So now I'm tracing it so but so I didn't know that you could you could know so like rome the streets"
+  },
+  {
+   "start": 260.14,
+   "end": 266.7,
+   "text": "Of rome ancient rome that well um I'm not talking about the 3d like now because what they built 3d"
+  },
+  {
+   "start": 266.7,
+   "end": 274.16,
+   "text": "Rome 3d on google earth is probably the best most developed city um that google has developed um and"
+  },
+  {
+   "start": 274.16,
+   "end": 279.1,
+   "text": "They have some special fancy program where they can make this basically make the like the picture"
+  },
+  {
+   "start": 279.1,
+   "end": 284.52,
+   "text": "Of the building turn into a 3d building and look like a 3d building I wish they they could give us"
+  },
+  {
+   "start": 284.52,
+   "end": 290.86,
+   "text": "Plebeians that technology wow then then you could do some magic but um but anyway the way that the"
+  },
+  {
+   "start": 290.86,
+   "end": 296.66,
+   "text": "Technology that I have just the simple colored blocks that you can stand up I wish you yeah um"
+  },
+  {
+   "start": 296.66,
+   "end": 303.3,
+   "text": "That'd be cool if you could have like chunks at a higher height instead of just planes but uh maybe"
+  },
+  {
+   "start": 303.3,
+   "end": 310.18,
+   "text": "Later but um but uh yeah it's good enough to learn rome good enough for what you need just to understand"
+  },
+  {
+   "start": 310.18,
+   "end": 316.26,
+   "text": "And so because it's cartoon enough but yeah I'm super fired up but I don't know if I'll be able"
+  },
+  {
+   "start": 316.26,
+   "end": 322.52,
+   "text": "To finish it in one push because it's pretty freaking big you know like what was the aurelian wall like"
+  },
+  {
+   "start": 322.52,
+   "end": 330.51,
+   "text": "20 miles 20 kilometers or something so you're talking like 12 miles circumference everything inside"
+  },
+  {
+   "start": 330.51,
+   "end": 336.53,
+   "text": "Detailed but it's all straightforward it's easier um for the space I think than boulder because the"
+  },
+  {
+   "start": 336.53,
+   "end": 340.19,
+   "text": "Buildings are bigger and it's just this huge building with all these columns instead of like"
+  },
+  {
+   "start": 340.19,
+   "end": 347.71,
+   "text": "All these little cuts that are different shapes and all these places so but yeah I'm hungry though I"
+  },
+  {
+   "start": 347.71,
+   "end": 352.81,
+   "text": "Gotta get something to eat oh wow over five minutes like I'm supposed to all right peace out"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "youtube_id": "jfoAVaAIgoQ",
+ "title": "Buiko1 - Request",
+ "url": "https://youtu.be/jfoAVaAIgoQ",
+ "published_at": "2016-10-15",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle responds to a viewer request to discuss Buiko1, a Swedish YouTuber who made commentary/analysis videos about Kyle from 2012 to 2016. Kyle reflects on having a dedicated YouTube commentator cover him, expresses mild regret at not engaging with Buiko1 earlier, and finds the whole experience encouraging as validation of his niche appeal.",
+  "speaker": "kyle",
+  "topics": [
+   "fan commentary",
+   "Buiko1",
+   "YouTube commentary culture",
+   "niche creators",
+   "self-reflection",
+   "trolls vs commentators"
+  ],
+  "stances": [
+   {
+    "topic": "Buiko1's nature",
+    "position": "Not a troll — trolls are anonymous and malicious; Buiko1 is more like a YouTube celebrity blogger (compares him to Perez Hilton)"
+   },
+   {
+    "topic": "Buiko1's relationship to Kyle",
+    "position": "Effectively his biggest fan; the dedication videos make Kyle feel like a star"
+   },
+   {
+    "topic": "Not engaging with Buiko1",
+    "position": "Regrets blocking him; wishes he had interacted, especially if it had started in 2011"
+   },
+   {
+    "topic": "Having videos made about him",
+    "position": "Finds it encouraging and validating, even with only ~5,000 subscribers and ~100 views per video"
+   }
+  ],
+  "entities": [
+   "Buiko1",
+   "Dan Lorraine",
+   "Young Turks",
+   "Perez Hilton"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.94,
+   "end": 8.0,
+   "text": "Hello I'm gonna do a request video before I get going on my uh or get going"
+  },
+  {
+   "start": 8.0,
+   "end": 13.94,
+   "text": "Back on my map thing today I'm like really sweaty because I went into the"
+  },
+  {
+   "start": 13.94,
+   "end": 26.78,
+   "text": "Store and I got I got like these chips and they're really hot so I've just been"
+  },
+  {
+   "start": 26.78,
+   "end": 39.81,
+   "text": "Sitting here like yeah so hopefully we'll see if I can concentrate okay so so this"
+  },
+  {
+   "start": 39.81,
+   "end": 45.51,
+   "text": "Video is somebody left a message on my channel like today or yesterday if I could"
+  },
+  {
+   "start": 45.51,
+   "end": 53.07,
+   "text": "Do a video series on the week out one so yeah I'll do a video on we go on um so"
+  },
+  {
+   "start": 53.07,
+   "end": 58.11,
+   "text": "We go on he's that dude who cuz I've never talked about him I'm like only like"
+  },
+  {
+   "start": 58.11,
+   "end": 63.75,
+   "text": "Passing my number video so he's that dude who he's a Swedish guy who was doing"
+  },
+  {
+   "start": 63.75,
+   "end": 72.95,
+   "text": "Videos about me and he started doing it back in like the fall of 2012 and at"
+  },
+  {
+   "start": 72.95,
+   "end": 86.56,
+   "text": "That time when he started doing it I was doing like vlogs and stuff and he yeah"
+  },
+  {
+   "start": 86.56,
+   "end": 92.2,
+   "text": "He started doing the videos about me and oh yeah but at that time I wasn't in the"
+  },
+  {
+   "start": 92.2,
+   "end": 98.68,
+   "text": "Mood to like interact with him so I just blocked it and I didn't pay attention if"
+  },
+  {
+   "start": 98.68,
+   "end": 103.42,
+   "text": "He had of just started doing that back in 2011 before my van broke down I would"
+  },
+  {
+   "start": 103.42,
+   "end": 109.78,
+   "text": "Have I would have interacted with him and I probably would now too I'm back in that"
+  },
+  {
+   "start": 109.78,
+   "end": 114.22,
+   "text": "Mode now but I blocked him I don't know how to unblock somebody once you block somebody"
+  },
+  {
+   "start": 114.22,
+   "end": 122.8,
+   "text": "There so whatever um but so yeah but I watched his videos and um and then I kind of stopped I"
+  },
+  {
+   "start": 122.8,
+   "end": 130.7,
+   "text": "Slowed down doing videos in 2013 and he kept doing videos about me and then I really slowed down and"
+  },
+  {
+   "start": 130.7,
+   "end": 136.34,
+   "text": "Then he kept doing videos about me and it was like he was dedicated and and he and like the last"
+  },
+  {
+   "start": 136.34,
+   "end": 140.0,
+   "text": "Video he did was only like six months ago so he was doing videos about me over the"
+  },
+  {
+   "start": 140.0,
+   "end": 151.01,
+   "text": "Course of like 2012 to 2016 almost four years so yeah and before me he was doing"
+  },
+  {
+   "start": 151.01,
+   "end": 154.75,
+   "text": "Somebody else and then he did some other van guy so I guess he was interested in the"
+  },
+  {
+   "start": 154.75,
+   "end": 160.97,
+   "text": "Van people and then he did some lady called Deanne Lorraine who's a uh like a relationship"
+  },
+  {
+   "start": 160.97,
+   "end": 166.79,
+   "text": "Coach and now he's doing one videos about this bodybuilder vlogger so"
+  },
+  {
+   "start": 166.79,
+   "end": 175.19,
+   "text": "Um yeah he's like a youtube well people call him a troll I guess you could call him a troll"
+  },
+  {
+   "start": 175.19,
+   "end": 180.37,
+   "text": "He's uh no actually I wouldn't call him a troll I'd call trolls are people who are anonymous"
+  },
+  {
+   "start": 180.37,
+   "end": 187.63,
+   "text": "And and like are totally malicious and mean-spirited he actually has stuff to say so"
+  },
+  {
+   "start": 187.63,
+   "end": 195.77,
+   "text": "And he's not anonymous but um but yeah what he is he's like a youtube uh commenter on other"
+  },
+  {
+   "start": 195.77,
+   "end": 205.85,
+   "text": "People you know you know like people magazine like um uh that uh perez hilton he's like that"
+  },
+  {
+   "start": 205.85,
+   "end": 211.85,
+   "text": "But you know he has enough his style is he'll he'll delve into you and try to like cycle analyze"
+  },
+  {
+   "start": 211.85,
+   "end": 221.43,
+   "text": "You and then like and like and then to make like uh uh dedication videos and like make them like that"
+  },
+  {
+   "start": 221.43,
+   "end": 227.43,
+   "text": "They're funny and that kind of stuff so um he's basically like my biggest fan I think he even"
+  },
+  {
+   "start": 227.43,
+   "end": 232.01,
+   "text": "Called me that I wasn't commenting on his videos if he had done in 12 2012 I would have started"
+  },
+  {
+   "start": 232.01,
+   "end": 236.45,
+   "text": "Commenting videos but then I just got in the habit of not commenting and then I didn't and I don't"
+  },
+  {
+   "start": 236.45,
+   "end": 241.11,
+   "text": "Really comment on videos I almost never comment on videos I uh comment on young turks videos every"
+  },
+  {
+   "start": 241.11,
+   "end": 247.35,
+   "text": "Once in a while um but now that I'm uploading videos I mean I I comment on all of my comments"
+  },
+  {
+   "start": 247.35,
+   "end": 253.93,
+   "text": "On me um unless it's people talking to each other that you can see on the comments and that you can't"
+  },
+  {
+   "start": 253.93,
+   "end": 262.31,
+   "text": "Respond you know for some reason you don't always have the whole thing to respond um so uh yeah he"
+  },
+  {
+   "start": 262.31,
+   "end": 265.91,
+   "text": "Kind of made me feel like a star you know he's like my biggest fan I like him when people do"
+  },
+  {
+   "start": 265.91,
+   "end": 272.75,
+   "text": "Dedication videos I've had a lot of those the first one was in like uh October of 2011"
+  },
+  {
+   "start": 272.75,
+   "end": 279.65,
+   "text": "This kid was like this Canadian kid was like that douche that douche Kyle I saw how he showed his uh"
+  },
+  {
+   "start": 279.65,
+   "end": 285.21,
+   "text": "I was in Seattle how he showed his hash that he got for 20 bucks I totally could have got a better"
+  },
+  {
+   "start": 285.21,
+   "end": 294.44,
+   "text": "Deal than that but see I wish I had a download and copy those because whenever people do videos"
+  },
+  {
+   "start": 294.44,
+   "end": 298.8,
+   "text": "Like that they just delete them right away I've had fan videos that happened like the day before"
+  },
+  {
+   "start": 298.8,
+   "end": 303.68,
+   "text": "Time did a video about me because that was interesting like two videos like in one day"
+  },
+  {
+   "start": 303.68,
+   "end": 314.1,
+   "text": "And then um uh that was like a fan video and then um somebody did like a doggy style"
+  },
+  {
+   "start": 314.1,
+   "end": 320.12,
+   "text": "Song video about me but then they took that away why do people do take videos about me away"
+  },
+  {
+   "start": 320.12,
+   "end": 326.5,
+   "text": "Or about each other there's this other guy was talking about me but yeah oh and then Dale"
+  },
+  {
+   "start": 326.5,
+   "end": 333.96,
+   "text": "But he doesn't talk about me he just did a making fun of me video um but uh but Buiko"
+  },
+  {
+   "start": 333.96,
+   "end": 341.58,
+   "text": "Uh yeah I guess he gave up on me but somebody's like hey when you're gonna start doing videos"
+  },
+  {
+   "start": 341.58,
+   "end": 346.0,
+   "text": "About him and he's like when he starts doing videos again so I'm doing videos again so maybe"
+  },
+  {
+   "start": 346.0,
+   "end": 351.3,
+   "text": "He'll start doing videos about me and uh and then he can like mirror everything that I say"
+  },
+  {
+   "start": 351.3,
+   "end": 359.5,
+   "text": "But it seems like lately he's kind of becoming my fan so maybe he can become like Kyle too or"
+  },
+  {
+   "start": 359.5,
+   "end": 376.38,
+   "text": "Something um yeah uh yeah it's interesting how I would have like uh people you know not just him"
+  },
+  {
+   "start": 376.38,
+   "end": 381.56,
+   "text": "But people do videos about me so much like that and I'm not really that big of a star I only have"
+  },
+  {
+   "start": 381.56,
+   "end": 387.7,
+   "text": "Like 5,000 subscribers and I get like 100 hits per video so I must be like really niche really"
+  },
+  {
+   "start": 387.7,
+   "end": 399.1,
+   "text": "Niche uh original you know so um yeah it's kind of uh it's just encouraging because it makes you feel"
+  },
+  {
+   "start": 399.1,
+   "end": 403.72,
+   "text": "Original so all you have to do is just keep making videos you know and then and then you can actually"
+  },
+  {
+   "start": 403.72,
+   "end": 416.78,
+   "text": "Create a whole new like genre of video making um so I guess that's about it peace out"
+  }
+ ]
+}

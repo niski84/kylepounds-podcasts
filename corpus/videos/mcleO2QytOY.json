@@ -1,0 +1,360 @@
+{
+ "youtube_id": "mcleO2QytOY",
+ "title": "Living in Boulder blog 7-21-2017: 1st ride on new bike. Up Boulder Canyon , down 72.",
+ "url": "https://youtu.be/mcleO2QytOY",
+ "published_at": "2017-07-22",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about his first ride on a new road bike, covering 54.7 miles up Boulder Canyon and down Highway 72 in about 4 hours 11 minutes. He discusses issues with his watt pedals not fitting the new bike, website organization of his rides, and his plan to create Strava segments for full Boulder-area routes.",
+  "speaker": "kyle",
+  "topics": [
+   "cycling",
+   "new road bike",
+   "route recap",
+   "watt pedals",
+   "Strava segments",
+   "website organization",
+   "training setup"
+  ],
+  "stances": [
+   {
+    "topic": "Strava segments for full routes",
+    "position": "Nobody makes Strava segments for complete Boulder-area loops; Kyle sees himself as the first to do so and thinks it's a good idea"
+   },
+   {
+    "topic": "workout app UI",
+    "position": "Frustrated that total ride time isn't shown on the main screen and requires extra clicks"
+   },
+   {
+    "topic": "watt pedals compatibility",
+    "position": "Annoyed that his new mainstream bike (Merits/Marin 69) doesn't work with his watt pedals, which was the main reason he got it"
+   }
+  ],
+  "entities": [
+   "Boulder Canyon",
+   "Highway 72",
+   "Strava",
+   "Google Earth",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.78,
+   "end": 5.78,
+   "text": "Hello everyone, all of you, log it's 1114 for Friday."
+  },
+  {
+   "start": 5.78,
+   "end": 7.78,
+   "text": "July 21st."
+  },
+  {
+   "start": 7.78,
+   "end": 12.78,
+   "text": "So I went on my first ride with my road, my new road bike today."
+  },
+  {
+   "start": 12.78,
+   "end": 19.78,
+   "text": "I was found, I was 54.7 miles, 43.54 feet of elevation."
+  },
+  {
+   "start": 19.78,
+   "end": 23.78,
+   "text": "And it took me, oh, it doesn't say."
+  },
+  {
+   "start": 23.78,
+   "end": 28.78,
+   "text": "You have to click on the actual workout to be able to see how long it was."
+  },
+  {
+   "start": 28.78,
+   "end": 31.78,
+   "text": "So let's click on the workout and see what we got."
+  },
+  {
+   "start": 31.78,
+   "end": 33.78,
+   "text": "It's amazing, it's not bringing it up."
+  },
+  {
+   "start": 33.78,
+   "end": 34.78,
+   "text": "It's bringing it up in somewhere."
+  },
+  {
+   "start": 34.78,
+   "end": 36.78,
+   "text": "I'm not tying it a little window."
+  },
+  {
+   "start": 36.78,
+   "end": 37.78,
+   "text": "Okay."
+  },
+  {
+   "start": 37.78,
+   "end": 40.78,
+   "text": "It was a four hours 11 minutes and 25 seconds."
+  },
+  {
+   "start": 40.78,
+   "end": 44.78,
+   "text": "They should have that in the main area, so I don't have to click around."
+  },
+  {
+   "start": 44.78,
+   "end": 57.78,
+   "text": "Okay, so I got up at like, I got up late because I couldn't breathe less than I think it happened again."
+  },
+  {
+   "start": 57.78,
+   "end": 61.78,
+   "text": "That kind of late, yeah, that's what happened, couldn't breathe less than I think."
+  },
+  {
+   "start": 61.78,
+   "end": 70.78,
+   "text": "And then I did bike stuff, they called me and I went down and got the adapter to be able to put the bike on the rollers."
+  },
+  {
+   "start": 70.78,
+   "end": 75.78,
+   "text": "And then I went down and I went on my ride."
+  },
+  {
+   "start": 75.78,
+   "end": 82.78,
+   "text": "But I noticed that the pedal was hitting the change, just like with my other bike."
+  },
+  {
+   "start": 82.78,
+   "end": 86.78,
+   "text": "I got these, the reason that I'm riding again is because I wanted to get a lot."
+  },
+  {
+   "start": 86.78,
+   "end": 95.78,
+   "text": "Well, I wouldn't, well, I was because I couldn't breathe, but riding outside is I need to get a lot pedals for my other bike to make riding on the rollers interesting, but they didn't fit them either."
+  },
+  {
+   "start": 95.78,
+   "end": 98.78,
+   "text": "So I got this bike."
+  },
+  {
+   "start": 98.78,
+   "end": 103.78,
+   "text": "But they don't fit on this bike. I took them to the bike shop and they said they've never seen anything like that before."
+  },
+  {
+   "start": 103.78,
+   "end": 105.78,
+   "text": "Like all of them are bikes."
+  },
+  {
+   "start": 105.78,
+   "end": 108.78,
+   "text": "I got that chose the one that doesn't work with a lot of pedals."
+  },
+  {
+   "start": 108.78,
+   "end": 114.78,
+   "text": "So you know, it's a totally mainstream bike, any merits, more in 69."
+  },
+  {
+   "start": 114.78,
+   "end": 122.78,
+   "text": "So I have to take the little sensor thing, came sensor off of the leather right pedal."
+  },
+  {
+   "start": 122.78,
+   "end": 126.78,
+   "text": "And I'll call them tomorrow and see if I get it to work."
+  },
+  {
+   "start": 126.78,
+   "end": 128.78,
+   "text": "Because they've got the two side of pedals, not the one."
+  },
+  {
+   "start": 128.78,
+   "end": 132.78,
+   "text": "So hopefully we can make it work one side of it."
+  },
+  {
+   "start": 132.78,
+   "end": 138.78,
+   "text": "And I also got another bag and some new gloves."
+  },
+  {
+   "start": 138.78,
+   "end": 142.78,
+   "text": "So I haven't gotten my helmet in the mall yet."
+  },
+  {
+   "start": 142.78,
+   "end": 144.78,
+   "text": "Or hasn't come in. I don't worry about it."
+  },
+  {
+   "start": 144.78,
+   "end": 153.78,
+   "text": "So now that I was real. So I came back and then I noticed I wanted to get organized and stuff on my website."
+  },
+  {
+   "start": 153.78,
+   "end": 159.78,
+   "text": "And I noticed that on Google Earth, I needed to re-color the all the road rides."
+  },
+  {
+   "start": 159.78,
+   "end": 163.78,
+   "text": "But then I realized I didn't have to do that because it was just the main file below."
+  },
+  {
+   "start": 163.78,
+   "end": 173.78,
+   "text": "I was still getting oriented with the whole oversight of the whole website again."
+  },
+  {
+   "start": 173.78,
+   "end": 180.78,
+   "text": "So then you can make a new page of rides that I do."
+  },
+  {
+   "start": 180.78,
+   "end": 183.78,
+   "text": "I only had like made rides of very big rides."
+  },
+  {
+   "start": 183.78,
+   "end": 185.78,
+   "text": "But now I've actually lived in normal rides."
+  },
+  {
+   "start": 185.78,
+   "end": 190.78,
+   "text": "I never made that. So then I'll turn them into a straw of a segments."
+  },
+  {
+   "start": 190.78,
+   "end": 193.78,
+   "text": "I've turned my ride to the end to a straw of a segments."
+  },
+  {
+   "start": 193.78,
+   "end": 198.78,
+   "text": "For some reason, when people make straw of a segments, they don't make them for the whole ride."
+  },
+  {
+   "start": 198.78,
+   "end": 204.78,
+   "text": "Like if you're going to do a leap for like bolder up to the net or over the wall and back,"
+  },
+  {
+   "start": 204.78,
+   "end": 207.78,
+   "text": "nobody turns that into a straw of a segment."
+  },
+  {
+   "start": 207.78,
+   "end": 214.78,
+   "text": "They only make those like personal straw of segments sometimes accidentally in a public where it leads into their house."
+  },
+  {
+   "start": 214.78,
+   "end": 220.78,
+   "text": "But not ones that are for bold are like where you start it as you lean bolder and then you end it as you come back to him."
+  },
+  {
+   "start": 220.78,
+   "end": 222.78,
+   "text": "I'm the first person to do that."
+  },
+  {
+   "start": 222.78,
+   "end": 226.78,
+   "text": "So let me go start a segment, so then I can pitch for that."
+  },
+  {
+   "start": 226.78,
+   "end": 229.78,
+   "text": "And I'll show what I did today."
+  },
+  {
+   "start": 229.78,
+   "end": 231.78,
+   "text": "Man, my computer is worrying. Really loud."
+  },
+  {
+   "start": 231.78,
+   "end": 234.78,
+   "text": "I wonder if this microphone is going to pick it up."
+  },
+  {
+   "start": 234.78,
+   "end": 237.78,
+   "text": "That's loud at way over here."
+  },
+  {
+   "start": 237.78,
+   "end": 240.78,
+   "text": "So yeah, that's what I see tomorrow."
+  },
+  {
+   "start": 240.78,
+   "end": 243.78,
+   "text": "Oh, yeah, I got a lot of things there."
+  },
+  {
+   "start": 244.78,
+   "end": 250.78,
+   "text": "Set up the rollers on the bike on the rollers and then the watt pedals and the harry monitor."
+  },
+  {
+   "start": 250.78,
+   "end": 251.78,
+   "text": "Set that up."
+  },
+  {
+   "start": 251.78,
+   "end": 256.78,
+   "text": "I have to read just when I do railers because I try to fix it with access to screw you up some."
+  },
+  {
+   "start": 256.78,
+   "end": 262.78,
+   "text": "And then, yes, so anyway, I won't say that. I'll go on ride and I'll go riding."
+  },
+  {
+   "start": 262.78,
+   "end": 265.78,
+   "text": "Do straw of a segment. I'll come up with a route."
+  },
+  {
+   "start": 265.78,
+   "end": 267.78,
+   "text": "And I'll do the video before I do it."
+  },
+  {
+   "start": 267.78,
+   "end": 274.78,
+   "text": "And I'll be like, use the second segment to go to and then you talk about it after."
+  },
+  {
+   "start": 274.78,
+   "end": 276.78,
+   "text": "That's my new thing that I'll do."
+  },
+  {
+   "start": 276.78,
+   "end": 279.78,
+   "text": "Okay, I think that's enough talking to the PC."
+  }
+ ]
+}

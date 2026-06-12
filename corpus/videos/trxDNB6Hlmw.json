@@ -1,0 +1,201 @@
+{
+ "youtube_id": "trxDNB6Hlmw",
+ "title": "Living in Boulder Vlog 2 - 28 - 2015",
+ "url": "https://youtu.be/trxDNB6Hlmw",
+ "published_at": "2015-03-01",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a casual daily vlog from Boulder, covering his decision to skip biking this week due to a broken bike computer, his previous day's activities (paperwork, car pickup, cleaning), and his morning routine of buying weed from a dispensary. He mentions feeling unmotivated and plans to work on his website and record some videos before his shift.",
+  "speaker": "kyle",
+  "topics": [
+   "daily routine",
+   "biking",
+   "cannabis",
+   "cleaning",
+   "website work",
+   "sleep schedule",
+   "work"
+  ],
+  "stances": [
+   {
+    "topic": "biking without tracking",
+    "position": "Prefers not to ride without his computer because it makes him focus on fatigue rather than distance"
+   },
+   {
+    "topic": "motivation",
+    "position": "Feeling low motivation today due to poor sleep"
+   },
+   {
+    "topic": "balanced lifestyle",
+    "position": "Trying to maintain a well-rounded life and not spend all his time on the computer"
+   }
+  ],
+  "entities": [
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 3.2,
+   "text": "Hello, hello living in called older v-log with me"
+  },
+  {
+   "start": 4.16,
+   "end": 7.36,
+   "text": "I'm not gonna read my bike this week because my bike computer broke"
+  },
+  {
+   "start": 8.64,
+   "end": 12.24,
+   "text": "I had to order another another kind of metal or whatever"
+  },
+  {
+   "start": 12.96,
+   "end": 15.92,
+   "text": "Another kind of sensor and I don't want to write my bike on there"
+  },
+  {
+   "start": 16.88,
+   "end": 22.56,
+   "text": "I'm not roller there I'm not some recording how far I'm going otherwise I'm just gonna be thinking about how tired I am"
+  },
+  {
+   "start": 25.2,
+   "end": 29.84,
+   "text": "So I'm just gonna spin the next week. I guess it'll take a whole week it will come here at the end of next week"
+  },
+  {
+   "start": 29.84,
+   "end": 31.84,
+   "text": "So I'll just been the whole week"
+  },
+  {
+   "start": 34.24,
+   "end": 40.4,
+   "text": "Working on my website trying to get that caught up just trying to this much as I can polish it. This is the biking part"
+  },
+  {
+   "start": 41.68,
+   "end": 44.32,
+   "text": "I just smoked a bunch of hot out on sweets going some kind of high"
+  },
+  {
+   "start": 46.16,
+   "end": 48.16,
+   "text": "I'll do a silver video"
+  },
+  {
+   "start": 48.96,
+   "end": 50.96,
+   "text": "I'll do a silver video one of these days"
+  },
+  {
+   "start": 52.64,
+   "end": 58.0,
+   "text": "Okay, so yeah, so yesterday I was I did paperwork and I finished paperwork so that's good"
+  },
+  {
+   "start": 58.96,
+   "end": 62.32,
+   "text": "And I was working in telling my night or something um and"
+  },
+  {
+   "start": 63.84,
+   "end": 66.96,
+   "text": "Oh yeah, I took care of all my car stuff"
+  },
+  {
+   "start": 68.0,
+   "end": 70.0,
+   "text": "Yesterday picked up my car"
+  },
+  {
+   "start": 70.72,
+   "end": 76.24,
+   "text": "Yesterday was a day where he was kind of like lots of different things. Oh, yeah, I cleaned I cleaned for a lot a lot of a lot of yesterday"
+  },
+  {
+   "start": 76.24,
+   "end": 78.24,
+   "text": "I haven't cleaned a long time"
+  },
+  {
+   "start": 78.24,
+   "end": 82.48,
+   "text": "I'm trying to have them well-rounded life when I'm on the computer all the time, you know, sometimes usually"
+  },
+  {
+   "start": 82.48,
+   "end": 85.68,
+   "text": "Shit doesn't get some messy and dirty"
+  },
+  {
+   "start": 86.24,
+   "end": 90.72,
+   "text": "So that's what I did yesterday. I got up to late today to get to the I ran out of weed last night"
+  },
+  {
+   "start": 90.72,
+   "end": 95.2,
+   "text": "So I got up to late to get more weed at the discount price before 10 so I shut up there"
+  },
+  {
+   "start": 95.36,
+   "end": 99.44,
+   "text": "But I had to get my weed anyways, so I shut up there and I instead of getting the discount weed I got this other shirt"
+  },
+  {
+   "start": 100.64,
+   "end": 102.64,
+   "text": "Hmm, but still a good deal"
+  },
+  {
+   "start": 103.52,
+   "end": 105.52,
+   "text": "Snow deal island sweet scum"
+  },
+  {
+   "start": 106.56,
+   "end": 108.56,
+   "text": "um"
+  },
+  {
+   "start": 108.56,
+   "end": 110.56,
+   "text": "Then I came back and"
+  },
+  {
+   "start": 111.2,
+   "end": 117.76,
+   "text": "Hang out with my roommate a little bit and then I'm gonna do some videos until I until I have to go to work and then I'll come back and I guess I'll just work on my website somewhere"
+  },
+  {
+   "start": 118.32,
+   "end": 120.32,
+   "text": "I don't really feel all that motivated today"
+  },
+  {
+   "start": 121.28,
+   "end": 126.16,
+   "text": "I just leave like nine hours. I got I got up at like nine or ten and I didn't even sleep until midnight"
+  },
+  {
+   "start": 126.48,
+   "end": 128.48,
+   "text": "I think because I've four last"
+  },
+  {
+   "start": 129.68,
+   "end": 131.68,
+   "text": "I slept only five hours"
+  },
+  {
+   "start": 131.68,
+   "end": 136.32,
+   "text": "Okay anyway, I think that's enough all right. You said I'll go do some talking videos now. Peace out"
+  }
+ ]
+}

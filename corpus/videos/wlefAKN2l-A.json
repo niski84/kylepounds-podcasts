@@ -1,0 +1,301 @@
+{
+ "youtube_id": "wlefAKN2l-A",
+ "title": "Living in Boulder Vlog 6 - 22 - 2014",
+ "url": "https://youtu.be/wlefAKN2l-A",
+ "published_at": "2014-06-23",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle recaps his weekend in Boulder, which he spent mostly working on his website via drag-and-drop. He briefly mentions visiting his mom, getting weed from his roommate, listening to Young Turks, and starting a book called 'In Defense of Women' by Mencken. He reflects on his website project growing larger than planned but stays optimistic.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "website project",
+   "weekend recap",
+   "reading",
+   "weed",
+   "light therapy device"
+  ],
+  "stances": [
+   {
+    "topic": "website scope creep",
+    "position": "Doesn't mind it growing bigger than planned because he's still young and it'll be cool when done"
+   },
+   {
+    "topic": "Mencken's 'In Defense of Women'",
+    "position": "Found some things interesting but thought he said a lot of crazy things too"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Kyle's mom",
+   "Kyle's roommate",
+   "Young Turks",
+   "H.L. Mencken",
+   "In Defense of Women"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "I'm living in Boulder, V-Log for the, uh, I don't know what date it is."
+  },
+  {
+   "start": 5.0,
+   "end": 12.0,
+   "text": "Um, so it's Monday, like, 650 or something."
+  },
+  {
+   "start": 12.0,
+   "end": 20.0,
+   "text": "I had another jam packed weekend, um, just sitting there on my couch, dragging and dropping."
+  },
+  {
+   "start": 21.0,
+   "end": 23.0,
+   "text": "What was inside?"
+  },
+  {
+   "start": 23.0,
+   "end": 26.0,
+   "text": "Made the time go by really fast."
+  },
+  {
+   "start": 26.0,
+   "end": 35.0,
+   "text": "Um, but on Saturday, uh, I like the log, what I did on Saturday, I went over to my mom's house."
+  },
+  {
+   "start": 35.0,
+   "end": 40.0,
+   "text": "And, uh, she gave me some light thing, but then she loaned me her other light thing."
+  },
+  {
+   "start": 40.0,
+   "end": 45.0,
+   "text": "I'll do the video a bit later, but uh, I'm going to read through the manual of it."
+  },
+  {
+   "start": 45.0,
+   "end": 48.0,
+   "text": "Light that charges your cells with light."
+  },
+  {
+   "start": 48.0,
+   "end": 51.0,
+   "text": "Yeah, kind of like how the sun grows plants."
+  },
+  {
+   "start": 51.0,
+   "end": 62.0,
+   "text": "Um, and, uh, I should have done videos just today, but I was just going to kind of drag myself away from my website."
+  },
+  {
+   "start": 62.0,
+   "end": 71.55,
+   "text": "And now I was working pretty late to, um, and, uh, yeah, it was really high."
+  },
+  {
+   "start": 71.55,
+   "end": 73.55,
+   "text": "My roommate got me a lot of weed."
+  },
+  {
+   "start": 74.55,
+   "end": 77.55,
+   "text": "I gave me air, gave me weed, like on Friday."
+  },
+  {
+   "start": 77.55,
+   "end": 83.55,
+   "text": "And, um, um, what was I listening to?"
+  },
+  {
+   "start": 83.55,
+   "end": 87.9,
+   "text": "Um, it's kind of hard to remember."
+  },
+  {
+   "start": 87.9,
+   "end": 89.9,
+   "text": "Well, it's been a lot of time not listening to anything."
+  },
+  {
+   "start": 89.9,
+   "end": 90.9,
+   "text": "I was just saying there."
+  },
+  {
+   "start": 90.9,
+   "end": 97.9,
+   "text": "And then listening to a little bit of young turns on Saturday, but yesterday it was, um, it was, um,"
+  },
+  {
+   "start": 98.9,
+   "end": 101.9,
+   "text": "Oh, man, what was that listening to yesterday?"
+  },
+  {
+   "start": 101.9,
+   "end": 105.82,
+   "text": "Totally dry and blank."
+  },
+  {
+   "start": 105.82,
+   "end": 111.82,
+   "text": "Um, there was some guy who wrote a book, which was,"
+  },
+  {
+   "start": 111.82,
+   "end": 113.82,
+   "text": "Mechall in defense of women."
+  },
+  {
+   "start": 113.82,
+   "end": 114.82,
+   "text": "It's kind of interesting."
+  },
+  {
+   "start": 114.82,
+   "end": 117.82,
+   "text": "There were some interesting things, but he said a lot of crazy things too."
+  },
+  {
+   "start": 117.82,
+   "end": 118.82,
+   "text": "Minkall."
+  },
+  {
+   "start": 118.82,
+   "end": 125.22,
+   "text": "But then I started another book, but I can't remember."
+  },
+  {
+   "start": 125.22,
+   "end": 128.22,
+   "text": "I'm like, hmm."
+  },
+  {
+   "start": 129.22,
+   "end": 130.22,
+   "text": "Right, okay."
+  },
+  {
+   "start": 130.22,
+   "end": 135.22,
+   "text": "Um, so, that's what I did last weekend."
+  },
+  {
+   "start": 135.22,
+   "end": 137.22,
+   "text": "I just worked all weekend."
+  },
+  {
+   "start": 137.22,
+   "end": 142.22,
+   "text": "And so I have a pretty big day today, but, uh, I didn't go back and finished working on the website."
+  },
+  {
+   "start": 142.22,
+   "end": 147.22,
+   "text": "So I'm going to place in the website where I can see the light at the end of the tunnel."
+  },
+  {
+   "start": 147.22,
+   "end": 151.22,
+   "text": "But it seems like the light is like, you know, a couple miles away,"
+  },
+  {
+   "start": 151.22,
+   "end": 154.22,
+   "text": "but it's really like 25 miles away."
+  },
+  {
+   "start": 154.22,
+   "end": 158.62,
+   "text": "So I'm just doing that end, that end to push."
+  },
+  {
+   "start": 158.62,
+   "end": 163.62,
+   "text": "And then I'll probably, I'll probably want to do the same damn thing with running and swimming,"
+  },
+  {
+   "start": 163.62,
+   "end": 164.62,
+   "text": "also, so it'll just expand."
+  },
+  {
+   "start": 164.62,
+   "end": 167.62,
+   "text": "And then different distances to shorter distances."
+  },
+  {
+   "start": 167.62,
+   "end": 170.62,
+   "text": "So, this could go on for a long, as time."
+  },
+  {
+   "start": 170.62,
+   "end": 172.62,
+   "text": "It's how it always turns out."
+  },
+  {
+   "start": 172.62,
+   "end": 177.62,
+   "text": "Page is getting way bigger than that I originally planned, but I'm, I don't care because"
+  },
+  {
+   "start": 177.62,
+   "end": 179.62,
+   "text": "I'm still young."
+  },
+  {
+   "start": 179.62,
+   "end": 182.62,
+   "text": "And when I'm done, it'll be really cool."
+  },
+  {
+   "start": 182.62,
+   "end": 184.62,
+   "text": "Maybe I can make money of it."
+  },
+  {
+   "start": 184.62,
+   "end": 186.62,
+   "text": "But it'll be cool to look at that."
+  },
+  {
+   "start": 186.62,
+   "end": 189.62,
+   "text": "It's cool because that image is working on a dragon dropping."
+  },
+  {
+   "start": 189.62,
+   "end": 193.62,
+   "text": "And I haven't even really looked at it."
+  },
+  {
+   "start": 193.62,
+   "end": 199.62,
+   "text": "I've only been doing the legwork, so it'll be cool to step back and actually look at it later on."
+  },
+  {
+   "start": 199.62,
+   "end": 202.62,
+   "text": "Okay, so now my computer is just started."
+  },
+  {
+   "start": 202.62,
+   "end": 204.62,
+   "text": "So I guess I'll upload the video."
+  },
+  {
+   "start": 204.62,
+   "end": 205.62,
+   "text": "Okay, peace out."
+  }
+ ]
+}

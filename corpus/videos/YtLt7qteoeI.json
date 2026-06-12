@@ -1,0 +1,590 @@
+{
+ "youtube_id": "YtLt7qteoeI",
+ "title": "Living in Boulder vlog 12 -  8 -  2017: Roman Roads on Google Earth",
+ "url": "https://youtu.be/YtLt7qteoeI",
+ "published_at": "2017-12-09",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a late-night vlog update on his ongoing project of recreating ancient Rome in Google Earth, describing the painstaking process of pasting road images, deciding which roads to include based on historical maps, and planning next steps for adding buildings based on density data from a source called Platinum Ash Being. He also mentions visiting his mom's house to help with chores.",
+  "speaker": "kyle",
+  "topics": [
+   "Google Earth Rome project",
+   "ancient Rome recreation",
+   "road mapping",
+   "historical research",
+   "daily life update",
+   "computer performance concerns"
+  ],
+  "stances": [
+   {
+    "topic": "Roman road project progress",
+    "position": "slow but making progress; thinks he can finish roads the next day"
+   },
+   {
+    "topic": "building density data",
+    "position": "prefers the Plataean/Ash Being figures and wants to make Region 9 consistent at exactly 233 apartment buildings and 140 houses"
+   },
+   {
+    "topic": "Google Earth Rome visualization",
+    "position": "believes it will be amazing to walk around ancient Rome in ground view once complete; worth doing even just for himself"
+   },
+   {
+    "topic": "computer performance",
+    "position": "worried his computer may struggle with the large file but hopeful, and confident next-gen computers will handle it"
+   }
+  ],
+  "entities": [
+   "Platinum Ash Being (source/website on Roman buildings)",
+   "Region 9 (oldest region of Rome)",
+   "Region 4",
+   "Google Earth",
+   "QuickTime",
+   "Amasia (location of a sea battle)",
+   "mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.82,
+   "end": 11.18,
+   "text": "Hello living in Boulder, Vlog, it's 12.30 a.m. on January, December 9, 2017."
+  },
+  {
+   "start": 11.18,
+   "end": 14.66,
+   "text": "So this will be the video for December 8."
+  },
+  {
+   "start": 14.66,
+   "end": 27.26,
+   "text": "So the last few days I came up, it was a few days ago I did a video, I went to busy, to do a video during the day, and I just get this late."
+  },
+  {
+   "start": 27.26,
+   "end": 42.26,
+   "text": "I was done working until like 6 or 7, like even an hour after the sun goes up, so then I get up kind of late for three years."
+  },
+  {
+   "start": 42.26,
+   "end": 54.26,
+   "text": "Today I went over to my mom's house and shampooed her house and helped organize the basement."
+  },
+  {
+   "start": 54.26,
+   "end": 60.26,
+   "text": "I've been working on the last time I did a video."
+  },
+  {
+   "start": 60.26,
+   "end": 63.26,
+   "text": "I was just getting started on the wrong again."
+  },
+  {
+   "start": 63.26,
+   "end": 68.26,
+   "text": "My first video that I did since I started working with the wrong building."
+  },
+  {
+   "start": 68.26,
+   "end": 73.26,
+   "text": "I think I said that I was going to try to finish the roads when I'm in a few days."
+  },
+  {
+   "start": 73.26,
+   "end": 77.26,
+   "text": "I think I could finish the roads tomorrow."
+  },
+  {
+   "start": 77.26,
+   "end": 86.26,
+   "text": "It's been kind of slow going because I'm pasting little images of roads and having to cut them to the right size."
+  },
+  {
+   "start": 86.26,
+   "end": 89.26,
+   "text": "I've put them a lot of them on individually."
+  },
+  {
+   "start": 89.26,
+   "end": 92.26,
+   "text": "I can't just cut and paste because I can't move them for some reason."
+  },
+  {
+   "start": 92.26,
+   "end": 94.26,
+   "text": "I can't always rotate the road to them."
+  },
+  {
+   "start": 95.26,
+   "end": 98.26,
+   "text": "I've the roads with the cobbles."
+  },
+  {
+   "start": 98.26,
+   "end": 101.26,
+   "text": "It's a lot more time and something that it just drawn."
+  },
+  {
+   "start": 101.26,
+   "end": 112.82,
+   "text": "It's solid and lines, but it's like polygons, the colors, but it doesn't look as good."
+  },
+  {
+   "start": 112.82,
+   "end": 114.82,
+   "text": "It's so warm with those."
+  },
+  {
+   "start": 114.82,
+   "end": 116.82,
+   "text": "I've built a earth boulder."
+  },
+  {
+   "start": 116.82,
+   "end": 121.82,
+   "text": "I was almost done, but I didn't have a dirt road or something you can see moving under."
+  },
+  {
+   "start": 121.82,
+   "end": 125.82,
+   "text": "I like to do that with boulder too because I'm doing it from."
+  },
+  {
+   "start": 125.82,
+   "end": 131.82,
+   "text": "There's lots of roads and also the reason I was taking a long time."
+  },
+  {
+   "start": 131.82,
+   "end": 136.82,
+   "text": "I have to build it from scratch."
+  },
+  {
+   "start": 136.82,
+   "end": 143.39,
+   "text": "I have to design it."
+  },
+  {
+   "start": 143.39,
+   "end": 146.39,
+   "text": "How I guess it looks then."
+  },
+  {
+   "start": 146.39,
+   "end": 149.39,
+   "text": "I don't have a lot to go."
+  },
+  {
+   "start": 149.39,
+   "end": 154.39,
+   "text": "There's the main map, but it only covers it in middle part."
+  },
+  {
+   "start": 154.39,
+   "end": 157.39,
+   "text": "But there's the whole outside part."
+  },
+  {
+   "start": 157.39,
+   "end": 160.39,
+   "text": "I'm working up until the real-enwall."
+  },
+  {
+   "start": 160.39,
+   "end": 166.39,
+   "text": "There's a lot of discretion."
+  },
+  {
+   "start": 166.39,
+   "end": 171.39,
+   "text": "Most of it I'm just putting the roads on where the current roads are."
+  },
+  {
+   "start": 171.39,
+   "end": 183.39,
+   "text": "But I have to decide which ones to include and leave out for to make it make sense and be consistent with the past."
+  },
+  {
+   "start": 183.39,
+   "end": 188.39,
+   "text": "And also looking at maps and trying to show old roads and stuff."
+  },
+  {
+   "start": 188.39,
+   "end": 196.39,
+   "text": "I'm just ran into like throwing them on so I can't take them off because with images on the below,"
+  },
+  {
+   "start": 196.39,
+   "end": 198.39,
+   "text": "I can't just click on it and it takes you to it."
+  },
+  {
+   "start": 198.39,
+   "end": 201.39,
+   "text": "So if you want to totally hit it and you can't."
+  },
+  {
+   "start": 201.39,
+   "end": 205.39,
+   "text": "You have to know where it is and I've just been happy to be throwing mine."
+  },
+  {
+   "start": 205.39,
+   "end": 208.39,
+   "text": "But I can paste other images on top of it."
+  },
+  {
+   "start": 208.39,
+   "end": 211.39,
+   "text": "Because that's for when I do older versions of Rome."
+  },
+  {
+   "start": 211.39,
+   "end": 216.39,
+   "text": "I'm doing the Rome in 2011 by one of you all of the versions of Rome."
+  },
+  {
+   "start": 216.39,
+   "end": 219.39,
+   "text": "Because of my map of 2011."
+  },
+  {
+   "start": 219.39,
+   "end": 224.39,
+   "text": "I also have the lake that I guess just made for the sea battle in Amasia."
+  },
+  {
+   "start": 224.39,
+   "end": 231.39,
+   "text": "And that only existed much in my time with the gist of someone I've grown at that time."
+  },
+  {
+   "start": 231.39,
+   "end": 234.39,
+   "text": "And then earlier."
+  },
+  {
+   "start": 234.39,
+   "end": 237.39,
+   "text": "So I have to make less and less roads."
+  },
+  {
+   "start": 237.39,
+   "end": 240.39,
+   "text": "Some sort of cutting them out of just paste over."
+  },
+  {
+   "start": 240.39,
+   "end": 242.39,
+   "text": "Anyway, getting sidetracked."
+  },
+  {
+   "start": 242.39,
+   "end": 245.39,
+   "text": "I've been listening to while you're here today."
+  },
+  {
+   "start": 245.39,
+   "end": 248.39,
+   "text": "What is it about different creatures?"
+  },
+  {
+   "start": 248.39,
+   "end": 252.39,
+   "text": "It's just stuff on my side here."
+  },
+  {
+   "start": 252.39,
+   "end": 254.39,
+   "text": "It was like doing earlier."
+  },
+  {
+   "start": 254.39,
+   "end": 256.39,
+   "text": "Brain fart."
+  },
+  {
+   "start": 256.39,
+   "end": 258.39,
+   "text": "Anyway."
+  },
+  {
+   "start": 258.39,
+   "end": 262.28,
+   "text": "Yeah."
+  },
+  {
+   "start": 262.28,
+   "end": 264.28,
+   "text": "So I'm..."
+  },
+  {
+   "start": 264.28,
+   "end": 269.28,
+   "text": "Rome is a lot more of Chris Crossy and terms and stuff."
+  },
+  {
+   "start": 269.28,
+   "end": 274.28,
+   "text": "But what I'm tracing that I think what they had in Rome and times was more gridded."
+  },
+  {
+   "start": 274.28,
+   "end": 276.28,
+   "text": "But it looked good."
+  },
+  {
+   "start": 276.28,
+   "end": 277.28,
+   "text": "So anyway, yeah."
+  },
+  {
+   "start": 277.28,
+   "end": 278.28,
+   "text": "I think I can finish tomorrow."
+  },
+  {
+   "start": 278.28,
+   "end": 280.28,
+   "text": "I'm working on the roads tomorrow."
+  },
+  {
+   "start": 280.28,
+   "end": 282.28,
+   "text": "I'm working on trans Siberian."
+  },
+  {
+   "start": 282.28,
+   "end": 286.28,
+   "text": "The less and part of the other sides of the river."
+  },
+  {
+   "start": 286.28,
+   "end": 289.28,
+   "text": "And I can fill that ends and I maybe."
+  },
+  {
+   "start": 289.28,
+   "end": 291.28,
+   "text": "Is it stuff that late?"
+  },
+  {
+   "start": 291.28,
+   "end": 294.28,
+   "text": "Or maybe definitely by tomorrow then."
+  },
+  {
+   "start": 294.28,
+   "end": 296.28,
+   "text": "Hmm."
+  },
+  {
+   "start": 296.28,
+   "end": 300.28,
+   "text": "I can start putting buildings on."
+  },
+  {
+   "start": 300.28,
+   "end": 305.28,
+   "text": "I was listening to Platinum and Ash being buildings of Rome yesterday at some of our website."
+  },
+  {
+   "start": 305.28,
+   "end": 317.28,
+   "text": "And they mentioned that there were 233 apartment buildings in Region 9, which is the oldest region."
+  },
+  {
+   "start": 317.28,
+   "end": 322.28,
+   "text": "It's just the part of Rome that existed in the middle ages."
+  },
+  {
+   "start": 322.28,
+   "end": 326.28,
+   "text": "And north of downtown."
+  },
+  {
+   "start": 326.28,
+   "end": 331.28,
+   "text": "But in 140 houses and so density wise."
+  },
+  {
+   "start": 331.28,
+   "end": 338.28,
+   "text": "That makes it a lot less dense because it's almost as big as Region 4, where I was supposed"
+  },
+  {
+   "start": 338.28,
+   "end": 341.28,
+   "text": "to have 63,500 apartment buildings."
+  },
+  {
+   "start": 341.28,
+   "end": 346.28,
+   "text": "To, you know, correspond with the 45,000 apartment buildings."
+  },
+  {
+   "start": 346.28,
+   "end": 353.28,
+   "text": "It was supposed to be in all of Rome, which I saw in the apartment building in insula with a PDRical."
+  },
+  {
+   "start": 353.28,
+   "end": 358.28,
+   "text": "So if I had to choose between a lot of all the buildings, she's between the one that mentioned in Platinum Ash being."
+  },
+  {
+   "start": 358.28,
+   "end": 365.28,
+   "text": "But so yeah, maybe I'll just turn my attention to Region 9 and just trace it all the buildings there."
+  },
+  {
+   "start": 365.28,
+   "end": 373.28,
+   "text": "And the houses and tell that has exactly 233 apartments and 140 houses."
+  },
+  {
+   "start": 373.28,
+   "end": 381.28,
+   "text": "And then make it consistent like that throughout the rest of the city."
+  },
+  {
+   "start": 381.28,
+   "end": 391.36,
+   "text": "But it could cause problems because it would be such a big file by then."
+  },
+  {
+   "start": 391.36,
+   "end": 396.36,
+   "text": "My computer might not be able to move around in Google Earth."
+  },
+  {
+   "start": 396.36,
+   "end": 403.36,
+   "text": "And if I'm trying to do a screen capture with QuickTime, it might be in my freeze."
+  },
+  {
+   "start": 403.36,
+   "end": 409.36,
+   "text": "I mean, hopefully, hopefully, my computer can do it."
+  },
+  {
+   "start": 409.36,
+   "end": 413.36,
+   "text": "I can partition the file."
+  },
+  {
+   "start": 413.36,
+   "end": 422.36,
+   "text": "But, you know, and then maybe just do screen captures of certain angles where you have everything together."
+  },
+  {
+   "start": 422.36,
+   "end": 427.36,
+   "text": "And then you just, yeah, when you do ground view, you're just partition it."
+  },
+  {
+   "start": 427.36,
+   "end": 430.36,
+   "text": "But yeah, because sometimes it kind of jerks around."
+  },
+  {
+   "start": 430.36,
+   "end": 435.36,
+   "text": "You just run the road pile, my road pile and buildings pile of our separate."
+  },
+  {
+   "start": 435.36,
+   "end": 442.36,
+   "text": "So, but mostly, I mean, if my computer can't handle it, I'm sure the next generation of computers will be able to."
+  },
+  {
+   "start": 442.36,
+   "end": 456.36,
+   "text": "But to have around on Google Earth is just going to be amazing because you can, when you see the cartoon world and you're looking around it."
+  },
+  {
+   "start": 456.36,
+   "end": 461.36,
+   "text": "And, you know, really looking at it, labeling buildings and stuff."
+  },
+  {
+   "start": 461.36,
+   "end": 465.36,
+   "text": "You can see all of the hills."
+  },
+  {
+   "start": 465.36,
+   "end": 470.36,
+   "text": "And you can see exactly how beautiful it was in back in those days."
+  },
+  {
+   "start": 470.36,
+   "end": 478.99,
+   "text": "And I don't know, yeah, I'm starting to look a little bit, but you can't really see the results done."
+  },
+  {
+   "start": 478.99,
+   "end": 486.46,
+   "text": "So, you know, like, it's like worth it to make it just for me."
+  },
+  {
+   "start": 486.46,
+   "end": 490.46,
+   "text": "And even if you have a seeset, because I really want to see what I'm doing."
+  },
+  {
+   "start": 490.46,
+   "end": 494.46,
+   "text": "But, you know, I think I've worked enough. So, yeah, goals."
+  },
+  {
+   "start": 494.46,
+   "end": 500.46,
+   "text": "I think around the 7th or whatever, 8th or December now, yeah, I'll finish roads tomorrow."
+  },
+  {
+   "start": 500.46,
+   "end": 503.46,
+   "text": "And then, get going on buildings."
+  },
+  {
+   "start": 503.46,
+   "end": 509.46,
+   "text": "And I could take a while, see, I'll just, I'll just work between buildings, tracing buildings in the city."
+  },
+  {
+   "start": 509.46,
+   "end": 514.46,
+   "text": "And then finishing up with a mapped part, three-dimensionalizing."
+  },
+  {
+   "start": 514.46,
+   "end": 520.46,
+   "text": "Because I finished tracing all of the map, all I have to do is, you can give them the proper heights and color."
+  },
+  {
+   "start": 520.46,
+   "end": 528.46,
+   "text": "And so, oh my god, yeah, I could be closer than I think to finishing."
+  },
+  {
+   "start": 528.46,
+   "end": 535.46,
+   "text": "I'm doing good. I'm trucking along. Okay, yeah, that's like a spider, but it's squeezy yesterday."
+  },
+  {
+   "start": 535.46,
+   "end": 538.46,
+   "text": "I hurt bad. Okay."
+  },
+  {
+   "start": 538.46,
+   "end": 539.46,
+   "text": "Peace."
+  }
+ ]
+}

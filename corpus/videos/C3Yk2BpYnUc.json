@@ -1,0 +1,1089 @@
+{
+ "youtube_id": "C3Yk2BpYnUc",
+ "title": "Living in Boulder vlog 1 - 12 - 2018: Google Earthing Roman Coloseum",
+ "url": "https://youtu.be/C3Yk2BpYnUc",
+ "published_at": "2018-01-13",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle recounts excitedly discovering the 'Rome Reborn' 3D model layer in Google Earth after a late night of work, then walks through its limitations (floating buildings, no ground-level walking, slow loading, all-white Colosseum) compared to his own ongoing ancient Rome reconstruction project in a simpler 3D program. He explains why he still sees value in continuing his own version and shares broader ambitions to map colonized Roman towns using a book on Roman agrarian land laws.",
+  "speaker": "kyle",
+  "topics": [
+   "Google Earth Rome Reborn model",
+   "3D reconstruction of ancient Rome",
+   "SketchUp software",
+   "Kyle's personal Rome building project",
+   "Roman history and republic vs empire",
+   "Roman colonial towns and land laws",
+   "software pricing critique"
+  ],
+  "stances": [
+   {
+    "topic": "Rome Reborn on Google Earth",
+    "position": "Impressive achievement but too limited for his use case — buildings float, can't be downloaded, no interior access, poor performance"
+   },
+   {
+    "topic": "His own Rome project",
+    "position": "Still worth continuing because it offers transparency, interior views, color-coded data, and works across all scales from aerial to ground level"
+   },
+   {
+    "topic": "Roman Republic vs Empire",
+    "position": "The Republic era is the most interesting — more democratic, expansionist, exciting history; the Empire is boring and corrupt"
+   },
+   {
+    "topic": "SketchUp pricing",
+    "position": "Should be $70 not $700; Google should give it to schools and kids to crowdsource historical reconstructions"
+   },
+   {
+    "topic": "Google Earth Rome model quality",
+    "position": "They did a good job but lack the awning/ropes on the Colosseum and don't take advantage of terrain contours"
+   }
+  ],
+  "entities": [
+   "Rome Reborn",
+   "Google Earth",
+   "SketchUp",
+   "Google",
+   "Colosseum",
+   "Palatine Hill",
+   "Mons Testacchio",
+   "Aristotle (Politics)",
+   "Livy",
+   "Roman Agrarian Land Laws of the Republic (book)",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.37,
+   "end": 6.43,
+   "text": "Hello, living in Boulder, B-Log, it's 1231, I have one during the war, 13th,"
+  },
+  {
+   "start": 6.43,
+   "end": 13.37,
+   "text": "during the video earlier today because today I'm more interested in doing the video."
+  },
+  {
+   "start": 13.37,
+   "end": 20.37,
+   "text": "Because this is an interesting day. I just go home, I just have a Google Earth."
+  },
+  {
+   "start": 20.37,
+   "end": 25.37,
+   "text": "I mean, I discovered ancient Rome on Google Earth."
+  },
+  {
+   "start": 25.37,
+   "end": 33.37,
+   "text": "Yeah, so last night I worked in a work in a work in a hotel like a lot of six in a morning or seven in the morning."
+  },
+  {
+   "start": 33.37,
+   "end": 37.37,
+   "text": "And I light down a bed and I had myself on the street."
+  },
+  {
+   "start": 37.37,
+   "end": 44.37,
+   "text": "And I was thinking, I wanted to look at the sketch up which is this program that I experienced in the original building, so I do more."
+  },
+  {
+   "start": 44.37,
+   "end": 53.37,
+   "text": "Because I'm just using the Google program to all the long-term opportunities to put it to make buildings look realistic."
+  },
+  {
+   "start": 53.37,
+   "end": 63.37,
+   "text": "And I saw a little, a couple minutes of the tutorial I had like an hour long tutorial on YouTube channels, just two minutes of the script."
+  },
+  {
+   "start": 63.37,
+   "end": 78.74,
+   "text": "And so I clicked SketchUp on Google on YouTube, I saw this video and this is the check that's on the Google YouTube channel and that 5 million subscribers."
+  },
+  {
+   "start": 79.74,
+   "end": 83.74,
+   "text": "And she's a bulber, she's saying, hey, I'm also from Boulder, Google."
+  },
+  {
+   "start": 83.74,
+   "end": 89.74,
+   "text": "Look at what we did, look at what you can do with Google and you're talking about Google SketchUp, I guess people on SketchUp."
+  },
+  {
+   "start": 89.74,
+   "end": 95.74,
+   "text": "And so they show the nice fancy building in the drawing and then they show her setting in front of the real one if you like 5 million here in Boulder."
+  },
+  {
+   "start": 95.74,
+   "end": 106.44,
+   "text": "And then she says, oh yeah, and get your, you know, make a building and submit it."
+  },
+  {
+   "start": 106.44,
+   "end": 111.44,
+   "text": "And maybe I think there may have been a mention about Rome."
+  },
+  {
+   "start": 111.44,
+   "end": 118.88,
+   "text": "Yeah, there was some mention about Google Earth in Rome. I don't think it was that video."
+  },
+  {
+   "start": 118.88,
+   "end": 122.88,
+   "text": "It was not video, it was another video, it was such a video."
+  },
+  {
+   "start": 122.88,
+   "end": 126.88,
+   "text": "We were talking about the Google Earth thinking for Rome and they're like, yeah, Google Earth Rome."
+  },
+  {
+   "start": 126.88,
+   "end": 128.88,
+   "text": "You're like, there's a little bit of a thing in Rome."
+  },
+  {
+   "start": 128.88,
+   "end": 130.88,
+   "text": "I thought, are you talking about it?"
+  },
+  {
+   "start": 130.88,
+   "end": 133.88,
+   "text": "And so I scroll down the video."
+  },
+  {
+   "start": 134.88,
+   "end": 138.88,
+   "text": "And I see this comments when it goes, yeah, it would be great if it actually existed."
+  },
+  {
+   "start": 138.88,
+   "end": 142.88,
+   "text": "And then I looked and I saw that it was me who had the comment."
+  },
+  {
+   "start": 142.88,
+   "end": 145.88,
+   "text": "And then I looked over to the right and it was made two years ago."
+  },
+  {
+   "start": 145.88,
+   "end": 149.88,
+   "text": "So I saw that video two years ago. I looked all over Google and it wasn't there."
+  },
+  {
+   "start": 149.88,
+   "end": 158.88,
+   "text": "But then I saw up a lot of my comments, so let me make a comment to me and saying, all you have to do is go to the Rome, reborn and Google Earth and click on the icon on the thing."
+  },
+  {
+   "start": 158.88,
+   "end": 162.88,
+   "text": "And you can download the image, the model. I was like, what?"
+  },
+  {
+   "start": 162.88,
+   "end": 164.88,
+   "text": "What? So I jumped out of bed."
+  },
+  {
+   "start": 164.88,
+   "end": 167.88,
+   "text": "You know, like, seven in the morning, I just got in."
+  },
+  {
+   "start": 167.88,
+   "end": 170.88,
+   "text": "To get back on the computer."
+  },
+  {
+   "start": 170.88,
+   "end": 174.88,
+   "text": "And yeah, and I opened up my Rome reborn."
+  },
+  {
+   "start": 174.88,
+   "end": 177.88,
+   "text": "I clicked on the thing that went down to the lower left and I clicked on it."
+  },
+  {
+   "start": 177.88,
+   "end": 181.88,
+   "text": "There was a soft shit that said 5000 post buildings that clicked on it."
+  },
+  {
+   "start": 181.88,
+   "end": 187.88,
+   "text": "And then over here on the left I saw the option, ancient Rome, just like in the video."
+  },
+  {
+   "start": 187.88,
+   "end": 194.88,
+   "text": "So I must have tried it two years ago and didn't work because I don't picture how I wouldn't have seen that there and I clicked on it."
+  },
+  {
+   "start": 194.88,
+   "end": 199.88,
+   "text": "But yeah, I clicked on it. I said, it's in Rome there and the left is just like with 3D buildings."
+  },
+  {
+   "start": 199.88,
+   "end": 202.88,
+   "text": "And then I start to see if one should like white dots appear."
+  },
+  {
+   "start": 202.88,
+   "end": 206.88,
+   "text": "And I noticed it's the whole Rome. They really did Google Earth all over Rome."
+  },
+  {
+   "start": 206.88,
+   "end": 208.88,
+   "text": "But that point is one to go straight. So it's a bad."
+  },
+  {
+   "start": 208.88,
+   "end": 211.88,
+   "text": "And I got to next one and I remembered it in the morning lip."
+  },
+  {
+   "start": 211.88,
+   "end": 213.88,
+   "text": "And I looked and it had loaded by that."
+  },
+  {
+   "start": 213.88,
+   "end": 231.88,
+   "text": "And yeah, they really re-built Rome with the quality, with very high quality, with that sketch over the ground where it's the red roofs and the tiles and the walls that look like stone walls and windows and doors and everything and slept buildings."
+  },
+  {
+   "start": 231.88,
+   "end": 237.88,
+   "text": "But it was all loaded. You know, it looked great."
+  },
+  {
+   "start": 237.88,
+   "end": 241.88,
+   "text": "And so I hadn't even had the thought before, oh my god, what was I doing?"
+  },
+  {
+   "start": 241.88,
+   "end": 245.88,
+   "text": "If I've been wasting my time this whole time because they already had it."
+  },
+  {
+   "start": 245.88,
+   "end": 251.88,
+   "text": "But I wanted to do what I do with my own computer stuff."
+  },
+  {
+   "start": 251.88,
+   "end": 256.88,
+   "text": "It's zoom in and out really quick and look at the different angles and all that kind of stuff."
+  },
+  {
+   "start": 256.88,
+   "end": 263.88,
+   "text": "But it doesn't work that way because you can't download the files."
+  },
+  {
+   "start": 263.88,
+   "end": 265.88,
+   "text": "And it's anywhere you can download the files."
+  },
+  {
+   "start": 265.88,
+   "end": 271.88,
+   "text": "I'm actually going to do a really thorough search because I haven't done a really thorough search to make sure you can actually download the files here at computer."
+  },
+  {
+   "start": 271.88,
+   "end": 273.88,
+   "text": "But I don't think you can't."
+  },
+  {
+   "start": 273.88,
+   "end": 277.88,
+   "text": "And the way that they did it because I clicked, it said download or whatever and it just opened it up."
+  },
+  {
+   "start": 277.88,
+   "end": 285.88,
+   "text": "But you can't download it, meaning all the information of all the buildings of 5,000 possibilities in where it is."
+  },
+  {
+   "start": 285.88,
+   "end": 289.88,
+   "text": "It's dependent on how faster it is. That's why the buildings didn't appear."
+  },
+  {
+   "start": 289.88,
+   "end": 297.88,
+   "text": "So as soon as I like if I look at a building in a zoom out, you would zoom out to nothing and then it would be just a bunch of white dots and then they would appear building."
+  },
+  {
+   "start": 297.88,
+   "end": 303.88,
+   "text": "And if you want to go back to the building and look often the distance they wouldn't work because none of them would be loaded."
+  },
+  {
+   "start": 303.88,
+   "end": 305.88,
+   "text": "And then there was another problem."
+  },
+  {
+   "start": 305.88,
+   "end": 309.88,
+   "text": "I wanted to zoom down into as a declaration and look at it."
+  },
+  {
+   "start": 309.88,
+   "end": 311.88,
+   "text": "Go through and then it would look like a little version that I built."
+  },
+  {
+   "start": 311.88,
+   "end": 317.88,
+   "text": "So I zoom out and notice that the entire city is hovering like three-in-a-feet above the real earth."
+  },
+  {
+   "start": 317.88,
+   "end": 321.88,
+   "text": "And then I zoom, I went down to the earth, the baths."
+  },
+  {
+   "start": 321.88,
+   "end": 327.88,
+   "text": "And then I looked at the building and the building was hovering like five meters above the earth around it."
+  },
+  {
+   "start": 327.88,
+   "end": 335.88,
+   "text": "So probably with a top line computer, with a fast internet, whatever you do it, I'll be intact."
+  },
+  {
+   "start": 335.88,
+   "end": 341.88,
+   "text": "But you have to open them up all like that. It wasn't working."
+  },
+  {
+   "start": 341.88,
+   "end": 345.88,
+   "text": "And my mind doesn't do that."
+  },
+  {
+   "start": 345.88,
+   "end": 349.88,
+   "text": "Even when I have the whole thing open, I mean, every once in a while sometimes it can do that."
+  },
+  {
+   "start": 349.88,
+   "end": 353.88,
+   "text": "But it's not uncontrollable and unmanageable."
+  },
+  {
+   "start": 353.88,
+   "end": 357.88,
+   "text": "It doesn't work."
+  },
+  {
+   "start": 357.88,
+   "end": 363.88,
+   "text": "You can't do anything that you would have to do in order to put yourself into the ancient Roman world."
+  },
+  {
+   "start": 363.88,
+   "end": 367.88,
+   "text": "If they can't load, if none of the building is the only way that it actually works is a picture."
+  },
+  {
+   "start": 367.88,
+   "end": 371.88,
+   "text": "If you just sit there for five minutes, wait for it all to load."
+  },
+  {
+   "start": 371.88,
+   "end": 377.88,
+   "text": "So we should have had it sitting in a download and took a computer."
+  },
+  {
+   "start": 377.88,
+   "end": 381.88,
+   "text": "And also there's no detail inside the buildings."
+  },
+  {
+   "start": 381.88,
+   "end": 385.88,
+   "text": "You can't go in the buildings and walk around them."
+  },
+  {
+   "start": 385.88,
+   "end": 389.88,
+   "text": "The only building you can do that with that I did it with was the Coliseum."
+  },
+  {
+   "start": 389.88,
+   "end": 395.88,
+   "text": "But they didn't have the same feature as they said in SketchUp,"
+  },
+  {
+   "start": 395.88,
+   "end": 397.88,
+   "text": "where you can walk it. Even sit, five, five, six."
+  },
+  {
+   "start": 397.88,
+   "end": 401.88,
+   "text": "I love it. We're walking around the ground like you're there."
+  },
+  {
+   "start": 401.88,
+   "end": 403.88,
+   "text": "I was sketched it doesn't work."
+  },
+  {
+   "start": 403.88,
+   "end": 407.88,
+   "text": "But don't have that feature and it doesn't work ever anyway because it's all scattered,"
+  },
+  {
+   "start": 407.88,
+   "end": 409.88,
+   "text": "covered, about the earth and everything."
+  },
+  {
+   "start": 409.88,
+   "end": 413.88,
+   "text": "So I was trying to do that. And oh, they also have another feature I saw in the where you can't bump into walls."
+  },
+  {
+   "start": 413.88,
+   "end": 415.88,
+   "text": "And that wasn't working."
+  },
+  {
+   "start": 415.88,
+   "end": 417.88,
+   "text": "Neither of those were working."
+  },
+  {
+   "start": 417.88,
+   "end": 419.88,
+   "text": "Walking around the Coliseum."
+  },
+  {
+   "start": 419.88,
+   "end": 423.88,
+   "text": "And the Coliseum, it was just white."
+  },
+  {
+   "start": 423.88,
+   "end": 425.88,
+   "text": "It was all white. They drew it with a detail."
+  },
+  {
+   "start": 425.88,
+   "end": 427.88,
+   "text": "But everything was the same color."
+  },
+  {
+   "start": 427.88,
+   "end": 433.88,
+   "text": "Yeah, so it doesn't, for what I want to do, it doesn't work."
+  },
+  {
+   "start": 433.88,
+   "end": 437.88,
+   "text": "I want to have my idea of the blurring room is,"
+  },
+  {
+   "start": 437.88,
+   "end": 443.88,
+   "text": "is there factually files on the left side that you can click on on click of all the different types of"
+  },
+  {
+   "start": 443.88,
+   "end": 445.88,
+   "text": "I've been living. So you know what building you're looking at?"
+  },
+  {
+   "start": 445.88,
+   "end": 447.88,
+   "text": "It's all color coded."
+  },
+  {
+   "start": 447.88,
+   "end": 453.88,
+   "text": "If your computer isn't good enough to have it on the tack, you can close off certain folders."
+  },
+  {
+   "start": 453.88,
+   "end": 459.88,
+   "text": "Because when I clicked on the room, it just had, it was just one folder that said ancient room."
+  },
+  {
+   "start": 459.88,
+   "end": 461.88,
+   "text": "And there was no subfolder."
+  },
+  {
+   "start": 461.88,
+   "end": 463.88,
+   "text": "It was just one folder."
+  },
+  {
+   "start": 463.88,
+   "end": 465.88,
+   "text": "And that was all of our own."
+  },
+  {
+   "start": 465.88,
+   "end": 471.88,
+   "text": "So if you have it all a different folder, files, you know, you can just pick and choose a computer"
+  },
+  {
+   "start": 471.88,
+   "end": 473.88,
+   "text": "or a text."
+  },
+  {
+   "start": 473.88,
+   "end": 477.88,
+   "text": "Also, you can, if you have the file, then it isn't touching the earth."
+  },
+  {
+   "start": 477.88,
+   "end": 481.88,
+   "text": "All you have to do is right click it and it will touch the earth."
+  },
+  {
+   "start": 481.88,
+   "end": 485.88,
+   "text": "If you want to, you know, if it has to be perfect, if you want to do a screen capture video or something."
+  },
+  {
+   "start": 485.88,
+   "end": 487.88,
+   "text": "So it's a lot better."
+  },
+  {
+   "start": 487.88,
+   "end": 495.88,
+   "text": "And I think mine works and there's a dozen, because I actually have my buildings fixed to the earth."
+  },
+  {
+   "start": 495.88,
+   "end": 501.88,
+   "text": "Or maybe, yeah, they're using a whole different platforms."
+  },
+  {
+   "start": 501.88,
+   "end": 507.88,
+   "text": "I don't know how it works, but I'm going to get back on there and download just individual, open individual buildings"
+  },
+  {
+   "start": 507.88,
+   "end": 511.88,
+   "text": "and see if I'm still in sync with you."
+  },
+  {
+   "start": 511.88,
+   "end": 513.88,
+   "text": "Yes, so anyway, is it the end of the day I'm glad that I'm doing."
+  },
+  {
+   "start": 513.88,
+   "end": 515.88,
+   "text": "I'm doing, they have room from 350."
+  },
+  {
+   "start": 515.88,
+   "end": 517.88,
+   "text": "I'm doing mine from 219."
+  },
+  {
+   "start": 517.88,
+   "end": 521.88,
+   "text": "It's really cool to know that they have that because from now on."
+  },
+  {
+   "start": 521.88,
+   "end": 527.88,
+   "text": "I can reference it with the Google Earth version of room."
+  },
+  {
+   "start": 527.88,
+   "end": 529.88,
+   "text": "I was looking at a few buildings that I knew about."
+  },
+  {
+   "start": 529.88,
+   "end": 535.88,
+   "text": "The, the, the, the, the warehouse, this January,"
+  },
+  {
+   "start": 535.88,
+   "end": 539.88,
+   "text": "house near Montestacchio, the southwestern part of the city."
+  },
+  {
+   "start": 539.88,
+   "end": 541.88,
+   "text": "And that looked the same."
+  },
+  {
+   "start": 541.88,
+   "end": 543.88,
+   "text": "There's the same location."
+  },
+  {
+   "start": 543.88,
+   "end": 545.88,
+   "text": "So I thought it would be."
+  },
+  {
+   "start": 545.88,
+   "end": 549.88,
+   "text": "So, and it was fast, it's fast-hating to look at ways that they organized the buildings and stuff."
+  },
+  {
+   "start": 549.88,
+   "end": 551.88,
+   "text": "The way I want to do it is just call it code."
+  },
+  {
+   "start": 551.88,
+   "end": 557.88,
+   "text": "So you can see the things I'll leave which and have the same number of different types of buildings as in reality."
+  },
+  {
+   "start": 557.88,
+   "end": 559.88,
+   "text": "You know, not just."
+  },
+  {
+   "start": 561.88,
+   "end": 567.88,
+   "text": "To a data, and oh, and another problem with the data was because you can't go on ground level."
+  },
+  {
+   "start": 567.88,
+   "end": 571.88,
+   "text": "They're not, they're not taking advantage of the contours of the Earth."
+  },
+  {
+   "start": 571.88,
+   "end": 575.88,
+   "text": "So you're not, you know, seeing anything up on the power-time hill."
+  },
+  {
+   "start": 575.88,
+   "end": 579.88,
+   "text": "It's just, it was just this big building, you know,"
+  },
+  {
+   "start": 579.88,
+   "end": 581.88,
+   "text": "that wasn't even really higher than the other buildings."
+  },
+  {
+   "start": 581.88,
+   "end": 583.88,
+   "text": "And it was at the power-time hill."
+  },
+  {
+   "start": 583.88,
+   "end": 591.42,
+   "text": "So, um, so yeah, so anyway, it's on the cloud."
+  },
+  {
+   "start": 591.42,
+   "end": 595.42,
+   "text": "Plus another reason when I'm, I think it's worth it for me to do it."
+  },
+  {
+   "start": 595.42,
+   "end": 597.42,
+   "text": "And I was taking forever, like a whole year."
+  },
+  {
+   "start": 597.42,
+   "end": 603.42,
+   "text": "Um, as, as I can, in the style that I make it, I can also make, um,"
+  },
+  {
+   "start": 603.42,
+   "end": 609.42,
+   "text": "roaming all of the different e-box and the growth of roam."
+  },
+  {
+   "start": 609.42,
+   "end": 611.42,
+   "text": "Romin, it's most interesting."
+  },
+  {
+   "start": 611.42,
+   "end": 617.42,
+   "text": "Is, uh, doesn't even look like how we're used to looking around the room that we know."
+  },
+  {
+   "start": 617.42,
+   "end": 621.42,
+   "text": "That's the giant metropolis room that's the empire of the world."
+  },
+  {
+   "start": 621.42,
+   "end": 627.42,
+   "text": "And, uh, decade it leaching off of everybody in the world and is boarding and controlled by, uh,"
+  },
+  {
+   "start": 627.42,
+   "end": 635.42,
+   "text": "you know, embers and, you know, or asshole and makes stupid decisions and they're just,"
+  },
+  {
+   "start": 635.42,
+   "end": 641.42,
+   "text": "uh, they're eroding the, uh, all of this beautiful, uh,"
+  },
+  {
+   "start": 641.42,
+   "end": 649.42,
+   "text": "you know, culture and, um, a political system that was very democratic and then just turning it into, uh,"
+  },
+  {
+   "start": 649.42,
+   "end": 654.14,
+   "text": "more and more, uh, like a kingdom."
+  },
+  {
+   "start": 654.14,
+   "end": 656.14,
+   "text": "And so it's just boring."
+  },
+  {
+   "start": 656.14,
+   "end": 662.14,
+   "text": "The best part of the history of our own is, uh, when it was in its kingdom and a republic and,"
+  },
+  {
+   "start": 662.14,
+   "end": 666.14,
+   "text": "and just taking over every year, they're taking over more land from these people and,"
+  },
+  {
+   "start": 666.14,
+   "end": 670.14,
+   "text": "because they're just, they're, um, they're more, uh, democratic."
+  },
+  {
+   "start": 670.14,
+   "end": 676.14,
+   "text": "And, uh, yeah, they just have all the best qualities."
+  },
+  {
+   "start": 676.14,
+   "end": 682.14,
+   "text": "And so, it's exciting to read, you know, and it makes you want to picture the world."
+  },
+  {
+   "start": 682.14,
+   "end": 686.14,
+   "text": "But it doesn't look anything like what you see here. It's, it was much smaller."
+  },
+  {
+   "start": 686.14,
+   "end": 690.14,
+   "text": "You know, they weren't even, and you can see it, uh, to grow."
+  },
+  {
+   "start": 690.14,
+   "end": 696.14,
+   "text": "Lovia describes each different part of it growing. You know, exactly when the, uh,"
+  },
+  {
+   "start": 696.14,
+   "end": 702.14,
+   "text": "part across the river started, at the end of the kingdom was, uh, I wouldn't start it."
+  },
+  {
+   "start": 702.14,
+   "end": 708.14,
+   "text": "So, um, it's, uh, that's, that's what I find interesting on a new,"
+  },
+  {
+   "start": 708.14,
+   "end": 710.14,
+   "text": "these realistic components. I just need to know where they were."
+  },
+  {
+   "start": 710.14,
+   "end": 714.14,
+   "text": "And there's another thing that I want to do with Google Earth,"
+  },
+  {
+   "start": 714.14,
+   "end": 718.14,
+   "text": "and Flavie. I noticed there's just a book called, uh, that I got a kind of,"
+  },
+  {
+   "start": 718.14,
+   "end": 722.14,
+   "text": "called, uh, Roman-Agrated Land Laws of the Republic. And, uh,"
+  },
+  {
+   "start": 722.14,
+   "end": 728.14,
+   "text": "he listed all of the different, uh, towns that were founded and tick-over and, uh,"
+  },
+  {
+   "start": 728.14,
+   "end": 736.14,
+   "text": "colonized and it listed the land, how much land it was and how many citizens, um, and how many lots."
+  },
+  {
+   "start": 736.14,
+   "end": 742.14,
+   "text": "And so I'm going to go on Google Earth to those towns and recreate the ancient Roman town,"
+  },
+  {
+   "start": 742.14,
+   "end": 748.14,
+   "text": "because I know how many lots there were and how big they were and how many were from the forest."
+  },
+  {
+   "start": 748.14,
+   "end": 752.14,
+   "text": "You know, how many of them were and how big they were and that's all I need to know."
+  },
+  {
+   "start": 752.14,
+   "end": 756.14,
+   "text": "So then just recreate the city and, uh, that, uh, that, uh, and, uh,"
+  },
+  {
+   "start": 756.14,
+   "end": 760.14,
+   "text": "not just that. And they were like what 50 of them were up on show."
+  },
+  {
+   "start": 760.14,
+   "end": 768.14,
+   "text": "And, uh, yeah, and then biggest states also. So, uh, so yeah, I'll keep going on my project."
+  },
+  {
+   "start": 768.14,
+   "end": 774.14,
+   "text": "Today I, um, I made it from like 80 to 110 or something,"
+  },
+  {
+   "start": 774.14,
+   "end": 780.14,
+   "text": "ropes at 115 ropes. The Google Earth version of the Colosseum, they don't have the, um,"
+  },
+  {
+   "start": 780.14,
+   "end": 786.14,
+   "text": "awning on it or the rope coming off the side. So, um,"
+  },
+  {
+   "start": 786.14,
+   "end": 793.57,
+   "text": "I think I downloaded that program sketch up to,"
+  },
+  {
+   "start": 793.57,
+   "end": 797.57,
+   "text": "I'm going to open it and maybe they'll give you a trial version. And I want to, I want to figure it out just"
+  },
+  {
+   "start": 797.57,
+   "end": 803.57,
+   "text": "quickly because it seems like you'd be able to use it and peg the buildings to a ground."
+  },
+  {
+   "start": 803.57,
+   "end": 811.57,
+   "text": "You know, I don't know how they're just flowing, but um, but uh,"
+  },
+  {
+   "start": 811.57,
+   "end": 817.57,
+   "text": "yeah, using their program would have been quicker to make these ropes, but once I've done"
+  },
+  {
+   "start": 817.57,
+   "end": 823.57,
+   "text": "with it, then I can move on, and start moving forward again, and do the other, um,"
+  },
+  {
+   "start": 823.57,
+   "end": 831.57,
+   "text": "series of maximum of send, uh, amphitheaters. And I'm really curious to see how real this thing. I can make"
+  },
+  {
+   "start": 831.57,
+   "end": 837.57,
+   "text": "my version of the Colosseum compared to the Google Earth version, because they did a good job."
+  },
+  {
+   "start": 837.57,
+   "end": 841.57,
+   "text": "You know, it's just like the Colosseum. They don't have the limitations that I do."
+  },
+  {
+   "start": 841.57,
+   "end": 845.57,
+   "text": "You know, they could have like a call and start at 50 meters and into 60 meters."
+  },
+  {
+   "start": 845.57,
+   "end": 851.57,
+   "text": "60 meters, whereas I would have to start at the Earth. It's having to be hidden on the entire way up."
+  },
+  {
+   "start": 851.57,
+   "end": 857.57,
+   "text": "But if I can make mine, see the idea behind mine is that you can, uh, you look at it and you know,"
+  },
+  {
+   "start": 857.57,
+   "end": 861.57,
+   "text": "function, you know, you're not just looking at a pretty Colosseum, and it actually exclaims"
+  },
+  {
+   "start": 861.57,
+   "end": 867.57,
+   "text": "to help you put in the world. That's why even online, maybe not as realistic because you can see through"
+  },
+  {
+   "start": 867.57,
+   "end": 871.57,
+   "text": "the roofs, you can only see into the roofs. With whatever Google Earth has all you see is building,"
+  },
+  {
+   "start": 871.57,
+   "end": 877.57,
+   "text": "but you don't know what it's like inside, you know? You can't even enter them, but with me, you can see anything"
+  },
+  {
+   "start": 877.57,
+   "end": 883.57,
+   "text": "from 30,000 feet up or however, 10,000 feet up, all the way into the building. So, uh,"
+  },
+  {
+   "start": 883.57,
+   "end": 891.57,
+   "text": "that would be cool if in the future, I wouldn't have to, I could convert what I have into something that's"
+  },
+  {
+   "start": 891.57,
+   "end": 897.57,
+   "text": "the same quality as the Google Earth. Google has where they would just give you the new version,"
+  },
+  {
+   "start": 897.57,
+   "end": 900.77,
+   "text": "you can open up the stuff you already made, and now instead of the color scheme, I have"
+  },
+  {
+   "start": 900.77,
+   "end": 907.17,
+   "text": "limited to, I can choose brick facade, you know, and then I could like, the roof, I could give it a"
+  },
+  {
+   "start": 907.17,
+   "end": 913.57,
+   "text": "angle, you know, like they do with sketch out. That's all I need. All I need is to add a angles, be able to"
+  },
+  {
+   "start": 913.57,
+   "end": 923.57,
+   "text": "give it what, you know, a little, like a mirror on the side and stuff, and a perfect room. So, anyway,"
+  },
+  {
+   "start": 924.53,
+   "end": 930.29,
+   "text": "what was I listening to? I'm doing art, I'll try to borrow the deal. This is huge, but"
+  },
+  {
+   "start": 931.65,
+   "end": 935.73,
+   "text": "that guy is so annoying. It's the whole book, it's in talking about ripping people,"
+  },
+  {
+   "start": 935.73,
+   "end": 943.17,
+   "text": "it's getting people like his, like his cool, like that makes him smart. But I was also listening to"
+  },
+  {
+   "start": 943.17,
+   "end": 951.57,
+   "text": "a Aristotle politics kind of going back and forth. I think I've talked a little bit about that,"
+  },
+  {
+   "start": 951.57,
+   "end": 960.21,
+   "text": "I think I have set the record straight. My relationship with sketch out. If I had the money,"
+  },
+  {
+   "start": 960.21,
+   "end": 963.73,
+   "text": "I would have used that from the beginning, but I just didn't have the money, I think that's why I"
+  },
+  {
+   "start": 963.73,
+   "end": 970.77,
+   "text": "use it. They want $700 for it. What people should do, what they should do with that is Google's got"
+  },
+  {
+   "start": 970.77,
+   "end": 974.29,
+   "text": "a lot of money, they're not going out. There's any time soon they want to make a space all air and stuff."
+  },
+  {
+   "start": 975.25,
+   "end": 979.25,
+   "text": "The easy to take these vans are being part of a company that has the money. What you want to do is"
+  },
+  {
+   "start": 979.25,
+   "end": 984.21,
+   "text": "you want to sell that program for $70 instead of $700. Then market it to the whole world because"
+  },
+  {
+   "start": 984.21,
+   "end": 989.25,
+   "text": "lots of little kids, there's millions of millions of kids in this world. It's a school. You just give it to them"
+  },
+  {
+   "start": 989.25,
+   "end": 994.29,
+   "text": "and you tell those kids to rebuild wrong and grease all this stuff. I would have been more than happy to spend"
+  },
+  {
+   "start": 994.29,
+   "end": 1005.25,
+   "text": "$70 on that. I can't do 700. That would have can. Anyway, I'm happy, I don't need anything more than what I"
+  },
+  {
+   "start": 1005.25,
+   "end": 1013.49,
+   "text": "got. I mean, we're all about to build it. That's going to be interesting too."
+  },
+  {
+   "start": 1014.85,
+   "end": 1018.29,
+   "text": "Okay, I'll make that 16 minutes."
+  }
+ ]
+}

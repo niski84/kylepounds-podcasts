@@ -1,0 +1,623 @@
+{
+ "youtube_id": "c7pGJWRLe40",
+ "title": "Rastamen & Reggae - Request",
+ "url": "https://youtu.be/c7pGJWRLe40",
+ "published_at": "2016-02-17",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle responds to a viewer request about reggae music and Rastafarianism, sharing rambling personal opinions and a jailhouse anecdote about a man who toured with Bob Marley. He covers the origins of reggae, his view that Rastafarianism has two faces (the religious/Ethiopia aspect and a stoner lifestyle religion), and claims personal identification as a Rasta.",
+  "speaker": "kyle",
+  "topics": [
+   "reggae music",
+   "Rastafarianism",
+   "Bob Marley",
+   "cannabis/weed culture",
+   "religion",
+   "personal anecdotes",
+   "Scientology comparison",
+   "Marcus Garvey/African identity"
+  ],
+  "stances": [
+   {
+    "topic": "Bob Marley",
+    "position": "invented reggae and believed music could fix all the world's problems by spreading positivity"
+   },
+   {
+    "topic": "Rastafarianism",
+    "position": "has two separate faces: the Haile Selassie/Ethiopia religious side and the stoner lifestyle side, similar to how Scientology has two faces"
+   },
+   {
+    "topic": "Rastafarianism as stoner religion",
+    "position": "Rastafarianism is essentially the original stoner religion and provides a good cultural cohesive identity for that community"
+   },
+   {
+    "topic": "personal Rasta identity",
+    "position": "identifies himself as a Rasta and challenges anyone who disputes it"
+   },
+   {
+    "topic": "Snoop Dogg going Rastafarian",
+    "position": "thinks it was a good thing"
+   },
+   {
+    "topic": "reggae music personally",
+    "position": "likes it, especially Bob Marley's Legend album from around 10th grade; hasn't been listening to it much lately"
+   }
+  ],
+  "entities": [
+   "Bob Marley",
+   "Ziggy Marley",
+   "Haile Selassie",
+   "Marcus Garvey",
+   "Snoop Dogg",
+   "Buffalo Soldiers",
+   "Ethiopia",
+   "Jamaica",
+   "Detroit",
+   "Sift It Up (commenter)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.46,
+   "end": 3.46,
+   "text": "video request"
+  },
+  {
+   "start": 4.46,
+   "end": 5.74,
+   "text": "From"
+  },
+  {
+   "start": 5.74,
+   "end": 13.02,
+   "text": "Sift it up okay, so what was the outcome of your court case? Oh wait that was where the fuck is that request?"
+  },
+  {
+   "start": 15.35,
+   "end": 23.89,
+   "text": "I was just looking at it. Oh, here we are. Oh, no, it was the same"
+  },
+  {
+   "start": 24.61,
+   "end": 28.72,
+   "text": "comment god, I'm okay"
+  },
+  {
+   "start": 29.76,
+   "end": 32.76,
+   "text": "So what was the outcome of your court preparation?"
+  },
+  {
+   "start": 32.76,
+   "end": 42.08,
+   "text": "Um, assume you don't get tested. I answered him what the outcome was okay. So video requests thoughts on reggae music and rustifying is a"
+  },
+  {
+   "start": 42.48,
+   "end": 45.88,
+   "text": "Maybe read Wikipedia first if you don't know much about them."
+  },
+  {
+   "start": 47.6,
+   "end": 57.77,
+   "text": "I know enough without reading Wikipedia. I know about the rustifying and the reggae, you're a reggae, you aren't you?"
+  },
+  {
+   "start": 58.65,
+   "end": 60.65,
+   "text": "With the duck dreads locks"
+  },
+  {
+   "start": 60.65,
+   "end": 66.25,
+   "text": "Yeah, yeah, it's the black people from Africa and then they came and then the white man came and took him to"
+  },
+  {
+   "start": 69.57,
+   "end": 73.57,
+   "text": "Cuba and Jamaica and that's what buffalo soldiers all about"
+  },
+  {
+   "start": 74.81,
+   "end": 76.81,
+   "text": "And then"
+  },
+  {
+   "start": 77.81,
+   "end": 79.81,
+   "text": "They made music"
+  },
+  {
+   "start": 79.97,
+   "end": 88.85,
+   "text": "There and it sounds all relaxed because they smoke weed there and because it's relaxing to live in the tropics and black people"
+  },
+  {
+   "start": 88.85,
+   "end": 91.57,
+   "text": "I guess are like relaxed anyway and"
+  },
+  {
+   "start": 94.65,
+   "end": 102.25,
+   "text": "Well, I guess maybe I don't know that much, but oh no, yeah, yeah, yeah, I reggae music. You know let me tell you a little story here when I got my DUI"
+  },
+  {
+   "start": 105.79,
+   "end": 109.39,
+   "text": "My cellmate was just dude black dude"
+  },
+  {
+   "start": 111.39,
+   "end": 115.75,
+   "text": "And he said he was walking around like in 1980 he was walking around in some town"
+  },
+  {
+   "start": 116.47,
+   "end": 118.47,
+   "text": "Like big town Detroit or something and"
+  },
+  {
+   "start": 119.83,
+   "end": 127.27,
+   "text": "Some dude walked out and say you want to join our entourage. He's like okay. He isn't a friend and so they jumped in and"
+  },
+  {
+   "start": 127.75,
+   "end": 130.07,
+   "text": "It was like three buslets full and"
+  },
+  {
+   "start": 130.87,
+   "end": 133.99,
+   "text": "And then it was like somewhere to sing her with the dreadlocks and"
+  },
+  {
+   "start": 135.19,
+   "end": 141.43,
+   "text": "And playing this weird music from Jamaica and yet turned out to be a Bob Marley me toured with him for two months"
+  },
+  {
+   "start": 141.95,
+   "end": 149.27,
+   "text": "Just like part of his entourage and like made friends with like Ziggy Marley and like he keeps the touch with Ziggy Marley and"
+  },
+  {
+   "start": 150.11,
+   "end": 153.93,
+   "text": "Like you all got with him last year. We're showing him his old little VW bus and"
+  },
+  {
+   "start": 156.31,
+   "end": 160.03,
+   "text": "Mays it it by Marley was all about said belief that music was all about"
+  },
+  {
+   "start": 161.47,
+   "end": 164.82,
+   "text": "Was all about"
+  },
+  {
+   "start": 165.82,
+   "end": 171.1,
+   "text": "Like just spreading like like every ever all the problems in a world could be fixed by music"
+  },
+  {
+   "start": 173.66,
+   "end": 175.66,
+   "text": "Yeah, and like Bob Marley was just talking"
+  },
+  {
+   "start": 176.3,
+   "end": 179.66,
+   "text": "I'm like by just spreading like happiness, you know positivity"
+  },
+  {
+   "start": 180.78,
+   "end": 185.74,
+   "text": "And so yeah, that's what reggae music is I think reggae music was started by Bob Marley"
+  },
+  {
+   "start": 186.34,
+   "end": 188.54,
+   "text": "There wasn't any brigade before Bob Marley"
+  },
+  {
+   "start": 192.13,
+   "end": 194.13,
+   "text": "Bob Marley was"
+  },
+  {
+   "start": 194.45,
+   "end": 198.41,
+   "text": "The inventor because Bob Marley started with Scott"
+  },
+  {
+   "start": 198.41,
+   "end": 200.41,
+   "text": "Scott"
+  },
+  {
+   "start": 200.41,
+   "end": 204.73,
+   "text": "Scott was do do do do do do do do do do do do do do do do do do do do do do do do do do do do and then that kind of that was just the beat"
+  },
+  {
+   "start": 204.73,
+   "end": 207.13,
+   "text": "I guess the tropics, but it was like two up tight or whatever"
+  },
+  {
+   "start": 207.61,
+   "end": 212.57,
+   "text": "So then because they smoked a bunch of weed now or select white and white and white and boom boom"
+  },
+  {
+   "start": 212.57,
+   "end": 216.57,
+   "text": "Brown and that's reggae talking about the"
+  },
+  {
+   "start": 217.25,
+   "end": 220.25,
+   "text": "the the drugs and stuff and"
+  },
+  {
+   "start": 221.37,
+   "end": 228.33,
+   "text": "Just oh yeah, and the rest of our in a reggae was kind of like scum in the in the mode of like really"
+  },
+  {
+   "start": 228.41,
+   "end": 230.41,
+   "text": "Just got relax religious Scott"
+  },
+  {
+   "start": 234.79,
+   "end": 237.79,
+   "text": "Okay, now rostopharynism is"
+  },
+  {
+   "start": 239.83,
+   "end": 247.07,
+   "text": "Officially the religion of rostopharynism is it highly salocy was the reincarnation of Jesus Christ and"
+  },
+  {
+   "start": 251.95,
+   "end": 256.9,
+   "text": "Highly salocy was the"
+  },
+  {
+   "start": 258.14,
+   "end": 260.14,
+   "text": "Prince of Ethiopia"
+  },
+  {
+   "start": 260.46,
+   "end": 265.86,
+   "text": "I think it was was it Marcus Garvey he wanted to make a bunch of he wanted to make the Africans of"
+  },
+  {
+   "start": 267.7,
+   "end": 275.1,
+   "text": "Jamaica move back to Africa and start like you know a good African second birth great country and"
+  },
+  {
+   "start": 276.02,
+   "end": 278.02,
+   "text": "And"
+  },
+  {
+   "start": 278.38,
+   "end": 285.38,
+   "text": "So that you know they thought Ethiopia would get be a good place because it has such rich history, you know"
+  },
+  {
+   "start": 285.94,
+   "end": 291.8,
+   "text": "It's just as rich as anywhere in the world pretty much and old and you know like Jewish"
+  },
+  {
+   "start": 292.46,
+   "end": 294.46,
+   "text": "the arc of the covenant is there and"
+  },
+  {
+   "start": 298.4,
+   "end": 307.94,
+   "text": "And yeah, so then so they wanted you know they had the vision of Jesus becoming"
+  },
+  {
+   "start": 310.02,
+   "end": 313.06,
+   "text": "You know being like the second Messiah, you know for them"
+  },
+  {
+   "start": 314.7,
+   "end": 316.7,
+   "text": "But"
+  },
+  {
+   "start": 316.7,
+   "end": 318.7,
+   "text": "That didn't work out there"
+  },
+  {
+   "start": 320.85,
+   "end": 324.37,
+   "text": "But they had other the other views of the rostopharianisms"
+  },
+  {
+   "start": 325.09,
+   "end": 331.85,
+   "text": "There really doesn't have anything to do with that, you know, it's kind of like rostopharianism has two faces in the same way that"
+  },
+  {
+   "start": 332.85,
+   "end": 335.41,
+   "text": "Scientology has two faces Scientology has two faces and"
+  },
+  {
+   "start": 336.85,
+   "end": 342.25,
+   "text": "All the crazy ship that they believe about Zeno and then they have just the weird simple cell health stuff with with the"
+  },
+  {
+   "start": 342.93,
+   "end": 344.93,
+   "text": "muscle testing and the"
+  },
+  {
+   "start": 344.93,
+   "end": 346.93,
+   "text": "Li detector and all that you know"
+  },
+  {
+   "start": 347.33,
+   "end": 350.45,
+   "text": "So like people there's Scientologists who don't give a fuck about Zeno"
+  },
+  {
+   "start": 351.37,
+   "end": 356.01,
+   "text": "The same thing with the reggae, you know, it's like they're just two separate units that they calmed together"
+  },
+  {
+   "start": 357.21,
+   "end": 362.45,
+   "text": "Because the other part of rostopharianism is that they just it's just people, you know stoneers. It's basically"
+  },
+  {
+   "start": 363.09,
+   "end": 367.17,
+   "text": "If you're gonna have of a religion of rostophianism you could call"
+  },
+  {
+   "start": 368.45,
+   "end": 372.85,
+   "text": "You could call I mean if you're gonna have a religion of stoneersum"
+  },
+  {
+   "start": 373.97,
+   "end": 376.69,
+   "text": "You know like and then a religion of stoneersum out of the air"
+  },
+  {
+   "start": 377.25,
+   "end": 381.61,
+   "text": "Instead of just religion in vending the religion called religion of stoneersum or the marijuana religion"
+  },
+  {
+   "start": 382.41,
+   "end": 387.52,
+   "text": "Don't do that call yourself a rostopharian"
+  },
+  {
+   "start": 388.0,
+   "end": 393.88,
+   "text": "What because rostophane is the original stone or religion and came out of the stone of mentality and the stone or this and the stone that ends to everything"
+  },
+  {
+   "start": 394.28,
+   "end": 400.32,
+   "text": "And so what sued doggy dog did by condom helps self-sneut blind and grow on dread and doing reggae"
+  },
+  {
+   "start": 401.52,
+   "end": 403.52,
+   "text": "Was a good thing"
+  },
+  {
+   "start": 403.52,
+   "end": 406.32,
+   "text": "All those rostopharians and no you're not rasto"
+  },
+  {
+   "start": 406.88,
+   "end": 408.88,
+   "text": "Can suck a big black dick"
+  },
+  {
+   "start": 410.4,
+   "end": 412.4,
+   "text": "Okay"
+  },
+  {
+   "start": 412.4,
+   "end": 415.2,
+   "text": "If you're gonna pull that bullshit maybe I shouldn't let you come to America"
+  },
+  {
+   "start": 416.04,
+   "end": 417.76,
+   "text": "You know America's just for us"
+  },
+  {
+   "start": 418.72,
+   "end": 423.76,
+   "text": "You can't be like no rostophariants just for us, but did you inherit like the rostogene or something?"
+  },
+  {
+   "start": 425.76,
+   "end": 432.11,
+   "text": "No, I'm a motherfucking rasta you can try and tell me I'm not rasta go ahead"
+  },
+  {
+   "start": 432.71,
+   "end": 436.13,
+   "text": "Write me below"
+  },
+  {
+   "start": 436.13,
+   "end": 438.13,
+   "text": "Rostophariants and Mr. Stone a religion"
+  },
+  {
+   "start": 438.77,
+   "end": 444.98,
+   "text": "um"
+  },
+  {
+   "start": 444.98,
+   "end": 446.98,
+   "text": "Because what they believe in is all that stuff"
+  },
+  {
+   "start": 447.7,
+   "end": 449.7,
+   "text": "Smoke reef for all day"
+  },
+  {
+   "start": 449.7,
+   "end": 453.86,
+   "text": "Let your hair grow out you know like I I would let my hair grow out if I could"
+  },
+  {
+   "start": 454.5,
+   "end": 458.02,
+   "text": "You know not my official hair cuz it's physically not that comfortable"
+  },
+  {
+   "start": 459.34,
+   "end": 465.28,
+   "text": "But maybe you know and just be natural you know try to be as natural as you can't wander on barefoot"
+  },
+  {
+   "start": 466.02,
+   "end": 469.9,
+   "text": "Don't eat on shallow fish and stuff because they eat their less pure"
+  },
+  {
+   "start": 470.7,
+   "end": 474.3,
+   "text": "Eat the nice big fish pure fish cleanliness vegetables"
+  },
+  {
+   "start": 476.14,
+   "end": 478.14,
+   "text": "You know vegetarianism that kind of stuff"
+  },
+  {
+   "start": 479.42,
+   "end": 482.42,
+   "text": "That's that's the kind of stuff that stone and things about because the stoneers"
+  },
+  {
+   "start": 483.22,
+   "end": 488.98,
+   "text": "Constantly ingesting the earth so then the earth says oh, yes, smart earth and more for those natural and"
+  },
+  {
+   "start": 495.09,
+   "end": 499.29,
+   "text": "And yeah, so it's just and it's a new religion"
+  },
+  {
+   "start": 501.65,
+   "end": 508.2,
+   "text": "Yeah, but"
+  },
+  {
+   "start": 509.28,
+   "end": 513.48,
+   "text": "Yeah, maybe I should yeah, I don't want to listen to rasta franism again in the little capita"
+  },
+  {
+   "start": 513.48,
+   "end": 518.11,
+   "text": "So if I didn't do it's good of a job, but"
+  },
+  {
+   "start": 521.52,
+   "end": 523.52,
+   "text": "But yeah"
+  },
+  {
+   "start": 524.24,
+   "end": 531.0,
+   "text": "I like reggae music I haven't really been listening to it that much, but I like Bob Marley when I first started listening to Bob Marley"
+  },
+  {
+   "start": 531.0,
+   "end": 533.32,
+   "text": "And like when I was like 10th grade or something"
+  },
+  {
+   "start": 533.32,
+   "end": 539.52,
+   "text": "I like you know when the CDs came out I was starting up we got a CD by Marley legend and I thought it was awesome"
+  },
+  {
+   "start": 539.52,
+   "end": 542.48,
+   "text": "I was just me mellow and it made me want a smoke weed, you know"
+  },
+  {
+   "start": 543.0,
+   "end": 544.92,
+   "text": "I want a smoke weed. I want to listen to Bob Marley"
+  },
+  {
+   "start": 544.92,
+   "end": 548.72,
+   "text": "It's like it's like it's the kind the same thing. It's connected. You know"
+  },
+  {
+   "start": 549.68,
+   "end": 554.52,
+   "text": "So that's why there should be another weed or religion because then you're not like barficating by forgetting you want to"
+  },
+  {
+   "start": 554.8,
+   "end": 556.56,
+   "text": "You want to you want to keep it all unit"
+  },
+  {
+   "start": 556.56,
+   "end": 563.08,
+   "text": "You want to keep all those stoneers together. Stoneers have a way of like biting each other because it's so tribal, you know, it's so raw basic"
+  },
+  {
+   "start": 564.6,
+   "end": 569.28,
+   "text": "But you want to you want to have a cohees around something and I have to have a whole bunch of"
+  },
+  {
+   "start": 569.28,
+   "end": 575.0,
+   "text": "Culture cohees around something it was started by the black people is a good way to have to bring the black people into"
+  },
+  {
+   "start": 575.0,
+   "end": 582.02,
+   "text": "Something so yeah, good enough"
+  },
+  {
+   "start": 584.74,
+   "end": 586.74,
+   "text": "Peace out"
+  }
+ ]
+}

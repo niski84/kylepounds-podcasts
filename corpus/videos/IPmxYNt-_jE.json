@@ -1,0 +1,296 @@
+{
+ "youtube_id": "IPmxYNt-_jE",
+ "title": "Living in Boulder Vlog 7 - 18 - 2017: Roman Roads",
+ "url": "https://youtu.be/IPmxYNt-_jE",
+ "published_at": "2017-07-19",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a casual life update from Boulder, mentioning his old bike was deemed unrepairable and he purchased a new Merrix disc brake bike for $2000. He also discusses his ongoing project tracing Roman roads digitally, which he has been working on intensively over the past few days.",
+  "speaker": "kyle",
+  "topics": [
+   "new bike purchase",
+   "cycling plans",
+   "Roman roads digital project",
+   "fitness goals",
+   "website and grant money"
+  ],
+  "stances": [
+   {
+    "topic": "old bike",
+    "position": "not worth repairing, needed a replacement"
+   },
+   {
+    "topic": "new bike",
+    "position": "excited about it and expects it to motivate more outdoor riding and fitness"
+   },
+   {
+    "topic": "Roman roads tracing project",
+    "position": "committed to finishing it; copy-paste approach doesn't work well, prefers tracing from scratch"
+   },
+   {
+    "topic": "finances",
+    "position": "needs money badly; will seek sponsorship before getting a second job because he believes his website is strong enough to attract sponsors"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Merrix (bike brand)",
+   "Zoya (apartment building)",
+   "Roman roads (digital mapping project)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.3,
+   "end": 5.54,
+   "text": "Hello living in Boulder, Fielock for July 18th, it's 1024 in the morning."
+  },
+  {
+   "start": 5.54,
+   "end": 14.7,
+   "text": "It's been a few days since I did a B-log because I was too busy working on wrong."
+  },
+  {
+   "start": 14.7,
+   "end": 21.18,
+   "text": "I think I'll do some screen captures of what I've been doing real quick and throw"
+  },
+  {
+   "start": 21.18,
+   "end": 25.42,
+   "text": "over the background of this video."
+  },
+  {
+   "start": 25.42,
+   "end": 33.94,
+   "text": "So I didn't have the time to upload a video."
+  },
+  {
+   "start": 33.94,
+   "end": 42.7,
+   "text": "I'm going to do this video without the fan and then turn on."
+  },
+  {
+   "start": 42.7,
+   "end": 48.9,
+   "text": "I need to do some kind of thing with my phone to get it uncorrupted so I can record stuff"
+  },
+  {
+   "start": 48.9,
+   "end": 50.9,
+   "text": "with my phone and not to do it."
+  },
+  {
+   "start": 50.9,
+   "end": 61.86,
+   "text": "So last video I was waiting to hear back from my bike and yesterday they called me back"
+  },
+  {
+   "start": 61.86,
+   "end": 64.38,
+   "text": "and they said there's no use working on it."
+  },
+  {
+   "start": 64.38,
+   "end": 67.86,
+   "text": "My bike is too old and I just need to get a new bike."
+  },
+  {
+   "start": 67.86,
+   "end": 71.46,
+   "text": "So I went into the sort and tried to get a new bike and it was 580 bucks."
+  },
+  {
+   "start": 71.46,
+   "end": 80.7,
+   "text": "But they had a deal on an any Merrix, Murrow 69, disc brake red."
+  },
+  {
+   "start": 80.7,
+   "end": 84.9,
+   "text": "It was 40,500 bucks but they gave it to me for $2000."
+  },
+  {
+   "start": 84.9,
+   "end": 86.9,
+   "text": "So I put my $1000."
+  },
+  {
+   "start": 86.9,
+   "end": 88.9,
+   "text": "So now I have a $55."
+  },
+  {
+   "start": 88.9,
+   "end": 92.18,
+   "text": "And so that'll be on Wednesday after the maro."
+  },
+  {
+   "start": 92.18,
+   "end": 98.14,
+   "text": "I'll go down there and I'll do a fitting for me and then I guess I'll have a bike after that."
+  },
+  {
+   "start": 98.14,
+   "end": 101.38,
+   "text": "I'll do two bikes, my old road bike and then this one."
+  },
+  {
+   "start": 101.38,
+   "end": 107.54,
+   "text": "So I started riding on the roadways and since I have a nice bike I got to disc brakes and I"
+  },
+  {
+   "start": 107.54,
+   "end": 109.06,
+   "text": "should ride it outside."
+  },
+  {
+   "start": 109.06,
+   "end": 115.5,
+   "text": "So what's probably going to happen is I'll be motivated to ride my bike in my room and I'll get"
+  },
+  {
+   "start": 115.5,
+   "end": 117.66,
+   "text": "more fit after I can run for that."
+  },
+  {
+   "start": 117.66,
+   "end": 123.82,
+   "text": "Oh and then I'll be riding off to do the 20,000 times trial because I'll probably plug in bike"
+  },
+  {
+   "start": 123.82,
+   "end": 127.98,
+   "text": "race and levels to what I'm doing."
+  },
+  {
+   "start": 127.98,
+   "end": 135.62,
+   "text": "Yeah, that'll get me the, there's a little bit more so about more satisfied with myself."
+  },
+  {
+   "start": 135.62,
+   "end": 139.26,
+   "text": "Kind of more avidism."
+  },
+  {
+   "start": 139.26,
+   "end": 140.26,
+   "text": "Just more stuff doing."
+  },
+  {
+   "start": 140.26,
+   "end": 145.02,
+   "text": "I'll be able to do even more things and not be so focused on my website."
+  },
+  {
+   "start": 145.02,
+   "end": 151.66,
+   "text": "So at that point I'll be able to work on service level and my website and seek grant money."
+  },
+  {
+   "start": 151.66,
+   "end": 159.22,
+   "text": "I need money really bad and start doing stuff like that or get a second job but I'll"
+  },
+  {
+   "start": 159.22,
+   "end": 163.66,
+   "text": "start out trying to get sponsorship because I have a really good website."
+  },
+  {
+   "start": 163.66,
+   "end": 171.18,
+   "text": "I'm really good Google or anything around."
+  },
+  {
+   "start": 171.18,
+   "end": 176.18,
+   "text": "And yeah so that's what I've been up to."
+  },
+  {
+   "start": 176.18,
+   "end": 189.1,
+   "text": "I did the baths of a grip, I did the stuff to Zoya, a apartment building and then yesterday I was"
+  },
+  {
+   "start": 189.1,
+   "end": 197.54,
+   "text": "working on it so I think I'll just be working on the roads today and tomorrow or today I'm going"
+  },
+  {
+   "start": 197.54,
+   "end": 198.54,
+   "text": "to get the bike back."
+  },
+  {
+   "start": 198.54,
+   "end": 202.26,
+   "text": "But what I'm doing, Google I think around the goal and all that, let's stuff like"
+  },
+  {
+   "start": 202.26,
+   "end": 204.26,
+   "text": "usually doing on the bike."
+  },
+  {
+   "start": 204.26,
+   "end": 209.1,
+   "text": "I think the last time I did a video I was saying something about how I was tracing off, the"
+  },
+  {
+   "start": 209.1,
+   "end": 210.9,
+   "text": "digital double sums I got to a scratchy."
+  },
+  {
+   "start": 210.9,
+   "end": 217.38,
+   "text": "I did do a road section that I did not copy it and I'm pasting it and that doing it that way"
+  },
+  {
+   "start": 217.38,
+   "end": 218.18,
+   "text": "doesn't, it doesn't, it doesn't, it doesn't, it doesn't."
+  },
+  {
+   "start": 218.18,
+   "end": 221.94,
+   "text": "So time instantly, just in a couple of days I could do all the road, both of the roads and"
+  },
+  {
+   "start": 221.94,
+   "end": 224.06,
+   "text": "roads."
+  },
+  {
+   "start": 224.06,
+   "end": 228.14,
+   "text": "But doing all the roads around, tracing and building and all that stuff and something I can do"
+  },
+  {
+   "start": 228.14,
+   "end": 236.46,
+   "text": "and I'm ready to do it because I want some time not being able to sleep because I couldn't"
+  },
+  {
+   "start": 236.46,
+   "end": 238.78,
+   "text": "breathe and so I was coming back and check."
+  },
+  {
+   "start": 238.78,
+   "end": 241.18,
+   "text": "Anyways, I think that's enough talking for now."
+  },
+  {
+   "start": 241.18,
+   "end": 244.26,
+   "text": "We'll do the background to the videos so I'm working on it."
+  }
+ ]
+}

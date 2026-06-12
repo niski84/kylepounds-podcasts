@@ -1,0 +1,417 @@
+{
+ "youtube_id": "ZNw6Sed4ke0",
+ "title": "Training with Kyle 5/6/19 Swam 9,345 meters",
+ "url": "https://youtu.be/ZNw6Sed4ke0",
+ "published_at": "2019-05-07",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle logs a training day in which he swam approximately 9,345 meters in two sessions at an indoor pool, dealing with faulty earphones and a torn swim cap. He covers his meals, equipment issues, flip-turn practice, and plans to ride the next day, all while building toward open-water triathlon readiness when the reservoir opens May 24th.",
+  "speaker": "kyle",
+  "topics": [
+   "swim training",
+   "triathlon",
+   "equipment issues",
+   "nutrition",
+   "flip turns",
+   "stroke technique",
+   "recovery",
+   "training schedule"
+  ],
+  "stances": [
+   {
+    "topic": "triathlon cross-training",
+    "position": "Loves triathlon because soreness in one muscle group lets you train a different sport"
+   },
+   {
+    "topic": "flip turns",
+    "position": "Can't do them in a real swim yet — lacks the fitness to hold breath through them"
+   },
+   {
+    "topic": "swim stroke angle",
+    "position": "Angle gives more power but pushes his head down, making breathing awkward — needs more practice"
+   },
+   {
+    "topic": "multi-sport days",
+    "position": "Doesn't yet have the fitness to do more than one sport per day, so staggers them"
+   },
+   {
+    "topic": "Cytomax drinks",
+    "position": "Plans to bring two next time so he doesn't run out mid-swim"
+   }
+  ],
+  "entities": [
+   "Dodd's Diner",
+   "Cytomax",
+   "Strava"
+  ],
+  "date": "2019-05-06",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.78,
+   "end": 6.48,
+   "text": "Hello, so here's training with Kyle V-Log for May 6th."
+  },
+  {
+   "start": 6.66,
+   "end": 11.0,
+   "text": "Today I swam 9,345 meters, I think."
+  },
+  {
+   "start": 11.56,
+   "end": 13.06,
+   "text": "I did it in two goes."
+  },
+  {
+   "start": 13.3,
+   "end": 24.48,
+   "text": "The first one I swam, I think it was, I looked at my watch, it said 55 laps in a 15 meter pool, 15.24 meter pool."
+  },
+  {
+   "start": 24.48,
+   "end": 34.96,
+   "text": "Um, so 15 times 55 is 825, and then my other swim was 885.20, so yeah, like 93.45."
+  },
+  {
+   "start": 36.16,
+   "end": 43.2,
+   "text": "Um, I swam, I got out the first time because my earphones that I got, the second pair, they go in and out."
+  },
+  {
+   "start": 43.28,
+   "end": 46.62,
+   "text": "They didn't work on the left side, so I'm going to see if I can return them."
+  },
+  {
+   "start": 46.68,
+   "end": 48.44,
+   "text": "I spent 50 bucks on them last week."
+  },
+  {
+   "start": 48.44,
+   "end": 58.14,
+   "text": "Um, and, uh, um, so I came home to get my original earphones, and those stayed in just fine."
+  },
+  {
+   "start": 58.6,
+   "end": 66.12,
+   "text": "Tomorrow I'm going to need to buy a new swimming cap, though, because I tried to yank it off, but I didn't, because I was tired, I didn't realize I had my goggles on still."
+  },
+  {
+   "start": 66.6,
+   "end": 70.7,
+   "text": "So the goggles weren't letting it come off, and I yanked the top of it right off."
+  },
+  {
+   "start": 71.82,
+   "end": 73.06,
+   "text": "So I have to buy another one."
+  },
+  {
+   "start": 73.08,
+   "end": 76.3,
+   "text": "I think I only had one, so I have to go down to the store and buy another tomorrow."
+  },
+  {
+   "start": 76.3,
+   "end": 87.76,
+   "text": "Um, so, um, yeah, I got up, I think I had a little bit of insomnia from lack of being able to breathe, and I ended up getting it up at, like, 10.30 or something."
+  },
+  {
+   "start": 87.9,
+   "end": 88.76,
+   "text": "No, 11.30."
+  },
+  {
+   "start": 89.92,
+   "end": 99.06,
+   "text": "And then I went over, had the breakfast burrito at Dodd's Diner, because I just, I don't know, I had the munchies this morning, wanted to eat something tasty."
+  },
+  {
+   "start": 99.06,
+   "end": 102.34,
+   "text": "So I got that, and then got hamster food, which I didn't need."
+  },
+  {
+   "start": 103.04,
+   "end": 109.28,
+   "text": "And then swam, um, I swam until, I just, you know, I didn't do, at first I couldn't do the flip turns."
+  },
+  {
+   "start": 109.8,
+   "end": 117.06,
+   "text": "So I just practiced on the shallow end over and over again, maybe like six or seven times, or six or a dozen times, until I figured it out."
+  },
+  {
+   "start": 117.1,
+   "end": 118.06,
+   "text": "It wasn't that complicated."
+  },
+  {
+   "start": 118.64,
+   "end": 121.52,
+   "text": "You just have to go directly under, pretty much."
+  },
+  {
+   "start": 121.52,
+   "end": 123.88,
+   "text": "I was trying to, like, do some kind of fancy twist thing."
+  },
+  {
+   "start": 124.4,
+   "end": 126.8,
+   "text": "So you just go directly under, and then you can kick off."
+  },
+  {
+   "start": 126.96,
+   "end": 132.68,
+   "text": "But then I tried to actually do it in my swim, but there was no way, because I had to hold my breath."
+  },
+  {
+   "start": 132.78,
+   "end": 135.76,
+   "text": "So then the rest of the lap, even, I was, I was out of breath."
+  },
+  {
+   "start": 136.12,
+   "end": 139.48,
+   "text": "And by the time I finally catch my breath, I'd have to do another flip turn."
+  },
+  {
+   "start": 139.62,
+   "end": 141.74,
+   "text": "So I don't have the fitness to do flip turns."
+  },
+  {
+   "start": 142.4,
+   "end": 146.74,
+   "text": "But so, yeah, I just, uh, swam that whole time, you know, for a few hours."
+  },
+  {
+   "start": 146.74,
+   "end": 152.68,
+   "text": "I don't know how long, and, uh, and then I went to my mom's house and did a light treatment."
+  },
+  {
+   "start": 152.94,
+   "end": 158.04,
+   "text": "And then I have, like, I have bunches of goods, so I got some, I got some Sprite."
+  },
+  {
+   "start": 159.04,
+   "end": 160.5,
+   "text": "I don't know if I'll eat anything else."
+  },
+  {
+   "start": 160.54,
+   "end": 161.5,
+   "text": "I only had a burrito today."
+  },
+  {
+   "start": 161.56,
+   "end": 162.5,
+   "text": "That's all I ate."
+  },
+  {
+   "start": 162.9,
+   "end": 172.4,
+   "text": "I had some, um, I had one water bottle of, uh, of, um, uh, Cytomax drink, and I drank through the whole thing."
+  },
+  {
+   "start": 172.4,
+   "end": 177.56,
+   "text": "And so next time I go swimming, I'm going to make two Cytomax drinks so that I don't run out."
+  },
+  {
+   "start": 177.92,
+   "end": 181.36,
+   "text": "And then I'll just drink the rest of it as a recovery drink when I come home."
+  },
+  {
+   "start": 181.48,
+   "end": 185.6,
+   "text": "Um, because you can't have them sit around for too long for more than a day or two, because they go rotten."
+  },
+  {
+   "start": 186.7,
+   "end": 193.2,
+   "text": "And, uh, so, um, yeah, uh, my legs were totally sore."
+  },
+  {
+   "start": 193.5,
+   "end": 197.14,
+   "text": "Especially my hamstrings were way sore today, because I did all the stretching yesterday."
+  },
+  {
+   "start": 198.1,
+   "end": 201.22,
+   "text": "But, uh, it's great, it's perfect to go swimming on days where your legs are sore."
+  },
+  {
+   "start": 201.22,
+   "end": 205.34,
+   "text": "I love triathlon because you're, you're, it's a great way to even everything out."
+  },
+  {
+   "start": 205.42,
+   "end": 207.6,
+   "text": "You know, when one thing is sore, you can do something else."
+  },
+  {
+   "start": 208.68,
+   "end": 211.02,
+   "text": "So, um, yeah, I'm going to sleep tonight."
+  },
+  {
+   "start": 211.02,
+   "end": 213.46,
+   "text": "It's like 10 o'clock or, yeah."
+  },
+  {
+   "start": 213.54,
+   "end": 219.14,
+   "text": "And I'm going to sleep tonight and, uh, get up and I'm going to do a ride tomorrow because there's,"
+  },
+  {
+   "start": 219.2,
+   "end": 224.2,
+   "text": "I'm going to try the Strava feature on my road bike computer tomorrow."
+  },
+  {
+   "start": 224.3,
+   "end": 224.96,
+   "text": "That'll be fun."
+  },
+  {
+   "start": 224.96,
+   "end": 234.18,
+   "text": "Um, and, uh, and, uh, yeah, I love, love exercising all the time."
+  },
+  {
+   "start": 234.26,
+   "end": 239.06,
+   "text": "I got to the point where I was practicing my stroke, my stroke, my arms were just going down."
+  },
+  {
+   "start": 239.78,
+   "end": 242.46,
+   "text": "And then I remembered you're supposed to have an angle like that."
+  },
+  {
+   "start": 242.46,
+   "end": 246.74,
+   "text": "So I tried the angle and I got more power and I, and I could see how I was going faster."
+  },
+  {
+   "start": 247.08,
+   "end": 250.46,
+   "text": "The problem with having an angle though, is it feels like it pushes my head down."
+  },
+  {
+   "start": 250.46,
+   "end": 253.84,
+   "text": "So it's harder to go back and breathe and then it makes it awkward."
+  },
+  {
+   "start": 254.04,
+   "end": 259.74,
+   "text": "So I need to practice having an angle like this without sucking myself down under the water so I can still breathe."
+  },
+  {
+   "start": 260.04,
+   "end": 261.42,
+   "text": "I'm an ambidextrous swimmer."
+  },
+  {
+   "start": 261.58,
+   "end": 270.78,
+   "text": "So I do, um, one going one direction, turning the side and then going the other direction, turning the side to, to help with my overall stroke."
+  },
+  {
+   "start": 271.12,
+   "end": 274.58,
+   "text": "Um, and, uh, yeah, I mean, it's going to keep it like that."
+  },
+  {
+   "start": 274.58,
+   "end": 277.82,
+   "text": "And, uh, that then I can be an ambidextrous as, as I get better and better."
+  },
+  {
+   "start": 278.68,
+   "end": 281.9,
+   "text": "So I feel kind of good and hopefully we'll see how I feel tomorrow."
+  },
+  {
+   "start": 281.9,
+   "end": 285.92,
+   "text": "Cause if I feel okay, I could do a wicked big ride and maybe come home and do a run."
+  },
+  {
+   "start": 286.26,
+   "end": 289.16,
+   "text": "But until, I don't think I have the fitness to do more than one sport a day."
+  },
+  {
+   "start": 289.72,
+   "end": 290.96,
+   "text": "So I'll just stagger it."
+  },
+  {
+   "start": 291.76,
+   "end": 294.0,
+   "text": "One day swim, one day ride, one day run."
+  },
+  {
+   "start": 294.1,
+   "end": 298.3,
+   "text": "And then, yeah, I can't wait until I start to actually be able to do the sports legitly."
+  },
+  {
+   "start": 298.4,
+   "end": 304.96,
+   "text": "You know, I want to be able to swim for an hour and a half when the, when the reservoir opens on May 24th, which is only a couple of weeks away."
+  },
+  {
+   "start": 304.96,
+   "end": 307.36,
+   "text": "So I'm going to train my ass off tomorrow morning."
+  },
+  {
+   "start": 307.42,
+   "end": 308.84,
+   "text": "I have to bring my car in to get fixed."
+  },
+  {
+   "start": 309.1,
+   "end": 309.36,
+   "text": "Okay."
+  },
+  {
+   "start": 309.44,
+   "end": 310.46,
+   "text": "So that's it later."
+  },
+  {
+   "start": 310.46,
+   "end": 310.76,
+   "text": "So that's it later."
+  },
+  {
+   "start": 310.8,
+   "end": 311.14,
+   "text": "So that's it, that's what I'm saying."
+  },
+  {
+   "start": 311.14,
+   "end": 312.16,
+   "text": "So that's it later."
+  },
+  {
+   "start": 312.16,
+   "end": 312.54,
+   "text": "So that's it, that's what I have to do."
+  }
+ ]
+}

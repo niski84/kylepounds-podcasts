@@ -1,0 +1,61 @@
+{
+ "youtube_id": "y9610Bi1A8g",
+ "title": "Living in Boulder Vlog 10 - 22 - 2016",
+ "url": "https://youtu.be/y9610Bi1A8g",
+ "published_at": "2016-10-23",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs on Saturday October 22nd, 2016, describing a work day where he only completed one of two planned work stops, organizing ski resort runs by size, and expressing frustration with his internet connection which takes nine hours to upload a two-minute video and prevents him from commenting on YouTube.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "work day",
+   "ski resort data project",
+   "internet problems",
+   "YouTube upload issues"
+  ],
+  "stances": [
+   {
+    "topic": "YouTube commenting/uploading",
+    "position": "frustrated but persisting despite the technical limitations"
+   },
+   {
+    "topic": "ski resort organizing project",
+    "position": "still working on it, unsure how much longer it will take"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Colorado (mountains visible)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 15.26,
+   "text": "Hello, living in Boulder vlog, Saturday, October 22nd, 2016. I worked today, but only, I'm going to have due two places, but we only did one, so we'll do the second one tomorrow."
+  },
+  {
+   "start": 15.26,
+   "end": 36.96,
+   "text": "Hey, here's the mountains. And then I came home and I worked some more on ski resorts, just organizing runs by size from all the different ski resorts. I didn't really finish one, just different ones. We'll see how much longer, maybe another week."
+  },
+  {
+   "start": 36.96,
+   "end": 49.24,
+   "text": "So, it's kind of frustrating, I can't do YouTube videos, I was so excited about it, and to comment, I can't comment on any videos, can't upload any. This is what the tech dudes have to say, the tech guy came today."
+  },
+  {
+   "start": 49.24,
+   "end": 51.26,
+   "text": "I did some work on the line."
+  },
+  {
+   "start": 112.58,
+   "end": 134.92,
+   "text": "Okay. So, yeah, it took like nine hours to upload a two minute video before, so it'll take about nine hours to upload this. And I can't comment. So, but that's me. I'm fighting. I'm fighting. I'm fighting. I'm doing it. Uploaded my video for the day. Peace out."
+  }
+ ]
+}

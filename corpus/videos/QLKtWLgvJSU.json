@@ -1,0 +1,245 @@
+{
+ "youtube_id": "QLKtWLgvJSU",
+ "title": "Living in Boulder Vlog 6 - 19 - 2014",
+ "url": "https://youtu.be/QLKtWLgvJSU",
+ "published_at": "2014-06-20",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a brief daily vlog update covering a early-morning work commitment, helping his mom with chores including experiencing her expensive LED light therapy equipment, doing outdoor work for the rest of the day, and planning motocross ride routes for Estes Park. He mentions being tired and wanting to do more talking videos but being busy with his website.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "light therapy",
+   "helping family",
+   "outdoor work",
+   "motocross/trail riding",
+   "website work",
+   "Boulder life"
+  ],
+  "stances": [
+   {
+    "topic": "LED light therapy pen",
+    "position": "Thinks it probably works because it hurts when held in one spot too long"
+   },
+   {
+    "topic": "doing more talking videos",
+    "position": "Wants to do them but has been too busy grinding on his website"
+   }
+  ],
+  "entities": [
+   "Kyle",
+   "Kyle's mom",
+   "Boulder",
+   "Estes Park"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.69,
+   "end": 3.89,
+   "text": "Hello, we're a big good boulder view on with me Kyle"
+  },
+  {
+   "start": 4.61,
+   "end": 5.97,
+   "text": "for the"
+  },
+  {
+   "start": 5.97,
+   "end": 7.73,
+   "text": "19th of June"
+  },
+  {
+   "start": 7.73,
+   "end": 10.45,
+   "text": "2013-14"
+  },
+  {
+   "start": 11.09,
+   "end": 13.09,
+   "text": "Yesterday Thursday"
+  },
+  {
+   "start": 13.73,
+   "end": 16.53,
+   "text": "I had to do a place we had to do a place at"
+  },
+  {
+   "start": 17.09,
+   "end": 19.65,
+   "text": "715 in the morning which is the earliest this year"
+  },
+  {
+   "start": 20.21,
+   "end": 23.49,
+   "text": "Demons we were early we were done our lecture so we didn't want to play us and"
+  },
+  {
+   "start": 25.33,
+   "end": 27.17,
+   "text": "Then I went over to my mom's place"
+  },
+  {
+   "start": 27.97,
+   "end": 32.21,
+   "text": "This was on the way home and she had me do a bunch of things"
+  },
+  {
+   "start": 32.21,
+   "end": 34.21,
+   "text": "Takes it out of the basement"
+  },
+  {
+   "start": 34.21,
+   "end": 36.21,
+   "text": "I hope we'll get nice to house"
+  },
+  {
+   "start": 36.45,
+   "end": 38.21,
+   "text": "Clean stuff up"
+  },
+  {
+   "start": 38.21,
+   "end": 40.61,
+   "text": "Then she did me this light treatment she has these lights"
+  },
+  {
+   "start": 41.33,
+   "end": 44.05,
+   "text": "These like tiny little light look like LED lights"
+  },
+  {
+   "start": 44.05,
+   "end": 48.53,
+   "text": "These different colors this is big machine that you put them on and I guess they're supposed to put the lights up"
+  },
+  {
+   "start": 50.53,
+   "end": 55.17,
+   "text": "Rejuvenate your cells because that's what your cells are made out of or something like that and I should have this little pin"
+  },
+  {
+   "start": 55.17,
+   "end": 57.33,
+   "text": "Looks like a future it's a pen with light comes out"
+  },
+  {
+   "start": 57.89,
+   "end": 59.89,
+   "text": "You put it on certain areas and"
+  },
+  {
+   "start": 60.29,
+   "end": 63.01,
+   "text": "She really expensive the big light thing was like 10,000 bucks"
+  },
+  {
+   "start": 63.01,
+   "end": 66.93,
+   "text": "She got that a couple of years ago and then but I actually recently she got this a light pen thing"
+  },
+  {
+   "start": 66.93,
+   "end": 70.53,
+   "text": "That's 500 about close to her colors. We should feel like you're in Star Trek, but"
+  },
+  {
+   "start": 71.49,
+   "end": 74.61,
+   "text": "It like hurts if you hold it one place for too long so I think it works"
+  },
+  {
+   "start": 76.29,
+   "end": 79.49,
+   "text": "I would have go with her play for those more I should do a YouTube video that"
+  },
+  {
+   "start": 79.57,
+   "end": 81.57,
+   "text": "Hey"
+  },
+  {
+   "start": 82.21,
+   "end": 86.21,
+   "text": "People home and I worked outside all day long till the rest of the day. Oh, but then I was"
+  },
+  {
+   "start": 87.01,
+   "end": 91.41,
+   "text": "Everyone wanted me to come up with some cool rides to do up in their estates park so"
+  },
+  {
+   "start": 92.85,
+   "end": 96.53,
+   "text": "I put together once you cool motor cross rides to do"
+  },
+  {
+   "start": 98.37,
+   "end": 100.05,
+   "text": "Like big loops"
+  },
+  {
+   "start": 100.05,
+   "end": 102.05,
+   "text": "Then did a big loops"
+  },
+  {
+   "start": 102.05,
+   "end": 108.05,
+   "text": "Miss some it trails and stuff are in color out on here and also and then went back to work and then"
+  },
+  {
+   "start": 109.81,
+   "end": 112.93,
+   "text": "Yeah, I'm kind of tired right now"
+  },
+  {
+   "start": 114.13,
+   "end": 116.85,
+   "text": "I can remember what time I went to sleep last night, but"
+  },
+  {
+   "start": 117.81,
+   "end": 119.17,
+   "text": "Uh"
+  },
+  {
+   "start": 119.17,
+   "end": 123.33,
+   "text": "Huh, luckily I don't have to work very far from here. It's only like five minutes away and I"
+  },
+  {
+   "start": 126.21,
+   "end": 128.21,
+   "text": "So"
+  },
+  {
+   "start": 129.01,
+   "end": 135.17,
+   "text": "That's that. Maybe I should try to do a talking video today. I've been like really like balls to the wall though"
+  },
+  {
+   "start": 135.49,
+   "end": 139.89,
+   "text": "Those are the grindstone of my website instead of time for anything else, but I'll try"
+  },
+  {
+   "start": 140.69,
+   "end": 144.13,
+   "text": "This we definitely we can definitely do some talking for sure's old"
+  },
+  {
+   "start": 145.25,
+   "end": 147.25,
+   "text": "And that's about that"
+  },
+  {
+   "start": 147.89,
+   "end": 149.89,
+   "text": "Okay, peace out"
+  }
+ ]
+}

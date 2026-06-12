@@ -1,0 +1,194 @@
+{
+ "youtube_id": "D6g7fLKT2Xw",
+ "title": "Living in Boulder Vlog 12 - 19 - 2016",
+ "url": "https://youtu.be/D6g7fLKT2Xw",
+ "published_at": "2016-12-21",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about his art project tracing a detailed map (including cobblestone roads), getting only three hours of sleep, taking his mom to a hospital eye checkup, eating at an Indian restaurant, and listening to the History of England podcast. He estimates the cobblestone tracing alone will take two to three weeks.",
+  "speaker": "kyle",
+  "topics": [
+   "art project progress",
+   "sleep deprivation",
+   "family",
+   "food",
+   "podcasts",
+   "Netflix"
+  ],
+  "stances": [
+   {
+    "topic": "cobblestone tracing",
+    "position": "tedious but worth it for the visual payoff"
+   },
+   {
+    "topic": "Netflix access",
+    "position": "exciting novelty, feels like a technology treat"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Baza Diocletian",
+   "History of England podcast",
+   "Netflix"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.49,
+   "end": 29.49,
+   "text": "Hello, living in Boulder, V-Log, uh, for Monday, December 19th, oh, I need to make a phone call, I just remembered, um, so, yesterday, oh, I gave this eye on my face, yesterday, I, um, yeah, I think I pretty much finished tracing around, except for the Baza Diocletian, I got that started a few days ago."
+  },
+  {
+   "start": 29.49,
+   "end": 59.31,
+   "text": "So, that's a little bit different, because I can't trace it with the same, I have to guess, because it's not the same resolution as the rest of it, but, so today, like last night, I was working until about 6 in the morning, and then right at the end, um, I started, I decided that I was going to go ahead and, uh, trace the cobblestones of all the roads, uh, before I planned on not doing that, because it's the timing soon, but,"
+  },
+  {
+   "start": 59.49,
+   "end": 65.11,
+   "text": "I looked at it, and I realized that I needed to, it would make it look a million times better, so,"
+  },
+  {
+   "start": 67.38,
+   "end": 74.0,
+   "text": "So, um, I decided to do that, you know, but I had to psych myself up for it."
+  },
+  {
+   "start": 74.0,
+   "end": 87.24,
+   "text": "Uh, I, I got up at, like, 9 today, to drive over, put my mom up at the, uh, uh, uh, no, no, no, no, take her to the hospital to do the, make the checkup on the eyes."
+  },
+  {
+   "start": 87.98,
+   "end": 90.7,
+   "text": "I didn't bring in my computer, I just sat there and waited, but it wasn't that long."
+  },
+  {
+   "start": 91.48,
+   "end": 95.14,
+   "text": "And then we went, and she got me some food at this Indian restaurant, those days."
+  },
+  {
+   "start": 96.66,
+   "end": 105.22,
+   "text": "Ooh, I came back here, and I was working at, so I did my first section of my cobbles, and now I was doing my, again, I was doing my first, like, actual road."
+  },
+  {
+   "start": 105.22,
+   "end": 113.32,
+   "text": "And so, I think if I get into the zone, I can actually, I can wipe, uh, knock this off, but it's gonna be a chore."
+  },
+  {
+   "start": 113.46,
+   "end": 115.34,
+   "text": "It'll be, like, two or three weeks, at least."
+  },
+  {
+   "start": 116.1,
+   "end": 117.02,
+   "text": "That's my prediction."
+  },
+  {
+   "start": 117.52,
+   "end": 118.24,
+   "text": "Two or three weeks."
+  },
+  {
+   "start": 119.7,
+   "end": 120.76,
+   "text": "Just on the cobbles."
+  },
+  {
+   "start": 121.8,
+   "end": 123.76,
+   "text": "But, uh, it'll be worth it."
+  },
+  {
+   "start": 123.76,
+   "end": 140.83,
+   "text": "Uh, so, I've listened to the, who, um, History of England podcast, um, yeah, I didn't watch any TV last night."
+  },
+  {
+   "start": 140.89,
+   "end": 149.59,
+   "text": "Day before yesterday, though, we watched, um, my girlfriend, um, on wheels."
+  },
+  {
+   "start": 153.39,
+   "end": 161.68,
+   "text": "But, uh, yeah, it's, um, it's, it's trippy having that Netflix in here for me, because I have it."
+  },
+  {
+   "start": 161.68,
+   "end": 163.88,
+   "text": "It's, like, a blast."
+  },
+  {
+   "start": 164.86,
+   "end": 166.66,
+   "text": "Woo, blast of technology."
+  },
+  {
+   "start": 167.76,
+   "end": 170.92,
+   "text": "Um, well, I must be tired, because I'm yawning a lot."
+  },
+  {
+   "start": 171.7,
+   "end": 173.32,
+   "text": "Um, I only got three hours of sleep last night."
+  },
+  {
+   "start": 175.18,
+   "end": 183.52,
+   "text": "Uh, but I'm not, like, my eyes aren't closing, so, um, uh, yeah, I'm gonna keep plugging away on this, but, uh, yeah."
+  },
+  {
+   "start": 185.0,
+   "end": 187.64,
+   "text": "Um, I don't know if they're cobbles."
+  },
+  {
+   "start": 187.9,
+   "end": 190.88,
+   "text": "They're, I measured it, it was, like, a meter, 1.3 meters."
+  },
+  {
+   "start": 190.88,
+   "end": 196.54,
+   "text": "So, I think there's, there were giant slabs of, like, granite, or marble, or something, I think they rode with."
+  },
+  {
+   "start": 197.16,
+   "end": 201.14,
+   "text": "But, uh, um, oh, I should do so, Bobby."
+  },
+  {
+   "start": 202.1,
+   "end": 204.92,
+   "text": "We got, oh, three quest videos today."
+  },
+  {
+   "start": 205.26,
+   "end": 206.34,
+   "text": "I really want to do that."
+  },
+  {
+   "start": 206.42,
+   "end": 206.96,
+   "text": "There's a couple."
+  },
+  {
+   "start": 207.28,
+   "end": 208.9,
+   "text": "Okay, I think that's enough talking for the day."
+  },
+  {
+   "start": 209.04,
+   "end": 209.84,
+   "text": "All right, peace out."
+  }
+ ]
+}

@@ -1,0 +1,897 @@
+{
+ "youtube_id": "UTCuD_6pdGQ",
+ "title": "Living in Boulder vlog 12 -  17 -  2017: Roman cisterns for region 5  in Google Earth",
+ "url": "https://youtu.be/UTCuD_6pdGQ",
+ "published_at": "2017-12-18",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records an early morning vlog discussing audio/microphone problems with his setup, then describes his ongoing Google Earth project building a detailed 3D model of a Roman city (region 5), including cisterns, apartments, baths, shrines, and other structures. He explains his batch-building workflow, a frustrating bug where buildings scattered when he tried to recolor them, and his goal to finish the model by end of winter.",
+  "speaker": "kyle",
+  "topics": [
+   "microphone/audio setup",
+   "Google Earth 3D modeling",
+   "Roman city reconstruction",
+   "workflow/batch building",
+   "technical frustrations",
+   "project planning"
+  ],
+  "stances": [
+   {
+    "topic": "microphone quality",
+    "position": "His $275 microphone isn't working well and he needs a better solution, likely tied to getting a new Apple cell phone"
+   },
+   {
+    "topic": "Google Earth Roman city model",
+    "position": "Building a navigable ground-level model is valuable even if not archaeologically precise, because it gives a functional sense of scale and layout"
+   },
+   {
+    "topic": "batch/line working style",
+    "position": "Prefers doing all instances of one task at once before moving to the next, finds it more efficient"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Google Earth",
+   "region 5"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.75,
+   "end": 5.75,
+   "text": "Hello, living in Boulder, Vlog at 626 in the morning on December 18th."
+  },
+  {
+   "start": 5.75,
+   "end": 9.75,
+   "text": "So I'll label this for this December 17th."
+  },
+  {
+   "start": 9.75,
+   "end": 13.75,
+   "text": "I have my microphone."
+  },
+  {
+   "start": 13.75,
+   "end": 16.75,
+   "text": "I'll put it in and the lights on."
+  },
+  {
+   "start": 16.75,
+   "end": 19.75,
+   "text": "It's in the hallway and it's plugged into the computer."
+  },
+  {
+   "start": 19.75,
+   "end": 24.75,
+   "text": "My computer is making the loud sound because it's trying to cool down."
+  },
+  {
+   "start": 24.75,
+   "end": 27.75,
+   "text": "It makes the loud sound all the time now."
+  },
+  {
+   "start": 27.75,
+   "end": 32.75,
+   "text": "Even though I have a big fan under it that goes on all the time with a two-week fan"
+  },
+  {
+   "start": 32.75,
+   "end": 37.75,
+   "text": "on the bottom, so hopefully this works because the last video I uploaded"
+  },
+  {
+   "start": 37.75,
+   "end": 41.75,
+   "text": "had this in the place and this wasn't helping and I couldn't hear myself talk."
+  },
+  {
+   "start": 41.75,
+   "end": 46.75,
+   "text": "So I'm going to give it a high and I'll get a new ear and I'll talk."
+  },
+  {
+   "start": 46.75,
+   "end": 48.75,
+   "text": "I don't talk very loud."
+  },
+  {
+   "start": 48.75,
+   "end": 54.19,
+   "text": "When I was my mom or other people, I'm practically yelling."
+  },
+  {
+   "start": 54.19,
+   "end": 58.19,
+   "text": "My mom always has to tell me to be quiet."
+  },
+  {
+   "start": 58.19,
+   "end": 65.19,
+   "text": "So anyway, I want to know who, I guess my brother should know this,"
+  },
+  {
+   "start": 65.19,
+   "end": 70.19,
+   "text": "but I want to know how I can, and if anybody knows the watch is just a place to call it."
+  },
+  {
+   "start": 70.19,
+   "end": 75.19,
+   "text": "But I'm gonna go and put it in the title."
+  },
+  {
+   "start": 75.19,
+   "end": 78.19,
+   "text": "Like, where can I get, how to help do I type GG sound?"
+  },
+  {
+   "start": 78.19,
+   "end": 85.19,
+   "text": "I want to do it on a GVG as a good sound, but can you buy microphones?"
+  },
+  {
+   "start": 85.19,
+   "end": 92.19,
+   "text": "I know there's a way, I have this, this is $275, but it doesn't work."
+  },
+  {
+   "start": 92.19,
+   "end": 98.19,
+   "text": "There's the way you can do it with a cell phone, but my cell phone can't transfer files to the computer"
+  },
+  {
+   "start": 98.19,
+   "end": 101.19,
+   "text": "because it's like that cell phone."
+  },
+  {
+   "start": 101.19,
+   "end": 106.19,
+   "text": "So it's just a way to get a new cell phone whenever that is."
+  },
+  {
+   "start": 106.19,
+   "end": 111.19,
+   "text": "And I'll make sure to get an apple cell phone that's compatible."
+  },
+  {
+   "start": 111.19,
+   "end": 114.19,
+   "text": "So I can record that."
+  },
+  {
+   "start": 114.19,
+   "end": 117.19,
+   "text": "I think that'll be my, I'll just do that when I do that."
+  },
+  {
+   "start": 117.19,
+   "end": 123.19,
+   "text": "I'll probably get a new cell phone before I need to do fancy videos."
+  },
+  {
+   "start": 123.19,
+   "end": 127.19,
+   "text": "Like we're on standing in front of the green screen."
+  },
+  {
+   "start": 127.19,
+   "end": 129.19,
+   "text": "I'll tell you about a cool video I want to do."
+  },
+  {
+   "start": 129.19,
+   "end": 133.19,
+   "text": "And I'd get a new special cell phone or recording for that."
+  },
+  {
+   "start": 133.19,
+   "end": 135.19,
+   "text": "So if you want to see this video, place something out there."
+  },
+  {
+   "start": 135.19,
+   "end": 136.19,
+   "text": "I'd like to do the recording for it."
+  },
+  {
+   "start": 136.19,
+   "end": 138.19,
+   "text": "Because I don't want to do it this."
+  },
+  {
+   "start": 138.19,
+   "end": 140.19,
+   "text": "I need something with the things right here."
+  },
+  {
+   "start": 140.19,
+   "end": 146.19,
+   "text": "But I've got nice green screen and I want to do, I think I did a talk about this."
+  },
+  {
+   "start": 146.19,
+   "end": 149.19,
+   "text": "Yeah, I'm the last video, but you can't get even myself."
+  },
+  {
+   "start": 149.19,
+   "end": 155.19,
+   "text": "Or I'm like, I give the tours of buildings and sides of ramen mansions."
+  },
+  {
+   "start": 155.19,
+   "end": 162.19,
+   "text": "And so I'm like, right now, and even, because you can build a mansions on Google Earth."
+  },
+  {
+   "start": 162.19,
+   "end": 165.19,
+   "text": "And then I'll show them the views I have there."
+  },
+  {
+   "start": 165.19,
+   "end": 168.19,
+   "text": "And even bicycle, riding around the ground."
+  },
+  {
+   "start": 168.19,
+   "end": 170.19,
+   "text": "That might speed up."
+  },
+  {
+   "start": 170.19,
+   "end": 172.19,
+   "text": "I think my speed is 21 miles an hour."
+  },
+  {
+   "start": 172.19,
+   "end": 178.19,
+   "text": "And being showing where everything is in the middle of the mobile."
+  },
+  {
+   "start": 178.19,
+   "end": 179.19,
+   "text": "And then maybe you can fly."
+  },
+  {
+   "start": 179.19,
+   "end": 181.19,
+   "text": "You know, for one I do fly by."
+  },
+  {
+   "start": 181.19,
+   "end": 185.19,
+   "text": "So this is my magical world."
+  },
+  {
+   "start": 185.19,
+   "end": 195.21,
+   "text": "So I'm like, what have I been working on?"
+  },
+  {
+   "start": 195.21,
+   "end": 200.21,
+   "text": "Well, I've been working on the Google Earth team world."
+  },
+  {
+   "start": 200.21,
+   "end": 207.21,
+   "text": "The section region five."
+  },
+  {
+   "start": 207.21,
+   "end": 217.24,
+   "text": "And right now, I have to put a certain number of all these different buildings."
+  },
+  {
+   "start": 217.24,
+   "end": 223.24,
+   "text": "180 houses, 3700 something apart in buildings, not individual ones,"
+  },
+  {
+   "start": 223.24,
+   "end": 225.24,
+   "text": "because they were up to five stories high."
+  },
+  {
+   "start": 225.24,
+   "end": 227.24,
+   "text": "So I'll calculate that later."
+  },
+  {
+   "start": 227.24,
+   "end": 242.24,
+   "text": "But on 74sts, just turns 75 baths, 15 shrines, 22 grand egos."
+  },
+  {
+   "start": 242.24,
+   "end": 243.24,
+   "text": "Yeah."
+  },
+  {
+   "start": 243.24,
+   "end": 246.24,
+   "text": "And so I've to build all this stuff."
+  },
+  {
+   "start": 246.24,
+   "end": 247.24,
+   "text": "Takes kind of a lot of."
+  },
+  {
+   "start": 247.24,
+   "end": 250.24,
+   "text": "Just don't kind of make it kind of fancy."
+  },
+  {
+   "start": 250.24,
+   "end": 257.24,
+   "text": "And so right now, I'm working on the, so."
+  },
+  {
+   "start": 257.24,
+   "end": 260.24,
+   "text": "Oh, this is the district, which I put right next to that."
+  },
+  {
+   "start": 260.24,
+   "end": 263.24,
+   "text": "74sts, 75 baths."
+  },
+  {
+   "start": 263.24,
+   "end": 269.65,
+   "text": "But my computer started acting really weird."
+  },
+  {
+   "start": 269.65,
+   "end": 274.65,
+   "text": "That's what I'm doing as a video now."
+  },
+  {
+   "start": 274.65,
+   "end": 277.65,
+   "text": "So let me explain how I'm building my systems."
+  },
+  {
+   "start": 277.65,
+   "end": 279.65,
+   "text": "So I built all the systems all together."
+  },
+  {
+   "start": 279.65,
+   "end": 281.65,
+   "text": "So I built all the systems all together."
+  },
+  {
+   "start": 281.65,
+   "end": 283.65,
+   "text": "So I built all the same way."
+  },
+  {
+   "start": 283.65,
+   "end": 289.65,
+   "text": "I like to do every time I'm a line worker and batch worker."
+  },
+  {
+   "start": 289.65,
+   "end": 291.65,
+   "text": "It's just easier."
+  },
+  {
+   "start": 291.65,
+   "end": 292.65,
+   "text": "I'm in report."
+  },
+  {
+   "start": 292.65,
+   "end": 293.65,
+   "text": "It's easier to just do it."
+  },
+  {
+   "start": 293.65,
+   "end": 296.65,
+   "text": "Get my brain in the gym and once I'm both task."
+  },
+  {
+   "start": 296.65,
+   "end": 298.65,
+   "text": "And then I do it again and the other."
+  },
+  {
+   "start": 298.65,
+   "end": 301.65,
+   "text": "So I didn't build all of my systems."
+  },
+  {
+   "start": 301.65,
+   "end": 302.65,
+   "text": "Went after the other."
+  },
+  {
+   "start": 302.65,
+   "end": 304.65,
+   "text": "I was just doing them stages."
+  },
+  {
+   "start": 304.65,
+   "end": 306.65,
+   "text": "Kind of like how I work on my website."
+  },
+  {
+   "start": 306.65,
+   "end": 309.65,
+   "text": "So I did all the stage where I created the."
+  },
+  {
+   "start": 309.65,
+   "end": 312.65,
+   "text": "I traced out even kind of like what I do as raw."
+  },
+  {
+   "start": 312.65,
+   "end": 314.65,
+   "text": "I still haven't, I've been pretty dimensionalized it."
+  },
+  {
+   "start": 314.65,
+   "end": 318.65,
+   "text": "I just traced out the different buildings."
+  },
+  {
+   "start": 318.65,
+   "end": 321.65,
+   "text": "Apartments in the system because I'm having a consistent different power."
+  },
+  {
+   "start": 321.65,
+   "end": 322.65,
+   "text": "Apartments."
+  },
+  {
+   "start": 322.65,
+   "end": 327.65,
+   "text": "And you know, and other cases the."
+  },
+  {
+   "start": 327.65,
+   "end": 329.65,
+   "text": "The slope."
+  },
+  {
+   "start": 329.65,
+   "end": 332.65,
+   "text": "On and whatever you call it and then the bulk."
+  },
+  {
+   "start": 332.65,
+   "end": 334.65,
+   "text": "And so."
+  },
+  {
+   "start": 334.65,
+   "end": 340.7,
+   "text": "So they were all placed all together in this one block all together."
+  },
+  {
+   "start": 340.7,
+   "end": 344.7,
+   "text": "You know, like seven different bits, eight different bits."
+  },
+  {
+   "start": 344.7,
+   "end": 346.7,
+   "text": "And so I went into."
+  },
+  {
+   "start": 346.7,
+   "end": 347.7,
+   "text": "Um."
+  },
+  {
+   "start": 347.7,
+   "end": 349.7,
+   "text": "Color them."
+  },
+  {
+   "start": 349.7,
+   "end": 351.7,
+   "text": "And then."
+  },
+  {
+   "start": 351.7,
+   "end": 356.7,
+   "text": "They were already three dimensionalized and colored to one color."
+  },
+  {
+   "start": 356.7,
+   "end": 360.7,
+   "text": "So I went into color the ones that I had a color."
+  },
+  {
+   "start": 360.7,
+   "end": 368.7,
+   "text": "And all the blocks were were like scattered around."
+  },
+  {
+   "start": 368.7,
+   "end": 370.7,
+   "text": "They moved."
+  },
+  {
+   "start": 370.7,
+   "end": 372.7,
+   "text": "And."
+  },
+  {
+   "start": 372.7,
+   "end": 373.7,
+   "text": "Um."
+  },
+  {
+   "start": 373.7,
+   "end": 374.7,
+   "text": "And then."
+  },
+  {
+   "start": 374.7,
+   "end": 375.7,
+   "text": "So I couldn't do it."
+  },
+  {
+   "start": 375.7,
+   "end": 377.7,
+   "text": "And then so the ones that I did."
+  },
+  {
+   "start": 377.7,
+   "end": 379.7,
+   "text": "And I'm on some of the deleting."
+  },
+  {
+   "start": 379.7,
+   "end": 380.7,
+   "text": "I do this one."
+  },
+  {
+   "start": 380.7,
+   "end": 382.7,
+   "text": "And so the other one that looks fine."
+  },
+  {
+   "start": 382.7,
+   "end": 384.7,
+   "text": "So then I click it."
+  },
+  {
+   "start": 384.7,
+   "end": 385.7,
+   "text": "I just click on one."
+  },
+  {
+   "start": 385.7,
+   "end": 387.7,
+   "text": "You know, they try to change the."
+  },
+  {
+   "start": 388.7,
+   "end": 390.7,
+   "text": "So I just like to change the color."
+  },
+  {
+   "start": 390.7,
+   "end": 391.7,
+   "text": "As soon as I click it."
+  },
+  {
+   "start": 391.7,
+   "end": 395.7,
+   "text": "It's scattered some all over the place."
+  },
+  {
+   "start": 395.7,
+   "end": 399.7,
+   "text": "So I, you know, I saved my file."
+  },
+  {
+   "start": 399.7,
+   "end": 400.7,
+   "text": "I was working on."
+  },
+  {
+   "start": 400.7,
+   "end": 401.7,
+   "text": "I."
+  },
+  {
+   "start": 401.7,
+   "end": 403.7,
+   "text": "I cut it out of the Google."
+  },
+  {
+   "start": 403.7,
+   "end": 405.7,
+   "text": "I shut down Google."
+  },
+  {
+   "start": 405.7,
+   "end": 408.7,
+   "text": "And then I was like, this is enough."
+  },
+  {
+   "start": 408.7,
+   "end": 410.7,
+   "text": "Without even trying to look."
+  },
+  {
+   "start": 410.7,
+   "end": 412.7,
+   "text": "I just restarted the computer."
+  },
+  {
+   "start": 412.7,
+   "end": 414.7,
+   "text": "And that's about what I'm doing out."
+  },
+  {
+   "start": 414.7,
+   "end": 415.7,
+   "text": "The computer started."
+  },
+  {
+   "start": 415.7,
+   "end": 418.7,
+   "text": "And I said to myself, this is a good time to do the video."
+  },
+  {
+   "start": 418.7,
+   "end": 421.7,
+   "text": "So that's what I'm not doing."
+  },
+  {
+   "start": 421.7,
+   "end": 423.7,
+   "text": "Um."
+  },
+  {
+   "start": 423.7,
+   "end": 424.7,
+   "text": "Yeah, I'm super fired up."
+  },
+  {
+   "start": 424.7,
+   "end": 426.7,
+   "text": "I need to finish section six."
+  },
+  {
+   "start": 426.7,
+   "end": 427.7,
+   "text": "I mean, by."
+  },
+  {
+   "start": 427.7,
+   "end": 431.7,
+   "text": "Because as soon as I finished section five."
+  },
+  {
+   "start": 431.7,
+   "end": 434.7,
+   "text": "I can have my bearings and I can have."
+  },
+  {
+   "start": 434.7,
+   "end": 435.7,
+   "text": "I can be."
+  },
+  {
+   "start": 435.7,
+   "end": 441.54,
+   "text": "Oh, you know, I'll know exactly what I need."
+  },
+  {
+   "start": 441.54,
+   "end": 443.54,
+   "text": "To do."
+  },
+  {
+   "start": 443.54,
+   "end": 445.54,
+   "text": "To do the rest of the sections."
+  },
+  {
+   "start": 445.54,
+   "end": 446.54,
+   "text": "I'll be."
+  },
+  {
+   "start": 446.54,
+   "end": 449.54,
+   "text": "You can do obviously if you have the students class."
+  },
+  {
+   "start": 449.54,
+   "end": 450.54,
+   "text": "You know, like."
+  },
+  {
+   "start": 450.54,
+   "end": 452.54,
+   "text": "The section five I believe."
+  },
+  {
+   "start": 452.54,
+   "end": 454.54,
+   "text": "I think I feel all of the."
+  },
+  {
+   "start": 454.54,
+   "end": 456.54,
+   "text": "Of the apartment bullies."
+  },
+  {
+   "start": 456.54,
+   "end": 457.54,
+   "text": "Like in the entire section."
+  },
+  {
+   "start": 457.54,
+   "end": 460.54,
+   "text": "Like in the count on like 2500."
+  },
+  {
+   "start": 460.54,
+   "end": 462.54,
+   "text": "Um."
+  },
+  {
+   "start": 462.54,
+   "end": 463.54,
+   "text": "Um."
+  },
+  {
+   "start": 463.54,
+   "end": 466.54,
+   "text": "Among the whole region before I said."
+  },
+  {
+   "start": 466.54,
+   "end": 467.54,
+   "text": "Oh, wait."
+  },
+  {
+   "start": 467.54,
+   "end": 469.54,
+   "text": "Let's do the individual buildings."
+  },
+  {
+   "start": 469.54,
+   "end": 470.54,
+   "text": "Cuz I wasn't thinking about."
+  },
+  {
+   "start": 470.54,
+   "end": 471.54,
+   "text": "The regional coverage."
+  },
+  {
+   "start": 471.54,
+   "end": 472.54,
+   "text": "Because I wasn't going."
+  },
+  {
+   "start": 472.54,
+   "end": 473.54,
+   "text": "Oh, sorry."
+  },
+  {
+   "start": 473.54,
+   "end": 475.54,
+   "text": "So that was like I have to do this right."
+  },
+  {
+   "start": 475.54,
+   "end": 480.6,
+   "text": "going to the engineer. So I had to cut away a bunch of apartment buildings. So it was"
+  },
+  {
+   "start": 480.6,
+   "end": 486.94,
+   "text": "a waste of time. So to build the next section, this is the space it's going to be faster."
+  },
+  {
+   "start": 486.94,
+   "end": 491.34,
+   "text": "You know, and then you just roll for it and once you're done whole. So anyways, I was thinking"
+  },
+  {
+   "start": 491.34,
+   "end": 499.34,
+   "text": "in my head, yeah, and I think by the end of the winter, I didn't have a paper. I will be"
+  },
+  {
+   "start": 499.34,
+   "end": 506.34,
+   "text": "done with the building building. So the only thing that's going to ship that every,"
+  },
+  {
+   "start": 506.34,
+   "end": 512.84,
+   "text": "oh, this is literally the only thing in my life that I've worried about, but I worry about"
+  },
+  {
+   "start": 512.84,
+   "end": 519.71,
+   "text": "it, probably more than I should. Is it like I'll be done like at the end of the day,"
+  },
+  {
+   "start": 519.71,
+   "end": 525.99,
+   "text": "but then at the end of the day, I also cannot be like, hey, look at my model of the building,"
+  },
+  {
+   "start": 525.99,
+   "end": 531.99,
+   "text": "it's kind of like it. But the thing is, there's different ways you can do it. You know,"
+  },
+  {
+   "start": 531.99,
+   "end": 537.99,
+   "text": "I mean, if somebody did a model of Google Earth, I mean a forum, they might do it with the actual"
+  },
+  {
+   "start": 537.99,
+   "end": 546.99,
+   "text": "original rules. And those rules don't exist anymore. And if you've built that on Google Earth, you can't experience"
+  },
+  {
+   "start": 546.99,
+   "end": 551.99,
+   "text": "a realm the same way that you do on Google Earth, because you'd have to be going on this other. It's"
+  },
+  {
+   "start": 551.99,
+   "end": 558.99,
+   "text": "like a completely different realm. And it's not, I mean, insure it may be more accurate to the actual"
+  },
+  {
+   "start": 558.99,
+   "end": 566.99,
+   "text": "realm, but the way that the rules work. But if you can't go to a realm, an actual travel around"
+  },
+  {
+   "start": 566.99,
+   "end": 580.78,
+   "text": "and be there, then both of the maps have their place, because you definitely need a realm that I'm making,"
+  },
+  {
+   "start": 581.78,
+   "end": 588.78,
+   "text": "where you can move around realm on ground level, and it's the same realm that you know on Google Earth."
+  },
+  {
+   "start": 588.78,
+   "end": 595.78,
+   "text": "Because that's close enough to the realm, much you need to, much you need to have in your head is, you know,"
+  },
+  {
+   "start": 595.78,
+   "end": 606.78,
+   "text": "the size of it, how much of everything that's how it functions, so that you can then understand the following, the next things to know"
+  },
+  {
+   "start": 606.78,
+   "end": 611.78,
+   "text": "in a greater historical, outward of, I think guys, talk for one very long enough."
+  },
+  {
+   "start": 611.78,
+   "end": 613.78,
+   "text": "More than 10 minutes."
+  }
+ ]
+}

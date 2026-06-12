@@ -1,0 +1,386 @@
+{
+ "youtube_id": "DZIQmRBYLRs",
+ "title": "Water Filters - Request",
+ "url": "https://youtu.be/DZIQmRBYLRs",
+ "published_at": "2014-06-29",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle responds to a viewer request about tap water safety, sharing his view that tap water is unhealthy due to insufficient government regulation and the presence of chemicals, pharmaceuticals, pesticides, and fluoride. He says he lacks a water filter but plans to get one, and entertains the idea that fluoride may be lowering collective intelligence.",
+  "speaker": "mixed",
+  "topics": [
+   "tap water quality",
+   "water filters",
+   "government regulation",
+   "fluoride conspiracy",
+   "pharmaceutical contamination",
+   "pesticides in water",
+   "health effects of drinking water"
+  ],
+  "stances": [
+   {
+    "topic": "tap water safety",
+    "position": "tap water is unhealthy and tastes bad; not safe enough to drink without filtering"
+   },
+   {
+    "topic": "government regulation of water",
+    "position": "regulations are insufficient and misplaced; can't trust government to make water truly healthy"
+   },
+   {
+    "topic": "water filters",
+    "position": "worth buying; plans to get one"
+   },
+   {
+    "topic": "fluoride in water",
+    "position": "may be making people cognitively impaired; open to the conspiracy but frames it as corporate indifference rather than deliberate plot"
+   },
+   {
+    "topic": "pharmaceutical contamination",
+    "position": "drugs and chemicals cycling into water supply are a real concern"
+   }
+  ],
+  "entities": [
+   "Joycelyn Elders (unnamed, referenced as surgeon general fired for masturbation comment)",
+   "Alex Jones",
+   "Brita"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 4.0,
+   "text": "Okay there's another very close start if it took me so long, three weeks to use."
+  },
+  {
+   "start": 5.04,
+   "end": 10.64,
+   "text": "Okay can you do a video on your thoughts on tap water? Do you drink tap water or bottle of water?"
+  },
+  {
+   "start": 11.52,
+   "end": 17.6,
+   "text": "And are you concerned that tap water may have pesticide fertilized in our medications or other chemicals?"
+  },
+  {
+   "start": 18.72,
+   "end": 22.72,
+   "text": "We'll harmful bacteria in it and do you think for chlorine they add to"
+  },
+  {
+   "start": 23.28,
+   "end": 29.92,
+   "text": "it tap water kind of affect your health also have you tried the britto water filters"
+  },
+  {
+   "start": 30.56,
+   "end": 37.36,
+   "text": "that you can put in your tap and do you think they are worth the money? That's actually a good video request."
+  },
+  {
+   "start": 38.4,
+   "end": 42.96,
+   "text": "Yeah I don't think the tap water is healthy. When I turn on my tap water here in my house I can taste"
+  },
+  {
+   "start": 42.96,
+   "end": 48.0,
+   "text": "in a taste nasty and even the guys I work with they said they're tap water,"
+  },
+  {
+   "start": 48.0,
+   "end": 51.76,
+   "text": "but I can't taste crap and it's only going to get worse."
+  },
+  {
+   "start": 53.84,
+   "end": 58.64,
+   "text": "Our government has regulations that keep stuff clean like that but it's not strong enough."
+  },
+  {
+   "start": 58.64,
+   "end": 62.32,
+   "text": "The regulations aren't strong enough. There's just strong in the wrong ways."
+  },
+  {
+   "start": 62.32,
+   "end": 66.96,
+   "text": "We have regulations against natural things like a wrong method, but not against"
+  },
+  {
+   "start": 67.84,
+   "end": 72.88,
+   "text": "pharmaceutical industry and the same thing with tap water I think that I wouldn't trust the government."
+  },
+  {
+   "start": 72.88,
+   "end": 75.92,
+   "text": "I'm not trust the government to make the tap water healthy and not forget of like"
+  },
+  {
+   "start": 75.92,
+   "end": 80.16,
+   "text": "believe your life but not healthy enough but not as healthy as you could make it if you"
+  },
+  {
+   "start": 80.16,
+   "end": 85.52,
+   "text": "got one of these extra filters. Like there are lots of"
+  },
+  {
+   "start": 86.8,
+   "end": 92.56,
+   "text": "pill natural herbal pill supplement companies that sell stuff and then when you go in and"
+  },
+  {
+   "start": 92.56,
+   "end": 98.56,
+   "text": "actually see what's in there. It was a drugstore. It's not even the stuff that they say."
+  },
+  {
+   "start": 98.56,
+   "end": 102.56,
+   "text": "It's just like these conceibos that they're selling. When the government's not staying on top of that"
+  },
+  {
+   "start": 103.12,
+   "end": 109.76,
+   "text": "on those particular things so yeah I wouldn't trust the government to have all the"
+  },
+  {
+   "start": 109.76,
+   "end": 114.64,
+   "text": "filterification they need. I mean I can taste this shit. I knew this kid in college actually who"
+  },
+  {
+   "start": 114.64,
+   "end": 120.4,
+   "text": "did something where he stuck some thing in some class. It was just a glass water and like you could see"
+  },
+  {
+   "start": 120.4,
+   "end": 128.32,
+   "text": "all this metals we should that attached to it. When I was in college the ex district"
+  },
+  {
+   "start": 128.48,
+   "end": 134.64,
+   "text": "was in the surgeon general that black lady got fired for saying that you could help not have"
+  },
+  {
+   "start": 134.64,
+   "end": 140.08,
+   "text": "unwanted pregnancy from just masturbating so she got fired for saying that and anyway she said that"
+  },
+  {
+   "start": 140.08,
+   "end": 143.44,
+   "text": "there are two reasons why we live longer than we did in the past. In the speech that she did to our"
+  },
+  {
+   "start": 143.44,
+   "end": 148.96,
+   "text": "college it's a quality of water and I think because we can like fix sicknesses and stuff and so"
+  },
+  {
+   "start": 149.52,
+   "end": 158.8,
+   "text": "yeah you know like bad quality of water can suck up your health because it gives you know water is our life."
+  },
+  {
+   "start": 158.8,
+   "end": 166.0,
+   "text": "Our life absorbs throughout our body so bad water can bring all sorts of toxins into our body and then"
+  },
+  {
+   "start": 166.0,
+   "end": 172.08,
+   "text": "pollute and get in the way of electrical functioning of our body and make a sick and all kinds of"
+  },
+  {
+   "start": 172.08,
+   "end": 176.72,
+   "text": "different ways and eventually kill us early so they're making you know unhealthy so yeah it's really good"
+  },
+  {
+   "start": 176.8,
+   "end": 179.84,
+   "text": "lotters and lots of important things. I don't have a grid of filter I've had them on the"
+  },
+  {
+   "start": 179.84,
+   "end": 183.52,
+   "text": "past I keep forgetting to get one I didn't have any money so I didn't buy one for a long time and I should"
+  },
+  {
+   "start": 183.52,
+   "end": 190.56,
+   "text": "give my hands on my mom has a special German made filter that filters out the water and I don't really"
+  },
+  {
+   "start": 190.56,
+   "end": 194.64,
+   "text": "drink that much water you know I mean I drink water when I drink go to the go to work in the water"
+  },
+  {
+   "start": 194.64,
+   "end": 199.6,
+   "text": "bottle and stuff but when I'm not drinking I'm hanging out at home like well I make tea but I usually"
+  },
+  {
+   "start": 199.6,
+   "end": 206.48,
+   "text": "like to drink orange juice but yeah I should get one of those filters um yeah because we do yeah"
+  },
+  {
+   "start": 206.48,
+   "end": 212.88,
+   "text": "pesticides fertilizers and medications and other chemicals and harmful. A lot of bacteria I think"
+  },
+  {
+   "start": 212.88,
+   "end": 217.52,
+   "text": "we can trust our go in that to get the back or whatever the fodder butter plant to get the back"
+  },
+  {
+   "start": 217.52,
+   "end": 222.64,
+   "text": "to your out of our water but yeah medications and chemicals and fertilizers and pesticides and yeah all"
+  },
+  {
+   "start": 222.64,
+   "end": 228.64,
+   "text": "that kind of stuff yeah I mean it gets yes seriously all of the drugs the mental drugs we have and"
+  },
+  {
+   "start": 229.44,
+   "end": 234.4,
+   "text": "that can get in our water you know like where does it go up in the pesticides you know like"
+  },
+  {
+   "start": 234.48,
+   "end": 241.2,
+   "text": "is there chemicals that that get recycled man you know I think they've done studies whenever"
+  },
+  {
+   "start": 241.2,
+   "end": 249.12,
+   "text": "they do studies they find all kinds of scary stuff and that could be Alex Jones likes to say we're"
+  },
+  {
+   "start": 249.12,
+   "end": 255.12,
+   "text": "all retarded because we have there's too much fluoride in our water but it could be you know we could be"
+  },
+  {
+   "start": 255.12,
+   "end": 259.76,
+   "text": "actually a lot stupider than we were in the past you know and we're in a lot of ways well that's"
+  },
+  {
+   "start": 259.76,
+   "end": 267.04,
+   "text": "smarter because we're getting a lot of stuff and all this technology but we could there could be"
+  },
+  {
+   "start": 267.04,
+   "end": 271.44,
+   "text": "something to that whole idea of fluoride making us retarded because I have conversations on YouTube with"
+  },
+  {
+   "start": 271.44,
+   "end": 276.16,
+   "text": "people all the time there they get so I have some of these people more and three of the kind of the"
+  },
+  {
+   "start": 276.16,
+   "end": 281.2,
+   "text": "comments I get some of you done people in the world and maybe they're done and I and I listen to a lot of"
+  },
+  {
+   "start": 281.2,
+   "end": 287.92,
+   "text": "audiobooks from the past and and they're really smart past only when you hear people talk here they're like"
+  },
+  {
+   "start": 287.92,
+   "end": 294.4,
+   "text": "more on since so maybe maybe we are kind of kind of dumber than we should be because of because of fluoride"
+  },
+  {
+   "start": 294.4,
+   "end": 301.2,
+   "text": "in our water I mean why do we have fluoride in our water and there is that whole story I can't remember the"
+  },
+  {
+   "start": 302.48,
+   "end": 308.8,
+   "text": "it's supposed to be like if there's no use for it it's supposed to be good for your teeth or something but"
+  },
+  {
+   "start": 308.8,
+   "end": 313.52,
+   "text": "we don't have to have it in the water and so there's a conspiracy theory that they're delivered and putting it"
+  },
+  {
+   "start": 313.6,
+   "end": 319.44,
+   "text": "in there and I think it's like a steamer I do that's true but you know I don't think the people"
+  },
+  {
+   "start": 319.44,
+   "end": 324.0,
+   "text": "but you know in the more realistic I don't think the people who made the money after this the quantity"
+  },
+  {
+   "start": 324.0,
+   "end": 329.04,
+   "text": "will give us about us a long term they just want to make money for themselves and obviously study"
+  },
+  {
+   "start": 329.04,
+   "end": 335.68,
+   "text": "the dog world and people living people living from the top mouth and you know and the mouth"
+  },
+  {
+   "start": 335.68,
+   "end": 342.4,
+   "text": "you know I think you've got six months in the future but short term and yeah so there's nobody"
+  },
+  {
+   "start": 343.2,
+   "end": 351.2,
+   "text": "we need to we need to definitely stick this back and think about a long term effects all of stuff on our water"
+  },
+  {
+   "start": 352.8,
+   "end": 358.72,
+   "text": "and what the mental effects that can happen why do you think it's so much in our water but"
+  },
+  {
+   "start": 359.6,
+   "end": 364.0,
+   "text": "yeah I would definitely want to do different things you're air-handling really the one who always has"
+  },
+  {
+   "start": 364.0,
+   "end": 371.28,
+   "text": "you give me those hypoponder yeah comments but this is one that's definitely I would say it's worth it to"
+  },
+  {
+   "start": 371.28,
+   "end": 378.8,
+   "text": "get a filter for sure you know I should get a filter now but the probably the biggest thing about our"
+  },
+  {
+   "start": 378.8,
+   "end": 383.52,
+   "text": "health is trying to keep the toxins away you know we have a really toxic environment and water is the"
+  },
+  {
+   "start": 383.52,
+   "end": 389.04,
+   "text": "number one thing you go inside of you so thanks for the reminder I'll get peace out"
+  }
+ ]
+}

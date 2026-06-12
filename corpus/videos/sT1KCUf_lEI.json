@@ -1,0 +1,566 @@
+{
+ "youtube_id": "sT1KCUf_lEI",
+ "title": "Living in Boulder vlog 9 -  6 - 2017: Trying to get my Garmin computer to work.",
+ "url": "https://youtu.be/sT1KCUf_lEI",
+ "published_at": "2017-09-07",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about his struggles setting up Garmin cycling equipment — a broken speedometer, malfunctioning power meter pedals, and multiple tech support calls. He also mentions plans to create watt/cadence charts for his rollers and bike, and teases a large project making Strava segment screen-capture videos for the Boulder area.",
+  "speaker": "kyle",
+  "topics": [
+   "Garmin tech support",
+   "cycling power meter issues",
+   "bike setup",
+   "FTP estimation",
+   "Strava segment videos",
+   "Google Earth YouTube project",
+   "Boulder riding"
+  ],
+  "stances": [
+   {
+    "topic": "Garmin power meter (Limits pedals)",
+    "position": "Believes his watt readings are inaccurate and much too low compared to a riding buddy's data"
+   },
+   {
+    "topic": "Motivation to ride",
+    "position": "Struggles to stay motivated to ride without reliable watt data"
+   },
+   {
+    "topic": "Strava segment video project",
+    "position": "Excited and committed — plans to upload thousands of segment screen captures to YouTube"
+   },
+   {
+    "topic": "Google Earth YouTube content",
+    "position": "Has a large backlog of high-quality Google Earth material he is eager to publish"
+   }
+  ],
+  "entities": [
+   "Garmin",
+   "Garmin Express",
+   "Limits pedals",
+   "Strava",
+   "Google Earth",
+   "Boulder",
+   "Kyle Towns (YouTube channel name mentioned)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.24,
+   "end": 4.04,
+   "text": "Hello living in Boulder, be a log, it is"
+  },
+  {
+   "start": 4.72,
+   "end": 7.22,
+   "text": "For September 6th at 830"
+  },
+  {
+   "start": 7.92,
+   "end": 12.94,
+   "text": "I can't remember when the last time I did a video was because I've been"
+  },
+  {
+   "start": 14.56,
+   "end": 16.56,
+   "text": "I've been working"
+  },
+  {
+   "start": 16.56,
+   "end": 19.04,
+   "text": "So I think it was like Saturday or something"
+  },
+  {
+   "start": 20.76,
+   "end": 24.28,
+   "text": "So in Sunday, I went on a ride with my YouTube subscriber"
+  },
+  {
+   "start": 24.28,
+   "end": 27.52,
+   "text": "or time, you know, visiting the area"
+  },
+  {
+   "start": 27.52,
+   "end": 30.32,
+   "text": "and we brought up to the top of the hill"
+  },
+  {
+   "start": 30.32,
+   "end": 32.12,
+   "text": "We're gonna do a big ride up to"
+  },
+  {
+   "start": 32.76,
+   "end": 34.36,
+   "text": "60 mile loop but"
+  },
+  {
+   "start": 35.36,
+   "end": 37.4,
+   "text": "Here's the head of me and then I was in deadhead"
+  },
+  {
+   "start": 37.4,
+   "end": 39.52,
+   "text": "I'm right before the top and then I had to turn around"
+  },
+  {
+   "start": 39.52,
+   "end": 41.96,
+   "text": "because it was a wife calling me, you got sick"
+  },
+  {
+   "start": 44.08,
+   "end": 45.08,
+   "text": "But"
+  },
+  {
+   "start": 45.8,
+   "end": 48.44,
+   "text": "So that was my one outside ride"
+  },
+  {
+   "start": 49.16,
+   "end": 51.16,
+   "text": "for the year"
+  },
+  {
+   "start": 51.16,
+   "end": 53.16,
+   "text": "I've been busy"
+  },
+  {
+   "start": 54.28,
+   "end": 57.28,
+   "text": "I'm trying to set up my bike"
+  },
+  {
+   "start": 58.28,
+   "end": 59.28,
+   "text": "I got"
+  },
+  {
+   "start": 61.28,
+   "end": 66.17,
+   "text": "I got all these different"
+  },
+  {
+   "start": 66.17,
+   "end": 68.17,
+   "text": "Garmin things I have the"
+  },
+  {
+   "start": 70.17,
+   "end": 74.17,
+   "text": "Carrey monitor, the lot pedals, the sputometer and the keys"
+  },
+  {
+   "start": 75.17,
+   "end": 77.17,
+   "text": "So I set that stuff up, yes, I was on the phone with Garmin"
+  },
+  {
+   "start": 77.17,
+   "end": 80.17,
+   "text": "like 40 minutes of their trip trips, I set that stuff up"
+  },
+  {
+   "start": 80.17,
+   "end": 81.17,
+   "text": "And then"
+  },
+  {
+   "start": 82.17,
+   "end": 84.17,
+   "text": "my sputometer wouldn't work yesterday"
+  },
+  {
+   "start": 84.17,
+   "end": 86.17,
+   "text": "So I went and got into batteries and then I wouldn't work today"
+  },
+  {
+   "start": 86.17,
+   "end": 88.17,
+   "text": "So they're gonna send me a new one"
+  },
+  {
+   "start": 89.17,
+   "end": 92.17,
+   "text": "You said it would only take three days to get here so that's cool"
+  },
+  {
+   "start": 93.17,
+   "end": 96.17,
+   "text": "And my lot meter doesn't work, I'm pretty sure"
+  },
+  {
+   "start": 97.17,
+   "end": 100.17,
+   "text": "Because I went riding up the top of a lea hill"
+  },
+  {
+   "start": 100.17,
+   "end": 101.17,
+   "text": "and"
+  },
+  {
+   "start": 101.17,
+   "end": 103.17,
+   "text": "tiny night we weigh the same"
+  },
+  {
+   "start": 103.17,
+   "end": 105.17,
+   "text": "our bikes weigh the same"
+  },
+  {
+   "start": 106.17,
+   "end": 108.17,
+   "text": "And we rode up pretty much together"
+  },
+  {
+   "start": 109.17,
+   "end": 111.17,
+   "text": "Got to the top of the same time"
+  },
+  {
+   "start": 112.17,
+   "end": 114.17,
+   "text": "And his watts"
+  },
+  {
+   "start": 114.17,
+   "end": 115.17,
+   "text": "230 foot"
+  },
+  {
+   "start": 115.17,
+   "end": 117.17,
+   "text": "for like 35 minutes they finally"
+  },
+  {
+   "start": 118.17,
+   "end": 120.17,
+   "text": "Even though he was cranking a lot more than I was"
+  },
+  {
+   "start": 121.17,
+   "end": 124.17,
+   "text": "It's called a native, he used more watts for how fast he was going"
+  },
+  {
+   "start": 125.17,
+   "end": 126.17,
+   "text": "But I"
+  },
+  {
+   "start": 127.17,
+   "end": 129.17,
+   "text": "My things set 150"
+  },
+  {
+   "start": 130.17,
+   "end": 133.17,
+   "text": "And it just doesn't make sense"
+  },
+  {
+   "start": 133.17,
+   "end": 135.17,
+   "text": "because I would ride really fast really hard"
+  },
+  {
+   "start": 136.17,
+   "end": 137.17,
+   "text": "And I would say 100"
+  },
+  {
+   "start": 137.17,
+   "end": 140.17,
+   "text": "So the guy over at Garmin setting you to update the"
+  },
+  {
+   "start": 141.17,
+   "end": 143.17,
+   "text": "pedals themselves"
+  },
+  {
+   "start": 144.17,
+   "end": 145.17,
+   "text": "But I plugged in and"
+  },
+  {
+   "start": 146.17,
+   "end": 149.17,
+   "text": "I tried to do that with a pedal program and it's that I needed to"
+  },
+  {
+   "start": 150.17,
+   "end": 155.17,
+   "text": "Turn off Garmin express the other Garmin program and it was already turned off"
+  },
+  {
+   "start": 156.17,
+   "end": 158.17,
+   "text": "But I was passing outside, I took a nap when I got it"
+  },
+  {
+   "start": 158.17,
+   "end": 159.17,
+   "text": "It was too late to call him again"
+  },
+  {
+   "start": 160.17,
+   "end": 161.17,
+   "text": "So I'll call him tomorrow"
+  },
+  {
+   "start": 162.17,
+   "end": 164.17,
+   "text": "And I'll see if I can get it figured out"
+  },
+  {
+   "start": 165.17,
+   "end": 167.17,
+   "text": "So"
+  },
+  {
+   "start": 167.17,
+   "end": 171.17,
+   "text": "I can update my pedals"
+  },
+  {
+   "start": 172.17,
+   "end": 174.17,
+   "text": "And then"
+  },
+  {
+   "start": 175.17,
+   "end": 180.17,
+   "text": "Because I want to make these charts, the reason I had been up to the videos is because I was making these charts for pedaling"
+  },
+  {
+   "start": 182.17,
+   "end": 185.17,
+   "text": "Pedaling cadence and speed and watts"
+  },
+  {
+   "start": 186.17,
+   "end": 190.17,
+   "text": "For all the different years that I have, I'm a particular bike and I put it on my website"
+  },
+  {
+   "start": 191.17,
+   "end": 196.17,
+   "text": "I got it off this website where you click and then it tells you the lot speed and all that information"
+  },
+  {
+   "start": 197.17,
+   "end": 201.17,
+   "text": "From like all the different years you can have but I have, you know, just one year set"
+  },
+  {
+   "start": 202.17,
+   "end": 204.17,
+   "text": "So I made a chart that you could look at"
+  },
+  {
+   "start": 205.17,
+   "end": 208.17,
+   "text": "But it doesn't really mean that much to me because"
+  },
+  {
+   "start": 209.17,
+   "end": 214.17,
+   "text": "That chart was made from this Quartzinger German Quartzinger website where you figured out"
+  },
+  {
+   "start": 215.17,
+   "end": 217.17,
+   "text": "You know, with calculations on the computer"
+  },
+  {
+   "start": 218.17,
+   "end": 222.17,
+   "text": "And it was designed for a time trial bike and I don't have a time trial bike"
+  },
+  {
+   "start": 223.17,
+   "end": 225.17,
+   "text": "So maybe I have to make another one"
+  },
+  {
+   "start": 225.17,
+   "end": 229.17,
+   "text": "For my bike, I haven't even thought about that, that'd be kind of complicated"
+  },
+  {
+   "start": 230.17,
+   "end": 233.17,
+   "text": "But before that I want to make one for my rollers"
+  },
+  {
+   "start": 234.17,
+   "end": 238.17,
+   "text": "So that I know exactly how many watts I'm using for each cadence I need to gear"
+  },
+  {
+   "start": 239.17,
+   "end": 244.17,
+   "text": "On my rollers, but I can't do that unless my watt machine actually works"
+  },
+  {
+   "start": 245.17,
+   "end": 249.17,
+   "text": "Otherwise I'm going to be playing false numbers and I call the first text support guy"
+  },
+  {
+   "start": 250.17,
+   "end": 252.17,
+   "text": "And he's like, no way it works, it works and I call the guy today"
+  },
+  {
+   "start": 252.17,
+   "end": 258.17,
+   "text": "He's like, oh man, you should update the software on the positive, I didn't even say that you could do that"
+  },
+  {
+   "start": 259.17,
+   "end": 266.17,
+   "text": "Hopefully this microphone is working because my computer is being really not let right out, calling itself"
+  },
+  {
+   "start": 267.17,
+   "end": 271.17,
+   "text": "And I'm not so sure I got this thing working yet, so if there's still noise"
+  },
+  {
+   "start": 272.17,
+   "end": 275.17,
+   "text": "I think I'm going to call the people who make these and ask them why it's not working"
+  },
+  {
+   "start": 276.17,
+   "end": 283.17,
+   "text": "So that's basically what I'm doing, just working on like, so many different things that's making my head stand"
+  },
+  {
+   "start": 284.17,
+   "end": 287.17,
+   "text": "That's why I was earlier writing my bike, plus I don't have the motivation to write my bike"
+  },
+  {
+   "start": 288.17,
+   "end": 291.17,
+   "text": "If I don't have a lot, this is the same thing I'm going to try to work on for like months"
+  },
+  {
+   "start": 292.17,
+   "end": 293.17,
+   "text": "Since I decided I was going to start writing my bike"
+  },
+  {
+   "start": 294.17,
+   "end": 298.17,
+   "text": "So that's what I'm doing tomorrow, I'm going to call Garmin"
+  },
+  {
+   "start": 298.17,
+   "end": 303.17,
+   "text": "I'm going to see if I can get my pedals updated and I'm going to do a watch check, I'll play the watch or at least in the ballpark"
+  },
+  {
+   "start": 304.17,
+   "end": 311.17,
+   "text": "Because I was only like 60% of the lots of the time I went writing this"
+  },
+  {
+   "start": 312.17,
+   "end": 315.17,
+   "text": "And I know that I don't hammer at 100 big lots as a particular"
+  },
+  {
+   "start": 316.17,
+   "end": 321.17,
+   "text": "So anyway, I pretty much know what my FTP is, it's about a 235"
+  },
+  {
+   "start": 321.17,
+   "end": 326.17,
+   "text": "That's a 190 pound side of my past that is I haven't got the calculation I was saying"
+  },
+  {
+   "start": 327.17,
+   "end": 329.17,
+   "text": "And I haven't done a time trial, it's 28k time trial for a while"
+  },
+  {
+   "start": 330.17,
+   "end": 334.17,
+   "text": "But I'll do that pretty soon, just as soon as I get my lot thing working on my computer"
+  },
+  {
+   "start": 335.17,
+   "end": 339.17,
+   "text": "And then I'll get going on the the Strava string cut screen captures"
+  },
+  {
+   "start": 340.17,
+   "end": 344.17,
+   "text": "I'm making Strava videos of every single Strava segment in the Boulder area"
+  },
+  {
+   "start": 345.17,
+   "end": 349.17,
+   "text": "And then I'm going to put it up on it, it's on YouTube channel on my Kyle Towns Google or YouTube channel"
+  },
+  {
+   "start": 349.17,
+   "end": 356.17,
+   "text": "And that's going to motivate me to go ahead and do all the other Google or stuff for YouTube"
+  },
+  {
+   "start": 357.17,
+   "end": 362.17,
+   "text": "I'll have like thousands of videos and I might have more videos within a week or two"
+  },
+  {
+   "start": 363.17,
+   "end": 369.17,
+   "text": "I could have more videos a couple months, I could have more videos on my Google or if Kyle Towns Google or channel"
+  },
+  {
+   "start": 370.17,
+   "end": 374.17,
+   "text": "I'd have like 4,000 videos or something and they're all really good Google or stuff"
+  },
+  {
+   "start": 374.17,
+   "end": 381.17,
+   "text": "I have like room, room from all the different epochs, bolder from all the different ages"
+  },
+  {
+   "start": 382.17,
+   "end": 392.17,
+   "text": "Ancient world villages, like catastrophes, everything, everything, everything, everything, everything"
+  },
+  {
+   "start": 393.17,
+   "end": 398.17,
+   "text": "Even stuff I haven't thought about, although my grace or stuff that I can't even want to describe right now"
+  },
+  {
+   "start": 399.17,
+   "end": 402.17,
+   "text": "Okay enough talking, peace out"
+  },
+  {
+   "start": 402.17,
+   "end": 404.17,
+   "text": "Oh my god, it's 6 minutes, it's a long one"
+  }
+ ]
+}

@@ -1,0 +1,461 @@
+{
+ "youtube_id": "RQkHDkwG2o8",
+ "title": "Living in Boulder vlog 6 - 15 - 2018: Rode 3 Hrs",
+ "url": "https://youtu.be/RQkHDkwG2o8",
+ "published_at": "2018-06-15",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs on the morning of June 15, 2018 from his Boulder home, recapping his first road bike ride the previous day up a steep dirt road near James Canyon and Sunshine Canyon. He talks about fixing his bike axle, struggling with hills at 196 lbs on a road bike, Garmin computer sync issues, needing to buy a water bottle, and his plans to ride again that day before a contact prescription appointment.",
+  "speaker": "kyle",
+  "topics": [
+   "cycling",
+   "daily vlog",
+   "Boulder Colorado",
+   "bike maintenance",
+   "Garmin/tech issues",
+   "daily schedule",
+   "health appointment"
+  ],
+  "stances": [
+   {
+    "topic": "daily cycling",
+    "position": "committed to riding every day now after his first ride"
+   },
+   {
+    "topic": "road biking on dirt",
+    "position": "finds it very hard at his weight but pushed through and made it"
+   },
+   {
+    "topic": "Garmin sync",
+    "position": "frustrated by repeated cable failures, plans to call Garmin support"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "James Canyon",
+   "Sunshine Canyon",
+   "Home Depot",
+   "Garmin",
+   "People's Clinic"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.4,
+   "end": 8.04,
+   "text": "Hello living in Boulder, VLog, for June 15th, 2018."
+  },
+  {
+   "start": 8.04,
+   "end": 12.24,
+   "text": "My battery is not very strong over the last."
+  },
+  {
+   "start": 12.24,
+   "end": 20.68,
+   "text": "I was gonna do a VLog yesterday, but I got too tired now."
+  },
+  {
+   "start": 20.68,
+   "end": 23.52,
+   "text": "It's a flea, I got a phone call."
+  },
+  {
+   "start": 23.6,
+   "end": 28.84,
+   "text": "So, my kind of, yeah, I just got out of bed."
+  },
+  {
+   "start": 28.84,
+   "end": 30.52,
+   "text": "It's 11 11 in the morning."
+  },
+  {
+   "start": 30.52,
+   "end": 35.68,
+   "text": "I was totally wasted last night, so I had to, I slept really well last night."
+  },
+  {
+   "start": 35.68,
+   "end": 36.68,
+   "text": "I just slept."
+  },
+  {
+   "start": 36.68,
+   "end": 39.68,
+   "text": "It was awesome."
+  },
+  {
+   "start": 39.68,
+   "end": 43.44,
+   "text": "But it kind of did take me a little bit to get to sleep."
+  },
+  {
+   "start": 43.44,
+   "end": 48.04,
+   "text": "I'm still a little bit not turnolised."
+  },
+  {
+   "start": 49.04,
+   "end": 55.76,
+   "text": "But yesterday, day before yesterday, I went on my first ride, and I know for sure that I'm"
+  },
+  {
+   "start": 55.76,
+   "end": 58.2,
+   "text": "gonna do it now every day."
+  },
+  {
+   "start": 58.2,
+   "end": 60.2,
+   "text": "Woo, it's gonna be fun."
+  },
+  {
+   "start": 60.2,
+   "end": 62.6,
+   "text": "I've never even used it to not to."
+  },
+  {
+   "start": 62.6,
+   "end": 66.36,
+   "text": "But I have more reasons to do it than to not do it."
+  },
+  {
+   "start": 66.36,
+   "end": 76.2,
+   "text": "So, um, and then yesterday, I wanted to ride, but I got up late because I was tired."
+  },
+  {
+   "start": 76.2,
+   "end": 79.08,
+   "text": "And then I got, I had to fix my axle."
+  },
+  {
+   "start": 79.08,
+   "end": 82.32,
+   "text": "I had the axle that goes on the rollers."
+  },
+  {
+   "start": 82.32,
+   "end": 86.96,
+   "text": "I thought I was gonna ride on rollers before."
+  },
+  {
+   "start": 86.96,
+   "end": 92.04,
+   "text": "And, um, but I didn't have the tool to take it off, so I went down to Home Depot and got the"
+  },
+  {
+   "start": 92.04,
+   "end": 96.36,
+   "text": "wrench and the Allen key, Allen wrench."
+  },
+  {
+   "start": 96.36,
+   "end": 106.65,
+   "text": "And, um, took that off, put on my quick release."
+  },
+  {
+   "start": 106.65,
+   "end": 112.53,
+   "text": "And then we're not gonna ride up, um, but some, um, power bars."
+  },
+  {
+   "start": 112.53,
+   "end": 116.89,
+   "text": "And then, who, today I need to buy a water bottle before I go on a ride because I don't have,"
+  },
+  {
+   "start": 116.89,
+   "end": 119.25,
+   "text": "only have one big water bottle."
+  },
+  {
+   "start": 119.25,
+   "end": 125.37,
+   "text": "But I went up, uh, James Kandon, and then I saw a lick skill that rode towards, uh, I ran"
+  },
+  {
+   "start": 125.37,
+   "end": 126.37,
+   "text": "to water."
+  },
+  {
+   "start": 126.37,
+   "end": 131.81,
+   "text": "And I didn't want to try to go all the way to the, to the, uh, spring, it was hard."
+  },
+  {
+   "start": 131.81,
+   "end": 134.77,
+   "text": "Um, because I was getting late."
+  },
+  {
+   "start": 134.77,
+   "end": 137.77,
+   "text": "And, uh, I didn't leave until like, 430."
+  },
+  {
+   "start": 137.77,
+   "end": 142.05,
+   "text": "And, uh, because it just took me forever, because I had to clean my house to water my plants."
+  },
+  {
+   "start": 142.05,
+   "end": 144.05,
+   "text": "These are my plants."
+  },
+  {
+   "start": 144.05,
+   "end": 145.05,
+   "text": "They're my plants."
+  },
+  {
+   "start": 145.05,
+   "end": 149.09,
+   "text": "Where you see those two above me."
+  },
+  {
+   "start": 149.09,
+   "end": 152.05,
+   "text": "And then you see those plants."
+  },
+  {
+   "start": 152.05,
+   "end": 156.12,
+   "text": "You see."
+  },
+  {
+   "start": 156.16,
+   "end": 163.14,
+   "text": "I'm gonna have the plants on the other side."
+  },
+  {
+   "start": 163.14,
+   "end": 165.87,
+   "text": "I'm coming in."
+  },
+  {
+   "start": 165.87,
+   "end": 169.25,
+   "text": "So, um, anyways."
+  },
+  {
+   "start": 169.25,
+   "end": 174.05,
+   "text": "So, but I ran up a little split skillet and I have a road bike."
+  },
+  {
+   "start": 174.05,
+   "end": 175.05,
+   "text": "I'm 200 pounds."
+  },
+  {
+   "start": 175.05,
+   "end": 177.61,
+   "text": "Looks like a hundred and ninety six pounds."
+  },
+  {
+   "start": 177.61,
+   "end": 180.05,
+   "text": "I have a road bike."
+  },
+  {
+   "start": 180.05,
+   "end": 184.53,
+   "text": "And, uh, it has like, 38, 28 gear on it."
+  },
+  {
+   "start": 184.53,
+   "end": 188.25,
+   "text": "And so, and I, and it's a dirt road."
+  },
+  {
+   "start": 188.25,
+   "end": 189.25,
+   "text": "I'm just really steep."
+  },
+  {
+   "start": 189.25,
+   "end": 193.69,
+   "text": "So, I was riding as much as I could, but I had to push a lot of it too."
+  },
+  {
+   "start": 193.69,
+   "end": 200.39,
+   "text": "I was peddling like this slow."
+  },
+  {
+   "start": 200.39,
+   "end": 203.59,
+   "text": "But I made it up there and then there's this, uh, end up there that gave me water."
+  },
+  {
+   "start": 203.59,
+   "end": 204.59,
+   "text": "So, that's cool."
+  },
+  {
+   "start": 204.59,
+   "end": 205.59,
+   "text": "Get water."
+  },
+  {
+   "start": 205.59,
+   "end": 213.11,
+   "text": "Um, and, um, then I went down, sunshine cannon."
+  },
+  {
+   "start": 213.11,
+   "end": 219.91,
+   "text": "And I tried to plug my computer to my, my bike computer to my phone to my computer."
+  },
+  {
+   "start": 219.91,
+   "end": 224.85,
+   "text": "But it, uh, it wouldn't connect on one cable."
+  },
+  {
+   "start": 224.85,
+   "end": 227.65,
+   "text": "It just went, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it."
+  },
+  {
+   "start": 227.65,
+   "end": 230.57,
+   "text": "So I, I updated all this stuff on my computer."
+  },
+  {
+   "start": 230.57,
+   "end": 233.41,
+   "text": "We started it, we started my garment."
+  },
+  {
+   "start": 233.41,
+   "end": 236.89,
+   "text": "And then did it with the same cable and the same thing happens."
+  },
+  {
+   "start": 236.89,
+   "end": 237.89,
+   "text": "I got another cable."
+  },
+  {
+   "start": 237.89,
+   "end": 241.01,
+   "text": "I think a couple more cables and then it didn't even connect."
+  },
+  {
+   "start": 241.01,
+   "end": 244.45,
+   "text": "So, I'll have to call a car and see what's going on."
+  },
+  {
+   "start": 244.45,
+   "end": 249.81,
+   "text": "So, I guess I'll make sure my cell phone is charged and do my strata ride with my cell phone today."
+  },
+  {
+   "start": 249.81,
+   "end": 254.81,
+   "text": "My cell phone battery never, wasn't really last very long, and you'd get in your cell phone."
+  },
+  {
+   "start": 254.81,
+   "end": 262.21,
+   "text": "So, uh, that the priority now is to organize my room a little bit."
+  },
+  {
+   "start": 262.21,
+   "end": 266.29,
+   "text": "Water my plants and then I'll go on a ride, because I have to have three, fifteen, I only have four hours"
+  },
+  {
+   "start": 266.29,
+   "end": 274.65,
+   "text": "from now, because it's a little important for 15 to, uh, to ride, because in four hours, I have to go"
+  },
+  {
+   "start": 274.65,
+   "end": 279.65,
+   "text": "get my contact, uh, prescription checked out."
+  },
+  {
+   "start": 279.65,
+   "end": 283.73,
+   "text": "And, uh, yeah, I got new glasses."
+  },
+  {
+   "start": 283.73,
+   "end": 289.41,
+   "text": "We went down to the, uh, people's clinic and my glasses were stolen."
+  },
+  {
+   "start": 289.41,
+   "end": 295.41,
+   "text": "Um, so I had to, but that's fine, because I think weren't, they didn't tend to anyway,"
+  },
+  {
+   "start": 295.41,
+   "end": 297.41,
+   "text": "and you'd better glasses."
+  },
+  {
+   "start": 297.41,
+   "end": 310.9,
+   "text": "Um, so, today, yeah, so it's just, do something and then come back, something, I guess,"
+  },
+  {
+   "start": 310.9,
+   "end": 312.54,
+   "text": "loops close to here."
+  },
+  {
+   "start": 312.54,
+   "end": 319.1,
+   "text": "I don't really, I'm not that good at, um, estimating how long it takes me to do, how many miles,"
+  },
+  {
+   "start": 319.1,
+   "end": 324.18,
+   "text": "and how much food or water I need."
+  },
+  {
+   "start": 324.18,
+   "end": 328.18,
+   "text": "I know I can't make it very far with water, the water I can bring."
+  },
+  {
+   "start": 328.18,
+   "end": 330.18,
+   "text": "So, it's really exciting."
+  },
+  {
+   "start": 330.18,
+   "end": 336.18,
+   "text": "I need to also make sure that I have good dollar money, and list up to date music on my B3."
+  },
+  {
+   "start": 336.18,
+   "end": 339.18,
+   "text": "I didn't have that yesterday."
+  },
+  {
+   "start": 339.18,
+   "end": 343.18,
+   "text": "So, it's super exciting."
+  },
+  {
+   "start": 343.18,
+   "end": 344.18,
+   "text": "Uh, okay."
+  },
+  {
+   "start": 344.18,
+   "end": 348.18,
+   "text": "Uh, oh, I think I've talked long enough, uh, P.S."
+  }
+ ]
+}

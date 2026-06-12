@@ -1,0 +1,668 @@
+{
+ "youtube_id": "CdRi4h4hGSo",
+ "title": "Calling Out Connor McGregor - Request",
+ "url": "https://youtu.be/CdRi4h4hGSo",
+ "published_at": "2016-11-27",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle responds to a viewer request (from Chris) about Conor McGregor, offering mild approval of McGregor's flamboyance before pivoting to his core idea: a 'fight suit' that would make MMA safer and more frequent. He issues a mock callout challenge to McGregor, proposing a fight preceded by a 100-mile mountain run to test endurance, drawing on Roman history to argue that fatigue is the real determinant of battle outcomes.",
+  "speaker": "kyle",
+  "topics": [
+   "Conor McGregor",
+   "MMA reform",
+   "fight suit invention",
+   "endurance athletics",
+   "Roman history",
+   "gladiators",
+   "video request response"
+  ],
+  "stances": [
+   {
+    "topic": "Conor McGregor's flamboyance",
+    "position": "Mildly approves — sees a possible 'seed' of something useful in his showmanship"
+   },
+   {
+    "topic": "current MMA format",
+    "position": "Considers it barbaric; fighters should use fight suits so no one gets hurt and bouts can happen daily"
+   },
+   {
+    "topic": "his own MMA credentials",
+    "position": "Claims to be the 'godfather of MMA' solely because of the fight suit concept, not fighting ability"
+   },
+   {
+    "topic": "fighter psychology",
+    "position": "Fighters fear losing because they fight too infrequently; more fights via suit would eliminate that fear"
+   },
+   {
+    "topic": "fight suit commercialization",
+    "position": "Mass production would make fight suits affordable like bicycles, enabling mainstream adoption"
+   }
+  ],
+  "entities": [
+   "Conor McGregor",
+   "Chris (viewer/requester)",
+   "Ronda Rousey",
+   "Muhammad Ali",
+   "Livy",
+   "The Gauls",
+   "Rome",
+   "Tour de France",
+   "Lake Dylan",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.02,
+   "end": 2.02,
+   "text": "Hey, what's up? Video request time!"
+  },
+  {
+   "start": 2.14,
+   "end": 3.78,
+   "text": "Whee! I didn't get one for a while!"
+  },
+  {
+   "start": 4.44,
+   "end": 6.98,
+   "text": "So somebody gave me a video request a couple days ago."
+  },
+  {
+   "start": 7.08,
+   "end": 8.5,
+   "text": "What do I think about Conor McGregor?"
+  },
+  {
+   "start": 8.8,
+   "end": 10.72,
+   "text": "That's a random ass video, Chris."
+  },
+  {
+   "start": 11.84,
+   "end": 14.34,
+   "text": "Okay, so Conor McGregor, he's like an MMA fighter."
+  },
+  {
+   "start": 15.2,
+   "end": 17.8,
+   "text": "And he's like, what do you think about Conor McGregor and all of his antics?"
+  },
+  {
+   "start": 18.04,
+   "end": 22.22,
+   "text": "All of his, his like, uh, pompous antics."
+  },
+  {
+   "start": 22.28,
+   "end": 26.82,
+   "text": "So I guess, oh, yeah, because I know, and so, yeah, and Conor McGregor, he's an MMA fighter."
+  },
+  {
+   "start": 26.82,
+   "end": 30.58,
+   "text": "And I've seen him on YouTube, like, he's on, like, commercials, so I'm in a commercial on YouTube."
+  },
+  {
+   "start": 30.82,
+   "end": 36.66,
+   "text": "And so I guess he's like the number one guy of one of the, one of the divisions, skinny guy division."
+  },
+  {
+   "start": 36.9,
+   "end": 41.48,
+   "text": "And, um, and, uh, and so what do you think about his antics?"
+  },
+  {
+   "start": 41.56,
+   "end": 46.36,
+   "text": "Like, so it's like, what do you think about his people doing that attitude thing, that Muhammad Ali thing?"
+  },
+  {
+   "start": 46.4,
+   "end": 53.56,
+   "text": "Because I saw in one of the pictures in the video, he had one of those, like, white jackets on, like, with the fur, you know, like, fur jacket."
+  },
+  {
+   "start": 53.56,
+   "end": 56.8,
+   "text": "But, um, those things look cool, you know."
+  },
+  {
+   "start": 57.0,
+   "end": 65.4,
+   "text": "You should definitely make it clear, though, that it's synthetic, but, um, anyway, uh, yeah, so what do I think about that?"
+  },
+  {
+   "start": 65.48,
+   "end": 71.9,
+   "text": "Now, yeah, at first I was like, weird, weird video, but then I was like, wait, no, actually I'm the most appropriate person to ask because I'm the godfather of MMA."
+  },
+  {
+   "start": 71.9,
+   "end": 76.68,
+   "text": "Um, like, you know, you can watch the video of why I am, it's because of the fight suit."
+  },
+  {
+   "start": 76.78,
+   "end": 77.94,
+   "text": "It's not because I'm a fighter myself."
+  },
+  {
+   "start": 78.06,
+   "end": 79.16,
+   "text": "I don't know anything about fighting."
+  },
+  {
+   "start": 79.6,
+   "end": 84.8,
+   "text": "Um, although, and I, and I'm not going to know anything about fighting for a long ass time."
+  },
+  {
+   "start": 84.9,
+   "end": 89.32,
+   "text": "But, uh, one of these days I do want to study it because I have to, because I have to do it for the science of the fight suit."
+  },
+  {
+   "start": 89.32,
+   "end": 99.34,
+   "text": "Um, and, uh, I got the idea, just to be, talk really quickly, I got the idea for the fight suit when I saw Ronda Rousey get kicked in the head and knocked out."
+  },
+  {
+   "start": 99.38,
+   "end": 103.58,
+   "text": "And I was like, this isn't natural, this isn't good, you know, this is like gladiator games and wrong, you know."
+  },
+  {
+   "start": 103.6,
+   "end": 106.32,
+   "text": "We need to, like, step up, become more civilized."
+  },
+  {
+   "start": 106.62,
+   "end": 114.5,
+   "text": "So what we need to do is we need to get all those UFC fighters, you know, to fight with fight suits on so they can get kicked in the head and they don't get knocked out, you know."
+  },
+  {
+   "start": 114.5,
+   "end": 118.96,
+   "text": "The little light comes on and says you lose and then the game's over and you can go and fight again, you know."
+  },
+  {
+   "start": 119.06,
+   "end": 124.48,
+   "text": "Like these UFC fighters, they fight and they have, they can only do a couple fights a year because I guess you get hurt and then you have to get better."
+  },
+  {
+   "start": 124.72,
+   "end": 129.18,
+   "text": "Well, that's barbaric, why not just wear a suit and then you can do five fights a day, you know."
+  },
+  {
+   "start": 129.32,
+   "end": 130.78,
+   "text": "And, because that's what fighting's all about."
+  },
+  {
+   "start": 130.84,
+   "end": 132.08,
+   "text": "It's kind of like racing, you know."
+  },
+  {
+   "start": 132.1,
+   "end": 134.16,
+   "text": "It's like pinning things together and seeing what happens, you know."
+  },
+  {
+   "start": 134.9,
+   "end": 143.54,
+   "text": "So, um, so yeah, so anyways, um, Conor McGregor would probably be the first, the best person to help me."
+  },
+  {
+   "start": 143.54,
+   "end": 146.36,
+   "text": "You know, take the spark to the next level."
+  },
+  {
+   "start": 146.9,
+   "end": 148.82,
+   "text": "Um, because that's what we always need to be doing."
+  },
+  {
+   "start": 148.98,
+   "end": 149.48,
+   "text": "Taking a sense."
+  },
+  {
+   "start": 149.66,
+   "end": 152.22,
+   "text": "Since I'm the godfather, I have the, I have the best idea."
+  },
+  {
+   "start": 152.84,
+   "end": 155.84,
+   "text": "So what it is, I'm calling Conor McGregor out."
+  },
+  {
+   "start": 156.02,
+   "end": 157.16,
+   "text": "I'm going to kick your fucking ass, boy."
+  },
+  {
+   "start": 157.62,
+   "end": 158.7,
+   "text": "And this is what's going to happen."
+  },
+  {
+   "start": 159.7,
+   "end": 161.72,
+   "text": "Um, we're going to do it with the fight suit."
+  },
+  {
+   "start": 162.16,
+   "end": 163.46,
+   "text": "We're going to do a fight with the fight suit."
+  },
+  {
+   "start": 164.34,
+   "end": 173.22,
+   "text": "And after I beat you with the fight suit, what it's going to do is it's going to make all of these people believe that they can do it too."
+  },
+  {
+   "start": 173.22,
+   "end": 185.76,
+   "text": "You know, like if the fat, the fat stoner guy can, can just up and defeat like the, the, like the star, then, uh, you can, you can help it become mainstream."
+  },
+  {
+   "start": 185.76,
+   "end": 187.88,
+   "text": "It's kind of like a David Goliath type of a thing."
+  },
+  {
+   "start": 188.72,
+   "end": 190.74,
+   "text": "And, uh, and so let me show you how, how it'll happen."
+  },
+  {
+   "start": 190.88,
+   "end": 191.96,
+   "text": "The whole mechanics of it."
+  },
+  {
+   "start": 192.18,
+   "end": 198.54,
+   "text": "What you do is see the reason that I am interested in fighting, I've become interested in fighting."
+  },
+  {
+   "start": 198.78,
+   "end": 202.18,
+   "text": "Um, the whole, just the mechanics of it is because of history."
+  },
+  {
+   "start": 202.18,
+   "end": 202.94,
+   "text": "I'm a historian."
+  },
+  {
+   "start": 202.94,
+   "end": 207.0,
+   "text": "And if you study history, one of the big things is the battles and the wars."
+  },
+  {
+   "start": 207.1,
+   "end": 215.12,
+   "text": "And if you're going to get into study it a lot, you want to get into the details of it and the battles and wars between the people and then the gladiator stuff."
+  },
+  {
+   "start": 215.12,
+   "end": 217.74,
+   "text": "And like, how exactly did they use the net?"
+  },
+  {
+   "start": 217.84,
+   "end": 223.7,
+   "text": "You know, you had the net men and then you had the spearmen and then the swordsmen and how did all this stuff work mechanically?"
+  },
+  {
+   "start": 223.7,
+   "end": 243.06,
+   "text": "And the best way to figure it out is to test, um, from, you know, I guess you could even do fight suit weapon style, but, um, but yeah, so, um, and, um, but a lot of the times fighting in history, uh, it's, it's not just as, it's not as cut and dry as gladiator stuff."
+  },
+  {
+   "start": 243.06,
+   "end": 248.04,
+   "text": "You know, it's like Mickey Mouse, um, watered down, not really all that realistic."
+  },
+  {
+   "start": 248.88,
+   "end": 253.22,
+   "text": "Um, the way real fighting is, is, is people have to march and then they fight, you know,"
+  },
+  {
+   "start": 253.22,
+   "end": 264.74,
+   "text": "Like the Gauls, they marched all the way down from, from France and then they stood outside the gate of, uh, of Rome and then they, and then they had to, and then they broke in and fought, you know?"
+  },
+  {
+   "start": 264.74,
+   "end": 278.58,
+   "text": "So, so you're not always, uh, at a hundred percent, you know, when you're fighting, it's kind of like a bicycle racing, like in the tour de France, those guys sprint and they sprint and then, and then it all comes down to the final 45 minute climb, but they're all tired."
+  },
+  {
+   "start": 278.58,
+   "end": 285.0,
+   "text": "So it's like, who has the most left, you know, that's why they have teammates who would help draft off of them, bring them water and stuff to help conserve their energy."
+  },
+  {
+   "start": 285.1,
+   "end": 286.52,
+   "text": "So it's kind of like that."
+  },
+  {
+   "start": 287.54,
+   "end": 300.58,
+   "text": "Um, and Livy, and I don't know what part of the book though, but Livy who, who wrote the history of Rome from like 80, from like 1400 BC to zero or like a hundred BC or whatever,"
+  },
+  {
+   "start": 300.58,
+   "end": 307.58,
+   "text": "Says that, uh, he mentioned, I don't remember what part, but he mentioned that the Gauls had come down and I think it was the part where they, where they sacked Rome in 396 BC,"
+  },
+  {
+   "start": 307.58,
+   "end": 315.76,
+   "text": "But he's like the Gauls come down and, uh, and like they're, and like you'd say they're normally really good fighters."
+  },
+  {
+   "start": 315.92,
+   "end": 316.48,
+   "text": "They're better fighters."
+  },
+  {
+   "start": 316.58,
+   "end": 324.4,
+   "text": "And Julia, since he's mentioned this a lot, cause they're really big and strong and muscular, but he said that, that they were really bad endurance athletes though."
+  },
+  {
+   "start": 324.4,
+   "end": 334.56,
+   "text": "Like when they, when they, uh, when they had run across the countryside all the way down from Gaul, by the time they got to Italy, uh, Roman women could kick their ass, you know?"
+  },
+  {
+   "start": 334.56,
+   "end": 344.28,
+   "text": "So that, that's the kind of fighting that a lot of the battles had, you know, like, uh, especially battles where, I don't know, where, uh, where a lot of armies lost me."
+  },
+  {
+   "start": 344.32,
+   "end": 347.8,
+   "text": "They could have won if they lost cause they were tired of me, they could have won if they were a little bit stronger."
+  },
+  {
+   "start": 347.8,
+   "end": 350.76,
+   "text": "So, um, yeah."
+  },
+  {
+   "start": 350.86,
+   "end": 358.42,
+   "text": "And so, and also the scouters scouting skirmishes, you know, those are, there's usually a skirmish before the battle and those are from the scouts and they're, they're tired by the time they get there."
+  },
+  {
+   "start": 358.5,
+   "end": 362.18,
+   "text": "And so, and so what we do is we recreate history."
+  },
+  {
+   "start": 362.34,
+   "end": 362.68,
+   "text": "Okay."
+  },
+  {
+   "start": 362.92,
+   "end": 372.82,
+   "text": "So what you do is you, uh, is we do a, we do a, we recreate a sacred journey from the outer territories, uh, into the enemy territory."
+  },
+  {
+   "start": 373.34,
+   "end": 377.12,
+   "text": "And then once we're deep in the enemy territory at the enemy's wall, that's where we fight."
+  },
+  {
+   "start": 377.8,
+   "end": 385.1,
+   "text": "And see, that's where I'm going to have the advantage because, um, I, uh, by, by that time, I'll be an endurance athlete."
+  },
+  {
+   "start": 386.32,
+   "end": 395.08,
+   "text": "Uh, like at the beginning of January 1st of 2018, that's when I'll start becoming like my ultra endurance mountain biker, like runner triathlete step person."
+  },
+  {
+   "start": 395.8,
+   "end": 401.74,
+   "text": "And then after two years of that, I'll be like at my maximum."
+  },
+  {
+   "start": 401.74,
+   "end": 410.1,
+   "text": "Um, and, and then, so then I'll, I'll train for a year after that part time, just to study the technique, fighting technique."
+  },
+  {
+   "start": 411.12,
+   "end": 414.32,
+   "text": "And, uh, and I guess upper body work."
+  },
+  {
+   "start": 414.32,
+   "end": 417.34,
+   "text": "And then, yeah, and then we do the battle."
+  },
+  {
+   "start": 417.5,
+   "end": 421.94,
+   "text": "And so what we do is we run a hundred miles or something like that."
+  },
+  {
+   "start": 422.0,
+   "end": 425.18,
+   "text": "And we run like a hundred miles across the mountaintop."
+  },
+  {
+   "start": 425.66,
+   "end": 426.02,
+   "text": "Yeah."
+  },
+  {
+   "start": 426.04,
+   "end": 432.38,
+   "text": "We run from Lake Dylan all the way across the, the, the mountaintop all the way into Boulder or something like that."
+  },
+  {
+   "start": 432.38,
+   "end": 436.24,
+   "text": "So we run for like 24 hours or whatever, and then we have the fight."
+  },
+  {
+   "start": 436.72,
+   "end": 440.7,
+   "text": "And so that's where I'll have the advantage because, and we do it with a fight suit."
+  },
+  {
+   "start": 441.12,
+   "end": 442.72,
+   "text": "That's the thing you do with a fight suit."
+  },
+  {
+   "start": 443.18,
+   "end": 452.4,
+   "text": "So, but by then that'll be enough years in the future that, um, they probably will have the fight suit and like created in some rudimentary way."
+  },
+  {
+   "start": 452.96,
+   "end": 456.88,
+   "text": "So that way nobody has to get hurt, but I could probably win because like you hit, you'll hit me."
+  },
+  {
+   "start": 456.88,
+   "end": 471.08,
+   "text": "And then you'll get this big, like, you know, you'll try to do one of your fancy judo moves, but you'll, you know, you'll need your lats and your lat will like seize up on you and cramp from all of the, you know, you've lost all of your glycogen in there."
+  },
+  {
+   "start": 471.24,
+   "end": 473.02,
+   "text": "So, but, you know, but I'll be used to it."
+  },
+  {
+   "start": 473.54,
+   "end": 476.3,
+   "text": "So I'll just be like, tie you up like a pretzel."
+  },
+  {
+   "start": 476.56,
+   "end": 481.36,
+   "text": "And then everybody will want to fucking become a, become a, uh, a fighter."
+  },
+  {
+   "start": 481.36,
+   "end": 489.02,
+   "text": "You can mainstream it and then you can get the, you can get the, uh, the fight suit down to a, uh, an affordable level."
+  },
+  {
+   "start": 489.92,
+   "end": 495.04,
+   "text": "Um, down to like, you know, like, I mean, bicycles are like $6,000."
+  },
+  {
+   "start": 495.34,
+   "end": 497.38,
+   "text": "There's no way somebody can invent, can afford a bike."
+  },
+  {
+   "start": 497.48,
+   "end": 503.08,
+   "text": "The only people who could afford a bike would be the army, you know, ride their bicycles in to kill towel heads in the Middle East."
+  },
+  {
+   "start": 503.46,
+   "end": 506.16,
+   "text": "But normal people can't afford a $6,000 bike."
+  },
+  {
+   "start": 506.16,
+   "end": 516.48,
+   "text": "So, um, but, but if, once you make bicycling mainstream, you know, they're just plastic, you could like have the factory build them and everybody could have a, could afford a $6,000 bike."
+  },
+  {
+   "start": 516.56,
+   "end": 517.64,
+   "text": "Well, why not with a fight suit?"
+  },
+  {
+   "start": 518.32,
+   "end": 519.42,
+   "text": "It's just a shell."
+  },
+  {
+   "start": 519.52,
+   "end": 521.56,
+   "text": "It's just a plastic shell, you know?"
+  },
+  {
+   "start": 522.14,
+   "end": 526.46,
+   "text": "And if you mass produce them, you can, and everybody could have one in their, in their, in their closet."
+  },
+  {
+   "start": 527.14,
+   "end": 530.7,
+   "text": "You know, it could be like something that people do at parties, you know?"
+  },
+  {
+   "start": 531.52,
+   "end": 533.78,
+   "text": "Some drunk guy could be like, oh, fuck anybody up."
+  },
+  {
+   "start": 533.78,
+   "end": 554.62,
+   "text": "Anyway, I, I talked about this in my, uh, in my video, but, uh, but yeah, I mean, as somebody who's flamboyant like that, I don't know, maybe there's a chance that that flamboyance, there's a part of their, their brain and that flamboyance part that actually, or I'm sorry, I don't want to be like a dick, that has like the seed of something else."
+  },
+  {
+   "start": 554.62,
+   "end": 559.1,
+   "text": "Ooh, then let's, let's cause the revolution and, uh, and then flamboyance."
+  },
+  {
+   "start": 559.18,
+   "end": 571.54,
+   "text": "And, you know, the problem is though, with fighters is I think one reason that they don't fight again for the rest of the year is because like they hate losing, you know?"
+  },
+  {
+   "start": 571.54,
+   "end": 572.86,
+   "text": "And so that's the problem."
+  },
+  {
+   "start": 572.96,
+   "end": 576.38,
+   "text": "If you don't, if you're not fighting all the time, then you, you become scared of losing."
+  },
+  {
+   "start": 576.54,
+   "end": 580.6,
+   "text": "But if you're fighting like five fights a day, why would you be scared of losing all you're doing?"
+  },
+  {
+   "start": 580.74,
+   "end": 581.42,
+   "text": "You're just a fighter."
+  },
+  {
+   "start": 581.52,
+   "end": 584.86,
+   "text": "It doesn't matter if you want to lose, especially if you have a fight sitting, you're not even getting hurt in the first place."
+  },
+  {
+   "start": 585.94,
+   "end": 591.38,
+   "text": "So, um, so yeah, it might be something that Conor McGregor might, might take up."
+  },
+  {
+   "start": 591.46,
+   "end": 596.6,
+   "text": "The problem is he'd have to be active by the time I get around to doing it, which would be like five or 10 years more."
+  },
+  {
+   "start": 596.6,
+   "end": 607.06,
+   "text": "And, you know, a lot of times people kind of like they, they get out of shape and then, so I might have to go after the next generation, but tell somebody, somebody gave me the request."
+  },
+  {
+   "start": 607.06,
+   "end": 616.86,
+   "text": "And so like, what, what I, as the godfather of the MMA say to Conor McGregor and all of his flamboyancy, that's what I would say."
+  },
+  {
+   "start": 616.86,
+   "end": 618.98,
+   "text": "So cool."
+  },
+  {
+   "start": 619.06,
+   "end": 620.12,
+   "text": "Interesting request."
+  },
+  {
+   "start": 620.24,
+   "end": 620.52,
+   "text": "Okay."
+  },
+  {
+   "start": 620.62,
+   "end": 621.32,
+   "text": "Peace out."
+  }
+ ]
+}

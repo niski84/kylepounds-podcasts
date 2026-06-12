@@ -1,0 +1,179 @@
+{
+ "youtube_id": "8gv8WTxfxdk",
+ "title": "Living in Boulder Vlog 11 - 9 - 2016",
+ "url": "https://youtu.be/8gv8WTxfxdk",
+ "published_at": "2016-11-11",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a belated daily vlog from Boulder, recapping a day that included driving to work in unseasonably hot November weather, visiting his mom who watched three of his YouTube videos with him, and a lighthearted attempt to hint at borrowing money from her. He also mentions feeling slightly ill and plans to get a flu shot.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "family",
+   "YouTube channel",
+   "weather",
+   "health",
+   "money"
+  ],
+  "stances": [
+   {
+    "topic": "asking mom for money",
+    "position": "playfully confident the subtle hinting strategy will work"
+   },
+   {
+    "topic": "November heat",
+    "position": "finds it absurd and calls himself an idiot for not dressing for it"
+   },
+   {
+    "topic": "mom watching his YouTube videos",
+    "position": "surprised and amused; sees it as progress"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Donald Trump (video topic)",
+   "Bayward (interviewer)",
+   "Del Monte corn (video topic)",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.02,
+   "end": 4.86,
+   "text": "Dark and I'm doing the video vlog from yesterday oh my god I should have done it but I forgot I"
+  },
+  {
+   "start": 4.86,
+   "end": 10.26,
+   "text": "Forgot to do it this morning before going to work and then I forgot after I come back from work and"
+  },
+  {
+   "start": 10.26,
+   "end": 16.22,
+   "text": "Then I left so now I'm remembering now but I guess to remember to do it in the morning man"
+  },
+  {
+   "start": 16.22,
+   "end": 21.94,
+   "text": "But at least I'm doing it every day so yeah so this morning I go to work and that was like the"
+  },
+  {
+   "start": 21.94,
+   "end": 26.18,
+   "text": "Next town over so I drove I felt stupid because it was like 100 million degrees today and it's"
+  },
+  {
+   "start": 26.18,
+   "end": 36.18,
+   "text": "November crazy so I'm an idiot I'm an idiot ah so um then I came home and oh yeah my mom"
+  },
+  {
+   "start": 36.18,
+   "end": 42.62,
+   "text": "Calls me and she goes hey I have an idea I'll buy a pizza and I'll pick you up and we'll go to my"
+  },
+  {
+   "start": 42.62,
+   "end": 46.6,
+   "text": "House and we'll watch your youtube your last three youtube videos which is weird as hell because she's"
+  },
+  {
+   "start": 46.6,
+   "end": 51.94,
+   "text": "Never said that I don't think she's ever even watching him in the two videos um so that's what"
+  },
+  {
+   "start": 51.94,
+   "end": 55.54,
+   "text": "We did we went to her house and I I should we watched my donald trump video together but we"
+  },
+  {
+   "start": 55.54,
+   "end": 62.34,
+   "text": "Both kind of slept through it it was like nap time but um and then we watched uh baywards video"
+  },
+  {
+   "start": 62.34,
+   "end": 66.86,
+   "text": "They did an interview with me which she liked that was funny the del monte corn thing was funny"
+  },
+  {
+   "start": 66.86,
+   "end": 77.16,
+   "text": "And then um my last vlog so now my mom knows about my youtube channel um and she didn't say anything"
+  },
+  {
+   "start": 77.16,
+   "end": 80.46,
+   "text": "When I mentioned that I thought I could get another thousand bucks out of her"
+  },
+  {
+   "start": 80.46,
+   "end": 88.56,
+   "text": "So that's pretty cool I was like she didn't say anything so uh I guess that means I'm the jedi"
+  },
+  {
+   "start": 88.56,
+   "end": 94.2,
+   "text": "Mind trick's gonna work man that's how it works man that's how it works you just keep mentioning it"
+  },
+  {
+   "start": 94.2,
+   "end": 105.28,
+   "text": "And then when it comes time boom they can't say no um um yeah so I guess now I haven't really done"
+  },
+  {
+   "start": 105.28,
+   "end": 111.82,
+   "text": "Any work on my website actually I was doing a little bit and then she called it's so funny like"
+  },
+  {
+   "start": 111.82,
+   "end": 115.1,
+   "text": "I'm working on my website and then my mom calls she's like she'll be here in a couple I'll be here"
+  },
+  {
+   "start": 115.1,
+   "end": 119.76,
+   "text": "In a couple minutes and I'm like okay and then I'm working and then like 30 seconds later she calls"
+  },
+  {
+   "start": 119.76,
+   "end": 126.06,
+   "text": "She's like I'm here and I'm like oh my god I thought she meant a couple minutes anyway um"
+  },
+  {
+   "start": 126.06,
+   "end": 135.48,
+   "text": "Um but uh yeah so I'm gonna do that now I'm just gonna work now I'm pretty good"
+  },
+  {
+   "start": 135.48,
+   "end": 142.18,
+   "text": "I felt like I was coming down with something last night but I feel okay today so I thought I was"
+  },
+  {
+   "start": 142.18,
+   "end": 147.2,
+   "text": "Gonna get a fever last night I felt like shit I was freezing cold so I'm gonna go into the my flu"
+  },
+  {
+   "start": 147.2,
+   "end": 152.92,
+   "text": "Shot tomorrow if I remember I need a meter number so anyways I've talked for long enough 232"
+  },
+  {
+   "start": 152.92,
+   "end": 159.84,
+   "text": "All right peace out oh I want to do singing one soon I'll do singing videos"
+  },
+  {
+   "start": 159.84,
+   "end": 162.38,
+   "text": "Good singing good music okay"
+  }
+ ]
+}

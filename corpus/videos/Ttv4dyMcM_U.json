@@ -1,0 +1,77 @@
+{
+ "youtube_id": "Ttv4dyMcM_U",
+ "title": "Living in Boulder vlog 3-1-2016",
+ "url": "https://youtu.be/Ttv4dyMcM_U",
+ "published_at": "2016-03-03",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a brief late-night vlog on his cell phone (his Mac is in the shop) recapping a low-key day at home. He mentions uploading a long video all day, watching Straight Outta Compton, and thinking through a creative worldbuilding project he calls 'fantasy land' that involves inventing tribal cultures and rules. He notes he ran out of cannabis wax/shatter and plans to restock tomorrow.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "worldbuilding/creative project",
+   "cannabis",
+   "tech issues",
+   "movie watching"
+  ],
+  "stances": [
+   {
+    "topic": "fantasy land project",
+    "position": "wants to develop it but needs to sit down and work out the cultural rules and tribal traditions before making more content about it"
+   },
+   {
+    "topic": "Straight Outta Compton",
+    "position": "enjoyed it — 'that was good'"
+   }
+  ],
+  "entities": [
+   "Straight Outta Compton",
+   "Mac (laptop)",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 21.47,
+   "text": "Hello, I just remembered that I didn't do my, um, V-LOG for the day because all day long it was uploading and figured I wouldn't record another one if it did upload before because it took like a whole day to upload my other one because it was like a half hour long, so, yeah, here we are doing my one for today."
+  },
+  {
+   "start": 21.47,
+   "end": 40.6,
+   "text": "So, um, I got up and, uh, I was just kind of fiddling around with my site all day, just different, different pages, you know, different things, figuring stuff out, math and stuff, and I ran it straight out of Compton, though, that was, that was good."
+  },
+  {
+   "start": 40.6,
+   "end": 62.66,
+   "text": "Um, and now I'm trying to figure out, I want to sit down, lay down and just figure out what I want to do about, um, about Fantasylandia because, um, you know, if I'm switching up my priorities and I need to do the biking now, that means I need to create Fantasylandia more."
+  },
+  {
+   "start": 62.66,
+   "end": 90.34,
+   "text": "But I only had, I only, all I knew is that I have this place called Fantasylandia that I, that I want to make, but I didn't, that's all I knew, I didn't know anything about the culture of that place, you know, all of the different tribes and the tribal traditions and all the rules, you know, all the rules of the land, because all the rules are different, so I have to sit down and just think about that, and I guess I'll make, um, another video talking about it after I figure it out."
+  },
+  {
+   "start": 92.66,
+   "end": 122.19,
+   "text": "Um, it's like 1120 at night, I'm filming with my cell phone because my Mac is in the shop, and I'm just doing lots of different things with my other computer, um, you know, just getting started on that, um, I guess I'll show later, screen captures, but when I, yeah, um, so, tomorrow I'm going to go into,"
+  },
+  {
+   "start": 122.19,
+   "end": 138.37,
+   "text": "Uh, get my, uh, diagnosis, so that'll be good, my mom, but right now, I'm just going to lie down and figure out Sanctimonium, and then tomorrow, or Fantasylandia, and then tomorrow,"
+  },
+  {
+   "start": 138.37,
+   "end": 158.37,
+   "text": "I'll, uh, I'll, I'll, I'll, I'll, I'll let you guys know how, how it's going, alright, so that's about all I have to say about today, I ran out of, uh, hashy, um, wax and, uh, shatter today, so I'm going to get, what, weed tomorrow, so that'll be cool, alright, peace out."
+  },
+  {
+   "start": 158.37,
+   "end": 159.37,
+   "text": "Peace out."
+  }
+ ]
+}

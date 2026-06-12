@@ -1,0 +1,328 @@
+{
+ "youtube_id": "7xNY5DLbDXM",
+ "title": "Training with Kyle 5/5/19 Stretched all day",
+ "url": "https://youtu.be/7xNY5DLbDXM",
+ "published_at": "2019-05-06",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle recounts spending an entire day doing his stretching routine for the first time in about 10 years, cycling through hamstring, split, calf, and upper body stretches from 11am to 8pm while listening to an audiobook. He mentions dealing with asthma and insomnia the night before, and plans to swim and bike ride the next day.",
+  "speaker": "kyle",
+  "topics": [
+   "stretching routine",
+   "audiobooks",
+   "training log",
+   "asthma",
+   "sleep issues",
+   "cycling/biking plans"
+  ],
+  "stances": [
+   {
+    "topic": "all-day training and audiobooks",
+    "position": "estimates about 500 pages per day is the rule of thumb when combining training with audiobook listening"
+   },
+   {
+    "topic": "stretching",
+    "position": "values it highly but had neglected it; happy to have done a full day of it"
+   }
+  ],
+  "entities": [
+   "Popular History of Ireland",
+   "Strava",
+   "Kindle"
+  ],
+  "date": "2019-05-05",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.08,
+   "end": 6.85,
+   "text": "Hello, this is Training in Bold V-Log with Kyle Pounds."
+  },
+  {
+   "start": 7.77,
+   "end": 14.59,
+   "text": "So, today I did a new, a special day of stretching."
+  },
+  {
+   "start": 15.01,
+   "end": 16.47,
+   "text": "My very first day of stretching."
+  },
+  {
+   "start": 17.37,
+   "end": 23.01,
+   "text": "I was originally going to maybe do some, like, some sport exercising."
+  },
+  {
+   "start": 23.01,
+   "end": 32.45,
+   "text": "Um, but I, uh, I was really wasted yesterday and, um, my legs were barely moving and, uh,"
+  },
+  {
+   "start": 32.45,
+   "end": 35.23,
+   "text": "I wanted to just stretch all day long."
+  },
+  {
+   "start": 35.71,
+   "end": 36.73,
+   "text": "So, that's what I did."
+  },
+  {
+   "start": 36.79,
+   "end": 40.93,
+   "text": "I got up at, like, 10.30 because I had, uh, I had insomnia."
+  },
+  {
+   "start": 41.29,
+   "end": 42.55,
+   "text": "I ended up from asthma last night."
+  },
+  {
+   "start": 43.03,
+   "end": 48.41,
+   "text": "I had to get on, uh, health insurance again so that I can get some, get some, uh, asthma"
+  },
+  {
+   "start": 48.41,
+   "end": 48.95,
+   "text": "Medication."
+  },
+  {
+   "start": 48.95,
+   "end": 59.81,
+   "text": "And, um, I, uh, so I got up and I listened to, uh, Popular History of, uh, Ireland until,"
+  },
+  {
+   "start": 59.81,
+   "end": 65.21,
+   "text": "Um, let's see, the end of book nine, I think."
+  },
+  {
+   "start": 65.27,
+   "end": 66.77,
+   "text": "So, I have to do 10, 11, and 12 tomorrow."
+  },
+  {
+   "start": 66.91,
+   "end": 74.71,
+   "text": "So, I think the general rule of thumb for, uh, training all day long and listening to audiobooks"
+  },
+  {
+   "start": 74.71,
+   "end": 76.27,
+   "text": "Is about 500 pages a day."
+  },
+  {
+   "start": 76.27,
+   "end": 83.95,
+   "text": "Um, and, um, if, if somebody reads the book, if you have the computer read it to you, then"
+  },
+  {
+   "start": 83.95,
+   "end": 86.53,
+   "text": "It's, uh, you, I think you can do more."
+  },
+  {
+   "start": 86.63,
+   "end": 87.23,
+   "text": "It's faster."
+  },
+  {
+   "start": 87.57,
+   "end": 94.47,
+   "text": "I like to do a book, like, when I stretch, when I, when I go do something, um, where,"
+  },
+  {
+   "start": 94.59,
+   "end": 96.19,
+   "text": "Where I actually read it from my phone."
+  },
+  {
+   "start": 96.19,
+   "end": 101.51,
+   "text": "Um, but, um, but yeah, I can do actually a sport, like running or swimming, having my,"
+  },
+  {
+   "start": 101.59,
+   "end": 102.81,
+   "text": "One of my Kindles read it to me."
+  },
+  {
+   "start": 103.09,
+   "end": 106.65,
+   "text": "Um, so, uh, just to see how many pages I can do with that."
+  },
+  {
+   "start": 106.75,
+   "end": 107.89,
+   "text": "So, yeah, that's what I, all I did."
+  },
+  {
+   "start": 108.17,
+   "end": 110.11,
+   "text": "There's some simple stretches I do."
+  },
+  {
+   "start": 110.47,
+   "end": 115.27,
+   "text": "Um, I do hamstring left, hamstring right, you know, double hamstring."
+  },
+  {
+   "start": 115.41,
+   "end": 117.07,
+   "text": "I do the, what is it, the splits?"
+  },
+  {
+   "start": 117.07,
+   "end": 123.67,
+   "text": "Um, like that, and put the legs out and, and, and bend down and the calves individually."
+  },
+  {
+   "start": 124.13,
+   "end": 126.33,
+   "text": "Um, my two different kinds of buttock ones."
+  },
+  {
+   "start": 126.43,
+   "end": 134.67,
+   "text": "I, I have a, I, uh, I have a, um, demo video that I did like 10 years ago and I'd have the"
+  },
+  {
+   "start": 134.67,
+   "end": 135.97,
+   "text": "Same exact routine now."
+  },
+  {
+   "start": 136.37,
+   "end": 140.61,
+   "text": "It's just isolating muscles and squeezing all the juices out of them."
+  },
+  {
+   "start": 140.71,
+   "end": 145.45,
+   "text": "And then I have two of them for my, um, for my upper body too, where I just hang on something."
+  },
+  {
+   "start": 145.45,
+   "end": 149.73,
+   "text": "So, um, yeah, so that's all I did all day."
+  },
+  {
+   "start": 149.87,
+   "end": 155.35,
+   "text": "And from like 10, from like 11 until eight, uh, just, just cycling over and over."
+  },
+  {
+   "start": 155.47,
+   "end": 157.21,
+   "text": "So, yeah, my, my legs are super sore."
+  },
+  {
+   "start": 157.29,
+   "end": 160.71,
+   "text": "It's basically the same thing as, as lifting weights all day long."
+  },
+  {
+   "start": 161.03,
+   "end": 167.53,
+   "text": "Um, so yeah, I was super, it was like 10 years since the last time I went stretching."
+  },
+  {
+   "start": 167.77,
+   "end": 174.19,
+   "text": "And, um, so I wanted to, you know, see how limber I could get in one day, just kind of get"
+  },
+  {
+   "start": 174.19,
+   "end": 185.19,
+   "text": "To, uh, get my legs to a reasonable, um, limberity because I, um, yeah, my legs were"
+  },
+  {
+   "start": 185.19,
+   "end": 187.85,
+   "text": "A wreck, um, the last couple of days."
+  },
+  {
+   "start": 187.85,
+   "end": 192.67,
+   "text": "And, um, I went to get into the habit of stretching all the time, but I couldn't, you"
+  },
+  {
+   "start": 192.67,
+   "end": 194.19,
+   "text": "Know, in the last couple of days cause I was too tired."
+  },
+  {
+   "start": 194.19,
+   "end": 200.59,
+   "text": "So, so yeah, I'm happy that I stretched, uh, and I feel, I feel tired."
+  },
+  {
+   "start": 200.59,
+   "end": 202.05,
+   "text": "Like I've been exercising all day long."
+  },
+  {
+   "start": 202.19,
+   "end": 203.25,
+   "text": "It's midnight right now."
+  },
+  {
+   "start": 204.21,
+   "end": 206.87,
+   "text": "So, um, so how long have I been up?"
+  },
+  {
+   "start": 207.69,
+   "end": 209.13,
+   "text": "About 13 and a half hours."
+  },
+  {
+   "start": 209.29,
+   "end": 214.11,
+   "text": "So, um, yeah, I'm gonna do definitely just some exercise tomorrow."
+  },
+  {
+   "start": 214.23,
+   "end": 214.55,
+   "text": "I'll be fine."
+  },
+  {
+   "start": 214.57,
+   "end": 218.41,
+   "text": "I think I'll go on a ride cause my bike computer has the Strava segments on it."
+  },
+  {
+   "start": 218.41,
+   "end": 219.41,
+   "text": "I want to see how that works."
+  },
+  {
+   "start": 220.31,
+   "end": 222.57,
+   "text": "Um, but I think I'll start out by swimming."
+  },
+  {
+   "start": 223.63,
+   "end": 226.93,
+   "text": "So, uh, and I, yeah, I'd like to film that."
+  },
+  {
+   "start": 227.07,
+   "end": 230.09,
+   "text": "So, um, that's what I'm up to."
+  },
+  {
+   "start": 230.89,
+   "end": 231.51,
+   "text": "Peace out."
+  },
+  {
+   "start": 231.59,
+   "end": 232.05,
+   "text": "Talk to you tomorrow."
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "youtube_id": "5Msc6PwdhR4",
+ "title": "Living in Boulder Vlog 12 - 2 - 2016",
+ "url": "https://youtu.be/5Msc6PwdhR4",
+ "published_at": "2016-12-03",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle films a short vlog on February 2, 2016, sharing that he stayed up all night working on a Rome project, got stoned, and is heading to his mom's house. He briefly mentions ideas for upcoming YouTube videos, including one about making money, and muses about how studying ancient Rome through 3D Google Earth can unlock past-life memories.",
+  "speaker": "kyle",
+  "topics": [
+   "daily life",
+   "cannabis",
+   "Rome research",
+   "past-life memories",
+   "upcoming video ideas",
+   "language and cognition",
+   "errands"
+  ],
+  "stances": [
+   {
+    "topic": "driving/biking while high",
+    "position": "Sees it as unavoidable and normal; dismissive of people who think otherwise"
+   },
+   {
+    "topic": "Rome research",
+    "position": "Finds it the most fascinating thing he has ever worked on"
+   },
+   {
+    "topic": "past-life memories",
+    "position": "Believes immersing yourself in how Rome looked (via 3D Google Earth, music, smells) can unlock past-life memories"
+   },
+   {
+    "topic": "language shaping thought",
+    "position": "Drawn to the idea (from the film 'Arrival') that learning a language unlocks new conceptual frameworks, which he connects to his Rome work"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Rome",
+   "Arrival (film)",
+   "Google Earth",
+   "YouTube",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.98,
+   "end": 3.74,
+   "text": "Hello, living in Boulder, V-log for the second."
+  },
+  {
+   "start": 4.64,
+   "end": 7.02,
+   "text": "I guess this means I have to make, pay my rent."
+  },
+  {
+   "start": 7.88,
+   "end": 12.2,
+   "text": "So I was working until about 5, no no no, about 6.20 this morning."
+  },
+  {
+   "start": 12.3,
+   "end": 16.52,
+   "text": "It was still dark, but, and I still had energy, but I figured I'd go to bed before it gets"
+  },
+  {
+   "start": 16.52,
+   "end": 20.84,
+   "text": "Light, and, uh, so yes, I got to bed and it was starting to get light as I went to sleep,"
+  },
+  {
+   "start": 21.36,
+   "end": 23.48,
+   "text": "Um, but it's 11.17 now."
+  },
+  {
+   "start": 25.06,
+   "end": 25.46,
+   "text": "Hmm."
+  },
+  {
+   "start": 25.46,
+   "end": 32.24,
+   "text": "Hmm, um, just got really, pretty stoned, and, uh, now I'm gonna go to my mom's house."
+  },
+  {
+   "start": 33.44,
+   "end": 38.6,
+   "text": "Um, hey, you notice how you have to be stoned when you drive a car, you fucking idiots?"
+  },
+  {
+   "start": 39.32,
+   "end": 41.84,
+   "text": "How are you gonna avoid driving a car high, or riding a bike high?"
+  },
+  {
+   "start": 44.14,
+   "end": 45.14,
+   "text": "Fucking retards."
+  },
+  {
+   "start": 46.58,
+   "end": 49.68,
+   "text": "Um, we're gonna have to talk about this one day."
+  },
+  {
+   "start": 50.9,
+   "end": 51.64,
+   "text": "In person."
+  },
+  {
+   "start": 51.64,
+   "end": 57.35,
+   "text": "Um, oh, I got some really good ideas, dude, for some YouTube videos."
+  },
+  {
+   "start": 57.43,
+   "end": 59.79,
+   "text": "I'm gonna do it later on today, um, hopefully."
+  },
+  {
+   "start": 60.35,
+   "end": 62.49,
+   "text": "I was working all day last night."
+  },
+  {
+   "start": 64.33,
+   "end": 67.87,
+   "text": "All day yesterday."
+  },
+  {
+   "start": 69.27,
+   "end": 73.37,
+   "text": "Um, yeah, just, same old thing on Rome."
+  },
+  {
+   "start": 73.85,
+   "end": 75.43,
+   "text": "It's, like, still fascinating."
+  },
+  {
+   "start": 75.63,
+   "end": 77.85,
+   "text": "I'm still like, oh, oh, oh, oh."
+  },
+  {
+   "start": 78.39,
+   "end": 80.63,
+   "text": "I think this is the most interesting thing I've ever done."
+  },
+  {
+   "start": 81.81,
+   "end": 85.05,
+   "text": "Um, I mentioned it before, but I think you get past life memories."
+  },
+  {
+   "start": 85.25,
+   "end": 90.35,
+   "text": "It's like the code it's the code I saw this movie the other day last week"
+  },
+  {
+   "start": 90.35,
+   "end": 98.03,
+   "text": "Called what's it called a rival and one of the ideas of the book of the movie"
+  },
+  {
+   "start": 98.03,
+   "end": 101.69,
+   "text": "Was that if you learn their language you can like learn their concepts in the"
+  },
+  {
+   "start": 101.69,
+   "end": 104.65,
+   "text": "Way they think and so then you can learn understand the concept of time travel"
+  },
+  {
+   "start": 104.65,
+   "end": 109.35,
+   "text": "And stuff and it's I think if that kind of feel like the same way with Rome if"
+  },
+  {
+   "start": 109.35,
+   "end": 114.27,
+   "text": "You can walk around Rome the way that it looked then and check it out then it'll"
+  },
+  {
+   "start": 114.27,
+   "end": 121.41,
+   "text": "Like unlock a forgotten world and you'll have all kinds of past life memories you"
+  },
+  {
+   "start": 121.41,
+   "end": 124.95,
+   "text": "Know like if you want to have past life memories I think one good way is music"
+  },
+  {
+   "start": 124.95,
+   "end": 135.22,
+   "text": "Smells maybe stories but also you know pictures and Google Earth 3d Google Earth"
+  },
+  {
+   "start": 135.22,
+   "end": 140.8,
+   "text": "So anyway um but yeah I'll do those other videos I wanted to do a video about"
+  },
+  {
+   "start": 140.8,
+   "end": 146.92,
+   "text": "Proper way to make money for my idea for jet in general for everybody I'll talk"
+  },
+  {
+   "start": 146.92,
+   "end": 155.86,
+   "text": "About that and then oh I can't ready to write them down oh right now I'm gonna go"
+  },
+  {
+   "start": 155.86,
+   "end": 161.8,
+   "text": "To get firewood pick up my TV get rid of this lots of stuff hopefully my battery"
+  },
+  {
+   "start": 161.8,
+   "end": 166.8,
+   "text": "Charge so I gots to go right now all right peace out"
+  }
+ ]
+}

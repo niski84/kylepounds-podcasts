@@ -1,0 +1,109 @@
+{
+ "youtube_id": "eSosTreUcSQ",
+ "title": "Living in Boulder Vlog 2 - 25 - 2016",
+ "url": "https://youtu.be/eSosTreUcSQ",
+ "published_at": "2016-02-25",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from his Boulder apartment on February 25, 2016, recounting a low-key morning: he's recovering from illness on antibiotics, has a dermatologist follow-up pending, accidentally cooked rice instead of oatmeal while high the day before and is now working through the rice, and plans to spend the day outlining his five-year plan for success and relaunching his daily YouTube videos.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "Boulder living",
+   "health recovery",
+   "antibiotics and stitches",
+   "cannabis use",
+   "diet and breakfast",
+   "five-year plan",
+   "YouTube channel relaunch",
+   "website/webpage",
+   "audiobooks"
+  ],
+  "stances": [
+   {
+    "topic": "cannabis use",
+    "position": "uses it routinely and casually, notes it caused a cooking mistake but is unbothered"
+   },
+   {
+    "topic": "diet",
+    "position": "pragmatic — eats whatever is available (rice and canned vegetables with soy sauce) rather than preferred oatmeal"
+   },
+   {
+    "topic": "daily YouTube videos",
+    "position": "wants to restart them and use a five-year plan video as an introductory anchor"
+   },
+   {
+    "topic": "audiobooks",
+    "position": "got burnt out on the History of America series but intends to return to listening"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "dermatologist"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.1,
+   "end": 22.42,
+   "text": "Cool, alright, so, living in Boulder, V-Log, for the 15th, I'm gonna minimize this, I don't distract myself, 25th of, um, 25th of, uh, February, 2016, um, I am, um, my table's falling down on me."
+  },
+  {
+   "start": 22.42,
+   "end": 49.76,
+   "text": "Um, I'm, um, today I got up, it's like 9.56 today, I can't remember when I first got up and got out of bed, I felt sick yesterday, um, I woke up, I was dry heaving in the morning, um, just from some smells in the closet, in the kitchen, still feeling the effects of the antibiotics, I think, um, to 25th, I get my stitches taken out in four days on the 29th,"
+  },
+  {
+   "start": 49.76,
+   "end": 79.3,
+   "text": "Um, and then I, I got, ooh, I think I'm gonna call, make sure that they're gonna call me back about this dermatologist today, after this, but, um, yeah, so I just had my breakfast of, uh, rice and, uh, canned vegetables, because I normally have, uh, oatmeal and fruit and, um, protein powder, but I didn't really feel like waiting, I was kinda hungry, so I just had, uh, plus,"
+  },
+  {
+   "start": 79.3,
+   "end": 105.32,
+   "text": "Oh, no, no, no, I couldn't, because, oh my god, yeah, yesterday I was really high, and I poured rice in my, uh, in my pan instead of oatmeal, so I have to finish the rice that I have before I can cook, put the rice that's in the oatmeal pan into the rice cooker, and then free that up so that I can eat my oatmeal again, so I guess I'll have to eat one more plate of rice, yeah?"
+  },
+  {
+   "start": 105.32,
+   "end": 108.62,
+   "text": "I'm going to work out and swim, do you want to go any more?"
+  },
+  {
+   "start": 108.86,
+   "end": 128.63,
+   "text": "Oh, what fun, no, no thanks, not this time, thanks for inviting me, though, um, so, um, I lost my train of thought, I got really high this morning, I got up, I got really high, because, oh yeah, the food, yeah, so, um,"
+  },
+  {
+   "start": 128.63,
+   "end": 144.55,
+   "text": "Um, I'm shatter, so I'm really high on shatter right now, so, yeah, I had my, but, oh yeah, I don't mind, um, I don't mind, uh, rice and veggies, I like it, I put a little bit of, uh, soy sauce on there, so, yeah, so then while I was eating, I did, like,"
+  },
+  {
+   "start": 144.55,
+   "end": 173.07,
+   "text": "My job is just writing outlines to blocks, um, I'll do the little screen capture today, and, uh, yeah, we'll work on that, but I think today I'm going to, uh, work on my seven-month, my five-year plan for success, because there's some, I think there's some confusion, see, I'm doing my YouTube videos again, my daily YouTube videos, so I'm going to do kind of, like, an introduction or reintroduction as to what I'm all about and stuff, so we'll do the five-year plan of success for me, so I'll talk about that."
+  },
+  {
+   "start": 173.07,
+   "end": 202.9,
+   "text": "Um, but I have to make the webpage for it first, I think I'll just attach it to the front page of my website really quickly, maybe, maybe now, I don't know, but, um, um, so that's what I'm up to now, um, and, yeah, I need to get into listening to some audiobook again, I got kind of burnt out, because I got psyched out by that false alarm of doing it on your cell phone,"
+  },
+  {
+   "start": 202.9,
+   "end": 207.42,
+   "text": "But I was listening to the history of America, that's what I was doing, by beard."
+  },
+  {
+   "start": 208.72,
+   "end": 213.9,
+   "text": "All right, so, uh, I'll show, I'll show you where I'm at right now."
+  },
+  {
+   "start": 215.54,
+   "end": 222.58,
+   "text": "So here is where I am, I just did that for breakfast, and I'm going to be hacking away at this area today."
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "youtube_id": "QsG8zKfkR_c",
+ "title": "The US Park Service is on Notice - Fuck You!!!!!! You DUI me and you go down!!!",
+ "url": "https://youtu.be/QsG8zKfkR_c",
+ "published_at": "2016-04-03",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle, drunk and angry, rants about a DUI he received from US Park Service rangers, claiming he tested sober (below legal limit for cannabis at 70 nanograms). He demands his confiscated marijuana back and threatens to expose names if the situation isn't resolved.",
+  "speaker": "kyle",
+  "topics": [
+   "DUI arrest",
+   "cannabis law",
+   "US Park Service",
+   "personal grievance",
+   "legal threat"
+  ],
+  "stances": [
+   {
+    "topic": "DUI charge",
+    "position": "Believes he was wrongfully charged since he tested below the impairment threshold"
+   },
+   {
+    "topic": "cannabis criminalization",
+    "position": "Opposes it; views arresting someone for a joint as a waste of public money"
+   },
+   {
+    "topic": "US Park Service",
+    "position": "Angry and threatening accountability if his weed isn't returned"
+   }
+  ],
+  "entities": [
+   "US Park Service",
+   "Kyle Pounds",
+   "Theodore Roosevelt (referenced as federal Roosevelt)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.69,
+   "end": 4.15,
+   "text": "Hey, what's up? I just got my Macintosh back"
+  },
+  {
+   "start": 5.83,
+   "end": 10.29,
+   "text": "So I can make videos again. I'm a little bit drunk. You know what happens when people get drunk?"
+  },
+  {
+   "start": 10.29,
+   "end": 13.19,
+   "text": "They get a little bit emotional sometimes and I'm emotional, man"
+  },
+  {
+   "start": 13.75,
+   "end": 19.39,
+   "text": "There's a gonna there a fucking atonement is gonna have to be made a fucking atonement is gonna have to be made"
+  },
+  {
+   "start": 20.45,
+   "end": 26.53,
+   "text": "I'm fucking pissed off and I'm not gonna fucking stop. I'm fucking pissed off"
+  },
+  {
+   "start": 26.53,
+   "end": 33.85,
+   "text": "I do not fucking like getting disrespected and I'm not gonna fucking stand for it. I'm not gonna fucking let this happen"
+  },
+  {
+   "start": 34.21,
+   "end": 38.29,
+   "text": "I'm gonna drop some fucking names"
+  },
+  {
+   "start": 39.03,
+   "end": 41.03,
+   "text": "I'm gonna drop some fucking names"
+  },
+  {
+   "start": 41.55,
+   "end": 45.51,
+   "text": "I'm gonna make some fucking calls pretty soon"
+  },
+  {
+   "start": 46.05,
+   "end": 51.91,
+   "text": "I'm gonna drop some fucking names if some shit doesn't go out. I want my fucking weed back. I want my fucking weed back"
+  },
+  {
+   "start": 52.99,
+   "end": 54.99,
+   "text": "Okay, I was sober I"
+  },
+  {
+   "start": 56.13,
+   "end": 59.19,
+   "text": "Tested nine point fucking whatever the fuck"
+  },
+  {
+   "start": 60.81,
+   "end": 65.12,
+   "text": "When I got my DUI"
+  },
+  {
+   "start": 65.12,
+   "end": 69.9,
+   "text": "When I took my tests and I proved myself to be sober, I tested 70 fucking nanograms"
+  },
+  {
+   "start": 70.42,
+   "end": 74.38,
+   "text": "Okay, when Theodore Roosevelt made the fucking National Parks"
+  },
+  {
+   "start": 75.42,
+   "end": 80.16,
+   "text": "In 1910 or whatever the fuck oh three it wasn't to arrest"
+  },
+  {
+   "start": 81.08,
+   "end": 83.08,
+   "text": "Fucking Kyle Pounds"
+  },
+  {
+   "start": 83.42,
+   "end": 90.76,
+   "text": "Okay, what's the fucking spend millions of dollars on fucking people in fucking prison for smoking a joint for 25 years"
+  },
+  {
+   "start": 92.42,
+   "end": 97.42,
+   "text": "You're gonna have to fucking do something you're gonna have to give me my fucking weed back or shit's gonna fucking go down"
+  },
+  {
+   "start": 97.42,
+   "end": 100.72,
+   "text": "I'm pissed off and this is not gonna fucking change"
+  }
+ ]
+}

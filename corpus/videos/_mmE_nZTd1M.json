@@ -1,0 +1,644 @@
+{
+ "youtube_id": "_mmE_nZTd1M",
+ "title": "Living in Boulder vlog 7 -  2 - 2018: Just gunna work on my site from now on",
+ "url": "https://youtu.be/_mmE_nZTd1M",
+ "published_at": "2018-07-02",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a vlog update explaining he has abandoned his plan to load audiobooks onto his phone for outdoor exercise, instead deciding to focus entirely on fixing and organizing his website for the rest of the year. He details recent tech purchases (TV, Xbox, speakers, GoPro, new Mac) and explains his workflow challenges with slow computers and broken audiobook page links.",
+  "speaker": "kyle",
+  "topics": [
+   "website work",
+   "tech purchases",
+   "exercise plans",
+   "productivity",
+   "audiobooks",
+   "computer upgrades"
+  ],
+  "stances": [
+   {
+    "topic": "exercise",
+    "position": "Only exercised out of fear his knee was bad; since it feels fine, he sees no reason to stop website work"
+   },
+   {
+    "topic": "working full time on website",
+    "position": "Must work full time continuously or he loses context and efficiency, making only incremental progress otherwise"
+   },
+   {
+    "topic": "new computer",
+    "position": "Excited and hopeful the new turbo boost Mac will be fast enough to handle his heavy website editing workload"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Xbox",
+   "GoPro",
+   "Amazon",
+   "Adobe Creative Cloud",
+   "Dreamweaver",
+   "Premiere",
+   "Google Earth",
+   "Mac",
+   "iPhone"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.75,
+   "end": 4.75,
+   "text": "Hello living in Boulder, Fee Log, you know hold it up really close to my head"
+  },
+  {
+   "start": 7.35,
+   "end": 11.35,
+   "text": "So let me I wanted to do a V-log because it's been like a week since I did a V-log"
+  },
+  {
+   "start": 13.47,
+   "end": 20.07,
+   "text": "Last time I did a V-log I thought that the plan was to put a whole bunch of audio books on my cell phone"
+  },
+  {
+   "start": 20.57,
+   "end": 23.51,
+   "text": "And then playlists of music and then go writing"
+  },
+  {
+   "start": 24.39,
+   "end": 26.39,
+   "text": "But I don't think I'm gonna do that anymore"
+  },
+  {
+   "start": 27.39,
+   "end": 31.51,
+   "text": "I'm gonna I'm gonna not ride or God side or do anything"
+  },
+  {
+   "start": 32.03,
+   "end": 35.27,
+   "text": "I'm gonna do this work in my website for the rest of the year"
+  },
+  {
+   "start": 36.39,
+   "end": 41.91,
+   "text": "Because my knee because the only real reason I was gonna start exercise because my knee was hurting but"
+  },
+  {
+   "start": 42.83,
+   "end": 47.75,
+   "text": "Like I'm feeling my knee and it doesn't even feel sore at all. So I might be good to go"
+  },
+  {
+   "start": 49.03,
+   "end": 52.23,
+   "text": "Yeah, because what happened was I had to go and"
+  },
+  {
+   "start": 53.71,
+   "end": 55.71,
+   "text": "Still a boy"
+  },
+  {
+   "start": 56.95,
+   "end": 62.19,
+   "text": "Fill up my phone and so that was like a week ago and I've been still working on it because I was also"
+  },
+  {
+   "start": 62.63,
+   "end": 66.71,
+   "text": "setting up my own house with new stuff. I got a 70 into TV"
+  },
+  {
+   "start": 67.99,
+   "end": 69.99,
+   "text": "Xbox 10 and I"
+  },
+  {
+   "start": 70.55,
+   "end": 75.63,
+   "text": "I got a grant for his car racing game and then calling to you one or two which hasn't come in the milieu"
+  },
+  {
+   "start": 77.03,
+   "end": 80.75,
+   "text": "And what else did I get we have this around son and"
+  },
+  {
+   "start": 81.31,
+   "end": 82.67,
+   "text": "And"
+  },
+  {
+   "start": 82.67,
+   "end": 84.67,
+   "text": "500 watt five speaker and"
+  },
+  {
+   "start": 85.35,
+   "end": 90.21,
+   "text": "It's really cool because I can blast in my room and you can't really hear it the neighbors can't really hear it"
+  },
+  {
+   "start": 90.21,
+   "end": 94.83,
+   "text": "It all goes on this center and my cancels each other out everybody out or something"
+  },
+  {
+   "start": 95.67,
+   "end": 97.67,
+   "text": "so"
+  },
+  {
+   "start": 98.99,
+   "end": 102.98,
+   "text": "Then I got"
+  },
+  {
+   "start": 103.98,
+   "end": 110.14,
+   "text": "I got my new garment they gave me a new one for free the very best latest one but"
+  },
+  {
+   "start": 110.14,
+   "end": 112.14,
+   "text": "I"
+  },
+  {
+   "start": 112.14,
+   "end": 116.26,
+   "text": "Haven't had time to fix that up and I got a new GoPro and I had time for that either"
+  },
+  {
+   "start": 116.66,
+   "end": 118.66,
+   "text": "I can't"
+  },
+  {
+   "start": 118.66,
+   "end": 124.74,
+   "text": "Connect my team computer to my big TV and for some reason I haven't figured that out, but I just figured out this new"
+  },
+  {
+   "start": 126.34,
+   "end": 128.34,
+   "text": "printer that I bought"
+  },
+  {
+   "start": 132.34,
+   "end": 134.34,
+   "text": "But I"
+  },
+  {
+   "start": 134.34,
+   "end": 136.34,
+   "text": "need to"
+  },
+  {
+   "start": 136.9,
+   "end": 137.9,
+   "text": "Uh"
+  },
+  {
+   "start": 137.9,
+   "end": 141.14,
+   "text": "In order to put all that stuff on my cell phone"
+  },
+  {
+   "start": 141.14,
+   "end": 147.86,
+   "text": "I realized that I needed to fix the audio history books pages on my website and I realized that they were like"
+  },
+  {
+   "start": 148.34,
+   "end": 149.34,
+   "text": "Totally"
+  },
+  {
+   "start": 149.34,
+   "end": 153.94,
+   "text": "That's locked up. I didn't realize that I thought they were in a lot better shape than they were"
+  },
+  {
+   "start": 154.46,
+   "end": 158.56,
+   "text": "So it's gonna take forever to fix those and then to make"
+  },
+  {
+   "start": 158.9,
+   "end": 163.66,
+   "text": "Make it you know the same on my computer and the MP3000 on my website and"
+  },
+  {
+   "start": 164.1,
+   "end": 169.22,
+   "text": "Yeah, and then I'm curious to see how much I can actually fit"
+  },
+  {
+   "start": 170.34,
+   "end": 176.14,
+   "text": "But my phone because my computer has five of the devices and it can't hold all of them"
+  },
+  {
+   "start": 177.66,
+   "end": 181.58,
+   "text": "How many last time instead it only had 85"
+  },
+  {
+   "start": 182.38,
+   "end": 184.38,
+   "text": "But let's see what it says now"
+  },
+  {
+   "start": 185.62,
+   "end": 188.82,
+   "text": "I mean 89 yeah, it's also say 89.7 oh here we are"
+  },
+  {
+   "start": 189.7,
+   "end": 191.7,
+   "text": "151 gigabytes"
+  },
+  {
+   "start": 191.7,
+   "end": 193.7,
+   "text": "151.26 gigabytes"
+  },
+  {
+   "start": 194.42,
+   "end": 196.42,
+   "text": "So hopefully I can get all in my computer"
+  },
+  {
+   "start": 198.3,
+   "end": 202.42,
+   "text": "I don't have much more space on my Mac somehow the programs on my Mac"
+  },
+  {
+   "start": 202.86,
+   "end": 205.06,
+   "text": "I'm using all the gigabytes, so hopefully"
+  },
+  {
+   "start": 205.86,
+   "end": 208.58,
+   "text": "Yeah, I'll be able to fit this whole thing in my phone, but"
+  },
+  {
+   "start": 211.9,
+   "end": 214.22,
+   "text": "And I hope hopefully I can get it on my computer too"
+  },
+  {
+   "start": 214.98,
+   "end": 216.98,
+   "text": "but"
+  },
+  {
+   "start": 216.98,
+   "end": 218.98,
+   "text": "That's what I'm doing and"
+  },
+  {
+   "start": 219.54,
+   "end": 221.54,
+   "text": "That's gonna take forever. I also"
+  },
+  {
+   "start": 224.26,
+   "end": 231.82,
+   "text": "I also ordered another American Tosh the best one that I can did I found on Amazon because I call Amazon all in did was have to"
+  },
+  {
+   "start": 231.82,
+   "end": 234.82,
+   "text": "They gave me a $7,000 credit element"
+  },
+  {
+   "start": 235.5,
+   "end": 237.5,
+   "text": "so"
+  },
+  {
+   "start": 237.5,
+   "end": 242.64,
+   "text": "I'm just buying everything I need for I think I might need a wireless microphone"
+  },
+  {
+   "start": 243.86,
+   "end": 245.86,
+   "text": "self-ystick"
+  },
+  {
+   "start": 245.86,
+   "end": 247.86,
+   "text": "little lenses"
+  },
+  {
+   "start": 247.86,
+   "end": 249.86,
+   "text": "my iPhone"
+  },
+  {
+   "start": 250.26,
+   "end": 252.26,
+   "text": "Case for my Mac and does"
+  },
+  {
+   "start": 253.38,
+   "end": 254.58,
+   "text": "you know"
+  },
+  {
+   "start": 254.58,
+   "end": 257.38,
+   "text": "Because yeah, and it's about time too because"
+  },
+  {
+   "start": 258.5,
+   "end": 262.1,
+   "text": "And hopefully this new one's gonna be a lot faster. It's the turbo boost"
+  },
+  {
+   "start": 265.62,
+   "end": 268.94,
+   "text": "Yeah, I want to use both of my computers at the same time from now on"
+  },
+  {
+   "start": 269.5,
+   "end": 277.46,
+   "text": "Which of my new turbo boost computer as soon as that comes in I'm gonna start doing fixing all of the links on all of my audio books on my web page"
+  },
+  {
+   "start": 278.26,
+   "end": 282.02,
+   "text": "That my website that is like too much for this computer"
+  },
+  {
+   "start": 282.9,
+   "end": 290.1,
+   "text": "Because it just takes like a half hour to open these for computers and every time I try to you know pay something and change something"
+  },
+  {
+   "start": 290.1,
+   "end": 295.78,
+   "text": "You have to sit around to link your phones for five minutes. So hopefully with this new computer will be fast enough to handle it and"
+  },
+  {
+   "start": 297.18,
+   "end": 299.68,
+   "text": "And if it's you know not that fast maybe I can"
+  },
+  {
+   "start": 301.5,
+   "end": 304.18,
+   "text": "Was gonna say do both of them at the same time, but"
+  },
+  {
+   "start": 304.98,
+   "end": 311.02,
+   "text": "You can't run the same program on two computers at the same time it has to be different programs"
+  },
+  {
+   "start": 311.02,
+   "end": 315.38,
+   "text": "I heard with creative cloud that's like the soft for licensing they have"
+  },
+  {
+   "start": 317.98,
+   "end": 326.14,
+   "text": "So but I can do other things like I can do I can do dream we have around my other my new computer and then I could do videos"
+  },
+  {
+   "start": 326.94,
+   "end": 328.94,
+   "text": "Then I can then"
+  },
+  {
+   "start": 328.94,
+   "end": 331.24,
+   "text": "Success with this computer because before when I pass this a"
+  },
+  {
+   "start": 331.7,
+   "end": 333.7,
+   "text": "a Mike a"
+  },
+  {
+   "start": 333.7,
+   "end": 336.86,
+   "text": "Premier video this computer couldn't really do anything"
+  },
+  {
+   "start": 337.62,
+   "end": 341.36,
+   "text": "It would take three hours to process a 15 that video and"
+  },
+  {
+   "start": 343.02,
+   "end": 345.02,
+   "text": "I was too slow to do anything else"
+  },
+  {
+   "start": 345.9,
+   "end": 349.66,
+   "text": "This is the top of the line computer for Mike two or three years ago"
+  },
+  {
+   "start": 349.66,
+   "end": 356.34,
+   "text": "So I got it first I got one in 2015 but then after you're here at died and so they gave me another one"
+  },
+  {
+   "start": 356.34,
+   "end": 358.34,
+   "text": "So I think this is the one from two out of the 16"
+  },
+  {
+   "start": 358.94,
+   "end": 360.94,
+   "text": "But"
+  },
+  {
+   "start": 361.82,
+   "end": 368.66,
+   "text": "But yeah, I hope that new ones better so I'm looking forward to that so between working on the two computers"
+  },
+  {
+   "start": 370.3,
+   "end": 373.78,
+   "text": "You know or I could do something on Google Earth like a wake up here"
+  },
+  {
+   "start": 375.26,
+   "end": 379.56,
+   "text": "Who I guess I could do that anyway yeah when I have two computers to work and"
+  },
+  {
+   "start": 381.5,
+   "end": 387.88,
+   "text": "Then I focus yeah, I think I can do a lot of good good stuff"
+  },
+  {
+   "start": 388.94,
+   "end": 390.94,
+   "text": "This year on my website"
+  },
+  {
+   "start": 393.38,
+   "end": 398.74,
+   "text": "Yeah, the only reason that I was actually thought that I was gonna start exercising and stuff"
+  },
+  {
+   "start": 399.14,
+   "end": 406.42,
+   "text": "It was because I thought that I had to thought that I was like I was gonna be fucked if I did some"
+  },
+  {
+   "start": 406.94,
+   "end": 414.34,
+   "text": "That's the only reason I don't do it. You know I have to from my point of view it seems kind of crazy to just abandon"
+  },
+  {
+   "start": 415.42,
+   "end": 417.42,
+   "text": "My website and"
+  },
+  {
+   "start": 417.42,
+   "end": 423.62,
+   "text": "Or not abandon but reduce the amount of work even since kind of crazy because"
+  },
+  {
+   "start": 426.7,
+   "end": 428.7,
+   "text": "I work a lot more"
+  },
+  {
+   "start": 430.38,
+   "end": 432.38,
+   "text": "I work a lot more efficiently"
+  },
+  {
+   "start": 433.02,
+   "end": 440.54,
+   "text": "If I'm working all the time because I can remember certain little things I have to remember in order for to go for example"
+  },
+  {
+   "start": 440.54,
+   "end": 442.54,
+   "text": "um"
+  },
+  {
+   "start": 442.82,
+   "end": 448.2,
+   "text": "Yeah, for example last night, you know, it's been I went and I made new link"
+  },
+  {
+   "start": 448.94,
+   "end": 450.94,
+   "text": "Eric box"
+  },
+  {
+   "start": 450.94,
+   "end": 453.94,
+   "text": "Table for my audio books for audio books and"
+  },
+  {
+   "start": 454.94,
+   "end": 459.42,
+   "text": "I copied it off of my education and I paced it in mono of the pages which was like"
+  },
+  {
+   "start": 459.62,
+   "end": 464.58,
+   "text": "25 oh and it took a while because it takes a while for these to come up and then save them and"
+  },
+  {
+   "start": 464.9,
+   "end": 469.06,
+   "text": "Then didn't work because I forgot that it was in a different folder"
+  },
+  {
+   "start": 469.58,
+   "end": 472.98,
+   "text": "You know the links only work if it comes from something from the same folder"
+  },
+  {
+   "start": 473.3,
+   "end": 476.58,
+   "text": "It's just so it's just little things like that, you know, you have to remember"
+  },
+  {
+   "start": 477.06,
+   "end": 478.9,
+   "text": "Who else you have to do it over again?"
+  },
+  {
+   "start": 478.9,
+   "end": 482.9,
+   "text": "So that's why I need to work it's better to just work full time"
+  },
+  {
+   "start": 483.58,
+   "end": 488.38,
+   "text": "But I mean I need to work full time if I'm gonna make progress if I'm not working full time I'm just"
+  },
+  {
+   "start": 490.06,
+   "end": 497.14,
+   "text": "Inching a lot so that's what I'm gonna do. I just realized I don't have my microphone plugged in but the motor's not going so"
+  },
+  {
+   "start": 499.06,
+   "end": 501.78,
+   "text": "Hopefully this sounds a little bit good. Um"
+  },
+  {
+   "start": 503.02,
+   "end": 505.02,
+   "text": "So"
+  },
+  {
+   "start": 505.54,
+   "end": 509.76,
+   "text": "Yeah, I'm gonna get going then right now on my"
+  },
+  {
+   "start": 510.3,
+   "end": 512.3,
+   "text": "Free audio shoot"
+  },
+  {
+   "start": 513.22,
+   "end": 516.1,
+   "text": "pages and then as soon as I'm done with that I'm gonna work on the"
+  },
+  {
+   "start": 517.1,
+   "end": 522.74,
+   "text": "The actual audio books. I mean the actual books on my page. That means that the links need fixing on"
+  },
+  {
+   "start": 523.7,
+   "end": 527.06,
+   "text": "And yeah, and then I might I might get enough fuel"
+  },
+  {
+   "start": 527.06,
+   "end": 530.02,
+   "text": "sense of accomplishment to"
+  },
+  {
+   "start": 530.86,
+   "end": 536.91,
+   "text": "To go into surface level stuff on my website which I really need to do okay?"
+  },
+  {
+   "start": 539.31,
+   "end": 541.31,
+   "text": "Off to work"
+  }
+ ]
+}

@@ -1,0 +1,761 @@
+{
+ "youtube_id": "r_VGIJ0akx4",
+ "title": "Living in Boulder Vlog 10 -  13 - 2016",
+ "url": "https://youtu.be/r_VGIJ0akx4",
+ "published_at": "2016-10-14",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle checks in from Boulder at the end of a long day, documenting his daily routine of window-washing work and helping his mom, then diving into his current project of mapping every Colorado ski resort in Google Earth. He discusses the history and personalities of various Colorado ski resorts — Crested Butte, Steamboat, Berthoud Pass, Keystone — and explains his plan to eventually link each ski run to a video.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog format",
+   "window washing work",
+   "helping mom",
+   "Google Earth ski resort mapping project",
+   "Colorado ski resort history",
+   "being high while vlogging",
+   "insomnia"
+  ],
+  "stances": [
+   {
+    "topic": "vlogging while tired and high",
+    "position": "It's the only practical time to do it and doesn't impair his ability to talk"
+   },
+   {
+    "topic": "mixing videos with in-progress projects",
+    "position": "Initially worried it would disrupt his time-warp focus but now thinks it's fine"
+   },
+   {
+    "topic": "Colorado ski resorts",
+    "position": "Finds them beautiful and historically interesting; each has a distinct personality"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Crested Butte",
+   "Steamboat",
+   "Berthoud Pass",
+   "Keystone",
+   "Eldora",
+   "Hidden Valley",
+   "Rocky Mountain National Park",
+   "Central City",
+   "Colorado",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.23,
+   "end": 4.21,
+   "text": "Hello, Captain's Log checking in. This is Trippy."
+  },
+  {
+   "start": 9.07,
+   "end": 17.73,
+   "text": "Yeah, so this is what's going to go down."
+  },
+  {
+   "start": 17.85,
+   "end": 20.43,
+   "text": "This is how it's going to happen every single day with my V-logs."
+  },
+  {
+   "start": 21.45,
+   "end": 24.91,
+   "text": "I'm going to do them at the end of the day when I'm really tired."
+  },
+  {
+   "start": 26.69,
+   "end": 29.57,
+   "text": "Oh, man. I'm so fat and out of shape."
+  },
+  {
+   "start": 29.57,
+   "end": 32.23,
+   "text": "I'm embarrassed about that, to tell you the truth."
+  },
+  {
+   "start": 33.83,
+   "end": 37.17,
+   "text": "But that's not that bad. Not really that bad."
+  },
+  {
+   "start": 41.16,
+   "end": 46.26,
+   "text": "Okay, I'm 200 pounds. Just about 200 pounds."
+  },
+  {
+   "start": 46.72,
+   "end": 49.46,
+   "text": "Whoa, whoa, whoa, whoa, whoa, whoa. Just turned my camera on and my phone."
+  },
+  {
+   "start": 50.68,
+   "end": 51.36,
+   "text": "But I feel good."
+  },
+  {
+   "start": 51.66,
+   "end": 57.14,
+   "text": "Okay, so this is how it's going to go."
+  },
+  {
+   "start": 57.5,
+   "end": 64.64,
+   "text": "I'm going to do my V-logs at the end of the day because that's the only time that I can do V-logs."
+  },
+  {
+   "start": 64.64,
+   "end": 68.88,
+   "text": "Uh, because it's going to, every day is going to be like today."
+  },
+  {
+   "start": 69.54,
+   "end": 78.82,
+   "text": "Um, because, um, I was just hooked on my, uh, what I was doing today."
+  },
+  {
+   "start": 78.82,
+   "end": 82.28,
+   "text": "So, let me tell, let me say what I, uh, did today."
+  },
+  {
+   "start": 82.28,
+   "end": 86.44,
+   "text": "Okay, I got up at six."
+  },
+  {
+   "start": 86.66,
+   "end": 88.76,
+   "text": "I'm really high right now, by the way."
+  },
+  {
+   "start": 88.98,
+   "end": 90.12,
+   "text": "You could probably tell."
+  },
+  {
+   "start": 94.94,
+   "end": 96.32,
+   "text": "Oh, na, na, na, na, na, na."
+  },
+  {
+   "start": 96.32,
+   "end": 106.67,
+   "text": "Okay, yeah, I got up at six because, um, yeah, I went to work, but I drove because it's too cold."
+  },
+  {
+   "start": 107.17,
+   "end": 110.39,
+   "text": "And we did two houses."
+  },
+  {
+   "start": 110.39,
+   "end": 114.73,
+   "text": "Um, the first house, I had to step on a ledge that was, like, this wide."
+  },
+  {
+   "start": 115.73,
+   "end": 117.53,
+   "text": "And then I was, like, I was, like, come home."
+  },
+  {
+   "start": 117.65,
+   "end": 119.79,
+   "text": "I'm, like, maybe I should put a ladder up there next time."
+  },
+  {
+   "start": 120.69,
+   "end": 124.33,
+   "text": "I think I will because when you do stuff like that and then you get really high, you get, like, PTSD."
+  },
+  {
+   "start": 124.57,
+   "end": 125.21,
+   "text": "You're, like, oh, man."
+  },
+  {
+   "start": 125.21,
+   "end": 131.74,
+   "text": "So, uh, then did the second house and then came home."
+  },
+  {
+   "start": 132.04,
+   "end": 139.66,
+   "text": "Oh, but on my way home, I called my mom because I go and I see her, um, if I can on my way home."
+  },
+  {
+   "start": 139.92,
+   "end": 140.9,
+   "text": "See if she needs help."
+  },
+  {
+   "start": 141.74,
+   "end": 144.94,
+   "text": "Uh, so I vacuumed today and did the dishes and took out the trash."
+  },
+  {
+   "start": 145.32,
+   "end": 149.0,
+   "text": "But she pays me, so it's, it's awesome."
+  },
+  {
+   "start": 149.62,
+   "end": 150.82,
+   "text": "Then I came home."
+  },
+  {
+   "start": 150.9,
+   "end": 152.86,
+   "text": "No, and then I got three heat lamps for my geckos."
+  },
+  {
+   "start": 152.86,
+   "end": 157.84,
+   "text": "They went, like, three days without heat lamp because I was too lazy to go get another one."
+  },
+  {
+   "start": 159.02,
+   "end": 163.18,
+   "text": "Um, I guess that would be a good word to use."
+  },
+  {
+   "start": 164.7,
+   "end": 170.26,
+   "text": "Um, so, yeah, so then I went, uh, working again."
+  },
+  {
+   "start": 170.38,
+   "end": 171.5,
+   "text": "So, this is what I'm doing now."
+  },
+  {
+   "start": 171.6,
+   "end": 172.78,
+   "text": "This is going to be 20 years old."
+  },
+  {
+   "start": 172.84,
+   "end": 177.68,
+   "text": "This is, like, back in 2011 when I was vlogging about my daily work on my timeline."
+  },
+  {
+   "start": 177.68,
+   "end": 188.06,
+   "text": "So, but instead of working on my timeline, what I'm doing is I'm, um, working on, uh, Google Earthing stuff."
+  },
+  {
+   "start": 188.24,
+   "end": 192.82,
+   "text": "So, so, uh, yesterday, I think, was my first full day."
+  },
+  {
+   "start": 193.02,
+   "end": 195.56,
+   "text": "Like, I started two days ago, I think, in the, uh, in the evening."
+  },
+  {
+   "start": 196.36,
+   "end": 201.58,
+   "text": "But yesterday was my full, first full day making, uh, doing, uh, the ski resorts on Google Earth in Colorado."
+  },
+  {
+   "start": 201.58,
+   "end": 202.26,
+   "text": "Really trippy."
+  },
+  {
+   "start": 202.26,
+   "end": 212.28,
+   "text": "Um, yeah, and in case anybody's, like, you know, if anybody, this is, like, the first time watching my video, you know, you know anything about me, and you're like, wait, why are you doing that?"
+  },
+  {
+   "start": 212.46,
+   "end": 213.64,
+   "text": "It's because I'm really high."
+  },
+  {
+   "start": 214.32,
+   "end": 215.1,
+   "text": "That's what I like to do."
+  },
+  {
+   "start": 215.14,
+   "end": 216.2,
+   "text": "I like to get really high and do that."
+  },
+  {
+   "start": 216.28,
+   "end": 216.48,
+   "text": "It's trippy."
+  },
+  {
+   "start": 218.16,
+   "end": 220.58,
+   "text": "Oh, yeah, but, you know, but this is going to be cool."
+  },
+  {
+   "start": 220.7,
+   "end": 224.88,
+   "text": "Let me say what it is, because I think I even came up with the idea today, or the ambition."
+  },
+  {
+   "start": 224.88,
+   "end": 230.78,
+   "text": "But, yeah, but, you know, treat it just like with all my other stuff on Google Earth."
+  },
+  {
+   "start": 231.08,
+   "end": 238.42,
+   "text": "Every single file, you know, for download individually with your cell phone, and you can click it, and you can see the video of every single ski run in Colorado."
+  },
+  {
+   "start": 238.58,
+   "end": 238.98,
+   "text": "Isn't that cool?"
+  },
+  {
+   "start": 239.88,
+   "end": 240.52,
+   "text": "And then the lift."
+  },
+  {
+   "start": 240.6,
+   "end": 246.96,
+   "text": "You ride up the lift with your cell phone using Crate Rainbow Crystallian Technologics."
+  },
+  {
+   "start": 248.78,
+   "end": 254.62,
+   "text": "So, um, um, oh, shit."
+  },
+  {
+   "start": 254.62,
+   "end": 255.8,
+   "text": "I lost my train of thought."
+  },
+  {
+   "start": 257.14,
+   "end": 267.66,
+   "text": "Um, yeah, people will have to bear with me if you're going to watch my videos, because I'm going to be really tired every single video that I do, because it'll be, like, right before I go to bed."
+  },
+  {
+   "start": 269.2,
+   "end": 272.62,
+   "text": "Um, and, uh, it's 1047 now, and I go up at 6."
+  },
+  {
+   "start": 273.08,
+   "end": 274.58,
+   "text": "And I'm also going to be really high, so."
+  },
+  {
+   "start": 276.04,
+   "end": 283.96,
+   "text": "Okay, yeah, so, so yesterday I did, uh, I'm doing, you know, the ski resorts, and it takes a while, because it's kind of hard to."
+  },
+  {
+   "start": 285.44,
+   "end": 292.66,
+   "text": "Differentiate between the maps, which are drawings, and then the actual ski resort, you know, when, uh, sometimes you can't really see the run, so."
+  },
+  {
+   "start": 293.84,
+   "end": 296.16,
+   "text": "But, yeah, I did, uh, I did Crested Butte today."
+  },
+  {
+   "start": 296.52,
+   "end": 298.8,
+   "text": "Finished Crested Butte, which is a really pretty ski resort."
+  },
+  {
+   "start": 298.94,
+   "end": 302.64,
+   "text": "And then I finished, uh, Steamboat, which is a really pretty ski resort."
+  },
+  {
+   "start": 302.64,
+   "end": 308.96,
+   "text": "So, I feel like, when I get really high, I feel like these things are alive."
+  },
+  {
+   "start": 309.84,
+   "end": 311.06,
+   "text": "Like, these ski resorts are alive."
+  },
+  {
+   "start": 311.14,
+   "end": 316.96,
+   "text": "Like, I'm, I'm hovering over, like, Steamboat, and I'm like, Steamboat's different than Crested Butte."
+  },
+  {
+   "start": 316.96,
+   "end": 318.8,
+   "text": "You know, it's like they have different personalities."
+  },
+  {
+   "start": 318.94,
+   "end": 329.52,
+   "text": "Like, I did Crested Butte first, and, um, I'm like, wow, Crested Butte is awesome, because the mountain, and because of the cliffs."
+  },
+  {
+   "start": 329.52,
+   "end": 336.56,
+   "text": "And then I go to Steamboat, and I'm like, wow, Steamboat's trippy, because it's just, like, so many trees."
+  },
+  {
+   "start": 336.78,
+   "end": 338.48,
+   "text": "It's just covered in trees, you know."
+  },
+  {
+   "start": 339.12,
+   "end": 339.86,
+   "text": "It's like they're all different."
+  },
+  {
+   "start": 340.12,
+   "end": 341.92,
+   "text": "Keystone is, like, really long and thin."
+  },
+  {
+   "start": 342.78,
+   "end": 343.6,
+   "text": "Berthed Pass."
+  },
+  {
+   "start": 343.76,
+   "end": 348.44,
+   "text": "And then I, so then I finished, uh, I finished Crested Butte, then I finished at Steamboat, and then I finished Crested Butte."
+  },
+  {
+   "start": 349.12,
+   "end": 351.0,
+   "text": "Berthed Pass is freaking huge, dude."
+  },
+  {
+   "start": 351.16,
+   "end": 353.18,
+   "text": "Berthed Pass is, like, almost as big as Winter Park."
+  },
+  {
+   "start": 353.18,
+   "end": 356.78,
+   "text": "It had four runs, four lifts."
+  },
+  {
+   "start": 357.34,
+   "end": 366.42,
+   "text": "It had the two lifts on either side of the pass, and then on either side of the road, you know, um, it had buses that would take people up."
+  },
+  {
+   "start": 366.5,
+   "end": 370.74,
+   "text": "So it covered a lot of territory, and I, so I finished that one, and I had no idea it was that big."
+  },
+  {
+   "start": 370.84,
+   "end": 371.26,
+   "text": "It's so trippy."
+  },
+  {
+   "start": 372.2,
+   "end": 374.62,
+   "text": "It was out of business, I think, by the time I came around."
+  },
+  {
+   "start": 375.06,
+   "end": 377.8,
+   "text": "Um, probably it was the biggest one in Colorado in those days."
+  },
+  {
+   "start": 378.16,
+   "end": 381.22,
+   "text": "But without just the lifts, you know, it was your regular, like, 60s."
+  },
+  {
+   "start": 381.22,
+   "end": 385.8,
+   "text": "The cool thing about ski resorts in Colorado is that it's kind of, like, a history lesson."
+  },
+  {
+   "start": 386.16,
+   "end": 391.76,
+   "text": "Um, there's three different kinds of ski resorts throughout history of Colorado, I noticed."
+  },
+  {
+   "start": 392.64,
+   "end": 402.2,
+   "text": "There's the little ones, which are the little rope toes, like the Chautauqua Ski Resort, and, uh, they had one at Central Park, Central City, and they had them all over Colorado from the 1800s."
+  },
+  {
+   "start": 402.2,
+   "end": 417.68,
+   "text": "And then, uh, you have the ones from, like, 30s, 40s, and 50s, which were the, uh, the first kind of, like, ski resort where you would cut trails through the, uh, through the mountains."
+  },
+  {
+   "start": 417.68,
+   "end": 421.22,
+   "text": "Um, so I didn't, I kind of didn't know that there was a whole different kind of ski resort."
+  },
+  {
+   "start": 421.3,
+   "end": 428.24,
+   "text": "Like, there's a whole bunch of them, like 30 of them, that are, you know, it's, it's like a miniature ski resort of what we have today."
+  },
+  {
+   "start": 428.86,
+   "end": 431.9,
+   "text": "It's like, they, they cut the trails out, but they're narrower."
+  },
+  {
+   "start": 432.9,
+   "end": 435.92,
+   "text": "And the lifts are there, and you can see it all there, but it's smaller."
+  },
+  {
+   "start": 436.02,
+   "end": 439.3,
+   "text": "So if you look at it, you're just like, oh, a big ski resort, but it's, you know, a lot smaller."
+  },
+  {
+   "start": 439.3,
+   "end": 442.58,
+   "text": "So, like, but I, I actually got started skiing one of those."
+  },
+  {
+   "start": 442.74,
+   "end": 448.54,
+   "text": "I think Eldora's kind of borderline like that, but, like, Hidden Valley above Essis Park is like that."
+  },
+  {
+   "start": 448.96,
+   "end": 453.24,
+   "text": "I remember the narrow runs, and, yeah, but I don't think any of those are open anymore."
+  },
+  {
+   "start": 453.4,
+   "end": 457.16,
+   "text": "Because that one went out of business, like, in the 80s when I was a kid."
+  },
+  {
+   "start": 457.28,
+   "end": 463.34,
+   "text": "So, um, so yeah, but then you have the big ones, you know, from today that have been expanding since I was a kid."
+  },
+  {
+   "start": 463.8,
+   "end": 465.64,
+   "text": "But they were already big when I was a kid."
+  },
+  {
+   "start": 466.34,
+   "end": 468.38,
+   "text": "But, yeah, and those are huge, man."
+  },
+  {
+   "start": 468.38,
+   "end": 471.82,
+   "text": "Those are, like, mega, and there's a bunch of them in Colorado."
+  },
+  {
+   "start": 472.34,
+   "end": 479.16,
+   "text": "But, um, if you see them all together throughout Oliver, Colorado, it's like, they take up a lot of mountains."
+  },
+  {
+   "start": 479.98,
+   "end": 482.88,
+   "text": "It's like most of them, a whole big chunk of the mountains."
+  },
+  {
+   "start": 483.18,
+   "end": 484.2,
+   "text": "It's beautiful, though."
+  },
+  {
+   "start": 484.28,
+   "end": 485.32,
+   "text": "I like looking at it."
+  },
+  {
+   "start": 487.32,
+   "end": 491.98,
+   "text": "Um, and, uh, yeah, so that's, that's what I did today."
+  },
+  {
+   "start": 492.1,
+   "end": 494.78,
+   "text": "Um, and then I got started on Keystone and Arapah Basin."
+  },
+  {
+   "start": 494.78,
+   "end": 498.66,
+   "text": "Um, so, it's pretty quick to just trace them if it's straightforward."
+  },
+  {
+   "start": 498.86,
+   "end": 502.58,
+   "text": "But then you have to figure out, you know, if the more complicated ones just take longer."
+  },
+  {
+   "start": 503.04,
+   "end": 505.88,
+   "text": "So, I'll see how long this takes."
+  },
+  {
+   "start": 506.82,
+   "end": 508.28,
+   "text": "I'm hooked on this for now."
+  },
+  {
+   "start": 508.88,
+   "end": 513.06,
+   "text": "If I burn out before I'm done, I'll just go back to Boulder, doing Boulder."
+  },
+  {
+   "start": 513.06,
+   "end": 521.6,
+   "text": "This is trippy, vlogging about my, uh, project while I'm, um, working on it."
+  },
+  {
+   "start": 522.14,
+   "end": 524.16,
+   "text": "I was a little bit apprehensive about it."
+  },
+  {
+   "start": 524.6,
+   "end": 526.96,
+   "text": "It's like, this is the one reason why I don't do, I wasn't doing videos."
+  },
+  {
+   "start": 527.04,
+   "end": 533.66,
+   "text": "It's because it can kind of take you out of time warp when you're doing the videos and replying to people."
+  },
+  {
+   "start": 533.66,
+   "end": 535.1,
+   "text": "Or, uh, that's how I felt like."
+  },
+  {
+   "start": 535.36,
+   "end": 539.28,
+   "text": "Because then you're kind of mixing in with other people's minds and time perception."
+  },
+  {
+   "start": 540.4,
+   "end": 542.22,
+   "text": "But I don't think that's true, actually."
+  },
+  {
+   "start": 543.28,
+   "end": 546.14,
+   "text": "Um, but the real reason why I wasn't doing it is because I didn't have the time."
+  },
+  {
+   "start": 546.2,
+   "end": 547.26,
+   "text": "But I think I'll have the time now."
+  },
+  {
+   "start": 547.86,
+   "end": 553.0,
+   "text": "I just, because when I go to sleep, at the end of the day, when I'm supposed to go to sleep, I get really high."
+  },
+  {
+   "start": 553.08,
+   "end": 556.66,
+   "text": "And that kind of energizes me and makes it so I would have insomnia anyway."
+  },
+  {
+   "start": 556.66,
+   "end": 559.54,
+   "text": "And so that's the perfect time to do, uh, videos."
+  },
+  {
+   "start": 559.68,
+   "end": 562.7,
+   "text": "And I don't think it matters if I'm really high or really tired."
+  },
+  {
+   "start": 562.78,
+   "end": 564.22,
+   "text": "I can still talk, you know."
+  },
+  {
+   "start": 564.32,
+   "end": 569.04,
+   "text": "I can still be like, uh, uh, uh, uh, even if I'm kind of babbling and jumping around."
+  },
+  {
+   "start": 570.02,
+   "end": 574.0,
+   "text": "So, um, I think I'm going to do some, uh, request videos, man."
+  },
+  {
+   "start": 574.08,
+   "end": 574.72,
+   "text": "Like, right now."
+  },
+  {
+   "start": 575.22,
+   "end": 576.04,
+   "text": "That's my vlog."
+  },
+  {
+   "start": 576.24,
+   "end": 577.62,
+   "text": "I'm going to try to keep it shorter."
+  },
+  {
+   "start": 577.74,
+   "end": 578.48,
+   "text": "How long was that?"
+  },
+  {
+   "start": 579.02,
+   "end": 579.86,
+   "text": "That was ten minutes."
+  },
+  {
+   "start": 580.46,
+   "end": 582.6,
+   "text": "Yeah, I'll try to keep it shorter, you know, as time goes on."
+  },
+  {
+   "start": 583.22,
+   "end": 585.98,
+   "text": "But you can expect that the first ones will be longer."
+  },
+  {
+   "start": 585.98,
+   "end": 590.02,
+   "text": "Because I'll be like, oh yeah, you know, all these things that I want to say."
+  },
+  {
+   "start": 590.32,
+   "end": 590.62,
+   "text": "Oh."
+  },
+  {
+   "start": 591.94,
+   "end": 592.26,
+   "text": "Ah."
+  },
+  {
+   "start": 593.26,
+   "end": 594.46,
+   "text": "Um, okay."
+  },
+  {
+   "start": 594.96,
+   "end": 595.94,
+   "text": "Peace out."
+  }
+ ]
+}

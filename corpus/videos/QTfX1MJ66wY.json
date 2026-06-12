@@ -1,0 +1,316 @@
+{
+ "youtube_id": "QTfX1MJ66wY",
+ "title": "Living in Boulder Vlog 10 - 25 - 2016",
+ "url": "https://youtu.be/QTfX1MJ66wY",
+ "published_at": "2016-10-26",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a brief late-night vlog from his Boulder apartment, recapping his day: gutter work on a job site, ski resort mapping work (Silverton and Aspen Highlands), a postponed voting errand with his mom, dinner at a nearby Indian restaurant, and laundry. He also mentions that his video upload speeds seem to have improved and he hopes to get back to making request-style videos.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "work (gutters/windows)",
+   "ski resort mapping",
+   "voting",
+   "family",
+   "food",
+   "video uploads",
+   "YouTube comments"
+  ],
+  "stances": [
+   {
+    "topic": "Indian restaurant",
+    "position": "It was okay for a first visit"
+   },
+   {
+    "topic": "laundry/housekeeping",
+    "position": "Acknowledges he doesn't do it often and feels behind on vacuuming"
+   },
+   {
+    "topic": "YouTube comment responses",
+    "position": "Frustrated that he can rarely respond to comments due to a technical issue with videos not loading"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Silverton",
+   "Aspen Highlands",
+   "Kyle's mom",
+   "Kyle's grandmother (painting referenced)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.78,
+   "end": 7.12,
+   "text": "Hello, living in Boulder V-Log for the October 25th. Wow, almost the end of October."
+  },
+  {
+   "start": 8.5,
+   "end": 13.8,
+   "text": "It's 11, 17 at night. I have to work tomorrow, so I'm going to go to sleep right after this."
+  },
+  {
+   "start": 14.58,
+   "end": 16.62,
+   "text": "That painting my grandmother painted."
+  },
+  {
+   "start": 18.36,
+   "end": 21.26,
+   "text": "This is in my living room on my couch."
+  },
+  {
+   "start": 22.3,
+   "end": 24.28,
+   "text": "Never done a video log from here before."
+  },
+  {
+   "start": 25.56,
+   "end": 30.5,
+   "text": "So today we went into a house to do gutters in the house."
+  },
+  {
+   "start": 30.78,
+   "end": 36.46,
+   "text": "But I guess weather didn't do the windows, just did the gutter."
+  },
+  {
+   "start": 37.7,
+   "end": 40.98,
+   "text": "And I got a nozzle stuck in the gutter and I had to take it apart."
+  },
+  {
+   "start": 41.66,
+   "end": 46.2,
+   "text": "And then I dropped my hat in that neighbor's yard and I had to jump in the neighbor's yard to get my hat."
+  },
+  {
+   "start": 48.56,
+   "end": 53.26,
+   "text": "And then I came home and I did Silverton."
+  },
+  {
+   "start": 53.26,
+   "end": 55.42,
+   "text": "I mapped Silverton and Aspen Highlands."
+  },
+  {
+   "start": 56.54,
+   "end": 60.9,
+   "text": "And I'm still on track for mid next week."
+  },
+  {
+   "start": 60.9,
+   "end": 62.88,
+   "text": "I could bring down with ski resorts and get back to Boulder."
+  },
+  {
+   "start": 65.32,
+   "end": 69.26,
+   "text": "I was working a day and then my mom wanted me to go over to her house and help her out with stuff."
+  },
+  {
+   "start": 69.42,
+   "end": 71.32,
+   "text": "But she wasn't ready."
+  },
+  {
+   "start": 71.44,
+   "end": 72.38,
+   "text": "She kept postponing."
+  },
+  {
+   "start": 72.68,
+   "end": 73.8,
+   "text": "Oh, and then we were going to vote."
+  },
+  {
+   "start": 73.86,
+   "end": 74.88,
+   "text": "I wanted to vote to hear."
+  },
+  {
+   "start": 77.44,
+   "end": 78.4,
+   "text": "That's my mom."
+  },
+  {
+   "start": 78.4,
+   "end": 81.04,
+   "text": "But she took too long to come over to me."
+  },
+  {
+   "start": 81.04,
+   "end": 82.06,
+   "text": "But she took me to dinner."
+  },
+  {
+   "start": 82.7,
+   "end": 84.3,
+   "text": "We went to this Indian place."
+  },
+  {
+   "start": 84.98,
+   "end": 86.42,
+   "text": "It was okay for the first time."
+  },
+  {
+   "start": 86.82,
+   "end": 88.6,
+   "text": "Like a couple blocks from my house."
+  },
+  {
+   "start": 89.32,
+   "end": 90.44,
+   "text": "A block from my house or something."
+  },
+  {
+   "start": 90.44,
+   "end": 98.1,
+   "text": "And then I came back here and I worked some more."
+  },
+  {
+   "start": 99.52,
+   "end": 102.2,
+   "text": "And then I did my laundry."
+  },
+  {
+   "start": 103.08,
+   "end": 107.88,
+   "text": "So, yeah, I don't often do laundry."
+  },
+  {
+   "start": 108.0,
+   "end": 109.44,
+   "text": "I should vacuum tomorrow."
+  },
+  {
+   "start": 109.78,
+   "end": 111.42,
+   "text": "I think I've been vacuuming for like two weeks."
+  },
+  {
+   "start": 111.42,
+   "end": 115.84,
+   "text": "But I'm really tired."
+  },
+  {
+   "start": 118.88,
+   "end": 120.74,
+   "text": "That's probably why I'm yawning so much."
+  },
+  {
+   "start": 121.84,
+   "end": 123.8,
+   "text": "But that's good because I guess I don't mean I can get to sleep."
+  },
+  {
+   "start": 124.6,
+   "end": 125.56,
+   "text": "So, I'm going to go to sleep."
+  },
+  {
+   "start": 125.64,
+   "end": 129.0,
+   "text": "Now, I think my video from yesterday uploaded pretty damn quick, man."
+  },
+  {
+   "start": 129.04,
+   "end": 130.26,
+   "text": "I think I was looking at the thing going."
+  },
+  {
+   "start": 130.26,
+   "end": 132.66,
+   "text": "So, I don't think I have a problem."
+  },
+  {
+   "start": 132.9,
+   "end": 133.96,
+   "text": "I mean, I haven't tried it yet."
+  },
+  {
+   "start": 134.04,
+   "end": 137.3,
+   "text": "But, yeah, I might be able to upload videos again."
+  },
+  {
+   "start": 137.42,
+   "end": 141.24,
+   "text": "So, tomorrow or something, just as soon as I can get around to it,"
+  },
+  {
+   "start": 141.26,
+   "end": 142.9,
+   "text": "I'm going to try to do some more videos."
+  },
+  {
+   "start": 143.1,
+   "end": 145.42,
+   "text": "Like the report request videos."
+  },
+  {
+   "start": 145.98,
+   "end": 148.22,
+   "text": "I can't respond to most of the comments."
+  },
+  {
+   "start": 148.64,
+   "end": 149.14,
+   "text": "It's weird."
+  },
+  {
+   "start": 150.3,
+   "end": 153.16,
+   "text": "Only every once in a blue moon, I can respond to somebody's comment."
+  },
+  {
+   "start": 153.38,
+   "end": 154.68,
+   "text": "And it's when the videos load."
+  },
+  {
+   "start": 154.78,
+   "end": 156.02,
+   "text": "So, I don't know what that was going on with that."
+  },
+  {
+   "start": 156.12,
+   "end": 157.02,
+   "text": "So, excuse me."
+  },
+  {
+   "start": 158.0,
+   "end": 158.52,
+   "text": "It's weird."
+  },
+  {
+   "start": 158.62,
+   "end": 160.2,
+   "text": "It's kind of too bad because I left it."
+  },
+  {
+   "start": 160.26,
+   "end": 161.14,
+   "text": "I can't respond to every comment."
+  },
+  {
+   "start": 161.44,
+   "end": 161.88,
+   "text": "But, whatever."
+  },
+  {
+   "start": 162.76,
+   "end": 163.12,
+   "text": "Okay."
+  },
+  {
+   "start": 163.3,
+   "end": 164.04,
+   "text": "Peace out."
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "youtube_id": "wABgE_2Mnl8",
+ "title": "Started new vlog channel, Kyle Pounds Vlogs",
+ "url": "https://youtu.be/wABgE_2Mnl8",
+ "published_at": "2018-12-02",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle announces he is creating two separate channels: one for streaming content and one for vlogs, keeping his main channel exclusively for philosophy videos and request-based talking videos.",
+  "speaker": "kyle",
+  "topics": [
+   "channel announcement",
+   "vlogging",
+   "streaming",
+   "content organization"
+  ],
+  "stances": [
+   {
+    "topic": "channel structure",
+    "position": "wants to separate vlogs and streams from his main channel to keep it focused on philosophy and request videos"
+   }
+  ],
+  "entities": [],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 7.2,
+   "text": "Hey, how's it going? So I have announcements to make because I did a video before that said"
+  },
+  {
+   "start": 7.2,
+   "end": 14.9,
+   "text": "I'm going to start a new channel called Streaming. So if you see any one of my streamings from now"
+  },
+  {
+   "start": 14.9,
+   "end": 22.06,
+   "text": "On, it has to be on my streaming channel. And also, I think I'm going to make a vlogging channel"
+  },
+  {
+   "start": 22.06,
+   "end": 27.32,
+   "text": "Because that's different from my normal stuff. I'm going to keep my regular original channel"
+  },
+  {
+   "start": 27.32,
+   "end": 33.76,
+   "text": "For when I do philosophy videos and requests and stuff. And then just break off, get in"
+  },
+  {
+   "start": 33.76,
+   "end": 41.38,
+   "text": "Modern times with the new vlogs. Okay, so I'm done. That vlog I did earlier today, that's"
+  },
+  {
+   "start": 41.38,
+   "end": 46.44,
+   "text": "It, man. From now on, when I do a video on this channel, it's going to be a talking video."
+  },
+  {
+   "start": 46.7,
+   "end": 50.34,
+   "text": "Ba-boom-boom. Okay? All right. Peace out."
+  }
+ ]
+}

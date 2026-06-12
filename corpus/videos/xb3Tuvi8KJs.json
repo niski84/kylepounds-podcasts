@@ -1,0 +1,349 @@
+{
+ "youtube_id": "xb3Tuvi8KJs",
+ "title": "Living in Bouler Vlog 10 - 19 - 2016",
+ "url": "https://youtu.be/xb3Tuvi8KJs",
+ "published_at": "2016-10-20",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a late-night vlog from Boulder, describes his day working on a ski resort distances project for his website, mentions calling his mom, and rambles about his diet, being high, and plans to listen to 'The Decline and Fall of the Roman Empire' to improve his videos.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "diet",
+   "cannabis/marijuana",
+   "work/coding project",
+   "ski resort data",
+   "audiobooks",
+   "Boulder Colorado",
+   "website development"
+  ],
+  "stances": [
+   {
+    "topic": "his diet",
+    "position": "thinks it's getting really good, mostly rice and vegetables"
+   },
+   {
+    "topic": "cannabis and diet",
+    "position": "being high all the time actually helps his diet rather than causing junk food cravings"
+   },
+   {
+    "topic": "self-improvement via audiobooks",
+    "position": "wants to listen to Decline and Fall to become more well-rounded and make his videos more interesting"
+   },
+   {
+    "topic": "marijuana legalization in Colorado",
+    "position": "matter-of-fact recollection of being there when it went legal around April 2014, no strong editorial stance"
+   }
+  ],
+  "entities": [
+   "Kyle Pounds",
+   "Boulder",
+   "Denver",
+   "Lafayette",
+   "Salt Lake City",
+   "Vail",
+   "Mammoth",
+   "Kindle",
+   "The History of the Decline and Fall of the Roman Empire (Gibbon)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.75,
+   "end": 27.63,
+   "text": "Hey, what's up? Living in Boulder vlog with me, Kyle Pounds. It's 11.08 at night. And I was sitting and I was working and my ass really started hurting. My legs. And I just had dinner. Rice and veggies. I think I had that twice today."
+  },
+  {
+   "start": 27.63,
+   "end": 47.19,
+   "text": "I think I want to start recording what I eat every day because it's kind of interesting. And I think my diet's really getting good. Like sitting around here smoking weed all day long. It's really good for your diet."
+  },
+  {
+   "start": 47.19,
+   "end": 60.87,
+   "text": "But people say it gives you like the munchies, you know, for junk food and stuff. And I guess that's true if it was the way that it was before where you could only smoke intermittently."
+  },
+  {
+   "start": 60.87,
+   "end": 76.85,
+   "text": "I remember when I was living in Lafayette back in 13. And it was before it got legal. It only got legal until like, what was that, like April of 2014 or something like that?"
+  },
+  {
+   "start": 76.89,
+   "end": 82.55,
+   "text": "I moved into here before it even was legal. And I was here and then it got legal and I went to the first place in Denver."
+  },
+  {
+   "start": 82.55,
+   "end": 90.33,
+   "text": "And then there was only one place in Boulder that was legal for a couple months. And then, yeah, man, it was crazy. I got to experience all that."
+  },
+  {
+   "start": 91.67,
+   "end": 97.19,
+   "text": "But, um, oh shit, what was I talking about? I'm really high right now."
+  },
+  {
+   "start": 98.37,
+   "end": 102.33,
+   "text": "Um, oh fuck, totally lost my train of thought."
+  },
+  {
+   "start": 102.33,
+   "end": 114.49,
+   "text": "Um, okay, so anyway, so I got up, um, today at like, uh, oh man, I think I kind of slept in a little bit."
+  },
+  {
+   "start": 114.57,
+   "end": 119.49,
+   "text": "Like 10 or 11 because I was up really late last night."
+  },
+  {
+   "start": 119.89,
+   "end": 120.81,
+   "text": "What happened?"
+  },
+  {
+   "start": 122.59,
+   "end": 126.97,
+   "text": "Oh shit, I thought that the thing stopped because I, okay."
+  },
+  {
+   "start": 126.97,
+   "end": 131.51,
+   "text": "So, uh, yeah, I was up until like 2 or something."
+  },
+  {
+   "start": 131.77,
+   "end": 133.45,
+   "text": "But, uh, so I got up and I started working."
+  },
+  {
+   "start": 133.59,
+   "end": 138.03,
+   "text": "Oh, and I called my mom because I think I remember her saying I should call her."
+  },
+  {
+   "start": 138.39,
+   "end": 143.25,
+   "text": "And, because I, you know, I didn't do work for her dishes yesterday."
+  },
+  {
+   "start": 144.21,
+   "end": 147.33,
+   "text": "And she was in Salt Lake City, so, at the conference."
+  },
+  {
+   "start": 147.67,
+   "end": 155.21,
+   "text": "So, I just stayed here and I worked, um, I, uh, added, uh, distances to all the runs."
+  },
+  {
+   "start": 155.21,
+   "end": 156.83,
+   "text": "So, I finished all the runs, adding the distances."
+  },
+  {
+   "start": 158.29,
+   "end": 160.71,
+   "text": "All the runs in the ski resorts in America on Google Earth."
+  },
+  {
+   "start": 160.87,
+   "end": 164.45,
+   "text": "And then, um, now I'm organizing it."
+  },
+  {
+   "start": 165.03,
+   "end": 170.29,
+   "text": "So, I'm doing it biggest to smallest, I guess, in terms of open terrain ones."
+  },
+  {
+   "start": 170.41,
+   "end": 174.75,
+   "text": "And so, I did Vail, Snowmass, Keystone, and now I'm working on Hunter Park."
+  },
+  {
+   "start": 174.75,
+   "end": 182.09,
+   "text": "Um, and then I think I'm going to go ahead and put it on, uh, my website."
+  },
+  {
+   "start": 182.95,
+   "end": 185.61,
+   "text": "So, that you can do it on your cell phone, too."
+  },
+  {
+   "start": 186.01,
+   "end": 187.01,
+   "text": "It's pretty fucking cool."
+  },
+  {
+   "start": 187.77,
+   "end": 193.75,
+   "text": "I want to see if you can, I tried to do it on my Kindle, but the Kindle, like, for something happened."
+  },
+  {
+   "start": 193.87,
+   "end": 194.69,
+   "text": "It didn't work right."
+  },
+  {
+   "start": 194.69,
+   "end": 197.75,
+   "text": "So, but, it works on the cell phone."
+  },
+  {
+   "start": 198.61,
+   "end": 202.75,
+   "text": "So, um, um, which is pretty cool."
+  },
+  {
+   "start": 202.89,
+   "end": 204.41,
+   "text": "Like, the movie and then showing it."
+  },
+  {
+   "start": 205.69,
+   "end": 212.79,
+   "text": "Um, and, uh, yeah, it's also cool to have those because you can see it'll help you gauge distances."
+  },
+  {
+   "start": 213.79,
+   "end": 215.17,
+   "text": "So, that's what I did all day."
+  },
+  {
+   "start": 215.65,
+   "end": 217.81,
+   "text": "Um, and then I was over there."
+  },
+  {
+   "start": 217.87,
+   "end": 221.13,
+   "text": "Oh, and I was listening to, um, you know, Decline and Fall today."
+  },
+  {
+   "start": 221.13,
+   "end": 222.81,
+   "text": "But, um, I'm really high."
+  },
+  {
+   "start": 222.89,
+   "end": 224.25,
+   "text": "It's kind of hard for me to pay attention."
+  },
+  {
+   "start": 224.37,
+   "end": 227.49,
+   "text": "I haven't been able to pay attention so well the last, like, week or so."
+  },
+  {
+   "start": 228.95,
+   "end": 234.69,
+   "text": "But, uh, um, I should, I should start listening to it."
+  },
+  {
+   "start": 234.79,
+   "end": 237.51,
+   "text": "Now that I'm doing videos, I should start to try to be smarter."
+  },
+  {
+   "start": 238.65,
+   "end": 239.49,
+   "text": "Appear smarter."
+  },
+  {
+   "start": 240.45,
+   "end": 242.27,
+   "text": "Be more well-rounded, you know."
+  },
+  {
+   "start": 242.59,
+   "end": 247.93,
+   "text": "Not just, not just do videos as one of the things that I do apart from working on my website."
+  },
+  {
+   "start": 247.93,
+   "end": 251.11,
+   "text": "But actually stuff that'll make my videos more interesting when I talk, you know."
+  },
+  {
+   "start": 251.13,
+   "end": 256.83,
+   "text": "Um, so, yeah, I think when I listen to the, uh, Decline and Fall, I think maybe I'll work"
+  },
+  {
+   "start": 256.83,
+   "end": 260.93,
+   "text": "On a, or maybe the web's, the, uh, timeline."
+  },
+  {
+   "start": 262.57,
+   "end": 267.03,
+   "text": "I'll incorporate the, the Decline and Fall into the timeline so that I know."
+  },
+  {
+   "start": 267.57,
+   "end": 267.89,
+   "text": "Maybe."
+  },
+  {
+   "start": 269.03,
+   "end": 269.77,
+   "text": "Somehow, yeah."
+  },
+  {
+   "start": 269.91,
+   "end": 275.0,
+   "text": "So, and we know, like, what I'm looking at and I can look at that."
+  },
+  {
+   "start": 275.24,
+   "end": 276.16,
+   "text": "And maybe even edit it."
+  },
+  {
+   "start": 276.26,
+   "end": 276.66,
+   "text": "I don't know."
+  },
+  {
+   "start": 276.66,
+   "end": 281.42,
+   "text": "Um, to help me pay attention."
+  },
+  {
+   "start": 283.86,
+   "end": 290.36,
+   "text": "Um, so, yeah, but that'd be cool if I could finish this, like, pretty soon."
+  },
+  {
+   "start": 290.8,
+   "end": 292.42,
+   "text": "All those ski resorts, imagine that."
+  },
+  {
+   "start": 293.0,
+   "end": 294.82,
+   "text": "Start to finish in, like, a couple weeks."
+  },
+  {
+   "start": 294.82,
+   "end": 309.94,
+   "text": "Um, so, um, oh yeah, so I think I'll do some, uh, conversation, uh, videos, I mean, the"
+  },
+  {
+   "start": 309.94,
+   "end": 313.6,
+   "text": "Request video."
+  },
+  {
+   "start": 314.18,
+   "end": 315.74,
+   "text": "Okay, peace out."
+  }
+ ]
+}

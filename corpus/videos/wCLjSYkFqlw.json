@@ -1,0 +1,284 @@
+{
+ "youtube_id": "wCLjSYkFqlw",
+ "title": "Living in Boulder vlog 2 - 18 - 2017: Bike Racer Levels Pages",
+ "url": "https://youtu.be/wCLjSYkFqlw",
+ "published_at": "2018-02-19",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder about his ongoing work on a 3D model of the Circus Maximus in SketchUp/Google Earth, including building a flat floor, modeling Roman race horses and chariots, and calculating stadium capacity. He also describes starting a 'bike racer levels page' for his website, which overlays modern competitive cycling distance records onto the Circus Maximus model to help visualize the ancient races.",
+  "speaker": "kyle",
+  "topics": [
+   "3D modeling",
+   "Circus Maximus",
+   "Google Earth",
+   "personal website",
+   "cycling/bike racing records",
+   "Roman history",
+   "vlogging from Boulder"
+  ],
+  "stances": [
+   {
+    "topic": "Circus Maximus 3D model",
+    "position": "Excited by the project; completing the flat floor made the building suddenly feel simple and cohesive"
+   },
+   {
+    "topic": "Bike racer levels page",
+    "position": "Wants to contextualize ancient chariot racing distances using modern cycling records to make the scale relatable"
+   },
+   {
+    "topic": "Large website pages",
+    "position": "Loves having very large pages (3,000+ entries) on his website despite the performance problems they cause"
+   },
+   {
+    "topic": "His computer",
+    "position": "Appreciates his fast computer even after three years, though Google Earth still pushes it to its limits"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Circus Maximus",
+   "SketchUp",
+   "Google Earth",
+   "Decades (radio/music)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 4.64,
+   "text": "Hello everyone, the older Vela, it's factory one pm."
+  },
+  {
+   "start": 7.84,
+   "end": 17.33,
+   "text": "So, I think I got a bit like 11, so I'm kind of not dire-alized."
+  },
+  {
+   "start": 18.05,
+   "end": 25.89,
+   "text": "I haven't done a video from your 6 days because I was working the last time I did the video, I was working on,"
+  },
+  {
+   "start": 28.29,
+   "end": 34.29,
+   "text": "yeah I think it was just getting started on 3rd Christmas after finishing the theater of Kisestra."
+  },
+  {
+   "start": 35.97,
+   "end": 45.49,
+   "text": "And so I started working on that and then what I wanted to do was find distinguished"
+  },
+  {
+   "start": 47.57,
+   "end": 58.72,
+   "text": "the powertime hell, build all the stairs up to it and then the parts because I wanted it to be"
+  },
+  {
+   "start": 58.72,
+   "end": 68.8,
+   "text": "one big flat floor to make it seem smaller in a cohesive area."
+  },
+  {
+   "start": 70.8,
+   "end": 77.76,
+   "text": "Which worked great for a lot of the stairs coming up to, but there are a few places where I have to"
+  },
+  {
+   "start": 79.36,
+   "end": 86.64,
+   "text": "choose places where you would just try to make it as serious as possible."
+  },
+  {
+   "start": 88.72,
+   "end": 97.12,
+   "text": "About the elevation difference, it's much out of the way. I use the polygon tool and not"
+  },
+  {
+   "start": 97.12,
+   "end": 106.98,
+   "text": "sketch up so I have the money to get to get to 700 bucks. So I don't know if I'm going to be this is good enough."
+  },
+  {
+   "start": 108.18,
+   "end": 114.9,
+   "text": "So yeah I built that and that was exciting, because as soon as I was done I realized"
+  },
+  {
+   "start": 115.62,
+   "end": 123.46,
+   "text": "how all of a sudden the powertime hell became very simple to make in a business confusing building."
+  },
+  {
+   "start": 125.3,
+   "end": 130.82,
+   "text": "But then I decided I would go ahead and work on the serves maximum some more."
+  },
+  {
+   "start": 132.02,
+   "end": 142.34,
+   "text": "And I realized that I didn't have all of the stance I wanted to calculate exactly the capacity,"
+  },
+  {
+   "start": 142.34,
+   "end": 146.98,
+   "text": "because I did before I think, I was like 150 bucks. So when I looked at it, I would, okay,"
+  },
+  {
+   "start": 146.98,
+   "end": 153.06,
+   "text": "let me do the first thing that I do, let me look at the race, have horses. So I built a race horse,"
+  },
+  {
+   "start": 153.06,
+   "end": 161.06,
+   "text": "three-due race horse, which is the polygon tool, the four horse chariot, there's 12 styles and four horses,"
+  },
+  {
+   "start": 161.06,
+   "end": 170.74,
+   "text": "so that's 48 horses and 12 guys. So I built a horse and then I thought, okay, let's make this easy for"
+  },
+  {
+   "start": 170.82,
+   "end": 177.3,
+   "text": "people nowadays, so I'm a stand. The circus maximals and the distances that they raised,"
+  },
+  {
+   "start": 177.3,
+   "end": 189.7,
+   "text": "and distances. So I decided that that was the time for me to go ahead and start working on my"
+  },
+  {
+   "start": 189.7,
+   "end": 196.18,
+   "text": "bike race or level page. Just again on my website so that I could put the bike race or it's"
+  },
+  {
+   "start": 196.18,
+   "end": 202.34,
+   "text": "on top, I think the circus maximals, Google or circus maximals bike races, because then you can see"
+  },
+  {
+   "start": 202.34,
+   "end": 210.98,
+   "text": "the bikers from the stands and picture the race. Maybe one day they'll make a movie, like alternate"
+  },
+  {
+   "start": 210.98,
+   "end": 221.7,
+   "text": "parallel reality or the Roman set bikes. So I did the one kilometers, but then I think I didn't include"
+  },
+  {
+   "start": 221.7,
+   "end": 225.62,
+   "text": "the records from all the country, so we'll get on the wicked video. We could get it as like track records"
+  },
+  {
+   "start": 225.7,
+   "end": 232.1,
+   "text": "of all the bike distances and tracks of all the countries. So yeah, make sure that they have"
+  },
+  {
+   "start": 232.1,
+   "end": 238.5,
+   "text": "their so right now I'm doing flying 200 flying to an empty, then I'll be 500 and yeah, I'll fix them on my"
+  },
+  {
+   "start": 238.5,
+   "end": 246.02,
+   "text": "website with both the time travel age, so as a level page and then put it on Google Earth on service"
+  },
+  {
+   "start": 246.02,
+   "end": 253.46,
+   "text": "maximals and then eventually I'll plug it into Boulder because I have my little course in Boulder,"
+  },
+  {
+   "start": 254.34,
+   "end": 265.63,
+   "text": "but I will have a circus maximals in Boulder Rome, but I won't manually put the people there"
+  },
+  {
+   "start": 265.63,
+   "end": 277.87,
+   "text": "because I already did it and the circus maximals. So I don't have to have them in place. So I was listening to"
+  },
+  {
+   "start": 279.15,
+   "end": 293.55,
+   "text": "decades and man, I can't remember but I'm something cool. So yeah, that's what I'm working on now."
+  },
+  {
+   "start": 295.15,
+   "end": 302.83,
+   "text": "Oh yeah, oh yeah, oh yeah, oh yeah, oh yeah, oh yeah, it's awesome to work on my website with this"
+  },
+  {
+   "start": 302.83,
+   "end": 309.15,
+   "text": "and the fast computer even though I've had it like three years or something. But most of them"
+  },
+  {
+   "start": 309.15,
+   "end": 314.59,
+   "text": "of the work I've done I get out since I've been on Google Earth's one of our compacted and I'm like,"
+  },
+  {
+   "start": 314.59,
+   "end": 322.03,
+   "text": "what can I might love seven of the size fast computer. So this computer still gets his ass kicked,"
+  },
+  {
+   "start": 322.03,
+   "end": 328.83,
+   "text": "you know, like living on my web website. It's 3,000 ages, it's like 3,000 to 3,000 ages,"
+  },
+  {
+   "start": 328.83,
+   "end": 338.94,
+   "text": "it's just these of I love and the links are broken on it but it can't just fix the links because it takes"
+  },
+  {
+   "start": 338.94,
+   "end": 344.78,
+   "text": "like a half hour to let and then once you do the thing, you know, and then click it, you have to wait for"
+  },
+  {
+   "start": 344.78,
+   "end": 349.5,
+   "text": "hours. So it's a problem with pages that big but I love having pages that big on my website."
+  },
+  {
+   "start": 350.22,
+   "end": 355.9,
+   "text": "As long as the computer works my own thing and it's really bad, so it's time to my own website,"
+  },
+  {
+   "start": 356.22,
+   "end": 363.71,
+   "text": "but it wasn't opening on even on my computer once so I think it was just something more fun."
+  },
+  {
+   "start": 363.71,
+   "end": 368.99,
+   "text": "It shows how often I actually look at my website. The problem with having a big website is you know on the"
+  },
+  {
+   "start": 368.99,
+   "end": 375.07,
+   "text": "other side, the time actually look at it. It's like I know it looks like, okay, so I'm not going to get going on that"
+  },
+  {
+   "start": 375.07,
+   "end": 380.11,
+   "text": "Google Open and over the page. Those yeah, the 250, I'm almost done."
+  },
+  {
+   "start": 380.11,
+   "end": 385.15,
+   "text": "Yeah, yeah, yeah, yeah, yeah, yeah."
+  }
+ ]
+}

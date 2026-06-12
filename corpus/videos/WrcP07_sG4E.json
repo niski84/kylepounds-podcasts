@@ -1,0 +1,189 @@
+{
+ "youtube_id": "WrcP07_sG4E",
+ "title": "Living in Boulder Vlog 12 - 3  - 2016",
+ "url": "https://youtu.be/WrcP07_sG4E",
+ "published_at": "2016-12-04",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about a shopping trip with his mom to find a dresser and TV, ending up at Goodwill for $50. He briefly discusses Hulu's free trial and credit card trap concerns, then shares his current interest in the History of Byzantium podcast and Gibbon's Decline and Fall of the Roman Empire, finding parallels between Rome's rise/fall and Byzantium.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "furniture shopping",
+   "streaming services",
+   "Byzantine history",
+   "Roman Empire",
+   "fundraising plans"
+  ],
+  "stances": [
+   {
+    "topic": "free streaming trial offers",
+    "position": "skeptical — worried about automatic credit card charges after trial ends"
+   },
+   {
+    "topic": "Byzantine/Roman history",
+    "position": "newly fascinated, finds the pattern of good rules leading to growth and bad rules leading to decline compelling"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Goodwill",
+   "Hulu",
+   "Netflix",
+   "History of Byzantium (podcast)",
+   "Decline and Fall of the Roman Empire (Gibbon)",
+   "Kyle's mom",
+   "Byzantium",
+   "Rome"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.62,
+   "end": 16.2,
+   "text": "All right. Hello. This is, um, living in Boulder vlog for December 3rd. Um, yesterday, I don't"
+  },
+  {
+   "start": 16.2,
+   "end": 22.04,
+   "text": "Remember exactly what I did with my website. So that's actually a good thing, I think."
+  },
+  {
+   "start": 22.04,
+   "end": 32.38,
+   "text": "It wasn't a full day, though. Um, I, uh, I got up early in the morning after working until"
+  },
+  {
+   "start": 32.38,
+   "end": 39.74,
+   "text": "Late, but, uh, so I was still tired because my mom wanted to take me, uh, shopping. So"
+  },
+  {
+   "start": 39.74,
+   "end": 47.48,
+   "text": "We got, um, I looked for, uh, a dresser here on the show."
+  },
+  {
+   "start": 47.48,
+   "end": 62.44,
+   "text": "Um, uh, cables getting in the way. Oh, there, dresser, flat screen TV. Um, because I had"
+  },
+  {
+   "start": 62.44,
+   "end": 72.76,
+   "text": "Another big one, big TV and the, and the, um, furniture for that. Um, and, uh, but we had"
+  },
+  {
+   "start": 72.76,
+   "end": 76.94,
+   "text": "To go to three different places because my mom didn't like the first place was too big"
+  },
+  {
+   "start": 76.94,
+   "end": 81.64,
+   "text": "And then the second place was too small. So I went to Goodwill and got this thing for"
+  },
+  {
+   "start": 81.64,
+   "end": 89.94,
+   "text": "50 bucks. It looks nice. But she got me the TV. Ooh, like the Roxy O box. But, and I have"
+  },
+  {
+   "start": 89.94,
+   "end": 94.38,
+   "text": "A bunch of channels. So, but I haven't watched it since then. But she said I can get Hulu"
+  },
+  {
+   "start": 94.38,
+   "end": 98.74,
+   "text": "For a month for free. I don't even know what that is. I guess it's like Netflix movies and"
+  },
+  {
+   "start": 98.74,
+   "end": 104.0,
+   "text": "Stuff. So maybe I'll give that a try. But the problem is if you, if you get a month free"
+  },
+  {
+   "start": 104.0,
+   "end": 110.72,
+   "text": "Of this stuff, you have to give them your credit card and, uh, you know, and then you,"
+  },
+  {
+   "start": 111.04,
+   "end": 114.24,
+   "text": "The month expires and you think you're good. And then the next thing you know, they're, they're"
+  },
+  {
+   "start": 114.24,
+   "end": 119.08,
+   "text": "Charging you again. It turned, they activated on you again. That happened to my mom. Um,"
+  },
+  {
+   "start": 120.76,
+   "end": 127.26,
+   "text": "Her, uh, Netflix or something got activated again. So I don't know if I'll do that. I haven't"
+  },
+  {
+   "start": 127.26,
+   "end": 136.3,
+   "text": "Watched TV since I got it. Ooh, but, um, I'm listening to the history of Byzantium. Uh,"
+  },
+  {
+   "start": 136.3,
+   "end": 141.52,
+   "text": "That's really interesting. I've never really, um, been totally proficient in it. And now"
+  },
+  {
+   "start": 141.52,
+   "end": 146.46,
+   "text": "I'm super interested. Now I'm like, whoa, because now I can, I'm, I'm looking at it in"
+  },
+  {
+   "start": 146.46,
+   "end": 155.62,
+   "text": "Terms of Rome. Um, and the, uh, the book is a decline and fall of the Roman empire. Empire."
+  },
+  {
+   "start": 155.74,
+   "end": 162.52,
+   "text": "I think it goes all the way to the end of, to pass the end of Byzantium. I need to go"
+  },
+  {
+   "start": 162.52,
+   "end": 170.94,
+   "text": "And listen to that again and make sure because yeah, it's interesting. Uh, how the Roman empire"
+  },
+  {
+   "start": 170.94,
+   "end": 177.04,
+   "text": "Grows, um, following all these good rules and then they move and then they follow all the"
+  },
+  {
+   "start": 177.04,
+   "end": 185.33,
+   "text": "Bad rules and then they shrink and disappear. Like they start from a town of 10,000 or whatever"
+  },
+  {
+   "start": 185.33,
+   "end": 194.97,
+   "text": "And grow up. And then, uh, Byzantium was just a town before it was taken out. Uh, anywhere."
+  },
+  {
+   "start": 196.57,
+   "end": 201.87,
+   "text": "Oh yeah. I've been up and working for a while. All of a sudden I'm going,"
+  },
+  {
+   "start": 202.29,
+   "end": 207.05,
+   "text": "So yeah, I think maybe I'll do my fundraising video now. That'll be interesting. I've been"
+  },
+  {
+   "start": 207.05,
+   "end": 210.65,
+   "text": "Thinking about that a lot lately. Okay. Peace out."
+  }
+ ]
+}

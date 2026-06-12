@@ -1,0 +1,129 @@
+{
+ "youtube_id": "o77NAscxXkY",
+ "title": "Living in Boulder Vlog 10 - 16 - 2016",
+ "url": "https://youtu.be/o77NAscxXkY",
+ "published_at": "2016-10-17",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about his day on October 16, 2016, describing late-night work creating ski resort maps in what appears to be a geographic/mapping software. He also talks about pending request videos, including one on Swedish immigration to America, and reflects on needing to write down video ideas throughout the day.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "mapping/cartography work",
+   "ski resorts",
+   "video requests",
+   "productivity habits",
+   "idea capture"
+  ],
+  "stances": [
+   {
+    "topic": "mapping ski resorts",
+    "position": "finds it challenging but enjoyable, like putting a puzzle together"
+   },
+   {
+    "topic": "video idea capture",
+    "position": "needs to get in the habit of writing down ideas because inspiration and free time rarely coincide"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Wolf Creek Pass",
+   "Houston",
+   "Swedish immigration to America"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.5,
+   "end": 25.1,
+   "text": "Hello, living in Boulder V-log for, what is this? October 16th, 2016. I got up, I think I was working until like 2 in the morning, and then I got up at like 9. It's 4.55 now. I was working on doing ski resorts. I was doing Beaver Creek, which is really confusing because it's like city, town mixed in with the ski resort."
+  },
+  {
+   "start": 25.1,
+   "end": 39.82,
+   "text": "And, you know, so you have to like, and then it's hard to translate from the map. Sometimes the maps are really like, you know, in order to fit the words in, they have to distort it, and so you have to re-translate it on Google Earth."
+  },
+  {
+   "start": 41.84,
+   "end": 53.9,
+   "text": "I'm surprised they couldn't find, download stuff for Google Earth from any of the ski resorts or websites. But it's fun to get in here because you get in to figure it out. It's like putting a puzzle together."
+  },
+  {
+   "start": 53.9,
+   "end": 76.84,
+   "text": "And, yeah, it's like going skiing at the mountain too, you know. And when you do, when you play the movie to go down it, down the ski run on the movie, when you push the button to play the movie, you know, on the lines, it's like, I don't know, 100 feet above or something, 300 feet, I didn't look, above the terrain."
+  },
+  {
+   "start": 76.84,
+   "end": 87.5,
+   "text": "And it, you feel like you're on the mountain. It's really pretty. So, and then going up the hill, the lift too. I'm going to attach those. I think I said that though."
+  },
+  {
+   "start": 87.5,
+   "end": 100.5,
+   "text": "I'm not for the cell phone download. So that's what I'm doing today. I did a, I was going to do request videos, but I could have sworn last night I saw a whole bunch of request videos I was going to do that I didn't do yet."
+  },
+  {
+   "start": 101.16,
+   "end": 110.78,
+   "text": "But then I went and I looked at my comment page and I didn't see them. So, I see, I think I saw them already. I think it was, or did them already."
+  },
+  {
+   "start": 110.78,
+   "end": 127.98,
+   "text": "The only one that I didn't do was Swedish immigration to America. So, I want to do videos and talk, but I guess I'll go on my video page today, later today or tomorrow, and look at the videos that I lost that are, but they're still up on my video page."
+  },
+  {
+   "start": 127.98,
+   "end": 136.24,
+   "text": "So, I'll just read those. And, and then make, maybe make videos to make, because there's lots of ideas. Oh, I have an idea."
+  },
+  {
+   "start": 138.04,
+   "end": 148.78,
+   "text": "I need to write, see, I need to get in the habit of writing down the videos that I want to do, because I always know which videos, like me knowing which videos that I want to do, and me having time to do a video are totally different times, you know."
+  },
+  {
+   "start": 148.86,
+   "end": 152.8,
+   "text": "So, like me, when I want to do the video, I'm like, here's a video, but I can't think of any videos to do."
+  },
+  {
+   "start": 153.06,
+   "end": 156.2,
+   "text": "But I know throughout the day there's all kinds of ones. I'm like, well, that one and that one and that one."
+  },
+  {
+   "start": 156.2,
+   "end": 167.76,
+   "text": "So, I have to actually write it down. So, yeah, I'm, let's, so let's see, let's make a prediction."
+  },
+  {
+   "start": 168.48,
+   "end": 177.92,
+   "text": "We'll start, like, daily habits. So, today I predict I'll work until 2 a.m."
+  },
+  {
+   "start": 180.28,
+   "end": 185.94,
+   "text": "And how much will I get through? Oh, that's another prediction. I think I'll finish, I'm working on Telluride now."
+  },
+  {
+   "start": 185.94,
+   "end": 194.9,
+   "text": "I think I'll finish Telluride, Beaver Creek, Keystone, and then I'll do Wolf Creek Pass."
+  },
+  {
+   "start": 195.36,
+   "end": 196.74,
+   "text": "Yeah, that's what I'll do today."
+  },
+  {
+   "start": 197.38,
+   "end": 198.72,
+   "text": "Okay, peace out."
+  }
+ ]
+}

@@ -1,0 +1,306 @@
+{
+ "youtube_id": "UToBkXtQcJU",
+ "title": "Living in Boulder vlog 10 - 30 - 2017: Got to battles 1575 linking to Timeline",
+ "url": "https://youtu.be/UToBkXtQcJU",
+ "published_at": "2017-10-31",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a brief health update about a staph infection from an old cancer removal site, then talks about his ongoing project linking battle entries to a historical timeline, currently at 1575. He shares a prediction for finishing through the 1800s by Wednesday and mentions a YouTube channel called Historia Civilis and an idea he has for Google Earth battle visualization videos.",
+  "speaker": "kyle",
+  "topics": [
+   "health update",
+   "staph infection",
+   "personal project",
+   "historical battles timeline",
+   "YouTube channel recommendation",
+   "Google Earth video idea"
+  ],
+  "stances": [
+   {
+    "topic": "staph infection",
+    "position": "Not too worried since it's not in the same spot as the previous cancer"
+   },
+   {
+    "topic": "battle timeline project",
+    "position": "Making steady progress and expects to finish connecting flickr/Google files through the 1900s by end of Wednesday"
+   },
+   {
+    "topic": "Historia Civilis YouTube channel",
+    "position": "Thinks it's really good for explaining battles with flash animation"
+   },
+   {
+    "topic": "Google Earth battle videos",
+    "position": "Wants to make videos showing battle distances from a participant's perspective"
+   }
+  ],
+  "entities": [
+   "Historia Civilis",
+   "Google Earth",
+   "Flickr"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.1,
+   "end": 9.74,
+   "text": "Hello living in Boulder, if you look, for 41 a cup or 31st, 2017."
+  },
+  {
+   "start": 9.74,
+   "end": 16.78,
+   "text": "So today I think I got kind of like, you know, you know, something because I was working"
+  },
+  {
+   "start": 16.78,
+   "end": 22.1,
+   "text": "early night last night and I was working a little bit and then I went into the dermatologist"
+  },
+  {
+   "start": 22.1,
+   "end": 24.7,
+   "text": "because I got a referral to that."
+  },
+  {
+   "start": 24.7,
+   "end": 29.54,
+   "text": "I thought there was cancer because I got cancer here like you're going to have to go and"
+  },
+  {
+   "start": 29.54,
+   "end": 31.54,
+   "text": "come back nothing."
+  },
+  {
+   "start": 31.54,
+   "end": 36.54,
+   "text": "They took it out totally but then I came back like it wasn't cancer sounds talking about that"
+  },
+  {
+   "start": 36.54,
+   "end": 39.54,
+   "text": "but then it's turned into a staffing infection."
+  },
+  {
+   "start": 39.54,
+   "end": 45.54,
+   "text": "I think a little stitch got stuck in it and"
+  },
+  {
+   "start": 45.54,
+   "end": 50.54,
+   "text": "they referred me to the dermatologist they got me on antibiotics but then I got a"
+  },
+  {
+   "start": 50.54,
+   "end": 53.54,
+   "text": "referral because I think I didn't take it right."
+  },
+  {
+   "start": 53.54,
+   "end": 57.54,
+   "text": "He knows much as I should have but he said I shouldn't worry about it because it's"
+  },
+  {
+   "start": 57.54,
+   "end": 59.54,
+   "text": "not the same place as where."
+  },
+  {
+   "start": 59.54,
+   "end": 64.54,
+   "text": "Hmm, I had the cancer before I would like an inch away."
+  },
+  {
+   "start": 64.54,
+   "end": 68.54,
+   "text": "So yeah, that's what I did today."
+  },
+  {
+   "start": 68.54,
+   "end": 72.54,
+   "text": "Then I came back and was working."
+  },
+  {
+   "start": 72.54,
+   "end": 78.54,
+   "text": "Yeah, so I'm working on the battles, connecting battle lengths to my time line to my"
+  },
+  {
+   "start": 78.54,
+   "end": 84.54,
+   "text": "group of those files and I think last time I did the video, I think it was yesterday."
+  },
+  {
+   "start": 84.54,
+   "end": 93.94,
+   "text": "I was like the 900 or something like that."
+  },
+  {
+   "start": 93.94,
+   "end": 102.47,
+   "text": "So today right now I'm at like, oh, it was 1575."
+  },
+  {
+   "start": 102.47,
+   "end": 110.47,
+   "text": "So tomorrow, yeah, it's three more decades, 1617s and 18s and then I get caught up with what I'm doing."
+  },
+  {
+   "start": 110.47,
+   "end": 116.47,
+   "text": "So I'm just going to do the creating the files connecting to the flicker to the"
+  },
+  {
+   "start": 116.47,
+   "end": 118.47,
+   "text": "Googler file."
+  },
+  {
+   "start": 118.47,
+   "end": 124.47,
+   "text": "So before I say that as the file that you could go on, you know,"
+  },
+  {
+   "start": 124.47,
+   "end": 126.47,
+   "text": "dreamer can actually go to the website."
+  },
+  {
+   "start": 126.47,
+   "end": 130.47,
+   "text": "So yeah, see what it is today."
+  },
+  {
+   "start": 130.47,
+   "end": 133.47,
+   "text": "I mean, you know, do a few other days a day."
+  },
+  {
+   "start": 133.47,
+   "end": 136.47,
+   "text": "Okay, yeah, yes, let's do the predictions."
+  },
+  {
+   "start": 136.47,
+   "end": 141.47,
+   "text": "So tomorrow, I say, I go to do one quarter of the 15s."
+  },
+  {
+   "start": 141.47,
+   "end": 146.47,
+   "text": "I say I get through the 15s and then I do all the 16s and 17s."
+  },
+  {
+   "start": 146.47,
+   "end": 152.47,
+   "text": "I have a chance to get to the beginning of 1800 tomorrow and then it's just the 1800s."
+  },
+  {
+   "start": 152.47,
+   "end": 153.47,
+   "text": "I'm just going to go and blend it."
+  },
+  {
+   "start": 153.47,
+   "end": 155.47,
+   "text": "So yeah, it's one day."
+  },
+  {
+   "start": 155.47,
+   "end": 160.47,
+   "text": "So Tuesday and Wednesday, I'm going to end of Wednesday."
+  },
+  {
+   "start": 160.47,
+   "end": 161.47,
+   "text": "We done."
+  },
+  {
+   "start": 161.47,
+   "end": 163.47,
+   "text": "Well, we caught up with the naked."
+  },
+  {
+   "start": 166.07,
+   "end": 171.07,
+   "text": "Finished the 1900s with, you know, flicker."
+  },
+  {
+   "start": 171.07,
+   "end": 177.07,
+   "text": "So, um, it was just a really great video."
+  },
+  {
+   "start": 177.07,
+   "end": 182.07,
+   "text": "I mean, YouTube channel called History Savitas."
+  },
+  {
+   "start": 182.07,
+   "end": 184.07,
+   "text": "Yes, I think it's what's called History."
+  },
+  {
+   "start": 184.07,
+   "end": 187.07,
+   "text": "Well, it's the whole chat exactly."
+  },
+  {
+   "start": 187.07,
+   "end": 190.07,
+   "text": "Historias, the village, the story is the village,"
+  },
+  {
+   "start": 190.07,
+   "end": 194.07,
+   "text": "explaining battles with flash."
+  },
+  {
+   "start": 194.07,
+   "end": 197.07,
+   "text": "The whole mechanics of it, and it's really good."
+  },
+  {
+   "start": 197.07,
+   "end": 202.07,
+   "text": "And then also, you know, Roman stuff, flip political stuff."
+  },
+  {
+   "start": 202.07,
+   "end": 211.07,
+   "text": "But, um, yeah, I think I want to make YouTube videos of battles with Google Earth."
+  },
+  {
+   "start": 211.07,
+   "end": 218.07,
+   "text": "And, um, like from a, like a bicycle of runners perspective,"
+  },
+  {
+   "start": 218.07,
+   "end": 223.07,
+   "text": "where you show the distances that all the people of the battle did."
+  },
+  {
+   "start": 223.07,
+   "end": 228.07,
+   "text": "Yeah, because they were running from all of that."
+  },
+  {
+   "start": 228.07,
+   "end": 232.35,
+   "text": "Um, yeah, okay."
+  },
+  {
+   "start": 232.35,
+   "end": 235.35,
+   "text": "So that's enough talking for today."
+  },
+  {
+   "start": 235.35,
+   "end": 238.24,
+   "text": "Peace out."
+  }
+ ]
+}

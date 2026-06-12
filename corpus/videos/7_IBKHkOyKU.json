@@ -1,0 +1,756 @@
+{
+ "youtube_id": "7_IBKHkOyKU",
+ "title": "Living in Boulder Vlog 2 - 22 - 2016",
+ "url": "https://youtu.be/7_IBKHkOyKU",
+ "published_at": "2016-02-22",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs his morning in Boulder, walking through a Google Earth historical mapping project he's building that visualizes Boulder's growth from 1864 to 1915 using scanned Carnegie Library maps, including ghost mining towns like Caribou. He then outlines his day's priorities — fixing his phone's microSD connection — and announces he's dropping news commentary in favor of book reviews, request videos, and history content.",
+  "speaker": "kyle",
+  "topics": [
+   "historical mapping project",
+   "Google Earth",
+   "Boulder history",
+   "mining towns",
+   "content direction change",
+   "daily vlog",
+   "phone repair"
+  ],
+  "stances": [
+   {
+    "topic": "news commentary videos",
+    "position": "Done with it — not interesting to him, wants to leave gossip to others"
+   },
+   {
+    "topic": "future YouTube content",
+    "position": "Wants to focus on book reviews, request videos, and history videos"
+   },
+   {
+    "topic": "Swedish immigration history video",
+    "position": "Someone has asked for three years; he's open to doing it"
+   }
+  ],
+  "entities": [
+   "Boulder (Colorado)",
+   "Carnegie Library",
+   "Google Earth",
+   "Caribou (mining town)",
+   "Idaho Hill",
+   "Sweden (Swedish immigration topic)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.78,
+   "end": 8.72,
+   "text": "Hello, good morning. This is Living in Boulder Vlog for the 22nd of February 2016."
+  },
+  {
+   "start": 10.56,
+   "end": 16.92,
+   "text": "I got the idea to show, actually show, what I'm working on right now."
+  },
+  {
+   "start": 17.06,
+   "end": 19.54,
+   "text": "I've never done that because these Macs make it so easy."
+  },
+  {
+   "start": 19.6,
+   "end": 20.46,
+   "text": "I love QuickTime."
+  },
+  {
+   "start": 21.66,
+   "end": 24.12,
+   "text": "You just, you can do screen recordings just as easily."
+  },
+  {
+   "start": 24.34,
+   "end": 26.4,
+   "text": "So, well, let's go and I'll show you."
+  },
+  {
+   "start": 26.68,
+   "end": 28.64,
+   "text": "Okay, so this is what I'm working on."
+  },
+  {
+   "start": 28.64,
+   "end": 30.02,
+   "text": "This is Google Earth in Boulder."
+  },
+  {
+   "start": 30.02,
+   "end": 34.0,
+   "text": "These are all the lots."
+  },
+  {
+   "start": 35.76,
+   "end": 40.12,
+   "text": "I have it color-coded to my color scheme that I invented."
+  },
+  {
+   "start": 41.08,
+   "end": 47.0,
+   "text": "Only, starting here, one, two, three, four, five, six, seven, eight, nine."
+  },
+  {
+   "start": 47.6,
+   "end": 50.34,
+   "text": "Only ten instead of a darker shade of purple."
+  },
+  {
+   "start": 50.46,
+   "end": 52.92,
+   "text": "I have white because it works better this way."
+  },
+  {
+   "start": 53.66,
+   "end": 56.46,
+   "text": "You can't use white with writing because that's the background."
+  },
+  {
+   "start": 56.46,
+   "end": 64.98,
+   "text": "So, these are the buildings, all the little 3D buildings."
+  },
+  {
+   "start": 66.06,
+   "end": 72.74,
+   "text": "I think I'll eventually have them all brown to make it look realistic with the color and"
+  },
+  {
+   "start": 72.74,
+   "end": 74.28,
+   "text": "Then just have different, I don't know."
+  },
+  {
+   "start": 74.28,
+   "end": 79.62,
+   "text": "So, the blocks that I was working on are these ones."
+  },
+  {
+   "start": 79.8,
+   "end": 81.7,
+   "text": "This is what I ended yesterday."
+  },
+  {
+   "start": 81.7,
+   "end": 87.18,
+   "text": "And I'm working off of this map."
+  },
+  {
+   "start": 87.42,
+   "end": 90.84,
+   "text": "This is a map that I scanned off of the Carnegie Library."
+  },
+  {
+   "start": 92.76,
+   "end": 95.04,
+   "text": "Map of Boulder in 1915."
+  },
+  {
+   "start": 97.52,
+   "end": 99.0,
+   "text": "It's the most detailed map."
+  },
+  {
+   "start": 99.1,
+   "end": 103.44,
+   "text": "It's very large, so my computer can't handle recording and showing,"
+  },
+  {
+   "start": 103.44,
+   "end": 110.37,
+   "text": "Having Google Earth and having a map at the same time, so let's see if we can."
+  },
+  {
+   "start": 110.93,
+   "end": 112.21,
+   "text": "Here, I'll show you another map."
+  },
+  {
+   "start": 112.87,
+   "end": 122.09,
+   "text": "This is the 1898 map, so I'll have Boulder and all of the different times."
+  },
+  {
+   "start": 122.73,
+   "end": 124.29,
+   "text": "You can click it and see it grow."
+  },
+  {
+   "start": 125.23,
+   "end": 130.23,
+   "text": "We have 1864, which was just the grid of 12 blocks."
+  },
+  {
+   "start": 130.23,
+   "end": 131.37,
+   "text": "What is that?"
+  },
+  {
+   "start": 131.45,
+   "end": 132.93,
+   "text": "Six blocks by six blocks."
+  },
+  {
+   "start": 135.29,
+   "end": 145.18,
+   "text": "Then we have Boulder in 1868, so."
+  },
+  {
+   "start": 147.0,
+   "end": 147.9,
+   "text": "Yeah, so."
+  },
+  {
+   "start": 150.04,
+   "end": 151.48,
+   "text": "And I'll show you also."
+  },
+  {
+   "start": 151.64,
+   "end": 153.54,
+   "text": "When I'm done with Boulder and what I started first,"
+  },
+  {
+   "start": 153.6,
+   "end": 154.8,
+   "text": "These are all the different mining towns."
+  },
+  {
+   "start": 154.9,
+   "end": 159.52,
+   "text": "What I started first before I did Boulder was Caribou."
+  },
+  {
+   "start": 159.52,
+   "end": 175.74,
+   "text": "So, so if you perch yourself, these are all my little photo perches."
+  },
+  {
+   "start": 176.5,
+   "end": 183.52,
+   "text": "So if you perch yourself, like, up here where the top of Idaho Hill,"
+  },
+  {
+   "start": 184.1,
+   "end": 192.55,
+   "text": "You can see the actual town, Caribou."
+  },
+  {
+   "start": 196.11,
+   "end": 200.83,
+   "text": "And now there's, now nothing exists."
+  },
+  {
+   "start": 200.83,
+   "end": 205.9,
+   "text": "I'll show you, see if you can get rid of Caribou."
+  },
+  {
+   "start": 208.4,
+   "end": 211.46,
+   "text": "Now that's all that exists."
+  },
+  {
+   "start": 213.56,
+   "end": 213.82,
+   "text": "So."
+  },
+  {
+   "start": 215.28,
+   "end": 219.64,
+   "text": "And even this town, Aldora, started as a mining town."
+  },
+  {
+   "start": 220.3,
+   "end": 221.48,
+   "text": "And had a thousand people then."
+  },
+  {
+   "start": 221.56,
+   "end": 223.0,
+   "text": "That was, Caribou had a thousand people."
+  },
+  {
+   "start": 224.14,
+   "end": 224.54,
+   "text": "So."
+  },
+  {
+   "start": 225.58,
+   "end": 231.86,
+   "text": "I'm thinking that I'll be done with Boulder by the end of April."
+  },
+  {
+   "start": 231.86,
+   "end": 232.5,
+   "text": "So."
+  },
+  {
+   "start": 233.64,
+   "end": 234.16,
+   "text": "Whoops."
+  },
+  {
+   "start": 234.16,
+   "end": 237.42,
+   "text": "So, that is what I'm up to."
+  },
+  {
+   "start": 238.76,
+   "end": 239.2,
+   "text": "Um."
+  },
+  {
+   "start": 239.98,
+   "end": 243.98,
+   "text": "I forgot to point what I think I can do today, but."
+  },
+  {
+   "start": 244.62,
+   "end": 245.06,
+   "text": "Um."
+  },
+  {
+   "start": 245.18,
+   "end": 246.58,
+   "text": "Or, and what I did yesterday."
+  },
+  {
+   "start": 246.88,
+   "end": 247.82,
+   "text": "But I think it's like."
+  },
+  {
+   "start": 248.28,
+   "end": 250.6,
+   "text": "I'm working on a really confusing part."
+  },
+  {
+   "start": 251.44,
+   "end": 251.88,
+   "text": "Um."
+  },
+  {
+   "start": 252.94,
+   "end": 255.06,
+   "text": "And I wasn't able to zoom in on 2015."
+  },
+  {
+   "start": 256.62,
+   "end": 257.06,
+   "text": "But, um."
+  },
+  {
+   "start": 257.16,
+   "end": 259.3,
+   "text": "It's super confusing because, um."
+  },
+  {
+   "start": 261.82,
+   "end": 262.6,
+   "text": "It's all different."
+  },
+  {
+   "start": 262.6,
+   "end": 267.88,
+   "text": "And I can't really read the numbers on how much, how far it is on all of them."
+  },
+  {
+   "start": 268.02,
+   "end": 268.22,
+   "text": "So."
+  },
+  {
+   "start": 268.86,
+   "end": 270.16,
+   "text": "I have to guess a lot."
+  },
+  {
+   "start": 270.26,
+   "end": 272.38,
+   "text": "And then make it match what it, what I see."
+  },
+  {
+   "start": 272.86,
+   "end": 273.68,
+   "text": "And, um."
+  },
+  {
+   "start": 274.82,
+   "end": 277.5,
+   "text": "Like what it looks like on Google Earth where the lots are."
+  },
+  {
+   "start": 277.64,
+   "end": 277.98,
+   "text": "And so."
+  },
+  {
+   "start": 277.98,
+   "end": 278.04,
+   "text": "Uh."
+  },
+  {
+   "start": 278.54,
+   "end": 279.92,
+   "text": "Kind of might fit, find a balance."
+  },
+  {
+   "start": 279.92,
+   "end": 282.96,
+   "text": "So, um."
+  },
+  {
+   "start": 284.06,
+   "end": 285.14,
+   "text": "Yeah, maybe like."
+  },
+  {
+   "start": 286.28,
+   "end": 286.68,
+   "text": "Ten."
+  },
+  {
+   "start": 287.5,
+   "end": 288.96,
+   "text": "Up to ten blocks a day."
+  },
+  {
+   "start": 289.74,
+   "end": 290.58,
+   "text": "That I can do."
+  },
+  {
+   "start": 291.58,
+   "end": 292.02,
+   "text": "But."
+  },
+  {
+   "start": 293.02,
+   "end": 295.42,
+   "text": "The part that I need to do isn't very big."
+  },
+  {
+   "start": 295.8,
+   "end": 296.76,
+   "text": "I should have shown here."
+  },
+  {
+   "start": 297.18,
+   "end": 299.36,
+   "text": "Or the part that's really complicated isn't very big."
+  },
+  {
+   "start": 299.36,
+   "end": 301.04,
+   "text": "So today I'm going."
+  },
+  {
+   "start": 301.14,
+   "end": 303.36,
+   "text": "My priority is going to, um."
+  },
+  {
+   "start": 305.1,
+   "end": 306.22,
+   "text": "Be, um."
+  },
+  {
+   "start": 307.96,
+   "end": 309.06,
+   "text": "To, uh."
+  },
+  {
+   "start": 309.06,
+   "end": 310.94,
+   "text": "Get my phone working."
+  },
+  {
+   "start": 311.2,
+   "end": 312.86,
+   "text": "I have to find a little micro SD."
+  },
+  {
+   "start": 313.0,
+   "end": 314.28,
+   "text": "And if I don't have a micro SD."
+  },
+  {
+   "start": 314.42,
+   "end": 315.34,
+   "text": "I'm going to have to buy one."
+  },
+  {
+   "start": 316.58,
+   "end": 317.2,
+   "text": "And, uh."
+  },
+  {
+   "start": 317.2,
+   "end": 317.76,
+   "text": "Fill it up."
+  },
+  {
+   "start": 317.82,
+   "end": 320.46,
+   "text": "And then see if it can maintain contact with my phone."
+  },
+  {
+   "start": 320.56,
+   "end": 321.42,
+   "text": "Because, um."
+  },
+  {
+   "start": 322.8,
+   "end": 323.62,
+   "text": "It, uh."
+  },
+  {
+   "start": 323.84,
+   "end": 325.38,
+   "text": "This keeps losing contact."
+  },
+  {
+   "start": 325.38,
+   "end": 328.68,
+   "text": "And then I have to track down a poll."
+  },
+  {
+   "start": 328.84,
+   "end": 330.56,
+   "text": "I left a poll at a house."
+  },
+  {
+   "start": 332.34,
+   "end": 332.78,
+   "text": "So."
+  },
+  {
+   "start": 333.44,
+   "end": 334.92,
+   "text": "That's what I'm doing today."
+  },
+  {
+   "start": 335.12,
+   "end": 335.32,
+   "text": "Oh."
+  },
+  {
+   "start": 335.36,
+   "end": 338.26,
+   "text": "I don't really want to do the news with Kyle anymore."
+  },
+  {
+   "start": 338.46,
+   "end": 340.2,
+   "text": "Like I can't do that while I'm high."
+  },
+  {
+   "start": 340.32,
+   "end": 340.6,
+   "text": "Because."
+  },
+  {
+   "start": 341.74,
+   "end": 342.18,
+   "text": "Um."
+  },
+  {
+   "start": 343.4,
+   "end": 344.52,
+   "text": "It's just not interesting."
+  },
+  {
+   "start": 344.72,
+   "end": 345.9,
+   "text": "All this news stuff."
+  },
+  {
+   "start": 346.1,
+   "end": 346.24,
+   "text": "I'm."
+  },
+  {
+   "start": 346.94,
+   "end": 348.64,
+   "text": "I'm not really all that interested in."
+  },
+  {
+   "start": 348.64,
+   "end": 351.08,
+   "text": "And if I'm going to do videos on YouTube."
+  },
+  {
+   "start": 351.38,
+   "end": 351.6,
+   "text": "I want."
+  },
+  {
+   "start": 351.82,
+   "end": 353.0,
+   "text": "I should do book reviews."
+  },
+  {
+   "start": 353.28,
+   "end": 354.46,
+   "text": "And request videos."
+  },
+  {
+   "start": 354.6,
+   "end": 355.36,
+   "text": "And history videos."
+  },
+  {
+   "start": 355.66,
+   "end": 355.68,
+   "text": "So."
+  },
+  {
+   "start": 355.82,
+   "end": 356.18,
+   "text": "I'm just."
+  },
+  {
+   "start": 357.3,
+   "end": 358.24,
+   "text": "Leave all of that."
+  },
+  {
+   "start": 358.32,
+   "end": 359.08,
+   "text": "What's going on."
+  },
+  {
+   "start": 359.62,
+   "end": 360.46,
+   "text": "Gossip stuff."
+  },
+  {
+   "start": 360.58,
+   "end": 360.86,
+   "text": "To the."
+  },
+  {
+   "start": 361.46,
+   "end": 362.26,
+   "text": "Sober people."
+  },
+  {
+   "start": 363.64,
+   "end": 364.04,
+   "text": "So."
+  },
+  {
+   "start": 367.82,
+   "end": 368.22,
+   "text": "Um."
+  },
+  {
+   "start": 371.32,
+   "end": 371.72,
+   "text": "So."
+  },
+  {
+   "start": 371.94,
+   "end": 372.58,
+   "text": "I think."
+  },
+  {
+   "start": 372.72,
+   "end": 373.04,
+   "text": "Yeah."
+  },
+  {
+   "start": 373.16,
+   "end": 374.32,
+   "text": "Somebody wants me to do."
+  },
+  {
+   "start": 374.78,
+   "end": 376.3,
+   "text": "They've been asking me for like three years."
+  },
+  {
+   "start": 376.44,
+   "end": 378.8,
+   "text": "To do a history of Swedish immigration to America."
+  },
+  {
+   "start": 379.02,
+   "end": 379.3,
+   "text": "So."
+  },
+  {
+   "start": 380.62,
+   "end": 381.02,
+   "text": "Um."
+  },
+  {
+   "start": 381.02,
+   "end": 383.14,
+   "text": "I really want to get my phone fixed."
+  },
+  {
+   "start": 383.14,
+   "end": 384.56,
+   "text": "So I can listen to whatever I want."
+  },
+  {
+   "start": 384.66,
+   "end": 385.0,
+   "text": "I mean really."
+  },
+  {
+   "start": 385.14,
+   "end": 386.1,
+   "text": "This is going to be a quantum leap."
+  },
+  {
+   "start": 386.22,
+   "end": 387.08,
+   "text": "When you listen to whatever you want."
+  },
+  {
+   "start": 387.12,
+   "end": 387.64,
+   "text": "Whenever you want."
+  },
+  {
+   "start": 387.86,
+   "end": 388.48,
+   "text": "On your phone."
+  },
+  {
+   "start": 389.62,
+   "end": 389.8,
+   "text": "Yeah."
+  },
+  {
+   "start": 389.84,
+   "end": 390.5,
+   "text": "So anyways."
+  },
+  {
+   "start": 390.82,
+   "end": 391.36,
+   "text": "That's it."
+  },
+  {
+   "start": 391.64,
+   "end": 392.86,
+   "text": "Let's get this uploaded."
+  },
+  {
+   "start": 392.86,
+   "end": 393.86,
+   "text": "It."
+  }
+ ]
+}

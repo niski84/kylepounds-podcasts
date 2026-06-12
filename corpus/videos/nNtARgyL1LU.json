@@ -1,0 +1,492 @@
+{
+ "youtube_id": "nNtARgyL1LU",
+ "title": "Living in Boulder vlog 4/24/18: Google Earthing Boulder",
+ "url": "https://youtu.be/nNtARgyL1LU",
+ "published_at": "2018-04-25",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs at 2:56 AM about resuming a long-dormant Google Earth 3D reconstruction project of Boulder, Colorado. He explains he's uploading historical photos (from the 1850s–1970s) to Flickr and linking them to a KML file, and plans to build a polygon-based 3D model of Boulder with two versions — a lot-color version and a realistic version. He also briefly mentions burning out on a Spanish audio history book project he was working on before.",
+  "speaker": "kyle",
+  "topics": [
+   "Google Earth Boulder project",
+   "historical photos",
+   "Flickr uploading",
+   "3D modeling",
+   "late night vlog",
+   "Spanish audio history book",
+   "Boulder history"
+  ],
+  "stances": [
+   {
+    "topic": "SketchUp for 3D modeling",
+    "position": "Avoiding it — too expensive at $700 and fears getting carried away and never finishing"
+   },
+   {
+    "topic": "Google Earth Boulder project",
+    "position": "Excited to potentially finish it after a year-and-a-half hiatus"
+   },
+   {
+    "topic": "Spanish audio history book",
+    "position": "Burned out on it but made progress adding links"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Google Earth",
+   "Flickr",
+   "Boulder Public Library",
+   "Rome",
+   "Central City",
+   "Boulder Canyon"
+  ],
+  "date": "2018-04-24",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.02,
+   "end": 4.02,
+   "text": "Hello, I'm an involved VLOG. It's 256 AM."
+  },
+  {
+   "start": 4.02,
+   "end": 9.02,
+   "text": "On April 25th, I haven't done a video for few days."
+  },
+  {
+   "start": 9.02,
+   "end": 12.02,
+   "text": "I don't know how many days I've been really high."
+  },
+  {
+   "start": 12.02,
+   "end": 17.02,
+   "text": "So, um, my shoulder has been kind of sore."
+  },
+  {
+   "start": 17.02,
+   "end": 25.36,
+   "text": "Um, yeah, I think last time I did a video, I was working on my free audio history book page."
+  },
+  {
+   "start": 25.36,
+   "end": 29.36,
+   "text": "I was going to explain that later. It has like three different levels of"
+  },
+  {
+   "start": 29.36,
+   "end": 34.36,
+   "text": "Spanish and it's designed to read and it's certainly not going to read it though."
+  },
+  {
+   "start": 34.36,
+   "end": 37.36,
+   "text": "Thank you. So, um, but then I burned down on it."
+  },
+  {
+   "start": 37.36,
+   "end": 40.36,
+   "text": "I go like, I still have a couple of countries to go."
+  },
+  {
+   "start": 40.36,
+   "end": 44.36,
+   "text": "But um, yeah, but I added the links. So, that's definitely a good team of level."
+  },
+  {
+   "start": 44.36,
+   "end": 48.36,
+   "text": "And I worked on it. I can't remember how long, but um, but yeah, I kind of burned out."
+  },
+  {
+   "start": 48.36,
+   "end": 53.36,
+   "text": "So, today, I decided to look at a really interesting project that I have,"
+  },
+  {
+   "start": 53.36,
+   "end": 66.83,
+   "text": "that I started a long time ago and I've never finished, but I'm not that far from finishing."
+  },
+  {
+   "start": 66.83,
+   "end": 71.83,
+   "text": "Oh, thank you. Um, and it is Google or thing bolder."
+  },
+  {
+   "start": 71.83,
+   "end": 73.83,
+   "text": "I started that today."
+  },
+  {
+   "start": 73.83,
+   "end": 78.83,
+   "text": "So, um, so yeah, I still want to do it today. I was kind of, most of the day I was working on"
+  },
+  {
+   "start": 78.83,
+   "end": 82.83,
+   "text": "the other, just for the audience, for the audience, for the audience."
+  },
+  {
+   "start": 82.83,
+   "end": 85.83,
+   "text": "But I just can't remember what time I started it on this bit."
+  },
+  {
+   "start": 85.83,
+   "end": 89.83,
+   "text": "But I'm going to work on it for the last few hours and it's exciting."
+  },
+  {
+   "start": 89.83,
+   "end": 95.83,
+   "text": "So, right now what I'm doing is I noticed that,"
+  },
+  {
+   "start": 95.83,
+   "end": 101.83,
+   "text": "oh, um, on my Google Earth of Boulder that I made it from before."
+  },
+  {
+   "start": 101.83,
+   "end": 104.83,
+   "text": "And see, I haven't worked on it for like two years."
+  },
+  {
+   "start": 105.83,
+   "end": 108.83,
+   "text": "I was working on Google Earth and Boulder."
+  },
+  {
+   "start": 108.83,
+   "end": 112.83,
+   "text": "And I think the project that took over from that was Google Earth and wrong."
+  },
+  {
+   "start": 112.83,
+   "end": 114.83,
+   "text": "And that's what happened."
+  },
+  {
+   "start": 114.83,
+   "end": 119.83,
+   "text": "I remember correctly, and I know that I started Google Earth and Rome in December 15th,"
+  },
+  {
+   "start": 119.83,
+   "end": 124.83,
+   "text": "because of 2016."
+  },
+  {
+   "start": 124.83,
+   "end": 130.83,
+   "text": "And so yeah, maybe I was working on Google Earth and Boulder until about December 15th,"
+  },
+  {
+   "start": 130.83,
+   "end": 134.83,
+   "text": "2016 and for like a few months or something."
+  },
+  {
+   "start": 134.83,
+   "end": 137.83,
+   "text": "I was working on just on that."
+  },
+  {
+   "start": 137.83,
+   "end": 143.83,
+   "text": "So, so let's do December."
+  },
+  {
+   "start": 143.83,
+   "end": 148.83,
+   "text": "Yeah, it's like a year and a half, a year and a third."
+  },
+  {
+   "start": 148.83,
+   "end": 163.29,
+   "text": "So, um, so what I'm doing right now is, um,"
+  },
+  {
+   "start": 163.29,
+   "end": 167.29,
+   "text": "I noticed it on my Google Earth that I did from before."
+  },
+  {
+   "start": 167.29,
+   "end": 173.29,
+   "text": "I had all of these advantage points from all the different photos of Boulder."
+  },
+  {
+   "start": 173.29,
+   "end": 177.29,
+   "text": "And then I found out where they were taken and what angle."
+  },
+  {
+   "start": 177.29,
+   "end": 185.29,
+   "text": "So I put a marker and then I put a line and off in the direction."
+  },
+  {
+   "start": 185.29,
+   "end": 198.02,
+   "text": "And I have a whole bunch of those and so then I saw I have a whole bunch of photos for the ones that I used for that."
+  },
+  {
+   "start": 198.02,
+   "end": 203.02,
+   "text": "And I never uploaded them to Flickr."
+  },
+  {
+   "start": 203.02,
+   "end": 206.02,
+   "text": "So that's what I'm doing now."
+  },
+  {
+   "start": 206.02,
+   "end": 218.19,
+   "text": "I have to upload them individually because I put them in each photo and it's own Boulder for summers."
+  },
+  {
+   "start": 218.19,
+   "end": 225.19,
+   "text": "And I can't remember why, but I must have been for a good reason."
+  },
+  {
+   "start": 225.19,
+   "end": 232.19,
+   "text": "So, yeah, so I have to go into each folder and upload it each one individually to Flickr."
+  },
+  {
+   "start": 232.19,
+   "end": 236.19,
+   "text": "And so I'm not going to take a little time to that I have to wait."
+  },
+  {
+   "start": 236.19,
+   "end": 239.19,
+   "text": "So that's a lot because I don't know how much it is."
+  },
+  {
+   "start": 239.19,
+   "end": 243.19,
+   "text": "But I think I want to put them all in one folder."
+  },
+  {
+   "start": 243.19,
+   "end": 247.19,
+   "text": "I can't decide if I want to put them in like it."
+  },
+  {
+   "start": 247.19,
+   "end": 252.19,
+   "text": "Yeah, I think you can do infinite folders and Flickr now though."
+  },
+  {
+   "start": 252.19,
+   "end": 255.19,
+   "text": "You can do folder within folder within folders, much as you want though now."
+  },
+  {
+   "start": 255.19,
+   "end": 257.19,
+   "text": "But you could do that before."
+  },
+  {
+   "start": 257.19,
+   "end": 259.19,
+   "text": "So yeah, maybe that's what I'll do."
+  },
+  {
+   "start": 259.19,
+   "end": 262.19,
+   "text": "Yeah, it can't decide if I want to make folders just for the decades."
+  },
+  {
+   "start": 262.19,
+   "end": 269.19,
+   "text": "And he just for the years, none of the decades or for that just put everything together because they're my view like a thousand photos."
+  },
+  {
+   "start": 270.19,
+   "end": 274.19,
+   "text": "I found all the way up to the 1970s so um so yeah."
+  },
+  {
+   "start": 274.19,
+   "end": 281.19,
+   "text": "Because I never attached, I never uploaded the folders that I already collected from the light folder public library."
+  },
+  {
+   "start": 281.19,
+   "end": 283.19,
+   "text": "And a lot of them are waterstamped."
+  },
+  {
+   "start": 283.19,
+   "end": 288.19,
+   "text": "I can't just say, bolder public library around the circle and so I'm stupid."
+  },
+  {
+   "start": 288.19,
+   "end": 296.73,
+   "text": "But um, I have to attach those to my KM now like a cooler file of it."
+  },
+  {
+   "start": 296.73,
+   "end": 299.73,
+   "text": "So that when you click on it, it shows the picture."
+  },
+  {
+   "start": 299.73,
+   "end": 306.73,
+   "text": "So you can see the picture and then look at all the Google Earth, you know, or click on it and look at it on Flickr."
+  },
+  {
+   "start": 306.73,
+   "end": 317.73,
+   "text": "So yeah, so I have a whole bunch of photos, you know, I'm like halfway through the 1890s right now and I started in the 1850s."
+  },
+  {
+   "start": 317.73,
+   "end": 322.73,
+   "text": "Not to go to the 1870s, the 1890s and the 1999s are the biggest ones I think."
+  },
+  {
+   "start": 323.73,
+   "end": 335.73,
+   "text": "And it looks like there's hundreds just in the 1890s, but there's some guy, I can't remember what his name was, but he was Mr. photographer, extraordinarily, I lived in Boulder and just to all kinds of photos."
+  },
+  {
+   "start": 335.73,
+   "end": 340.73,
+   "text": "It was awesome there was a bite club and Boulder, there's a photo of them."
+  },
+  {
+   "start": 340.73,
+   "end": 343.73,
+   "text": "So um."
+  },
+  {
+   "start": 343.73,
+   "end": 350.73,
+   "text": "Yeah, so that's really exciting because if I can finish the Google Earth of Boulder."
+  },
+  {
+   "start": 350.73,
+   "end": 357.73,
+   "text": "That I can make it I'm going to have two versions I'm going to have the showing all the lots with the different good colors, but I'm also going to have the realistic version."
+  },
+  {
+   "start": 357.73,
+   "end": 362.73,
+   "text": "I'm only making it with the polygon tool, not with Sketchup because it's seven hundred dollars."
+  },
+  {
+   "start": 362.73,
+   "end": 367.73,
+   "text": "But I think I needed it's you know, I might get carried away with Sketchup and never finish you know."
+  },
+  {
+   "start": 367.73,
+   "end": 371.73,
+   "text": "So."
+  },
+  {
+   "start": 371.73,
+   "end": 375.73,
+   "text": "So yeah, to rebuild and bubbled it."
+  },
+  {
+   "start": 376.73,
+   "end": 381.73,
+   "text": "And you know, do all these photos and everything and then put those into YouTube videos."
+  },
+  {
+   "start": 381.73,
+   "end": 383.73,
+   "text": "Who can't wait."
+  },
+  {
+   "start": 383.73,
+   "end": 385.73,
+   "text": "So um."
+  },
+  {
+   "start": 385.73,
+   "end": 387.73,
+   "text": "But yeah, I'll just work on that as long as I can."
+  },
+  {
+   "start": 387.73,
+   "end": 390.73,
+   "text": "You know, if I burden out after two weeks."
+  },
+  {
+   "start": 390.73,
+   "end": 395.73,
+   "text": "Maybe cool cool thing would do is to like look at some, I'll go back start for a level."
+  },
+  {
+   "start": 395.73,
+   "end": 400.73,
+   "text": "But yeah, this is exciting because maybe I could finish Google Earth and Boulder."
+  },
+  {
+   "start": 400.73,
+   "end": 412.17,
+   "text": "And I can run. So and I also have like the rest of the whole area all the Boulder all the Boulder Canyon account county."
+  },
+  {
+   "start": 412.17,
+   "end": 416.17,
+   "text": "I'm a central city."
+  },
+  {
+   "start": 416.17,
+   "end": 426.17,
+   "text": "Boulder even though it's the last back in the 1870s and stuff, it was just as developed as Europe."
+  },
+  {
+   "start": 426.17,
+   "end": 431.17,
+   "text": "There are trains all over the mountains and towns."
+  },
+  {
+   "start": 431.17,
+   "end": 434.17,
+   "text": "So it's going to be fun to build."
+  },
+  {
+   "start": 434.17,
+   "end": 438.17,
+   "text": "So I'm going it's three and three the morning."
+  },
+  {
+   "start": 438.17,
+   "end": 444.17,
+   "text": "Yeah, I think I'm going to go right down and they're just to get back on the couch and work on that."
+  },
+  {
+   "start": 444.17,
+   "end": 445.17,
+   "text": "Still whatever."
+  },
+  {
+   "start": 445.17,
+   "end": 447.17,
+   "text": "I'm listening to."
+  },
+  {
+   "start": 447.17,
+   "end": 457.0,
+   "text": "Yeah, anyway, it's not like about that."
+  },
+  {
+   "start": 457.0,
+   "end": 461.0,
+   "text": "Okay, so that's enough talking for right now."
+  }
+ ]
+}

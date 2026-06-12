@@ -1,0 +1,893 @@
+{
+ "youtube_id": "8yvYKJouErM",
+ "title": "Living in Boulder vlog 10 -  22 -  2018: History Books",
+ "url": "https://youtu.be/8yvYKJouErM",
+ "published_at": "2018-10-23",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a late-night vlog update on his personal website project, which involves formatting and linking history books and classic texts (Plato, Aristotle, Josephus) for personal study. He discusses a detour into genealogy research tracing ancestors to Irish kings and Adam and Eve, shares his philosophy on memorizing books by breaking them into small chunks, and demonstrates how he uses the iOS text-to-speech feature to have books read aloud on his website.",
+  "speaker": "kyle",
+  "topics": [
+   "personal website development",
+   "book formatting and study methods",
+   "genealogy research",
+   "ancient philosophy",
+   "politics and government",
+   "Plato and Aristotle",
+   "text-to-speech demonstration",
+   "personal philosophy on productivity"
+  ],
+  "stances": [
+   {
+    "topic": "fixing the world",
+    "position": "Make yourself smarter than those in control and beat them with intellect"
+   },
+   {
+    "topic": "politics vs philosophy",
+    "position": "If people won't follow, give up on politics and become a philosopher — the truer pursuit"
+   },
+   {
+    "topic": "memorizing books",
+    "position": "Break books into small chunks and assault them from all sides rather than reading cover to cover"
+   },
+   {
+    "topic": "exercise and youth",
+    "position": "Prefers to focus on intellectual work now while young; will exercise later when the website is done"
+   },
+   {
+    "topic": "genealogy website accuracy",
+    "position": "Found errors in ancestral lines on Geni.com and chose to wait 10 years rather than fight the bad data"
+   },
+   {
+    "topic": "batch edits",
+    "position": "Wary of them after they corrupted chapter numbers on his website"
+   }
+  ],
+  "entities": [
+   "Plato",
+   "Aristotle",
+   "Josephus",
+   "Geni.com",
+   "Zedekiah",
+   "Ireland",
+   "Adam and Eve",
+   "Dreamweaver",
+   "Natural Reader",
+   "iPhone 10"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.11,
+   "end": 27.06,
+   "text": "Moving in Boulder V-Log for October 22nd of 2018, and it is currently 11.13pm on October 22nd, so, um, um, let me know if you like that angle, or if this angle is more supreme, this angle seems like the most supreme, okay,"
+  },
+  {
+   "start": 27.06,
+   "end": 57.94,
+   "text": "Okay, so, I'm gonna, um, put this video down, get the screen away, and just hope that the computer continues to record for me, okie dokie, so, uh, I haven't done a video for two weeks, so here's my bi-weekly video address, my fireside chat, I should do, uh, marijuana smoking while I do fireside, so, um, the last time that I did video, I was, um, I was working on the law code of, uh, America,"
+  },
+  {
+   "start": 57.94,
+   "end": 80.24,
+   "text": "Uh, I would say that's, and you know, when I started working, and I told my mom, she was like, ooh, and, um, plus my fiancé was like, ooh, and I felt good about it, I was like, it was like God was, or, you know, like the inside of me was like, good, even though it's a lot of work, because everybody likes to bitch and moan about the law,"
+  },
+  {
+   "start": 80.24,
+   "end": 91.04,
+   "text": "Well, I think the best way to fix the world is to just make yourself smarter than the guys in control, and then you beat the shit out of them with your intellect,"
+  },
+  {
+   "start": 91.04,
+   "end": 101.08,
+   "text": "So, if you just go into, but you have to, you have to have come armed with bazookas, so, that's how you go in, and you look at the law, like, you could download the file,"
+  },
+  {
+   "start": 101.08,
+   "end": 108.28,
+   "text": "I'm gonna offer my U.S. law code as a file to download, and then people can open it on their Dreamweaver or whatever, and modify it themselves,"
+  },
+  {
+   "start": 108.36,
+   "end": 114.32,
+   "text": "Because what you do is, you just have the American law code on your website, and all the law codes all the way to your local district,"
+  },
+  {
+   "start": 114.82,
+   "end": 121.38,
+   "text": "And then you, and then in red, you know, like how you turn your paper in to your teacher, they give it back red,"
+  },
+  {
+   "start": 121.38,
+   "end": 128.62,
+   "text": "You just fill up the law code with red, and then you run for office, and you go, look at my red law code, and that's it,"
+  },
+  {
+   "start": 128.94,
+   "end": 134.6,
+   "text": "That puts you at a higher IQ level than everybody else, and so, and if people don't follow along,"
+  },
+  {
+   "start": 135.5,
+   "end": 143.28,
+   "text": "Then, uh, that's their fucking problem, that's where you, that's where you give up on politics and become a philosopher,"
+  },
+  {
+   "start": 143.28,
+   "end": 159.81,
+   "text": "Which is the ultimate true passion, uh, pursuit, so, um, but, uh, little did I know, I actually"
+  },
+  {
+   "start": 159.81,
+   "end": 166.25,
+   "text": "Abandoned that project, well, I, uh, I'm doing sweep style, when I work on it, I go, I do first level,"
+  },
+  {
+   "start": 166.33,
+   "end": 171.13,
+   "text": "And then I come back down to first level, to the, I went up to the end and back down, because that's"
+  },
+  {
+   "start": 171.13,
+   "end": 175.57,
+   "text": "54 chapters, and when I got to the bottom, I was like, okay, because I was trying to have these books"
+  },
+  {
+   "start": 175.57,
+   "end": 180.15,
+   "text": "Read to me on my website, the history books, and they were all fucked, I was like, what the fuck,"
+  },
+  {
+   "start": 180.25,
+   "end": 184.37,
+   "text": "I thought that I was done, like, that's why I worked on the law code, because I thought I was"
+  },
+  {
+   "start": 184.37,
+   "end": 191.27,
+   "text": "Done, turns out I wasn't done, I'm like, not even close to done of anything, so, I was just, I was"
+  },
+  {
+   "start": 191.27,
+   "end": 195.49,
+   "text": "Like, fuck this, so I just went, and I'm trying to fix all the books that are already on my website,"
+  },
+  {
+   "start": 196.05,
+   "end": 200.29,
+   "text": "Because I realized my plenty, like, none of the links work on half of my fucking pages, so,"
+  },
+  {
+   "start": 200.97,
+   "end": 206.15,
+   "text": "And I did a batch edit, which fucked it, which took away the numbers of the chapters, I did,"
+  },
+  {
+   "start": 206.15,
+   "end": 211.05,
+   "text": "That everybody had, like, one point period, and two period, and stuff, and I was like, all right,"
+  },
+  {
+   "start": 211.09,
+   "end": 216.55,
+   "text": "One period, and just hitting one period's away, somehow in the code, whatever, it took away all"
+  },
+  {
+   "start": 216.55,
+   "end": 222.75,
+   "text": "These numbers, all the fucking numbers, so, I had to punch them back in manually, and hopefully it"
+  },
+  {
+   "start": 222.75,
+   "end": 228.35,
+   "text": "Didn't screw up with too many, like, dates on the actual written papers, but I do have the backup"
+  },
+  {
+   "start": 228.35,
+   "end": 234.39,
+   "text": "From before on my, on this computer, so, but, uh, and I use it every once in a while, when I'm like,"
+  },
+  {
+   "start": 234.39,
+   "end": 237.39,
+   "text": "Oh, shit, there's a date that I know isn't complete, I just look on this computer, and I"
+  },
+  {
+   "start": 237.39,
+   "end": 243.65,
+   "text": "Fill it in, but, um, yeah, batch edits don't always work, Dreamweaver's weird sometimes,"
+  },
+  {
+   "start": 243.79,
+   "end": 252.59,
+   "text": "Yeah, but whatever, I don't want to talk about that, um, so, um, uh, yeah, so, yeah, so what,"
+  },
+  {
+   "start": 252.69,
+   "end": 258.53,
+   "text": "I, I didn't think that I was going to abandon that project, but I did, oh, um, well, I was"
+  },
+  {
+   "start": 258.53,
+   "end": 261.87,
+   "text": "Working on the pages, and then I, but, but then I didn't think I was going to abandon the"
+  },
+  {
+   "start": 261.87,
+   "end": 266.05,
+   "text": "Project where I'm working on, on the books that I already have, because I suddenly, somehow,"
+  },
+  {
+   "start": 266.05,
+   "end": 274.57,
+   "text": "I can't remember, there's a splinter in my, in my hand, somehow, um, um, I got looking in my"
+  },
+  {
+   "start": 274.57,
+   "end": 280.81,
+   "text": "Ancestors, and I noticed an ancestor website called, uh, Jenny.com, if you go on Jenny.com,"
+  },
+  {
+   "start": 280.91,
+   "end": 285.57,
+   "text": "G-E-N-I.com, and then if you, if you have a list of ancestors, and you know somebody in your family"
+  },
+  {
+   "start": 285.57,
+   "end": 290.35,
+   "text": "You're related to, like, from 100 years ago, or whatever, or maybe not that long, just type people,"
+  },
+  {
+   "start": 290.35,
+   "end": 295.71,
+   "text": "They might show up on the website, and then you can click on son of, son of, and I trace my way"
+  },
+  {
+   "start": 295.71,
+   "end": 302.25,
+   "text": "All the way back to Adam and Eve, because I trace my way back through the kings of, um, I'm not very"
+  },
+  {
+   "start": 302.25,
+   "end": 311.13,
+   "text": "Far away from kings of Ireland, like, uh, I don't have my website here, but my, uh, like, my grandfather's"
+  },
+  {
+   "start": 311.13,
+   "end": 318.39,
+   "text": "Grandmother was, uh, a McDonald, and she was the granddaughter of the grandson of a king of Ireland,"
+  },
+  {
+   "start": 318.39,
+   "end": 326.63,
+   "text": "And they traced that back, but, uh, but it went from, like, um, uh, this one guy was born 100 AD,"
+  },
+  {
+   "start": 326.79,
+   "end": 331.41,
+   "text": "And then his father was from 100 BC, so they skipped, and that, and there was another problem"
+  },
+  {
+   "start": 331.41,
+   "end": 337.09,
+   "text": "Where, uh, this guy's father was, like, some dude who lived 200 years after him, so they screwed up"
+  },
+  {
+   "start": 337.09,
+   "end": 341.77,
+   "text": "The line, so I gave up, and I'll let them, I'll go and look at that website in 10 years, and maybe it'll"
+  },
+  {
+   "start": 341.77,
+   "end": 347.25,
+   "text": "Be fixed, and then that'd be cool to make all of your family lines, like, every single one you can find,"
+  },
+  {
+   "start": 347.25,
+   "end": 353.65,
+   "text": "Even if it's 100, you just, and then you could have, like, earliest ancestor list, or how many"
+  },
+  {
+   "start": 353.65,
+   "end": 359.27,
+   "text": "Lines you can trace back to Adam and Eve. The way I go back to Adam and Eve is, Irish legend has it"
+  },
+  {
+   "start": 359.27,
+   "end": 365.65,
+   "text": "That the, uh, son of the last king of Judah, Zedekiah's daughter, fled to Israel, I mean, Ireland,"
+  },
+  {
+   "start": 365.65,
+   "end": 375.75,
+   "text": "And married the king, and so, um, and, uh, but, um, so, man, and, you know, most people should try it,"
+  },
+  {
+   "start": 375.77,
+   "end": 380.01,
+   "text": "Because, you know, if you go that far back, probably all of us are directly related to famous kings and"
+  },
+  {
+   "start": 380.01,
+   "end": 384.13,
+   "text": "Queens, because it was back in those days, it was the rich that had the babies, and they made sure"
+  },
+  {
+   "start": 384.13,
+   "end": 390.91,
+   "text": "That poor people didn't, um, and, uh, so, yeah, I mean, I was looking at some of these lists, women were"
+  },
+  {
+   "start": 390.91,
+   "end": 396.97,
+   "text": "Having 18 children, and I was like, whoa! So, uh, and some of them were living forever, too. One lady,"
+  },
+  {
+   "start": 397.09,
+   "end": 402.13,
+   "text": "One of my grandmamas lived from the 1500s, lived 111 years, and then, of course, in biblical times,"
+  },
+  {
+   "start": 402.19,
+   "end": 408.83,
+   "text": "They think they lived forever, but, um, um, so that's what I did, but then I, you know, I got stuck,"
+  },
+  {
+   "start": 408.91,
+   "end": 412.73,
+   "text": "So I gave up before bashing my head in the wall and trying to work around it, which was good,"
+  },
+  {
+   "start": 413.07,
+   "end": 416.43,
+   "text": "And so then I started working on the books again, and so that's what I'm doing. I'm, um,"
+  },
+  {
+   "start": 416.43,
+   "end": 425.07,
+   "text": "I'm doing, um, plenty right now, and, uh, I'm attaching the, uh, the page numbers to all the"
+  },
+  {
+   "start": 425.07,
+   "end": 431.67,
+   "text": "Chapters, and there's 2,600 chapters in plenty, so that's a lot of work. It took me, like, two full"
+  },
+  {
+   "start": 431.67,
+   "end": 438.23,
+   "text": "Days, and then tomorrow, maybe I'll finish tomorrow, and I, and then I batch edit, um, converting the,"
+  },
+  {
+   "start": 438.23,
+   "end": 444.51,
+   "text": "Uh, page numbers to the time, and, um, but for some reason the batch edit didn't work on this other,"
+  },
+  {
+   "start": 444.51,
+   "end": 450.25,
+   "text": "Because I also put, uh, Josephus, uh, Jewish Wars in there, the, the, uh, the menu for it,"
+  },
+  {
+   "start": 450.27,
+   "end": 455.63,
+   "text": "So I could batch edit the, uh, the time into that along with it, but it didn't do it, so I have to"
+  },
+  {
+   "start": 455.63,
+   "end": 460.09,
+   "text": "Do that manually. The code was, like, something different. I don't know. I didn't bother to look,"
+  },
+  {
+   "start": 460.15,
+   "end": 465.21,
+   "text": "But, yeah, so, anyways, uh, and then I have to finish the links. The links in plenty don't work,"
+  },
+  {
+   "start": 465.23,
+   "end": 470.15,
+   "text": "And then I have to attach the words, so I thought I did all that, but anyways, yeah, and then I'll work"
+  },
+  {
+   "start": 470.15,
+   "end": 475.03,
+   "text": "Down the line, and then once I'm done, and I make sure, again, I've done, it seems like I've done"
+  },
+  {
+   "start": 475.03,
+   "end": 478.57,
+   "text": "This, like, a dozen times in my timeline, too, like, I think I fixed all the links, and then there,"
+  },
+  {
+   "start": 478.67,
+   "end": 482.59,
+   "text": "I go back, and none of the links work. I wouldn't be surprised if I go to back to my timeline tomorrow,"
+  },
+  {
+   "start": 482.69,
+   "end": 486.07,
+   "text": "And I click around, and none of the fucking links work all over it, even though I could have sworn"
+  },
+  {
+   "start": 486.07,
+   "end": 491.11,
+   "text": "Ten times before I did the sweep, and I made sure all of them work, but, uh, yeah, be careful for"
+  },
+  {
+   "start": 491.11,
+   "end": 500.11,
+   "text": "Batch edit that way. Maybe they can fuck up links, but, um, um, anyway, so, uh, um, and while,"
+  },
+  {
+   "start": 500.15,
+   "end": 504.03,
+   "text": "While I'm doing this, somebody gave me a request to do a video about monarchy, and that's a really"
+  },
+  {
+   "start": 504.03,
+   "end": 507.77,
+   "text": "Good request, so then I decided I wanted to study all the different forms of government"
+  },
+  {
+   "start": 507.77,
+   "end": 515.45,
+   "text": "From Plato and Aristotle, so I wanted to, I wanted to learn, like, memorize, uh, Aristotle"
+  },
+  {
+   "start": 515.45,
+   "end": 519.99,
+   "text": "Politics and Plato Republic, because those are the books where they talk, and then Plato Dialogues,"
+  },
+  {
+   "start": 520.55,
+   "end": 530.36,
+   "text": "Because those are the books where they talk about politics, and, um, and, um, uh, but I'm"
+  },
+  {
+   "start": 530.36,
+   "end": 535.48,
+   "text": "Really high, and so it's hard to kind of figure it all out, and so what I want to do is just"
+  },
+  {
+   "start": 535.48,
+   "end": 540.8,
+   "text": "Listen to it over and over again, listen to people talking about it, and then, um, and"
+  },
+  {
+   "start": 540.8,
+   "end": 545.14,
+   "text": "Then when I get around to it, I'm going to go back to all those two books, those books"
+  },
+  {
+   "start": 545.14,
+   "end": 551.4,
+   "text": "On my website, and I'm going to title all of the chapters, because I never did that, I"
+  },
+  {
+   "start": 551.4,
+   "end": 554.92,
+   "text": "Only numbered all the chapters, and, uh, and I see that they're actually already titled,"
+  },
+  {
+   "start": 554.92,
+   "end": 560.12,
+   "text": "Like, on Dialogues, so, um, I, yeah, I didn't get around to finishing those books, so I'll"
+  },
+  {
+   "start": 560.12,
+   "end": 563.9,
+   "text": "Finish those books, and then I'll listen to them on my website again after I'm finished,"
+  },
+  {
+   "start": 564.08,
+   "end": 568.02,
+   "text": "Like, the main reason I'm putting all these books on my website isn't to make money or"
+  },
+  {
+   "start": 568.02,
+   "end": 572.5,
+   "text": "Whatever, um, or help other people read books, it's so that it's for me, like, I need them"
+  },
+  {
+   "start": 572.5,
+   "end": 576.54,
+   "text": "To look the way that I need them to look, um, I need to have them all on one, you know,"
+  },
+  {
+   "start": 577.12,
+   "end": 582.94,
+   "text": "One page and all that stuff, color-coded, and then I can put the photos next to it, and then"
+  },
+  {
+   "start": 582.94,
+   "end": 586.88,
+   "text": "It'll be really good, when you have photos on either side, then you can scroll down,"
+  },
+  {
+   "start": 586.96,
+   "end": 589.54,
+   "text": "You look at the photos, and whenever you hear something, you go, okay, what photo is that"
+  },
+  {
+   "start": 589.54,
+   "end": 593.86,
+   "text": "Next to it, and it helps you memorize the book, that's how you memorize books, you just"
+  },
+  {
+   "start": 593.86,
+   "end": 597.72,
+   "text": "Chop them up, like, you look at the book, you go, how many pages, then you go, how many"
+  },
+  {
+   "start": 597.72,
+   "end": 600.82,
+   "text": "Chapters, okay, what are the name of the chapters, how big are the chapters, what are the chapters"
+  },
+  {
+   "start": 600.82,
+   "end": 603.76,
+   "text": "In the chapters, what are the names of the chapters in the chapters, you know, kind of"
+  },
+  {
+   "start": 603.76,
+   "end": 607.9,
+   "text": "Like, how do you just, how do you destroy a hard candy really fast, you chew it, chew it,"
+  },
+  {
+   "start": 607.92,
+   "end": 611.08,
+   "text": "Chew it, suck it, chew it, chew it, chew it, when it's all tiny little, little"
+  },
+  {
+   "start": 611.08,
+   "end": 615.22,
+   "text": "Pieces, it's just getting assaulted by saliva on all sides, the same thing with a book,"
+  },
+  {
+   "start": 615.28,
+   "end": 619.26,
+   "text": "You just assault it from all sides, you break it up, you don't just read it cover to cover,"
+  },
+  {
+   "start": 620.78,
+   "end": 625.58,
+   "text": "You know, and then, and then never read it again, I was talking to somebody the other"
+  },
+  {
+   "start": 625.58,
+   "end": 629.76,
+   "text": "Day, I'm like, yeah, I'm reading Pray Through the Republic, they're like, ah, Pray Through"
+  },
+  {
+   "start": 629.76,
+   "end": 635.12,
+   "text": "The Republic, no, I had to read that in college, you know, you have to look at those books as"
+  },
+  {
+   "start": 635.12,
+   "end": 640.06,
+   "text": "Something that you just have to read over and over again, and maybe, you know, and there's"
+  },
+  {
+   "start": 640.06,
+   "end": 644.58,
+   "text": "Certain books that are important to learn, you know, even if it, you have to read them"
+  },
+  {
+   "start": 644.58,
+   "end": 651.06,
+   "text": "A hundred times, but, yeah, but it's kind of fun, I guess, to sit there and be high and"
+  },
+  {
+   "start": 651.06,
+   "end": 661.16,
+   "text": "Try to listen to Plato, um, I, um, uh, somebody said on a comment, like, lose weight, fat fuck,"
+  },
+  {
+   "start": 661.16,
+   "end": 669.98,
+   "text": "Or whatever, um, I, uh, and people might think I'm, like, weird for sitting around on my ass"
+  },
+  {
+   "start": 669.98,
+   "end": 676.98,
+   "text": "And stuff, and, um, but, I mean, my philosophy is I'm gonna, um, I think I got it out, I'm"
+  },
+  {
+   "start": 676.98,
+   "end": 682.56,
+   "text": "Going to, um, I'm gonna sit here, this is a really good design, where you get to lay on"
+  },
+  {
+   "start": 682.56,
+   "end": 686.8,
+   "text": "Your back all day long, because it's like, you're not injuring anything or whatever, and,"
+  },
+  {
+   "start": 686.8,
+   "end": 692.26,
+   "text": "Uh, yeah, and, uh, and just work, and, you know, just be glad that you have your youth"
+  },
+  {
+   "start": 692.26,
+   "end": 696.46,
+   "text": "And your health, I was listening to Plato, and he's talking about the dialogues, and it's"
+  },
+  {
+   "start": 696.46,
+   "end": 702.1,
+   "text": "These old guys talking about how, you know, sometimes when you get old, the grumpier guys"
+  },
+  {
+   "start": 702.1,
+   "end": 709.68,
+   "text": "Are, like, they lament how they can't, like, you don't, you don't value, um, you don't value"
+  },
+  {
+   "start": 709.68,
+   "end": 713.62,
+   "text": "Physical health and not having physical pains until you have them, and then all of a sudden"
+  },
+  {
+   "start": 713.62,
+   "end": 719.46,
+   "text": "You're like, oh, you know, so I'm trying to, I think the best thing is to just, uh, enjoy"
+  },
+  {
+   "start": 719.46,
+   "end": 724.54,
+   "text": "My youth is to, uh, sit here and work on the website, because I can't do it as, as, uh,"
+  },
+  {
+   "start": 725.3,
+   "end": 730.22,
+   "text": "Well, enjoyably later, so just do as long as you can, and then when I have to, then that's"
+  },
+  {
+   "start": 730.22,
+   "end": 739.22,
+   "text": "When I'll start exercising, but, um, um, because I get, like, passive income, and, um, I, uh,"
+  },
+  {
+   "start": 739.22,
+   "end": 746.16,
+   "text": "If the world is dying, um, I would be, I don't want to be, uh, like, a lame-ass and just,"
+  },
+  {
+   "start": 746.16,
+   "end": 752.48,
+   "text": "Like, be, have fun biking, like, that doesn't help anybody, um, I want to do something to"
+  },
+  {
+   "start": 752.48,
+   "end": 758.56,
+   "text": "Change the world, and then I'll be able to have fun, you know, exercise, and then I could"
+  },
+  {
+   "start": 758.56,
+   "end": 764.24,
+   "text": "Keep helping by learning and then doing YouTube videos, so, so I have to finish, but the problem"
+  },
+  {
+   "start": 764.24,
+   "end": 771.12,
+   "text": "Is I keep starting new things, and so then I have to finish them, and, uh, uh, that, that, that,"
+  },
+  {
+   "start": 771.12,
+   "end": 775.5,
+   "text": "Uh, extends the, uh, the time I'm going to be done, I think it'll be done in about three years,"
+  },
+  {
+   "start": 775.96,
+   "end": 784.92,
+   "text": "I mean, two and a half years, 30 months, or maybe three years, um, uh, so, um, uh, yeah,"
+  },
+  {
+   "start": 784.96,
+   "end": 791.04,
+   "text": "I'm really looking forward to doing a video on Play-Doh, like, I feel like if I can do a video on"
+  },
+  {
+   "start": 791.04,
+   "end": 800.06,
+   "text": "Play-Doh, um, I, uh, I'm, like, in the club of fucking intellectuals, you know, like, that's,"
+  },
+  {
+   "start": 800.08,
+   "end": 806.88,
+   "text": "That's way up there on a list of accomplishments, so I want to talk about monarchy, but I want"
+  },
+  {
+   "start": 806.88,
+   "end": 810.8,
+   "text": "To listen to the videos more, I'm listening to Play-Doh, this dude read it on YouTube here,"
+  },
+  {
+   "start": 811.88,
+   "end": 816.54,
+   "text": "I was listening to my computer read it to me, I mean, my cell phone as well, both of them,"
+  },
+  {
+   "start": 816.54,
+   "end": 823.02,
+   "text": "So, um, I feel like I, I was going to say something, but I forgot, but I, like, can't"
+  },
+  {
+   "start": 823.02,
+   "end": 832.6,
+   "text": "Think of it, um, uh, but I've talked for 13 minutes and 50 seconds, pretty much said the"
+  },
+  {
+   "start": 832.6,
+   "end": 838.66,
+   "text": "Same thing that I always say, but, um, you know, if people watch my videos every day, what"
+  },
+  {
+   "start": 838.66,
+   "end": 847.5,
+   "text": "You should do to make it the complete experience, you should look at the page, at the section"
+  },
+  {
+   "start": 847.5,
+   "end": 852.32,
+   "text": "Of my website that I'm talking about, because that's, because that stuff's under, under heat,"
+  },
+  {
+   "start": 852.62,
+   "end": 859.44,
+   "text": "That stuff's under motion, and so right now, my history book section is hot, and, like, in"
+  },
+  {
+   "start": 859.44,
+   "end": 864.48,
+   "text": "A couple weeks, all those links are going to be fixed, all those, and then there's going"
+  },
+  {
+   "start": 864.48,
+   "end": 872.7,
+   "text": "To be more books on there, and so, um, yeah, man, and, and you should get in the habit of"
+  },
+  {
+   "start": 872.7,
+   "end": 877.7,
+   "text": "Having the, having your cell phone read books to you on my website, because all you do is"
+  },
+  {
+   "start": 877.7,
+   "end": 882.86,
+   "text": "You, uh, on the iPhone 10, you just hit the book, you just hold your hand on it, the thing"
+  },
+  {
+   "start": 882.86,
+   "end": 890.9,
+   "text": "Pops up, you just drag it down, hold it at the bottom, it just drags down, where's my phone,"
+  },
+  {
+   "start": 890.9,
+   "end": 897.04,
+   "text": "Oh, it's getting charged, maybe I should show you, I'm, like, trying to describe, I'm a"
+  },
+  {
+   "start": 897.04,
+   "end": 903.76,
+   "text": "Dumbass, all right, so, here's my website, right, there's my website, that's, like, one"
+  },
+  {
+   "start": 903.76,
+   "end": 912.01,
+   "text": "Of the books, oh, shit, you can't see shit, I can't see shit, okay, oh, you can see it"
+  },
+  {
+   "start": 912.01,
+   "end": 921.18,
+   "text": "If you do it sideways, okay, watch this, here, well, the, the, it doesn't always, oh, here"
+  },
+  {
+   "start": 921.18,
+   "end": 930.0,
+   "text": "There, you see that, you see that, you see that, huh, you like that, you can just hold"
+  },
+  {
+   "start": 930.0,
+   "end": 936.26,
+   "text": "It down all the frickin' way, dude, whole goddamn book, check that out, I think this is Plato,"
+  },
+  {
+   "start": 936.5,
+   "end": 943.32,
+   "text": "No, no, this is Aristotle, um, Aristotle politics, okay, that's chapter two, because it's orange,"
+  },
+  {
+   "start": 944.18,
+   "end": 948.72,
+   "text": "Now watch this, that was pretty much all of chapter two, oh, shit, I lost my connection,"
+  },
+  {
+   "start": 948.72,
+   "end": 954.64,
+   "text": "Ah, lickety-dick, here, I'm doing it again, you have to be careful not to lose, okay,"
+  },
+  {
+   "start": 954.68,
+   "end": 959.66,
+   "text": "And then you stop, you let go, and then, and then this pops up, and then you hit speak,"
+  },
+  {
+   "start": 960.5,
+   "end": 960.72,
+   "text": "Watch,"
+  },
+  {
+   "start": 960.72,
+   "end": 976.5,
+   "text": "And if you wanted to stop it, you can just minimize it, or you hit that, and if you turn the screen"
+  },
+  {
+   "start": 976.5,
+   "end": 980.68,
+   "text": "Off, it'll stop, so you have to keep the screen on, but yeah, that's how frickin' simple it"
+  },
+  {
+   "start": 980.68,
+   "end": 985.76,
+   "text": "Is, dude, you could do a 350-page book, and like, uh, it only takes a few seconds, 30 seconds,"
+  },
+  {
+   "start": 985.86,
+   "end": 989.56,
+   "text": "Probably, or whatever, less than a minute, you're down to the bottom of the book, you let go,"
+  },
+  {
+   "start": 990.3,
+   "end": 995.04,
+   "text": "Speech comes up, hit speech, and boom, you're off to the races, don't even have to buy, um,"
+  },
+  {
+   "start": 995.76,
+   "end": 998.42,
+   "text": "Natural reader, the problem with natural reader is when you're on the natural reader browser,"
+  },
+  {
+   "start": 998.52,
+   "end": 1003.68,
+   "text": "You can't click to certain spots on the book, but with the regular browser, which reads to you,"
+  },
+  {
+   "start": 1003.86,
+   "end": 1009.52,
+   "text": "You can click around on the book, and so that's, that's a big bobo, bonus, because like,"
+  },
+  {
+   "start": 1009.52,
+   "end": 1014.04,
+   "text": "Right here is my book, right, here, we'll do it, it's diagonal, you just do double click,"
+  },
+  {
+   "start": 1014.58,
+   "end": 1019.28,
+   "text": "What the fuck, oh, I actually hit a fucking link on accident, because that's one of those"
+  },
+  {
+   "start": 1019.28,
+   "end": 1024.78,
+   "text": "Books that's fucked that you have to fix, man, and you have all these books, nothing's fucking"
+  },
+  {
+   "start": 1024.78,
+   "end": 1033.04,
+   "text": "Fixed, and then you do a demo, and the fucking thing you hit's fucked, anyway, so you hit that,"
+  },
+  {
+   "start": 1033.04,
+   "end": 1039.5,
+   "text": "It goes up, and then, and whatever, I'll describe it later, so hey, uh, that's a good video, man,"
+  },
+  {
+   "start": 1039.62,
+   "end": 1042.52,
+   "text": "Sorry if it was a little long, and I'll talk to you in a couple weeks,"
+  }
+ ]
+}

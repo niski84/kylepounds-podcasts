@@ -1,0 +1,229 @@
+{
+ "youtube_id": "ZZa_I8B0Aw8",
+ "title": "Living in Boulder Vlog 12 - 31 - 2016",
+ "url": "https://youtu.be/ZZa_I8B0Aw8",
+ "published_at": "2017-01-01",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs on New Year's Eve 2016 from his Boulder home. He spent the day helping his mom reorganize cables on her TVs, received five surround sound speakers and $30 in payment, and returned home to continue reorganizing his own room — which he had neglected since moving in. He also describes drilling a hole between rooms for outlets, capturing Google Earth screenshots of bike racer routes to wallpaper his room, and dealing with a slow video upload.",
+  "speaker": "kyle",
+  "topics": [
+   "room organization",
+   "family visit",
+   "home setup",
+   "New Year's Eve 2016",
+   "internet/tech setup",
+   "bike racing content creation",
+   "living in Boulder"
+  ],
+  "stances": [
+   {
+    "topic": "room organization",
+    "position": "feels good to finally clear out the clutter he let pile up after moving in"
+   },
+   {
+    "topic": "helping his mom",
+    "position": "happy to help but treats it as casual paid labor ($30)"
+   }
+  ],
+  "entities": [
+   "Kyle's mom",
+   "Boulder",
+   "Google Earth"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.17,
+   "end": 10.85,
+   "text": "Hello, living in Boulder vlog. Oh, and this is the 30th. This is the 31st of December 2016."
+  },
+  {
+   "start": 12.69,
+   "end": 21.19,
+   "text": "So, um, it feels like every single day I do a video, it seems like a hundred years has gone by"
+  },
+  {
+   "start": 21.19,
+   "end": 32.59,
+   "text": "And not just one day. It's crazy for me because I'm changing around my room so much. And actually"
+  },
+  {
+   "start": 32.59,
+   "end": 37.35,
+   "text": "Today I was, I went over and I was doing the same stuff at my mom's house that I was doing"
+  },
+  {
+   "start": 37.35,
+   "end": 42.63,
+   "text": "It myself. Damn, I'm reorganizing my room and like the cables and everything. And so"
+  },
+  {
+   "start": 42.63,
+   "end": 47.59,
+   "text": "Today my mom called me and wanted me to come over and I went and reorganized the cables"
+  },
+  {
+   "start": 47.59,
+   "end": 53.51,
+   "text": "On her, like three of her TVs. And one of them was total disaster area and all these cables"
+  },
+  {
+   "start": 53.51,
+   "end": 60.62,
+   "text": "On it that didn't need to be there. But, oh, and I think I have it here. Yeah. But she"
+  },
+  {
+   "start": 60.62,
+   "end": 64.94,
+   "text": "Gave me these five like surround sound speakers. I want to see if I can hook it up to my phone,"
+  },
+  {
+   "start": 65.08,
+   "end": 70.94,
+   "text": "My TV. I just remembered that I had it, um, which is part of her gobbledygook problem, but"
+  },
+  {
+   "start": 70.94,
+   "end": 78.96,
+   "text": "That'd be cool if I could get to work here on my new TV. So, but, um, yeah. And then all"
+  },
+  {
+   "start": 78.96,
+   "end": 85.5,
+   "text": "This other stuff vacuums and all that. So what'd she pay me? I got 30 bucks out of it. Um,"
+  },
+  {
+   "start": 87.3,
+   "end": 92.54,
+   "text": "But, uh, but then I came back here and now I'm, uh, I'm, I'm, I'm, I'm fixing, I'm, I'm"
+  },
+  {
+   "start": 92.54,
+   "end": 98.06,
+   "text": "Getting screen captures of bike racer level stuff so that I can paste it all over my walls"
+  },
+  {
+   "start": 98.06,
+   "end": 106.54,
+   "text": "To my room. Um, from Google Earth. Um, from the stuff that I made, I'll do YouTube videos"
+  },
+  {
+   "start": 106.54,
+   "end": 111.92,
+   "text": "Of it later. But, uh, yeah, that's what I'm doing now. And then I still have to organize"
+  },
+  {
+   "start": 111.92,
+   "end": 119.14,
+   "text": "My room. Like, as you can see my rooms, I thought it was a disaster area. Um, man, that"
+  },
+  {
+   "start": 119.14,
+   "end": 123.84,
+   "text": "Last video was a bitch to upload. It was only like three minutes, but it took like 12 hours"
+  },
+  {
+   "start": 123.84,
+   "end": 130.46,
+   "text": "To upload. I have my internet connected directly to the modem. So with this cable, that's long"
+  },
+  {
+   "start": 130.46,
+   "end": 136.7,
+   "text": "Enough to reach all the way to my back deck. So that's cool. I put my big ass, uh, couch"
+  },
+  {
+   "start": 136.7,
+   "end": 141.98,
+   "text": "Belt in the back deck and I sat in it. That's pretty cool. Works out pretty well there. So,"
+  },
+  {
+   "start": 141.98,
+   "end": 148.72,
+   "text": "Um, yeah, I'm just still spending all of my time organizing my room. I mean, yeah, I just"
+  },
+  {
+   "start": 148.72,
+   "end": 152.28,
+   "text": "Neglected my room. Like when I first moved here, I, I spent like two months or something"
+  },
+  {
+   "start": 152.28,
+   "end": 158.16,
+   "text": "Setting up my house, putting my kayaks up on the roof of my garage and, um, organizing"
+  },
+  {
+   "start": 158.16,
+   "end": 163.22,
+   "text": "My garage cabinets and that kind of stuff and my house and organizing my house and moving"
+  },
+  {
+   "start": 163.22,
+   "end": 166.84,
+   "text": "Stuff into my house, building my bed and these tables here and all that kind of stuff."
+  },
+  {
+   "start": 167.92,
+   "end": 170.6,
+   "text": "And I brought all this stuff in and I kind of was under the impression that I was going"
+  },
+  {
+   "start": 170.6,
+   "end": 173.78,
+   "text": "To have like more of the balanced life and stuff. So I had all this stuff in here and then"
+  },
+  {
+   "start": 173.78,
+   "end": 178.32,
+   "text": "I just kind of left it and then I just piled and it was like a pile of stuff just that I"
+  },
+  {
+   "start": 178.32,
+   "end": 182.24,
+   "text": "Didn't know even what it was. And so I just, I've just been clearing stuff out and"
+  },
+  {
+   "start": 182.24,
+   "end": 186.24,
+   "text": "Reorganizing. And so today I went to the hardware store and I got a light that I'm"
+  },
+  {
+   "start": 186.24,
+   "end": 191.74,
+   "text": "Going to put in my corner there and, uh, re I drilled yesterday. I drilled a hole from"
+  },
+  {
+   "start": 191.74,
+   "end": 197.4,
+   "text": "The, uh, other room from the living room to my bedroom so that I can have outlets on"
+  },
+  {
+   "start": 197.4,
+   "end": 204.42,
+   "text": "That, uh, that drawers right there. Um, so yeah, super. Ooh, so much going on."
+  },
+  {
+   "start": 204.42,
+   "end": 209.4,
+   "text": "My mom gave me two beers before I came back here. So I just drank them. And so"
+  },
+  {
+   "start": 209.4,
+   "end": 215.6,
+   "text": "I'm like buzzed as buzzed as I'll be. Where's my video? Oh, is this recording?"
+  },
+  {
+   "start": 215.72,
+   "end": 221.78,
+   "text": "Oh, here it is. Yeah. So how long is this recorded? 3 39. Okay. That's long enough."
+  },
+  {
+   "start": 221.78,
+   "end": 223.58,
+   "text": "Okay. Peace out."
+  }
+ ]
+}

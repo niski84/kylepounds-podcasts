@@ -1,0 +1,3869 @@
+{
+ "youtube_id": "kfI6Byq9egM",
+ "title": "What I think about Prophets of Doom, Munster by Dan Carlin Podcast - Requested by C55365",
+ "url": "https://youtu.be/kfI6Byq9egM",
+ "published_at": "2025-02-06",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle reviews Dan Carlin's 'Prophets of Doom' podcast episode about the Anabaptist takeover of Münster in 1534–1536, retelling the story of Jan van Leiden, the siege, famine, and brutal executions. He connects the Münster rebellion to broader themes of the Reformation, class disruption, millennialism, iconoclasm, and draws parallels to modern politics including Trump, Christian nationalism, and economic inequality.",
+  "speaker": "kyle",
+  "topics": [
+   "Dan Carlin podcast review",
+   "Münster Anabaptist rebellion",
+   "Protestant Reformation",
+   "millennialism",
+   "iconoclasm",
+   "communism/communes",
+   "fall of Rome",
+   "class disruption",
+   "Christian nationalism",
+   "Trump/modern politics",
+   "ergot poisoning theory",
+   "torture and execution methods",
+   "generational cycles",
+   "Strauss-Howe theory"
+  ],
+  "stances": [
+   {
+    "topic": "Dan Carlin's podcast style",
+    "position": "Very effective, immersive storytelling; worth listening to twice"
+   },
+   {
+    "topic": "Münster rebellion causes",
+    "position": "Driven by class disruption, millennialist fervor, Reformation upheaval, and possibly ergot poisoning"
+   },
+   {
+    "topic": "Cult leader pattern",
+    "position": "Follows a predictable arc: prophet → monopoly on God's word → persecution of dissenters → sexual control → collective destruction"
+   },
+   {
+    "topic": "Iconoclasm",
+    "position": "A recurring pendulum between wealth-celebration and wealth-rejection; destroying cultural heritage is a loss"
+   },
+   {
+    "topic": "Trump/modern politics",
+    "position": "Trump is breaking laws (Emoluments Clause, insurrection bar) and parallels authoritarian millennialist movements; a revolution of the poor may be coming"
+   },
+   {
+    "topic": "Christian nationalism",
+    "position": "Likely tied to 2033 being 2,000 years after Jesus's death, repeating the millennial pattern seen in 1000 and 1533"
+   },
+   {
+    "topic": "Early Christianity and communism",
+    "position": "Early Christian principles of sharing and caring for the poor were genuinely proto-communist and gave rise to hospitals"
+   },
+   {
+    "topic": "Martin Luther",
+    "position": "First reformer to survive challenging the Church; later used by Nazis; likely was constrained by his political protector"
+   }
+  ],
+  "entities": [
+   "Dan Carlin",
+   "Jan van Leiden (John of Leiden)",
+   "Jan Bockelson (Jan Hus — Kyle conflates names)",
+   "Martin Luther",
+   "Anne Boleyn",
+   "Henry VIII",
+   "King of Münster (the prince/bishop)",
+   "Gutenberg",
+   "Edward Gibbon",
+   "St. Augustine",
+   "Theodosius",
+   "Romulus",
+   "Alexander the Great",
+   "Strauss and Howe",
+   "Scott Galloway",
+   "Jane Roberts / Seth the Alien",
+   "Elon Musk",
+   "Donald Trump",
+   "Jack Smith",
+   "Taylor Swift",
+   "Visigoths",
+   "Ostrogoths",
+   "Huns",
+   "Angles and Saxons",
+   "Bede",
+   "Waco Texas",
+   "Jonestown",
+   "Carlisle Castle (Scotland)",
+   "Münster (city)",
+   "Rome",
+   "Decline and Fall of the Roman Empire (Gibbon)",
+   "Generations (Strauss-Howe book)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.34,
+   "end": 26.2,
+   "text": "Oh, hi, this is, uh, my, uh, video request by C55365 or CJ55365, um, about, um, the YouTube video or podcast, uh, Prophets of Dew Munster, um, by, um, Dan Carlin."
+  },
+  {
+   "start": 26.2,
+   "end": 37.5,
+   "text": "Um, so, um, in Munster, in, like, 1536, um, there was, uh, a, uh, rebellion in Munster."
+  },
+  {
+   "start": 37.94,
+   "end": 39.08,
+   "text": "I'm, like, super high."
+  },
+  {
+   "start": 39.7,
+   "end": 52.48,
+   "text": "What happened was, um, I, um, was wearing these pants, and I don't, like, think I've been wearing, I've worn these pants, and, uh, for a while or whatever, and, and, like, I reached my hand in here, and now it's $16."
+  },
+  {
+   "start": 52.48,
+   "end": 58.92,
+   "text": "And my mom's, like, don't buy that on anything, and I didn't listen to her."
+  },
+  {
+   "start": 59.68,
+   "end": 60.6,
+   "text": "I went and got weed."
+  },
+  {
+   "start": 61.56,
+   "end": 62.78,
+   "text": "I got the good stuff."
+  },
+  {
+   "start": 62.86,
+   "end": 64.8,
+   "text": "It's, like, $13 for one gram."
+  },
+  {
+   "start": 65.86,
+   "end": 80.7,
+   "text": "And then I went to the store, and I got a Munster, because they have them, like, for $2.75, and, um, I was going to smoke weed and, like, watch videos and then, like, um, get high and, uh, drink this."
+  },
+  {
+   "start": 80.7,
+   "end": 85.72,
+   "text": "But, um, so, anyways, if I get sidetracked, it's because of that."
+  },
+  {
+   "start": 86.98,
+   "end": 90.06,
+   "text": "Um, but I'm on, I'm high on my energy drink."
+  },
+  {
+   "start": 90.96,
+   "end": 101.6,
+   "text": "So, anyway, um, so Dan Carlin's talking about, um, uh, like, the Reformation and the time leading up to it."
+  },
+  {
+   "start": 102.56,
+   "end": 109.56,
+   "text": "And, um, he's talking about, like, how maybe it was a bad idea to get really baked before I do this video."
+  },
+  {
+   "start": 110.92,
+   "end": 115.94,
+   "text": "Um, if the video doesn't go well, I'll turn it off, and I'll just do it later on in summer."
+  },
+  {
+   "start": 117.02,
+   "end": 119.84,
+   "text": "But I, I just really want to do the video, and I remembered."
+  },
+  {
+   "start": 120.76,
+   "end": 125.96,
+   "text": "Um, because I've been busy working on this, um, my timeline template."
+  },
+  {
+   "start": 125.96,
+   "end": 138.96,
+   "text": "Um, but, yeah, um, the way that Dan Carlin, um, uh, does his videos is he's very, uh, kind of tries to put you into the world, you know?"
+  },
+  {
+   "start": 139.06,
+   "end": 140.92,
+   "text": "Like, it's, like, it's, I don't know, stony?"
+  },
+  {
+   "start": 142.32,
+   "end": 143.34,
+   "text": "Way to do it."
+  },
+  {
+   "start": 143.58,
+   "end": 145.18,
+   "text": "Um, like, isn't that wild?"
+  },
+  {
+   "start": 145.44,
+   "end": 146.98,
+   "text": "And, oops."
+  },
+  {
+   "start": 151.14,
+   "end": 154.7,
+   "text": "Accidentally put my glasses on the, um, remote control."
+  },
+  {
+   "start": 154.88,
+   "end": 155.98,
+   "text": "Turn the TV on."
+  },
+  {
+   "start": 155.98,
+   "end": 159.9,
+   "text": "Oh, no, now the TV turned itself on."
+  },
+  {
+   "start": 160.12,
+   "end": 161.0,
+   "text": "My God."
+  },
+  {
+   "start": 163.42,
+   "end": 164.72,
+   "text": "Jesus, will you turn off?"
+  },
+  {
+   "start": 166.18,
+   "end": 166.62,
+   "text": "Okay."
+  },
+  {
+   "start": 168.67,
+   "end": 182.96,
+   "text": "So, um, uh, in the world leading up to the, uh, Reformation, um, there is so much to talk about with this."
+  },
+  {
+   "start": 183.04,
+   "end": 184.64,
+   "text": "This is the most interesting freaking thing."
+  },
+  {
+   "start": 184.72,
+   "end": 187.74,
+   "text": "So, yes, very good request video."
+  },
+  {
+   "start": 187.74,
+   "end": 195.54,
+   "text": "Um, and, in fact, you said that you gave me the request video before, because I saw this video before."
+  },
+  {
+   "start": 195.72,
+   "end": 197.48,
+   "text": "I've seen it, this exact podcast."
+  },
+  {
+   "start": 197.64,
+   "end": 200.74,
+   "text": "It was, like, four hours and 12 minutes."
+  },
+  {
+   "start": 201.1,
+   "end": 205.8,
+   "text": "And, um, yeah, uh, him telling the whole story."
+  },
+  {
+   "start": 205.8,
+   "end": 211.16,
+   "text": "And, uh, to listen to a big, long story like that the second time, I mean, yeah, definitely."
+  },
+  {
+   "start": 211.32,
+   "end": 218.18,
+   "text": "You get, it was just as more, um, valuable to me the second time."
+  },
+  {
+   "start": 218.4,
+   "end": 220.08,
+   "text": "Um, because now I feel like I remember it."
+  },
+  {
+   "start": 220.1,
+   "end": 222.74,
+   "text": "I wouldn't have been able to retell the story from the first time I heard it."
+  },
+  {
+   "start": 222.74,
+   "end": 235.54,
+   "text": "But, um, yeah, basically, uh, to put it really shortly, um, quickly, um, Munster, um, became the center of the Anabaptists."
+  },
+  {
+   "start": 235.64,
+   "end": 249.64,
+   "text": "The Anabaptists were the, um, uh, the new, one of the new, um, Protestant, uh, religious communities that were popping up in Germany because of the Reformation."
+  },
+  {
+   "start": 249.64,
+   "end": 252.3,
+   "text": "In 1536 was, uh, the year of the Rebellion."
+  },
+  {
+   "start": 252.4,
+   "end": 268.84,
+   "text": "In 1534 was when, uh, um, Marie Antoinette, you know, um, Anne Boleyn had her head, um, chopped off, the wife of, uh, King Henry VIII because, um, he wanted to divorce her."
+  },
+  {
+   "start": 269.06,
+   "end": 272.28,
+   "text": "He accused her of, um, infidelity."
+  },
+  {
+   "start": 272.28,
+   "end": 278.76,
+   "text": "Uh, he wanted to, uh, be able to have the permission to divorce her, but the Catholic Church didn't allow it."
+  },
+  {
+   "start": 278.76,
+   "end": 281.84,
+   "text": "And so he, um, ordered it, or he just broke away and started."
+  },
+  {
+   "start": 282.38,
+   "end": 286.34,
+   "text": "So, like, it was, everybody was, uh, was, uh, doing that."
+  },
+  {
+   "start": 286.8,
+   "end": 292.44,
+   "text": "And, uh, so the first was, uh, in Germany was, uh, uh, Martin Luther."
+  },
+  {
+   "start": 292.44,
+   "end": 305.58,
+   "text": "And, uh, what Dan Carlin said was that Martin Luther was the first, uh, guy who, uh, who, uh, complained about the Catholic Church, uh, who got away with it."
+  },
+  {
+   "start": 305.58,
+   "end": 311.74,
+   "text": "Because every other time, the, they would bring the person back to Italy and then, like, burn them at the stake."
+  },
+  {
+   "start": 311.98,
+   "end": 322.16,
+   "text": "Um, that was the common, um, way to kill people, uh, heretics, um, in those days."
+  },
+  {
+   "start": 322.16,
+   "end": 325.78,
+   "text": "Uh, he said that, uh, in America it wasn't done that much, only in Salem."
+  },
+  {
+   "start": 326.5,
+   "end": 335.59,
+   "text": "And, um, so, uh, yeah, so, um, he got away with it."
+  },
+  {
+   "start": 335.63,
+   "end": 337.43,
+   "text": "They protected him, so they broke away."
+  },
+  {
+   "start": 337.55,
+   "end": 339.89,
+   "text": "And then, uh, there were other groups."
+  },
+  {
+   "start": 340.13,
+   "end": 344.87,
+   "text": "And, uh, then the Anabaptists were, uh, some of the, they were like the Quakers."
+  },
+  {
+   "start": 344.87,
+   "end": 349.31,
+   "text": "They were very, um, like, austere."
+  },
+  {
+   "start": 349.69,
+   "end": 356.37,
+   "text": "And, uh, the women dressed up really, um, I guess, uh, modestly."
+  },
+  {
+   "start": 357.59,
+   "end": 361.21,
+   "text": "And, uh, and they went to Munster."
+  },
+  {
+   "start": 361.31,
+   "end": 366.01,
+   "text": "And then they got more, they, the ones there decided they were all going to become communists."
+  },
+  {
+   "start": 366.11,
+   "end": 372.81,
+   "text": "So it invited a bunch of poor people to come and live off of the commune."
+  },
+  {
+   "start": 372.81,
+   "end": 375.99,
+   "text": "And, uh, so then there were more Anabaptists."
+  },
+  {
+   "start": 376.13,
+   "end": 383.57,
+   "text": "And then the Anabaptists, um, they, they got so many of them that they, uh, they took over the town."
+  },
+  {
+   "start": 383.67,
+   "end": 387.71,
+   "text": "So the first guy was named was Jan Hus, Jan Hus."
+  },
+  {
+   "start": 389.15,
+   "end": 398.23,
+   "text": "And, uh, he was a Dutch dude who, uh, he was like, um, so Jan Carlin said he was 20 years younger,"
+  },
+  {
+   "start": 400.13,
+   "end": 402.73,
+   "text": "Older than his wife, but he was 36 when he died."
+  },
+  {
+   "start": 403.71,
+   "end": 407.29,
+   "text": "So does that make she, her, 14 or something?"
+  },
+  {
+   "start": 407.45,
+   "end": 417.41,
+   "text": "But, um, he, um, he decided that he was, uh, the, like, speaking directly to God."
+  },
+  {
+   "start": 417.49,
+   "end": 418.87,
+   "text": "I want to, I need to read the book."
+  },
+  {
+   "start": 418.93,
+   "end": 421.21,
+   "text": "He said that there was a book written that you can read."
+  },
+  {
+   "start": 421.21,
+   "end": 427.23,
+   "text": "Um, man, if I was in the, that would be a good book to have on my website."
+  },
+  {
+   "start": 428.51,
+   "end": 433.39,
+   "text": "But, um, yeah, there was a guy who, when he was 13 years old, he witnessed that."
+  },
+  {
+   "start": 433.39,
+   "end": 438.23,
+   "text": "And, um, and he wrote about it when he was an older guy."
+  },
+  {
+   "start": 438.45,
+   "end": 443.75,
+   "text": "And, uh, I guess that's the primary, the only firsthand source and the best source."
+  },
+  {
+   "start": 443.75,
+   "end": 451.83,
+   "text": "Um, and, uh, that's a lot of, what, even what, uh, Dan Carlin said, that's a lot of detail."
+  },
+  {
+   "start": 453.03,
+   "end": 458.71,
+   "text": "Um, for a 13 year old, uh, but, um, yeah."
+  },
+  {
+   "start": 458.71,
+   "end": 465.53,
+   "text": "So what happened was they, um, took over and, uh, Jan House was talking directly to God."
+  },
+  {
+   "start": 465.53,
+   "end": 480.39,
+   "text": "And, uh, he, um, he, uh, started having sex with other women, guys, women and giving, uh, oh, and, um, like assassinating people who complained."
+  },
+  {
+   "start": 480.39,
+   "end": 485.93,
+   "text": "Uh, the first person they killed was the, um, the town blacksmith."
+  },
+  {
+   "start": 486.03,
+   "end": 488.07,
+   "text": "The town only had 10,000 to 12,000 people."
+  },
+  {
+   "start": 488.17,
+   "end": 492.07,
+   "text": "Today it has over 300,000, like 330,000 people."
+  },
+  {
+   "start": 492.87,
+   "end": 502.11,
+   "text": "But, um, in those days the whole thing was, um, was, uh, surrounded by a wall that they removed afterwards so that it wouldn't happen again."
+  },
+  {
+   "start": 503.05,
+   "end": 508.31,
+   "text": "But, um, uh, they killed the blacksmith for complaining."
+  },
+  {
+   "start": 508.31,
+   "end": 516.79,
+   "text": "Um, he, uh, Jan Hus, like, uh, axed him in the, between the shoulder blades and then shot him in the head."
+  },
+  {
+   "start": 517.75,
+   "end": 521.03,
+   "text": "And, uh, he died eight, eight days later in somebody's house."
+  },
+  {
+   "start": 521.11,
+   "end": 530.87,
+   "text": "And, uh, and then they took over and, uh, would, yeah, they just started killing, um, people who would, like, not, uh, go along with it."
+  },
+  {
+   "start": 530.93,
+   "end": 532.43,
+   "text": "So people ran away and they took over."
+  },
+  {
+   "start": 533.25,
+   "end": 537.19,
+   "text": "So, but then they had a, um, the prince."
+  },
+  {
+   "start": 537.19,
+   "end": 541.85,
+   "text": "And that was the capital of the prince, of the principate."
+  },
+  {
+   "start": 542.55,
+   "end": 548.93,
+   "text": "So I guess, like, the prince, I was picturing him living, like, in the castle outside the walls or something."
+  },
+  {
+   "start": 549.25,
+   "end": 558.55,
+   "text": "But, um, Jan Hus, he, um, went out, uh, with, like, 10 guys."
+  },
+  {
+   "start": 558.55,
+   "end": 565.31,
+   "text": "Because he said that he was going to be able to defeat the 200-man army by himself because God was with him."
+  },
+  {
+   "start": 566.51,
+   "end": 574.79,
+   "text": "And, uh, so everybody, like, right outside the walls, everybody saw him get, like, stabbed in the, uh, stomach."
+  },
+  {
+   "start": 574.79,
+   "end": 580.39,
+   "text": "And then have his guts spilled out, um, as he pulled the spear out."
+  },
+  {
+   "start": 580.45,
+   "end": 584.71,
+   "text": "And then pulled off his horse and then they hacked his limbs and legs and head off."
+  },
+  {
+   "start": 585.45,
+   "end": 587.03,
+   "text": "And, uh, killed everybody."
+  },
+  {
+   "start": 587.39,
+   "end": 591.95,
+   "text": "And, um, and everybody, like, ran and freaked out."
+  },
+  {
+   "start": 591.95,
+   "end": 598.55,
+   "text": "People think that, uh, what happened was there was a, uh, ergot infection."
+  },
+  {
+   "start": 598.91,
+   "end": 612.93,
+   "text": "Um, ergot is a mold that grows on rice, or not rice, like, grain, uh, when it, uh, when it gets, like, wet, um, and, like, damp."
+  },
+  {
+   "start": 612.93,
+   "end": 615.83,
+   "text": "And so, and then, I guess that was a common occurrence."
+  },
+  {
+   "start": 615.93,
+   "end": 616.91,
+   "text": "I went to look it up."
+  },
+  {
+   "start": 616.97,
+   "end": 617.59,
+   "text": "I forgot to."
+  },
+  {
+   "start": 618.37,
+   "end": 620.65,
+   "text": "But, uh, that would happen from time to time."
+  },
+  {
+   "start": 620.65,
+   "end": 625.39,
+   "text": "And it would make, make everybody lose their mind and, like, cause problems."
+  },
+  {
+   "start": 625.57,
+   "end": 627.15,
+   "text": "And, uh, yeah."
+  },
+  {
+   "start": 628.47,
+   "end": 633.09,
+   "text": "Um, but, yeah, this, this time, yeah, I think maybe that was, it was because of that."
+  },
+  {
+   "start": 633.91,
+   "end": 642.91,
+   "text": "But after he, uh, a few days later, another guy named Jan, yeah, John of,"
+  },
+  {
+   "start": 642.93,
+   "end": 650.85,
+   "text": "John of Danken, John of Gragen, another Dutch guy, uh, who was one of the people, I guess, who,"
+  },
+  {
+   "start": 651.05,
+   "end": 654.43,
+   "text": "No, he moved there when he was, uh, 10, when he was nine."
+  },
+  {
+   "start": 655.43,
+   "end": 661.09,
+   "text": "Um, but, um, he, yeah, so he was, and he died."
+  },
+  {
+   "start": 661.41,
+   "end": 664.03,
+   "text": "He was killed when the whole thing was over, like, after a few months."
+  },
+  {
+   "start": 664.07,
+   "end": 668.85,
+   "text": "I think the thing was, like, six months long, but, um, he was only 27 when he died."
+  },
+  {
+   "start": 669.85,
+   "end": 671.31,
+   "text": "So he's, like, 26, 27."
+  },
+  {
+   "start": 671.31,
+   "end": 675.55,
+   "text": "And, uh, he took over and said that, and he was, I guess he was different."
+  },
+  {
+   "start": 676.13,
+   "end": 679.23,
+   "text": "If you'll see the drawings, the first dude was, like, had a big, big beard."
+  },
+  {
+   "start": 679.75,
+   "end": 682.91,
+   "text": "And he dressed all in black, and his wife dressed all in white."
+  },
+  {
+   "start": 683.41,
+   "end": 690.65,
+   "text": "And then the second guy was, like, um, like, um, more of a, uh, ladies' man."
+  },
+  {
+   "start": 690.65,
+   "end": 694.21,
+   "text": "And, uh, and, uh, not, not as, like, crazy looking."
+  },
+  {
+   "start": 695.27,
+   "end": 700.71,
+   "text": "Uh, Dan Carlin said, uh, it was like Matthew McConaughey was the new guy, and the old guy"
+  },
+  {
+   "start": 700.71,
+   "end": 702.01,
+   "text": "Was, uh, Christopher Walken."
+  },
+  {
+   "start": 702.01,
+   "end": 709.71,
+   "text": "Um, but, um, um, yeah, he started doing the same thing, saying that now God was talking"
+  },
+  {
+   "start": 709.71,
+   "end": 711.07,
+   "text": "To him, and everybody believed him."
+  },
+  {
+   "start": 711.71,
+   "end": 719.93,
+   "text": "And so then he decided that, um, everybody needed to be polygamous, not just, uh, like,"
+  },
+  {
+   "start": 720.17,
+   "end": 721.67,
+   "text": "That was part of the communism."
+  },
+  {
+   "start": 721.67,
+   "end": 730.15,
+   "text": "And so he got to have sex with whoever he wanted, um, and, um, yeah, and then eventually,"
+  },
+  {
+   "start": 730.37,
+   "end": 737.19,
+   "text": "And two times, uh, the prince sent armies in, and the first time, they, and the first"
+  },
+  {
+   "start": 737.19,
+   "end": 746.49,
+   "text": "Two times they were sent in, 200 of the prince's, uh, soldier died, and only 10 of the, uh, defenders"
+  },
+  {
+   "start": 746.49,
+   "end": 757.13,
+   "text": "Died, because the first time, a contingent was just drunk, and, uh, they, um, when they"
+  },
+  {
+   "start": 757.13,
+   "end": 761.97,
+   "text": "Woke up, they thought it was, they thought it was dawn when it was really dusk, and so"
+  },
+  {
+   "start": 761.97,
+   "end": 768.63,
+   "text": "They went running into the, uh, walls to, uh, to climb over the walls and, uh, take the"
+  },
+  {
+   "start": 768.63,
+   "end": 773.51,
+   "text": "City, and get their, kill everybody, and get their plunder, and so when the, all of the"
+  },
+  {
+   "start": 773.51,
+   "end": 777.93,
+   "text": "Other guys in the army saw it, they went, instead of stopping them, they just joined"
+  },
+  {
+   "start": 777.93,
+   "end": 784.17,
+   "text": "Them, because they didn't want to get, uh, like, left out, and not get their women to"
+  },
+  {
+   "start": 784.17,
+   "end": 789.17,
+   "text": "Rape, and, uh, stuff to steal, and so, but it didn't work out for them, because then it"
+  },
+  {
+   "start": 789.17,
+   "end": 798.15,
+   "text": "Got dark, and then, um, as they were climbing up the, um, ladders, uh, everybody from the"
+  },
+  {
+   "start": 798.15,
+   "end": 805.53,
+   "text": "City was, like, fervently, um, you know, faithful, and fought like, uh, God was on their side,"
+  },
+  {
+   "start": 805.53,
+   "end": 811.93,
+   "text": "And, um, I guess women and everybody were hacking off their hands, so they're trying"
+  },
+  {
+   "start": 811.93,
+   "end": 817.45,
+   "text": "To get over the ladders, and throwing big logs down to knock all the guys who were on"
+  },
+  {
+   "start": 817.45,
+   "end": 827.05,
+   "text": "The ladder off, like, four guys at a time, and, um, and, uh, yeah, they, and getting,"
+  },
+  {
+   "start": 827.13,
+   "end": 832.67,
+   "text": "Like, hot oil poured in their eyes, and so they all ran, and, yeah, it was, like, 200 died,"
+  },
+  {
+   "start": 832.83,
+   "end": 839.95,
+   "text": "And only 10 of the defenders died, and, and, uh, and then he organized another one, and, uh,"
+  },
+  {
+   "start": 839.95,
+   "end": 848.91,
+   "text": "Yeah, it happened again, and, um, so then the third time they came, they built, uh, they"
+  },
+  {
+   "start": 848.91,
+   "end": 858.87,
+   "text": "Encircled the entire city with a wall that was wide enough to drive a 12 horse, a 14 horse"
+  },
+  {
+   "start": 858.87,
+   "end": 868.49,
+   "text": "Carriage, and, um, and, uh, like, with towers and gates, and, uh, to starve them out so they"
+  },
+  {
+   "start": 868.49,
+   "end": 873.13,
+   "text": "Wouldn't have to fight them anymore, and, uh, so there, they started to starve until there"
+  },
+  {
+   "start": 873.13,
+   "end": 880.93,
+   "text": "Were, like, piles of people in the streets, um, just wailing and rolling around, and, like,"
+  },
+  {
+   "start": 880.99,
+   "end": 889.29,
+   "text": "The guy, John, said the, John of Leiden, that was his name, John of Leiden, um, Dan Carlin"
+  },
+  {
+   "start": 889.29,
+   "end": 898.03,
+   "text": "Was calling him John, John Leiden, but, um, he, uh, he told everybody that God told him"
+  },
+  {
+   "start": 898.03,
+   "end": 901.95,
+   "text": "That he would turn the cobblestones, as soon as they got hungry, that God would turn the"
+  },
+  {
+   "start": 901.95,
+   "end": 908.27,
+   "text": "Cobblestones of the city into bread, so people were, like, trying to bite at the bread, right,"
+  },
+  {
+   "start": 908.31,
+   "end": 912.51,
+   "text": "As they were dying in hopes, and then, before realizing it was just a lie, and then dying,"
+  },
+  {
+   "start": 912.51,
+   "end": 919.15,
+   "text": "And, like, but, and cursing, and, but you could, and then somebody said that you could hear"
+  },
+  {
+   "start": 919.15,
+   "end": 926.81,
+   "text": "Wailings from every single part of the city, um, of people dying, and, um, but, like, the"
+  },
+  {
+   "start": 926.81,
+   "end": 937.13,
+   "text": "Leadership was still eating fine, um, so he, uh, he, so some people just, you know, started"
+  },
+  {
+   "start": 937.13,
+   "end": 944.73,
+   "text": "To be able to escape, and, um, and, uh, oh, but one lady, before it happened, uh, a 15-year-old"
+  },
+  {
+   "start": 944.73,
+   "end": 950.35,
+   "text": "Girl had an, um, because one thing that they would do is they'd all have dinner, food together"
+  },
+  {
+   "start": 950.35,
+   "end": 956.03,
+   "text": "In the, in the common hall, and so the leader and everybody would read the Bible, and so one"
+  },
+  {
+   "start": 956.03,
+   "end": 965.23,
+   "text": "Of the Bible stories was that Solomon had 700 wives, and, um, one of, or no, no, no, that's"
+  },
+  {
+   "start": 965.23,
+   "end": 971.55,
+   "text": "What, but then one of the, yeah, the stories, I guess somebody, a kid, somebody, a girl went"
+  },
+  {
+   "start": 971.55,
+   "end": 977.91,
+   "text": "In to kill the king because she gave him a poisonous shirt, and so she goes, hey, let"
+  },
+  {
+   "start": 977.91,
+   "end": 981.85,
+   "text": "Me give him the poisonous shirt, I'll pretend to be a, a defector, and I'll give him the"
+  },
+  {
+   "start": 981.85,
+   "end": 987.57,
+   "text": "Poisonous shirt, and then because the prince dies, all of the army will go away, so they"
+  },
+  {
+   "start": 987.57,
+   "end": 995.81,
+   "text": "Let her go, um, I guess they tied her up, and somewhere where they could find her, and,"
+  },
+  {
+   "start": 995.81,
+   "end": 1007.97,
+   "text": "Um, yeah, and she said she was like an escaped, um, uh, yeah, like a rebel or something, and,"
+  },
+  {
+   "start": 1008.09,
+   "end": 1014.13,
+   "text": "Uh, yeah, and so that they were, she was going to do it, but somebody else had overheard their"
+  },
+  {
+   "start": 1014.13,
+   "end": 1018.75,
+   "text": "Plan, and escaped first, and told the prince that there was a little girl who was going"
+  },
+  {
+   "start": 1018.75,
+   "end": 1025.91,
+   "text": "To come and pretend to be a defectee, and, um, and try to give him a poisonous shirt, so"
+  },
+  {
+   "start": 1025.91,
+   "end": 1031.17,
+   "text": "Yeah, when they got her, they, uh, put her on the, uh, breaking rack, uh, which is that"
+  },
+  {
+   "start": 1031.17,
+   "end": 1036.67,
+   "text": "Thing where they stretch you out, and then they break all of the bones in your body, um,"
+  },
+  {
+   "start": 1036.67,
+   "end": 1043.57,
+   "text": "So that you'd take the longest to die, and, um, yeah, you can still see those in, uh, museums,"
+  },
+  {
+   "start": 1043.57,
+   "end": 1048.43,
+   "text": "I don't, I don't know if I ever saw one, I went to the castle, Carlisle Castle in Scotland,"
+  },
+  {
+   "start": 1048.61,
+   "end": 1056.47,
+   "text": "I don't know if that one had it, but, um, yeah, but, uh, but then they, the, they came,"
+  },
+  {
+   "start": 1056.59,
+   "end": 1064.59,
+   "text": "And they, um, invaded, they, they starved him out, um, and so there was a, a bunch of,"
+  },
+  {
+   "start": 1064.69,
+   "end": 1071.33,
+   "text": "Like, a group of them, like, uh, 50 or 100 of them, um, I think it was maybe just women"
+  },
+  {
+   "start": 1071.33,
+   "end": 1076.27,
+   "text": "And children who were starving, begged to just get left to be released, because maybe"
+  },
+  {
+   "start": 1076.27,
+   "end": 1082.55,
+   "text": "They could just, uh, you know, the, uh, prince would pet them, would feed them, um, if they"
+  },
+  {
+   "start": 1082.55,
+   "end": 1086.49,
+   "text": "Renounced their faith, but the prince wouldn't take them, so they were in the no man's zone,"
+  },
+  {
+   "start": 1086.61,
+   "end": 1093.19,
+   "text": "Just, um, um, just, uh, starving, trying to eat grass, and rolling around, and dying, and"
+  },
+  {
+   "start": 1093.19,
+   "end": 1098.83,
+   "text": "Until the women in the, uh, besieging army felt bad for them, and, uh, snuck them food"
+  },
+  {
+   "start": 1098.83,
+   "end": 1106.45,
+   "text": "At night, um, but, um, yeah, and I think they were rescued, but, but anyway, they were,"
+  },
+  {
+   "start": 1106.55,
+   "end": 1112.71,
+   "text": "They were eventually, uh, uh, stormed, and by the time they stormed, they couldn't, um,"
+  },
+  {
+   "start": 1112.81,
+   "end": 1118.27,
+   "text": "Really fight back, they were too weak, but they were able to, one group of 50 or 100 of them"
+  },
+  {
+   "start": 1118.27,
+   "end": 1125.97,
+   "text": "Were able to fight in the, uh, central square for an hour, um, and one of the leaders, um,"
+  },
+  {
+   "start": 1127.21,
+   "end": 1133.49,
+   "text": "I think it was John of Lydon, hidden in a woman's attic, but she, uh, gave him up for food,"
+  },
+  {
+   "start": 1133.59,
+   "end": 1142.13,
+   "text": "And, um, and they took him, and they were, like, three leaders, and they tied them back"
+  },
+  {
+   "start": 1142.13,
+   "end": 1148.91,
+   "text": "To back on a pole with a chain, um, with spikes going into their necks, and so they could all,"
+  },
+  {
+   "start": 1148.91,
+   "end": 1155.65,
+   "text": "They were all together, so they could all feel each other, um, and, um, and then they"
+  },
+  {
+   "start": 1155.65,
+   "end": 1163.31,
+   "text": "Went, as, and then they would, uh, go to one of them, and they got a red-hot forceps, and"
+  },
+  {
+   "start": 1163.31,
+   "end": 1169.45,
+   "text": "They started with their underarm by tearing the flesh off, and then they started tearing,"
+  },
+  {
+   "start": 1169.45,
+   "end": 1176.63,
+   "text": "Like, their muscles off, and their tendons off, and, um, he had to be tortured for an"
+  },
+  {
+   "start": 1176.63,
+   "end": 1184.87,
+   "text": "Hour, um, so whenever they, like, if, if they passed out, they would wait, and they'd try"
+  },
+  {
+   "start": 1184.87,
+   "end": 1190.37,
+   "text": "To revive them, and then they'd restart the timer, because they had to be awake for all"
+  },
+  {
+   "start": 1190.37,
+   "end": 1199.41,
+   "text": "Of it, and so, yeah, they tore, they tore the dude, uh, apart physically, and, um, and"
+  },
+  {
+   "start": 1199.41,
+   "end": 1204.85,
+   "text": "Then they stuck a, uh, spear into his heart, yeah, and then they did the next guy, who was,"
+  },
+  {
+   "start": 1204.99,
+   "end": 1210.25,
+   "text": "Like, right next to him, around the pole, and then the next, and then John of Lydon was"
+  },
+  {
+   "start": 1210.25,
+   "end": 1217.25,
+   "text": "Last, um, yeah, I guess they made it, uh, they figured it would be most torturous if"
+  },
+  {
+   "start": 1217.25,
+   "end": 1221.51,
+   "text": "You got to experience your friends dying, because then he knew that was about to happen"
+  },
+  {
+   "start": 1221.51,
+   "end": 1229.03,
+   "text": "To him, but then when they did it to him, he hardly let out a sound, um, but, uh, yeah,"
+  },
+  {
+   "start": 1229.13,
+   "end": 1237.01,
+   "text": "And then they tore the walls down of the city, and, um, to this day, Germany has, like, laws"
+  },
+  {
+   "start": 1237.01,
+   "end": 1244.29,
+   "text": "Against religions, like, Scientology is outlawed in Germany, and, um, yeah, uh, Martin Luther"
+  },
+  {
+   "start": 1244.29,
+   "end": 1252.01,
+   "text": "Was, like, a hero for the Nazis, because he wanted to get rid of the, uh, the Jews, um,"
+  },
+  {
+   "start": 1252.43,
+   "end": 1258.23,
+   "text": "But, um, when the Anabaptists seeked the help of Martin Luther, he didn't want to have anything"
+  },
+  {
+   "start": 1258.23,
+   "end": 1264.11,
+   "text": "To do with him, but, um, Dan Carlin thought that maybe, uh, that was because he was just"
+  },
+  {
+   "start": 1264.11,
+   "end": 1270.43,
+   "text": "Doing what his protector was telling him to say, you know, but, um, and, like, this was"
+  },
+  {
+   "start": 1270.43,
+   "end": 1277.43,
+   "text": "In the beginning of the rebellion, but, um, so, yeah, and then they, uh, and that was"
+  },
+  {
+   "start": 1277.43,
+   "end": 1287.47,
+   "text": "In, yeah, so, 1536, so, um, so, yeah, there's a lot to talk about, ha, ha, ha, ha, ha, ha,"
+  },
+  {
+   "start": 1287.47,
+   "end": 1303.8,
+   "text": "Um, uh, yeah, he, um, have a little bit of energy drink, Dan Carlin was saying that the"
+  },
+  {
+   "start": 1303.8,
+   "end": 1309.86,
+   "text": "World was in so much change in that time that the people probably were totally aware of it"
+  },
+  {
+   "start": 1309.86,
+   "end": 1316.8,
+   "text": "Also, and, um, one thing, one important thing that was going also was kind of, like, the"
+  },
+  {
+   "start": 1316.8,
+   "end": 1325.64,
+   "text": "Disruption of the, uh, the classes, um, and I guess that maybe that was, yeah, a contributing"
+  },
+  {
+   "start": 1325.64,
+   "end": 1329.28,
+   "text": "Factor to the, uh, rebellion against the Catholic Church."
+  },
+  {
+   "start": 1329.36,
+   "end": 1333.3,
+   "text": "They were rebelling against the Catholic Church because it was charging money for the entrances"
+  },
+  {
+   "start": 1333.3,
+   "end": 1338.5,
+   "text": "Into, um, having, um, to build St. Peter's Cathedral, so maybe we can talk about that later,"
+  },
+  {
+   "start": 1338.5,
+   "end": 1349.48,
+   "text": "But, um, uh, yeah, um, the, uh, people were going through so much change that they knew"
+  },
+  {
+   "start": 1349.48,
+   "end": 1353.72,
+   "text": "That they were going through the change, and, uh, because of the disruption of the classes,"
+  },
+  {
+   "start": 1354.56,
+   "end": 1360.86,
+   "text": "Um, like, they started to overlap, because you would have knights, nobles, uh, which would"
+  },
+  {
+   "start": 1360.86,
+   "end": 1366.74,
+   "text": "Be, um, they get their money from the land that they owned, uh, from the rent, from all the"
+  },
+  {
+   "start": 1366.74,
+   "end": 1374.32,
+   "text": "People who lived on their land and everything, and, um, and so, like, the noblemen and the"
+  },
+  {
+   "start": 1374.32,
+   "end": 1378.8,
+   "text": "High class would have the money, but then when they would invent the different, uh, more"
+  },
+  {
+   "start": 1378.8,
+   "end": 1386.68,
+   "text": "Industrializations, uh, uh, poorer people could, uh, and I can't remember what, um, industries"
+  },
+  {
+   "start": 1386.68,
+   "end": 1392.2,
+   "text": "He said were doing it at that time, but, yeah, poorer people were doing industries and making"
+  },
+  {
+   "start": 1392.2,
+   "end": 1398.14,
+   "text": "Money, and so then they'd have more money than, like, a knight, and so then, um, you know,"
+  },
+  {
+   "start": 1398.18,
+   "end": 1403.86,
+   "text": "Then, so then they would start to get invited and have, you know, like, uh, people go to"
+  },
+  {
+   "start": 1403.86,
+   "end": 1404.26,
+   "text": "Their weddings."
+  },
+  {
+   "start": 1404.38,
+   "end": 1410.12,
+   "text": "I think maybe he even gave a, an example, like, queens and kings, or maybe that was in"
+  },
+  {
+   "start": 1410.12,
+   "end": 1415.7,
+   "text": "The, uh, another video, but stuff like that, you know, like, then they start hosting parties"
+  },
+  {
+   "start": 1415.7,
+   "end": 1419.84,
+   "text": "And going to parties, and, and then there's a disruption, then there's a lot of people"
+  },
+  {
+   "start": 1419.84,
+   "end": 1426.28,
+   "text": "Who are confused and upset, and, um, and, um, so then you get a sentiment of anything can"
+  },
+  {
+   "start": 1426.28,
+   "end": 1430.74,
+   "text": "Go, anything goes, and so then, um, people start having different ideas."
+  },
+  {
+   "start": 1431.06,
+   "end": 1435.82,
+   "text": "Um, you weren't allowed to read the Bible until they, like, they did the printing press"
+  },
+  {
+   "start": 1435.82,
+   "end": 1444.18,
+   "text": "With, uh, Gutenberg in, like, 1448 or something, and, uh, and then they, um, in the beginning"
+  },
+  {
+   "start": 1444.18,
+   "end": 1450.86,
+   "text": "Of the 1500s, um, is when printed books started hitting the bookshelves in England and Germany"
+  },
+  {
+   "start": 1450.86,
+   "end": 1461.9,
+   "text": "And, um, and, uh, um, Martin Luther rewrote the Bible, uh, translating it not from Latin,"
+  },
+  {
+   "start": 1461.9,
+   "end": 1470.16,
+   "text": "But from Greek and Aramaic, and, uh, and people and everybody was able to read it and have their"
+  },
+  {
+   "start": 1470.16,
+   "end": 1477.08,
+   "text": "Own Bible, um, and they were doing sermons on the streets, and so they had, there was this radical"
+  },
+  {
+   "start": 1477.08,
+   "end": 1484.28,
+   "text": "Reinterpretation of the Bible, and, uh, you know, I think there were lots of even, um, things that"
+  },
+  {
+   "start": 1484.28,
+   "end": 1491.9,
+   "text": "Modern, a lot of the more conservative modern-day Christian sects, like Jehovah's Witnesses maybe and"
+  },
+  {
+   "start": 1491.9,
+   "end": 1498.32,
+   "text": "Stuff, believe, uh, you know, like, uh, when Jesus comes back, the first people to go to heaven will"
+  },
+  {
+   "start": 1498.32,
+   "end": 1504.04,
+   "text": "Be a hundred thousand male virgins or something like that, and I think a lot of those, like, things"
+  },
+  {
+   "start": 1504.04,
+   "end": 1510.68,
+   "text": "Are from, some things are from, like, the Middle Ages also, not all from, uh, biblical times, but"
+  },
+  {
+   "start": 1510.68,
+   "end": 1519.62,
+   "text": "Anyway, um, yeah, so people started reinterpreting the, um, Bible, and they, I guess what happened"
+  },
+  {
+   "start": 1519.62,
+   "end": 1523.5,
+   "text": "Was they realized it was, it was, it was a big rebellion against the wealth of the church, so"
+  },
+  {
+   "start": 1523.5,
+   "end": 1530.06,
+   "text": "They decided that, they noticed that Jesus was poor, you know, he dressed in robes, and, you know,"
+  },
+  {
+   "start": 1530.08,
+   "end": 1535.24,
+   "text": "His bare feet and sandals, and, uh, let poor people wash his feet and hung out with poor, and invited"
+  },
+  {
+   "start": 1535.24,
+   "end": 1540.7,
+   "text": "The poor, they paid attention to that part of it, and so they were like, yeah, so what does that have"
+  },
+  {
+   "start": 1540.7,
+   "end": 1547.7,
+   "text": "To do with, you know, the wealth of the church, and, um, so that's when they came up with the idea of,"
+  },
+  {
+   "start": 1547.7,
+   "end": 1553.86,
+   "text": "You know, protecting the poor, and, um, sharing with the poor, and so having communes, like, uh,"
+  },
+  {
+   "start": 1554.06,
+   "end": 1561.18,
+   "text": "Where you share everything, um, the Christian church, when it started to flourish after the"
+  },
+  {
+   "start": 1561.18,
+   "end": 1565.86,
+   "text": "Fall of the Roman Empire, it kind of took over from the Roman Empire, this is what Dan Carlin was"
+  },
+  {
+   "start": 1565.86,
+   "end": 1574.08,
+   "text": "Saying, um, because, like, there was a sudden drop-off of the Roman Empire, it wasn't like,"
+  },
+  {
+   "start": 1574.08,
+   "end": 1580.54,
+   "text": "It wasn't like, I mean, it was gradual, but when it finally fell, in, in Britain, it was sudden,"
+  },
+  {
+   "start": 1580.7,
+   "end": 1586.74,
+   "text": "Like, um, you should read, you know, Bede, I think it is, or, like, there, there's actually"
+  },
+  {
+   "start": 1586.74,
+   "end": 1590.68,
+   "text": "A first-hand account of, like, a generation after that, you can read on my website, um,"
+  },
+  {
+   "start": 1591.58,
+   "end": 1597.22,
+   "text": "But they, he took, I guess, they had four legions, he took the legions back to try to fight the,"
+  },
+  {
+   "start": 1597.22,
+   "end": 1604.5,
+   "text": "Um, the barbarians who were going into Italy, and, uh, it wasn't too long until the Germans"
+  },
+  {
+   "start": 1604.5,
+   "end": 1609.88,
+   "text": "Found out about that, you know, through traitors, and they went and invaded, uh, Rome, and, you know,"
+  },
+  {
+   "start": 1609.9,
+   "end": 1612.94,
+   "text": "And they easily took over Rome, because the Romans weren't fighters, they were Romans,"
+  },
+  {
+   "start": 1613.0,
+   "end": 1617.06,
+   "text": "They were civilized, and it was a legion, you know, the professional army that took over that,"
+  },
+  {
+   "start": 1617.14,
+   "end": 1621.96,
+   "text": "So they took, kicked their asses, and it happened within, like, a generation, just within, like,"
+  },
+  {
+   "start": 1621.96,
+   "end": 1627.98,
+   "text": "A few years, um, I think he removed the troops in 410 BC, that was the year that Rome was sacked,"
+  },
+  {
+   "start": 1627.98,
+   "end": 1638.96,
+   "text": "And, uh, um, uh, by, yeah, yeah, just, like, by 430 or something, it was already in the hands"
+  },
+  {
+   "start": 1638.96,
+   "end": 1648.36,
+   "text": "Of the, um, Angles and the Saxons, um, that's where England comes from, the name, um, so, um,"
+  },
+  {
+   "start": 1648.36,
+   "end": 1659.83,
+   "text": "Um, yeah, so, uh, it's, uh, oh, how did I get on that subject, um, yeah, so, yeah, in the 1500s,"
+  },
+  {
+   "start": 1659.83,
+   "end": 1672.87,
+   "text": "There's a lot of other change going on, and, um, they, uh, um, they, uh, any, yeah, anything,"
+  },
+  {
+   "start": 1672.87,
+   "end": 1679.49,
+   "text": "Um, oh, yeah, yeah, yeah, yeah, they started, uh, the poor, oh, yeah, in the Christian church,"
+  },
+  {
+   "start": 1679.49,
+   "end": 1689.17,
+   "text": "Um, so, in the fall of Rome, when Rome fell, like, you know, it, it kept, it kept, uh, it had"
+  },
+  {
+   "start": 1689.17,
+   "end": 1697.03,
+   "text": "To keep its, uh, like, um, the structure stayed in a lot of ways, you know, the, the, the Pope"
+  },
+  {
+   "start": 1697.03,
+   "end": 1702.31,
+   "text": "Stayed, but all of these people's mansions, you know, like, in 410, in the very last episode,"
+  },
+  {
+   "start": 1702.41,
+   "end": 1708.39,
+   "text": "Um, chapter of, uh, uh, Edward Gibson's Decline and Fall of the Roman Empire, which is on my"
+  },
+  {
+   "start": 1708.39,
+   "end": 1715.19,
+   "text": "Website, you can, you can read it, um, he said how rich Romans were, like, like, in 410,"
+  },
+  {
+   "start": 1715.27,
+   "end": 1719.77,
+   "text": "Like, like, when they came, and they sacked all of Rome, they, they emptied out all of the"
+  },
+  {
+   "start": 1719.77,
+   "end": 1725.45,
+   "text": "Different sepulchers and everything, and, uh, destroyed statues, you know, did the iconoclasm,"
+  },
+  {
+   "start": 1725.45,
+   "end": 1732.45,
+   "text": "Um, and, uh, which is one of the subjects of the video, and, um, but, like, Romans were"
+  },
+  {
+   "start": 1732.45,
+   "end": 1738.01,
+   "text": "So rich that one family, for example, had, like, eight mansions, kind of like Taylor Swift"
+  },
+  {
+   "start": 1738.01,
+   "end": 1747.13,
+   "text": "Has, I think, when she had, like, 14 mansions, they had a mansion in England, um, Rome, I"
+  },
+  {
+   "start": 1747.13,
+   "end": 1755.01,
+   "text": "Guess, south, like, south of Italy, um, Egypt, um, yeah, and they would just go all over,"
+  },
+  {
+   "start": 1755.01,
+   "end": 1760.31,
+   "text": "Like, cause, and, like, uh, senators were paid, like, the equivalent of, like, uh, millions"
+  },
+  {
+   "start": 1760.31,
+   "end": 1765.07,
+   "text": "Of dollars a year, and so it was just great wealth discrepancy, and the people who sacked"
+  },
+  {
+   "start": 1765.07,
+   "end": 1775.73,
+   "text": "Rome, um, the, uh, Visigoths, who were running from the, uh, the Huns, um, they were, it was"
+  },
+  {
+   "start": 1775.73,
+   "end": 1782.35,
+   "text": "Like Spartacus, they were, it was, it was an army, um, of Romans, as they, as they were coming"
+  },
+  {
+   "start": 1782.35,
+   "end": 1786.57,
+   "text": "Down in south, they were liberating the, uh, the slaves, and the slave was part of the"
+  },
+  {
+   "start": 1786.57,
+   "end": 1792.23,
+   "text": "Army, and so they, it was like a rebellion, um, of the, of the whole culture, a crumbling"
+  },
+  {
+   "start": 1792.23,
+   "end": 1803.25,
+   "text": "Of the business plan, and, um, and, um, so, uh, um, so anyway, when they took over, um,"
+  },
+  {
+   "start": 1804.55,
+   "end": 1811.41,
+   "text": "Uh, at the fall, um, all, so that's how rich those guys were, they lived in these huge mansions,"
+  },
+  {
+   "start": 1811.51,
+   "end": 1815.07,
+   "text": "In fact, the White House is a perfect, um, example of it."
+  },
+  {
+   "start": 1815.07,
+   "end": 1822.09,
+   "text": "You know, if you wanted to do wealth, like richness, like, I can't wait till they make"
+  },
+  {
+   "start": 1822.09,
+   "end": 1829.07,
+   "text": "Those videos, but realistic, you know, like, like, uh, Ridley Scott's, uh, Gladiator from"
+  },
+  {
+   "start": 1829.07,
+   "end": 1835.27,
+   "text": "Like 1994, whatever that was, when you see the first shot of it going down the road, and"
+  },
+  {
+   "start": 1835.27,
+   "end": 1841.83,
+   "text": "The, uh, Colosseum in the background, like, the Colosseum's way too big, the, um, the pillars"
+  },
+  {
+   "start": 1841.83,
+   "end": 1846.85,
+   "text": "Are way too big, you know, but you could, you could redo Rome realistically, and I'm"
+  },
+  {
+   "start": 1846.85,
+   "end": 1850.39,
+   "text": "Going to do it, I have it rebuilt on Google Earth, and I can do videos just like that,"
+  },
+  {
+   "start": 1850.45,
+   "end": 1853.81,
+   "text": "You know, traveling on ground level, it's fucking amazing, I can't wait till I do it."
+  },
+  {
+   "start": 1854.49,
+   "end": 1857.27,
+   "text": "Um, you can download it right now, and play the videos, yeah."
+  },
+  {
+   "start": 1858.27,
+   "end": 1862.79,
+   "text": "Um, but, like, you don't have to exaggerate, because it's huge and amazing, anyway, like,"
+  },
+  {
+   "start": 1862.85,
+   "end": 1867.81,
+   "text": "Ancient Rome straight streets for, like, two kilometers in the middle of the city, all"
+  },
+  {
+   "start": 1867.81,
+   "end": 1877.39,
+   "text": "Over the place, and, um, but, um, but, um, yeah, but, like, somebody's house would be"
+  },
+  {
+   "start": 1877.39,
+   "end": 1879.25,
+   "text": "Like the White House, like, that's somebody's house."
+  },
+  {
+   "start": 1879.51,
+   "end": 1883.57,
+   "text": "In fact, when I rebuilt Rome, I rebuilt all of Rome all the way to the building, like I"
+  },
+  {
+   "start": 1883.57,
+   "end": 1887.29,
+   "text": "Said, and, uh, actually many different, uh, iterations of it, starting with Romulan"
+  },
+  {
+   "start": 1887.29,
+   "end": 1892.37,
+   "text": "Rome, but one of the houses that I, that I drew in, at least one, maybe a few, was the"
+  },
+  {
+   "start": 1892.37,
+   "end": 1897.07,
+   "text": "White House, and it was, you know, somebody's house, you know, but, uh, it's called"
+  },
+  {
+   "start": 1897.07,
+   "end": 1902.01,
+   "text": "Neoclassical architecture, but that's how rich they were, so, when Rome fell, they"
+  },
+  {
+   "start": 1902.01,
+   "end": 1909.35,
+   "text": "Would convert these giant mansions into, um, um, like, um, apartment buildings, you"
+  },
+  {
+   "start": 1909.35,
+   "end": 1914.39,
+   "text": "Know, for poor people, they couldn't, and, you know, people even converted the, uh,"
+  },
+  {
+   "start": 1914.39,
+   "end": 1918.51,
+   "text": "Colosseum into a giant apartment building, and, uh, that would have been"
+  },
+  {
+   "start": 1918.51,
+   "end": 1923.71,
+   "text": "Interesting, beautiful to live in, but, um, and, uh, like, St. Augustine was one of"
+  },
+  {
+   "start": 1923.71,
+   "end": 1927.89,
+   "text": "These, uh, senators, his, I think he was the senator himself, or his grandfather"
+  },
+  {
+   "start": 1927.89,
+   "end": 1936.93,
+   "text": "Was, and, yeah, the Pope, he was the Pope, and, um, and, uh, he lived in a mansion, or"
+  },
+  {
+   "start": 1936.93,
+   "end": 1941.83,
+   "text": "That was, like, his grandfather's mansion, and now it was a big, uh, you know, apartment"
+  },
+  {
+   "start": 1941.83,
+   "end": 1946.39,
+   "text": "Building, you know, with a bunch of people, but, um, but at the fall of Rome, they would"
+  },
+  {
+   "start": 1946.39,
+   "end": 1951.23,
+   "text": "Also turn them into, you know, hospitals, and so the beginning of the invention of the"
+  },
+  {
+   "start": 1951.23,
+   "end": 1957.55,
+   "text": "Hospital was, uh, it was from the Christians from when they would, uh, period of when they"
+  },
+  {
+   "start": 1957.55,
+   "end": 1963.91,
+   "text": "Would, uh, do the wealth transfer, um, after the, you know, fall of Rome with these rich"
+  },
+  {
+   "start": 1963.91,
+   "end": 1969.57,
+   "text": "People and turn their houses into hospitals, and, but it was a Christian thing, um, because"
+  },
+  {
+   "start": 1969.57,
+   "end": 1974.69,
+   "text": "At the fall of Rome, um, that was also, a little bit before that, it was also coincided"
+  },
+  {
+   "start": 1974.69,
+   "end": 1980.23,
+   "text": "With the fall of, with the birth of Christianity, Theodosius, and so I can't remember the details,"
+  },
+  {
+   "start": 1980.23,
+   "end": 1983.15,
+   "text": "But, yeah, one of those was the first, and I think it was in Turkey, it was the first"
+  },
+  {
+   "start": 1983.15,
+   "end": 1988.49,
+   "text": "Hospital, but the, but, but the point is that it was Christian, it was the principles of"
+  },
+  {
+   "start": 1988.49,
+   "end": 1995.03,
+   "text": "Christian, um, uh, Christianity that, that founded it, because the Christianities had the"
+  },
+  {
+   "start": 1995.03,
+   "end": 2003.13,
+   "text": "Principles of, uh, communism, of sharing, of, of, uh, creating, um, uh, resources for the"
+  },
+  {
+   "start": 2003.13,
+   "end": 2009.31,
+   "text": "Poor, you know, so it, so it was a, it was a natural evolution of society, so, you know, in a"
+  },
+  {
+   "start": 2009.31,
+   "end": 2013.83,
+   "text": "Lot of ways, maybe the fall of Rome was, in a way, uh, evolving society, and that they,"
+  },
+  {
+   "start": 2014.49,
+   "end": 2024.59,
+   "text": "Um, they shared, um, and I, um, uh, well, resources and created hospitals to take care of poor people,"
+  },
+  {
+   "start": 2024.59,
+   "end": 2030.65,
+   "text": "Like, for free, and so that's, that was, that was kind of reborn in the, um, the 1530s, uh,"
+  },
+  {
+   "start": 2030.65,
+   "end": 2037.05,
+   "text": "With Munster, that, and, and their idea, they're so fervently of, um, of having communism, you know,"
+  },
+  {
+   "start": 2037.05,
+   "end": 2040.65,
+   "text": "And, like, sharing everything, because it was the opposite of what they were living in, in that day,"
+  },
+  {
+   "start": 2041.55,
+   "end": 2045.99,
+   "text": "Um, so they were thinking in terms of that kind of rebellion, they thought it was, and they were"
+  },
+  {
+   "start": 2045.99,
+   "end": 2051.89,
+   "text": "Called the millennialists, because there were 1500 years after, 1533 was exactly 1500 years after the"
+  },
+  {
+   "start": 2051.89,
+   "end": 2056.93,
+   "text": "Death of Jesus Christ, and so, um, that's, and that was, like, three years before the rebellion,"
+  },
+  {
+   "start": 2056.93,
+   "end": 2060.75,
+   "text": "And so that's when they were all, like, they were thinking that they were going to have another"
+  },
+  {
+   "start": 2060.75,
+   "end": 2065.53,
+   "text": "Rebellion, and I heard even a thousand years after Jesus, death of Jesus Christ, a lot, there were a"
+  },
+  {
+   "start": 2065.53,
+   "end": 2069.43,
+   "text": "Lot of millennialists who thought that there was going to be a big rebellion, and people were acting"
+  },
+  {
+   "start": 2069.43,
+   "end": 2076.79,
+   "text": "Up, and, uh, um, 533, you know, maybe that had something to do with the fall of Rome as well,"
+  },
+  {
+   "start": 2076.79,
+   "end": 2081.39,
+   "text": "And all of the, because the, because a lot of the barbarians who entered Rome were Christians,"
+  },
+  {
+   "start": 2081.39,
+   "end": 2087.51,
+   "text": "Uh, the barbarians who sacked Rome in 410, the Ostrogoths, Visigoths, who weren't even in,"
+  },
+  {
+   "start": 2087.61,
+   "end": 2093.73,
+   "text": "Uh, in Roman Empire, they were Christians, so Roman Empire was Christian, but also the barbarians"
+  },
+  {
+   "start": 2093.73,
+   "end": 2097.89,
+   "text": "On the outside of the Roman Empire were also Christian, and so it was like the Christian"
+  },
+  {
+   "start": 2097.89,
+   "end": 2102.37,
+   "text": "Religion and culture had kind of grown out, and they probably had, uh, you know, incorporated a lot"
+  },
+  {
+   "start": 2102.37,
+   "end": 2105.45,
+   "text": "Of their technology, and their, all of their warfare, too, and that's why they got their asses kicked,"
+  },
+  {
+   "start": 2105.45,
+   "end": 2111.43,
+   "text": "But, um, yeah, so they thought that they were, um, going through another revolution, like,"
+  },
+  {
+   "start": 2112.17,
+   "end": 2118.69,
+   "text": "So that anything changes, anything can happen, and so, uh, mix that with ergot, and, uh, people,"
+  },
+  {
+   "start": 2118.95,
+   "end": 2123.35,
+   "text": "Uh, actually believe in communism, and, um, all kinds of communism, and so that's why they"
+  },
+  {
+   "start": 2123.35,
+   "end": 2130.87,
+   "text": "Were so firmly fighting for it, and, um, um, it's very similar to what's happening today,"
+  },
+  {
+   "start": 2130.87,
+   "end": 2142.21,
+   "text": "Um, uh, in terms of time, temporally, um, in the year, uh, 2033, I think that'll be exactly,"
+  },
+  {
+   "start": 2142.21,
+   "end": 2149.41,
+   "text": "Yeah, that's gonna be exactly 2,000 years after the death of Jesus Christ, so, um, maybe, yeah,"
+  },
+  {
+   "start": 2149.49,
+   "end": 2155.15,
+   "text": "Maybe there's lots of Christians, Christian-backed people think that that gives them, uh, a license"
+  },
+  {
+   "start": 2155.15,
+   "end": 2159.85,
+   "text": "To, uh, go back to the Christian ways, you know, that's why we have all of this new Christian"
+  },
+  {
+   "start": 2159.85,
+   "end": 2163.75,
+   "text": "Nationalism could have, could have to do with that, thinking that Jesus is going to come back"
+  },
+  {
+   "start": 2163.75,
+   "end": 2168.51,
+   "text": "In 2033, because it's 2,000 years after, because that's what they did 1,500 years ago, and that's"
+  },
+  {
+   "start": 2168.51,
+   "end": 2175.05,
+   "text": "What they did 1,000 years ago, and 1,500 years ago, um, but, um, and you know why people think"
+  },
+  {
+   "start": 2175.05,
+   "end": 2182.97,
+   "text": "That this is a Christian nation, even though it's the First Amendment, and, um, but, um, uh,"
+  },
+  {
+   "start": 2182.97,
+   "end": 2195.59,
+   "text": "Yeah, um, yeah, uh, man, kind of forgot what I was talking about, um, oh, yeah, so that,"
+  },
+  {
+   "start": 2195.75,
+   "end": 2200.55,
+   "text": "Yeah, that has a lot to do with now, and so, I think that could have, like, Trump is trying"
+  },
+  {
+   "start": 2200.55,
+   "end": 2207.63,
+   "text": "To re-invent everything, you know, um, uh, basically, you know, do stuff that's illegal,"
+  },
+  {
+   "start": 2207.93,
+   "end": 2211.81,
+   "text": "You know, maybe he thinks if he does all this stuff that's illegal, and luckily he's getting"
+  },
+  {
+   "start": 2211.81,
+   "end": 2217.27,
+   "text": "Sued by the federal judges, but, uh, well, after he gets away with it, you know, then"
+  },
+  {
+   "start": 2217.27,
+   "end": 2220.79,
+   "text": "You just change the law, you know, like, because we have, he's already busted the law a bunch"
+  },
+  {
+   "start": 2220.79,
+   "end": 2224.11,
+   "text": "Of times, the Emoluments Clause says you can't make the money off the presidency, he's been"
+  },
+  {
+   "start": 2224.11,
+   "end": 2232.33,
+   "text": "Doing that, and, um, it says that if you partake in a revolution, or in a coup, you can't run"
+  },
+  {
+   "start": 2232.33,
+   "end": 2237.23,
+   "text": "Again, and he did that, and then won, um, and then all of the other, uh, federal cases"
+  },
+  {
+   "start": 2237.23,
+   "end": 2242.37,
+   "text": "That, um, that guy Jack, whatever, was giving up against, and they just had to drop him as"
+  },
+  {
+   "start": 2242.37,
+   "end": 2246.03,
+   "text": "Soon as he became president, because the fact he was president, he had to govern as president"
+  },
+  {
+   "start": 2246.03,
+   "end": 2254.89,
+   "text": "Now, um, so, um, you know, so now he's the president to avoid being out of jail, and so"
+  },
+  {
+   "start": 2254.89,
+   "end": 2263.33,
+   "text": "Then he breaks all the laws, and so, um, it creates lots of, uh, possibilities, and, uh, but"
+  },
+  {
+   "start": 2263.33,
+   "end": 2266.93,
+   "text": "Yeah, there's lots of other parallels, though, that I noticed that was happening during that"
+  },
+  {
+   "start": 2266.93,
+   "end": 2274.59,
+   "text": "Time, um, um, yeah, like, because the world was a lot different then, and when they were"
+  },
+  {
+   "start": 2274.59,
+   "end": 2278.79,
+   "text": "Living in that tiny little town in the walls, like, and, and people were a lot more isolated,"
+  },
+  {
+   "start": 2278.91,
+   "end": 2283.21,
+   "text": "Not what's going, knowing what's going on in the rest of the world, um, it creates, you"
+  },
+  {
+   "start": 2283.21,
+   "end": 2289.33,
+   "text": "Know, ability, the possibility, yeah, to create just all sorts of little microcosm worlds that"
+  },
+  {
+   "start": 2289.33,
+   "end": 2294.77,
+   "text": "Are just wild, and, um, yeah, and so then, but then pattern things happen, you know, it's"
+  },
+  {
+   "start": 2294.77,
+   "end": 2300.15,
+   "text": "Interesting how, how the whole sexual thing happens, you know, like the leader, uh, first"
+  },
+  {
+   "start": 2300.15,
+   "end": 2305.87,
+   "text": "He's Jesus, and he, or he, he, he's, he's like, like Jesus, and he remembers the Bible"
+  },
+  {
+   "start": 2305.87,
+   "end": 2310.65,
+   "text": "And is really smart, and that, but then he has to become the prophet, who is the only one"
+  },
+  {
+   "start": 2310.65,
+   "end": 2314.93,
+   "text": "Who can talk directly to God, and then after that, he has to persecute those who don't agree"
+  },
+  {
+   "start": 2314.93,
+   "end": 2320.37,
+   "text": "With him, and, and kill him, and then, and then after that, he has to, um, be able to"
+  },
+  {
+   "start": 2320.37,
+   "end": 2324.65,
+   "text": "Have sex with everybody, because if you share the money and the food, you might as well share"
+  },
+  {
+   "start": 2324.65,
+   "end": 2333.67,
+   "text": "The sex, and, um, and then after that, they, yeah, they all get killed, and then, or, uh,"
+  },
+  {
+   "start": 2333.67,
+   "end": 2338.19,
+   "text": "Prosecuted by the authorities, so then they all have to, like, suicide together, you know,"
+  },
+  {
+   "start": 2338.19,
+   "end": 2347.47,
+   "text": "Like with, uh, Waco, Texas, and then Jamestown, um, and so, like, how can, even though, even"
+  },
+  {
+   "start": 2347.47,
+   "end": 2352.23,
+   "text": "Though they aren't, like, communicating with each other, you know, or reading each other's"
+  },
+  {
+   "start": 2352.23,
+   "end": 2355.51,
+   "text": "Books, you know, they don't think that's what's going to happen, it's not like they're, at"
+  },
+  {
+   "start": 2355.51,
+   "end": 2360.21,
+   "text": "The beginning, they're, they're, they're talking about it, um, why does it all happen the same"
+  },
+  {
+   "start": 2360.21,
+   "end": 2368.37,
+   "text": "Way, and, like, maybe because, like, um, you know, when you're, uh, when you're, um, don't"
+  },
+  {
+   "start": 2368.37,
+   "end": 2377.75,
+   "text": "Have, like, a wide enough view of the world's going on, um, you, uh, yeah, you become, like,"
+  },
+  {
+   "start": 2377.85,
+   "end": 2384.51,
+   "text": "Selfish, and authoritarian, and, uh, but once they, those guys aren't satisfied with that,"
+  },
+  {
+   "start": 2384.59,
+   "end": 2389.61,
+   "text": "Then they, they, they realize that if they lose their power, because, because one of the"
+  },
+  {
+   "start": 2389.61,
+   "end": 2394.13,
+   "text": "Questions is, like, like, at what point do they stop believing in what they're saying,"
+  },
+  {
+   "start": 2394.17,
+   "end": 2399.39,
+   "text": "And, and maybe they start believing what they're saying, um, or not believing what they're saying,"
+  },
+  {
+   "start": 2399.39,
+   "end": 2403.47,
+   "text": "But they, but they have to say it anyway, so that, to, in order to protect themselves,"
+  },
+  {
+   "start": 2403.47,
+   "end": 2412.25,
+   "text": "Because if they, um, um, admit it, they'll be killed, but, uh, yeah, in the end, they were"
+  },
+  {
+   "start": 2412.25,
+   "end": 2416.87,
+   "text": "All, after they were killed, their bodies were put in these, um, cages, as big as phone books,"
+  },
+  {
+   "start": 2416.87,
+   "end": 2421.59,
+   "text": "And, and hung at the top of the church, and they're still there in Munster, the, the cages"
+  },
+  {
+   "start": 2421.59,
+   "end": 2426.27,
+   "text": "Are, um, yeah, I was thinking, like, that'd be interesting if they just left the bodies"
+  },
+  {
+   "start": 2426.27,
+   "end": 2430.53,
+   "text": "In, I should ask what happened to the bodies, because, uh, I was wondering how long it would"
+  },
+  {
+   "start": 2430.53,
+   "end": 2435.37,
+   "text": "Take until all the bodies fall down through the, uh, the cracks, through the, through the"
+  },
+  {
+   "start": 2435.37,
+   "end": 2442.35,
+   "text": "Bars, and, and even the clothing, but, but, yeah, um, maybe it just got too morbid for people"
+  },
+  {
+   "start": 2442.35,
+   "end": 2448.47,
+   "text": "After a while, but, um, yeah, because, like, in those days, the only way that you could"
+  },
+  {
+   "start": 2448.47,
+   "end": 2452.01,
+   "text": "Control somebody was through torture, you know, and that's, that's a question, you know,"
+  },
+  {
+   "start": 2452.01,
+   "end": 2456.81,
+   "text": "Like, why were they the way that they were, and maybe one way that they were, um, into"
+  },
+  {
+   "start": 2456.81,
+   "end": 2466.55,
+   "text": "Torture was, um, uh, so much was because, uh, just killing them wasn't enough, you know,"
+  },
+  {
+   "start": 2466.55,
+   "end": 2471.03,
+   "text": "Like, when the, when the first Christians were persecuted, they, a lot of them had to"
+  },
+  {
+   "start": 2471.03,
+   "end": 2477.09,
+   "text": "Be killed, um, and fed to the lions and stuff, because they refused to repent, because they"
+  },
+  {
+   "start": 2477.09,
+   "end": 2483.07,
+   "text": "Believed in the afterlife, and so, for somebody who believes in the afterlife, uh, you know,"
+  },
+  {
+   "start": 2483.15,
+   "end": 2487.45,
+   "text": "The way to deter them is about torturing them, and, and so many of you want somebody to, uh,"
+  },
+  {
+   "start": 2488.73,
+   "end": 2494.79,
+   "text": "Yeah, yeah, so, but they, they would, uh, kill people different ways, um, poor people had"
+  },
+  {
+   "start": 2494.79,
+   "end": 2498.87,
+   "text": "To get drowned or burn at the stake, like, there was different levels of it, so, because"
+  },
+  {
+   "start": 2498.87,
+   "end": 2502.95,
+   "text": "If you're a religious pro, protester, that was the worst, so burn at the stake was the"
+  },
+  {
+   "start": 2502.95,
+   "end": 2506.75,
+   "text": "Worst, and after that, if you're poor, that's drowned, that's, like, second worst, um, and"
+  },
+  {
+   "start": 2506.75,
+   "end": 2510.41,
+   "text": "They would, like, um, I guess use ladders for that, dip the ladder in, then take you out"
+  },
+  {
+   "start": 2510.41,
+   "end": 2516.91,
+   "text": "10 minutes later, but, um, and then, uh, but the best way to die was by, uh, chopping your"
+  },
+  {
+   "start": 2516.91,
+   "end": 2523.33,
+   "text": "Head off, um, that's how they killed, I mean, that's how they killed that 15-year-old"
+  },
+  {
+   "start": 2523.33,
+   "end": 2526.75,
+   "text": "Grill at the end, uh, and they said that when they chopped her head off, the guy did"
+  },
+  {
+   "start": 2526.75,
+   "end": 2531.69,
+   "text": "It so quickly, he could have done three of the grills, but, um, so that, that was the"
+  },
+  {
+   "start": 2531.69,
+   "end": 2536.43,
+   "text": "Most merciful way, and that's why they invented the, uh, guillotine, because it was supposed"
+  },
+  {
+   "start": 2536.43,
+   "end": 2541.61,
+   "text": "To be even, even easier to kill, more merciful, merciful, because sometimes people didn't do"
+  },
+  {
+   "start": 2541.61,
+   "end": 2545.73,
+   "text": "It right the first time, um, but it kind of, I don't know if it backfired, because then"
+  },
+  {
+   "start": 2545.73,
+   "end": 2550.95,
+   "text": "They just killed, like, I think 10,000 people that way in the French Revolution, but, um,"
+  },
+  {
+   "start": 2550.95,
+   "end": 2565.93,
+   "text": "Um, but, um, yeah, so, um, um, yeah, you, uh, uh, so people, um, I think today probably"
+  },
+  {
+   "start": 2565.93,
+   "end": 2574.23,
+   "text": "Are a lot less faithful, like, like you could deter them from, um, doing stuff, um, you don't"
+  },
+  {
+   "start": 2574.23,
+   "end": 2582.35,
+   "text": "Have to torture them, um, because we have less faith in the afterlife in general, um, but,"
+  },
+  {
+   "start": 2582.47,
+   "end": 2590.99,
+   "text": "Uh, but, yeah, we're generally a lot more, um, civilized, um, kind of starting to, starting"
+  },
+  {
+   "start": 2590.99,
+   "end": 2596.33,
+   "text": "To, maybe I'm getting tired, because I'm so, I'm, I'm a little bit baked, but, um, there"
+  },
+  {
+   "start": 2596.33,
+   "end": 2604.39,
+   "text": "Were, uh, what were the other, um, oh, iconoclasm, so iconoclasm was the other, like, subject of"
+  },
+  {
+   "start": 2604.39,
+   "end": 2609.45,
+   "text": "The, uh, of the video, and it's another thing that happens over and over again, and it's"
+  },
+  {
+   "start": 2609.45,
+   "end": 2615.35,
+   "text": "Like the pendulum, it's the perfect example of, like, rich versus poor, left versus right"
+  },
+  {
+   "start": 2615.35,
+   "end": 2619.79,
+   "text": "Pendulum, going from one end to the other, you know, so, like, because at the beginning"
+  },
+  {
+   "start": 2619.79,
+   "end": 2623.99,
+   "text": "Of the civilization, it's, people think it's awesome to, like, you know, they build a lot"
+  },
+  {
+   "start": 2623.99,
+   "end": 2630.93,
+   "text": "Of, um, statues to the leaders, and they adorn the city with statues and tribute to people,"
+  },
+  {
+   "start": 2631.57,
+   "end": 2635.61,
+   "text": "You know, the founders of the city and their generals, and, and then they make the big,"
+  },
+  {
+   "start": 2635.61,
+   "end": 2643.19,
+   "text": "Um, uh, structures like the Colosseum, you know, but then on the other end, they go, oh,"
+  },
+  {
+   "start": 2643.23,
+   "end": 2647.75,
+   "text": "No, that's all wealth, and we don't want wealth, we like, we like to take care of the poor people,"
+  },
+  {
+   "start": 2647.75,
+   "end": 2653.63,
+   "text": "So we don't want anybody to be rich, so then they, they tear down all of the, the statues,"
+  },
+  {
+   "start": 2653.99,
+   "end": 2661.09,
+   "text": "And, um, and, uh, stop, um, having shows in the Colosseum, that was a Christian thing,"
+  },
+  {
+   "start": 2661.17,
+   "end": 2667.23,
+   "text": "To stop the, uh, gladiators, I think the last gladiator fought in, like, 389 in the Colosseum,"
+  },
+  {
+   "start": 2667.33,
+   "end": 2671.99,
+   "text": "Because the Christians said it was too brutal, but then they went too far to the, to the left,"
+  },
+  {
+   "start": 2672.03,
+   "end": 2678.33,
+   "text": "Because they were like, yeah, so now no competitions either, because that's brutal, you know, and,"
+  },
+  {
+   "start": 2678.33,
+   "end": 2686.31,
+   "text": "And no, um, and no, you know, uh, acting out, uh, no theater, because that's too, uh, celebratory of"
+  },
+  {
+   "start": 2686.31,
+   "end": 2693.95,
+   "text": "The rich, and so, um, you know, and that, so that's kind of what even modern day communists do,"
+  },
+  {
+   "start": 2694.03,
+   "end": 2703.81,
+   "text": "They, and, uh, in Albanian communism, they had laws that said, um, there was only, uh, you know,"
+  },
+  {
+   "start": 2703.81,
+   "end": 2708.71,
+   "text": "Certain types of, uh, songs you could play, like, with a guitar, and it was really, and, you know,"
+  },
+  {
+   "start": 2708.75,
+   "end": 2713.01,
+   "text": "In, like, North Korea, only 20 different haircuts you can have, and, because they try to be really"
+  },
+  {
+   "start": 2713.01,
+   "end": 2719.15,
+   "text": "Sparse, um, and the, uh, and, you know, modern day, uh, Muslims trying to tear down all of the"
+  },
+  {
+   "start": 2719.15,
+   "end": 2727.33,
+   "text": "Different, um, statues, um, even the ones that are, like, 4,000 years old, and 3,000 years old,"
+  },
+  {
+   "start": 2727.33,
+   "end": 2735.49,
+   "text": "Destroying them, because it's, they're trying to, um, uh, fight against, uh, yeah, the wealthy,"
+  },
+  {
+   "start": 2736.17,
+   "end": 2742.71,
+   "text": "Um, and it's too bad, uh, in, in the Crusades, in, like, the year 1100, they, they melted a statue"
+  },
+  {
+   "start": 2742.71,
+   "end": 2748.81,
+   "text": "That was built of Alexander the Great in, like, 350 BC, so it was, like, a 1,400-year-old statue"
+  },
+  {
+   "start": 2748.81,
+   "end": 2753.77,
+   "text": "That they melted down for money, because they, because they just didn't care about statues and"
+  },
+  {
+   "start": 2753.77,
+   "end": 2757.15,
+   "text": "People anymore, and maybe that's why they're finding a lot of statues underground,"
+  },
+  {
+   "start": 2757.33,
+   "end": 2761.13,
+   "text": "Because, you know, when Rome was falling, people were like, hey, let's not let people"
+  },
+  {
+   "start": 2761.13,
+   "end": 2765.75,
+   "text": "Destroy our nice statues, let's bury them, not right, really deep, so that in 2,000 years,"
+  },
+  {
+   "start": 2765.83,
+   "end": 2772.39,
+   "text": "They'll find them intact, and be able to make, like, museums out of them, um, yeah, so it's"
+  },
+  {
+   "start": 2772.39,
+   "end": 2777.37,
+   "text": "Like a rebellion against the rich, you know, like, when, uh, the Munsterians rebelled against"
+  },
+  {
+   "start": 2777.37,
+   "end": 2785.27,
+   "text": "The rich, they, you know, they, they killed them all, and, um, and, uh, and, um, you know,"
+  },
+  {
+   "start": 2785.27,
+   "end": 2789.91,
+   "text": "That's kind of what some people are saying now, Scott Galloway, I think, said that, yeah,"
+  },
+  {
+   "start": 2789.91,
+   "end": 2795.37,
+   "text": "There's a revolution coming, and, um, like, he's, I guess he's a multimillionaire businessman"
+  },
+  {
+   "start": 2795.37,
+   "end": 2800.21,
+   "text": "Professor in New York, and he's like, there's a revolution of the poor coming, and, you know,"
+  },
+  {
+   "start": 2800.21,
+   "end": 2806.19,
+   "text": "You know, um, I guess, yeah, now today we're having a revolution, a big march, all the federal"
+  },
+  {
+   "start": 2806.19,
+   "end": 2813.23,
+   "text": "Workers quit work today to march against, uh, Donald Trump for allowing six, you know, uh,"
+  },
+  {
+   "start": 2813.23,
+   "end": 2819.29,
+   "text": "Under 26-year-olds, including a 19-year-old and a 22-year-old to hack into the U.S. treasury"
+  },
+  {
+   "start": 2819.29,
+   "end": 2829.57,
+   "text": "For Elon Musk as co-president of, of, uh, of Trump, um, uh, yeah, because, like, uh, you"
+  },
+  {
+   "start": 2829.57,
+   "end": 2835.19,
+   "text": "Know, temporally, you know, not only in 2033 it will be 2,000 years after the death of"
+  },
+  {
+   "start": 2835.19,
+   "end": 2839.77,
+   "text": "Christ, and, you know, that's even, uh, numerically more important than 500 years ago for Munster,"
+  },
+  {
+   "start": 2839.85,
+   "end": 2845.83,
+   "text": "Because 2,000 years, you know, that's 1,000, not, not 1,000 and a half, but, uh, not just"
+  },
+  {
+   "start": 2845.83,
+   "end": 2853.12,
+   "text": "That, but, like, I think in the year, like, the same year, yeah, it's going to be 250 years"
+  },
+  {
+   "start": 2853.12,
+   "end": 2865.58,
+   "text": "Since the birth of America, because 1776 plus 250 is 2,025, oh, yeah, so, like, around now"
+  },
+  {
+   "start": 2865.58,
+   "end": 2873.16,
+   "text": "Or something, and so, um, you know, 250, that's a segment of time, 250, 500,000."
+  },
+  {
+   "start": 2873.16,
+   "end": 2879.84,
+   "text": "The ancient Romans had the idea of the seculum, which was the lifetime of a human, um, and"
+  },
+  {
+   "start": 2879.84,
+   "end": 2888.96,
+   "text": "When, uh, Romulus saw 12, um, eagles flying through the sky, um, the prophet said, they"
+  },
+  {
+   "start": 2888.96,
+   "end": 2896.48,
+   "text": "Said, um, the prophet said that, uh, that meant that Rome would last 1,200 years, and so they"
+  },
+  {
+   "start": 2896.48,
+   "end": 2901.82,
+   "text": "Supposedly knew that even from the beginning, and they had the seculum party from Rome of"
+  },
+  {
+   "start": 2901.82,
+   "end": 2906.82,
+   "text": "The 1,000-year seculum party, and I think Rome did last 1,200 years, uh, 753 AD until,"
+  },
+  {
+   "start": 2906.82,
+   "end": 2916.06,
+   "text": "Uh, uh, minus 1,000 years, so, what's 1,000 minus 753, 247, so, yeah, in the year 247 was"
+  },
+  {
+   "start": 2916.06,
+   "end": 2925.4,
+   "text": "A seculum of 100,000, and, um, they were still going strong, and at 203, 447, that's around"
+  },
+  {
+   "start": 2925.4,
+   "end": 2930.64,
+   "text": "The time of the, the fall of Rome, so it was, you know, as to, as per prophecy, they"
+  },
+  {
+   "start": 2930.64,
+   "end": 2936.12,
+   "text": "Got it right, um, but, you know, the idea, they've had ideas of generations forever, you"
+  },
+  {
+   "start": 2936.12,
+   "end": 2941.28,
+   "text": "Know, Strauss and Howe have their, their book, Generations, talking about how, uh, a lifetime"
+  },
+  {
+   "start": 2941.28,
+   "end": 2947.4,
+   "text": "Would be 84, and you, 80 years, and then they break it up into four different, um, generations"
+  },
+  {
+   "start": 2947.4,
+   "end": 2952.3,
+   "text": "Of 20 years each, and so there's four generations happening, and so you would name your, the generation"
+  },
+  {
+   "start": 2952.3,
+   "end": 2955.0,
+   "text": "That you're living now is the generation of the youngest generation, because those are"
+  },
+  {
+   "start": 2955.0,
+   "end": 2958.82,
+   "text": "The ones who are getting formed under it, and then they bring their idea through the"
+  },
+  {
+   "start": 2958.82,
+   "end": 2963.52,
+   "text": "World until they, you know, are, are, are influential, and have all, just the, how the"
+  },
+  {
+   "start": 2963.52,
+   "end": 2973.7,
+   "text": "Mixture of all the different generations, and, um, and, uh, so, yeah, after, uh, um, and"
+  },
+  {
+   "start": 2973.7,
+   "end": 2981.0,
+   "text": "Yeah, they had formulas for it, you know, like, um, after four generations, uh, the, um,"
+  },
+  {
+   "start": 2981.0,
+   "end": 2986.14,
+   "text": "You, uh, you, the dynasty dies, you know, because the founder is the leader, second guy"
+  },
+  {
+   "start": 2986.14,
+   "end": 2990.0,
+   "text": "Is almost as good, but then the third guy, he's kind of like a swirl rat, and so then"
+  },
+  {
+   "start": 2990.0,
+   "end": 2995.58,
+   "text": "They, they squander it, and they lose him, and so, um, you know, I'm, I'm, I know a lot"
+  },
+  {
+   "start": 2995.58,
+   "end": 3000.22,
+   "text": "About this stuff from my timeline, you know, like, I, uh, so 250 years is generally like"
+  },
+  {
+   "start": 3000.22,
+   "end": 3009.48,
+   "text": "A, uh, a, um, a, uh, dynasty, um, 500 years would be a kingdom, you know, so the kingdom"
+  },
+  {
+   "start": 3009.48,
+   "end": 3016.5,
+   "text": "Of Rome lasted from 750, um, well, from 753 to 509, so, like, 250 years was the kingdom"
+  },
+  {
+   "start": 3016.5,
+   "end": 3023.94,
+   "text": "Of Rome, 500 years was the, uh, Republic of Rome, 500 years was the Empire of Rome, right,"
+  },
+  {
+   "start": 3024.02,
+   "end": 3032.34,
+   "text": "Republic of Rome, 509 to 27, Empire of Rome, 27 to, uh, 476, um, so, like, works out that"
+  },
+  {
+   "start": 3032.34,
+   "end": 3036.14,
+   "text": "Way, and so that's why people pay attention to that stuff, like, for the revolution, you"
+  },
+  {
+   "start": 3036.14,
+   "end": 3041.78,
+   "text": "Know, in the 1533, even 1500 years after, um, Jane Roberts, whose channel is Seth the"
+  },
+  {
+   "start": 3041.78,
+   "end": 3047.88,
+   "text": "Alien, says that every 2,000 years, there is, like, a psychic reinvention, and so, if"
+  },
+  {
+   "start": 3047.88,
+   "end": 3051.1,
+   "text": "There was a big one, you know, with Jesus 2,000 years ago, then we're going through"
+  },
+  {
+   "start": 3051.1,
+   "end": 3055.54,
+   "text": "One now, which kind of means that, like, all goes, anything goes, lots of revolution, so"
+  },
+  {
+   "start": 3055.54,
+   "end": 3059.74,
+   "text": "Here's the problem, if there's going to be a revolution, it needs to be a revolution"
+  },
+  {
+   "start": 3059.74,
+   "end": 3066.92,
+   "text": "That is piloted, uh, that is, um, kind of, like, oversaw and supervised by the most, by"
+  },
+  {
+   "start": 3066.92,
+   "end": 3072.62,
+   "text": "The strong, by the smartest people, by the most well-trusted, um, you know, the most"
+  },
+  {
+   "start": 3072.62,
+   "end": 3076.98,
+   "text": "Intelligent, because it's kind of like, um, you know, like what the New Agers say, what"
+  },
+  {
+   "start": 3076.98,
+   "end": 3081.3,
+   "text": "Bashar says, you know, we're, we're breaking up, or, and the aliens say, we're breaking up"
+  },
+  {
+   "start": 3081.3,
+   "end": 3085.12,
+   "text": "Into different parallel universes, and, and the more, the longer we wait, the harder it"
+  },
+  {
+   "start": 3085.12,
+   "end": 3089.78,
+   "text": "Will be to transport, teleport yourself to the other parallel universe, to decide, like,"
+  },
+  {
+   "start": 3089.8,
+   "end": 3098.98,
+   "text": "What side you're on now, and, um, so, similarly, similarly with, um, with, you know, politically,"
+  },
+  {
+   "start": 3099.24,
+   "end": 3102.96,
+   "text": "You know, like, if we let, you know, the fascists take over, and we don't even think now, then,"
+  },
+  {
+   "start": 3103.02,
+   "end": 3107.42,
+   "text": "Then they, they, they get their talons into it, change the law, because they get away with"
+  },
+  {
+   "start": 3107.42,
+   "end": 3110.6,
+   "text": "Breaking law, rewrite the constitution, and then it's kind of like the fall of Rome, you"
+  },
+  {
+   "start": 3110.6,
+   "end": 3117.12,
+   "text": "Know, um, I think Trump took the, uh, the constitution off of the White House page already,"
+  },
+  {
+   "start": 3117.12,
+   "end": 3122.54,
+   "text": "And, uh, you know, I'm like, oh, God, I hope they don't take the law code off of the, uh,"
+  },
+  {
+   "start": 3122.54,
+   "end": 3126.86,
+   "text": "The website, because I was copying that onto my site, I want to put on my site for my QR"
+  },
+  {
+   "start": 3126.86,
+   "end": 3133.74,
+   "text": "Codes, I want to do QR codes for different, uh, laws, and sell those on Amazon, but, um, um,"
+  },
+  {
+   "start": 3133.74,
+   "end": 3141.76,
+   "text": "Yeah, so, um, um, if we all, uh, kind of, like, decide that we're going to reinvent the"
+  },
+  {
+   "start": 3141.76,
+   "end": 3146.68,
+   "text": "World, but reinvent the world in a really beautiful, like, awesome way, now, and get"
+  },
+  {
+   "start": 3146.68,
+   "end": 3150.54,
+   "text": "Real into it, and get it, then that could kind of set the seeds for more, so, like, my"
+  },
+  {
+   "start": 3150.54,
+   "end": 3156.4,
+   "text": "Idea to reinvent the world is because, because of technology, we have, um, uh, the ability"
+  },
+  {
+   "start": 3156.4,
+   "end": 3161.8,
+   "text": "To use the technology, um, for education, you know, and, um, because people like to say,"
+  },
+  {
+   "start": 3161.8,
+   "end": 3165.86,
+   "text": "Uh, technology bad, but it's like, yeah, but what about for education, you know, like,"
+  },
+  {
+   "start": 3166.34,
+   "end": 3169.6,
+   "text": "And so we need to create, and we need to make it so that you can educate yourself,"
+  },
+  {
+   "start": 3169.6,
+   "end": 3173.6,
+   "text": "Because we're having, uh, we could have, like, an economic crash, and if we all have"
+  },
+  {
+   "start": 3173.6,
+   "end": 3177.48,
+   "text": "Schools now, we all get used to the schools, and then if there's an economic crash, and"
+  },
+  {
+   "start": 3177.48,
+   "end": 3180.4,
+   "text": "Then there's no more school, people are like, oh, okay, so we're not going to learn"
+  },
+  {
+   "start": 3180.4,
+   "end": 3185.02,
+   "text": "Anymore, because school is kind of like a place that you go to, you go because you, um,"
+  },
+  {
+   "start": 3185.44,
+   "end": 3189.78,
+   "text": "Because they, they don't think that they can trust you to learn on your own, and so if you"
+  },
+  {
+   "start": 3189.78,
+   "end": 3195.44,
+   "text": "Open up a society that, that, that, uh, rewards you for learning on your own, then, um, and"
+  },
+  {
+   "start": 3195.44,
+   "end": 3199.26,
+   "text": "You make it competitive, and, and you pay, you know, pay people to live the life, make"
+  },
+  {
+   "start": 3199.26,
+   "end": 3203.4,
+   "text": "It professional learner, then everybody, then everybody's going to want to do it, and"
+  },
+  {
+   "start": 3203.4,
+   "end": 3207.74,
+   "text": "Compete for it, and so my idea is to create a lot of online competitions, like physical"
+  },
+  {
+   "start": 3207.74,
+   "end": 3212.84,
+   "text": "And mental, and, uh, you know, and make it as, uh, institutional as possible, you know,"
+  },
+  {
+   "start": 3212.84,
+   "end": 3218.52,
+   "text": "Make t-shirts that, like NASCAR drivers with all the advertisements on their jackets, do"
+  },
+  {
+   "start": 3218.52,
+   "end": 3224.64,
+   "text": "That for, um, for yourself with your own wardrobe, your shirt advertises you in every"
+  },
+  {
+   "start": 3224.64,
+   "end": 3229.44,
+   "text": "Way, so it has your, your IQ on your upper right, it has your history IQ on your upper"
+  },
+  {
+   "start": 3229.44,
+   "end": 3235.62,
+   "text": "Left, it has your, how many books you've done, book reviews on your, a little bit below, um,"
+  },
+  {
+   "start": 3235.62,
+   "end": 3241.78,
+   "text": "It has, like, the edge of the personality profile you are on your belly, um, your, your bicycle"
+  },
+  {
+   "start": 3241.78,
+   "end": 3247.92,
+   "text": "Ride speed for 20 kilometers here, your 5k running time here, bench press here, and just"
+  },
+  {
+   "start": 3247.92,
+   "end": 3254.36,
+   "text": "Littered with text, just giving your, um, your data, and, and you have to, like, re, you have"
+  },
+  {
+   "start": 3254.36,
+   "end": 3261.0,
+   "text": "To re-print yourself a new t-shirt every, like, two months, every two weeks, because the ancient"
+  },
+  {
+   "start": 3261.0,
+   "end": 3265.42,
+   "text": "Romans would do a physical fitness test every two weeks, they would walk 20 miles, 10 miles out,"
+  },
+  {
+   "start": 3265.46,
+   "end": 3271.98,
+   "text": "And 10 miles back, with a 60-pound backpack on their back, um, and so, um, yeah, I've been to have,"
+  },
+  {
+   "start": 3271.98,
+   "end": 3278.36,
+   "text": "Like, you, you know, you have, like, uh, every two weeks, you take, um, a history test, you call it"
+  },
+  {
+   "start": 3278.36,
+   "end": 3282.64,
+   "text": "Bi-weekly history test, well, and then a random number generator has different, uh, different ones,"
+  },
+  {
+   "start": 3282.78,
+   "end": 3288.08,
+   "text": "AD, BC, ancient history, and future, and, uh, 20th century, and so AD would be, like, 2000,"
+  },
+  {
+   "start": 3288.08,
+   "end": 3293.72,
+   "text": "Zero to 2000, so that's zero to, uh, 200s, a random number, uh, say, 65, so that would be the"
+  },
+  {
+   "start": 3293.72,
+   "end": 3298.36,
+   "text": "650s, and you have a minute to say what happened in the 650s, and then at the end, you see how many"
+  },
+  {
+   "start": 3298.36,
+   "end": 3303.7,
+   "text": "You get right from comparing it with, uh, Wikipedia, and, um, and you, you score yourself, and so the"
+  },
+  {
+   "start": 3303.7,
+   "end": 3307.92,
+   "text": "More details you know, the better grade you get, and then you do YouTube that, so you would get,"
+  },
+  {
+   "start": 3308.02,
+   "end": 3313.08,
+   "text": "You know, paid based on how well you do on that, and then you, you know, with Strava prove how well"
+  },
+  {
+   "start": 3313.08,
+   "end": 3317.6,
+   "text": "You, uh, perform on the bicycling, and if you want to do that from, uh, weightlifting and, uh,"
+  },
+  {
+   "start": 3317.6,
+   "end": 3321.72,
+   "text": "Other things, because I have it for all the different sports, rowing, uh, fighting, riding,"
+  },
+  {
+   "start": 3322.02,
+   "end": 3329.3,
+   "text": "Running, swimming, triathlon, um, and, uh, and then, um, you do the book reviews, and, on YouTube,"
+  },
+  {
+   "start": 3329.56,
+   "end": 3335.32,
+   "text": "And, um, and, uh, yeah, I already took those history tests, bi-weekly history tests, that's"
+  },
+  {
+   "start": 3335.32,
+   "end": 3340.12,
+   "text": "Cool, you have an hour to do each, um, you know, of these random numbers, so you have six,"
+  },
+  {
+   "start": 3340.12,
+   "end": 3345.96,
+   "text": "60 for an hour, but then the other one would be, um, the test that I have here, the, um,"
+  },
+  {
+   "start": 3345.96,
+   "end": 3354.86,
+   "text": "The, uh, history test, um, for North England, where, um, that's, uh, 100 years, you know,"
+  },
+  {
+   "start": 3354.88,
+   "end": 3363.36,
+   "text": "And I have 500 years, that goes, that goes, um, 500, um, across, that, that linked it,"
+  },
+  {
+   "start": 3364.24,
+   "end": 3369.26,
+   "text": "Here, let's go back, there we are, so if you, if you click on it, it links to one, wherever you"
+  },
+  {
+   "start": 3369.26,
+   "end": 3375.82,
+   "text": "Clicked on, so then you can use it as a test, um, but then, you know, if you double tap, but you"
+  },
+  {
+   "start": 3375.82,
+   "end": 3381.08,
+   "text": "Don't hit the link, oh man, I keep hitting the link, I was able to zoom it out earlier"
+  },
+  {
+   "start": 3381.08,
+   "end": 3387.16,
+   "text": "Today, here, link where there's the, man, I'm hitting the link, if you hit the, if you"
+  },
+  {
+   "start": 3387.16,
+   "end": 3394.08,
+   "text": "Hit the part that's not a link, then it goes up, duh, I forgot, anyway, so that's the 500"
+  },
+  {
+   "start": 3394.08,
+   "end": 3399.2,
+   "text": "Years, you know, it's 100 across, and so if you learn 150 of those, all 150 of those, the"
+  },
+  {
+   "start": 3399.2,
+   "end": 3406.04,
+   "text": "Top red is, uh, war, middle, science, uh, bottom culture, uh, then it's 150, you do"
+  },
+  {
+   "start": 3406.04,
+   "end": 3414.36,
+   "text": "That in a, you know, like an hour, and you, um, you know, you pass that one, and, um, and,"
+  },
+  {
+   "start": 3414.48,
+   "end": 3421.24,
+   "text": "Uh, yeah, it works really well on the cell phone, and also the computer, um, it takes up"
+  },
+  {
+   "start": 3421.24,
+   "end": 3425.64,
+   "text": "The cell phone perfectly like that, or it takes up the whole phone, like, the whole thing"
+  },
+  {
+   "start": 3425.64,
+   "end": 3430.18,
+   "text": "Like that, and then if you do it like this, it takes it, up the whole thing perfectly,"
+  },
+  {
+   "start": 3430.3,
+   "end": 3434.74,
+   "text": "And then you can see all the other countries on it, but, um, so then if you can do this"
+  },
+  {
+   "start": 3434.74,
+   "end": 3438.0,
+   "text": "Country, that's 150, and then you do another country, and then, uh, you know, the more"
+  },
+  {
+   "start": 3438.0,
+   "end": 3442.12,
+   "text": "Countries you do, on my timeline, I have, I have like a zero to, I have a 500 year segment"
+  },
+  {
+   "start": 3442.12,
+   "end": 3446.32,
+   "text": "For a different country, every single country in the world, uh, based off the UN, but, um,"
+  },
+  {
+   "start": 3446.76,
+   "end": 3450.02,
+   "text": "If you get all the, uh, parts of the country, and all the parts of the history, you know,"
+  },
+  {
+   "start": 3450.02,
+   "end": 3456.58,
+   "text": "From 5,000 BC, and all the way up to 52,000 BC, increasing exponentially, that's a lot"
+  },
+  {
+   "start": 3456.58,
+   "end": 3460.6,
+   "text": "Of different sections, and that's a lot of tests, dude, like, this is England, then you"
+  },
+  {
+   "start": 3460.6,
+   "end": 3466.94,
+   "text": "Can do France, Ireland, and so that's a lot of, there's, kind of, kind of solidifies and"
+  },
+  {
+   "start": 3466.94,
+   "end": 3470.88,
+   "text": "Makes official, you never, you never finish learning, and so there's the challenge to"
+  },
+  {
+   "start": 3470.88,
+   "end": 3473.98,
+   "text": "Do it, and then also provides the opportunity for lots of different types of people, you"
+  },
+  {
+   "start": 3473.98,
+   "end": 3477.76,
+   "text": "Know, to study whatever they want, you know, like the Japanese can do the Japanese one,"
+  },
+  {
+   "start": 3477.76,
+   "end": 3482.36,
+   "text": "And I, this is also open source, so if anybody, you want to, want to do one, send me the code,"
+  },
+  {
+   "start": 3482.42,
+   "end": 3485.46,
+   "text": "And I'll put it onto my, uh, website, and then I don't have to do it, you know, because"
+  },
+  {
+   "start": 3485.46,
+   "end": 3491.26,
+   "text": "I will never be able to finish this, you know, I, I, uh, I mean, even, even, even if I were"
+  },
+  {
+   "start": 3491.26,
+   "end": 3495.7,
+   "text": "To, even if I were to work, live to 150, and work 18 hours a day, which there's no way I"
+  },
+  {
+   "start": 3495.7,
+   "end": 3499.04,
+   "text": "Could do that, um, I still wouldn't be able to finish it, because it's, like, exponentially"
+  },
+  {
+   "start": 3499.04,
+   "end": 3502.68,
+   "text": "Big, it's, like, huge, and so I kind of have these, um, like, to fill up all the, you"
+  },
+  {
+   "start": 3502.68,
+   "end": 3506.72,
+   "text": "Know, image for all the side and everything, so, um, for, even for the ones I have"
+  },
+  {
+   "start": 3506.72,
+   "end": 3510.54,
+   "text": "Prepared, so it's kind of like, yeah, but if you let everybody else do it, they can"
+  },
+  {
+   "start": 3510.54,
+   "end": 3513.78,
+   "text": "Post it in, then they can have, like, their own little random corner of history, and then"
+  },
+  {
+   "start": 3513.78,
+   "end": 3516.48,
+   "text": "Make a story out of it, like, Conan the Barbarian, this happened here, and it went"
+  },
+  {
+   "start": 3516.48,
+   "end": 3530.28,
+   "text": "Here, right here, you know, but, um, um, uh, yeah, um, that's, uh, that is, uh, uh, that's,"
+  },
+  {
+   "start": 3530.28,
+   "end": 3536.1,
+   "text": "That's the second test, the third test, so book review, random number generator, um,"
+  },
+  {
+   "start": 3536.24,
+   "end": 3541.42,
+   "text": "And, uh, the, uh, image to link, kind of like cue cards test, and the cool thing about this"
+  },
+  {
+   "start": 3541.42,
+   "end": 3546.34,
+   "text": "Is it's instantaneous, and once you download it, it's on your phone and fast, um, and it's"
+  },
+  {
+   "start": 3546.34,
+   "end": 3550.64,
+   "text": "Easy to get to the other, um, sites, it's, I think it works great on a cell phone and the"
+  },
+  {
+   "start": 3550.64,
+   "end": 3561.34,
+   "text": "Computer, too, but, um, but, um, uh, yeah, so that could be a way to, um, reinvent history,"
+  },
+  {
+   "start": 3561.34,
+   "end": 3565.94,
+   "text": "In a way that would make us go into the future in a really good trajectory and be ready for"
+  },
+  {
+   "start": 3565.94,
+   "end": 3570.16,
+   "text": "Anything that happens, for example, if there's, like, economic crash, every, you could still"
+  },
+  {
+   "start": 3570.16,
+   "end": 3576.04,
+   "text": "Have, um, and then everybody's isolated, everybody could still stay smart and educated just from,"
+  },
+  {
+   "start": 3576.16,
+   "end": 3580.6,
+   "text": "From, from simple websites that they have downloaded onto their, like mine, downloaded"
+  },
+  {
+   "start": 3580.6,
+   "end": 3584.46,
+   "text": "On their computer, and they don't need an internet, and they just study, and then they, um, you"
+  },
+  {
+   "start": 3584.46,
+   "end": 3590.44,
+   "text": "Know, even the technology, and then, um, and, uh, or if there's, or if, you know, if we"
+  },
+  {
+   "start": 3590.44,
+   "end": 3594.22,
+   "text": "Want to fix the economy by giving everybody health care, the way that you give everybody,"
+  },
+  {
+   "start": 3594.64,
+   "end": 3601.0,
+   "text": "Everybody health care is by us not spending money, so much money on, um, like, education,"
+  },
+  {
+   "start": 3601.16,
+   "end": 3604.88,
+   "text": "Like going to school, having to travel to school, maintain the big building, make everybody"
+  },
+  {
+   "start": 3604.88,
+   "end": 3608.44,
+   "text": "Take classes they don't want, trying to keep classes full by making people go there they"
+  },
+  {
+   "start": 3608.44,
+   "end": 3612.42,
+   "text": "Don't want to, um, and then having to, continuous education, like Peter Turchin's book,"
+  },
+  {
+   "start": 3612.42,
+   "end": 3628.42,
+   "text": "Um, um, the, um, what's it called, um, affluent, um, it's where, you know, um, people, you know,"
+  },
+  {
+   "start": 3628.46,
+   "end": 3632.46,
+   "text": "Because there's the, when, uh, there's less and less space for people to be rich, there's"
+  },
+  {
+   "start": 3632.46,
+   "end": 3636.28,
+   "text": "Less and less, but there's, you know, more and more people who are trying to get in there,"
+  },
+  {
+   "start": 3636.34,
+   "end": 3640.52,
+   "text": "You, the one way to do it is by more and more school, and so that's like a scam that happens,"
+  },
+  {
+   "start": 3640.52,
+   "end": 3644.6,
+   "text": "It's more and more school, if you do, and so who can hold out and pay for the most of"
+  },
+  {
+   "start": 3644.6,
+   "end": 3652.36,
+   "text": "Most school, then that person would get hired, but, um, um, uh, yeah, I can't remember the"
+  },
+  {
+   "start": 3652.36,
+   "end": 3656.54,
+   "text": "Name of his book, but he's talking about how there's always, you know, uh, you know,"
+  },
+  {
+   "start": 3656.58,
+   "end": 3660.04,
+   "text": "Crashes in society, and one thing that happens is, you know, rich people, a lot of rich people,"
+  },
+  {
+   "start": 3660.08,
+   "end": 3664.26,
+   "text": "They have lots of kids, you know, like Pete, Pete takes his seven kids, Elon Musk, like,"
+  },
+  {
+   "start": 3664.26,
+   "end": 3667.52,
+   "text": "What does he have, like seven kids, because they can afford to have a bunch of kids, then"
+  },
+  {
+   "start": 3667.52,
+   "end": 3671.14,
+   "text": "They get, have a bunch of kids, then they get, they get divorced and have another wife,"
+  },
+  {
+   "start": 3671.26,
+   "end": 3674.14,
+   "text": "A bunch of kids, a divorce, a wife, a bunch of kids, so there's all these kids who grew"
+  },
+  {
+   "start": 3674.14,
+   "end": 3677.76,
+   "text": "Up rich, and then they have to share the wealth, and then the wealth kind of dries up,"
+  },
+  {
+   "start": 3677.84,
+   "end": 3681.66,
+   "text": "And then, so there's all these people who, like, they want to be high class and stay high"
+  },
+  {
+   "start": 3681.66,
+   "end": 3685.46,
+   "text": "Class, and so they try, so then we try to use education, you know, like the lady from Full"
+  },
+  {
+   "start": 3685.46,
+   "end": 3690.08,
+   "text": "House who tried to get her daughter into school like that, and so it's just like, and it's"
+  },
+  {
+   "start": 3690.08,
+   "end": 3693.72,
+   "text": "Expensive as hell, so if we just not spend money on that, then you can make it more"
+  },
+  {
+   "start": 3693.72,
+   "end": 3699.98,
+   "text": "Meritocratic, meritocratical, and have it, so just how good your grade is from the test"
+  },
+  {
+   "start": 3699.98,
+   "end": 3702.86,
+   "text": "And do it from your cell phone, you know, also when you're sitting around on the cell"
+  },
+  {
+   "start": 3702.86,
+   "end": 3707.16,
+   "text": "Phone, like, you know, I found 15, $16 in my, in my wallet today, in my, in my pocket"
+  },
+  {
+   "start": 3707.16,
+   "end": 3711.16,
+   "text": "Of these pants, and so that's why I got weed, but I went into the weed, and I was looking"
+  },
+  {
+   "start": 3711.16,
+   "end": 3715.54,
+   "text": "At the dude who takes your ID, and he was just flipping through his phone, and I, I don't"
+  },
+  {
+   "start": 3715.54,
+   "end": 3718.94,
+   "text": "Know what he was doing, but maybe he was probably, like, looking at photos, maybe I did see"
+  },
+  {
+   "start": 3718.94,
+   "end": 3722.3,
+   "text": "He was looking at photos, I think I did, he was looking at photos, and I was like"
+  },
+  {
+   "start": 3722.3,
+   "end": 3725.4,
+   "text": "10 feet away from them, but that's what most people do, you know, little kids, you know,"
+  },
+  {
+   "start": 3725.44,
+   "end": 3728.1,
+   "text": "The people complain about how people are on their computers all the time, and inside all"
+  },
+  {
+   "start": 3728.1,
+   "end": 3732.96,
+   "text": "The time, and on, on, on, in, in nature and stuff, well, it's kind of just the same way"
+  },
+  {
+   "start": 3732.96,
+   "end": 3737.4,
+   "text": "That eating all the time, and snacking all the time can be a way to replace your finger"
+  },
+  {
+   "start": 3737.4,
+   "end": 3741.82,
+   "text": "Fixation from smoking, because you don't want to, you're trying to quit smoking, um, well,"
+  },
+  {
+   "start": 3741.84,
+   "end": 3747.64,
+   "text": "A way to alleviate your finger fixation all the time with your cell phone, like, uh, scrolling"
+  },
+  {
+   "start": 3747.64,
+   "end": 3754.04,
+   "text": "Through Instagram all the time, or playing video games, or whatever, could be, um, playing"
+  },
+  {
+   "start": 3754.04,
+   "end": 3758.3,
+   "text": "This, if you get addicted to learning, you know, like, I'm addicted to it, if I was, if"
+  },
+  {
+   "start": 3758.3,
+   "end": 3762.86,
+   "text": "I was to sit and, uh, have to wait around, I wouldn't mind it, because I would have this"
+  },
+  {
+   "start": 3762.86,
+   "end": 3765.76,
+   "text": "Thing, and I'd, and I'd be like, all right, let's see if I, now, now's my time to see if"
+  },
+  {
+   "start": 3765.76,
+   "end": 3769.86,
+   "text": "I can, if I can pass it, because once I pass it, then I, then I'll, then I'm going to"
+  },
+  {
+   "start": 3769.86,
+   "end": 3774.9,
+   "text": "YouTube it, myself passing it, and after I YouTube myself passing it, that's like me kicking"
+  },
+  {
+   "start": 3774.9,
+   "end": 3779.04,
+   "text": "Ass on YouTube, you know, and entertaining people with how amazing I am, like a, like"
+  },
+  {
+   "start": 3779.04,
+   "end": 3782.74,
+   "text": "A party trick, you know, look at my party trick, look at how I can memorize all of it, and then"
+  },
+  {
+   "start": 3782.74,
+   "end": 3788.62,
+   "text": "You can learn, as you see me talking, because just the same way as my, um, my bi-weekly history"
+  },
+  {
+   "start": 3788.62,
+   "end": 3791.78,
+   "text": "Test works, you know, like the random number generator, you have a, uh, an hour, a minute"
+  },
+  {
+   "start": 3791.78,
+   "end": 3796.46,
+   "text": "To talk about whatever happened, um, the more you say, the more points you get, you know,"
+  },
+  {
+   "start": 3796.46,
+   "end": 3801.88,
+   "text": "Like, like, it's, like, if you were to talk, um, as fast as you could, you could say enough"
+  },
+  {
+   "start": 3801.88,
+   "end": 3807.22,
+   "text": "Things to get about 1,600 things said in an hour, so that, so it's kind of aligns with"
+  },
+  {
+   "start": 3807.22,
+   "end": 3811.06,
+   "text": "The perfect SAT score, because I wanted to have my random number generator replace the"
+  },
+  {
+   "start": 3811.06,
+   "end": 3815.74,
+   "text": "SAT score and have the, have the scores the same, so, um, because you can only speak so"
+  },
+  {
+   "start": 3815.74,
+   "end": 3819.86,
+   "text": "Fast, so same thing with this, like, if you have, you have to get done with 150 of these"
+  },
+  {
+   "start": 3819.86,
+   "end": 3826.38,
+   "text": "In an hour, that's, uh, like 20 seconds or something per hour, 25 seconds per, per minute,"
+  },
+  {
+   "start": 3827.12,
+   "end": 3831.5,
+   "text": "So to guess one of these, so if you know it, then that gives you 25 more seconds to try"
+  },
+  {
+   "start": 3831.5,
+   "end": 3836.76,
+   "text": "To, um, elaborate before you click the link, because, you know, like one of these, like"
+  },
+  {
+   "start": 3836.76,
+   "end": 3842.74,
+   "text": "Napoleon, the Napoleonic Wars, well, when you click on the timeline, there's lots of"
+  },
+  {
+   "start": 3842.74,
+   "end": 3847.8,
+   "text": "Details that you could say, and so you could, you know, or, or back up with, uh, Wikipedia,"
+  },
+  {
+   "start": 3848.1,
+   "end": 3853.56,
+   "text": "So, you know, if you, if you're there for 25 minutes, uh, rattling on about it, not just"
+  },
+  {
+   "start": 3853.56,
+   "end": 3857.44,
+   "text": "That, you know, maybe you could have, um, not just that you passed it, but you passed it"
+  },
+  {
+   "start": 3857.44,
+   "end": 3861.2,
+   "text": "And then this is what my score was, like, this is how many things I said about those"
+  },
+  {
+   "start": 3861.2,
+   "end": 3865.54,
+   "text": "Things, and then it kind of turns into a, um, it's kind of like learning, you know, a"
+  },
+  {
+   "start": 3865.54,
+   "end": 3871.04,
+   "text": "Vocabulary, you know, because once you get it right, and then from doing the pre-test,"
+  },
+  {
+   "start": 3871.08,
+   "end": 3874.62,
+   "text": "And then you get it right from passing the test and doing well, then you've learned it,"
+  },
+  {
+   "start": 3874.66,
+   "end": 3878.52,
+   "text": "You know, like, like me, I'm fluent in Spanish, and the reason why I'm fluent in Spanish is"
+  },
+  {
+   "start": 3878.52,
+   "end": 3881.66,
+   "text": "Because I spent all this time, like, as I was taking buses and riding my bike around"
+  },
+  {
+   "start": 3881.66,
+   "end": 3887.5,
+   "text": "South America, I was, um, um, just studying vocabulary lists, you know, and then I learned"
+  },
+  {
+   "start": 3887.5,
+   "end": 3891.32,
+   "text": "Spanish, and so, like, once you learn a word, you learn it forever, you know, like, dog is"
+  },
+  {
+   "start": 3891.32,
+   "end": 3896.7,
+   "text": "Peril, um, you know, like, uh, that chair over there is called CEO, like, I know everything"
+  },
+  {
+   "start": 3896.7,
+   "end": 3900.12,
+   "text": "In Spanish, because I learned it once, so that could be how it is with, with, uh, history,"
+  },
+  {
+   "start": 3900.62,
+   "end": 3904.72,
+   "text": "Once you pass, it's like a vocabulary list, once you learn it, and so, so what, imagine if"
+  },
+  {
+   "start": 3904.72,
+   "end": 3909.26,
+   "text": "You know England, and, and France, and all the countries in Europe from 1500, 2000, and all"
+  },
+  {
+   "start": 3909.26,
+   "end": 3913.06,
+   "text": "The countries in the world, and then all the countries in the world from a 0 to 2000, you"
+  },
+  {
+   "start": 3913.06,
+   "end": 3917.28,
+   "text": "Have, like, all of history memorized, that means you have, then the sum is going to be greater"
+  },
+  {
+   "start": 3917.28,
+   "end": 3920.42,
+   "text": "Than, the whole is going to be greater than the sum of its parts, you're going to, you're"
+  },
+  {
+   "start": 3920.42,
+   "end": 3923.24,
+   "text": "Going to be, like, have omniscience, that's what I mean by omniscience, you're going to"
+  },
+  {
+   "start": 3923.24,
+   "end": 3928.1,
+   "text": "Have, like, uh, the wider view, like, you could have, oh, this, like, you, like, you could"
+  },
+  {
+   "start": 3928.1,
+   "end": 3933.1,
+   "text": "Have RAM drive, like, a computer, like, as you're looking at a generation happening in,"
+  },
+  {
+   "start": 3933.1,
+   "end": 3936.24,
+   "text": "Like, the fall of Rome, you would, because you have such an understanding of history, you're"
+  },
+  {
+   "start": 3936.24,
+   "end": 3941.7,
+   "text": "Also simultaneously going to be looking at the generation, um, at the, uh, at the, the"
+  },
+  {
+   "start": 3941.7,
+   "end": 3946.48,
+   "text": "Enlightenment, and you're going to be seeing how the poor, the rich lose power, and then"
+  },
+  {
+   "start": 3946.48,
+   "end": 3950.58,
+   "text": "The poor gain power, and it becomes communistic, like, at the same time, analyzing both, and"
+  },
+  {
+   "start": 3950.58,
+   "end": 3953.2,
+   "text": "Then you're going to bring, bringing in the one in the middle, oh, this, and that's how"
+  },
+  {
+   "start": 3953.2,
+   "end": 3957.18,
+   "text": "It has to do with the future, and so this is what happens, then 30 years later, you have"
+  },
+  {
+   "start": 3957.18,
+   "end": 3961.04,
+   "text": "Jan Hus, and then Jan Hus's correspondent, and so you can have all the correspondence in the"
+  },
+  {
+   "start": 3961.04,
+   "end": 3965.16,
+   "text": "Future, like, just, boom, off the front of your head, just the way that you know, like,"
+  },
+  {
+   "start": 3965.16,
+   "end": 3969.36,
+   "text": "You, you know history, backwards and forwards, like, you know your kid, you know, you know"
+  },
+  {
+   "start": 3969.36,
+   "end": 3972.88,
+   "text": "What your kid just instinctually would do in any situation, because, you know, I'm saying"
+  },
+  {
+   "start": 3972.88,
+   "end": 3976.46,
+   "text": "The same thing with history, you know what would happen, um, what happened in history,"
+  },
+  {
+   "start": 3976.46,
+   "end": 3980.32,
+   "text": "Because of all of history, um, instinctually, and that way, you know the future, and that"
+  },
+  {
+   "start": 3980.32,
+   "end": 3983.42,
+   "text": "Way, you'd be a really good legislator for society, because you know the goods and bads,"
+  },
+  {
+   "start": 3983.48,
+   "end": 3987.24,
+   "text": "And that, because, because Trump's really bad at history, you know, like, um, I don't"
+  },
+  {
+   "start": 3987.24,
+   "end": 3989.94,
+   "text": "Think it's any coincidence that he's so bad at history that he thinks that Colorado"
+  },
+  {
+   "start": 3989.94,
+   "end": 3994.22,
+   "text": "Borders with Mexico, that we had airports when we were having the revolutionary"
+  },
+  {
+   "start": 3994.22,
+   "end": 4001.62,
+   "text": "War, and, um, like, all that other crazy stuff that he said, uh, and, uh, that that"
+  },
+  {
+   "start": 4001.62,
+   "end": 4008.28,
+   "text": "Relates to him, you know, trying, saying that he's the most persecuted person of all time,"
+  },
+  {
+   "start": 4008.4,
+   "end": 4012.36,
+   "text": "And, um, but he'll be the greatest president of all time, it'll be the golden age of America,"
+  },
+  {
+   "start": 4012.36,
+   "end": 4019.58,
+   "text": "Um, and him giving, uh, the keys to the, uh, treasury to Elon Musk and his, uh, 20-year-old"
+  },
+  {
+   "start": 4019.58,
+   "end": 4025.3,
+   "text": "Lackeys is, uh, is this greatest thing ever, because disrupting and taking over, um, Panama"
+  },
+  {
+   "start": 4025.3,
+   "end": 4030.14,
+   "text": "And, and, and Greenland and, and Canada is, uh, and getting rid of the Department of Education,"
+  },
+  {
+   "start": 4030.26,
+   "end": 4036.92,
+   "text": "The CIA and the FBI is, is because, and, and turning, uh, Gaza Strip into, uh, into a beachfront"
+  },
+  {
+   "start": 4036.92,
+   "end": 4041.98,
+   "text": "Property for, for America and Israel is, is like the greatest idea ever, because, because"
+  },
+  {
+   "start": 4041.98,
+   "end": 4044.98,
+   "text": "They've never done it before, and if they've never done it before, it's because they were"
+  },
+  {
+   "start": 4044.98,
+   "end": 4049.64,
+   "text": "Dumbasses, it sounds exactly, because he's nobody, he's not a historian, he doesn't know"
+  },
+  {
+   "start": 4049.64,
+   "end": 4053.24,
+   "text": "That, because, and, and, because nobody's a historian, they don't know that that sounds"
+  },
+  {
+   "start": 4053.24,
+   "end": 4061.62,
+   "text": "Exactly like Caligula, wanting to change the statue of, um, of, um, of, like Solomon, or"
+  },
+  {
+   "start": 4061.62,
+   "end": 4067.9,
+   "text": "One of the prophets into, in, in Jerusalem, into him, and that's one of the reasons why he"
+  },
+  {
+   "start": 4067.9,
+   "end": 4076.1,
+   "text": "Got, um, assassinated, and, uh, and, um, uh, and, like, trying, and, like, Romulus, I mean,"
+  },
+  {
+   "start": 4076.1,
+   "end": 4083.4,
+   "text": "Um, uh, Commodus, the son of, uh, um, Marcus Aurelius, like, from the movie Gladiator, he wanted"
+  },
+  {
+   "start": 4083.4,
+   "end": 4089.88,
+   "text": "To change the name of Rome to Commodius, you know, and he, and he, he, he thought he was"
+  },
+  {
+   "start": 4089.88,
+   "end": 4095.42,
+   "text": "The greatest at everything, so then, just like the, Kim Jong-un is the greatest golfer, um,"
+  },
+  {
+   "start": 4095.42,
+   "end": 4100.66,
+   "text": "In the world, like, perfect, yeah, perfect golfing, and perfect bowling, like, um, uh,"
+  },
+  {
+   "start": 4100.76,
+   "end": 4105.04,
+   "text": "Commodus was the perfect gladiator, and so he would drug all of his, like, opponents, and"
+  },
+  {
+   "start": 4105.04,
+   "end": 4109.9,
+   "text": "He, he won, like, a 150 gladiator contest, but they would beat with, like, poisoned arrows, and"
+  },
+  {
+   "start": 4109.9,
+   "end": 4115.38,
+   "text": "With pre-injured, uh, fighters, and, and, uh, and, like, Trump, you know, he's just, he was just"
+  },
+  {
+   "start": 4115.38,
+   "end": 4118.86,
+   "text": "The greatest at everything, you know, because he's, he's really big brain, smartest at everything,"
+  },
+  {
+   "start": 4119.44,
+   "end": 4122.58,
+   "text": "Uh, Elon Musk, smartest at everything, and then, so now if you're rich, smartest at everything,"
+  },
+  {
+   "start": 4122.58,
+   "end": 4126.8,
+   "text": "Money's all, all of it, God money, uh, you know, richer you are, smarter you are, and"
+  },
+  {
+   "start": 4126.8,
+   "end": 4130.08,
+   "text": "Then, that would mean, suck up all the oxygen, all the money, then, if you're poor, you're"
+  },
+  {
+   "start": 4130.08,
+   "end": 4134.7,
+   "text": "Dumb, and everybody's dumb, you know, like, the fall of Rome, all of the writers of Rome"
+  },
+  {
+   "start": 4134.7,
+   "end": 4141.1,
+   "text": "Were, were in the Republic of Rome, you know, um, Livy, Pliny, um, or the very beginning"
+  },
+  {
+   "start": 4141.1,
+   "end": 4146.28,
+   "text": "Of the empire, the very last real good writer was Seneca, and that was the tutor of, uh, of,"
+  },
+  {
+   "start": 4146.36,
+   "end": 4150.72,
+   "text": "Um, Nero, and he was forced to kill himself, and then that was it, you, people, if you,"
+  },
+  {
+   "start": 4150.72,
+   "end": 4153.86,
+   "text": "You couldn't write, you couldn't, you know, because there was, uh, suppression against"
+  },
+  {
+   "start": 4153.86,
+   "end": 4158.78,
+   "text": "It, and, you know, Elon Musk bans people from Twitter, and, um, so there's lots of, um,"
+  },
+  {
+   "start": 4159.04,
+   "end": 4163.32,
+   "text": "You know, uh, parallels, and so, you know, I think that kind of means that people should"
+  },
+  {
+   "start": 4163.32,
+   "end": 4168.62,
+   "text": "Kind of support people and be really vigilant as to, uh, try to make, uh, the world a better"
+  },
+  {
+   "start": 4168.62,
+   "end": 4174.08,
+   "text": "Place by, you know, um, uh, um, choose picking sides, you know, and being, making sure you're"
+  },
+  {
+   "start": 4174.08,
+   "end": 4178.86,
+   "text": "On the right side, but, but, uh, I, and, and realizing that learning, um, and, and, and"
+  },
+  {
+   "start": 4178.86,
+   "end": 4184.18,
+   "text": "Information and giving points for, uh, knowing things and that stuff in the past, um, is what"
+  },
+  {
+   "start": 4184.18,
+   "end": 4188.32,
+   "text": "We should do and, you know, support people, and so I think people should get paid to know"
+  },
+  {
+   "start": 4188.32,
+   "end": 4192.06,
+   "text": "History, and so that's why I'm going to set up my system and pass my test pretty soon,"
+  },
+  {
+   "start": 4192.06,
+   "end": 4198.2,
+   "text": "And so that is what I thought and the insights that I had about the Munster Rebellion and,"
+  },
+  {
+   "start": 4198.26,
+   "end": 4200.22,
+   "text": "Uh, all the similarities, you know."
+  },
+  {
+   "start": 4200.66,
+   "end": 4203.52,
+   "text": "Donald Trump is Jan, was that his name?"
+  },
+  {
+   "start": 4203.6,
+   "end": 4204.0,
+   "text": "Jan Hus?"
+  },
+  {
+   "start": 4204.0,
+   "end": 4211.44,
+   "text": "I don't think it was Jan, and, uh, um, John of, uh, of, of, of Lydon, you know, um, and,"
+  },
+  {
+   "start": 4211.56,
+   "end": 4215.1,
+   "text": "Uh, you know, because as everybody was tripping on air got, well, now everybody's tripping on"
+  },
+  {
+   "start": 4215.1,
+   "end": 4218.16,
+   "text": "Weed, because we legalized weed a few years back, 10 years ago, and people are still kind"
+  },
+  {
+   "start": 4218.16,
+   "end": 4222.6,
+   "text": "Of, like, kind of getting used to smoking, and they're kind of, like, yeah, maybe we're"
+  },
+  {
+   "start": 4222.6,
+   "end": 4227.04,
+   "text": "Getting, we're, um, and then the magic mushrooms, they're legalizing it, and we're getting into"
+  },
+  {
+   "start": 4227.04,
+   "end": 4231.06,
+   "text": "That, and maybe people are doing that too much, and, um, so, yeah, everybody's reinventing,"
+  },
+  {
+   "start": 4231.06,
+   "end": 4235.28,
+   "text": "Let's reinvent everything, and, uh, maybe it's because we're at the center of the galaxy"
+  },
+  {
+   "start": 4235.28,
+   "end": 4239.84,
+   "text": "Where the, uh, the gravitational field from the splitting of the explosion and the splitting"
+  },
+  {
+   "start": 4239.84,
+   "end": 4244.3,
+   "text": "Of the, um, of the, uh, black hole in the center of the galaxy is going out, and when"
+  },
+  {
+   "start": 4244.3,
+   "end": 4249.18,
+   "text": "We cross the, uh, plane, I don't know, that, um, creates a possibility for lots of different"
+  },
+  {
+   "start": 4249.18,
+   "end": 4254.0,
+   "text": "Parallel universes, and so, um, we're now where we can all create those parallel universes,"
+  },
+  {
+   "start": 4254.0,
+   "end": 4255.24,
+   "text": "So decide which one you're going to."
+  },
+  {
+   "start": 4255.24,
+   "end": 4260.04,
+   "text": "So, uh, yeah, so that's what I think about, um, the Munster Rebellion."
+  },
+  {
+   "start": 4260.3,
+   "end": 4267.18,
+   "text": "Um, thanks for the, uh, request, uh, C55365, and if you have any other really good requests"
+  },
+  {
+   "start": 4267.18,
+   "end": 4272.36,
+   "text": "Like that, dude, introspective, you know, really crazy parts of history or whatever, then, uh,"
+  },
+  {
+   "start": 4272.56,
+   "end": 4277.12,
+   "text": "Yeah, give them to me, because, um, I'm into, uh, you know, some people say all that a man"
+  },
+  {
+   "start": 4277.12,
+   "end": 4277.9,
+   "text": "Is is his name."
+  },
+  {
+   "start": 4277.98,
+   "end": 4281.34,
+   "text": "I'm trying to fortify my name right now, so maybe if I do a lot of really good videos"
+  },
+  {
+   "start": 4281.34,
+   "end": 4285.6,
+   "text": "On YouTube, I could get hired, I'm applying for a job at Avid for, Avid for Adventure,"
+  },
+  {
+   "start": 4285.74,
+   "end": 4289.46,
+   "text": "Dude, maybe they're going to hire me, and I can be a professional mountain bike guy, that'd"
+  },
+  {
+   "start": 4289.46,
+   "end": 4295.56,
+   "text": "Be badass, and ride my mountain bike around professionally, I have to get the wheel fixed"
+  },
+  {
+   "start": 4295.56,
+   "end": 4300.38,
+   "text": "First, doesn't have a bottom bracket on it, and yeah, ride and stuff, but anyways, talk"
+  },
+  {
+   "start": 4300.38,
+   "end": 4301.0,
+   "text": "To you tomorrow."
+  }
+ ]
+}

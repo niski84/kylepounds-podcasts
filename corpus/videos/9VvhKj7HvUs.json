@@ -1,0 +1,1203 @@
+{
+ "youtube_id": "9VvhKj7HvUs",
+ "title": "Living in Boulder vlog 3 -  26 - 2018: Gunna start exercising",
+ "url": "https://youtu.be/9VvhKj7HvUs",
+ "published_at": "2018-03-27",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder about his decision to start exercising again, explaining that he's been feeling sluggish and toxic from inactivity despite no acute physical pain. He outlines a plan to ride his stationary bike while listening to music (transitioning to audiobooks later), discusses training for a triathlon, and reflects on the mental 'flip switch' needed to prioritize exercise over working on his website.",
+  "speaker": "kyle",
+  "topics": [
+   "exercise motivation",
+   "indoor cycling",
+   "triathlon goals",
+   "website work balance",
+   "audiobooks while exercising",
+   "diet and nutrition",
+   "weed and exercise",
+   "Patreon/income ideas",
+   "history education idea",
+   "life maintenance"
+  ],
+  "stances": [
+   {
+    "topic": "exercise",
+    "position": "Needs to start again; feels generally toxic and unwell without it"
+   },
+   {
+    "topic": "smoking weed while exercising",
+    "position": "Can ride high but can't push heart rate too high; may need to switch to edibles or eventually quit to get fit"
+   },
+   {
+    "topic": "website vs exercise balance",
+    "position": "They compete for mental dominance; exercise must become the dominant mindset for both to work"
+   },
+   {
+    "topic": "audiobooks while riding",
+    "position": "Combining audiobooks with cycling is complementary and exponentially beneficial, not zero-sum like website vs riding"
+   },
+   {
+    "topic": "triathlon",
+    "position": "Wants to do triathlons because knee and calf issues limit running and pure cycling"
+   },
+   {
+    "topic": "diet",
+    "position": "Generally good but waits too long to eat; plans cheap canned vegetables with protein powder on rides when broke"
+   },
+   {
+    "topic": "life maintenance",
+    "position": "Exercise naturally leads to better overall life upkeep like diet, cleanliness, and routine"
+   }
+  ],
+  "entities": [
+   "Doug Statman",
+   "Jeff Bezos",
+   "Boulder (Colorado)",
+   "Seattle"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.82,
+   "end": 7.82,
+   "text": "Hello, it's 517 PM on March 26, 2018."
+  },
+  {
+   "start": 9.82,
+   "end": 20.82,
+   "text": "So I think I'm going to start exercising because I was getting distracted on my website."
+  },
+  {
+   "start": 21.82,
+   "end": 26.82,
+   "text": "It's kind of the same thing as when you ride the bike when I was riding the bike."
+  },
+  {
+   "start": 27.82,
+   "end": 30.82,
+   "text": "Like last summer and before,"
+  },
+  {
+   "start": 31.82,
+   "end": 33.82,
+   "text": "I had there's another time we rode for three days."
+  },
+  {
+   "start": 33.82,
+   "end": 35.82,
+   "text": "I'm my roller skipper years ago."
+  },
+  {
+   "start": 35.82,
+   "end": 39.82,
+   "text": "And I'm not thinking about it as a website because I'm distracted."
+  },
+  {
+   "start": 40.82,
+   "end": 44.82,
+   "text": "But this morning I was working on the website and then I started thinking like,"
+  },
+  {
+   "start": 44.82,
+   "end": 48.82,
+   "text": "Because I was doing Ram, I was just a customer at the gym,"
+  },
+  {
+   "start": 48.82,
+   "end": 50.82,
+   "text": "I'm doing like, like, my cracer people."
+  },
+  {
+   "start": 51.82,
+   "end": 57.16,
+   "text": "I was like, you know, like maybe I should do it."
+  },
+  {
+   "start": 58.16,
+   "end": 63.16,
+   "text": "I feel good, even though I feel good, like physically, I could continue working on my website."
+  },
+  {
+   "start": 64.16,
+   "end": 67.16,
+   "text": "There's no catastrophe to cut a traffic thing going on."
+  },
+  {
+   "start": 67.16,
+   "end": 68.16,
+   "text": "I'm not like before."
+  },
+  {
+   "start": 69.16,
+   "end": 72.16,
+   "text": "I was having this pain coming down my arm all the way to my finger and that's not happening."
+  },
+  {
+   "start": 72.16,
+   "end": 74.16,
+   "text": "I'm like, no back pain."
+  },
+  {
+   "start": 75.16,
+   "end": 80.16,
+   "text": "No asthma and stuff like that, but I just generally don't feel good."
+  },
+  {
+   "start": 81.16,
+   "end": 86.5,
+   "text": "You know, like, toxic when you're not exercising, kind of like,"
+  },
+  {
+   "start": 87.5,
+   "end": 89.5,
+   "text": "I'm feeling like when you're hungry, do you hydrating now?"
+  },
+  {
+   "start": 90.5,
+   "end": 92.5,
+   "text": "Plus I'm hungry a lot because I'm not eating right."
+  },
+  {
+   "start": 93.5,
+   "end": 94.5,
+   "text": "Because I wait too long to eat."
+  },
+  {
+   "start": 95.5,
+   "end": 104.19,
+   "text": "So, and then I don't, you know, my diet's pretty pretty good, but I'm very worried, but not always."
+  },
+  {
+   "start": 104.19,
+   "end": 106.19,
+   "text": "But yeah, that's so."
+  },
+  {
+   "start": 107.19,
+   "end": 115.19,
+   "text": "And the other thing, do the thing about my website is that I'm kind of getting in with it's gravitational field."
+  },
+  {
+   "start": 116.19,
+   "end": 128.19,
+   "text": "I'm noticing I'm feeling, um, meaning it's coalescing, meaning like the way that I work, like, on my website,"
+  },
+  {
+   "start": 128.19,
+   "end": 135.19,
+   "text": "and stuff, or I'm going to do life, how people are as you do it on a reward, you know?"
+  },
+  {
+   "start": 136.19,
+   "end": 142.19,
+   "text": "And so, I, before I had to work a whole lot of my website like weeks before I feel the reward, like,"
+  },
+  {
+   "start": 143.19,
+   "end": 150.19,
+   "text": "like, a accomplishment, but I know that now I can get a sense of accomplishment from my website,"
+  },
+  {
+   "start": 151.19,
+   "end": 153.19,
+   "text": "off of not many hours of work."
+  },
+  {
+   "start": 153.19,
+   "end": 157.19,
+   "text": "Because my website is at that level of development."
+  },
+  {
+   "start": 158.19,
+   "end": 164.19,
+   "text": "I don't have to do that many words hours to get a lot of pages looking a lot better."
+  },
+  {
+   "start": 165.19,
+   "end": 169.19,
+   "text": "I haven't even added words, you know, to, like, most of my pages."
+  },
+  {
+   "start": 170.19,
+   "end": 175.19,
+   "text": "So, I could just go and do a words on a page a day, and that would be, that, and itself."
+  },
+  {
+   "start": 176.19,
+   "end": 180.19,
+   "text": "The take my website up, quantum lake, you know, which would give me a sense of accomplishment."
+  },
+  {
+   "start": 181.19,
+   "end": 186.19,
+   "text": "So, you know, that's what I'm able to stand within the gravitational field of my website."
+  },
+  {
+   "start": 187.19,
+   "end": 193.19,
+   "text": "You don't have to do that after my nurse, who can deep space anymore, like there."
+  },
+  {
+   "start": 194.19,
+   "end": 203.19,
+   "text": "So, um, so, uh, yeah, so the tactics, let me tell you about what my plan is."
+  },
+  {
+   "start": 205.19,
+   "end": 209.19,
+   "text": "You know, I obviously, eventually my idea for the world."
+  },
+  {
+   "start": 211.19,
+   "end": 213.19,
+   "text": "Woo!"
+  },
+  {
+   "start": 213.19,
+   "end": 216.19,
+   "text": "Is it everybody gets paid by the rich guy, Bethesus?"
+  },
+  {
+   "start": 217.19,
+   "end": 232.19,
+   "text": "I'm going to choose, Bethesus, and then the government, um, to ride their bicycles, and then use that, and then, really, you know, running into a sports, and then listen to Ender, or exercising something that you could measure."
+  },
+  {
+   "start": 232.19,
+   "end": 235.19,
+   "text": "To try to put yourself in a system."
+  },
+  {
+   "start": 236.19,
+   "end": 243.19,
+   "text": "And at the same time, listen to, uh, audiobooks and then, so at the end of the day, you do that your teach the whole world, everything that you learned to read, I started by teaching everybody."
+  },
+  {
+   "start": 244.19,
+   "end": 257.19,
+   "text": "But I'm not going to do that in the day and because, um, you know, one of the things that kind of got me wanting to ride bike was, I'm sitting here, working on the website kind of burning out, and then listening to Doug Statman."
+  },
+  {
+   "start": 257.19,
+   "end": 262.03,
+   "text": "You know, that'd be fun to ride your bike to this, you know."
+  },
+  {
+   "start": 262.03,
+   "end": 269.19,
+   "text": "So I want to ride my bike to groovy tunes, you know, all high spots, obviously."
+  },
+  {
+   "start": 269.19,
+   "end": 274.79,
+   "text": "Highs I can get, you know, like one of these days when I have a cash, I really love to do"
+  },
+  {
+   "start": 274.79,
+   "end": 282.79,
+   "text": "the experiment when your highs, the adibles, because it's not fucking with your lungs"
+  },
+  {
+   "start": 282.79,
+   "end": 284.19,
+   "text": "and you can actually exercise."
+  },
+  {
+   "start": 284.19,
+   "end": 290.21,
+   "text": "Because, you know, I can exercise high, but not even with my ad burn and the other"
+  },
+  {
+   "start": 290.21,
+   "end": 294.19,
+   "text": "is the stuff I've can't exercise high, but I can't get my heart rate like over 130 or 40."
+  },
+  {
+   "start": 294.19,
+   "end": 300.71,
+   "text": "So I can't, you know, there's going to come a point when I get, when my capillary is dilate,"
+  },
+  {
+   "start": 300.71,
+   "end": 306.95,
+   "text": "and I get fit my game, leg speed, you know, where I'm going to have to quit smoking."
+  },
+  {
+   "start": 306.95,
+   "end": 311.43,
+   "text": "We need to, unless I'm going to be doing the adibles, but that's expensive."
+  },
+  {
+   "start": 311.43,
+   "end": 312.43,
+   "text": "Yeah."
+  },
+  {
+   "start": 312.95,
+   "end": 323.91,
+   "text": "Yeah. So I think I feel like my position, I feel like my place in the world,"
+  },
+  {
+   "start": 323.91,
+   "end": 329.39,
+   "text": "like the where people look at me is like at this point, especially because I'm getting older,"
+  },
+  {
+   "start": 329.39,
+   "end": 339.39,
+   "text": "is that I really should, for my talent, or I should really do the ad burn sports now,"
+  },
+  {
+   "start": 340.27,
+   "end": 346.03,
+   "text": "rather than just sit around in my computer now, so I think I can,"
+  },
+  {
+   "start": 346.03,
+   "end": 350.41,
+   "text": "I can get on the Patreon, you know, getting more money doing that than if I was just to stay"
+  },
+  {
+   "start": 350.41,
+   "end": 358.03,
+   "text": "around my computer, because I need to, you know, it's up, plug in all of the different aspects of my life."
+  },
+  {
+   "start": 358.03,
+   "end": 362.83,
+   "text": "Yeah, I think everything's ready by now."
+  },
+  {
+   "start": 362.83,
+   "end": 369.83,
+   "text": "So yeah, it's a bit of a player."
+  },
+  {
+   "start": 369.83,
+   "end": 372.83,
+   "text": "The beginning of my strategy, my strategy."
+  },
+  {
+   "start": 372.83,
+   "end": 375.83,
+   "text": "So if I don't have any money, you know, I'm like flat broke."
+  },
+  {
+   "start": 375.83,
+   "end": 379.83,
+   "text": "And I can't afford power bars on the rides."
+  },
+  {
+   "start": 379.83,
+   "end": 386.83,
+   "text": "I'm going to put canned vegetables with powdered protein powder on top of it."
+  },
+  {
+   "start": 386.83,
+   "end": 390.83,
+   "text": "And side of plastic bags and then splooge out by duster nuts do,"
+  },
+  {
+   "start": 390.83,
+   "end": 393.83,
+   "text": "from like the toothpaste canisters."
+  },
+  {
+   "start": 393.83,
+   "end": 397.83,
+   "text": "And because those cans are only 16 cents each."
+  },
+  {
+   "start": 397.83,
+   "end": 404.83,
+   "text": "But that would be one of these days, do it with power bars, that would be amazing."
+  },
+  {
+   "start": 404.83,
+   "end": 407.83,
+   "text": "And then like broke juices and stuff."
+  },
+  {
+   "start": 407.83,
+   "end": 409.83,
+   "text": "Late to fancy food."
+  },
+  {
+   "start": 409.83,
+   "end": 413.83,
+   "text": "Anyway, but it's not necessarily that be cool to demonstrate in the beginning,"
+  },
+  {
+   "start": 413.83,
+   "end": 419.83,
+   "text": "but it's a great thing to empower me when you can live."
+  },
+  {
+   "start": 419.83,
+   "end": 421.83,
+   "text": "Kind of so water-trip."
+  },
+  {
+   "start": 421.83,
+   "end": 427.83,
+   "text": "You make a lot of money with something, but also when you can live a productive life spending,"
+  },
+  {
+   "start": 427.83,
+   "end": 428.83,
+   "text": "no money."
+  },
+  {
+   "start": 428.83,
+   "end": 434.83,
+   "text": "So okay, and then as far as, say, I just system music, something like weed."
+  },
+  {
+   "start": 434.83,
+   "end": 440.83,
+   "text": "And then, oh yeah, and then the other rule of thumb is to not worry about what time it is."
+  },
+  {
+   "start": 441.83,
+   "end": 445.83,
+   "text": "That really used to focus me in the past when I tried to ride and stuff,"
+  },
+  {
+   "start": 445.83,
+   "end": 448.83,
+   "text": "because I've never a morning person."
+  },
+  {
+   "start": 448.83,
+   "end": 452.83,
+   "text": "I'm usually a lot of time that I'm straight at a mock trial person."
+  },
+  {
+   "start": 452.83,
+   "end": 456.83,
+   "text": "Like last night, I just go to sleep when the sun comes up."
+  },
+  {
+   "start": 456.83,
+   "end": 462.83,
+   "text": "And so, you know, once it gets warm, I'd be cool to night rides outside, but until then,"
+  },
+  {
+   "start": 462.83,
+   "end": 467.83,
+   "text": "I should just ride inside and then at night."
+  },
+  {
+   "start": 467.83,
+   "end": 472.83,
+   "text": "I'll listen and plus you can the bat in the music fair, because you have to have a punts."
+  },
+  {
+   "start": 472.83,
+   "end": 475.83,
+   "text": "I need to talk more weed and all that, you know."
+  },
+  {
+   "start": 475.83,
+   "end": 480.83,
+   "text": "Watch stuff, so I have more control over what year listen into this."
+  },
+  {
+   "start": 480.83,
+   "end": 483.83,
+   "text": "It'd be a good way to start."
+  },
+  {
+   "start": 483.83,
+   "end": 488.83,
+   "text": "So yeah, I got up late today, because I've not turned on, I said, it's 525."
+  },
+  {
+   "start": 488.83,
+   "end": 491.83,
+   "text": "I think I'll just start riding now."
+  },
+  {
+   "start": 491.83,
+   "end": 493.83,
+   "text": "Listen to my dubstep."
+  },
+  {
+   "start": 493.83,
+   "end": 497.83,
+   "text": "See, the thing is the mentally, the way that I can motivate myself to ride my bike,"
+  },
+  {
+   "start": 497.83,
+   "end": 499.83,
+   "text": "I need to do a flip switch."
+  },
+  {
+   "start": 499.83,
+   "end": 505.83,
+   "text": "And this is why I'm riding my bike, because I feel like the flips switch actually happened naturally."
+  },
+  {
+   "start": 505.83,
+   "end": 508.83,
+   "text": "Because I was sitting there working on a good website,"
+  },
+  {
+   "start": 508.83,
+   "end": 513.83,
+   "text": "and I'm not thinking about the way of studying, I'm not riding my bike and exercising."
+  },
+  {
+   "start": 513.83,
+   "end": 519.83,
+   "text": "So the flip switch is you have to have like, there are these two, like for me,"
+  },
+  {
+   "start": 519.83,
+   "end": 525.83,
+   "text": "like you let work on on the website, and then riding, all right, exercise."
+  },
+  {
+   "start": 525.83,
+   "end": 528.83,
+   "text": "They conflict with each other."
+  },
+  {
+   "start": 528.83,
+   "end": 535.83,
+   "text": "You can exercise, right, the bike, and work at the same time."
+  },
+  {
+   "start": 535.83,
+   "end": 539.83,
+   "text": "Like I walked 30 miles a month since when I was in Seattle, I was down there,"
+  },
+  {
+   "start": 539.83,
+   "end": 542.83,
+   "text": "I only got these audio books from two computers."
+  },
+  {
+   "start": 542.83,
+   "end": 546.83,
+   "text": "And you have more coming on like, well, walking on treadmills, you know,"
+  },
+  {
+   "start": 546.83,
+   "end": 549.83,
+   "text": "I can, I have a set of them on my table that I can work while I'm riding my bike,"
+  },
+  {
+   "start": 549.83,
+   "end": 553.83,
+   "text": "but I can't work as fast."
+  },
+  {
+   "start": 553.83,
+   "end": 556.83,
+   "text": "So it's just different mindset that I have to get them."
+  },
+  {
+   "start": 556.83,
+   "end": 561.83,
+   "text": "I have to get them in my set where it's like, it's like, it's like binary."
+  },
+  {
+   "start": 561.83,
+   "end": 565.83,
+   "text": "One of them has to be like when you're breathing one of your nostrils is always the dominant."
+  },
+  {
+   "start": 565.83,
+   "end": 567.83,
+   "text": "Something has to be dominant."
+  },
+  {
+   "start": 567.83,
+   "end": 571.83,
+   "text": "And if my website is dominant, I'm not gonna ride it all."
+  },
+  {
+   "start": 571.83,
+   "end": 575.83,
+   "text": "But if the writing is dominant, the website will naturally fill it with the same way."
+  },
+  {
+   "start": 575.83,
+   "end": 580.83,
+   "text": "It will naturally fill it with the bikes because that's something that I naturally gravitate towards."
+  },
+  {
+   "start": 580.83,
+   "end": 586.83,
+   "text": "I can only gravitate towards the writing if it's something that I would do all the time."
+  },
+  {
+   "start": 586.83,
+   "end": 589.83,
+   "text": "I think."
+  },
+  {
+   "start": 589.83,
+   "end": 592.83,
+   "text": "So what the hell is that talking about?"
+  },
+  {
+   "start": 592.83,
+   "end": 594.83,
+   "text": "Yeah, yeah, yeah, the dominant."
+  },
+  {
+   "start": 594.83,
+   "end": 603.06,
+   "text": "So it has to do with the mentality."
+  },
+  {
+   "start": 603.06,
+   "end": 608.06,
+   "text": "Now if I have that mentality, then I can work on my website and find my bike at the same time."
+  },
+  {
+   "start": 608.06,
+   "end": 609.06,
+   "text": "Usually."
+  },
+  {
+   "start": 609.06,
+   "end": 611.06,
+   "text": "In fact, that's what I naturally do."
+  },
+  {
+   "start": 611.06,
+   "end": 617.06,
+   "text": "I was ready to make bike before and that's actually not what I found myself doing every single time."
+  },
+  {
+   "start": 617.06,
+   "end": 622.06,
+   "text": "But I would like to start an hour as I work."
+  },
+  {
+   "start": 622.06,
+   "end": 625.06,
+   "text": "When I stay focused on exercising, I mean like to get strong."
+  },
+  {
+   "start": 625.06,
+   "end": 628.06,
+   "text": "Not even like, I don't want to exercise too."
+  },
+  {
+   "start": 628.06,
+   "end": 631.06,
+   "text": "Okay, I'm gonna talk about goals."
+  },
+  {
+   "start": 631.06,
+   "end": 637.06,
+   "text": "I think I'm gonna get, okay, I want to be a, I'm gonna do triathlon because"
+  },
+  {
+   "start": 637.06,
+   "end": 640.06,
+   "text": "I don't think I'll be able to write because of my knee."
+  },
+  {
+   "start": 640.06,
+   "end": 645.06,
+   "text": "And I'm not gonna be able to do running because of my calf burns on me."
+  },
+  {
+   "start": 645.06,
+   "end": 648.06,
+   "text": "So I'm gonna throw in the third sports when I'm plus I have a pull."
+  },
+  {
+   "start": 648.06,
+   "end": 650.06,
+   "text": "I'm a personal pull that's all mine."
+  },
+  {
+   "start": 650.06,
+   "end": 652.06,
+   "text": "Nobody uses it in the 70 degrees."
+  },
+  {
+   "start": 652.06,
+   "end": 653.06,
+   "text": "So."
+  },
+  {
+   "start": 653.06,
+   "end": 657.06,
+   "text": "Oh yeah, plus there's the frickin' reservoir out there."
+  },
+  {
+   "start": 657.06,
+   "end": 661.06,
+   "text": "They have just that one thousand meter, a whole kilometer course."
+  },
+  {
+   "start": 661.06,
+   "end": 662.06,
+   "text": "Amazing."
+  },
+  {
+   "start": 662.06,
+   "end": 666.06,
+   "text": "So yeah, I wanted to take advantage of all of that."
+  },
+  {
+   "start": 666.06,
+   "end": 670.06,
+   "text": "And I, and so if I'm training all the time, I definitely."
+  },
+  {
+   "start": 670.06,
+   "end": 671.06,
+   "text": "Yeah."
+  },
+  {
+   "start": 671.06,
+   "end": 676.14,
+   "text": "I want to be the best."
+  },
+  {
+   "start": 676.14,
+   "end": 683.81,
+   "text": "And if I'm not, I'm gonna be chasing that with my lists."
+  },
+  {
+   "start": 683.81,
+   "end": 691.82,
+   "text": "Because I don't see myself having any motivation otherwise."
+  },
+  {
+   "start": 691.82,
+   "end": 693.82,
+   "text": "And it's the journey."
+  },
+  {
+   "start": 693.82,
+   "end": 698.82,
+   "text": "It's also this journey of like, it's the same thing as with my website."
+  },
+  {
+   "start": 698.82,
+   "end": 701.82,
+   "text": "When you're having this thing that you're chasing."
+  },
+  {
+   "start": 701.82,
+   "end": 703.82,
+   "text": "And you're not even chasing a result."
+  },
+  {
+   "start": 703.82,
+   "end": 705.82,
+   "text": "That's not what I would be chasing."
+  },
+  {
+   "start": 705.82,
+   "end": 708.82,
+   "text": "I would be chasing this cycle."
+  },
+  {
+   "start": 708.82,
+   "end": 714.82,
+   "text": "Where you're always tired and then sleeping tired and then sleeping."
+  },
+  {
+   "start": 714.82,
+   "end": 715.82,
+   "text": "So anyways."
+  },
+  {
+   "start": 715.82,
+   "end": 718.82,
+   "text": "So the question is, this is one thing I'm gonna predict."
+  },
+  {
+   "start": 718.82,
+   "end": 723.82,
+   "text": "How long am I gonna go until I burn out of the music?"
+  },
+  {
+   "start": 723.82,
+   "end": 727.82,
+   "text": "Because that's one thing that when I look back on my life."
+  },
+  {
+   "start": 727.82,
+   "end": 732.82,
+   "text": "That I, that's when I always quit exercise."
+  },
+  {
+   "start": 732.82,
+   "end": 735.82,
+   "text": "I quit in the weirdest times."
+  },
+  {
+   "start": 735.82,
+   "end": 739.82,
+   "text": "But I work for like, weird reasons like once I try to hike to the,"
+  },
+  {
+   "start": 739.82,
+   "end": 743.82,
+   "text": "every space camp when I was just gotta have to end on a trip around."
+  },
+  {
+   "start": 743.82,
+   "end": 747.82,
+   "text": "Because I just wanted to lay in bed and read 30 months."
+  },
+  {
+   "start": 747.82,
+   "end": 753.82,
+   "text": "So what the hell was I talking about?"
+  },
+  {
+   "start": 753.82,
+   "end": 755.82,
+   "text": "Oh yeah."
+  },
+  {
+   "start": 755.82,
+   "end": 756.82,
+   "text": "Yeah, yeah."
+  },
+  {
+   "start": 756.82,
+   "end": 759.82,
+   "text": "But now there's all this technology in the music."
+  },
+  {
+   "start": 759.82,
+   "end": 763.82,
+   "text": "But yeah, but in the past there comes a time when I start thinking what the fuck am I doing."
+  },
+  {
+   "start": 763.82,
+   "end": 767.82,
+   "text": "Because I think I just had this idea and installed in my head like my parents."
+  },
+  {
+   "start": 767.82,
+   "end": 770.82,
+   "text": "I've to waste your time if you're just exercising all the time."
+  },
+  {
+   "start": 770.82,
+   "end": 777.82,
+   "text": "But if I'm writing, so I will get to that point if I'm listening to music."
+  },
+  {
+   "start": 778.82,
+   "end": 786.82,
+   "text": "And so in that point, comes that's when you activate the audiobooks."
+  },
+  {
+   "start": 786.82,
+   "end": 790.82,
+   "text": "And that's when it's getting really interesting and really fun."
+  },
+  {
+   "start": 790.82,
+   "end": 797.82,
+   "text": "And because now it's not, it's not a zero sum game anymore."
+  },
+  {
+   "start": 797.82,
+   "end": 803.82,
+   "text": "Something doesn't have to lose in order for the other one to gain."
+  },
+  {
+   "start": 803.82,
+   "end": 807.82,
+   "text": "Like with my website and writing, you know, one of them had to sacrifice."
+  },
+  {
+   "start": 807.82,
+   "end": 811.82,
+   "text": "But if you're listening to an audiobook while writing your bike,"
+  },
+  {
+   "start": 811.82,
+   "end": 814.82,
+   "text": "that's a complimentary game there."
+  },
+  {
+   "start": 814.82,
+   "end": 818.82,
+   "text": "That's an exponential growth, you know,"
+  },
+  {
+   "start": 818.82,
+   "end": 822.82,
+   "text": "explosions to the next level of development."
+  },
+  {
+   "start": 822.82,
+   "end": 825.82,
+   "text": "It's like mixing two chemicals to, for example,"
+  },
+  {
+   "start": 825.82,
+   "end": 828.82,
+   "text": "cause a whole new being."
+  },
+  {
+   "start": 828.82,
+   "end": 834.82,
+   "text": "So, because the energy just fries off each other."
+  },
+  {
+   "start": 834.82,
+   "end": 838.82,
+   "text": "You need each one to do the other, but I tell you your hungry for it."
+  },
+  {
+   "start": 838.82,
+   "end": 843.82,
+   "text": "And I'm gonna wait, just like with my website."
+  },
+  {
+   "start": 843.82,
+   "end": 845.82,
+   "text": "I'm gonna wait in almost a music."
+  },
+  {
+   "start": 845.82,
+   "end": 848.82,
+   "text": "So, you know, it could be up to six months, so I'm doing nothing about listening to music."
+  },
+  {
+   "start": 848.82,
+   "end": 850.82,
+   "text": "Listen, listen to me, listen to me."
+  },
+  {
+   "start": 850.82,
+   "end": 853.82,
+   "text": "But once I do that, then I want to kick it out and learn to do audio."
+  },
+  {
+   "start": 853.82,
+   "end": 856.82,
+   "text": "The reviews of audiobooks listen to."
+  },
+  {
+   "start": 856.82,
+   "end": 861.82,
+   "text": "And then the bi-weekly history test, where every two weeks."
+  },
+  {
+   "start": 861.82,
+   "end": 873.82,
+   "text": "For an hour, I spend 60 seconds, so that's 60 different segments of different history tests,"
+  },
+  {
+   "start": 873.82,
+   "end": 875.82,
+   "text": "like the AD, where it's 200."
+  },
+  {
+   "start": 875.82,
+   "end": 878.82,
+   "text": "But you can choose from a random number generator."
+  },
+  {
+   "start": 878.82,
+   "end": 882.82,
+   "text": "From all the decades, there's 200,000, from zero to 2000,"
+  },
+  {
+   "start": 882.82,
+   "end": 886.82,
+   "text": "and then BC, and then the average, and that in the 20th century."
+  },
+  {
+   "start": 886.82,
+   "end": 893.82,
+   "text": "And I upload that in the YouTube and get a movement, started where everybody does that, so that date cannot get paid for it."
+  },
+  {
+   "start": 893.82,
+   "end": 896.82,
+   "text": "You know, you do your video, and then you actually put a thing on the screen."
+  },
+  {
+   "start": 896.82,
+   "end": 899.82,
+   "text": "Okay, I'll do the other box, whatever."
+  },
+  {
+   "start": 899.82,
+   "end": 906.82,
+   "text": "From the older garks, and when they run out of money from the government."
+  },
+  {
+   "start": 906.82,
+   "end": 911.82,
+   "text": "And so, yeah, so then we can become this big each of us, because that's something that our official name is."
+  },
+  {
+   "start": 911.82,
+   "end": 913.82,
+   "text": "That's something that our official name tells us to do."
+  },
+  {
+   "start": 913.82,
+   "end": 916.82,
+   "text": "Can't teach other people, like people."
+  },
+  {
+   "start": 916.82,
+   "end": 920.82,
+   "text": "So for all teachers online, from what we learn, bam."
+  },
+  {
+   "start": 920.82,
+   "end": 922.82,
+   "text": "So yeah, that's what I think I'm gonna do."
+  },
+  {
+   "start": 922.82,
+   "end": 925.82,
+   "text": "You can go and write in my bike, I'm gonna roll it."
+  },
+  {
+   "start": 925.82,
+   "end": 929.82,
+   "text": "It's like, six, five, thirty, three, it's two, two, like, eight, you know."
+  },
+  {
+   "start": 929.82,
+   "end": 934.82,
+   "text": "So I'm gonna write my bike, and I think I might just do nothing but writing my bike."
+  },
+  {
+   "start": 934.82,
+   "end": 937.82,
+   "text": "Like, maybe I'll do the, raise the cost of America."
+  },
+  {
+   "start": 937.82,
+   "end": 940.82,
+   "text": "Maybe I'll do the rest of the customer, be like, starting now, starting tomorrow."
+  },
+  {
+   "start": 940.82,
+   "end": 942.82,
+   "text": "We're starting to freaking out."
+  },
+  {
+   "start": 942.82,
+   "end": 951.82,
+   "text": "But, um, on my rollers, but, um, but, uh, I shit what else I'm gonna say."
+  },
+  {
+   "start": 951.82,
+   "end": 958.86,
+   "text": "Um, yeah, if I'm gonna do now."
+  },
+  {
+   "start": 958.86,
+   "end": 963.86,
+   "text": "And, uh, sometimes we, if we get what I was talking about."
+  },
+  {
+   "start": 963.86,
+   "end": 967.86,
+   "text": "Well, yeah, I do the view of it, I can clue it how many miles I did on the top."
+  },
+  {
+   "start": 967.86,
+   "end": 969.86,
+   "text": "And that'll be kind of like, the limit stuff."
+  },
+  {
+   "start": 969.86,
+   "end": 972.86,
+   "text": "That'll be like, uh, the, the data."
+  },
+  {
+   "start": 972.86,
+   "end": 978.86,
+   "text": "It'll be like, okay, no, that'll be like someone's so likes and we use unsenscribers and, like, like,"
+  },
+  {
+   "start": 978.86,
+   "end": 981.86,
+   "text": "Patriots and stuff."
+  },
+  {
+   "start": 981.86,
+   "end": 983.86,
+   "text": "Um, I don't know when I'm gonna set that up."
+  },
+  {
+   "start": 983.86,
+   "end": 985.86,
+   "text": "I'm gonna write my bike a little bit first."
+  },
+  {
+   "start": 985.86,
+   "end": 990.86,
+   "text": "The thing is when I write my bike, it's, it gives me a certain sense of accomplishment."
+  },
+  {
+   "start": 990.86,
+   "end": 994.86,
+   "text": "That makes me kind of be able to relax and give time out to other things."
+  },
+  {
+   "start": 994.86,
+   "end": 996.86,
+   "text": "I'm working my website all the time."
+  },
+  {
+   "start": 996.86,
+   "end": 1003.86,
+   "text": "I need to neglect everything else in my life, you know, like my room and stuff, cleanliness and stuff and maintenance, life maintenance."
+  },
+  {
+   "start": 1003.86,
+   "end": 1007.86,
+   "text": "And when I write my bike, yeah, to be like maintenance, because you have to feed yourself right."
+  },
+  {
+   "start": 1007.86,
+   "end": 1009.86,
+   "text": "And so, and keep your clothes clean and everything."
+  },
+  {
+   "start": 1009.86,
+   "end": 1012.86,
+   "text": "So, you might as well do the other life maintenance things too."
+  },
+  {
+   "start": 1012.86,
+   "end": 1019.86,
+   "text": "So that'll help me, you know, work on my website and do circles, little stuff, little website."
+  },
+  {
+   "start": 1019.86,
+   "end": 1023.86,
+   "text": "Uh, yeah, maybe you can do videos, so, but, uh,"
+  },
+  {
+   "start": 1024.86,
+   "end": 1027.86,
+   "text": "Do the book reviews, so anyways, I've talked for a while."
+  },
+  {
+   "start": 1027.86,
+   "end": 1029.86,
+   "text": "17 minutes, two years, I can be sound."
+  }
+ ]
+}

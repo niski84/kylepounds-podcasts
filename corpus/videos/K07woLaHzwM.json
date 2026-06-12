@@ -1,0 +1,518 @@
+{
+ "youtube_id": "K07woLaHzwM",
+ "title": "Hell on Wheels Netflix show is too violent",
+ "url": "https://youtu.be/K07woLaHzwM",
+ "published_at": "2016-12-23",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle reviews the Netflix Western show Hell on Wheels, critiquing it for excessive and gratuitous violence while arguing the real Wild West was far less violent than depicted. He uses historical examples to support his point and reflects on the societal effects of normalizing on-screen violence, while admitting he is still watching the show.",
+  "speaker": "kyle",
+  "topics": [
+   "TV review",
+   "media violence",
+   "historical accuracy",
+   "Wild West mythology",
+   "media effects on society",
+   "Netflix"
+  ],
+  "stances": [
+   {
+    "topic": "Hell on Wheels violence",
+    "position": "too gratuitously violent and not historically accurate"
+   },
+   {
+    "topic": "Real Wild West",
+    "position": "was far more law-abiding and civilized than pop culture portrays"
+   },
+   {
+    "topic": "TV violence vs. nudity ratings",
+    "position": "hypocritical that violence gets a pass while nudity is censored"
+   },
+   {
+    "topic": "effect of violent media",
+    "position": "programs viewers, especially kids, to normalize and emulate violent behavior"
+   },
+   {
+    "topic": "historical TV shows",
+    "position": "should base outlandish events on real documented stories rather than invented gratuitous ones"
+   },
+   {
+    "topic": "personal viewing choice",
+    "position": "enjoys the show's racial/social drama but feels guilty watching the violence"
+   }
+  ],
+  "entities": [
+   "Hell on Wheels",
+   "Netflix",
+   "Marco Polo",
+   "Wild Bill Hickok",
+   "Caribou (Colorado mining town)",
+   "Oregon Trail",
+   "Mormons"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.02,
+   "end": 5.02,
+   "text": "Here's a movie review. I haven't done one of these for a while, but I wanted to do a movie review."
+  },
+  {
+   "start": 5.02,
+   "end": 14.02,
+   "text": "TV review of the television show on wheels because I was mentioning the other day that I was watching it and I was enjoying it."
+  },
+  {
+   "start": 14.02,
+   "end": 20.02,
+   "text": "And I was laying in bed last night like I thought cutting."
+  },
+  {
+   "start": 20.02,
+   "end": 29.46,
+   "text": "There was a set there because it's, I don't think it's a, it's not a show that I should be proud of watching because it's so violent."
+  },
+  {
+   "start": 29.46,
+   "end": 39.46,
+   "text": "I think it's good to listen to violent. I kept, I was thinking about the scene where the guy strangles the blonde girl to death."
+  },
+  {
+   "start": 39.46,
+   "end": 46.46,
+   "text": "And you know, and that's like what I choose to watch, that's my happy show."
+  },
+  {
+   "start": 47.46,
+   "end": 54.46,
+   "text": "I think that show is a good example of what's wrong with our society."
+  },
+  {
+   "start": 54.46,
+   "end": 65.46,
+   "text": "We have a, and what's wrong with our, the way that we look at history and look at the past and look at our own human nature."
+  },
+  {
+   "start": 66.46,
+   "end": 75.18,
+   "text": "And how we, it shows how we don't take our lives seriously."
+  },
+  {
+   "start": 75.18,
+   "end": 79.18,
+   "text": "We shouldn't be representing people as being that evil."
+  },
+  {
+   "start": 79.18,
+   "end": 92.18,
+   "text": "It wasn't that violent. I mean, people, if you think about, talk about the wildest people, say, yeah, it was violent, but it wasn't violent in that people were just gratuitously killing people each other."
+  },
+  {
+   "start": 92.18,
+   "end": 98.18,
+   "text": "And that show everybody has to die like every season somebody has to die or somebody has to do something completely violent."
+  },
+  {
+   "start": 98.18,
+   "end": 114.18,
+   "text": "But for no reason, for example, there's this one scene where the, the, the, they get three guys from the town, the railroad town to go out and get revenge on the Indians that attacked the road, the rail car."
+  },
+  {
+   "start": 114.18,
+   "end": 121.18,
+   "text": "So they have an Indian in there who knows where they are because it's just family and then a white guy and a black guy go out and then the army."
+  },
+  {
+   "start": 121.18,
+   "end": 130.18,
+   "text": "So they go out in the kill the Indians and then the Indian guy and the army guy chat for a little bit after after it all, and then you guy walks off and everything's good."
+  },
+  {
+   "start": 130.18,
+   "end": 139.18,
+   "text": "And then in the next scene that army guy shows up inside of the treat, breach remains, and he's hey, where's that Indian guy?"
+  },
+  {
+   "start": 139.18,
+   "end": 144.18,
+   "text": "And all of a sudden the preach man's like, hey, you don't want to kill my son."
+  },
+  {
+   "start": 144.18,
+   "end": 154.18,
+   "text": "And he's like, he's like, I just want to talk to him, he turns around and he just slices his head off, the preach man, just slices the head off the soldier for no reason."
+  },
+  {
+   "start": 154.18,
+   "end": 170.18,
+   "text": "And then that's that story and then the girl, the longer all they keep telling her, they try to get her to move back to Chicago and then they, but she doesn't want to, and she's afraid of all the much regular and he's thinking of he tried to get the black guy to kill her if he didn't want to."
+  },
+  {
+   "start": 170.18,
+   "end": 180.18,
+   "text": "So then the Swedish guy strangles her to death and you filmed that when they could have just had her go back if they wanted to get the character out, they didn't have to get her killed."
+  },
+  {
+   "start": 180.18,
+   "end": 190.18,
+   "text": "When the preach man kills all those people before he dies, you know, just I could, I don't want to give all the examples, but."
+  },
+  {
+   "start": 190.18,
+   "end": 196.18,
+   "text": "The wild west wasn't that violent people weren't just go too meticulously killing people each other."
+  },
+  {
+   "start": 196.18,
+   "end": 206.18,
+   "text": "For example, in the mining town, Caribou was one of the biggest mining towns in Colorado had some people say up to 10,000 people."
+  },
+  {
+   "start": 206.18,
+   "end": 210.18,
+   "text": "Um, had like six saloons."
+  },
+  {
+   "start": 210.18,
+   "end": 216.18,
+   "text": "And there was only one murder of the whole time and it existed for like 50 years."
+  },
+  {
+   "start": 216.18,
+   "end": 220.18,
+   "text": "Um, and Irish guy got in a fight with a black guy."
+  },
+  {
+   "start": 220.18,
+   "end": 226.18,
+   "text": "The only black guy who lived up there over food and killed the black guy and then they quit it the white guy."
+  },
+  {
+   "start": 226.18,
+   "end": 232.18,
+   "text": "Usually people would be acquitted, if somebody would kill somebody."
+  },
+  {
+   "start": 232.18,
+   "end": 242.18,
+   "text": "Um, then they would go into like a court of locals of like six locals to investigate it and then, but they would always acquit the person."
+  },
+  {
+   "start": 242.18,
+   "end": 252.18,
+   "text": "Um, but that didn't really happen like all the time like it shows a wild bill hit cock that guy, he's most famous, the most famous gunslinger."
+  },
+  {
+   "start": 252.18,
+   "end": 258.18,
+   "text": "He only killed six people in this whole life and he was kind of like a lawman, you know, so."
+  },
+  {
+   "start": 258.18,
+   "end": 264.18,
+   "text": "And the guy who killed him, which is the crazy random dude who walked into his card game."
+  },
+  {
+   "start": 264.18,
+   "end": 272.18,
+   "text": "Well, his back was turned to the wall and just shot him and that had because he wanted to and that guy got to quit it."
+  },
+  {
+   "start": 272.18,
+   "end": 278.18,
+   "text": "Before they, you know, there was a public outcry and then they eventually hung in, but."
+  },
+  {
+   "start": 278.18,
+   "end": 280.18,
+   "text": "But."
+  },
+  {
+   "start": 280.18,
+   "end": 282.18,
+   "text": "Um."
+  },
+  {
+   "start": 282.18,
+   "end": 288.04,
+   "text": "I mean, the wild west was."
+  },
+  {
+   "start": 288.04,
+   "end": 299.08,
+   "text": "The wild west was something that was."
+  },
+  {
+   "start": 299.08,
+   "end": 308.39,
+   "text": "There was a lot of law and order and people were always trying to maintain their order in their better ways to."
+  },
+  {
+   "start": 308.39,
+   "end": 316.39,
+   "text": "Portrait how people would, uh, you know, watch after themselves, I guess the security."
+  },
+  {
+   "start": 316.39,
+   "end": 320.39,
+   "text": "There's one story like in the Oregon Trail."
+  },
+  {
+   "start": 320.39,
+   "end": 324.39,
+   "text": "There was a woman who wrote a book about the Oregon Trail, her experiences and."
+  },
+  {
+   "start": 324.39,
+   "end": 330.39,
+   "text": "There was one incidents where a guy was killed one of the."
+  },
+  {
+   "start": 330.39,
+   "end": 334.39,
+   "text": "Uh, wagon guys was killed and nobody knew who killed him."
+  },
+  {
+   "start": 334.39,
+   "end": 336.39,
+   "text": "He just was dead one morning."
+  },
+  {
+   "start": 336.39,
+   "end": 343.39,
+   "text": "And after a few weeks or whatever, they started seeing his belongings and this other guys wagon train."
+  },
+  {
+   "start": 343.39,
+   "end": 347.39,
+   "text": "And, uh, and so they decided that he, that he did it."
+  },
+  {
+   "start": 348.39,
+   "end": 354.39,
+   "text": "And so they all hung him and they, but they made sure to take care of his family for the rest of the way because he had it."
+  },
+  {
+   "start": 354.39,
+   "end": 356.39,
+   "text": "You know, like the kids so."
+  },
+  {
+   "start": 356.39,
+   "end": 359.39,
+   "text": "Um, there."
+  },
+  {
+   "start": 359.39,
+   "end": 362.39,
+   "text": "A lot of."
+  },
+  {
+   "start": 362.39,
+   "end": 372.69,
+   "text": "Um, a lot of ways thinking that could have portrayed those people as being a lot more civilized."
+  },
+  {
+   "start": 372.69,
+   "end": 375.69,
+   "text": "They showed the, the, the Mormons."
+  },
+  {
+   "start": 375.69,
+   "end": 378.69,
+   "text": "Uh, and this last episode I saw."
+  },
+  {
+   "start": 378.69,
+   "end": 383.69,
+   "text": "And they walk up to talk to the Mormon and then do they just shoot the cop and kill him."
+  },
+  {
+   "start": 383.69,
+   "end": 385.69,
+   "text": "Um, I remember in the Oregon Trail book."
+  },
+  {
+   "start": 385.69,
+   "end": 389.69,
+   "text": "They were talking about the Mormons and she said that there were, there were afraid of them."
+  },
+  {
+   "start": 389.69,
+   "end": 395.69,
+   "text": "They had bad reputation from the wagon train because there were no ambush the wagon train."
+  },
+  {
+   "start": 395.69,
+   "end": 400.69,
+   "text": "Kind of like Indians and kidnap women as well."
+  },
+  {
+   "start": 400.69,
+   "end": 407.69,
+   "text": "But, and yeah, it's, so they could have shun something like that, but just, uh, people being stupid, you know."
+  },
+  {
+   "start": 407.69,
+   "end": 413.69,
+   "text": "And then, and then, and I'm, and giving up just some to be hung up, never hurt anything like that."
+  },
+  {
+   "start": 413.69,
+   "end": 420.69,
+   "text": "Um, yeah, every episode having something completely outlined just happening every single episode."
+  },
+  {
+   "start": 420.69,
+   "end": 424.69,
+   "text": "Um, I think we should cut that out on historical TV shows."
+  },
+  {
+   "start": 424.69,
+   "end": 428.69,
+   "text": "And we should bring him, uh, stress more."
+  },
+  {
+   "start": 428.69,
+   "end": 434.69,
+   "text": "The most outlined just crazy story that ever actually happened that somebody read about it and then put that in the story."
+  },
+  {
+   "start": 434.69,
+   "end": 442.69,
+   "text": "Even if it doesn't have to be in the same context, but not to invent things that don't make sense, you know, because the most outlined just, uh,"
+  },
+  {
+   "start": 442.69,
+   "end": 450.69,
+   "text": "crazy as wacky as wild as stories that ever actually really existed are a lot more tame than the stuff they put in that show."
+  },
+  {
+   "start": 450.69,
+   "end": 457.58,
+   "text": "Um, um, so yeah, I think it's it's too violent man."
+  },
+  {
+   "start": 457.58,
+   "end": 469.58,
+   "text": "It's too bad that you have to, because I do like watching it for all the drama between the races and the pick and the chilling how interesting of a situation that is for everybody."
+  },
+  {
+   "start": 469.58,
+   "end": 482.58,
+   "text": "But, um, but to have to have all of these just violence scenes, you know, the guy getting a headshot out the groggin and strangled the sun having to stab his father to death."
+  },
+  {
+   "start": 482.58,
+   "end": 496.58,
+   "text": "Um, those two brothers got in, um, killing the, uh, but you're, you know, but you're wanting to kill them because it's just a revenge and I mean,"
+  },
+  {
+   "start": 496.58,
+   "end": 504.58,
+   "text": "there's a lot of other drama that you could show that would be more entertaining that wouldn't like give somebody nightmares of their own and but like,"
+  },
+  {
+   "start": 504.58,
+   "end": 507.58,
+   "text": "I'm like, uh, I can't believe I'm watching that, like, what the fuck?"
+  },
+  {
+   "start": 507.58,
+   "end": 519.58,
+   "text": "And the, this fucked up thing is that that show, um, with all of the violence it has, it's, it's, it's one of the, like, gerated shows PG13."
+  },
+  {
+   "start": 519.58,
+   "end": 523.58,
+   "text": "Because there's no, there's no, uh, nudity at all."
+  },
+  {
+   "start": 523.58,
+   "end": 531.58,
+   "text": "And I was watching Marco Polo, which is another Netflix original, so many series and every single episode that are like 50 completely naked girls."
+  },
+  {
+   "start": 531.58,
+   "end": 536.58,
+   "text": "And I don't think there was any of actual violence."
+  },
+  {
+   "start": 536.58,
+   "end": 545.58,
+   "text": "But in this show, like, how the characters are prostitutes and, you know, they're having sex and there's like no nipple."
+  },
+  {
+   "start": 545.58,
+   "end": 549.58,
+   "text": "You get at the same time, there's, uh, their slicing heads off."
+  },
+  {
+   "start": 549.58,
+   "end": 559.58,
+   "text": "And so we're telling the kids it's okay to be violent and just show violence and talk about violence and try to teach them that, you know,"
+  },
+  {
+   "start": 559.58,
+   "end": 566.58,
+   "text": "you get in the idea that back then people were just gratuitously violent and vengeful like that and that's how people spent their time."
+  },
+  {
+   "start": 566.58,
+   "end": 571.58,
+   "text": "People going to grow up and become like that obviously that's, it's like programming people to be like that."
+  },
+  {
+   "start": 571.58,
+   "end": 577.58,
+   "text": "She programmed people to be, uh, the ship's, they should have cut out all that stuff and had."
+  },
+  {
+   "start": 577.58,
+   "end": 584.3,
+   "text": "Yeah, um, more, other politics and stuff."
+  },
+  {
+   "start": 584.3,
+   "end": 588.3,
+   "text": "But, um, yeah, but I mean, I'm addicted to it."
+  },
+  {
+   "start": 588.3,
+   "end": 597.3,
+   "text": "We're watching it all last night for a bunch of episodes and I think I'll keep watching it."
+  },
+  {
+   "start": 597.3,
+   "end": 603.3,
+   "text": "But I mean, yeah, I mean, maybe, you know, they know that people who make it, they know what's entertaining."
+  },
+  {
+   "start": 603.3,
+   "end": 612.3,
+   "text": "So I guess people should try to, uh, it's kind of like jump-filled, you know, jumping or 10 minutes delicious and you just scrumptious, like, yes."
+  },
+  {
+   "start": 612.3,
+   "end": 623.3,
+   "text": "But it's not healthy. So we should, we have to actually try to forcefully cut it down, not not the people who make it because they want to make money, but the people who actually consume it."
+  },
+  {
+   "start": 623.3,
+   "end": 628.3,
+   "text": "You just say, okay, I like the show, but I would, I reject."
+  },
+  {
+   "start": 628.3,
+   "end": 635.3,
+   "text": "I think we should cut down that just the, uh, all of the violent bad behavior."
+  },
+  {
+   "start": 635.3,
+   "end": 638.3,
+   "text": "But they were doing, so that's what I wanted to say. Okay."
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "youtube_id": "awEarNV1fjk",
+ "title": "Living in Boulder vlog 12 - 1 - 2018: New Streaming Channel: Kyle Pounds Streaming",
+ "url": "https://youtu.be/awEarNV1fjk",
+ "published_at": "2018-12-01",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a casual life update from Boulder, covering a rough few days of heavy weed use, 60-mile bike rides, insomnia, and computer/streaming troubles. He announces he is launching a separate YouTube channel called 'Kyle Pounds Streaming' to keep livestreams off his main channel, which lost about 35 subscribers from recent streams. He also mentions his car breaking down, a gas leak, and working on his website and research into the Talmud and a Roman directory from 354 AD.",
+  "speaker": "kyle",
+  "topics": [
+   "vlogging",
+   "streaming channel announcement",
+   "cycling",
+   "insomnia and sleep",
+   "cannabis use",
+   "car trouble",
+   "diet and nutrition",
+   "website work",
+   "historical research"
+  ],
+  "stances": [
+   {
+    "topic": "separating streaming from main channel",
+    "position": "streaming clogs up the main channel feed and drives away subscribers; better to keep them on separate channels"
+   },
+   {
+    "topic": "working style",
+    "position": "prefers pushing until he cracks — sees it as being in his element, analogous to his old life as a stoner web designer"
+   },
+   {
+    "topic": "driving the van",
+    "position": "will not drive it again until the gas leak is fixed, willing to wait about a month"
+   }
+  ],
+  "entities": [
+   "Kyle Pounds",
+   "Boulder",
+   "Taco Bell",
+   "Kyle Pounds Streaming (new YouTube channel)",
+   "Talmud",
+   "Directory of Rome 354 AD"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.56,
+   "end": 11.62,
+   "text": "Hello, living in Boulder V-log. It's 3.44 p.m. Yesterday, man, my memory is shot. My brain"
+  },
+  {
+   "start": 11.62,
+   "end": 21.66,
+   "text": "Didn't work too good. Yesterday, I don't really remember the last time I did a video. I've"
+  },
+  {
+   "start": 21.66,
+   "end": 30.26,
+   "text": "Been smoking a lot of weed. I rode my bike, I think it was 60 miles yesterday, but then"
+  },
+  {
+   "start": 30.26,
+   "end": 40.88,
+   "text": "I slept all day, and then I ate not much. A can of vegetables, I think, and then a little"
+  },
+  {
+   "start": 40.88,
+   "end": 52.9,
+   "text": "Bit of, I had a protein drink, but then I was eating my energy packets. Then I rode 60"
+  },
+  {
+   "start": 52.9,
+   "end": 60.9,
+   "text": "Miles, but then I stopped riding because, well, I kept dropping my stream. The stream"
+  },
+  {
+   "start": 60.9,
+   "end": 64.32,
+   "text": "Could only go like five minutes or less, and it was getting worse as the night was going"
+  },
+  {
+   "start": 64.32,
+   "end": 72.68,
+   "text": "On. Then also, my mouse was barely tracking, so I was having trouble going around and watching"
+  },
+  {
+   "start": 72.68,
+   "end": 81.12,
+   "text": "Music videos and stuff. I decided to stop it and do it a different way today. I was actually"
+  },
+  {
+   "start": 81.12,
+   "end": 86.6,
+   "text": "Working on my computer, figuring stuff out. Actually, I'm working on my website, working"
+  },
+  {
+   "start": 86.6,
+   "end": 96.24,
+   "text": "On the Talmud and the directory of Rome from 354. I was working until like 8.30 in the morning"
+  },
+  {
+   "start": 96.24,
+   "end": 100.24,
+   "text": "Until I crashed. I couldn't really sleep. I had insomnia, which is good. It means I could"
+  },
+  {
+   "start": 100.24,
+   "end": 104.8,
+   "text": "Have ridden more. I can't wait until I ride until I crack because that's how I work. I work"
+  },
+  {
+   "start": 104.8,
+   "end": 112.2,
+   "text": "Till I crack. It's kind of like in my element. Being a transition to an athlete from being"
+  },
+  {
+   "start": 112.2,
+   "end": 117.8,
+   "text": "A stoner web designer is actually a pretty good transition. Pretty similar things."
+  },
+  {
+   "start": 117.8,
+   "end": 135.08,
+   "text": "So, mindset. So, I got up and then I decided I needed to get a splitter for my ethernet cable"
+  },
+  {
+   "start": 135.08,
+   "end": 138.72,
+   "text": "Because I have the computer goes here when I'm doing big screen, but then the computer"
+  },
+  {
+   "start": 138.72,
+   "end": 145.32,
+   "text": "Goes there when I'm doing my bicycle. So, that's two different ethernet cables. So, I got a splitter"
+  },
+  {
+   "start": 145.32,
+   "end": 149.24,
+   "text": "And then I came back here and I went, oh no, I need an ethernet cable for the splitter."
+  },
+  {
+   "start": 149.24,
+   "end": 152.68,
+   "text": "So, I went down there and then my car broke down. It wouldn't start. The battery died and"
+  },
+  {
+   "start": 152.68,
+   "end": 157.08,
+   "text": "Then the starter wouldn't start. But luckily, my brother was in the area. It jumped to me"
+  },
+  {
+   "start": 157.08,
+   "end": 162.84,
+   "text": "And then I had a leak. There's a gas leak on the back where my motor is. So, I'm not going"
+  },
+  {
+   "start": 162.84,
+   "end": 168.84,
+   "text": "To drive it again until I get that fixed. I'm going to wait like a month for that. But yeah,"
+  },
+  {
+   "start": 168.84,
+   "end": 173.88,
+   "text": "But I didn't even need it because then I found an ethernet cable here. But I got, yeah. So,"
+  },
+  {
+   "start": 173.88,
+   "end": 181.48,
+   "text": "I think it was the same length too. So, I thought I looked. But anyways, yeah. So, hopefully I'm done"
+  },
+  {
+   "start": 181.48,
+   "end": 188.44,
+   "text": "Buying stuff. But yeah, it's weird. I thought I was set up before, but then you always need to buy"
+  },
+  {
+   "start": 189.08,
+   "end": 196.28,
+   "text": "A few more things. So, yeah. I think I'm going to start a new streaming channel though. I'm going to"
+  },
+  {
+   "start": 196.28,
+   "end": 200.28,
+   "text": "Stream on a different channel. I'll have one channel where I make serious talking videos"
+  },
+  {
+   "start": 200.28,
+   "end": 204.04,
+   "text": "Like this and then I'll have another channel where I stream because when you're streaming,"
+  },
+  {
+   "start": 204.04,
+   "end": 210.92,
+   "text": "I think it shows like right at the top and it gets in the way of people's view and it's annoying."
+  },
+  {
+   "start": 210.92,
+   "end": 214.76,
+   "text": "It's better to start a new channel just for the streaming. That's different because you're not"
+  },
+  {
+   "start": 214.76,
+   "end": 219.88,
+   "text": "Talking totally different kind of channels. So, plus I lost a bunch of subscribers. I'm down to 47.75"
+  },
+  {
+   "start": 219.88,
+   "end": 225.4,
+   "text": "And I was at like 48.10 when I started. So, 35 subscribers just from the streaming in a"
+  },
+  {
+   "start": 225.4,
+   "end": 231.72,
+   "text": "Couple days. So, yeah. If you want to check out my streaming, I'll put the link down below. It's"
+  },
+  {
+   "start": 231.72,
+   "end": 243.16,
+   "text": "Called Kyle Pound Streaming. Go ahead and just subscribe if you want. It's the new way. So,"
+  },
+  {
+   "start": 243.16,
+   "end": 254.12,
+   "text": "Yeah. I think I'm going to have to get something to eat. This morning, I was working until 8.30."
+  },
+  {
+   "start": 256.12,
+   "end": 262.2,
+   "text": "So, when 7 o'clock came around, 7.30 or 8 came around, I did the drive-through at Taco Bell with"
+  },
+  {
+   "start": 262.2,
+   "end": 266.84,
+   "text": "My van because I've never done that. They didn't have normal food though. I had to only get the"
+  },
+  {
+   "start": 266.84,
+   "end": 273.8,
+   "text": "Breakfast stuff. They had this breakfast burrito, sausages, kind of whatever. So, anyways,"
+  },
+  {
+   "start": 273.8,
+   "end": 281.08,
+   "text": "That's me. No more streaming on this channel. Only talking on this channel and the other channels"
+  },
+  {
+   "start": 281.08,
+   "end": 290.04,
+   "text": "For the streaming. Okay. Peace out."
+  }
+ ]
+}

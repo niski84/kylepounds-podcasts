@@ -1,0 +1,526 @@
+{
+ "youtube_id": "8grQMmqBbag",
+ "title": "Living in Boulder vlog 11 - 27 - 2018: Vertigo",
+ "url": "https://youtu.be/8grQMmqBbag",
+ "published_at": "2018-11-28",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about experiencing a severe vertigo episode in Boulder that began when he woke up — the room was spinning rapidly, he stumbled, vomited white foam, and at one point fell out of bed while trying to reach his weed. He describes the preceding days of long indoor cycling sessions, eating habits, and talking to his fiancée, then details riding out the vertigo by lying on his stomach, eventually smoking marijuana for relief before getting up to record the video.",
+  "speaker": "kyle",
+  "topics": [
+   "vertigo",
+   "indoor cycling",
+   "daily vlog",
+   "health scare",
+   "marijuana use",
+   "diet/eating"
+  ],
+  "stances": [
+   {
+    "topic": "marijuana for vertigo",
+    "position": "believes smoking weed helped relieve his vertigo symptoms"
+   },
+   {
+    "topic": "eating while riding",
+    "position": "cannot eat and ride simultaneously because it makes him vomit"
+   },
+   {
+    "topic": "his health concern",
+    "position": "worried he may have had a stroke but hopes he will be fine by morning"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Kyle's fiancée"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.91,
+   "end": 7.35,
+   "text": "Hello, living in Boulder, November 27th, 2018."
+  },
+  {
+   "start": 9.35,
+   "end": 13.09,
+   "text": "I think the last time I did a vlog was yesterday morning."
+  },
+  {
+   "start": 14.47,
+   "end": 16.39,
+   "text": "I got up and it was before I rode."
+  },
+  {
+   "start": 16.85,
+   "end": 22.63,
+   "text": "So yeah, I rode for four hours and 20 minutes the day before yesterday."
+  },
+  {
+   "start": 23.73,
+   "end": 28.35,
+   "text": "And then the last time I did a video was yesterday morning."
+  },
+  {
+   "start": 28.35,
+   "end": 34.35,
+   "text": "And I think I lost some brain cells since the last time I did a video."
+  },
+  {
+   "start": 34.55,
+   "end": 36.37,
+   "text": "So it'll be hard to remember exactly."
+  },
+  {
+   "start": 37.07,
+   "end": 41.31,
+   "text": "I think, yeah, I think I just got started riding as soon as I could."
+  },
+  {
+   "start": 43.39,
+   "end": 45.79,
+   "text": "But I think I had to do some stuff first."
+  },
+  {
+   "start": 46.73,
+   "end": 54.19,
+   "text": "But yeah, so I was riding and I managed to ride about two and a half hours."
+  },
+  {
+   "start": 54.19,
+   "end": 67.33,
+   "text": "But before I was done riding, I suddenly got, like at first I had the fans on and I was sweating and everything."
+  },
+  {
+   "start": 67.41,
+   "end": 71.01,
+   "text": "But then I got cold and I started getting cold really fast."
+  },
+  {
+   "start": 71.01,
+   "end": 74.85,
+   "text": "So I turned all the fans off and then I put all my clothes on."
+  },
+  {
+   "start": 74.97,
+   "end": 80.35,
+   "text": "I put my leg warmers on and my arm warmers on and an extra jersey on."
+  },
+  {
+   "start": 80.49,
+   "end": 83.71,
+   "text": "And I put my heater right next to me and turned it on to maximum."
+  },
+  {
+   "start": 84.69,
+   "end": 88.05,
+   "text": "And I kept riding and I was, and then I was at a good temperature."
+  },
+  {
+   "start": 88.05,
+   "end": 93.25,
+   "text": "And, um, but then I, uh, I just ran out of energy."
+  },
+  {
+   "start": 93.55,
+   "end": 101.15,
+   "text": "I just, I just couldn't, um, I couldn't keep the pedals going, you know, I just felt like falling asleep."
+  },
+  {
+   "start": 101.15,
+   "end": 104.23,
+   "text": "And that's the last stream that I did."
+  },
+  {
+   "start": 105.59,
+   "end": 117.91,
+   "text": "And, uh, and so I went because I think, yeah, I think the general rule of thumb for me right now is that I can ride about four and a half or five hours before I'm going to bonk."
+  },
+  {
+   "start": 118.75,
+   "end": 122.55,
+   "text": "I mean, at that point I'm going to have to eat or stop riding and eat."
+  },
+  {
+   "start": 122.67,
+   "end": 125.37,
+   "text": "So, but I can't eat and ride at the same time because I'll barf."
+  },
+  {
+   "start": 125.37,
+   "end": 131.25,
+   "text": "Um, so I, uh, I got off and I wanted to get like something tasty."
+  },
+  {
+   "start": 131.43,
+   "end": 135.81,
+   "text": "So I went down and I got a sandwich at the sandwich shop, a big like foot longer."
+  },
+  {
+   "start": 136.09,
+   "end": 148.33,
+   "text": "And, and then I got another, um, another, um, uh, pin, smoke pin, but I don't think the battery's charged because it doesn't work."
+  },
+  {
+   "start": 148.83,
+   "end": 150.75,
+   "text": "I haven't had a chance to plug it in yet."
+  },
+  {
+   "start": 150.75,
+   "end": 160.15,
+   "text": "Um, so, um, yeah, so then I came home and I ate the sandwich and it took me forever to eat the sandwich."
+  },
+  {
+   "start": 160.15,
+   "end": 166.61,
+   "text": "So I was just sitting there and I think like listening to music and smoking weed and just eating the sandwich."
+  },
+  {
+   "start": 166.87,
+   "end": 171.21,
+   "text": "And, um, and then when I was done with the sandwich, I kind of had a second wind."
+  },
+  {
+   "start": 171.21,
+   "end": 176.97,
+   "text": "So I got on the bike and, um, oh no, no, I got suited up."
+  },
+  {
+   "start": 177.07,
+   "end": 184.61,
+   "text": "I got suited up in all my clothing, my leg warmers, shorts, arm warmers, two jerseys."
+  },
+  {
+   "start": 184.73,
+   "end": 185.03,
+   "text": "Oh yeah."
+  },
+  {
+   "start": 185.09,
+   "end": 187.87,
+   "text": "And the hat, the cap on top of it."
+  },
+  {
+   "start": 187.87,
+   "end": 193.81,
+   "text": "And, uh, you know, have the heater there and figured I'd call my fiance right before I ride just to tell her not call me."
+  },
+  {
+   "start": 193.87,
+   "end": 195.55,
+   "text": "But she ended up, we ended up talking for two hours."
+  },
+  {
+   "start": 195.65,
+   "end": 197.23,
+   "text": "So I didn't go riding."
+  },
+  {
+   "start": 200.27,
+   "end": 202.57,
+   "text": "So, um, yeah, I talked until like midnight or whatever."
+  },
+  {
+   "start": 202.77,
+   "end": 204.51,
+   "text": "So that must've been like 10 at night or something."
+  },
+  {
+   "start": 204.65,
+   "end": 205.11,
+   "text": "I don't know."
+  },
+  {
+   "start": 205.87,
+   "end": 212.35,
+   "text": "But anyways, I have a good night's sleep and I was planning on riding today because I felt fine."
+  },
+  {
+   "start": 212.45,
+   "end": 222.21,
+   "text": "Oh, cause yesterday, one of the things that I did was I, I made, um, I made the video about, uh, Greek city states versus American states."
+  },
+  {
+   "start": 222.87,
+   "end": 224.23,
+   "text": "And so I felt good."
+  },
+  {
+   "start": 224.23,
+   "end": 225.85,
+   "text": "That was between my two rides."
+  },
+  {
+   "start": 225.93,
+   "end": 228.43,
+   "text": "That was after my first ride when I was eating a sandwich."
+  },
+  {
+   "start": 229.41,
+   "end": 236.65,
+   "text": "And, uh, yeah, so I was planning on being able to maybe ride like five hours today, you know, right?"
+  },
+  {
+   "start": 237.13,
+   "end": 238.33,
+   "text": "You ride all day long."
+  },
+  {
+   "start": 238.51,
+   "end": 243.39,
+   "text": "And so, so I slept in and, um, and I think, I don't know what time it was."
+  },
+  {
+   "start": 243.91,
+   "end": 245.51,
+   "text": "It's kind of late morning or whatever."
+  },
+  {
+   "start": 245.51,
+   "end": 260.93,
+   "text": "And so then I opened my eyes and freaking, everything is zooming from right to left so fast that I could barely tell that it was the outside world."
+  },
+  {
+   "start": 260.93,
+   "end": 267.91,
+   "text": "But I could, I had to focus to then find that it was actually was what I was looking at in my room, but it was going so fast."
+  },
+  {
+   "start": 268.65,
+   "end": 269.47,
+   "text": "It couldn't zero in on."
+  },
+  {
+   "start": 269.47,
+   "end": 278.93,
+   "text": "So I just closed my eyes and, um, and I think I was on my back and, um, I moved on my back."
+  },
+  {
+   "start": 278.93,
+   "end": 281.83,
+   "text": "And every time I moved, I feel like barfing."
+  },
+  {
+   "start": 283.35,
+   "end": 291.03,
+   "text": "So, uh, I think I got up to the bathroom and I dry heaved a bunch of times until I started barfing up with white foam."
+  },
+  {
+   "start": 292.43,
+   "end": 294.63,
+   "text": "Because I was driving like 50 times."
+  },
+  {
+   "start": 294.63,
+   "end": 297.91,
+   "text": "Um, but I could feel that I'm, I'm cut."
+  },
+  {
+   "start": 297.99,
+   "end": 301.63,
+   "text": "Like I, I'm more firm now and lost fat than that, just those two days."
+  },
+  {
+   "start": 302.91,
+   "end": 307.37,
+   "text": "But, um, but I was like stumbling and my balance was off."
+  },
+  {
+   "start": 307.37,
+   "end": 315.71,
+   "text": "And, um, so, and I, and so I went, I got back to bed and I, I think I laid on my stomach because I couldn't move around."
+  },
+  {
+   "start": 315.71,
+   "end": 321.65,
+   "text": "I, you know, because if I move, I was dizzy for like a really long time and that made me feel like barfing."
+  },
+  {
+   "start": 321.65,
+   "end": 330.65,
+   "text": "And at one point when I was laying on my back, I looked at my TV and my TV because I was just moving from right to left really fast."
+  },
+  {
+   "start": 331.47,
+   "end": 337.13,
+   "text": "So fast I could barely, you know, zero in on it or never see my TV."
+  },
+  {
+   "start": 338.09,
+   "end": 339.97,
+   "text": "So I laid out to sleep again."
+  },
+  {
+   "start": 340.33,
+   "end": 345.85,
+   "text": "So I was on my belly and I'm sleeping on my belly and I feel really, really nauseous, vertigo."
+  },
+  {
+   "start": 347.39,
+   "end": 350.51,
+   "text": "And, um, so I want to smoke some weed."
+  },
+  {
+   "start": 351.65,
+   "end": 358.59,
+   "text": "Cause I hadn't smoked weed all day and I figured that would help me with my vertigo or, you know, make it more pleasant."
+  },
+  {
+   "start": 358.59,
+   "end": 365.37,
+   "text": "Just laying there with my eyes closed on my stomach and my weeds right up here at the top of this table."
+  },
+  {
+   "start": 366.71,
+   "end": 377.89,
+   "text": "So I get on my knees and I think I got on my hands and then I pushed myself up so I can get on my hands and knees so I can grab the marijuana."
+  },
+  {
+   "start": 377.89,
+   "end": 386.89,
+   "text": "Next thing I know, next thing I know, I'm flying through the air, naked, like feeling all the air, hitting all my air follicles."
+  },
+  {
+   "start": 386.89,
+   "end": 397.33,
+   "text": "And then I felt myself crashing against this table and sent it flying into the closet."
+  },
+  {
+   "start": 397.53,
+   "end": 400.13,
+   "text": "And then I was laying on my back and I didn't know what was going on."
+  },
+  {
+   "start": 400.39,
+   "end": 404.39,
+   "text": "Like I forgot where I was and who, like what was going on."
+  },
+  {
+   "start": 404.39,
+   "end": 407.29,
+   "text": "And then I felt that I was on the, on the floor."
+  },
+  {
+   "start": 408.41,
+   "end": 416.19,
+   "text": "And so I got up and I got back on my belly and went back to sleep and closed my eyes for like another few hours."
+  },
+  {
+   "start": 416.19,
+   "end": 420.77,
+   "text": "And then I went to the bathroom again and dry heaved another 50 times."
+  },
+  {
+   "start": 420.77,
+   "end": 426.23,
+   "text": "So then my roommate banged on the door and was wondering if I was okay and offered to make me a tea."
+  },
+  {
+   "start": 426.37,
+   "end": 427.73,
+   "text": "But then kind of, there was no tea."
+  },
+  {
+   "start": 427.81,
+   "end": 428.91,
+   "text": "That would have been nice to have a tea."
+  },
+  {
+   "start": 430.37,
+   "end": 433.31,
+   "text": "So then I just got back on my belly and I was laying on my belly."
+  },
+  {
+   "start": 435.05,
+   "end": 436.85,
+   "text": "And, um, and then I smoked weed."
+  },
+  {
+   "start": 436.91,
+   "end": 439.71,
+   "text": "I managed to, I reached up really slowly and I got the weed."
+  },
+  {
+   "start": 440.57,
+   "end": 443.45,
+   "text": "And I smoked like a 10 or 15 hits or whatever."
+  },
+  {
+   "start": 443.57,
+   "end": 444.95,
+   "text": "And that made things better laid down."
+  },
+  {
+   "start": 444.95,
+   "end": 450.63,
+   "text": "And then I felt a little bit better and so then I figured I thought I could see if I could go up and make the video."
+  },
+  {
+   "start": 450.73,
+   "end": 459.39,
+   "text": "So then I got up and I put the table back together and I got my computer and I got the microphone and plugged it up and I did my video."
+  },
+  {
+   "start": 460.61,
+   "end": 461.39,
+   "text": "What the hell?"
+  },
+  {
+   "start": 466.88,
+   "end": 468.12,
+   "text": "Is this thing still recording?"
+  },
+  {
+   "start": 470.73,
+   "end": 471.25,
+   "text": "God damn it."
+  },
+  {
+   "start": 471.25,
+   "end": 473.59,
+   "text": "I opened up my eyes and the whole thing was asleep."
+  },
+  {
+   "start": 474.55,
+   "end": 476.13,
+   "text": "My computer doesn't really usually do that."
+  },
+  {
+   "start": 476.21,
+   "end": 476.69,
+   "text": "Okay, good."
+  },
+  {
+   "start": 476.75,
+   "end": 477.31,
+   "text": "Thank God."
+  },
+  {
+   "start": 477.91,
+   "end": 478.09,
+   "text": "All right."
+  },
+  {
+   "start": 478.11,
+   "end": 479.45,
+   "text": "I'm going to go back to sleep."
+  },
+  {
+   "start": 479.45,
+   "end": 481.71,
+   "text": "And hopefully tomorrow everything will be okay."
+  },
+  {
+   "start": 481.83,
+   "end": 483.21,
+   "text": "I hope I didn't have a stroke or something."
+  },
+  {
+   "start": 483.73,
+   "end": 484.57,
+   "text": "Okay, peace out."
+  }
+ ]
+}

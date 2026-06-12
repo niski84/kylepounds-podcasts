@@ -1,0 +1,563 @@
+{
+ "youtube_id": "Dky8dmkXkEQ",
+ "title": "Living in Boulder vlog 5 - 8 - 2017: Vatican Library",
+ "url": "https://youtu.be/Dky8dmkXkEQ",
+ "published_at": "2017-05-09",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a brief vlog update showing progress on his Vatican Library project, where he is systematically collecting and organizing texts from ancient Roman and early Christian history for his website. He lists dozens of works he has recently added including texts by Tacitus, Josephus, Julius Caesar, St. Augustine, and others, and explains he still needs to attach chapter title menus to some longer works.",
+  "speaker": "kyle",
+  "topics": [
+   "personal project update",
+   "digital library curation",
+   "ancient Roman history",
+   "early Christian texts",
+   "daily vlog",
+   "weather"
+  ],
+  "stances": [
+   {
+    "topic": "Vatican Library project",
+    "position": "Excited and productive; wants to collect everything within the Roman Empire era"
+   },
+   {
+    "topic": "reading books not on his website",
+    "position": "Listens to books he hasn't added to his site yet so he can decide whether to include them"
+   }
+  ],
+  "entities": [
+   "Doris Siculus",
+   "Polybius",
+   "Ammianus Marcellinus",
+   "Cassius Dio",
+   "Edward Gibbon (Decline and Fall)",
+   "Eutropius",
+   "Frontinus",
+   "Jordanes",
+   "Herodian",
+   "Herodotus",
+   "Josephus",
+   "Julius Caesar",
+   "Livy",
+   "New Testament",
+   "Old Testament",
+   "Vegetius (Renatus)",
+   "Sallust",
+   "St. Augustine",
+   "Strabo",
+   "Tacitus",
+   "Thucydides",
+   "Vitruvius",
+   "Books Adams (probably Brooks Adams)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.72,
+   "end": 10.72,
+   "text": "Hello, living in Boulder V-Log for May 188 of 2017."
+  },
+  {
+   "start": 10.72,
+   "end": 18.72,
+   "text": "So I'm gonna do a vlog real quick before I get back to go on on my work."
+  },
+  {
+   "start": 18.72,
+   "end": 20.72,
+   "text": "It is a 610 in the evening."
+  },
+  {
+   "start": 20.72,
+   "end": 24.72,
+   "text": "I was working until like 4th of the board egg."
+  },
+  {
+   "start": 24.72,
+   "end": 25.72,
+   "text": "Oh, you know what?"
+  },
+  {
+   "start": 25.72,
+   "end": 26.72,
+   "text": "Let me, you know what?"
+  },
+  {
+   "start": 26.72,
+   "end": 28.72,
+   "text": "I think today would be a good day for me to"
+  },
+  {
+   "start": 29.72,
+   "end": 33.72,
+   "text": "show you what I've been working on just so people think I'm not lying."
+  },
+  {
+   "start": 33.72,
+   "end": 36.72,
+   "text": "Okay, so just in the last couple days and I'm gonna do more of it."
+  },
+  {
+   "start": 36.72,
+   "end": 38.72,
+   "text": "In the last couple days I did,"
+  },
+  {
+   "start": 38.72,
+   "end": 40.72,
+   "text": "the Doris Sikulous Historical Library."
+  },
+  {
+   "start": 40.72,
+   "end": 42.72,
+   "text": "Of course I did polybius history,"
+  },
+  {
+   "start": 42.72,
+   "end": 44.72,
+   "text": "I already had a man."
+  },
+  {
+   "start": 44.72,
+   "end": 46.72,
+   "text": "But I did amianis Marcella's history."
+  },
+  {
+   "start": 46.72,
+   "end": 48.72,
+   "text": "I did cast his dial history."
+  },
+  {
+   "start": 48.72,
+   "end": 50.72,
+   "text": "I did all of decline in fall."
+  },
+  {
+   "start": 50.72,
+   "end": 52.72,
+   "text": "I did utropius Roman history,"
+  },
+  {
+   "start": 52.72,
+   "end": 54.72,
+   "text": "friend Tainus Aqueducts,"
+  },
+  {
+   "start": 54.72,
+   "end": 55.72,
+   "text": "Gothic history was already there."
+  },
+  {
+   "start": 55.72,
+   "end": 57.72,
+   "text": "Herodian history of Rome."
+  },
+  {
+   "start": 58.72,
+   "end": 61.72,
+   "text": "I did herodicis was already there."
+  },
+  {
+   "start": 61.72,
+   "end": 62.72,
+   "text": "I already there."
+  },
+  {
+   "start": 62.72,
+   "end": 64.72,
+   "text": "I was, because the visions were there."
+  },
+  {
+   "start": 64.72,
+   "end": 66.72,
+   "text": "I did Joseph and Tiquities of Jews."
+  },
+  {
+   "start": 66.72,
+   "end": 68.72,
+   "text": "I did Josephus Jewish war."
+  },
+  {
+   "start": 68.72,
+   "end": 69.72,
+   "text": "I did Jewish, Jewish, Jewish,"
+  },
+  {
+   "start": 69.72,
+   "end": 70.72,
+   "text": "These are African war,"
+  },
+  {
+   "start": 70.72,
+   "end": 71.72,
+   "text": "Jesus, these are Alexandria and War."
+  },
+  {
+   "start": 71.72,
+   "end": 73.72,
+   "text": "Jewelies, these are Civil War,"
+  },
+  {
+   "start": 73.72,
+   "end": 74.72,
+   "text": "Jewelies, these are Galic war,"
+  },
+  {
+   "start": 74.72,
+   "end": 75.72,
+   "text": "Jewelies, these are Spanish war."
+  },
+  {
+   "start": 75.72,
+   "end": 76.72,
+   "text": "Well,"
+  },
+  {
+   "start": 76.72,
+   "end": 77.72,
+   "text": "Olivia was already there."
+  },
+  {
+   "start": 77.72,
+   "end": 83.72,
+   "text": "I did new testemines there."
+  },
+  {
+   "start": 83.72,
+   "end": 84.72,
+   "text": "Marcella's was there."
+  },
+  {
+   "start": 84.72,
+   "end": 85.72,
+   "text": "Marcella's was there."
+  },
+  {
+   "start": 85.72,
+   "end": 86.72,
+   "text": "Audisseries there."
+  },
+  {
+   "start": 86.72,
+   "end": 87.72,
+   "text": "Old testemines there."
+  },
+  {
+   "start": 87.72,
+   "end": 90.72,
+   "text": "I did renatus Roman military institutions."
+  },
+  {
+   "start": 90.72,
+   "end": 92.72,
+   "text": "Salas, Cataline conspiracy."
+  },
+  {
+   "start": 92.72,
+   "end": 93.72,
+   "text": "Salas, Degirthine war."
+  },
+  {
+   "start": 93.72,
+   "end": 95.72,
+   "text": "St. Augustine, Christian doctrine."
+  },
+  {
+   "start": 95.72,
+   "end": 96.72,
+   "text": "St. Augustine city of God."
+  },
+  {
+   "start": 96.72,
+   "end": 98.72,
+   "text": "St. Augustine confessions."
+  },
+  {
+   "start": 98.72,
+   "end": 99.72,
+   "text": "Strabble geography."
+  },
+  {
+   "start": 99.72,
+   "end": 100.72,
+   "text": "Tasset is Egocola."
+  },
+  {
+   "start": 100.72,
+   "end": 102.72,
+   "text": "Tasset is Annals Tasset is Germany."
+  },
+  {
+   "start": 102.72,
+   "end": 104.72,
+   "text": "Tasset is history."
+  },
+  {
+   "start": 104.72,
+   "end": 107.72,
+   "text": "Through cities, Peloponies and War."
+  },
+  {
+   "start": 107.72,
+   "end": 108.72,
+   "text": "I did to Mayus."
+  },
+  {
+   "start": 108.72,
+   "end": 110.72,
+   "text": "And then the truvius architecture."
+  },
+  {
+   "start": 110.72,
+   "end": 112.72,
+   "text": "Right now I'm doing."
+  },
+  {
+   "start": 113.72,
+   "end": 114.72,
+   "text": "I'm doing."
+  },
+  {
+   "start": 114.72,
+   "end": 117.72,
+   "text": "I'm finishing up St. Augustine confessions."
+  },
+  {
+   "start": 117.72,
+   "end": 119.72,
+   "text": "And after this I'm going to do."
+  },
+  {
+   "start": 119.72,
+   "end": 122.72,
+   "text": "I might do etched run from St. Augustine and then I'll do."
+  },
+  {
+   "start": 122.72,
+   "end": 125.72,
+   "text": "Audit by biography of like Constantine."
+  },
+  {
+   "start": 125.72,
+   "end": 127.72,
+   "text": "I'm going to do everything within the Roman Empire."
+  },
+  {
+   "start": 127.72,
+   "end": 128.72,
+   "text": "So."
+  },
+  {
+   "start": 128.72,
+   "end": 131.72,
+   "text": "But I'm just gathering the body now."
+  },
+  {
+   "start": 131.72,
+   "end": 134.72,
+   "text": "Then I have to attach the menu when I'm done."
+  },
+  {
+   "start": 134.72,
+   "end": 135.72,
+   "text": "But that will be very long."
+  },
+  {
+   "start": 135.72,
+   "end": 136.72,
+   "text": "Hold it."
+  },
+  {
+   "start": 136.72,
+   "end": 138.72,
+   "text": "We'll take a little bit of time."
+  },
+  {
+   "start": 138.72,
+   "end": 141.72,
+   "text": "When on the ones like see you've got."
+  },
+  {
+   "start": 141.72,
+   "end": 143.72,
+   "text": "And."
+  },
+  {
+   "start": 143.72,
+   "end": 148.72,
+   "text": "Confessions or not means city of God and some of those other ones where."
+  },
+  {
+   "start": 148.72,
+   "end": 153.72,
+   "text": "The title, the chapters have titles because I want to attach the titles to the chapters when I can."
+  },
+  {
+   "start": 153.72,
+   "end": 155.72,
+   "text": "Of them in the menu section, but that takes time."
+  },
+  {
+   "start": 155.72,
+   "end": 157.72,
+   "text": "It's not just a single kind of pace."
+  },
+  {
+   "start": 157.72,
+   "end": 159.72,
+   "text": "You have to do each one."
+  },
+  {
+   "start": 159.72,
+   "end": 160.72,
+   "text": "So."
+  },
+  {
+   "start": 160.72,
+   "end": 162.72,
+   "text": "Well, but anyway, I don't know how long this will take."
+  },
+  {
+   "start": 162.72,
+   "end": 165.72,
+   "text": "But yeah, and then we're going to do."
+  },
+  {
+   "start": 165.72,
+   "end": 168.72,
+   "text": "Another history of the."
+  },
+  {
+   "start": 168.72,
+   "end": 171.72,
+   "text": "And then, oh, yeah, then all of the Romans man, I'll be fired up for the Romans."
+  },
+  {
+   "start": 171.72,
+   "end": 174.72,
+   "text": "Just a row to come in a trying to also sort of once."
+  },
+  {
+   "start": 174.72,
+   "end": 176.72,
+   "text": "So you're doing it up."
+  },
+  {
+   "start": 176.72,
+   "end": 177.72,
+   "text": "It was raining today."
+  },
+  {
+   "start": 177.72,
+   "end": 178.72,
+   "text": "So."
+  },
+  {
+   "start": 178.72,
+   "end": 182.22,
+   "text": "Oh, it's raining right now."
+  },
+  {
+   "start": 182.22,
+   "end": 183.22,
+   "text": "So it's nice."
+  },
+  {
+   "start": 183.22,
+   "end": 185.22,
+   "text": "Feels peaceful."
+  },
+  {
+   "start": 185.22,
+   "end": 188.22,
+   "text": "And I'm listening to."
+  },
+  {
+   "start": 188.22,
+   "end": 190.22,
+   "text": "Oh, my listening to."
+  },
+  {
+   "start": 190.22,
+   "end": 192.22,
+   "text": "I'm listening to books that I'm not."
+  },
+  {
+   "start": 192.22,
+   "end": 195.22,
+   "text": "Carping from my website just so that."
+  },
+  {
+   "start": 195.22,
+   "end": 198.22,
+   "text": "I can decide if I want to come to my website or just."
+  },
+  {
+   "start": 198.22,
+   "end": 201.22,
+   "text": "You know, because I know I can read the other ones that are covering my website."
+  },
+  {
+   "start": 201.22,
+   "end": 205.22,
+   "text": "Off of my website, you know, I mean, I'll just wait to read those."
+  },
+  {
+   "start": 205.22,
+   "end": 206.22,
+   "text": "And I'm done."
+  },
+  {
+   "start": 206.22,
+   "end": 209.22,
+   "text": "But I'm doing one book's Adams theory social revolutions."
+  },
+  {
+   "start": 209.22,
+   "end": 211.22,
+   "text": "I."
+  },
+  {
+   "start": 211.22,
+   "end": 214.22,
+   "text": "I've read it books Adams and other book, but I can't remember what it's called."
+  },
+  {
+   "start": 214.22,
+   "end": 215.22,
+   "text": "But yeah, I do it."
+  },
+  {
+   "start": 215.22,
+   "end": 216.22,
+   "text": "I'm going to get going on."
+  },
+  {
+   "start": 216.22,
+   "end": 218.22,
+   "text": "I'm going to run on stuff anyways."
+  },
+  {
+   "start": 218.22,
+   "end": 220.22,
+   "text": "Did I talk a long enough?"
+  },
+  {
+   "start": 220.22,
+   "end": 221.22,
+   "text": "You have three four days."
+  },
+  {
+   "start": 221.22,
+   "end": 223.22,
+   "text": "I think that's a long piece."
+  },
+  {
+   "start": 223.22,
+   "end": 225.22,
+   "text": "I'll talk to tomorrow."
+  }
+ ]
+}

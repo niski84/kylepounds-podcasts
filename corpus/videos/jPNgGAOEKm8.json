@@ -1,0 +1,186 @@
+{
+ "youtube_id": "jPNgGAOEKm8",
+ "title": "Living in Boulder Vlog 3-20-2016",
+ "url": "https://youtu.be/jPNgGAOEKm8",
+ "published_at": "2016-03-21",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder while high, recounting a frustrating multi-day ordeal with a malfunctioning computer requiring repeated store visits and a system reinstall. He also mentions working on his website, recording audiobooks via Kindle and QuickTime, and preparing bike race videos for an upcoming Race Across America event.",
+  "speaker": "kyle",
+  "topics": [
+   "computer problems",
+   "tech frustration",
+   "audiobooks",
+   "Kindle recording",
+   "website work",
+   "bike racing",
+   "iCloud backup"
+  ],
+  "stances": [
+   {
+    "topic": "iCloud auto-save",
+    "position": "appreciates that it saved his audiobook recordings even after losing the computer"
+   },
+   {
+    "topic": "listening to audiobooks via recording",
+    "position": "enjoys recording and collecting them this way"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Race Across America",
+   "Kindle",
+   "QuickTime",
+   "iCloud"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 9.0,
+   "text": "Hello, living in Boulder V-log. What day is it? I can't, I don't know. I'm pretty high right now."
+  },
+  {
+   "start": 12.32,
+   "end": 20.06,
+   "text": "So today I got up kind of late. Oh yeah, just in time for my computer appointment at 12."
+  },
+  {
+   "start": 22.23,
+   "end": 28.41,
+   "text": "And we did a bunch of tests and then we were going to do a special, oh yeah, a special,"
+  },
+  {
+   "start": 28.41,
+   "end": 37.05,
+   "text": "Because my computer wasn't working. Yeah, yesterday, sorry, I kind of jumped in halfway"
+  },
+  {
+   "start": 37.05,
+   "end": 44.53,
+   "text": "Through the story. Yeah, so yesterday I was working on my computer and like whenever I"
+  },
+  {
+   "start": 44.53,
+   "end": 51.65,
+   "text": "Tried to save a file on Dreamweaver, it just crashed Dreamweaver. So I took it into the"
+  },
+  {
+   "start": 51.65,
+   "end": 63.86,
+   "text": "Computer store and I, yeah, we did a bunch of things. We did the third kind of a system"
+  },
+  {
+   "start": 63.86,
+   "end": 71.64,
+   "text": "Reinstall where you kind of, you delete everything out of the three different kinds of operating"
+  },
+  {
+   "start": 71.64,
+   "end": 78.34,
+   "text": "System installs. And so I brought it back, but then I couldn't, it wouldn't detect my external."
+  },
+  {
+   "start": 78.34,
+   "end": 85.38,
+   "text": "So I took it back to the store and it was behaving fine. So then we set an appointment"
+  },
+  {
+   "start": 85.38,
+   "end": 90.12,
+   "text": "To bring it tomorrow with my external. And I brought it back today and it's all fucked."
+  },
+  {
+   "start": 90.42,
+   "end": 95.74,
+   "text": "Like I can't do anything with it. Um, and then it's reboot. It's back to the basic program."
+  },
+  {
+   "start": 95.86,
+   "end": 103.9,
+   "text": "So I can't record anything. I can't record myself on my Mac. So I'm using my other computer and, uh,"
+  },
+  {
+   "start": 103.9,
+   "end": 107.72,
+   "text": "Take it in, take them back in the store. Hopefully it can get fixed. But the guy said he'll help me"
+  },
+  {
+   "start": 107.72,
+   "end": 120.97,
+   "text": "Get it fixed. So let's see. Yeah. So today I was working on my website. Recently I just started,"
+  },
+  {
+   "start": 120.97,
+   "end": 128.93,
+   "text": "Um, working on kind of backing up. So, but I was working on, uh, lists. I, I made a mistake and"
+  },
+  {
+   "start": 128.93,
+   "end": 135.35,
+   "text": "Forgot to, uh, prepare them with all the little, you know, stuff in the proper places. So I had to"
+  },
+  {
+   "start": 135.35,
+   "end": 141.87,
+   "text": "Put them in by themselves. Um, and I can't, um, record my book anymore. I was, over the last"
+  },
+  {
+   "start": 141.87,
+   "end": 147.21,
+   "text": "Couple of days I was, I don't know if I'd talk about this. I've been recording my, uh, um,"
+  },
+  {
+   "start": 147.21,
+   "end": 156.11,
+   "text": "Audio books on, uh, Kindle. Um, and that's fun. Oh, and when they record from the program from,"
+  },
+  {
+   "start": 156.11,
+   "end": 165.89,
+   "text": "Um, what is it? Quicktime? It saves to iCloud. So even though I lost my computer, um, like I lost"
+  },
+  {
+   "start": 165.89,
+   "end": 171.49,
+   "text": "Like a whole bunch of videos that I've been saving. I think I forgot when I did the install. I forgot"
+  },
+  {
+   "start": 171.49,
+   "end": 176.73,
+   "text": "That I had those. I thought that I had everything, these bike race videos, because I'm going to watch"
+  },
+  {
+   "start": 176.73,
+   "end": 183.27,
+   "text": "Them when I do the race across America next couple of weeks. Um, but, uh, yeah, but my, all of my"
+  },
+  {
+   "start": 183.27,
+   "end": 189.85,
+   "text": "Other videos, um, that I recorded from the books didn't get lost, even, even if you lost the"
+  },
+  {
+   "start": 189.85,
+   "end": 198.01,
+   "text": "Computer because it saves on the internet. That's pretty cool. Um, so, uh, yeah, and I love listening"
+  },
+  {
+   "start": 198.01,
+   "end": 206.51,
+   "text": "To books that way because I know that I'm, uh, you know, collecting them for the MP3. I have, I've been"
+  },
+  {
+   "start": 206.51,
+   "end": 211.39,
+   "text": "Listening to, like, History of America on the, on my cell phone, but, um, because my cell phone has"
+  },
+  {
+   "start": 211.39,
+   "end": 219.13,
+   "text": "A 128 gigabyte card. It can't, um, play anything through, like it, on this program."
+  }
+ ]
+}

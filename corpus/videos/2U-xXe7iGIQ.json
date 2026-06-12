@@ -1,0 +1,796 @@
+{
+ "youtube_id": "2U-xXe7iGIQ",
+ "title": "Living in Boulder Vlog 10 -  2 -  2018: US Law Code still",
+ "url": "https://youtu.be/2U-xXe7iGIQ",
+ "published_at": "2018-10-02",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle describes his week-long project of building the entire US Law Code onto his history book website in a scrollable, text-to-speech-friendly format, explaining his incremental methodology for tackling its 53 titles. He shares his motivations — building 'street cred' after being demonetized by Google, wanting to be the only person offering the law code in this accessible format — and riffs on his mom's skepticism, his fiance's estimate of how long it will take, and future plans including economic Enlightenment books and a triathlon.",
+  "speaker": "kyle",
+  "topics": [
+   "US Law Code website project",
+   "history book website",
+   "street cred / demonetization",
+   "text-to-speech accessibility",
+   "reading and re-reading books",
+   "Federalist Papers",
+   "economic Enlightenment writers",
+   "anti-banking activism",
+   "computer hardware problems",
+   "future plans and projects"
+  ],
+  "stances": [
+   {
+    "topic": "US Law Code project",
+    "position": "worth doing; original because no one else offers it in a continuous scrollable/text-to-speech format"
+   },
+   {
+    "topic": "making money",
+    "position": "not a priority; focused on street cred since he's demonetized and independently covers basic living expenses"
+   },
+   {
+    "topic": "reading books multiple times",
+    "position": "books should be revisited; just knowing what's in a book is a huge knowledge gain even without memorization"
+   },
+   {
+    "topic": "his mom's skepticism",
+    "position": "dismisses it; actually wants nobody to care so he won't get poached or made redundant"
+   },
+   {
+    "topic": "bankers",
+    "position": "plans to publicly pressure bankers into redistributing wealth via a jersey-and-confrontation scheme"
+   },
+   {
+    "topic": "millennials vs baby boomers",
+    "position": "millennials are smarter than baby boomers"
+   }
+  ],
+  "entities": [
+   "Alexander Hamilton",
+   "James Madison",
+   "John Jay",
+   "Cornell Law",
+   "Jeff Bezos",
+   "John Locke",
+   "John Stuart Mill",
+   "Adam Smith (Wealth of Nations implied)",
+   "Kyle's fiance",
+   "Kyle's mom",
+   "Apple iPhone 10"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.05,
+   "end": 25.05,
+   "text": "Hello. Welcome to Living in Boulder, V-Log. For the day of the second of October 2018, I did a video on the 22nd of September. So it's been like a week."
+  },
+  {
+   "start": 25.05,
+   "end": 27.05,
+   "text": "That's what YouTube says."
+  },
+  {
+   "start": 27.05,
+   "end": 40.05,
+   "text": "I, um, I, uh, and so, yeah, last week, I actually did the video, it was only like two days after the video before, because I suddenly had a, um,"
+  },
+  {
+   "start": 40.05,
+   "end": 53.05,
+   "text": "and a piffy that I had to put the US law code on my website under the history book section, because I got like, super,"
+  },
+  {
+   "start": 53.05,
+   "end": 64.49,
+   "text": "obsessed with Rome. So I put all the ancient Romans and Greek books up and knowing that trying to artificially make myself,"
+  },
+  {
+   "start": 64.49,
+   "end": 70.49,
+   "text": "obsessed with Rome, because I knew that the country that I was really going to be obsessed with was my own country."
+  },
+  {
+   "start": 70.49,
+   "end": 79.49,
+   "text": "And so if I can stay off being obsessed with my country, that will increase the chances that I'm going to know about the other countries, like Rome."
+  },
+  {
+   "start": 79.49,
+   "end": 85.49,
+   "text": "So, but now I'm like, well, I'm like willing to my country. So, because I put, I would have put the law code, but"
+  },
+  {
+   "start": 85.49,
+   "end": 96.49,
+   "text": "I think that the law code has a reputation of having 23,000 words in it. I mean, pages."
+  },
+  {
+   "start": 96.49,
+   "end": 107.49,
+   "text": "It's just freaking huge. It's like Bible testament and two new testament together is like 3,000. Okay. So you're talking, make in the Bible testament Bible little little."
+  },
+  {
+   "start": 107.49,
+   "end": 117.49,
+   "text": "And so, and I know the tax code has a reputation of having 74,000 pages. I don't know how that's possible if the tax code is inside of the law code."
+  },
+  {
+   "start": 117.49,
+   "end": 135.49,
+   "text": "Unless they're talking about a child's car, whoo, fancy fully comprehensive tax code, but, um, so that's what I've been doing the last week. I started a week ago, and so I've been doing, I've been having problems with the computer freezing on me right now."
+  },
+  {
+   "start": 135.49,
+   "end": 143.49,
+   "text": "My computer actually is frozen on me. It started spinning around so that I broke title 42."
+  },
+  {
+   "start": 143.49,
+   "end": 162.74,
+   "text": "It's like agriculture, something has like 198 chapters in its way, so we're broken up into four pit pieces of 50, but it was just spinning around. So I turned the computer around. So I wouldn't have to look at it."
+  },
+  {
+   "start": 162.74,
+   "end": 172.74,
+   "text": "And I just started working on my other computer. I just moved what do you call it? Airplay or whatever screen share, whatever screenplay."
+  },
+  {
+   "start": 172.74,
+   "end": 189.3,
+   "text": "From the other computer to this other computer. So it's the same for me. I just work on my bank screen to the 70 and so I've been doing that for a week."
+  },
+  {
+   "start": 189.3,
+   "end": 197.3,
+   "text": "But the law code, the US law code is so big that I can't just build it all at once, you know, because I can only have a certain..."
+  },
+  {
+   "start": 201.3,
+   "end": 211.3,
+   "text": "My endurance is such that I can only work a certain period of time, maybe a month or a little bit more or whatever, before I burn out on something."
+  },
+  {
+   "start": 211.3,
+   "end": 227.3,
+   "text": "And so I can't do the entire law code before I burn out. So I'm going to have to kind of break it up into bits and so the bits I break it up into are the all of the books of America. I spent time off the other day."
+  },
+  {
+   "start": 227.3,
+   "end": 247.3,
+   "text": "Ah, I built the federal papers, the federalist papers by Alexander Hamilton, James Madison and John Jay."
+  },
+  {
+   "start": 247.3,
+   "end": 261.3,
+   "text": "And they're all backing up the constitution and their sighting ancient Rome and it's just fascinating, you know, these guys."
+  },
+  {
+   "start": 261.3,
+   "end": 271.3,
+   "text": "Probably the best politicians ever because they were the ones charged with writing a constitution, strip you think we follow the same thing to an or 50 years later."
+  },
+  {
+   "start": 272.3,
+   "end": 285.3,
+   "text": "So they were very well educated. They had all of the middle ages and Roman Empire and to draw on, you know, it's happened at the same time as a French Revolution."
+  },
+  {
+   "start": 285.3,
+   "end": 307.3,
+   "text": "So yeah, but then I went to put on the anti-federalist papers. So the way that I'm doing the law code it has 54. Well, 53 years will be in for some reason. So it has 53 different decolum titles like books."
+  },
+  {
+   "start": 307.3,
+   "end": 336.3,
+   "text": "And some of them are bigger than the others. I built the first, the first one wasn't so big was the introduction, not the second one was big. It took me a couple days and then and then I kind of got bored with building it start to finish and this wouldn't start to finish. It's just filling it up and then putting it on, you know, but it making sure the links are good, but yeah totally polishing it, making sure that they're right funds are titled."
+  },
+  {
+   "start": 337.3,
+   "end": 365.99,
+   "text": "So I'm working on that and I just was much more fun with that for like a week and I, I, I, I should last night turn off that. So yeah. And so, oh yeah, how I was working on it. So I did the first and second all the way through completely then I got bored."
+  },
+  {
+   "start": 365.99,
+   "end": 369.99,
+   "text": "So I just went all the way to 50 by doing the next level because there's lots of different levels."
+  },
+  {
+   "start": 370.99,
+   "end": 382.99,
+   "text": "tables within tables, chapters within chapters and so I went level one down. You know, like I did the title, I said to the title once and then I."
+  },
+  {
+   "start": 383.99,
+   "end": 394.99,
+   "text": "And then I, but then I went down again and I did a one level in from the title of all of the chapters inside the will the call it titles, but books."
+  },
+  {
+   "start": 394.99,
+   "end": 403.99,
+   "text": "And then so then I went down to 50 and four and then I'm coming back down to one doing three so it's three lepton numbers before you get to the name name."
+  },
+  {
+   "start": 404.99,
+   "end": 413.99,
+   "text": "So it's one and two and then three and then when I get to the bottom, I'll come back again and do four and it should probably be the most time consuming and then finish up some of the smaller ones."
+  },
+  {
+   "start": 414.99,
+   "end": 415.99,
+   "text": "So,"
+  },
+  {
+   "start": 416.99,
+   "end": 419.99,
+   "text": "as far as I can tell, I am,"
+  },
+  {
+   "start": 421.99,
+   "end": 423.99,
+   "text": "on track,"
+  },
+  {
+   "start": 426.4,
+   "end": 431.4,
+   "text": "it's like impossible to know how long it's going to take all I know is that I can do it."
+  },
+  {
+   "start": 431.4,
+   "end": 432.4,
+   "text": "I just know that I can do that."
+  },
+  {
+   "start": 433.4,
+   "end": 436.4,
+   "text": "Let me explain why I'm doing it. I'm doing it because,"
+  },
+  {
+   "start": 438.4,
+   "end": 445.4,
+   "text": "well, I want to get my street cred. I'm working on scoring up street cred. I can't score money cred because I got,"
+  },
+  {
+   "start": 447.4,
+   "end": 452.4,
+   "text": "I got demonetized from Google and I don't have the time to try to do ads from other other means."
+  },
+  {
+   "start": 453.4,
+   "end": 455.4,
+   "text": "So I don't make any money."
+  },
+  {
+   "start": 455.4,
+   "end": 464.4,
+   "text": "Luckily, I'm independently wealthy enough so to survive on like beans and rice which keeps me on my toes."
+  },
+  {
+   "start": 467.4,
+   "end": 471.16,
+   "text": "And so,"
+  },
+  {
+   "start": 472.16,
+   "end": 474.16,
+   "text": "I'm busted in my ball,"
+  },
+  {
+   "start": 475.16,
+   "end": 478.16,
+   "text": "I got demonetized from my street cred. I got really high before I did this."
+  },
+  {
+   "start": 479.16,
+   "end": 483.16,
+   "text": "So, I need, oh yeah, why I'm doing it?"
+  },
+  {
+   "start": 484.16,
+   "end": 490.16,
+   "text": "Because I know I can finish it and I'm trying to score street cred because I can't make money."
+  },
+  {
+   "start": 491.16,
+   "end": 496.16,
+   "text": "And if you want to change the world, there's lots of different ways to do it. You don't need money."
+  },
+  {
+   "start": 497.16,
+   "end": 499.16,
+   "text": "So, I'm going to score my street cred."
+  },
+  {
+   "start": 500.16,
+   "end": 512.16,
+   "text": "Basically, four to five my conscience, my attitude to have about myself to make myself kind of like a ruthless, Wolverine monster,"
+  },
+  {
+   "start": 513.16,
+   "end": 517.16,
+   "text": "and just a little bit of a sling, destroyer, assassin, hashassan."
+  },
+  {
+   "start": 518.16,
+   "end": 523.16,
+   "text": "I just work in my house so many years that I just get super pissed off at the whole world."
+  },
+  {
+   "start": 524.16,
+   "end": 528.16,
+   "text": "And at that point when I pop out, I'm like, yo, look at my mother fucking website, bitch,"
+  },
+  {
+   "start": 529.16,
+   "end": 533.16,
+   "text": "and so I'll go out. I could burn a hole right through anybody."
+  },
+  {
+   "start": 534.16,
+   "end": 538.16,
+   "text": "I just, I put my attention onto, you know, like I'm a god's representative on earth."
+  },
+  {
+   "start": 538.16,
+   "end": 546.16,
+   "text": "And so the people who I'm going to go after are going to be the bankers."
+  },
+  {
+   "start": 547.16,
+   "end": 558.16,
+   "text": "For a little bit, I thought maybe I would put bezos and, and the co-prethers of my jersey, but now I'm going to make sure to put bankers."
+  },
+  {
+   "start": 558.16,
+   "end": 566.16,
+   "text": "I'm going to put my new chin on my jersey and I'm going to tell him that he has to give me my 50,000 bucks."
+  },
+  {
+   "start": 567.16,
+   "end": 569.16,
+   "text": "And then I'm going to make other jerseys with other bankers."
+  },
+  {
+   "start": 570.16,
+   "end": 574.16,
+   "text": "And I'm going to give all the jerseys, tell the other bikers and bulldozer, I'm going to tell him that they have to wear the jersey."
+  },
+  {
+   "start": 575.16,
+   "end": 580.16,
+   "text": "And then they have to tell whatever bankers on their jersey that that banker has to give them 50,000 bucks a year."
+  },
+  {
+   "start": 581.16,
+   "end": 587.16,
+   "text": "And so that's how you, uh, takes the world baby without having to worry about money."
+  },
+  {
+   "start": 588.16,
+   "end": 592.16,
+   "text": "For people who, uh, like if I had money, there's things I could do."
+  },
+  {
+   "start": 593.16,
+   "end": 602.16,
+   "text": "But I'm not worried about that. I do want to buy a, uh, I would be a triathlete as soon as I get around to it. And I want to buy a eternity pool, their 10,000 bucks."
+  },
+  {
+   "start": 603.16,
+   "end": 605.16,
+   "text": "I think they're, hmm."
+  },
+  {
+   "start": 606.16,
+   "end": 611.16,
+   "text": "Hey, I think there's room for it next to my apartment complex pool."
+  },
+  {
+   "start": 612.16,
+   "end": 617.16,
+   "text": "Community pool. There's this big asphalt area next to it. So just pop that mentioned there."
+  },
+  {
+   "start": 617.16,
+   "end": 628.16,
+   "text": "I'll be fine, but I'm going to do that in two and a half years because I have 10 projects 30, three months, age 10 times 30, 10 times 30, 10 times 30, which is 2 and a half years."
+  },
+  {
+   "start": 630.16,
+   "end": 636.16,
+   "text": "So, but yeah, let me explain why I'm doing the lockup, apart from street cred."
+  },
+  {
+   "start": 637.16,
+   "end": 640.16,
+   "text": "Oh yeah, well, why would you get street cred if I do in Larket Lockout?"
+  },
+  {
+   "start": 641.16,
+   "end": 653.16,
+   "text": "Because a lot, well, number one, it's original. Nobody else does it. I haven't actually looked on Harvard, lost, lost, lost, lost website, because I guess there was a law school of America, but I know that the Cornell has it."
+  },
+  {
+   "start": 656.16,
+   "end": 661.16,
+   "text": "That's the one that I'm using right now, but the government has it."
+  },
+  {
+   "start": 662.16,
+   "end": 675.16,
+   "text": "And, but the government's version and Cornell's version are exactly the same. They haven't broken up into different pictures. So I think there's like 5,000 or 15,000 laws in it."
+  },
+  {
+   "start": 676.16,
+   "end": 680.16,
+   "text": "And each law has its own page and that makes it impossible to scroll read."
+  },
+  {
+   "start": 680.16,
+   "end": 693.16,
+   "text": "Where you can just control A or scroll it out and have it read to cell phones these days do it. My Apple iPhone 10 does it. Just text to speech, just like your computer, you just highlight and scroll it."
+  },
+  {
+   "start": 694.16,
+   "end": 704.16,
+   "text": "Hold it with one finger, scroll it on the other and it reads, or you could do natural reader or you know read it off your computer. So once I've done with my"
+  },
+  {
+   "start": 704.16,
+   "end": 709.16,
+   "text": "I've done with my Google account, you guys law code."
+  },
+  {
+   "start": 710.16,
+   "end": 728.16,
+   "text": "I'm going to be the only person in the whole world who has the US law code where you can have it read to you all the way through, scroll it and maybe even the whole thing. You know, you can sit there all day long and have it read to you."
+  },
+  {
+   "start": 728.16,
+   "end": 736.16,
+   "text": "The computer usually starts warbling after an hour. So you don't want to have it select more than an hour of text because it'll just start going on a problem."
+  },
+  {
+   "start": 737.16,
+   "end": 743.16,
+   "text": "And then you'll have to find where you are. But, but yeah,"
+  },
+  {
+   "start": 744.16,
+   "end": 752.16,
+   "text": "Oh, that's my turn in thought again. Maybe it's kind of tired. It's like four in the morning and I'm going to go to sleep right after I do this. I got a little bit groggy."
+  },
+  {
+   "start": 752.16,
+   "end": 762.16,
+   "text": "So yeah, that's why I'm doing it. That's why it's original. It needs to be done."
+  },
+  {
+   "start": 763.16,
+   "end": 774.16,
+   "text": "A lot of people would be like, well, why do you have the lock out on your website because nobody cares? It's like boring information. Nobody would read through it. But it's interesting stuff to look at."
+  },
+  {
+   "start": 775.16,
+   "end": 781.16,
+   "text": "And it's something good to zone out on like if you're on a long ride and you want to listen to something just listen to the lock out power through it."
+  },
+  {
+   "start": 781.16,
+   "end": 787.16,
+   "text": "Take you forever, but they don't know what's in the lock out. You want to know it's in it. I mean, there's different."
+  },
+  {
+   "start": 788.16,
+   "end": 798.16,
+   "text": "You should expect different results from different times you read a book. You know, we need to change it. I'll say this before we need to change it. So we look at books as things you memorize and not think she just read once."
+  },
+  {
+   "start": 798.16,
+   "end": 809.16,
+   "text": "So if you read a book, would you read the book the first time you know what's in it? And that's a huge thing because then you know what you want to go back to."
+  },
+  {
+   "start": 810.16,
+   "end": 813.16,
+   "text": "If you ever become interested in something you know where it is, you know, like somewhere in the spot."
+  },
+  {
+   "start": 814.16,
+   "end": 821.16,
+   "text": "Same thing with the lock out. If you listen to the whole lock out, you're going to know it's in the law. And that's a huge explosion in your knowledge just to know what's in there."
+  },
+  {
+   "start": 821.16,
+   "end": 834.16,
+   "text": "So because there's all kinds of stuff I didn't think of that's in there. So, um, and so that's why I'm doing it. It's super time consuming because it's big."
+  },
+  {
+   "start": 835.16,
+   "end": 849.16,
+   "text": "And you know, it takes over that it's fucked up the computer like if my computer is crashed when I get up tomorrow after having given it 14 hours to think I'll just have to break it up into six different bits. You know, you just keep breaking it up."
+  },
+  {
+   "start": 849.16,
+   "end": 866.16,
+   "text": "The problem is I think it's like corrupted or something because this page is obviously huge title 42 of the lock out completed, but there was actually broken up into like four different pages and the first one that said it was really big, but it said it was only 600 kilobytes."
+  },
+  {
+   "start": 867.16,
+   "end": 872.16,
+   "text": "And so even before I had to break it up, so the computer thinks it's smaller than it really is."
+  },
+  {
+   "start": 872.16,
+   "end": 877.16,
+   "text": "And but it also treats it like it's huge. Huge. Hugeer than it actually is."
+  },
+  {
+   "start": 878.16,
+   "end": 886.16,
+   "text": "Because this page is not that big. It was only 50 tables. I mean, there's a lot. I have tons of books that are way bigger than that. And I restarted the computer."
+  },
+  {
+   "start": 887.16,
+   "end": 899.16,
+   "text": "So maybe I'm going to get in and maybe do like a performance thing for Mac. I just thought of that right now. That's my new computer. So so anyway, I started doing the smaller ones with this computer."
+  },
+  {
+   "start": 899.16,
+   "end": 903.16,
+   "text": "So how long have I been talking? I want to talk to you."
+  },
+  {
+   "start": 904.16,
+   "end": 920.16,
+   "text": "Oh, 1507. That's what I'm going to get my glasses on. Okay, so that's I waited a week. I'm pretty much on schedule as far as I can tell."
+  },
+  {
+   "start": 920.16,
+   "end": 937.16,
+   "text": "The way that it works with me is when I start a project for the first week, it kind of seems like I'm just starting out with it. So it doesn't really matter. You know, how far I am through or not, because I'm not really paying attention because it still seems like I just started."
+  },
+  {
+   "start": 938.16,
+   "end": 945.16,
+   "text": "When I do this video in another week or two, that's when I'm going to have more of understanding of how far I actually am through the book and"
+  },
+  {
+   "start": 945.16,
+   "end": 955.16,
+   "text": "I also have a clearer idea of how much longer I think I can go on it. Because it'll, if it's one more week, it would have been two weeks I've working on this."
+  },
+  {
+   "start": 958.16,
+   "end": 970.16,
+   "text": "So yeah, after I do this, I want to do like the articles of Confederation and then I also think I want to do not just all of the books of America, but I think I want to do all of the books from like economic enlightenment."
+  },
+  {
+   "start": 970.16,
+   "end": 992.16,
+   "text": "If you're up like the 1600 European, I mean English economic writers like wealth of nations and like John Locke and Stuart Mill and all these guys put their books on there because I want to remember I want to memorize their stuff."
+  },
+  {
+   "start": 992.16,
+   "end": 1000.16,
+   "text": "There's a lot of material from those days, so I'll just, you know, keep it to them. You can not excited things."
+  },
+  {
+   "start": 1001.16,
+   "end": 1008.16,
+   "text": "But then eventually, obviously I really want to work on. I want to finish Googler thing bolder."
+  },
+  {
+   "start": 1009.16,
+   "end": 1012.16,
+   "text": "Googler thing Rome, Googler thing bolder room."
+  },
+  {
+   "start": 1013.16,
+   "end": 1016.16,
+   "text": "The timeline, bike race or levels."
+  },
+  {
+   "start": 1017.16,
+   "end": 1023.78,
+   "text": "Other Googlers stuff."
+  },
+  {
+   "start": 1024.78,
+   "end": 1036.78,
+   "text": "So yeah, I've got to keep charging forward. I don't think I'm going to sit this time through addition because it sounds good enough without it and I'm just too lazy."
+  },
+  {
+   "start": 1037.78,
+   "end": 1041.78,
+   "text": "And it wasn't working last time anyway, and I don't feel like getting confused by anything."
+  },
+  {
+   "start": 1042.78,
+   "end": 1052.78,
+   "text": "So tomorrow whenever I get up, I'm going to go on these other ones, and I'll see if 42's done it. If it is, I'm just going to stick a fork in it for now."
+  },
+  {
+   "start": 1054.78,
+   "end": 1063.78,
+   "text": "Oh, yes, so it's good that I'm putting the lock-roader because it's the DNA of America. It's our mind. It's the mind of America."
+  },
+  {
+   "start": 1064.78,
+   "end": 1077.78,
+   "text": "It's all of our locker, it's our decisions and ideas about everything. If you can get your lock-roader, I'm going to have a link download on that page for people to download the lock-roader."
+  },
+  {
+   "start": 1077.78,
+   "end": 1084.78,
+   "text": "So it actually all my books, but the lock-roader on their computer. That way they can put it on their website and then they can edit the lock-roader for themselves."
+  },
+  {
+   "start": 1085.78,
+   "end": 1092.78,
+   "text": "I think the best way I want to do news with Kyle and it's going to be extremely dry. I'll just talk about bills that pass and stuff."
+  },
+  {
+   "start": 1093.78,
+   "end": 1106.78,
+   "text": "And then I'll include them. I have to update my lock-roader. I don't know, so I'll YouTube myself updating my lock-roader and make people interested in it so that other people can get used to the idea of"
+  },
+  {
+   "start": 1107.78,
+   "end": 1119.78,
+   "text": "the lock-roader. If they want to add the 20, what is it? 20, 28th Amendment, getting money out of politics, word it yourself. I mean, I hear that if they talk about it, but what's the exact wording?"
+  },
+  {
+   "start": 1120.78,
+   "end": 1133.78,
+   "text": "Or if you're on a amendment, you do the exact wording and just have the words and red and you can make yourself your own politician and use that as grounds to run for election and stuff or just street-clet."
+  },
+  {
+   "start": 1133.78,
+   "end": 1149.78,
+   "text": "Anyways, so yes, I don't know how long is it going to take, it could take three months. I was thinking of the way that I work. I'm certainly tired like I'm not. I can't think as well right now. It's good that I'm going to go to sleep soon."
+  },
+  {
+   "start": 1149.78,
+   "end": 1174.98,
+   "text": "I'll let's mention it if I'm the best way to, oh shit, I was going to say something really interesting too."
+  },
+  {
+   "start": 1174.98,
+   "end": 1183.51,
+   "text": "Just whatever, I guess that's it."
+  },
+  {
+   "start": 1183.51,
+   "end": 1200.51,
+   "text": "Yeah, so when I talk back, I'll just come back in two weeks, I'll be ready. I'll keep going. Oh yeah, I don't know how big the lock-roader is, but it's worth it."
+  },
+  {
+   "start": 1201.51,
+   "end": 1211.51,
+   "text": "So I just said to myself, how long is it worth it to you? How long could you work on it and it'd be worth it? I decided three months and that's maybe including doing a little bit of other work on the side like the other history books."
+  },
+  {
+   "start": 1212.51,
+   "end": 1218.51,
+   "text": "I just asked my fiance how long she thought it was worth it and she said nine months and so I was like, well okay."
+  },
+  {
+   "start": 1218.51,
+   "end": 1228.51,
+   "text": "I think I get it done before nine months. Her logic was, oh that's how long it would take a normal person and I think it's worth it for a normal person anyway, so nine months."
+  },
+  {
+   "start": 1229.51,
+   "end": 1232.51,
+   "text": "I get this bitch done in like three months, so it'll be worth it."
+  },
+  {
+   "start": 1233.51,
+   "end": 1247.51,
+   "text": "And then see the thing is one thing my mom sent something funny today. I told her that I told her last time I saw that I was putting the lock-roader up and she threw this royal nuclear charged hissy fit and kicked me out of the house."
+  },
+  {
+   "start": 1248.51,
+   "end": 1255.51,
+   "text": "I was never gonna get done with anything now and she was just doing the same thing today. I said I'm gonna really get fed."
+  },
+  {
+   "start": 1256.51,
+   "end": 1269.51,
+   "text": "Just lay a rail in into me saying she knows for sure that I'm never ever ever ever gonna finish anything and then it's totally useless and nobody gives a shit and I go exactly that's what I want. I want nobody to give a shit."
+  },
+  {
+   "start": 1269.51,
+   "end": 1278.51,
+   "text": "Because if people are somebody gave a shit that means somebody else is gonna write the goddamn lock-out and they're gonna look at their lock-out and not mine and it'll be like why the fuck did I do mine?"
+  },
+  {
+   "start": 1279.51,
+   "end": 1288.51,
+   "text": "So what I want, like in everything that I've been doing, bike race or levels, bike school, especially all kinds of stuff. I don't want anybody else to do it."
+  },
+  {
+   "start": 1288.51,
+   "end": 1298.51,
+   "text": "I'm sharing with the world but I'm happy that only 100 people watch my videos because if too many people watch their if some of my video website I could get poached."
+  },
+  {
+   "start": 1299.51,
+   "end": 1310.51,
+   "text": "So what I want to do is put the entire lock-out on my website and then figure out see this is where it gets fun. Figure out a way to get everybody else interested in the lock-out."
+  },
+  {
+   "start": 1310.51,
+   "end": 1320.51,
+   "text": "Because then you just take it to the next level. I'm not the kind of person who's like once I make the lock-out I'm gonna run out of ideas and sitting there twiddling my phone. What am I gonna do with my life now?"
+  },
+  {
+   "start": 1321.51,
+   "end": 1324.51,
+   "text": "Should I be a should I start training right in my bike now?"
+  },
+  {
+   "start": 1325.51,
+   "end": 1329.51,
+   "text": "As soon as I'm done with the lock-out, I'm there's gonna be some new idea to do that's how it works."
+  },
+  {
+   "start": 1329.51,
+   "end": 1336.51,
+   "text": "The thing is is that that new idea will be will want springboard off of my lock-out."
+  },
+  {
+   "start": 1337.51,
+   "end": 1344.51,
+   "text": "I'll have like I'll feel like the most creative dude ever and I'll have the biggest resources ever because I'll have a lock-out."
+  },
+  {
+   "start": 1345.51,
+   "end": 1354.51,
+   "text": "So as I feel like I'm the kind of person who will have an idea, nobody could have and it's an idea that'll work off of another idea that I had that nobody else will have."
+  },
+  {
+   "start": 1354.51,
+   "end": 1363.51,
+   "text": "Like I could make like creating your own lock-out. So and then other ideas too, you know, like you know they could put on their website and"
+  },
+  {
+   "start": 1364.51,
+   "end": 1379.51,
+   "text": "Or you read the what lock-out and so that's where you can continue with the creativity and finish and polish it and then people will be interested because you explain to them how they're gonna be interested."
+  },
+  {
+   "start": 1379.51,
+   "end": 1383.51,
+   "text": "And so that's so that's not answered in my mom."
+  },
+  {
+   "start": 1384.51,
+   "end": 1388.51,
+   "text": "I don't care if nobody cares. It's just because people are stupid people are getting smarter all the time anyway."
+  },
+  {
+   "start": 1389.51,
+   "end": 1392.51,
+   "text": "Like the millennials are so much smarter than the baby boomers."
+  },
+  {
+   "start": 1393.51,
+   "end": 1397.51,
+   "text": "Baby boomers were doing crazy shit like putting like butter on their bread."
+  },
+  {
+   "start": 1398.51,
+   "end": 1407.51,
+   "text": "Millennials put avocado on their bread and I could go on and on and on but I'm not going to because I've spoken for twenty to twenty minutes and twenty to seven seconds."
+  },
+  {
+   "start": 1407.51,
+   "end": 1409.51,
+   "text": "All right, peace out."
+  }
+ ]
+}

@@ -1,0 +1,557 @@
+{
+ "youtube_id": "SinHzve3bVQ",
+ "title": "Boulder, Co Vlog 4/10/18 Stretched & Errands",
+ "url": "https://youtu.be/SinHzve3bVQ",
+ "published_at": "2018-04-11",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder, CO on April 10, 2018, recapping a day of working on his website (linking audio chapters of Gibbon's Decline and Fall of the Roman Empire to bike training time trials), running errands (haircut, sleeping suit, watch repair), and a lengthy stretching session he's enthusiastic about. He also mentions a knee issue keeping him off the bike and plans to run and swim the next day.",
+  "speaker": "kyle",
+  "topics": [
+   "website work",
+   "cycling training",
+   "stretching routine",
+   "errands",
+   "knee injury",
+   "audiobooks",
+   "NASA/space videos"
+  ],
+  "stances": [
+   {
+    "topic": "stretching",
+    "position": "Highly beneficial — more bang for the buck than training alone; philosophy is squeezing muscles like wringing out a cloth to flush toxins"
+   },
+   {
+    "topic": "website project",
+    "position": "Fired up about linking Gibbon audiobook chapters to bike time trial durations, despite wasting half the day on a wrong approach"
+   },
+   {
+    "topic": "riding with a bad knee",
+    "position": "Should give it at least five days rest when the knee gets really bad"
+   }
+  ],
+  "entities": [
+   "Boulder CO",
+   "Edward Gibbon",
+   "Decline and Fall of the Roman Empire",
+   "Librivox (leerbox.com)",
+   "John Glenn",
+   "NASA",
+   "Iron Man watch"
+  ],
+  "date": "2018-04-10",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.14,
+   "end": 7.14,
+   "text": "Hello everyone, Bold, if you're log it's 11 35 pm on April 10th."
+  },
+  {
+   "start": 7.14,
+   "end": 12.14,
+   "text": "I got a haircut today."
+  },
+  {
+   "start": 12.14,
+   "end": 18.14,
+   "text": "So last night was kind of a rest day."
+  },
+  {
+   "start": 18.14,
+   "end": 22.14,
+   "text": "It was kind of tired, many hurt."
+  },
+  {
+   "start": 22.14,
+   "end": 25.14,
+   "text": "But that night was up all night."
+  },
+  {
+   "start": 25.14,
+   "end": 27.14,
+   "text": "You'd get in easily."
+  },
+  {
+   "start": 27.14,
+   "end": 29.14,
+   "text": "But I got up at the cracker down anyway."
+  },
+  {
+   "start": 29.14,
+   "end": 31.14,
+   "text": "And I started working on my website."
+  },
+  {
+   "start": 31.14,
+   "end": 35.14,
+   "text": "I found this a decided that I wanted to do this thing on my website."
+  },
+  {
+   "start": 35.14,
+   "end": 41.14,
+   "text": "Since I'm working on my website, I mean, since I'm exercising again,"
+  },
+  {
+   "start": 41.14,
+   "end": 44.14,
+   "text": "I'm having a little bit more interest in my bike research,"
+  },
+  {
+   "start": 44.14,
+   "end": 46.14,
+   "text": "a little page on my website."
+  },
+  {
+   "start": 46.14,
+   "end": 50.14,
+   "text": "So I was looking at that 40 kilometer an hour."
+  },
+  {
+   "start": 51.14,
+   "end": 60.14,
+   "text": "And I have it all different speeds in unis matching various chapters."
+  },
+  {
+   "start": 60.14,
+   "end": 64.14,
+   "text": "And Edward Gibbons book to climb and follow the road empire."
+  },
+  {
+   "start": 64.14,
+   "end": 68.14,
+   "text": "I learned just book ever written by a single person, a thousand pages."
+  },
+  {
+   "start": 68.14,
+   "end": 77.14,
+   "text": "And as read all the chapters as read by people on liberbox.com."
+  },
+  {
+   "start": 77.14,
+   "end": 84.14,
+   "text": "The time I organized it based on the time that it takes to get through the chapters."
+  },
+  {
+   "start": 84.14,
+   "end": 91.14,
+   "text": "That match how long it takes to get through a 20 kilometer time trial."
+  },
+  {
+   "start": 91.14,
+   "end": 93.14,
+   "text": "And so then I would double it."
+  },
+  {
+   "start": 93.14,
+   "end": 95.14,
+   "text": "You just have it back to back for the hour."
+  },
+  {
+   "start": 95.14,
+   "end": 97.14,
+   "text": "That's why I had them on the hour."
+  },
+  {
+   "start": 97.14,
+   "end": 104.14,
+   "text": "So I wanted to have them so that when you click on it, it links to their, its location on my website."
+  },
+  {
+   "start": 104.14,
+   "end": 109.14,
+   "text": "But I wasted all this time. I wasted like half the day because I got through a whole bunch of them."
+  },
+  {
+   "start": 109.14,
+   "end": 113.14,
+   "text": "And my computer really slows. It takes to experiment to do this."
+  },
+  {
+   "start": 113.14,
+   "end": 116.14,
+   "text": "I got through a whole bunch of them and like a third or something."
+  },
+  {
+   "start": 116.14,
+   "end": 118.14,
+   "text": "And then all of a sudden I went, oh shit."
+  },
+  {
+   "start": 118.14,
+   "end": 124.14,
+   "text": "I was a cabinet and connected to the Italy page for the free audio history books from Leerbox."
+  },
+  {
+   "start": 124.14,
+   "end": 132.14,
+   "text": "But I also have that book actually in its entirety on my entire history books section."
+  },
+  {
+   "start": 132.14,
+   "end": 135.14,
+   "text": "And that's where I wanted it to go."
+  },
+  {
+   "start": 135.14,
+   "end": 137.14,
+   "text": "So I had to redo it."
+  },
+  {
+   "start": 137.14,
+   "end": 138.14,
+   "text": "And I'm not done."
+  },
+  {
+   "start": 138.14,
+   "end": 140.14,
+   "text": "But I'm super fired up about this."
+  },
+  {
+   "start": 140.14,
+   "end": 142.14,
+   "text": "So that's pretty much what I was doing."
+  },
+  {
+   "start": 142.14,
+   "end": 144.14,
+   "text": "I got up. And so I was doing that."
+  },
+  {
+   "start": 144.14,
+   "end": 146.14,
+   "text": "And then how did you do errands?"
+  },
+  {
+   "start": 146.14,
+   "end": 149.14,
+   "text": "I got a bit of slipping suit because I lost my slipping suit."
+  },
+  {
+   "start": 149.14,
+   "end": 151.14,
+   "text": "I'm sure it will turn out and I have to."
+  },
+  {
+   "start": 151.14,
+   "end": 157.14,
+   "text": "And I got my watchman fixed and I have an Iron Man watch."
+  },
+  {
+   "start": 157.14,
+   "end": 168.14,
+   "text": "And so now I came home and I was using it to do my stretches."
+  },
+  {
+   "start": 168.14,
+   "end": 171.14,
+   "text": "Along with my website because it was going so slow."
+  },
+  {
+   "start": 171.14,
+   "end": 175.14,
+   "text": "You know, you on this page, you click something and you have to wait forever."
+  },
+  {
+   "start": 175.14,
+   "end": 177.14,
+   "text": "And this is what I should have been doing before."
+  },
+  {
+   "start": 177.14,
+   "end": 180.14,
+   "text": "But yeah, for the first day I was stretching a lot."
+  },
+  {
+   "start": 180.14,
+   "end": 183.14,
+   "text": "While it was I stretched and the only goes through I can go click it."
+  },
+  {
+   "start": 183.14,
+   "end": 186.14,
+   "text": "And even make my videos while I'm stretching."
+  },
+  {
+   "start": 186.14,
+   "end": 190.14,
+   "text": "And so today was my first big day of stretching and it was awesome."
+  },
+  {
+   "start": 190.14,
+   "end": 191.14,
+   "text": "There was a couple hours."
+  },
+  {
+   "start": 191.14,
+   "end": 194.14,
+   "text": "I was just pure stretching and I'd like to do it tomorrow."
+  },
+  {
+   "start": 194.14,
+   "end": 196.14,
+   "text": "When I was done, I was walking around."
+  },
+  {
+   "start": 196.14,
+   "end": 199.14,
+   "text": "I felt so much better and stronger."
+  },
+  {
+   "start": 199.14,
+   "end": 207.14,
+   "text": "The way that I stretch is kind of like the way that I look at stretching is kind of like squeezing."
+  },
+  {
+   "start": 207.14,
+   "end": 210.14,
+   "text": "Cloth really hard to get all the water out."
+  },
+  {
+   "start": 210.14,
+   "end": 214.14,
+   "text": "So I went on stretching and squeezing my muscles to do all the toxins out."
+  },
+  {
+   "start": 214.14,
+   "end": 218.14,
+   "text": "And then, then you know, you relax and let the blood go in and then you squeeze it again."
+  },
+  {
+   "start": 218.14,
+   "end": 222.14,
+   "text": "So my philosophy is there's really not too much squeezing."
+  },
+  {
+   "start": 222.14,
+   "end": 227.14,
+   "text": "You can do just keep doing it until I guess, you know, my legs are a little bit raw."
+  },
+  {
+   "start": 227.14,
+   "end": 229.14,
+   "text": "But I hope I felt sore sometimes."
+  },
+  {
+   "start": 229.14,
+   "end": 231.14,
+   "text": "I'm sore the next day when I stretch a lot."
+  },
+  {
+   "start": 231.14,
+   "end": 233.14,
+   "text": "But I have the same routine that I've been using forever."
+  },
+  {
+   "start": 233.14,
+   "end": 236.14,
+   "text": "It's just isolating muscles."
+  },
+  {
+   "start": 236.14,
+   "end": 238.14,
+   "text": "And then just focusing on that one muscle."
+  },
+  {
+   "start": 238.14,
+   "end": 240.14,
+   "text": "Just stretch it out and then I do it."
+  },
+  {
+   "start": 240.14,
+   "end": 242.14,
+   "text": "And you just muscle for a minute and a half."
+  },
+  {
+   "start": 242.14,
+   "end": 246.14,
+   "text": "So I'll do you know left calf, like sitting down and the right calf."
+  },
+  {
+   "start": 246.14,
+   "end": 248.14,
+   "text": "All while I'm listening, I'm sorry."
+  },
+  {
+   "start": 248.14,
+   "end": 250.14,
+   "text": "I'll start listening to audiobooks for you soon."
+  },
+  {
+   "start": 250.14,
+   "end": 251.14,
+   "text": "I'm going to read."
+  },
+  {
+   "start": 251.14,
+   "end": 253.14,
+   "text": "I'm like a couple days week."
+  },
+  {
+   "start": 253.14,
+   "end": 255.14,
+   "text": "But yeah."
+  },
+  {
+   "start": 255.14,
+   "end": 258.14,
+   "text": "And then a left, hamstring, right, hamstring."
+  },
+  {
+   "start": 258.14,
+   "end": 265.14,
+   "text": "I get on my back and pull my legs up, my knees up, and kind of constantly move around."
+  },
+  {
+   "start": 265.14,
+   "end": 268.14,
+   "text": "I'm sure I'm getting stretch somewhere on my butt."
+  },
+  {
+   "start": 268.14,
+   "end": 273.14,
+   "text": "Left and then right and then a quad, get on my back into your quads."
+  },
+  {
+   "start": 273.14,
+   "end": 277.14,
+   "text": "And you know, you pull this leg back up to stretch it more and then sit down and I'm like,"
+  },
+  {
+   "start": 277.14,
+   "end": 280.14,
+   "text": "let's go out like that for the splits."
+  },
+  {
+   "start": 280.14,
+   "end": 285.14,
+   "text": "And then I lay on my back and then I put my feet together."
+  },
+  {
+   "start": 285.14,
+   "end": 292.14,
+   "text": "And I put weights on my knees and I push it to the down and try to let it go down all the way."
+  },
+  {
+   "start": 292.14,
+   "end": 294.14,
+   "text": "And I just cycle through that."
+  },
+  {
+   "start": 294.14,
+   "end": 296.14,
+   "text": "It's really cool."
+  },
+  {
+   "start": 297.14,
+   "end": 304.14,
+   "text": "I think it has more benefit more bang for the buck for as far as time goes."
+  },
+  {
+   "start": 304.14,
+   "end": 311.14,
+   "text": "When you mix the throw in stretching that if you were just to do training all the time."
+  },
+  {
+   "start": 311.14,
+   "end": 314.14,
+   "text": "Stretching is essential."
+  },
+  {
+   "start": 314.14,
+   "end": 316.14,
+   "text": "Yeah, I'd like to do that more tomorrow."
+  },
+  {
+   "start": 316.14,
+   "end": 321.14,
+   "text": "I think I'll submit you also in the mart into the excess kind of tired, really sore."
+  },
+  {
+   "start": 321.14,
+   "end": 322.14,
+   "text": "All over."
+  },
+  {
+   "start": 322.14,
+   "end": 326.14,
+   "text": "So, before I did errands, I went over to my mom's house."
+  },
+  {
+   "start": 326.14,
+   "end": 329.14,
+   "text": "I just went into the errands in her car."
+  },
+  {
+   "start": 329.14,
+   "end": 333.14,
+   "text": "I feel like we're riding."
+  },
+  {
+   "start": 333.14,
+   "end": 338.14,
+   "text": "So, yeah, tomorrow I think I'll run and swim."
+  },
+  {
+   "start": 338.14,
+   "end": 342.14,
+   "text": "I like I'll go get to sleep now so I have the energy so I can get out."
+  },
+  {
+   "start": 342.14,
+   "end": 344.14,
+   "text": "But not ride."
+  },
+  {
+   "start": 344.14,
+   "end": 345.14,
+   "text": "I'm not going to ride tomorrow though."
+  },
+  {
+   "start": 345.14,
+   "end": 348.14,
+   "text": "My knee did feel a little bit better when I went to the store a little bit bigger."
+  },
+  {
+   "start": 348.14,
+   "end": 353.14,
+   "text": "But I should give it at least five days when my knee gets really bad."
+  },
+  {
+   "start": 353.14,
+   "end": 358.14,
+   "text": "Yeah, mainly just listen to music, not anything in particular."
+  },
+  {
+   "start": 358.14,
+   "end": 362.14,
+   "text": "Listening, oh, a lot of NASA stuff."
+  },
+  {
+   "start": 362.14,
+   "end": 368.14,
+   "text": "I watched John Glenn's Reentry and watching Reentry videos NASA."
+  },
+  {
+   "start": 368.14,
+   "end": 373.14,
+   "text": "I want to do YouTube videos of bike touring."
+  },
+  {
+   "start": 373.14,
+   "end": 377.14,
+   "text": "Take people on bike touring videos around space and the moon stuff."
+  },
+  {
+   "start": 377.14,
+   "end": 378.14,
+   "text": "And Mars."
+  },
+  {
+   "start": 378.14,
+   "end": 381.14,
+   "text": "Look, anyone is, I think that's an uptack and a little bit of..."
+  }
+ ]
+}

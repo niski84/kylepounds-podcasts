@@ -1,0 +1,216 @@
+{
+ "youtube_id": "GVS2jVqtMHk",
+ "title": "Living in Boulder Vlog 12 - 4 - 2016",
+ "url": "https://youtu.be/GVS2jVqtMHk",
+ "published_at": "2016-12-06",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle recaps his Sunday, December 4th 2016 in Boulder — a low-key day of helping his mom move firewood, setting up a Roku box his mom bought him, and spending most of the day working on a Rome-themed project. He mentions listening to a History of Byzantium podcast and feeling enthusiastic about the Rome project.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "Boulder living",
+   "personal project (Rome)",
+   "family",
+   "tech setup",
+   "podcasts/history"
+  ],
+  "stances": [
+   {
+    "topic": "Rome project enthusiasm",
+    "position": "Still excited and not burned out — Rome looks beautiful, not crowded yet"
+   },
+   {
+    "topic": "Burning out on creative projects",
+    "position": "Losing the sense of beauty in a subject is an early sign of burnout"
+   },
+   {
+    "topic": "History of Byzantium podcast",
+    "position": "Finds Byzantium history cool but notes source material online is too scattered and needs organizing"
+   }
+  ],
+  "entities": [
+   "girlfriend",
+   "mom",
+   "Roku (called 'Rock Zero')",
+   "Hulu",
+   "Rome (project)",
+   "History of Byzantium (podcast)",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.46,
+   "end": 8.54,
+   "text": "Hey, this is Living in Boulder V-Log for Sunday, December 4th, because today is Monday, December 5th."
+  },
+  {
+   "start": 8.94,
+   "end": 13.68,
+   "text": "I thought that I did the video this morning, dude. I thought that I did the video, but then my girlfriend calls me."
+  },
+  {
+   "start": 13.72,
+   "end": 18.34,
+   "text": "She's like, you didn't do your video. And I'm like, yeah, I'm like, I didn't? Oh my god."
+  },
+  {
+   "start": 19.12,
+   "end": 30.0,
+   "text": "Because what happened was I was working until 6, and then my mom calls me because I was supposed to bring wood from, help her get wood, firewood."
+  },
+  {
+   "start": 31.46,
+   "end": 38.46,
+   "text": "And then she kept calling me because I couldn't get up, and then I went over there at like noon, so I only got like 6 hours of sleep or 1 or something."
+  },
+  {
+   "start": 39.76,
+   "end": 45.42,
+   "text": "And I brought the wood from her car to her house and hung out, and I think I had some food or whatever."
+  },
+  {
+   "start": 46.26,
+   "end": 51.22,
+   "text": "Oh yeah, did some other organizational stuff and then looking for things."
+  },
+  {
+   "start": 51.34,
+   "end": 57.4,
+   "text": "And then came back here and then just working all day on the Rome."
+  },
+  {
+   "start": 57.4,
+   "end": 60.82,
+   "text": "I wanted to figure out the Hulu on my TV."
+  },
+  {
+   "start": 61.32,
+   "end": 69.42,
+   "text": "My mom bought me the Rock Zero or the whatever, the Hulu and the thing, the box."
+  },
+  {
+   "start": 69.84,
+   "end": 77.78,
+   "text": "And, but I don't have the USB cable or the other cable, but to have it work, so I'll buy that tomorrow."
+  },
+  {
+   "start": 77.92,
+   "end": 80.04,
+   "text": "And then I can play videos from my computer on there."
+  },
+  {
+   "start": 80.24,
+   "end": 81.46,
+   "text": "That's what, I'm going to check that out."
+  },
+  {
+   "start": 81.46,
+   "end": 87.86,
+   "text": "That's going to be cool, and maybe even for a micro SD card, because I saw an SD card slot in there, so that'll be chill."
+  },
+  {
+   "start": 90.56,
+   "end": 92.14,
+   "text": "This table's about to wiggle apart."
+  },
+  {
+   "start": 92.22,
+   "end": 93.28,
+   "text": "I need to just tighten it again."
+  },
+  {
+   "start": 93.28,
+   "end": 102.6,
+   "text": "So, yeah, I was just doing random buildings today."
+  },
+  {
+   "start": 104.22,
+   "end": 107.26,
+   "text": "I'm still in the, you know, excitement mode of it, you know."
+  },
+  {
+   "start": 107.44,
+   "end": 108.88,
+   "text": "It hasn't started to get old yet."
+  },
+  {
+   "start": 109.6,
+   "end": 112.02,
+   "text": "You know, I'm still looking at Rome like, oh, Rome is beautiful."
+  },
+  {
+   "start": 113.08,
+   "end": 116.48,
+   "text": "I haven't started looking at Rome and being like, oh God, Rome looks like it would be crowded."
+  },
+  {
+   "start": 116.48,
+   "end": 123.74,
+   "text": "Because if you start looking at something that's not beautiful, then that's the beginning stages of burning out on the project."
+  },
+  {
+   "start": 124.84,
+   "end": 129.74,
+   "text": "But, but yeah, it's going to look cool to go on ground level and travel around."
+  },
+  {
+   "start": 129.9,
+   "end": 130.88,
+   "text": "I've been testing that some."
+  },
+  {
+   "start": 132.8,
+   "end": 135.24,
+   "text": "So, listening to the history of Byzantium."
+  },
+  {
+   "start": 135.56,
+   "end": 138.84,
+   "text": "It's cool, there's a lot of source material on the internet."
+  },
+  {
+   "start": 138.94,
+   "end": 139.94,
+   "text": "It's so disparate, though."
+  },
+  {
+   "start": 140.26,
+   "end": 141.94,
+   "text": "I need to organize it all on my website."
+  },
+  {
+   "start": 143.84,
+   "end": 145.36,
+   "text": "But, yeah, that's pretty interesting."
+  },
+  {
+   "start": 145.36,
+   "end": 148.5,
+   "text": "Byzantium has a pretty interesting history."
+  },
+  {
+   "start": 150.66,
+   "end": 153.3,
+   "text": "So, that's my vlog."
+  },
+  {
+   "start": 153.74,
+   "end": 156.22,
+   "text": "I didn't get, I'm going to get really high right now and have a shower."
+  },
+  {
+   "start": 157.42,
+   "end": 159.2,
+   "text": "I should have gotten real high before the video."
+  },
+  {
+   "start": 159.46,
+   "end": 160.32,
+   "text": "Okay, peace out."
+  }
+ ]
+}

@@ -1,0 +1,1774 @@
+{
+ "youtube_id": "bHTuzUWYhFw",
+ "title": "Tourism in the 2060s - Request",
+ "url": "https://youtu.be/bHTuzUWYhFw",
+ "published_at": "2016-02-10",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle responds to a video request from Nathan Washington about what travel and tourism will look like in the 2060s. He envisions a world where the planet becomes a 'giant playground' with richly planned historical and adventure tourism — recreating ancient trade routes, Lewis and Clark expeditions, Apache raids, and battle reenactments. He also shares his current project of building KMZ files for Google Earth to map Boulder's trails, historical villages, and ancient routes, and speculates on improved weather forecasting, better oxygen tech for high-altitude climbs, and eventually moon and Mars tourism.",
+  "speaker": "kyle",
+  "topics": [
+   "future tourism",
+   "adventure travel",
+   "historical recreation",
+   "Google Earth KMZ mapping",
+   "Boulder Colorado history",
+   "ancient trade routes",
+   "Lewis and Clark",
+   "technology and nature",
+   "space tourism",
+   "endurance sports",
+   "outdoor recreation"
+  ],
+  "stances": [
+   {
+    "topic": "Future of tourism",
+    "position": "Travel will become highly purposeful and experiential, recreating historical routes and events with period-accurate methods"
+   },
+   {
+    "topic": "America as a travel destination",
+    "position": "America is one of the best places in the world for river cruising but people don't realize it yet"
+   },
+   {
+    "topic": "Technology and nature",
+    "position": "Combining protective knowledge and nature together is a beautiful life"
+   },
+   {
+    "topic": "Google Earth KMZ files",
+    "position": "KMZ is the only way to share geographic routes because it lets people actually explore in Google Earth rather than just see a static image"
+   },
+   {
+    "topic": "Boulder Colorado",
+    "position": "Boulder has an incredible and underappreciated history and tourism potential"
+   },
+   {
+    "topic": "Space tourism by 2060s",
+    "position": "Anti-gravity ships, moon trips, and Mars sand dune races are plausible by then"
+   }
+  ],
+  "entities": [
+   "Nathan Washington",
+   "Kyle",
+   "Lewis and Clark",
+   "Thomas Jefferson",
+   "Napoleon",
+   "Geronimo",
+   "Pheidippides",
+   "Thoreau",
+   "Boulder Colorado",
+   "Seattle Washington",
+   "Central City Colorado",
+   "Ward Colorado",
+   "Switzerland Trail",
+   "Oregon Trail",
+   "Tigris and Euphrates rivers",
+   "Greece",
+   "Babylon",
+   "Sparta",
+   "Athens",
+   "Marathon",
+   "Colorado",
+   "Denver",
+   "Antarctica",
+   "Caribbean",
+   "Pacific Ocean",
+   "Gulf of Mexico",
+   "Mars",
+   "Moon"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 3.92,
+   "end": 5.92,
+   "text": "New video recording"
+  },
+  {
+   "start": 6.48,
+   "end": 14.54,
+   "text": "Fuck it so trippy cool. Okay, we're gonna do it. We're gonna do it"
+  },
+  {
+   "start": 16.22,
+   "end": 17.22,
+   "text": "Oh"
+  },
+  {
+   "start": 17.22,
+   "end": 21.9,
+   "text": "Video request. I just had it bogg it that had a whole bunch of like shadow in it"
+  },
+  {
+   "start": 22.54,
+   "end": 27.18,
+   "text": "Because I cleaned out my shadow pipes and so it was kind of harsh, but it'll get nice and high stupid hype"
+  },
+  {
+   "start": 28.1,
+   "end": 29.74,
+   "text": "But"
+  },
+  {
+   "start": 29.74,
+   "end": 35.78,
+   "text": "So yeah, this is my first video request since I started doing video requests again from a dude named Nathan Washington"
+  },
+  {
+   "start": 35.78,
+   "end": 37.78,
+   "text": "Perm up from up in Seattle, Washington"
+  },
+  {
+   "start": 38.54,
+   "end": 40.54,
+   "text": "So he's probably a fellow stoner"
+  },
+  {
+   "start": 42.22,
+   "end": 45.86,
+   "text": "So here we go Nathan Washington wants to know"
+  },
+  {
+   "start": 46.7,
+   "end": 53.6,
+   "text": "Hi, what's up Kyle? I think I must have done this video like a million times already. I did I think I've already done this video, but"
+  },
+  {
+   "start": 54.58,
+   "end": 61.62,
+   "text": "Okay, you know my first request and so I'm doing requests again. I guess I do it even now"
+  },
+  {
+   "start": 61.62,
+   "end": 63.4,
+   "text": "I've done it for oh, you know"
+  },
+  {
+   "start": 63.66,
+   "end": 70.92,
+   "text": "Maybe you could be fight to wash my old video about it and then my new video talking about it and then like see like what's the same?"
+  },
+  {
+   "start": 71.02,
+   "end": 74.02,
+   "text": "What's the difference like how I change and what I said the same"
+  },
+  {
+   "start": 75.3,
+   "end": 78.02,
+   "text": "Nathan Washington, what's up Kyle?"
+  },
+  {
+   "start": 78.02,
+   "end": 80.02,
+   "text": "How are you?"
+  },
+  {
+   "start": 81.7,
+   "end": 83.7,
+   "text": "I'm good. I'm a little bit tired"
+  },
+  {
+   "start": 84.9,
+   "end": 91.18,
+   "text": "Because my computers been given me trouble last few days and I had that that's pretty much the only thing that will drain the shit out of me"
+  },
+  {
+   "start": 91.18,
+   "end": 104.89,
+   "text": "So I'm pretty much drained. We didn't doubt smoke more way"
+  },
+  {
+   "start": 106.73,
+   "end": 112.05,
+   "text": "Okay, greetings from Seattle Washington, look Seattle"
+  },
+  {
+   "start": 113.53,
+   "end": 117.97,
+   "text": "Guys, you're got like a mountain like a hundred miles away. We get like 50 mountains like one mile away bitch"
+  },
+  {
+   "start": 120.04,
+   "end": 124.16,
+   "text": "Anyway, no, no status cool. I was there for less like a number of 20"
+  },
+  {
+   "start": 125.4,
+   "end": 127.92,
+   "text": "The hot springs up there if I can awesome a lot of the hot springs"
+  },
+  {
+   "start": 128.64,
+   "end": 133.16,
+   "text": "Next video request can you please talk about what will be a travel and tour industry like in the future?"
+  },
+  {
+   "start": 133.16,
+   "end": 138.12,
+   "text": "Let's say 30 to 45 years time. You know by the 20 60s and"
+  },
+  {
+   "start": 138.84,
+   "end": 143.2,
+   "text": "Beyond thanks and have a nice day. Damn you're talking about the future. Okay"
+  },
+  {
+   "start": 144.0,
+   "end": 146.0,
+   "text": "So let's see 20 60"
+  },
+  {
+   "start": 146.0,
+   "end": 148.64,
+   "text": "God damn you how old are you? You like fucking 12 years old"
+  },
+  {
+   "start": 149.12,
+   "end": 151.12,
+   "text": "You come out 20 60s and shit"
+  },
+  {
+   "start": 151.6,
+   "end": 155.32,
+   "text": "So let's see how old will I babe? I was born in 1973"
+  },
+  {
+   "start": 155.72,
+   "end": 157.4,
+   "text": "So"
+  },
+  {
+   "start": 157.4,
+   "end": 162.12,
+   "text": "26 to you would make me about 88 years old. I'll be up there. I'll be new and shit"
+  },
+  {
+   "start": 164.8,
+   "end": 169.04,
+   "text": "So let's see what will travel and tourism be like travel and tourism will be"
+  },
+  {
+   "start": 170.04,
+   "end": 172.28,
+   "text": "You know a lot more to belt than it is now"
+  },
+  {
+   "start": 173.6,
+   "end": 178.36,
+   "text": "People will have their shit together people will go to be doing specific things"
+  },
+  {
+   "start": 178.68,
+   "end": 184.28,
+   "text": "You know by then I think we'll pretty much will have turned the planet into a big old giant fucking playground"
+  },
+  {
+   "start": 185.56,
+   "end": 198.46,
+   "text": "It's actually interesting to get asked to be that because I'm a good person to talk about this with because"
+  },
+  {
+   "start": 200.22,
+   "end": 201.58,
+   "text": "I'm"
+  },
+  {
+   "start": 201.58,
+   "end": 206.86,
+   "text": "Working on a website that's pretty much kind of like catering to that kind of planning on that"
+  },
+  {
+   "start": 208.14,
+   "end": 209.74,
+   "text": "I'm"
+  },
+  {
+   "start": 209.74,
+   "end": 213.74,
+   "text": "I'm building on collecting cans e files and Google Earth canzy files"
+  },
+  {
+   "start": 215.58,
+   "end": 219.58,
+   "text": "So that you can see you know see all the trace traces and everything on Google Earth"
+  },
+  {
+   "start": 220.54,
+   "end": 223.9,
+   "text": "I don't know why people don't do that other people like"
+  },
+  {
+   "start": 224.86,
+   "end": 228.54,
+   "text": "There's other there's a few other like websites here that have"
+  },
+  {
+   "start": 229.9,
+   "end": 231.42,
+   "text": "Google like"
+  },
+  {
+   "start": 231.42,
+   "end": 236.3,
+   "text": "Roots like mountain bike roots is a website called Boulder mountain bike alliance I think they're called"
+  },
+  {
+   "start": 236.94,
+   "end": 244.3,
+   "text": "And they have they don't have any cans e files. They just have like a little window in the nurse their website that has like oh"
+  },
+  {
+   "start": 244.3,
+   "end": 246.94,
+   "text": "Look in zoom in and on other programs and stuff like"
+  },
+  {
+   "start": 247.5,
+   "end": 249.02,
+   "text": "GPX and see it"
+  },
+  {
+   "start": 249.02,
+   "end": 251.02,
+   "text": "So I put the buck"
+  },
+  {
+   "start": 251.34,
+   "end": 256.3,
+   "text": "Okay, I'm using the only way to go because you can actually like would ever look at anything on Google Earth"
+  },
+  {
+   "start": 257.1,
+   "end": 261.9,
+   "text": "Without Google Earth like nobody would ever look at that just instead of that just use a screen capture of a picture"
+  },
+  {
+   "start": 261.9,
+   "end": 265.1,
+   "text": "You know and then people just go to Google Earth and you have the cans and you trace it"
+  },
+  {
+   "start": 265.5,
+   "end": 271.98,
+   "text": "Plus you can super impose super cans e files on top each other, you know like you could see like what my bike rule would look like going to"
+  },
+  {
+   "start": 272.78,
+   "end": 273.74,
+   "text": "ancient"
+  },
+  {
+   "start": 273.74,
+   "end": 276.22,
+   "text": "America or something or fantasy land data"
+  },
+  {
+   "start": 277.26,
+   "end": 279.26,
+   "text": "so"
+  },
+  {
+   "start": 286.73,
+   "end": 293.77,
+   "text": "That's what I'm doing just just collecting cans e files with like everything all the tribes and kingdoms that ever existed in cities that ever"
+  },
+  {
+   "start": 293.77,
+   "end": 294.97,
+   "text": "exist in"
+  },
+  {
+   "start": 295.37,
+   "end": 299.13,
+   "text": "Roots historical roots and stuff as well as modern day stuff"
+  },
+  {
+   "start": 300.33,
+   "end": 306.89,
+   "text": "But yeah, Boulder's a good place to practice with that because to start it out kind of turn Boulder into its tourist destination because"
+  },
+  {
+   "start": 306.97,
+   "end": 312.49,
+   "text": "There's just so much around here to look at and to do and go to like a little trips to go"
+  },
+  {
+   "start": 312.81,
+   "end": 314.17,
+   "text": "You know now that we have"
+  },
+  {
+   "start": 314.41,
+   "end": 320.41,
+   "text": "All of our adjuic garage and light education, we know what's going on and then we have the Google Earth you know like you could you could have like"
+  },
+  {
+   "start": 322.65,
+   "end": 324.65,
+   "text": "skiing all the coolers"
+  },
+  {
+   "start": 325.29,
+   "end": 327.69,
+   "text": "ski all of the glaciers"
+  },
+  {
+   "start": 329.45,
+   "end": 331.93,
+   "text": "You know runs across all of the sand dunes"
+  },
+  {
+   "start": 332.89,
+   "end": 334.89,
+   "text": "kayak all the rivers"
+  },
+  {
+   "start": 334.89,
+   "end": 338.81,
+   "text": "Hark up all the little roots and the flattards and there's so much to it's incredible"
+  },
+  {
+   "start": 339.61,
+   "end": 346.49,
+   "text": "In the little mountain by the river of East stuff oh and then all like like tours of ancient like mining Boulder county"
+  },
+  {
+   "start": 347.13,
+   "end": 354.01,
+   "text": "You know like all the like tour of the villages that existed in 1875 tour of the villages that existed in 1950"
+  },
+  {
+   "start": 355.05,
+   "end": 357.05,
+   "text": "kind of stuff so"
+  },
+  {
+   "start": 357.21,
+   "end": 359.21,
+   "text": "Yeah, man"
+  },
+  {
+   "start": 360.17,
+   "end": 364.65,
+   "text": "And so people will go like if somebody goes somewhere they will go somewhere to do stuff"
+  },
+  {
+   "start": 364.65,
+   "end": 366.65,
+   "text": "I won't be busy"
+  },
+  {
+   "start": 367.05,
+   "end": 369.93,
+   "text": "Yeah, man, we'll have tours down everywhere you know"
+  },
+  {
+   "start": 371.13,
+   "end": 375.61,
+   "text": "You could you normal person could could recreate all of the tours that anybody ever did"
+  },
+  {
+   "start": 377.13,
+   "end": 380.81,
+   "text": "You know like like the ancient trade route from down the"
+  },
+  {
+   "start": 381.61,
+   "end": 386.89,
+   "text": "You need to not just recreate it but recreate it in the same way that they did it you know like at first"
+  },
+  {
+   "start": 386.97,
+   "end": 390.49,
+   "text": "I would be like to earth to earth that go down the"
+  },
+  {
+   "start": 390.89,
+   "end": 397.85,
+   "text": "Tigris and the refraities all the way from Greece kind of recreating like an ancient like a trader from Greece all the way to Babylon"
+  },
+  {
+   "start": 398.89,
+   "end": 400.89,
+   "text": "only"
+  },
+  {
+   "start": 400.89,
+   "end": 407.13,
+   "text": "You would do it like at that time of year where the refusence and height that it was then and you would go down and the same boats that they use these"
+  },
+  {
+   "start": 407.69,
+   "end": 409.69,
+   "text": "handmade these uh"
+  },
+  {
+   "start": 409.69,
+   "end": 411.69,
+   "text": "wooden frames"
+  },
+  {
+   "start": 411.69,
+   "end": 412.89,
+   "text": "cow hide"
+  },
+  {
+   "start": 412.89,
+   "end": 414.89,
+   "text": "canoes"
+  },
+  {
+   "start": 414.89,
+   "end": 419.77,
+   "text": "Try to do it the same time that they try to do the same runs there's this guy came named"
+  },
+  {
+   "start": 421.21,
+   "end": 423.21,
+   "text": "Oribidies"
+  },
+  {
+   "start": 423.21,
+   "end": 429.37,
+   "text": "So isn't it a rippidies no no fiddipidies fiddipidies who was the guy who"
+  },
+  {
+   "start": 430.97,
+   "end": 434.41,
+   "text": "He ran like I think from like marathon all the way to"
+  },
+  {
+   "start": 435.85,
+   "end": 442.25,
+   "text": "Sparta but then he ran from Sparta to Athens where was it Athens to Sparta? I think we are in the Sparta in a day and a half"
+  },
+  {
+   "start": 442.73,
+   "end": 450.01,
+   "text": "I think it was what they said and then he died the next day but he went but I think that was like two days and roads kind of"
+  },
+  {
+   "start": 450.01,
+   "end": 455.61,
+   "text": "And bigus but yeah anyways they it's 150 miles and he did it they say I guess they did it in like what a day and a half"
+  },
+  {
+   "start": 456.73,
+   "end": 462.09,
+   "text": "Like 30 hours maybe and then one running one sitting did it and that's about how long people do it now"
+  },
+  {
+   "start": 462.09,
+   "end": 466.65,
+   "text": "It's a rut it's a race now like other people are doing it's a recreating actual stuff"
+  },
+  {
+   "start": 466.89,
+   "end": 473.61,
+   "text": "There's lots of cool stuff draw rates that the ancient Apache's did like"
+  },
+  {
+   "start": 473.61,
+   "end": 481.13,
+   "text": "Geronimo rates like when they go and capture light ladies on the rack wagon train and then take them back to their chief to like 300 miles away"
+  },
+  {
+   "start": 483.13,
+   "end": 486.65,
+   "text": "Buffalo roots you can make buffalo root by path"
+  },
+  {
+   "start": 488.17,
+   "end": 493.13,
+   "text": "Facing the buffalo root all right up bird migration by path for all the different birds"
+  },
+  {
+   "start": 493.69,
+   "end": 497.69,
+   "text": "There's this"
+  },
+  {
+   "start": 499.13,
+   "end": 503.69,
+   "text": "I want to that would be cool to have like a road for bicycle racers"
+  },
+  {
+   "start": 504.73,
+   "end": 509.05,
+   "text": "To ride from Boulder all the way to the Atlantic Ocean"
+  },
+  {
+   "start": 509.85,
+   "end": 516.97,
+   "text": "Like without having to stop just on one bike path and then along the bike path you would have places where you could like pick stuff up"
+  },
+  {
+   "start": 517.05,
+   "end": 519.05,
+   "text": "Oh"
+  },
+  {
+   "start": 519.37,
+   "end": 523.29,
+   "text": "Yeah, then people will be going across in artica skiing across Antarctica"
+  },
+  {
+   "start": 525.61,
+   "end": 526.73,
+   "text": "And"
+  },
+  {
+   "start": 526.73,
+   "end": 530.49,
+   "text": "The Arctic or the Arctic and then it's kayaking I want it"
+  },
+  {
+   "start": 532.49,
+   "end": 536.01,
+   "text": "Before I was gonna do my kayaking trip around the Caribbean but I want to do a kayaking trip"
+  },
+  {
+   "start": 536.89,
+   "end": 540.89,
+   "text": "Yes, you I want to do a kayaking trip from my house down the river"
+  },
+  {
+   "start": 542.01,
+   "end": 544.01,
+   "text": "all the way down to the"
+  },
+  {
+   "start": 544.01,
+   "end": 546.01,
+   "text": "Pacific or the Gulf of Mexico"
+  },
+  {
+   "start": 546.97,
+   "end": 555.93,
+   "text": "When the wagon train would go across on the Oregon trail a lot of the wagon here is tried to put their wagons on boats and try to take their boats down the river because it"
+  },
+  {
+   "start": 555.93,
+   "end": 561.61,
+   "text": "Out of easier that's what I think I think a lot of them died though and it didn't like anybody could do that"
+  },
+  {
+   "start": 561.61,
+   "end": 563.61,
+   "text": "Those were the stupid people"
+  },
+  {
+   "start": 563.61,
+   "end": 568.89,
+   "text": "But Lewis and Clark a lot of care trip when they went from America to the"
+  },
+  {
+   "start": 569.61,
+   "end": 572.61,
+   "text": "Coast of Pacific and back in 1805"
+  },
+  {
+   "start": 573.45,
+   "end": 575.45,
+   "text": "as part of"
+  },
+  {
+   "start": 576.17,
+   "end": 578.89,
+   "text": "Jefferson's ordered it because we bought"
+  },
+  {
+   "start": 580.17,
+   "end": 582.17,
+   "text": "America and the Louisiana purchase from"
+  },
+  {
+   "start": 583.45,
+   "end": 585.21,
+   "text": "Napoleon for like $3 million"
+  },
+  {
+   "start": 586.09,
+   "end": 592.25,
+   "text": "And yeah, so they went there to over to to map out and talk and figure out all the alien agency stuff for the government and"
+  },
+  {
+   "start": 593.13,
+   "end": 595.13,
+   "text": "they took a bunch of"
+  },
+  {
+   "start": 595.85,
+   "end": 597.85,
+   "text": "Rass"
+  },
+  {
+   "start": 599.61,
+   "end": 601.61,
+   "text": "Like Wyoming"
+  },
+  {
+   "start": 602.57,
+   "end": 605.61,
+   "text": "Towards the West and when they were coming back, you said they were going like"
+  },
+  {
+   "start": 606.01,
+   "end": 608.41,
+   "text": "miles a day on rafts they were just cruising down"
+  },
+  {
+   "start": 609.45,
+   "end": 615.45,
+   "text": "America is a great river place. I don't think people realized it yet, but if you're going to compare America to"
+  },
+  {
+   "start": 616.65,
+   "end": 620.73,
+   "text": "the rest of the world and you're going to be like you know you're going to ask like some alien who came here"
+  },
+  {
+   "start": 620.73,
+   "end": 623.69,
+   "text": "It'd be like yeah, where is the best place to do river cruises?"
+  },
+  {
+   "start": 623.69,
+   "end": 626.73,
+   "text": "America would be one of the best places to do river cruises"
+  },
+  {
+   "start": 626.97,
+   "end": 632.89,
+   "text": "We have these big old rip mountains and then just clans forever with these huge wide rivers like no one forever"
+  },
+  {
+   "start": 633.85,
+   "end": 638.17,
+   "text": "You know, it's up there with like Russia and it's fucking that's awesome"
+  },
+  {
+   "start": 639.37,
+   "end": 642.65,
+   "text": "So yeah, we'll definitely be doing a lot of that really big ones"
+  },
+  {
+   "start": 642.65,
+   "end": 644.73,
+   "text": "But I was gonna do that on my kayak and then"
+  },
+  {
+   "start": 645.45,
+   "end": 650.57,
+   "text": "And then maybe up the coast of America, Atlantic coast and then do the Caribbean"
+  },
+  {
+   "start": 651.45,
+   "end": 653.45,
+   "text": "That"
+  },
+  {
+   "start": 653.45,
+   "end": 655.45,
+   "text": "A lot of a lot of cool stuff to do"
+  },
+  {
+   "start": 655.85,
+   "end": 658.09,
+   "text": "And now with YouTube and Google Earth"
+  },
+  {
+   "start": 658.57,
+   "end": 661.61,
+   "text": "You know people can enjoy that stuff by curiously, you know"
+  },
+  {
+   "start": 662.41,
+   "end": 664.41,
+   "text": "Like people can be really"
+  },
+  {
+   "start": 666.01,
+   "end": 669.77,
+   "text": "Instead of being like a goal people do it's just kind of a way of life you just do it whenever"
+  },
+  {
+   "start": 670.01,
+   "end": 674.25,
+   "text": "And just choose one, you know and then the ones you know they just watch the people go pro it"
+  },
+  {
+   "start": 675.29,
+   "end": 680.73,
+   "text": "And the ones that are dangerous will get less and less dangerous and I think the ones all of them will be normal"
+  },
+  {
+   "start": 680.73,
+   "end": 682.41,
+   "text": "But it'll be like normal stuff, you know like"
+  },
+  {
+   "start": 683.21,
+   "end": 684.57,
+   "text": "Like climbing"
+  },
+  {
+   "start": 684.57,
+   "end": 689.77,
+   "text": "6000 foot mountains, you know, 6000 meter mountains and the homely as people die and that's stuff now"
+  },
+  {
+   "start": 689.77,
+   "end": 695.69,
+   "text": "But you know in the future will well, well, we'll have the science of the weather science figured out so much"
+  },
+  {
+   "start": 696.89,
+   "end": 702.65,
+   "text": "That you'll know when to go up when there won't be a storm, you won't get blindsided by any storms and"
+  },
+  {
+   "start": 703.69,
+   "end": 706.81,
+   "text": "And maybe even you'll you'll have these little like earth quake"
+  },
+  {
+   "start": 707.77,
+   "end": 714.49,
+   "text": "Like false fall you'll have like these little dyno of things that'll break up extra ice if people can climb that without"
+  },
+  {
+   "start": 715.05,
+   "end": 717.05,
+   "text": "Not ice falling on"
+  },
+  {
+   "start": 718.81,
+   "end": 722.25,
+   "text": "And then the oxygen thing people will just have better oxygen tanks"
+  },
+  {
+   "start": 722.49,
+   "end": 725.21,
+   "text": "But you can just put on you don't have to worry about dying"
+  },
+  {
+   "start": 725.21,
+   "end": 727.21,
+   "text": "So you're dying of some kind of marriage"
+  },
+  {
+   "start": 729.05,
+   "end": 731.05,
+   "text": "And"
+  },
+  {
+   "start": 732.01,
+   "end": 736.57,
+   "text": "Yeah, oh yeah, it's surfing you just put up with a little with a little hot oxygen thing"
+  },
+  {
+   "start": 736.57,
+   "end": 740.17,
+   "text": "on your mask so you can get from the water forever but you can keep it"
+  },
+  {
+   "start": 742.73,
+   "end": 749.77,
+   "text": "But anyway you can start all that stuff right that cool designing trips and stuff and sharing it with on"
+  },
+  {
+   "start": 751.53,
+   "end": 755.05,
+   "text": "Your computer and your GoPro and your energy you need to"
+  },
+  {
+   "start": 757.13,
+   "end": 760.49,
+   "text": "Without even having a go anywhere you just do that little"
+  },
+  {
+   "start": 762.33,
+   "end": 764.33,
+   "text": "Like what I want to do is"
+  },
+  {
+   "start": 765.29,
+   "end": 772.57,
+   "text": "I want to have like a daily life and see this is this is kind of the world of the future and the world of the tourists of the future because they'll do it"
+  },
+  {
+   "start": 772.89,
+   "end": 777.13,
+   "text": "They'll let go on these when they travel and then you'll like the people the locals will be the guy"
+  },
+  {
+   "start": 777.13,
+   "end": 780.09,
+   "text": "But what I want to do is like every day going like a bike ride"
+  },
+  {
+   "start": 780.41,
+   "end": 784.25,
+   "text": "Or I can new bike ride a really big bike ride as soon as I get caught up on my website"
+  },
+  {
+   "start": 784.25,
+   "end": 786.89,
+   "text": "I need to I can't do that stuff now. I go on on"
+  },
+  {
+   "start": 788.09,
+   "end": 790.09,
+   "text": "Something now I'll just do"
+  },
+  {
+   "start": 794.89,
+   "end": 796.89,
+   "text": "Let me future"
+  },
+  {
+   "start": 798.17,
+   "end": 800.89,
+   "text": "Yeah, I go in like some big some like specific route and"
+  },
+  {
+   "start": 801.93,
+   "end": 805.53,
+   "text": "Talk about the route first though in terms of"
+  },
+  {
+   "start": 806.57,
+   "end": 813.85,
+   "text": "My little fantasy landia and see that where I invented the place and then the ancient times with all the Indian tribes and then with the animals"
+  },
+  {
+   "start": 814.65,
+   "end": 816.65,
+   "text": "You know do it tour what animals are there"
+  },
+  {
+   "start": 817.45,
+   "end": 826.46,
+   "text": "Yeah, and then like with Rome"
+  },
+  {
+   "start": 826.62,
+   "end": 831.26,
+   "text": "With my sanctimonian thing like may oh we're at ancient Rome like what time would you be an ancient in ancient realm?"
+  },
+  {
+   "start": 833.42,
+   "end": 834.38,
+   "text": "Um"
+  },
+  {
+   "start": 834.38,
+   "end": 839.82,
+   "text": "You know like in like what a battle are you going to what period of time?"
+  },
+  {
+   "start": 841.34,
+   "end": 844.94,
+   "text": "Is it an ancient realm for you to like what distance does that mean?"
+  },
+  {
+   "start": 846.54,
+   "end": 849.82,
+   "text": "And the idea is that like in then they did not horses, but now you do it on bikes"
+  },
+  {
+   "start": 850.78,
+   "end": 854.7,
+   "text": "So then you you come back and you do the sorry if I'm not being that coherent"
+  },
+  {
+   "start": 854.7,
+   "end": 856.7,
+   "text": "I'm really I really high because I smoke this"
+  },
+  {
+   "start": 857.42,
+   "end": 859.18,
+   "text": "Shatter like straight out of the pipe"
+  },
+  {
+   "start": 859.9,
+   "end": 861.9,
+   "text": "You do that but you just"
+  },
+  {
+   "start": 864.54,
+   "end": 871.42,
+   "text": "Yeah, and then you come home and you you put the video and the GoPro and then so maybe even in the video"
+  },
+  {
+   "start": 871.42,
+   "end": 875.02,
+   "text": "Oh yeah, here's where the battle was here's one of the village of these guys is"
+  },
+  {
+   "start": 875.42,
+   "end": 877.42,
+   "text": "Oh, and you even build it with the cansy"
+  },
+  {
+   "start": 877.82,
+   "end": 884.22,
+   "text": "Yes, you do the video you going through where you just did the video you did a video the GoPro here is where I am"
+  },
+  {
+   "start": 884.78,
+   "end": 886.78,
+   "text": "You do really quick"
+  },
+  {
+   "start": 886.78,
+   "end": 891.32,
+   "text": "The screen capture the your capture of Google or a little village with the can"
+  },
+  {
+   "start": 895.66,
+   "end": 899.58,
+   "text": "And then yeah talk about the audio book when I get home that I listen to"
+  },
+  {
+   "start": 900.78,
+   "end": 902.78,
+   "text": "Back there and then"
+  },
+  {
+   "start": 903.02,
+   "end": 905.82,
+   "text": "And try to tie it and it is with a bike ride as much as you can"
+  },
+  {
+   "start": 906.38,
+   "end": 908.38,
+   "text": "But yeah, so anyway"
+  },
+  {
+   "start": 908.38,
+   "end": 910.62,
+   "text": "Yeah, even though the crazy stuff you know like"
+  },
+  {
+   "start": 911.58,
+   "end": 918.3,
+   "text": "What else like the blue maybe right about on a cross oh and a canoeing no no really across the"
+  },
+  {
+   "start": 918.94,
+   "end": 922.38,
+   "text": "Right around the whole world I'd like to do that one day"
+  },
+  {
+   "start": 925.02,
+   "end": 927.82,
+   "text": "When my joints go bad and I can't run by I can run anymore"
+  },
+  {
+   "start": 932.78,
+   "end": 938.78,
+   "text": "Yeah, yeah, yeah, and then you know we'll get so developed with it all that will have specific things for specific people"
+  },
+  {
+   "start": 939.58,
+   "end": 946.46,
+   "text": "Like even specific personalities and in different ages, you know people would all know that you do the running when you're in your 20s"
+  },
+  {
+   "start": 946.46,
+   "end": 948.46,
+   "text": "You do the riding when you're in your 30s"
+  },
+  {
+   "start": 948.78,
+   "end": 950.94,
+   "text": "When you're in your 40s you do the riding and the"
+  },
+  {
+   "start": 951.58,
+   "end": 955.26,
+   "text": "Swimming and then when you're in your 50s and 60s that's when you get into the rally"
+  },
+  {
+   "start": 956.06,
+   "end": 958.06,
+   "text": "in the canoeing"
+  },
+  {
+   "start": 958.7,
+   "end": 960.7,
+   "text": "And"
+  },
+  {
+   "start": 961.18,
+   "end": 966.46,
+   "text": "Yeah, you know like in the past oh yeah, and then many things came to pass when they go to war, you know they'd have battles with people"
+  },
+  {
+   "start": 967.1,
+   "end": 968.46,
+   "text": "And at the end of the war"
+  },
+  {
+   "start": 968.78,
+   "end": 975.34,
+   "text": "They'd say it's in dots skirmishes at the end to get scrooge stragglers or capture whoever and they send the young people who have stuff to prove"
+  },
+  {
+   "start": 976.54,
+   "end": 978.54,
+   "text": "and"
+  },
+  {
+   "start": 979.98,
+   "end": 981.98,
+   "text": "Yeah, and then"
+  },
+  {
+   "start": 981.98,
+   "end": 986.3,
+   "text": "Yeah, maybe mimicking history and lots of different ways they have the fights"
+  },
+  {
+   "start": 986.78,
+   "end": 989.98,
+   "text": "Fight-like like we have the five guys fight five guys"
+  },
+  {
+   "start": 990.62,
+   "end": 992.62,
+   "text": "And then the MMA"
+  },
+  {
+   "start": 993.5,
+   "end": 1000.94,
+   "text": "Some of our bike racing would be comparable to like the the the trackers and the scouts"
+  },
+  {
+   "start": 1002.06,
+   "end": 1004.06,
+   "text": "um"
+  },
+  {
+   "start": 1004.3,
+   "end": 1006.3,
+   "text": "and"
+  },
+  {
+   "start": 1008.46,
+   "end": 1014.22,
+   "text": "I was talking about recreating entire battle fields like we have a battle field where they said there were 50,000 people"
+  },
+  {
+   "start": 1014.22,
+   "end": 1016.54,
+   "text": "All that created with a real people and then they really fight"
+  },
+  {
+   "start": 1017.5,
+   "end": 1020.7,
+   "text": "With their little with their iron man fights in some and"
+  },
+  {
+   "start": 1021.9,
+   "end": 1024.14,
+   "text": "Or in the other or like those in areas"
+  },
+  {
+   "start": 1025.34,
+   "end": 1027.74,
+   "text": "Like we created exactly of course of the stuff"
+  },
+  {
+   "start": 1028.94,
+   "end": 1029.9,
+   "text": "But"
+  },
+  {
+   "start": 1031.85,
+   "end": 1036.97,
+   "text": "It's funny you know talking about this video talking about tourism in the future, but one thing that is"
+  },
+  {
+   "start": 1036.97,
+   "end": 1041.77,
+   "text": "It's good to know when you're talking about futut tourism in the future is to realize that"
+  },
+  {
+   "start": 1042.09,
+   "end": 1046.97,
+   "text": "You know, we're really creative people and we've had tourism in the past and we have a really rich pass"
+  },
+  {
+   "start": 1047.93,
+   "end": 1049.61,
+   "text": "Especially Colorado"
+  },
+  {
+   "start": 1049.61,
+   "end": 1054.97,
+   "text": "I'll upload the K&Z. I have I already made it. I just haven't linked them to my website yet"
+  },
+  {
+   "start": 1057.13,
+   "end": 1059.77,
+   "text": "So I'll try to do that pretty soon. I know that I'm uploading videos again"
+  },
+  {
+   "start": 1060.49,
+   "end": 1062.81,
+   "text": "But back in the 1870s"
+  },
+  {
+   "start": 1063.77,
+   "end": 1069.21,
+   "text": "You know back when Indians were still running wild all around here, you know the patches"
+  },
+  {
+   "start": 1070.17,
+   "end": 1075.05,
+   "text": "And the Sue or still running wild and fighting a white man out here in Boulder we have"
+  },
+  {
+   "start": 1076.01,
+   "end": 1079.29,
+   "text": "We had care about the big town of 3000 people up there"
+  },
+  {
+   "start": 1079.85,
+   "end": 1081.85,
+   "text": "We had all of these other towns"
+  },
+  {
+   "start": 1082.41,
+   "end": 1086.41,
+   "text": "All that I had like thousand and all the stuff and"
+  },
+  {
+   "start": 1087.77,
+   "end": 1091.53,
+   "text": "Trains and there's a train that went from good to Central City to"
+  },
+  {
+   "start": 1092.25,
+   "end": 1095.85,
+   "text": "Carebu all the way it's called the Switzerland Trail on the way to Ward and then"
+  },
+  {
+   "start": 1098.97,
+   "end": 1100.97,
+   "text": "And"
+  },
+  {
+   "start": 1101.53,
+   "end": 1103.53,
+   "text": "To like"
+  },
+  {
+   "start": 1103.53,
+   "end": 1105.53,
+   "text": "Colorado sell over"
+  },
+  {
+   "start": 1107.93,
+   "end": 1114.09,
+   "text": "Level in past it was like 11,000 feet and through silver cloning and back to Denver in Central City"
+  },
+  {
+   "start": 1114.41,
+   "end": 1116.41,
+   "text": "Back in the end"
+  },
+  {
+   "start": 1117.77,
+   "end": 1119.77,
+   "text": "They had seeds or segments"
+  },
+  {
+   "start": 1130.1,
+   "end": 1132.1,
+   "text": "These have been gone dollar"
+  },
+  {
+   "start": 1132.34,
+   "end": 1134.34,
+   "text": "And"
+  },
+  {
+   "start": 1134.34,
+   "end": 1136.34,
+   "text": "Yeah"
+  },
+  {
+   "start": 1136.34,
+   "end": 1138.34,
+   "text": "I'm not a lot of little bars"
+  },
+  {
+   "start": 1139.7,
+   "end": 1140.74,
+   "text": "You know trains"
+  },
+  {
+   "start": 1140.74,
+   "end": 1142.74,
+   "text": "So when through there it's pretty cool man"
+  },
+  {
+   "start": 1143.38,
+   "end": 1145.14,
+   "text": "You're amazing and Boulder has a pretty"
+  },
+  {
+   "start": 1145.14,
+   "end": 1146.74,
+   "text": "I'm pretty interesting history"
+  },
+  {
+   "start": 1147.14,
+   "end": 1149.14,
+   "text": "It started in 1859 and"
+  },
+  {
+   "start": 1150.42,
+   "end": 1154.9,
+   "text": "By 1875 I know like 3,000 people and then 1915 I have like 10,000 people"
+  },
+  {
+   "start": 1155.94,
+   "end": 1161.7,
+   "text": "And I'm recreating I'm a good lawyer right now, so but when you when you look at stuff in the past and then you look at stuff now"
+  },
+  {
+   "start": 1161.7,
+   "end": 1165.38,
+   "text": "You can it it allows you to look at the time through that you're living now"
+  },
+  {
+   "start": 1166.66,
+   "end": 1169.94,
+   "text": "Is though that we're not your time for the"
+  },
+  {
+   "start": 1170.74,
+   "end": 1172.74,
+   "text": "Pass or"
+  },
+  {
+   "start": 1176.34,
+   "end": 1179.14,
+   "text": "You know a step we moved which allows you to"
+  },
+  {
+   "start": 1185.72,
+   "end": 1188.84,
+   "text": "Which allows you to see the alternatives like what else could have been"
+  },
+  {
+   "start": 1190.12,
+   "end": 1192.84,
+   "text": "All of what could be of all pulse possibilities and"
+  },
+  {
+   "start": 1193.24,
+   "end": 1196.6,
+   "text": "Nixon and then when you strap away the future really"
+  },
+  {
+   "start": 1197.4,
+   "end": 1201.24,
+   "text": "Lots of cool ideas. I actually built a future Boulder on Google Earth"
+  },
+  {
+   "start": 1201.64,
+   "end": 1207.24,
+   "text": "I'm saying all this stuff like that third time but uh yeah like I want to put a bunch of a big"
+  },
+  {
+   "start": 1210.52,
+   "end": 1214.44,
+   "text": "Trade centers New York City trade centers you know the ones that got destroyed"
+  },
+  {
+   "start": 1215.32,
+   "end": 1219.32,
+   "text": "I was good way to remember them would be recreated on Google Earth because people know how big they are"
+  },
+  {
+   "start": 1219.88,
+   "end": 1223.96,
+   "text": "And then it'll help you give you an idea how big the places around here are"
+  },
+  {
+   "start": 1224.52,
+   "end": 1231.0,
+   "text": "So I I position those around and then I made a big city big building also 120,000 feet so I see how far away you can see it from"
+  },
+  {
+   "start": 1236.6,
+   "end": 1241.24,
+   "text": "And yeah, and then the one building here that's as big as I'm the long page"
+  },
+  {
+   "start": 1242.76,
+   "end": 1244.76,
+   "text": "I have an important thousand feet"
+  },
+  {
+   "start": 1245.16,
+   "end": 1247.16,
+   "text": "And yeah, maybe we will make a big"
+  },
+  {
+   "start": 1248.28,
+   "end": 1250.28,
+   "text": "Building set but"
+  },
+  {
+   "start": 1250.6,
+   "end": 1256.12,
+   "text": "But yeah trips you know imagine having paved paved bicycle has over the tops of the mountains"
+  },
+  {
+   "start": 1256.92,
+   "end": 1260.6,
+   "text": "That are perfectly paved you know, so you write a road bike only at the top of the mountain"
+  },
+  {
+   "start": 1261.48,
+   "end": 1263.48,
+   "text": "And a little water fountains and"
+  },
+  {
+   "start": 1265.08,
+   "end": 1267.08,
+   "text": "You can finish machines for something"
+  },
+  {
+   "start": 1267.56,
+   "end": 1269.56,
+   "text": "It'll basically turn into this"
+  },
+  {
+   "start": 1269.8,
+   "end": 1277.96,
+   "text": "This place where you can be in the right there close to civilization but you feel like you're in the nature and a wild nature because you're way of the mountains when the protected"
+  },
+  {
+   "start": 1278.76,
+   "end": 1280.76,
+   "text": "Part"
+  },
+  {
+   "start": 1280.76,
+   "end": 1286.92,
+   "text": "So and the but there's all these other bikers around you and it's all Strava so you go there and you're like you you did well if you're like"
+  },
+  {
+   "start": 1287.8,
+   "end": 1289.8,
+   "text": "3000 twice"
+  },
+  {
+   "start": 1291.48,
+   "end": 1293.48,
+   "text": "You know you did awesome"
+  },
+  {
+   "start": 1295.0,
+   "end": 1297.88,
+   "text": "Yeah, because everybody will do it yeah people will be very"
+  },
+  {
+   "start": 1300.12,
+   "end": 1301.48,
+   "text": "When you can mix"
+  },
+  {
+   "start": 1301.48,
+   "end": 1303.48,
+   "text": "Protect knowledge and"
+  },
+  {
+   "start": 1304.12,
+   "end": 1308.84,
+   "text": "Nature together that's a beautiful life. I was listening to the autobiography of"
+  },
+  {
+   "start": 1308.84,
+   "end": 1309.56,
+   "text": "Toronto"
+  },
+  {
+   "start": 1313.56,
+   "end": 1315.56,
+   "text": "grew up"
+  },
+  {
+   "start": 1315.56,
+   "end": 1322.28,
+   "text": "You know under moonlight and sunshine and swaying in the bowels of trees and just living right there in the middle of nature"
+  },
+  {
+   "start": 1324.6,
+   "end": 1329.56,
+   "text": "Basically a good view lifestyle and that makes you really tough and strong and"
+  },
+  {
+   "start": 1330.12,
+   "end": 1332.36,
+   "text": "It's a good life but you can have that kind of a life"
+  },
+  {
+   "start": 1333.8,
+   "end": 1337.88,
+   "text": "And have all the technology you can have now if you can have like a little cell phone"
+  },
+  {
+   "start": 1338.12,
+   "end": 1340.12,
+   "text": "I got it in a cell phone. I'll talk about it"
+  },
+  {
+   "start": 1340.52,
+   "end": 1342.52,
+   "text": "I'll see if that's another video"
+  },
+  {
+   "start": 1344.12,
+   "end": 1351.72,
+   "text": "Yeah, you have yourself on so all you're like audio books so some people are learning and your little choose on your little video camera to show where you can go in the map"
+  },
+  {
+   "start": 1352.68,
+   "end": 1355.88,
+   "text": "To written in the past and so you can you can not be like a"
+  },
+  {
+   "start": 1357.16,
+   "end": 1359.16,
+   "text": "Fascinate"
+  },
+  {
+   "start": 1359.16,
+   "end": 1361.16,
+   "text": "Fascinatedly learning"
+  },
+  {
+   "start": 1361.88,
+   "end": 1365.32,
+   "text": "The past all the stories that stories of the past while you're actually there"
+  },
+  {
+   "start": 1365.32,
+   "end": 1368.12,
+   "text": "Recreating a life that they live the same places and"
+  },
+  {
+   "start": 1368.28,
+   "end": 1371.24,
+   "text": "Imagining because when you're actually there and holding something in your hand"
+  },
+  {
+   "start": 1371.8,
+   "end": 1374.12,
+   "text": "It really brings history back to you more and"
+  },
+  {
+   "start": 1374.84,
+   "end": 1379.0,
+   "text": "Yeah, you know people will even be touching relics will organize your Alex name in the future"
+  },
+  {
+   "start": 1379.64,
+   "end": 1381.16,
+   "text": "Private owners"
+  },
+  {
+   "start": 1381.16,
+   "end": 1382.44,
+   "text": "Will"
+  },
+  {
+   "start": 1382.44,
+   "end": 1388.2,
+   "text": "Cell that relics back to the cup companies you know countries like maybe countries will go out the program. This is you know"
+  },
+  {
+   "start": 1388.2,
+   "end": 1394.84,
+   "text": "Pay real well good money. You guys just cough up your relics and so we all and then all the countries bring them back to the right places"
+  },
+  {
+   "start": 1394.84,
+   "end": 1396.44,
+   "text": "You know like Germany has like"
+  },
+  {
+   "start": 1397.0,
+   "end": 1398.28,
+   "text": "Scouts from"
+  },
+  {
+   "start": 1398.28,
+   "end": 1400.2,
+   "text": "Indians that the Indian tribes went back"
+  },
+  {
+   "start": 1400.2,
+   "end": 1403.8,
+   "text": "So you just give the people the original people back so go to the country and then you go there"
+  },
+  {
+   "start": 1403.8,
+   "end": 1406.28,
+   "text": "News and they've got all the collection all this stuff you look at any like"
+  },
+  {
+   "start": 1406.84,
+   "end": 1408.84,
+   "text": "Recreate history"
+  },
+  {
+   "start": 1409.48,
+   "end": 1411.48,
+   "text": "And do the endurance just the same time"
+  },
+  {
+   "start": 1411.72,
+   "end": 1417.8,
+   "text": "Yeah, so and so yeah, you know, but that provides jobs because people people can guide people people love having guides"
+  },
+  {
+   "start": 1418.2,
+   "end": 1422.36,
+   "text": "You want to have someone go show you the way and the support liquid and also teachers"
+  },
+  {
+   "start": 1423.56,
+   "end": 1428.92,
+   "text": "I'm teaching kids like one my bicycle teaching kids to teach your teaching kids and while they're riding"
+  },
+  {
+   "start": 1428.92,
+   "end": 1431.72,
+   "text": "They're just listening to school listen to the teachings"
+  },
+  {
+   "start": 1432.76,
+   "end": 1434.76,
+   "text": "In their ear they're with your guide there"
+  },
+  {
+   "start": 1436.12,
+   "end": 1440.68,
+   "text": "So yeah, three to 45 years so that's another generation from now I think the world get there"
+  },
+  {
+   "start": 1440.68,
+   "end": 1444.12,
+   "text": "I mean the technologies are now so the technologies are now people are"
+  },
+  {
+   "start": 1444.12,
+   "end": 1447.08,
+   "text": "You know people pick up picks up all the money stuff all that fast"
+  },
+  {
+   "start": 1448.68,
+   "end": 1450.2,
+   "text": "Well"
+  },
+  {
+   "start": 1450.2,
+   "end": 1452.2,
+   "text": "We'll definitely"
+  },
+  {
+   "start": 1452.44,
+   "end": 1456.68,
+   "text": "By then have it all figured out you know, I think we'll have it figured out really pretty soon"
+  },
+  {
+   "start": 1458.44,
+   "end": 1461.48,
+   "text": "So oh and then 26 to use and beyond"
+  },
+  {
+   "start": 1463.16,
+   "end": 1465.16,
+   "text": "Even beyond that"
+  },
+  {
+   "start": 1465.16,
+   "end": 1469.8,
+   "text": "Well, you could get freaky, but then like what if the aliens come you know, and then we have anti-gravity"
+  },
+  {
+   "start": 1469.8,
+   "end": 1472.84,
+   "text": "Foot spaceships and you could go up to the moon and you get your trips"
+  },
+  {
+   "start": 1473.72,
+   "end": 1476.12,
+   "text": "Jumping off of like the thousand foot sky"
+  },
+  {
+   "start": 1477.56,
+   "end": 1479.56,
+   "text": "Like diver thing"
+  },
+  {
+   "start": 1480.44,
+   "end": 1485.24,
+   "text": "I didn't work into the huge like but you know grabbing isn't that much"
+  },
+  {
+   "start": 1485.24,
+   "end": 1487.88,
+   "text": "They're not falling inspired with the water is much heavy fun"
+  },
+  {
+   "start": 1488.28,
+   "end": 1491.96,
+   "text": "You're just spinning around but you're like you feel like you're in space because it's on a big dome"
+  },
+  {
+   "start": 1492.76,
+   "end": 1494.76,
+   "text": "And then you can go to like Mars and"
+  },
+  {
+   "start": 1495.64,
+   "end": 1498.2,
+   "text": "Do the rope do like the sand in races of Mars"
+  },
+  {
+   "start": 1498.2,
+   "end": 1502.44,
+   "text": "It's tough, you know, I imagine how big the water slides will be oh my god"
+  },
+  {
+   "start": 1503.0,
+   "end": 1505.96,
+   "text": "Okay, so I think I'll talk long enough man"
+  },
+  {
+   "start": 1507.08,
+   "end": 1509.08,
+   "text": "I don't want to like bamboo"
+  },
+  {
+   "start": 1509.72,
+   "end": 1511.72,
+   "text": "Okay, peace out"
+  }
+ ]
+}

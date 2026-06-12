@@ -1,0 +1,844 @@
+{
+ "youtube_id": "IpntC21COmk",
+ "title": "Living in Boulder Vlog 11 - 21 - 2016",
+ "url": "https://youtu.be/IpntC21COmk",
+ "published_at": "2016-11-22",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle discusses a new month-long project: mapping ancient Rome in Google Earth by tracing a historical map (the Forma Urbis Romae) he found on the David Rumsey historical map site overlaid on Google Earth. He explains the history of the map — commissioned under Septimius Severus, lost, rediscovered as stone fragments behind a church, and eventually reconstructed — and his excitement about using it to build a detailed 'Boulder Rome' model.",
+  "speaker": "kyle",
+  "topics": [
+   "Google Earth mapping project",
+   "ancient Rome reconstruction",
+   "Forma Urbis Romae",
+   "historical cartography",
+   "daily vlog update"
+  ],
+  "stances": [
+   {
+    "topic": "mapping ancient Rome in Google Earth",
+    "position": "extremely excited and committed — plans to spend a month tracing the entire city"
+   },
+   {
+    "topic": "the Forma Urbis Romae map",
+    "position": "finds it incredible that such detailed ancient records survived and are now usable for his project"
+   },
+   {
+    "topic": "the 'Boulder Rome' project",
+    "position": "sees a complete Rome map as the essential foundation for modeling Boulder after Rome"
+   }
+  ],
+  "entities": [
+   "David Rumsey",
+   "Septimius Severus",
+   "Marcus Aurelius",
+   "Commodus",
+   "Circus Maximus",
+   "Capitoline Hill (Kirinal Hill)",
+   "Servian Wall",
+   "Aurelian Wall",
+   "Forma Urbis Romae",
+   "Boulder",
+   "Rome"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.68,
+   "end": 10.68,
+   "text": "Hello, this is Living in V-LOG for November 21st, as today is noontime of November 22nd."
+  },
+  {
+   "start": 11.36,
+   "end": 17.96,
+   "text": "Excuse me. Sorry for belching yesterday. I totally didn't mean it."
+  },
+  {
+   "start": 18.02,
+   "end": 22.56,
+   "text": "What happened was I got out of bed, and then I did the video."
+  },
+  {
+   "start": 23.84,
+   "end": 26.82,
+   "text": "Didn't get a chance for things to settle, I guess."
+  },
+  {
+   "start": 26.82,
+   "end": 33.92,
+   "text": "So, yesterday, I, uh..."
+  },
+  {
+   "start": 33.92,
+   "end": 34.98,
+   "text": "Oh, excuse me."
+  },
+  {
+   "start": 36.94,
+   "end": 40.9,
+   "text": "Yesterday was a big day. Yesterday was like the beginning of a new project within the project."
+  },
+  {
+   "start": 41.56,
+   "end": 43.74,
+   "text": "One of those new month-long projects."
+  },
+  {
+   "start": 45.64,
+   "end": 48.26,
+   "text": "I started out yesterday, I wanted to do Roman Roads."
+  },
+  {
+   "start": 49.74,
+   "end": 54.68,
+   "text": "So, I was like, okay, well let's make sure that there's not KMZ."
+  },
+  {
+   "start": 54.8,
+   "end": 56.88,
+   "text": "Because I already checked it, but it's good to check again."
+  },
+  {
+   "start": 56.88,
+   "end": 61.5,
+   "text": "And let's make sure that there's not KMZ Google Earth downloads of all our Roman Roads."
+  },
+  {
+   "start": 61.56,
+   "end": 64.6,
+   "text": "So that I don't have to waste my time building Roman Roads."
+  },
+  {
+   "start": 65.0,
+   "end": 66.26,
+   "text": "And I don't think there are."
+  },
+  {
+   "start": 66.8,
+   "end": 72.62,
+   "text": "But, I did go into the David Rumsey historical map site."
+  },
+  {
+   "start": 72.7,
+   "end": 75.54,
+   "text": "And for some reason, I came across maps I didn't see before Rome."
+  },
+  {
+   "start": 76.32,
+   "end": 78.84,
+   "text": "I don't know if they weren't on, or I didn't notice, or whatever."
+  },
+  {
+   "start": 78.84,
+   "end": 82.68,
+   "text": "But, I noticed the Rome."
+  },
+  {
+   "start": 83.56,
+   "end": 90.4,
+   "text": "It had the tracing of the root of the wall superimposed on Google Earth."
+  },
+  {
+   "start": 90.86,
+   "end": 92.62,
+   "text": "Um, just Servian and Enchiline."
+  },
+  {
+   "start": 92.72,
+   "end": 93.66,
+   "text": "So I was like, what?"
+  },
+  {
+   "start": 94.32,
+   "end": 95.74,
+   "text": "Because I had been looking for that."
+  },
+  {
+   "start": 95.74,
+   "end": 98.82,
+   "text": "So, yeah, my walls were wrong."
+  },
+  {
+   "start": 98.96,
+   "end": 100.0,
+   "text": "So I fixed the walls."
+  },
+  {
+   "start": 100.16,
+   "end": 102.4,
+   "text": "And then I put the posts on it."
+  },
+  {
+   "start": 102.62,
+   "end": 103.32,
+   "text": "Guard towers."
+  },
+  {
+   "start": 103.48,
+   "end": 104.46,
+   "text": "Because that was shown too."
+  },
+  {
+   "start": 108.08,
+   "end": 108.98,
+   "text": "Major development."
+  },
+  {
+   "start": 109.14,
+   "end": 111.06,
+   "text": "And then I was like, on the same map."
+  },
+  {
+   "start": 111.36,
+   "end": 112.56,
+   "text": "One of the maps there."
+  },
+  {
+   "start": 112.82,
+   "end": 116.3,
+   "text": "Um, there was a..."
+  },
+  {
+   "start": 116.3,
+   "end": 119.18,
+   "text": "It was a map of, like, Rome."
+  },
+  {
+   "start": 119.9,
+   "end": 122.04,
+   "text": "And so I was like, fuck it."
+  },
+  {
+   "start": 123.52,
+   "end": 123.96,
+   "text": "Hmm."
+  },
+  {
+   "start": 124.8,
+   "end": 125.68,
+   "text": "So I was like, fuck it."
+  },
+  {
+   "start": 125.72,
+   "end": 126.52,
+   "text": "Let's just..."
+  },
+  {
+   "start": 126.52,
+   "end": 127.84,
+   "text": "Let's just map Rome."
+  },
+  {
+   "start": 128.12,
+   "end": 128.7,
+   "text": "All of Rome."
+  },
+  {
+   "start": 128.92,
+   "end": 130.18,
+   "text": "Everything within the Ent..."
+  },
+  {
+   "start": 130.18,
+   "end": 131.82,
+   "text": "The, um..."
+  },
+  {
+   "start": 131.82,
+   "end": 133.0,
+   "text": "The Antonine walls."
+  },
+  {
+   "start": 133.52,
+   "end": 134.48,
+   "text": "The Aurelian walls."
+  },
+  {
+   "start": 135.54,
+   "end": 136.02,
+   "text": "Um."
+  },
+  {
+   "start": 137.4,
+   "end": 139.3,
+   "text": "Because then I can map out exactly..."
+  },
+  {
+   "start": 140.12,
+   "end": 142.06,
+   "text": "Where and who everybody is."
+  },
+  {
+   "start": 142.06,
+   "end": 143.14,
+   "text": "You know, I can do the census."
+  },
+  {
+   "start": 143.38,
+   "end": 145.06,
+   "text": "And then I can have a really good, um..."
+  },
+  {
+   "start": 145.06,
+   "end": 148.24,
+   "text": "Model to build boulder off of."
+  },
+  {
+   "start": 148.36,
+   "end": 149.22,
+   "text": "Boulder Rome off of."
+  },
+  {
+   "start": 149.34,
+   "end": 150.12,
+   "text": "Because I have Rome."
+  },
+  {
+   "start": 150.86,
+   "end": 152.3,
+   "text": "And also, though, the main reason."
+  },
+  {
+   "start": 152.42,
+   "end": 154.7,
+   "text": "I'll finally get to know what Rome looks like, man."
+  },
+  {
+   "start": 154.98,
+   "end": 156.06,
+   "text": "It's gonna be awesome."
+  },
+  {
+   "start": 157.2,
+   "end": 159.06,
+   "text": "So, um..."
+  },
+  {
+   "start": 159.06,
+   "end": 161.06,
+   "text": "Yeah, and it's very detailed, too."
+  },
+  {
+   "start": 161.12,
+   "end": 163.56,
+   "text": "Like, you could make a map of Rome for most of it."
+  },
+  {
+   "start": 163.62,
+   "end": 164.78,
+   "text": "Yeah, and pretty much make Rome."
+  },
+  {
+   "start": 164.82,
+   "end": 165.98,
+   "text": "Like, that's your Rome right there."
+  },
+  {
+   "start": 167.5,
+   "end": 167.86,
+   "text": "Hmm."
+  },
+  {
+   "start": 168.38,
+   "end": 169.94,
+   "text": "You could do tours and stuff."
+  },
+  {
+   "start": 169.94,
+   "end": 171.62,
+   "text": "So let me tell you the story behind that."
+  },
+  {
+   "start": 171.74,
+   "end": 172.76,
+   "text": "Because that's pretty damn cool."
+  },
+  {
+   "start": 172.76,
+   "end": 175.82,
+   "text": "So, yeah."
+  },
+  {
+   "start": 175.94,
+   "end": 177.76,
+   "text": "Like, how the hell do we have a map of Rome?"
+  },
+  {
+   "start": 178.14,
+   "end": 178.46,
+   "text": "Seriously."
+  },
+  {
+   "start": 178.64,
+   "end": 179.66,
+   "text": "Like, a street plan of Rome."
+  },
+  {
+   "start": 179.88,
+   "end": 181.08,
+   "text": "Like, what all the..."
+  },
+  {
+   "start": 181.08,
+   "end": 183.0,
+   "text": "Exactly how all of the temples were built."
+  },
+  {
+   "start": 183.06,
+   "end": 183.84,
+   "text": "And the roads between them."
+  },
+  {
+   "start": 183.88,
+   "end": 184.62,
+   "text": "And all that kind of stuff."
+  },
+  {
+   "start": 185.4,
+   "end": 185.74,
+   "text": "Well."
+  },
+  {
+   "start": 186.64,
+   "end": 189.06,
+   "text": "What happened was, um..."
+  },
+  {
+   "start": 189.06,
+   "end": 191.46,
+   "text": "Yeah, it was lost to history."
+  },
+  {
+   "start": 191.78,
+   "end": 192.38,
+   "text": "It was like..."
+  },
+  {
+   "start": 192.38,
+   "end": 195.6,
+   "text": "And, you know, like most stuff in antiquity was lost to history."
+  },
+  {
+   "start": 195.72,
+   "end": 196.98,
+   "text": "You know, in the Dark Ages."
+  },
+  {
+   "start": 197.3,
+   "end": 197.66,
+   "text": "Never..."
+  },
+  {
+   "start": 197.66,
+   "end": 198.48,
+   "text": "People heard of Rome."
+  },
+  {
+   "start": 198.54,
+   "end": 199.7,
+   "text": "But they didn't know anything about Rome."
+  },
+  {
+   "start": 199.7,
+   "end": 200.1,
+   "text": "Um..."
+  },
+  {
+   "start": 200.1,
+   "end": 202.54,
+   "text": "So in like 1564, I think it was."
+  },
+  {
+   "start": 203.48,
+   "end": 205.26,
+   "text": "You know, somebody like..."
+  },
+  {
+   "start": 205.26,
+   "end": 205.62,
+   "text": "I don't know."
+  },
+  {
+   "start": 207.96,
+   "end": 210.5,
+   "text": "They stumbled across etchings and rock."
+  },
+  {
+   "start": 210.6,
+   "end": 211.76,
+   "text": "And yeah, they found..."
+  },
+  {
+   "start": 211.76,
+   "end": 214.88,
+   "text": "It was like a hundred, a hundred, or a couple hundred, or whatever."
+  },
+  {
+   "start": 215.02,
+   "end": 217.98,
+   "text": "I don't know exactly how many pieces of rock."
+  },
+  {
+   "start": 217.98,
+   "end": 219.76,
+   "text": "Um..."
+  },
+  {
+   "start": 219.76,
+   "end": 221.6,
+   "text": "Just piled behind a church."
+  },
+  {
+   "start": 222.0,
+   "end": 224.6,
+   "text": "And I guess it used to be a big mural up on the church."
+  },
+  {
+   "start": 224.68,
+   "end": 226.62,
+   "text": "It was where they kept the records on the..."
+  },
+  {
+   "start": 226.62,
+   "end": 227.16,
+   "text": "What was it?"
+  },
+  {
+   "start": 227.2,
+   "end": 227.98,
+   "text": "The..."
+  },
+  {
+   "start": 227.98,
+   "end": 228.94,
+   "text": "One of the hills there."
+  },
+  {
+   "start": 230.2,
+   "end": 230.76,
+   "text": "Kirinal Hill."
+  },
+  {
+   "start": 231.38,
+   "end": 231.78,
+   "text": "I think."
+  },
+  {
+   "start": 231.88,
+   "end": 232.44,
+   "text": "And..."
+  },
+  {
+   "start": 232.44,
+   "end": 233.76,
+   "text": "It was like..."
+  },
+  {
+   "start": 233.76,
+   "end": 235.6,
+   "text": "I need to read the Wikipedia again."
+  },
+  {
+   "start": 235.62,
+   "end": 238.36,
+   "text": "But if I remember correctly, it was like 30 meters by 30 meters."
+  },
+  {
+   "start": 238.5,
+   "end": 239.52,
+   "text": "It was this huge wall."
+  },
+  {
+   "start": 239.88,
+   "end": 240.72,
+   "text": "A hundred feet by a hundred feet."
+  },
+  {
+   "start": 240.72,
+   "end": 245.06,
+   "text": "With really detailed, etched-in-stone map of the city."
+  },
+  {
+   "start": 245.22,
+   "end": 245.78,
+   "text": "Like whoever..."
+  },
+  {
+   "start": 245.78,
+   "end": 247.14,
+   "text": "And it was Severus who came up with it."
+  },
+  {
+   "start": 247.16,
+   "end": 248.86,
+   "text": "They did it somewhere in Severus' reign."
+  },
+  {
+   "start": 248.86,
+   "end": 255.08,
+   "text": "Which was between 193 and like 215 or something like that."
+  },
+  {
+   "start": 255.2,
+   "end": 256.74,
+   "text": "So you know when it was made."
+  },
+  {
+   "start": 257.22,
+   "end": 259.34,
+   "text": "And there's this one building called the Tagliate."
+  },
+  {
+   "start": 259.5,
+   "end": 260.54,
+   "text": "I don't remember what it was called."
+  },
+  {
+   "start": 260.68,
+   "end": 262.0,
+   "text": "But it was made in 205."
+  },
+  {
+   "start": 262.04,
+   "end": 262.78,
+   "text": "And that's in the map."
+  },
+  {
+   "start": 262.86,
+   "end": 263.98,
+   "text": "So it was after 205."
+  },
+  {
+   "start": 264.08,
+   "end": 265.16,
+   "text": "It was like, you know, 210."
+  },
+  {
+   "start": 265.16,
+   "end": 269.32,
+   "text": "Which is pretty much at the absolute height of Rome."
+  },
+  {
+   "start": 269.56,
+   "end": 271.28,
+   "text": "Like the construction of Rome."
+  },
+  {
+   "start": 271.38,
+   "end": 272.32,
+   "text": "And the strength of the empire."
+  },
+  {
+   "start": 273.08,
+   "end": 275.04,
+   "text": "You know, right at the end of the five good emperors."
+  },
+  {
+   "start": 275.24,
+   "end": 276.2,
+   "text": "Marcus Aurelius."
+  },
+  {
+   "start": 276.3,
+   "end": 277.82,
+   "text": "And then there was Commodus who fucked it up."
+  },
+  {
+   "start": 277.92,
+   "end": 281.4,
+   "text": "And then after Commodus, there was Severus."
+  },
+  {
+   "start": 281.64,
+   "end": 282.52,
+   "text": "So..."
+  },
+  {
+   "start": 282.52,
+   "end": 283.04,
+   "text": "Yeah, man."
+  },
+  {
+   "start": 285.06,
+   "end": 286.46,
+   "text": "So we have a map of Rome."
+  },
+  {
+   "start": 286.9,
+   "end": 289.42,
+   "text": "So there's some dude in like 1500..."
+  },
+  {
+   "start": 289.42,
+   "end": 291.68,
+   "text": "Or 1700 in 1847."
+  },
+  {
+   "start": 291.8,
+   "end": 292.28,
+   "text": "1840."
+  },
+  {
+   "start": 293.18,
+   "end": 294.16,
+   "text": "This Italian guy."
+  },
+  {
+   "start": 295.16,
+   "end": 300.28,
+   "text": "Pieced together those stones and made a map of Rome."
+  },
+  {
+   "start": 300.38,
+   "end": 301.86,
+   "text": "Ancient Rome on top of modern Rome."
+  },
+  {
+   "start": 301.98,
+   "end": 304.52,
+   "text": "And so then somebody pasted it on Google Earth."
+  },
+  {
+   "start": 305.24,
+   "end": 306.18,
+   "text": "And so all I have to do..."
+  },
+  {
+   "start": 306.18,
+   "end": 307.54,
+   "text": "I can't believe somebody else didn't do this."
+  },
+  {
+   "start": 307.56,
+   "end": 309.84,
+   "text": "All I have to do is go in and trace it."
+  },
+  {
+   "start": 310.04,
+   "end": 311.5,
+   "text": "Trace it all out and build Rome."
+  },
+  {
+   "start": 312.42,
+   "end": 313.38,
+   "text": "So cool, man."
+  },
+  {
+   "start": 313.82,
+   "end": 315.22,
+   "text": "There are a lot of columns though."
+  },
+  {
+   "start": 315.28,
+   "end": 316.88,
+   "text": "A lot of columns in Rome."
+  },
+  {
+   "start": 317.64,
+   "end": 319.62,
+   "text": "It's mostly just tracing columns."
+  },
+  {
+   "start": 320.32,
+   "end": 322.26,
+   "text": "But yeah, I'm looking forward to it, man."
+  },
+  {
+   "start": 322.26,
+   "end": 325.32,
+   "text": "And you'll get an idea of how big Rome was."
+  },
+  {
+   "start": 326.6,
+   "end": 327.38,
+   "text": "And how..."
+  },
+  {
+   "start": 327.38,
+   "end": 330.0,
+   "text": "Like, why they put stuff."
+  },
+  {
+   "start": 330.06,
+   "end": 334.66,
+   "text": "Like, they put the big jail at the end of the Circus Maximus."
+  },
+  {
+   "start": 334.66,
+   "end": 337.76,
+   "text": "So all the prisoners could watch the cherry erasing."
+  },
+  {
+   "start": 337.76,
+   "end": 340.86,
+   "text": "But yeah, so that's what I did all day."
+  },
+  {
+   "start": 340.88,
+   "end": 342.26,
+   "text": "I was working until like 5."
+  },
+  {
+   "start": 342.26,
+   "end": 344.28,
+   "text": "15 this morning."
+  },
+  {
+   "start": 345.34,
+   "end": 346.26,
+   "text": "So I got like..."
+  },
+  {
+   "start": 346.88,
+   "end": 348.98,
+   "text": "I guess 6 and a half hours of sleep."
+  },
+  {
+   "start": 349.1,
+   "end": 350.46,
+   "text": "Or 6 and a half hours of sleep."
+  },
+  {
+   "start": 351.88,
+   "end": 352.8,
+   "text": "Well, it's working."
+  },
+  {
+   "start": 353.26,
+   "end": 354.5,
+   "text": "And I'm ready to go again now."
+  },
+  {
+   "start": 354.76,
+   "end": 356.72,
+   "text": "Get high and fucking just do this, man."
+  },
+  {
+   "start": 356.78,
+   "end": 358.06,
+   "text": "Just trace, trace, trace, trace."
+  },
+  {
+   "start": 358.96,
+   "end": 360.86,
+   "text": "As much as I can for like a month."
+  },
+  {
+   "start": 361.8,
+   "end": 363.54,
+   "text": "And see if I can get this thing built, man."
+  },
+  {
+   "start": 364.26,
+   "end": 365.16,
+   "text": "It's really exciting."
+  },
+  {
+   "start": 365.16,
+   "end": 368.3,
+   "text": "Alrighty, so stay tuned."
+  }
+ ]
+}

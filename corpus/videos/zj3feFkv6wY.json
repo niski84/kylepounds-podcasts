@@ -1,0 +1,591 @@
+{
+ "youtube_id": "zj3feFkv6wY",
+ "title": "Living in Boulder Vlog 1 - 21 - 2017",
+ "url": "https://youtu.be/zj3feFkv6wY",
+ "published_at": "2017-01-21",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder while high, describing his near-completion of a digital version of Pliny (the Elder's Natural History) — building navigation menus and chapter links across 1,022 pages and 37 books. He also mentions listening to a Roman Emperors podcast, watching the Borgia TV show, and dealing with an internet outage preventing him from watching a new show about an Ottoman Sultan.",
+  "speaker": "kyle",
+  "topics": [
+   "daily life",
+   "marijuana",
+   "Pliny the Elder",
+   "digital project/web formatting",
+   "Roman history podcast",
+   "TV shows",
+   "internet outage",
+   "Boulder living"
+  ],
+  "stances": [
+   {
+    "topic": "Pliny the Elder's Natural History",
+    "position": "One of the most important books ever written"
+   },
+   {
+    "topic": "Borgia TV show",
+    "position": "Really good"
+   },
+   {
+    "topic": "Roman Emperors podcast",
+    "position": "Good; likes the smart lady host"
+   }
+  ],
+  "entities": [
+   "Pliny the Elder",
+   "Borgia (TV show)",
+   "The Magnificent Century (TV show)",
+   "Roman Emperors podcast",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.36,
+   "end": 8.68,
+   "text": "Hello, living in Boulder V-Log for the 21st of January."
+  },
+  {
+   "start": 11.18,
+   "end": 12.9,
+   "text": "I'm super high right now."
+  },
+  {
+   "start": 12.96,
+   "end": 18.54,
+   "text": "I just got really high to smoke much weed at 7.15 in the morning."
+  },
+  {
+   "start": 20.22,
+   "end": 29.5,
+   "text": "So yesterday, I think I finally crashed at like 3 or something."
+  },
+  {
+   "start": 29.5,
+   "end": 35.02,
+   "text": "But then I woke up again at like 1.30 or something."
+  },
+  {
+   "start": 36.6,
+   "end": 39.14,
+   "text": "I don't remember what time I crashed, but I got up at like 1.30."
+  },
+  {
+   "start": 39.32,
+   "end": 42.48,
+   "text": "I've been up since then, so I feel kind of tired, though."
+  },
+  {
+   "start": 42.72,
+   "end": 48.24,
+   "text": "But I'm pretty close to finishing Pliny."
+  },
+  {
+   "start": 48.42,
+   "end": 53.38,
+   "text": "I wanted to do this one other thing, though,"
+  },
+  {
+   "start": 53.38,
+   "end": 61.2,
+   "text": "Is where in the tops of every chapter you can jump to the menu that it's in."
+  },
+  {
+   "start": 61.92,
+   "end": 63.68,
+   "text": "Because you don't have the menu on top."
+  },
+  {
+   "start": 64.66,
+   "end": 66.7,
+   "text": "So you'd want to be able to jump to it."
+  },
+  {
+   "start": 66.94,
+   "end": 69.12,
+   "text": "And so, yeah, I'm pasting those on."
+  },
+  {
+   "start": 69.22,
+   "end": 70.68,
+   "text": "So that's just the final step."
+  },
+  {
+   "start": 70.84,
+   "end": 73.62,
+   "text": "And then I'll paste it."
+  },
+  {
+   "start": 73.66,
+   "end": 75.6,
+   "text": "Yeah, so then I think tomorrow I'll be like,"
+  },
+  {
+   "start": 75.6,
+   "end": 76.82,
+   "text": "Yeah, Pliny."
+  },
+  {
+   "start": 77.48,
+   "end": 78.52,
+   "text": "Check out Pliny."
+  },
+  {
+   "start": 80.04,
+   "end": 81.62,
+   "text": "1,022 pages."
+  },
+  {
+   "start": 82.34,
+   "end": 85.26,
+   "text": "I don't know how many chapters, but I think it's..."
+  },
+  {
+   "start": 85.26,
+   "end": 87.94,
+   "text": "Well, it's divided into 37 books."
+  },
+  {
+   "start": 88.02,
+   "end": 91.18,
+   "text": "And each book averaged like 100 chapters, you know?"
+  },
+  {
+   "start": 91.3,
+   "end": 98.18,
+   "text": "So it's like 1,000 pages and 1,000 that you could link to."
+  },
+  {
+   "start": 98.42,
+   "end": 99.1,
+   "text": "It's pretty..."
+  },
+  {
+   "start": 99.1,
+   "end": 99.68,
+   "text": "Yeah, but anyway."
+  },
+  {
+   "start": 101.84,
+   "end": 106.58,
+   "text": "Oh, so yeah, I'm listening to a podcast."
+  },
+  {
+   "start": 107.62,
+   "end": 109.16,
+   "text": "Roman Emperor's podcast."
+  },
+  {
+   "start": 110.54,
+   "end": 111.58,
+   "text": "The Australians."
+  },
+  {
+   "start": 112.1,
+   "end": 112.58,
+   "text": "It's good."
+  },
+  {
+   "start": 112.8,
+   "end": 113.32,
+   "text": "I like it."
+  },
+  {
+   "start": 113.48,
+   "end": 114.4,
+   "text": "The smart lady."
+  },
+  {
+   "start": 118.08,
+   "end": 123.31,
+   "text": "And I was watching..."
+  },
+  {
+   "start": 123.31,
+   "end": 124.51,
+   "text": "We didn't watch..."
+  },
+  {
+   "start": 124.51,
+   "end": 126.49,
+   "text": "I didn't watch any TV yesterday."
+  },
+  {
+   "start": 126.71,
+   "end": 127.77,
+   "text": "Maybe I should watch some now."
+  },
+  {
+   "start": 128.91,
+   "end": 130.19,
+   "text": "That Borgia is really good."
+  },
+  {
+   "start": 130.19,
+   "end": 131.41,
+   "text": "Borgia TV show."
+  },
+  {
+   "start": 133.03,
+   "end": 134.71,
+   "text": "Oh, I tried to watch a new one, though,"
+  },
+  {
+   "start": 134.77,
+   "end": 137.03,
+   "text": "Called The Magnificent Century about the Sultan."
+  },
+  {
+   "start": 137.79,
+   "end": 139.37,
+   "text": "But I don't have any internet."
+  },
+  {
+   "start": 139.49,
+   "end": 141.07,
+   "text": "I can't watch TV, so I'm having my internet."
+  },
+  {
+   "start": 141.97,
+   "end": 143.39,
+   "text": "And I can't watch YouTube either."
+  },
+  {
+   "start": 143.47,
+   "end": 145.75,
+   "text": "My internet died like three or four hours ago."
+  },
+  {
+   "start": 146.89,
+   "end": 149.35,
+   "text": "And I have my computer plugged in,"
+  },
+  {
+   "start": 149.41,
+   "end": 152.29,
+   "text": "And I rebooted my modem,"
+  },
+  {
+   "start": 152.29,
+   "end": 154.21,
+   "text": "So I might have to call."
+  },
+  {
+   "start": 155.43,
+   "end": 160.17,
+   "text": "So, yeah, super exciting to be done with Pliny, man."
+  },
+  {
+   "start": 160.19,
+   "end": 162.71,
+   "text": "How do you like them apples?"
+  },
+  {
+   "start": 163.51,
+   "end": 169.17,
+   "text": "Oh, I had to build Chapter 11, though, from scratch."
+  },
+  {
+   "start": 169.99,
+   "end": 171.43,
+   "text": "Because, see, I wouldn't have..."
+  },
+  {
+   "start": 171.43,
+   "end": 173.19,
+   "text": "I'm not crazy enough to just build Pliny."
+  },
+  {
+   "start": 174.05,
+   "end": 175.43,
+   "text": "I already had it built."
+  },
+  {
+   "start": 175.99,
+   "end": 177.55,
+   "text": "I just didn't have the menu built,"
+  },
+  {
+   "start": 177.67,
+   "end": 178.61,
+   "text": "Or the links or anything."
+  },
+  {
+   "start": 179.37,
+   "end": 181.49,
+   "text": "So all I had to do was build the menu"
+  },
+  {
+   "start": 181.49,
+   "end": 182.77,
+   "text": "And link it together."
+  },
+  {
+   "start": 183.03,
+   "end": 184.37,
+   "text": "But I had to build Chapter 11,"
+  },
+  {
+   "start": 184.57,
+   "end": 185.71,
+   "text": "And that was 119."
+  },
+  {
+   "start": 187.15,
+   "end": 188.39,
+   "text": "But anyway, yeah."
+  },
+  {
+   "start": 188.67,
+   "end": 190.09,
+   "text": "But I'm, yeah, almost there."
+  },
+  {
+   "start": 190.19,
+   "end": 191.21,
+   "text": "It's going to be awesome."
+  },
+  {
+   "start": 191.95,
+   "end": 193.45,
+   "text": "Pliny's one of the most important books ever."
+  },
+  {
+   "start": 194.25,
+   "end": 194.67,
+   "text": "314."
+  },
+  {
+   "start": 194.79,
+   "end": 195.83,
+   "text": "Okay, that's enough talking."
+  },
+  {
+   "start": 195.99,
+   "end": 196.59,
+   "text": "Peace out."
+  },
+  {
+   "start": 196.59,
+   "end": 196.73,
+   "text": "Peace out."
+  },
+  {
+   "start": 196.73,
+   "end": 196.79,
+   "text": "Peace out."
+  },
+  {
+   "start": 196.79,
+   "end": 196.89,
+   "text": "Peace out."
+  },
+  {
+   "start": 196.89,
+   "end": 197.29,
+   "text": "Peace out."
+  },
+  {
+   "start": 197.29,
+   "end": 197.39,
+   "text": "Peace out."
+  },
+  {
+   "start": 197.39,
+   "end": 197.43,
+   "text": "Peace out."
+  },
+  {
+   "start": 197.43,
+   "end": 197.93,
+   "text": "Peace out."
+  },
+  {
+   "start": 197.93,
+   "end": 197.95,
+   "text": "Peace out."
+  },
+  {
+   "start": 197.95,
+   "end": 198.29,
+   "text": "Peace out."
+  },
+  {
+   "start": 198.29,
+   "end": 198.33,
+   "text": "Peace out."
+  },
+  {
+   "start": 198.33,
+   "end": 198.39,
+   "text": "Peace out."
+  },
+  {
+   "start": 198.39,
+   "end": 198.59,
+   "text": "Peace out."
+  },
+  {
+   "start": 198.59,
+   "end": 198.85,
+   "text": "Peace out."
+  },
+  {
+   "start": 198.85,
+   "end": 198.93,
+   "text": "Peace out."
+  },
+  {
+   "start": 198.93,
+   "end": 199.39,
+   "text": "Peace out."
+  },
+  {
+   "start": 199.39,
+   "end": 199.43,
+   "text": "Peace out."
+  },
+  {
+   "start": 199.43,
+   "end": 199.49,
+   "text": "Peace out."
+  },
+  {
+   "start": 199.49,
+   "end": 199.53,
+   "text": "Peace out."
+  },
+  {
+   "start": 199.53,
+   "end": 199.93,
+   "text": "Peace out."
+  },
+  {
+   "start": 199.93,
+   "end": 199.99,
+   "text": "Peace out."
+  },
+  {
+   "start": 199.99,
+   "end": 200.49,
+   "text": "Peace out."
+  },
+  {
+   "start": 200.49,
+   "end": 201.49,
+   "text": "Peace out."
+  },
+  {
+   "start": 201.49,
+   "end": 201.53,
+   "text": "Peace out."
+  },
+  {
+   "start": 201.53,
+   "end": 201.93,
+   "text": "Peace out."
+  },
+  {
+   "start": 201.93,
+   "end": 201.99,
+   "text": "Peace out."
+  },
+  {
+   "start": 201.99,
+   "end": 202.49,
+   "text": "Peace out."
+  },
+  {
+   "start": 202.49,
+   "end": 202.53,
+   "text": "Peace out."
+  },
+  {
+   "start": 202.53,
+   "end": 202.99,
+   "text": "Peace out."
+  },
+  {
+   "start": 202.99,
+   "end": 203.49,
+   "text": "Peace out."
+  },
+  {
+   "start": 203.49,
+   "end": 203.99,
+   "text": "Peace out."
+  },
+  {
+   "start": 203.99,
+   "end": 204.49,
+   "text": "Peace out."
+  },
+  {
+   "start": 204.49,
+   "end": 204.99,
+   "text": "Peace out."
+  },
+  {
+   "start": 204.99,
+   "end": 205.49,
+   "text": "Peace out."
+  },
+  {
+   "start": 205.49,
+   "end": 205.99,
+   "text": "Peace out."
+  },
+  {
+   "start": 205.99,
+   "end": 206.49,
+   "text": "Peace out."
+  },
+  {
+   "start": 206.49,
+   "end": 206.99,
+   "text": "Peace out."
+  },
+  {
+   "start": 206.99,
+   "end": 207.99,
+   "text": "Peace out."
+  },
+  {
+   "start": 207.99,
+   "end": 208.99,
+   "text": "Peace out."
+  },
+  {
+   "start": 208.99,
+   "end": 209.99,
+   "text": "Peace out."
+  },
+  {
+   "start": 209.99,
+   "end": 210.99,
+   "text": "Peace out."
+  },
+  {
+   "start": 210.99,
+   "end": 211.99,
+   "text": "Peace out."
+  },
+  {
+   "start": 211.99,
+   "end": 212.99,
+   "text": "Peace out."
+  },
+  {
+   "start": 212.99,
+   "end": 213.99,
+   "text": "Peace out."
+  },
+  {
+   "start": 213.99,
+   "end": 214.99,
+   "text": "Peace out."
+  }
+ ]
+}

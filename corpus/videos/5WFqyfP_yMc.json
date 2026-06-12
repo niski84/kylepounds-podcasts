@@ -1,0 +1,188 @@
+{
+ "youtube_id": "5WFqyfP_yMc",
+ "title": "Living in Boulder Vlog 3 - 19 - 2016",
+ "url": "https://youtu.be/5WFqyfP_yMc",
+ "published_at": "2016-03-19",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder, Colorado on March 19, 2016, recounting a severe headache the day before that caused vomiting. He discusses his plans for the week including a Laser Class America cycling/racing project, and a new audiobook/Kindle publishing project where he is recording books chapter by chapter for upload to ACX.",
+  "speaker": "kyle",
+  "topics": [
+   "health/illness",
+   "Boulder vlog",
+   "cycling/racing plans",
+   "audiobook creation",
+   "Kindle publishing",
+   "weekly planning",
+   "Native American books"
+  ],
+  "stances": [
+   {
+    "topic": "severe headache",
+    "position": "describes it as the worst pain he has ever felt in his head, unusual enough that it caused vomiting"
+   },
+   {
+    "topic": "Laser Class America race",
+    "position": "planning to attempt it, estimates needing to average 200+ miles per day over roughly a week"
+   },
+   {
+    "topic": "audiobook/Kindle project",
+    "position": "actively excited and working on it, recording books chapter by chapter for ACX distribution"
+   },
+   {
+    "topic": "Native American books",
+    "position": "currently focused on creating a series of Native American themed books"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Laser Class America",
+   "ACX (audiobook platform)",
+   "Kindle"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.68,
+   "end": 18.22,
+   "text": "Hey, how's it going? Living in Boulder, VLOG, 10.30 a.m. of Saturday. I didn't do my VLOG yesterday because I had a huge, in fact, I still have it. I still feel it. I had a huge headache yesterday. So bad that it was the most pain I'd ever felt in my head."
+  },
+  {
+   "start": 18.22,
+   "end": 33.42,
+   "text": "And I actually threw up three times just from the pain. I had never barfed just from pain before. So that was weird. And I took 4-Rbuprofen and I just had to sleep all day and then I slept all night. So yesterday was a waste."
+  },
+  {
+   "start": 33.42,
+   "end": 52.53,
+   "text": "I didn't go into my surgery yesterday because, uh, with that cancer, because there was a big snowstorm 9 inches and there were 27 wrecks on I-70 and my mama didn't want to go."
+  },
+  {
+   "start": 52.53,
+   "end": 63.23,
+   "text": "So, we had to postpone it. I postponed it for a week. So, I'm here trying to backpedal and fix all the problems that I have there."
+  },
+  {
+   "start": 65.89,
+   "end": 75.83,
+   "text": "I have this new list that I'm making, the Race Across America list, for the week's worth of biking. And I decided that, um, when I start riding, I think I'm going to do the Race Across America."
+  },
+  {
+   "start": 75.83,
+   "end": 90.57,
+   "text": "That'll be the first race that I do, Race Across America, on my rollers. So, um, we'll see how I do on that one. I'll have to extend the time limit, because I won't make it in there time limit."
+  },
+  {
+   "start": 92.09,
+   "end": 105.81,
+   "text": "Um, you have to average 250 miles a day if you're going to make it in there time limit in 12 days. Um, it'll take me longer than that. Um, and then I'll include, like, a 6-day and a 7-day race."
+  },
+  {
+   "start": 105.83,
+   "end": 113.59,
+   "text": "I'll be missing that, too. But, uh, yeah, that'll be in, like, another three weeks now. Um, does that have to take two weeks off?"
+  },
+  {
+   "start": 117.19,
+   "end": 133.15,
+   "text": "So, um, I'm doing my new project now, which is, um, creating audiobooks, um, from Kindle. All Out Warfare Against Kindle, Amazon."
+  },
+  {
+   "start": 133.15,
+   "end": 142.09,
+   "text": "Gonna take you guys down BAM BAM and yeah so I'm gonna make you know we"
+  },
+  {
+   "start": 142.09,
+   "end": 147.73,
+   "text": "Create all these books for MP3 from the Kindle recording it and then so I'm just"
+  },
+  {
+   "start": 147.73,
+   "end": 150.97,
+   "text": "Recording the books now I did a 10-hour book yesterday a thousand page book"
+  },
+  {
+   "start": 150.97,
+   "end": 158.17,
+   "text": "Over the last days you know I'm doing a 250 page book yeah just the different"
+  },
+  {
+   "start": 158.17,
+   "end": 164.59,
+   "text": "Chapters and then I'll splice the chapters way and compress them and then"
+  },
+  {
+   "start": 164.59,
+   "end": 170.59,
+   "text": "Upload all that to LibriVox and then I can change the color on my website from"
+  },
+  {
+   "start": 170.59,
+   "end": 176.93,
+   "text": "Black to red maroon I need to explain that sooner but I'll do that when I start"
+  },
+  {
+   "start": 176.93,
+   "end": 182.65,
+   "text": "Riding my bike so yeah I was kind of up all night but I was just kind of laying"
+  },
+  {
+   "start": 182.65,
+   "end": 187.69,
+   "text": "There I wanted to you know I didn't want to get back on my computer last night"
+  },
+  {
+   "start": 187.69,
+   "end": 192.07,
+   "text": "Similar reverse my sleep schedule and I also didn't want to hurt my eyes you"
+  },
+  {
+   "start": 192.07,
+   "end": 199.63,
+   "text": "Know I needed to wrestle it who I was up at like 6 before 6 and when I was still"
+  },
+  {
+   "start": 199.63,
+   "end": 206.17,
+   "text": "Blackout working and I have energy I'll be able to work all day I think pump"
+  },
+  {
+   "start": 206.17,
+   "end": 209.95,
+   "text": "Through a bunch of books and work on this list so that I can make the race so that"
+  },
+  {
+   "start": 209.95,
+   "end": 218.33,
+   "text": "I can race it in three weeks I'm doing a book about just Indian tales right now"
+  },
+  {
+   "start": 218.33,
+   "end": 222.89,
+   "text": "Native American I think I'm on a Native American tip now so I'll do a bunch of"
+  },
+  {
+   "start": 222.89,
+   "end": 233.81,
+   "text": "Native American Kindle books conversions and oh yeah yeah and that's it that's it I"
+  },
+  {
+   "start": 233.81,
+   "end": 238.25,
+   "text": "Need to I still need to fix that upload that Asperger video there's just a couple"
+  },
+  {
+   "start": 238.25,
+   "end": 240.89,
+   "text": "Of things I have to cut out but I have to watch it again for that it's really long"
+  },
+  {
+   "start": 240.89,
+   "end": 270.62,
+   "text": "Or at least the right parts but I'll do that maybe today all right peace out"
+  }
+ ]
+}

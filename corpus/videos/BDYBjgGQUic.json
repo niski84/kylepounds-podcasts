@@ -1,0 +1,502 @@
+{
+ "youtube_id": "BDYBjgGQUic",
+ "title": "Living in Boulder Vlog 12 - 1 - 2016",
+ "url": "https://youtu.be/BDYBjgGQUic",
+ "published_at": "2016-12-03",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a casual daily vlog on December 1, 2016 from his home in Boulder. He discusses his reversed sleep schedule, getting a flat screen TV from his mom, plans to haul firewood with his van, and progress on his 3D modeling project recreating ancient Rome, which he expects to eventually turn into YouTube walkthrough videos.",
+  "speaker": "kyle",
+  "topics": [
+   "daily life",
+   "sleep schedule",
+   "TV upgrade",
+   "firewood/van",
+   "3D Rome modeling project",
+   "YouTube plans"
+  ],
+  "stances": [
+   {
+    "topic": "sleep schedule",
+    "position": "Acknowledges it is reversed and plans to fix it once he starts working again"
+   },
+   {
+    "topic": "3D Rome project",
+    "position": "Feels he is over the hump and making real progress, intends to fill the full Aurelian wall boundary even if it means taking liberties with undocumented areas"
+   },
+   {
+    "topic": "Google 3D Rome map (made by someone else)",
+    "position": "Impressed but believes his version will include details theirs missed, like the water channel around Circus Maximus"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Sarah Palin",
+   "The Young Turks",
+   "Circus Maximus",
+   "Aurelian wall",
+   "Google",
+   "Kyle's mom",
+   "Kyle's girlfriend"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.28,
+   "end": 3.18,
+   "text": "Hello, hello, hello, hello."
+  },
+  {
+   "start": 3.58,
+   "end": 7.22,
+   "text": "Alright, so now when I do the video, what I gotta do is I gotta drag it to the side."
+  },
+  {
+   "start": 7.3,
+   "end": 10.42,
+   "text": "That way it doesn't get lost in space and I can turn it off."
+  },
+  {
+   "start": 11.3,
+   "end": 15.32,
+   "text": "Okay, so, um, living in V-Log."
+  },
+  {
+   "start": 15.92,
+   "end": 18.06,
+   "text": "No, living in Boulder V-Log."
+  },
+  {
+   "start": 19.12,
+   "end": 21.04,
+   "text": "For December 1st."
+  },
+  {
+   "start": 22.24,
+   "end": 23.92,
+   "text": "Um, Thursday."
+  },
+  {
+   "start": 24.92,
+   "end": 26.26,
+   "text": "Okay, so I gotta pay rent then."
+  },
+  {
+   "start": 26.26,
+   "end": 31.0,
+   "text": "Um, so, yeah, it's like 2 o'clock in the afternoon and I just got up."
+  },
+  {
+   "start": 31.04,
+   "end": 33.42,
+   "text": "Dude, my, my sleeping is getting reversed."
+  },
+  {
+   "start": 33.74,
+   "end": 36.46,
+   "text": "Um, luckily I'll start working pretty soon."
+  },
+  {
+   "start": 37.2,
+   "end": 40.5,
+   "text": "Is this, I think, hopefully this cold spell is going."
+  },
+  {
+   "start": 41.56,
+   "end": 52.68,
+   "text": "Um, so yesterday, uh, yesterday, I got, I just got really high so my, uh, my memory is not the greatest right now."
+  },
+  {
+   "start": 53.04,
+   "end": 54.56,
+   "text": "I'll try to look at the camera."
+  },
+  {
+   "start": 55.52,
+   "end": 57.84,
+   "text": "Yesterday, I went out with my mom."
+  },
+  {
+   "start": 57.94,
+   "end": 60.2,
+   "text": "Oh yeah, to take her TV."
+  },
+  {
+   "start": 61.04,
+   "end": 61.86,
+   "text": "To the place."
+  },
+  {
+   "start": 62.24,
+   "end": 63.04,
+   "text": "To get rid of it."
+  },
+  {
+   "start": 63.76,
+   "end": 65.76,
+   "text": "And then she got this flat screen TV in there."
+  },
+  {
+   "start": 65.86,
+   "end": 66.76,
+   "text": "In her living room."
+  },
+  {
+   "start": 66.82,
+   "end": 68.1,
+   "text": "And she's like, that's yours."
+  },
+  {
+   "start": 68.56,
+   "end": 69.48,
+   "text": "I was like, what?"
+  },
+  {
+   "start": 70.42,
+   "end": 71.92,
+   "text": "And it's pretty big too, man."
+  },
+  {
+   "start": 71.94,
+   "end": 73.32,
+   "text": "It looks big on the ground."
+  },
+  {
+   "start": 74.18,
+   "end": 76.08,
+   "text": "I can't remember how big it was, she said."
+  },
+  {
+   "start": 76.2,
+   "end": 77.38,
+   "text": "So that's pretty cool, man."
+  },
+  {
+   "start": 77.42,
+   "end": 78.1,
+   "text": "I'll go over."
+  },
+  {
+   "start": 78.1,
+   "end": 80.18,
+   "text": "Oh, I think today we're going to, I'm going to go over there."
+  },
+  {
+   "start": 80.8,
+   "end": 83.04,
+   "text": "Oh fuck, I have to, I have to charge my battery then."
+  },
+  {
+   "start": 83.1,
+   "end": 86.2,
+   "text": "I was going to use my car to get, uh, wood."
+  },
+  {
+   "start": 86.36,
+   "end": 87.34,
+   "text": "Maybe we'll just do it tomorrow."
+  },
+  {
+   "start": 87.96,
+   "end": 88.84,
+   "text": "Um, firewood."
+  },
+  {
+   "start": 89.26,
+   "end": 90.12,
+   "text": "That's my van."
+  },
+  {
+   "start": 90.24,
+   "end": 91.56,
+   "text": "And then I bring my TV over here."
+  },
+  {
+   "start": 91.56,
+   "end": 100.96,
+   "text": "So I have this, um, I have, I have a TV, like a big old TV right there inside of the TV,"
+  },
+  {
+   "start": 101.18,
+   "end": 103.2,
+   "text": "Uh, furniture thing."
+  },
+  {
+   "start": 103.46,
+   "end": 106.76,
+   "text": "And, uh, yeah, I'll get rid of all of that."
+  },
+  {
+   "start": 106.82,
+   "end": 109.84,
+   "text": "And I can, and then I'm going to fix my flat screen right on the wall."
+  },
+  {
+   "start": 109.84,
+   "end": 115.16,
+   "text": "And since it's modern, I don't know, maybe you could connect your computer, your computer"
+  },
+  {
+   "start": 115.16,
+   "end": 118.14,
+   "text": "To the flat screen wirelessly and I can watch YouTube with my flat screen."
+  },
+  {
+   "start": 118.62,
+   "end": 119.64,
+   "text": "That would be awesome."
+  },
+  {
+   "start": 121.06,
+   "end": 124.16,
+   "text": "Um, but yeah, that'll, that'll free up a lot of room in my room."
+  },
+  {
+   "start": 124.94,
+   "end": 130.9,
+   "text": "So, um, yeah, I was working until like six in the morning or something or five in the"
+  },
+  {
+   "start": 130.9,
+   "end": 131.66,
+   "text": "Morning last night."
+  },
+  {
+   "start": 133.06,
+   "end": 137.36,
+   "text": "Um, so yeah, I don't know what I'm going to do to reverse."
+  },
+  {
+   "start": 137.36,
+   "end": 140.06,
+   "text": "I guess I'll just wait until I start working again to reverse sleep."
+  },
+  {
+   "start": 140.06,
+   "end": 151.68,
+   "text": "But I, I guess I just need an extra sleep today, but, um, so, uh, yesterday, after I"
+  },
+  {
+   "start": 151.68,
+   "end": 157.82,
+   "text": "Got home and worked, uh, I was working in the morning a little bit first, uh, I was working"
+  },
+  {
+   "start": 157.82,
+   "end": 165.18,
+   "text": "On the palace and I had to renew it a bunch of times because the guy who made the, the,"
+  },
+  {
+   "start": 165.18,
+   "end": 169.82,
+   "text": "Uh, the map, um, maybe I'll provide a link to the map on the bottom."
+  },
+  {
+   "start": 170.06,
+   "end": 172.24,
+   "text": "Um, people know what I'm talking about."
+  },
+  {
+   "start": 172.56,
+   "end": 176.4,
+   "text": "Um, oh yeah, well actually I could find the link where the, no, nevermind."
+  },
+  {
+   "start": 176.44,
+   "end": 177.32,
+   "text": "I'll just finish room first."
+  },
+  {
+   "start": 178.0,
+   "end": 182.08,
+   "text": "But, uh, yeah, he didn't, uh, he didn't provide rooms to get in all the rooms."
+  },
+  {
+   "start": 182.18,
+   "end": 184.06,
+   "text": "So I had to redo some cause you know, I had to create rooms."
+  },
+  {
+   "start": 184.14,
+   "end": 187.28,
+   "text": "I wanted to make it make sense when it's three day, you know?"
+  },
+  {
+   "start": 187.28,
+   "end": 197.38,
+   "text": "Um, so I took a couple of liberties, but, um, the, uh, I, uh, yesterday I, I kinda, I feel"
+  },
+  {
+   "start": 197.38,
+   "end": 200.1,
+   "text": "Like, I feel like I'm beating it down."
+  },
+  {
+   "start": 200.1,
+   "end": 202.4,
+   "text": "Um, I feel like I'm beating, uh, Rome down."
+  },
+  {
+   "start": 202.92,
+   "end": 203.76,
+   "text": "You know what I mean?"
+  },
+  {
+   "start": 205.32,
+   "end": 209.38,
+   "text": "Um, you feel like you're, you're over the hump."
+  },
+  {
+   "start": 209.6,
+   "end": 213.48,
+   "text": "Kinda like if this is the hump, I feel like I'm down here or something."
+  },
+  {
+   "start": 213.7,
+   "end": 221.73,
+   "text": "So, um, uh, but then there's a lot of the map that's missing."
+  },
+  {
+   "start": 221.73,
+   "end": 228.61,
+   "text": "So, and I want to fill up the entire space within the Aurelian wall, uh, account for everything."
+  },
+  {
+   "start": 228.95,
+   "end": 235.89,
+   "text": "So I'm going to take some liberties and just throw in, you know, a whole bunch of houses"
+  },
+  {
+   "start": 235.89,
+   "end": 238.01,
+   "text": "To fill up the space when I'm done."
+  },
+  {
+   "start": 238.61,
+   "end": 242.57,
+   "text": "Obviously I'll have them colored, I'll have them show which ones I did that with."
+  },
+  {
+   "start": 242.85,
+   "end": 251.71,
+   "text": "But, um, yeah, so anyways, uh, oh, and I was doing a little bit of research."
+  },
+  {
+   "start": 252.67,
+   "end": 256.73,
+   "text": "Ooh, well actually it wasn't me, I was, that was my girlfriend, but she's telling me that,"
+  },
+  {
+   "start": 256.73,
+   "end": 263.05,
+   "text": "Um, YouTube, I mean, somebody built a 3D map of Rome on Google."
+  },
+  {
+   "start": 264.77,
+   "end": 272.45,
+   "text": "Um, and, uh, but they had to take it down because it violated some kind of contractual agreement."
+  },
+  {
+   "start": 272.87,
+   "end": 275.17,
+   "text": "But they showed a little bit of their movie around it."
+  },
+  {
+   "start": 275.23,
+   "end": 277.07,
+   "text": "So if that was all of Rome, that's pretty cool."
+  },
+  {
+   "start": 277.07,
+   "end": 282.11,
+   "text": "But my, my, mine's going to have stuff that they missed, like the, the water around the"
+  },
+  {
+   "start": 282.11,
+   "end": 283.43,
+   "text": "Circus Maximus racetrack."
+  },
+  {
+   "start": 284.53,
+   "end": 286.55,
+   "text": "Um, but anyway, I said that yesterday."
+  },
+  {
+   "start": 287.21,
+   "end": 289.55,
+   "text": "So yeah, I actually started already today."
+  },
+  {
+   "start": 289.77,
+   "end": 294.21,
+   "text": "And yeah, like, and then I was like, wait, no, let me watch this video."
+  },
+  {
+   "start": 294.39,
+   "end": 295.81,
+   "text": "Young Turks video about Sarah Palin."
+  },
+  {
+   "start": 295.81,
+   "end": 300.21,
+   "text": "Um, and then, and then I was like, oh wait, I got to do the video."
+  },
+  {
+   "start": 300.35,
+   "end": 303.25,
+   "text": "So yeah, I'm, I'm ready to, I'm ready to do this."
+  },
+  {
+   "start": 303.83,
+   "end": 305.93,
+   "text": "It's, uh, unbelievable."
+  },
+  {
+   "start": 306.77,
+   "end": 308.65,
+   "text": "Yeah, because then I'm going to make a whole bunch of YouTube videos."
+  },
+  {
+   "start": 308.75,
+   "end": 309.59,
+   "text": "I think on my channel."
+  },
+  {
+   "start": 309.59,
+   "end": 313.73,
+   "text": "Um, of trips around Rome, ground level."
+  },
+  {
+   "start": 314.75,
+   "end": 315.47,
+   "text": "Stay tuned."
+  },
+  {
+   "start": 316.61,
+   "end": 316.93,
+   "text": "Alright."
+  },
+  {
+   "start": 317.39,
+   "end": 319.09,
+   "text": "Sorry if I rambled a little bit on that one."
+  },
+  {
+   "start": 319.27,
+   "end": 319.75,
+   "text": "Oh, shh."
+  },
+  {
+   "start": 319.81,
+   "end": 321.05,
+   "text": "Here's my, here's my, here it is."
+  },
+  {
+   "start": 321.93,
+   "end": 322.59,
+   "text": "Do do do do do do."
+  }
+ ]
+}

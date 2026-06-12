@@ -1,0 +1,201 @@
+{
+ "youtube_id": "Ds4reHMSF18",
+ "title": "Living in Boulder Vlog 11 - 15 - 2016",
+ "url": "https://youtu.be/Ds4reHMSF18",
+ "published_at": "2016-11-17",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle recaps a busy Tuesday in Boulder: a long day of gutter work on multiple houses, feeding a thousand crickets to his geckos, and finally getting started on a website project mapping the history of Boulder County's mining towns, roads, and trails. He briefly mentions listening to a podcast/audiobook about the late Roman emperors Theodosius and Valentinian and their role in spreading Christianity.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "gutter work",
+   "gecko care",
+   "website/mapping project",
+   "Boulder County history",
+   "mining towns",
+   "Roman Empire history",
+   "Christianity spread"
+  ],
+  "stances": [
+   {
+    "topic": "Boulder County mapping project",
+    "position": "Excited about building it — has been thinking about it for a long time and finds it very interesting"
+   },
+   {
+    "topic": "Late Roman Empire / Theodosius and Valentinian",
+    "position": "Finds the period interesting, particularly how the empire spread Christianity throughout Europe just before its collapse"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Boulder County",
+   "Theodosius",
+   "Valentinian"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 6.0,
+   "text": "Hello, living in Boulder V-log for yesterday, which was Tuesday, November 15th."
+  },
+  {
+   "start": 6.7,
+   "end": 14.34,
+   "text": "Today it's November 16th, Wednesday at 4.53. This is the first time I had time to sit down."
+  },
+  {
+   "start": 14.62,
+   "end": 22.22,
+   "text": "I've been busy. I went to work and then did gutters in the house, then went and did another house with gutters in the house."
+  },
+  {
+   "start": 23.0,
+   "end": 25.72,
+   "text": "And the neighbor wanted us to do her gutters in her house."
+  },
+  {
+   "start": 26.46,
+   "end": 29.72,
+   "text": "And then her neighbor next to her wanted us to do her gutters."
+  },
+  {
+   "start": 30.88,
+   "end": 40.58,
+   "text": "And then I came back and then I just, I got crickets last night or yesterday, but I was too lazy to put them in their containers."
+  },
+  {
+   "start": 40.76,
+   "end": 42.06,
+   "text": "So I did that today. I just did that."
+  },
+  {
+   "start": 42.9,
+   "end": 46.28,
+   "text": "A thousand crickets, put them in seven containers."
+  },
+  {
+   "start": 46.86,
+   "end": 50.14,
+   "text": "I'm really tired, like honking right now because I didn't eat anything."
+  },
+  {
+   "start": 50.34,
+   "end": 53.72,
+   "text": "I just had some orange juice and that brought me back a little bit, but I can get some to eat right now."
+  },
+  {
+   "start": 54.72,
+   "end": 58.6,
+   "text": "And then I put the crickets in there with the geckos and they were chowing down."
+  },
+  {
+   "start": 58.6,
+   "end": 64.96,
+   "text": "Um, so now I'm finally getting work and I'm getting started, finally get work on my website."
+  },
+  {
+   "start": 65.22,
+   "end": 80.78,
+   "text": "Last night I was really excited to, um, um, get going on building, uh, like my, like Boulder County, like the history of Boulder County, all the mining towns of Boulder County and all the roads."
+  },
+  {
+   "start": 80.78,
+   "end": 91.84,
+   "text": "And trails of Boulder County, um, and then you fill in the mining towns with, with, uh, actual buildings that I downloaded off of the Boulder website."
+  },
+  {
+   "start": 91.84,
+   "end": 96.52,
+   "text": "And then you put the, the background on it and like the layer."
+  },
+  {
+   "start": 96.92,
+   "end": 98.76,
+   "text": "So it's just like this world."
+  },
+  {
+   "start": 99.42,
+   "end": 100.32,
+   "text": "It's pretty cool."
+  },
+  {
+   "start": 100.84,
+   "end": 101.24,
+   "text": "Ooh."
+  },
+  {
+   "start": 102.14,
+   "end": 106.46,
+   "text": "And, um, so I'm doing, um, and then I'll make sister cities to Rome."
+  },
+  {
+   "start": 106.54,
+   "end": 110.84,
+   "text": "But yeah, what I'm working on now, super, super, super interesting."
+  },
+  {
+   "start": 111.38,
+   "end": 112.66,
+   "text": "I've been thinking about it forever."
+  },
+  {
+   "start": 112.66,
+   "end": 117.84,
+   "text": "I never got around to building the, um, never built ski resorts."
+  },
+  {
+   "start": 117.96,
+   "end": 118.82,
+   "text": "So I'll do that later."
+  },
+  {
+   "start": 119.38,
+   "end": 120.54,
+   "text": "Maybe when I'm done with those."
+  },
+  {
+   "start": 122.1,
+   "end": 128.38,
+   "text": "Um, I was listening to about Theodosius and Valentinian and those guys today."
+  },
+  {
+   "start": 128.5,
+   "end": 130.64,
+   "text": "I think I'll keep listening to them."
+  },
+  {
+   "start": 130.64,
+   "end": 134.44,
+   "text": "Um, it's an interesting period of history."
+  },
+  {
+   "start": 134.9,
+   "end": 146.78,
+   "text": "It's like the Roman Empire adopted and spread Christianity, like killed paganism and spread Christianity throughout the empire, throughout Europe, just in the nick of time before they got snuffed out."
+  },
+  {
+   "start": 148.4,
+   "end": 154.76,
+   "text": "Um, so, oh wow, I've only talked for 234."
+  },
+  {
+   "start": 154.76,
+   "end": 161.8,
+   "text": "Um, I, uh, yawning, I don't really have much to say."
+  },
+  {
+   "start": 162.62,
+   "end": 165.94,
+   "text": "Um, so I think I'll just sign out now."
+  },
+  {
+   "start": 167.04,
+   "end": 168.06,
+   "text": "Peace out."
+  }
+ ]
+}

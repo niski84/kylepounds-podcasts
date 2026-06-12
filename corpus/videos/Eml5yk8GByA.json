@@ -1,0 +1,176 @@
+{
+ "youtube_id": "Eml5yk8GByA",
+ "title": "Living in Boulder Vlog 2 - 25 - 2017: Random stuff in BG (forgot to do my own, whoops)",
+ "url": "https://youtu.be/Eml5yk8GByA",
+ "published_at": "2017-02-26",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a late-night vlog after getting high, recapping his day of working on his personal website — specifically audio history books, Google Earth pages, and link-checking. He also mentions downloading green screen backgrounds and sound effects for future creative projects.",
+  "speaker": "kyle",
+  "topics": [
+   "personal website development",
+   "Google Earth content",
+   "creative assets",
+   "daily vlog",
+   "late night"
+  ],
+  "stances": [
+   {
+    "topic": "website work",
+    "position": "making steady progress and plans to perfect it during bike rides"
+   },
+   {
+    "topic": "green screen backgrounds and sound effects",
+    "position": "excited they can help shape his storytelling"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Google Earth"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.53,
+   "end": 11.49,
+   "text": "Hello, living in Boulder V-Log for February 25th. It's 1.33 in the morning, February 26th right now, and I just got really high."
+  },
+  {
+   "start": 13.57,
+   "end": 25.26,
+   "text": "So I forgot to do a video before this. I just grabbed my computer and did it, so I don't know what I'll do. I'll have to look at what I have and decide."
+  },
+  {
+   "start": 25.26,
+   "end": 44.68,
+   "text": "So anyways, yeah, today I was linking. I started wanting to, working on audio history, audio history books, the sizes of them, and finishing how they look."
+  },
+  {
+   "start": 44.68,
+   "end": 62.82,
+   "text": "I'll finish making sure they all link right later, but, and then I got going on Google Earth stuff, and, yeah, doing, just working on the page, and then, yeah, linking it."
+  },
+  {
+   "start": 62.94,
+   "end": 71.24,
+   "text": "I linked Battles, Google Earth Battles today, and I think you can download most of the files that write for download, but, yeah, I'll make sure all that stuff later."
+  },
+  {
+   "start": 71.24,
+   "end": 79.92,
+   "text": "That's what I'll do when I'm writing the bike. When I start writing my bike, that's, my project for that will be just perfecting my site."
+  },
+  {
+   "start": 80.44,
+   "end": 87.58,
+   "text": "Just making sure all the links work and stuff. Yeah, so, but, yeah, it's coming along pretty quickly."
+  },
+  {
+   "start": 87.58,
+   "end": 104.0,
+   "text": "Tomorrow I'll do Google Earth Battles, finish that. Yeah, yeah, I did Google Earth History today, finish that, and I'll finish Google Earth Battles tomorrow."
+  },
+  {
+   "start": 104.66,
+   "end": 108.56,
+   "text": "And then the other stuff, then go back to the history page."
+  },
+  {
+   "start": 108.56,
+   "end": 116.38,
+   "text": "Tomorrow's Sunday, so, yeah, a reason to just work on my website the whole time."
+  },
+  {
+   "start": 117.28,
+   "end": 126.14,
+   "text": "Oh, I downloaded, like, 262 green screen backgrounds, and, like, all different kinds."
+  },
+  {
+   "start": 127.04,
+   "end": 131.14,
+   "text": "That can actually help shape my story, too, you know, give me ideas."
+  },
+  {
+   "start": 131.14,
+   "end": 139.04,
+   "text": "And then I got 240 sound effects, all different kinds."
+  },
+  {
+   "start": 140.22,
+   "end": 143.42,
+   "text": "So, I wanted to, you know, like, watch layout."
+  },
+  {
+   "start": 143.54,
+   "end": 145.0,
+   "text": "That's another thing I'll do when I ride the bike."
+  },
+  {
+   "start": 145.8,
+   "end": 150.98,
+   "text": "I'll watch all of them and memorize what I have so I know, like, just calling it."
+  },
+  {
+   "start": 151.36,
+   "end": 153.74,
+   "text": "And then rename it and make it real simple to look at."
+  },
+  {
+   "start": 154.78,
+   "end": 160.64,
+   "text": "You know, you can see, like, 240, 260, you know, you can kind of see that right there, right in front of you."
+  },
+  {
+   "start": 160.64,
+   "end": 164.3,
+   "text": "So, and it's a lot."
+  },
+  {
+   "start": 169.29,
+   "end": 171.81,
+   "text": "And so, let's see how long."
+  },
+  {
+   "start": 174.21,
+   "end": 176.51,
+   "text": "Yeah, I'm really, like, tired right now."
+  },
+  {
+   "start": 179.15,
+   "end": 181.65,
+   "text": "Ooh, ooh, fresh yawn, though, of the video."
+  },
+  {
+   "start": 182.59,
+   "end": 184.25,
+   "text": "Oh, and I did some writing today."
+  },
+  {
+   "start": 184.49,
+   "end": 186.23,
+   "text": "Check out my Boulder Road page."
+  },
+  {
+   "start": 186.29,
+   "end": 187.59,
+   "text": "I explained it a little bit more."
+  },
+  {
+   "start": 188.29,
+   "end": 189.21,
+   "text": "It's fun to write."
+  },
+  {
+   "start": 191.9,
+   "end": 194.42,
+   "text": "But, yeah, that's all I have to say."
+  },
+  {
+   "start": 194.74,
+   "end": 195.62,
+   "text": "Peace out."
+  }
+ ]
+}

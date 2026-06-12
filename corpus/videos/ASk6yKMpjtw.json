@@ -1,0 +1,148 @@
+{
+ "youtube_id": "ASk6yKMpjtw",
+ "title": "Living in Boulder Vlog 10 - 31 - 2016",
+ "url": "https://youtu.be/ASk6yKMpjtw",
+ "published_at": "2016-11-01",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about a technical snag he hit while working on a Google Earth project mapping defunct ski resorts — a file-linking issue in Adobe software that cost him about 90 minutes and a fruitless tech support call. He plans to continue the project and aims to finish by the upcoming Friday or weekend.",
+  "speaker": "kyle",
+  "topics": [
+   "Google Earth project",
+   "defunct ski resorts",
+   "Adobe tech support",
+   "daily vlog",
+   "Boulder living"
+  ],
+  "stances": [
+   {
+    "topic": "Adobe tech support call",
+    "position": "Unhelpful — the support rep spent an hour without solving anything, and Kyle figured out the real cause himself"
+   },
+   {
+    "topic": "defunct ski resorts project",
+    "position": "Finds it genuinely interesting; surprised by how many there are"
+   }
+  ],
+  "entities": [
+   "Bertha Pass",
+   "Adobe",
+   "Google Earth",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.82,
+   "end": 5.52,
+   "text": "Hello, I forgot to do my video last night. Silly me, I should have remembered. Oh well."
+  },
+  {
+   "start": 6.18,
+   "end": 14.6,
+   "text": "So it's the morning now. So yesterday, I had a snafu because I was working on Bertha Pass,"
+  },
+  {
+   "start": 14.66,
+   "end": 24.21,
+   "text": "One of the defunct ski resorts. And I have like, for Google Earth, I have downloads,"
+  },
+  {
+   "start": 24.33,
+   "end": 28.21,
+   "text": "I have the file, because it's designed to work on your cell phone, so I have the file"
+  },
+  {
+   "start": 28.21,
+   "end": 32.03,
+   "text": "That you click, and then I have the movie. And so I'd link the file, and then I'd link"
+  },
+  {
+   "start": 32.03,
+   "end": 35.99,
+   "text": "The movie, but I wouldn't go to link the movie. Like, it would go to the file, the folder"
+  },
+  {
+   "start": 35.99,
+   "end": 40.31,
+   "text": "That the file was in, so I thought that they were getting connected somehow, because it"
+  },
+  {
+   "start": 40.31,
+   "end": 44.71,
+   "text": "Wasn't like that before yesterday. And so I called tech support at Adobe, and this Indian"
+  },
+  {
+   "start": 44.71,
+   "end": 48.77,
+   "text": "Dude was like fucking around with it for like an hour. He didn't really do much, and then"
+  },
+  {
+   "start": 48.77,
+   "end": 53.51,
+   "text": "He renamed it. And he's like, oh, but if you rename it, then it doesn't connect. So what"
+  },
+  {
+   "start": 53.51,
+   "end": 60.29,
+   "text": "I remembered, what I realized is that it wasn't connecting. It was just opening up in the folder"
+  },
+  {
+   "start": 60.29,
+   "end": 66.05,
+   "text": "The last one that you opened. So anyway, so this way I couldn't, I couldn't do the line"
+  },
+  {
+   "start": 66.05,
+   "end": 69.19,
+   "text": "And then the movie, the line and then the movie. I had to do all the lines, and then I"
+  },
+  {
+   "start": 69.19,
+   "end": 74.09,
+   "text": "Do all the movies. So, which doesn't really take longer, but it was just confusing how I"
+  },
+  {
+   "start": 74.09,
+   "end": 79.97,
+   "text": "Had to do that all of a sudden. I have no idea why. So it was like an hour or something,"
+  },
+  {
+   "start": 79.97,
+   "end": 85.85,
+   "text": "An hour and a half out of my day. But yeah, but then I was going on making some more defunct"
+  },
+  {
+   "start": 85.85,
+   "end": 90.09,
+   "text": "Ski resorts. There's a lot of defunct ski resorts, man. I didn't know, like, you know,"
+  },
+  {
+   "start": 90.17,
+   "end": 95.29,
+   "text": "Like ones where they cut out the lift, the trails and stuff. It's pretty cool. So I'm"
+  },
+  {
+   "start": 95.29,
+   "end": 98.99,
+   "text": "Going to go to work today, and then I'll come back and work some more on the defunct ski resorts."
+  },
+  {
+   "start": 98.99,
+   "end": 108.89,
+   "text": "Um, and uh, so yeah, I remember I said I'd be done by this Friday, and it's Tuesday now,"
+  },
+  {
+   "start": 108.89,
+   "end": 117.49,
+   "text": "So that gives me one, two, three, four more days. Maybe, maybe I can do it. If not Friday,"
+  },
+  {
+   "start": 117.59,
+   "end": 119.83,
+   "text": "Maybe the weekend. All right, peace out."
+  }
+ ]
+}

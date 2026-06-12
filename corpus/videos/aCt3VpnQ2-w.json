@@ -1,0 +1,587 @@
+{
+ "youtube_id": "aCt3VpnQ2-w",
+ "title": "Living in Boulder Vlog 9 - 14 - 2015",
+ "url": "https://youtu.be/aCt3VpnQ2-w",
+ "published_at": "2015-09-15",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle recaps his DUI plea deal in Denver — a $35 fine, 10 hours community service, and unsupervised probation requiring him to quit weed for four months — then discusses his obsessive work on a website project called Saint Dominium, which maps every Roman battle and town over a thousand years, and closes by acknowledging he's about $5,800 in debt and needs to sell his car and find income.",
+  "speaker": "kyle",
+  "topics": [
+   "DUI plea deal",
+   "court experience",
+   "marijuana use and addiction",
+   "website project (Saint Dominium)",
+   "Roman history",
+   "personal finances",
+   "debt",
+   "living in Boulder",
+   "vlogging"
+  ],
+  "stances": [
+   {
+    "topic": "taking the plea deal",
+    "position": "Was the right call — cheaper and faster than fighting it, and he can still be a marijuana activist through YouTube and his website"
+   },
+   {
+    "topic": "marijuana addiction",
+    "position": "Doesn't believe heavy users are truly addicted; plans to prove it by quitting four months as required, then resuming"
+   },
+   {
+    "topic": "quitting weed temporarily",
+    "position": "Sees a break as potentially beneficial — resets tolerance so you can get more stoned when you restart"
+   },
+   {
+    "topic": "court activism",
+    "position": "Doesn't need to fight in court to be a marijuana activist; YouTube and his website are sufficient platforms"
+   },
+   {
+    "topic": "Saint Dominium project",
+    "position": "Deeply obsessed and motivated by it despite it being a money sink; wants to see how closely he can mirror Rome in a local context"
+   }
+  ],
+  "entities": [
+   "Denver",
+   "Boulder",
+   "Saint Dominium (website project)",
+   "Rome (historical subject)",
+   "Kyle's mom",
+   "Kyle's mechanic",
+   "Subway (sandwich)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.02,
+   "end": 7.02,
+   "text": "Hello, here is living in Boulder, VLOG with Kyle Monday, September the 14th."
+  },
+  {
+   "start": 7.02,
+   "end": 11.02,
+   "text": "Ooh, it's already half way through."
+  },
+  {
+   "start": 11.02,
+   "end": 17.02,
+   "text": "So yeah, I'm going to do the log because I'm thinking people are interested in about how my thinking went."
+  },
+  {
+   "start": 17.02,
+   "end": 21.02,
+   "text": "Cordade, that was back for the last Thursday."
+  },
+  {
+   "start": 21.02,
+   "end": 26.02,
+   "text": "I did the plea deal thing."
+  },
+  {
+   "start": 26.02,
+   "end": 33.02,
+   "text": "Somebody wanted me to do a video on how I did the negotiation and I started with, so that'll be another video."
+  },
+  {
+   "start": 33.02,
+   "end": 41.02,
+   "text": "So yeah, I went down to Denver last Thursday because it took a lot of time to go to the airport."
+  },
+  {
+   "start": 41.02,
+   "end": 50.02,
+   "text": "And I talked to the lawyer beforehand and I just had to take the plea because it was something that I felt like I was being treated with respect, you know,"
+  },
+  {
+   "start": 50.02,
+   "end": 56.3,
+   "text": "and that, like, technically it wasn't really that much."
+  },
+  {
+   "start": 56.3,
+   "end": 63.3,
+   "text": "It wasn't really anything out of my way, you know, because it's going to be a $35 fine and 10 hours of community service."
+  },
+  {
+   "start": 63.3,
+   "end": 67.3,
+   "text": "And then quit smoking weed, the probation performance."
+  },
+  {
+   "start": 67.3,
+   "end": 71.3,
+   "text": "So I was like, alright, I'll do that because it's expensive to do the court thing."
+  },
+  {
+   "start": 71.3,
+   "end": 76.3,
+   "text": "And if I want to be an activist, I don't have to go to court to change the laws and be an activist because on a YouTube guy and I'm a website."
+  },
+  {
+   "start": 76.3,
+   "end": 81.3,
+   "text": "So I can be enough of a marijuana activist without actually going to court."
+  },
+  {
+   "start": 81.3,
+   "end": 89.3,
+   "text": "You know, and I can use the DUI as a kind of motivation to make the website to motivate other people who may have to be in that situation."
+  },
+  {
+   "start": 89.3,
+   "end": 95.3,
+   "text": "It takes a lot of time, but I don't have to actually do the court myself because I just have too much to go on on right now."
+  },
+  {
+   "start": 95.3,
+   "end": 102.3,
+   "text": "And to which staff, I recently on Saturday, I started working on Saint Dominium."
+  },
+  {
+   "start": 103.3,
+   "end": 106.3,
+   "text": "I had to had to had to make it on."
+  },
+  {
+   "start": 106.3,
+   "end": 117.3,
+   "text": "So I'm creating lists of every single battle that Rome was involved in for a thousand years from the beginning until 753 BC until 211 AD."
+  },
+  {
+   "start": 117.3,
+   "end": 127.3,
+   "text": "And the first thousand and years, I was like 200 years before it fell."
+  },
+  {
+   "start": 128.3,
+   "end": 132.3,
+   "text": "But I wanted to do a cool a thousand just a block from my website."
+  },
+  {
+   "start": 132.3,
+   "end": 144.3,
+   "text": "So I'm getting, and as far, so all the battles and also how far they are from Rome, so round trip, how far out in the north or back in round trip in miles."
+  },
+  {
+   "start": 144.3,
+   "end": 149.3,
+   "text": "And then every single town in the north and Italy as well as the Roman Empire."
+  },
+  {
+   "start": 149.3,
+   "end": 153.3,
+   "text": "And as far as the, and then the round trip to the town and back."
+  },
+  {
+   "start": 153.3,
+   "end": 157.3,
+   "text": "And then I'm going to make that into a list of my website. And I should have that done pretty soon."
+  },
+  {
+   "start": 157.3,
+   "end": 160.3,
+   "text": "Actually, maybe today or tomorrow."
+  },
+  {
+   "start": 160.3,
+   "end": 167.3,
+   "text": "On the Saint Dominium page. And then from there."
+  },
+  {
+   "start": 167.3,
+   "end": 177.3,
+   "text": "I'll have to listen to the websites. So then I just make sister cities and sister battles to all the ones in real life based on how far away they are from Rome."
+  },
+  {
+   "start": 177.3,
+   "end": 183.3,
+   "text": "And I'll have you know, I'll have them divide it up into different wars and all that kind of stuff and make tribes."
+  },
+  {
+   "start": 183.3,
+   "end": 188.3,
+   "text": "And so it's kind of time consuming it over the last couple weeks I didn't think about it all the time."
+  },
+  {
+   "start": 188.3,
+   "end": 190.3,
+   "text": "Like it's just obsessed."
+  },
+  {
+   "start": 190.3,
+   "end": 196.3,
+   "text": "Like I'm, I am, I am, I say, Shiboli, driven to it."
+  },
+  {
+   "start": 196.3,
+   "end": 202.3,
+   "text": "So, um, yeah, so."
+  },
+  {
+   "start": 203.3,
+   "end": 206.3,
+   "text": "Thursday, when in there. So it went down on Wednesday."
+  },
+  {
+   "start": 206.3,
+   "end": 210.3,
+   "text": "I thought because my mom was giving us talk at the convention center."
+  },
+  {
+   "start": 210.3,
+   "end": 213.3,
+   "text": "So somebody they put him up my mom up and I've been,"
+  },
+  {
+   "start": 213.3,
+   "end": 221.3,
+   "text": "Kelt in across the street. And she had two rooms or a living room and a better and so in the living room I had my own bed and my own TV."
+  },
+  {
+   "start": 221.3,
+   "end": 227.3,
+   "text": "So then the morning, I got up and I'm my suit and just walked like four blocks to the quote house and it's pretty cool."
+  },
+  {
+   "start": 227.3,
+   "end": 232.3,
+   "text": "But I forgot to sign in when I first got there. So I had to wait and all the other people going front so I was in there for like two hours."
+  },
+  {
+   "start": 232.3,
+   "end": 237.3,
+   "text": "But I got to watch a lot of other people do their thing so it was kind of an interesting."
+  },
+  {
+   "start": 237.3,
+   "end": 242.3,
+   "text": "Oh, I feel tripping then, um, I was in there."
+  },
+  {
+   "start": 242.3,
+   "end": 250.3,
+   "text": "And then I saw, um, some of my original defender who I got rid of in the mean because I want to go to the court and use their like joking around with the prosecutor and then it comes up to me and he goes,"
+  },
+  {
+   "start": 250.3,
+   "end": 254.3,
+   "text": "Are you going to take the plea and I was like, yeah, and he's like, can I laugh?"
+  },
+  {
+   "start": 255.3,
+   "end": 260.3,
+   "text": "And then the prosecutor comes up to me and she goes, uh,"
+  },
+  {
+   "start": 260.3,
+   "end": 269.3,
+   "text": "Some lady looks like some ladies and I'm going to show up today and she needs to, she has like the certificate or whatever to make it's per day supervised."
+  },
+  {
+   "start": 269.3,
+   "end": 275.3,
+   "text": "Because she asked for supervised and I didn't say I didn't ask for unsupervised because, um,"
+  },
+  {
+   "start": 275.3,
+   "end": 281.3,
+   "text": "And somebody actually suggested that I should ask for it, but I waited too long and then I was like, whatever, if they want to make me quit four months."
+  },
+  {
+   "start": 281.3,
+   "end": 286.3,
+   "text": "I can prove to them that I can quit from four months enough and then just start smoking weed again."
+  },
+  {
+   "start": 286.3,
+   "end": 291.3,
+   "text": "It'd be slightly better for the overall cause I think that made me quit for four months."
+  },
+  {
+   "start": 291.3,
+   "end": 299.3,
+   "text": "So I was willing to do that just to show people that you can, you know, because I think there's a misconception because people even asked me and I think I even did a request,"
+  },
+  {
+   "start": 299.3,
+   "end": 309.3,
+   "text": "me, I could just once again, somebody goes, yeah, like, are you addicted? You know, you're a drug addict or you addicted it's like, no, not."
+  },
+  {
+   "start": 309.3,
+   "end": 317.3,
+   "text": "So be good way to show people that they're addicted, you know, people think that it's hard to get a stoner, a hardcore stoner, to court smoking weed and it's not quite a stoner because,"
+  },
+  {
+   "start": 317.3,
+   "end": 324.3,
+   "text": "You know, you get to stoner's all about altered states and so if you sober up because you're high all the time, then now you're in an altered state."
+  },
+  {
+   "start": 324.3,
+   "end": 328.3,
+   "text": "So it's kind of like being high is the stones to the stoner."
+  },
+  {
+   "start": 328.3,
+   "end": 338.3,
+   "text": "So, you know, so that's, that's, and possibly you reset your, you get a chance to agree your neurons back, so when you start smoking, you can get really stoned."
+  },
+  {
+   "start": 338.3,
+   "end": 343.3,
+   "text": "What's the reason I'm saying is money and it also makes you get stoned sometimes you're collecting a release stoned."
+  },
+  {
+   "start": 343.3,
+   "end": 357.3,
+   "text": "Yeah, but anyway, where he comes up and she goes, yeah, I think the late is not going to show up for the stamp or whatever, so, and if she doesn't, and looks like she might not, I'll just ask her unsupervised."
+  },
+  {
+   "start": 357.3,
+   "end": 372.3,
+   "text": "So it's like, okay, so I go up in the answer and she asks for unsupervised and then she even mentioned how to perpetuate it and so I had to do this, I feel like I had to tell the judge a bunch of things like yes, yes, yes, yes, I'd like guilty."
+  },
+  {
+   "start": 372.3,
+   "end": 385.75,
+   "text": "Driving under driving, oh yeah, I got a DWA, driving while ability impaired, which is not true, but you know, whatever, playing the court game."
+  },
+  {
+   "start": 385.75,
+   "end": 390.75,
+   "text": "And then she asks me if I know what's going on, do you understand what's going on? Oh, yeah, sure."
+  },
+  {
+   "start": 390.75,
+   "end": 396.75,
+   "text": "But yeah, so, and then I left, so I paid my 35 bucks."
+  },
+  {
+   "start": 396.75,
+   "end": 403.75,
+   "text": "Hey, to my all sign up for the 20, or the community service."
+  },
+  {
+   "start": 403.75,
+   "end": 412.75,
+   "text": "Yeah, but so right now I'm just working on my, oh yeah, I don't supervised by the way, means that, you know, they're not going to take your blood or piss test."
+  },
+  {
+   "start": 412.75,
+   "end": 419.75,
+   "text": "So I guess you can keep smoking weed, but I can't remember if the judge said that I wasn't supposed to smoke whatever do."
+  },
+  {
+   "start": 419.75,
+   "end": 424.75,
+   "text": "So let me talk about my website."
+  },
+  {
+   "start": 424.75,
+   "end": 430.75,
+   "text": "Yeah, because I just got started on my website. I'm on the new page, the sector will you?"
+  },
+  {
+   "start": 430.75,
+   "end": 435.75,
+   "text": "And so I think I'm going to be doing that."
+  },
+  {
+   "start": 435.75,
+   "end": 441.75,
+   "text": "I'm like super fired up about that, especially whenever I start a new page, I'm super super, super fired up about it for like three days."
+  },
+  {
+   "start": 441.75,
+   "end": 443.75,
+   "text": "I can think about it for like three weeks."
+  },
+  {
+   "start": 443.75,
+   "end": 445.75,
+   "text": "All I can think about is that, and that's all I do."
+  },
+  {
+   "start": 445.75,
+   "end": 450.75,
+   "text": "And then I get it up to speed, and then I burn out on it, and then I blaze, and I start working on other stuff."
+  },
+  {
+   "start": 450.75,
+   "end": 454.75,
+   "text": "And so when I get back to it, it's developed enough, so I can kind of pick up or I left off."
+  },
+  {
+   "start": 454.75,
+   "end": 461.75,
+   "text": "And that's what I'm doing right now. I'm just trying to get sanctimonium gone, mainly because I'm just super curious to see how well I can make it."
+  },
+  {
+   "start": 461.75,
+   "end": 463.75,
+   "text": "How similar I can make it look."
+  },
+  {
+   "start": 463.75,
+   "end": 467.75,
+   "text": "It seems, it seems, it seems to be absolutely fascinating."
+  },
+  {
+   "start": 468.75,
+   "end": 474.75,
+   "text": "I make a little kingdom here that parrot that mirrors wrong."
+  },
+  {
+   "start": 474.75,
+   "end": 478.75,
+   "text": "You know, it's every single everything. So yeah, just doing that."
+  },
+  {
+   "start": 478.75,
+   "end": 486.75,
+   "text": "But I'm totally on a money. I'm like 1200 bucks in debt, credit card debt, so I'm going to need to get a job or how many of my money produced."
+  },
+  {
+   "start": 486.75,
+   "end": 490.75,
+   "text": "And I think it was on my car, but I can't really motivate to do that."
+  },
+  {
+   "start": 490.75,
+   "end": 493.75,
+   "text": "Although I do that tomorrow, I think I need to get another battery though."
+  },
+  {
+   "start": 493.75,
+   "end": 497.75,
+   "text": "I do replace my windshield, and I think I'm another battery, because I let it sit around all year."
+  },
+  {
+   "start": 497.75,
+   "end": 499.75,
+   "text": "I'll try to get the battery died."
+  },
+  {
+   "start": 499.75,
+   "end": 502.75,
+   "text": "When I'm on my mechanic, I'm not without asking myself to call my mechanic."
+  },
+  {
+   "start": 502.75,
+   "end": 506.75,
+   "text": "I can see if I can get him down and get it replaced because he bought it."
+  },
+  {
+   "start": 506.75,
+   "end": 510.75,
+   "text": "But, yeah, so I think I'll do that tomorrow."
+  },
+  {
+   "start": 510.75,
+   "end": 512.75,
+   "text": "And then put my car aboard."
+  },
+  {
+   "start": 512.75,
+   "end": 515.75,
+   "text": "I have a market."
+  },
+  {
+   "start": 515.75,
+   "end": 518.75,
+   "text": "Once I sell my car, it's going to be awesome to get out of debt."
+  },
+  {
+   "start": 518.75,
+   "end": 526.0,
+   "text": "Because I'm way dude, I'm 1200 credit card, 4600 personal debts, no money."
+  },
+  {
+   "start": 526.0,
+   "end": 528.0,
+   "text": "Not making money."
+  },
+  {
+   "start": 528.0,
+   "end": 532.0,
+   "text": "So I'm going to start to work on the money, fund raising page on my website."
+  },
+  {
+   "start": 532.0,
+   "end": 536.0,
+   "text": "I'm going to ask for money from like everybody I'm producing."
+  },
+  {
+   "start": 536.0,
+   "end": 542.0,
+   "text": "But I think I'll start making videos, man, because I'm crazy and say, shibble on this."
+  },
+  {
+   "start": 542.0,
+   "end": 548.0,
+   "text": "But maybe, maybe later on, like in the winter time."
+  },
+  {
+   "start": 548.0,
+   "end": 551.0,
+   "text": "I'm only able to do some videos."
+  },
+  {
+   "start": 551.0,
+   "end": 552.0,
+   "text": "Not'll make me money."
+  },
+  {
+   "start": 552.0,
+   "end": 555.0,
+   "text": "If I start making videos a little bit, I can start making money."
+  },
+  {
+   "start": 555.0,
+   "end": 560.0,
+   "text": "So I really should not have ate, but it's this, like in Saint-Demonti, but it's so crazy."
+  },
+  {
+   "start": 560.0,
+   "end": 566.0,
+   "text": "I can't, I can't describe where it's can't describe, but it's going to be cool."
+  },
+  {
+   "start": 566.0,
+   "end": 571.0,
+   "text": "Especially for people who live in Boulder who are into biking."
+  },
+  {
+   "start": 571.0,
+   "end": 575.0,
+   "text": "So, yeah, so anyways, that's all."
+  },
+  {
+   "start": 575.0,
+   "end": 577.0,
+   "text": "That's all going on with me right now."
+  },
+  {
+   "start": 577.0,
+   "end": 579.0,
+   "text": "I'm going to eat you, why?"
+  },
+  {
+   "start": 579.0,
+   "end": 583.0,
+   "text": "I'm going to eat my subway sandwich now."
+  },
+  {
+   "start": 583.0,
+   "end": 585.0,
+   "text": "Okay, peace out."
+  },
+  {
+   "start": 585.0,
+   "end": 590.97,
+   "text": "There's the button."
+  }
+ ]
+}

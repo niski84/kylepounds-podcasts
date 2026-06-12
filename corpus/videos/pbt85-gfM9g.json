@@ -1,0 +1,275 @@
+{
+ "youtube_id": "pbt85-gfM9g",
+ "title": "Living in Boulder Vlog 1 - 19 - 2017",
+ "url": "https://youtu.be/pbt85-gfM9g",
+ "published_at": "2017-01-19",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs early morning in Boulder after an all-night work session. He's building a book project called 'Plenty' (a compilation of Roman knowledge), listening to Rome-related podcasts, and mentions needing to run a car errand and pick up a rocket box from his mom's place.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "book project",
+   "podcasts",
+   "errands",
+   "insomnia/sleep schedule"
+  ],
+  "stances": [
+   {
+    "topic": "Plenty book project",
+    "position": "most interesting book he's ever made — considers Roman knowledge base impressive and significant"
+   },
+   {
+    "topic": "Rome podcasts",
+    "position": "recently getting into them and finds them good, including Fall of Rome and Roman Inverse podcasts"
+   },
+   {
+    "topic": "mom not calling back",
+    "position": "worries him when she doesn't respond"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Plenty (book project)",
+   "Dreamy (software, likely crashed)",
+   "Fall of Rome podcast",
+   "Roman Inverse podcast",
+   "Netflix",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.26,
+   "end": 11.26,
+   "text": "Hello living in Boulder, Vila. This morning it's January 19, 5.56 a.m."
+  },
+  {
+   "start": 12.26,
+   "end": 15.26,
+   "text": "Just came back in the supermarket."
+  },
+  {
+   "start": 16.26,
+   "end": 18.26,
+   "text": "I, uh,"
+  },
+  {
+   "start": 19.26,
+   "end": 22.26,
+   "text": "Let's see I was up all night. I kind of went to sleep though."
+  },
+  {
+   "start": 22.26,
+   "end": 24.26,
+   "text": "I think yesterday."
+  },
+  {
+   "start": 24.26,
+   "end": 28.26,
+   "text": "And then, or no, no, I worked all day. I can't remember."
+  },
+  {
+   "start": 28.26,
+   "end": 31.26,
+   "text": "But yeah, I've been all day working."
+  },
+  {
+   "start": 32.26,
+   "end": 35.26,
+   "text": "So feel pretty good. I took a break because I, um,"
+  },
+  {
+   "start": 35.26,
+   "end": 37.26,
+   "text": "I was working right now. I'm building plenty."
+  },
+  {
+   "start": 38.26,
+   "end": 40.26,
+   "text": "Now I was doing like chapters one through, right? I don't know."
+  },
+  {
+   "start": 41.26,
+   "end": 42.26,
+   "text": "I did it whatever. And then,"
+  },
+  {
+   "start": 43.26,
+   "end": 45.26,
+   "text": "Dreamy was just crashed. So that happens every once in a while."
+  },
+  {
+   "start": 46.26,
+   "end": 47.26,
+   "text": "Of course, it didn't say."
+  },
+  {
+   "start": 48.26,
+   "end": 50.26,
+   "text": "So instead of restarting right away, I took a break."
+  },
+  {
+   "start": 51.26,
+   "end": 55.26,
+   "text": "And I also restarted the computer. I think that helps for keeping a crack crashing."
+  },
+  {
+   "start": 55.26,
+   "end": 60.26,
+   "text": "So I'm getting started again. I'm doing plenty. So the idea is that maybe"
+  },
+  {
+   "start": 61.26,
+   "end": 65.26,
+   "text": "Today or tomorrow, I'll have plenty of,"
+  },
+  {
+   "start": 66.26,
+   "end": 68.26,
+   "text": "That'll be awesome."
+  },
+  {
+   "start": 69.26,
+   "end": 71.26,
+   "text": "Ladies and gentlemen, the most interesting books I've ever made."
+  },
+  {
+   "start": 72.26,
+   "end": 74.26,
+   "text": "It's like the entire knowledge of the Romans,"
+  },
+  {
+   "start": 75.26,
+   "end": 77.26,
+   "text": "like their entire knowledge base of everything."
+  },
+  {
+   "start": 78.26,
+   "end": 80.26,
+   "text": "So, you know, it's pretty big book."
+  },
+  {
+   "start": 81.26,
+   "end": 84.26,
+   "text": "I want to have a living. I'm going to website 2, but I'm not going to."
+  },
+  {
+   "start": 85.26,
+   "end": 87.26,
+   "text": "Yeah, plenty was like halfway down. So if you're going to just finish it."
+  },
+  {
+   "start": 88.26,
+   "end": 89.26,
+   "text": "You know, it'll be a couple days when you're computer."
+  },
+  {
+   "start": 91.26,
+   "end": 93.26,
+   "text": "But if I do years, but then, but I want to get a living up without a living later."
+  },
+  {
+   "start": 95.26,
+   "end": 97.26,
+   "text": "I was listening. I finished listening to theologics."
+  },
+  {
+   "start": 98.26,
+   "end": 99.26,
+   "text": "I mean, history chips. They're good."
+  },
+  {
+   "start": 103.26,
+   "end": 107.26,
+   "text": "But, um, so yesterday, I started listening to, um,"
+  },
+  {
+   "start": 108.26,
+   "end": 112.58,
+   "text": "History of, um,"
+  },
+  {
+   "start": 113.58,
+   "end": 115.58,
+   "text": "Fall of Rome podcast. That's good."
+  },
+  {
+   "start": 116.58,
+   "end": 118.58,
+   "text": "And then now I'm doing Roman inverse podcast, some Australians."
+  },
+  {
+   "start": 119.58,
+   "end": 121.58,
+   "text": "It's cool. I just now recently getting to podcast,"
+  },
+  {
+   "start": 122.58,
+   "end": 123.58,
+   "text": "or some of the other about."
+  },
+  {
+   "start": 125.58,
+   "end": 128.58,
+   "text": "Yes, zoom through that. That's interesting."
+  },
+  {
+   "start": 129.58,
+   "end": 131.58,
+   "text": "But I also have my Netflix. So awesome."
+  },
+  {
+   "start": 132.58,
+   "end": 133.58,
+   "text": "I feel like I did went to have them."
+  },
+  {
+   "start": 134.58,
+   "end": 137.58,
+   "text": "I'll have to do some of my car, and then I'll be one less stress."
+  },
+  {
+   "start": 138.58,
+   "end": 144.58,
+   "text": "But my mom never called me back yesterday, so I didn't go over there to pick up my rocket box to fix it. So I'll just do that today."
+  },
+  {
+   "start": 145.58,
+   "end": 146.58,
+   "text": "If she doesn't answer, I'll just go over this morning."
+  },
+  {
+   "start": 147.58,
+   "end": 149.58,
+   "text": "Kind of worries me whenever she doesn't answer me."
+  },
+  {
+   "start": 150.58,
+   "end": 152.58,
+   "text": "Um, or call back."
+  },
+  {
+   "start": 154.58,
+   "end": 155.58,
+   "text": "So,"
+  },
+  {
+   "start": 156.58,
+   "end": 160.58,
+   "text": "That's really much, I'm pretty much all I have to say."
+  },
+  {
+   "start": 161.58,
+   "end": 165.58,
+   "text": "240, that's the reverse of 120. That's a good time to stop even though I already would buy it."
+  },
+  {
+   "start": 165.58,
+   "end": 167.58,
+   "text": "I'm gonna have to do it. I'll go and piece out."
+  }
+ ]
+}

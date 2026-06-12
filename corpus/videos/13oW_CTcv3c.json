@@ -1,0 +1,3942 @@
+{
+ "youtube_id": "13oW_CTcv3c",
+ "title": "410 Sack of Rome by Alaric the Goth - Request",
+ "url": "https://youtu.be/13oW_CTcv3c",
+ "published_at": "2018-05-31",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle discusses the 410 AD sack of Rome by Alaric the Goth, covering the events of the sack itself (the blockade of Ostia, the ransom demands, the freeing of 40,000 slaves), the structural decline of the Roman Empire marked by extreme wealth inequality, decadence, and loss of civic virtue, and the Battle of Adrianople as the decisive military turning point. He draws extensive parallels between late Rome and modern Western society, including immigration, passive consumption culture, universal basic income, and civilizational decline.",
+  "speaker": "kyle",
+  "topics": [
+   "Sack of Rome 410 AD",
+   "Alaric the Goths",
+   "Roman Empire decline",
+   "Battle of Adrianople",
+   "wealth inequality in Rome",
+   "Roman decadence",
+   "barbarian migrations",
+   "Huns",
+   "Christianity and Rome",
+   "parallels to modern Western civilization",
+   "immigration and culture",
+   "universal basic income",
+   "civic virtue and meritocracy"
+  ],
+  "stances": [
+   {
+    "topic": "Cause of Rome's fall",
+    "position": "Decadence, wealth inequality, loss of civic virtue, and poor leadership were more to blame than barbarian invasion"
+   },
+   {
+    "topic": "Modern parallels to Rome",
+    "position": "Contemporary Western society mirrors late Rome — passive consumption, wealth concentration, and cultural dilution risk a similar collapse"
+   },
+   {
+    "topic": "Immigration and culture",
+    "position": "Unchecked mass immigration can erode a host culture, especially when immigrant culture is incompatible with democratic or meritocratic values"
+   },
+   {
+    "topic": "Meritocracy vs. aristocracy",
+    "position": "Rome succeeded as a meritocracy and failed when it became hereditary aristocracy; societies should build meritocratic structures supported by education"
+   },
+   {
+    "topic": "Universal basic income",
+    "position": "UBI could enable people to educate themselves and contribute, but in practice people tend toward passive consumption instead"
+   },
+   {
+    "topic": "Muslim culture vs. religion",
+    "position": "Separates Islamic religion from Middle Eastern culture; views the culture as historically violent and dysfunctional, though acknowledges medieval Islamic scholarship was advanced"
+   },
+   {
+    "topic": "Wasteful spending",
+    "position": "Societies that waste resources on ephemeral luxury rather than lasting infrastructure undermine themselves"
+   },
+   {
+    "topic": "Rome as a cosmopolitan ideal",
+    "position": "Rome's appeal as a place where people of all origins could participate was genuinely admirable, but it rotted when it stopped demanding civic participation"
+   }
+  ],
+  "entities": [
+   "Alaric",
+   "Augustine of Hippo (City of God)",
+   "Edward Gibbon (Decline and Fall of the Roman Empire)",
+   "Theodosius",
+   "Honorius",
+   "Romulus Augustulus",
+   "Huns",
+   "Visigoths/Goths",
+   "Franks",
+   "Ostia",
+   "Adrianople",
+   "Danube",
+   "Eastern Roman Empire",
+   "Constantinople",
+   "Nero",
+   "Plato"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.18,
+   "end": 5.3,
+   "text": "Hello, here's a video I request about 14 of the sack of Rome by Gaul."
+  },
+  {
+   "start": 5.3,
+   "end": 11.46,
+   "text": "I try to make this video go by chronic work, I haven't had anything to eat yet today."
+  },
+  {
+   "start": 11.46,
+   "end": 18.86,
+   "text": "I'm hungry and it's still going to one in my P&M on Wednesday."
+  },
+  {
+   "start": 18.86,
+   "end": 26.54,
+   "text": "So yeah, I tried to do this thing yesterday, but I got to one minute and I'm going to stop"
+  },
+  {
+   "start": 26.54,
+   "end": 27.54,
+   "text": "from the Senate."
+  },
+  {
+   "start": 27.54,
+   "end": 31.54,
+   "text": "But now I can go."
+  },
+  {
+   "start": 31.54,
+   "end": 38.54,
+   "text": "So yeah, I'll read in the Secret Room 14 that is a duty of the request."
+  },
+  {
+   "start": 38.54,
+   "end": 39.54,
+   "text": "Thank you for getting into it."
+  },
+  {
+   "start": 39.54,
+   "end": 43.54,
+   "text": "Don't forget to give me a lesson to request like that."
+  },
+  {
+   "start": 43.54,
+   "end": 47.54,
+   "text": "From respect to far end."
+  },
+  {
+   "start": 47.54,
+   "end": 55.54,
+   "text": "Yeah, I mean, I think everybody, it should be required that everybody has a YouTube channel"
+  },
+  {
+   "start": 55.54,
+   "end": 58.14,
+   "text": "and talks to you there about this."
+  },
+  {
+   "start": 58.14,
+   "end": 61.86,
+   "text": "Because it pertains to what's going on now."
+  },
+  {
+   "start": 61.86,
+   "end": 68.86,
+   "text": "Has to do with the empire and the barbarians kind of in."
+  },
+  {
+   "start": 68.86,
+   "end": 82.59,
+   "text": "Yeah, so, and with long parallels between the current game."
+  },
+  {
+   "start": 82.59,
+   "end": 85.83,
+   "text": "So fortune, that's when Rome will sell."
+  },
+  {
+   "start": 85.83,
+   "end": 87.83,
+   "text": "That's the crash of Rome."
+  },
+  {
+   "start": 87.91,
+   "end": 98.47,
+   "text": "The Roman Empire, when you look at it on Wikipedia, but officially went down to here 476."
+  },
+  {
+   "start": 98.47,
+   "end": 107.43,
+   "text": "When they had a volume burn and Augustus Anarius, no, Augustus Rambulis, to very first king of"
+  },
+  {
+   "start": 107.43,
+   "end": 111.83,
+   "text": "Rome, and the very first emperor alone."
+  },
+  {
+   "start": 111.83,
+   "end": 119.03,
+   "text": "And he was, I guess, officially the Roman Empire, or been on that they didn't have much"
+  },
+  {
+   "start": 119.03,
+   "end": 123.07,
+   "text": "territory and pretty much all in the late of the controlled by the gods."
+  },
+  {
+   "start": 123.07,
+   "end": 128.43,
+   "text": "That that one, we got to say, you know, this is the stupidest, suspended all take I'll take"
+  },
+  {
+   "start": 128.43,
+   "end": 131.43,
+   "text": "here in my hand and I'll retire you off to the country side."
+  },
+  {
+   "start": 131.43,
+   "end": 136.15,
+   "text": "So it took his signal ring and melted back to the Eastern Roman Empire."
+  },
+  {
+   "start": 136.15,
+   "end": 140.95,
+   "text": "And so there's no more Roman Empire than the Eastern guy in the city of Bang."
+  },
+  {
+   "start": 141.03,
+   "end": 143.03,
+   "text": "So I'm okay."
+  },
+  {
+   "start": 143.03,
+   "end": 151.67,
+   "text": "So it was this amount of a foreign story, but the moral death blow of Rome."
+  },
+  {
+   "start": 151.67,
+   "end": 160.35,
+   "text": "And what actually took me down, just wrapped in killing Roman culture was important."
+  },
+  {
+   "start": 160.35,
+   "end": 162.35,
+   "text": "So let's talk about that."
+  },
+  {
+   "start": 162.35,
+   "end": 166.71,
+   "text": "Let's talk about the actual fortune."
+  },
+  {
+   "start": 166.71,
+   "end": 170.83,
+   "text": "And then I'll have to put it down and I'll just stand and talk about this, the wires,"
+  },
+  {
+   "start": 170.83,
+   "end": 171.83,
+   "text": "which it's story."
+  },
+  {
+   "start": 171.83,
+   "end": 180.47,
+   "text": "So yeah, in Fortin, the Gothic Army, across the Danube, and they had their own free reign over"
+  },
+  {
+   "start": 180.47,
+   "end": 184.87,
+   "text": "Italy, but it's not already left, and then we didn't just run right in the Rome."
+  },
+  {
+   "start": 184.87,
+   "end": 195.31,
+   "text": "And we're gonna stack it, you know, because they didn't like the Romans."
+  },
+  {
+   "start": 195.31,
+   "end": 204.71,
+   "text": "And it was the first time that there had been a foreign community in the Roman city side of Rome."
+  },
+  {
+   "start": 204.71,
+   "end": 211.35,
+   "text": "And so they went to, and there he would do his very recent move before that, but I'll talk about"
+  },
+  {
+   "start": 211.35,
+   "end": 212.35,
+   "text": "that later."
+  },
+  {
+   "start": 212.35,
+   "end": 218.07,
+   "text": "The reason we were going around, we've got a pack."
+  },
+  {
+   "start": 218.07,
+   "end": 225.71,
+   "text": "So what they did is they went to Osteo, the pork, where they got all of their grain from Egypt."
+  },
+  {
+   "start": 225.71,
+   "end": 231.75,
+   "text": "And we did a blockade of Rome until they had walls."
+  },
+  {
+   "start": 231.75,
+   "end": 238.47,
+   "text": "So they were under siege, and they used up their stores and then they all start to death."
+  },
+  {
+   "start": 238.47,
+   "end": 243.43,
+   "text": "And so all the dead bodies brought in, and make people sick."
+  },
+  {
+   "start": 243.43,
+   "end": 251.03,
+   "text": "So they finally had to open the gates to the Goss, and there was a story of some of the rich"
+  },
+  {
+   "start": 251.03,
+   "end": 257.23,
+   "text": "people sharing some of that, and some of that, and some of the non-stores of the widow of the"
+  },
+  {
+   "start": 257.23,
+   "end": 259.23,
+   "text": "of the Osteo."
+  },
+  {
+   "start": 259.23,
+   "end": 264.95,
+   "text": "It's done, they left the Goss in, and the Goss came in and sat in Rome."
+  },
+  {
+   "start": 265.27,
+   "end": 275.11,
+   "text": "Now, they were there, I think it was a few, they'll be for something, and they didn't do"
+  },
+  {
+   "start": 275.11,
+   "end": 278.23,
+   "text": "a wide-scale massacre, only one."
+  },
+  {
+   "start": 278.23,
+   "end": 282.31,
+   "text": "The Roman senator was recorded as being killed by the Goss."
+  },
+  {
+   "start": 282.31,
+   "end": 288.83,
+   "text": "But they did orderly go into the houses of the Roman, and take their stuff."
+  },
+  {
+   "start": 288.83,
+   "end": 292.03,
+   "text": "And take the Romans, those slaves."
+  },
+  {
+   "start": 292.03,
+   "end": 299.03,
+   "text": "That's the ancient tradition when everything went into the satin city, especially if you"
+  },
+  {
+   "start": 299.03,
+   "end": 303.87,
+   "text": "have the barbarians going, you take slaves."
+  },
+  {
+   "start": 303.87,
+   "end": 309.07,
+   "text": "But they didn't really want to kind of go ahead and take over the city of Rome."
+  },
+  {
+   "start": 309.07,
+   "end": 316.26,
+   "text": "They didn't like Rome, and they had enough slaves, as it was, the church was set up of the"
+  },
+  {
+   "start": 316.26,
+   "end": 320.66,
+   "text": "desire to have all these Romans slaves, and they were going to kill all of them."
+  },
+  {
+   "start": 320.66,
+   "end": 325.66,
+   "text": "So they sold them to the friends, to the other free-name ones, who were countryside, for"
+  },
+  {
+   "start": 325.66,
+   "end": 331.7,
+   "text": "a cheap price kind of going through the motions."
+  },
+  {
+   "start": 331.7,
+   "end": 335.94,
+   "text": "And they freed all of the slaves and side of Rome, and that caused the massacre."
+  },
+  {
+   "start": 335.94,
+   "end": 342.34,
+   "text": "They freed 40,000 slaves, and the slaves, who didn't like their masters, killed their masters,"
+  },
+  {
+   "start": 342.34,
+   "end": 347.29,
+   "text": "and their 1000."
+  },
+  {
+   "start": 348.09,
+   "end": 356.81,
+   "text": "And they demanded the payoff from Rome for them to leave, was 4,000 pounds of gold, 20,000 pounds"
+  },
+  {
+   "start": 356.81,
+   "end": 364.21,
+   "text": "of silver, 3,000 silk shirts, and 3,000 of the other type of fancy garment."
+  },
+  {
+   "start": 364.21,
+   "end": 369.33,
+   "text": "And then they would also be able to have the houses and just took the individual soldiers, whatever"
+  },
+  {
+   "start": 369.33,
+   "end": 371.73,
+   "text": "they want."
+  },
+  {
+   "start": 371.73,
+   "end": 377.65,
+   "text": "But they weren't, they weren't totally barbarians."
+  },
+  {
+   "start": 377.65,
+   "end": 387.37,
+   "text": "And then they left and there was a lot of stuff that kind of disappeared, and they think maybe"
+  },
+  {
+   "start": 387.37,
+   "end": 390.65,
+   "text": "that's when they sat around."
+  },
+  {
+   "start": 390.65,
+   "end": 396.45,
+   "text": "The statue of the euro, maybe that was torn down when they sat, I think, on the chat room."
+  },
+  {
+   "start": 396.45,
+   "end": 405.89,
+   "text": "And also there was a row of ancient superpapers that hold the bodies of the ancient"
+  },
+  {
+   "start": 405.89,
+   "end": 413.13,
+   "text": "embers and kings, and they sat back upon the bodies out and all the roots of their one side,"
+  },
+  {
+   "start": 413.13,
+   "end": 417.18,
+   "text": "you know, that totally defiled Rome."
+  },
+  {
+   "start": 417.18,
+   "end": 424.78,
+   "text": "And then they left and set up their own kingdom like a mental author, or something, and I think"
+  },
+  {
+   "start": 424.78,
+   "end": 431.74,
+   "text": "the Roman Empire, and yeah, survived another circular was of 66 years after that."
+  },
+  {
+   "start": 431.74,
+   "end": 439.9,
+   "text": "So let's talk about the widest for it of the saccalb Roman power, and how that actually happened."
+  },
+  {
+   "start": 439.9,
+   "end": 449.3,
+   "text": "And look at it from all of the different angles, and especially, you know, the enlightened"
+  },
+  {
+   "start": 449.38,
+   "end": 459.95,
+   "text": "embers, the people, the historians, when they talked about the fallen ones, they, it's"
+  },
+  {
+   "start": 459.95,
+   "end": 467.99,
+   "text": "not like, oh, those dirty dogs, those dirty bastard barbarians, you know, they got them, somehow"
+  },
+  {
+   "start": 467.99,
+   "end": 476.35,
+   "text": "got a really big onion to go around, they blame them, and so let's talk about a little bit"
+  },
+  {
+   "start": 476.35,
+   "end": 481.91,
+   "text": "of the problems of the empire of Rome, and I don't know what we'll talk about, the events"
+  },
+  {
+   "start": 481.91,
+   "end": 492.54,
+   "text": "leading up to the saccalb Rome, and showing how the Roman command structure was screwed up"
+  },
+  {
+   "start": 492.54,
+   "end": 496.58,
+   "text": "and basically needed to get it overhaul."
+  },
+  {
+   "start": 496.58,
+   "end": 503.66,
+   "text": "So you could think of the saccalb Rome for different angles, like one of them, you know, barbarians,"
+  },
+  {
+   "start": 503.66,
+   "end": 514.38,
+   "text": "and then the Chicol also looked at it as a revolution from the people, and also maybe like a"
+  },
+  {
+   "start": 514.38,
+   "end": 518.06,
+   "text": "revolution from the people in charge too."
+  },
+  {
+   "start": 518.06,
+   "end": 528.02,
+   "text": "So the Roman world, there was this section, I prepared for this video by listening to all the chapters"
+  },
+  {
+   "start": 528.02,
+   "end": 533.62,
+   "text": "about it, I didn't have the evidence, but something was said, volume 3, and I didn't know"
+  },
+  {
+   "start": 533.7,
+   "end": 538.62,
+   "text": "what was, maybe like a half hour was it leading?"
+  },
+  {
+   "start": 538.62,
+   "end": 546.26,
+   "text": "There was a book, the, by a dog, a scene of hip-hop who wrote a book called City of God, it's like 18"
+  },
+  {
+   "start": 546.26,
+   "end": 551.18,
+   "text": "and we're in place this long, and you wrote it in the year 410, and he was talking about the fall"
+  },
+  {
+   "start": 551.18,
+   "end": 556.18,
+   "text": "of the empire of Rome, and all the reasons are stuck."
+  },
+  {
+   "start": 556.18,
+   "end": 562.38,
+   "text": "I read that book like years ago, and he actually died when it's siege, but then after the saccalb"
+  },
+  {
+   "start": 562.38,
+   "end": 567.66,
+   "text": "Rome and the bandals came in, they go over and over and over and et al. and the siege to city,"
+  },
+  {
+   "start": 567.66,
+   "end": 570.38,
+   "text": "and that's when he started to die."
+  },
+  {
+   "start": 570.38,
+   "end": 577.38,
+   "text": "He's the most prolific Roman writer and Christian writer."
+  },
+  {
+   "start": 577.38,
+   "end": 584.38,
+   "text": "So, but I don't remember what you said exactly about that, but another video I spoke to prepared for this,"
+  },
+  {
+   "start": 584.38,
+   "end": 589.38,
+   "text": "I watched, I listened to the document I'm hearing about, the saccalb Rome."
+  },
+  {
+   "start": 589.38,
+   "end": 598.38,
+   "text": "So, the Roman world, there is a section in the book that Edward given, and he was describing the Roman world,"
+  },
+  {
+   "start": 598.38,
+   "end": 601.38,
+   "text": "and just how ridiculous it was."
+  },
+  {
+   "start": 601.38,
+   "end": 608.38,
+   "text": "The Roman world is basically, if you wanted to compare it to nowadays, it was basically a situation where, you know,"
+  },
+  {
+   "start": 608.38,
+   "end": 616.38,
+   "text": "like nowadays you would have all these people getting residual money, pass it and come,"
+  },
+  {
+   "start": 616.38,
+   "end": 621.38,
+   "text": "all of the money getting funneled to the wealthy and the wealthy families."
+  },
+  {
+   "start": 621.38,
+   "end": 626.38,
+   "text": "So, there's all these people sitting around with the way too much money, and nothing,"
+  },
+  {
+   "start": 626.38,
+   "end": 631.38,
+   "text": "they don't want to do it, and they all these other people over and nothing."
+  },
+  {
+   "start": 631.38,
+   "end": 638.38,
+   "text": "So, that's, and so, you know, that's the visual and constant evolution."
+  },
+  {
+   "start": 638.38,
+   "end": 643.38,
+   "text": "So, that's basically where Rome was, only on one steroids."
+  },
+  {
+   "start": 643.38,
+   "end": 648.38,
+   "text": "And you can, I'm actually in the process right now that was straight and efficiently."
+  },
+  {
+   "start": 648.38,
+   "end": 652.38,
+   "text": "The world discrepancy and average people were, they had a law,"
+  },
+  {
+   "start": 652.38,
+   "end": 657.38,
+   "text": "left the little gear or whatever that they passed, this was when they were in Republic."
+  },
+  {
+   "start": 657.38,
+   "end": 663.38,
+   "text": "So, that law had probably been abolished by now, and these people were, they had to pass a law that said,"
+  },
+  {
+   "start": 663.38,
+   "end": 671.38,
+   "text": "private land could only be 500 year-guarra, which is about 1.36 square kilometers, which is like,"
+  },
+  {
+   "start": 671.38,
+   "end": 673.38,
+   "text": "on the lake."
+  },
+  {
+   "start": 673.38,
+   "end": 679.38,
+   "text": "It's like a full-on city, it's like four kilometers and I'm thinking of the whole size of both of it."
+  },
+  {
+   "start": 679.38,
+   "end": 687.38,
+   "text": "So, that was somebody used to stay there, and getting on computer with your picture, and then to Beverly Hills and every person's house,"
+  },
+  {
+   "start": 687.38,
+   "end": 689.38,
+   "text": "that's something that's not necessarily a case."
+  },
+  {
+   "start": 689.38,
+   "end": 695.38,
+   "text": "So, none of them would have a town who's like somebody's here and they'd pass up their town and they'd still have a mail in the town."
+  },
+  {
+   "start": 695.38,
+   "end": 700.38,
+   "text": "But they literally, they were all in times like, in dark ages, it was like that."
+  },
+  {
+   "start": 700.38,
+   "end": 706.38,
+   "text": "You'd have your castle on the hill and the town belonged and the castle actually did, I think, on the town."
+  },
+  {
+   "start": 706.38,
+   "end": 714.38,
+   "text": "Yeah, so it was actually coming from, until, yeah, until the black plague and the loss of power."
+  },
+  {
+   "start": 714.38,
+   "end": 719.38,
+   "text": "You know, it was like that, but that's all, that being inherited out from home."
+  },
+  {
+   "start": 719.38,
+   "end": 724.38,
+   "text": "You could compare that to somebody in the big state."
+  },
+  {
+   "start": 724.38,
+   "end": 730.38,
+   "text": "So, anyway, he's used to writing, just used to use bridge people."
+  },
+  {
+   "start": 730.38,
+   "end": 743.38,
+   "text": "I think your average, the production, got four thousand pounds of gold a year from his, all, you know, all this land and everything that he owned."
+  },
+  {
+   "start": 743.38,
+   "end": 748.38,
+   "text": "So, they would obviously really own entire cities."
+  },
+  {
+   "start": 748.38,
+   "end": 756.38,
+   "text": "But the difference between the little ages, the dark ages and rooms, like, world of actually didn't really own the entire city."
+  },
+  {
+   "start": 756.38,
+   "end": 765.38,
+   "text": "You know, like in the little ages, the guy couldn't be like, but people were going to go on a trip to see my friend, the town, the town, the little, and the table, so they were apparently going to know that kind of thing."
+  },
+  {
+   "start": 765.38,
+   "end": 772.38,
+   "text": "And the room that he was describing, when it went ever, the household would go on a trip somewhat."
+  },
+  {
+   "start": 772.38,
+   "end": 790.38,
+   "text": "It was like an arm, they'd have a whole layer, or the different ministers of this, the co-care, the staff, the other, and they'd, you know, like a train, down the road, and all the people, you know, they'd be in, so they'd look at it, they'd be like, so, so they're student, they would have a big bank, when it's at their house."
+  },
+  {
+   "start": 790.38,
+   "end": 805.38,
+   "text": "And they would hire their new rates to come, to record their bank lit, because we, like, like, they're, they're, they're version of the newspaper, you don't put them up to newspaper, and they would say, oh, page three, so and so on, so I had a party."
+  },
+  {
+   "start": 805.38,
+   "end": 819.38,
+   "text": "And so you go, okay, you had a party, wow, how many, how many guests were there, who was there, and they weighed that they shall have you on the face, they'll take a face to them, and then, what course of the day of all this stuff."
+  },
+  {
+   "start": 819.38,
+   "end": 835.38,
+   "text": "And because that's, they develop, uh, extravagant lifestyle to an art, kind of like the, uh, the, the French from the late 1700s, when they knew the fort, the 16th."
+  },
+  {
+   "start": 835.38,
+   "end": 846.38,
+   "text": "Uh, up there in their side, they would have all their, um, their traditions, so they would do all the different courses and hills and the 10,000 people would have been not building."
+  },
+  {
+   "start": 846.38,
+   "end": 855.38,
+   "text": "What all of them had anything to do, they were able to, they were able to, they were all the, more, it's from their, to the parts of France were brought there, so they could have control of that."
+  },
+  {
+   "start": 855.38,
+   "end": 870.38,
+   "text": "And then they could have control over their proxies, so it's just a money, uh, sucker, marians went out created a town, a whole town, um, just to find that, I mean, the side suits."
+  },
+  {
+   "start": 870.38,
+   "end": 879.38,
+   "text": "And, uh, they, they had all kinds of stories you could talk about, or size, just all the words, you know, and people had to watch her get better than mom and students that."
+  },
+  {
+   "start": 879.38,
+   "end": 898.38,
+   "text": "So that's, that was kind of like, well, um, you know, they would, they would stuff, um, dogs to make the next report and they had all kinds of tourists, going there, science, that got lost, we don't have a lot of, there's only one novel that's about to grow."
+  },
+  {
+   "start": 898.38,
+   "end": 911.38,
+   "text": "And, uh, so, uh, what I'll see, he was describing other stuff, um, yeah, and they were just decadent, um, they lost touch with, uh, like, matters, they would have slaves to it."
+  },
+  {
+   "start": 911.38,
+   "end": 922.38,
+   "text": "With a slave murder, somebody who had just black and woman was, and, uh, but if he would have some slave and give her your hot water, then he would get 30 lashes."
+  },
+  {
+   "start": 922.38,
+   "end": 938.38,
+   "text": "And, um, and as far as the actual romance, the same as the place where the Sims and the Sims played into the city, wrong was basically like a giant, um, one of these estate, just stuck in money, the city of the longest kind of like that."
+  },
+  {
+   "start": 938.38,
+   "end": 950.38,
+   "text": "There's people who are given, um, they've lost records, they're exactly how much people are given, but like, I think in the time of, you know, just before the sacking your grown."
+  },
+  {
+   "start": 950.38,
+   "end": 955.38,
+   "text": "Each half family householder was given three pounds of bread every single day."
+  },
+  {
+   "start": 955.38,
+   "end": 968.38,
+   "text": "And, uh, so they probably had a worked out, and before that it was even more. Before that, they would give, maybe I don't know, every place in three pounds of bread a day, but they would also give you a blind."
+  },
+  {
+   "start": 968.38,
+   "end": 972.38,
+   "text": "Everybody was given for you a blind, a well."
+  },
+  {
+   "start": 972.38,
+   "end": 987.38,
+   "text": "And free, boy, with their food and for their lamps. This is Mount Calma to stock here on the ground, it's just a big estimate. And it's made out of the, uh, the, the, the, the, the, the, the, the, the, the, the, the, the, the jars that they've been, imported from the line."
+  },
+  {
+   "start": 987.38,
+   "end": 997.38,
+   "text": "The empire was just this mechanism to funnel all of the well for the world and it was one city for people to not work."
+  },
+  {
+   "start": 997.38,
+   "end": 1010.38,
+   "text": "One point two million people to just sit there and get up, go to their, uh, go to their gladiatorial contacts and their chair irises and hang out in their baths and go home."
+  },
+  {
+   "start": 1010.38,
+   "end": 1028.38,
+   "text": "And they, another, um, uh, activity that they did was, uh, watch debates. So the concept of long is this place where not the capital of the world where people could go and all the different odds of the world could go and co-mingle."
+  },
+  {
+   "start": 1028.38,
+   "end": 1039.38,
+   "text": "Um, you know, to give them a tax tax to be able to do that. That I think that could be a, like, an idea that everybody in a world could sign off on."
+  },
+  {
+   "start": 1039.38,
+   "end": 1054.38,
+   "text": "Um, it's a court, but, um, you know, there's that it creates this, uh, definitely a potential for problems when it, when it becomes to, uh, reading, uh, decant."
+  },
+  {
+   "start": 1054.38,
+   "end": 1065.38,
+   "text": "Uh, people instead of, he was saying the book, people instead of listening to reading their books and their interpilosophers and historians and the rich people have their own libraries."
+  },
+  {
+   "start": 1065.38,
+   "end": 1082.38,
+   "text": "They just shot their libraries and just, the discovering, and the people would go and watch their shows and their presentations. So I'm watching people have intelligence debates or our, uh, getting educational speeches."
+  },
+  {
+   "start": 1082.38,
+   "end": 1096.38,
+   "text": "They would watch pantomimes of, um, you know, telling stories from the past. But it was just the economy and, uh, low intelligence, um, just pantomimes, um,"
+  },
+  {
+   "start": 1096.38,
+   "end": 1112.89,
+   "text": "or really popular, I guess, up until 500. So, um, you know, I think pantomimes are great if you're trying to show them the past, you know, show people who don't necessarily speak your language because language is a much smaller."
+  },
+  {
+   "start": 1112.89,
+   "end": 1126.89,
+   "text": "But to not be able to graduate, ask that, you know, people who don't understand you and have intelligence debates and, um, and, uh, presentations and just, uh, lots and people."
+  },
+  {
+   "start": 1126.89,
+   "end": 1133.89,
+   "text": "And, uh, people who visit home with this respect for our own, had respect for a long time and people visit around the neighborhood."
+  },
+  {
+   "start": 1133.89,
+   "end": 1141.89,
+   "text": "They had been in spite of the infrastructure and education of the people and they would go home to their home, don't they?"
+  },
+  {
+   "start": 1141.89,
+   "end": 1150.36,
+   "text": "And, not have a problem with giving the tax to them. But, uh, he was saying that people would go around in the decade of the years."
+  },
+  {
+   "start": 1150.36,
+   "end": 1160.36,
+   "text": "They would get their traditional, you know, on solidations from their, uh, politician of Rome and, and you're going to show the bath and stuff."
+  },
+  {
+   "start": 1160.36,
+   "end": 1177.77,
+   "text": "But then they would go back and try to establish relationships and it just be, um, shun and, uh, cause, uh, didn't, uh, people on the focus on computing with each other for, uh, wealth and, um,"
+  },
+  {
+   "start": 1177.77,
+   "end": 1183.77,
+   "text": "and not, you know, how they, um, told them about the situations with people from abroad."
+  },
+  {
+   "start": 1183.77,
+   "end": 1195.77,
+   "text": "It was, uh, it was, uh, so it just ended up, uh, uh, the leaders of the Roman Empire will make you really stupid decisions too."
+  },
+  {
+   "start": 1195.77,
+   "end": 1200.77,
+   "text": "So, the magnificence of Rome, um, is the way it is."
+  },
+  {
+   "start": 1200.77,
+   "end": 1215.21,
+   "text": "Rome is the only, uh, uh, empire that I can think of that has such a, um, a, um, um, um, um, even growth and decline."
+  },
+  {
+   "start": 1215.21,
+   "end": 1229.21,
+   "text": "It, it grew really, really slowly, uh, living house, many, a thousand pages where you're just describing the politics of any area of the size of, over can't count it and no one counted."
+  },
+  {
+   "start": 1229.21,
+   "end": 1242.38,
+   "text": "Um, 40 kilometers across and then, uh, and then there were an empire for a long time and then they were, uh, kind of losing, um,"
+  },
+  {
+   "start": 1242.38,
+   "end": 1255.38,
+   "text": "territory very gradually for a very long time. So it's very simple to just look at the first half of the Roman era going when they were successful and then the second half from the Roman era,"
+  },
+  {
+   "start": 1255.38,
+   "end": 1267.38,
+   "text": "and what are the differences between it's clear that in the second half, like in the first half they were, uh, democracy that now is power and wealth and then the second, and, uh,"
+  },
+  {
+   "start": 1267.38,
+   "end": 1272.38,
+   "text": "uh, gave, you know, responsibility in an animal people and normal people were very capable."
+  },
+  {
+   "start": 1272.38,
+   "end": 1284.38,
+   "text": "And then the second half, it was had lots of wealth of scarcity. You're just a kingdom, there was no democracy and we'll probably, and, uh, the people were just, uh,"
+  },
+  {
+   "start": 1284.38,
+   "end": 1299.38,
+   "text": "the same thing, um, three, bread to watch cherry and racist, you know. And so, if you want to design a healthy culture, then what you want to do is"
+  },
+  {
+   "start": 1299.38,
+   "end": 1320.38,
+   "text": "superimpose the culture of democracy and self-amines onto a pre-existing culture of, um, rules and, called on traditions and social, um, stratification."
+  },
+  {
+   "start": 1320.38,
+   "end": 1328.38,
+   "text": "Um, I think that that's, that's going on for a learned and so natural that, uh, the social stratification we listen to,"
+  },
+  {
+   "start": 1328.38,
+   "end": 1340.38,
+   "text": "make sure that it's, um, a meritocracy and not something that, uh, you know, you're born into, but also something that, in a certain situation, um,"
+  },
+  {
+   "start": 1340.38,
+   "end": 1347.38,
+   "text": "the main, the big things that we live in, uh, society that doesn't waste, um, when we do, when we do,"
+  },
+  {
+   "start": 1347.38,
+   "end": 1355.38,
+   "text": "the big, the technology is supposed to make life easier, you know, it's not supposed to make us, um,"
+  },
+  {
+   "start": 1355.38,
+   "end": 1364.4,
+   "text": "use all of the extra money that we have to incarcerate people for our living, you know, aside and all of it."
+  },
+  {
+   "start": 1364.4,
+   "end": 1369.4,
+   "text": "So, um, basically what happened when we owned this, I lost them, the spectrum, nobody."
+  },
+  {
+   "start": 1369.4,
+   "end": 1376.4,
+   "text": "They lost their self-respect, they lost their, this spectrum, uh, people in the room and empire,"
+  },
+  {
+   "start": 1376.4,
+   "end": 1382.4,
+   "text": "they lost their spectrum of our living, and they owned their empire, and even the ones that, um,"
+  },
+  {
+   "start": 1382.4,
+   "end": 1393.4,
+   "text": "they, uh, some, um, they just, uh, people, it's kind of like, it's kind of like, giving somebody a scholarship to go to college and sort of studying,"
+  },
+  {
+   "start": 1393.4,
+   "end": 1398.4,
+   "text": "they're just, partying and playing video games all the time, and then the money ran out,"
+  },
+  {
+   "start": 1398.4,
+   "end": 1404.4,
+   "text": "and then graduated college, and they can't give a job because all the people within their college,"
+  },
+  {
+   "start": 1404.4,
+   "end": 1413.22,
+   "text": "but we're studying, and we're all qualified to be able to have to work for them."
+  },
+  {
+   "start": 1413.22,
+   "end": 1420.22,
+   "text": "He was describing, uh, what happened in France, France was the most, all of the most loyal Romans,"
+  },
+  {
+   "start": 1421.22,
+   "end": 1428.22,
+   "text": "because it was taken over by the religious people, which was a beginning of an empire, and the besieges."
+  },
+  {
+   "start": 1428.22,
+   "end": 1439.72,
+   "text": "And, um, that they, uh, that the, the, uh, the, uh, goals came in, or the France came in, and, um,"
+  },
+  {
+   "start": 1439.72,
+   "end": 1445.72,
+   "text": "they couldn't, you know, the Romans couldn't organize it to film themselves, so they were just, uh,"
+  },
+  {
+   "start": 1445.72,
+   "end": 1449.72,
+   "text": "and because they were too busy, you know, fighting with each other."
+  },
+  {
+   "start": 1449.72,
+   "end": 1455.72,
+   "text": "One thing, so one, well, another way you could look at Rome, the follow-up, the empire Rome, instead of Barbarians come over,"
+  },
+  {
+   "start": 1455.72,
+   "end": 1462.72,
+   "text": "take them over them, they basically just transport themselves, you know, like what I've seen before, in person has their own domain."
+  },
+  {
+   "start": 1462.72,
+   "end": 1468.72,
+   "text": "Well, they, then they, uh, they stopped wanting to pay taxes, and so then they just paid on their own domain, so they're domain,"
+  },
+  {
+   "start": 1468.72,
+   "end": 1474.72,
+   "text": "and so they're, then they have to watch out for their neighbor, so they, their bill is turned into, um, from my,"
+  },
+  {
+   "start": 1474.72,
+   "end": 1480.72,
+   "text": "the lives of the castings, but, um, yeah, so when the France invaded, because they, uh,"
+  },
+  {
+   "start": 1480.72,
+   "end": 1485.72,
+   "text": "can defend themselves, and in other reason, that, uh, Barbarians, when Barbarians today, it's,"
+  },
+  {
+   "start": 1485.72,
+   "end": 1491.72,
+   "text": "it's not in a population, it's in a play, and, um, so you could kind of trace the very decaying of this,"
+  },
+  {
+   "start": 1491.72,
+   "end": 1499.72,
+   "text": "the germs of it, to, uh, combatists. Um, there was a plague, and during the time of Antenynist,"
+  },
+  {
+   "start": 1499.72,
+   "end": 1503.72,
+   "text": "the last of the five good and good ones, and the golden age of Rome, which produced the population,"
+  },
+  {
+   "start": 1503.72,
+   "end": 1508.72,
+   "text": "and so they had to fight off the Barbarians' panic, and then, and I'll call them to screw that up,"
+  },
+  {
+   "start": 1508.72,
+   "end": 1517.72,
+   "text": "and just gave them them on the party, so anyway, um, so, uh, so, so, so people were just, you know,"
+  },
+  {
+   "start": 1517.72,
+   "end": 1524.72,
+   "text": "as the Barbarians coming in, well, can't defeat the ten themselves, that's people basically turning to the Barbarians, you know,"
+  },
+  {
+   "start": 1524.72,
+   "end": 1531.72,
+   "text": "because they, because they know that if they give their taxes to the local, um, managed to,"
+  },
+  {
+   "start": 1531.72,
+   "end": 1538.72,
+   "text": "there's no, there's been a co-replay or, or it won't, it'll go to Rome, which was been a corrupt way,"
+  },
+  {
+   "start": 1538.72,
+   "end": 1550.66,
+   "text": "or they can't even do it. So, um, so, but the actual death blow, which led to the sacking of Rome,"
+  },
+  {
+   "start": 1550.66,
+   "end": 1554.66,
+   "text": "was one battle called the Battle of Adrian O'Bull, and I think it was like,"
+  },
+  {
+   "start": 1554.66,
+   "end": 1560.66,
+   "text": "think it was like, think it's $3.9, something like that, so it was like a good few years before the actual sacking"
+  },
+  {
+   "start": 1560.66,
+   "end": 1566.66,
+   "text": "of the time, to break it a little generation or whatever, but what happened was the Huns came in,"
+  },
+  {
+   "start": 1566.66,
+   "end": 1576.66,
+   "text": "and, um, kicked the, uh, all of the, uh, of Gaustas, and by then the Gaust weren't quite so barbarian, you know."
+  },
+  {
+   "start": 1577.66,
+   "end": 1583.66,
+   "text": "Um, it wasn't like the Roman Empire of 400, 390, wasn't the same empire as 400, before that's all I'm"
+  },
+  {
+   "start": 1583.66,
+   "end": 1591.66,
+   "text": "time. 400 years before, um, it was, it was a very sharp divide between, on the Danube that I'm writing,"
+  },
+  {
+   "start": 1591.66,
+   "end": 1598.66,
+   "text": "between the Barbarians, Barbarians, Barbarians, Barbarians, and they made the, um, tassettists rights of both about culture,"
+  },
+  {
+   "start": 1599.66,
+   "end": 1605.66,
+   "text": "and about the Germans, and the Germans never didn't even have a town. They had no towns."
+  },
+  {
+   "start": 1605.66,
+   "end": 1613.66,
+   "text": "They were just building these late stikuts, and stayed there for a year, and then they moved to the next valley and built stikuts."
+  },
+  {
+   "start": 1613.66,
+   "end": 1625.66,
+   "text": "And, um, and so, fast forward 400 years later, Gaustas, they all had towns, they had walls, just like the Germans, just like the ones that they had"
+  },
+  {
+   "start": 1625.66,
+   "end": 1633.66,
+   "text": "and learned Roman battle tactics, they didn't fight, like what their shirts completely off, running through the field screen,"
+  },
+  {
+   "start": 1633.66,
+   "end": 1639.66,
+   "text": "and, um, an alley, and now they're just like ones. Um, but the most important thing that was, that's, uh,"
+  },
+  {
+   "start": 1639.66,
+   "end": 1646.66,
+   "text": "shows me some more areas, they had the same religion, all of the Gausts were Christians, they were area Christians."
+  },
+  {
+   "start": 1646.66,
+   "end": 1658.66,
+   "text": "And, uh, the Roman Empire was officially Christian, they had, actually, uh, one generation beforehand, the, uh, Emperor of Rome, during the time of the cycle of Rome,"
+  },
+  {
+   "start": 1658.66,
+   "end": 1665.66,
+   "text": "in four-ten ones on Gaurians, who was the son of the Edocius, which was the Emperor who officially, um,"
+  },
+  {
+   "start": 1665.66,
+   "end": 1675.66,
+   "text": "well, the, the Emperor officially made a Christian with, uh, constantly, but those with the Edocius officially, physically made a Christian being,"
+  },
+  {
+   "start": 1675.66,
+   "end": 1684.66,
+   "text": "physically tore down all of the ancient temples and replaced them with Christian temples, and, um, and, um, you know,"
+  },
+  {
+   "start": 1684.66,
+   "end": 1691.66,
+   "text": "that was the very last, uh, emperor who had to troll over the entire empire."
+  },
+  {
+   "start": 1691.66,
+   "end": 1699.66,
+   "text": "So they did it just in the nick of time. But they, but, you know, they were kind of, they were following the trend of the civilized world."
+  },
+  {
+   "start": 1699.66,
+   "end": 1707.66,
+   "text": "So they were kind of following, you could say, maybe they were following the barbarians, you know, everybody was become a Christian."
+  },
+  {
+   "start": 1707.66,
+   "end": 1717.66,
+   "text": "So, so instead of it being the Roman, the civilized world, and the barbarians, well, it's kind of like, the Roman kingdom, you know, a press of Roman kingdom,"
+  },
+  {
+   "start": 1717.66,
+   "end": 1723.66,
+   "text": "and then on the other side of the river, the block of the barbarian, all the Gothic humans, and all the third."
+  },
+  {
+   "start": 1723.66,
+   "end": 1728.66,
+   "text": "So it was like two countries, you know, so that's countries that's actually so."
+  },
+  {
+   "start": 1728.66,
+   "end": 1737.66,
+   "text": "So, but the real one's the one's the god of the gods, the warless civilized, um, and less, you know, organized, uh,"
+  },
+  {
+   "start": 1737.66,
+   "end": 1743.66,
+   "text": "they had less resources to draw, and so, I think they would, when they, they get invaded, they would run into Rome, they were all the gift, uh,"
+  },
+  {
+   "start": 1743.66,
+   "end": 1755.66,
+   "text": "the area to settle, and make improvements. And so the barbarians came in, the real block of the ones, the Mongols, the, the Homes came in,"
+  },
+  {
+   "start": 1755.66,
+   "end": 1763.66,
+   "text": "kicked the, uh, the goddesses, and they ran into Rome, and they were using, they could get into Rome really easy at that time when they got attacked,"
+  },
+  {
+   "start": 1763.66,
+   "end": 1771.66,
+   "text": "because the Danube was first in Solomon, they just walked right across, and the Romans. And here's where you can talk about how long they'll."
+  },
+  {
+   "start": 1771.66,
+   "end": 1779.66,
+   "text": "The Romans didn't defend the war. They just, they just had one ghost in there that got wiped out of the ram."
+  },
+  {
+   "start": 1779.66,
+   "end": 1787.66,
+   "text": "And then the army didn't come in and kill them all. The army just came in, it was like, okay, we'll now hear, I guess you're wrong, but, but they weren't,"
+  },
+  {
+   "start": 1787.66,
+   "end": 1792.66,
+   "text": "they didn't deal decisively with them. They just, uh, treated them poorly, they'd open them and be really late."
+  },
+  {
+   "start": 1792.66,
+   "end": 1800.66,
+   "text": "And so they were making the gods sell their children for food and then just, and they took all their, other swords away."
+  },
+  {
+   "start": 1800.66,
+   "end": 1814.66,
+   "text": "But, um, that a lot of them hit their swords. And so they ended up, um, they weren't given a, uh, a, um, the camp of the gods, the leader of the gods was gallery."
+  },
+  {
+   "start": 1814.66,
+   "end": 1823.66,
+   "text": "But he was, if I remember correctly from the documentary, he was actually a Roman, he was a Roman of Gothic background, so he was just leaving the gods."
+  },
+  {
+   "start": 1823.66,
+   "end": 1831.66,
+   "text": "And he said, well, it just makes me a Roman, uh, water, whatever, a Roman, a general, and then all of these have got, in charge of the gods,"
+  },
+  {
+   "start": 1831.66,
+   "end": 1837.66,
+   "text": "and on me for the Roman Empire, and you let a settlement of place. So they, but they let them do that, but they weren't, um,"
+  },
+  {
+   "start": 1837.66,
+   "end": 1843.66,
+   "text": "they weren't giving them their food. They weren't treating like Romans, and giving them places to pasture."
+  },
+  {
+   "start": 1843.66,
+   "end": 1851.66,
+   "text": "They were basically trying to like, starve them out or something. They're basically being, and decisive, and, uh, stupid."
+  },
+  {
+   "start": 1851.66,
+   "end": 1857.66,
+   "text": "So they finally, the Romans were like, okay, fine, we'll have a battle with you and kill all of you. Um, rescue gods."
+  },
+  {
+   "start": 1857.66,
+   "end": 1862.66,
+   "text": "And the Romans actually pushed for this, the Romans' visits, it's supposed to work."
+  },
+  {
+   "start": 1862.66,
+   "end": 1873.66,
+   "text": "And, um, because they didn't, they didn't like the gods, they didn't be around them, because their culture was a similar enough. They were too, uh, sweet."
+  },
+  {
+   "start": 1873.66,
+   "end": 1880.66,
+   "text": "Um, and, um, so they had to, there were, there were two armies of our spaylands, a battle in ten of them."
+  },
+  {
+   "start": 1880.66,
+   "end": 1885.66,
+   "text": "And I was supposed to unite and then kill the gods. But they screwed up, they weren't professional."
+  },
+  {
+   "start": 1885.66,
+   "end": 1891.66,
+   "text": "They, they went into the scout, but they didn't do the thorough scout. They just looked at it from what angle, and then they left."
+  },
+  {
+   "start": 1891.66,
+   "end": 1895.66,
+   "text": "And it was when they, and they said, account of the horses to find out how they'd be armed with."
+  },
+  {
+   "start": 1895.66,
+   "end": 1900.66,
+   "text": "But what they didn't realize is that all of the horses were out to pasture over the hill site."
+  },
+  {
+   "start": 1901.66,
+   "end": 1904.66,
+   "text": "And so the Gothic army was much larger."
+  },
+  {
+   "start": 1904.66,
+   "end": 1909.66,
+   "text": "And so they were lazy. And that, on the candy, they had a competition between the two armies."
+  },
+  {
+   "start": 1909.66,
+   "end": 1914.66,
+   "text": "One army wanted to win the war of all of our lives, so they had to have his own triumph."
+  },
+  {
+   "start": 1914.66,
+   "end": 1920.66,
+   "text": "And not share with the other. And the other said, no, no way. And we'll have them together. So the first guy, I think the sun."
+  },
+  {
+   "start": 1920.66,
+   "end": 1924.66,
+   "text": "Um, the army was the father, and it was the father of the sun, the bounty of the mountains."
+  },
+  {
+   "start": 1924.66,
+   "end": 1930.66,
+   "text": "When they had his battle by himself, with what he thought was a small army, it was sort of big army. And they got wiped out."
+  },
+  {
+   "start": 1930.66,
+   "end": 1938.66,
+   "text": "They got boxed in and cut to pieces. And then they went and they think they had another battle."
+  },
+  {
+   "start": 1938.66,
+   "end": 1944.66,
+   "text": "That was the battle of nature and nothing wiped out the other army. So now Rome and empire did not have money."
+  },
+  {
+   "start": 1944.66,
+   "end": 1946.66,
+   "text": "Because they had already been on the way."
+  },
+  {
+   "start": 1946.66,
+   "end": 1950.66,
+   "text": "Not going to the high-diverment, but they had 30 leachers."
+  },
+  {
+   "start": 1950.66,
+   "end": 1956.66,
+   "text": "But now, they had a couple of legions and lost all of it. So now it was just a moment and part of it."
+  },
+  {
+   "start": 1956.66,
+   "end": 1964.66,
+   "text": "They hadn't seen it just some rare rest. All of the provinces of the city and the region, getting all of it right into the city and around."
+  },
+  {
+   "start": 1964.66,
+   "end": 1970.66,
+   "text": "And all of this economic structure they had was now just on faith, on tradition."
+  },
+  {
+   "start": 1970.66,
+   "end": 1974.66,
+   "text": "And so the gods realized that. And so now the gods have actually came up."
+  },
+  {
+   "start": 1974.66,
+   "end": 1980.66,
+   "text": "Like now let's know more, okay, you want to be able to finish it to be a state."
+  },
+  {
+   "start": 1980.66,
+   "end": 1986.66,
+   "text": "And not even be a state, we have decided to want to be a state. It's not like the state where it came to now."
+  },
+  {
+   "start": 1986.66,
+   "end": 1992.66,
+   "text": "We have a bigger army than you. You know, you get to take a little country and part of it we wanted to."
+  },
+  {
+   "start": 1992.66,
+   "end": 1998.66,
+   "text": "And so, but all of it, you wanted to still want to be just to settle and become part of the one we're in."
+  },
+  {
+   "start": 1998.66,
+   "end": 2002.66,
+   "text": "So we wanted to have a meeting. And this is after we wanted already lost their armies."
+  },
+  {
+   "start": 2002.66,
+   "end": 2006.66,
+   "text": "We wanted to have a meeting on artists who is the emperor and brothana."
+  },
+  {
+   "start": 2006.66,
+   "end": 2016.66,
+   "text": "And our, our arra is refused to even see them because he was just a god because our army started and we could still come up with that army."
+  },
+  {
+   "start": 2016.66,
+   "end": 2022.66,
+   "text": "And so they just started like, all right. And they just still under own them as they came in."
+  },
+  {
+   "start": 2022.66,
+   "end": 2026.66,
+   "text": "They just, they got bigger and bigger and on me was like Spartacus."
+  },
+  {
+   "start": 2026.66,
+   "end": 2034.66,
+   "text": "They were, they were, uh, free slaves and to get their army bigger and bigger and bigger and bigger."
+  },
+  {
+   "start": 2034.66,
+   "end": 2042.66,
+   "text": "Just for the city of Rome or they, uh, they stripped the wealth of the city from the death blow."
+  },
+  {
+   "start": 2042.66,
+   "end": 2044.66,
+   "text": "And then that was the death blow there on top of it."
+  },
+  {
+   "start": 2044.66,
+   "end": 2056.13,
+   "text": "So, um, so the moral of the story is, you can't, if you're going to have a, um, a, like a world empire."
+  },
+  {
+   "start": 2056.13,
+   "end": 2060.13,
+   "text": "And like a world empire that's going to survive in the city that's going to survive."
+  },
+  {
+   "start": 2060.13,
+   "end": 2066.13,
+   "text": "You have to stay true to the qualities that made it popular in the first place."
+  },
+  {
+   "start": 2066.13,
+   "end": 2076.13,
+   "text": "You have to treat those as institutions under themselves that are that have, uh, like, um, you know, um,"
+  },
+  {
+   "start": 2076.13,
+   "end": 2082.13,
+   "text": "importance that is actually written into the documents, their constitution."
+  },
+  {
+   "start": 2082.13,
+   "end": 2086.13,
+   "text": "So, so that I think, you know, I've said this before with the first thing that they did on this,"
+  },
+  {
+   "start": 2086.13,
+   "end": 2090.13,
+   "text": "move the capital from Rome to another city."
+  },
+  {
+   "start": 2090.13,
+   "end": 2098.13,
+   "text": "Rome was, was the capital of the world and they spent all this money building up the infrastructure of the city of Rome."
+  },
+  {
+   "start": 2098.13,
+   "end": 2100.13,
+   "text": "So, what you want to do is protect that."
+  },
+  {
+   "start": 2100.13,
+   "end": 2106.13,
+   "text": "You don't want to have a wasteful society, a wasteful society as a society that spends all their money."
+  },
+  {
+   "start": 2106.13,
+   "end": 2110.13,
+   "text": "Building things, this building up things that don't, that don't last, you know,"
+  },
+  {
+   "start": 2110.13,
+   "end": 2116.13,
+   "text": "if you don't want to build a big ass house, it's beautiful and then five years later,"
+  },
+  {
+   "start": 2116.13,
+   "end": 2122.13,
+   "text": "because you're so rich, tear the house down, I build another house because you just won't have a different looking house."
+  },
+  {
+   "start": 2122.13,
+   "end": 2126.13,
+   "text": "And that's what Rome had been doing forever, you know, they just, they would, like,"
+  },
+  {
+   "start": 2126.13,
+   "end": 2132.13,
+   "text": "they, uh, in Burnuro built his house, tore down all their built his house and then they did my parents"
+  },
+  {
+   "start": 2132.13,
+   "end": 2136.13,
+   "text": "that tore down their house and built it all the same."
+  },
+  {
+   "start": 2136.13,
+   "end": 2138.13,
+   "text": "Instead of just building something, and then I'm hoping it will last."
+  },
+  {
+   "start": 2138.13,
+   "end": 2142.13,
+   "text": "And then I'm hoping it will last. And that's what, that's what was successful part of Rome was building things that lasted."
+  },
+  {
+   "start": 2142.13,
+   "end": 2152.13,
+   "text": "And, you know, it's like the gods of Rome and the genius of Rome, the magic of Rome, that thing that gives its authority and"
+  },
+  {
+   "start": 2152.13,
+   "end": 2156.13,
+   "text": "to the whole world and respect to the whole world, and love from all the world."
+  },
+  {
+   "start": 2156.13,
+   "end": 2158.13,
+   "text": "Support from the whole world."
+  },
+  {
+   "start": 2158.13,
+   "end": 2166.13,
+   "text": "And, uh, and so that's the beauty of it, you know, the beauty of the building, the culture, the ability to bring all the world together."
+  },
+  {
+   "start": 2166.13,
+   "end": 2172.13,
+   "text": "Anybody from the, we, quarter of the world to go there can be an event that they about to build into that something."
+  },
+  {
+   "start": 2172.13,
+   "end": 2178.13,
+   "text": "And then you're out there, uh, there, uh, there will probably be that would debate, you know,"
+  },
+  {
+   "start": 2178.13,
+   "end": 2184.13,
+   "text": "if the 300 centers in the, you know, kind of representing the whole, because they did not have any of that sort of,"
+  },
+  {
+   "start": 2184.13,
+   "end": 2190.13,
+   "text": "you know, as big of a people talking about something that you've been successful on, you know,"
+  },
+  {
+   "start": 2190.13,
+   "end": 2195.98,
+   "text": "you know, you're going to have been with, they actually signed to the big space."
+  },
+  {
+   "start": 2195.98,
+   "end": 2199.98,
+   "text": "They actually signed to the big space, I think, the big, big, big, big, big, big, big,"
+  },
+  {
+   "start": 2199.98,
+   "end": 2203.98,
+   "text": "big people from the hood, clearly, not only in the narrow area, you just look at the home of the farm,"
+  },
+  {
+   "start": 2203.98,
+   "end": 2209.98,
+   "text": "it's about that size. And you can fit 6,000 people there. That's how many people were at Plato's terms."
+  },
+  {
+   "start": 2209.98,
+   "end": 2215.98,
+   "text": "So, um, and they, you know, they would have people voting one day and hanging out to your group, so they had it for you out,"
+  },
+  {
+   "start": 2215.98,
+   "end": 2219.98,
+   "text": "but, um, and that kind of should inspire us to really take it to the next level of that arena."
+  },
+  {
+   "start": 2219.98,
+   "end": 2227.98,
+   "text": "But, but what they did was they just, they just, um, put their values, not on education and on education, but on,"
+  },
+  {
+   "start": 2227.98,
+   "end": 2233.98,
+   "text": "comparing you with each other's health, well, for you, because it's intellectual and easy."
+  },
+  {
+   "start": 2233.98,
+   "end": 2243.98,
+   "text": "And, um, so, um, um, what other, I'm trying to think of other, um, crazy, um, with the,"
+  },
+  {
+   "start": 2243.98,
+   "end": 2249.98,
+   "text": "with the, um, with the older people, traditions that they had, gambling, and playing cars,"
+  },
+  {
+   "start": 2249.98,
+   "end": 2255.98,
+   "text": "was a way to get rich of your style and make a lot of them. I don't like that guy damn bells,"
+  },
+  {
+   "start": 2255.98,
+   "end": 2259.98,
+   "text": "or not. It was damn bells, and I didn't feel real back. And because, but it, you know, obviously,"
+  },
+  {
+   "start": 2259.98,
+   "end": 2263.98,
+   "text": "I only beat up, I looked at it in the wealthy classes, because it's a bunch of money."
+  },
+  {
+   "start": 2263.98,
+   "end": 2267.98,
+   "text": "So, you could be able to approach some playing with the other wealthy, to get a bunch of money,"
+  },
+  {
+   "start": 2267.98,
+   "end": 2271.98,
+   "text": "and call it, to make shit loads of money. They also had,"
+  },
+  {
+   "start": 2271.98,
+   "end": 2275.98,
+   "text": "and it was a really organized society. They could have done a lot with it."
+  },
+  {
+   "start": 2275.98,
+   "end": 2281.98,
+   "text": "Some of the richest people were, um, were a cherry at racers, but that's what it's just modern day,"
+  },
+  {
+   "start": 2281.98,
+   "end": 2287.98,
+   "text": "superstars, actors were super rich and wealthy. Um, and, you know, so,"
+  },
+  {
+   "start": 2287.98,
+   "end": 2293.98,
+   "text": "you're getting into this society that is, uh, cost a lot to maintain. You have these rich people"
+  },
+  {
+   "start": 2293.98,
+   "end": 2297.98,
+   "text": "who then spend their money having slaves do this and that form, and all of these other people"
+  },
+  {
+   "start": 2297.98,
+   "end": 2303.98,
+   "text": "sort of around doing nothing. Um, you know, people around that, well, we're going to start"
+  },
+  {
+   "start": 2303.98,
+   "end": 2309.98,
+   "text": "to go to the next one, and then, this place, and we should be getting people someone's tax money"
+  },
+  {
+   "start": 2309.98,
+   "end": 2313.98,
+   "text": "to do that. So, um, I think the answer to the most glorious, I think we should rebuild,"
+  },
+  {
+   "start": 2313.98,
+   "end": 2317.98,
+   "text": "and I'll turn it back into a place that could be for all of the different world, which are using costs"
+  },
+  {
+   "start": 2317.98,
+   "end": 2325.98,
+   "text": "and the careers, the races. And, um, and use the money from the Catholic Church to bring"
+  },
+  {
+   "start": 2325.98,
+   "end": 2329.98,
+   "text": "to build up the actual, the actual buildings alone. Because if they had a,"
+  },
+  {
+   "start": 2329.98,
+   "end": 2335.98,
+   "text": "capital room, it was the capital, and they had a, had a, had a democratic and a republic."
+  },
+  {
+   "start": 2335.98,
+   "end": 2343.42,
+   "text": "Then people would have not wanted to, uh, you know, they wouldn't have been sack with the government,"
+  },
+  {
+   "start": 2343.42,
+   "end": 2347.42,
+   "text": "the gospel, and then settled. And you had to respect the gospel and be with them."
+  },
+  {
+   "start": 2347.42,
+   "end": 2351.42,
+   "text": "On the Morris was just this rich kid who just spent money, and they wouldn't do it."
+  },
+  {
+   "start": 2351.42,
+   "end": 2355.42,
+   "text": "And they wouldn't have to be with the people with the difficult decision, like,"
+  },
+  {
+   "start": 2355.42,
+   "end": 2361.42,
+   "text": "and then stuff. So, um, you know, so you have to make it a, a, a, a, a meritocracy."
+  },
+  {
+   "start": 2361.42,
+   "end": 2367.42,
+   "text": "But if you're going to make it a meritocracy, it has to be a socialist, a society that supports"
+  },
+  {
+   "start": 2367.42,
+   "end": 2371.42,
+   "text": "their children of the wealth wealthy from the past, so that they would support it."
+  },
+  {
+   "start": 2371.42,
+   "end": 2375.42,
+   "text": "And so if you're going to support, that means you're going to have to support everybody because there's"
+  },
+  {
+   "start": 2375.42,
+   "end": 2379.42,
+   "text": "always new people coming out. So you're going to sort of like adding your people to the wealth,"
+  },
+  {
+   "start": 2379.42,
+   "end": 2383.42,
+   "text": "so the wealth of the wealth is, so the wealth of the class has to be defined as a class of people that doesn't suck"
+  },
+  {
+   "start": 2383.42,
+   "end": 2387.42,
+   "text": "well. And so it's, it's, it's the wealth of class of the, uh, of the educated class."
+  },
+  {
+   "start": 2387.42,
+   "end": 2393.42,
+   "text": "And so they would, they would get, you know, the universal income to, basically, be educated."
+  },
+  {
+   "start": 2393.42,
+   "end": 2397.42,
+   "text": "And that's what, that's where my bicycle company, we get paid $50,000, and so you have to know that's"
+  },
+  {
+   "start": 2397.42,
+   "end": 2401.42,
+   "text": "the right to buy both of them and talk about your history book and listen to that."
+  },
+  {
+   "start": 2401.42,
+   "end": 2407.42,
+   "text": "So, um, so, um, so yeah, I mean, it ties into the current day a lot because"
+  },
+  {
+   "start": 2407.42,
+   "end": 2411.42,
+   "text": "people are trying to decide how we should look at different cultures and if they end about"
+  },
+  {
+   "start": 2411.42,
+   "end": 2415.42,
+   "text": "you know, there's a saturation point where people from their world countries kind of"
+  },
+  {
+   "start": 2415.42,
+   "end": 2421.42,
+   "text": "to America and grow, could actually tip the balance and make, and actually"
+  },
+  {
+   "start": 2421.42,
+   "end": 2425.42,
+   "text": "do create our culture overall and then cause it's actually have to adjust our laws to let's"
+  },
+  {
+   "start": 2425.42,
+   "end": 2431.42,
+   "text": "bring to it to, um, you know, accommodate for all of these other people coming."
+  },
+  {
+   "start": 2431.42,
+   "end": 2435.42,
+   "text": "You know, like making laws like for Muslims, so many Muslims in America and they"
+  },
+  {
+   "start": 2435.42,
+   "end": 2439.42,
+   "text": "they can make laws that they can get in our own order to allow have short skirts"
+  },
+  {
+   "start": 2439.42,
+   "end": 2443.42,
+   "text": "because the Muslims have to admit that you can't draw a Muslim problem with how to, you know,"
+  },
+  {
+   "start": 2443.42,
+   "end": 2449.42,
+   "text": "or, um, and then, um, you know, they would lose their side of respect to the European"
+  },
+  {
+   "start": 2449.42,
+   "end": 2453.42,
+   "text": "culture because there's too much, you know, love this country up and so, and some people would"
+  },
+  {
+   "start": 2453.42,
+   "end": 2459.42,
+   "text": "identify with the Muslims before, you know, and the, the, um, people would just, um,"
+  },
+  {
+   "start": 2459.42,
+   "end": 2465.42,
+   "text": "you know, watch program, uh, people, uh, talking at some work, okay,"
+  },
+  {
+   "start": 2465.42,
+   "end": 2469.42,
+   "text": "to become popular and nobody just in two videos and because nobody doesn't think"
+  },
+  {
+   "start": 2469.42,
+   "end": 2471.42,
+   "text": "that we want to be history, we want to be watching."
+  },
+  {
+   "start": 2471.42,
+   "end": 2475.42,
+   "text": "sitcoms, it's basically a replay of a lot, okay?"
+  },
+  {
+   "start": 2475.42,
+   "end": 2481.42,
+   "text": "If you've used ancient Rome, the template of ancient Rome, what did the current"
+  },
+  {
+   "start": 2481.42,
+   "end": 2485.42,
+   "text": "game, you could, you could basically, and then, and then if maybe you could"
+  },
+  {
+   "start": 2485.42,
+   "end": 2489.42,
+   "text": "extrapolate out of it, you could how it would fall. You could tell a story like,"
+  },
+  {
+   "start": 2489.42,
+   "end": 2493.42,
+   "text": "oh yeah, everybody's, uh, just sitting around on the thunders up there,"
+  },
+  {
+   "start": 2493.42,
+   "end": 2495.42,
+   "text": "watching watching YouTube, watching a little YouTube, and you know, who"
+  },
+  {
+   "start": 2495.42,
+   "end": 2499.42,
+   "text": "less ways in the football. Um, it's like past life, remember, we just doing what we,"
+  },
+  {
+   "start": 2499.42,
+   "end": 2503.42,
+   "text": "what we were accustomed to before, you know, going to the Colesium, and just being, um,"
+  },
+  {
+   "start": 2503.42,
+   "end": 2509.42,
+   "text": "up to just being watchers and, um, consumers, you know, if you get it,"
+  },
+  {
+   "start": 2509.42,
+   "end": 2515.25,
+   "text": "YouTube comment, it's funny somebody doesn't have it, um,"
+  },
+  {
+   "start": 2515.25,
+   "end": 2519.25,
+   "text": "um, um, um, um, um, um, um, uh, everybody's in the hall of the Sunday"
+  },
+  {
+   "start": 2519.25,
+   "end": 2523.25,
+   "text": "has anything really, it has a website. Yeah, everybody has the"
+  },
+  {
+   "start": 2523.25,
+   "end": 2527.25,
+   "text": "time, because they have, because the money has given to them,"
+  },
+  {
+   "start": 2527.25,
+   "end": 2531.25,
+   "text": "where a lot of people have it, it's the time from universal income or"
+  },
+  {
+   "start": 2531.25,
+   "end": 2535.25,
+   "text": "from some, like, past of it, um, you would have the time to make the website"
+  },
+  {
+   "start": 2535.25,
+   "end": 2539.25,
+   "text": "to share, let them know, but they don't. Because they sit all of their"
+  },
+  {
+   "start": 2539.25,
+   "end": 2543.25,
+   "text": "time during the past, so, and so everybody does that. So that creates a"
+  },
+  {
+   "start": 2543.25,
+   "end": 2547.25,
+   "text": "void and society, or you can have some kind of like a pot of automatic"
+  },
+  {
+   "start": 2547.25,
+   "end": 2551.25,
+   "text": "dictatorship on China and the careers and, um,"
+  },
+  {
+   "start": 2551.25,
+   "end": 2555.25,
+   "text": "and then they make lots of, you're actually not allowed to have a"
+  },
+  {
+   "start": 2555.25,
+   "end": 2559.25,
+   "text": "video to have that. And then nobody cares because nobody did"
+  },
+  {
+   "start": 2559.25,
+   "end": 2563.25,
+   "text": "it anyway, you know, and then, you know, and then, you know,"
+  },
+  {
+   "start": 2563.25,
+   "end": 2567.25,
+   "text": "and then, and then, see, she could really get the fan of it, and then we start out"
+  },
+  {
+   "start": 2567.25,
+   "end": 2571.25,
+   "text": "in your source problems, the population, too much population on other resources,"
+  },
+  {
+   "start": 2571.25,
+   "end": 2575.25,
+   "text": "so then we have to start making laws to make us more efficient,"
+  },
+  {
+   "start": 2575.25,
+   "end": 2579.25,
+   "text": "but to force us to be more efficient because we didn't do it on the"
+  },
+  {
+   "start": 2579.25,
+   "end": 2583.25,
+   "text": "bottom toe, you know, we didn't stop driving our cars in which we had a"
+  },
+  {
+   "start": 2583.25,
+   "end": 2587.25,
+   "text": "like, slowly long, and that's the bulls in our house, you know, out of the"
+  },
+  {
+   "start": 2587.25,
+   "end": 2591.25,
+   "text": "cans, and then spend all of our time sharing what we know and then"
+  },
+  {
+   "start": 2591.25,
+   "end": 2595.25,
+   "text": "that, um, instead of that, we just, you know, we got money, we just"
+  },
+  {
+   "start": 2595.25,
+   "end": 2599.25,
+   "text": "didn't, you know, buy a lot to the restaurant and hire somebody to"
+  },
+  {
+   "start": 2599.25,
+   "end": 2605.25,
+   "text": "like a nice thing, you didn't have anything to go, you know, playing your house"
+  },
+  {
+   "start": 2605.25,
+   "end": 2611.25,
+   "text": "when you've been done it, um, hey, you know, like pay extra"
+  },
+  {
+   "start": 2611.25,
+   "end": 2615.25,
+   "text": "to use the permits or whatever, I don't know, just, you know, getting to run a"
+  },
+  {
+   "start": 2615.25,
+   "end": 2621.25,
+   "text": "jail for smoking, we just all kinds of things to spend money, and, um,"
+  },
+  {
+   "start": 2621.25,
+   "end": 2628.77,
+   "text": "you know, like everybody thinking they have to have their own house,"
+  },
+  {
+   "start": 2628.77,
+   "end": 2630.77,
+   "text": "it's like if you're growing your current house, you're going to have to find"
+  },
+  {
+   "start": 2630.77,
+   "end": 2634.77,
+   "text": "your parents out of five dead or else, why not just live with your parents"
+  },
+  {
+   "start": 2634.77,
+   "end": 2638.77,
+   "text": "until they die, you and you, and you, and they're out there, and also,"
+  },
+  {
+   "start": 2638.77,
+   "end": 2640.77,
+   "text": "so they don't have your own house and then you're on five kids."
+  },
+  {
+   "start": 2640.77,
+   "end": 2644.77,
+   "text": "You know, so, I mean, there are parts of the world that there's"
+  },
+  {
+   "start": 2644.77,
+   "end": 2648.77,
+   "text": "you need more people to keep the population going in there, parts of the world"
+  },
+  {
+   "start": 2648.77,
+   "end": 2652.77,
+   "text": "where there's too many people. And so, but you, but you have to"
+  },
+  {
+   "start": 2652.77,
+   "end": 2658.77,
+   "text": "protect your culture, if it's a career of culture, which"
+  },
+  {
+   "start": 2658.77,
+   "end": 2662.77,
+   "text": "is not successful, it's kind of becoming people because they are going to"
+  },
+  {
+   "start": 2662.77,
+   "end": 2666.77,
+   "text": "bring your culture with them. Well, I don't think I spent six or seven, seven"
+  },
+  {
+   "start": 2666.77,
+   "end": 2670.77,
+   "text": "years in South America by years in Chile, I did teaching me those in"
+  },
+  {
+   "start": 2670.77,
+   "end": 2674.77,
+   "text": "Argentina in Chile, and I don't think those countries, but like if the whole world"
+  },
+  {
+   "start": 2674.77,
+   "end": 2678.77,
+   "text": "like if the country is in Chile and it's an African, I don't think the world"
+  },
+  {
+   "start": 2678.77,
+   "end": 2682.77,
+   "text": "would survive because people will, it would be like, well, people would just"
+  },
+  {
+   "start": 2682.77,
+   "end": 2687.77,
+   "text": "care about money, and, um, they would be this us down, and then there would be a"
+  },
+  {
+   "start": 2687.77,
+   "end": 2691.77,
+   "text": "war, and then everybody would buy it, because then it's all of the"
+  },
+  {
+   "start": 2691.77,
+   "end": 2695.88,
+   "text": "resources and then when we thank God, then we have a"
+  },
+  {
+   "start": 2695.88,
+   "end": 2701.48,
+   "text": "lot of them who figure out, figure stuff out and communicate, because we"
+  },
+  {
+   "start": 2701.48,
+   "end": 2705.48,
+   "text": "have a culture of communication with the places that don't. Those places have a"
+  },
+  {
+   "start": 2705.48,
+   "end": 2709.48,
+   "text": "new tune, they are, they're interested in something super, super"
+  },
+  {
+   "start": 2709.48,
+   "end": 2713.48,
+   "text": "processed, and they're a superstar, and everybody else watch a"
+  },
+  {
+   "start": 2713.48,
+   "end": 2718.82,
+   "text": "family and so, probably else in a country and that's a lot of team"
+  },
+  {
+   "start": 2718.82,
+   "end": 2722.82,
+   "text": "that's not what that technology says, that's not what technology"
+  },
+  {
+   "start": 2722.82,
+   "end": 2728.62,
+   "text": "else, but, you know, show, so yeah, that's still similar to the"
+  },
+  {
+   "start": 2728.62,
+   "end": 2736.66,
+   "text": "nature of culture of the past, and that's what these all"
+  },
+  {
+   "start": 2736.66,
+   "end": 2740.66,
+   "text": "great people are all stopping about, you know, the races, like student"
+  },
+  {
+   "start": 2740.66,
+   "end": 2744.66,
+   "text": "body, you know, you like those two views of women, for example, they"
+  },
+  {
+   "start": 2744.66,
+   "end": 2748.66,
+   "text": "would just get, they would only have to work three, five days a year,"
+  },
+  {
+   "start": 2748.66,
+   "end": 2750.66,
+   "text": "and then when they were going on for us, and then people will just"
+  },
+  {
+   "start": 2750.66,
+   "end": 2754.66,
+   "text": "watch us a way, and then you know, you know, you know, so yeah,"
+  },
+  {
+   "start": 2754.66,
+   "end": 2756.66,
+   "text": "everybody's worried about the nature of the museum, and then"
+  },
+  {
+   "start": 2756.66,
+   "end": 2760.66,
+   "text": "we're going to respect everybody, now to people, like some"
+  },
+  {
+   "start": 2760.66,
+   "end": 2764.66,
+   "text": "people have to have to have to look up to you, but"
+  },
+  {
+   "start": 2764.66,
+   "end": 2766.66,
+   "text": "want to be like you and if you're in a community of visit them, then"
+  },
+  {
+   "start": 2766.66,
+   "end": 2770.04,
+   "text": "you want to have to have to have to live a life that doesn't"
+  },
+  {
+   "start": 2770.04,
+   "end": 2774.04,
+   "text": "waste, and that's not the same by school, and just"
+  },
+  {
+   "start": 2774.04,
+   "end": 2776.04,
+   "text": "get up and you'll be like, all they want, listen to your"
+  },
+  {
+   "start": 2776.04,
+   "end": 2783.43,
+   "text": "I look, and then they're in a bigger video, and then I should"
+  },
+  {
+   "start": 2783.43,
+   "end": 2785.43,
+   "text": "do the politics and all the colleges, and then"
+  },
+  {
+   "start": 2785.43,
+   "end": 2789.43,
+   "text": "roll and watch some asshole out, because they're just"
+  },
+  {
+   "start": 2789.43,
+   "end": 2795.43,
+   "text": "they're fucking back though. So, so, yeah, I mean, you can answer so many"
+  },
+  {
+   "start": 2795.43,
+   "end": 2799.43,
+   "text": "questions from today, and like the problem with Muslims, so like,"
+  },
+  {
+   "start": 2799.43,
+   "end": 2803.43,
+   "text": "both of them stop, why? Because just look at the Middle East, there's no"
+  },
+  {
+   "start": 2803.43,
+   "end": 2805.43,
+   "text": "Christians there, and that's what Christianity was more, and that"
+  },
+  {
+   "start": 2805.43,
+   "end": 2808.43,
+   "text": "killed all the Christians, while the other part of the"
+  },
+  {
+   "start": 2808.43,
+   "end": 2812.43,
+   "text": "Upper Moon and the stuff, but they also kill each other."
+  },
+  {
+   "start": 2812.43,
+   "end": 2816.43,
+   "text": "You need to look at the shit out, listen to me,"
+  },
+  {
+   "start": 2816.43,
+   "end": 2822.14,
+   "text": "listen to me, listen to me, listen to you."
+  },
+  {
+   "start": 2822.14,
+   "end": 2826.14,
+   "text": "Oh, yeah, you have to look at the history of everything, you know,"
+  },
+  {
+   "start": 2826.14,
+   "end": 2828.14,
+   "text": "the history Muslims, listen to me, don't really have a good history."
+  },
+  {
+   "start": 2828.14,
+   "end": 2832.14,
+   "text": "It's just that there are, you should separate their religion from"
+  },
+  {
+   "start": 2832.14,
+   "end": 2835.14,
+   "text": "their culture. The culture is fucked, because there are a bunch of"
+  },
+  {
+   "start": 2835.14,
+   "end": 2839.14,
+   "text": "no ones like this. This item is the thing that actually helped"
+  },
+  {
+   "start": 2839.14,
+   "end": 2845.52,
+   "text": "It's a good, the best thing about the authorities."
+  },
+  {
+   "start": 2845.52,
+   "end": 2850.52,
+   "text": "And like back in the day, the Crusaders went to try to kill all of them and they did."
+  },
+  {
+   "start": 2850.52,
+   "end": 2853.52,
+   "text": "And then when they kicked the Crusaders, they killed everybody in Jerusalem."
+  },
+  {
+   "start": 2853.52,
+   "end": 2855.52,
+   "text": "And then the Crusaders had kicked out and all of it."
+  },
+  {
+   "start": 2855.52,
+   "end": 2857.52,
+   "text": "They just kicked out and said back to Europe."
+  },
+  {
+   "start": 2857.52,
+   "end": 2860.52,
+   "text": "And the Muslims in that time were more, more educated."
+  },
+  {
+   "start": 2860.52,
+   "end": 2863.52,
+   "text": "They knew that they had more scientific knowledge to everything."
+  },
+  {
+   "start": 2863.52,
+   "end": 2866.52,
+   "text": "The Crusaders were back to Europe, learning more times."
+  },
+  {
+   "start": 2866.52,
+   "end": 2869.52,
+   "text": "They learned more things from the Middle East and the Middle East and the Middle East."
+  },
+  {
+   "start": 2869.52,
+   "end": 2871.52,
+   "text": "And then the Middle East and the Europeans."
+  },
+  {
+   "start": 2871.52,
+   "end": 2875.52,
+   "text": "And then the United States, Europe, and the Balkans, and the Shower, and the sort of few weeks."
+  },
+  {
+   "start": 2875.52,
+   "end": 2879.52,
+   "text": "The Middle East and the Middle East, which was the Sylphin Mountains in the Great Reel."
+  },
+  {
+   "start": 2879.52,
+   "end": 2887.52,
+   "text": "And then the most important thing that I like to think about is the National Birth of Islam, the Muhammad."
+  },
+  {
+   "start": 2887.52,
+   "end": 2889.52,
+   "text": "They're going to people like to go to Muhammad."
+  },
+  {
+   "start": 2889.52,
+   "end": 2891.52,
+   "text": "It was a child molester."
+  },
+  {
+   "start": 2891.52,
+   "end": 2897.52,
+   "text": "Muhammad was a light-old lady, a visual and a wife of the two years older than him."
+  },
+  {
+   "start": 2897.52,
+   "end": 2903.52,
+   "text": "He didn't even know I don't just try to look at, they can't figure out what he's got."
+  },
+  {
+   "start": 2903.52,
+   "end": 2907.52,
+   "text": "And they got to let me know if I can understand what he's got to put this on that."
+  },
+  {
+   "start": 2907.52,
+   "end": 2908.52,
+   "text": "Look at the Roman Empire."
+  },
+  {
+   "start": 2908.52,
+   "end": 2910.52,
+   "text": "Because the Roman Empire was still going to the time bomb."
+  },
+  {
+   "start": 2910.52,
+   "end": 2912.52,
+   "text": "There was a near 600-30."
+  },
+  {
+   "start": 2912.52,
+   "end": 2917.52,
+   "text": "And the Western Roman Empire, and they were taken over by the Goss and the Banners."
+  },
+  {
+   "start": 2917.52,
+   "end": 2920.52,
+   "text": "But one by the Spiderman."
+  },
+  {
+   "start": 2920.52,
+   "end": 2923.52,
+   "text": "The Eastern Empire was still strong."
+  },
+  {
+   "start": 2923.52,
+   "end": 2926.52,
+   "text": "That was the field of dust."
+  },
+  {
+   "start": 2926.52,
+   "end": 2931.52,
+   "text": "You know, just in the end, the desert, I mean, just in the end of the war."
+  },
+  {
+   "start": 2931.52,
+   "end": 2934.52,
+   "text": "They were in the 600's and at the same time."
+  },
+  {
+   "start": 2934.52,
+   "end": 2938.52,
+   "text": "And those guys were freaking monsters."
+  },
+  {
+   "start": 2938.52,
+   "end": 2943.52,
+   "text": "Both of them were the most despicable human beings that I really wanted."
+  },
+  {
+   "start": 2943.52,
+   "end": 2946.52,
+   "text": "If you're looking at the video, I'll move you about."
+  },
+  {
+   "start": 2946.52,
+   "end": 2950.52,
+   "text": "There's a book called The Secret History of Just In The In Biker Copies."
+  },
+  {
+   "start": 2950.52,
+   "end": 2954.52,
+   "text": "It was a book written about by Justinian, by historian New York."
+  },
+  {
+   "start": 2954.52,
+   "end": 2956.52,
+   "text": "It's all my life site."
+  },
+  {
+   "start": 2956.52,
+   "end": 2961.52,
+   "text": "And it's like 600-30 times it's a ton of stories about just everything under the sun."
+  },
+  {
+   "start": 2961.52,
+   "end": 2965.52,
+   "text": "They were there where your quintessential evil came to me."
+  },
+  {
+   "start": 2965.52,
+   "end": 2970.52,
+   "text": "He liked, he gets a good rap because people like to go, I love my philosophy,"
+  },
+  {
+   "start": 2970.52,
+   "end": 2974.52,
+   "text": "and I was like, you know, because it's like my mom's upset, my human mind."
+  },
+  {
+   "start": 2974.52,
+   "end": 2979.52,
+   "text": "Because he had a war and he took over the Eastern Western Empire for a while."
+  },
+  {
+   "start": 2979.52,
+   "end": 2981.52,
+   "text": "I'm gonna have to hold on my mind."
+  },
+  {
+   "start": 2981.52,
+   "end": 2987.52,
+   "text": "But that was just a war of popular and he was just a money-wasting."
+  },
+  {
+   "start": 2987.52,
+   "end": 2989.52,
+   "text": "There were what they didn't make a mean, you know."
+  },
+  {
+   "start": 2989.52,
+   "end": 2992.52,
+   "text": "It's almost almost got him out of it."
+  },
+  {
+   "start": 2992.52,
+   "end": 2993.52,
+   "text": "It was so bad."
+  },
+  {
+   "start": 2993.52,
+   "end": 2997.52,
+   "text": "But he ended up being a little survived and he slaughtered 30,000 people."
+  },
+  {
+   "start": 2997.52,
+   "end": 3000.52,
+   "text": "And that's where I come."
+  },
+  {
+   "start": 3000.52,
+   "end": 3006.52,
+   "text": "A class when comes when a class when people just destroy, physically destroy statues."
+  },
+  {
+   "start": 3006.52,
+   "end": 3008.52,
+   "text": "Because people would feel guilty."
+  },
+  {
+   "start": 3008.52,
+   "end": 3011.52,
+   "text": "There was this in the fall of Rome in the year 410."
+  },
+  {
+   "start": 3011.52,
+   "end": 3016.52,
+   "text": "There was this woman who was a woman, who was a daughter of anoria,"
+  },
+  {
+   "start": 3016.52,
+   "end": 3023.52,
+   "text": "and she was taken captive by one of the bandels at the Goss."
+  },
+  {
+   "start": 3023.52,
+   "end": 3027.52,
+   "text": "The then she married the Goth and her team at 5 babies living at Chusewood,"
+  },
+  {
+   "start": 3027.52,
+   "end": 3028.52,
+   "text": "and the happy they were going to."
+  },
+  {
+   "start": 3028.52,
+   "end": 3033.52,
+   "text": "The Goth wanted to be called himself the brother of the Son of law of Muhammad,"
+  },
+  {
+   "start": 3033.52,
+   "end": 3035.52,
+   "text": "so he wanted to be part of the woman."
+  },
+  {
+   "start": 3035.52,
+   "end": 3039.52,
+   "text": "But then the Goth had a, there was a coup in the Goth,"
+  },
+  {
+   "start": 3039.52,
+   "end": 3042.52,
+   "text": "on him, who was killed."
+  },
+  {
+   "start": 3042.52,
+   "end": 3048.52,
+   "text": "And so he went kill all his kids, so he killed all of the marines and so his rancas."
+  },
+  {
+   "start": 3048.52,
+   "end": 3052.52,
+   "text": "And then he got killed in terms of a day later."
+  },
+  {
+   "start": 3052.52,
+   "end": 3058.52,
+   "text": "But he was killed in the Goth and his mother."
+  },
+  {
+   "start": 3058.52,
+   "end": 3062.52,
+   "text": "And he was killed."
+  },
+  {
+   "start": 3062.52,
+   "end": 3064.52,
+   "text": "And he was killed."
+  },
+  {
+   "start": 3064.52,
+   "end": 3075.09,
+   "text": "Okay anyway, day, day, day, day, day, day, day, day,"
+  },
+  {
+   "start": 3075.09,
+   "end": 3077.46,
+   "text": "I told him to tell him."
+  },
+  {
+   "start": 3077.46,
+   "end": 3081.32,
+   "text": "Yeah, well the mother was one of that,"
+  },
+  {
+   "start": 3081.32,
+   "end": 3085.32,
+   "text": "they, they, they, they,"
+  },
+  {
+   "start": 3085.32,
+   "end": 3088.32,
+   "text": "it, oh, in the time of the of those years,"
+  },
+  {
+   "start": 3088.32,
+   "end": 3092.32,
+   "text": "and all the marines, they were more civilized than one of my point,"
+  },
+  {
+   "start": 3092.32,
+   "end": 3095.32,
+   "text": "they were more civilized than the actual moments."
+  },
+  {
+   "start": 3095.32,
+   "end": 3099.32,
+   "text": "The actual moments were psycho killers,"
+  },
+  {
+   "start": 3099.32,
+   "end": 3103.32,
+   "text": "which is God of the earlier, that's when I started talking about the,"
+  },
+  {
+   "start": 3103.32,
+   "end": 3105.32,
+   "text": "I don't know, I can't even tell you."
+  },
+  {
+   "start": 3105.32,
+   "end": 3108.32,
+   "text": "And so this woman, she, she was like, look,"
+  },
+  {
+   "start": 3108.32,
+   "end": 3111.32,
+   "text": "I don't know what I'm, I don't know what I'm story and what I'm, I just do."
+  },
+  {
+   "start": 3111.32,
+   "end": 3113.32,
+   "text": "She's like, when she's like, when she's dying,"
+  },
+  {
+   "start": 3113.32,
+   "end": 3115.32,
+   "text": "and she's like, look, I never did anything wrong."
+  },
+  {
+   "start": 3115.32,
+   "end": 3117.32,
+   "text": "I was always, I tried to communicate with her,"
+  },
+  {
+   "start": 3117.32,
+   "end": 3120.32,
+   "text": "but I was nice to, nice to, nice to, to the poor people and everything."
+  },
+  {
+   "start": 3120.32,
+   "end": 3123.32,
+   "text": "I just lost, you know, lost power."
+  },
+  {
+   "start": 3123.32,
+   "end": 3127.32,
+   "text": "But, but one thing that she did was she was,"
+  },
+  {
+   "start": 3127.32,
+   "end": 3129.32,
+   "text": "she was, give him away, her wealth."
+  },
+  {
+   "start": 3129.32,
+   "end": 3132.32,
+   "text": "And she, because she recognized the whole wealth of screptons,"
+  },
+  {
+   "start": 3132.32,
+   "end": 3134.32,
+   "text": "she probably, she wanted to be one of those,"
+  },
+  {
+   "start": 3134.32,
+   "end": 3136.32,
+   "text": "she was just a little bit scared and sick."
+  },
+  {
+   "start": 3136.32,
+   "end": 3139.32,
+   "text": "She was given her way her wealth and, and, and, and, and, and, and, and, and,"
+  },
+  {
+   "start": 3139.32,
+   "end": 3140.32,
+   "text": "our status, this kind of stuff."
+  },
+  {
+   "start": 3140.32,
+   "end": 3142.32,
+   "text": "And that's kind of like what a conicalos is."
+  },
+  {
+   "start": 3142.32,
+   "end": 3145.32,
+   "text": "They're just giving away, but instead of giving their status to the,"
+  },
+  {
+   "start": 3145.32,
+   "end": 3147.32,
+   "text": "the, and it's just destroying, because they're,"
+  },
+  {
+   "start": 3147.32,
+   "end": 3150.32,
+   "text": "because they become symbols of, of, too much wealth."
+  },
+  {
+   "start": 3150.32,
+   "end": 3153.32,
+   "text": "But, but now you're destroying something of history."
+  },
+  {
+   "start": 3153.32,
+   "end": 3156.32,
+   "text": "Though, there, when the crusaders came in and the year,"
+  },
+  {
+   "start": 3156.32,
+   "end": 3160.32,
+   "text": "11, 1200, they actually went into consent to no one,"
+  },
+  {
+   "start": 3160.32,
+   "end": 3163.32,
+   "text": "took a statue that had been taken, just this year,"
+  },
+  {
+   "start": 3163.32,
+   "end": 3166.32,
+   "text": "who had been seen and they melted it down for its gold."
+  },
+  {
+   "start": 3166.32,
+   "end": 3169.32,
+   "text": "So, people did it all the time."
+  },
+  {
+   "start": 3169.32,
+   "end": 3171.32,
+   "text": "And that's, I mean, that's what people were doing,"
+  },
+  {
+   "start": 3171.32,
+   "end": 3174.32,
+   "text": "the buildings now, the geodes, the ISIS going in,"
+  },
+  {
+   "start": 3174.32,
+   "end": 3177.32,
+   "text": "destroying the ancient temples from thousands of visitors."
+  },
+  {
+   "start": 3177.32,
+   "end": 3179.32,
+   "text": "That's like going for something."
+  },
+  {
+   "start": 3179.32,
+   "end": 3180.32,
+   "text": "That's people going in."
+  },
+  {
+   "start": 3180.32,
+   "end": 3183.32,
+   "text": "And that's, that's what people, that the sentiment from,"
+  },
+  {
+   "start": 3183.32,
+   "end": 3185.32,
+   "text": "from the year, 1200, the people who did it,"
+  },
+  {
+   "start": 3185.32,
+   "end": 3188.32,
+   "text": "was, was, they were against the wealth discrepancy."
+  },
+  {
+   "start": 3188.32,
+   "end": 3191.32,
+   "text": "It was a symbol of wealth discrepancy."
+  },
+  {
+   "start": 3191.32,
+   "end": 3197.84,
+   "text": "So that's what why I'm a homin, said don't ever draw a picture of me because you use basically saying don't"
+  },
+  {
+   "start": 3197.84,
+   "end": 3201.84,
+   "text": "Like a statue because you'll have to turn it down because that's not trying to make me"
+  },
+  {
+   "start": 3202.24,
+   "end": 3207.48,
+   "text": "The more you'll remember it with like I don't be able to say that they wouldn't make these giant statues"
+  },
+  {
+   "start": 3207.48,
+   "end": 3209.76,
+   "text": "And then they would build it with gold and"
+  },
+  {
+   "start": 3210.12,
+   "end": 3214.36,
+   "text": "Then the other guy would have to his name or the chair would have to make a biggest statue"
+  },
+  {
+   "start": 3214.36,
+   "end": 3219.52,
+   "text": "We build it with gold so they spent all their money making statues and then of course you would die and it's something that I was statue"
+  },
+  {
+   "start": 3219.52,
+   "end": 3223.9,
+   "text": "Right, and so it's just been in all this money and wealth for nothing"
+  },
+  {
+   "start": 3224.44,
+   "end": 3226.12,
+   "text": "You know and back that's not gonna be there"
+  },
+  {
+   "start": 3226.12,
+   "end": 3229.72,
+   "text": "So you have to go to the hand like they take it was a big deal in that this hatchet"
+  },
+  {
+   "start": 3229.72,
+   "end": 3233.72,
+   "text": "You know, so people were like people equated civilization with"
+  },
+  {
+   "start": 3234.16,
+   "end": 3236.4,
+   "text": "when it's soaking robbs and"
+  },
+  {
+   "start": 3236.4,
+   "end": 3237.6,
+   "text": "1,000"
+  },
+  {
+   "start": 3237.6,
+   "end": 3239.96,
+   "text": "size and size and size and when fans about you"
+  },
+  {
+   "start": 3240.44,
+   "end": 3247.16,
+   "text": "You know, and that is what civilization is but we have it now with machines right so you have to you have to keep"
+  },
+  {
+   "start": 3247.8,
+   "end": 3249.8,
+   "text": "the culture of being"
+  },
+  {
+   "start": 3250.96,
+   "end": 3251.96,
+   "text": "economically"
+  },
+  {
+   "start": 3252.44,
+   "end": 3256.72,
+   "text": "efficient or you don't have people working for other people just like how it wasn't the past"
+  },
+  {
+   "start": 3257.16,
+   "end": 3261.76,
+   "text": "But at the same time you utilize all the technology it's going to be utilized your lightball and"
+  },
+  {
+   "start": 3262.44,
+   "end": 3266.2,
+   "text": "But they see that's not what we're doing. We're not realizing that nobody has an event"
+  },
+  {
+   "start": 3266.2,
+   "end": 3273.16,
+   "text": "It was only just sharing what they know about the world. They're just watching and then doing some trouble coming from a channel that has no information"
+  },
+  {
+   "start": 3273.72,
+   "end": 3275.08,
+   "text": "okay"
+  },
+  {
+   "start": 3275.2,
+   "end": 3280.84,
+   "text": "So like I can't make any friends on here. I do videos every day. I talk about everything but nobody you know"
+  },
+  {
+   "start": 3281.84,
+   "end": 3290.4,
+   "text": "Because if you comment you would have to be anonymous and nobody wants to be anonymous because I don't know that that's the calories away"
+  },
+  {
+   "start": 3290.5,
+   "end": 3294.18,
+   "text": "But then you comment and you show you are that means I like comment on you"
+  },
+  {
+   "start": 3294.82,
+   "end": 3299.66,
+   "text": "And that puts you on the spot and so now you know what you're gonna have to do a video or do a comment"
+  },
+  {
+   "start": 3299.82,
+   "end": 3303.16,
+   "text": "You know, you know what you want to participate and so then they come up with these"
+  },
+  {
+   "start": 3303.16,
+   "end": 3307.32,
+   "text": "These excuses like oh it's because I'm busy. I'm in survival now I have to work"
+  },
+  {
+   "start": 3307.52,
+   "end": 3312.16,
+   "text": "Okay, well what about the people who don't have to work what about the people who when they're winding down"
+  },
+  {
+   "start": 3312.16,
+   "end": 3317.56,
+   "text": "They watch six hours at two be one seven set of winding down is success to be why don't line that wind down with talking"
+  },
+  {
+   "start": 3317.56,
+   "end": 3322.82,
+   "text": "I guess how I would wind down and talking is the most relaxed think you might see a thing like that"
+  },
+  {
+   "start": 3322.82,
+   "end": 3326.08,
+   "text": "If I wasn't working on my list I don't turn it like this way"
+  },
+  {
+   "start": 3326.4,
+   "end": 3327.84,
+   "text": "They dipped into my one side"
+  },
+  {
+   "start": 3327.84,
+   "end": 3329.84,
+   "text": "I would be addicted to doing videos"
+  },
+  {
+   "start": 3329.84,
+   "end": 3330.84,
+   "text": "I need to"
+  },
+  {
+   "start": 3330.84,
+   "end": 3334.36,
+   "text": "And I'd be and it's easiest but I didn't tell my mom"
+  },
+  {
+   "start": 3334.68,
+   "end": 3339.46,
+   "text": "It was like should I keep podcast and I was telling them I'm just have to and I was actually telling my"
+  },
+  {
+   "start": 3339.56,
+   "end": 3342.64,
+   "text": "You know, I'm saying yes, I would say it's easy. It's part of your videos"
+  },
+  {
+   "start": 3342.64,
+   "end": 3347.64,
+   "text": "These people who do videos every day and these are like super prolific people like this is guy"
+  },
+  {
+   "start": 3348.84,
+   "end": 3350.84,
+   "text": "Simon wasler"
+  },
+  {
+   "start": 3350.84,
+   "end": 3356.12,
+   "text": "From that channel. I haven't found out about him a little bit. He's got like five different channels and comes out with the video"
+  },
+  {
+   "start": 3356.12,
+   "end": 3359.92,
+   "text": "Every time those channels and they're really good when people might be like how fuck do you do that?"
+  },
+  {
+   "start": 3359.92,
+   "end": 3361.42,
+   "text": "Maybe he doesn't do it by itself"
+  },
+  {
+   "start": 3361.62,
+   "end": 3364.36,
+   "text": "But the thing is all you do is get into a rhythm"
+  },
+  {
+   "start": 3364.36,
+   "end": 3367.32,
+   "text": "You find the you find a match you find a rhythm"
+  },
+  {
+   "start": 3367.56,
+   "end": 3370.0,
+   "text": "You do that rhythm every day and you do the same thing every day"
+  },
+  {
+   "start": 3370.0,
+   "end": 3373.6,
+   "text": "And then it's just like second inch you don't have to be smart to do the trans videos"
+  },
+  {
+   "start": 3373.88,
+   "end": 3378.12,
+   "text": "You just write a script you do the you line your photos and boom you're there"
+  },
+  {
+   "start": 3379.12,
+   "end": 3382.04,
+   "text": "And so why do why do somebody do videos like that?"
+  },
+  {
+   "start": 3382.04,
+   "end": 3385.32,
+   "text": "Everybody could do they get millions subscribers and"
+  },
+  {
+   "start": 3385.32,
+   "end": 3387.32,
+   "text": "Then nobody else does a video at all"
+  },
+  {
+   "start": 3388.32,
+   "end": 3393.68,
+   "text": "Well, that's that's a sign that that's a sign of potential or audit product. I actually say"
+  },
+  {
+   "start": 3394.0,
+   "end": 3396.72,
+   "text": "It was a scabble up all the power and then that's like a human"
+  },
+  {
+   "start": 3397.56,
+   "end": 3401.84,
+   "text": "And then and then there's gonna have to be a lemon which because they just gobble it up"
+  },
+  {
+   "start": 3401.84,
+   "end": 3408.96,
+   "text": "They put their their values in the on-place because they only pay attention to people on their economic levels"
+  },
+  {
+   "start": 3408.96,
+   "end": 3410.36,
+   "text": "Those are the only people they look at it"
+  },
+  {
+   "start": 3410.36,
+   "end": 3413.88,
+   "text": "And everyone will know them as a visible and that's what you ever give them the same"
+  },
+  {
+   "start": 3413.88,
+   "end": 3419.48,
+   "text": "You know, I think the rich people would go into the they would trample down the roads of the world that fall speed you fall"
+  },
+  {
+   "start": 3419.48,
+   "end": 3421.48,
+   "text": "Get up from miles an hour"
+  },
+  {
+   "start": 3421.48,
+   "end": 3426.24,
+   "text": "Kicking up dust knocking stuff in people's faces and the huge line that they're followers"
+  },
+  {
+   "start": 3426.68,
+   "end": 3434.8,
+   "text": "They would go into the baths and they would yell and kick them like push people in the wall to bath and just not pay attention to the playbians"
+  },
+  {
+   "start": 3435.3,
+   "end": 3438.84,
+   "text": "You know and then and then I'm gonna go home"
+  },
+  {
+   "start": 3439.76,
+   "end": 3442.76,
+   "text": "There was a"
+  },
+  {
+   "start": 3442.76,
+   "end": 3449.8,
+   "text": "You know they're only pay attention to the pop and the first first level appearance of everything and as soon as somebody"
+  },
+  {
+   "start": 3449.8,
+   "end": 3455.88,
+   "text": "We're gonna ever give one saying if let me have power a party's the last person in one the body would be the scholar"
+  },
+  {
+   "start": 3456.48,
+   "end": 3459.28,
+   "text": "The first person they wanted to invite would be the fun paddabap"
+  },
+  {
+   "start": 3459.92,
+   "end": 3461.92,
+   "text": "So"
+  },
+  {
+   "start": 3461.92,
+   "end": 3463.92,
+   "text": "Yeah, that's that's the most"
+  },
+  {
+   "start": 3463.92,
+   "end": 3465.92,
+   "text": "fascinating part of"
+  },
+  {
+   "start": 3465.92,
+   "end": 3469.64,
+   "text": "Literature like I've ever read that part of whatever different steps at all"
+  },
+  {
+   "start": 3469.64,
+   "end": 3471.24,
+   "text": "I mean"
+  },
+  {
+   "start": 3471.24,
+   "end": 3476.96,
+   "text": "I love it if everybody talked about it because that's the grubs. It's exciting you know people can know"
+  },
+  {
+   "start": 3476.96,
+   "end": 3478.96,
+   "text": "Well, how does society"
+  },
+  {
+   "start": 3478.96,
+   "end": 3483.84,
+   "text": "die as if from too much of our variants coming and then destroying their civilization"
+  },
+  {
+   "start": 3485.64,
+   "end": 3490.6,
+   "text": "You know or is it us just trying our own civilization by"
+  },
+  {
+   "start": 3491.36,
+   "end": 3492.72,
+   "text": "only"
+  },
+  {
+   "start": 3492.72,
+   "end": 3494.72,
+   "text": "fighting each other from money"
+  },
+  {
+   "start": 3494.72,
+   "end": 3501.64,
+   "text": "And so you have to you have to go back to the basics of what made you country very new like America are already individual freedoms and"
+  },
+  {
+   "start": 3502.04,
+   "end": 3503.04,
+   "text": "our"
+  },
+  {
+   "start": 3503.04,
+   "end": 3503.84,
+   "text": "our"
+  },
+  {
+   "start": 3503.84,
+   "end": 3506.08,
+   "text": "ability of make laws that protect"
+  },
+  {
+   "start": 3506.64,
+   "end": 3508.64,
+   "text": "normal people and"
+  },
+  {
+   "start": 3509.2,
+   "end": 3511.6,
+   "text": "And then the ability to follow through with those laws"
+  },
+  {
+   "start": 3511.6,
+   "end": 3513.2,
+   "text": "and"
+  },
+  {
+   "start": 3513.2,
+   "end": 3516.84,
+   "text": "And so you know as far as immigration might be in an immigration"
+  },
+  {
+   "start": 3517.28,
+   "end": 3521.88,
+   "text": "Yeah, you should make laws to fix the support of so I think we should build a wall"
+  },
+  {
+   "start": 3521.88,
+   "end": 3525.68,
+   "text": "All right, because we can't I see what's left it's like my little people are"
+  },
+  {
+   "start": 3525.68,
+   "end": 3526.88,
+   "text": "It's a wine"
+  },
+  {
+   "start": 3526.88,
+   "end": 3529.72,
+   "text": "It's just there these metal styles, so then you throw the slides up"
+  },
+  {
+   "start": 3530.16,
+   "end": 3531.8,
+   "text": "And then you can do it by law"
+  },
+  {
+   "start": 3531.8,
+   "end": 3538.28,
+   "text": "You know you can't get out to people who aren't here is my idea about these people from the world is I think we have too many of them"
+  },
+  {
+   "start": 3538.28,
+   "end": 3539.64,
+   "text": "I don't like how they come here"
+  },
+  {
+   "start": 3539.64,
+   "end": 3540.76,
+   "text": "They never remember"
+  },
+  {
+   "start": 3540.76,
+   "end": 3543.4,
+   "text": "When I go to Mexico and everybody"
+  },
+  {
+   "start": 3543.4,
+   "end": 3544.44,
+   "text": "American"
+  },
+  {
+   "start": 3544.44,
+   "end": 3547.12,
+   "text": "I see all the four months they're from Samus and I'm talking to them"
+  },
+  {
+   "start": 3547.32,
+   "end": 3550.72,
+   "text": "So why the fuck are the next ones coming here and living here forever and"
+  },
+  {
+   "start": 3550.72,
+   "end": 3554.16,
+   "text": "And not I mean I don't really know"
+  },
+  {
+   "start": 3555.76,
+   "end": 3557.76,
+   "text": "I don't know exactly how"
+  },
+  {
+   "start": 3559.48,
+   "end": 3561.48,
+   "text": "Your here stories"
+  },
+  {
+   "start": 3562.08,
+   "end": 3565.36,
+   "text": "And but the thing is it's always been like that if you go to Europe"
+  },
+  {
+   "start": 3566.0,
+   "end": 3567.76,
+   "text": "You know 6700"
+  },
+  {
+   "start": 3567.76,
+   "end": 3573.58,
+   "text": "Dutch you know that that's what they're speaking Dutch Germans speaking German in bolder back in the late 1800s"
+  },
+  {
+   "start": 3573.76,
+   "end": 3575.76,
+   "text": "There were certain areas in bolder"
+  },
+  {
+   "start": 3575.76,
+   "end": 3578.84,
+   "text": "Where they would they would they would cite it all the people"
+  },
+  {
+   "start": 3578.84,
+   "end": 3580.84,
+   "text": "They would answer to Germans and go to the German house"
+  },
+  {
+   "start": 3581.12,
+   "end": 3586.52,
+   "text": "You know people and go to certain that that's the black people that's in a certain area so it's natural"
+  },
+  {
+   "start": 3588.32,
+   "end": 3590.32,
+   "text": "You know, but"
+  },
+  {
+   "start": 3590.32,
+   "end": 3594.2,
+   "text": "You just you just have to know that dividing line for when society starts to crumble"
+  },
+  {
+   "start": 3594.2,
+   "end": 3598.84,
+   "text": "And all like if there's a if Brownsville taxes all of a sudden has a bench in"
+  },
+  {
+   "start": 3598.84,
+   "end": 3601.64,
+   "text": "And a bunch of Americans died then"
+  },
+  {
+   "start": 3602.28,
+   "end": 3604.84,
+   "text": "You know ratchet up and go. Okay, that's America"
+  },
+  {
+   "start": 3605.24,
+   "end": 3608.48,
+   "text": "You know you build them all you kick out all the leaders"
+  },
+  {
+   "start": 3609.4,
+   "end": 3612.76,
+   "text": "And you say fuck you and you know these like not nuanced"
+  },
+  {
+   "start": 3614.24,
+   "end": 3617.64,
+   "text": "S.J. W. people you don't can't think more than I like or do"
+  },
+  {
+   "start": 3618.56,
+   "end": 3620.56,
+   "text": "And just I just want to be like now"
+  },
+  {
+   "start": 3621.56,
+   "end": 3625.88,
+   "text": "But I will know if there's I question I'm George some there are the full on for the"
+  },
+  {
+   "start": 3627.08,
+   "end": 3629.08,
+   "text": "immigrants but"
+  },
+  {
+   "start": 3629.08,
+   "end": 3631.48,
+   "text": "Sometimes there are they're not totally"
+  },
+  {
+   "start": 3633.45,
+   "end": 3635.45,
+   "text": "They don't see both sides"
+  },
+  {
+   "start": 3635.45,
+   "end": 3637.45,
+   "text": "situation"
+  },
+  {
+   "start": 3638.33,
+   "end": 3640.33,
+   "text": "But"
+  },
+  {
+   "start": 3640.33,
+   "end": 3642.33,
+   "text": "Yeah, I think you know the main problem"
+  },
+  {
+   "start": 3642.81,
+   "end": 3644.01,
+   "text": "Is if you go"
+  },
+  {
+   "start": 3644.01,
+   "end": 3648.73,
+   "text": "Blames and you know the immigrants or you know, I'm just just and I think you should always try to blame the system"
+  },
+  {
+   "start": 3649.09,
+   "end": 3651.13,
+   "text": "That's where that's where democracy"
+  },
+  {
+   "start": 3655.13,
+   "end": 3657.13,
+   "text": "And then you come racist"
+  },
+  {
+   "start": 3657.61,
+   "end": 3661.05,
+   "text": "And you actually have to be forced by law to not be racist and"
+  },
+  {
+   "start": 3662.09,
+   "end": 3665.61,
+   "text": "But but you have to know but you also have to be strong out to know"
+  },
+  {
+   "start": 3666.49,
+   "end": 3667.49,
+   "text": "You know"
+  },
+  {
+   "start": 3667.49,
+   "end": 3670.53,
+   "text": "But right was to have not to just follow the mass"
+  },
+  {
+   "start": 3672.37,
+   "end": 3674.37,
+   "text": "Everybody says"
+  },
+  {
+   "start": 3674.69,
+   "end": 3678.05,
+   "text": "Like let all that all the Muslims in why why we have to be human"
+  },
+  {
+   "start": 3678.21,
+   "end": 3680.21,
+   "text": "So I know"
+  },
+  {
+   "start": 3680.21,
+   "end": 3682.21,
+   "text": "You know"
+  },
+  {
+   "start": 3682.21,
+   "end": 3683.73,
+   "text": "There you have to protect your own culture too"
+  },
+  {
+   "start": 3684.13,
+   "end": 3685.17,
+   "text": "So"
+  },
+  {
+   "start": 3685.17,
+   "end": 3687.17,
+   "text": "But that's where the communication comes in"
+  },
+  {
+   "start": 3688.69,
+   "end": 3691.49,
+   "text": "Because it's all about you know you draw respect it"
+  },
+  {
+   "start": 3691.73,
+   "end": 3693.73,
+   "text": "It's those people in the Middle East"
+  },
+  {
+   "start": 3693.73,
+   "end": 3696.29,
+   "text": "Can talk to you and see you like I"
+  },
+  {
+   "start": 3697.81,
+   "end": 3702.21,
+   "text": "But they have to do the videos first so you know that you can't just go and it makes them do it"
+  },
+  {
+   "start": 3702.21,
+   "end": 3706.45,
+   "text": "You have to fortify your culture and then you have to show them by example, but you mentioned by example"
+  },
+  {
+   "start": 3706.77,
+   "end": 3708.77,
+   "text": "If you allow them to destroy your culture"
+  },
+  {
+   "start": 3709.57,
+   "end": 3711.57,
+   "text": "So"
+  },
+  {
+   "start": 3711.57,
+   "end": 3716.05,
+   "text": "So I mean sometimes in the back of my mind I'm kind of a trump one to be honest"
+  },
+  {
+   "start": 3716.77,
+   "end": 3721.17,
+   "text": "Because he's doing all this strong like what my concept is strong is he actually thinking about"
+  },
+  {
+   "start": 3721.65,
+   "end": 3725.65,
+   "text": "Making a follow up all the more because that's the thing that makes the difference between"
+  },
+  {
+   "start": 3725.65,
+   "end": 3729.97,
+   "text": "The whole country and the country and they all fall off I got more punch in the face among them"
+  },
+  {
+   "start": 3729.97,
+   "end": 3731.25,
+   "text": "I like that and show it"
+  },
+  {
+   "start": 3731.41,
+   "end": 3738.21,
+   "text": "I want you to get some of the cards and you know like we don't know that I never would have to basically come up no flies on"
+  },
+  {
+   "start": 3738.61,
+   "end": 3740.13,
+   "text": "No go zones"
+  },
+  {
+   "start": 3740.29,
+   "end": 3741.57,
+   "text": "So we can't leave America"
+  },
+  {
+   "start": 3741.57,
+   "end": 3743.57,
+   "text": "No go zone because we get to the end"
+  },
+  {
+   "start": 3745.22,
+   "end": 3746.82,
+   "text": "Because that doesn't make people more"
+  },
+  {
+   "start": 3747.54,
+   "end": 3750.02,
+   "text": "You know, we like oh it's genetic you must be genetic"
+  },
+  {
+   "start": 3750.02,
+   "end": 3752.02,
+   "text": "You know so"
+  },
+  {
+   "start": 3752.02,
+   "end": 3758.58,
+   "text": "So basically what you learn from the fall of those is that you need to just change to make sure your values are like"
+  },
+  {
+   "start": 3758.58,
+   "end": 3760.58,
+   "text": "So values are in the same place as they were"
+  },
+  {
+   "start": 3761.3,
+   "end": 3764.18,
+   "text": "You know the longest one longest one and that would say"
+  },
+  {
+   "start": 3764.82,
+   "end": 3766.18,
+   "text": "every public"
+  },
+  {
+   "start": 3766.18,
+   "end": 3768.18,
+   "text": "they were"
+  },
+  {
+   "start": 3768.18,
+   "end": 3771.78,
+   "text": "They were a citizen they didn't even have a descriptive army until"
+  },
+  {
+   "start": 3772.58,
+   "end": 3774.58,
+   "text": "until"
+  },
+  {
+   "start": 3774.58,
+   "end": 3776.58,
+   "text": "Gaias and Marius"
+  },
+  {
+   "start": 3776.58,
+   "end": 3778.58,
+   "text": "or like in total like"
+  },
+  {
+   "start": 3778.82,
+   "end": 3780.1,
+   "text": "The 100s"
+  },
+  {
+   "start": 3780.1,
+   "end": 3783.38,
+   "text": "The those BC likes solo like 60 70 c."
+  },
+  {
+   "start": 3784.34,
+   "end": 3785.54,
+   "text": "And maybe there's one 60"
+  },
+  {
+   "start": 3785.54,
+   "end": 3787.22,
+   "text": "They said yeah Marius, what's the feeling they have because"
+  },
+  {
+   "start": 3787.78,
+   "end": 3792.18,
+   "text": "Army that they were kicking everybody's at before they didn't have army they just would have divided you on"
+  },
+  {
+   "start": 3792.18,
+   "end": 3793.14,
+   "text": "You know they saw the"
+  },
+  {
+   "start": 3793.14,
+   "end": 3796.18,
+   "text": "The economics structures and other people would have more gear"
+  },
+  {
+   "start": 3796.66,
+   "end": 3802.66,
+   "text": "And it just went in and bite and so I felt these lazy ass moments had have been doing like school instead of watching"
+  },
+  {
+   "start": 3802.66,
+   "end": 3804.66,
+   "text": "Antimines and"
+  },
+  {
+   "start": 3804.82,
+   "end": 3809.94,
+   "text": "Characters if they were doing bi-crisis themselves and she doing the boxing and wrestling themselves"
+  },
+  {
+   "start": 3810.98,
+   "end": 3815.7,
+   "text": "And then they were they were philosophizing themselves on stage instead of watching student panolines"
+  },
+  {
+   "start": 3816.18,
+   "end": 3817.46,
+   "text": "The comedic"
+  },
+  {
+   "start": 3817.46,
+   "end": 3823.22,
+   "text": "They would have when the Gothard can if they were outnumbered the Gothard is outnumbered by citizen moments"
+  },
+  {
+   "start": 3823.22,
+   "end": 3825.22,
+   "text": "There's what the non people"
+  },
+  {
+   "start": 3825.22,
+   "end": 3829.94,
+   "text": "All they have to do is go grab their like the Swiss whisk go grab their arms out of their closet"
+  },
+  {
+   "start": 3830.9,
+   "end": 3833.3,
+   "text": "And meet them in the field they should have a hump"
+  },
+  {
+   "start": 3834.1,
+   "end": 3836.1,
+   "text": "But they there was a different society"
+  },
+  {
+   "start": 3836.1,
+   "end": 3840.1,
+   "text": "Standard people like us like I'm like how pathetic would that be?"
+  },
+  {
+   "start": 3840.5,
+   "end": 3845.06,
+   "text": "I don't know since you know happened, but what if like the next generation all the kids are fat"
+  },
+  {
+   "start": 3845.06,
+   "end": 3849.7,
+   "text": "Now she didn't play real means and they don't know anything because they're all talking about what he said"
+  },
+  {
+   "start": 3849.7,
+   "end": 3851.54,
+   "text": "She necessarily knew they're new"
+  },
+  {
+   "start": 3851.54,
+   "end": 3853.14,
+   "text": "They're new suddenly stupid thing to describe it"
+  },
+  {
+   "start": 3853.14,
+   "end": 3854.74,
+   "text": "And then they're going to talk about that"
+  },
+  {
+   "start": 3855.38,
+   "end": 3857.38,
+   "text": "So nobody's got other still tired"
+  },
+  {
+   "start": 3857.38,
+   "end": 3859.38,
+   "text": "We just got to use you to do the day to do"
+  },
+  {
+   "start": 3859.94,
+   "end": 3862.9,
+   "text": "What people were saying all the other time during the street"
+  },
+  {
+   "start": 3863.38,
+   "end": 3869.22,
+   "text": "You know like whenever you see a time period the lia like the sack of gum and you're living there in Rome"
+  },
+  {
+   "start": 3869.7,
+   "end": 3873.54,
+   "text": "Like this is something that's real and it happened and it'll always be there"
+  },
+  {
+   "start": 3873.54,
+   "end": 3878.26,
+   "text": "You know it's like other rooms would put the masks so they're deceived up on the wall"
+  },
+  {
+   "start": 3879.38,
+   "end": 3882.66,
+   "text": "And then of course that turned into this the statues in Scotland really"
+  },
+  {
+   "start": 3883.06,
+   "end": 3884.66,
+   "text": "People like to take photos"
+  },
+  {
+   "start": 3884.66,
+   "end": 3887.86,
+   "text": "You like to record the past if you forget what happened and the past"
+  },
+  {
+   "start": 3888.26,
+   "end": 3893.14,
+   "text": "You like to sort of the culture of this all and you're back down to you're back down with the mountains"
+  },
+  {
+   "start": 3894.98,
+   "end": 3898.58,
+   "text": "So there's just so many lessons to learn from the sack of home"
+  },
+  {
+   "start": 3898.58,
+   "end": 3901.14,
+   "text": "You know after remember you have to protect"
+  },
+  {
+   "start": 3901.54,
+   "end": 3904.18,
+   "text": "Build things to last buildings to last don't change the"
+  },
+  {
+   "start": 3904.82,
+   "end": 3908.82,
+   "text": "You know the capital like you could protect it, you know protect your home"
+  },
+  {
+   "start": 3909.7,
+   "end": 3911.7,
+   "text": "And the home of everybody"
+  },
+  {
+   "start": 3911.7,
+   "end": 3915.94,
+   "text": "Protects in the individual and don't have too much wealth of transparency"
+  },
+  {
+   "start": 3916.34,
+   "end": 3919.3,
+   "text": "All over the law have common sense don't don't punish somebody"
+  },
+  {
+   "start": 3920.34,
+   "end": 3924.18,
+   "text": "For not bring you up you'll hot water too late and then not understand at all"
+  },
+  {
+   "start": 3924.58,
+   "end": 3926.98,
+   "text": "It feels somebody you know like what's weird?"
+  },
+  {
+   "start": 3927.94,
+   "end": 3932.74,
+   "text": "You know like you can get thrown in jail, but it's your life. We're actually I'm smoking. I'm joining but then you fucking kill somebody"
+  },
+  {
+   "start": 3933.86,
+   "end": 3936.1,
+   "text": "And like you get a technicality when you're off"
+  },
+  {
+   "start": 3936.66,
+   "end": 3939.06,
+   "text": "Rebought to country to the others whatever"
+  },
+  {
+   "start": 3940.82,
+   "end": 3945.22,
+   "text": "So how do you just think of yourself be you have to be your own you have to be your own"
+  },
+  {
+   "start": 3946.34,
+   "end": 3948.34,
+   "text": "You know from the one yourself and you"
+  },
+  {
+   "start": 3948.66,
+   "end": 3950.66,
+   "text": "They then you crowd it"
+  },
+  {
+   "start": 3950.66,
+   "end": 3958.58,
+   "text": "Free it a label of your country you live and say the best of country then you got a bet you know like I'm an American American Americans are free Americans are great"
+  },
+  {
+   "start": 3959.22,
+   "end": 3961.22,
+   "text": "Americans are educated"
+  },
+  {
+   "start": 3962.5,
+   "end": 3964.5,
+   "text": "So that's America"
+  },
+  {
+   "start": 3965.54,
+   "end": 3967.14,
+   "text": "So"
+  },
+  {
+   "start": 3967.14,
+   "end": 3969.14,
+   "text": "Yeah the sack of Rome"
+  },
+  {
+   "start": 3970.66,
+   "end": 3972.66,
+   "text": "That"
+  },
+  {
+   "start": 3972.66,
+   "end": 3976.98,
+   "text": "Open so lots of doors. Oh my god one of the sticks out this I'm just waiting there's okay. Peace out"
+  }
+ ]
+}

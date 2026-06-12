@@ -1,0 +1,186 @@
+{
+ "youtube_id": "XVaq8883R48",
+ "title": "Living in Boulder Vlog 12 - 6 - 2016",
+ "url": "https://youtu.be/XVaq8883R48",
+ "published_at": "2016-12-08",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a catch-up vlog for the previous day, mentioning he spent most of his time working on a Rome-related project (likely a map or model in Google Earth), bought a DVD player to make CDs playable on his MacBook, and watched a Netflix documentary about Rome. He briefly critiques the documentary's historical inaccuracies around character ages.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "Rome project",
+   "DVD/CD setup",
+   "Netflix documentary",
+   "historical accuracy"
+  ],
+  "stances": [
+   {
+    "topic": "Netflix Rome documentary",
+    "position": "Finds it interesting but notes significant historical inaccuracies in character ages"
+   },
+   {
+    "topic": "Morning vlog routine",
+    "position": "Wants to record vlogs in the morning but struggles to maintain the habit"
+   }
+  ],
+  "entities": [
+   "Rome",
+   "Google Earth",
+   "MacBook",
+   "Netflix",
+   "Circus Maximus",
+   "Lucilla",
+   "Commodus"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.46,
+   "end": 4.46,
+   "text": "Hmm, hello living in Boulder, Vila."
+  },
+  {
+   "start": 4.46,
+   "end": 8.46,
+   "text": "I was just about to do this video within my mom called."
+  },
+  {
+   "start": 8.46,
+   "end": 14.46,
+   "text": "So today, I'm a way to be supposed to be for yesterday."
+  },
+  {
+   "start": 14.46,
+   "end": 22.46,
+   "text": "I was supposed to do this video, I'm trying to do it in the morning, but then I forget I've been for giving the last few days, and then I made a habit of it."
+  },
+  {
+   "start": 22.46,
+   "end": 40.46,
+   "text": "But yesterday, I worked all day long on, on Rome, and I can't bring it up right now because I think I forgot to save it."
+  },
+  {
+   "start": 40.46,
+   "end": 48.46,
+   "text": "If I do other programs, my MacBook, like won't open Google Earth."
+  },
+  {
+   "start": 48.46,
+   "end": 57.81,
+   "text": "It'll close and then it won't open, so hopefully I didn't do too much without before saving it."
+  },
+  {
+   "start": 57.81,
+   "end": 66.81,
+   "text": "Because I know I was doing, I remember I was doing stuff before, because I went to the store today, and bought a DVD player."
+  },
+  {
+   "start": 66.81,
+   "end": 70.81,
+   "text": "I don't know if this gets in our DVD, yeah, I'll play it for my Mac."
+  },
+  {
+   "start": 70.81,
+   "end": 76.81,
+   "text": "So I can make CDs to play on my MacBook TV."
+  },
+  {
+   "start": 76.81,
+   "end": 84.81,
+   "text": "And if I can't get it to work, I'm still trying to get a program to do it."
+  },
+  {
+   "start": 84.81,
+   "end": 90.81,
+   "text": "Yeah, the first one I tried didn't work, kept spending the CDs out."
+  },
+  {
+   "start": 90.81,
+   "end": 96.81,
+   "text": "So yeah, I don't even remember what I did yesterday."
+  },
+  {
+   "start": 96.81,
+   "end": 104.81,
+   "text": "I can't really cope with this with this VLOG, it's supposed to be for yesterday."
+  },
+  {
+   "start": 104.81,
+   "end": 108.81,
+   "text": "I did a big circus maximus."
+  },
+  {
+   "start": 108.81,
+   "end": 118.81,
+   "text": "They were like three of them in Rome, and then I worked."
+  },
+  {
+   "start": 118.81,
+   "end": 126.81,
+   "text": "And I did that video about how we should rebuild around it from two to three, and then worked a little bit more on them, and I'm just saying."
+  },
+  {
+   "start": 126.81,
+   "end": 130.81,
+   "text": "And I've been working today, but I've been trying to figure this out."
+  },
+  {
+   "start": 130.81,
+   "end": 134.81,
+   "text": "This isn't difficult. Oh, and also that TV thing."
+  },
+  {
+   "start": 134.81,
+   "end": 142.81,
+   "text": "Yeah, I was watching that documentary on Netflix about Rome."
+  },
+  {
+   "start": 142.81,
+   "end": 146.09,
+   "text": "It's too interesting."
+  },
+  {
+   "start": 146.09,
+   "end": 150.09,
+   "text": "I want to watch all the documentaries on TV, so I can comment about them later."
+  },
+  {
+   "start": 150.09,
+   "end": 152.09,
+   "text": "You have the time."
+  },
+  {
+   "start": 152.09,
+   "end": 162.09,
+   "text": "On how accurate they are, you know, like this one in real life, Mark Zuckerberg is only nine years older than Lucilla."
+  },
+  {
+   "start": 162.09,
+   "end": 166.09,
+   "text": "But in here, the actor is he's like 30 years older."
+  },
+  {
+   "start": 166.09,
+   "end": 172.09,
+   "text": "But and, yeah, comment is only 13 when she died and this should happen is like 30."
+  },
+  {
+   "start": 172.09,
+   "end": 178.09,
+   "text": "So anyways, yeah, I want to start doing them in my vlogs in the morning."
+  },
+  {
+   "start": 178.09,
+   "end": 184.09,
+   "text": "But I gotta go now. I'm trying to figure this out."
+  },
+  {
+   "start": 184.09,
+   "end": 186.09,
+   "text": "Okay, peace out."
+  }
+ ]
+}

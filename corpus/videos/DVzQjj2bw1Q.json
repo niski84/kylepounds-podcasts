@@ -1,0 +1,268 @@
+{
+ "youtube_id": "DVzQjj2bw1Q",
+ "title": "Living in Boulder Vlog 1 - 27 - 2017",
+ "url": "https://youtu.be/DVzQjj2bw1Q",
+ "published_at": "2017-01-27",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle films a casual morning vlog from his Boulder apartment, addressing a subscriber's comment about his nickname and the hospital-bed look of his videos. He talks about setting up a green screen, having his mom help thin out his closet, working on his personal website project he calls 'Bibles of America,' and planning to buy a window-washing business that he intends to run by bicycle with a trailer.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "green screen setup",
+   "website project",
+   "window washing business",
+   "bicycle business plan",
+   "closet organization",
+   "YouTube comment issues"
+  ],
+  "stances": [
+   {
+    "topic": "running a window washing business by bicycle",
+    "position": "plans to do it and sees it as revolutionary and the right move for becoming a businessman"
+   },
+   {
+    "topic": "website work",
+    "position": "needs to finish it before doing anything else; it's a prerequisite to the bike business plan"
+   },
+   {
+    "topic": "green screen",
+    "position": "getting one will make his videos look more professional and fun"
+   }
+  ],
+  "entities": [
+   "Tyne Samson",
+   "Boulder",
+   "Bibles of America"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.78,
+   "end": 8.28,
+   "text": "Hey, living in Boulder, Vlog, January 27th, oh cool. So I've been 43 for a month, 2017."
+  },
+  {
+   "start": 9.28,
+   "end": 15.48,
+   "text": "Here, let me address Tyne, Tyne Samson, my subscriber, because he commented on that last video."
+  },
+  {
+   "start": 16.78,
+   "end": 20.78,
+   "text": "He said something like, I had to delete the comment, but he said something like,"
+  },
+  {
+   "start": 21.78,
+   "end": 26.78,
+   "text": "There's a human pig hybrid right now, that's Kyle Piggy Pounds, that's funny. I like that, that's my nickname, don't be gay."
+  },
+  {
+   "start": 26.78,
+   "end": 28.78,
+   "text": "But the one they before that you said,"
+  },
+  {
+   "start": 32.58,
+   "end": 37.78,
+   "text": "What am I going to start writing my bike? That's a good question. And sorry, I tried to answer you."
+  },
+  {
+   "start": 38.78,
+   "end": 43.78,
+   "text": "But every time I try to reply to you, it says comment failed to post."
+  },
+  {
+   "start": 44.78,
+   "end": 49.78,
+   "text": "So, I had to delete the comment, because that's what I do."
+  },
+  {
+   "start": 49.78,
+   "end": 63.56,
+   "text": "Whenever I do that, it's too bad."
+  },
+  {
+   "start": 67.56,
+   "end": 74.56,
+   "text": "Yeah, I wanted to talk about that, because lots of people are saying that I look like I'm in a hospital bed and stuff."
+  },
+  {
+   "start": 75.56,
+   "end": 80.56,
+   "text": "My mom said that, I said that, and then two other people at the top of my head said that,"
+  },
+  {
+   "start": 81.56,
+   "end": 93.56,
+   "text": "Yeah, so my reply to that is that a few days ago, I got my green screen. So, today, and yesterday I put up hooks on my bathroom, so today I want to figure out a way to hang the green screen."
+  },
+  {
+   "start": 94.56,
+   "end": 103.56,
+   "text": "In the bathroom, and then I can do videos, you know, like I could be all high and like, hey, but at least I'll have behind me, I'll have like these like psychedelic squirrels and shit."
+  },
+  {
+   "start": 104.56,
+   "end": 106.56,
+   "text": "I have like sound effects like,"
+  },
+  {
+   "start": 107.56,
+   "end": 121.56,
+   "text": "and stuff and then I'll put like thumbnails in my videos, you know, like, hey, I'll put the green screen back and I'll be all professional and stuff and I've gotta be happy."
+  },
+  {
+   "start": 122.56,
+   "end": 126.56,
+   "text": "So yeah, that's coming down the way."
+  },
+  {
+   "start": 127.56,
+   "end": 133.56,
+   "text": "Today at like 10, my mom's gonna come over here and help me thin out my closet."
+  },
+  {
+   "start": 133.56,
+   "end": 143.56,
+   "text": "I have too many clothing items in my room and I need my mom to come over here and help me do that because she's the one who's always trying to increase my clothing density."
+  },
+  {
+   "start": 148.35,
+   "end": 150.35,
+   "text": "So, so she needs to see for herself."
+  },
+  {
+   "start": 153.35,
+   "end": 164.35,
+   "text": "So anyway, so yesterday, yeah, I was gonna work on the Bibles of America, or the origin stories I call it Bibles of America, but I got burned out."
+  },
+  {
+   "start": 165.35,
+   "end": 167.35,
+   "text": "I was working on printing photos from my room."
+  },
+  {
+   "start": 169.35,
+   "end": 175.35,
+   "text": "The last few days, and then saw, it was like, okay, so let's go to another section. So I went to the audio history books for audio history books."
+  },
+  {
+   "start": 176.35,
+   "end": 181.35,
+   "text": "And then the subject pages, not the country pages, I haven't looked at those, you know, but the subject pages I'd never actually."
+  },
+  {
+   "start": 182.35,
+   "end": 192.35,
+   "text": "We're going to summarize them, I just chopped them out of where they were and put them in there and just left it there and then over time I thought it was done. So I went back and it's totally fucked. So I have to go there and in today."
+  },
+  {
+   "start": 192.35,
+   "end": 199.35,
+   "text": "But, oh yeah, and what else? Oh yeah, also though, to reply time."
+  },
+  {
+   "start": 201.35,
+   "end": 206.35,
+   "text": "You go, when are you gonna start writing your bike? And so that's a good question."
+  },
+  {
+   "start": 208.35,
+   "end": 219.35,
+   "text": "Yeah, I was going to just go another year to just do the same all the lifestyle that I was just working on the computer all the time, try to catch up with myself on my website, my crazy fucking website."
+  },
+  {
+   "start": 222.35,
+   "end": 240.35,
+   "text": "But, but then I think I'm gonna have to buy the business or I'm gonna buy the business, I know watching business, but they're gonna stay on as my work here. So that's chill and then I can get my roommate to work with me, that I can work more as long as the people don't mind me doing houses by myself."
+  },
+  {
+   "start": 241.35,
+   "end": 250.35,
+   "text": "So basically what I need to do is I need to make myself likable, I need to make myself irreprotable, I need to make my I'd be need to be a fucking business man."
+  },
+  {
+   "start": 250.35,
+   "end": 260.35,
+   "text": "So in order to do that the best way to do that would just do the thing that I was going to do before, which is the writing of the bike. But if I'm gonna do that, I have to, I have to tie up loose on my website."
+  },
+  {
+   "start": 261.35,
+   "end": 269.35,
+   "text": "So I'm just gonna focus on that and hopefully I mean I have 12 weeks, you know, three months February, March, April."
+  },
+  {
+   "start": 270.35,
+   "end": 279.59,
+   "text": "So just focus on the website and don't do any Google Earth stuff, just focus on this much surface level website and then by then."
+  },
+  {
+   "start": 279.59,
+   "end": 283.59,
+   "text": "Oh yeah, and then I'm gonna do this marketing thing, I wanna do this thing."
+  },
+  {
+   "start": 284.59,
+   "end": 295.59,
+   "text": "I'm the best small business man in the world ever revolutionary preparing for the new apocalypse because we go to the places with bicycle."
+  },
+  {
+   "start": 296.59,
+   "end": 303.59,
+   "text": "Why not? People in the England do it if the bridge do it, two different brids do it. Then I have to do it too obviously."
+  },
+  {
+   "start": 304.59,
+   "end": 317.59,
+   "text": "So and I have a trailer, so I'm gonna go and figure out a way to haul ladders and all the window washing equipment on the bike with the trailer and everything."
+  },
+  {
+   "start": 318.59,
+   "end": 325.59,
+   "text": "I have full sized ladders, it's not like I have the small collapsible ladders and I think that's what the people who do it, and I'm gonna do their all fancy with their big budget."
+  },
+  {
+   "start": 326.59,
+   "end": 330.59,
+   "text": "Maybe I'll do that later, but for now I'm gonna try and do it with a regular ladder."
+  },
+  {
+   "start": 331.59,
+   "end": 347.59,
+   "text": "My roommate said he's gonna sell me his car so that I can put the ladder after I saw my van, I can put the ladders on my on his car and then for storage because I don't think I can put him in my garage because I think I use up all the space with the kayaks for hanging and I don't think I can put him on the ground."
+  },
+  {
+   "start": 348.59,
+   "end": 358.59,
+   "text": "I think they let me so store him on the car, but then I can take him off the car and put him on the bike plus I can store ladders in my living room because I can just hand him up to the top, so that's cool."
+  },
+  {
+   "start": 359.59,
+   "end": 363.59,
+   "text": "Yeah, so it's just a fucking race man."
+  },
+  {
+   "start": 365.59,
+   "end": 366.59,
+   "text": "Just a race."
+  },
+  {
+   "start": 368.59,
+   "end": 373.59,
+   "text": "That's life always do it, so I was racing always timeframes."
+  },
+  {
+   "start": 373.59,
+   "end": 389.59,
+   "text": "So, um, yeah, so I'd like to one day get to the bottom of why I can't respond to my YouTube comments, um, write YouTube and stuff, but I don't have the time for that right now."
+  },
+  {
+   "start": 389.59,
+   "end": 392.59,
+   "text": "I think I've talked long enough, really shit, 630 out of piece."
+  }
+ ]
+}

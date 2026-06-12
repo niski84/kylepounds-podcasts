@@ -1,0 +1,186 @@
+{
+ "youtube_id": "gw_dFzHkYeY",
+ "title": "Living in Boulder Vlog 5 - 27 - 2014",
+ "url": "https://youtu.be/gw_dFzHkYeY",
+ "published_at": "2014-05-28",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle films a short morning vlog from his Boulder apartment, mentions smoking weed with his roommate, talks about his plans to work on his YouTube page and website, notes he doesn't have to work that day due to cancellations, and discusses expanding his diet beyond oatmeal with pancake mix, cereal, and tater tots.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "Boulder living",
+   "diet/food",
+   "YouTube/website plans",
+   "work schedule",
+   "cannabis"
+  ],
+  "stances": [
+   {
+    "topic": "diet",
+    "position": "wants to expand beyond oatmeal and eat more vegetables; acknowledges he's been losing weight"
+   },
+   {
+    "topic": "work",
+    "position": "relieved to have a day off due to client cancellations"
+   }
+  ],
+  "entities": [
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 6.0,
+   "text": "Hello, so this video is living in Boulder, if you look for the 27th that was yesterday."
+  },
+  {
+   "start": 7.0,
+   "end": 10.0,
+   "text": "I just woke up, it's like 9 something."
+  },
+  {
+   "start": 11.0,
+   "end": 13.0,
+   "text": "My computer has to do some kind of thing."
+  },
+  {
+   "start": 14.0,
+   "end": 18.0,
+   "text": "So I'm smoking ball in hits because of my roommate getting a match that I want you to eat."
+  },
+  {
+   "start": 19.0,
+   "end": 21.0,
+   "text": "That's what's left from what you gave me yesterday."
+  },
+  {
+   "start": 21.0,
+   "end": 23.0,
+   "text": "I think we'd eat every weekend."
+  },
+  {
+   "start": 24.0,
+   "end": 29.0,
+   "text": "And so, I think I'm going to finish this one page,"
+  },
+  {
+   "start": 30.0,
+   "end": 32.0,
+   "text": "and I can get going on the YouTube page."
+  },
+  {
+   "start": 33.0,
+   "end": 36.0,
+   "text": "I'll be interesting. And then after that, I think I'm going to put the actual website together."
+  },
+  {
+   "start": 37.0,
+   "end": 38.0,
+   "text": "All the pages I made."
+  },
+  {
+   "start": 39.0,
+   "end": 40.0,
+   "text": "Touching that'll be fun."
+  },
+  {
+   "start": 41.0,
+   "end": 42.0,
+   "text": "But it's a nice one day. So I worked all day."
+  },
+  {
+   "start": 43.0,
+   "end": 45.0,
+   "text": "I don't work today because I put people cancelled."
+  },
+  {
+   "start": 47.0,
+   "end": 50.0,
+   "text": "I get to work. I'm at Port Saldé, which is fun."
+  },
+  {
+   "start": 52.0,
+   "end": 58.25,
+   "text": "We asked excited, because I'm all refreshed."
+  },
+  {
+   "start": 58.25,
+   "end": 60.25,
+   "text": "I had a different breakfast today."
+  },
+  {
+   "start": 61.25,
+   "end": 64.25,
+   "text": "The normal moments of supermarket and expanded my foods."
+  },
+  {
+   "start": 65.25,
+   "end": 69.25,
+   "text": "But I got a bunch of pancake mix and..."
+  },
+  {
+   "start": 72.25,
+   "end": 74.25,
+   "text": "It's a cereal cereal."
+  },
+  {
+   "start": 74.25,
+   "end": 76.25,
+   "text": "Which is what I had this morning."
+  },
+  {
+   "start": 77.25,
+   "end": 79.25,
+   "text": "So now it's not just oatmeal."
+  },
+  {
+   "start": 80.25,
+   "end": 86.66,
+   "text": "Mmm, that's all I can think of."
+  },
+  {
+   "start": 87.66,
+   "end": 88.66,
+   "text": "I'll expand it."
+  },
+  {
+   "start": 89.66,
+   "end": 90.66,
+   "text": "There's a few other things."
+  },
+  {
+   "start": 91.66,
+   "end": 93.66,
+   "text": "I got some tater tots. That was a good one."
+  },
+  {
+   "start": 94.66,
+   "end": 95.66,
+   "text": "It was really gruggable this morning."
+  },
+  {
+   "start": 96.66,
+   "end": 98.66,
+   "text": "I think the healthiest thing was just to catch vegetables."
+  },
+  {
+   "start": 99.66,
+   "end": 100.66,
+   "text": "But I've been sponking a lot of weight."
+  },
+  {
+   "start": 101.66,
+   "end": 105.66,
+   "text": "I'm going to get back to my life."
+  },
+  {
+   "start": 108.99,
+   "end": 109.99,
+   "text": "Alright, peace out."
+  }
+ ]
+}

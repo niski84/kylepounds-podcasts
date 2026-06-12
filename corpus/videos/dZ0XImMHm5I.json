@@ -1,0 +1,234 @@
+{
+ "youtube_id": "dZ0XImMHm5I",
+ "title": "Living in Boulder Vlog 11 - 25 - 2016",
+ "url": "https://youtu.be/dZ0XImMHm5I",
+ "published_at": "2016-11-27",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a casual morning vlog update from Boulder, talking about oversleeping after a late work night, getting a haircut and lunch with his mom, and his ongoing project of tracing buildings in Rome while listening to Mike Duncan's history podcast. He also shows off some weed and keef he recently acquired and mentions an upcoming request video.",
+  "speaker": "kyle",
+  "topics": [
+   "daily routine",
+   "sleep schedule",
+   "cannabis",
+   "map/timeline project",
+   "Rome research",
+   "family outing",
+   "podcast recommendation"
+  ],
+  "stances": [
+   {
+    "topic": "sleep schedule",
+    "position": "Frustrated with himself for missing the chance to reset to a daytime schedule"
+   },
+   {
+    "topic": "Mike Duncan podcast",
+    "position": "Highly recommends it; using it as an audio companion to his Rome mapping project"
+   },
+   {
+    "topic": "keef/cannabis",
+    "position": "Enthusiastic; describes keef as giving a notably intense high"
+   }
+  ],
+  "entities": [
+   "Mike Duncan",
+   "Boulder",
+   "Rome",
+   "carbonite"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.75,
+   "end": 5.75,
+   "text": "Good morning living in Boulder V log for the 26th I'm actually sober right now"
+  },
+  {
+   "start": 5.75,
+   "end": 12.57,
+   "text": "Because I forgot to get high and I just got up and did the video it's it's one"
+  },
+  {
+   "start": 12.57,
+   "end": 18.33,
+   "text": "O'clock I slipped my ass in today oh my god because I forgot I'm trying to"
+  },
+  {
+   "start": 18.33,
+   "end": 22.83,
+   "text": "Reverse my sleeping I was working until like 3 30 in the morning but then I got"
+  },
+  {
+   "start": 22.83,
+   "end": 26.15,
+   "text": "Up at 8 this morning this is my roommate woke me up because they didn't have"
+  },
+  {
+   "start": 26.15,
+   "end": 33.23,
+   "text": "Internet so I had to go and turn off my carbonite and I was totally up I was"
+  },
+  {
+   "start": 33.23,
+   "end": 37.99,
+   "text": "Totally up I could have I could have worked at 8 after five hours of sleep but"
+  },
+  {
+   "start": 37.99,
+   "end": 44.15,
+   "text": "I was like let's go back to sleep I got really high let's go back to bed yeah I"
+  },
+  {
+   "start": 44.15,
+   "end": 48.17,
+   "text": "Was in bed all the way till 1 so that means I'm I blew my chance to reverse my"
+  },
+  {
+   "start": 48.17,
+   "end": 53.05,
+   "text": "Sleeping and become a day person again I totally spaced it so I don't know maybe"
+  },
+  {
+   "start": 53.05,
+   "end": 55.85,
+   "text": "I'll force myself to get to sleep early today or I'll just work all through the"
+  },
+  {
+   "start": 55.85,
+   "end": 63.23,
+   "text": "Night but so yesterday I got weed and then I went out to my mom had me took me"
+  },
+  {
+   "start": 63.23,
+   "end": 71.89,
+   "text": "Out for a haircut and and then she took me out to lunch at this Chinese place"
+  },
+  {
+   "start": 71.89,
+   "end": 76.67,
+   "text": "Nice nice and then yeah oh and then I went to her house and knocked her out with"
+  },
+  {
+   "start": 76.67,
+   "end": 81.59,
+   "text": "Some stuff because I moved a TV down from a room and brought another TV up got it she"
+  },
+  {
+   "start": 81.59,
+   "end": 87.71,
+   "text": "Got a flat screen TV for 85 bucks at the store so and then I came back here and I"
+  },
+  {
+   "start": 87.71,
+   "end": 96.95,
+   "text": "Was working so I worked here just tracing more buildings in Rome I'm still like in"
+  },
+  {
+   "start": 96.95,
+   "end": 102.97,
+   "text": "The beginning stages so I don't really know how far through I am"
+  },
+  {
+   "start": 102.97,
+   "end": 109.93,
+   "text": "Sure I'm just you know I'm working while I'm listening to my that podcast Mike Duncan that's"
+  },
+  {
+   "start": 109.93,
+   "end": 113.29,
+   "text": "His name Mike Duncan podcast you should check it out Mike Duncan podcast series around really good"
+  },
+  {
+   "start": 113.29,
+   "end": 117.47,
+   "text": "And I think what I'm going to do is I'm going to just listen to his podcast because I started his"
+  },
+  {
+   "start": 117.47,
+   "end": 123.29,
+   "text": "Podcast about the same time as I started Rome so I'll just listen to I think I'm like halfway"
+  },
+  {
+   "start": 123.29,
+   "end": 126.75,
+   "text": "Through his podcast or something or three quarters or two-thirds way through whatever so"
+  },
+  {
+   "start": 126.75,
+   "end": 131.63,
+   "text": "When I'm done with this podcast what I'll do is I'll just keep working on for home only I'll start"
+  },
+  {
+   "start": 131.63,
+   "end": 137.25,
+   "text": "This podcast again for the big day which is my dream we were opening my timeline and what I'll do"
+  },
+  {
+   "start": 137.25,
+   "end": 143.89,
+   "text": "Is I'll I'll plug every event and person he mentions into my timeline because I need to get my timeline"
+  },
+  {
+   "start": 143.89,
+   "end": 150.33,
+   "text": "At least not for the world but at least for Rome up to speed so that I can create one for Boulder"
+  },
+  {
+   "start": 150.33,
+   "end": 155.65,
+   "text": "Rome so but it's really interesting listening to him also every once in a while when he mentions"
+  },
+  {
+   "start": 155.65,
+   "end": 160.01,
+   "text": "Politicians and people I do the Wikipedia of them I also want to do the Wikipedia of all of the"
+  },
+  {
+   "start": 160.01,
+   "end": 165.53,
+   "text": "Listed buildings in Rome because those are the ones that I'm building so um but yeah"
+  },
+  {
+   "start": 165.53,
+   "end": 170.39,
+   "text": "I'm kind of hungry I might have to get somebody to eat first but um oh and I gotta I gotta"
+  },
+  {
+   "start": 170.39,
+   "end": 180.92,
+   "text": "I gotta I gotta I gotta request video I should do that one right now too um yeah I got a bunch of"
+  },
+  {
+   "start": 180.92,
+   "end": 186.76,
+   "text": "Weed I got some hardcore weed dude check out this weed I got weed and I like an ounce and then I"
+  },
+  {
+   "start": 186.76,
+   "end": 191.52,
+   "text": "Grinded it and then all this weed here and there was more yesterday this is weed that I scraped off"
+  },
+  {
+   "start": 191.52,
+   "end": 201.16,
+   "text": "Of the um the side and then it fell down here to create this Keef stuff it's weed that fell down"
+  },
+  {
+   "start": 201.16,
+   "end": 207.3,
+   "text": "The side um that I scraped off of those little metal things that you grind it with so it's like"
+  },
+  {
+   "start": 207.3,
+   "end": 216.64,
+   "text": "Hash Keef hash Keef is like and Keef gets you like crack high man it's fucking cool okay so anyway"
+  },
+  {
+   "start": 216.64,
+   "end": 221.8,
+   "text": "I'll do that I'll get really high and then I'll do that that request video all right peace out"
+  }
+ ]
+}

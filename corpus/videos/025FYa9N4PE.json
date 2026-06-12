@@ -1,0 +1,477 @@
+{
+ "youtube_id": "025FYa9N4PE",
+ "title": "Living in Boulder Vlog 12 - 23 - 2016",
+ "url": "https://youtu.be/025FYa9N4PE",
+ "published_at": "2016-12-26",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a late-night catch-up vlog (at 5:42am on Dec 25) covering the past couple days: he skipped website work due to stress, mounted a TV in his room, discovered the clubhouse lap pool and considered adding swimming to his routine, and is excited about decorating his room for Christmas and his upcoming birthday.",
+  "speaker": "kyle",
+  "topics": [
+   "vlog catch-up",
+   "room setup",
+   "website work",
+   "exercise/pool",
+   "Christmas",
+   "birthday",
+   "weed/cannabis"
+  ],
+  "stances": [
+   {
+    "topic": "missing daily vlogs",
+    "position": "Won't tolerate gaps; will backdate to fill them"
+   },
+   {
+    "topic": "room decoration",
+    "position": "Excited and treating it like a Christmas gift to himself"
+   },
+   {
+    "topic": "swimming",
+    "position": "Wants to try lap swimming at the clubhouse pool"
+   },
+   {
+    "topic": "cannabis use",
+    "position": "Acknowledges it affects his focus; considers cutting back during exercise"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "24 Hour Fitness",
+   "Christmas"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.5,
+   "end": 2.6,
+   "text": "Hello, Living in Boulder V-Log."
+  },
+  {
+   "start": 3.34,
+   "end": 6.28,
+   "text": "I'll say this is for the 23rd because I don't want to miss a day"
+  },
+  {
+   "start": 6.28,
+   "end": 7.8,
+   "text": "Because I'm anal like that."
+  },
+  {
+   "start": 7.88,
+   "end": 10.06,
+   "text": "I'm a perfectionist and I don't miss a day."
+  },
+  {
+   "start": 10.84,
+   "end": 13.36,
+   "text": "So even though it's the 25th, I'm going to say it's for the 23rd"
+  },
+  {
+   "start": 13.36,
+   "end": 17.26,
+   "text": "So that I can do multiple videos in a day to catch back up to where I am."
+  },
+  {
+   "start": 19.0,
+   "end": 20.02,
+   "text": "And that wasn't my idea."
+  },
+  {
+   "start": 20.14,
+   "end": 22.1,
+   "text": "That was somebody else's idea."
+  },
+  {
+   "start": 22.84,
+   "end": 23.8,
+   "text": "Thank you for the idea."
+  },
+  {
+   "start": 25.68,
+   "end": 28.24,
+   "text": "So it's currently..."
+  },
+  {
+   "start": 28.24,
+   "end": 31.4,
+   "text": "5.42 a.m."
+  },
+  {
+   "start": 31.4,
+   "end": 34.14,
+   "text": "So I'm going to do this real quick and then go to sleep before it gets light out."
+  },
+  {
+   "start": 36.54,
+   "end": 41.24,
+   "text": "So since the last time I did a video, I..."
+  },
+  {
+   "start": 41.24,
+   "end": 48.37,
+   "text": "So yeah, I didn't work at all on my website yesterday"
+  },
+  {
+   "start": 48.37,
+   "end": 51.55,
+   "text": "Because I got up kind of late"
+  },
+  {
+   "start": 51.55,
+   "end": 55.01,
+   "text": "Because I was like super stressed out."
+  },
+  {
+   "start": 55.09,
+   "end": 56.93,
+   "text": "I got myself super stressed out the night before"
+  },
+  {
+   "start": 56.93,
+   "end": 60.55,
+   "text": "When I overcooked myself with those tiles."
+  },
+  {
+   "start": 61.15,
+   "end": 63.77,
+   "text": "So I got up a little bit late"
+  },
+  {
+   "start": 63.77,
+   "end": 65.21,
+   "text": "But then I started working on my room."
+  },
+  {
+   "start": 65.29,
+   "end": 67.47,
+   "text": "I ran into my room and then I went into the hardware store"
+  },
+  {
+   "start": 67.47,
+   "end": 69.65,
+   "text": "And got the stuff and put the TV on the wall"
+  },
+  {
+   "start": 69.65,
+   "end": 72.69,
+   "text": "But I didn't finish and then I was organizing my room."
+  },
+  {
+   "start": 72.77,
+   "end": 74.23,
+   "text": "So anyway, I'll show when I'm done."
+  },
+  {
+   "start": 74.23,
+   "end": 76.95,
+   "text": "I'll work on it tomorrow."
+  },
+  {
+   "start": 78.15,
+   "end": 79.23,
+   "text": "I'm really looking forward to it."
+  },
+  {
+   "start": 79.31,
+   "end": 79.57,
+   "text": "I went..."
+  },
+  {
+   "start": 79.57,
+   "end": 83.29,
+   "text": "I had to take a shower at the clubhouse today"
+  },
+  {
+   "start": 83.29,
+   "end": 85.77,
+   "text": "Because my..."
+  },
+  {
+   "start": 85.77,
+   "end": 87.25,
+   "text": "No water comes out of my hot water"
+  },
+  {
+   "start": 87.25,
+   "end": 93.45,
+   "text": "And I decided to go up and look into the pool area in the clubhouse"
+  },
+  {
+   "start": 93.45,
+   "end": 94.67,
+   "text": "And it's a great lap pool."
+  },
+  {
+   "start": 94.77,
+   "end": 95.83,
+   "text": "I never really noticed it."
+  },
+  {
+   "start": 95.83,
+   "end": 98.71,
+   "text": "It's got three painted lanes"
+  },
+  {
+   "start": 98.71,
+   "end": 101.19,
+   "text": "And it's almost as long as the one I work at 24 Hour Fitness."
+  },
+  {
+   "start": 101.61,
+   "end": 103.87,
+   "text": "So I think I'm going to start..."
+  },
+  {
+   "start": 103.87,
+   "end": 105.13,
+   "text": "That'd be cool to do that too"
+  },
+  {
+   "start": 105.13,
+   "end": 106.13,
+   "text": "Because I have..."
+  },
+  {
+   "start": 106.13,
+   "end": 109.17,
+   "text": "If I start getting into the biking,"
+  },
+  {
+   "start": 109.35,
+   "end": 110.77,
+   "text": "Working on my website in the biking..."
+  },
+  {
+   "start": 110.77,
+   "end": 112.01,
+   "text": "I can't work on the website in the pool"
+  },
+  {
+   "start": 112.01,
+   "end": 114.67,
+   "text": "But if I'm biking, I'll be in shape"
+  },
+  {
+   "start": 114.67,
+   "end": 116.59,
+   "text": "And maybe I'll be..."
+  },
+  {
+   "start": 116.59,
+   "end": 117.45,
+   "text": "It'd be fun to do that"
+  },
+  {
+   "start": 117.45,
+   "end": 119.93,
+   "text": "Because I have the MP3 player"
+  },
+  {
+   "start": 119.93,
+   "end": 122.23,
+   "text": "And I want to see what it sounds like underwater."
+  },
+  {
+   "start": 122.23,
+   "end": 125.63,
+   "text": "That'd be cool if it's all like in your ear, you know?"
+  },
+  {
+   "start": 125.71,
+   "end": 127.23,
+   "text": "Maybe you could like pay attention to it better."
+  },
+  {
+   "start": 130.09,
+   "end": 132.03,
+   "text": "Because I don't really pay attention to what I listen to"
+  },
+  {
+   "start": 132.03,
+   "end": 132.89,
+   "text": "All that good right now"
+  },
+  {
+   "start": 132.89,
+   "end": 133.59,
+   "text": "Because I'm so high."
+  },
+  {
+   "start": 134.69,
+   "end": 136.57,
+   "text": "Maybe I'll smoke less weed when I do that."
+  },
+  {
+   "start": 136.63,
+   "end": 136.97,
+   "text": "I don't know."
+  },
+  {
+   "start": 137.33,
+   "end": 139.23,
+   "text": "But yeah, so..."
+  },
+  {
+   "start": 140.25,
+   "end": 142.61,
+   "text": "That's all I did yesterday."
+  },
+  {
+   "start": 144.63,
+   "end": 145.63,
+   "text": "It's definitely..."
+  },
+  {
+   "start": 145.63,
+   "end": 147.65,
+   "text": "I'm definitely glad I came up with this idea."
+  },
+  {
+   "start": 147.79,
+   "end": 149.47,
+   "text": "I want to totally set up my room now"
+  },
+  {
+   "start": 149.47,
+   "end": 151.67,
+   "text": "Even though it's going to put me into the..."
+  },
+  {
+   "start": 151.67,
+   "end": 156.4,
+   "text": "Make me suck up all my money."
+  },
+  {
+   "start": 157.02,
+   "end": 158.94,
+   "text": "I'll just try to sell my car soon."
+  },
+  {
+   "start": 161.7,
+   "end": 163.76,
+   "text": "But yeah, when I do the squat thing there,"
+  },
+  {
+   "start": 163.84,
+   "end": 164.8,
+   "text": "I'll show when I'm done"
+  },
+  {
+   "start": 164.8,
+   "end": 166.9,
+   "text": "And get lights all over"
+  },
+  {
+   "start": 166.9,
+   "end": 170.64,
+   "text": "And put pictures all over the place."
+  },
+  {
+   "start": 172.7,
+   "end": 174.28,
+   "text": "So yeah, it's super, super..."
+  },
+  {
+   "start": 174.28,
+   "end": 174.98,
+   "text": "It's like Christmas."
+  },
+  {
+   "start": 175.14,
+   "end": 175.88,
+   "text": "But it is Christmas."
+  },
+  {
+   "start": 176.02,
+   "end": 176.62,
+   "text": "Today's Christmas."
+  },
+  {
+   "start": 177.52,
+   "end": 178.06,
+   "text": "Oh, I love it."
+  },
+  {
+   "start": 178.1,
+   "end": 180.3,
+   "text": "This is my favorite Christmas ever."
+  },
+  {
+   "start": 181.44,
+   "end": 182.78,
+   "text": "And definitely for my birthday."
+  },
+  {
+   "start": 182.78,
+   "end": 184.32,
+   "text": "My birthday is two days after Christmas."
+  },
+  {
+   "start": 188.62,
+   "end": 194.1,
+   "text": "I'm definitely going to work on organizing my room for my birthday."
+  },
+  {
+   "start": 194.28,
+   "end": 195.34,
+   "text": "Definitely not working on my website."
+  },
+  {
+   "start": 196.96,
+   "end": 198.72,
+   "text": "And then, yeah, I'm super excited."
+  },
+  {
+   "start": 199.04,
+   "end": 200.26,
+   "text": "I'll explain when I'm done."
+  },
+  {
+   "start": 200.44,
+   "end": 202.9,
+   "text": "But I'm super excited to work on my site"
+  },
+  {
+   "start": 203.42,
+   "end": 205.76,
+   "text": "And the new way that I'm going to have my bike set up."
+  },
+  {
+   "start": 205.76,
+   "end": 208.6,
+   "text": "And then this first project that I'm working on,"
+  },
+  {
+   "start": 208.7,
+   "end": 212.32,
+   "text": "Tracing outlines of the cobblestones,"
+  },
+  {
+   "start": 212.42,
+   "end": 213.14,
+   "text": "Is so easy."
+  },
+  {
+   "start": 213.3,
+   "end": 214.36,
+   "text": "It's going to be perfect."
+  },
+  {
+   "start": 214.5,
+   "end": 215.78,
+   "text": "Perfect thing to start out with."
+  },
+  {
+   "start": 216.72,
+   "end": 218.66,
+   "text": "Okay, anyways, I'm going to hang up."
+  },
+  {
+   "start": 218.82,
+   "end": 219.22,
+   "text": "Peace out."
+  }
+ ]
+}

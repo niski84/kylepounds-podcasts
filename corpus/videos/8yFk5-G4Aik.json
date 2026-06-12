@@ -1,0 +1,559 @@
+{
+ "youtube_id": "8yFk5-G4Aik",
+ "title": "Living in Boulder Vlog 4 - 29 - 2014",
+ "url": "https://youtu.be/8yFk5-G4Aik",
+ "published_at": "",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle films a late-night vlog after a long workday near the Flatirons, recapping his bicycle commute, manual labor, and evening of remote work. He shares thoughts on daily vlogging while high, his breakfast recipe, renting movies he never watches, and plans to add topic labels to future vlog titles.",
+  "speaker": "kyle",
+  "topics": [
+   "daily routine",
+   "work",
+   "cycling commute",
+   "cannabis use",
+   "Bible listening",
+   "diet/nutrition",
+   "movie watching",
+   "vlog format ideas"
+  ],
+  "stances": [
+   {
+    "topic": "cannabis and vlogging",
+    "position": "Being high makes it harder to remember what to say; may need to do sober recordings in the morning"
+   },
+   {
+    "topic": "listening to the Bible",
+    "position": "Really enjoying it as a story of events with religious context; plans to do a dedicated video about it"
+   },
+   {
+    "topic": "vlog title format",
+    "position": "Wants to add specific topic labels to titles to motivate covering more subjects"
+   },
+   {
+    "topic": "breakfast recipe",
+    "position": "Enthusiastic about his oatmeal, canned fruit, and protein powder combo as a calorie-efficient meal"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Flatirons",
+   "Stouffer's Lasagna",
+   "Hercules (movie)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 8.02,
+   "text": "Hello, living in Boulder, V-Log, for the 28th of, uh, April, 2014."
+  },
+  {
+   "start": 9.98,
+   "end": 18.28,
+   "text": "It's something like, uh, 12th, ooh, yeah, it's something like 11.50 at night at the moment."
+  },
+  {
+   "start": 19.38,
+   "end": 22.06,
+   "text": "I think it's time for me to go to bed."
+  },
+  {
+   "start": 22.06,
+   "end": 29.96,
+   "text": "Um, I worked at 8 o'clock this morning up there near the Flatirons when I got there,"
+  },
+  {
+   "start": 30.04,
+   "end": 31.2,
+   "text": "And then they're like, oh, what?"
+  },
+  {
+   "start": 31.46,
+   "end": 34.78,
+   "text": "We could have picked you up, because they come in and they're passed right by my place, so."
+  },
+  {
+   "start": 35.72,
+   "end": 37.6,
+   "text": "But no, no, it was a good idea that I'm out there."
+  },
+  {
+   "start": 37.68,
+   "end": 38.8,
+   "text": "It's good to get some exercise."
+  },
+  {
+   "start": 39.92,
+   "end": 41.84,
+   "text": "It's fun to ride the bicycle."
+  },
+  {
+   "start": 43.24,
+   "end": 49.22,
+   "text": "It was kind of cold this morning, but I, uh, I dressed perfectly."
+  },
+  {
+   "start": 49.22,
+   "end": 51.9,
+   "text": "Uh, you know, I had the gloves and everything."
+  },
+  {
+   "start": 52.54,
+   "end": 54.08,
+   "text": "Um, yeah, it was fun."
+  },
+  {
+   "start": 54.18,
+   "end": 59.24,
+   "text": "We had a hard day today up on the side of the hill and everything, but it's got your size."
+  },
+  {
+   "start": 59.38,
+   "end": 59.94,
+   "text": "I like it."
+  },
+  {
+   "start": 60.92,
+   "end": 61.94,
+   "text": "Listening to the Bible."
+  },
+  {
+   "start": 62.86,
+   "end": 64.26,
+   "text": "I'm starting to get really into the Bible."
+  },
+  {
+   "start": 64.42,
+   "end": 66.26,
+   "text": "I'm really high, you know, all the time listening to this."
+  },
+  {
+   "start": 66.3,
+   "end": 69.36,
+   "text": "I'm not really paying attention that much, but I'm like, but it's cool, dude."
+  },
+  {
+   "start": 69.38,
+   "end": 74.92,
+   "text": "I'm really digging, uh, listening to the Bible because, um, you know, I'll do a video about it,"
+  },
+  {
+   "start": 74.92,
+   "end": 81.17,
+   "text": "But because it's just, you know, it's like a story of events that happened, you know."
+  },
+  {
+   "start": 81.59,
+   "end": 83.27,
+   "text": "I like those kinds of stories."
+  },
+  {
+   "start": 83.79,
+   "end": 91.55,
+   "text": "With religious context and stuff, you know, you get a little hints of why they're saying stuff."
+  },
+  {
+   "start": 91.71,
+   "end": 92.69,
+   "text": "Anyways, it's cool."
+  },
+  {
+   "start": 95.52,
+   "end": 98.0,
+   "text": "Um, and then I came back here."
+  },
+  {
+   "start": 98.18,
+   "end": 103.88,
+   "text": "I think it was about three when I made it back here and, um, or, you know, and started working."
+  },
+  {
+   "start": 103.88,
+   "end": 106.08,
+   "text": "And, uh, yeah, worked until now."
+  },
+  {
+   "start": 106.3,
+   "end": 110.1,
+   "text": "It's like another eight and a half hours or eight hours, so that's pretty cool."
+  },
+  {
+   "start": 111.48,
+   "end": 115.7,
+   "text": "Uh, I was thinking about how it's hard."
+  },
+  {
+   "start": 115.8,
+   "end": 116.58,
+   "text": "It's difficult."
+  },
+  {
+   "start": 116.58,
+   "end": 121.36,
+   "text": "I, like, I have to figure out how to do, uh, daily vlogs when I'm, when I'm high all the time because"
+  },
+  {
+   "start": 121.36,
+   "end": 124.52,
+   "text": "When I was doing daily vlogs before, I wasn't high all the time."
+  },
+  {
+   "start": 124.52,
+   "end": 132.28,
+   "text": "And, uh, it's easier to, you know, remember what you're going to say and think of stuff to say for me when I'm, uh, when you're sober than when you're high."
+  },
+  {
+   "start": 132.28,
+   "end": 151.8,
+   "text": "So, like, maybe I should cut back on smoking weed or just, or just, uh, yeah, just be a simple, I don't know, but, man, I'm yawning a lot."
+  },
+  {
+   "start": 151.8,
+   "end": 153.5,
+   "text": "That must mean that I'm really tired."
+  },
+  {
+   "start": 158.95,
+   "end": 163.25,
+   "text": "Holy shit, I was going to say some things, but I guess I can't remember."
+  },
+  {
+   "start": 163.71,
+   "end": 167.11,
+   "text": "I'm not working tomorrow because I thought it was going to rain, so that's cool."
+  },
+  {
+   "start": 167.35,
+   "end": 169.87,
+   "text": "I'm going to hang out here all day and just power through."
+  },
+  {
+   "start": 171.33,
+   "end": 174.83,
+   "text": "Um, oh, yeah, I was going to talk about working on that."
+  },
+  {
+   "start": 176.57,
+   "end": 179.97,
+   "text": "Uh, well, no, no, I'll do a lot of talking tomorrow, actually, when I first get up."
+  },
+  {
+   "start": 180.01,
+   "end": 181.93,
+   "text": "Before I smoke, anyway, I'll do, like, sober talk."
+  },
+  {
+   "start": 181.93,
+   "end": 185.99,
+   "text": "Get ahead on, um, get caught up on, like, request videos and do another one I want to do."
+  },
+  {
+   "start": 185.99,
+   "end": 190.79,
+   "text": "Talk about, um, about weed, so, uh, yeah, that's what we're doing tomorrow."
+  },
+  {
+   "start": 191.33,
+   "end": 193.75,
+   "text": "I had a big old thing at Stouffer's Lasagna when I got home."
+  },
+  {
+   "start": 193.83,
+   "end": 194.29,
+   "text": "That was cool."
+  },
+  {
+   "start": 195.61,
+   "end": 199.81,
+   "text": "Um, I usually don't get fancy food like that."
+  },
+  {
+   "start": 201.11,
+   "end": 205.15,
+   "text": "Um, and I had to get two more buckets of the protein powder."
+  },
+  {
+   "start": 206.55,
+   "end": 210.71,
+   "text": "Uh, I had to have my oatmeal and fruit without the protein powder today."
+  },
+  {
+   "start": 211.91,
+   "end": 215.17,
+   "text": "Hey, has anybody tried my secret, my magical recipe?"
+  },
+  {
+   "start": 215.17,
+   "end": 216.45,
+   "text": "Hey, how do you like my breakfast?"
+  },
+  {
+   "start": 217.47,
+   "end": 222.11,
+   "text": "Get, um, get, this is what I have every breakfast."
+  },
+  {
+   "start": 222.71,
+   "end": 233.19,
+   "text": "Get a cup of oatmeal and put it in the bucket with a can of fruit."
+  },
+  {
+   "start": 233.19,
+   "end": 236.07,
+   "text": "And then a scoop of protein powder."
+  },
+  {
+   "start": 237.35,
+   "end": 239.35,
+   "text": "Yeah, let me know how you like that."
+  },
+  {
+   "start": 239.85,
+   "end": 244.15,
+   "text": "It's, like, 300 calories from the oatmeal, like, 210 calories, I think, from the fruit."
+  },
+  {
+   "start": 245.59,
+   "end": 248.41,
+   "text": "510 calories plus, like, 70 calories from the protein."
+  },
+  {
+   "start": 248.59,
+   "end": 249.77,
+   "text": "So, what was that?"
+  },
+  {
+   "start": 250.03,
+   "end": 251.83,
+   "text": "510, like, 580 calories."
+  },
+  {
+   "start": 251.83,
+   "end": 251.95,
+   "text": "610 calories."
+  },
+  {
+   "start": 253.67,
+   "end": 254.93,
+   "text": "Uh, so."
+  },
+  {
+   "start": 255.65,
+   "end": 257.99,
+   "text": "Uh, okay."
+  },
+  {
+   "start": 258.15,
+   "end": 260.09,
+   "text": "So, I'll leave it at that because I'm having a yawning."
+  },
+  {
+   "start": 260.25,
+   "end": 267.22,
+   "text": "Uh, uh, we're in a, um, um, Hercules."
+  },
+  {
+   "start": 267.96,
+   "end": 271.24,
+   "text": "So, that was, um, I wanted to watch it."
+  },
+  {
+   "start": 271.24,
+   "end": 275.16,
+   "text": "Um, you know, you know, because I haven't had watched a movie for a long time."
+  },
+  {
+   "start": 275.86,
+   "end": 281.74,
+   "text": "Um, you know, because since I moved into my apartment, because I had this TV, so I just"
+  },
+  {
+   "start": 281.74,
+   "end": 282.5,
+   "text": "Have it in the background."
+  },
+  {
+   "start": 282.5,
+   "end": 285.76,
+   "text": "And then, like, I had played and then pause it a bunch of times."
+  },
+  {
+   "start": 285.8,
+   "end": 287.3,
+   "text": "And then everyone gets it in the movie."
+  },
+  {
+   "start": 287.3,
+   "end": 288.9,
+   "text": "And then a bunch of times I'd rent movies."
+  },
+  {
+   "start": 289.48,
+   "end": 291.24,
+   "text": "And then they give you the 50 cent off thing."
+  },
+  {
+   "start": 291.36,
+   "end": 292.04,
+   "text": "So, you rent two."
+  },
+  {
+   "start": 292.48,
+   "end": 296.44,
+   "text": "And then, I haven't written three before because, like, I, there was a mistake."
+  },
+  {
+   "start": 296.52,
+   "end": 297.72,
+   "text": "I forgot to pick up one."
+  },
+  {
+   "start": 298.56,
+   "end": 300.1,
+   "text": "And, uh, so I had to read it again."
+  },
+  {
+   "start": 300.22,
+   "end": 301.82,
+   "text": "But, uh, but I didn't even watch it."
+  },
+  {
+   "start": 301.9,
+   "end": 303.44,
+   "text": "Like, I rented, like, four movies in a row."
+  },
+  {
+   "start": 303.52,
+   "end": 304.24,
+   "text": "I didn't even watch it."
+  },
+  {
+   "start": 304.78,
+   "end": 307.06,
+   "text": "I'm just in the habit of renting movies, I guess."
+  },
+  {
+   "start": 307.24,
+   "end": 307.72,
+   "text": "I want to."
+  },
+  {
+   "start": 309.26,
+   "end": 310.78,
+   "text": "But, yeah, because I haven't spoken a lot."
+  },
+  {
+   "start": 310.86,
+   "end": 312.78,
+   "text": "And I've just been, actually, lately, just been."
+  },
+  {
+   "start": 316.06,
+   "end": 316.82,
+   "text": "Sitting there."
+  },
+  {
+   "start": 318.18,
+   "end": 319.28,
+   "text": "Sitting there, working."
+  },
+  {
+   "start": 320.74,
+   "end": 321.02,
+   "text": "So."
+  },
+  {
+   "start": 323.28,
+   "end": 323.94,
+   "text": "Anyways, yeah."
+  },
+  {
+   "start": 324.32,
+   "end": 329.14,
+   "text": "But I think I'm going to, um, have a new idea thing about, uh, my daily vlogs."
+  },
+  {
+   "start": 329.28,
+   "end": 331.68,
+   "text": "You know, like, in the, in the title."
+  },
+  {
+   "start": 331.8,
+   "end": 333.04,
+   "text": "It's not just going to be live in the vlog."
+  },
+  {
+   "start": 333.22,
+   "end": 334.9,
+   "text": "It's going to be in the title of a vlog."
+  },
+  {
+   "start": 335.4,
+   "end": 338.16,
+   "text": "And then, next to the title is the specific thing that I'm talking about."
+  },
+  {
+   "start": 338.2,
+   "end": 342.78,
+   "text": "Like, if I saw a movie that day, I'm going to include the movie review or the, you know,"
+  },
+  {
+   "start": 342.8,
+   "end": 343.48,
+   "text": "All the topics."
+  },
+  {
+   "start": 344.14,
+   "end": 345.18,
+   "text": "So that, uh."
+  },
+  {
+   "start": 346.24,
+   "end": 346.98,
+   "text": "Yeah, that's better."
+  },
+  {
+   "start": 346.98,
+   "end": 350.74,
+   "text": "And it motivates me more to talk about different things."
+  },
+  {
+   "start": 352.02,
+   "end": 353.6,
+   "text": "Uh, that I don't have to, you know."
+  },
+  {
+   "start": 355.44,
+   "end": 357.44,
+   "text": "Yeah, so that's good enough for now."
+  },
+  {
+   "start": 358.74,
+   "end": 359.92,
+   "text": "Okay, peace out."
+  },
+  {
+   "start": 359.92,
+   "end": 360.3,
+   "text": "Okay."
+  },
+  {
+   "start": 360.38,
+   "end": 360.66,
+   "text": "Okay."
+  },
+  {
+   "start": 360.7,
+   "end": 360.8,
+   "text": "Thank you."
+  },
+  {
+   "start": 360.8,
+   "end": 361.3,
+   "text": "Thank you."
+  }
+ ]
+}

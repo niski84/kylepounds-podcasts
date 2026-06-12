@@ -1,0 +1,306 @@
+{
+ "youtube_id": "RV52cBY1DgM",
+ "title": "Living in Boulder Vlog 11 - 17 - 2016",
+ "url": "https://youtu.be/RV52cBY1DgM",
+ "published_at": "2016-11-18",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs a morning in Boulder, recapping a late night of GIS/mapping work on building counts for Boulder County towns in Google Earth, a homeowners association meeting about a bike rack ticket, and dinner with his mom. He shares his excitement about a related project combining a Boulder County timeline with Roman land law research and Italian history.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "late night work",
+   "GIS mapping",
+   "Google Earth",
+   "homeowners association",
+   "dinner with mom",
+   "MSG",
+   "Roman land law",
+   "Boulder County history",
+   "request videos",
+   "snow in Boulder",
+   "cannabis"
+  ],
+  "stances": [
+   {
+    "topic": "request videos",
+    "position": "Will do them within reason but won't repeat topics he's already covered"
+   },
+   {
+    "topic": "MSG",
+    "position": "Suspects MSG in the Asian food made him feel unwell"
+   },
+   {
+    "topic": "his work schedule",
+    "position": "Comfortable working until nearly 4am and functioning on 6 hours of sleep"
+   }
+  ],
+  "entities": [
+   "Mark Del Rio",
+   "Tom Cruise",
+   "Barack Obama",
+   "Boulder County",
+   "Boulder",
+   "Italy"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.67,
+   "end": 8.41,
+   "text": "Good morning. I just got out of bed. I was working until 4 o'clock in the morning. Well, 3.40 to be exact."
+  },
+  {
+   "start": 9.15,
+   "end": 14.05,
+   "text": "And it's 9.30 now, so I guess I got six hours of sleep, but I'm totally rested, so."
+  },
+  {
+   "start": 15.33,
+   "end": 20.07,
+   "text": "Technically, technically I'm sober because I haven't smoked yet."
+  },
+  {
+   "start": 21.03,
+   "end": 22.75,
+   "text": "So this is what I look like when I'm sober."
+  },
+  {
+   "start": 24.15,
+   "end": 27.57,
+   "text": "That's what I sound like. It's pretty normal, pretty much the same."
+  },
+  {
+   "start": 27.57,
+   "end": 31.21,
+   "text": "But since I'm sober, let's have a bong hit."
+  },
+  {
+   "start": 41.35,
+   "end": 51.55,
+   "text": "Okay, so yesterday I was working until from like 8 or something, but then I had like a nap for like a couple hours because I got to a point."
+  },
+  {
+   "start": 51.67,
+   "end": 60.85,
+   "text": "I was on the couch. I was at a point where I couldn't keep my eyes open, so I got in bed and I took a nap."
+  },
+  {
+   "start": 61.29,
+   "end": 62.85,
+   "text": "But I was working all day long."
+  },
+  {
+   "start": 62.85,
+   "end": 81.19,
+   "text": "But at 5.30, my mom reminded me I had to go to this like homeowner's meeting because like my roommate got a $25 ticket for having a bike rack in the garage."
+  },
+  {
+   "start": 81.29,
+   "end": 86.89,
+   "text": "So I had to go and talk to the homeowner, the work people, to see if it was okay if we could put a bike rack there."
+  },
+  {
+   "start": 87.01,
+   "end": 89.65,
+   "text": "So my mom picked me out and took me out on there. We talked to them for a little bit."
+  },
+  {
+   "start": 89.65,
+   "end": 94.79,
+   "text": "That was interesting. And then she took me out to dinner. I was like, you know what, I'm kind of hungry."
+  },
+  {
+   "start": 95.03,
+   "end": 96.29,
+   "text": "It was actually her idea. It was pretty cool."
+  },
+  {
+   "start": 96.91,
+   "end": 103.71,
+   "text": "But I think that it was Asian food and I think they had a little bit of MSG in it because I didn't feel all that great after."
+  },
+  {
+   "start": 103.79,
+   "end": 106.39,
+   "text": "But I didn't spend any money. It was pretty tasty."
+  },
+  {
+   "start": 106.39,
+   "end": 112.69,
+   "text": "So I worked on adding numbers to buildings all day yesterday."
+  },
+  {
+   "start": 113.03,
+   "end": 116.55,
+   "text": "It's a number of how many buildings are in the different towns in Boulder County."
+  },
+  {
+   "start": 118.81,
+   "end": 125.01,
+   "text": "I think I lost some work yesterday though too from it crashing."
+  },
+  {
+   "start": 125.33,
+   "end": 126.05,
+   "text": "Was that yesterday?"
+  },
+  {
+   "start": 127.21,
+   "end": 128.27,
+   "text": "I don't know if it was yesterday."
+  },
+  {
+   "start": 128.27,
+   "end": 134.79,
+   "text": "But yeah, so today I'm going to paste everything together because I had to build it separately because it was crashing so much."
+  },
+  {
+   "start": 136.07,
+   "end": 140.37,
+   "text": "But I think it was crashing because I was accidentally keeping the footprints inside of the folder."
+  },
+  {
+   "start": 140.49,
+   "end": 141.71,
+   "text": "I should have kept them in its own folder."
+  },
+  {
+   "start": 142.37,
+   "end": 144.97,
+   "text": "All the buildings in Boulder County overheat the system."
+  },
+  {
+   "start": 144.97,
+   "end": 158.75,
+   "text": "So today I'm going to actually piece it together and see if I have enough features on the Google Earth to make it actually look like a cartoon world when you have this 100% solid layer on the bottom."
+  },
+  {
+   "start": 159.25,
+   "end": 169.85,
+   "text": "I do want to take the towns and create little satellite villagers and farmers with all of their exact farming sizes they got."
+  },
+  {
+   "start": 169.85,
+   "end": 179.19,
+   "text": "I've been listening to a book called the history of Roman law or something."
+  },
+  {
+   "start": 179.33,
+   "end": 180.77,
+   "text": "Roman land law."
+  },
+  {
+   "start": 181.91,
+   "end": 184.53,
+   "text": "And I want to memorize it."
+  },
+  {
+   "start": 184.57,
+   "end": 185.95,
+   "text": "I think it was only like 40 pages or something."
+  },
+  {
+   "start": 186.17,
+   "end": 193.79,
+   "text": "But it has all of the different land laws and describes them and the date and everything and the dates that all the towns were incorporated."
+  },
+  {
+   "start": 194.01,
+   "end": 194.81,
+   "text": "So, oh my God."
+  },
+  {
+   "start": 194.81,
+   "end": 201.65,
+   "text": "And like the, yeah, the result and how they came about to spell that out on the website, on the timeline."
+  },
+  {
+   "start": 201.89,
+   "end": 202.69,
+   "text": "That's what I want to do."
+  },
+  {
+   "start": 203.07,
+   "end": 204.77,
+   "text": "Like now I'm like totally fired up."
+  },
+  {
+   "start": 205.91,
+   "end": 211.71,
+   "text": "Yeah, so under the same umbrella that I'm working on now, it's the timeline just for Italy."
+  },
+  {
+   "start": 212.11,
+   "end": 212.93,
+   "text": "Timeline for Italy."
+  },
+  {
+   "start": 214.01,
+   "end": 215.57,
+   "text": "And then all the Google Earth stuff."
+  },
+  {
+   "start": 216.91,
+   "end": 218.93,
+   "text": "So, uh, 3.37."
+  },
+  {
+   "start": 218.93,
+   "end": 228.43,
+   "text": "Mark Del Rio wanted me to do a request video about Tom Cruise, but somebody asked me to do a video about Tom Cruise like a month ago."
+  },
+  {
+   "start": 228.73,
+   "end": 238.09,
+   "text": "Mark Del Rio, and then I think it was Mark Del Rio wanted me to do a video about Barack Obama's 2008 State of the Union speech."
+  },
+  {
+   "start": 238.19,
+   "end": 242.99,
+   "text": "It kind of seems like he just wants me to do videos to do videos and to do videos over and over again to see if I remember."
+  },
+  {
+   "start": 243.67,
+   "end": 244.61,
+   "text": "I'll have to tell him that."
+  },
+  {
+   "start": 244.61,
+   "end": 253.73,
+   "text": "But no, I am still doing request videos, but it has to be within reason, you know, not like, let's, let's, let's, let's do a third video about what you think about pizza."
+  },
+  {
+   "start": 254.43,
+   "end": 257.05,
+   "text": "It's like, damn it, you motherfuckers, I already did that video."
+  },
+  {
+   "start": 258.33,
+   "end": 264.25,
+   "text": "Um, so, uh, yeah, it snowed, it's all snowy outside, so yeah."
+  },
+  {
+   "start": 264.25,
+   "end": 275.33,
+   "text": "Um, I'm super fired up today, I'm like, I'm super excited to see what, I can make this world look like, make it a totally different world right on top of here."
+  },
+  {
+   "start": 275.69,
+   "end": 276.31,
+   "text": "Boulder room."
+  },
+  {
+   "start": 277.21,
+   "end": 278.81,
+   "text": "Okay, peace out."
+  },
+  {
+   "start": 278.81,
+   "end": 297.66,
+   "text": "Do do do do do do do do do do do do do do do do do do do do do do do do."
+  }
+ ]
+}

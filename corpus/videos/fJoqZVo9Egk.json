@@ -1,0 +1,215 @@
+{
+ "youtube_id": "fJoqZVo9Egk",
+ "title": "Living in Boulder vlog 3-3-2016",
+ "url": "https://youtu.be/fJoqZVo9Egk",
+ "published_at": "2016-03-04",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from his Boulder apartment on March 3, 2016, recapping a late night working on a migration/math web page and organizing playlists for his new Legend of Sanctimonium YouTube channel. He also discusses recently buying marijuana and wax concentrates, expresses a preference for weed over shatter for lung health, and briefly mentions an upcoming medical diagnosis appointment with his mom.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "web development",
+   "YouTube channel setup",
+   "Sanctimonium game/channel",
+   "cannabis use",
+   "medical appointment",
+   "pet"
+  ],
+  "stances": [
+   {
+    "topic": "cannabis consumption method",
+    "position": "Prefers weed over shatter/concentrates because concentrates are harsh and bad for the lungs"
+   },
+   {
+    "topic": "being high while making videos",
+    "position": "Prefers only moderate highs for videos; getting too high degrades video quality"
+   }
+  ],
+  "entities": [
+   "Legend of Sanctimonium (YouTube channel)",
+   "mom",
+   "Boulder (Colorado)",
+   "small pet animal (held in hand, possibly a gecko)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 2.26,
+   "end": 21.64,
+   "text": "Hello here's daily vlog video for the third I think of 2016 I'm recording this"
+  },
+  {
+   "start": 21.64,
+   "end": 29.32,
+   "text": "Video from the backside so that I don't get distracted and I can just look right"
+  },
+  {
+   "start": 29.32,
+   "end": 38.14,
+   "text": "At the camera so I think I have my whole face and so this last night I was working"
+  },
+  {
+   "start": 38.14,
+   "end": 43.44,
+   "text": "On my Mike Racer level page I'm not doing Google Earth anymore because I need two"
+  },
+  {
+   "start": 43.44,
+   "end": 57.34,
+   "text": "Computers for that I only have one now my Macintosh is at the store so yeah so I"
+  },
+  {
+   "start": 57.34,
+   "end": 61.06,
+   "text": "Was working last night until I crashed I don't remember what time I needed I"
+  },
+  {
+   "start": 61.06,
+   "end": 64.66,
+   "text": "Should start keeping better track and then I got kind of late today 10 or"
+  },
+  {
+   "start": 64.66,
+   "end": 71.32,
+   "text": "Something and then I've been working on this page the same page I was working on"
+  },
+  {
+   "start": 71.32,
+   "end": 77.5,
+   "text": "Yesterday just doing speed things math doing math it's kind of fun it's a nice"
+  },
+  {
+   "start": 77.5,
+   "end": 85.3,
+   "text": "Change for the Google Earth stuff I've been doing so I'll just do that so I'm"
+  },
+  {
+   "start": 85.3,
+   "end": 89.5,
+   "text": "Getting my other channel going my legend of sanctimonium channel and then I'm"
+  },
+  {
+   "start": 89.5,
+   "end": 93.16,
+   "text": "Gonna make all of my oh that's what I was doing last night it's making all the"
+  },
+  {
+   "start": 93.16,
+   "end": 97.48,
+   "text": "Different playlists I was figuring out all of the rules with sanctimonium I am not"
+  },
+  {
+   "start": 97.48,
+   "end": 101.54,
+   "text": "Gonna try to relay that now because get real high and try to relay rules of"
+  },
+  {
+   "start": 101.54,
+   "end": 106.96,
+   "text": "Sanctimonium world like when you only were thinking about it and bad last night"
+  },
+  {
+   "start": 106.96,
+   "end": 110.68,
+   "text": "Yeah it's I'm gonna write it down first I'm gonna yeah write it all down and then"
+  },
+  {
+   "start": 110.68,
+   "end": 114.94,
+   "text": "I'll memorize it and then I'll do a video talking about that but yeah that's"
+  },
+  {
+   "start": 114.94,
+   "end": 124.36,
+   "text": "Fun that was fun just reminded just remember that I need to write that down"
+  },
+  {
+   "start": 124.36,
+   "end": 130.6,
+   "text": "I want to write that down start writing that down now so I mean I'm working on"
+  },
+  {
+   "start": 130.6,
+   "end": 140.8,
+   "text": "That page and that's what I'm doing I'm going for my diagnosis today with my mom"
+  },
+  {
+   "start": 140.8,
+   "end": 155.25,
+   "text": "So how about that tomorrow yeah I'm super yawning right now I bought weed for the"
+  },
+  {
+   "start": 155.25,
+   "end": 159.03,
+   "text": "First time in a while I was smoking shatter and wax and today I got weed and"
+  },
+  {
+   "start": 159.03,
+   "end": 162.93,
+   "text": "That's nice to be high on weed it's about way better on your lungs I'm gonna"
+  },
+  {
+   "start": 162.93,
+   "end": 166.29,
+   "text": "Stay away from shattering wax from now on that's too bad on your lungs cuz then it"
+  },
+  {
+   "start": 166.29,
+   "end": 169.83,
+   "text": "Burns bad and then you're smoking the nasty shit and it's just how heavy and"
+  },
+  {
+   "start": 169.83,
+   "end": 174.93,
+   "text": "Bad weeds much healthier and it's a better high too and you get like stupid"
+  },
+  {
+   "start": 174.93,
+   "end": 178.77,
+   "text": "High when you're on shatter you know like when I do videos if I got super high on a"
+  },
+  {
+   "start": 178.77,
+   "end": 182.71,
+   "text": "Bunch of shatter I wouldn't do the video nearly as well if I was high on normal"
+  },
+  {
+   "start": 182.71,
+   "end": 191.83,
+   "text": "Marijuana uh yeah hey there's my little uh my little gecko oh he's my little buddy he"
+  },
+  {
+   "start": 191.83,
+   "end": 198.85,
+   "text": "Doesn't mind being held he likes being held he's totally chill what's up dog you"
+  },
+  {
+   "start": 198.85,
+   "end": 204.85,
+   "text": "Want to chill we should chill sometime man you and I we're gonna chill we're"
+  },
+  {
+   "start": 204.85,
+   "end": 209.71,
+   "text": "Gonna watch uh I'm gonna do YouTube videos you're just gonna chill on my hand all right"
+  },
+  {
+   "start": 209.71,
+   "end": 219.37,
+   "text": "Because I know you like it we're yeah they love it man so um okay so yeah that's"
+  },
+  {
+   "start": 219.37,
+   "end": 222.71,
+   "text": "Enough for today's video"
+  },
+  {
+   "start": 224.71,
+   "end": 228.71,
+   "text": "Living in bolder peace out"
+  }
+ ]
+}

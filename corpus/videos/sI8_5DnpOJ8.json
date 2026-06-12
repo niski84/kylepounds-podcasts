@@ -1,0 +1,665 @@
+{
+ "youtube_id": "sI8_5DnpOJ8",
+ "title": "Living in Boulder Vlog 3 - 18 - 2017: 5 kilometer diameter in background",
+ "url": "https://youtu.be/sI8_5DnpOJ8",
+ "published_at": "2017-03-19",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about a stressful few days dealing with lost audiobooks (eventually recovering 82GB from Carbonite), working late nights on his website's timeline feature with color-coded 500-year blocks, dealing with car and apartment maintenance issues, financial stress around debt, and briefly mentions enjoying smoking weed while writing.",
+  "speaker": "kyle",
+  "topics": [
+   "data recovery",
+   "website development",
+   "audiobook collection",
+   "financial stress",
+   "car maintenance",
+   "apartment maintenance",
+   "writing process",
+   "cannabis use"
+  ],
+  "stances": [
+   {
+    "topic": "hard drive storage orientation",
+    "position": "storing drives vertically kills them — discs need to align with gravity"
+   },
+   {
+    "topic": "cannabis and writing",
+    "position": "smoking weed slows proofreading but writing is still enjoyable; just requires more run-throughs"
+   },
+   {
+    "topic": "Carbonite backup",
+    "position": "glad he had it — saved his audiobook collection when all other backups failed"
+   }
+  ],
+  "entities": [
+   "Carbonite",
+   "Boulder",
+   "Trump",
+   "Keith (mentioned briefly)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.07,
+   "end": 5.07,
+   "text": "Hello living in Boulder, VLOG for March 18th."
+  },
+  {
+   "start": 5.07,
+   "end": 12.06,
+   "text": "I think I took like three days off because I got stressed out, man."
+  },
+  {
+   "start": 12.06,
+   "end": 18.06,
+   "text": "I got my files back and then I like I didn't move the guy I couldn't transfer the audio books because he said it in work."
+  },
+  {
+   "start": 18.06,
+   "end": 23.06,
+   "text": "So it's like whatever, I thought they were backed up all over the place, they were backed up anywhere."
+  },
+  {
+   "start": 23.06,
+   "end": 24.06,
+   "text": "Like anywhere."
+  },
+  {
+   "start": 24.06,
+   "end": 32.06,
+   "text": "Like not on any of you, can you either my hard drives, my computer, my computer or the other two computers, or my card because the card is the broken."
+  },
+  {
+   "start": 33.06,
+   "end": 35.06,
+   "text": "And this old phone, so."
+  },
+  {
+   "start": 35.06,
+   "end": 39.06,
+   "text": "Fruture me out, but there was 82 gigabytes on the carbonite."
+  },
+  {
+   "start": 39.06,
+   "end": 40.06,
+   "text": "So."
+  },
+  {
+   "start": 40.06,
+   "end": 43.06,
+   "text": "I'm in the process of getting that back."
+  },
+  {
+   "start": 43.06,
+   "end": 47.06,
+   "text": "I think I may have like half that back already, but."
+  },
+  {
+   "start": 47.06,
+   "end": 57.06,
+   "text": "And then I have to download the rest as I'm in 65 manually, but you know, carbonate backed up the folders and so I just I know exactly where to go or put it."
+  },
+  {
+   "start": 57.06,
+   "end": 59.06,
+   "text": "Just loaded up."
+  },
+  {
+   "start": 59.06,
+   "end": 66.06,
+   "text": "And it's probably going to be like 400 books and after we do that whatever, and then just back and up everywhere see three of my address died at the same exact time."
+  },
+  {
+   "start": 66.06,
+   "end": 69.06,
+   "text": "And yeah."
+  },
+  {
+   "start": 69.06,
+   "end": 72.06,
+   "text": "Well, two of them, one of them."
+  },
+  {
+   "start": 72.06,
+   "end": 74.06,
+   "text": "So it's similar broken."
+  },
+  {
+   "start": 74.06,
+   "end": 76.06,
+   "text": "But yes, I got this new one."
+  },
+  {
+   "start": 76.06,
+   "end": 78.06,
+   "text": "Don't store our drives like this."
+  },
+  {
+   "start": 78.06,
+   "end": 83.06,
+   "text": "I think I killed them all because I hadn't sort like this because the disc is having to fight against the gravity."
+  },
+  {
+   "start": 83.06,
+   "end": 86.06,
+   "text": "And you wanted to be in a line when we're stuck."
+  },
+  {
+   "start": 86.06,
+   "end": 87.06,
+   "text": "Gravity."
+  },
+  {
+   "start": 87.06,
+   "end": 90.06,
+   "text": "So."
+  },
+  {
+   "start": 90.06,
+   "end": 91.06,
+   "text": "Oh, the background."
+  },
+  {
+   "start": 91.06,
+   "end": 97.06,
+   "text": "Yeah, we'll do background five kilometers because the last one was two and a half kilometers down there."
+  },
+  {
+   "start": 97.06,
+   "end": 99.06,
+   "text": "Those are my areas."
+  },
+  {
+   "start": 99.06,
+   "end": 103.06,
+   "text": "So the thing up to is my website writing finally for the first time."
+  },
+  {
+   "start": 103.06,
+   "end": 106.06,
+   "text": "We're coming out with my computer."
+  },
+  {
+   "start": 106.06,
+   "end": 109.06,
+   "text": "And which is so much faster."
+  },
+  {
+   "start": 109.06,
+   "end": 114.06,
+   "text": "These make the website look smaller."
+  },
+  {
+   "start": 114.06,
+   "end": 119.06,
+   "text": "So yeah, and then so I got to the part by Chris, a little explaining nine and so I was like, oh cool."
+  },
+  {
+   "start": 119.06,
+   "end": 125.06,
+   "text": "Let's attach the areas to it, you know, to the distances for the different levels."
+  },
+  {
+   "start": 125.06,
+   "end": 127.06,
+   "text": "And so I was working on that page."
+  },
+  {
+   "start": 127.06,
+   "end": 130.06,
+   "text": "So you can link directly to that part of the page and then once my timeline."
+  },
+  {
+   "start": 130.06,
+   "end": 132.06,
+   "text": "So I got blank happy."
+  },
+  {
+   "start": 132.06,
+   "end": 134.06,
+   "text": "And I saw this link on the timeline."
+  },
+  {
+   "start": 134.06,
+   "end": 138.06,
+   "text": "For me, this list on the timeline of all the countries that I have for the timeline."
+  },
+  {
+   "start": 138.06,
+   "end": 140.06,
+   "text": "And also I go cool with my link."
+  },
+  {
+   "start": 140.06,
+   "end": 143.06,
+   "text": "And then have a link to all of the different."
+  },
+  {
+   "start": 143.06,
+   "end": 145.06,
+   "text": "500 year blocks."
+  },
+  {
+   "start": 145.06,
+   "end": 149.06,
+   "text": "Just with these little dots because you know the dots make color code."
+  },
+  {
+   "start": 149.06,
+   "end": 153.06,
+   "text": "And then like, you know, like, do you want to be the first."
+  },
+  {
+   "start": 153.06,
+   "end": 155.06,
+   "text": "And 80 and zero to five."
+  },
+  {
+   "start": 155.06,
+   "end": 158.06,
+   "text": "We're the first and BC so that would be pink, which is one."
+  },
+  {
+   "start": 158.06,
+   "end": 160.06,
+   "text": "So you have two pink, six, six, six, six, six."
+  },
+  {
+   "start": 160.06,
+   "end": 165.06,
+   "text": "And just see it really, so it can then, it convinces information more than anything else on the site."
+  },
+  {
+   "start": 165.06,
+   "end": 167.06,
+   "text": "So it's pretty exciting."
+  },
+  {
+   "start": 167.06,
+   "end": 168.06,
+   "text": "I started on that last night."
+  },
+  {
+   "start": 168.06,
+   "end": 170.06,
+   "text": "It just looks like something to do."
+  },
+  {
+   "start": 170.06,
+   "end": 172.06,
+   "text": "I'm not going to stop until I'm done."
+  },
+  {
+   "start": 172.06,
+   "end": 173.06,
+   "text": "Six left for now."
+  },
+  {
+   "start": 173.06,
+   "end": 174.06,
+   "text": "I got up today."
+  },
+  {
+   "start": 174.06,
+   "end": 176.06,
+   "text": "I think earlier I was working until late."
+  },
+  {
+   "start": 176.06,
+   "end": 180.06,
+   "text": "I was up until like six in the morning working this today."
+  },
+  {
+   "start": 180.06,
+   "end": 181.06,
+   "text": "Day four yesterday."
+  },
+  {
+   "start": 181.06,
+   "end": 183.06,
+   "text": "And then yesterday I came to remember it was really late."
+  },
+  {
+   "start": 183.06,
+   "end": 185.06,
+   "text": "So it four something."
+  },
+  {
+   "start": 185.06,
+   "end": 187.06,
+   "text": "So I kind of slept in it."
+  },
+  {
+   "start": 187.06,
+   "end": 188.06,
+   "text": "It's like 11 in my mom called me."
+  },
+  {
+   "start": 188.06,
+   "end": 189.06,
+   "text": "She went before."
+  },
+  {
+   "start": 189.06,
+   "end": 190.06,
+   "text": "Help her stuff."
+  },
+  {
+   "start": 190.06,
+   "end": 191.06,
+   "text": "So I went over there."
+  },
+  {
+   "start": 191.06,
+   "end": 192.06,
+   "text": "Back."
+  },
+  {
+   "start": 192.06,
+   "end": 195.06,
+   "text": "You know, it's going to help her put away stuff."
+  },
+  {
+   "start": 195.06,
+   "end": 196.06,
+   "text": "But I need money."
+  },
+  {
+   "start": 196.06,
+   "end": 197.06,
+   "text": "So I like I got stressed out."
+  },
+  {
+   "start": 197.06,
+   "end": 199.06,
+   "text": "So I was like, you know, I'm stressed out because I'm not."
+  },
+  {
+   "start": 199.06,
+   "end": 200.06,
+   "text": "I'm not."
+  },
+  {
+   "start": 200.06,
+   "end": 201.06,
+   "text": "I'm not."
+  },
+  {
+   "start": 201.06,
+   "end": 203.06,
+   "text": "So I was told that I'm like, you need to get the money."
+  },
+  {
+   "start": 203.06,
+   "end": 204.06,
+   "text": "Because she has money."
+  },
+  {
+   "start": 204.06,
+   "end": 208.06,
+   "text": "So you came across money and it was like, hey, you came across money right when I went out."
+  },
+  {
+   "start": 208.06,
+   "end": 211.06,
+   "text": "So I could just stay in the environment."
+  },
+  {
+   "start": 211.06,
+   "end": 214.06,
+   "text": "Because I already paid $50 of interest."
+  },
+  {
+   "start": 214.06,
+   "end": 215.06,
+   "text": "He's this year."
+  },
+  {
+   "start": 215.06,
+   "end": 217.06,
+   "text": "I was like, $250 last year."
+  },
+  {
+   "start": 217.06,
+   "end": 219.06,
+   "text": "So it's like, whoa."
+  },
+  {
+   "start": 219.06,
+   "end": 223.06,
+   "text": "So now I were like 11,000, six here."
+  },
+  {
+   "start": 223.06,
+   "end": 230.06,
+   "text": "So when you're 3,000, so then my brother's, what the, 16,000."
+  },
+  {
+   "start": 230.06,
+   "end": 234.07,
+   "text": "So I'll still the car."
+  },
+  {
+   "start": 234.07,
+   "end": 239.54,
+   "text": "I haven't been motivated to, yeah, because I just got stressed out."
+  },
+  {
+   "start": 239.54,
+   "end": 241.54,
+   "text": "I just wanted to work on my mom's head a little bit."
+  },
+  {
+   "start": 241.54,
+   "end": 242.54,
+   "text": "And then I got worked on this."
+  },
+  {
+   "start": 242.54,
+   "end": 244.54,
+   "text": "I was going to get stressed out."
+  },
+  {
+   "start": 244.54,
+   "end": 245.54,
+   "text": "I'm working on my side."
+  },
+  {
+   "start": 245.54,
+   "end": 249.54,
+   "text": "So yeah, I have been fixed the curtains."
+  },
+  {
+   "start": 249.54,
+   "end": 252.54,
+   "text": "Yeah, my wet my car is times to break every time I fix something."
+  },
+  {
+   "start": 252.54,
+   "end": 253.54,
+   "text": "So I'm going to spray it."
+  },
+  {
+   "start": 253.54,
+   "end": 254.54,
+   "text": "So I'm going to spray it."
+  },
+  {
+   "start": 254.54,
+   "end": 256.54,
+   "text": "It's like, right when I get it fixed."
+  },
+  {
+   "start": 256.54,
+   "end": 259.54,
+   "text": "So like I got like my life died."
+  },
+  {
+   "start": 259.54,
+   "end": 261.54,
+   "text": "So I got it fixed."
+  },
+  {
+   "start": 261.54,
+   "end": 266.54,
+   "text": "And then for I got home, to fix the light bulb, I just for no reason."
+  },
+  {
+   "start": 266.54,
+   "end": 271.14,
+   "text": "And then after that, that's what my curtain came down."
+  },
+  {
+   "start": 271.14,
+   "end": 273.14,
+   "text": "So I'll fix that soon."
+  },
+  {
+   "start": 273.14,
+   "end": 275.14,
+   "text": "I don't really get a whirl."
+  },
+  {
+   "start": 275.14,
+   "end": 277.14,
+   "text": "But I want to fix this length."
+  },
+  {
+   "start": 277.14,
+   "end": 280.14,
+   "text": "If I can fix this today."
+  },
+  {
+   "start": 280.14,
+   "end": 283.14,
+   "text": "So yeah."
+  },
+  {
+   "start": 283.14,
+   "end": 285.14,
+   "text": "But it'll make me feel like it's coming together."
+  },
+  {
+   "start": 285.14,
+   "end": 286.14,
+   "text": "It's exciting."
+  },
+  {
+   "start": 286.14,
+   "end": 288.14,
+   "text": "I'm going to start to come together."
+  },
+  {
+   "start": 288.14,
+   "end": 293.14,
+   "text": "Because it appears so fast."
+  },
+  {
+   "start": 293.14,
+   "end": 295.14,
+   "text": "So yeah, I've never really listened to anything."
+  },
+  {
+   "start": 295.14,
+   "end": 298.14,
+   "text": "Oh, Keith, I'm going to talk to you about Trump."
+  },
+  {
+   "start": 298.14,
+   "end": 299.14,
+   "text": "That's fun."
+  },
+  {
+   "start": 299.14,
+   "end": 301.14,
+   "text": "Yeah, I'm interested in my own."
+  },
+  {
+   "start": 301.14,
+   "end": 302.14,
+   "text": "I'm so glad."
+  },
+  {
+   "start": 302.14,
+   "end": 304.14,
+   "text": "I love smoking lots of weed and riding."
+  },
+  {
+   "start": 304.14,
+   "end": 308.14,
+   "text": "It makes the proofreading go low really slow."
+  },
+  {
+   "start": 308.14,
+   "end": 310.14,
+   "text": "And sometimes you go backwards."
+  },
+  {
+   "start": 311.14,
+   "end": 314.14,
+   "text": "You can fix this in a thing twice because you know that was."
+  },
+  {
+   "start": 314.14,
+   "end": 317.14,
+   "text": "But I have help on that in help."
+  },
+  {
+   "start": 317.14,
+   "end": 319.14,
+   "text": "So."
+  },
+  {
+   "start": 319.14,
+   "end": 322.14,
+   "text": "But it's fun."
+  },
+  {
+   "start": 322.14,
+   "end": 328.19,
+   "text": "You can be just as kind of a writer, better write your studies."
+  },
+  {
+   "start": 328.19,
+   "end": 330.19,
+   "text": "It just takes longer."
+  },
+  {
+   "start": 330.19,
+   "end": 333.19,
+   "text": "You just have to do the run throughs."
+  },
+  {
+   "start": 333.19,
+   "end": 335.19,
+   "text": "It's just a proofreading."
+  },
+  {
+   "start": 335.19,
+   "end": 337.19,
+   "text": "It's really full of an over and over again."
+  },
+  {
+   "start": 337.19,
+   "end": 338.19,
+   "text": "Which is fun."
+  },
+  {
+   "start": 338.19,
+   "end": 340.19,
+   "text": "The argument gone on that as soon as I fixed this length."
+  },
+  {
+   "start": 340.19,
+   "end": 343.19,
+   "text": "I think that's enough talking."
+  },
+  {
+   "start": 343.19,
+   "end": 344.19,
+   "text": "544."
+  }
+ ]
+}

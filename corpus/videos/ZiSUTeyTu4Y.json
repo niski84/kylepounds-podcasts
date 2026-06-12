@@ -1,0 +1,562 @@
+{
+ "youtube_id": "ZiSUTeyTu4Y",
+ "title": "Living in Boulder vlog 12 - 19 -  2017: Google Earthing apartments of region 5 of Ancient Rome",
+ "url": "https://youtu.be/ZiSUTeyTu4Y",
+ "published_at": "2017-12-20",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs at 5:40am while high, describing his ongoing project of mapping ancient Rome's Region 5 in Google Earth. He explains his process of using the Regionaries (an ancient Roman building census) to accurately place apartments, houses, baths, and other structures, and reflects on the project as his life mission to visually illustrate historical reality.",
+  "speaker": "kyle",
+  "topics": [
+   "ancient Rome mapping",
+   "Google Earth project",
+   "cannabis",
+   "historical visualization",
+   "Region 5 of Rome",
+   "apartments and housing in ancient Rome",
+   "future of VR history",
+   "personal life mission"
+  ],
+  "stances": [
+   {
+    "topic": "Google Earth Rome mapping approach",
+    "position": "Wants exact building counts per the Regionaries, visualized with color-coding and scale — good enough detail to imagine the city without being impossibly precise"
+   },
+   {
+    "topic": "Future VR historical recreation",
+    "position": "Predicts fully detailed virtual Rome is 30-40 years away; sees his own work as a valid intermediate step with permanent value"
+   },
+   {
+    "topic": "His life mission",
+    "position": "Believes illustrating historical numbers and space visually is his calling — something he gravitated toward naturally"
+   }
+  ],
+  "entities": [
+   "Regional Academy of Catalogues (Regionaries)",
+   "Google Earth",
+   "Region 5 of ancient Rome",
+   "Region 9 of ancient Rome",
+   "Wikipedia",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.3,
+   "end": 6.3,
+   "text": "Hello, I'm an emboldt of V-log. It's 5.4 a.m. on December 20th."
+  },
+  {
+   "start": 6.3,
+   "end": 10.3,
+   "text": "I like it so I'm going to start with the one for December 19th."
+  },
+  {
+   "start": 10.3,
+   "end": 23.3,
+   "text": "I have to do stuff it too, so I got to get to sleep right now even though I'm not tired at all."
+  },
+  {
+   "start": 23.3,
+   "end": 26.3,
+   "text": "So I guess I'll take a melatonin. We just got really high."
+  },
+  {
+   "start": 26.3,
+   "end": 30.3,
+   "text": "Only the batch that I have right now, it's not really that strong."
+  },
+  {
+   "start": 30.3,
+   "end": 33.3,
+   "text": "It's kind of... it doesn't pack all that tight."
+  },
+  {
+   "start": 33.3,
+   "end": 36.3,
+   "text": "It's not that tight strong. I love it. You just squeeze it."
+  },
+  {
+   "start": 36.3,
+   "end": 40.3,
+   "text": "It's what it's stuff I had before. You just can break it part of it and butt off."
+  },
+  {
+   "start": 40.3,
+   "end": 42.3,
+   "text": "It's like powder condensed."
+  },
+  {
+   "start": 42.3,
+   "end": 45.3,
+   "text": "And then you just squeeze it with your finger and then it just pops."
+  },
+  {
+   "start": 45.3,
+   "end": 48.3,
+   "text": "And then what falls down is just powder."
+  },
+  {
+   "start": 48.3,
+   "end": 51.3,
+   "text": "It's like keep condensed. It's amazing."
+  },
+  {
+   "start": 51.3,
+   "end": 54.3,
+   "text": "You just won't get it's like smoking, it's really soft."
+  },
+  {
+   "start": 54.3,
+   "end": 58.3,
+   "text": "But this stuff, not as much, but I spent the whole bunch."
+  },
+  {
+   "start": 58.3,
+   "end": 61.3,
+   "text": "I had like, let me get some of it, or something."
+  },
+  {
+   "start": 61.3,
+   "end": 64.3,
+   "text": "But I'm gonna have a shower."
+  },
+  {
+   "start": 64.3,
+   "end": 67.3,
+   "text": "Okay, so the other day I think I did once in a while,"
+  },
+  {
+   "start": 67.3,
+   "end": 72.3,
+   "text": "I was working on trying to finish reaching 5 of room."
+  },
+  {
+   "start": 72.3,
+   "end": 74.3,
+   "text": "It's a good good thing."
+  },
+  {
+   "start": 74.3,
+   "end": 78.3,
+   "text": "There's this thing called the Regional Academy of Cattleogues,"
+  },
+  {
+   "start": 78.3,
+   "end": 81.3,
+   "text": "and I didn't even have my website until the other day."
+  },
+  {
+   "start": 81.3,
+   "end": 85.3,
+   "text": "I kind of pretended it didn't exist in my head because I saw them in Latin men."
+  },
+  {
+   "start": 85.3,
+   "end": 87.3,
+   "text": "I was like, deal them later."
+  },
+  {
+   "start": 87.3,
+   "end": 90.3,
+   "text": "But yeah, I mean, there's this thing called Regional Academy of Cattleogues."
+  },
+  {
+   "start": 90.3,
+   "end": 92.3,
+   "text": "It did it every year from the study of 68 or something like that."
+  },
+  {
+   "start": 92.3,
+   "end": 96.3,
+   "text": "To 354, and I had the last year of it through this fort."
+  },
+  {
+   "start": 96.3,
+   "end": 102.3,
+   "text": "Where they say exactly how many buildings of what ever kind of building a beach region there are."
+  },
+  {
+   "start": 102.3,
+   "end": 106.3,
+   "text": "And so, you have to embolls, apartments, houses,"
+  },
+  {
+   "start": 106.3,
+   "end": 113.3,
+   "text": "green depots, baths, systems."
+  },
+  {
+   "start": 113.3,
+   "end": 119.3,
+   "text": "Just off the top of my head and then has a bunch of other special feet."
+  },
+  {
+   "start": 119.3,
+   "end": 122.3,
+   "text": "And that's not even included five in our spi I can hear about there."
+  },
+  {
+   "start": 122.3,
+   "end": 131.3,
+   "text": "But so, you know, it made me more kind of, and ambitious because when I had five in our spi."
+  },
+  {
+   "start": 131.3,
+   "end": 134.3,
+   "text": "I was like, let's just Google it wrong, but let's put the buildings in."
+  },
+  {
+   "start": 134.3,
+   "end": 136.3,
+   "text": "I was like, let's just put all the electronics buildings in."
+  },
+  {
+   "start": 136.3,
+   "end": 142.3,
+   "text": "Maybe I'll do the same amount as this in Region 9, which was like 20 to something."
+  },
+  {
+   "start": 142.3,
+   "end": 144.3,
+   "text": "And that was something I read in Latin and Ashquire."
+  },
+  {
+   "start": 144.3,
+   "end": 147.3,
+   "text": "But then I saw the regionaries and I was like, all of each building."
+  },
+  {
+   "start": 147.3,
+   "end": 151.3,
+   "text": "So, I had to delete a bunch, but then I put all of each building on there."
+  },
+  {
+   "start": 151.3,
+   "end": 157.3,
+   "text": "180 houses, setting five systems, setting four baths, setting four baths, setting five systems."
+  },
+  {
+   "start": 157.3,
+   "end": 166.3,
+   "text": "So anyway, I put those in and then I had a bunch of the apartments and I needed to, so I finished with the houses and everything today."
+  },
+  {
+   "start": 166.3,
+   "end": 169.3,
+   "text": "Oh, and I think I had to figure out how I wanted to design everything."
+  },
+  {
+   "start": 169.3,
+   "end": 175.3,
+   "text": "And I think since the last time I did a video, I figured out I was going to design houses because I've worked on the systems less than."
+  },
+  {
+   "start": 175.3,
+   "end": 184.3,
+   "text": "And houses, I'm doing it off of a plan of like your average, like I guess, nice big house."
+  },
+  {
+   "start": 184.3,
+   "end": 191.3,
+   "text": "And I'll have, of course, each building, I have a traditional, even going to take around the whole, but with all the rooms divided."
+  },
+  {
+   "start": 191.3,
+   "end": 198.3,
+   "text": "So I make the whole. And then, you know, like the house comes up."
+  },
+  {
+   "start": 198.3,
+   "end": 202.3,
+   "text": "Right now I have five meters of that, I think that's enough."
+  },
+  {
+   "start": 202.3,
+   "end": 211.99,
+   "text": "Oh, no, all those things are, I was like, but that's fine, I can batch out of it, but I can't because they're all together."
+  },
+  {
+   "start": 211.99,
+   "end": 215.5,
+   "text": "Okay, whatever."
+  },
+  {
+   "start": 215.5,
+   "end": 233.64,
+   "text": "So I can modify it for the next area, the next region, but, um, you know, so then I have another one on the inside of the holes to show this orange houses a red holes, orange to show the water going down and moving on both of them."
+  },
+  {
+   "start": 233.64,
+   "end": 240.64,
+   "text": "And then the, the will actually blow up on the ground, so when you go over to the blue, it's pretty cool."
+  },
+  {
+   "start": 240.64,
+   "end": 247.64,
+   "text": "I, I needed to find a way to build a city and stuff on Google Earth that has, that illustrates everything."
+  },
+  {
+   "start": 247.64,
+   "end": 256.64,
+   "text": "And it makes it detailed and brings you into the world like it's a cartoon, yet isn't too tiny, so it's like a balance."
+  },
+  {
+   "start": 256.64,
+   "end": 265.64,
+   "text": "So, um, and then, um, and I don't have all big, big houses, I also have a bunch of little houses."
+  },
+  {
+   "start": 265.64,
+   "end": 273.64,
+   "text": "And, um, I think I'll even get a third type of house, or three different sizes of houses of your standard cookie cutter house."
+  },
+  {
+   "start": 273.64,
+   "end": 279.64,
+   "text": "So, um, I, um, was in my training stop."
+  },
+  {
+   "start": 279.64,
+   "end": 291.64,
+   "text": "So yeah, I finished with the houses, and then I was like, I was like, okay, let's figure out what we're going to do with these apartments, because I didn't know how I was going to try to illustrate how many apartments that were, you know."
+  },
+  {
+   "start": 291.64,
+   "end": 295.64,
+   "text": "The number of apartments like you thought was even going to do it."
+  },
+  {
+   "start": 295.64,
+   "end": 300.64,
+   "text": "The way that I was illustrating exactly to the number, into the color, um, all the other buildings."
+  },
+  {
+   "start": 300.64,
+   "end": 311.64,
+   "text": "And so, I tell you how many the were left, and it was like 2200, 2150, and there are 3750 that you need, um, because that's what it says."
+  },
+  {
+   "start": 311.64,
+   "end": 321.64,
+   "text": "And, um, um, we didn't even run the new ones, we translated by Arabic, new ones."
+  },
+  {
+   "start": 321.64,
+   "end": 329.64,
+   "text": "Um, so it was like 60% and that didn't include the sixth, um, pretty things of the region."
+  },
+  {
+   "start": 329.64,
+   "end": 334.64,
+   "text": "And I didn't actually calculate, you know, like percentage wise, if I were to include it at the same rate."
+  },
+  {
+   "start": 334.64,
+   "end": 344.64,
+   "text": "So anyways, I'm just working on the sixth or the precinct of that region, fifth region, making 100 square foot apartments next to each other."
+  },
+  {
+   "start": 344.64,
+   "end": 348.64,
+   "text": "Um, because that's what it says they are on Wikipedia."
+  },
+  {
+   "start": 348.64,
+   "end": 354.64,
+   "text": "They're like their 100 square, houses per feet, and at the higher six people, where families, whatever."
+  },
+  {
+   "start": 354.64,
+   "end": 358.64,
+   "text": "You can divide it all divided in the amount of time they have."
+  },
+  {
+   "start": 358.64,
+   "end": 365.5,
+   "text": "Um, um, um, yes."
+  },
+  {
+   "start": 365.5,
+   "end": 374.5,
+   "text": "So, yes, so anyway, it's like figured that I would just do the exact number of apartment buildings."
+  },
+  {
+   "start": 374.5,
+   "end": 377.5,
+   "text": "As they actually work in the real life."
+  },
+  {
+   "start": 377.5,
+   "end": 383.5,
+   "text": "And, um, and call it good enough detail."
+  },
+  {
+   "start": 383.5,
+   "end": 386.5,
+   "text": "You know, it works for me for imagining it because I can see it."
+  },
+  {
+   "start": 386.5,
+   "end": 391.5,
+   "text": "Because if you're going to detail it exactly how it was, that's just some way beyond my level."
+  },
+  {
+   "start": 391.5,
+   "end": 393.5,
+   "text": "If you want to do one day, it'll do it in 50 years."
+  },
+  {
+   "start": 393.5,
+   "end": 396.5,
+   "text": "But where you can, you know, recreate a room exactly."
+  },
+  {
+   "start": 396.5,
+   "end": 402.5,
+   "text": "That's tabred number 6075, you know, right there in the house."
+  },
+  {
+   "start": 402.5,
+   "end": 405.5,
+   "text": "You can actually go there like virtual reality and stuff."
+  },
+  {
+   "start": 405.5,
+   "end": 406.5,
+   "text": "That'll be awesome."
+  },
+  {
+   "start": 406.5,
+   "end": 414.5,
+   "text": "But I think, and I can't really kind of assume, um, I would predict 30 or 40 years from now."
+  },
+  {
+   "start": 414.5,
+   "end": 424.02,
+   "text": "So, for the next 30 or 40 or 30 years, uh, you've got me, you didn't even have that long."
+  },
+  {
+   "start": 424.02,
+   "end": 428.02,
+   "text": "But, uh, but even, anyway, we'll regard this about it."
+  },
+  {
+   "start": 428.02,
+   "end": 433.02,
+   "text": "I think it all has its place forever anyway, because I look at it as a, like a language."
+  },
+  {
+   "start": 433.02,
+   "end": 438.02,
+   "text": "You've been in a code, a language, you know, I'm realizing what I have."
+  },
+  {
+   "start": 438.02,
+   "end": 443.02,
+   "text": "The person who I am, what my life mission is, because it's just what I gravitated first in it."
+  },
+  {
+   "start": 443.02,
+   "end": 457.46,
+   "text": "And I'm just trying to figure out a way to show, um, reality, illustrate numbers and space of actual history."
+  },
+  {
+   "start": 457.46,
+   "end": 464.46,
+   "text": "You know, make it so that when you look at your room, it's not how it is now, primitively where it's decided."
+  },
+  {
+   "start": 464.46,
+   "end": 467.46,
+   "text": "There's a building, you know, or it's just a section of it."
+  },
+  {
+   "start": 467.46,
+   "end": 470.46,
+   "text": "You have literally everything you know about it right there."
+  },
+  {
+   "start": 470.46,
+   "end": 473.46,
+   "text": "And a way that you can understand just by looking at it."
+  },
+  {
+   "start": 473.46,
+   "end": 482.46,
+   "text": "Because like me, when I look at it, and I understand all the building colors, me, I can, it'll burden me in and I'm like, okay."
+  },
+  {
+   "start": 482.46,
+   "end": 486.46,
+   "text": "And then you can understand, you know, more things."
+  },
+  {
+   "start": 486.46,
+   "end": 489.46,
+   "text": "And that you can start learning things and it's usually a video enough."
+  },
+  {
+   "start": 489.46,
+   "end": 499.32,
+   "text": "But, um, yes, you know, but the problem with that is that that's a whole bunch more tracing."
+  },
+  {
+   "start": 499.32,
+   "end": 503.32,
+   "text": "So when I said before, I'll be done by the end of April."
+  },
+  {
+   "start": 503.32,
+   "end": 506.32,
+   "text": "I thought I was overshooting, and it was just to be safe."
+  },
+  {
+   "start": 506.32,
+   "end": 508.32,
+   "text": "But now I'm gonna do it like this."
+  },
+  {
+   "start": 508.32,
+   "end": 515.32,
+   "text": "I mean, I have been telling on a calculator, but that's a lot of the individual apartments I have to do."
+  },
+  {
+   "start": 515.32,
+   "end": 520.32,
+   "text": "Just the apartments, not like the only other buildings, but just the apartments, that's like about 3750,"
+  },
+  {
+   "start": 520.32,
+   "end": 524.32,
+   "text": "3750 times 14 more of us."
+  },
+  {
+   "start": 525.32,
+   "end": 529.32,
+   "text": "But um, the things you can see each and every one of those, you know, from way,"
+  },
+  {
+   "start": 529.32,
+   "end": 537.72,
+   "text": "although you're looking at the whole city, so it's a great way to just visualize all the people there."
+  },
+  {
+   "start": 537.72,
+   "end": 542.72,
+   "text": "And what they were doing is a little thing you create that, so that's a lot of, okay."
+  },
+  {
+   "start": 542.72,
+   "end": 545.72,
+   "text": "So I'm gonna get to sleep right now."
+  },
+  {
+   "start": 545.72,
+   "end": 547.72,
+   "text": "Peace out."
+  }
+ ]
+}

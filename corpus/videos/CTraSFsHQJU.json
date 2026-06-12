@@ -1,0 +1,451 @@
+{
+ "youtube_id": "CTraSFsHQJU",
+ "title": "Living in Boulder Vlog 2-24-2016",
+ "url": "https://youtu.be/CTraSFsHQJU",
+ "published_at": "2016-02-24",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder while feeling depressed, covering frustrations with a faulty 128GB microSD card he's trying to use for audiobooks, a neuropsychological evaluation he took that day (testing for Asperger's at his mom's request), movies watched with his roommate (Everest and Agent 47), and a response to an article about the effects of daily cannabis use on short-term memory — noting he's been a daily user since around 2013-2014 and will serve as his own long-term test case. He also briefly shows progress on a Google Earth mapping project.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "microSD card troubleshooting",
+   "audiobooks",
+   "Asperger's psychological evaluation",
+   "movies",
+   "cannabis use",
+   "memory research",
+   "Google Earth mapping project",
+   "Boulder Colorado"
+  ],
+  "stances": [
+   {
+    "topic": "daily cannabis use and memory",
+    "position": "Accepts that short-term memory for names may decline slightly but notes test subjects were likely still under the influence, and volunteers himself as a long-term public test case"
+   },
+   {
+    "topic": "climbing Everest",
+    "position": "Wants to do it someday but is deterred by the sheer cliff sections near the Hillary Step"
+   },
+   {
+    "topic": "128GB vs 64GB storage for audiobooks",
+    "position": "128GB is significantly more useful because it can hold nearly all audiobooks he wants"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Samsung",
+   "Google Earth",
+   "Everest (film)",
+   "The Game (film)",
+   "Agent 47 (film)",
+   "Hillary Step",
+   "Longs Peak",
+   "Asperger's syndrome"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 12.2,
+   "text": "All right, hello. I'm living in Boulder. Oh, whoops, sorry. Boulder V-Log. I'm a little bit depressed today, so I don't really feel like doing a V-Log, but I'm going to do it because I do it every day."
+  },
+  {
+   "start": 12.2,
+   "end": 40.08,
+   "text": "What happened was I psyched myself out. Sorry, I'm going to look up here. I psyched myself out. I thought that I was going to have the audiobooks on my cell phone, but what happened was it would see the files, and then it wouldn't see the files."
+  },
+  {
+   "start": 40.08,
+   "end": 56.26,
+   "text": "And so I got another card, and then with the new card, before even putting it on the phone, I put it all on the card, and then I put it in the phone, and it never saw them."
+  },
+  {
+   "start": 56.26,
+   "end": 74.3,
+   "text": "So what we did was we deleted them off from the computer, off the card from the computer, and then put it back in, but then I did it from the phone, and put it in the computer, and it wouldn't even read from the computer."
+  },
+  {
+   "start": 74.3,
+   "end": 81.0,
+   "text": "So I took it back to the store and got a refund, took it back, and then I ordered one from another company, Samsung."
+  },
+  {
+   "start": 81.32,
+   "end": 87.58,
+   "text": "And it's a lot cheaper if you get it online. I didn't realize how much cheaper. It was like $150 from the store, and it was like $60 online."
+  },
+  {
+   "start": 87.58,
+   "end": 97.98,
+   "text": "So if the Samsung doesn't work, I'm going to buy all the different brands that they recommend, and just hope that one of these cards works."
+  },
+  {
+   "start": 97.98,
+   "end": 124.3,
+   "text": "And because I don't want to have to go down to the 64 gigabyte, because in the world of audiobooks, there's a huge difference between 64 and 128, because with 128, you can pretty much get, you know, almost the whole thing."
+  },
+  {
+   "start": 124.3,
+   "end": 143.92,
+   "text": "So, yeah, so I'll just wait until the third. I went into the place today to get my neuropsychological exam. My mom wanted me to take it for Asperger's, if I have Asperger's."
+  },
+  {
+   "start": 144.46,
+   "end": 153.6,
+   "text": "So they gave me the Asperger test. Like, they give you facial expressions, and you have to identify which ones, and then you have the tones, and you have to identify if they're being sarcastic or not."
+  },
+  {
+   "start": 153.6,
+   "end": 165.84,
+   "text": "And then memory tests. You have to do 1A, 2B, 3C, 4D on the line, and I screwed that one up after 9."
+  },
+  {
+   "start": 171.14,
+   "end": 180.24,
+   "text": "Yeah, and I also screwed up the one where they say the words, and you have to remember them. I think I got to like 6, but I think I did pretty good with the numbers."
+  },
+  {
+   "start": 180.24,
+   "end": 188.26,
+   "text": "Yeah, and I did really good with the photographic memory drawing. I'm going to play more of that game."
+  },
+  {
+   "start": 188.56,
+   "end": 192.7,
+   "text": "And then I'd answer like a whole bunch of questions and have an interview, so."
+  },
+  {
+   "start": 193.56,
+   "end": 197.1,
+   "text": "We'll see what I get. We'll see what I score on the test."
+  },
+  {
+   "start": 197.1,
+   "end": 208.86,
+   "text": "So I've been working here on my Google Earth. I didn't manage, I pretty much didn't do anything yesterday on it because, oh, and I'll show what I did."
+  },
+  {
+   "start": 209.2,
+   "end": 212.18,
+   "text": "I can show my daily progress. So cool."
+  },
+  {
+   "start": 212.18,
+   "end": 221.08,
+   "text": "Yeah, I pretty much didn't do anything yesterday because I was fucking around with my phone, you know, dragging and driving, trying to get it fixed."
+  },
+  {
+   "start": 221.08,
+   "end": 234.02,
+   "text": "Oh, but I rented a couple movies with my roommate. We saw Everest, and then they gave me a fidget sent discount, so I got Agent 47. That was pretty good."
+  },
+  {
+   "start": 234.02,
+   "end": 243.31,
+   "text": "I want to climb Mount Everest one day, like in the future when I'm old. That would be fun. I didn't know it was as hardcore, though."
+  },
+  {
+   "start": 244.45,
+   "end": 252.09,
+   "text": "I mean, you have to go across like right on the edge of a sheer cliff before the Hillary step, before climbing up."
+  },
+  {
+   "start": 252.33,
+   "end": 254.75,
+   "text": "That's, actually, I don't know if I want to do that."
+  },
+  {
+   "start": 254.75,
+   "end": 263.73,
+   "text": "Yeah, so, but it was funny at the beginning of the movie. They're like, yeah, that guy, that guy, Doug, he's a badass. He climbed Long's Peak."
+  },
+  {
+   "start": 266.37,
+   "end": 267.39,
+   "text": "Krakauer said that."
+  },
+  {
+   "start": 268.57,
+   "end": 273.59,
+   "text": "So, and Long's Peak is the mountain right outside of Boulder, 14er."
+  },
+  {
+   "start": 274.73,
+   "end": 276.05,
+   "text": "So I was tickled by that."
+  },
+  {
+   "start": 276.05,
+   "end": 284.93,
+   "text": "So, okay, yeah, so somebody wanted me, somebody wanted me to read this article about, um, oh, there's a video?"
+  },
+  {
+   "start": 285.57,
+   "end": 286.53,
+   "text": "Oh, no, that's just the law."
+  },
+  {
+   "start": 287.07,
+   "end": 298.59,
+   "text": "About what happens when you get stoned every single day for five years, and they did a test, and I guess they came up with the, the, uh, discovery that your short-term memory, like, your ability to remember names kind of goes down a little bit."
+  },
+  {
+   "start": 298.59,
+   "end": 309.37,
+   "text": "So that makes sense, you know, because, like, when you give people the test, you know, like, you give it to them when they're sober, but it was probably, like, just a few hours since the last time they got eyes, so it's still in their system, you know?"
+  },
+  {
+   "start": 310.03,
+   "end": 312.63,
+   "text": "It takes a few days for the weed to get out of here, you know?"
+  },
+  {
+   "start": 312.75,
+   "end": 315.61,
+   "text": "I don't know how, how sober these stoners were."
+  },
+  {
+   "start": 316.55,
+   "end": 320.97,
+   "text": "But, um, anyway, so that's my response to that one."
+  },
+  {
+   "start": 321.69,
+   "end": 323.49,
+   "text": "You know, I'm the perfect litmus test."
+  },
+  {
+   "start": 323.67,
+   "end": 324.63,
+   "text": "I'm doing it publicly."
+  },
+  {
+   "start": 325.17,
+   "end": 326.41,
+   "text": "I'll probably do it for five years."
+  },
+  {
+   "start": 326.41,
+   "end": 329.29,
+   "text": "I'm going to come up with my five-year plan, actually, I think, pretty soon."
+  },
+  {
+   "start": 329.37,
+   "end": 330.79,
+   "text": "My five-year plan for success."
+  },
+  {
+   "start": 331.87,
+   "end": 333.27,
+   "text": "Yeah, I think I'm going to do it maybe even today."
+  },
+  {
+   "start": 334.41,
+   "end": 336.85,
+   "text": "Um, but only, you know, but I'm high the whole time."
+  },
+  {
+   "start": 336.93,
+   "end": 351.07,
+   "text": "I've been high all day, every day, at least since, like, the beginning of, well, since I could when they started the first store here, beginning of, like, 2014, but, you know, I was pretty much smoking, you know, most of the time, I guess, since 2013, so."
+  },
+  {
+   "start": 351.85,
+   "end": 353.85,
+   "text": "Definitely since the start of the stoned stores."
+  },
+  {
+   "start": 354.11,
+   "end": 354.85,
+   "text": "Let's say 420."
+  },
+  {
+   "start": 355.75,
+   "end": 356.07,
+   "text": "2014."
+  },
+  {
+   "start": 356.41,
+   "end": 359.95,
+   "text": "So, yeah, every single day I have an eye out of my ass."
+  },
+  {
+   "start": 360.15,
+   "end": 366.61,
+   "text": "So, um, I'll, I'll, I'll, I'll, uh, I'll, like, keep you guys updated on how I feel being stoned all the time."
+  },
+  {
+   "start": 367.79,
+   "end": 370.59,
+   "text": "So, I think that's it for my vlog for the day."
+  },
+  {
+   "start": 370.65,
+   "end": 371.95,
+   "text": "I'm going to get back on my map."
+  },
+  {
+   "start": 372.07,
+   "end": 374.03,
+   "text": "Oh, no, no, I'm going to show my progress."
+  },
+  {
+   "start": 375.15,
+   "end": 376.61,
+   "text": "And then that'll be the video."
+  },
+  {
+   "start": 376.95,
+   "end": 382.28,
+   "text": "And, um, yeah, let's see how far I can get ahead today."
+  },
+  {
+   "start": 383.28,
+   "end": 384.16,
+   "text": "Peace out."
+  },
+  {
+   "start": 384.16,
+   "end": 386.36,
+   "text": "So, so this is what I'm doing now."
+  },
+  {
+   "start": 386.96,
+   "end": 390.64,
+   "text": "Try to do all this and then zoom out and do all this area."
+  },
+  {
+   "start": 391.76,
+   "end": 394.74,
+   "text": "Uh, today, maybe all this part here."
+  },
+  {
+   "start": 394.74,
+   "end": 395.62,
+   "text": "Okay."
+  },
+  {
+   "start": 395.62,
+   "end": 395.7,
+   "text": "Okay."
+  },
+  {
+   "start": 395.7,
+   "end": 395.74,
+   "text": "Okay."
+  },
+  {
+   "start": 395.74,
+   "end": 395.76,
+   "text": "Okay."
+  },
+  {
+   "start": 395.76,
+   "end": 395.78,
+   "text": "Okay."
+  },
+  {
+   "start": 395.78,
+   "end": 395.8,
+   "text": "Okay."
+  },
+  {
+   "start": 395.8,
+   "end": 395.86,
+   "text": "Okay."
+  },
+  {
+   "start": 395.86,
+   "end": 396.2,
+   "text": "Okay."
+  },
+  {
+   "start": 396.2,
+   "end": 396.24,
+   "text": "Okay."
+  },
+  {
+   "start": 396.24,
+   "end": 396.28,
+   "text": "Okay."
+  },
+  {
+   "start": 396.28,
+   "end": 396.74,
+   "text": "Okay."
+  },
+  {
+   "start": 396.74,
+   "end": 396.78,
+   "text": "Okay."
+  },
+  {
+   "start": 396.78,
+   "end": 397.32,
+   "text": "Okay."
+  },
+  {
+   "start": 397.32,
+   "end": 397.34,
+   "text": "Okay."
+  },
+  {
+   "start": 397.34,
+   "end": 397.36,
+   "text": "Okay."
+  },
+  {
+   "start": 397.36,
+   "end": 397.42,
+   "text": "Okay."
+  },
+  {
+   "start": 397.42,
+   "end": 397.78,
+   "text": "Okay."
+  },
+  {
+   "start": 397.78,
+   "end": 397.8,
+   "text": "Okay."
+  },
+  {
+   "start": 397.8,
+   "end": 398.3,
+   "text": "Okay."
+  },
+  {
+   "start": 398.3,
+   "end": 398.52,
+   "text": "Okay."
+  },
+  {
+   "start": 398.52,
+   "end": 398.84,
+   "text": "Okay."
+  },
+  {
+   "start": 398.84,
+   "end": 399.36,
+   "text": "Okay."
+  },
+  {
+   "start": 399.36,
+   "end": 399.42,
+   "text": "Okay."
+  },
+  {
+   "start": 399.42,
+   "end": 399.7,
+   "text": "Okay."
+  },
+  {
+   "start": 399.7,
+   "end": 400.3,
+   "text": "Okay."
+  }
+ ]
+}

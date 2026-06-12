@@ -1,0 +1,65 @@
+{
+ "youtube_id": "72p5C1vz2Go",
+ "title": "Living in Boulder Vlog 2-18-2016",
+ "url": "https://youtu.be/72p5C1vz2Go",
+ "published_at": "2016-02-19",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a brief daily vlog update from Boulder on February 18, 2016. He recaps his day: staying up late editing videos, dealing with computer problems, and setting up a 225GB micro SD card on his phone to organize audiobooks. He also mentions feeling slightly ill from antibiotics and having stitches removed the next day.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "video editing",
+   "technology/phone setup",
+   "health/recovery",
+   "audiobooks"
+  ],
+  "stances": [
+   {
+    "topic": "audiobooks on phone",
+    "position": "excited about organizing a large audiobook collection on his phone — calls it 'awesome'"
+   },
+   {
+    "topic": "productivity",
+    "position": "views the day as active and productive despite feeling sick"
+   }
+  ],
+  "entities": [
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.14,
+   "end": 22.9,
+   "text": "Hello, living in Boulder V-LOG for February 18th 2016. Wow, it's already the 18th. So it's 6.50 p.m. and I got up at like, what time did I get? It's like 11, kind of late because I was up until 3 this morning working with the new videos, Redzinger videos."
+  },
+  {
+   "start": 22.9,
+   "end": 44.46,
+   "text": "And before that I was working on the Google Earth in Boulder. And yeah, so today I worked on fixing up those videos. And mainly that. And then I was having computer problems. So I was on tech support for a little bit. Did some things."
+  },
+  {
+   "start": 44.46,
+   "end": 67.7,
+   "text": "And then I figured out, I had to go down to the store and figure out how to transfer stuff to my phone. I got a little mini card that has 125 gigabytes that I can put on my phone. And so right now I'm transferring all these audio books, like the best audio books to it. I'm going to organize them on there. It's going to be awesome. Like 120 gigabytes worth."
+  },
+  {
+   "start": 67.7,
+   "end": 87.7,
+   "text": "So that's what I've been doing all day. I work tomorrow. And still feel a little bit sick from the antibiotics. And, oh, but I have my stitches taken out tomorrow, even though, I guess they said 10 days, but it's been like, yeah."
+  },
+  {
+   "start": 87.7,
+   "end": 113.04,
+   "text": "I guess it will have been 12 or eight, um, nine. So, um, that's about it. I'm just, I feel like I'm doing all this new stuff's happening. Those, finding those videos, uploading. Oh, and then I'm doing screen captures of all the little, all the people upload photos, you know, and then the, like the Google Earth thing that I was so hooked on."
+  },
+  {
+   "start": 113.04,
+   "end": 129.26,
+   "text": "And now I'm transferring stuff to my phone. So, you know, it's a pretty active day today. I haven't been listening to anything. I've just been like, whoa, like that. Okay. So I did my vlog for the day. I don't know if I'll do my news though. Okay. Peace out."
+  }
+ ]
+}

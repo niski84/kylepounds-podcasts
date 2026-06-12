@@ -1,0 +1,622 @@
+{
+ "youtube_id": "TPhK0aYmMoI",
+ "title": "Living in Boulder vlog 3 - 18 - 2017: Bike Racer Levels. Downhill.",
+ "url": "https://youtu.be/TPhK0aYmMoI",
+ "published_at": "2018-03-18",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about working on his 'bike race levels' website project, which categorizes race results by time and distance. He discusses the tedious process of organizing race data (including Race Across America results), debates how to sort team vs individual categories, and mentions building a downhill level page where he ranks 8th. He's tired from staying up all night coding.",
+  "speaker": "kyle",
+  "topics": [
+   "bike race levels website",
+   "data organization",
+   "Race Across America",
+   "downhill racing",
+   "web development",
+   "Boulder vlog"
+  ],
+  "stances": [
+   {
+    "topic": "organizing team vs individual race data",
+    "position": "ultimately decided to keep all teams together rather than split by team size, because that was more consistent"
+   },
+   {
+    "topic": "the bike race levels project",
+    "position": "sees it as big, complex, and good preparation for future ambitious data projects"
+   },
+   {
+    "topic": "future project ideas",
+    "position": "wants to eventually build an elaborate economic map/chart of the American economy using similar methods"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Race Across America",
+   "Magnolia (road used as downhill reference)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.85,
+   "end": 3.97,
+   "text": "Hello living in Boulder, feed log."
+  },
+  {
+   "start": 3.97,
+   "end": 11.29,
+   "text": "It's 5.51 and 18th March really did go by fast."
+  },
+  {
+   "start": 11.29,
+   "end": 16.81,
+   "text": "My hair is getting longer and my mom's probably going to make me get her a good person."
+  },
+  {
+   "start": 16.81,
+   "end": 25.41,
+   "text": "I think it was only just a couple of days since last time I did a vlog."
+  },
+  {
+   "start": 25.41,
+   "end": 30.41,
+   "text": "I just feel like doing them now."
+  },
+  {
+   "start": 30.41,
+   "end": 36.81,
+   "text": "Yeah, even though I don't really, I'm still working on the same thing."
+  },
+  {
+   "start": 36.81,
+   "end": 46.29,
+   "text": "So yeah, bike race level, I mean, bike race levels, which is connects time and space."
+  },
+  {
+   "start": 46.29,
+   "end": 54.53,
+   "text": "I have time, matte general excitement, space and still the bike race are stuff."
+  },
+  {
+   "start": 54.53,
+   "end": 59.53,
+   "text": "Yeah, see how much time it takes you to get across the space."
+  },
+  {
+   "start": 59.53,
+   "end": 68.35,
+   "text": "So yeah, that like, this thing is big, it's crazy."
+  },
+  {
+   "start": 68.35,
+   "end": 72.35,
+   "text": "Like, I have all these different distance categories."
+  },
+  {
+   "start": 72.35,
+   "end": 78.35,
+   "text": "And I have Grace across America results for my week category."
+  },
+  {
+   "start": 78.35,
+   "end": 81.35,
+   "text": "Because it takes a user like a week."
+  },
+  {
+   "start": 84.69,
+   "end": 89.69,
+   "text": "Like, I remember building this page, because I already collected all the results."
+  },
+  {
+   "start": 89.69,
+   "end": 91.69,
+   "text": "And I just have to organize it."
+  },
+  {
+   "start": 91.69,
+   "end": 96.69,
+   "text": "And yeah, but I don't remember when it was, I don't remember how much time it took me."
+  },
+  {
+   "start": 96.69,
+   "end": 99.69,
+   "text": "But I do remember doing it."
+  },
+  {
+   "start": 99.69,
+   "end": 106.69,
+   "text": "And I think I did it all the whole bike race levels stuff at the same time."
+  },
+  {
+   "start": 106.69,
+   "end": 108.69,
+   "text": "That was at the very end."
+  },
+  {
+   "start": 108.69,
+   "end": 113.69,
+   "text": "Yeah, but like, but then I'm looking at it and I kind of barely remember building it."
+  },
+  {
+   "start": 113.69,
+   "end": 116.69,
+   "text": "Because I don't remember this much."
+  },
+  {
+   "start": 116.69,
+   "end": 122.09,
+   "text": "Yeah, and like I collected a whole bunch of them."
+  },
+  {
+   "start": 122.09,
+   "end": 125.09,
+   "text": "And I even numbered them because I thought I got all of them in my sauce and other pages."
+  },
+  {
+   "start": 125.09,
+   "end": 127.09,
+   "text": "And I was like, what's that? It was more."
+  },
+  {
+   "start": 127.09,
+   "end": 130.09,
+   "text": "And it's a whole bunch of thought and how many of that will be."
+  },
+  {
+   "start": 130.09,
+   "end": 134.09,
+   "text": "But you know, there'll be a lot of I haven't divided into two single and then team."
+  },
+  {
+   "start": 134.09,
+   "end": 140.09,
+   "text": "And I even wanted to divide it into each different category like how many people."
+  },
+  {
+   "start": 140.09,
+   "end": 142.09,
+   "text": "Teams."
+  },
+  {
+   "start": 142.09,
+   "end": 148.09,
+   "text": "And yeah, so I actually, because of the before I had it where it was all together."
+  },
+  {
+   "start": 148.09,
+   "end": 152.09,
+   "text": "And so I was going to take them out so I was taking out the four man teams."
+  },
+  {
+   "start": 152.09,
+   "end": 154.09,
+   "text": "And I got like 20 down."
+  },
+  {
+   "start": 154.09,
+   "end": 156.09,
+   "text": "And then I thought, oh wait, I don't want to do this."
+  },
+  {
+   "start": 156.09,
+   "end": 157.09,
+   "text": "I don't want to do this."
+  },
+  {
+   "start": 157.09,
+   "end": 158.09,
+   "text": "I don't want to do this."
+  },
+  {
+   "start": 158.09,
+   "end": 160.09,
+   "text": "So I took them back and I put them back."
+  },
+  {
+   "start": 160.09,
+   "end": 163.09,
+   "text": "And then I was like, wait, no, no, no, no, no, no."
+  },
+  {
+   "start": 163.09,
+   "end": 164.09,
+   "text": "I don't want to that way."
+  },
+  {
+   "start": 164.09,
+   "end": 166.09,
+   "text": "So I took them out and I started making them there."
+  },
+  {
+   "start": 166.09,
+   "end": 168.09,
+   "text": "And then I changed my mind again."
+  },
+  {
+   "start": 168.09,
+   "end": 170.09,
+   "text": "So I had never been that decisive."
+  },
+  {
+   "start": 170.09,
+   "end": 173.09,
+   "text": "But at the end I decided to all put them together."
+  },
+  {
+   "start": 173.09,
+   "end": 175.09,
+   "text": "Because I have to decide one."
+  },
+  {
+   "start": 175.09,
+   "end": 178.09,
+   "text": "I can't have like, I don't have the technology."
+  },
+  {
+   "start": 178.09,
+   "end": 180.09,
+   "text": "So you just click it."
+  },
+  {
+   "start": 180.09,
+   "end": 181.09,
+   "text": "And they're all together."
+  },
+  {
+   "start": 181.09,
+   "end": 183.09,
+   "text": "And then you click it and then it's individual."
+  },
+  {
+   "start": 183.09,
+   "end": 185.09,
+   "text": "I can only choose one."
+  },
+  {
+   "start": 185.09,
+   "end": 192.09,
+   "text": "So I couldn't figure out in my head because I was too high or some."
+  },
+  {
+   "start": 192.09,
+   "end": 195.09,
+   "text": "Which one was more consistent with my left side."
+  },
+  {
+   "start": 195.09,
+   "end": 199.09,
+   "text": "And then in the end I realized it was the one where you throw them all together."
+  },
+  {
+   "start": 199.09,
+   "end": 204.3,
+   "text": "Yeah, because they mix up."
+  },
+  {
+   "start": 204.3,
+   "end": 206.3,
+   "text": "You know, it's complicated."
+  },
+  {
+   "start": 206.3,
+   "end": 208.3,
+   "text": "I don't even want to try explaining."
+  },
+  {
+   "start": 208.3,
+   "end": 209.3,
+   "text": "A logic."
+  },
+  {
+   "start": 209.3,
+   "end": 213.3,
+   "text": "But yeah, I do have the individual separated from all the teens."
+  },
+  {
+   "start": 213.3,
+   "end": 217.3,
+   "text": "But yeah, if you want to figure out, I mean, this gets really abstract."
+  },
+  {
+   "start": 217.3,
+   "end": 221.3,
+   "text": "But yeah, I'm going to do like a mathematical equation to figure out."
+  },
+  {
+   "start": 221.3,
+   "end": 223.3,
+   "text": "But level you are."
+  },
+  {
+   "start": 224.3,
+   "end": 228.3,
+   "text": "For how many people are on the team for how fast you are generally."
+  },
+  {
+   "start": 228.3,
+   "end": 230.3,
+   "text": "This is for fun."
+  },
+  {
+   "start": 230.3,
+   "end": 235.3,
+   "text": "Because I'm going to do that like all kinds of like everything I can figure out."
+  },
+  {
+   "start": 235.3,
+   "end": 242.3,
+   "text": "Yeah, there are a lot of different pages on the website about the bicerical stuff that I don't have on the website that I was building like."
+  },
+  {
+   "start": 242.3,
+   "end": 245.3,
+   "text": "Mass and charts and stuff."
+  },
+  {
+   "start": 245.3,
+   "end": 247.3,
+   "text": "Yeah, it's interesting."
+  },
+  {
+   "start": 248.3,
+   "end": 253.3,
+   "text": "I want it to be fun to one day to page like that for a world economy."
+  },
+  {
+   "start": 253.3,
+   "end": 257.3,
+   "text": "You make a really elaborate map of or not the world economy."
+  },
+  {
+   "start": 257.3,
+   "end": 260.3,
+   "text": "Well, you have a world economy that mainly American economy."
+  },
+  {
+   "start": 260.3,
+   "end": 264.77,
+   "text": "And yeah, you can map it all out."
+  },
+  {
+   "start": 264.77,
+   "end": 270.77,
+   "text": "And then you like, you know, make it chart of what you want to do that I really cool."
+  },
+  {
+   "start": 270.77,
+   "end": 277.77,
+   "text": "I'd be something that I could do because after I'm done with this, this is a big good preparation because I'd be used to working on something for years."
+  },
+  {
+   "start": 277.77,
+   "end": 282.77,
+   "text": "But just into like making lists and then learning that way."
+  },
+  {
+   "start": 282.77,
+   "end": 285.77,
+   "text": "But that wouldn't be for a long time."
+  },
+  {
+   "start": 285.77,
+   "end": 289.77,
+   "text": "Yes, I'm pretty tired."
+  },
+  {
+   "start": 289.77,
+   "end": 295.77,
+   "text": "I think I've got to sleep pretty soon because I was pretty much a tired and all I think."
+  },
+  {
+   "start": 295.77,
+   "end": 298.77,
+   "text": "And then I just stayed up all day and all night."
+  },
+  {
+   "start": 298.77,
+   "end": 303.77,
+   "text": "Yeah, so the thing was still having to put up process."
+  },
+  {
+   "start": 303.77,
+   "end": 306.77,
+   "text": "Oh, so what I did was I built it today."
+  },
+  {
+   "start": 306.77,
+   "end": 309.77,
+   "text": "I built it the downhill level."
+  },
+  {
+   "start": 309.77,
+   "end": 311.77,
+   "text": "And I'm eight place on that."
+  },
+  {
+   "start": 311.77,
+   "end": 314.77,
+   "text": "So that's cool even though I came to a complete stuff."
+  },
+  {
+   "start": 314.77,
+   "end": 316.77,
+   "text": "I used it as a driver."
+  },
+  {
+   "start": 316.77,
+   "end": 319.77,
+   "text": "Of a magnolia."
+  },
+  {
+   "start": 319.77,
+   "end": 328.77,
+   "text": "It's the only driver thing that I have that illustrates the level."
+  },
+  {
+   "start": 329.77,
+   "end": 337.67,
+   "text": "So, and what did I do?"
+  },
+  {
+   "start": 337.67,
+   "end": 342.67,
+   "text": "Oh, yeah, then I noticed about all those other things I thought I was done with the race cross-American,"
+  },
+  {
+   "start": 342.67,
+   "end": 344.67,
+   "text": "and I noticed there's all these other people."
+  },
+  {
+   "start": 344.67,
+   "end": 348.67,
+   "text": "So I was trying to do it in the realized it's so huge, crazy."
+  },
+  {
+   "start": 348.67,
+   "end": 350.67,
+   "text": "So it's like a whole other day or something."
+  },
+  {
+   "start": 350.67,
+   "end": 352.67,
+   "text": "So it's going to be a good amount of time."
+  },
+  {
+   "start": 352.67,
+   "end": 354.67,
+   "text": "I thought I was listening to a decades."
+  },
+  {
+   "start": 354.67,
+   "end": 356.67,
+   "text": "I went through all the decades."
+  },
+  {
+   "start": 356.67,
+   "end": 360.67,
+   "text": "And I even went to like, because I, from Haiti,"
+  },
+  {
+   "start": 360.67,
+   "end": 367.67,
+   "text": "and then I did 2000s and the teens, which were both a huge way bigger than the 90s."
+  },
+  {
+   "start": 367.67,
+   "end": 369.67,
+   "text": "Like it changed."
+  },
+  {
+   "start": 369.67,
+   "end": 372.67,
+   "text": "And then I made it up to the include everything."
+  },
+  {
+   "start": 372.67,
+   "end": 375.67,
+   "text": "Oh, it was like two hours each."
+  },
+  {
+   "start": 375.67,
+   "end": 380.05,
+   "text": "And yeah."
+  },
+  {
+   "start": 381.05,
+   "end": 389.05,
+   "text": "And so then I started doing B.C."
+  },
+  {
+   "start": 389.05,
+   "end": 391.05,
+   "text": "from the decades."
+  },
+  {
+   "start": 391.05,
+   "end": 393.05,
+   "text": "It started with like, 2,700s."
+  },
+  {
+   "start": 393.05,
+   "end": 401.05,
+   "text": "And then I'm down to the 250s and they get a lot bigger after you get to the 270s or something."
+  },
+  {
+   "start": 401.05,
+   "end": 402.05,
+   "text": "So just think of it."
+  },
+  {
+   "start": 402.05,
+   "end": 403.05,
+   "text": "They have it organized."
+  },
+  {
+   "start": 403.05,
+   "end": 406.05,
+   "text": "I don't know if we could be like, not complete."
+  },
+  {
+   "start": 406.05,
+   "end": 407.05,
+   "text": "It's not finished."
+  },
+  {
+   "start": 407.05,
+   "end": 410.05,
+   "text": "It's like it's being built by one person who's kind of like my website."
+  },
+  {
+   "start": 410.05,
+   "end": 413.05,
+   "text": "It reminds me of my website."
+  },
+  {
+   "start": 413.05,
+   "end": 418.05,
+   "text": "Yeah, all these pages, but they're not filled in yet for the years and the decades."
+  },
+  {
+   "start": 418.05,
+   "end": 421.05,
+   "text": "As you can further into the back."
+  },
+  {
+   "start": 421.05,
+   "end": 427.33,
+   "text": "But yeah, I'm still recording them all as a point."
+  },
+  {
+   "start": 427.33,
+   "end": 430.33,
+   "text": "Nigger for my little test."
+  },
+  {
+   "start": 430.33,
+   "end": 442.29,
+   "text": "And yeah, so I totally have drawing black right now."
+  },
+  {
+   "start": 442.29,
+   "end": 445.29,
+   "text": "And I don't know anything what to say."
+  },
+  {
+   "start": 445.29,
+   "end": 450.29,
+   "text": "So I guess I'll just, next is I probably have been talking for a long time."
+  },
+  {
+   "start": 450.29,
+   "end": 452.29,
+   "text": "Oh yeah, that's long enough, so I'm doing it."
+  },
+  {
+   "start": 452.29,
+   "end": 455.29,
+   "text": "Okay, talk to you tomorrow."
+  }
+ ]
+}

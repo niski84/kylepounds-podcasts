@@ -1,0 +1,518 @@
+{
+ "youtube_id": "ziBK3ztAb1A",
+ "title": "Living in Boulder vlog 3 - 24 - 2017: 20 kilometer diameters",
+ "url": "https://youtu.be/ziBK3ztAb1A",
+ "published_at": "2017-03-25",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about a stressful visit to his mother who scolded him about not making money and pressed him to start earning; he commits to starting bike riding by April 15th as a way to monetize his content. He also gives a progress update on his website project involving geographic circle/bubble area dimensions and a Rome timeline, and mentions listening to 'Wealth of Nations' and 'Dark Money'.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "family pressure",
+   "money and finances",
+   "bike riding plans",
+   "website project progress",
+   "book listening",
+   "Google Earth work"
+  ],
+  "stances": [
+   {
+    "topic": "making money",
+    "position": "feels pressured by his mom but agrees to commit to a plan by April 15th rather than act immediately"
+   },
+   {
+    "topic": "bike riding as income",
+    "position": "got genuinely excited about it as a plan once pushed, sees it as tied to Patreon and other monetization"
+   },
+   {
+    "topic": "fallback employment",
+    "position": "would try Walmart as a last resort and make a public issue of being denied for being a stoner"
+   },
+   {
+    "topic": "20K circle backgrounds in videos",
+    "position": "gets complaints but doesn't care and uses them anyway because it reflects his current work"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Adam Smith",
+   "Wealth of Nations",
+   "Dark Money",
+   "Nancy MacLean",
+   "Google Earth",
+   "Patreon",
+   "Walmart",
+   "Rome Railroad"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.01,
+   "end": 7.01,
+   "text": "Hello, living in Boulder, VLOG, for March 24th, 2017."
+  },
+  {
+   "start": 8.33,
+   "end": 11.29,
+   "text": "So, today I got up really late."
+  },
+  {
+   "start": 11.37,
+   "end": 13.75,
+   "text": "Today, even though I was up working until like 2."
+  },
+  {
+   "start": 14.25,
+   "end": 15.99,
+   "text": "So I got like 10 hours of sleep."
+  },
+  {
+   "start": 16.57,
+   "end": 17.55,
+   "text": "So something's wrong."
+  },
+  {
+   "start": 20.13,
+   "end": 24.11,
+   "text": "Then I got up and my mom wanted me to go over and help her at her house."
+  },
+  {
+   "start": 24.61,
+   "end": 31.57,
+   "text": "Before I had time, I'm upset, so I went over there and helped her at her house."
+  },
+  {
+   "start": 31.57,
+   "end": 33.07,
+   "text": "But I think she mainly just wanted to talk to me."
+  },
+  {
+   "start": 33.15,
+   "end": 36.25,
+   "text": "She was like yelling at me, said I'm not making money, that I need to make money right away."
+  },
+  {
+   "start": 36.31,
+   "end": 38.91,
+   "text": "So I was like, because she was going to give me $4,000 today."
+  },
+  {
+   "start": 39.71,
+   "end": 44.09,
+   "text": "Because I got $11,600 out of her this winter, borrowing money, until I saw my car."
+  },
+  {
+   "start": 47.75,
+   "end": 51.01,
+   "text": "And so she's yelling at me."
+  },
+  {
+   "start": 51.21,
+   "end": 54.35,
+   "text": "And I'm like, and so I felt bad, because I'm like, don't get a heart attack."
+  },
+  {
+   "start": 54.47,
+   "end": 56.03,
+   "text": "You know, you're old lady, 35 years old."
+  },
+  {
+   "start": 57.23,
+   "end": 60.61,
+   "text": "So I was like, I was like, no, I'll be done at the end of the year."
+  },
+  {
+   "start": 60.61,
+   "end": 62.39,
+   "text": "And she's like, no, no, I'm going to make money now."
+  },
+  {
+   "start": 62.45,
+   "end": 64.99,
+   "text": "So I was like, okay, fine, I'll do the biking."
+  },
+  {
+   "start": 65.77,
+   "end": 69.49,
+   "text": "And then I actually got excited about it, because I feel really bad physically."
+  },
+  {
+   "start": 69.73,
+   "end": 72.57,
+   "text": "I was actually feeling horrible earlier tonight."
+  },
+  {
+   "start": 73.37,
+   "end": 75.95,
+   "text": "And so I was thinking, oh, I need to do it tomorrow."
+  },
+  {
+   "start": 75.95,
+   "end": 78.51,
+   "text": "So I don't think I'll do it tomorrow."
+  },
+  {
+   "start": 78.61,
+   "end": 81.47,
+   "text": "But I told my mom, April 15th."
+  },
+  {
+   "start": 81.71,
+   "end": 85.93,
+   "text": "So, yeah, I'll start riding my bike April 15th."
+  },
+  {
+   "start": 86.19,
+   "end": 89.41,
+   "text": "So today's the 25th."
+  },
+  {
+   "start": 89.61,
+   "end": 91.59,
+   "text": "So I guess that gives me like three weeks."
+  },
+  {
+   "start": 91.59,
+   "end": 96.95,
+   "text": "So, but I can do a lot in three weeks."
+  },
+  {
+   "start": 97.67,
+   "end": 108.38,
+   "text": "What I have to do is I'm working on my, I lost my train of thought."
+  },
+  {
+   "start": 108.94,
+   "end": 113.12,
+   "text": "I'm working on my bubbles, my 25 area dimensions page now."
+  },
+  {
+   "start": 113.12,
+   "end": 119.84,
+   "text": "And then I'll be like this weekend."
+  },
+  {
+   "start": 119.98,
+   "end": 121.58,
+   "text": "I'm hoping I can get done with that this weekend."
+  },
+  {
+   "start": 121.94,
+   "end": 128.34,
+   "text": "And then, yeah, after that, and then I'm going to get going on the Rome page."
+  },
+  {
+   "start": 128.86,
+   "end": 131.8,
+   "text": "I have to do the timeline, how to make a parody timeline."
+  },
+  {
+   "start": 131.8,
+   "end": 136.0,
+   "text": "That's, or that's on line with Rome Railroad."
+  },
+  {
+   "start": 136.2,
+   "end": 138.14,
+   "text": "Like make 753 BC zero."
+  },
+  {
+   "start": 139.54,
+   "end": 143.72,
+   "text": "Um, for April 15th, I guess."
+  },
+  {
+   "start": 144.72,
+   "end": 151.0,
+   "text": "And, um, so, um, and then what else do I have to do?"
+  },
+  {
+   "start": 151.2,
+   "end": 151.74,
+   "text": "Oh, right."
+  },
+  {
+   "start": 151.78,
+   "end": 153.34,
+   "text": "I have to finish writing my intro."
+  },
+  {
+   "start": 154.08,
+   "end": 155.16,
+   "text": "And then the bike racer stuff."
+  },
+  {
+   "start": 155.68,
+   "end": 156.96,
+   "text": "Bike racer levels on my page."
+  },
+  {
+   "start": 156.98,
+   "end": 158.98,
+   "text": "If I'm going to start riding my bike on the side,"
+  },
+  {
+   "start": 159.54,
+   "end": 161.9,
+   "text": "I'm definitely going to want to have that thing done."
+  },
+  {
+   "start": 163.34,
+   "end": 165.8,
+   "text": "Um, but I think I have like a whole week left on it."
+  },
+  {
+   "start": 166.32,
+   "end": 167.36,
+   "text": "So, yeah."
+  },
+  {
+   "start": 167.44,
+   "end": 173.38,
+   "text": "So for the next three weeks, it will be an absolute race to try to get done."
+  },
+  {
+   "start": 173.98,
+   "end": 177.42,
+   "text": "But then, yeah, I said on there on 15th, you know, hopefully I'll make a video too."
+  },
+  {
+   "start": 177.94,
+   "end": 184.42,
+   "text": "On the 15th, I'll have, um, uh, yeah, I'll be able to put it on Patreon"
+  },
+  {
+   "start": 184.42,
+   "end": 187.12,
+   "text": "And all those other sites to try to make money."
+  },
+  {
+   "start": 187.3,
+   "end": 189.88,
+   "text": "I even have a long-term plan."
+  },
+  {
+   "start": 191.08,
+   "end": 194.99,
+   "text": "Um, I like paranoid long-term stone in mind."
+  },
+  {
+   "start": 194.99,
+   "end": 198.35,
+   "text": "And so, like, even if, even if it's like I do that and I don't make any money,"
+  },
+  {
+   "start": 198.99,
+   "end": 199.89,
+   "text": "I'll get a job at Walmart."
+  },
+  {
+   "start": 200.43,
+   "end": 202.91,
+   "text": "And then I'll make a big old, no, no, I'll try to get a job at Walmart."
+  },
+  {
+   "start": 204.47,
+   "end": 206.23,
+   "text": "And then if they don't let me get the job at Walmart,"
+  },
+  {
+   "start": 206.45,
+   "end": 209.31,
+   "text": "Then I'll, like, make it a big issue trying to get the job at Walmart."
+  },
+  {
+   "start": 210.67,
+   "end": 212.07,
+   "text": "You know, because I'm a stoner."
+  },
+  {
+   "start": 212.07,
+   "end": 215.59,
+   "text": "But, uh, I'd probably have to get a job somewhere else."
+  },
+  {
+   "start": 216.07,
+   "end": 218.37,
+   "text": "Anyways, um, what else?"
+  },
+  {
+   "start": 218.49,
+   "end": 219.61,
+   "text": "Oh, so I'm working on the circles."
+  },
+  {
+   "start": 219.91,
+   "end": 229.01,
+   "text": "Um, today I, um, I finished making the movies of the circles for the ones that I did."
+  },
+  {
+   "start": 229.01,
+   "end": 233.71,
+   "text": "And then, so then, so now I'm actually making the circles from level 1 to 8."
+  },
+  {
+   "start": 234.53,
+   "end": 240.11,
+   "text": "And then, um, I'm going to make the distances for all of the levels."
+  },
+  {
+   "start": 240.33,
+   "end": 241.09,
+   "text": "And then it'll be done."
+  },
+  {
+   "start": 241.93,
+   "end": 246.41,
+   "text": "Right now I'm actually renaming the levels on Google Earth."
+  },
+  {
+   "start": 246.69,
+   "end": 247.53,
+   "text": "But, um, but that'll be done."
+  },
+  {
+   "start": 247.65,
+   "end": 250.99,
+   "text": "And then, um, I can, you know, put it, do the screen captures."
+  },
+  {
+   "start": 251.95,
+   "end": 253.93,
+   "text": "Put it on my website, maybe, and do YouTube videos."
+  },
+  {
+   "start": 253.93,
+   "end": 263.41,
+   "text": "Um, so, uh, oh, I was listening to Wealth of Nations by, um, Adam Smith for the last couple days."
+  },
+  {
+   "start": 263.49,
+   "end": 265.43,
+   "text": "But now I'm listening because my mom bought it for me."
+  },
+  {
+   "start": 265.47,
+   "end": 267.11,
+   "text": "She told me to get it and bought it for me."
+  },
+  {
+   "start": 267.53,
+   "end": 271.13,
+   "text": "First book that I bought on Google Earth called, oh, man, what's it called?"
+  },
+  {
+   "start": 271.23,
+   "end": 272.25,
+   "text": "Nancy something or other."
+  },
+  {
+   "start": 272.35,
+   "end": 277.85,
+   "text": "And she writes, it's called Dark Money, the history, the secret history of the billionaires"
+  },
+  {
+   "start": 277.85,
+   "end": 281.21,
+   "text": "And how they took over America with all their lobbyists."
+  },
+  {
+   "start": 281.21,
+   "end": 283.99,
+   "text": "So, yeah, I want to memorize that and then write, like, a page about it."
+  },
+  {
+   "start": 284.75,
+   "end": 286.75,
+   "text": "But I'm going to do all that after I start riding the bike."
+  },
+  {
+   "start": 287.73,
+   "end": 289.35,
+   "text": "Maybe you can type and ride on a bike."
+  },
+  {
+   "start": 289.43,
+   "end": 290.23,
+   "text": "I've said this before."
+  },
+  {
+   "start": 290.51,
+   "end": 292.85,
+   "text": "Whoever types and rides on a bike, like, let me know."
+  },
+  {
+   "start": 292.93,
+   "end": 294.23,
+   "text": "Like, whoever does that's a superhero."
+  },
+  {
+   "start": 294.67,
+   "end": 295.53,
+   "text": "I should try that."
+  },
+  {
+   "start": 295.75,
+   "end": 296.45,
+   "text": "I should try that."
+  },
+  {
+   "start": 298.55,
+   "end": 302.29,
+   "text": "Um, um, okay, so anyways."
+  },
+  {
+   "start": 302.45,
+   "end": 303.23,
+   "text": "Ooh, five minutes."
+  },
+  {
+   "start": 303.33,
+   "end": 304.11,
+   "text": "I think I've talked long enough."
+  },
+  {
+   "start": 304.11,
+   "end": 305.71,
+   "text": "So the background's going to be 20Ks."
+  },
+  {
+   "start": 306.13,
+   "end": 307.21,
+   "text": "People don't like that."
+  },
+  {
+   "start": 307.29,
+   "end": 309.39,
+   "text": "I've gotten complaints, but you know what?"
+  },
+  {
+   "start": 309.59,
+   "end": 310.19,
+   "text": "I don't care."
+  },
+  {
+   "start": 310.19,
+   "end": 311.43,
+   "text": "I'm going to use them anyway."
+  },
+  {
+   "start": 312.01,
+   "end": 315.03,
+   "text": "20K, because this is the papers that I'm working on right now."
+  },
+  {
+   "start": 315.91,
+   "end": 316.57,
+   "text": "Okay, so."
+  },
+  {
+   "start": 316.81,
+   "end": 317.09,
+   "text": "So."
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+ "youtube_id": "qo9WE_4qJb4",
+ "title": "What to do about Back Pain - Request",
+ "url": "https://youtu.be/qo9WE_4qJb4",
+ "published_at": "2016-10-17",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle responds to a viewer request about curing lower back pain, sharing his personal experiences with both lower back and upper back pain. He attributes back pain primarily to lack of physical fitness and recommends a gradual exercise rehabilitation approach: starting with swimming, progressing to running, then adding weightlifting including deadlifts and squats. He advises against pain medication, suggesting that consistent exercise will eventually override the pain.",
+  "speaker": "kyle",
+  "topics": [
+   "back pain",
+   "knee pain",
+   "exercise rehabilitation",
+   "weightlifting",
+   "swimming",
+   "pain management",
+   "physical fitness"
+  ],
+  "stances": [
+   {
+    "topic": "cause of back pain",
+    "position": "largely due to general lack of physical fitness"
+   },
+   {
+    "topic": "treatment approach",
+    "position": "gradual exercise progression: swimming → running → deadlifts and squats"
+   },
+   {
+    "topic": "pain medication",
+    "position": "strongly against it — just tolerate the pain and work through it with exercise"
+   },
+   {
+    "topic": "back pain recovery",
+    "position": "treat it like recovering from an injury, slowly rehabilitate and expect full recovery"
+   }
+  ],
+  "entities": [],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.74,
+   "end": 10.26,
+   "text": "Hello here's a video request what to do to cure lower back pain um so yeah I've had lower back"
+  },
+  {
+   "start": 10.26,
+   "end": 17.4,
+   "text": "Pain from time to time and I don't have it now but um you know and sometimes I get knee pain you"
+  },
+  {
+   "start": 17.4,
+   "end": 24.22,
+   "text": "Know if you walk upstairs um and I get the knee pain if I walk around like and I twist the knee"
+  },
+  {
+   "start": 24.22,
+   "end": 36.44,
+   "text": "Um twisting's bad anyway and I think um um the uh yeah back pain too would be any kind of uh"
+  },
+  {
+   "start": 36.44,
+   "end": 42.74,
+   "text": "Extra stress it's really people can get permanent back injury if they try to pick up something that's"
+  },
+  {
+   "start": 42.74,
+   "end": 51.4,
+   "text": "Too heavy um with like a bowed back when they're not when their muscles aren't strong so um if I"
+  },
+  {
+   "start": 51.4,
+   "end": 57.02,
+   "text": "Had lower back pain I think what I do what I would do um and the lower back pain I'm talking about is"
+  },
+  {
+   "start": 57.02,
+   "end": 65.06,
+   "text": "The back pain that I felt which is like the very bottom of your back like the sharp pain um but I've"
+  },
+  {
+   "start": 65.06,
+   "end": 73.8,
+   "text": "Also had back pain like you know sometimes if I if I want to run if you go on like a really long run or"
+  },
+  {
+   "start": 73.8,
+   "end": 79.04,
+   "text": "A really long hike or something and then you're like between your shoulder blades it's just really"
+  },
+  {
+   "start": 79.04,
+   "end": 90.56,
+   "text": "Painful um yeah so I think what that is is um it's just a general like for me how I would interpret"
+  },
+  {
+   "start": 90.56,
+   "end": 98.4,
+   "text": "It is just a general lack of uh physical fitness and so I would if if I became concerned about it I"
+  },
+  {
+   "start": 98.4,
+   "end": 103.74,
+   "text": "Would start exercising if I couldn't run you know like if it was too bad I'd start swimming"
+  },
+  {
+   "start": 103.74,
+   "end": 111.26,
+   "text": "And then I would I would start running after that um and then uh keep running and then I would start"
+  },
+  {
+   "start": 111.26,
+   "end": 118.94,
+   "text": "Uh lifting weights and doing deadlifts and uh and squats and I would get really into that you know"
+  },
+  {
+   "start": 118.94,
+   "end": 124.34,
+   "text": "And I would just slowly you know I would look at it as like a recovery from an injury or something you"
+  },
+  {
+   "start": 124.34,
+   "end": 129.46,
+   "text": "Know I like you probably might have the back pain like if I had the back pain I would attribute it to"
+  },
+  {
+   "start": 129.46,
+   "end": 137.6,
+   "text": "Just years of not doing anything and so um I uh I would just start you know rehabilitating doing"
+  },
+  {
+   "start": 137.6,
+   "end": 143.52,
+   "text": "Stuff slowly and then work my way up to it and expect to to recover you know eat well keep it eat"
+  },
+  {
+   "start": 143.52,
+   "end": 149.92,
+   "text": "All the nutrients you need to rebuild yourself and you know and that's what I would do um but"
+  },
+  {
+   "start": 149.92,
+   "end": 155.96,
+   "text": "Definitely no painkillers you know like if you get the pain just be like all right and you know and"
+  },
+  {
+   "start": 155.96,
+   "end": 159.88,
+   "text": "If it's too painful just work out all the time and then the working out pain will overwrite it right"
+  },
+  {
+   "start": 159.88,
+   "end": 162.04,
+   "text": "Okay peace out"
+  }
+ ]
+}

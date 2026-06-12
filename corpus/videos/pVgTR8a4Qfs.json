@@ -1,0 +1,405 @@
+{
+ "youtube_id": "pVgTR8a4Qfs",
+ "title": "Living in Boulder vlog 4 - 6 - 2017: 20 Area Dimensions page",
+ "url": "https://youtu.be/pVgTR8a4Qfs",
+ "published_at": "2017-04-07",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about working on a map/area dimensions project for Boulder, involving circles, backgrounds, and Google Maps integration. He discusses his R&D day working on visual layouts, listening to Wikipedia audio files, and plans to finish the project over the weekend before an upcoming bike race.",
+  "speaker": "kyle",
+  "topics": [
+   "personal project work",
+   "web/map design",
+   "Boulder",
+   "bike racing",
+   "weekend plans",
+   "listening to Wikipedia"
+  ],
+  "stances": [
+   {
+    "topic": "project progress",
+    "position": "excited to be close to finishing and seeing it come together on his website"
+   },
+   {
+    "topic": "his computer",
+    "position": "wishes he had a faster computer but thinks he may just be better at using it now"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Google Maps",
+   "Flickr",
+   "Instagram",
+   "Flavius Vegetius Renatus"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.91,
+   "end": 7.91,
+   "text": "I love being able to view a couple of six that say 7 to 15 in the morning."
+  },
+  {
+   "start": 7.91,
+   "end": 12.91,
+   "text": "I got up. I think I don't know pretty early today. I think I can order something."
+  },
+  {
+   "start": 12.91,
+   "end": 16.91,
+   "text": "I was working. I can't remember exactly though."
+  },
+  {
+   "start": 16.91,
+   "end": 20.91,
+   "text": "And then I'm just finishing, you know,"
+  },
+  {
+   "start": 20.91,
+   "end": 26.91,
+   "text": "I'm going to be so I think and then the pictures took all the things I did to fix stuff."
+  },
+  {
+   "start": 26.91,
+   "end": 32.91,
+   "text": "And I think I still have to fix the work. So I forgot to change colors. I have to make sure the colors are all right."
+  },
+  {
+   "start": 32.91,
+   "end": 36.91,
+   "text": "But yeah, then I can put them on the page."
+  },
+  {
+   "start": 36.91,
+   "end": 45.91,
+   "text": "And now I'm not really really exciting when patterns to the size of this stuff."
+  },
+  {
+   "start": 45.91,
+   "end": 51.91,
+   "text": "I was listening to audio, more Wikipedia files."
+  },
+  {
+   "start": 51.91,
+   "end": 60.54,
+   "text": "I mean particles about trying to memorize it."
+  },
+  {
+   "start": 60.54,
+   "end": 62.54,
+   "text": "They're good stuff. We're not going to remember."
+  },
+  {
+   "start": 62.54,
+   "end": 65.54,
+   "text": "Frontine us. Who knows that is name?"
+  },
+  {
+   "start": 65.54,
+   "end": 70.24,
+   "text": "That was a guy's name."
+  },
+  {
+   "start": 70.24,
+   "end": 74.24,
+   "text": "I can't remember. I remember his name."
+  },
+  {
+   "start": 74.24,
+   "end": 78.24,
+   "text": "Flavius, Vegenteus, or anatus."
+  },
+  {
+   "start": 78.24,
+   "end": 82.24,
+   "text": "That's interesting. So I'm about to train him to have everything."
+  },
+  {
+   "start": 82.24,
+   "end": 85.24,
+   "text": "So I can plug that right in."
+  },
+  {
+   "start": 85.24,
+   "end": 88.24,
+   "text": "So today I was kind of at the background."
+  },
+  {
+   "start": 88.24,
+   "end": 90.24,
+   "text": "I don't know. Oh, I'm going to have some fun with the background."
+  },
+  {
+   "start": 90.24,
+   "end": 92.24,
+   "text": "So I'm done with those annoying circles."
+  },
+  {
+   "start": 92.24,
+   "end": 95.24,
+   "text": "Now I'm going to do some different backgrounds."
+  },
+  {
+   "start": 95.24,
+   "end": 100.24,
+   "text": "Some reason I'm not working on some of the different backgrounds."
+  },
+  {
+   "start": 100.24,
+   "end": 102.24,
+   "text": "Yeah, I want to do the backgrounds."
+  },
+  {
+   "start": 102.24,
+   "end": 104.24,
+   "text": "But different backgrounds. I have."
+  },
+  {
+   "start": 104.24,
+   "end": 108.24,
+   "text": "But I have to make sure that Danny, if you don't want to forget to mark black out the screen."
+  },
+  {
+   "start": 108.24,
+   "end": 110.24,
+   "text": "I wish you'd have a different background."
+  },
+  {
+   "start": 110.24,
+   "end": 112.24,
+   "text": "I could solo and bloom with something."
+  },
+  {
+   "start": 112.24,
+   "end": 116.24,
+   "text": "But um, yeah, that'll be fun."
+  },
+  {
+   "start": 116.24,
+   "end": 120.24,
+   "text": "So today, yeah, I kind of an R&D type of day."
+  },
+  {
+   "start": 120.24,
+   "end": 135.3,
+   "text": "I was, um, yeah, I wanted to have like buildings lining."
+  },
+  {
+   "start": 135.3,
+   "end": 137.3,
+   "text": "And it actually is all of them. I'm just overkill."
+  },
+  {
+   "start": 137.3,
+   "end": 140.3,
+   "text": "It's crazy. But I did decide what I wanted to have what size"
+  },
+  {
+   "start": 140.3,
+   "end": 143.3,
+   "text": "And I wanted to look like. You know, just for bolder."
+  },
+  {
+   "start": 143.3,
+   "end": 145.3,
+   "text": "Um, and then I went into."
+  },
+  {
+   "start": 145.3,
+   "end": 149.3,
+   "text": "I don't know how to create circles for the people here."
+  },
+  {
+   "start": 149.3,
+   "end": 154.3,
+   "text": "Um, standing next to each other."
+  },
+  {
+   "start": 154.3,
+   "end": 157.3,
+   "text": "And, um, yeah, it's just kind of a dinner kind of."
+  },
+  {
+   "start": 157.3,
+   "end": 159.3,
+   "text": "So I'm going to go ahead."
+  },
+  {
+   "start": 159.3,
+   "end": 163.3,
+   "text": "So I think I'll keep working a little bit, um, my screen capturing photos."
+  },
+  {
+   "start": 163.3,
+   "end": 170.74,
+   "text": "Oh yeah, I have those charts on their own pages now that for Google are circles and the"
+  },
+  {
+   "start": 170.74,
+   "end": 174.46,
+   "text": "race distances, but when you have the circles you can't see the circle it just takes"
+  },
+  {
+   "start": 174.46,
+   "end": 175.46,
+   "text": "to the area."
+  },
+  {
+   "start": 175.46,
+   "end": 178.02,
+   "text": "I forgot it was doing that before."
+  },
+  {
+   "start": 178.02,
+   "end": 183.54,
+   "text": "Also in Google are when you click on it it doesn't take it to it on the list, but so I might"
+  },
+  {
+   "start": 183.54,
+   "end": 190.7,
+   "text": "want to have on that list there include the picture like on Flick or or on the Instagram"
+  },
+  {
+   "start": 190.7,
+   "end": 191.7,
+   "text": "whatever's in your outlook."
+  },
+  {
+   "start": 191.7,
+   "end": 203.62,
+   "text": "Yeah, that I was chatting and on myself on the day and she checked it out, space, caliper,"
+  },
+  {
+   "start": 203.62,
+   "end": 208.18,
+   "text": "and then maybe in the future the cell phones will be better or you just click it and all"
+  },
+  {
+   "start": 208.18,
+   "end": 210.7,
+   "text": "the stuff will activate and you can actually see it all there."
+  },
+  {
+   "start": 210.7,
+   "end": 218.16,
+   "text": "All that, you know, the original files we make it."
+  },
+  {
+   "start": 218.16,
+   "end": 228.4,
+   "text": "So today's Friday morning, I'll just bus to do this weekend and I was up and I'll be, I"
+  },
+  {
+   "start": 228.4,
+   "end": 229.4,
+   "text": "think I'll finish this weekend."
+  },
+  {
+   "start": 229.4,
+   "end": 235.4,
+   "text": "And then you can go and let's have a look at how the moment I'm talking about that."
+  },
+  {
+   "start": 235.4,
+   "end": 239.44,
+   "text": "I said in photos to her, I've been excited."
+  },
+  {
+   "start": 239.44,
+   "end": 245.0,
+   "text": "So it's good, it's really, oh I got it so really, to not have to worry about my name, because I'll"
+  },
+  {
+   "start": 245.0,
+   "end": 253.79,
+   "text": "start working soon, work on my Monday I think and continue working."
+  },
+  {
+   "start": 253.79,
+   "end": 258.72,
+   "text": "This is, it's so fun."
+  },
+  {
+   "start": 258.72,
+   "end": 265.32,
+   "text": "I'm doing, because I can see it's stuck in, done on my website and yeah, that's someone's"
+  },
+  {
+   "start": 265.32,
+   "end": 267.28,
+   "text": "I finished this, I can go on it in next thing."
+  },
+  {
+   "start": 267.28,
+   "end": 270.16,
+   "text": "I want to do the pipe race or little stuff."
+  },
+  {
+   "start": 270.16,
+   "end": 275.84,
+   "text": "I need to get ready to ride if I have to, you know, like suddenly have to ride, I want"
+  },
+  {
+   "start": 275.84,
+   "end": 283.99,
+   "text": "to have to have a bike race or little which is like two more weeks and I have to have the"
+  },
+  {
+   "start": 283.99,
+   "end": 289.07,
+   "text": "bolt around which is like I've even done anything that probably would be a couple of weeks."
+  },
+  {
+   "start": 289.07,
+   "end": 292.15,
+   "text": "So yeah, but I won't have to, anyway that's the thing."
+  },
+  {
+   "start": 292.15,
+   "end": 298.95,
+   "text": "So yeah, I'll be, well, I'll already, of course, I'll be there soon, but I think I can finish."
+  },
+  {
+   "start": 298.95,
+   "end": 307.24,
+   "text": "Thanks for being honest, I wish I had a faster computer before, but maybe I'm just better"
+  },
+  {
+   "start": 307.24,
+   "end": 310.29,
+   "text": "now."
+  },
+  {
+   "start": 310.29,
+   "end": 314.57,
+   "text": "Anyways, I think I want to put this book on my website."
+  },
+  {
+   "start": 314.57,
+   "end": 317.29,
+   "text": "Okay, it's a whole long event until I can."
+  },
+  {
+   "start": 318.29,
+   "end": 319.53,
+   "text": "Ooh, too long."
+  },
+  {
+   "start": 319.53,
+   "end": 320.81,
+   "text": "I'm gonna try to stay in her five minutes."
+  },
+  {
+   "start": 320.81,
+   "end": 321.81,
+   "text": "Sorry."
+  },
+  {
+   "start": 321.81,
+   "end": 322.81,
+   "text": "Okay, ciao."
+  }
+ ]
+}

@@ -1,0 +1,310 @@
+{
+ "youtube_id": "h0OwtXZXMNg",
+ "title": "Living in Boulder Vlog 6 - 14 & 15 - 2014",
+ "url": "https://youtu.be/h0OwtXZXMNg",
+ "published_at": "2014-06-16",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about his failing HP laptop (daily crashes, broken USBs, memory errors) and explains why he's been absent from vlogging — he's been obsessively working on his website. He describes redesigning the site multiple times, his 'time no object' attitude toward the project, and briefly mentions seeing Edge of Tomorrow and needing to bike to work.",
+  "speaker": "kyle",
+  "topics": [
+   "computer problems",
+   "website development",
+   "vlog absence",
+   "biking",
+   "movie outing"
+  ],
+  "stances": [
+   {
+    "topic": "website quality",
+    "position": "Willing to take as long as needed, even years, because the end result will be worth it"
+   },
+   {
+    "topic": "design iteration",
+    "position": "Building it wrong first is sometimes necessary to figure out the right approach"
+   },
+   {
+    "topic": "failing laptop",
+    "position": "Frustrated but managing with workarounds until he can use a backup computer"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "HP (laptop brand)",
+   "Edge of Tomorrow (film)",
+   "Norton",
+   "Malware bytes/Spybot/System Mechanic (software)",
+   "D'Rale (friend)",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.14,
+   "end": 5.96,
+   "text": "Hello living in Boulderville. I give this as I don't know what Nantes my computer is like so sick. Good"
+  },
+  {
+   "start": 6.78,
+   "end": 8.78,
+   "text": "My computer like"
+  },
+  {
+   "start": 8.78,
+   "end": 10.78,
+   "text": "It completely"
+  },
+  {
+   "start": 10.78,
+   "end": 13.42,
+   "text": "Does this crash it's completely crash is like"
+  },
+  {
+   "start": 14.06,
+   "end": 20.98,
+   "text": "On a regular basis now I think completely restarting computer and it has to do one of these things well actually different one of these last time"
+  },
+  {
+   "start": 20.98,
+   "end": 22.98,
+   "text": "It was a different one of these now. It's the blue screen thing"
+  },
+  {
+   "start": 24.02,
+   "end": 26.02,
+   "text": "Every single day"
+  },
+  {
+   "start": 26.02,
+   "end": 28.86,
+   "text": "After restarting computer and then it like has memory"
+  },
+  {
+   "start": 29.38,
+   "end": 30.74,
+   "text": "catastrophe"
+  },
+  {
+   "start": 30.74,
+   "end": 32.74,
+   "text": "Yeah, here's what normally happens"
+  },
+  {
+   "start": 32.94,
+   "end": 38.62,
+   "text": "memory catastrophe and then I'm good for like I don't know a couple hours and then I have to restart the computer"
+  },
+  {
+   "start": 39.7,
+   "end": 45.82,
+   "text": "It's like gets worse every day. I don't know. Let's go on. I have I have a"
+  },
+  {
+   "start": 46.9,
+   "end": 48.9,
+   "text": "system mechanic"
+  },
+  {
+   "start": 49.46,
+   "end": 51.86,
+   "text": "spybot malware"
+  },
+  {
+   "start": 51.86,
+   "end": 53.86,
+   "text": "Norton"
+  },
+  {
+   "start": 54.3,
+   "end": 57.65,
+   "text": "This is a fucked up computer. I guess"
+  },
+  {
+   "start": 58.13,
+   "end": 65.71,
+   "text": "like my my US both of my USBs here broke keyboard stop working after a couple months after I bought it"
+  },
+  {
+   "start": 65.71,
+   "end": 71.61,
+   "text": "It's an HP luckily this USB still is always one last holdout that still works"
+  },
+  {
+   "start": 71.61,
+   "end": 73.61,
+   "text": "But when that goes I can't use computer anymore"
+  },
+  {
+   "start": 74.45,
+   "end": 80.33,
+   "text": "We're gonna fix I don't know but luckily I have a backup computer hopefully that works. I don't really I'm not definitely with it"
+  },
+  {
+   "start": 81.29,
+   "end": 89.97,
+   "text": "So anyways babbling so I haven't been doing a lot of V-logs because I've been like way too busy on my"
+  },
+  {
+   "start": 91.05,
+   "end": 96.97,
+   "text": "website like way too busy like yeah, this week and was good all I did was work"
+  },
+  {
+   "start": 96.97,
+   "end": 101.47,
+   "text": "But I did go to the movie if you go into my mom's house and then we saw"
+  },
+  {
+   "start": 101.85,
+   "end": 105.89,
+   "text": "For some movie theaters and saw edge of tomorrow is like this new 3D"
+  },
+  {
+   "start": 106.69,
+   "end": 108.69,
+   "text": "movies"
+  },
+  {
+   "start": 108.69,
+   "end": 112.73,
+   "text": "But that was all solid at this weekend yesterday I worked"
+  },
+  {
+   "start": 113.57,
+   "end": 116.29,
+   "text": "From like don't tell dusk so solid"
+  },
+  {
+   "start": 117.93,
+   "end": 123.89,
+   "text": "So yeah, but anyways I got my page to a pretty cool place. I'm excited to see where it's gonna be today when I get home from work"
+  },
+  {
+   "start": 125.01,
+   "end": 127.01,
+   "text": "um"
+  },
+  {
+   "start": 127.01,
+   "end": 134.45,
+   "text": "And yeah, but I have to work I've to ride like 12 and I have miles off to my first job today in the year"
+  },
+  {
+   "start": 134.45,
+   "end": 136.45,
+   "text": "I'm very"
+  },
+  {
+   "start": 136.45,
+   "end": 143.09,
+   "text": "After just my friend D'Rale are at least put oil on it. I don't know if I want to test it tonight. I'm waiting for my old mill to cook"
+  },
+  {
+   "start": 143.65,
+   "end": 147.81,
+   "text": "But time is that it's like six and I have to leave it seven to be a work in eight"
+  },
+  {
+   "start": 148.93,
+   "end": 150.93,
+   "text": "um"
+  },
+  {
+   "start": 151.33,
+   "end": 156.59,
+   "text": "And"
+  },
+  {
+   "start": 156.59,
+   "end": 162.59,
+   "text": "That's about it. I haven't even looked at my YouTube comments at the last few days. I'm like totally"
+  },
+  {
+   "start": 163.55,
+   "end": 167.55,
+   "text": "I totally see because I got to a point where I felt like I was behind"
+  },
+  {
+   "start": 167.71,
+   "end": 173.39,
+   "text": "You know like it was dragging out to long whenever that happens I doubled down even more and I shut everything out"
+  },
+  {
+   "start": 174.71,
+   "end": 179.55,
+   "text": "Yeah, because I the way that it not happens when I like designed something and then it turns out the"
+  },
+  {
+   "start": 179.55,
+   "end": 184.59,
+   "text": "The original design I had was all fucked up and after we do it and I've had to do that a couple of times, but"
+  },
+  {
+   "start": 186.43,
+   "end": 191.47,
+   "text": "But whenever I have to do that that's I don't it doesn't not that matter if you're a bummer because"
+  },
+  {
+   "start": 193.07,
+   "end": 199.39,
+   "text": "It just means that it's a more complicated page you know what I mean and sometimes you have to build it wrong before you"
+  },
+  {
+   "start": 199.39,
+   "end": 206.27,
+   "text": "Figure out the right way to do it the game is to try to figure out the right way to do it the earliest you can but uh"
+  },
+  {
+   "start": 207.07,
+   "end": 209.79,
+   "text": "Yeah before I had it based on Watson I have it based on speed"
+  },
+  {
+   "start": 210.83,
+   "end": 214.99,
+   "text": "But it's gonna be cool, man, but it might end up being even bigger than I even"
+  },
+  {
+   "start": 215.63,
+   "end": 220.91,
+   "text": "Realize now which could make it drag on another month, but we'll see whatever I don't care because"
+  },
+  {
+   "start": 222.67,
+   "end": 227.87,
+   "text": "I can dedicate so much to my time like in the situation in the now to work on my website that I"
+  },
+  {
+   "start": 228.99,
+   "end": 230.51,
+   "text": "Have a"
+  },
+  {
+   "start": 230.51,
+   "end": 234.83,
+   "text": "Time no object attitude, you know like how people would have like a price no object for a car"
+  },
+  {
+   "start": 234.83,
+   "end": 237.87,
+   "text": "They just wanted the nicest car ever and that's just how I am with the website"
+  },
+  {
+   "start": 238.35,
+   "end": 242.99,
+   "text": "So even if it takes me a couple years I still by the time it does come out it'll be fucking awesome"
+  },
+  {
+   "start": 243.39,
+   "end": 246.75,
+   "text": "See if I've now my computer won't even start I don't even know what the fuck's going on"
+  },
+  {
+   "start": 246.75,
+   "end": 252.91,
+   "text": "I'll cool the things spinning around again all right, so that's the I'll get going with my day"
+  }
+ ]
+}

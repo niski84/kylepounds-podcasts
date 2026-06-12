@@ -1,0 +1,136 @@
+{
+ "youtube_id": "quqpbyBOlg4",
+ "title": "Living in Boulder Vlog 12 - 15 - 2016",
+ "url": "https://youtu.be/quqpbyBOlg4",
+ "published_at": "2016-12-16",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a brief vlog from Boulder on December 15/16, 2016, giving an update on his progress building a 3D model of ancient Rome (currently working on pillars inside the Pantheon). He mentions working late, getting little sleep, listening to the History of England podcast, and planning to watch Hell on Wheels with his girlfriend.",
+  "speaker": "kyle",
+  "topics": [
+   "daily life",
+   "3D modeling/Rome project",
+   "sleep",
+   "podcasts",
+   "TV shows",
+   "marijuana"
+  ],
+  "stances": [
+   {
+    "topic": "Rome 3D project timeline",
+    "position": "doesn't see himself working on it past February; hard to predict progress because most buildings require extensive pillar work"
+   },
+   {
+    "topic": "History of England podcast",
+    "position": "enjoys it but has nothing specific to say about it right now"
+   },
+   {
+    "topic": "sleep",
+    "position": "only got 5 hours but feels fully rested"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Pantheon",
+   "Roman Forum",
+   "History of Rome podcast",
+   "History of England podcast",
+   "Hell on Wheels",
+   "Netflix"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.08,
+   "end": 31.17,
+   "text": "Hello Living in Boulder Vlog for December 15th 2016. Today's Friday December 16th 2016. Just a second. I'm going to smoke weed every once in a while."
+  },
+  {
+   "start": 31.17,
+   "end": 52.42,
+   "text": "So I was working until... I was working until almost 7. And right now it's noon. So I only got like 5 hours of sleep. But I feel good. I felt like I slept dead even more. I'm totally rested."
+  },
+  {
+   "start": 52.42,
+   "end": 67.52,
+   "text": "So... Yesterday I was working... I don't even really know how to work. Just buildings in the Pantheon. Right now I'm doing the pillars inside of the... I mean the forum. Now I'm doing the pillars inside the Pantheon."
+  },
+  {
+   "start": 67.52,
+   "end": 77.52,
+   "text": "It's a lot of catch up. It's hard to predict how long it takes because every building or a lot of buildings... most buildings have pillars."
+  },
+  {
+   "start": 77.52,
+   "end": 84.52,
+   "text": "Then they have the pillar bases. And so I only did the pillar at the pillar base. So I have to do the pillars all over again. Probably thousands."
+  },
+  {
+   "start": 84.52,
+   "end": 93.52,
+   "text": "But... I'm still looking forward to see where I can be at the beginning of February. Which will be here in a month and a half. Which is like right around the corner."
+  },
+  {
+   "start": 93.52,
+   "end": 98.52,
+   "text": "So... I don't see myself working on this longer than February though. So..."
+  },
+  {
+   "start": 98.52,
+   "end": 103.52,
+   "text": "I was listening to History of Rome podcast. I mean History of England. That's pretty good."
+  },
+  {
+   "start": 103.52,
+   "end": 108.52,
+   "text": "I love the History of England. I don't have anything to say about it right now though."
+  },
+  {
+   "start": 108.52,
+   "end": 111.8,
+   "text": "Hmmm..."
+  },
+  {
+   "start": 111.8,
+   "end": 113.8,
+   "text": "Um..."
+  },
+  {
+   "start": 113.8,
+   "end": 114.8,
+   "text": "What else?"
+  },
+  {
+   "start": 114.8,
+   "end": 115.8,
+   "text": "Um..."
+  },
+  {
+   "start": 115.8,
+   "end": 121.39,
+   "text": "I think I'll try to watch the TV show today."
+  },
+  {
+   "start": 121.39,
+   "end": 125.39,
+   "text": "I haven't had time. Hell on Wheels. I was watching it the other day at my mom's house."
+  },
+  {
+   "start": 125.39,
+   "end": 129.39,
+   "text": "I think I'll wait until my girlfriend figures out how to do Netflix."
+  },
+  {
+   "start": 129.39,
+   "end": 131.39,
+   "text": "Okay. That's enough for now."
+  },
+  {
+   "start": 131.39,
+   "end": 133.39,
+   "text": "Peace out."
+  }
+ ]
+}

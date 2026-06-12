@@ -1,0 +1,116 @@
+{
+ "youtube_id": "UovH0ylmB-g",
+ "title": "Living in Boulder Vlog 3-8-2016",
+ "url": "https://youtu.be/UovH0ylmB-g",
+ "published_at": "2016-03-10",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a brief vlog from Boulder, mentioning he got up late, watched episodes of Outlander at his mom's house, worked on writing for his job, and plans to do a movie review of Outlander later. The video is casual and rambling with little specific detail.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "Boulder living",
+   "work update",
+   "TV watching",
+   "casual life update"
+  ],
+  "stances": [
+   {
+    "topic": "focused work days",
+    "position": "enjoys days where he can just focus on writing work"
+   },
+   {
+    "topic": "Outlander",
+    "position": "interested enough to plan a review once he finishes watching"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Outlander"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 7.78,
+   "text": "Boulder V-Lock, daily V-Lock, kind of having an asthma attack right now, because I had asthma"
+  },
+  {
+   "start": 7.78,
+   "end": 12.46,
+   "text": "Attack and then I had some hits, but I'm not that high, probably maybe I should spend more on my"
+  },
+  {
+   "start": 12.46,
+   "end": 19.92,
+   "text": "Tolerance, super high, I think it's like, I think it's like 1.45 in the morning, luckily I remembered"
+  },
+  {
+   "start": 19.92,
+   "end": 27.28,
+   "text": "To do video, I was working all day, you know, but I don't want to talk about that, I prefer to talk"
+  },
+  {
+   "start": 27.28,
+   "end": 32.98,
+   "text": "About it when I'm done, but today I got up, let's see, I got up at like, kind of late, because I"
+  },
+  {
+   "start": 32.98,
+   "end": 39.36,
+   "text": "Was up kind of late last night, and then I got up, slept in, and got up and went over to my mom's"
+  },
+  {
+   "start": 39.36,
+   "end": 45.16,
+   "text": "House, and I saw, she let me stay long enough to watch three episodes of The Outlander, I think"
+  },
+  {
+   "start": 45.16,
+   "end": 50.58,
+   "text": "I'll do a movie review of that when I'm done watching it, when I'm doing videos, again when"
+  },
+  {
+   "start": 50.58,
+   "end": 59.52,
+   "text": "I'm riding my bike on the roller, so, um, that'll be after though, um, yeah, in a three weeks"
+  },
+  {
+   "start": 59.52,
+   "end": 66.28,
+   "text": "Or so, and then, uh, I came home, and I worked some more, you know, so I had a pretty good"
+  },
+  {
+   "start": 66.28,
+   "end": 72.14,
+   "text": "Day today, um, I'm liking these days where I just work, I just focus on work, and I'm working,"
+  },
+  {
+   "start": 72.14,
+   "end": 81.4,
+   "text": "Uh, Friday with my job, but, um, so I get tomorrow, Thursday, one more day, uh, to hammer, and then"
+  },
+  {
+   "start": 81.4,
+   "end": 87.84,
+   "text": "I hammer some more over the weekend, so, it's gonna be fun, so what else, what else is going"
+  },
+  {
+   "start": 87.84,
+   "end": 97.52,
+   "text": "On, uh, not, not really anything, uh, don't have anything, oh, I got my, um, uh, diagnosis"
+  },
+  {
+   "start": 97.52,
+   "end": 111.52,
+   "text": "Back, but I'll talk about that tomorrow, or pretty soon, I scored my Asperger, that's"
+  },
+  {
+   "start": 111.52,
+   "end": 117.8,
+   "text": "All, peace out, all's well that ends well, hope everybody's good."
+  }
+ ]
+}

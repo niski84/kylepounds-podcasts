@@ -1,0 +1,155 @@
+{
+ "youtube_id": "ILl5v2tiaA0",
+ "title": "Living in Boulder Vlog 2 - 27 - 2016",
+ "url": "https://youtu.be/ILl5v2tiaA0",
+ "published_at": "2016-02-27",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle films a vlog from Boulder, Colorado, showing home improvement or painting work he completed the previous day. He mentions smoking weed/wax/shatter, having a small salad for breakfast, sleeping in, and plans to complete a project over two days.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "cannabis use",
+   "home improvement/painting",
+   "Boulder Colorado",
+   "daily routine"
+  ],
+  "stances": [
+   {
+    "topic": "cannabis",
+    "position": "uses recreationally and casually"
+   },
+   {
+    "topic": "productivity",
+    "position": "confident he can complete his project work that day"
+   }
+  ],
+  "entities": [
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.66,
+   "end": 10.16,
+   "text": "Hey, how's it going? I'm living in Boulder P-Log for the 26th of February, 2016."
+  },
+  {
+   "start": 11.66,
+   "end": 18.16,
+   "text": "I just smoked some weed that my roommate gave me. I can't remember what it's called, but it tastes pretty good."
+  },
+  {
+   "start": 19.26,
+   "end": 21.36,
+   "text": "I'm used to smoking wax and shatter."
+  },
+  {
+   "start": 22.96,
+   "end": 28.04,
+   "text": "So yesterday, let me show you what I did."
+  },
+  {
+   "start": 28.04,
+   "end": 34.2,
+   "text": "Okie dokie, so this is what I did yesterday."
+  },
+  {
+   "start": 35.2,
+   "end": 39.98,
+   "text": "As you recall, all this was empty, so I did all this. I prepped, primed these suckers."
+  },
+  {
+   "start": 41.28,
+   "end": 44.18,
+   "text": "So yeah, today I'm going to just power down on this."
+  },
+  {
+   "start": 44.24,
+   "end": 51.96,
+   "text": "Now as you see, it's 11.24. I just had a small breakfast salad, actually, that my roommate gave me."
+  },
+  {
+   "start": 52.9,
+   "end": 55.94,
+   "text": "But I kind of slept in this morning, and I'll talk about that later."
+  },
+  {
+   "start": 55.94,
+   "end": 60.34,
+   "text": "But yeah, this is what I did. But I'll try to, I bet you I can complete all this today."
+  },
+  {
+   "start": 60.44,
+   "end": 62.74,
+   "text": "I have to get to sleep kind of early today, because I work tomorrow."
+  },
+  {
+   "start": 63.52,
+   "end": 67.12,
+   "text": "But you got to do this today, and complete this part tomorrow."
+  },
+  {
+   "start": 70.62,
+   "end": 73.14,
+   "text": "Okie dokie, so this is what I did yesterday."
+  },
+  {
+   "start": 74.14,
+   "end": 77.12,
+   "text": "As you recall, all this was empty, so I did all this."
+  },
+  {
+   "start": 77.12,
+   "end": 78.96,
+   "text": "So I prepped, primed these suckers."
+  },
+  {
+   "start": 80.16,
+   "end": 83.12,
+   "text": "So yeah, today I'm going to just power down on this."
+  },
+  {
+   "start": 83.2,
+   "end": 84.62,
+   "text": "Now as you see, it's 11.24."
+  },
+  {
+   "start": 84.94,
+   "end": 90.9,
+   "text": "I just had my, I just had a small breakfast salad, actually, that my roommate gave me."
+  },
+  {
+   "start": 91.86,
+   "end": 94.9,
+   "text": "But I kind of slept in this morning, and I'll talk about that later."
+  },
+  {
+   "start": 94.96,
+   "end": 95.94,
+   "text": "But yeah, this is what I did."
+  },
+  {
+   "start": 96.28,
+   "end": 99.3,
+   "text": "But I'll try to, I bet you I can complete all this today."
+  },
+  {
+   "start": 99.3,
+   "end": 101.9,
+   "text": "I have to get to sleep kind of early today, because I work tomorrow, but."
+  },
+  {
+   "start": 102.66,
+   "end": 106.02,
+   "text": "But you got to do this today, and complete this part tomorrow."
+  },
+  {
+   "start": 106.02,
+   "end": 106.08,
+   "text": "Oh!"
+  }
+ ]
+}

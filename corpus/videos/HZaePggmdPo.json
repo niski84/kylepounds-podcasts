@@ -1,0 +1,422 @@
+{
+ "youtube_id": "HZaePggmdPo",
+ "title": "Living in Boulder vlog 4 - 5 - 2017: 20 Area Dimension page still",
+ "url": "https://youtu.be/HZaePggmdPo",
+ "published_at": "2017-04-06",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about his day on April 5, 2017 in Boulder, noting he got little sleep but felt fine. He worked on a chart he calls 'Area Dimension' showing race distances as circles with panoramic views, and got a new idea to add buildings at cardinal points as scale references. He also spent time listening to Wikipedia articles about the history of Rome and Titus Livius, feeling immersed in the historical narrative.",
+  "speaker": "kyle",
+  "topics": [
+   "sleep",
+   "personal project/chart",
+   "running/race distances",
+   "history of Rome",
+   "Titus Livius",
+   "Boulder daily life"
+  ],
+  "stances": [
+   {
+    "topic": "sleep deprivation",
+    "position": "Surprised he isn't tired after two nights of only 4-5 hours of sleep"
+   },
+   {
+    "topic": "Area Dimension chart project",
+    "position": "Excited and motivated despite it taking longer than expected; likes the page"
+   },
+   {
+    "topic": "historical immersion via reading",
+    "position": "Believes you can tap into the same mindset as historical figures when deeply engaged with their stories"
+   },
+   {
+    "topic": "Wikipedia history articles",
+    "position": "Thinks they have gotten really good with lots of detail"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Titus Livius (Livy)",
+   "Rome",
+   "Google Earth"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.36,
+   "end": 9.52,
+   "text": "Living in Boulder for April 5, 2017 and it's 1246 on April 6th."
+  },
+  {
+   "start": 12.8,
+   "end": 20.06,
+   "text": "Today I got up at work early."
+  },
+  {
+   "start": 21.26,
+   "end": 25.98,
+   "text": "I got up at like 9-8 or 9 or something like that."
+  },
+  {
+   "start": 26.78,
+   "end": 28.94,
+   "text": "Even though I was up until like 230."
+  },
+  {
+   "start": 28.94,
+   "end": 37.1,
+   "text": "I got 4 hours, I was given 8 hours to sleep and I got 4 hours to sleep last night and then I got 5 hours to sleep last night."
+  },
+  {
+   "start": 37.58,
+   "end": 39.5,
+   "text": "I'm not tired, that's magical."
+  },
+  {
+   "start": 40.38,
+   "end": 43.98,
+   "text": "I don't usually get 2 days in a row of only 8 or 4 hours to sleep."
+  },
+  {
+   "start": 43.98,
+   "end": 45.34,
+   "text": "I don't think I'm going to."
+  },
+  {
+   "start": 45.34,
+   "end": 47.58,
+   "text": "But I got a background."
+  },
+  {
+   "start": 47.58,
+   "end": 50.46,
+   "text": "Oh yeah, background. Not a long run, I'll do background."
+  },
+  {
+   "start": 50.78,
+   "end": 53.26,
+   "text": "Just recording the video for the first time this time."
+  },
+  {
+   "start": 53.26,
+   "end": 71.82,
+   "text": "I worked in and continuing on the chart here."
+  },
+  {
+   "start": 73.42,
+   "end": 75.66,
+   "text": "I had to finish building it."
+  },
+  {
+   "start": 75.66,
+   "end": 76.7,
+   "text": "I was still building it."
+  },
+  {
+   "start": 76.7,
+   "end": 77.66,
+   "text": "I took it yesterday."
+  },
+  {
+   "start": 77.66,
+   "end": 82.3,
+   "text": "I was doing the else finishing the movie circles and then there was a bunch of different"
+  },
+  {
+   "start": 82.46,
+   "end": 84.3,
+   "text": "complete and so."
+  },
+  {
+   "start": 86.22,
+   "end": 89.5,
+   "text": "It's super time consuming because I didn't have it all figured out from the beginning."
+  },
+  {
+   "start": 96.19,
+   "end": 98.75,
+   "text": "But I think tomorrow I can have it finished."
+  },
+  {
+   "start": 103.97,
+   "end": 106.61,
+   "text": "It's chart though, but I got a new idea today."
+  },
+  {
+   "start": 108.61,
+   "end": 112.29,
+   "text": "Because I was making the movies what I have and my chart, my area is dimensions."
+  },
+  {
+   "start": 113.17,
+   "end": 114.77,
+   "text": "It's the thing that shows there."
+  },
+  {
+   "start": 114.77,
+   "end": 117.73,
+   "text": "I'm a circle and then you have the movie doing the panorama of it."
+  },
+  {
+   "start": 118.69,
+   "end": 122.29,
+   "text": "I'm going to have the different all the different race distances for each location."
+  },
+  {
+   "start": 124.77,
+   "end": 131.33,
+   "text": "Then I got the idea to have buildings at the edges of the area so that you know exactly how far"
+  },
+  {
+   "start": 131.33,
+   "end": 132.13,
+   "text": "I went that building."
+  },
+  {
+   "start": 132.13,
+   "end": 134.53,
+   "text": "You know, you have four of them at Cardinal Points."
+  },
+  {
+   "start": 134.53,
+   "end": 138.53,
+   "text": "Maybe double size ones at Cardinal Points and like half size ones."
+  },
+  {
+   "start": 139.57,
+   "end": 142.77,
+   "text": "In between, but you know how big they are and it's all, you know, standardised."
+  },
+  {
+   "start": 142.77,
+   "end": 144.05,
+   "text": "That would be really cool."
+  },
+  {
+   "start": 148.13,
+   "end": 150.7,
+   "text": "Yeah."
+  },
+  {
+   "start": 150.7,
+   "end": 154.94,
+   "text": "Then that would be a video, like showing my career life, picture, and then that,"
+  },
+  {
+   "start": 154.94,
+   "end": 160.06,
+   "text": "and then you Google it over like something and then you can get an idea of what it looks like"
+  },
+  {
+   "start": 160.06,
+   "end": 164.22,
+   "text": "a far away and Google Earth is supposed to like a picture but I think they're pretty much the same."
+  },
+  {
+   "start": 166.62,
+   "end": 168.3,
+   "text": "So I was listening to"
+  },
+  {
+   "start": 171.18,
+   "end": 173.34,
+   "text": "living today but then I was listening to"
+  },
+  {
+   "start": 173.58,
+   "end": 173.98,
+   "text": "whoow!"
+  },
+  {
+   "start": 176.62,
+   "end": 181.54,
+   "text": "Wikipedia articles of all this stuff about history of raw, which in those articles"
+  },
+  {
+   "start": 181.62,
+   "end": 184.06,
+   "text": "have gotten really good. There's lots of different articles."
+  },
+  {
+   "start": 187.98,
+   "end": 192.38,
+   "text": "So then I started reading about, from Tynus talking about the literary."
+  },
+  {
+   "start": 192.38,
+   "end": 193.74,
+   "text": "That's the voluntary story."
+  },
+  {
+   "start": 194.94,
+   "end": 199.18,
+   "text": "And I listened to that whole his whole book and I still listened to parts again."
+  },
+  {
+   "start": 199.18,
+   "end": 200.3,
+   "text": "That's what I'm producing."
+  },
+  {
+   "start": 200.3,
+   "end": 203.34,
+   "text": "They were talking about how they'd get across the river,"
+  },
+  {
+   "start": 203.34,
+   "end": 205.3,
+   "text": "all the wealth in this year and there."
+  },
+  {
+   "start": 205.3,
+   "end": 208.3,
+   "text": "I think I got to ask that experience in that"
+  },
+  {
+   "start": 208.3,
+   "end": 211.3,
+   "text": "Oh, yeah, I think you can totally,"
+  },
+  {
+   "start": 211.3,
+   "end": 214.3,
+   "text": "even when you keep put yourself into the world,"
+  },
+  {
+   "start": 214.3,
+   "end": 218.3,
+   "text": "to make sure you're actually well at past that experience."
+  },
+  {
+   "start": 218.3,
+   "end": 221.3,
+   "text": "Like you'll tap into the same mind that they did."
+  },
+  {
+   "start": 221.3,
+   "end": 223.3,
+   "text": "Like back there, where they're thinking they're like,"
+  },
+  {
+   "start": 223.3,
+   "end": 225.3,
+   "text": "oh, this is what you got to do."
+  },
+  {
+   "start": 225.3,
+   "end": 229.3,
+   "text": "You know, like the second work, like working this in the army."
+  },
+  {
+   "start": 229.3,
+   "end": 231.3,
+   "text": "And they don't know what to do."
+  },
+  {
+   "start": 231.3,
+   "end": 232.3,
+   "text": "Like I was thinking about that,"
+  },
+  {
+   "start": 232.3,
+   "end": 235.3,
+   "text": "you know, like people trying to cross and"
+  },
+  {
+   "start": 235.3,
+   "end": 238.3,
+   "text": "even rope above, break them a lotter and stuff."
+  },
+  {
+   "start": 238.3,
+   "end": 239.3,
+   "text": "They're talking about them."
+  },
+  {
+   "start": 239.3,
+   "end": 242.3,
+   "text": "I felt like I was there for a second."
+  },
+  {
+   "start": 242.3,
+   "end": 250.3,
+   "text": "So yeah, so yeah, I'm super excited, super motivated to keep going on this."
+  },
+  {
+   "start": 250.3,
+   "end": 251.3,
+   "text": "When I'm working on it."
+  },
+  {
+   "start": 251.3,
+   "end": 256.3,
+   "text": "Oh, yeah, I built, I built, I built, I built, I built it around."
+  },
+  {
+   "start": 256.3,
+   "end": 260.42,
+   "text": "And I got up for that."
+  },
+  {
+   "start": 260.42,
+   "end": 263.42,
+   "text": "Because I would feel like I'll break world here."
+  },
+  {
+   "start": 263.42,
+   "end": 266.42,
+   "text": "But, you don't know how much longer."
+  },
+  {
+   "start": 266.42,
+   "end": 269.42,
+   "text": "This one I'm going to give myself the rest of the week,"
+  },
+  {
+   "start": 269.42,
+   "end": 270.42,
+   "text": "get it over the weekend."
+  },
+  {
+   "start": 270.42,
+   "end": 272.42,
+   "text": "Because I like this page."
+  },
+  {
+   "start": 272.42,
+   "end": 274.42,
+   "text": "Just taking a lot longer than I thought,"
+  },
+  {
+   "start": 274.42,
+   "end": 276.42,
+   "text": "but I like this page."
+  },
+  {
+   "start": 276.42,
+   "end": 278.42,
+   "text": "So how long have I talked?"
+  },
+  {
+   "start": 278.42,
+   "end": 279.42,
+   "text": "439."
+  },
+  {
+   "start": 279.42,
+   "end": 281.42,
+   "text": "That's about right."
+  },
+  {
+   "start": 281.42,
+   "end": 282.42,
+   "text": "Just under five minutes."
+  },
+  {
+   "start": 282.42,
+   "end": 285.42,
+   "text": "All right, peace out."
+  }
+ ]
+}

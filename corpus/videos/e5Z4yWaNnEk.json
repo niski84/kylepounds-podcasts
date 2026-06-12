@@ -1,0 +1,359 @@
+{
+ "youtube_id": "e5Z4yWaNnEk",
+ "title": "Living in Boulder vlog 4 - 30 - 2017: Roman Timeline & Timechart",
+ "url": "https://youtu.be/e5Z4yWaNnEk",
+ "published_at": "2017-05-01",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about a long overnight work session building a Roman timeline and timechart project. He troubleshot column/formatting issues caused by styled text that had to be stripped through Notepad, fixed navigation links between horizontal and vertical sections of the timeline, and attached YouTube icons and phone links to a timechart he plans to use as a show playlist. He outlines next steps: cleaning up Wikipedia-sourced text and linking dates from his 'living' pages back to the timeline.",
+  "speaker": "kyle",
+  "topics": [
+   "Roman timeline project",
+   "timechart/playlist project",
+   "sleep schedule",
+   "web/document formatting bugs",
+   "project workflow"
+  ],
+  "stances": [
+   {
+    "topic": "Roman timeline formatting bug",
+    "position": "styled text from an external source caused column layout to break; stripping it through Notepad fixed it"
+   },
+   {
+    "topic": "timechart project progress",
+    "position": "happy with progress attaching YouTube icons and phone links; excited about linking it to the timeline"
+   }
+  ],
+  "entities": [
+   "Wikipedia",
+   "YouTube",
+   "Notepad",
+   "Boulder",
+   "Wikipedia"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.69,
+   "end": 9.33,
+   "text": "Hello, living in Boulder, Vila, for April 30th, 2017."
+  },
+  {
+   "start": 9.33,
+   "end": 12.85,
+   "text": "Right now it's May 1st, 253AM."
+  },
+  {
+   "start": 12.85,
+   "end": 24.81,
+   "text": "So yesterday I got up at, yeah, yeah, I was working until like, four of the morning yesterday."
+  },
+  {
+   "start": 25.81,
+   "end": 29.81,
+   "text": "And then I got up at, was this today and then I got up at six, six."
+  },
+  {
+   "start": 31.01,
+   "end": 32.61,
+   "text": "Because they just could sleep in more."
+  },
+  {
+   "start": 33.81,
+   "end": 37.81,
+   "text": "And then I worked until like noon and then I slept for like a couple hours or in the day."
+  },
+  {
+   "start": 37.81,
+   "end": 38.81,
+   "text": "I just couldn't keep my eyes open."
+  },
+  {
+   "start": 39.81,
+   "end": 42.81,
+   "text": "I was apparently I didn't get a full nicely."
+  },
+  {
+   "start": 43.81,
+   "end": 45.81,
+   "text": "Even though I got up at six, like I was fresh."
+  },
+  {
+   "start": 46.81,
+   "end": 49.81,
+   "text": "But then I worked until noon and I was 254AM."
+  },
+  {
+   "start": 50.81,
+   "end": 60.81,
+   "text": "Yesterday at the beginning of the day, I was the Roman timeline was totally a mess."
+  },
+  {
+   "start": 64.12,
+   "end": 70.12,
+   "text": "Because the columns were worked and I didn't know why."
+  },
+  {
+   "start": 70.12,
+   "end": 75.12,
+   "text": "So I had to rebuild it until I've been pointed at the culprit."
+  },
+  {
+   "start": 75.12,
+   "end": 80.12,
+   "text": "One of the many culprits, but the culprit was just taxed."
+  },
+  {
+   "start": 80.12,
+   "end": 83.12,
+   "text": "And you know, I was looking at the 82 mile part."
+  },
+  {
+   "start": 83.12,
+   "end": 85.12,
+   "text": "And the rock code part was just words."
+  },
+  {
+   "start": 85.12,
+   "end": 94.12,
+   "text": "So I had to paste it onto like a text program, notebook, and then paste it back on the dream waiver."
+  },
+  {
+   "start": 95.12,
+   "end": 99.12,
+   "text": "For it to not have whatever it had to allow it to step to."
+  },
+  {
+   "start": 101.12,
+   "end": 102.12,
+   "text": "The correct size."
+  },
+  {
+   "start": 102.12,
+   "end": 104.12,
+   "text": "I had to do that with every single thing."
+  },
+  {
+   "start": 105.12,
+   "end": 108.12,
+   "text": "So that took a while and then and so that took away the links of it."
+  },
+  {
+   "start": 109.12,
+   "end": 112.12,
+   "text": "That's fine because now now I can use the colors that I set for it."
+  },
+  {
+   "start": 113.12,
+   "end": 119.12,
+   "text": "But I was doing that all day and then fixing the links."
+  },
+  {
+   "start": 120.12,
+   "end": 121.12,
+   "text": "I fixed the links to which I wanted to do today."
+  },
+  {
+   "start": 122.12,
+   "end": 124.12,
+   "text": "And I finished it."
+  },
+  {
+   "start": 126.12,
+   "end": 129.12,
+   "text": "Where you click on the hot the horizontal on the vertical part of the each now."
+  },
+  {
+   "start": 130.12,
+   "end": 132.12,
+   "text": "So the king's and the dinosaur."
+  },
+  {
+   "start": 132.12,
+   "end": 133.12,
+   "text": "So we're."
+  },
+  {
+   "start": 135.12,
+   "end": 137.12,
+   "text": "I click on a king like on the horizontal part."
+  },
+  {
+   "start": 138.12,
+   "end": 140.12,
+   "text": "It took you to the vertical part and you click it and you can turn it back up."
+  },
+  {
+   "start": 141.12,
+   "end": 142.12,
+   "text": "So that."
+  },
+  {
+   "start": 142.12,
+   "end": 145.12,
+   "text": "I'm not only easy to do with the rest of the timeline."
+  },
+  {
+   "start": 145.12,
+   "end": 147.12,
+   "text": "I was talking and then recording something to stop."
+  },
+  {
+   "start": 148.12,
+   "end": 149.12,
+   "text": "So maybe I'll only have a few minutes."
+  },
+  {
+   "start": 150.12,
+   "end": 151.12,
+   "text": "Seconds to talk here."
+  },
+  {
+   "start": 151.12,
+   "end": 152.12,
+   "text": "Maybe the memory screw up."
+  },
+  {
+   "start": 153.12,
+   "end": 154.12,
+   "text": "I've to restart the computer."
+  },
+  {
+   "start": 155.12,
+   "end": 156.12,
+   "text": "But was I talking about."
+  },
+  {
+   "start": 157.12,
+   "end": 158.12,
+   "text": "That's what I did."
+  },
+  {
+   "start": 158.12,
+   "end": 160.12,
+   "text": "And then after that I went and started working on."
+  },
+  {
+   "start": 161.12,
+   "end": 165.12,
+   "text": "The time chart which I'm going to turn into the like the playlist for the show."
+  },
+  {
+   "start": 166.12,
+   "end": 169.12,
+   "text": "And I attached like 1577 thousand."
+  },
+  {
+   "start": 170.12,
+   "end": 173.12,
+   "text": "I don't know not touched all of the because it's 365 days times 20."
+  },
+  {
+   "start": 174.12,
+   "end": 175.12,
+   "text": "I attached all of the."
+  },
+  {
+   "start": 176.12,
+   "end": 179.12,
+   "text": "YouTube icons to the back of it."
+  },
+  {
+   "start": 180.12,
+   "end": 181.12,
+   "text": "The backside of it."
+  },
+  {
+   "start": 182.12,
+   "end": 184.12,
+   "text": "Even I didn't have to because it's not going to be ready until I'm not."
+  },
+  {
+   "start": 185.12,
+   "end": 189.12,
+   "text": "I just want to work."
+  },
+  {
+   "start": 190.12,
+   "end": 193.12,
+   "text": "And then after that it was attaching the phone links."
+  },
+  {
+   "start": 194.12,
+   "end": 195.12,
+   "text": "So that."
+  },
+  {
+   "start": 195.12,
+   "end": 198.12,
+   "text": "For the dates like in the dates into the timeline."
+  },
+  {
+   "start": 198.12,
+   "end": 202.12,
+   "text": "And then have them you don't link to that date for whenever I'm doing my show."
+  },
+  {
+   "start": 202.12,
+   "end": 204.12,
+   "text": "You know from that page like in here it is in the timeline."
+  },
+  {
+   "start": 205.12,
+   "end": 207.12,
+   "text": "So yeah."
+  },
+  {
+   "start": 208.12,
+   "end": 209.12,
+   "text": "And."
+  },
+  {
+   "start": 210.12,
+   "end": 212.12,
+   "text": "And so tomorrow I'm going to go into the timeline."
+  },
+  {
+   "start": 213.12,
+   "end": 215.12,
+   "text": "And it's the words down."
+  },
+  {
+   "start": 216.12,
+   "end": 217.12,
+   "text": "So that."
+  },
+  {
+   "start": 218.12,
+   "end": 224.12,
+   "text": "You know it looks good because I just don't cut cut and paste job from Wikipedia."
+  },
+  {
+   "start": 225.12,
+   "end": 232.12,
+   "text": "And then after that, I want to go into living and attach the dates that are written on living to my timeline."
+  },
+  {
+   "start": 233.12,
+   "end": 235.12,
+   "text": "You know, and then like it back and forth."
+  },
+  {
+   "start": 236.12,
+   "end": 239.12,
+   "text": "With the dates here, but I can then that's it'll be like already."
+  },
+  {
+   "start": 240.12,
+   "end": 241.12,
+   "text": "What I do that it's going to be super exciting."
+  },
+  {
+   "start": 242.12,
+   "end": 244.12,
+   "text": "Okay, so I think I'll talk to you on the on the right piece."
+  }
+ ]
+}

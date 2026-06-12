@@ -1,0 +1,295 @@
+{
+ "youtube_id": "i-4MFW-BJZA",
+ "title": "Living in Boulder Vlog 12 - 16 - 2016",
+ "url": "https://youtu.be/i-4MFW-BJZA",
+ "published_at": "2016-12-18",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a casual Saturday vlog while high, describing his inverted sleep schedule (going to bed at sunrise), working on Google Earth mapping projects and YouTube videos, and dealing with a broken heater that forced him to shower at a nearby club.",
+  "speaker": "kyle",
+  "topics": [
+   "sleep schedule",
+   "cannabis use",
+   "Google Earth project",
+   "YouTube videos",
+   "living situation",
+   "daily routine"
+  ],
+  "stances": [
+   {
+    "topic": "sleep schedule",
+    "position": "prefers going to bed at sunrise and has always been that way; embraces it rather than fighting it"
+   },
+   {
+    "topic": "history of England",
+    "position": "finds it genuinely fascinating, even while high"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Google Earth",
+   "YouTube",
+   "Bay of Declaration (likely 'Baie de la Déclaration')",
+   "History of England (podcast/audiobook)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.05,
+   "end": 3.85,
+   "text": "Hello, living in Boulder, V-log. This is Saturday, so this will be"
+  },
+  {
+   "start": 4.53,
+   "end": 7.53,
+   "text": "I guess for yesterday or whatever today. I"
+  },
+  {
+   "start": 9.01,
+   "end": 11.01,
+   "text": "Today I"
+  },
+  {
+   "start": 11.41,
+   "end": 13.01,
+   "text": "I"
+  },
+  {
+   "start": 13.01,
+   "end": 17.15,
+   "text": "I'm pretty high right now. I just had a shower girl. I high in the shower"
+  },
+  {
+   "start": 18.17,
+   "end": 23.89,
+   "text": "Yesterday I was working until like six and I was trying to get light and stuff so I got to sleep. I love"
+  },
+  {
+   "start": 24.77,
+   "end": 26.77,
+   "text": "Going to bed at sunrise"
+  },
+  {
+   "start": 26.77,
+   "end": 33.81,
+   "text": "All that's delicious. I never have trouble getting this late man. I'm like I have the worst time"
+  },
+  {
+   "start": 34.09,
+   "end": 39.37,
+   "text": "Getting to sleep. I have the worst and so I'm new. But you know, like even if I've only had like a"
+  },
+  {
+   "start": 40.09,
+   "end": 46.05,
+   "text": "Normal day, you know, and I haven't gone too long and I'm just not totally tired. I can still get to sleep"
+  },
+  {
+   "start": 46.69,
+   "end": 48.69,
+   "text": "Right when I sunrise"
+  },
+  {
+   "start": 48.69,
+   "end": 50.69,
+   "text": "I"
+  },
+  {
+   "start": 50.89,
+   "end": 54.89,
+   "text": "Always been like that, but so now I just organized it. I just in a dream here in the right way"
+  },
+  {
+   "start": 55.41,
+   "end": 57.41,
+   "text": "so that I"
+  },
+  {
+   "start": 57.41,
+   "end": 59.41,
+   "text": "have to look at the camera so that I"
+  },
+  {
+   "start": 61.05,
+   "end": 64.37,
+   "text": "Gonna sleep right then it's pretty bad. So then I got up at like noon"
+  },
+  {
+   "start": 65.57,
+   "end": 67.57,
+   "text": "Which is only six hours asleep, but"
+  },
+  {
+   "start": 69.09,
+   "end": 71.41,
+   "text": "The third year something but I'm all right now"
+  },
+  {
+   "start": 72.37,
+   "end": 78.74,
+   "text": "Yeah, because I thought that they were gonna come and do somebody said called me and said"
+  },
+  {
+   "start": 79.3,
+   "end": 85.54,
+   "text": "That the electric company needed to put a new sensor in my behind my heater. It's weird and"
+  },
+  {
+   "start": 86.54,
+   "end": 89.46,
+   "text": "But yeah, I guess they said it on with their column one day, so"
+  },
+  {
+   "start": 91.7,
+   "end": 96.22,
+   "text": "But now I just got up anyway and then I'm working on I was I was doing those videos"
+  },
+  {
+   "start": 96.22,
+   "end": 100.18,
+   "text": "Those times for all videos and now I'm adding the audio track to it too"
+  },
+  {
+   "start": 100.5,
+   "end": 104.42,
+   "text": "So they're complete. I'm an upload on YouTube and but that we like a hundred of them so"
+  },
+  {
+   "start": 105.5,
+   "end": 107.5,
+   "text": "But um"
+  },
+  {
+   "start": 107.5,
+   "end": 112.62,
+   "text": "But I mean, I'm not getting carried away with it and it's just a little bit here and there, but might mainly work on Google Earth"
+  },
+  {
+   "start": 114.06,
+   "end": 119.54,
+   "text": "Yeah, I'm coming through it's just coming through Google Earth if I work all day night all night here now. It'll be uh"
+  },
+  {
+   "start": 121.82,
+   "end": 122.82,
+   "text": "it'll be"
+  },
+  {
+   "start": 122.82,
+   "end": 124.82,
+   "text": "coming up on"
+  },
+  {
+   "start": 125.9,
+   "end": 127.1,
+   "text": "We're up on it up"
+  },
+  {
+   "start": 127.1,
+   "end": 133.34,
+   "text": "Gonna do the bad as a declaration but differently because it's not only a little bit of it is actually in the map"
+  },
+  {
+   "start": 134.46,
+   "end": 137.06,
+   "text": "That thing that now check with us that that lake"
+  },
+  {
+   "start": 137.58,
+   "end": 143.74,
+   "text": "I had to build myself because only two-third of it was in the map and then the bads of the declaration only like 10% of it is so"
+  },
+  {
+   "start": 144.06,
+   "end": 149.98,
+   "text": "But with that map but with that big lake, I didn't have like the Wikipedia article didn't have a picture of the lake"
+  },
+  {
+   "start": 151.58,
+   "end": 155.42,
+   "text": "So I had to build it myself. You know, I couldn't super impose it, but through this as a declaration"
+  },
+  {
+   "start": 155.42,
+   "end": 159.74,
+   "text": "You can super impose it really well right on it. So I should be pretty just as easy as anyone's but"
+  },
+  {
+   "start": 160.22,
+   "end": 162.22,
+   "text": "And then I'll get to build my own"
+  },
+  {
+   "start": 162.22,
+   "end": 165.22,
+   "text": "But then I'll make it 3D and then I'll build my own cities on it"
+  },
+  {
+   "start": 165.3,
+   "end": 167.3,
+   "text": "Just so I can fill up the entire space with them you really want"
+  },
+  {
+   "start": 169.94,
+   "end": 174.98,
+   "text": "Anyway, so I'm listening to the history of England right now. We're really fascinating dude England has such a fascinating answer"
+  },
+  {
+   "start": 177.3,
+   "end": 180.26,
+   "text": "Even you know being high it's still fascinating to listen to"
+  },
+  {
+   "start": 181.94,
+   "end": 183.94,
+   "text": "Because just thinking about it's interesting"
+  },
+  {
+   "start": 188.42,
+   "end": 195.14,
+   "text": "So yeah my my heater burrow can take there's no hot water comes out so I had to go to the"
+  },
+  {
+   "start": 195.46,
+   "end": 197.46,
+   "text": "club in the house to take a shower"
+  },
+  {
+   "start": 199.86,
+   "end": 202.74,
+   "text": "Hopefully look at that fix I didn't have a shower last night either and then"
+  },
+  {
+   "start": 204.34,
+   "end": 208.5,
+   "text": "The night before last and so I was like smelling myself. I was like oh my god I got to go have a shower"
+  },
+  {
+   "start": 210.18,
+   "end": 212.18,
+   "text": "So I'm yeah I went over there"
+  },
+  {
+   "start": 216.48,
+   "end": 219.44,
+   "text": "Yeah, I didn't have the kick code to get in there last night"
+  },
+  {
+   "start": 220.0,
+   "end": 222.0,
+   "text": "Otherwise I would have but I'm"
+  },
+  {
+   "start": 222.56,
+   "end": 224.56,
+   "text": "I'm gonna split up shut. Okay, so"
+  },
+  {
+   "start": 226.56,
+   "end": 231.36,
+   "text": "I guess that's enough talking I'm gonna get back to my project now. Okay, peace out"
+  }
+ ]
+}

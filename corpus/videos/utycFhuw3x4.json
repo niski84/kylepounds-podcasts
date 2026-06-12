@@ -1,0 +1,130 @@
+{
+ "youtube_id": "utycFhuw3x4",
+ "title": "Uber Verses Taxi - Request",
+ "url": "https://youtu.be/utycFhuw3x4",
+ "published_at": "2016-02-06",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle responds to a viewer request comparing Uber to taxis, expressing clear preference for Uber as a convenient, practical service using regular cars. He briefly recalls a memory from Boulder around 2004 where he drove friends home, connecting it to the Uber concept, and spontaneously considers becoming an Uber driver himself.",
+  "speaker": "kyle",
+  "topics": [
+   "Uber vs taxi",
+   "ride-sharing",
+   "viewer request",
+   "spontaneous life idea"
+  ],
+  "stances": [
+   {
+    "topic": "Uber vs taxi",
+    "position": "Uber is clearly better and will put taxis out of business"
+   },
+   {
+    "topic": "Becoming an Uber driver",
+    "position": "Seriously considers it on the spot as a money-making idea"
+   }
+  ],
+  "entities": [
+   "Alex (viewer from Tolacep)",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 2.29,
+   "end": 8.51,
+   "text": "Alright, but you request your request so Uber versus taxi from an Alex in Tolacep"
+  },
+  {
+   "start": 10.69,
+   "end": 12.45,
+   "text": "That's a really interesting"
+  },
+  {
+   "start": 12.89,
+   "end": 15.61,
+   "text": "Random question. I don't really know how to answer"
+  },
+  {
+   "start": 17.41,
+   "end": 22.73,
+   "text": "I guess Uber are those people who just have normal hot cars and then they sign up and you get on and they go"
+  },
+  {
+   "start": 22.73,
+   "end": 26.01,
+   "text": "I think it's a great idea a great internet great news in and out"
+  },
+  {
+   "start": 26.01,
+   "end": 32.65,
+   "text": "When I came back to Boulder back in the for two months to have months back in like"
+  },
+  {
+   "start": 32.97,
+   "end": 37.67,
+   "text": "2004 or something like that I go to the first and a drop of junk people back home"
+  },
+  {
+   "start": 37.67,
+   "end": 42.77,
+   "text": "And we were just hang out and then we should drive them back in their cars and write a motorbike pack for big people"
+  },
+  {
+   "start": 42.77,
+   "end": 46.79,
+   "text": "So I think it's Uber is better. It's just get somebody normal car and they drive you"
+  },
+  {
+   "start": 47.45,
+   "end": 49.45,
+   "text": "You know"
+  },
+  {
+   "start": 49.45,
+   "end": 51.45,
+   "text": "Yeah, versus normal taxi"
+  },
+  {
+   "start": 51.45,
+   "end": 54.71,
+   "text": "Uber's the way man. Yeah, Uber. Is anybody"
+  },
+  {
+   "start": 54.71,
+   "end": 59.39,
+   "text": "Anybody who will drive you to shit. It's gonna bring taxi and everything else out of business"
+  },
+  {
+   "start": 60.51,
+   "end": 64.47,
+   "text": "Yeah, it's really cool. Yeah, you should be an Uber driver. I should be a Uber driver"
+  },
+  {
+   "start": 65.11,
+   "end": 67.11,
+   "text": "Holy shit. I should sign up for Uber"
+  },
+  {
+   "start": 68.71,
+   "end": 71.43,
+   "text": "I don't know. Maybe money. Wow. I just thought it right now"
+  },
+  {
+   "start": 76.51,
+   "end": 78.51,
+   "text": "Okay"
+  },
+  {
+   "start": 79.35,
+   "end": 81.35,
+   "text": "Okay, so that's that"
+  },
+  {
+   "start": 81.35,
+   "end": 85.79,
+   "text": "Well, thanks for it. Okay, so that's that video. I peace out"
+  }
+ ]
+}

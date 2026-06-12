@@ -1,0 +1,556 @@
+{
+ "youtube_id": "qxaMvZyQjMo",
+ "title": "Front Page of my Website - Stoned",
+ "url": "https://youtu.be/qxaMvZyQjMo",
+ "published_at": "2015-09-08",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle walks through the front page and overall design philosophy of his personal website while stoned, explaining his four-part design language: two-side-column page layout, five-column lists, color/number coding based on a rainbow system, and font conventions. His central goal is condensing large amounts of information into a visually compact, learnable format.",
+  "speaker": "kyle",
+  "topics": [
+   "personal website design",
+   "information condensation",
+   "color coding system",
+   "five-column list layout",
+   "static vs dynamic websites",
+   "rainbow number system",
+   "presenting while stoned"
+  ],
+  "stances": [
+   {
+    "topic": "website design philosophy",
+    "position": "condense information visually so it can be absorbed quickly and skipped around easily"
+   },
+   {
+    "topic": "lists vs prose",
+    "position": "lists are the best way to convey information, like a dictionary or almanac"
+   },
+   {
+    "topic": "static vs dynamic (expand/collapse) layouts",
+    "position": "prefers fully open static pages so readers can gauge size at a glance via the scrollbar"
+   },
+   {
+    "topic": "color coding",
+    "position": "rainbow order is the most natural and distinct way to assign colors to numbered categories"
+   },
+   {
+    "topic": "explaining the design while stoned",
+    "position": "wants to explain it in the same mental state he was in when he built it"
+   }
+  ],
+  "entities": [
+   "Macintosh",
+   "MacBook Pro",
+   "Google Earth"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Hello."
+  },
+  {
+   "start": 3.0,
+   "end": 6.0,
+   "text": "This is my website."
+  },
+  {
+   "start": 8.0,
+   "end": 12.0,
+   "text": "You are welcome to look at this. Check this out."
+  },
+  {
+   "start": 30.0,
+   "end": 32.0,
+   "text": "I'm the second and foremost of pages such as my complete history timeline."
+  },
+  {
+   "start": 33.0,
+   "end": 36.0,
+   "text": "That's my original educational ideas such as my cover to the infant to the land."
+  },
+  {
+   "start": 37.0,
+   "end": 40.0,
+   "text": "The design of my website style is to condense information and insistence to act so it can be absorbed quickly and never yet easily."
+  },
+  {
+   "start": 41.0,
+   "end": 45.0,
+   "text": "The best way to display a lot of information and a smaller area is by removing that space and replacing it on the words we callers and fonts."
+  },
+  {
+   "start": 46.0,
+   "end": 50.0,
+   "text": "If the website is consistent in its design, that becomes a new language that people can learn to interpret and become inspired to use to create their own personal website languages."
+  },
+  {
+   "start": 51.0,
+   "end": 56.0,
+   "text": "My website language consists of 4 categories, 1-2-side columns page, 2-5 column list, 3-color and number coding and 4- neighbor name font and 4-er coding,"
+  },
+  {
+   "start": 56.0,
+   "end": 65.2,
+   "text": "mm-hmm. So, the two side columns page you can see here, this is my front page,"
+  },
+  {
+   "start": 65.2,
+   "end": 74.12,
+   "text": "you can most of my pages utilize this. And I like it because it frames the whole page"
+  },
+  {
+   "start": 74.12,
+   "end": 82.8,
+   "text": "together like a picture. So, on the top you see top frame border and then the sides"
+  },
+  {
+   "start": 82.8,
+   "end": 88.0,
+   "text": "are the side frame and then on the bottom would be the end of the writing. So, whatever"
+  },
+  {
+   "start": 88.0,
+   "end": 94.8,
+   "text": "section chapter I write it I'd like to have it kind of take up the whole page."
+  },
+  {
+   "start": 94.8,
+   "end": 111.8,
+   "text": "Howdy, so here we are. So, this part that I just read is like 226 words. So,"
+  },
+  {
+   "start": 112.8,
+   "end": 126.2,
+   "text": "your average page is 240 words. So, this is pretty much close to a page. I think it took when I read it on double speed on my"
+  },
+  {
+   "start": 126.2,
+   "end": 137.2,
+   "text": "Macintosh. It took 44 seconds to read this as I recall. So, you know, like double speed reading on that"
+  },
+  {
+   "start": 137.2,
+   "end": 142.2,
+   "text": "and I can toss this kind of like just under a minute per page. If you want to look at it like that."
+  },
+  {
+   "start": 142.2,
+   "end": 156.2,
+   "text": "So, yeah, I'd like to eventually want to get around to put the leaps of all my close charts and stuff like right now here."
+  },
+  {
+   "start": 156.2,
+   "end": 168.72,
+   "text": "So, I have the two side column page which I explained before and then there's, so that's where I explain that here."
+  },
+  {
+   "start": 168.72,
+   "end": 185.72,
+   "text": "Now, so this is the general layout of my website. The front part here is on a blue backdrop and then I have the different page chapters down below on the one to five color coding."
+  },
+  {
+   "start": 185.72,
+   "end": 200.43,
+   "text": "So, as you can see here, one is pink and you have it, you have to see everything else to have a number attached to it."
+  },
+  {
+   "start": 200.43,
+   "end": 218.43,
+   "text": "Maybe I should have this read it now, don't take too long. So, yeah, one is pink, two is orange, three is light yellow, four is dark yellow, five is light green, six is dark green, seven is light blue, eight is dark blue, nine is ocean blue, ten is purple,"
+  },
+  {
+   "start": 218.43,
+   "end": 243.43,
+   "text": "so this is the colors that I thought were most appropriate to be the background. That's enough to dark but it is also distinct enough to mimic a rainbow in the same order as an actual rainbow."
+  },
+  {
+   "start": 243.43,
+   "end": 261.95,
+   "text": "Kind of goes like this, you know, like read kind of goes to orange to yellow, I should put a real rainbow next to this. I will. So, so, this ends up going around."
+  },
+  {
+   "start": 261.95,
+   "end": 269.95,
+   "text": "So, the first part, if I skip around sorry this is stonendivation, I'll do silver version later."
+  },
+  {
+   "start": 269.95,
+   "end": 277.95,
+   "text": "But if you always really stonendivate design, so I want to explain it while I'm in the state where I am when I designed it, right, when I built it."
+  },
+  {
+   "start": 277.95,
+   "end": 292.95,
+   "text": "So, this is what you have, it's page looks like inside column, you have 20% 20% because you can read across just fine on a normal MacBook or the MacBook Pro, if you're the largest at the half 15.5 inch."
+  },
+  {
+   "start": 292.95,
+   "end": 310.95,
+   "text": "So, it works great, pictures of perfect size on the side, and the text is the perfect width. So, everything is jam packed together, you can, you know, like up here this is a page but it doesn't really look like a page which kind of makes it condensed to make it smaller than a page."
+  },
+  {
+   "start": 310.95,
+   "end": 321.95,
+   "text": "So, that's what I'm shooting for. So, I don't have the five column list, this is where I make this. My website has really important with this. Very heavy on lists."
+  },
+  {
+   "start": 322.95,
+   "end": 334.95,
+   "text": "Because the list is information texts, and so, you know, like the dictionary and the Almanate, those are lists. So, it's just a convincing information."
+  },
+  {
+   "start": 334.95,
+   "end": 349.95,
+   "text": "And so, my list is built on five columns that go across a whole page. So, those are 20% so that the columns that go across are actually really on the side or the same width as the columns on the side when you have the text in the middle."
+  },
+  {
+   "start": 349.95,
+   "end": 361.95,
+   "text": "I know what a text page like here is kind of like the three columns got it out. So, and I like having the three columns that the five columns across because"
+  },
+  {
+   "start": 361.95,
+   "end": 372.95,
+   "text": "We do have here, we do have an example. I should have an example of an actual one right here just to make. Well, I'll put that there."
+  },
+  {
+   "start": 372.95,
+   "end": 397.95,
+   "text": "Yeah, there's a little bit of rush because I have to super up in a couple days. So, I'm gonna say there's the last time I can do this. So, but when this goes across the whole page 20% is about how much width you would need, you know, and more than enough width you would need usually, but just a little bit."
+  },
+  {
+   "start": 397.95,
+   "end": 406.95,
+   "text": "For something in a list, like a name or stuff, you know, and if it's more than that it's just like two and then two is good enough for."
+  },
+  {
+   "start": 406.95,
+   "end": 418.95,
+   "text": "So, you can condense lots of stuff perfectly, lots of paid words per page this way, and even move across the list."
+  },
+  {
+   "start": 419.95,
+   "end": 428.95,
+   "text": "So, the general concept of my website is to condense information. I like that crystal condenses information and it's a natural way."
+  },
+  {
+   "start": 428.95,
+   "end": 436.95,
+   "text": "And so, when I have stuff on list, I can have things where you have folders when and folders."
+  },
+  {
+   "start": 436.95,
+   "end": 454.95,
+   "text": "These are my folders and folders. So, like one, two, it's like a layer on top of it. You can see two is a layer in the CDL line of one around two, and you can see the outline of one, two, around three, all the way up to ten."
+  },
+  {
+   "start": 454.95,
+   "end": 472.06,
+   "text": "And this is how my audio book page works and we watch that this too. So, it's a cool way. If you like to have, I like to have a static website. I'll write that here."
+  },
+  {
+   "start": 472.06,
+   "end": 484.06,
+   "text": "But something where that doesn't have open up and closing up, because I like to have it so that you can see exactly how big it is."
+  },
+  {
+   "start": 484.06,
+   "end": 490.06,
+   "text": "Because it helps you wrap your hair out of the juice. And if it's open and closed, you can actually see how big everything is."
+  },
+  {
+   "start": 490.06,
+   "end": 496.06,
+   "text": "When it's already open, you can see how big everything is by looking at the scroll bar here."
+  },
+  {
+   "start": 496.06,
+   "end": 502.06,
+   "text": "And I think how big the scroll bar is and you scroll them up and down and you just see it all the way."
+  },
+  {
+   "start": 502.06,
+   "end": 507.06,
+   "text": "And you can still jump around and make you around to it."
+  },
+  {
+   "start": 507.06,
+   "end": 512.06,
+   "text": "Yeah, so a lot of the lists that I have, here's some example of lists that I have."
+  },
+  {
+   "start": 512.06,
+   "end": 521.06,
+   "text": "Here's a number of items that I have. So like I have 12 time dimensions."
+  },
+  {
+   "start": 521.06,
+   "end": 529.06,
+   "text": "On my timeline page, I mean that my timelines are big, I'll list on the five column. That's the main thing is the five column."
+  },
+  {
+   "start": 530.06,
+   "end": 531.06,
+   "text": "The biggest thing."
+  },
+  {
+   "start": 531.06,
+   "end": 543.89,
+   "text": "I'm going to have 14 size dimensions of my Google Earth download for my visualizing, you know, a center monument and a picture group."
+  },
+  {
+   "start": 543.89,
+   "end": 549.89,
+   "text": "Double on size 14 and 40 sets by 45 by goals."
+  },
+  {
+   "start": 549.89,
+   "end": 555.89,
+   "text": "46 cycles 45 size dimensions, 40 10 48 audio book categories."
+  },
+  {
+   "start": 555.89,
+   "end": 561.89,
+   "text": "And 99 historical event categories anyway."
+  },
+  {
+   "start": 561.89,
+   "end": 567.89,
+   "text": "This is just a way to kind of grow it. You can group these things together and then stack these together on."
+  },
+  {
+   "start": 567.89,
+   "end": 577.89,
+   "text": "So like if each one of these, you know, like a hundred by Chris, we have a hundred by Chris, or levels on a list that's a hundred that would check out like the page."
+  },
+  {
+   "start": 578.89,
+   "end": 584.89,
+   "text": "Because I haven't had it, I haven't had it so it was 20 down. Oh, I don't want to have that explained to it."
+  },
+  {
+   "start": 584.89,
+   "end": 587.89,
+   "text": "I'm not as far ahead as if up."
+  },
+  {
+   "start": 587.89,
+   "end": 590.89,
+   "text": "Yeah, so I don't want to take a full page."
+  },
+  {
+   "start": 590.89,
+   "end": 597.89,
+   "text": "And you can have these stuff down top of the chart and these lists."
+  },
+  {
+   "start": 597.89,
+   "end": 600.89,
+   "text": "Anyway, let's move on."
+  },
+  {
+   "start": 600.89,
+   "end": 603.89,
+   "text": "Number color and number code."
+  },
+  {
+   "start": 603.89,
+   "end": 608.89,
+   "text": "Yeah, this is what I was talking about before I got skipped on the hand on myself."
+  },
+  {
+   "start": 608.89,
+   "end": 615.89,
+   "text": "Yeah, so this is how it works like in a rainbow kind of a seven."
+  },
+  {
+   "start": 615.89,
+   "end": 618.89,
+   "text": "This is called a rainbow crystal."
+  },
+  {
+   "start": 618.89,
+   "end": 622.89,
+   "text": "This is kind of the, this is kind of like the flag of my website."
+  },
+  {
+   "start": 622.89,
+   "end": 632.89,
+   "text": "I should put this on the front page because this illustrates how each number in each color match and also how I like to name it."
+  },
+  {
+   "start": 632.89,
+   "end": 654.89,
+   "text": "I like to name text written in a square so that I utilize all of condensed all of the information down in a way where you can kind of jump around and skip around and do a link, just kind of like a square concept."
+  },
+  {
+   "start": 654.89,
+   "end": 659.89,
+   "text": "So, kind of, I don't know what to say."
+  },
+  {
+   "start": 660.89,
+   "end": 669.89,
+   "text": "So here's an example. I should put this on my, my five column page actually, but here's an example of the list of 100 things."
+  },
+  {
+   "start": 669.89,
+   "end": 674.89,
+   "text": "So each color has a number, a number of 10."
+  },
+  {
+   "start": 674.89,
+   "end": 678.89,
+   "text": "So here's one. So you can see I divided up."
+  },
+  {
+   "start": 678.89,
+   "end": 682.89,
+   "text": "So like, you know, here you can actually see the different rainbow."
+  },
+  {
+   "start": 682.89,
+   "end": 685.89,
+   "text": "So there's one and then we see a little bit of a service one."
+  },
+  {
+   "start": 685.89,
+   "end": 703.89,
+   "text": "You know, they do something with over that 10 and 10s of the idea of a number to help visually visualize your one, which is dot which dot and then 10, increasing my power of actually 10 years."
+  },
+  {
+   "start": 703.89,
+   "end": 707.89,
+   "text": "Is the rainbow and then 100 is the whole page."
+  },
+  {
+   "start": 707.89,
+   "end": 710.89,
+   "text": "So, and 20 will be doubled."
+  },
+  {
+   "start": 710.89,
+   "end": 715.89,
+   "text": "And then, 7 can go down."
+  },
+  {
+   "start": 715.89,
+   "end": 722.89,
+   "text": "So that's a quadruf of the numbers, you know, kind of like the person."
+  },
+  {
+   "start": 722.89,
+   "end": 728.62,
+   "text": "So, you just acronym and FANTON."
+  },
+  {
+   "start": 728.62,
+   "end": 733.62,
+   "text": "And I have this many of my website, I mean, my timeline."
+  },
+  {
+   "start": 733.62,
+   "end": 738.62,
+   "text": "More of the orders."
+  },
+  {
+   "start": 738.62,
+   "end": 743.62,
+   "text": "I just write, depending on what different thing that I have."
+  },
+  {
+   "start": 743.62,
+   "end": 747.62,
+   "text": "And like these, to work a church way as it's working."
+  },
+  {
+   "start": 747.62,
+   "end": 754.62,
+   "text": "And different, you know, things are different even, far too."
+  },
+  {
+   "start": 754.62,
+   "end": 759.62,
+   "text": "Like, try, like this one and then one of the most of this one."
+  },
+  {
+   "start": 759.62,
+   "end": 764.62,
+   "text": "So I don't really, the rest of my website has an issue of development to get all of this."
+  },
+  {
+   "start": 764.62,
+   "end": 769.62,
+   "text": "But they just, but if I do, you know, want to condense information."
+  },
+  {
+   "start": 769.62,
+   "end": 775.62,
+   "text": "When it becomes redundant and time to do that, then I have."
+  },
+  {
+   "start": 775.62,
+   "end": 779.62,
+   "text": "And a new way, then I have this to draw."
+  },
+  {
+   "start": 779.62,
+   "end": 786.62,
+   "text": "It's kind of like a fountain of well of language to take from."
+  },
+  {
+   "start": 786.62,
+   "end": 790.62,
+   "text": "Yeah, so I'll explain my timeline after after."
+  },
+  {
+   "start": 790.62,
+   "end": 795.62,
+   "text": "So this is my front page basically describing the design of my website."
+  },
+  {
+   "start": 795.62,
+   "end": 798.62,
+   "text": "I should explain this to the concept."
+  },
+  {
+   "start": 798.62,
+   "end": 802.62,
+   "text": "It's to put, yeah, I just do, we have it."
+  },
+  {
+   "start": 802.62,
+   "end": 808.62,
+   "text": "It's basically to put all of my information up here."
+  },
+  {
+   "start": 808.62,
+   "end": 815.62,
+   "text": "And, you know, my list that I made."
+  },
+  {
+   "start": 815.62,
+   "end": 823.62,
+   "text": "And, and whenever I have an idea like my bike versus a fantasy and a different,"
+  },
+  {
+   "start": 823.62,
+   "end": 825.62,
+   "text": "I build it in this language."
+  },
+  {
+   "start": 825.62,
+   "end": 838.62,
+   "text": "It's been in my hands to condense information and help the brain, you know, divide it in combat and remember that way."
+  },
+  {
+   "start": 838.62,
+   "end": 841.62,
+   "text": "Okay. So that's my front page myself."
+  }
+ ]
+}

@@ -1,0 +1,455 @@
+{
+ "youtube_id": "eA9cmRoPyAU",
+ "title": "Living in Boulder vlog 12 -  10 -  2017: Google Earthing Roman Buildings",
+ "url": "https://youtu.be/eA9cmRoPyAU",
+ "published_at": "2017-12-11",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a late-night vlog after pulling an all-nighter, updating viewers on his progress building a 3D model of ancient Rome using Google Earth. He describes his organizational system of 14 regions and 40 precincts, his method for estimating building counts using historical sources, and his building-placement workflow including height and color coding for insulae and houses.",
+  "speaker": "kyle",
+  "topics": [
+   "ancient Rome 3D mapping",
+   "Google Earth project",
+   "Roman urban history",
+   "project organization",
+   "building estimation methodology",
+   "sleep deprivation vlog"
+  ],
+  "stances": [
+   {
+    "topic": "project progress",
+    "position": "pleased with how quickly buildings can be placed — optimistic he can finish the month strong"
+   },
+   {
+    "topic": "organization",
+    "position": "acknowledges he is not very well organized but is working through it incrementally"
+   }
+  ],
+  "entities": [
+   "Neil deGrasse Tyson",
+   "Cosmos (TV show)",
+   "Boulder",
+   "Rome",
+   "Ashby (historical source on Roman buildings)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.69,
+   "end": 2.69,
+   "text": "Hello living older view log."
+  },
+  {
+   "start": 3.49,
+   "end": 7.49,
+   "text": "I'm sitting 36 in the morning on December 11th."
+  },
+  {
+   "start": 8.69,
+   "end": 11.69,
+   "text": "I didn't go to sleep last night, so I'm going to go to bed right after doing this."
+  },
+  {
+   "start": 12.69,
+   "end": 14.69,
+   "text": "I'm trying myself into a doctor and I lost."
+  },
+  {
+   "start": 15.69,
+   "end": 18.69,
+   "text": "I haven't done a video for a couple days."
+  },
+  {
+   "start": 19.69,
+   "end": 25.69,
+   "text": "I'm into busy working, I'm going to get tired and I'm just doing it this time."
+  },
+  {
+   "start": 25.69,
+   "end": 34.69,
+   "text": "So last time I did the video, I think what was happening was I was trying to finish up the roads."
+  },
+  {
+   "start": 35.69,
+   "end": 45.69,
+   "text": "So where I am now is I have to stop the roads and now I'm working on building buildings."
+  },
+  {
+   "start": 46.69,
+   "end": 53.69,
+   "text": "So in order to figure out a way to do my buildings, I went into Boulder."
+  },
+  {
+   "start": 53.69,
+   "end": 61.69,
+   "text": "I looked at the area within Boulder, in my imaginary Aralean Wall around Rome."
+  },
+  {
+   "start": 62.69,
+   "end": 65.69,
+   "text": "I put one around Boulder, same size and I keep bombeters."
+  },
+  {
+   "start": 66.69,
+   "end": 70.69,
+   "text": "So that there are, I think, four precincts in that area."
+  },
+  {
+   "start": 73.69,
+   "end": 76.69,
+   "text": "And a different size is one of the business modes you're looking at."
+  },
+  {
+   "start": 76.69,
+   "end": 85.69,
+   "text": "So that I went into Rome and I decided to have 40 precincts to keep it consistent."
+  },
+  {
+   "start": 86.69,
+   "end": 89.69,
+   "text": "Rome has 14 regions that I guess just made."
+  },
+  {
+   "start": 92.69,
+   "end": 100.19,
+   "text": "But that was too big on this area on the section region five."
+  },
+  {
+   "start": 101.19,
+   "end": 105.19,
+   "text": "It was just too big to just try to do them all at one unit."
+  },
+  {
+   "start": 105.19,
+   "end": 107.19,
+   "text": "So I wanted to break it out."
+  },
+  {
+   "start": 108.19,
+   "end": 114.19,
+   "text": "Organizational state. So I figured I'd have 40 precincts in 14 regions."
+  },
+  {
+   "start": 115.19,
+   "end": 118.19,
+   "text": "So it's six precincts to a region."
+  },
+  {
+   "start": 119.19,
+   "end": 122.19,
+   "text": "And that divides up really well."
+  },
+  {
+   "start": 123.19,
+   "end": 134.19,
+   "text": "And so on regions five I did actually trace completed all of the buildings for the first three."
+  },
+  {
+   "start": 135.19,
+   "end": 138.19,
+   "text": "So I was like one day."
+  },
+  {
+   "start": 139.19,
+   "end": 143.19,
+   "text": "It's really not that time-consuming."
+  },
+  {
+   "start": 144.19,
+   "end": 149.19,
+   "text": "And there were, I'm going to follow the pattern of region nine."
+  },
+  {
+   "start": 150.19,
+   "end": 154.19,
+   "text": "I said this the other day, but I'm looking at the deputies of their 42 to 46,"
+  },
+  {
+   "start": 155.19,
+   "end": 163.19,
+   "text": "thousand buildings in Silla and my house is in Rome in the third century region I used."
+  },
+  {
+   "start": 163.19,
+   "end": 167.19,
+   "text": "But I clicked on the link that I did say where it was written anywhere."
+  },
+  {
+   "start": 168.19,
+   "end": 174.19,
+   "text": "And I don't know what I did in the area in the fourth year."
+  },
+  {
+   "start": 175.19,
+   "end": 179.19,
+   "text": "So to figure out how many buildings there are, I decided to just do a plight on an Ashby."
+  },
+  {
+   "start": 180.19,
+   "end": 182.19,
+   "text": "It's like the Bible for the Roman buildings."
+  },
+  {
+   "start": 183.19,
+   "end": 188.19,
+   "text": "But a hundred years ago, and they said that in region nine, it was 2777."
+  },
+  {
+   "start": 188.19,
+   "end": 192.19,
+   "text": "It's the part and buildings in the 40th house of Silla."
+  },
+  {
+   "start": 193.19,
+   "end": 196.19,
+   "text": "And that's 1.70 square kilometers."
+  },
+  {
+   "start": 197.19,
+   "end": 201.19,
+   "text": "I think that was like 1600 or 4600 per square kilometers."
+  },
+  {
+   "start": 202.19,
+   "end": 207.19,
+   "text": "Just using that formula, I forget the formula so I just type it in from those numbers."
+  },
+  {
+   "start": 208.19,
+   "end": 210.19,
+   "text": "I remember from region nine."
+  },
+  {
+   "start": 210.19,
+   "end": 219.19,
+   "text": "So even with all those buildings, that's like, it's 1.67 square kilometers region five."
+  },
+  {
+   "start": 220.19,
+   "end": 223.19,
+   "text": "So it's almost as big as region nine."
+  },
+  {
+   "start": 224.19,
+   "end": 227.19,
+   "text": "So you're talking 2500 buildings."
+  },
+  {
+   "start": 228.19,
+   "end": 230.19,
+   "text": "But I did like half of that in one day."
+  },
+  {
+   "start": 231.19,
+   "end": 233.19,
+   "text": "So it's really not that big in the building."
+  },
+  {
+   "start": 234.19,
+   "end": 236.19,
+   "text": "One of the precincts would have like 500 buildings."
+  },
+  {
+   "start": 236.19,
+   "end": 239.19,
+   "text": "And it just trace over the ones that are very, very, very simple."
+  },
+  {
+   "start": 240.19,
+   "end": 242.19,
+   "text": "And then you've that set it them however."
+  },
+  {
+   "start": 243.19,
+   "end": 245.19,
+   "text": "I have them at 18 meters, which is the highest that they could be."
+  },
+  {
+   "start": 246.19,
+   "end": 248.19,
+   "text": "And then six to a long of the eight."
+  },
+  {
+   "start": 249.19,
+   "end": 251.19,
+   "text": "And then I go in every other one."
+  },
+  {
+   "start": 252.19,
+   "end": 253.19,
+   "text": "And even numbered ones."
+  },
+  {
+   "start": 254.19,
+   "end": 255.19,
+   "text": "I make them 14."
+  },
+  {
+   "start": 256.19,
+   "end": 259.19,
+   "text": "I mean 13 meters and then make the color orange and silver."
+  },
+  {
+   "start": 261.19,
+   "end": 263.19,
+   "text": "And then the houses, one out of every 20 is a house."
+  },
+  {
+   "start": 263.19,
+   "end": 267.19,
+   "text": "Make those red at five years, which is the difference between 18 and 15 meters."
+  },
+  {
+   "start": 268.19,
+   "end": 271.19,
+   "text": "So anyway, it goes by quickly."
+  },
+  {
+   "start": 272.19,
+   "end": 276.19,
+   "text": "I was very pleased because this means I can just."
+  },
+  {
+   "start": 277.19,
+   "end": 281.19,
+   "text": "Bill, or no, like, to the building this month."
+  },
+  {
+   "start": 282.19,
+   "end": 285.19,
+   "text": "You know, like maybe five to the end of the year, I'm not."
+  },
+  {
+   "start": 286.19,
+   "end": 292.19,
+   "text": "I quit because this morning when I got to the point of my realized I had to put some more runs in."
+  },
+  {
+   "start": 293.19,
+   "end": 295.19,
+   "text": "You know, like."
+  },
+  {
+   "start": 296.19,
+   "end": 298.19,
+   "text": "All the roads, it's not perfect."
+  },
+  {
+   "start": 299.19,
+   "end": 302.19,
+   "text": "I don't realize things like I want to find the gym that's so I want to add roads."
+  },
+  {
+   "start": 303.19,
+   "end": 306.19,
+   "text": "Just better than having to take them away because it takes a little bit of fun."
+  },
+  {
+   "start": 307.19,
+   "end": 309.19,
+   "text": "But just can't find it like I'm going on."
+  },
+  {
+   "start": 310.19,
+   "end": 312.19,
+   "text": "But I'm not very well organized, but."
+  },
+  {
+   "start": 314.57,
+   "end": 315.57,
+   "text": "So yeah."
+  },
+  {
+   "start": 317.57,
+   "end": 319.57,
+   "text": "But that's one of the do-no-marlin."
+  },
+  {
+   "start": 320.57,
+   "end": 322.57,
+   "text": "I get a build a couple more roads in there and then finish that."
+  },
+  {
+   "start": 325.57,
+   "end": 328.57,
+   "text": "Creasing for five and six to move on to the next one."
+  },
+  {
+   "start": 329.57,
+   "end": 330.57,
+   "text": "It'll just fall like Donald."
+  },
+  {
+   "start": 332.85,
+   "end": 333.85,
+   "text": "And I can't wait."
+  },
+  {
+   "start": 334.85,
+   "end": 339.85,
+   "text": "I can't wait to do the videos after I got all kinds of call I guess."
+  },
+  {
+   "start": 340.85,
+   "end": 341.85,
+   "text": "I think I'm going to."
+  },
+  {
+   "start": 342.85,
+   "end": 344.85,
+   "text": "Neil deGrest Tyson has this has his cosmos show where he's."
+  },
+  {
+   "start": 345.85,
+   "end": 346.85,
+   "text": "And then a little spaceship will."
+  },
+  {
+   "start": 348.85,
+   "end": 352.85,
+   "text": "Instead of being in a spaceship, I think I'll be in a bicycle that's like magic carpet."
+  },
+  {
+   "start": 352.85,
+   "end": 354.85,
+   "text": "It's like magic carpet and fly."
+  },
+  {
+   "start": 355.85,
+   "end": 356.85,
+   "text": "So I'm going to go back home."
+  },
+  {
+   "start": 357.85,
+   "end": 358.85,
+   "text": "A thousand feet of over on."
+  },
+  {
+   "start": 359.85,
+   "end": 360.85,
+   "text": "Hey look, it's on. Look at that."
+  },
+  {
+   "start": 361.85,
+   "end": 362.85,
+   "text": "Time to descend."
+  },
+  {
+   "start": 363.85,
+   "end": 367.85,
+   "text": "Anyway, I think I'm going to go to sleep right now and think of me on ideas."
+  },
+  {
+   "start": 368.85,
+   "end": 369.85,
+   "text": "Well, I'm going to."
+  },
+  {
+   "start": 370.85,
+   "end": 371.85,
+   "text": "Okay, peace out."
+  }
+ ]
+}

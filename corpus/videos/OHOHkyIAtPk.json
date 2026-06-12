@@ -1,0 +1,312 @@
+{
+ "youtube_id": "OHOHkyIAtPk",
+ "title": "Cheeseburges - Request",
+ "url": "https://youtu.be/OHOHkyIAtPk",
+ "published_at": "2014-05-27",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle responds to a viewer request about cheeseburgers, sharing his love for them despite rarely eating them, discussing the American origins of hamburgers, concerns about 'pink slime' in ground beef, and naming McDonald's Big Mac and fries as his favorites. He also touches on meat-eating culture in America versus Argentina and his preferred burger toppings.",
+  "speaker": "kyle",
+  "topics": [
+   "cheeseburgers",
+   "fast food preferences",
+   "American food culture",
+   "meat eating",
+   "food origins",
+   "McDonald's vs Burger King",
+   "french fries"
+  ],
+  "stances": [
+   {
+    "topic": "best burger",
+    "position": "McDonald's Big Mac is his top pick"
+   },
+   {
+    "topic": "best french fries",
+    "position": "McDonald's fries are best due to crispiness and perfect salt distribution"
+   },
+   {
+    "topic": "Burger King fries",
+    "position": "too soggy"
+   },
+   {
+    "topic": "Wendy's fries",
+    "position": "not enough salt and not crispy enough"
+   },
+   {
+    "topic": "pink slime in hamburgers",
+    "position": "disgusted by it — calls it gross"
+   },
+   {
+    "topic": "burger toppings",
+    "position": "puts everything on — cheese, lettuce, tomato, ketchup, mustard"
+   }
+  ],
+  "entities": [
+   "Martin",
+   "McDonald's",
+   "Burger King",
+   "Wendy's",
+   "Argentina"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "Alright another one from Martin. Hello Kyle how are you? I'm good next. Thank you for your request."
+  },
+  {
+   "start": 5.0,
+   "end": 13.56,
+   "text": "What are your thoughts on cheese burgers in general like the history of the stuff which restaurants in your opinion do you think has the best"
+  },
+  {
+   "start": 14.56,
+   "end": 20.48,
+   "text": "burgers and fries in your opinion and why also do you like to have everything on it or no?"
+  },
+  {
+   "start": 21.0,
+   "end": 24.64,
+   "text": "Interesting question. Oh, I love cheese burgers. I'm never I never eat them"
+  },
+  {
+   "start": 25.2,
+   "end": 27.2,
+   "text": "but I want to but"
+  },
+  {
+   "start": 27.2,
+   "end": 30.4,
+   "text": "When I travel around to other countries"
+  },
+  {
+   "start": 32.24,
+   "end": 37.12,
+   "text": "Who would have a seemingly Donald Ligel in there and I get myself a hamburger or a big Mac which I guess is a cheese burger"
+  },
+  {
+   "start": 39.08,
+   "end": 43.36,
+   "text": "And I was a kid I would usually just get hamburgers because I would say money, but I think it's good to get cheese burgers"
+  },
+  {
+   "start": 43.36,
+   "end": 45.36,
+   "text": "Cheese because right there on the cheese burger"
+  },
+  {
+   "start": 46.8,
+   "end": 51.64,
+   "text": "I don't know really much about the street cheese burgers. I know that hamburger is basically is an American food"
+  },
+  {
+   "start": 51.64,
+   "end": 55.04,
+   "text": "you know like if you think about food from different countries"
+  },
+  {
+   "start": 55.04,
+   "end": 57.04,
+   "text": "Pizza, spaghetti and pizza"
+  },
+  {
+   "start": 57.04,
+   "end": 59.04,
+   "text": "There are Italian"
+  },
+  {
+   "start": 59.04,
+   "end": 61.04,
+   "text": "English breakfast with like fried tomatoes"
+  },
+  {
+   "start": 62.04,
+   "end": 65.04,
+   "text": "When done like one single hard boy I think that was an English"
+  },
+  {
+   "start": 69.04,
+   "end": 75.84,
+   "text": "I think American food we got a lot of our food for me going to Germany like me like bacon and stuff"
+  },
+  {
+   "start": 77.04,
+   "end": 80.8,
+   "text": "Americans have thin crispy bacon and English have juicy bacon"
+  },
+  {
+   "start": 80.8,
+   "end": 82.8,
+   "text": "Um"
+  },
+  {
+   "start": 83.52,
+   "end": 94.4,
+   "text": "What else like yeah like noodles would be you know with spicy noodles a be Asian Mexican is a refried beans wrapped up in tortillas with cheese and"
+  },
+  {
+   "start": 94.8,
+   "end": 96.8,
+   "text": "In America we have our hamburgers and"
+  },
+  {
+   "start": 98.08,
+   "end": 100.08,
+   "text": "And chili, I think"
+  },
+  {
+   "start": 101.2,
+   "end": 103.44,
+   "text": "Cheese burger so yeah, that's good old American for"
+  },
+  {
+   "start": 104.4,
+   "end": 106.4,
+   "text": "Mmm"
+  },
+  {
+   "start": 106.4,
+   "end": 109.44,
+   "text": "Cows um there's America we have a lot of"
+  },
+  {
+   "start": 110.32,
+   "end": 117.76,
+   "text": "Fields a lot of grassland a lot of area for cows, you know back before we had meant came it was all occupied by buffalo and they eat a buffalo"
+  },
+  {
+   "start": 119.76,
+   "end": 127.24,
+   "text": "And we sometimes eat we've not buffalo burgers out here, but so yes, so now we just put cows there and now we've got a bunch of cows and Americans are big big"
+  },
+  {
+   "start": 127.24,
+   "end": 129.24,
+   "text": "immediate meat eaters"
+  },
+  {
+   "start": 129.64,
+   "end": 134.68,
+   "text": "Argentinians are big meat eaters too, but they usually have it in steak. We have a hamburger ground beef and"
+  },
+  {
+   "start": 135.8,
+   "end": 137.8,
+   "text": "Um"
+  },
+  {
+   "start": 138.2,
+   "end": 143.96,
+   "text": "But now we're starting to do it like the Indian way where we're eating every single part of the other animal"
+  },
+  {
+   "start": 143.96,
+   "end": 148.2,
+   "text": "I mean we're doing it in gross way. There's like like that pink slime shit like"
+  },
+  {
+   "start": 148.76,
+   "end": 153.56,
+   "text": "30% of the hamburgers in the out of that which is like like melted bones and"
+  },
+  {
+   "start": 154.04,
+   "end": 158.84,
+   "text": "Tendons and stuff with chemicals you put them in there and it melts it down so you need the entire animal"
+  },
+  {
+   "start": 160.68,
+   "end": 162.68,
+   "text": "But um"
+  },
+  {
+   "start": 163.0,
+   "end": 168.76,
+   "text": "But uh my favorite hamburger is um I like I always liked"
+  },
+  {
+   "start": 170.84,
+   "end": 173.16,
+   "text": "Burger King although Burger King's kind of certain to slip"
+  },
+  {
+   "start": 174.36,
+   "end": 179.72,
+   "text": "So I think yeah I always like a hamburger big Mac or McDonald's big Mac, sure. I was really good"
+  },
+  {
+   "start": 180.2,
+   "end": 186.44,
+   "text": "Let's say that over all those I think they're big McDonald's big Mac and the best French fries are McDonald's because they're the crispiest"
+  },
+  {
+   "start": 187.56,
+   "end": 194.12,
+   "text": "Um and they have the perfect amount of salt which is a lot of salt, but it's all evenly spread perfectly over their crispy thinned and French fries"
+  },
+  {
+   "start": 194.36,
+   "end": 201.72,
+   "text": "And then the perfect size and so yeah, I like they're the best everybody else is soggy like Burger King of soggy and"
+  },
+  {
+   "start": 202.84,
+   "end": 204.84,
+   "text": "Wendy's is like"
+  },
+  {
+   "start": 205.32,
+   "end": 207.32,
+   "text": "Mmm"
+  },
+  {
+   "start": 207.32,
+   "end": 211.64,
+   "text": "Not not enough salt on it and um not crispy enough"
+  },
+  {
+   "start": 212.92,
+   "end": 214.92,
+   "text": "um yeah"
+  },
+  {
+   "start": 215.72,
+   "end": 217.72,
+   "text": "Um so"
+  },
+  {
+   "start": 218.76,
+   "end": 225.16,
+   "text": "Yeah, when I have a hamburger oh yeah, I have everything like if somebody has like a barbecue or whatever and they have the fixons for the hamburger"
+  },
+  {
+   "start": 225.16,
+   "end": 230.2,
+   "text": "I put everything on their did the burger that she is the lettuce the tomato the"
+  },
+  {
+   "start": 231.32,
+   "end": 234.28,
+   "text": "ketchup the"
+  },
+  {
+   "start": 234.52,
+   "end": 236.52,
+   "text": "mustard"
+  },
+  {
+   "start": 236.92,
+   "end": 240.36,
+   "text": "Yummy yummy yummy yummy yummy for my tummy and"
+  },
+  {
+   "start": 241.64,
+   "end": 243.64,
+   "text": "I guess that's it okay, peace out"
+  }
+ ]
+}

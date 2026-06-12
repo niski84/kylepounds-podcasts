@@ -1,0 +1,242 @@
+{
+ "youtube_id": "bRU0b1BjoOQ",
+ "title": "Living in Boulder Vlog 1 - 29 - 2017",
+ "url": "https://youtu.be/bRU0b1BjoOQ",
+ "published_at": "2017-01-30",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about a day spent with his mom visiting a thrift store (Goodwill or similar), where they scored furniture including a large rug, a one-person blue couch, and three chairs for around $25. He shares plans to organize and decorate his room and mentions wanting to set up a green screen for future videos.",
+  "speaker": "kyle",
+  "topics": [
+   "Boulder living",
+   "thrift shopping",
+   "room setup/decor",
+   "dispensary observation",
+   "green screen setup",
+   "YouTube production"
+  ],
+  "stances": [
+   {
+    "topic": "thrift shopping",
+    "position": "excited and enthusiastic about the deals he scored"
+   },
+   {
+    "topic": "dispensary near the thrift store",
+    "position": "amused by an out-of-state woman's reaction to the smell of weed"
+   },
+   {
+    "topic": "green screen",
+    "position": "motivated to set it up to level up production quality"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "mom",
+   "Adobe Premiere"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.42,
+   "end": 3.42,
+   "text": "Hey, how's it going?"
+  },
+  {
+   "start": 4.1,
+   "end": 7.1,
+   "text": "This video is living in Boulder, V-Log, for"
+  },
+  {
+   "start": 8.66,
+   "end": 11.94,
+   "text": "January 29th, 2017. I"
+  },
+  {
+   "start": 12.46,
+   "end": 16.66,
+   "text": "Didn't do one for yesterday because I was just got too busy with my stuff"
+  },
+  {
+   "start": 17.7,
+   "end": 20.94,
+   "text": "got up early. How was up until like three and then I got up at like nine?"
+  },
+  {
+   "start": 21.78,
+   "end": 23.78,
+   "text": "one over to my mom's house and"
+  },
+  {
+   "start": 26.58,
+   "end": 30.9,
+   "text": "Should we went over it to the thrash up to stand line early so we could get our goods?"
+  },
+  {
+   "start": 32.06,
+   "end": 38.5,
+   "text": "And there's funny while we're standing line that their shop is next to a dispensary and there's this old lady from a different state where we're not leaving"
+  },
+  {
+   "start": 38.5,
+   "end": 41.74,
+   "text": "She's like, oh look dispensary. I feel so sorry for people who"
+  },
+  {
+   "start": 42.1,
+   "end": 49.18,
+   "text": "Who have businesses near dispensary. I was at the even at the intersection down there. I could smell all of the weed"
+  },
+  {
+   "start": 49.18,
+   "end": 51.18,
+   "text": "I was like 400 years away. I"
+  },
+  {
+   "start": 51.18,
+   "end": 53.18,
+   "text": "Couldn't even smell it where we were there"
+  },
+  {
+   "start": 53.58,
+   "end": 55.18,
+   "text": "crazy"
+  },
+  {
+   "start": 55.18,
+   "end": 61.14,
+   "text": "So anyway, we opened a car. They opened the thing and we got our stuff. I got my rug. I'll do the video later"
+  },
+  {
+   "start": 61.42,
+   "end": 71.62,
+   "text": "Yeah, a big old rug takes up most of my room. It's awesome that the open area my room that takes up and I have a good open area my room. It's awesome"
+  },
+  {
+   "start": 72.9,
+   "end": 74.9,
+   "text": "So it gets big as the open area. I'm living it"
+  },
+  {
+   "start": 77.38,
+   "end": 79.38,
+   "text": "Yeah, so this you got me a"
+  },
+  {
+   "start": 80.66,
+   "end": 84.9,
+   "text": "couch to a one person couch is felt blue. I'll do a video later"
+  },
+  {
+   "start": 84.9,
+   "end": 91.26,
+   "text": "That's really comfortable and beautiful in the mouse fits right on top of it"
+  },
+  {
+   "start": 91.26,
+   "end": 97.94,
+   "text": "It's awesome. It's like a Starbucks couch and so and then she got me these three chairs like this one that I'm sitting on now"
+  },
+  {
+   "start": 99.22,
+   "end": 100.22,
+   "text": "a"
+  },
+  {
+   "start": 100.22,
+   "end": 104.46,
+   "text": "set and three feel like 25 bucks. It was like everything for like on a box. So so cool"
+  },
+  {
+   "start": 104.94,
+   "end": 106.94,
+   "text": "got this big guys for a 360. So"
+  },
+  {
+   "start": 108.94,
+   "end": 112.22,
+   "text": "So I got a motivated to organize my room"
+  },
+  {
+   "start": 112.22,
+   "end": 116.38,
+   "text": "So just more stuff with my room. So I just had"
+  },
+  {
+   "start": 118.58,
+   "end": 120.58,
+   "text": "Go ahead and post photos"
+  },
+  {
+   "start": 121.5,
+   "end": 127.76,
+   "text": "Like muscle chick legs, supple my ceilings and stuff to make it to make it like"
+  },
+  {
+   "start": 128.66,
+   "end": 130.86,
+   "text": "The world of the public level muscle chicks"
+  },
+  {
+   "start": 131.82,
+   "end": 135.82,
+   "text": "So that so that when I squat it makes it seem normal"
+  },
+  {
+   "start": 136.58,
+   "end": 138.98,
+   "text": "That everybody has to have big fat legs"
+  },
+  {
+   "start": 139.26,
+   "end": 142.26,
+   "text": "So that my legs get fat like that and"
+  },
+  {
+   "start": 144.06,
+   "end": 146.06,
+   "text": "I'll stuff it stuff like that so"
+  },
+  {
+   "start": 149.06,
+   "end": 155.23,
+   "text": "But it's probably best to cover it up keep it covered up"
+  },
+  {
+   "start": 157.31,
+   "end": 163.43,
+   "text": "Stuff covered up for guests. I'll do a video a show video of my room after"
+  },
+  {
+   "start": 165.27,
+   "end": 170.19,
+   "text": "And hopefully today I'll do a good again my green screen figured out I have to"
+  },
+  {
+   "start": 170.63,
+   "end": 173.87,
+   "text": "Get it I have the program. I think it's Adobe premiere, right?"
+  },
+  {
+   "start": 174.59,
+   "end": 180.47,
+   "text": "So I'll just watch I guess you two videos or whatever to tutorial and figure out how to work the green screen and from now on"
+  },
+  {
+   "start": 181.47,
+   "end": 184.71,
+   "text": "It's green screen and I'm like one level up in professionalism"
+  },
+  {
+   "start": 184.71,
+   "end": 190.85,
+   "text": "So maybe this is the final day. So anyway, thanks mom for all of the cool stuff for the house"
+  },
+  {
+   "start": 191.99,
+   "end": 193.99,
+   "text": "Here you go"
+  }
+ ]
+}

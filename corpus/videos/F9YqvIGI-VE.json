@@ -1,0 +1,102 @@
+{
+ "youtube_id": "F9YqvIGI-VE",
+ "title": "Living in Boulder Vlog 2 - 21 - 2016",
+ "url": "https://youtu.be/F9YqvIGI-VE",
+ "published_at": "2016-02-21",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a casual vlog update from Boulder on February 21, 2016, covering his progress mapping Boulder on Google (focusing on the area around Boulder High), plans to process and upload videos and photos to Facebook, and excitement about audiobooks and a Bluetooth/SD card connectivity issue with his phone that he needs to resolve.",
+  "speaker": "kyle",
+  "topics": [
+   "Google Maps project",
+   "Boulder vlog",
+   "video/photo processing",
+   "audiobook enthusiasm",
+   "phone SD card troubleshooting",
+   "playlist curation"
+  ],
+  "stances": [
+   {
+    "topic": "audiobooks on your phone",
+    "position": "Everyone should have audiobooks on their phone — if you don't, you're missing out"
+   },
+   {
+    "topic": "working on Google Maps while hot",
+    "position": "Mapping while physically active helps motivation rather than hindering it"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Boulder High"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.74,
+   "end": 19.04,
+   "text": "Hello, here's Living in Boulder vlog for February the 21st, 2016. Okay. So, it's like almost 2 o'clock and I haven't even gotten started. Really. I did one. I actually drew one square around one block, but I haven't really gotten started on my Google Earth yet."
+  },
+  {
+   "start": 19.04,
+   "end": 49.02,
+   "text": "I'm working on Google Earth in Boulder. I'm working on the area around Boulder High right now in CU and it's just super, super, super complicated because it's all, it's not, it's all on its own little thing, you know, and so, but you know, it's cool that I can do it when I'm high. A lot of people would be like, whoa, you know, but I'm like desensitized to it and I, it actually helps me when I'm high."
+  },
+  {
+   "start": 49.04,
+   "end": 79.02,
+   "text": "Because it, it, it elevates my, um, my motivation because, because the thing that I think about is the finished product. I'm like, oh my God, the finished product. I'm like, okay, I have to have the finished product. So then that motivates me to punch through and do it. Um, and, uh, yeah, so that's what I'm going to start doing right now because I've already done my videos. I'm going to process them and upload them and, uh, and then I'm going to get going on this, um, on this, on this beautiful Sunday. Um, blah, blah, blah."
+  },
+  {
+   "start": 79.04,
+   "end": 92.88,
+   "text": "So that's about that. That's about that. That's, oh wait, there was those Red Singer videos. I was going to do Red Singer photos. I'm creating photos because I found those videos and then I'm going to make all the screen captures and then upload that to the Facebook page, man."
+  },
+  {
+   "start": 92.88,
+   "end": 108.86,
+   "text": "Oh shit. Oh, but I have to do this. This is probably the most important thing. My phone, man, I have like a hundred gigabytes because I have like a hundred, a hundred and eighteen gigabyte, uh, SD card. And then a 15 giga, 16 gigabytes of hard drive on this phone."
+  },
+  {
+   "start": 108.86,
+   "end": 120.16,
+   "text": "This new phone I got, but it won't connect. It won't stay connected with my SD card. So I can't, I can't make playlists in my audio books or, or explore that. I mean, I was so excited because then you could just literally listen to whatever you want to need more than time."
+  },
+  {
+   "start": 120.3,
+   "end": 132.62,
+   "text": "Cause also the batteries all last for like two days on these. I'm like, ah, so, um, so they said to just try another one. So I'm going to call and see if the store's open now and I'm going to see if I can find an SD card, put the other SD card in and see if it connects."
+  },
+  {
+   "start": 132.62,
+   "end": 147.1,
+   "text": "And if it doesn't, I'm going to return my SD card, get a new SD card and hopefully it'll stay connected, transfer the stuff over. And then, oh me, oh my man. Oh, make, make playlists and stuff. Oh, oh my God, dude, dude, did this audio books, all the world's history."
+  },
+  {
+   "start": 147.18,
+   "end": 155.62,
+   "text": "Yeah. Best history. I do like something. It's all fine. If you don't have it, you're a fucking retard. If you do have it, you're a stud."
+  },
+  {
+   "start": 155.62,
+   "end": 168.14,
+   "text": "So let's do it, man. Peace out. I should start like a, a, a, a, a, a petition, like sign this petition."
+  },
+  {
+   "start": 168.14,
+   "end": 182.63,
+   "text": "If you have declared that you have at least 1000 historical audio books on your cell phone and like, oh, but you should get all, and then we should have like best playlists, best historical playlists."
+  },
+  {
+   "start": 182.63,
+   "end": 187.79,
+   "text": "Cause there's, there's this shit's all free, man. And all those bad, good old bad books and pass it free."
+  },
+  {
+   "start": 188.59,
+   "end": 192.07,
+   "text": "So that, anyway, that's one of my new projects. Okay, so peace out."
+  }
+ ]
+}

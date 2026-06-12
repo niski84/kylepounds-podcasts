@@ -1,0 +1,600 @@
+{
+ "youtube_id": "ajIjNZXh25Y",
+ "title": "Training with Kyle: Ride #2 7:16 83.43 Miles 8,186 Feet climbing",
+ "url": "https://youtu.be/ajIjNZXh25Y",
+ "published_at": "2019-05-04",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle recounts his second cycling ride of the year — an ~87-mile, 8,000+ foot climbing route from Boulder through Lyons, Estes Park, and Ward. He covers his physical struggles (asthma for the first 2.5 hours, significant left knee and hip tendon pain), gear notes (GPS computer glitch splitting the ride, radar issues, AirPods), and basic nutrition strategy (GU packets, Cytomax, one water refill stop).",
+  "speaker": "kyle",
+  "topics": [
+   "cycling training",
+   "asthma",
+   "knee/tendon pain",
+   "nutrition and hydration",
+   "gear and equipment",
+   "route description",
+   "sleep and recovery"
+  ],
+  "stances": [
+   {
+    "topic": "training from rock bottom",
+    "position": "Accepts he is badly out of shape and treats early suffering as expected growing pains"
+   },
+   {
+    "topic": "asthma medication",
+    "position": "Rationing remaining Advair due to lack of health insurance; prefers not to use it unless absolutely necessary"
+   },
+   {
+    "topic": "GU packets for endurance",
+    "position": "Strongly endorses them as the key to never bonking on long rides"
+   },
+   {
+    "topic": "AirPods for cycling",
+    "position": "Regrets buying AirPods over wired earphones; wind noise is a real safety problem"
+   },
+   {
+    "topic": "bike radar",
+    "position": "Loves it when it works; considers it an important safety tool"
+   }
+  ],
+  "entities": [
+   "Strava",
+   "Boulder (CO)",
+   "Lyons (CO)",
+   "Estes Park (CO)",
+   "Allen's Park (CO)",
+   "Ward (CO)",
+   "Lee Hill",
+   "Boulder Canyon",
+   "Boathouse Farms",
+   "Cytomax",
+   "Advair",
+   "Chipotle (Cadoba)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.85,
+   "end": 7.41,
+   "text": "Hello, Training with Kyle. Welcome to my new series. This is going to be on my main channel"
+  },
+  {
+   "start": 7.41,
+   "end": 12.39,
+   "text": "Where I talk about training. If I want to talk about, you want to see me talk about"
+  },
+  {
+   "start": 12.39,
+   "end": 16.37,
+   "text": "My life, just go to my vlog channel. That's where I talk about everything, like my website"
+  },
+  {
+   "start": 16.37,
+   "end": 21.87,
+   "text": "And stuff. But I want to make these training videos super, super, super quick. I think"
+  },
+  {
+   "start": 21.87,
+   "end": 26.03,
+   "text": "It's cool to watch, to make a video every single day, now that I'm training every single"
+  },
+  {
+   "start": 26.03,
+   "end": 35.13,
+   "text": "Day, just to talk about, you know, the journey, the journey. So, yeah, I'm pretty much hitting"
+  },
+  {
+   "start": 35.13,
+   "end": 42.33,
+   "text": "It from rock bottom. I did a 50 mile ride a few days ago, but then I kind of took a few"
+  },
+  {
+   "start": 42.33,
+   "end": 48.45,
+   "text": "Days off, was doing stuff. And then I swam three times. I swam 1,300 meters, 1,400 meters,"
+  },
+  {
+   "start": 48.45,
+   "end": 57.29,
+   "text": "And then 69, like 7,000 meters. It was a few days ago. And then I got like sidetracked."
+  },
+  {
+   "start": 57.39,
+   "end": 65.59,
+   "text": "So then today I went on my first ride, my second ride of the year. So, yeah. So what I did"
+  },
+  {
+   "start": 65.59,
+   "end": 77.79,
+   "text": "Was I, excuse me, I got up super, I laid back in bed at like midnight and I just closed my"
+  },
+  {
+   "start": 77.79,
+   "end": 83.67,
+   "text": "Eyes. I had insomnia because I haven't been exercising. And so I have like too much energy,"
+  },
+  {
+   "start": 83.85,
+   "end": 87.73,
+   "text": "You know what I mean? And I just, that's just how I am. I have insomnia. So I, but I think"
+  },
+  {
+   "start": 87.73,
+   "end": 93.79,
+   "text": "I did manage to get some REM sleep, um, between three and four. I'm just guessing about an hour."
+  },
+  {
+   "start": 94.79,
+   "end": 99.59,
+   "text": "Um, which is good. As long as I get a little bit of REM, I'm all right. If I stay up all night"
+  },
+  {
+   "start": 99.59,
+   "end": 106.49,
+   "text": "Long without sleeping at all, then I'm in trouble. Um, so, but yeah, so I got up at, you know,"
+  },
+  {
+   "start": 106.49,
+   "end": 110.23,
+   "text": "I set my alarm for six and kind of got up at like 620 or whatever. I had a breakfast,"
+  },
+  {
+   "start": 110.23,
+   "end": 119.45,
+   "text": "Had breakfast, um, eggs on toast. And then, uh, some, some, some fruit juice, um, like"
+  },
+  {
+   "start": 119.45,
+   "end": 126.13,
+   "text": "Some green fruit juice from boathouse farms, like kiwi and stuff. I can't remember what's in there,"
+  },
+  {
+   "start": 126.19,
+   "end": 132.13,
+   "text": "But, um, yeah. And then I took off. Um, so because I'm such a beginner, you know, I'm so out of"
+  },
+  {
+   "start": 132.13,
+   "end": 139.85,
+   "text": "Shape. I'll explain what's going on. Um, yeah. So for the first, cause I was looking at my back"
+  },
+  {
+   "start": 139.85,
+   "end": 148.29,
+   "text": "For about the first hour and a half, I had really bad asthma. Like all of my concentration was just"
+  },
+  {
+   "start": 148.29,
+   "end": 153.65,
+   "text": "Trying to breathe. It was a full blown asthma attack. Um, I'm not really taking asthma medication"
+  },
+  {
+   "start": 153.65,
+   "end": 159.33,
+   "text": "Anymore because, um, I don't have health insurance right now. And I have only like maybe 20 hits of my"
+  },
+  {
+   "start": 159.33,
+   "end": 164.85,
+   "text": "Advair left. And I just don't want to use those up unless I absolutely have to. Um, but at about"
+  },
+  {
+   "start": 164.85,
+   "end": 170.91,
+   "text": "One, about an hour and a half into it, I, uh, I started to breathe a little bit better. Um, but"
+  },
+  {
+   "start": 170.91,
+   "end": 176.17,
+   "text": "I still had asthma. And then after about two and a half hours into the ride, the asthma pretty much"
+  },
+  {
+   "start": 176.17,
+   "end": 184.91,
+   "text": "Went away. So hopefully we'll have to deal with that. So, um, in the future, although I did notice"
+  },
+  {
+   "start": 184.91,
+   "end": 190.71,
+   "text": "When I'm super tired, the asthma comes back when I came back, uh, the asthma. So what I did was I"
+  },
+  {
+   "start": 190.71,
+   "end": 198.33,
+   "text": "Think I went on like an 87 mile ride with something like 8,000 feet of climbing. It had to get broken"
+  },
+  {
+   "start": 198.33,
+   "end": 202.81,
+   "text": "Up on my computer. I'm looking at Strava right now and it was broken up into two rides because I"
+  },
+  {
+   "start": 202.81,
+   "end": 207.87,
+   "text": "Stopped at one point and I took it off and I, my computer, I shouldn't have, but I put it in my"
+  },
+  {
+   "start": 207.87,
+   "end": 212.83,
+   "text": "Pocket at this one place to get water and that I thought I could get water. And then when I put the"
+  },
+  {
+   "start": 212.83,
+   "end": 218.45,
+   "text": "Computer on, I was looking at it and it somehow it paused the time pause at four hours and five"
+  },
+  {
+   "start": 218.45,
+   "end": 224.31,
+   "text": "Minutes. And the seconds weren't going, weren't continuing. And I didn't know, like, you know,"
+  },
+  {
+   "start": 224.31,
+   "end": 228.61,
+   "text": "Like there's nothing that does that. It only does that if it's, there's a freeze. So I had to stop"
+  },
+  {
+   "start": 228.61,
+   "end": 234.25,
+   "text": "The ride and then restart it and start another ride. So it was broken up into two rides. Um, so"
+  },
+  {
+   "start": 234.25,
+   "end": 239.45,
+   "text": "You know what I did and I'll tomorrow when I have my shit together more, um, I'm too tired to set it"
+  },
+  {
+   "start": 239.45,
+   "end": 248.39,
+   "text": "All up. Um, where I can show the, do the screen capture, do the video. Um, yeah, the screen"
+  },
+  {
+   "start": 248.39,
+   "end": 253.45,
+   "text": "Capture of my route. Um, and it's not even a full route anyway. So what I did was I rode"
+  },
+  {
+   "start": 253.45,
+   "end": 260.87,
+   "text": "My bike from Boulder up to Lyons and then up the hill to, um, Estes Park and then up over"
+  },
+  {
+   "start": 260.87,
+   "end": 266.47,
+   "text": "A pass. So Boulder is 5,800 feet. And then, uh, the pass was like 9,200, 100 feet or something."
+  },
+  {
+   "start": 266.47,
+   "end": 270.87,
+   "text": "So it was a lot of climbing and then some rolling Hills to Allen's park and refilled my"
+  },
+  {
+   "start": 270.87,
+   "end": 275.81,
+   "text": "Water bottles there at the, uh, at a spring and then rode. I was thinking about maybe riding"
+  },
+  {
+   "start": 275.81,
+   "end": 282.25,
+   "text": "All the way to a Boulder Canyon, but it was, I saw the sign saying it was closed. So I rode"
+  },
+  {
+   "start": 282.25,
+   "end": 288.05,
+   "text": "To, um, um, Ward and then went downward and then went up Lee Hill. So one more climb. So,"
+  },
+  {
+   "start": 288.05,
+   "end": 295.57,
+   "text": "And then came home. So that's what I did. Okay. So as far as physically, um, my, um, obviously"
+  },
+  {
+   "start": 295.57,
+   "end": 303.03,
+   "text": "I was, I has asthma, but then after that, my big issue was my knee, my knee, um, was"
+  },
+  {
+   "start": 303.03,
+   "end": 310.93,
+   "text": "Hurting, but it wasn't totally, um, you know, uh, depilite debilitating. Although when I"
+  },
+  {
+   "start": 310.93,
+   "end": 314.69,
+   "text": "Stopped at one point, I stopped and my mom called and I tried to answer, but my phone"
+  },
+  {
+   "start": 314.69,
+   "end": 319.91,
+   "text": "Wasn't answering. My phone doesn't always listen. So I stopped to pick up my phone to"
+  },
+  {
+   "start": 319.91,
+   "end": 325.77,
+   "text": "Call my mom while I was in, and I was in Estes park at this time. And, um, and then"
+  },
+  {
+   "start": 325.77,
+   "end": 329.85,
+   "text": "When I started riding again, my knee really hurt. So if I ride and then I start and then"
+  },
+  {
+   "start": 329.85,
+   "end": 333.95,
+   "text": "I stop and then I start riding it, the knee really hurts really bad. And then I stopped"
+  },
+  {
+   "start": 333.95,
+   "end": 339.55,
+   "text": "At another point to put my earphones died. Um, and I got some new iPods in the ear and"
+  },
+  {
+   "start": 339.55,
+   "end": 343.81,
+   "text": "The, um, in the mail this time. So now I can bring two pairs of iPods with me. So I don't"
+  },
+  {
+   "start": 343.81,
+   "end": 348.29,
+   "text": "Have to wait 15 to 20 minutes for them to charge up again. I can just switch out iPods and"
+  },
+  {
+   "start": 348.29,
+   "end": 352.39,
+   "text": "Never worry about the case running out in case I ever want to go on a really long ride, but"
+  },
+  {
+   "start": 352.39,
+   "end": 359.81,
+   "text": "These iPods took care, didn't burn out. Um, and the entire, like, it was like a seven hours"
+  },
+  {
+   "start": 359.81,
+   "end": 366.59,
+   "text": "Of writing or something that the ride was. Um, it was, uh, the first one was two 51. First"
+  },
+  {
+   "start": 366.59,
+   "end": 371.57,
+   "text": "One was four 25 and the second one was two 51. Yeah. So like seven and a half hours of"
+  },
+  {
+   "start": 371.57,
+   "end": 377.87,
+   "text": "Writing almost. Um, yeah. And the, the, the, the earphones were doing great. So they, they"
+  },
+  {
+   "start": 377.87,
+   "end": 380.95,
+   "text": "Were keeping up. So it's awesome. Maybe I didn't even have to get a second pair of"
+  },
+  {
+   "start": 380.95,
+   "end": 387.33,
+   "text": "IPods, iPod phone, iPod earphones. I didn't realize, and I actually, I should not have"
+  },
+  {
+   "start": 387.33,
+   "end": 391.01,
+   "text": "Bought the iPods. I should have bought another pair because if there's wind, you can't really"
+  },
+  {
+   "start": 391.01,
+   "end": 397.19,
+   "text": "Hear, um, the wind comes in and, and you know, if there's cars and wind, you, you can't"
+  },
+  {
+   "start": 397.19,
+   "end": 401.29,
+   "text": "Really hear what's going on. You can only hear when you're climbing. So, um, that can be"
+  },
+  {
+   "start": 401.29,
+   "end": 405.99,
+   "text": "A problem. You know, I'll have to maybe one day buy some, buy some earphones that"
+  },
+  {
+   "start": 405.99,
+   "end": 412.35,
+   "text": "Block out the sound. I have a, um, a, uh, uh, radar on my bike. And when that works,"
+  },
+  {
+   "start": 412.37,
+   "end": 416.23,
+   "text": "It works great. You can see the cars coming and the line comes up and right when the line"
+  },
+  {
+   "start": 416.23,
+   "end": 420.55,
+   "text": "Gets the top, that's when the car passes. But, um, the radar for some reason wasn't"
+  },
+  {
+   "start": 420.55,
+   "end": 424.49,
+   "text": "Working on the first leg. And then when I had to restart the route, the radar started"
+  },
+  {
+   "start": 424.49,
+   "end": 428.23,
+   "text": "Working and that was, that was awesome to look at. But then the radar died, a battery."
+  },
+  {
+   "start": 428.93,
+   "end": 434.95,
+   "text": "So, but now it's getting charged right now. So, um, yeah, but when I stopped to take off my,"
+  },
+  {
+   "start": 434.95,
+   "end": 440.95,
+   "text": "My earphones, my knee started hurting again, um, really bad. And at one point,"
+  },
+  {
+   "start": 441.51,
+   "end": 447.55,
+   "text": "Uh, the, the part of the knee that goes over the, um, the kneecap that makes the leg go up,"
+  },
+  {
+   "start": 447.55,
+   "end": 454.67,
+   "text": "It felt like it had just poop pop, like inflamed like the Hulk just poofed up. And then it started"
+  },
+  {
+   "start": 454.67,
+   "end": 459.83,
+   "text": "To creak and hurt really bad. Um, but then that kind of went away. And by the time I came home,"
+  },
+  {
+   "start": 459.87,
+   "end": 464.53,
+   "text": "It was okay. So I'm kind of hoping that this is all just growing pains. Um, my, the, the"
+  },
+  {
+   "start": 464.53,
+   "end": 470.97,
+   "text": "Biggest, the most painful thing today was, um, the tendons in my left leg and not my right"
+  },
+  {
+   "start": 470.97,
+   "end": 476.97,
+   "text": "Leg, just my left leg. I did get a really bad, uh, ankle sprain like 20 years ago. And maybe"
+  },
+  {
+   "start": 476.97,
+   "end": 480.03,
+   "text": "That has something to do with it. But I think my left knee has always been a kind of weaker"
+  },
+  {
+   "start": 480.03,
+   "end": 488.05,
+   "text": "Knee. Um, but yeah, my, my leg, uh, the tendon going into my butt, um, right there where my"
+  },
+  {
+   "start": 488.05,
+   "end": 494.19,
+   "text": "Leg gets into my hip, uh, like the tendon was really sore and really painful and the"
+  },
+  {
+   "start": 494.19,
+   "end": 498.93,
+   "text": "Whole muscle up there and the, you know, and then even the muscle feels like around the"
+  },
+  {
+   "start": 498.93,
+   "end": 504.73,
+   "text": "Knee, it was excruciatingly painful. So, and my, my right knee was my right leg and knee"
+  },
+  {
+   "start": 504.73,
+   "end": 513.79,
+   "text": "And everything was totally fine. So, um, yeah, I'm hoping that I can, um, I can, uh, ride myself"
+  },
+  {
+   "start": 513.79,
+   "end": 517.61,
+   "text": "Through this, you know, um, but there'll be some days when I won't be able to ride, but"
+  },
+  {
+   "start": 517.61,
+   "end": 525.09,
+   "text": "That's fine. I'm a triathlete. So, um, so yeah, when I came home, I was completely wasted."
+  },
+  {
+   "start": 525.55,
+   "end": 529.89,
+   "text": "I wanted to stretch when I came home, but I just fell, I just laid down and fell asleep"
+  },
+  {
+   "start": 529.89,
+   "end": 534.91,
+   "text": "For a couple hours. And then when I got up, I was too tired to, um, you know, make something"
+  },
+  {
+   "start": 534.91,
+   "end": 539.63,
+   "text": "To eat. So I rode my bike down to Cadoba and got a chicken burrito and then rode back. And"
+  },
+  {
+   "start": 539.63,
+   "end": 543.93,
+   "text": "That's pretty much all the food that I need. I'm my appetite. Isn't that good? During the"
+  },
+  {
+   "start": 543.93,
+   "end": 550.55,
+   "text": "Ride, I brought three packets. Those are these goo packets. I'll show them next time. Um,"
+  },
+  {
+   "start": 550.55,
+   "end": 556.71,
+   "text": "That I filled up with these, these big, what are they? 160 ounce, the big goos, the really"
+  },
+  {
+   "start": 556.71,
+   "end": 561.87,
+   "text": "Big goos that are 15 bucks each. I think you can fill up like a couple of packets or three"
+  },
+  {
+   "start": 561.87,
+   "end": 566.57,
+   "text": "Packets with one of those goos. And I think I ate maybe two packets or something. And I brought"
+  },
+  {
+   "start": 566.57,
+   "end": 571.93,
+   "text": "Three of them with me. And, um, that's, I love bringing those. Bringing those is amazing."
+  },
+  {
+   "start": 572.19,
+   "end": 578.09,
+   "text": "It's, you don't ever have to worry about bonking. Um, you know, when you feel like maybe you're"
+  },
+  {
+   "start": 578.09,
+   "end": 583.09,
+   "text": "Going to be a little bit hungry, you just, you just squeeze that thing and put a whole"
+  },
+  {
+   "start": 583.09,
+   "end": 587.85,
+   "text": "Bunch in your mouth and wash it down with some water. And, and then, you know, you kind"
+  },
+  {
+   "start": 587.85,
+   "end": 593.09,
+   "text": "Of keep your belly more or less full and you just don't bonk. I, it's amazing. You just"
+  },
+  {
+   "start": 593.09,
+   "end": 597.07,
+   "text": "Keep going forever. Like you're a machine, like you're a car. You just put more gas in"
+  },
+  {
+   "start": 597.07,
+   "end": 601.81,
+   "text": "It, but without having to stop. Um, yeah. And I only had to fill up my water once cause"
+  },
+  {
+   "start": 601.81,
+   "end": 607.01,
+   "text": "It was so cold today. I wasn't sweating and that was awesome. I only drank an 87 miles."
+  },
+  {
+   "start": 607.01,
+   "end": 613.95,
+   "text": "I only drank like, uh, three water bottles and the first two, you know, I had my Cytomax in"
+  },
+  {
+   "start": 613.95,
+   "end": 619.11,
+   "text": "There, which helped. So, so yeah, it was awesome. Um, uh,"
+  },
+  {
+   "start": 619.19,
+   "end": 619.37,
+   "text": "So."
+  }
+ ]
+}

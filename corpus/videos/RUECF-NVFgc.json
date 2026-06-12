@@ -1,0 +1,115 @@
+{
+ "youtube_id": "RUECF-NVFgc",
+ "title": "Living in Boulder Vlog 12 - 8 - 2016",
+ "url": "https://youtu.be/RUECF-NVFgc",
+ "published_at": "2016-12-10",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a casual daily vlog update from Boulder, covering missed appointments, candy cravings, and thoughts on The Last Kingdom TV show. He also mentions ongoing work on a Rome tracing project with a Sunday deadline and uploading a YouTube community video.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "TV show commentary",
+   "project deadlines",
+   "YouTube content creation",
+   "missed appointments"
+  ],
+  "stances": [
+   {
+    "topic": "The Last Kingdom battle scenes",
+    "position": "disappointed the English didn't use a Testudo shield formation; felt the depiction of Viking superiority was poorly motivated"
+   },
+   {
+    "topic": "modern TV production quality",
+    "position": "impressed by the improved filming of castles, battle lines, and large-scale scenes compared to earlier generations"
+   }
+  ],
+  "entities": [
+   "The Last Kingdom",
+   "King Alfred the Great",
+   "Vikings",
+   "Boulder",
+   "Rome (tracing project)",
+   "Apple (missed appointment)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.02,
+   "end": 5.42,
+   "text": "I did my vlog today. I don't know what the hell. I thought I did it, and then I didn't. It happens over and over again."
+  },
+  {
+   "start": 7.62,
+   "end": 18.3,
+   "text": "I did a video about YouTube community request video, and then I worked some more."
+  },
+  {
+   "start": 19.78,
+   "end": 27.14,
+   "text": "I wanted to do one about courage. Somebody wanted me to do one of courage. I think I'll do now, but I get to eat first."
+  },
+  {
+   "start": 27.14,
+   "end": 37.06,
+   "text": "Somebody called me when I was trying to do a video, and it got out of control, and then by the time the call was done, I had missed my Apple appointment."
+  },
+  {
+   "start": 37.52,
+   "end": 44.66,
+   "text": "So I'll have to do it tomorrow. I got candy. I've been craving candy. These are my little sweet, sour babies, whatever."
+  },
+  {
+   "start": 45.88,
+   "end": 49.06,
+   "text": "So I'm still working. Nothing's going on."
+  },
+  {
+   "start": 49.06,
+   "end": 59.72,
+   "text": "Yeah, I was doing Last Kingdom about King Alfred the Great."
+  },
+  {
+   "start": 60.6,
+   "end": 70.9,
+   "text": "Man, the filming here, they really did take it up a notch, this generation, showing the castles and the lines of the soldiers and the battles."
+  },
+  {
+   "start": 71.32,
+   "end": 73.9,
+   "text": "The battle I didn't like, though. I don't know if anybody's watching it."
+  },
+  {
+   "start": 73.9,
+   "end": 91.38,
+   "text": "They should have had the English guys with the Testudo formation with the shields, and showing the Vikings as being better fighters just because they're more fit, because they rode all the way down there, just beating up farmers."
+  },
+  {
+   "start": 91.56,
+   "end": 92.1,
+   "text": "But I don't know, whatever."
+  },
+  {
+   "start": 93.2,
+   "end": 98.28,
+   "text": "Because I think you beat the king, but I'll do those videos later."
+  },
+  {
+   "start": 98.28,
+   "end": 121.42,
+   "text": "Yeah, so yeah, I'm still sticking. It's Friday. I'm still sticking to the deadline of Sunday being done tracing Rome, and then I can get them going, building it after building the 3D, and then I'll do the YouTube videos by the end of the winter."
+  },
+  {
+   "start": 121.42,
+   "end": 128.58,
+   "text": "It's going to be amazing, but I'm uploading my video about YouTube now. That's why I can't watch TV."
+  },
+  {
+   "start": 129.14,
+   "end": 135.22,
+   "text": "I wanted to watch The Last Kingdom. Anyway, I'm done babbling. That's enough talking. Peace."
+  }
+ ]
+}

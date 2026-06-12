@@ -1,0 +1,784 @@
+{
+ "youtube_id": "bZXKSMK1ekY",
+ "title": "Audiobooks.com is a scam",
+ "url": "https://youtu.be/bZXKSMK1ekY",
+ "published_at": "2019-05-11",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle argues that Audiobooks.com is a scam because it charges $14/month for access to audiobooks that are freely available on LibriVox, which uses volunteer readers. He also criticizes Apple for technical restrictions that prevent smoothly playing sequential audio files and for phone behaviors (screen-on requirement, call interruptions) that make free alternatives harder to use, suggesting these are coordinated efforts to force paid services on consumers.",
+  "speaker": "kyle",
+  "topics": [
+   "Audiobooks.com criticism",
+   "LibriVox",
+   "Apple/iPhone criticism",
+   "copyright and DRM",
+   "free vs. paid digital content",
+   "capitalism and economic philosophy",
+   "middlemen and rent-seeking",
+   "technology complaints"
+  ],
+  "stances": [
+   {
+    "topic": "Audiobooks.com",
+    "position": "It's a scam — profiting off volunteer labor and freely available public domain content"
+   },
+   {
+    "topic": "LibriVox",
+    "position": "The correct free alternative; people should use it directly"
+   },
+   {
+    "topic": "Apple's sequential file playback restriction",
+    "position": "Deliberately designed to benefit paid services, not a legitimate copyright concern"
+   },
+   {
+    "topic": "Cost of digital content",
+    "position": "Charging for things that are essentially free to distribute is wrong"
+   },
+   {
+    "topic": "Economics",
+    "position": "Good economies maximize free access to resources; unnecessary middlemen are harmful"
+   },
+   {
+    "topic": "Capitalism vs. communism",
+    "position": "Best system blends both — free resources with capitalist self-reliance, not rent-seeking gatekeepers"
+   },
+   {
+    "topic": "Compulsory schooling and employment",
+    "position": "Skeptical — questions whether mandatory schooling exists to protect teacher employment rather than educate"
+   },
+   {
+    "topic": "Reading pace",
+    "position": "People should be reading a book a day; one book per month is insulting"
+   }
+  ],
+  "entities": [
+   "Audiobooks.com",
+   "LibriVox",
+   "Sybella Denton",
+   "Apple",
+   "Francisco Oriano",
+   "iPhone 10",
+   "Silicon Valley",
+   "Wikipedia"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.2,
+   "end": 5.68,
+   "text": "Hello, this video is titled, Audiobooks.com is a scam."
+  },
+  {
+   "start": 8.02,
+   "end": 14.68,
+   "text": "One type of a scam is when somebody tries to charge you for something that should be free in the first place."
+  },
+  {
+   "start": 15.6,
+   "end": 28.02,
+   "text": "So, Audiobooks.com is an app, a website, that you're supposed to be able to download audiobooks onto your computer or onto your phone."
+  },
+  {
+   "start": 28.02,
+   "end": 34.42,
+   "text": "And they boast, what was it, 125,000 books."
+  },
+  {
+   "start": 35.54,
+   "end": 40.84,
+   "text": "And they have a fancy feature where you could click bookmark as you're listening to it."
+  },
+  {
+   "start": 41.34,
+   "end": 47.52,
+   "text": "But you don't have to use it. It's totally useless."
+  },
+  {
+   "start": 48.58,
+   "end": 53.16,
+   "text": "You can find those books for free off of LibriVox."
+  },
+  {
+   "start": 53.16,
+   "end": 55.86,
+   "text": "They use the LibriVox books."
+  },
+  {
+   "start": 55.86,
+   "end": 60.58,
+   "text": "So, and the people who read the LibriVox books, they say they volunteer."
+  },
+  {
+   "start": 61.4,
+   "end": 63.76,
+   "text": "And they're always offering people to volunteer."
+  },
+  {
+   "start": 63.76,
+   "end": 69.14,
+   "text": "So, the people who read those books, like Sybella Denton and them, do it for free."
+  },
+  {
+   "start": 69.22,
+   "end": 78.26,
+   "text": "So, why would they get volunteers to read all these books for free and then capitalize on them to make money for themselves?"
+  },
+  {
+   "start": 78.26,
+   "end": 83.83,
+   "text": "When they, when they, when you don't even have to use it."
+  },
+  {
+   "start": 83.87,
+   "end": 94.67,
+   "text": "You can just download those books right off of, of, um, um, the website LibriVox, right onto your phone and then hit play."
+  },
+  {
+   "start": 96.11,
+   "end": 97.53,
+   "text": "And it's the same thing."
+  },
+  {
+   "start": 97.53,
+   "end": 114.8,
+   "text": "Um, and this, it causes problems because that's, it's just, it's, it's the beginning of people making it so that you have to, you have to only use them because there are already other problems going on."
+  },
+  {
+   "start": 114.8,
+   "end": 130.36,
+   "text": "Um, um, I, I, I downloaded, um, books from LibriVox, all the books from LibriVox in the, uh, history, uh, philosophy and, uh, religion sections onto my computers."
+  },
+  {
+   "start": 130.36,
+   "end": 137.76,
+   "text": "And then when I drag the, the books from my computer onto my phone, they're all corrupted."
+  },
+  {
+   "start": 138.42,
+   "end": 142.42,
+   "text": "Whenever you hear it, the person says the same word twice."
+  },
+  {
+   "start": 142.42,
+   "end": 143.94,
+   "text": "So, you can't listen to anything."
+  },
+  {
+   "start": 144.48,
+   "end": 154.36,
+   "text": "I called Apple and they, uh, told me, and I talked to a senior tech guy and he told me he didn't know nothing."
+  },
+  {
+   "start": 154.74,
+   "end": 155.42,
+   "text": "He didn't know."
+  },
+  {
+   "start": 155.42,
+   "end": 160.12,
+   "text": "And so I suggested, well, maybe it's the size of the file."
+  },
+  {
+   "start": 160.28,
+   "end": 164.14,
+   "text": "So he told me to just try to drag tiny little files over."
+  },
+  {
+   "start": 164.92,
+   "end": 169.46,
+   "text": "And, uh, I drag a file that was only a half hour long and that was doing it too."
+  },
+  {
+   "start": 170.12,
+   "end": 177.06,
+   "text": "And before when I was dragging it, I dragged a six hour file over and it was just fine."
+  },
+  {
+   "start": 177.16,
+   "end": 184.28,
+   "text": "So maybe, I don't know, maybe they found out I was doing it and they decided to corrupt my phone or decide to corrupt it."
+  },
+  {
+   "start": 184.28,
+   "end": 191.54,
+   "text": "So that you can't drag files from a, uh, Macintosh computer onto a phone without it getting corrupted."
+  },
+  {
+   "start": 191.84,
+   "end": 193.2,
+   "text": "So what's the next step?"
+  },
+  {
+   "start": 193.26,
+   "end": 198.5,
+   "text": "Are they going to make it so that you can't download books directly from LibriVox onto your phone?"
+  },
+  {
+   "start": 199.2,
+   "end": 207.06,
+   "text": "So that the only way for you to listen to a book is with audiobooks.com where you have to pay 14 bucks a month."
+  },
+  {
+   "start": 207.06,
+   "end": 212.42,
+   "text": "And if you pay 14 bucks a month, you still only get to download one book a month."
+  },
+  {
+   "start": 213.1,
+   "end": 226.98,
+   "text": "So instead of becoming a conduit to help people learn, they're actually, they're actually making people not be able to read and trying to make money off of that, which is a scam."
+  },
+  {
+   "start": 226.98,
+   "end": 240.58,
+   "text": "Who would pay for, who would, even if you, if you, $14 is nothing to you and it's, it's plenty of money to me, but who would want to only listen to one book a month?"
+  },
+  {
+   "start": 240.92,
+   "end": 242.16,
+   "text": "That's ridiculous."
+  },
+  {
+   "start": 242.94,
+   "end": 246.48,
+   "text": "People should be reading a book a day."
+  },
+  {
+   "start": 246.48,
+   "end": 250.24,
+   "text": "It takes like, uh, nine hours to get through a book."
+  },
+  {
+   "start": 250.32,
+   "end": 254.76,
+   "text": "I'm listening to Francisco Oriano book and it's nine hours."
+  },
+  {
+   "start": 254.9,
+   "end": 257.78,
+   "text": "That's kind of like your typical book, five hours, nine hours."
+  },
+  {
+   "start": 258.76,
+   "end": 259.58,
+   "text": "Guess what?"
+  },
+  {
+   "start": 259.64,
+   "end": 260.58,
+   "text": "That's a work day."
+  },
+  {
+   "start": 260.78,
+   "end": 262.3,
+   "text": "You can do that in a day."
+  },
+  {
+   "start": 262.42,
+   "end": 268.48,
+   "text": "So what, what does audiobooks.com expect people to do for the other 29 days out of the month?"
+  },
+  {
+   "start": 268.94,
+   "end": 273.1,
+   "text": "Pay some other service to download their books."
+  },
+  {
+   "start": 273.1,
+   "end": 281.02,
+   "text": "It's, uh, it's this, it's this scam of people, people trying to make money off of other people."
+  },
+  {
+   "start": 281.02,
+   "end": 288.26,
+   "text": "Like the other, the other people who wrote these books hundreds and thousands of years ago, they're not getting paid for the books that they wrote."
+  },
+  {
+   "start": 288.48,
+   "end": 291.78,
+   "text": "The people who read the books on LibriVox aren't getting paid."
+  },
+  {
+   "start": 292.14,
+   "end": 295.44,
+   "text": "The only person getting paid is the audiobook.com guy."
+  },
+  {
+   "start": 295.62,
+   "end": 298.8,
+   "text": "And all he did was make a fancy little website."
+  },
+  {
+   "start": 299.12,
+   "end": 300.64,
+   "text": "He got the, he got the books on."
+  },
+  {
+   "start": 300.64,
+   "end": 307.78,
+   "text": "And he did some kind of deal where you can download it from their site onto your phone without getting corrupted, even though it gets corrupted."
+  },
+  {
+   "start": 307.78,
+   "end": 310.16,
+   "text": "If you drag it from the computer to your phone."
+  },
+  {
+   "start": 310.6,
+   "end": 319.56,
+   "text": "So I'm just, I'm just counting down the days until you can't even download books off of directly from, uh, LibriVox onto your phone anymore."
+  },
+  {
+   "start": 319.56,
+   "end": 320.82,
+   "text": "So you're screwed."
+  },
+  {
+   "start": 321.46,
+   "end": 327.86,
+   "text": "I, uh, there's another thing that they do that doesn't make any sense."
+  },
+  {
+   "start": 327.9,
+   "end": 329.32,
+   "text": "That's so it's part of the scam."
+  },
+  {
+   "start": 329.32,
+   "end": 334.58,
+   "text": "It's, it's these guys in Silicon Valley getting together, figuring out ways where they can make money by screwing over other people."
+  },
+  {
+   "start": 335.64,
+   "end": 342.64,
+   "text": "You can't, the way that you download books onto LibriVox is you download lots of different chapters and that's the book."
+  },
+  {
+   "start": 342.64,
+   "end": 353.52,
+   "text": "Well, in the good old days, five years ago, when there were MP3 players, um, and I don't know, maybe MP3 players have been outlawed by now because they violate copyright."
+  },
+  {
+   "start": 353.52,
+   "end": 364.16,
+   "text": "But back in the MP3 player days, you could put chapters onto your MP3 player into a file and then it plays it all as one file."
+  },
+  {
+   "start": 364.7,
+   "end": 368.86,
+   "text": "So it would be to the end of, you know, like a song, you put a bunch of songs in a folder."
+  },
+  {
+   "start": 369.42,
+   "end": 375.08,
+   "text": "So you listen to a song and then after that song's over, it goes to the other song and then it goes to the other song."
+  },
+  {
+   "start": 375.6,
+   "end": 376.0,
+   "text": "Right."
+  },
+  {
+   "start": 376.1,
+   "end": 377.72,
+   "text": "That's, that seems like it makes sense."
+  },
+  {
+   "start": 377.78,
+   "end": 378.58,
+   "text": "Same thing with a book."
+  },
+  {
+   "start": 378.58,
+   "end": 383.7,
+   "text": "It goes from one chapter and then it plays the other chapter and then it plays the other chapter."
+  },
+  {
+   "start": 383.96,
+   "end": 384.76,
+   "text": "Not anymore."
+  },
+  {
+   "start": 385.72,
+   "end": 399.06,
+   "text": "You can put, you can create files still on, on phones and you can put the files in, in the full, the files in the folders on the phone, but you can't play a file after a file on the phone."
+  },
+  {
+   "start": 399.52,
+   "end": 402.44,
+   "text": "If it'll just play the file and then it'll stop."
+  },
+  {
+   "start": 402.74,
+   "end": 405.2,
+   "text": "And then you have to manually play the other file."
+  },
+  {
+   "start": 405.2,
+   "end": 410.24,
+   "text": "And I asked Apple why they did that and they said, because of copyright, there's copyright."
+  },
+  {
+   "start": 411.02,
+   "end": 420.44,
+   "text": "So my question is, if there's no copyright with MP3 players, but now there's copyright with cell phones, what's the difference between a cell phone and MP3 player?"
+  },
+  {
+   "start": 421.44,
+   "end": 428.68,
+   "text": "Is it because all of a sudden the copyright laws changed at the end of, of, of MP3 players on the beginnings of cell phones?"
+  },
+  {
+   "start": 428.68,
+   "end": 443.38,
+   "text": "Or is it because these scammers decided to figure it out a deal that they could make with the cell phone, um, manufacturers to make it so that it wouldn't play a file and then another file."
+  },
+  {
+   "start": 443.48,
+   "end": 449.82,
+   "text": "So then I had to fuse the files together as one book, but then those files get corrupted."
+  },
+  {
+   "start": 449.82,
+   "end": 458.62,
+   "text": "So, you know, and we went to the moon and back off of, off of, uh, you know, machines that had less computing power than a toaster."
+  },
+  {
+   "start": 459.48,
+   "end": 471.52,
+   "text": "So it's, it's not a valid excuse to just scratch your head and not, and not be able to figure out why you can't just drag a simple file from your computer on your phone without it going."
+  },
+  {
+   "start": 471.52,
+   "end": 477.92,
+   "text": "Welcome, welcome to the, to the chapter, chapter, what, one of the, but it's all on purpose, man."
+  },
+  {
+   "start": 477.96,
+   "end": 479.26,
+   "text": "It's all a fucking scam."
+  },
+  {
+   "start": 479.9,
+   "end": 483.96,
+   "text": "So fuck you, uh, audiobook.com."
+  },
+  {
+   "start": 484.02,
+   "end": 486.36,
+   "text": "You guys don't understand how the economy works."
+  },
+  {
+   "start": 486.8,
+   "end": 492.64,
+   "text": "Everybody's here, you know, arguing over capitalism versus communism."
+  },
+  {
+   "start": 492.64,
+   "end": 500.8,
+   "text": "If you want to fix the environment, the, the economy, you make as much stuff free as you possibly can."
+  },
+  {
+   "start": 500.8,
+   "end": 501.28,
+   "text": "Okay."
+  },
+  {
+   "start": 501.88,
+   "end": 507.34,
+   "text": "You have to have proper religion, proper philosophy, and you have to mimic nature."
+  },
+  {
+   "start": 507.68,
+   "end": 508.8,
+   "text": "What does nature do?"
+  },
+  {
+   "start": 508.98,
+   "end": 513.26,
+   "text": "It makes everything as free as it possibly can."
+  },
+  {
+   "start": 513.54,
+   "end": 516.36,
+   "text": "You don't pay taxes to, to breathe oxygen."
+  },
+  {
+   "start": 517.46,
+   "end": 524.48,
+   "text": "Uh, when you built, when you grow a fruit tree, you don't pay, you have to pay a tax to eat a, to eat a, uh, an apple."
+  },
+  {
+   "start": 524.92,
+   "end": 527.68,
+   "text": "You, the apple doesn't get infested by worms."
+  },
+  {
+   "start": 527.68,
+   "end": 536.8,
+   "text": "If it's your own personal apple, you don't have to go to the, to the apple farm and get an apple because it's illegal to grow apple trees on your own backyard."
+  },
+  {
+   "start": 537.98,
+   "end": 543.34,
+   "text": "Uh, since the beginning of time with hunters and gatherers, people just be, are able to take care of themselves."
+  },
+  {
+   "start": 543.34,
+   "end": 549.9,
+   "text": "And the people who are better at taking care of themselves can have better lives and, and do more and make a nicer house."
+  },
+  {
+   "start": 550.0,
+   "end": 552.42,
+   "text": "That's true, pure capitalism."
+  },
+  {
+   "start": 552.42,
+   "end": 569.7,
+   "text": "So we need to keep it like nature and allow it to be capitalism where you, where you don't go, have to go through audio books.com and get whoever in the audio books.com wealthy and create jobs."
+  },
+  {
+   "start": 569.7,
+   "end": 579.62,
+   "text": "They don't have to exist when all you have to do is download it off of, um, LibriVox straight to your phone or onto your computer and then onto your phone."
+  },
+  {
+   "start": 579.62,
+   "end": 584.62,
+   "text": "Um, and then the phone can figure out a way for you to do little bookmarks along the way."
+  },
+  {
+   "start": 584.62,
+   "end": 590.82,
+   "text": "Um, you know, Apple iPhone and Google phones, and these guys can, could easily do that."
+  },
+  {
+   "start": 591.62,
+   "end": 594.22,
+   "text": "So it's clearly a scam."
+  },
+  {
+   "start": 594.68,
+   "end": 596.8,
+   "text": "Um, and that's what we need to focus on."
+  },
+  {
+   "start": 597.3,
+   "end": 607.8,
+   "text": "And, uh, you know, just use the best of the both worlds from capitalism and communism, communism to create the regulations and to provide with our taxes."
+  },
+  {
+   "start": 607.8,
+   "end": 624.72,
+   "text": "The, you know, healthcare that we all need, not education, because that's part of capitalism where you provide the resources, but the resources have to be free and they can't be restricting where you have to pay 15 bucks a month to only listen to one book a month."
+  },
+  {
+   "start": 624.92,
+   "end": 626.76,
+   "text": "So, so like, what are you telling us?"
+  },
+  {
+   "start": 627.06,
+   "end": 632.88,
+   "text": "It's only acceptable to listen to one book a month and two books a month is too much."
+  },
+  {
+   "start": 633.16,
+   "end": 635.62,
+   "text": "People will get too smart on two books a month."
+  },
+  {
+   "start": 635.62,
+   "end": 640.3,
+   "text": "So there's another problem that cell phones do."
+  },
+  {
+   "start": 640.44,
+   "end": 641.4,
+   "text": "I have an iPhone 10."
+  },
+  {
+   "start": 641.52,
+   "end": 644.66,
+   "text": "It's the best of the best, the latest into the greatest."
+  },
+  {
+   "start": 645.42,
+   "end": 655.68,
+   "text": "But on my iPhone 10, I have books on my website where you could just click it and you could have it read the entire book, but it won't turn the screen off."
+  },
+  {
+   "start": 655.74,
+   "end": 659.16,
+   "text": "So the screen has to shine, which kills the battery power."
+  },
+  {
+   "start": 659.16,
+   "end": 665.84,
+   "text": "If they figured out a way to be able to turn the screen off, then it could read your book to you all day long."
+  },
+  {
+   "start": 665.98,
+   "end": 668.74,
+   "text": "But maybe they don't do it because copyright, right?"
+  },
+  {
+   "start": 669.38,
+   "end": 676.56,
+   "text": "Somehow you're breaking copyright by trying to read a 2000 page year old book on your phone."
+  },
+  {
+   "start": 676.56,
+   "end": 693.52,
+   "text": "And also when you're listening to a book on the iPhone 10 and somebody calls you, the call, the spam call, which I get like 30 a day of, it trumps, it has priority over my book."
+  },
+  {
+   "start": 693.62,
+   "end": 695.4,
+   "text": "It just interrupts my book right there."
+  },
+  {
+   "start": 695.64,
+   "end": 697.86,
+   "text": "They need to design it where you can have a spam call."
+  },
+  {
+   "start": 697.86,
+   "end": 703.22,
+   "text": "If you want to answer the spam call, I don't know why anybody would want to do that, then you can answer the spam call."
+  },
+  {
+   "start": 703.72,
+   "end": 709.92,
+   "text": "But if you don't want to answer the spam call and continue the book, the phone should be designed to help you continue the book."
+  },
+  {
+   "start": 710.94,
+   "end": 714.8,
+   "text": "So that's what we need to keep an eye out for."
+  },
+  {
+   "start": 714.9,
+   "end": 715.72,
+   "text": "It's these scams."
+  },
+  {
+   "start": 715.84,
+   "end": 719.64,
+   "text": "I mean, we've been doing it with, you know, gas powered cars."
+  },
+  {
+   "start": 719.64,
+   "end": 727.48,
+   "text": "We've been doing it with, you know, absentee landlords since the beginning of time."
+  },
+  {
+   "start": 727.86,
+   "end": 745.62,
+   "text": "And, you know, with franchises and laws that protect big business and, you know, don't allow just ma and pa businesses to exist, you know, instead you have to have a Starbucks where you can't just open up your own, you know, coffee shop and stuff like this."
+  },
+  {
+   "start": 745.62,
+   "end": 747.84,
+   "text": "Uh, that's what we need to do."
+  },
+  {
+   "start": 747.84,
+   "end": 764.52,
+   "text": "Allow people to have just simple businesses working for themselves and then getting as much stuff for free as you can without these middlemen jumping in and leeching everything dry and making everything, you know, unnecessary, you know, like forcing people into school."
+  },
+  {
+   "start": 764.52,
+   "end": 776.02,
+   "text": "You have to do school every single day or else or else your kids are torn from you because, uh, you know, you have to give, you have to give the, uh, the teachers a job."
+  },
+  {
+   "start": 776.24,
+   "end": 781.98,
+   "text": "Employment is the most important thing without asking questions, you know, if that employment is even necessary."
+  },
+  {
+   "start": 781.98,
+   "end": 786.7,
+   "text": "So I hope audiobooks.com goes out of business."
+  },
+  {
+   "start": 786.7,
+   "end": 802.32,
+   "text": "Um, if I had the time and resources, I would sue Apple for, for making it so that you can't, you know, um, play one song after the other and, you know, get new copyright laws written and, you know, read into it."
+  },
+  {
+   "start": 802.34,
+   "end": 805.96,
+   "text": "Maybe I'll do it one day, but audiobooks.com is just a scam dude."
+  },
+  {
+   "start": 805.96,
+   "end": 812.28,
+   "text": "And, and don't use them, make, pray to God, they go out of business and just download it directly off LibriVox."
+  },
+  {
+   "start": 812.96,
+   "end": 822.7,
+   "text": "Um, and if LibriVox, you know, complains, they don't have enough money, then, uh, I mean, I don't, it's, you just have to, that's another problem."
+  },
+  {
+   "start": 822.7,
+   "end": 824.32,
+   "text": "We have, we have these big servers."
+  },
+  {
+   "start": 824.44,
+   "end": 831.26,
+   "text": "Maybe we should just nationalize the servers then so that you can just upload stuff at your heart's content."
+  },
+  {
+   "start": 831.26,
+   "end": 847.66,
+   "text": "And then somebody could make a LibriVox and then just download it and make it, make it like a wiki thing, a, a, a crowd sourced, um, situation, just like how, how the world always was, how the wild west was, you know, just individual people creating it."
+  },
+  {
+   "start": 847.66,
+   "end": 857.74,
+   "text": "And then creating some kind of federation of people who create stuff or have the billionaires fund the little bit of funding that, that, uh, that, that LibriVox needs."
+  },
+  {
+   "start": 857.74,
+   "end": 866.54,
+   "text": "You know, just like how, uh, Wikipedia operates because all those people who read, who read the books, it seems like it chintzes them out to, they volunteer."
+  },
+  {
+   "start": 866.54,
+   "end": 870.08,
+   "text": "And all of a sudden somebody else is making money off of their reading."
+  },
+  {
+   "start": 870.8,
+   "end": 875.4,
+   "text": "Um, and then telling people they can only, why would you only be able to download a book a month?"
+  },
+  {
+   "start": 876.34,
+   "end": 880.32,
+   "text": "Who, why does it cost money to be able to download off of an internet?"
+  },
+  {
+   "start": 880.38,
+   "end": 881.12,
+   "text": "It's, it's free."
+  },
+  {
+   "start": 881.16,
+   "end": 885.52,
+   "text": "It's like charging something that God decided to give us for free."
+  },
+  {
+   "start": 885.52,
+   "end": 889.24,
+   "text": "So yeah, that's why audiobooks.com is a scam."
+  }
+ ]
+}

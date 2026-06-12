@@ -1,0 +1,730 @@
+{
+ "youtube_id": "5kWfdAoJu0k",
+ "title": "Living in Boulder vlog 1 -  22 - 2017: Google Earthing Roman Colosseum.  A real mind fuck.",
+ "url": "https://youtu.be/5kWfdAoJu0k",
+ "published_at": "2018-01-23",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs at 10am after pulling an all-nighter, describing his ongoing project of building a detailed 3D model of the Roman Colosseum in Google Earth using the polygon tool. He explains the complex multi-level stair system of the Colosseum, critiques existing models (including Google's own) for being inaccurate, and expresses ambition to be the first to accurately illustrate how the structure was designed and how visitors moved through it.",
+  "speaker": "kyle",
+  "topics": [
+   "3D modeling",
+   "Google Earth",
+   "Roman Colosseum",
+   "architecture research",
+   "sleep deprivation",
+   "personal health"
+  ],
+  "stances": [
+   {
+    "topic": "existing Colosseum models",
+    "position": "Most are misleading and quite incorrect, including Google Earth's version"
+   },
+   {
+    "topic": "his modeling project",
+    "position": "More complicated and ambitious than expected, but a satisfying mental challenge right at his level"
+   },
+   {
+    "topic": "documenting the Colosseum design",
+    "position": "Excited to be the one to explain how it was designed since nobody else has done it accurately"
+   }
+  ],
+  "entities": [
+   "Google Earth",
+   "Roman Colosseum",
+   "Rome",
+   "World of Warcraft",
+   "Boulder",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.46,
+   "end": 10.46,
+   "text": "Hello living in Boulder, I feel like it's January 23rd, 2018."
+  },
+  {
+   "start": 10.46,
+   "end": 13.46,
+   "text": "It's 10 out of 6 in the morning."
+  },
+  {
+   "start": 13.46,
+   "end": 19.46,
+   "text": "I never went to sleep last night, but I did sleep like all day as today."
+  },
+  {
+   "start": 19.46,
+   "end": 22.46,
+   "text": "I'm totally not turn last."
+  },
+  {
+   "start": 22.46,
+   "end": 26.46,
+   "text": "I should lie down."
+  },
+  {
+   "start": 26.46,
+   "end": 32.18,
+   "text": "I have done..."
+  },
+  {
+   "start": 32.18,
+   "end": 44.18,
+   "text": "But my mom just called me and was supposed to go to her house to help her organize stuff like in an hour."
+  },
+  {
+   "start": 44.18,
+   "end": 54.06,
+   "text": "So the last time I did a video, I was working on the call this time."
+  },
+  {
+   "start": 54.06,
+   "end": 60.06,
+   "text": "I don't remember what, I think it was the stairs or something, but..."
+  },
+  {
+   "start": 60.06,
+   "end": 68.06,
+   "text": "Right now I was doing the stance on the second part."
+  },
+  {
+   "start": 68.06,
+   "end": 75.06,
+   "text": "Oops, over the last few days."
+  },
+  {
+   "start": 75.06,
+   "end": 83.27,
+   "text": "There's been a lot of just staring at the mats."
+  },
+  {
+   "start": 83.27,
+   "end": 86.27,
+   "text": "That call seems kind of complicated."
+  },
+  {
+   "start": 86.27,
+   "end": 98.87,
+   "text": "I'm not going to explain the design a bit, but there's a lot of..."
+  },
+  {
+   "start": 98.87,
+   "end": 114.75,
+   "text": "It's complicated because a lot of the models that they have now are misleading, they're quite incorrect."
+  },
+  {
+   "start": 114.75,
+   "end": 115.75,
+   "text": "And..."
+  },
+  {
+   "start": 115.75,
+   "end": 123.93,
+   "text": "Oh, yes, so..."
+  },
+  {
+   "start": 123.93,
+   "end": 131.93,
+   "text": "I saw YouTube video that I downloaded and I was still guiding it to the call scene with a video game, like War of War of War of War, Warcraft or something like that."
+  },
+  {
+   "start": 131.93,
+   "end": 134.93,
+   "text": "I'm going to call it again, my hands on that."
+  },
+  {
+   "start": 134.93,
+   "end": 138.93,
+   "text": "And check it out if it could go all over it."
+  },
+  {
+   "start": 138.93,
+   "end": 139.93,
+   "text": "But..."
+  },
+  {
+   "start": 139.93,
+   "end": 140.93,
+   "text": "But..."
+  },
+  {
+   "start": 140.93,
+   "end": 141.93,
+   "text": "It's complicated."
+  },
+  {
+   "start": 141.93,
+   "end": 146.93,
+   "text": "I don't think anybody has written that in a comic model of it."
+  },
+  {
+   "start": 146.93,
+   "end": 150.93,
+   "text": "And I hope it looks good with the way that I'm building it."
+  },
+  {
+   "start": 150.93,
+   "end": 154.93,
+   "text": "I'm just building it with the polygon tool on Google Earth."
+  },
+  {
+   "start": 154.93,
+   "end": 156.93,
+   "text": "But..."
+  },
+  {
+   "start": 156.93,
+   "end": 164.49,
+   "text": "Oh, looks..."
+  },
+  {
+   "start": 164.49,
+   "end": 169.49,
+   "text": "The map that I'm at that I have now shows only the couple lower couple levels."
+  },
+  {
+   "start": 169.49,
+   "end": 174.49,
+   "text": "And I made stairs that go to the third level."
+  },
+  {
+   "start": 174.49,
+   "end": 176.49,
+   "text": "But then there's more stairs."
+  },
+  {
+   "start": 176.49,
+   "end": 181.49,
+   "text": "They go from the third level, just under the third level, to the third level."
+  },
+  {
+   "start": 181.49,
+   "end": 185.49,
+   "text": "So I have to make the stairs go all around the call this the end."
+  },
+  {
+   "start": 185.49,
+   "end": 188.49,
+   "text": "They go from almost the third level to the third level."
+  },
+  {
+   "start": 189.49,
+   "end": 191.49,
+   "text": "And..."
+  },
+  {
+   "start": 191.49,
+   "end": 192.49,
+   "text": "And..."
+  },
+  {
+   "start": 192.49,
+   "end": 196.49,
+   "text": "Or like third aid, a third be."
+  },
+  {
+   "start": 196.49,
+   "end": 198.49,
+   "text": "And..."
+  },
+  {
+   "start": 198.49,
+   "end": 203.57,
+   "text": "The way that the call of scene works, I'll go ahead and explain it."
+  },
+  {
+   "start": 203.57,
+   "end": 207.57,
+   "text": "Without using bit photos, because that's just too much work."
+  },
+  {
+   "start": 207.57,
+   "end": 209.57,
+   "text": "But the call of scene has..."
+  },
+  {
+   "start": 209.57,
+   "end": 212.57,
+   "text": "The arch isn't so it has the first level up."
+  },
+  {
+   "start": 212.57,
+   "end": 215.57,
+   "text": "And then has the second level up."
+  },
+  {
+   "start": 215.57,
+   "end": 217.57,
+   "text": "And so the stairs go up like this."
+  },
+  {
+   "start": 217.57,
+   "end": 219.57,
+   "text": "Like it's exactly the first level."
+  },
+  {
+   "start": 219.57,
+   "end": 221.57,
+   "text": "And then there's these other stairs."
+  },
+  {
+   "start": 221.57,
+   "end": 223.57,
+   "text": "They get you to the first on the inside of it."
+  },
+  {
+   "start": 223.57,
+   "end": 227.57,
+   "text": "They get you to the first two sections of rows."
+  },
+  {
+   "start": 227.57,
+   "end": 228.57,
+   "text": "And..."
+  },
+  {
+   "start": 228.57,
+   "end": 231.57,
+   "text": "So the zigzag stairs get you up to the..."
+  },
+  {
+   "start": 231.57,
+   "end": 232.57,
+   "text": "To the..."
+  },
+  {
+   "start": 232.57,
+   "end": 234.57,
+   "text": "The first level."
+  },
+  {
+   "start": 234.57,
+   "end": 236.57,
+   "text": "And then there's these..."
+  },
+  {
+   "start": 236.57,
+   "end": 242.85,
+   "text": "These long stairs that get you from the first level to..."
+  },
+  {
+   "start": 242.85,
+   "end": 245.85,
+   "text": "Oh, almost the second level, not the third level."
+  },
+  {
+   "start": 245.85,
+   "end": 248.85,
+   "text": "Yeah, almost the second level."
+  },
+  {
+   "start": 248.85,
+   "end": 251.85,
+   "text": "Which is this little tunnel that goes around."
+  },
+  {
+   "start": 251.85,
+   "end": 253.85,
+   "text": "I guess they did it that way."
+  },
+  {
+   "start": 253.85,
+   "end": 254.85,
+   "text": "It helped..."
+  },
+  {
+   "start": 254.85,
+   "end": 255.85,
+   "text": "Segregate."
+  },
+  {
+   "start": 255.85,
+   "end": 259.85,
+   "text": "How maybe I'll have a clearer idea of it when I'm done with the call of scene."
+  },
+  {
+   "start": 259.85,
+   "end": 264.85,
+   "text": "But then there are these stairs to go all around and it gets you to the second level."
+  },
+  {
+   "start": 264.85,
+   "end": 266.85,
+   "text": "Which is just like the..."
+  },
+  {
+   "start": 266.85,
+   "end": 269.85,
+   "text": "You know, ground level on the first level."
+  },
+  {
+   "start": 269.85,
+   "end": 272.85,
+   "text": "With these two colonings to go around."
+  },
+  {
+   "start": 272.85,
+   "end": 275.85,
+   "text": "To court, always to go around."
+  },
+  {
+   "start": 276.85,
+   "end": 279.85,
+   "text": "And that's the highest part that you can go on the colonel scene now."
+  },
+  {
+   "start": 279.85,
+   "end": 284.09,
+   "text": "And..."
+  },
+  {
+   "start": 284.09,
+   "end": 289.09,
+   "text": "Yeah, nobody's really illustrated what..."
+  },
+  {
+   "start": 289.09,
+   "end": 293.09,
+   "text": "How you get to the upper park is that's only halfway up."
+  },
+  {
+   "start": 293.09,
+   "end": 298.09,
+   "text": "The colonel scene is 48 meters high."
+  },
+  {
+   "start": 298.09,
+   "end": 304.09,
+   "text": "And when you're on that almost to second level, that's only 20 meters up."
+  },
+  {
+   "start": 304.09,
+   "end": 310.09,
+   "text": "So then there are these other stairs that go up..."
+  },
+  {
+   "start": 310.09,
+   "end": 312.09,
+   "text": "That I have to type in."
+  },
+  {
+   "start": 312.09,
+   "end": 314.09,
+   "text": "So that's two more places stairs that I have to type in."
+  },
+  {
+   "start": 314.09,
+   "end": 317.09,
+   "text": "That go from the second to the third level."
+  },
+  {
+   "start": 317.09,
+   "end": 320.09,
+   "text": "And then there's another five stairs."
+  },
+  {
+   "start": 320.09,
+   "end": 323.09,
+   "text": "That go from the third to the fourth."
+  },
+  {
+   "start": 323.09,
+   "end": 327.09,
+   "text": "And then I have to make another five places stairs to go from the fourth to the fifth."
+  },
+  {
+   "start": 327.09,
+   "end": 330.09,
+   "text": "There's five levels of the call of scene."
+  },
+  {
+   "start": 330.09,
+   "end": 346.85,
+   "text": "So you can hover at certain altitudes and travel through a little quarters like that."
+  },
+  {
+   "start": 346.85,
+   "end": 354.85,
+   "text": "There's the longest ceiling is about, you know, at least five meters higher or something like that."
+  },
+  {
+   "start": 354.85,
+   "end": 360.85,
+   "text": "So, you know, I could make it work for anybody because you just make the record the movie."
+  },
+  {
+   "start": 360.85,
+   "end": 368.85,
+   "text": "So the person just hits, they open it up on Google, there's a movie and then it'll take you right turn on the two right in the side of the call of scene on the model."
+  },
+  {
+   "start": 368.85,
+   "end": 383.06,
+   "text": "But, yeah, so that'll just be super interesting to see if I can make a movie of traveling all the way up the flights of stairs and through the call of scene."
+  },
+  {
+   "start": 383.06,
+   "end": 384.06,
+   "text": "And out into it."
+  },
+  {
+   "start": 384.06,
+   "end": 395.06,
+   "text": "And yeah, there is a lot of thinking that I had to do because, for example, Google."
+  },
+  {
+   "start": 395.06,
+   "end": 402.06,
+   "text": "I'd like to do a demo on this video on this one day, but Google made the call of scene on Google Earth."
+  },
+  {
+   "start": 402.06,
+   "end": 413.06,
+   "text": "And the way that they made the call of scene and I think everybody else who makes, like, you know, the models of the call of scene in the video model is"
+  },
+  {
+   "start": 413.06,
+   "end": 416.06,
+   "text": "there's the trail, the trail."
+  },
+  {
+   "start": 416.06,
+   "end": 432.06,
+   "text": "There's the, the rain, you know, the halfway that goes around the Coliseum and the ones that you get to from on the second level."
+  },
+  {
+   "start": 432.06,
+   "end": 436.06,
+   "text": "And I watched, there's this YouTube channel, you should check it out."
+  },
+  {
+   "start": 436.06,
+   "end": 439.06,
+   "text": "It's called, now I can't remember the name of it."
+  },
+  {
+   "start": 439.06,
+   "end": 442.06,
+   "text": "But, virtual tours, I think."
+  },
+  {
+   "start": 442.06,
+   "end": 448.06,
+   "text": "But the dudes, this dude just walks around, if I could go pro or something, just films walking really slowly and looking everything."
+  },
+  {
+   "start": 448.06,
+   "end": 450.06,
+   "text": "It's just to our attractions."
+  },
+  {
+   "start": 450.06,
+   "end": 454.06,
+   "text": "And now when I look at all these videos all over Rome."
+  },
+  {
+   "start": 454.06,
+   "end": 459.06,
+   "text": "He only, I looked at the Coliseum on it, which he only downloaded, like, three months ago."
+  },
+  {
+   "start": 459.06,
+   "end": 462.06,
+   "text": "And he only uploaded her kill A and today."
+  },
+  {
+   "start": 462.06,
+   "end": 469.69,
+   "text": "But, I, I, I, I was looking at his video, the Coliseum."
+  },
+  {
+   "start": 469.69,
+   "end": 484.69,
+   "text": "And he's walking in there and when you're on this first level, the, the stairs go up above the level."
+  },
+  {
+   "start": 484.69,
+   "end": 488.69,
+   "text": "The other stairs start higher, even though it's open."
+  },
+  {
+   "start": 488.69,
+   "end": 499.97,
+   "text": "And, and the way that Google Earth has it is, is it just goes down, you know, here on the path as it goes down into the stands or up."
+  },
+  {
+   "start": 499.97,
+   "end": 503.97,
+   "text": "But there's really up on it, but like way up higher."
+  },
+  {
+   "start": 503.97,
+   "end": 505.97,
+   "text": "So for some reason they didn't do it right."
+  },
+  {
+   "start": 505.97,
+   "end": 509.97,
+   "text": "So I just, you know, so there's stuff like that."
+  },
+  {
+   "start": 509.97,
+   "end": 514.97,
+   "text": "And the platforms around the, that arena."
+  },
+  {
+   "start": 514.97,
+   "end": 518.97,
+   "text": "So, yeah, there was just a lot of staring at it."
+  },
+  {
+   "start": 518.97,
+   "end": 522.97,
+   "text": "I could, I could, I could, I could, I could, I could, I could design this."
+  },
+  {
+   "start": 522.97,
+   "end": 526.97,
+   "text": "But I have it figured out right now."
+  },
+  {
+   "start": 526.97,
+   "end": 536.22,
+   "text": "And, um, and also, you know, make it appear and make it design in a way where you can look at it and you see how it's designed."
+  },
+  {
+   "start": 536.22,
+   "end": 545.95,
+   "text": "Yeah, make it realistic and also, you know, easy to to see how it works."
+  },
+  {
+   "start": 545.95,
+   "end": 552.95,
+   "text": "So, yeah, we'll see if I can be done by Sunday."
+  },
+  {
+   "start": 552.95,
+   "end": 555.95,
+   "text": "My little scar acted up just proofed up."
+  },
+  {
+   "start": 555.95,
+   "end": 558.95,
+   "text": "So, I might have to call the doctor, see what's going on."
+  },
+  {
+   "start": 558.95,
+   "end": 562.95,
+   "text": "Oh, this is where I got this glow so the skin cancer."
+  },
+  {
+   "start": 562.95,
+   "end": 564.95,
+   "text": "Come on, here's your gun."
+  },
+  {
+   "start": 564.95,
+   "end": 568.95,
+   "text": "Um, yeah, okay, so I'm going to go on a sleep now."
+  },
+  {
+   "start": 568.95,
+   "end": 572.95,
+   "text": "This is super exciting about the call of the day."
+  },
+  {
+   "start": 572.95,
+   "end": 583.26,
+   "text": "This is, um, more complicated than I thought I would."
+  },
+  {
+   "start": 583.26,
+   "end": 587.26,
+   "text": "I'm, I'm more ambitious than I thought I would be."
+  },
+  {
+   "start": 587.26,
+   "end": 594.26,
+   "text": "I think I, I try to rebuild the whole thing and understand how it even, how it, uh, how it was designed."
+  },
+  {
+   "start": 594.26,
+   "end": 598.26,
+   "text": "That's, that's the interesting thing is, um,"
+  },
+  {
+   "start": 598.26,
+   "end": 605.26,
+   "text": "it's designed very, uh, complicatedly and nobody shows how it was designed and it's the policy."
+  },
+  {
+   "start": 605.26,
+   "end": 612.26,
+   "text": "And so, I'm excited that I get to, uh, be the one to try to,"
+  },
+  {
+   "start": 612.26,
+   "end": 615.26,
+   "text": "explain how it's designed."
+  },
+  {
+   "start": 615.26,
+   "end": 618.26,
+   "text": "It's a good little challenge. It's a good little mental challenge."
+  },
+  {
+   "start": 618.26,
+   "end": 620.26,
+   "text": "It's hard but not too hard."
+  },
+  {
+   "start": 620.26,
+   "end": 622.26,
+   "text": "Right at my level."
+  },
+  {
+   "start": 622.26,
+   "end": 625.26,
+   "text": "Okay, I'm going to go, uh, get to sleep now."
+  },
+  {
+   "start": 625.26,
+   "end": 627.26,
+   "text": "I think there's something like that."
+  },
+  {
+   "start": 627.26,
+   "end": 630.26,
+   "text": "Oh my god, I talked to you on."
+  },
+  {
+   "start": 630.26,
+   "end": 631.26,
+   "text": "See?"
+  },
+  {
+   "start": 631.26,
+   "end": 635.26,
+   "text": "So, we're at two in her's to touch."
+  },
+  {
+   "start": 635.26,
+   "end": 637.26,
+   "text": "Big look. You know what I call?"
+  },
+  {
+   "start": 637.26,
+   "end": 638.26,
+   "text": "Okay."
+  },
+  {
+   "start": 638.26,
+   "end": 656.51,
+   "text": "See, see, see, see, see."
+  }
+ ]
+}

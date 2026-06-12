@@ -1,0 +1,134 @@
+{
+ "youtube_id": "9oTOQEs-Fgk",
+ "title": "Living in Boulder Vlog 11 - 28 - 2016",
+ "url": "https://youtu.be/9oTOQEs-Fgk",
+ "published_at": "2016-11-29",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a brief update on a vlog day, sharing that he worked until 4am on a tracing project recreating ancient Roman structures (Flaminian Circus, Pompeii Amphitheater, temples) for a 3D visualization. He's excited about the creative possibilities for virtual tours and movies, and mentions listening to Mike Duncan's history podcast while working on a Rome timeline.",
+  "speaker": "kyle",
+  "topics": [
+   "work update",
+   "3D historical reconstruction",
+   "ancient Rome",
+   "YouTube channel decision",
+   "podcasts",
+   "daily schedule"
+  ],
+  "stances": [
+   {
+    "topic": "3D Rome reconstruction project",
+    "position": "extremely excited about the final product and its possibilities for virtual tours and movies"
+   },
+   {
+    "topic": "Mike Duncan's podcast",
+    "position": "recommends it highly for its memorable, well-emphasized storytelling about Rome"
+   },
+   {
+    "topic": "which YouTube channel to use for the project",
+    "position": "undecided between creating a new channel or using his existing one"
+   }
+  ],
+  "entities": [
+   "Mike Duncan",
+   "Flaminian Circus",
+   "Pompeii Amphitheater",
+   "Boulder",
+   "Rome"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.85,
+   "end": 10.03,
+   "text": "Hello, living in Boulder V-Log. Today's Tuesday. The V-Log's for Monday, November 28th."
+  },
+  {
+   "start": 11.53,
+   "end": 17.27,
+   "text": "It's noon now. I was working until about 4.15 in the morning, and then I got up and I'm"
+  },
+  {
+   "start": 17.27,
+   "end": 24.91,
+   "text": "Working, so that's 5 to noon, 7.5 hours. From work to work. Not from sleep, but from work"
+  },
+  {
+   "start": 24.91,
+   "end": 45.19,
+   "text": "To work. So, yesterday I did the rest of the Flaminian Amphitheater, and then I did a"
+  },
+  {
+   "start": 45.19,
+   "end": 50.89,
+   "text": "Lot of the Pompeii Amphitheater. No, no, Flaminian Circus, and then Pompeii Amphitheater, and"
+  },
+  {
+   "start": 50.89,
+   "end": 60.09,
+   "text": "Then some other temples and stuff. As far as tracing goes, I'm trucking along. Looks like"
+  },
+  {
+   "start": 60.09,
+   "end": 66.59,
+   "text": "Half of it's done. I'm done with most of the big buildings. And then they 3D-ify it."
+  },
+  {
+   "start": 66.63,
+   "end": 75.75,
+   "text": "I'm, like, freaking out, dude. I've never been as, like, as eager to see the final product"
+  },
+  {
+   "start": 75.75,
+   "end": 86.97,
+   "text": "As this, as I've been to see this, because the possibilities are immense. I want to make,"
+  },
+  {
+   "start": 86.97,
+   "end": 92.25,
+   "text": "Like, movies going from somebody's room to somebody's other room, and all kinds of tours,"
+  },
+  {
+   "start": 92.39,
+   "end": 96.93,
+   "text": "Inside tours, outside tours of all the buildings. The only thing I can't decide is, should I"
+  },
+  {
+   "start": 96.93,
+   "end": 99.69,
+   "text": "Do it with a new YouTube channel or with my YouTube channel?"
+  },
+  {
+   "start": 99.69,
+   "end": 111.64,
+   "text": "Uh, so, uh, yeah, I'm totally rested now. Oh, I'll just listen to the Mike Duncan. I think I have"
+  },
+  {
+   "start": 111.64,
+   "end": 116.52,
+   "text": "20 more episodes of Mike Duncan. If anybody, you should check out Mike Duncan's podcast. It's really"
+  },
+  {
+   "start": 116.52,
+   "end": 123.16,
+   "text": "Good, because, about this through a room, because, um, he's good at stressing and, you know, talking in a"
+  },
+  {
+   "start": 123.16,
+   "end": 132.0,
+   "text": "Way that helps you remember, like, where the important, uh, the important stuff happens. So, it'll be good"
+  },
+  {
+   "start": 132.0,
+   "end": 140.0,
+   "text": "To listen to when I, uh, touch up my website. I mean, my timeline, just for Rome. So, uh, anyway, nothing"
+  },
+  {
+   "start": 140.0,
+   "end": 149.4,
+   "text": "Really changed. Everything's the same. Trucking along. All right. Peace out."
+  }
+ ]
+}

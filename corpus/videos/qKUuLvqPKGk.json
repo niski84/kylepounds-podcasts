@@ -1,0 +1,430 @@
+{
+ "youtube_id": "qKUuLvqPKGk",
+ "title": "Living in Boulder Vlog 4 - 4 - 2017: 10,000 kilometer diameter backgrounds",
+ "url": "https://youtu.be/qKUuLvqPKGk",
+ "published_at": "2017-04-05",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs at nearly 2am on April 5th, 2017, recapping his day: he got up on little sleep and spent the day troubleshooting Adobe Dreamweaver batch-edit issues while building a website with dimension/circle data visualizations. He also reflects on listening to Livy (the Roman historian), finding inspiration for a show he wants to make.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "web development",
+   "sleep habits",
+   "Livy / Roman history",
+   "show concept",
+   "YouTube subscribers"
+  ],
+  "stances": [
+   {
+    "topic": "Livy as a writer",
+    "position": "Thinks Livy is a really good writer who describes events well without over-explaining"
+   },
+   {
+    "topic": "Adobe Dreamweaver support",
+    "position": "Found the support helpful but entry-level; the fix (restarting the app) was simple"
+   },
+   {
+    "topic": "Alexander the Great vs Rome",
+    "position": "References Livy's argument that Alexander would have beaten Rome, but notes he was ultimately just a drunk — seems to find the debate interesting rather than taking a firm side"
+   },
+   {
+    "topic": "incomplete grid samples",
+    "position": "Decided a complete grid is better for learning despite extra work"
+   }
+  ],
+  "entities": [
+   "Adobe Dreamweaver",
+   "Livy (Titus Livius)",
+   "Alexander the Great",
+   "Rome",
+   "Jane Mayer",
+   "Google Earth",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.5,
+   "end": 16.5,
+   "text": "Hello living in Boulder View Live for the 4th of April 2017 right now it's 2 in the morning, 1.56 in the morning of April 5th."
+  },
+  {
+   "start": 16.5,
+   "end": 26.5,
+   "text": "I'm distracting myself, let me minimize this sometimes I get distracted by that."
+  },
+  {
+   "start": 26.5,
+   "end": 31.5,
+   "text": "So yeah, okay, so today I got up at 7.30."
+  },
+  {
+   "start": 31.5,
+   "end": 34.5,
+   "text": "I just got up and started working at 7.30."
+  },
+  {
+   "start": 34.5,
+   "end": 36.5,
+   "text": "Even though I was up until like 3."
+  },
+  {
+   "start": 36.5,
+   "end": 39.5,
+   "text": "So you know, like that's how it is with me."
+  },
+  {
+   "start": 39.5,
+   "end": 42.5,
+   "text": "I'll get like 8 hours of sleep, fun and good week."
+  },
+  {
+   "start": 42.5,
+   "end": 46.5,
+   "text": "And then all of a sudden one day I'll get 4, you know, I'm a final reason."
+  },
+  {
+   "start": 46.5,
+   "end": 48.5,
+   "text": "I've got not tired, I felt fine and same."
+  },
+  {
+   "start": 48.5,
+   "end": 51.5,
+   "text": "So it's cool, that's a mixture of hours."
+  },
+  {
+   "start": 51.5,
+   "end": 56.5,
+   "text": "But I needed it, yeah, I was still working on the same page."
+  },
+  {
+   "start": 56.5,
+   "end": 59.5,
+   "text": "So it's just a 20-year-old dimensions."
+  },
+  {
+   "start": 59.5,
+   "end": 63.5,
+   "text": "And I was working on links for the charts, and I had those charts in their own pages."
+  },
+  {
+   "start": 63.5,
+   "end": 69.5,
+   "text": "But I screwed up the colors because I couldn't do a batch edit because I took some columns out."
+  },
+  {
+   "start": 69.5,
+   "end": 73.5,
+   "text": "And I wanted to batch edit the percentages of the columns and I wouldn't do it."
+  },
+  {
+   "start": 73.5,
+   "end": 79.5,
+   "text": "And so I called on Adobe, it took support and then got me on the, you know, the Indian."
+  },
+  {
+   "start": 79.5,
+   "end": 84.5,
+   "text": "I've done as few times in this distance in the Indian, so you don't really know it very well."
+  },
+  {
+   "start": 84.5,
+   "end": 89.5,
+   "text": "They're like the higher I'm, it's like entry level just to like kind of help help help help help you figure it out."
+  },
+  {
+   "start": 89.5,
+   "end": 95.5,
+   "text": "But just fun because they usually help help me help help me figure it out for myself."
+  },
+  {
+   "start": 95.5,
+   "end": 101.5,
+   "text": "But yeah, we realized all I had to do is restart Dream Weaver and then it worked."
+  },
+  {
+   "start": 101.5,
+   "end": 105.5,
+   "text": "Then we never had that problem with the old version of Dream Weaver."
+  },
+  {
+   "start": 105.5,
+   "end": 112.5,
+   "text": "But so I did a batch edit of that and then I did batch edit of the colors because I just switched colors."
+  },
+  {
+   "start": 112.5,
+   "end": 117.5,
+   "text": "But I forgot that I had the other one for the race distance as well."
+  },
+  {
+   "start": 117.5,
+   "end": 122.5,
+   "text": "And so it screwed up the colors on that and I couldn't do a batch edit because it wouldn't do batch edit anymore."
+  },
+  {
+   "start": 122.5,
+   "end": 130.5,
+   "text": "And I wouldn't really work that well anyway because it's the way it screwed up the color side and then like so that took a pletitum."
+  },
+  {
+   "start": 130.5,
+   "end": 141.84,
+   "text": "And then I had to re, I had to finish building like right now and building 250 meters diameter of like a guillaula."
+  },
+  {
+   "start": 141.84,
+   "end": 144.84,
+   "text": "Because I, you know, it was partially completed."
+  },
+  {
+   "start": 144.84,
+   "end": 146.84,
+   "text": "I didn't know that I wanted to do this completely."
+  },
+  {
+   "start": 146.84,
+   "end": 148.84,
+   "text": "I was like, yeah, we'll do samples."
+  },
+  {
+   "start": 148.84,
+   "end": 158.84,
+   "text": "I'm like 90 to samples because when you make the, you know, the grid just to be like a square grid, like a complete grid, it can be incomplete."
+  },
+  {
+   "start": 158.84,
+   "end": 166.84,
+   "text": "So, yeah, but it's also better for learning to be able to zoom in and out completely well."
+  },
+  {
+   "start": 166.84,
+   "end": 169.84,
+   "text": "So maybe I'll be done with it tomorrow."
+  },
+  {
+   "start": 169.84,
+   "end": 170.84,
+   "text": "Hopefully."
+  },
+  {
+   "start": 170.84,
+   "end": 173.84,
+   "text": "I was listening to, I'm listening to living again."
+  },
+  {
+   "start": 174.84,
+   "end": 176.84,
+   "text": "Living when I pay attention to it is fascinating."
+  },
+  {
+   "start": 176.84,
+   "end": 179.84,
+   "text": "I think living number one is a really good writer."
+  },
+  {
+   "start": 179.84,
+   "end": 183.84,
+   "text": "And he does a really good job of just."
+  },
+  {
+   "start": 183.84,
+   "end": 191.84,
+   "text": "Describing the events really well in the situation and allowing you to imagine, you know, fill them up by and send imagine what's going on."
+  },
+  {
+   "start": 191.84,
+   "end": 198.84,
+   "text": "By commenting on stuff, but not, you know, over come over explaining."
+  },
+  {
+   "start": 198.84,
+   "end": 201.84,
+   "text": "Just telling a story."
+  },
+  {
+   "start": 201.84,
+   "end": 209.84,
+   "text": "Yeah, and I mean, it's a 3,000-800-page books every time you read it, you're learning about more things."
+  },
+  {
+   "start": 209.84,
+   "end": 212.84,
+   "text": "May because I'm like, high all the time."
+  },
+  {
+   "start": 212.84,
+   "end": 215.84,
+   "text": "I'm daydream when I listen to."
+  },
+  {
+   "start": 215.84,
+   "end": 220.84,
+   "text": "But, yes, so I'm going to start listening to it a lot because I get ideas."
+  },
+  {
+   "start": 220.84,
+   "end": 227.84,
+   "text": "I want to get ideas for my show, you know, and the more I think about it now, the better I'll do when I make the show."
+  },
+  {
+   "start": 227.84,
+   "end": 233.84,
+   "text": "For example, they had to, the first guy at the second king and their calendar and every 20 years."
+  },
+  {
+   "start": 233.84,
+   "end": 243.84,
+   "text": "They would adjust the year side to something like that every 20 years and no older, old around time and be six months."
+  },
+  {
+   "start": 243.84,
+   "end": 247.84,
+   "text": "So, here's the, the religious hat for older."
+  },
+  {
+   "start": 247.84,
+   "end": 250.84,
+   "text": "Yeah, overall of my hats, each had it."
+  },
+  {
+   "start": 250.84,
+   "end": 252.84,
+   "text": "Each day a different hat from now on."
+  },
+  {
+   "start": 252.84,
+   "end": 255.84,
+   "text": "Oh, backgrounds, 10,000, kilometers."
+  },
+  {
+   "start": 255.84,
+   "end": 260.84,
+   "text": "That's the, um, the last of the circles page."
+  },
+  {
+   "start": 260.84,
+   "end": 264.84,
+   "text": "Oh, my hat, scratch, it's done, I put that on."
+  },
+  {
+   "start": 264.84,
+   "end": 267.84,
+   "text": "So, uh, I don't know what I'll do after this."
+  },
+  {
+   "start": 267.84,
+   "end": 274.84,
+   "text": "I think I'm going to do a whole bunch of, uh, Google Earth, all my Google Earth collection."
+  },
+  {
+   "start": 274.84,
+   "end": 278.84,
+   "text": "And then what I'm done, I'll do my wood page, you know."
+  },
+  {
+   "start": 278.84,
+   "end": 281.84,
+   "text": "But I'll try not to scroll up and down too much."
+  },
+  {
+   "start": 281.84,
+   "end": 283.84,
+   "text": "So, it doesn't give people headaches."
+  },
+  {
+   "start": 283.84,
+   "end": 286.84,
+   "text": "I lost like 25 subscribers because of these."
+  },
+  {
+   "start": 286.84,
+   "end": 288.84,
+   "text": "Thank you."
+  },
+  {
+   "start": 288.84,
+   "end": 296.78,
+   "text": "Um, anyway, um, yes."
+  },
+  {
+   "start": 296.78,
+   "end": 303.42,
+   "text": "So, uh, no look at for, whoo, to the living."
+  },
+  {
+   "start": 303.42,
+   "end": 309.42,
+   "text": "He was talking about, um, whether or not Alexander the Grey would have been able to kick the Romans asses"
+  },
+  {
+   "start": 309.42,
+   "end": 315.42,
+   "text": "like, you know, he gave like all these reasons while he was in the Grey, one of the kind of guns"
+  },
+  {
+   "start": 315.42,
+   "end": 318.42,
+   "text": "I would have been tempted to have retired to talk with Rome."
+  },
+  {
+   "start": 318.42,
+   "end": 324.42,
+   "text": "Um, y'all incorporate that into a, into my show."
+  },
+  {
+   "start": 324.42,
+   "end": 330.42,
+   "text": "They said because he wasn't really a good general, because he was just a drunk."
+  },
+  {
+   "start": 330.42,
+   "end": 335.42,
+   "text": "And they're in, they're in like each and every role in his older was just good to see him."
+  },
+  {
+   "start": 335.42,
+   "end": 342.11,
+   "text": "Anyway, um, the other, a lot of cool things anyway."
+  },
+  {
+   "start": 342.11,
+   "end": 354.17,
+   "text": "So, I guess I'll get to, uh, get to sleep or maybe all they all work a little bit more."
+  },
+  {
+   "start": 354.17,
+   "end": 361.17,
+   "text": "Um, but I was doing a little bit of, uh, listen to an interview with a Jane Mayer."
+  },
+  {
+   "start": 361.17,
+   "end": 363.17,
+   "text": "I learned a little bit more about that."
+  },
+  {
+   "start": 363.17,
+   "end": 366.17,
+   "text": "That's some of the projects I'm working on."
+  },
+  {
+   "start": 366.17,
+   "end": 368.17,
+   "text": "Anyways, I think I've talked enough."
+  },
+  {
+   "start": 368.17,
+   "end": 372.17,
+   "text": "I have nothing else to talk about."
+  },
+  {
+   "start": 372.17,
+   "end": 376.17,
+   "text": "Oh, six, fourteen is kind of like, all right, peace out."
+  }
+ ]
+}

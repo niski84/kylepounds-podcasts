@@ -1,0 +1,346 @@
+{
+ "youtube_id": "EA2objF1B6I",
+ "title": "Boulder Co Vlog 3/29/18 Roller Rode 2 hrs, 31.38m Super Tired.",
+ "url": "https://youtu.be/EA2objF1B6I",
+ "published_at": "2018-03-30",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about a difficult two-hour roller ride covering roughly 31 miles, struggling with low appetite, fatigue, and stomach issues he attributes to a long period of smoking marijuana and not exercising. He talks about his recovery eating (pizza, juice, protein drink), his current low power output, and plans to continue riding the next day.",
+  "speaker": "kyle",
+  "topics": [
+   "cycling/roller riding",
+   "physical recovery",
+   "appetite/eating difficulties",
+   "marijuana use effects",
+   "aging and fitness",
+   "daily routine"
+  ],
+  "stances": [
+   {
+    "topic": "marijuana and fitness",
+    "position": "prolonged marijuana use hurt his appetite and ability to exercise, and he's now paying for it physically"
+   },
+   {
+    "topic": "aging vs. fitness decline",
+    "position": "attributes current struggle partly to aging but mostly to deconditioning from inactivity"
+   },
+   {
+    "topic": "continuing training",
+    "position": "plans to keep riding and build up to four hours a day despite the difficulty"
+   }
+  ],
+  "entities": [
+   "Boulder CO",
+   "Flutchiner (roller trainer brand)"
+  ],
+  "date": "2018-03-29",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.43,
+   "end": 5.31,
+   "text": "Here forgot to do the part with the sewing my chest. I'll do it tomorrow"
+  },
+  {
+   "start": 6.79,
+   "end": 10.95,
+   "text": "Yeah, we'll see how I feel about this thing showing my chest for a day"
+  },
+  {
+   "start": 11.83,
+   "end": 16.19,
+   "text": "You know think about it. I like experimenting a little bit, but"
+  },
+  {
+   "start": 17.71,
+   "end": 19.95,
+   "text": "Okay, so I got up kind of late today"
+  },
+  {
+   "start": 21.19,
+   "end": 23.19,
+   "text": "I did a I wrote for two hours"
+  },
+  {
+   "start": 24.31,
+   "end": 29.43,
+   "text": "And I went in and I got a kind of late and then I took a whole hour to have breakfast"
+  },
+  {
+   "start": 30.43,
+   "end": 32.43,
+   "text": "Because I can barely eat"
+  },
+  {
+   "start": 33.87,
+   "end": 37.59,
+   "text": "Because I went so long smoking marijuana and not exercising that I"
+  },
+  {
+   "start": 39.87,
+   "end": 43.79,
+   "text": "I developed a really low appetite, but also marijuana made me"
+  },
+  {
+   "start": 44.95,
+   "end": 46.95,
+   "text": "Like not able to"
+  },
+  {
+   "start": 46.95,
+   "end": 48.95,
+   "text": "perpetually"
+  },
+  {
+   "start": 48.95,
+   "end": 50.95,
+   "text": "live"
+  },
+  {
+   "start": 50.95,
+   "end": 52.95,
+   "text": "Just not"
+  },
+  {
+   "start": 52.95,
+   "end": 54.95,
+   "text": "being able to swallow food"
+  },
+  {
+   "start": 54.95,
+   "end": 56.95,
+   "text": "so"
+  },
+  {
+   "start": 56.95,
+   "end": 59.67,
+   "text": "I had a breakfast and then I had a"
+  },
+  {
+   "start": 60.67,
+   "end": 62.67,
+   "text": "I had a fruit"
+  },
+  {
+   "start": 64.63,
+   "end": 68.33,
+   "text": "Protein drink and"
+  },
+  {
+   "start": 68.81,
+   "end": 75.85,
+   "text": "Tomato soup for breakfast and then I wrote for two hours and that's why I might maybe"
+  },
+  {
+   "start": 76.57,
+   "end": 78.57,
+   "text": "30 to 35 miles"
+  },
+  {
+   "start": 79.77,
+   "end": 82.41,
+   "text": "on my flutchiner. I can go"
+  },
+  {
+   "start": 83.45,
+   "end": 85.69,
+   "text": "You know as it has been the state that I'm in now"
+  },
+  {
+   "start": 87.05,
+   "end": 88.57,
+   "text": "about"
+  },
+  {
+   "start": 88.97,
+   "end": 93.29,
+   "text": "17 miles an hour, you know 150 watts, but at the end of the two hours"
+  },
+  {
+   "start": 93.29,
+   "end": 97.09,
+   "text": "I was down to like a hundred watts and so I fell asleep"
+  },
+  {
+   "start": 99.21,
+   "end": 101.21,
+   "text": "And then I got up and had"
+  },
+  {
+   "start": 102.81,
+   "end": 109.58,
+   "text": "Mutsus yeah, and then I got up and had I got"
+  },
+  {
+   "start": 110.38,
+   "end": 114.94,
+   "text": "For juice and order the pizza because I needed to eat something that I can swallow"
+  },
+  {
+   "start": 115.5,
+   "end": 119.58,
+   "text": "They're good at nice freshly freshly made pizza would be the best thing so"
+  },
+  {
+   "start": 119.98,
+   "end": 122.94,
+   "text": "18 bucks and I'm gonna try that again. I didn't know much about that"
+  },
+  {
+   "start": 123.42,
+   "end": 126.38,
+   "text": "So I picked that up and I managed to get eat almost half of it"
+  },
+  {
+   "start": 127.5,
+   "end": 130.3,
+   "text": "So I don't know if I'm gonna ride later on today. I feel"
+  },
+  {
+   "start": 132.46,
+   "end": 134.46,
+   "text": "Bill"
+  },
+  {
+   "start": 134.46,
+   "end": 138.22,
+   "text": "My stomach, you know the main problem is my stomach exercise"
+  },
+  {
+   "start": 138.22,
+   "end": 140.62,
+   "text": "I'm turning into a fucking"
+  },
+  {
+   "start": 141.26,
+   "end": 143.26,
+   "text": "job of that"
+  },
+  {
+   "start": 143.26,
+   "end": 145.26,
+   "text": "My legs aren't sore. That's not the problem"
+  },
+  {
+   "start": 146.22,
+   "end": 148.22,
+   "text": "It's my stomach. I can't"
+  },
+  {
+   "start": 149.18,
+   "end": 151.5,
+   "text": "Can't eat and I also don't have any"
+  },
+  {
+   "start": 152.14,
+   "end": 154.58,
+   "text": "energy"
+  },
+  {
+   "start": 154.58,
+   "end": 156.58,
+   "text": "It's fucked up"
+  },
+  {
+   "start": 157.38,
+   "end": 162.26,
+   "text": "Because like two years ago if I had done this two years ago, I would have been able to jump right in it"
+  },
+  {
+   "start": 162.66,
+   "end": 167.7,
+   "text": "I did three I did three days in a row of other miles a day like three years ago when I was gonna do it"
+  },
+  {
+   "start": 168.82,
+   "end": 170.18,
+   "text": "I couldn't do that out"
+  },
+  {
+   "start": 170.18,
+   "end": 175.06,
+   "text": "I like I hit that wall where you go down and you'll fast hit that age"
+  },
+  {
+   "start": 175.78,
+   "end": 177.78,
+   "text": "That's what it seems like"
+  },
+  {
+   "start": 178.42,
+   "end": 182.98,
+   "text": "But it's not an age thing really. It's just well I guess it's aging competition. I'm not excited"
+  },
+  {
+   "start": 184.1,
+   "end": 185.7,
+   "text": "but"
+  },
+  {
+   "start": 185.7,
+   "end": 187.7,
+   "text": "I also feel retarded"
+  },
+  {
+   "start": 187.7,
+   "end": 189.7,
+   "text": "I wanted to"
+  },
+  {
+   "start": 189.7,
+   "end": 194.26,
+   "text": "Organize files in my computer because I watch lots of files while I ride"
+  },
+  {
+   "start": 195.62,
+   "end": 196.74,
+   "text": "And"
+  },
+  {
+   "start": 196.74,
+   "end": 197.7,
+   "text": "I want to"
+  },
+  {
+   "start": 197.7,
+   "end": 201.38,
+   "text": "Organize and make something that's validated out of no thought riding and but"
+  },
+  {
+   "start": 201.94,
+   "end": 203.86,
+   "text": "We'll see I'll look at the weather if it's cold tomorrow"
+  },
+  {
+   "start": 203.86,
+   "end": 205.86,
+   "text": "I think I think it is I think I will do another"
+  },
+  {
+   "start": 206.42,
+   "end": 212.18,
+   "text": "That'll take me up to four hours if I knew four hours a day and if I do that keep that up"
+  },
+  {
+   "start": 212.18,
+   "end": 213.54,
+   "text": "You know"
+  },
+  {
+   "start": 213.54,
+   "end": 218.34,
+   "text": "We'll eventually climb up I just don't want the climbing up to be a two-paying full"
+  },
+  {
+   "start": 218.98,
+   "end": 220.74,
+   "text": "What I do is a"
+  },
+  {
+   "start": 220.74,
+   "end": 225.94,
+   "text": "One doing the video now so I don't pass up and not do it okay a piece of"
+  }
+ ]
+}

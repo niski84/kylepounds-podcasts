@@ -1,0 +1,128 @@
+{
+ "youtube_id": "k68nlkg3S4A",
+ "title": "Cookies - Request",
+ "url": "https://youtu.be/k68nlkg3S4A",
+ "published_at": "2014-05-27",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle responds to a viewer request from 'Mr. Heavy Metal dude' asking his opinion on cookies. He explains he almost never buys cookies and prefers candy for his sweet tooth, but when he does eat cookies his favorites are soft chocolate chip and oatmeal cookies. He briefly speculates about the possible accidental origin of cookies.",
+  "speaker": "mixed",
+  "topics": [
+   "cookies",
+   "food preferences",
+   "sweet tooth",
+   "candy",
+   "personal finances",
+   "food history speculation"
+  ],
+  "stances": [
+   {
+    "topic": "buying cookies",
+    "position": "almost never buys them, prefers candy like Nerds and Bottle Caps for sweet cravings"
+   },
+   {
+    "topic": "favorite cookie",
+    "position": "soft chocolate chip cookies are his top choice"
+   },
+   {
+    "topic": "oatmeal cookies",
+    "position": "liked them for a while, still enjoys them especially with nuts like macadamia"
+   },
+   {
+    "topic": "cookie history",
+    "position": "doesn't know it but humorously guesses cookies were an accidental sweet bread without yeast"
+   }
+  ],
+  "entities": [
+   "Mr. Heavy Metal dude",
+   "VIA (food kitchen)",
+   "Nerds (candy)",
+   "Bottle Caps (candy)",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 4.0,
+   "text": "I'll get in cut up on the video request. This one's from Mr. Heavy Metal dude."
+  },
+  {
+   "start": 5.04,
+   "end": 13.04,
+   "text": "Hi Kyle. Next video request. What is your opinion on cookies in general? Also, what type of cookies do you like?"
+  },
+  {
+   "start": 13.04,
+   "end": 22.56,
+   "text": "And eat minor chocolate chip, what chocolate, oatmeal, raisin macadamina and sugar cookies thanks and have a nice day."
+  },
+  {
+   "start": 22.56,
+   "end": 29.84,
+   "text": "Interesting cookies. What are my opinions on cookies? I don't eat cookies I never buy cookies. I almost never never never buy cookies."
+  },
+  {
+   "start": 30.0,
+   "end": 36.0,
+   "text": "If I buy cookies I can't like them or it's in my time. I want to see my money. Although I don't mind eating cookies."
+  },
+  {
+   "start": 36.0,
+   "end": 40.0,
+   "text": "Back last summer I didn't have any money and I went over to VIA."
+  },
+  {
+   "start": 42.0,
+   "end": 50.0,
+   "text": "Food place, you know? We're a little food kitchen place. I'm gonna give you some cookies and I ate them. My mom likes to get cookies."
+  },
+  {
+   "start": 50.0,
+   "end": 58.0,
+   "text": "When I get a sweet tooth I just keep counting. In fact last night I bought candy. I bought nerds and bottle caps and that's what I have."
+  },
+  {
+   "start": 58.0,
+   "end": 64.0,
+   "text": "I don't have cookies. But when I do eat cookies my favorite would be chocolate chip cookies."
+  },
+  {
+   "start": 64.0,
+   "end": 72.0,
+   "text": "I like the chocolate chip cookies that are soft or particularly soft. I want to grow up my favorite flavor was chocolate."
+  },
+  {
+   "start": 72.0,
+   "end": 80.0,
+   "text": "I don't think it's like that anymore but yeah cookies are good. I like oatmeal cookies."
+  },
+  {
+   "start": 80.0,
+   "end": 88.0,
+   "text": "For a while those are my favorite but I like what you're talking about cookies go with nuts like macadamia nuts."
+  },
+  {
+   "start": 88.0,
+   "end": 92.0,
+   "text": "I don't know the history of cookies though."
+  },
+  {
+   "start": 92.0,
+   "end": 104.0,
+   "text": "I wouldn't be surprised if it was like somebody who was sweet tooth and they were normally make bread and they forgot to add the yeast and it was sweet bread."
+  },
+  {
+   "start": 104.0,
+   "end": 108.0,
+   "text": "It does the fries and it looks like it's making a cookie."
+  },
+  {
+   "start": 108.0,
+   "end": 110.0,
+   "text": "Okay so peace out."
+  }
+ ]
+}

@@ -1,0 +1,387 @@
+{
+ "youtube_id": "vLBIlXWd5eU",
+ "title": "Living in Boulder Vlog 2 - 14 - 2017: Caribou in Background",
+ "url": "https://youtu.be/vLBIlXWd5eU",
+ "published_at": "2017-02-15",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs while showing a screen capture of Caribou, Colorado, a former silver mining ghost town, sharing brief historical facts about it. He then recounts his day: dealing with insomnia and low productivity, shampooing carpet at his mom's house (causing a sudsy mess), and prepping his car for sale while lamenting that problems keep surfacing whenever he tries to sell it.",
+  "speaker": "kyle",
+  "topics": [
+   "Boulder vlog",
+   "Caribou Colorado ghost town history",
+   "insomnia and sleep",
+   "carpet shampooing",
+   "car sale preparation",
+   "home organization"
+  ],
+  "stances": [
+   {
+    "topic": "insomnia",
+    "position": "feels it's hurting his productivity and focus"
+   },
+   {
+    "topic": "selling his car",
+    "position": "frustrated that new problems keep appearing every time he tries to sell it"
+   },
+   {
+    "topic": "carpet shampooing",
+    "position": "regrets using too much concentrated shampoo, creating a long cleanup ordeal"
+   }
+  ],
+  "entities": [
+   "Caribou Colorado",
+   "Cardinal ski resort",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.11,
+   "end": 3.11,
+   "text": "So I'm living in Boulder, V-Log."
+  },
+  {
+   "start": 6.11,
+   "end": 10.11,
+   "text": "So I re-bibre you've called it to start the video."
+  },
+  {
+   "start": 11.11,
+   "end": 14.11,
+   "text": "This is the video that I'm doing."
+  },
+  {
+   "start": 15.11,
+   "end": 19.11,
+   "text": "A screen capture of Caribou."
+  },
+  {
+   "start": 19.11,
+   "end": 21.11,
+   "text": "Caribou, Caribou, Colorado."
+  },
+  {
+   "start": 22.11,
+   "end": 25.11,
+   "text": "Caribou Colorado was ghost town from..."
+  },
+  {
+   "start": 26.11,
+   "end": 28.11,
+   "text": "There is ghost town."
+  },
+  {
+   "start": 29.11,
+   "end": 34.11,
+   "text": "It was a mining town, Silver mining town from 1867 until 1927."
+  },
+  {
+   "start": 39.11,
+   "end": 41.11,
+   "text": "It is height in the 70s."
+  },
+  {
+   "start": 41.11,
+   "end": 44.11,
+   "text": "It's got up to some say to 1000 around the area."
+  },
+  {
+   "start": 45.11,
+   "end": 48.11,
+   "text": "At six fire hydrants to..."
+  },
+  {
+   "start": 49.11,
+   "end": 53.11,
+   "text": "Reservoirs, which you can see on the highway built the whole thing."
+  },
+  {
+   "start": 53.11,
+   "end": 55.11,
+   "text": "I'll do the video later."
+  },
+  {
+   "start": 56.11,
+   "end": 59.11,
+   "text": "This is just the video background for my view log."
+  },
+  {
+   "start": 62.11,
+   "end": 64.11,
+   "text": "That also has it with the tents, right?"
+  },
+  {
+   "start": 65.11,
+   "end": 67.11,
+   "text": "Because from the summertime, the people don't have tents."
+  },
+  {
+   "start": 68.11,
+   "end": 70.11,
+   "text": "I have it like actually recreating exactly how it looked."
+  },
+  {
+   "start": 71.11,
+   "end": 75.11,
+   "text": "The entire metropolitan area of it with all the roads and everything."
+  },
+  {
+   "start": 76.11,
+   "end": 80.11,
+   "text": "Because I use my x-ray vision to see through the road."
+  },
+  {
+   "start": 80.11,
+   "end": 83.11,
+   "text": "And also you can see..."
+  },
+  {
+   "start": 84.11,
+   "end": 93.38,
+   "text": "Cardinal ski resort, which went in the 40s."
+  },
+  {
+   "start": 94.38,
+   "end": 96.38,
+   "text": "For then, there are miners who worked up there."
+  },
+  {
+   "start": 97.38,
+   "end": 98.38,
+   "text": "There are just people."
+  },
+  {
+   "start": 99.38,
+   "end": 100.38,
+   "text": "There are just 40s I think."
+  },
+  {
+   "start": 101.38,
+   "end": 103.38,
+   "text": "You can see them around."
+  },
+  {
+   "start": 104.38,
+   "end": 106.38,
+   "text": "Green's and blues and the left."
+  },
+  {
+   "start": 106.38,
+   "end": 115.38,
+   "text": "And yeah, even modern day, there's one building that's still standing."
+  },
+  {
+   "start": 117.38,
+   "end": 120.38,
+   "text": "But you can see how it's all scarred up like that."
+  },
+  {
+   "start": 121.38,
+   "end": 123.38,
+   "text": "So let's see..."
+  },
+  {
+   "start": 124.38,
+   "end": 125.38,
+   "text": "So..."
+  },
+  {
+   "start": 130.95,
+   "end": 132.95,
+   "text": "Today..."
+  },
+  {
+   "start": 133.95,
+   "end": 134.95,
+   "text": "I got a kind of lighting in..."
+  },
+  {
+   "start": 134.95,
+   "end": 136.95,
+   "text": "Kind of had an insomnia."
+  },
+  {
+   "start": 138.95,
+   "end": 140.95,
+   "text": "This part of my life, I'm not really..."
+  },
+  {
+   "start": 141.95,
+   "end": 144.95,
+   "text": "I feel like I'm not really getting a whole lot of sleep and a little more..."
+  },
+  {
+   "start": 145.95,
+   "end": 146.95,
+   "text": "...perlating than normal."
+  },
+  {
+   "start": 147.95,
+   "end": 149.95,
+   "text": "And now working is efficiently than normal."
+  },
+  {
+   "start": 150.95,
+   "end": 151.95,
+   "text": "Because it just has to do organizational stuff."
+  },
+  {
+   "start": 152.95,
+   "end": 153.95,
+   "text": "So I get up and I think I did a little bit of that."
+  },
+  {
+   "start": 154.95,
+   "end": 155.95,
+   "text": "But then I went over to my mom's house and I..."
+  },
+  {
+   "start": 156.95,
+   "end": 158.95,
+   "text": "...shamped from like 6 hours. It was crazy."
+  },
+  {
+   "start": 159.95,
+   "end": 160.95,
+   "text": "Crazy."
+  },
+  {
+   "start": 160.95,
+   "end": 164.95,
+   "text": "The limits of pouring out every time, light from, all light from."
+  },
+  {
+   "start": 165.95,
+   "end": 168.95,
+   "text": "I made it a mistake a few years ago and I cleaned it."
+  },
+  {
+   "start": 169.95,
+   "end": 171.95,
+   "text": "In 2012 when I was going to sell it cleaned it."
+  },
+  {
+   "start": 172.95,
+   "end": 177.95,
+   "text": "I was putting too much concentrated and shampoops, shampoo, concentrate."
+  },
+  {
+   "start": 178.95,
+   "end": 181.95,
+   "text": "I didn't realize how strong it was and it takes a whole lot..."
+  },
+  {
+   "start": 182.95,
+   "end": 184.95,
+   "text": "...a very long time."
+  },
+  {
+   "start": 185.95,
+   "end": 189.95,
+   "text": "A whole lot of time to take that out when you are..."
+  },
+  {
+   "start": 192.42,
+   "end": 199.26,
+   "text": "two but two before I said I got a I got the trash can and I poured like a huge trash can"
+  },
+  {
+   "start": 199.26,
+   "end": 205.86,
+   "text": "a huge kitchen trash can and I poured the entire thing all over my floor and that's just"
+  },
+  {
+   "start": 205.86,
+   "end": 216.86,
+   "text": "the floor all day long and and then I ended the day with like an hour or something of doing"
+  },
+  {
+   "start": 216.86,
+   "end": 222.34,
+   "text": "the actual seat and that was all sudsie too so I'm like a tomorrow when you get all finished"
+  },
+  {
+   "start": 222.34,
+   "end": 229.14,
+   "text": "tomorrow though when I'll do that until I've done so much time but it will be so clean"
+  },
+  {
+   "start": 229.14,
+   "end": 234.1,
+   "text": "and so I'll clean it as in that will be ready at the bottom but of course when I try to"
+  },
+  {
+   "start": 234.1,
+   "end": 241.18,
+   "text": "sell my car, magical stuff happens, the new magic of course. Now the interior light won't"
+  },
+  {
+   "start": 241.18,
+   "end": 246.26,
+   "text": "work even though last summer when I was going to sell I spent like 120 bucks or something"
+  },
+  {
+   "start": 246.26,
+   "end": 251.94,
+   "text": "getting somebody to fix it, the only place car electrical place in the whole area that even"
+  },
+  {
+   "start": 251.94,
+   "end": 259.5,
+   "text": "had the balls to check it out and they fixed it but stuff like that and fixed it this"
+  },
+  {
+   "start": 259.5,
+   "end": 274.82,
+   "text": "time at least long enough to sell it. So that's the only thing and then of course fixed the"
+  },
+  {
+   "start": 274.82,
+   "end": 280.22,
+   "text": "rocket box staple the rocket box together I'll do that tomorrow too and as far as organization"
+  },
+  {
+   "start": 280.22,
+   "end": 288.86,
+   "text": "that I could come back and yeah finishing up organizing the house we had some stuff drawers"
+  },
+  {
+   "start": 288.86,
+   "end": 295.58,
+   "text": "went into these drawers here and I put the drawer and then I'd like falls apart so it's being glued"
+  },
+  {
+   "start": 295.58,
+   "end": 300.58,
+   "text": "back together right now this drawer I'm gonna gonna have some drawers here after that when I get"
+  },
+  {
+   "start": 300.58,
+   "end": 305.18,
+   "text": "when that went back in here tomorrow I just put wood glue in it though I have that strong enough"
+  },
+  {
+   "start": 305.18,
+   "end": 309.1,
+   "text": "maybe I should screw it but if I screw it you know I have to get all the way in so it doesn't"
+  },
+  {
+   "start": 309.1,
+   "end": 322.86,
+   "text": "hit so yeah so yeah oh yeah oh yeah oh by the 20s that's about the same about a distance of time"
+  },
+  {
+   "start": 322.86,
+   "end": 329.42,
+   "text": "I just can't remember when man I'm so high like my I use that music like different words for everything"
+  },
+  {
+   "start": 329.42,
+   "end": 332.86,
+   "text": "okay peace out"
+  }
+ ]
+}

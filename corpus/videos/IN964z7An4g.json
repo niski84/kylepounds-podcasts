@@ -1,0 +1,337 @@
+{
+ "youtube_id": "IN964z7An4g",
+ "title": "Living in Boulder Vlog 3 - 21 - 2017: 5 Kilometer background",
+ "url": "https://youtu.be/IN964z7An4g",
+ "published_at": "2017-03-23",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder on March 21, 2017, describing a day spent working on his computer building a website with land area data and Google Earth KML files. He discusses his project goals, plans to go deep on the work starting January 2018, and mentions listening to Adam Smith's Wealth of Nations in the background.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "web project development",
+   "Google Earth KML files",
+   "personal productivity",
+   "future plans"
+  ],
+  "stances": [
+   {
+    "topic": "current project focus",
+    "position": "wants to finish the land area page before moving on, sees value in getting it right now while the context is fresh"
+   },
+   {
+    "topic": "deep work timing",
+    "position": "planning to defer deep-level work until January 1, 2018 when he expects to have more money and courage"
+   },
+   {
+    "topic": "site architecture",
+    "position": "believes the land area page will help users understand scale and safety distances"
+   }
+  ],
+  "entities": [
+   "Adam Smith",
+   "Wealth of Nations",
+   "Google Earth",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.18,
+   "end": 7.18,
+   "text": "Oh, living in Boulder, V-log from March 21st, with 755 pm."
+  },
+  {
+   "start": 7.18,
+   "end": 14.18,
+   "text": "So today this morning I was going to, well, I'm almost going to come or take photos of the man,"
+  },
+  {
+   "start": 14.18,
+   "end": 16.18,
+   "text": "but she had other stuff to do."
+  },
+  {
+   "start": 16.18,
+   "end": 21.18,
+   "text": "So we need that tomorrow so I was like, I'll close, work on my computer all day."
+  },
+  {
+   "start": 21.18,
+   "end": 27.18,
+   "text": "So I did that, I came here one at a time, I got to have a, I was trying to finish the 25 air lander,"
+  },
+  {
+   "start": 27.18,
+   "end": 30.18,
+   "text": "and maybe just today."
+  },
+  {
+   "start": 30.18,
+   "end": 34.18,
+   "text": "And you know, still trying to figure out why I wanted it to look like and stuff."
+  },
+  {
+   "start": 34.18,
+   "end": 39.18,
+   "text": "And then I was like, this would be so cool if this thing was downloadable, you know."
+  },
+  {
+   "start": 39.18,
+   "end": 44.18,
+   "text": "Like each and every one for Google Earth, for a self-hound."
+  },
+  {
+   "start": 44.18,
+   "end": 50.18,
+   "text": "And then when this page is done too, and so I was like, but I can't make it download pictures until I make the,"
+  },
+  {
+   "start": 50.18,
+   "end": 63.18,
+   "text": "I can't see files, I felt the courses, but down I was like, oh, let's make set up the can see, the Google Earth files."
+  },
+  {
+   "start": 63.18,
+   "end": 69.18,
+   "text": "Like right now, it's not 100 now, because it's total brand can't even, but after when I'm done, I might be like,"
+  },
+  {
+   "start": 69.18,
+   "end": 72.18,
+   "text": "but she's finished them. She's finished all the things."
+  },
+  {
+   "start": 72.18,
+   "end": 76.18,
+   "text": "If I think I could finish it in just a few days or something, I'd be like,"
+  },
+  {
+   "start": 76.18,
+   "end": 80.18,
+   "text": "and then I could get that little page done, it was like a week if I take off."
+  },
+  {
+   "start": 80.18,
+   "end": 83.18,
+   "text": "So, you know, I want to do that."
+  },
+  {
+   "start": 83.18,
+   "end": 87.18,
+   "text": "I tried to stay surface level, like I was trying to work on my front page."
+  },
+  {
+   "start": 87.18,
+   "end": 91.18,
+   "text": "And then I got to the part where I was explaining,"
+  },
+  {
+   "start": 91.18,
+   "end": 99.18,
+   "text": "my, like, recent level stuff, and all the different air distances."
+  },
+  {
+   "start": 99.18,
+   "end": 102.18,
+   "text": "And then what they correspond to in the areas,"
+  },
+  {
+   "start": 102.18,
+   "end": 107.18,
+   "text": "but I couldn't describe the areas, because I didn't know what they were calling stuff,"
+  },
+  {
+   "start": 107.18,
+   "end": 112.18,
+   "text": "so I didn't even, so that's how I got sucked into the land area page,"
+  },
+  {
+   "start": 112.18,
+   "end": 116.18,
+   "text": "but now I just fired up to kind of share this thing's hardcore."
+  },
+  {
+   "start": 116.18,
+   "end": 123.26,
+   "text": "It's gonna be all this."
+  },
+  {
+   "start": 123.26,
+   "end": 133.26,
+   "text": "Yes, I was listening to Adam Smith, wealth of nations, but not really big attention of an early eye."
+  },
+  {
+   "start": 133.26,
+   "end": 145.22,
+   "text": "And then listening to, I can't remember, there's no too high."
+  },
+  {
+   "start": 145.22,
+   "end": 151.46,
+   "text": "Yeah, it's gonna be cold, it's gonna be cold, it's all of that."
+  },
+  {
+   "start": 151.46,
+   "end": 154.46,
+   "text": "And I put that stuff out there, pretty soon."
+  },
+  {
+   "start": 154.46,
+   "end": 157.46,
+   "text": "Because then I'll be like, the courage will come back, you know,"
+  },
+  {
+   "start": 157.46,
+   "end": 163.46,
+   "text": "when I have money, the courage to just bury myself, man."
+  },
+  {
+   "start": 163.46,
+   "end": 166.46,
+   "text": "Like deep level stuff."
+  },
+  {
+   "start": 166.46,
+   "end": 171.46,
+   "text": "You know, I'm like, set my sights for January 1st, 2018."
+  },
+  {
+   "start": 171.46,
+   "end": 179.46,
+   "text": "If I set my sights for January 1st, 2018, she is good to work deep level stuff."
+  },
+  {
+   "start": 179.46,
+   "end": 187.46,
+   "text": "Because, like, for example, now finishing what I was doing on the land area page of the Google Earth,"
+  },
+  {
+   "start": 187.46,
+   "end": 193.46,
+   "text": "because I was already in a mid-tip me a little while to figure out what the fuck is going on."
+  },
+  {
+   "start": 193.46,
+   "end": 196.46,
+   "text": "Because it's gonna work, it's still confusing."
+  },
+  {
+   "start": 196.46,
+   "end": 201.46,
+   "text": "Right that page was, because I think I'm a real one day."
+  },
+  {
+   "start": 201.46,
+   "end": 205.46,
+   "text": "So, you know, so I might as well fix it now when I know exactly what's going on."
+  },
+  {
+   "start": 205.46,
+   "end": 208.46,
+   "text": "So I don't waste time back out and just let me also come out."
+  },
+  {
+   "start": 208.46,
+   "end": 210.46,
+   "text": "Because I can wipe this whole thing out."
+  },
+  {
+   "start": 210.46,
+   "end": 214.46,
+   "text": "I can understand where I can just wipe all pages out in a microweek."
+  },
+  {
+   "start": 214.46,
+   "end": 218.46,
+   "text": "So I would like this page though."
+  },
+  {
+   "start": 218.46,
+   "end": 223.46,
+   "text": "It'll make me understand what can make you understand how to be safe."
+  },
+  {
+   "start": 223.46,
+   "end": 228.46,
+   "text": "So the background is 10 kilometers."
+  },
+  {
+   "start": 228.46,
+   "end": 230.46,
+   "text": "You know, and that's actually stuff on the workin' on."
+  },
+  {
+   "start": 230.46,
+   "end": 234.46,
+   "text": "The backgrounds I'm using on this is stuff on the workin' on the site."
+  },
+  {
+   "start": 234.46,
+   "end": 236.46,
+   "text": "10 kilometers background."
+  },
+  {
+   "start": 236.46,
+   "end": 239.46,
+   "text": "I'm not done a down on the workin' on the workin' on the,"
+  },
+  {
+   "start": 239.46,
+   "end": 243.46,
+   "text": "or on the young creating the music file still throughout."
+  },
+  {
+   "start": 243.46,
+   "end": 247.46,
+   "text": "Yeah, 10 kilometers level."
+  },
+  {
+   "start": 247.46,
+   "end": 251.46,
+   "text": "Oh, I can tell you, there's a poor, I can't wait for you."
+  },
+  {
+   "start": 251.46,
+   "end": 254.46,
+   "text": "So, 25."
+  },
+  {
+   "start": 254.46,
+   "end": 258.46,
+   "text": "Okay, I can't think of anything else that's the same, super high."
+  },
+  {
+   "start": 258.46,
+   "end": 261.46,
+   "text": "My blood, my shirt looks super black today."
+  },
+  {
+   "start": 261.46,
+   "end": 266.74,
+   "text": "Maybe I should have a black, if I have a black background."
+  },
+  {
+   "start": 266.74,
+   "end": 268.74,
+   "text": "I only see my head and my eyes."
+  },
+  {
+   "start": 268.74,
+   "end": 270.74,
+   "text": "The red hole."
+  },
+  {
+   "start": 270.74,
+   "end": 272.74,
+   "text": "You can go to that later."
+  },
+  {
+   "start": 272.74,
+   "end": 273.74,
+   "text": "Okay, piece of..."
+  }
+ ]
+}

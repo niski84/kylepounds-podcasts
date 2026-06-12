@@ -1,0 +1,171 @@
+{
+ "youtube_id": "NkcOk0FiFdQ",
+ "title": "Living in Boulder Vlog 1 -11 -  2017",
+ "url": "https://youtu.be/NkcOk0FiFdQ",
+ "published_at": "2017-01-12",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a brief daily vlog from Boulder, discussing his work on a cycling division structure project he is designing around ancient Roman chariot race frequencies, then mentions sleeping in to recover from exhaustion before signing off.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "project work",
+   "cycling divisions",
+   "ancient Rome",
+   "sleep/recovery",
+   "living situation"
+  ],
+  "stances": [
+   {
+    "topic": "project progress",
+    "position": "close to finishing but the new pages will take at least a full day each"
+   },
+   {
+    "topic": "cycling division structure",
+    "position": "24 divisions modeled on ancient Roman chariot races is the right framework, split by age and sex"
+   },
+   {
+    "topic": "that day's productivity",
+    "position": "was too burnt out and exhausted to work or film earlier, needed to sleep"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "ancient Rome"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 9.62,
+   "text": "Oh, Living in Boulder Vlog. Today is the 11th of, uh, uh, today's the 11th of January 2017"
+  },
+  {
+   "start": 9.62,
+   "end": 18.62,
+   "text": "And it's, um, 4.12 p.m. Um, today was one of those, like, get caught up on sleep days,"
+  },
+  {
+   "start": 18.66,
+   "end": 25.46,
+   "text": "I guess, because I was working today until like 6 and I got started on a new page, two"
+  },
+  {
+   "start": 25.46,
+   "end": 33.58,
+   "text": "New pages that I started. Alright, one that I started to get, and then this other one"
+  },
+  {
+   "start": 33.58,
+   "end": 39.9,
+   "text": "That I want to do, they're pages that are, that are essential. Um, and I think I want"
+  },
+  {
+   "start": 39.9,
+   "end": 43.22,
+   "text": "To go ahead and do them now because I'm so close to finishing this, although it would"
+  },
+  {
+   "start": 43.22,
+   "end": 49.1,
+   "text": "Probably take, like, a whole day, at least for the one of them, but, yeah, yesterday I"
+  },
+  {
+   "start": 49.1,
+   "end": 55.04,
+   "text": "Was just spending all day long doing the picture thing, but then, um, yeah, later on I started"
+  },
+  {
+   "start": 55.04,
+   "end": 59.44,
+   "text": "Working on this new page. So the page is, is, like, graphs of different levels for all"
+  },
+  {
+   "start": 59.44,
+   "end": 63.54,
+   "text": "The different divisions and I'm having it line up to, uh, actual ancient, um, ancient"
+  },
+  {
+   "start": 63.54,
+   "end": 67.8,
+   "text": "Rome. I have everything lined up to ancient Rome. In ancient Rome, whenever they do the"
+  },
+  {
+   "start": 67.8,
+   "end": 74.72,
+   "text": "Cherry races, they were, uh, they had, I think they were, I'd have to look at it again because"
+  },
+  {
+   "start": 74.72,
+   "end": 78.28,
+   "text": "I wanted to look at their frequency, but I forgot, but it was like 60 a year or something."
+  },
+  {
+   "start": 78.28,
+   "end": 86.62,
+   "text": "They normally have is all the time, but they would have 24, uh, divisions a day. And so"
+  },
+  {
+   "start": 86.62,
+   "end": 94.34,
+   "text": "You can have 24 divisions actually with cycling too. If you include, you know, both of the sexes"
+  },
+  {
+   "start": 94.34,
+   "end": 106.8,
+   "text": "In one division, um, by age, like six divisions, no, no, 12 would be year one, one to two, up to"
+  },
+  {
+   "start": 106.8,
+   "end": 115.18,
+   "text": "35 to the 40. Then you go another 12 on top of that from 40 up to a hundred. Anyway, it'll"
+  },
+  {
+   "start": 115.18,
+   "end": 125.21,
+   "text": "Be easier to explain when I'm done. Um, yeah, so I, I had my shower this morning and I came"
+  },
+  {
+   "start": 125.21,
+   "end": 130.49,
+   "text": "Back and I didn't, I was just burnt out. I was exhausted. I, you know, like in a way"
+  },
+  {
+   "start": 130.49,
+   "end": 135.13,
+   "text": "That I'm not normally exhausted, even though I wasn't going under stress yesterday. So I"
+  },
+  {
+   "start": 135.13,
+   "end": 138.11,
+   "text": "Didn't feel like doing the video. I just didn't feel like talking or anything. And so I went"
+  },
+  {
+   "start": 138.11,
+   "end": 151.99,
+   "text": "To sleep and then I just woke up. I just wanted to stand back. Um, you know, my room, I gutted"
+  },
+  {
+   "start": 151.99,
+   "end": 156.17,
+   "text": "My, my closet so I can put pictures back there and I left all, I put all my stuff on the closet,"
+  },
+  {
+   "start": 156.17,
+   "end": 162.27,
+   "text": "On the couches in the living room. I totally filled it up. And my roommate and his girlfriend"
+  },
+  {
+   "start": 162.27,
+   "end": 169.13,
+   "text": "Making noise out there living today. And I was like, I was like, where the hell are they sitting?"
+  },
+  {
+   "start": 169.13,
+   "end": 177.87,
+   "text": "Anyway, um, I think that's enough talking three minutes. Okay. Ciao, ciao."
+  }
+ ]
+}

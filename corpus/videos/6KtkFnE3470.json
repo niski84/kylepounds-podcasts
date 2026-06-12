@@ -1,0 +1,456 @@
+{
+ "youtube_id": "6KtkFnE3470",
+ "title": "Living in Boulder Vlog 2 - 29 - 2016  I have Skin Cancer",
+ "url": "https://youtu.be/6KtkFnE3470",
+ "published_at": "2016-02-29",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle shares that he was diagnosed with well-differentiated squamous cell carcinoma (skin cancer) after getting his biopsy results and stitches removed at a Denver dermatology clinic. He traces the likely cause to a severe sunburn in Indonesia in 1998 and explains he'll need a removal procedure on the 18th plus biannual full-body checkups going forward. He also briefly mentions fixing something at home and needing to take his failing computer in for repair.",
+  "speaker": "kyle",
+  "topics": [
+   "skin cancer diagnosis",
+   "squamous cell carcinoma",
+   "sun safety",
+   "dermatology appointment",
+   "personal health update",
+   "Indonesia sunburn story",
+   "computer repair",
+   "daily vlog"
+  ],
+  "stances": [
+   {
+    "topic": "skin cancer diagnosis",
+    "position": "Relieved it's the slow-spreading kind; not worried about his prognosis"
+   },
+   {
+    "topic": "sun safety going forward",
+    "position": "Will apply SPF 30+ sunscreen every three hours and stay covered for the rest of his life"
+   },
+   {
+    "topic": "delaying medical care",
+    "position": "Regrets waiting five months to get the sore checked out; acknowledges he was lazy"
+   }
+  ],
+  "entities": [
+   "Kyle Pounds",
+   "Denver Dermatology",
+   "Lake Toba",
+   "Indonesia",
+   "Korea"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.58,
+   "end": 10.22,
+   "text": "Hey, what's up? This is Living in Boulder Vlog with Kyle Pounds, February 29th Leap Day."
+  },
+  {
+   "start": 10.82,
+   "end": 13.88,
+   "text": "There's only one February 29th every four years."
+  },
+  {
+   "start": 15.4,
+   "end": 25.0,
+   "text": "So, on this day, I had to go into my, I'm going to minimize this."
+  },
+  {
+   "start": 25.0,
+   "end": 36.28,
+   "text": "I went into the Denver Dermatology, and I got my results, or I had my stitches taken out, and then I got my results from biopsy."
+  },
+  {
+   "start": 37.96,
+   "end": 50.54,
+   "text": "So, I have well-differentiated squamous cell carcinoma, so I have skin cancer, but it's the kind that doesn't metastasize very quickly."
+  },
+  {
+   "start": 50.54,
+   "end": 55.36,
+   "text": "So, but I have a, I can feel it. He took a big chunk out, and I can still feel I have a chunk in there."
+  },
+  {
+   "start": 56.54,
+   "end": 66.2,
+   "text": "So, on the 18th, they're going to take the, they're going to take the tumor out."
+  },
+  {
+   "start": 70.32,
+   "end": 78.44,
+   "text": "So, you get these because if you, it's usually in men's, I guess, and it can start in their 40s, but I got it young."
+  },
+  {
+   "start": 78.56,
+   "end": 85.66,
+   "text": "Usually, it starts in their 50s, but, or, it can start in their 50s usually, but most of the guys who get it are in their 70s."
+  },
+  {
+   "start": 85.66,
+   "end": 93.84,
+   "text": "So, so now on, for the rest of my life, I have to put on 30 SPF sunscreen and keep myself covered all the time."
+  },
+  {
+   "start": 94.02,
+   "end": 97.5,
+   "text": "And when I go out, I have to apply the sunscreen every three hours."
+  },
+  {
+   "start": 98.08,
+   "end": 99.94,
+   "text": "And if I sweat, I have to reapply it."
+  },
+  {
+   "start": 100.0,
+   "end": 103.0,
+   "text": "So, just get waterproof sunscreen and keep it on all the time."
+  },
+  {
+   "start": 103.08,
+   "end": 104.8,
+   "text": "I was, I was fearing this."
+  },
+  {
+   "start": 104.8,
+   "end": 107.24,
+   "text": "I knew that there was a chance I could get this."
+  },
+  {
+   "start": 107.62,
+   "end": 110.9,
+   "text": "You know, I probably talked about it on YouTube because I had an accident."
+  },
+  {
+   "start": 111.06,
+   "end": 115.7,
+   "text": "See, it happens if you get too much sun exposure, or I think if you have too many accidents in the sun."
+  },
+  {
+   "start": 115.88,
+   "end": 120.6,
+   "text": "And yeah, I had a really bad accident in the sun back in like 98."
+  },
+  {
+   "start": 120.6,
+   "end": 125.6,
+   "text": "I went to Lake Toba, Indonesia after teaching English in Korea for six months."
+  },
+  {
+   "start": 125.82,
+   "end": 137.78,
+   "text": "And I canoed like this 300-pound canoe or huge canoe around Lake Toba, halfway around it with this, or like 40% around it with this kid, this English kid."
+  },
+  {
+   "start": 137.84,
+   "end": 143.96,
+   "text": "And then we had to pay these Indonesians to carry it to the other side in a truck because we couldn't even pick it up."
+  },
+  {
+   "start": 143.96,
+   "end": 146.86,
+   "text": "And yeah, it was like 500 pounds or something."
+  },
+  {
+   "start": 146.96,
+   "end": 150.24,
+   "text": "It was just this giant chunk of wood hauled out."
+  },
+  {
+   "start": 151.34,
+   "end": 154.62,
+   "text": "And then I did it the next day by myself, like 60 miles."
+  },
+  {
+   "start": 155.48,
+   "end": 157.14,
+   "text": "But I forgot to bring sunscreen."
+  },
+  {
+   "start": 157.56,
+   "end": 160.9,
+   "text": "And it was like Indonesia, like right next to the equator."
+  },
+  {
+   "start": 162.0,
+   "end": 164.32,
+   "text": "And I forgot to have a hat and all that."
+  },
+  {
+   "start": 164.54,
+   "end": 168.38,
+   "text": "And my nose, because I was in the sun all day long."
+  },
+  {
+   "start": 168.74,
+   "end": 169.86,
+   "text": "And sweating and all that."
+  },
+  {
+   "start": 169.9,
+   "end": 172.44,
+   "text": "And my nose like boiled up in a giant scap."
+  },
+  {
+   "start": 172.44,
+   "end": 177.66,
+   "text": "And ever since then, like if there's just a little bit of sun, if you just touch your nose, it's like, ow."
+  },
+  {
+   "start": 178.66,
+   "end": 179.4,
+   "text": "And yeah, man."
+  },
+  {
+   "start": 179.64,
+   "end": 181.94,
+   "text": "And so, bam."
+  },
+  {
+   "start": 182.72,
+   "end": 188.24,
+   "text": "So, yeah, I should have gone in and had it checked out when I first had it."
+  },
+  {
+   "start": 188.24,
+   "end": 189.74,
+   "text": "I first saw it like five months ago or something."
+  },
+  {
+   "start": 189.88,
+   "end": 194.08,
+   "text": "It was just this sore that then it pussed out one day."
+  },
+  {
+   "start": 194.16,
+   "end": 197.16,
+   "text": "And then it just suddenly turned into this big lump right there."
+  },
+  {
+   "start": 197.52,
+   "end": 198.54,
+   "text": "And I just left it."
+  },
+  {
+   "start": 198.54,
+   "end": 203.2,
+   "text": "But I should have known that it wasn't a subcutaneous fatty lipoma because of the way that it started."
+  },
+  {
+   "start": 203.88,
+   "end": 205.58,
+   "text": "But I was just lazy and let it go."
+  },
+  {
+   "start": 205.84,
+   "end": 207.62,
+   "text": "So, until it got infected."
+  },
+  {
+   "start": 207.96,
+   "end": 211.04,
+   "text": "So, but I mean, I'm not worried about anything."
+  },
+  {
+   "start": 211.14,
+   "end": 213.82,
+   "text": "I think only 4% of people have this kind of cancer die."
+  },
+  {
+   "start": 213.88,
+   "end": 215.24,
+   "text": "It's the second most common cancer though."
+  },
+  {
+   "start": 215.24,
+   "end": 220.54,
+   "text": "But, yeah, so I had to go into Denver."
+  },
+  {
+   "start": 220.66,
+   "end": 223.3,
+   "text": "So, I have to go into Denver again on the 18th to get it removed."
+  },
+  {
+   "start": 224.58,
+   "end": 228.14,
+   "text": "And then they did the checkup, like a full body scan every six months."
+  },
+  {
+   "start": 228.38,
+   "end": 229.66,
+   "text": "Like, or in six months."
+  },
+  {
+   "start": 230.86,
+   "end": 232.68,
+   "text": "Where you have to, and then I have to do myself."
+  },
+  {
+   "start": 232.8,
+   "end": 237.32,
+   "text": "Like, look my entire body for like anything that looks weird and be able to identify it."
+  },
+  {
+   "start": 237.32,
+   "end": 239.56,
+   "text": "Because, you know, of course you're at a higher risk of getting it."
+  },
+  {
+   "start": 239.9,
+   "end": 245.0,
+   "text": "Usually like people from Northern European, light-skinned, blue-eyed people get it."
+  },
+  {
+   "start": 245.06,
+   "end": 245.66,
+   "text": "And so that's me."
+  },
+  {
+   "start": 247.7,
+   "end": 250.9,
+   "text": "So, here's what I did yesterday."
+  },
+  {
+   "start": 252.82,
+   "end": 254.66,
+   "text": "This is what I did yesterday."
+  },
+  {
+   "start": 255.0,
+   "end": 255.34,
+   "text": "Look."
+  },
+  {
+   "start": 256.0,
+   "end": 257.48,
+   "text": "I was hammering, hammering."
+  },
+  {
+   "start": 257.52,
+   "end": 258.66,
+   "text": "I had to fix these."
+  },
+  {
+   "start": 258.96,
+   "end": 261.66,
+   "text": "And I had to fix a bunch of this one and some of these other ones."
+  },
+  {
+   "start": 261.66,
+   "end": 263.74,
+   "text": "So, it took extra time."
+  },
+  {
+   "start": 263.82,
+   "end": 267.0,
+   "text": "And these ones were super complicated, man."
+  },
+  {
+   "start": 267.02,
+   "end": 268.34,
+   "text": "Like, the most complicated thing."
+  },
+  {
+   "start": 268.68,
+   "end": 270.38,
+   "text": "So, I actually didn't manage to do it."
+  },
+  {
+   "start": 270.42,
+   "end": 271.54,
+   "text": "But I'll do this today."
+  },
+  {
+   "start": 272.24,
+   "end": 274.3,
+   "text": "But I have to, as you can see, it's 238."
+  },
+  {
+   "start": 274.3,
+   "end": 276.46,
+   "text": "I have to go take my computer in."
+  },
+  {
+   "start": 277.04,
+   "end": 278.44,
+   "text": "Here, let's finish this."
+  },
+  {
+   "start": 282.55,
+   "end": 287.83,
+   "text": "But I have to take my computer in today to the store to take it into the factory."
+  },
+  {
+   "start": 288.03,
+   "end": 292.71,
+   "text": "It has to get repaired because the hardware is screwed up."
+  },
+  {
+   "start": 292.71,
+   "end": 301.85,
+   "text": "Because, yeah, like, after, like, it being on for just a little bits of time, I can't do anything with the files."
+  },
+  {
+   "start": 302.13,
+   "end": 304.51,
+   "text": "The files just spin around."
+  },
+  {
+   "start": 304.61,
+   "end": 306.03,
+   "text": "And then I can't turn my computer off."
+  },
+  {
+   "start": 307.19,
+   "end": 309.95,
+   "text": "And then I can't type after a while."
+  },
+  {
+   "start": 310.01,
+   "end": 311.31,
+   "text": "So, it just crumbles, man."
+  },
+  {
+   "start": 311.37,
+   "end": 313.53,
+   "text": "And so, now it's just totally crumbled after I've done everything."
+  },
+  {
+   "start": 313.69,
+   "end": 318.21,
+   "text": "So, I'm going to, like, make sure I transfer stuff, I guess, I need."
+  },
+  {
+   "start": 318.21,
+   "end": 322.81,
+   "text": "Then make sure that I get my, yeah, stuff over to my external so I can put it on this computer."
+  },
+  {
+   "start": 324.15,
+   "end": 327.03,
+   "text": "And, uh, or something, like a card."
+  },
+  {
+   "start": 327.67,
+   "end": 331.85,
+   "text": "And keep doing my Google Earth work on the other computer."
+  },
+  {
+   "start": 333.53,
+   "end": 337.96,
+   "text": "So, that's it."
+  },
+  {
+   "start": 338.34,
+   "end": 340.92,
+   "text": "That's all that I can think of now."
+  },
+  {
+   "start": 340.92,
+   "end": 370.9,
+   "text": "So, that's all that I can do."
+  }
+ ]
+}

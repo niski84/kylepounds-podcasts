@@ -1,0 +1,388 @@
+{
+ "youtube_id": "EQjJXGyNxPc",
+ "title": "Living in Boulder vlog 6 - 2 - 2017: More word counting for classics",
+ "url": "https://youtu.be/EQjJXGyNxPc",
+ "published_at": "2017-06-03",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a late-night vlog update from Boulder on June 2, 2017. He experiments with Mac dictation/transcription software and talks about grocery shopping multiple times. He describes a current project: counting word lengths of classic books and comparing different menus to each other.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "Mac dictation feature",
+   "grocery shopping",
+   "word counting project",
+   "classic books",
+   "listening to audiobooks"
+  ],
+  "stances": [
+   {
+    "topic": "Mac dictation",
+    "position": "curious and eager to try it for vlogging, thinks it would be 'trippy'"
+   },
+   {
+    "topic": "word counting project",
+    "position": "genuinely fascinated by it and committed to continuing even if it takes weeks"
+   },
+   {
+    "topic": "audiobook (theater moms story)",
+    "position": "thinks it's a good book"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Macintosh",
+   "Google Earth",
+   "DreamWeaver"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 10.0,
+   "text": "Hello living in Boulder, V-Lock for June 2nd 2017. It's 1041 pm right now."
+  },
+  {
+   "start": 11.0,
+   "end": 14.0,
+   "text": "So I'm doing it earlier than normal."
+  },
+  {
+   "start": 16.38,
+   "end": 21.38,
+   "text": "Today I got up, you know what I'm gonna do."
+  },
+  {
+   "start": 22.38,
+   "end": 26.38,
+   "text": "I'm gonna do what you call it, transcript."
+  },
+  {
+   "start": 26.38,
+   "end": 28.38,
+   "text": "They have transcript."
+  },
+  {
+   "start": 29.38,
+   "end": 32.38,
+   "text": "I'm not gonna do it on this page though because it's too freaking big."
+  },
+  {
+   "start": 33.38,
+   "end": 35.38,
+   "text": "They'll make a new page, I'm doing my ver."
+  },
+  {
+   "start": 36.38,
+   "end": 38.38,
+   "text": "And then on this Macintosh."
+  },
+  {
+   "start": 39.38,
+   "end": 42.38,
+   "text": "I'm not gonna do it if I'm recording it the same time."
+  },
+  {
+   "start": 43.38,
+   "end": 45.38,
+   "text": "I'm gonna probably kill my memory, but let's go to shock."
+  },
+  {
+   "start": 46.38,
+   "end": 49.38,
+   "text": "Because I have Google Earth and Dream We Room, but let's give it a shot."
+  },
+  {
+   "start": 50.38,
+   "end": 52.38,
+   "text": "So we'll see if it can hear what I'm saying."
+  },
+  {
+   "start": 52.38,
+   "end": 54.38,
+   "text": "Hold down the FN key."
+  },
+  {
+   "start": 55.38,
+   "end": 57.38,
+   "text": "It doesn't work when you're recording."
+  },
+  {
+   "start": 58.38,
+   "end": 60.38,
+   "text": "Anyway, if you're not recording,"
+  },
+  {
+   "start": 64.38,
+   "end": 69.38,
+   "text": "I'm gonna have to film myself with another video camera"
+  },
+  {
+   "start": 70.38,
+   "end": 72.38,
+   "text": "and then I can record myself with a computer."
+  },
+  {
+   "start": 73.38,
+   "end": 77.38,
+   "text": "Yeah, because on Macintosh, you just hold the FN key down for a second or two"
+  },
+  {
+   "start": 78.38,
+   "end": 80.38,
+   "text": "and then the little thing comes up."
+  },
+  {
+   "start": 80.38,
+   "end": 83.38,
+   "text": "I'm gonna talk and it writes the words that you talk."
+  },
+  {
+   "start": 84.38,
+   "end": 86.38,
+   "text": "I'm gonna try to get like, actually try it."
+  },
+  {
+   "start": 87.38,
+   "end": 89.38,
+   "text": "I'll try it tomorrow when I do my new lock."
+  },
+  {
+   "start": 90.38,
+   "end": 91.38,
+   "text": "That's how I like G-Buyen with my time."
+  },
+  {
+   "start": 92.38,
+   "end": 94.38,
+   "text": "I'll do maybe live with a normal camera."
+  },
+  {
+   "start": 95.38,
+   "end": 97.38,
+   "text": "I'll have my computer try to transcribe what I'll say."
+  },
+  {
+   "start": 98.38,
+   "end": 99.38,
+   "text": "I'll try to enunciate."
+  },
+  {
+   "start": 100.38,
+   "end": 101.38,
+   "text": "I'll be really trippy."
+  },
+  {
+   "start": 102.38,
+   "end": 104.38,
+   "text": "I'll do what I've been to lately."
+  },
+  {
+   "start": 106.38,
+   "end": 108.38,
+   "text": "So today, I got a new video."
+  },
+  {
+   "start": 110.38,
+   "end": 112.38,
+   "text": "I got a camera memory."
+  },
+  {
+   "start": 113.38,
+   "end": 114.38,
+   "text": "I was working until I was tired."
+  },
+  {
+   "start": 115.38,
+   "end": 116.38,
+   "text": "I got working working and then I got."
+  },
+  {
+   "start": 117.38,
+   "end": 119.38,
+   "text": "Then I remember, oh yeah, let's go to the store."
+  },
+  {
+   "start": 120.38,
+   "end": 121.38,
+   "text": "It's yesterday."
+  },
+  {
+   "start": 122.38,
+   "end": 124.38,
+   "text": "I went to the store for three times."
+  },
+  {
+   "start": 125.38,
+   "end": 126.38,
+   "text": "It was supermarkets closing."
+  },
+  {
+   "start": 127.38,
+   "end": 129.38,
+   "text": "So I went to the store for three times."
+  },
+  {
+   "start": 130.38,
+   "end": 131.38,
+   "text": "Today I went there again."
+  },
+  {
+   "start": 132.38,
+   "end": 133.38,
+   "text": "I got one."
+  },
+  {
+   "start": 134.38,
+   "end": 135.38,
+   "text": "But you go to the store."
+  },
+  {
+   "start": 136.38,
+   "end": 137.38,
+   "text": "It's like two hundred dollars worth."
+  },
+  {
+   "start": 138.38,
+   "end": 139.38,
+   "text": "And then filled up my house."
+  },
+  {
+   "start": 140.38,
+   "end": 141.38,
+   "text": "I think there's a couple more things I could get."
+  },
+  {
+   "start": 143.38,
+   "end": 146.38,
+   "text": "Like pizza, fill up my refrigerator for those."
+  },
+  {
+   "start": 147.38,
+   "end": 149.38,
+   "text": "Drinks, hard to use and stuff."
+  },
+  {
+   "start": 150.38,
+   "end": 151.38,
+   "text": "But."
+  },
+  {
+   "start": 152.38,
+   "end": 155.38,
+   "text": "And so today I was working on counting."
+  },
+  {
+   "start": 156.38,
+   "end": 161.38,
+   "text": "Finding doing work counting on how big all the books are and also how big the."
+  },
+  {
+   "start": 164.23,
+   "end": 166.23,
+   "text": "The the menus are."
+  },
+  {
+   "start": 167.23,
+   "end": 171.23,
+   "text": "The different menus and comparing them to each other."
+  },
+  {
+   "start": 172.23,
+   "end": 174.23,
+   "text": "It's going to be a super trip to look out."
+  },
+  {
+   "start": 175.23,
+   "end": 176.23,
+   "text": "And."
+  },
+  {
+   "start": 179.23,
+   "end": 181.23,
+   "text": "This will go on and other couple of weeks."
+  },
+  {
+   "start": 182.23,
+   "end": 186.23,
+   "text": "And yeah, I've got myself a new big old big old project."
+  },
+  {
+   "start": 187.23,
+   "end": 188.23,
+   "text": "So."
+  },
+  {
+   "start": 189.23,
+   "end": 190.23,
+   "text": "Yeah, I'll just plug."
+  },
+  {
+   "start": 191.23,
+   "end": 192.23,
+   "text": "I mean, I'm still fascinated with it."
+  },
+  {
+   "start": 193.23,
+   "end": 194.23,
+   "text": "So."
+  },
+  {
+   "start": 194.23,
+   "end": 195.23,
+   "text": "Maybe I can finish it."
+  },
+  {
+   "start": 195.23,
+   "end": 197.23,
+   "text": "Maybe I can't before I do something else."
+  },
+  {
+   "start": 198.23,
+   "end": 199.23,
+   "text": "And."
+  },
+  {
+   "start": 200.23,
+   "end": 204.23,
+   "text": "And I was listening to theater, moms and a story of a mom."
+  },
+  {
+   "start": 205.23,
+   "end": 206.23,
+   "text": "I got their things, you know."
+  },
+  {
+   "start": 207.23,
+   "end": 210.23,
+   "text": "But that's a good book."
+  },
+  {
+   "start": 212.23,
+   "end": 214.23,
+   "text": "What else? What else?"
+  },
+  {
+   "start": 221.5,
+   "end": 223.5,
+   "text": "Yeah, so I guess I'll get back to work now."
+  },
+  {
+   "start": 224.5,
+   "end": 225.5,
+   "text": "That's enough talking. I did my daily."
+  },
+  {
+   "start": 226.5,
+   "end": 227.5,
+   "text": "I'm pretty high right now."
+  },
+  {
+   "start": 228.5,
+   "end": 229.5,
+   "text": "Okay, peace out."
+  }
+ ]
+}

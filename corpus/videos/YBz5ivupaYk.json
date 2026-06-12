@@ -1,0 +1,167 @@
+{
+ "youtube_id": "YBz5ivupaYk",
+ "title": "Living in Boulder Vlog 1 - 10 - 2017",
+ "url": "https://youtu.be/YBz5ivupaYk",
+ "published_at": "2017-01-11",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a casual vlog update from Boulder on October 10, 2017, describing a low-key day of working late, printing pictures, and returning to an old bike research project he had nearly abandoned months earlier. He also mentions watching Netflix, specifically a show or movie about a siege with impressive battle scenes.",
+  "speaker": "kyle",
+  "topics": [
+   "daily routine",
+   "bike project",
+   "coding/programming",
+   "Netflix",
+   "sleep deprivation",
+   "Boulder living"
+  ],
+  "stances": [
+   {
+    "topic": "returning to abandoned project",
+    "position": "excited to revisit it because it was nearly done and his faster computer makes it easier"
+   },
+   {
+    "topic": "Netflix",
+    "position": "enjoys using it to watch just the best parts of movies"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Netflix"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.78,
+   "end": 8.18,
+   "text": "Hello living in Boulder, Vila, Virginia, we're in 10th, 2000 and 17."
+  },
+  {
+   "start": 8.9,
+   "end": 12.98,
+   "text": "Yesterday, we just put you normal day."
+  },
+  {
+   "start": 12.98,
+   "end": 19.14,
+   "text": "We're working, we're just in till like six or something and till it was about to get light"
+  },
+  {
+   "start": 19.14,
+   "end": 23.14,
+   "text": "and then when it's leaving got up it like that too and then worked."
+  },
+  {
+   "start": 23.14,
+   "end": 28.82,
+   "text": "I was printing pictures and posting them on my walls, but also working mainly working on my"
+  },
+  {
+   "start": 29.14,
+   "end": 35.14,
+   "text": "bike research, a little stuff, super exciting, skating more and more interesting than"
+  },
+  {
+   "start": 35.14,
+   "end": 43.54,
+   "text": "more I work on it. It's been a long time. I started working on it when I first moved to Boulder"
+  },
+  {
+   "start": 43.54,
+   "end": 46.42,
+   "text": "because I moved to where I looked at the window and I saw the flat on it and so I was like oh my god I"
+  },
+  {
+   "start": 46.42,
+   "end": 52.9,
+   "text": "want to be awfully, so I was like okay let's build that so I built it and then for forever for months"
+  },
+  {
+   "start": 52.9,
+   "end": 57.22,
+   "text": "I was working on that and then all of a sudden I cracked, I decided I wasn't didn't want to"
+  },
+  {
+   "start": 57.94,
+   "end": 62.74,
+   "text": "I wanted to just work on my computer and do all sorts of other stuff and so I had a band in it but"
+  },
+  {
+   "start": 62.74,
+   "end": 67.06,
+   "text": "I remember when I banded it it was like almost done and it was out of all the projects that were done"
+  },
+  {
+   "start": 67.06,
+   "end": 72.1,
+   "text": "in my website that's the one that I abandoned the closest to being done so it's super exciting to kind of"
+  },
+  {
+   "start": 72.1,
+   "end": 77.86,
+   "text": "going back in there and try to fix stuff I don't know how long it'll be but I just worked directly at"
+  },
+  {
+   "start": 77.86,
+   "end": 84.74,
+   "text": "least a week like I said before to do that I was it's kind of hard to explain what I was fixing but"
+  },
+  {
+   "start": 84.82,
+   "end": 90.42,
+   "text": "when I built it it was with my old computer which is a whole lot slower than this so"
+  },
+  {
+   "start": 91.06,
+   "end": 96.1,
+   "text": "to fix it's a lot faster and it's a lot easier and so it's exciting and bring together"
+  },
+  {
+   "start": 98.98,
+   "end": 103.06,
+   "text": "and then let's see I was listening to a little bit of a history of I mean the"
+  },
+  {
+   "start": 103.62,
+   "end": 107.46,
+   "text": "follow-room podcast but I watched with watching TV"
+  },
+  {
+   "start": 110.5,
+   "end": 114.26,
+   "text": "I love having Netflix on this TV here I watched this movie the show called them"
+  },
+  {
+   "start": 115.06,
+   "end": 120.02,
+   "text": "fall of theater or sack of siege of being at a has some great battle scenes I want to watch those again"
+  },
+  {
+   "start": 120.02,
+   "end": 123.3,
+   "text": "it's cool to go and watch movies with Netflix because there's so many of them just going to"
+  },
+  {
+   "start": 123.3,
+   "end": 131.78,
+   "text": "watch the best parts of all the interesting movies you know but yeah it's very cool okay let's do here"
+  },
+  {
+   "start": 131.78,
+   "end": 136.26,
+   "text": "okay I've been up talked long enough I don't really feel like talking today I've been it's like"
+  },
+  {
+   "start": 136.26,
+   "end": 141.22,
+   "text": "9.38 I'm like got already and I never got to sleep less night so I'm starting to give a little bit"
+  },
+  {
+   "start": 141.22,
+   "end": 143.22,
+   "text": "that's how"
+  }
+ ]
+}

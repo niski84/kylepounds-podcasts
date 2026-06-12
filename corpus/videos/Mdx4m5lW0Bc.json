@@ -1,0 +1,622 @@
+{
+ "youtube_id": "Mdx4m5lW0Bc",
+ "title": "Living in Boulder 11 - 5 - 2016",
+ "url": "https://youtu.be/Mdx4m5lW0Bc",
+ "published_at": "2016-11-06",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a morning-after vlog for November 5th, 2016, explaining his new practice of filming videos the day after events when rested. He discusses his progress mapping Colorado ski resort runs in a project combining Google Earth and Strava, nearly finished with only Beaver Creek and Crested Butte remaining, and gives a live screen-share demo of how the ski run visualization tool works.",
+  "speaker": "kyle",
+  "topics": [
+   "vlog routine",
+   "video upload mistake",
+   "ski resort mapping project",
+   "Google Earth",
+   "Strava",
+   "sleep patterns",
+   "cannabis use"
+  ],
+  "stances": [
+   {
+    "topic": "video recording timing",
+    "position": "Better to film the morning after when rested and clear-headed than late at night when exhausted"
+   },
+   {
+    "topic": "ski resort mapping project",
+    "position": "Excited to finish and proud of the scope — thousands of Colorado ski runs visualized in Google Earth with Strava segments"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Funk Ski Resort",
+   "Beaver Creek",
+   "Crested Butte",
+   "Google Earth",
+   "Strava"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 2.03,
+   "end": 6.95,
+   "text": "Hello, Living in Boulder vlog for Saturday, November 5th, 2016."
+  },
+  {
+   "start": 8.47,
+   "end": 13.87,
+   "text": "Today is 1130 on Sunday, November 6th."
+  },
+  {
+   "start": 14.33,
+   "end": 18.25,
+   "text": "But I'm going to do the video the day after when I'm fresh."
+  },
+  {
+   "start": 18.35,
+   "end": 21.97,
+   "text": "I'm actually technically like sober now. I haven't smoked weed since I got up."
+  },
+  {
+   "start": 22.55,
+   "end": 26.97,
+   "text": "I smoked weed like a couple hours ago when I first woke up and then I went back to bed."
+  },
+  {
+   "start": 26.97,
+   "end": 31.49,
+   "text": "But I haven't smoked weed since I got up permanently."
+  },
+  {
+   "start": 31.87,
+   "end": 37.65,
+   "text": "Um, yeah, so last night I was working until 2."
+  },
+  {
+   "start": 37.81,
+   "end": 40.15,
+   "text": "I was working until like 9 or whatever until 2."
+  },
+  {
+   "start": 40.29,
+   "end": 43.55,
+   "text": "And 2 came around and I just, I was done."
+  },
+  {
+   "start": 43.65,
+   "end": 44.89,
+   "text": "Like I was about to crash."
+  },
+  {
+   "start": 45.25,
+   "end": 51.47,
+   "text": "Then I knew that if I made a video, I'd just be yawning the whole time."
+  },
+  {
+   "start": 52.01,
+   "end": 54.75,
+   "text": "And I wouldn't even know of anything to say because I was just tired."
+  },
+  {
+   "start": 55.79,
+   "end": 59.41,
+   "text": "So it's better to do the video in the morning when you can think."
+  },
+  {
+   "start": 59.59,
+   "end": 61.73,
+   "text": "And that's the new, that's the new model."
+  },
+  {
+   "start": 62.87,
+   "end": 63.97,
+   "text": "For bike school."
+  },
+  {
+   "start": 64.15,
+   "end": 66.87,
+   "text": "I'm thinking about the best model for bikes, figuring out how to work it."
+  },
+  {
+   "start": 67.87,
+   "end": 70.45,
+   "text": "Yeah, and so in bike school you go on the bike ride, you listen to the book."
+  },
+  {
+   "start": 70.51,
+   "end": 73.81,
+   "text": "But then the next morning you do the video after you think about it and you rest."
+  },
+  {
+   "start": 73.81,
+   "end": 79.41,
+   "text": "So, um, oh yeah, oh yeah."
+  },
+  {
+   "start": 81.81,
+   "end": 84.09,
+   "text": "But even when I get up and I'm fresh, I'm yawning."
+  },
+  {
+   "start": 84.91,
+   "end": 91.13,
+   "text": "Um, yeah, so I accidentally uploaded the same video twice."
+  },
+  {
+   "start": 91.13,
+   "end": 92.17,
+   "text": "Two days in a row."
+  },
+  {
+   "start": 92.17,
+   "end": 97.89,
+   "text": "So, um, you know, it's kind of complicated uploading videos when you're not practiced."
+  },
+  {
+   "start": 97.89,
+   "end": 104.33,
+   "text": "So you kind of, um, have to look out for all of the, um, you know, problems that can come"
+  },
+  {
+   "start": 104.33,
+   "end": 104.69,
+   "text": "Around."
+  },
+  {
+   "start": 104.69,
+   "end": 111.83,
+   "text": "Um, so my new methodology is I just have to watch the video and before I upload it to"
+  },
+  {
+   "start": 111.83,
+   "end": 113.11,
+   "text": "Make sure that it's the right video."
+  },
+  {
+   "start": 113.11,
+   "end": 117.77,
+   "text": "And of course, yeah, so you just crank up the, you know, the security."
+  },
+  {
+   "start": 118.03,
+   "end": 119.03,
+   "text": "Make sure you're doing it right."
+  },
+  {
+   "start": 119.03,
+   "end": 124.33,
+   "text": "Um, so, so yeah, the day before yesterday I worked."
+  },
+  {
+   "start": 125.77,
+   "end": 128.91,
+   "text": "I think I did, uh, the Funk Ski Resort's day before yesterday."
+  },
+  {
+   "start": 129.19,
+   "end": 133.01,
+   "text": "But then I realized that there's a lift or a pass I have to throw in, but it's a short"
+  },
+  {
+   "start": 133.01,
+   "end": 134.33,
+   "text": "Run on a short run."
+  },
+  {
+   "start": 134.43,
+   "end": 135.33,
+   "text": "So it's at the end of the line."
+  },
+  {
+   "start": 135.37,
+   "end": 136.77,
+   "text": "I don't have to reprogram the whole thing."
+  },
+  {
+   "start": 137.13,
+   "end": 143.35,
+   "text": "Because if I have to throw in, like the longest run of the ski resort, I have to renumber"
+  },
+  {
+   "start": 143.35,
+   "end": 144.15,
+   "text": "Everything after that."
+  },
+  {
+   "start": 144.65,
+   "end": 148.59,
+   "text": "You know, and if I, and if I've totally finished, I would have to renumber, recolor, and re-switch"
+  },
+  {
+   "start": 148.59,
+   "end": 149.01,
+   "text": "The lengths."
+  },
+  {
+   "start": 149.11,
+   "end": 149.61,
+   "text": "It's a nightmare."
+  },
+  {
+   "start": 150.77,
+   "end": 152.87,
+   "text": "So luckily that one was one of the shorter ones."
+  },
+  {
+   "start": 153.85,
+   "end": 156.39,
+   "text": "Um, but then I did some of the big resorts."
+  },
+  {
+   "start": 156.85,
+   "end": 161.81,
+   "text": "And yesterday I finished, um, like a lot of them."
+  },
+  {
+   "start": 161.85,
+   "end": 163.29,
+   "text": "So now I only have two left."
+  },
+  {
+   "start": 163.29,
+   "end": 167.41,
+   "text": "I have Beaver Creek and, uh, Crested Butte."
+  },
+  {
+   "start": 167.51,
+   "end": 173.81,
+   "text": "I have to, I have to, I have to trace a whole new bowl in Crested Butte."
+  },
+  {
+   "start": 173.89,
+   "end": 174.35,
+   "text": "I didn't notice."
+  },
+  {
+   "start": 174.35,
+   "end": 178.63,
+   "text": "And then, like, finish, um, Beaver Creek."
+  },
+  {
+   "start": 178.87,
+   "end": 179.01,
+   "text": "So."
+  },
+  {
+   "start": 179.99,
+   "end": 182.55,
+   "text": "Yeah, so I think I'm still on track for finishing today."
+  },
+  {
+   "start": 184.05,
+   "end": 185.93,
+   "text": "Um, it's 1130 now."
+  },
+  {
+   "start": 185.99,
+   "end": 190.71,
+   "text": "I got like, if I got to sleep at not two, yeah, nine and a half hours."
+  },
+  {
+   "start": 190.71,
+   "end": 192.25,
+   "text": "But I was particularly tired."
+  },
+  {
+   "start": 192.73,
+   "end": 195.13,
+   "text": "I had a bunch of good days in a row where I wasn't getting that much."
+  },
+  {
+   "start": 196.21,
+   "end": 199.71,
+   "text": "So it's kind of like you get, you go like four or five, five days where you get like,"
+  },
+  {
+   "start": 200.75,
+   "end": 203.55,
+   "text": "Eh, seven days, hours of sleep, whatever."
+  },
+  {
+   "start": 203.73,
+   "end": 206.09,
+   "text": "And then you go and have a day where you get like nine, you know."
+  },
+  {
+   "start": 206.91,
+   "end": 208.03,
+   "text": "It's like a cyclical thing."
+  },
+  {
+   "start": 209.03,
+   "end": 214.63,
+   "text": "Um, yeah, so, yeah, I'm excited to finish this."
+  },
+  {
+   "start": 214.69,
+   "end": 216.27,
+   "text": "And then I'll, I'll do a little tour."
+  },
+  {
+   "start": 216.49,
+   "end": 219.11,
+   "text": "When I'm done with it, I'll do a tour to show what I'm up to."
+  },
+  {
+   "start": 219.17,
+   "end": 221.31,
+   "text": "So people are like, I'm not like, what the fuck are you talking about?"
+  },
+  {
+   "start": 222.73,
+   "end": 227.04,
+   "text": "Um, maybe I could do a tour now."
+  },
+  {
+   "start": 227.28,
+   "end": 227.78,
+   "text": "Fuck it."
+  },
+  {
+   "start": 227.92,
+   "end": 228.14,
+   "text": "Hmm."
+  },
+  {
+   "start": 229.08,
+   "end": 231.56,
+   "text": "So people's knows what I'm talking about."
+  },
+  {
+   "start": 232.86,
+   "end": 235.24,
+   "text": "So, what you do is you go to the website."
+  },
+  {
+   "start": 236.24,
+   "end": 236.54,
+   "text": "Here."
+  },
+  {
+   "start": 237.54,
+   "end": 238.94,
+   "text": "Let's see if I can do this real quick."
+  },
+  {
+   "start": 241.68,
+   "end": 242.04,
+   "text": "Okay."
+  },
+  {
+   "start": 243.34,
+   "end": 247.1,
+   "text": "So, you go to the website, right?"
+  },
+  {
+   "start": 247.6,
+   "end": 250.76,
+   "text": "And then you click on, uh, education."
+  },
+  {
+   "start": 251.62,
+   "end": 252.7,
+   "text": "Click on education."
+  },
+  {
+   "start": 253.66,
+   "end": 255.24,
+   "text": "Takes to, it takes you to education."
+  },
+  {
+   "start": 256.04,
+   "end": 260.18,
+   "text": "And then go to, um, Google Earth."
+  },
+  {
+   "start": 260.34,
+   "end": 263.22,
+   "text": "So if you click here at top of Google Earth, it could take you down to Google Earth."
+  },
+  {
+   "start": 264.02,
+   "end": 269.76,
+   "text": "And then you see history, battles, um,"
+  },
+  {
+   "start": 269.76,
+   "end": 274.8,
+   "text": "Um, oh no, I don't have, uh, I don't have Strava."
+  },
+  {
+   "start": 275.14,
+   "end": 277.18,
+   "text": "I should have Strava on the Googler section."
+  },
+  {
+   "start": 277.32,
+   "end": 280.46,
+   "text": "I have Strava on the, on the sports section."
+  },
+  {
+   "start": 281.72,
+   "end": 282.66,
+   "text": "Um, hang on."
+  },
+  {
+   "start": 283.48,
+   "end": 284.64,
+   "text": "I'm going to go to sports section."
+  },
+  {
+   "start": 284.64,
+   "end": 288.66,
+   "text": "Uh, uh, uh, uh, and then I'm going to go to Strava."
+  },
+  {
+   "start": 289.12,
+   "end": 290.2,
+   "text": "And then I'm going to click on Boulder."
+  },
+  {
+   "start": 290.34,
+   "end": 293.26,
+   "text": "I'm going to put Strava on with, um, Google Earth."
+  },
+  {
+   "start": 294.16,
+   "end": 294.46,
+   "text": "Okay."
+  },
+  {
+   "start": 294.54,
+   "end": 298.54,
+   "text": "So this is what my bike, this is what my, uh, ski resorts is going to be like."
+  },
+  {
+   "start": 298.6,
+   "end": 299.32,
+   "text": "This is Strava."
+  },
+  {
+   "start": 300.12,
+   "end": 302.66,
+   "text": "And so if you click on Arthur Court Climb right there,"
+  },
+  {
+   "start": 302.66,
+   "end": 309.35,
+   "text": "Then, if you just click on the, the blue icon,"
+  },
+  {
+   "start": 309.81,
+   "end": 312.61,
+   "text": "Then it'll open it up in Google Earth."
+  },
+  {
+   "start": 316.01,
+   "end": 316.49,
+   "text": "Yeah."
+  },
+  {
+   "start": 317.05,
+   "end": 319.85,
+   "text": "If you hit the blue icon, it opens it up in Google Earth."
+  },
+  {
+   "start": 321.47,
+   "end": 322.81,
+   "text": "And it shows you,"
+  },
+  {
+   "start": 323.01,
+   "end": 327.03,
+   "text": "It shows you the actual Strava segment."
+  },
+  {
+   "start": 327.41,
+   "end": 327.71,
+   "text": "Right?"
+  },
+  {
+   "start": 327.71,
+   "end": 330.23,
+   "text": "You see the line there?"
+  },
+  {
+   "start": 331.39,
+   "end": 333.45,
+   "text": "And then, so you just hit the back button."
+  },
+  {
+   "start": 333.53,
+   "end": 334.69,
+   "text": "It takes you back to the page."
+  },
+  {
+   "start": 335.25,
+   "end": 337.11,
+   "text": "And then you hit the little, uh, white."
+  },
+  {
+   "start": 338.59,
+   "end": 339.67,
+   "text": "The little white one."
+  },
+  {
+   "start": 341.96,
+   "end": 344.34,
+   "text": "Oops, I got a, like, a message as I hit that."
+  },
+  {
+   "start": 344.42,
+   "end": 344.64,
+   "text": "Okay."
+  },
+  {
+   "start": 345.3,
+   "end": 347.36,
+   "text": "You hit the white one, and then it turns into the movie."
+  },
+  {
+   "start": 348.1,
+   "end": 348.46,
+   "text": "Right?"
+  },
+  {
+   "start": 349.7,
+   "end": 351.58,
+   "text": "So that's that little section as a movie,"
+  },
+  {
+   "start": 351.68,
+   "end": 353.2,
+   "text": "So you can check it out on your cell phone."
+  },
+  {
+   "start": 354.94,
+   "end": 357.74,
+   "text": "La, la, la, la, la, on Google Earth."
+  },
+  {
+   "start": 357.84,
+   "end": 359.12,
+   "text": "La, la, la, la, la, la, la."
+  },
+  {
+   "start": 359.12,
+   "end": 360.38,
+   "text": "So I'll have, I'll have it like this"
+  },
+  {
+   "start": 360.38,
+   "end": 363.4,
+   "text": "With every single ski, ski run in Colorado."
+  },
+  {
+   "start": 363.68,
+   "end": 365.24,
+   "text": "There's, like, thousands and thousands"
+  },
+  {
+   "start": 365.24,
+   "end": 367.2,
+   "text": "And thousands and thousands of them."
+  },
+  {
+   "start": 367.82,
+   "end": 369.28,
+   "text": "So I'll give the demonstration."
+  },
+  {
+   "start": 370.66,
+   "end": 372.14,
+   "text": "Alright, so that's enough for now."
+  },
+  {
+   "start": 372.24,
+   "end": 372.78,
+   "text": "Peace out."
+  }
+ ]
+}

@@ -1,0 +1,270 @@
+{
+ "youtube_id": "w93XswhMP3E",
+ "title": "Living in Boulder vlog 6 - 13 - 2017: Clement of Alexandria",
+ "url": "https://youtu.be/w93XswhMP3E",
+ "published_at": "2017-06-14",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a brief late-night update on his 'Living in Boulder' vlog series. He explains recent upload difficulties, mentions completing a video on Cyprian and working on one about Clement of Alexandria, and shares personal updates including his mom getting a tricycle and plans to sell his motorcycle to his brother.",
+  "speaker": "kyle",
+  "topics": [
+   "vlog update",
+   "upload difficulties",
+   "church fathers series",
+   "Clement of Alexandria",
+   "Cyprian",
+   "personal life update",
+   "cycling",
+   "motorcycle"
+  ],
+  "stances": [
+   {
+    "topic": "upload progress",
+    "position": "frustrated by repeated crashes but persisting with the church fathers series"
+   },
+   {
+    "topic": "finishing the series",
+    "position": "still feels like he can't finish it but is tracking ahead and nearly done"
+   },
+   {
+    "topic": "motorcycle",
+    "position": "planning to sell it to his brother"
+   }
+  ],
+  "entities": [
+   "Clement of Alexandria",
+   "Cyprian",
+   "Boulder",
+   "Google Earth"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.75,
+   "end": 5.63,
+   "text": "Hello living in Boulder View, love for 2013 to 2013."
+  },
+  {
+   "start": 5.63,
+   "end": 8.75,
+   "text": "I'm loving 42 at midnight right now."
+  },
+  {
+   "start": 8.75,
+   "end": 12.75,
+   "text": "I didn't get my greens coming out again today."
+  },
+  {
+   "start": 12.75,
+   "end": 15.75,
+   "text": "I'm going to try to do it tomorrow."
+  },
+  {
+   "start": 15.75,
+   "end": 22.75,
+   "text": "I didn't want to do videos on here before I took my stuff off, because in between my,"
+  },
+  {
+   "start": 22.75,
+   "end": 27.75,
+   "text": "my Google Earth, 20K thing, I had titties."
+  },
+  {
+   "start": 27.75,
+   "end": 30.75,
+   "text": "I'm not supposed to have titties showing on the video."
+  },
+  {
+   "start": 30.75,
+   "end": 34.75,
+   "text": "I've only been playing with friends like that."
+  },
+  {
+   "start": 34.75,
+   "end": 39.75,
+   "text": "But I can record now in my room."
+  },
+  {
+   "start": 39.75,
+   "end": 40.75,
+   "text": "I'm not bright on anybody."
+  },
+  {
+   "start": 40.75,
+   "end": 44.75,
+   "text": "I think the volume works well in here."
+  },
+  {
+   "start": 44.75,
+   "end": 46.75,
+   "text": "They'd cute sticks."
+  },
+  {
+   "start": 46.75,
+   "end": 50.75,
+   "text": "So I've been working on..."
+  },
+  {
+   "start": 50.75,
+   "end": 56.75,
+   "text": "The last time I did a video on 2D days to upload."
+  },
+  {
+   "start": 56.75,
+   "end": 59.75,
+   "text": "It just kept crashing."
+  },
+  {
+   "start": 59.75,
+   "end": 64.75,
+   "text": "I was stopping, I was uploading, I was uploading it over and over again."
+  },
+  {
+   "start": 64.75,
+   "end": 71.75,
+   "text": "But anyway, since then, I did Cyprian."
+  },
+  {
+   "start": 71.75,
+   "end": 85.17,
+   "text": "And I took a while and then, now I'm doing a Climbing of Alexandria."
+  },
+  {
+   "start": 85.17,
+   "end": 89.17,
+   "text": "I'm not sure if I can upload it."
+  },
+  {
+   "start": 89.17,
+   "end": 91.17,
+   "text": "But yeah, I'm back."
+  },
+  {
+   "start": 91.17,
+   "end": 94.17,
+   "text": "I've been working on it."
+  },
+  {
+   "start": 94.17,
+   "end": 98.17,
+   "text": "I've got to go with my time."
+  },
+  {
+   "start": 98.17,
+   "end": 102.17,
+   "text": "I'm making my progress slow down."
+  },
+  {
+   "start": 102.17,
+   "end": 105.17,
+   "text": "My mom got a try cycle."
+  },
+  {
+   "start": 105.17,
+   "end": 109.17,
+   "text": "And so we went on our first ride today."
+  },
+  {
+   "start": 109.17,
+   "end": 113.17,
+   "text": "I'll try to get her out of the gun some more, because she was running to the fight path."
+  },
+  {
+   "start": 113.17,
+   "end": 117.17,
+   "text": "And then I'll be awesome to have been troll over Boulder."
+  },
+  {
+   "start": 117.17,
+   "end": 119.17,
+   "text": "New places."
+  },
+  {
+   "start": 119.17,
+   "end": 121.17,
+   "text": "And then I get my motorcycle."
+  },
+  {
+   "start": 121.17,
+   "end": 122.17,
+   "text": "I think I'm going to sell it."
+  },
+  {
+   "start": 122.17,
+   "end": 124.17,
+   "text": "I'm going to bother my brother."
+  },
+  {
+   "start": 124.17,
+   "end": 128.17,
+   "text": "I'm going to sell to him."
+  },
+  {
+   "start": 128.17,
+   "end": 138.63,
+   "text": "And so I think yeah, tomorrow, I'm going to do Alexander of..."
+  },
+  {
+   "start": 138.63,
+   "end": 141.63,
+   "text": "Then I'll claim that it's Alexandria."
+  },
+  {
+   "start": 141.63,
+   "end": 146.63,
+   "text": "And yeah, I'm Mark Church, fathers and stuff that I prepared."
+  },
+  {
+   "start": 146.63,
+   "end": 150.63,
+   "text": "But yeah, I don't know if there's any huge books coming my way."
+  },
+  {
+   "start": 150.63,
+   "end": 154.63,
+   "text": "So back in to doing a fast pace."
+  },
+  {
+   "start": 154.63,
+   "end": 158.63,
+   "text": "Looking forward to finishing this."
+  },
+  {
+   "start": 158.63,
+   "end": 161.63,
+   "text": "I still feel like I can't finish it."
+  },
+  {
+   "start": 161.63,
+   "end": 166.63,
+   "text": "So, you know, I mean, I mean, they're almost done."
+  },
+  {
+   "start": 166.63,
+   "end": 170.63,
+   "text": "I haven't realized how big it is."
+  },
+  {
+   "start": 170.63,
+   "end": 173.63,
+   "text": "But yeah, I'm still tracking head."
+  },
+  {
+   "start": 173.63,
+   "end": 177.63,
+   "text": "I'm getting all of the books from the I invention or a legionless tomorrow,"
+  },
+  {
+   "start": 177.63,
+   "end": 180.63,
+   "text": "on my website."
+  },
+  {
+   "start": 180.63,
+   "end": 183.63,
+   "text": "Okay, peace out."
+  }
+ ]
+}

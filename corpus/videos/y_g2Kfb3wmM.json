@@ -1,0 +1,252 @@
+{
+ "youtube_id": "y_g2Kfb3wmM",
+ "title": "Living in Boulder Vlog 10 - 29 - 2016",
+ "url": "https://youtu.be/y_g2Kfb3wmM",
+ "published_at": "2016-10-30",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about daily life in Boulder, covering intermittent internet issues and his dilemma between CenturyLink and Comcast, a strange problem where he can't comment on his own YouTube videos, and his progress building a Colorado ski resort website with active and defunct resort pages.",
+  "speaker": "kyle",
+  "topics": [
+   "internet service providers",
+   "YouTube commenting bug",
+   "ski resort website project",
+   "daily routine",
+   "alcohol and energy"
+  ],
+  "stances": [
+   {
+    "topic": "CenturyLink vs Comcast",
+    "position": "Skeptical of switching to Comcast based on a CenturyLink rep's advice; wants to gather more opinions before deciding"
+   },
+   {
+    "topic": "alcohol",
+    "position": "Dislikes drinking because it drains his energy and disrupts his sleep"
+   },
+   {
+    "topic": "forgetting to vlog",
+    "position": "Will record videos offline in the future and upload when internet is available"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "CenturyLink",
+   "Comcast",
+   "The Young Turks",
+   "Loveland",
+   "Crested Butte",
+   "Wolf Creek Pass",
+   "Arapahoe Basin",
+   "Telluride"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.98,
+   "end": 6.58,
+   "text": "Hey, living in Boulder vlog. I totally forgot to do the video last night, but I think I forgot because I didn't have internet"
+  },
+  {
+   "start": 7.16,
+   "end": 10.4,
+   "text": "So from now on when I forget, I think I'll do the video anyway"
+  },
+  {
+   "start": 10.4,
+   "end": 16.32,
+   "text": "I mean when I don't have internet, I'll do the video anyway, and then I'll just upload it when I have internet. My internet's really intermittent"
+  },
+  {
+   "start": 16.88,
+   "end": 20.62,
+   "text": "My roommate's starting to freak out. He's like we got to do something. We got to get changed"
+  },
+  {
+   "start": 20.62,
+   "end": 24.74,
+   "text": "So I think tomorrow we're gonna have to change try to change, but I told"
+  },
+  {
+   "start": 25.34,
+   "end": 27.34,
+   "text": "CenturyLink I'm like should I change"
+  },
+  {
+   "start": 27.34,
+   "end": 32.74,
+   "text": "To Comcast which is the only other company that services and he's like well Comcast isn't dedicated"
+  },
+  {
+   "start": 32.74,
+   "end": 36.16,
+   "text": "You're probably gonna have to share your 1.5 with a whole bunch of other people with CenturyLink"
+  },
+  {
+   "start": 36.16,
+   "end": 42.38,
+   "text": "You're you're dedicated you get your whole 1.5 so you'll probably be even more screwed if you go with Comcast so"
+  },
+  {
+   "start": 43.54,
+   "end": 45.7,
+   "text": "Yeah, I don't know man. I would prefer it or not"
+  },
+  {
+   "start": 45.7,
+   "end": 48.82,
+   "text": "I mean if that guy's saying the truth to not go with Comcast"
+  },
+  {
+   "start": 48.82,
+   "end": 51.96,
+   "text": "I want to go around and ask a bunch of people in the building"
+  },
+  {
+   "start": 51.96,
+   "end": 56.02,
+   "text": "I think I'm going to send an email and a call to the homeowners people"
+  },
+  {
+   "start": 56.02,
+   "end": 58.02,
+   "text": "The Association"
+  },
+  {
+   "start": 58.02,
+   "end": 61.62,
+   "text": "Yeah, see if there's any other reports of this"
+  },
+  {
+   "start": 61.62,
+   "end": 64.16,
+   "text": "Maybe I'm being cyber attacked. I"
+  },
+  {
+   "start": 65.3,
+   "end": 67.3,
+   "text": "Can't comment on my YouTube videos by the way"
+  },
+  {
+   "start": 67.3,
+   "end": 72.32,
+   "text": "I can comment on young Turks every single time. I try to comment on a young Turks video. It goes through"
+  },
+  {
+   "start": 73.02,
+   "end": 76.92,
+   "text": "99 95% of the time I try to comment on my video. It does not go through"
+  },
+  {
+   "start": 77.36,
+   "end": 82.52,
+   "text": "Even when the video is totally loaded and every once in a while I can comment. It's weird really weird"
+  },
+  {
+   "start": 82.52,
+   "end": 84.52,
+   "text": "So anyway yesterday I"
+  },
+  {
+   "start": 84.52,
+   "end": 86.52,
+   "text": "So anyway yesterday I"
+  },
+  {
+   "start": 86.52,
+   "end": 90.52,
+   "text": "Yeah, today I could probably finish the"
+  },
+  {
+   "start": 90.52,
+   "end": 92.52,
+   "text": "The"
+  },
+  {
+   "start": 92.52,
+   "end": 96.52,
+   "text": "Active ski resorts that I do the only ones that I have left to finish are"
+  },
+  {
+   "start": 96.52,
+   "end": 100.52,
+   "text": "Loveland, Crested Butte, Wolf Creek Pass,"
+  },
+  {
+   "start": 100.52,
+   "end": 102.52,
+   "text": "This NA Basin"
+  },
+  {
+   "start": 102.52,
+   "end": 104.52,
+   "text": "And Telluride and"
+  },
+  {
+   "start": 104.52,
+   "end": 108.52,
+   "text": "Yeah, and then I think today after I'm done with the active ones that I've done so far"
+  },
+  {
+   "start": 108.52,
+   "end": 110.52,
+   "text": "I'll go and I'll do the"
+  },
+  {
+   "start": 110.52,
+   "end": 114.52,
+   "text": "The defunct one page, you know"
+  },
+  {
+   "start": 114.52,
+   "end": 118.52,
+   "text": "And so yeah, but I got up late. It's 11 and I just got up"
+  },
+  {
+   "start": 118.52,
+   "end": 122.52,
+   "text": "I my roommate gave me two beers yesterday and it made me have to take a nap whenever I drink alcohol"
+  },
+  {
+   "start": 122.52,
+   "end": 124.52,
+   "text": "Whenever I drink alcohol it sucks energy out of me"
+  },
+  {
+   "start": 124.52,
+   "end": 127.52,
+   "text": "But then I got up and I was fine, but then I slept in this morning"
+  },
+  {
+   "start": 127.52,
+   "end": 129.52,
+   "text": "So maybe that's from those beers or"
+  },
+  {
+   "start": 129.52,
+   "end": 131.52,
+   "text": "I was just tired, huh?"
+  },
+  {
+   "start": 131.52,
+   "end": 132.52,
+   "text": "I don't know"
+  },
+  {
+   "start": 132.52,
+   "end": 133.52,
+   "text": "Um"
+  },
+  {
+   "start": 133.52,
+   "end": 134.52,
+   "text": "Yeah"
+  },
+  {
+   "start": 134.52,
+   "end": 138.52,
+   "text": "Anyways, I think I've talked long enough. Let's see if we can get this up a little right. Peace out"
+  }
+ ]
+}

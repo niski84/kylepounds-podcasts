@@ -1,0 +1,1000 @@
+{
+ "youtube_id": "FdVD-1FkSaY",
+ "title": "Living in Boulder Vlog 10 - 14 - 2016",
+ "url": "https://youtu.be/FdVD-1FkSaY",
+ "published_at": "2016-10-15",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about his day working as a house cleaner in Boulder, then shares his system for listening to Librivox audiobooks of 'The Decline and Fall of the Roman Empire' — 298 chapters organized on his phone, browsable via his personal website. He also mentions recording new videos on autism and a viewer request topic, and muses about monetizing his website with ads.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "audiobooks",
+   "personal website",
+   "YouTube return",
+   "work/cleaning",
+   "file organization",
+   "monetization ideas"
+  ],
+  "stances": [
+   {
+    "topic": "returning to YouTube",
+    "position": "excited and nostalgic about having a fan base again"
+   },
+   {
+    "topic": "listening to audiobooks on repeat",
+    "position": "finds it valuable — repeated listening builds layered understanding"
+   },
+   {
+    "topic": "website monetization",
+    "position": "thinks he should add ads since traffic may be picking up"
+   },
+   {
+    "topic": "sharing audio collections",
+    "position": "enthusiastic about the idea of sending people hard drives filled with his organized audiobook collection"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Librivox",
+   "The Decline and Fall of the Roman Empire",
+   "ES File Explorer",
+   "Amazon",
+   "Huns"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 1.6,
+   "end": 6.16,
+   "text": "Hello, Living in Boulder Vlog for October 14th, 2016."
+  },
+  {
+   "start": 8.44,
+   "end": 10.0,
+   "text": "Third one since back."
+  },
+  {
+   "start": 11.2,
+   "end": 11.94,
+   "text": "I like it."
+  },
+  {
+   "start": 12.62,
+   "end": 16.52,
+   "text": "It's so trippy, I totally forgot that I had these, man."
+  },
+  {
+   "start": 16.58,
+   "end": 18.52,
+   "text": "I had YouTube with like a fan base, dude."
+  },
+  {
+   "start": 18.58,
+   "end": 21.6,
+   "text": "It's like having a possession in the vault."
+  },
+  {
+   "start": 22.08,
+   "end": 23.44,
+   "text": "It's like having a diamond ring."
+  },
+  {
+   "start": 24.0,
+   "end": 25.6,
+   "text": "Let me go get my diamond ring."
+  },
+  {
+   "start": 27.16,
+   "end": 27.92,
+   "text": "So yeah."
+  },
+  {
+   "start": 29.26,
+   "end": 30.34,
+   "text": "So what did I do today?"
+  },
+  {
+   "start": 30.34,
+   "end": 33.78,
+   "text": "I got up at like 6."
+  },
+  {
+   "start": 35.96,
+   "end": 39.14,
+   "text": "And then I just had my inhaler."
+  },
+  {
+   "start": 39.36,
+   "end": 42.22,
+   "text": "So I was like, I had to have my inhaler."
+  },
+  {
+   "start": 42.38,
+   "end": 43.26,
+   "text": "So I just had it."
+  },
+  {
+   "start": 43.58,
+   "end": 44.6,
+   "text": "So I went to work."
+  },
+  {
+   "start": 45.58,
+   "end": 49.42,
+   "text": "And then I did this lady's house today."
+  },
+  {
+   "start": 49.54,
+   "end": 51.2,
+   "text": "She's walking around just fine, chipper."
+  },
+  {
+   "start": 51.44,
+   "end": 52.68,
+   "text": "Like, hey, what's up, you know?"
+  },
+  {
+   "start": 53.22,
+   "end": 56.2,
+   "text": "And she's telling me she has a great, great grandchild."
+  },
+  {
+   "start": 56.46,
+   "end": 57.1,
+   "text": "Isn't that wild?"
+  },
+  {
+   "start": 59.36,
+   "end": 60.94,
+   "text": "So, and that was just down the road."
+  },
+  {
+   "start": 60.94,
+   "end": 61.36,
+   "text": "So that was cool."
+  },
+  {
+   "start": 61.36,
+   "end": 62.62,
+   "text": "I like when you don't have to go that far."
+  },
+  {
+   "start": 63.38,
+   "end": 64.16,
+   "text": "And I think tomorrow, yeah."
+  },
+  {
+   "start": 64.22,
+   "end": 65.34,
+   "text": "Tomorrow don't have to go that far neither."
+  },
+  {
+   "start": 65.34,
+   "end": 72.52,
+   "text": "And so then I came back and then I kind of reorganized stuff on my computer, you know?"
+  },
+  {
+   "start": 72.58,
+   "end": 75.62,
+   "text": "Because now that I'm uploading videos, just to get the system working, you know?"
+  },
+  {
+   "start": 75.62,
+   "end": 90.2,
+   "text": "And then I recorded those videos that I'm uploading now, lots of talking, the autism one, and the, what was the other one?"
+  },
+  {
+   "start": 90.26,
+   "end": 92.0,
+   "text": "Oh, yeah, the Buika One request video."
+  },
+  {
+   "start": 92.0,
+   "end": 102.35,
+   "text": "And here's the, and then, so then I, um, on the, on the website, um, I, and I uploaded it, by the way."
+  },
+  {
+   "start": 102.49,
+   "end": 104.71,
+   "text": "I don't know if it's linked, though."
+  },
+  {
+   "start": 104.75,
+   "end": 111.4,
+   "text": "I should see if it's, make sure it's linked, but, um, I did, uh, Breckenridge."
+  },
+  {
+   "start": 111.4,
+   "end": 115.44,
+   "text": "I did all of Breckenridge, and then I did a lot of Copper Mountain, and then a little bit of Gaston."
+  },
+  {
+   "start": 118.11,
+   "end": 120.23,
+   "text": "So, I think I finished Breckenridge and Copper Mountain."
+  },
+  {
+   "start": 120.61,
+   "end": 121.61,
+   "text": "Yeah, so finished here today."
+  },
+  {
+   "start": 121.61,
+   "end": 123.79,
+   "text": "It's so much fun, man."
+  },
+  {
+   "start": 123.83,
+   "end": 124.67,
+   "text": "It's so trippy, dude."
+  },
+  {
+   "start": 125.55,
+   "end": 126.93,
+   "text": "Mountains are trippy."
+  },
+  {
+   "start": 127.57,
+   "end": 129.61,
+   "text": "Google Earth, it's so clear."
+  },
+  {
+   "start": 130.49,
+   "end": 131.67,
+   "text": "Wow, I can barely see myself."
+  },
+  {
+   "start": 131.79,
+   "end": 132.67,
+   "text": "It's like I'm all drunk."
+  },
+  {
+   "start": 132.79,
+   "end": 133.33,
+   "text": "It's like, ah!"
+  },
+  {
+   "start": 134.05,
+   "end": 135.55,
+   "text": "Hope it doesn't shut down on me."
+  },
+  {
+   "start": 136.15,
+   "end": 137.85,
+   "text": "It's because the computer is, uh, uploading?"
+  },
+  {
+   "start": 137.99,
+   "end": 138.27,
+   "text": "I don't know."
+  },
+  {
+   "start": 138.39,
+   "end": 139.01,
+   "text": "No, that's not why."
+  },
+  {
+   "start": 139.73,
+   "end": 143.15,
+   "text": "So, um, that was pretty much all day."
+  },
+  {
+   "start": 143.15,
+   "end": 155.83,
+   "text": "I, uh, listened to stuff about Constantinople, the end of the Byzantinians today, but, um,"
+  },
+  {
+   "start": 156.21,
+   "end": 160.45,
+   "text": "I, uh, don't really remember much, man."
+  },
+  {
+   "start": 161.39,
+   "end": 161.75,
+   "text": "Hi."
+  },
+  {
+   "start": 162.81,
+   "end": 166.53,
+   "text": "But, uh, yeah, I don't know if I've talked about this."
+  },
+  {
+   "start": 166.59,
+   "end": 170.09,
+   "text": "I guess I'll just talk, whenever I think of something, I'll talk about whatever I've been working on."
+  },
+  {
+   "start": 170.67,
+   "end": 172.85,
+   "text": "So, on my website, let me tell you about this."
+  },
+  {
+   "start": 172.85,
+   "end": 173.53,
+   "text": "This is pretty groovy."
+  },
+  {
+   "start": 174.49,
+   "end": 183.17,
+   "text": "Um, I, uh, I actually attached all of the audio files of, uh, the Decline and Fall of the Roman Empire,"
+  },
+  {
+   "start": 183.97,
+   "end": 189.29,
+   "text": "Uh, on, um, my, uh, audiobook page on my website."
+  },
+  {
+   "start": 189.43,
+   "end": 192.15,
+   "text": "You can go there by going to, you know what?"
+  },
+  {
+   "start": 192.19,
+   "end": 197.37,
+   "text": "Since I'm talking about my website so much and uploading videos, I need to attach ads to my motherfucking website, man."
+  },
+  {
+   "start": 197.41,
+   "end": 199.27,
+   "text": "People will probably start going there, maybe."
+  },
+  {
+   "start": 200.69,
+   "end": 204.35,
+   "text": "Um, and, uh, yeah, dude, if I attach ads, that could be money."
+  },
+  {
+   "start": 204.35,
+   "end": 205.77,
+   "text": "I've never made anything on my website."
+  },
+  {
+   "start": 205.91,
+   "end": 207.57,
+   "text": "I've made, like, a total of, like, ten cents on my website."
+  },
+  {
+   "start": 208.55,
+   "end": 210.53,
+   "text": "Um, yeah, I'll do that soon."
+  },
+  {
+   "start": 213.11,
+   "end": 213.43,
+   "text": "Yeah."
+  },
+  {
+   "start": 213.91,
+   "end": 224.84,
+   "text": "Um, so, um, I, uh, so what was I talking about?"
+  },
+  {
+   "start": 224.94,
+   "end": 225.72,
+   "text": "What I did?"
+  },
+  {
+   "start": 225.84,
+   "end": 226.6,
+   "text": "Oh, yeah, the book."
+  },
+  {
+   "start": 226.6,
+   "end": 239.56,
+   "text": "Um, so just click on, uh, Education and then under Audiobooks, pre-audiobooks, audio history books from, that you can get from Amazon and, uh, LibriVox."
+  },
+  {
+   "start": 240.1,
+   "end": 248.3,
+   "text": "You click on Italy and then go to Decline and Follow the Roman Empire and, uh, every single chapter, you know, is listed out there in the subjects."
+  },
+  {
+   "start": 248.54,
+   "end": 254.84,
+   "text": "And, uh, there's a hundred, there's like a hundred and, uh, um, something."
+  },
+  {
+   "start": 254.98,
+   "end": 255.5,
+   "text": "Here, I'll show you."
+  },
+  {
+   "start": 256.0,
+   "end": 257.6,
+   "text": "I'll show you how I do my dizzle."
+  },
+  {
+   "start": 257.6,
+   "end": 261.48,
+   "text": "So, I do ES File Explorer."
+  },
+  {
+   "start": 263.18,
+   "end": 265.94,
+   "text": "ES File Explorer, right there."
+  },
+  {
+   "start": 267.2,
+   "end": 269.04,
+   "text": "So, you click on ES File."
+  },
+  {
+   "start": 270.54,
+   "end": 272.48,
+   "text": "And here's ES Files."
+  },
+  {
+   "start": 272.92,
+   "end": 273.84,
+   "text": "Here's ES Files."
+  },
+  {
+   "start": 273.84,
+   "end": 278.64,
+   "text": "So, I have every single chapter on Decline and Fall on my cell phone."
+  },
+  {
+   "start": 279.68,
+   "end": 285.1,
+   "text": "And, um, all in one folder."
+  },
+  {
+   "start": 285.56,
+   "end": 286.58,
+   "text": "And they're all numbered."
+  },
+  {
+   "start": 287.22,
+   "end": 289.24,
+   "text": "So, it's, there's 298."
+  },
+  {
+   "start": 289.3,
+   "end": 289.7,
+   "text": "That's right."
+  },
+  {
+   "start": 290.42,
+   "end": 291.92,
+   "text": "Now, I don't know if you can see this."
+  },
+  {
+   "start": 292.62,
+   "end": 293.08,
+   "text": "There we are."
+  },
+  {
+   "start": 294.4,
+   "end": 295.88,
+   "text": "So, whoops."
+  },
+  {
+   "start": 296.34,
+   "end": 303.36,
+   "text": "So, 298, Volume 6, Chapter 17, um, Part 2."
+  },
+  {
+   "start": 303.36,
+   "end": 306.94,
+   "text": "Which was 23 minutes and 6 seconds."
+  },
+  {
+   "start": 307.6,
+   "end": 307.72,
+   "text": "Okay."
+  },
+  {
+   "start": 309.6,
+   "end": 312.36,
+   "text": "Um, so I'll click on it."
+  },
+  {
+   "start": 314.5,
+   "end": 326.36,
+   "text": "Of the Decline and Fall of the Roman Empire, Volume 6."
+  },
+  {
+   "start": 327.12,
+   "end": 328.52,
+   "text": "This is a LibriVox recording."
+  },
+  {
+   "start": 328.9,
+   "end": 329.56,
+   "text": "All LibriVox."
+  },
+  {
+   "start": 329.82,
+   "end": 330.3,
+   "text": "Right."
+  },
+  {
+   "start": 331.2,
+   "end": 338.65,
+   "text": "So, um, I just go on the chapter."
+  },
+  {
+   "start": 338.77,
+   "end": 339.41,
+   "text": "You should check it out."
+  },
+  {
+   "start": 339.47,
+   "end": 340.07,
+   "text": "Go on the chapter."
+  },
+  {
+   "start": 340.07,
+   "end": 344.23,
+   "text": "And, uh, you look through there."
+  },
+  {
+   "start": 344.31,
+   "end": 347.69,
+   "text": "And you're like, which part of the Roman Empire had been McInterest's me?"
+  },
+  {
+   "start": 348.01,
+   "end": 348.21,
+   "text": "You know?"
+  },
+  {
+   "start": 348.25,
+   "end": 350.55,
+   "text": "And then you go, it's like, oh, look."
+  },
+  {
+   "start": 350.63,
+   "end": 351.31,
+   "text": "It's, it's Han."
+  },
+  {
+   "start": 351.39,
+   "end": 352.13,
+   "text": "Attila the Han."
+  },
+  {
+   "start": 352.21,
+   "end": 354.69,
+   "text": "Oh, he captured 31 cities in France."
+  },
+  {
+   "start": 355.57,
+   "end": 356.45,
+   "text": "Um, which one?"
+  },
+  {
+   "start": 356.53,
+   "end": 357.07,
+   "text": "Oh, 152."
+  },
+  {
+   "start": 358.01,
+   "end": 358.31,
+   "text": "Okay."
+  },
+  {
+   "start": 358.51,
+   "end": 359.35,
+   "text": "So, you just go here."
+  },
+  {
+   "start": 359.65,
+   "end": 360.71,
+   "text": "Brr, 152."
+  },
+  {
+   "start": 360.81,
+   "end": 361.07,
+   "text": "Bink."
+  },
+  {
+   "start": 361.63,
+   "end": 362.59,
+   "text": "I put it on repeat."
+  },
+  {
+   "start": 363.19,
+   "end": 363.55,
+   "text": "You know?"
+  },
+  {
+   "start": 363.65,
+   "end": 364.93,
+   "text": "The chapters are like 25 minutes."
+  },
+  {
+   "start": 366.03,
+   "end": 369.75,
+   "text": "And, um, it's just, you know, I go to work and I just play it."
+  },
+  {
+   "start": 369.77,
+   "end": 370.93,
+   "text": "And it just goes over and over again."
+  },
+  {
+   "start": 371.05,
+   "end": 373.57,
+   "text": "And, you know, it's pretty groovy."
+  },
+  {
+   "start": 373.63,
+   "end": 376.61,
+   "text": "It's interesting when you listen to a chapter over and over again."
+  },
+  {
+   "start": 376.61,
+   "end": 386.8,
+   "text": "Because, um, um, like you pay attention to the, to certain things, you know?"
+  },
+  {
+   "start": 386.9,
+   "end": 387.96,
+   "text": "Like you hear him say something."
+  },
+  {
+   "start": 388.04,
+   "end": 389.52,
+   "text": "Oh, here he is saying that again."
+  },
+  {
+   "start": 389.62,
+   "end": 390.86,
+   "text": "Oh, we're at that part, you know?"
+  },
+  {
+   "start": 391.54,
+   "end": 393.08,
+   "text": "And then you space out on certain parts."
+  },
+  {
+   "start": 393.08,
+   "end": 396.76,
+   "text": "And so you kind of figure out like what you're interested in and stuff."
+  },
+  {
+   "start": 396.84,
+   "end": 400.12,
+   "text": "And then you can kind of, when you hear it again, you start to, um, I talked about this"
+  },
+  {
+   "start": 400.12,
+   "end": 400.48,
+   "text": "Last night."
+  },
+  {
+   "start": 400.54,
+   "end": 401.82,
+   "text": "You start to pick up on more."
+  },
+  {
+   "start": 402.1,
+   "end": 404.8,
+   "text": "And you're like, and you know, you get to different levels of understanding."
+  },
+  {
+   "start": 404.86,
+   "end": 405.4,
+   "text": "You're like, oh, cool."
+  },
+  {
+   "start": 405.44,
+   "end": 406.84,
+   "text": "Now I'm at the part where I'm really into it."
+  },
+  {
+   "start": 406.86,
+   "end": 407.5,
+   "text": "And I want to hear it."
+  },
+  {
+   "start": 407.76,
+   "end": 408.28,
+   "text": "What's next?"
+  },
+  {
+   "start": 408.3,
+   "end": 408.78,
+   "text": "I remember this."
+  },
+  {
+   "start": 408.78,
+   "end": 409.26,
+   "text": "What's next?"
+  },
+  {
+   "start": 409.32,
+   "end": 410.8,
+   "text": "And I remember I wanted to learn, you know?"
+  },
+  {
+   "start": 411.88,
+   "end": 414.0,
+   "text": "So I remember I wanted to pay attention to this part, you know?"
+  },
+  {
+   "start": 414.3,
+   "end": 418.28,
+   "text": "And sometimes you're so into it, you, you, you rewind it a few minutes, you know?"
+  },
+  {
+   "start": 419.2,
+   "end": 423.2,
+   "text": "Um, I should, uh, I'm going to upload my important video."
+  },
+  {
+   "start": 423.32,
+   "end": 426.56,
+   "text": "I was like, the most important video ever to all my fans."
+  },
+  {
+   "start": 426.66,
+   "end": 428.08,
+   "text": "Maybe I'll connect it to this video."
+  },
+  {
+   "start": 428.26,
+   "end": 429.28,
+   "text": "I think I'll put it up there."
+  },
+  {
+   "start": 430.1,
+   "end": 432.48,
+   "text": "Um, because, uh, or maybe not this one, but the one tomorrow."
+  },
+  {
+   "start": 432.6,
+   "end": 437.94,
+   "text": "Because, um, yeah, maybe I should start up my, my, my thing again, where people send"
+  },
+  {
+   "start": 437.94,
+   "end": 441.84,
+   "text": "Me their hard drives and I fill them up with my audio book collection, all with the organization"
+  },
+  {
+   "start": 441.84,
+   "end": 442.58,
+   "text": "Just like this."
+  },
+  {
+   "start": 442.62,
+   "end": 443.94,
+   "text": "All you have to do is plug it into your phone."
+  },
+  {
+   "start": 444.0,
+   "end": 447.42,
+   "text": "They have 128 gigabyte cards for their phones nowadays."
+  },
+  {
+   "start": 447.42,
+   "end": 453.2,
+   "text": "And, um, uh, you can have everything that I have and just choose whatever you want."
+  },
+  {
+   "start": 453.2,
+   "end": 454.62,
+   "text": "I didn't even give them one in time."
+  },
+  {
+   "start": 454.72,
+   "end": 455.26,
+   "text": "It's fucking awesome."
+  },
+  {
+   "start": 456.88,
+   "end": 466.8,
+   "text": "Um, so, um, and I can shop around for what chapter I want on my website here."
+  },
+  {
+   "start": 467.04,
+   "end": 469.64,
+   "text": "I think my website looks really good on my cell phone."
+  },
+  {
+   "start": 470.02,
+   "end": 470.7,
+   "text": "Maybe I'll show you."
+  },
+  {
+   "start": 471.56,
+   "end": 471.9,
+   "text": "Let me know."
+  },
+  {
+   "start": 471.94,
+   "end": 472.24,
+   "text": "Fuck it."
+  },
+  {
+   "start": 472.28,
+   "end": 473.2,
+   "text": "Let's show you right now."
+  },
+  {
+   "start": 473.92,
+   "end": 474.46,
+   "text": "Go to my website."
+  },
+  {
+   "start": 474.52,
+   "end": 475.98,
+   "text": "Oh, here we're, we already have it open."
+  },
+  {
+   "start": 475.98,
+   "end": 481.2,
+   "text": "Um, so this is like, um, volume six."
+  },
+  {
+   "start": 482.44,
+   "end": 488.78,
+   "text": "Now, when you look at these volumes, they, you can pretty much see the entire volume on"
+  },
+  {
+   "start": 488.78,
+   "end": 492.1,
+   "text": "One screen of your cell phone, just right there all at once."
+  },
+  {
+   "start": 492.1,
+   "end": 498.16,
+   "text": "Like the volume starts here at the top and that's pretty much the end of the, of the volume"
+  },
+  {
+   "start": 498.16,
+   "end": 500.86,
+   "text": "Right there, you know, and same thing with the other ones."
+  },
+  {
+   "start": 501.6,
+   "end": 503.46,
+   "text": "So like, that's pretty cool."
+  },
+  {
+   "start": 503.46,
+   "end": 506.68,
+   "text": "So you're like, which one do I want as you're looking at the, at the canvas?"
+  },
+  {
+   "start": 508.6,
+   "end": 510.12,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 510.18,
+   "end": 515.4,
+   "text": "But in the part above shows the, the chapter because you know, the, the subjects that I've"
+  },
+  {
+   "start": 515.4,
+   "end": 518.96,
+   "text": "Listed there, they overlap with the actual chapter above, you know?"
+  },
+  {
+   "start": 519.02,
+   "end": 524.14,
+   "text": "So that's why I don't have them like in, in, in, exactly in the same, it's kind of separate."
+  },
+  {
+   "start": 525.24,
+   "end": 527.52,
+   "text": "But, uh, yeah, man."
+  },
+  {
+   "start": 527.9,
+   "end": 530.38,
+   "text": "So I like to look at this, you know, and be like, okay, which one?"
+  },
+  {
+   "start": 530.56,
+   "end": 532.22,
+   "text": "And there's 298 of them."
+  },
+  {
+   "start": 532.22,
+   "end": 534.92,
+   "text": "Um, so, uh, which is cool."
+  },
+  {
+   "start": 535.04,
+   "end": 536.14,
+   "text": "A round number, almost 300."
+  },
+  {
+   "start": 537.18,
+   "end": 540.66,
+   "text": "So, uh, how long, how many, many long time have I been talking about minutes?"
+  },
+  {
+   "start": 540.74,
+   "end": 540.88,
+   "text": "Okay."
+  },
+  {
+   "start": 541.02,
+   "end": 541.72,
+   "text": "I should try to do them."
+  },
+  {
+   "start": 541.76,
+   "end": 544.88,
+   "text": "I think when I was living in my van at 2011, I was doing them for like, trying to keep me"
+  },
+  {
+   "start": 544.88,
+   "end": 545.08,
+   "text": "Short."
+  },
+  {
+   "start": 545.64,
+   "end": 547.34,
+   "text": "So I think I'll try to do the same thing under 10 minutes."
+  },
+  {
+   "start": 547.74,
+   "end": 552.06,
+   "text": "10 minutes is the maximum of, of like your normal, um, YouTube channel."
+  },
+  {
+   "start": 552.06,
+   "end": 552.98,
+   "text": "Anyway, I gotta go to bed."
+  },
+  {
+   "start": 552.98,
+   "end": 557.54,
+   "text": "It's like, uh, uh, 1107, I guess, to get up at six tomorrow."
+  },
+  {
+   "start": 557.72,
+   "end": 559.42,
+   "text": "We're doing two big old houses tomorrow."
+  },
+  {
+   "start": 559.84,
+   "end": 562.4,
+   "text": "So I don't know if Oden's enough yet."
+  },
+  {
+   "start": 562.64,
+   "end": 564.1,
+   "text": "So, all right."
+  },
+  {
+   "start": 564.24,
+   "end": 564.9,
+   "text": "Peace out."
+  },
+  {
+   "start": 564.96,
+   "end": 565.48,
+   "text": "I'll talk tomorrow."
+  },
+  {
+   "start": 565.54,
+   "end": 566.5,
+   "text": "I'm so excited to be back."
+  },
+  {
+   "start": 566.58,
+   "end": 567.2,
+   "text": "This is so trippy."
+  },
+  {
+   "start": 567.26,
+   "end": 568.0,
+   "text": "This is so cool."
+  },
+  {
+   "start": 568.0,
+   "end": 597.98,
+   "text": "This is so cool."
+  }
+ ]
+}

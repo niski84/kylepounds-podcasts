@@ -1,0 +1,294 @@
+{
+ "youtube_id": "_olaxMRKElw",
+ "title": "Audio Books Page on my Website Tour - Stoned",
+ "url": "https://youtu.be/_olaxMRKElw",
+ "published_at": "2015-09-08",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a tour of the free audio history books section on his website, explaining how he organizes 1,159 books across 15 sections and 9 world regions, with color coding, sorting by length, and metadata like chapter counts, page counts, and listening hours. He highlights the Mahabharata as the longest book at 213+ hours and describes his layout plans.",
+  "speaker": "kyle",
+  "topics": [
+   "website tour",
+   "audio books collection",
+   "organization system",
+   "history books",
+   "UI design"
+  ],
+  "stances": [
+   {
+    "topic": "organizing books by size",
+    "position": "dividing by size is a good way to organize"
+   },
+   {
+    "topic": "vertical vs horizontal layout",
+    "position": "switching to horizontal block sections because seeing the book cover in one glance is better"
+   },
+   {
+    "topic": "the Mahabharata download",
+    "position": "his website is the best and possibly only place to download the computer-voiced version"
+   },
+   {
+    "topic": "pairing audiobooks with rides",
+    "position": "fun to pair long audiobooks with long rides"
+   }
+  ],
+  "entities": [
+   "Mahabharata",
+   "Amazon",
+   "USA",
+   "Italy",
+   "Asia",
+   "Europe",
+   "America"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 8.78,
+   "text": "to explain the free audio history book section to you. These are all of the three,"
+  },
+  {
+   "start": 10.94,
+   "end": 27.94,
+   "text": "audio history books. Sorry, here's USA page with 331 books, 46 books in the religion section,"
+  },
+  {
+   "start": 29.62,
+   "end": 36.66,
+   "text": "and there's different 15 sections, having to do with America, I think I skipped over"
+  },
+  {
+   "start": 36.74,
+   "end": 47.38,
+   "text": "a little introduction here. I think like 78 different sections here, and from the nine different"
+  },
+  {
+   "start": 49.46,
+   "end": 59.47,
+   "text": "parts of the world, so I would have the whole world as one section, and then sometimes countries"
+  },
+  {
+   "start": 59.47,
+   "end": 66.03,
+   "text": "get their own section. America's 331 books, so it gets its own section, and Italy got its own. So"
+  },
+  {
+   "start": 66.03,
+   "end": 72.91,
+   "text": "I built this when I had my um um Windows computer and had kind of memory issues, but"
+  },
+  {
+   "start": 73.87,
+   "end": 81.87,
+   "text": "it's a good way to divide it based on size. So it dividing it based on size is a good way to divide it."
+  },
+  {
+   "start": 83.07,
+   "end": 90.27,
+   "text": "So let's show the different ones. Here's USA. I'm going, I'm in the process of color coding things."
+  },
+  {
+   "start": 90.83,
+   "end": 103.31,
+   "text": "So the way that I organize it is on here there's three different dimensions of organizing it."
+  },
+  {
+   "start": 104.91,
+   "end": 111.63,
+   "text": "There's this one that shows the 15 different sections, and then there's this one that shows"
+  },
+  {
+   "start": 113.63,
+   "end": 118.91,
+   "text": "the titles of the books and all the different sections down here."
+  },
+  {
+   "start": 120.83,
+   "end": 127.71,
+   "text": "This is the title of the books. That should actually have a blue, a clear background, but"
+  },
+  {
+   "start": 128.51,
+   "end": 139.55,
+   "text": "so if you wanted to open it up one more, you would actually go to the section here down below."
+  },
+  {
+   "start": 140.43,
+   "end": 152.7,
+   "text": "And um and this shows the title of the books with the title of all of the chapters inside of all of the books."
+  },
+  {
+   "start": 154.38,
+   "end": 161.18,
+   "text": "And so you can even have the book read the title of the book to the content sort of book."
+  },
+  {
+   "start": 161.18,
+   "end": 170.3,
+   "text": "So I kind of like to call my free audio history books section, the book of books. It's the book."
+  },
+  {
+   "start": 171.26,
+   "end": 184.78,
+   "text": "That tells the story of all of the books. So here is religion novels."
+  },
+  {
+   "start": 186.86,
+   "end": 199.98,
+   "text": "Here's down this far and then it's philosophy which goes down this far. So right now I have books organized"
+  },
+  {
+   "start": 199.98,
+   "end": 207.02,
+   "text": "vertically. I'm going to have them after this horizontal and block sections. I had it vertically."
+  },
+  {
+   "start": 207.02,
+   "end": 212.94,
+   "text": "Because I liked having the titles of all of the books next to each other, but I think being able to look at the book is one"
+  },
+  {
+   "start": 212.94,
+   "end": 220.3,
+   "text": "minute is better. So having that in a block, I'll do that just a little bit. So here's my audio history book section."
+  },
+  {
+   "start": 221.02,
+   "end": 237.74,
+   "text": "Ah, so fun way to explore around. So, um and now we have what was next."
+  },
+  {
+   "start": 239.26,
+   "end": 246.08,
+   "text": "The time while it's been a history time while, you know, that's a time page."
+  },
+  {
+   "start": 248.24,
+   "end": 257.12,
+   "text": "Okay, yeah, that's it. That's the got some things. I'm gonna show you something."
+  },
+  {
+   "start": 261.92,
+   "end": 264.64,
+   "text": "So this means how many books it is? Okay."
+  },
+  {
+   "start": 266.16,
+   "end": 279.73,
+   "text": "This means how many chapters it has and this means how many pages the book has."
+  },
+  {
+   "start": 280.53,
+   "end": 293.09,
+   "text": "And this means how many hours it is to read it? 72 hours 55 minutes. So which is also called"
+  },
+  {
+   "start": 293.97,
+   "end": 310.42,
+   "text": "three days and 55 hours. So you know it's it's fun to pair this with a ride. You know if you want to do a 72 hour"
+  },
+  {
+   "start": 310.5,
+   "end": 317.86,
+   "text": "long ride. And here I'll show you. Look at this all. This is all of the different books"
+  },
+  {
+   "start": 319.78,
+   "end": 328.74,
+   "text": "listed all 1159 books that I have. These ones with the red background are from the green box and"
+  },
+  {
+   "start": 328.74,
+   "end": 335.86,
+   "text": "these ones and the ones with the black background are from Amazon and this is organized from"
+  },
+  {
+   "start": 335.86,
+   "end": 345.3,
+   "text": "a lot of longest biggest book to small with the book. So the Mahabharata is the biggest book"
+  },
+  {
+   "start": 345.3,
+   "end": 352.98,
+   "text": "that you can have it read to you. You can download it off my website actually. I think that's the best place"
+  },
+  {
+   "start": 352.98,
+   "end": 358.02,
+   "text": "to get it. You earn the only place to get it. You can't download it off of the book. It's to be a design."
+  },
+  {
+   "start": 358.34,
+   "end": 363.94,
+   "text": "It's it's the computer voice is reading it to you. One of very good voice, but you know, if you wanted"
+  },
+  {
+   "start": 363.94,
+   "end": 370.34,
+   "text": "to have your computer read it to you, this is the best book. And I guess I'll show that in just a second."
+  },
+  {
+   "start": 371.38,
+   "end": 383.54,
+   "text": "Yeah. So the Mahabharata is 12,829 hours. I mean pages. And it was written kind of compiled in the"
+  },
+  {
+   "start": 383.54,
+   "end": 392.66,
+   "text": "380s just from historical stories from before that. And it's 213 hours 49 minutes. So that's eight days"
+  },
+  {
+   "start": 394.34,
+   "end": 404.1,
+   "text": "to 21 hours. It was more than that of constant. So yeah, and then stored in on fiction collection by various"
+  },
+  {
+   "start": 404.1,
+   "end": 411.3,
+   "text": "things. And this is next world-class, greatest books next is after that. And so you have, so the first 20,"
+  },
+  {
+   "start": 411.3,
+   "end": 419.14,
+   "text": "this is how I organized stuff. The first huge column is 20. So the first 20 books you have over 17"
+  },
+  {
+   "start": 419.14,
+   "end": 426.34,
+   "text": "hundred and thirty pages. And when the first hundred books, well it says up here, you have, um, it doesn't."
+  },
+  {
+   "start": 429.28,
+   "end": 437.6,
+   "text": "You have books that are over, not, you know, 900 pages. So so if you wanted to go for a ride that was 15 hours"
+  },
+  {
+   "start": 438.8,
+   "end": 445.2,
+   "text": "and have all these books, you might want to pair with it. These colors are having to do with what"
+  },
+  {
+   "start": 445.2,
+   "end": 452.0,
+   "text": "part of the world there are. So and I don't have the key organized yet, but this is so an version."
+  },
+  {
+   "start": 452.08,
+   "end": 459.6,
+   "text": "I don't have to speak with it. But this is where all this is in. And the Asia, this is America,"
+  },
+  {
+   "start": 459.6,
+   "end": 473.42,
+   "text": "is color. So it's color color. Europe, all listed up above soon. So, um, that's that. That's my great"
+  },
+  {
+   "start": 473.42,
+   "end": 483.18,
+   "text": "idea of history books."
+  }
+ ]
+}

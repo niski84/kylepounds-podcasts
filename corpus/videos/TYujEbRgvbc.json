@@ -1,0 +1,274 @@
+{
+ "youtube_id": "TYujEbRgvbc",
+ "title": "Living in Boulder Vlog 3-12-2016",
+ "url": "https://youtu.be/TYujEbRgvbc",
+ "published_at": "2016-03-15",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs about his day in Boulder, describing how he solved two tech problems: freeing up storage on his recording device by deleting a folder, and devising a workaround to convert Kindle audiobooks to MP3 by having speakers play them aloud while his computer records and converts them, bypassing Amazon's DRM restrictions. He also mentions organizing his phone's file storage and working on his audiobook website.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "tech workarounds",
+   "Kindle DRM circumvention",
+   "audiobook collection",
+   "file management",
+   "Amazon criticism"
+  ],
+  "stances": [
+   {
+    "topic": "Amazon/Kindle DRM",
+    "position": "Greedy and anti-consumer; circumventing it is justified"
+   },
+   {
+    "topic": "Jeff Bezos",
+    "position": "Calls him a 'greedy rich belly man' with contempt"
+   },
+   {
+    "topic": "Combining text and audio books",
+    "position": "Best of both worlds — word search plus audio is the ideal setup"
+   }
+  ],
+  "entities": [
+   "Jeff Bezos",
+   "Amazon",
+   "Kindle",
+   "Librivox",
+   "Boulder"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.37,
+   "end": 8.07,
+   "text": "I wasn't able to record a video before because the thing was full, but then I deleted a big ol' folder, so we'll see what we got."
+  },
+  {
+   "start": 8.35,
+   "end": 9.81,
+   "text": "We'll see if this thing can record."
+  },
+  {
+   "start": 11.07,
+   "end": 14.01,
+   "text": "Oop, because I filled up a bunch of stuff on my thing today."
+  },
+  {
+   "start": 14.13,
+   "end": 15.39,
+   "text": "So, yeah, so what did I do today?"
+  },
+  {
+   "start": 15.49,
+   "end": 19.25,
+   "text": "I got up, um, I got up at like 11 or whatever because I was up really late last night."
+  },
+  {
+   "start": 20.01,
+   "end": 22.89,
+   "text": "And then I worked all day, and then I got, like, worked until like 2.30."
+  },
+  {
+   "start": 22.97,
+   "end": 24.31,
+   "text": "I kind of took work a long time."
+  },
+  {
+   "start": 24.31,
+   "end": 37.85,
+   "text": "So, I did, I, you know, I did the tech support, and I figured out about how to get the, um, my phone working with all the gigabytes."
+  },
+  {
+   "start": 38.71,
+   "end": 43.65,
+   "text": "I have to get a, um, a program called File something."
+  },
+  {
+   "start": 43.87,
+   "end": 44.85,
+   "text": "I'll put it down below."
+  },
+  {
+   "start": 45.01,
+   "end": 46.17,
+   "text": "It's the right program."
+  },
+  {
+   "start": 46.87,
+   "end": 47.99,
+   "text": "You need this program."
+  },
+  {
+   "start": 48.11,
+   "end": 48.85,
+   "text": "It's the best program."
+  },
+  {
+   "start": 48.97,
+   "end": 51.03,
+   "text": "It's like just file within, folder within folder."
+  },
+  {
+   "start": 51.87,
+   "end": 52.55,
+   "text": "It's awesome."
+  },
+  {
+   "start": 52.77,
+   "end": 54.07,
+   "text": "So, yeah, and then it worked."
+  },
+  {
+   "start": 54.07,
+   "end": 65.69,
+   "text": "So, I got, I got my entire collection, and then I came up with the idea to, um, uh, circumvent the, uh, Kendall problem."
+  },
+  {
+   "start": 65.99,
+   "end": 68.61,
+   "text": "I don't think I have it actually described on my website."
+  },
+  {
+   "start": 68.75,
+   "end": 69.55,
+   "text": "I need to do that soon."
+  },
+  {
+   "start": 69.75,
+   "end": 70.55,
+   "text": "I'll do that pretty soon."
+  },
+  {
+   "start": 71.39,
+   "end": 79.13,
+   "text": "Uh, on my website, on my audiobook page, you know, the red ones, hmm, from Bliverbox, and the black ones are from Kendall."
+  },
+  {
+   "start": 79.13,
+   "end": 87.11,
+   "text": "So, so you can't put the Kendall ones as MP3, because they have it, they have it set up that way, because they're greedy."
+  },
+  {
+   "start": 87.69,
+   "end": 89.43,
+   "text": "But I figured out a way to circumvent."
+  },
+  {
+   "start": 89.65,
+   "end": 93.19,
+   "text": "I just bought some, uh, had my mom buy me some speakers today."
+  },
+  {
+   "start": 93.19,
+   "end": 100.61,
+   "text": "So, I can have my Kindle read to my computer, and have my computer record it, and convert it into the MP3 that way, haha."
+  },
+  {
+   "start": 101.59,
+   "end": 103.15,
+   "text": "Fuck you, Jeff Bezos."
+  },
+  {
+   "start": 103.75,
+   "end": 104.45,
+   "text": "Suck it."
+  },
+  {
+   "start": 105.01,
+   "end": 106.81,
+   "text": "You greedy rich billionaire, motherfucker."
+  },
+  {
+   "start": 106.81,
+   "end": 111.71,
+   "text": "And then, I can upload it to LibriVox.com."
+  },
+  {
+   "start": 112.39,
+   "end": 112.89,
+   "text": "Heh heh."
+  },
+  {
+   "start": 114.11,
+   "end": 115.97,
+   "text": "Fucking Amazon, motherfuckers."
+  },
+  {
+   "start": 116.45,
+   "end": 120.05,
+   "text": "And then, I can put, I can put that whole thing on my phone."
+  },
+  {
+   "start": 120.79,
+   "end": 124.55,
+   "text": "I can put the whole collection I have on my website, audiobook website, on my phone."
+  },
+  {
+   "start": 125.69,
+   "end": 130.75,
+   "text": "You know, so, to make the conversions, I can, um, it has to be totally quiet."
+  },
+  {
+   "start": 130.99,
+   "end": 131.93,
+   "text": "I have to be totally quiet."
+  },
+  {
+   "start": 132.05,
+   "end": 133.75,
+   "text": "So, I'm going to do it tomorrow during the day, you know."
+  },
+  {
+   "start": 133.75,
+   "end": 148.75,
+   "text": "And then, whenever I have quiet time, I guess, you just record it, and you slowly but surely collect your books, circumventing the evil, the evil designs of, of, uh, Amazon."
+  },
+  {
+   "start": 150.03,
+   "end": 162.86,
+   "text": "Um, and, um, it's too bad you can't combine the both of them, because if you can, you know, use the best of both worlds, like, be able to do the word searches with the text as well, then, wow."
+  },
+  {
+   "start": 162.86,
+   "end": 166.52,
+   "text": "You know, then you can really pinpoint stuff."
+  },
+  {
+   "start": 167.08,
+   "end": 171.24,
+   "text": "That's how I have it set up on my website with a bunch of those audiobooks, the important ones."
+  },
+  {
+   "start": 172.3,
+   "end": 174.64,
+   "text": "Um, so, yeah."
+  },
+  {
+   "start": 175.12,
+   "end": 179.76,
+   "text": "So, I was dragging and dropping stuff and figuring that out today."
+  },
+  {
+   "start": 180.44,
+   "end": 181.82,
+   "text": "And then, working on the website."
+  },
+  {
+   "start": 182.56,
+   "end": 186.07,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 186.07,
+   "end": 187.75,
+   "text": "So, I guess that's all I remember doing."
+  },
+  {
+   "start": 188.47,
+   "end": 189.45,
+   "text": "And I was listening to..."
+  }
+ ]
+}

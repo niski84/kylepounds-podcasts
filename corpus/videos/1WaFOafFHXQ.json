@@ -1,0 +1,502 @@
+{
+ "youtube_id": "1WaFOafFHXQ",
+ "title": "Living in Boulder Vlog 1 - 1 - 2017",
+ "url": "https://youtu.be/1WaFOafFHXQ",
+ "published_at": "2017-01-01",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle records a New Year's Day 2017 vlog from Boulder, explaining that he spent the night fixing conversion errors in his website project caused by being high ('Stoney Logic'). He discusses the time-consuming nature of building his large website, plans to print Google Earth cycling imagery to cover his walls, and estimates the project will take one to two more years to complete.",
+  "speaker": "kyle",
+  "topics": [
+   "website project progress",
+   "printing/decorating room",
+   "time management",
+   "cannabis use",
+   "Boulder living",
+   "cycling/bike racing",
+   "sleep schedule"
+  ],
+  "stances": [
+   {
+    "topic": "website complexity",
+    "position": "Building a big website takes far longer than people realize and requires constant revision"
+   },
+   {
+    "topic": "productivity timeline",
+    "position": "Reduced capacity means the project will likely take two more years instead of one"
+   },
+   {
+    "topic": "cannabis",
+    "position": "Mentions 'Stoney Logic' as the cause of his errors but also expresses gratitude for it at the end"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Kyle's mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 10.66,
+   "text": "I'm living in Boulder V-Log, but this is the V-Log that's going to be called the first December, I mean January 1st of 2017, because that's what day it is."
+  },
+  {
+   "start": 11.38,
+   "end": 13.88,
+   "text": "I don't know what the hell I was thinking doing it the other day."
+  },
+  {
+   "start": 14.36,
+   "end": 15.64,
+   "text": "It's called Stoney Logic."
+  },
+  {
+   "start": 19.22,
+   "end": 22.02,
+   "text": "Yeah, so I'm kind of, I got myself in trouble, dude."
+  },
+  {
+   "start": 22.02,
+   "end": 37.48,
+   "text": "What happened was, like, yesterday I helped my mom, and then I came over here, and I wanted to print stuff up on my walls, and I wanted to print up bike racer level Google Earth stuff, just for the 20-kilometer time trial."
+  },
+  {
+   "start": 40.66,
+   "end": 45.26,
+   "text": "But I realized it was all fucked up, because I was using Stoney Logic."
+  },
+  {
+   "start": 46.2,
+   "end": 49.68,
+   "text": "I was trying to convert all these fancy conversions I don't even want to talk about."
+  },
+  {
+   "start": 49.68,
+   "end": 53.24,
+   "text": "And it was so high, it took me a while to even realize what the hell I did before."
+  },
+  {
+   "start": 54.56,
+   "end": 56.5,
+   "text": "So I had to convert it, and I have to fix it."
+  },
+  {
+   "start": 56.94,
+   "end": 59.78,
+   "text": "I, I, did I talk about this yesterday?"
+  },
+  {
+   "start": 61.08,
+   "end": 65.32,
+   "text": "I wanted to make milestones, signifying the different levels."
+  },
+  {
+   "start": 66.34,
+   "end": 75.54,
+   "text": "The ones, every mile, it's the same milestone, pretty much, as the ancient Indians, because they had 9.1 meters, and I want to make ones that are 10 meters tall."
+  },
+  {
+   "start": 75.54,
+   "end": 82.86,
+   "text": "And then the Romans one, I guess, is like 2 meters tall, so, you know, so 3x10s, and then 1x2s."
+  },
+  {
+   "start": 83.06,
+   "end": 96.75,
+   "text": "But, um, yeah, so that's, like, super time-consuming, and that's the last motherfucking thing that I wanted to do, is work to get myself involved at another computer project that's very time-consuming."
+  },
+  {
+   "start": 96.75,
+   "end": 101.01,
+   "text": "I had to, and that's not the only thing I had to convert, I had to convert all kinds of stuff."
+  },
+  {
+   "start": 101.65,
+   "end": 108.69,
+   "text": "Like, I did, I had to go and do every single 500 person, because the, uh, outlines were the wrong color."
+  },
+  {
+   "start": 109.25,
+   "end": 114.15,
+   "text": "Because you, because, because you couldn't see how I wanted it from the distance."
+  },
+  {
+   "start": 114.25,
+   "end": 119.23,
+   "text": "So anyway, um, yeah, man, so, everything has to be perfect, dude."
+  },
+  {
+   "start": 119.23,
+   "end": 124.53,
+   "text": "Like, people, sometimes, I don't know if they realize how fucking time-consuming it is to make a really big website like mine, you know?"
+  },
+  {
+   "start": 124.61,
+   "end": 127.35,
+   "text": "Like, people, like, be like, oh, you're not done with anything!"
+  },
+  {
+   "start": 127.53,
+   "end": 131.51,
+   "text": "It's like, shit's time-consuming, I mean."
+  },
+  {
+   "start": 133.29,
+   "end": 134.89,
+   "text": "Because, because you don't get it right the first time."
+  },
+  {
+   "start": 134.91,
+   "end": 135.69,
+   "text": "It's kind of like a song."
+  },
+  {
+   "start": 135.81,
+   "end": 137.41,
+   "text": "You write a song, you sing a song, you know?"
+  },
+  {
+   "start": 137.51,
+   "end": 139.43,
+   "text": "You have to fix it, and fix it, and fix it, and so."
+  },
+  {
+   "start": 139.91,
+   "end": 144.15,
+   "text": "And you have to, and for me, since I has this big list, I have to fix it, all the whole thing, over it."
+  },
+  {
+   "start": 145.09,
+   "end": 146.33,
+   "text": "So that ain't no joke, man."
+  },
+  {
+   "start": 146.33,
+   "end": 148.37,
+   "text": "Making a big website like mine ain't no joke."
+  },
+  {
+   "start": 148.37,
+   "end": 149.49,
+   "text": "But I'll be done."
+  },
+  {
+   "start": 149.69,
+   "end": 150.85,
+   "text": "I'll be done in like a year."
+  },
+  {
+   "start": 153.6,
+   "end": 157.74,
+   "text": "Uh, well, I was thinking I'd be done in a year if I was working all the time, but I can't do that anymore."
+  },
+  {
+   "start": 159.12,
+   "end": 161.8,
+   "text": "Uh, physically, I can't do that anymore."
+  },
+  {
+   "start": 162.16,
+   "end": 163.38,
+   "text": "And probably mentally, too."
+  },
+  {
+   "start": 166.29,
+   "end": 175.57,
+   "text": "So I'm going to do it on my bike there, on the rollers, but, uh, that's going to reduce my output productivity."
+  },
+  {
+   "start": 175.57,
+   "end": 184.01,
+   "text": "I predict, or estimate, 25%, so, or maybe up to 50%."
+  },
+  {
+   "start": 184.01,
+   "end": 186.39,
+   "text": "So if it's 50%, instead of one more year, it's two more years."
+  },
+  {
+   "start": 187.39,
+   "end": 191.41,
+   "text": "So, um, yeah, probably 50%, which would mean two more years."
+  },
+  {
+   "start": 191.41,
+   "end": 195.43,
+   "text": "So, uh, that's fine."
+  },
+  {
+   "start": 195.69,
+   "end": 197.41,
+   "text": "Two years goes by pretty quick."
+  },
+  {
+   "start": 198.85,
+   "end": 205.85,
+   "text": "As long as I'm done with it, by a while, my mom is still of mental faculties, and I think she'll be of mental faculties in two years."
+  },
+  {
+   "start": 206.57,
+   "end": 207.09,
+   "text": "Two years."
+  },
+  {
+   "start": 207.09,
+   "end": 211.19,
+   "text": "So, oh my god, yeah."
+  },
+  {
+   "start": 213.53,
+   "end": 217.11,
+   "text": "I was, yeah, so I, I was up all night fucking around with that."
+  },
+  {
+   "start": 218.21,
+   "end": 223.61,
+   "text": "And then I went to sleep, or went to bed, because I was trying to reverse my sleeping at like 3, but I didn't sleep."
+  },
+  {
+   "start": 224.01,
+   "end": 225.47,
+   "text": "So then I got up at like 7."
+  },
+  {
+   "start": 226.77,
+   "end": 228.33,
+   "text": "And, uh, I've been working on this."
+  },
+  {
+   "start": 228.37,
+   "end": 229.39,
+   "text": "Now it's 9.23."
+  },
+  {
+   "start": 230.55,
+   "end": 233.85,
+   "text": "Um, the store opens at 11 to buy more cartridges."
+  },
+  {
+   "start": 234.07,
+   "end": 235.23,
+   "text": "I want to buy even more cartridges."
+  },
+  {
+   "start": 235.23,
+   "end": 240.89,
+   "text": "I'm in a, like, price-no-objects spending frenzy right now, fixing up my room."
+  },
+  {
+   "start": 242.11,
+   "end": 244.55,
+   "text": "Yesterday I got a light to put in the corner, but I think I said it already."
+  },
+  {
+   "start": 244.83,
+   "end": 250.47,
+   "text": "Uh, yeah, so more cartridges, because I'm going to cover my entire motherfucking walls."
+  },
+  {
+   "start": 252.59,
+   "end": 258.99,
+   "text": "Um, but the first thing that I want to print out next are the, like, Google Earth bike racer level stuff, so."
+  },
+  {
+   "start": 261.26,
+   "end": 265.7,
+   "text": "Uh, anyway, yeah."
+  },
+  {
+   "start": 265.7,
+   "end": 270.26,
+   "text": "Uh, fucking time-consuming."
+  },
+  {
+   "start": 271.02,
+   "end": 274.28,
+   "text": "And then I have to go out into my roommate room and do that."
+  },
+  {
+   "start": 275.46,
+   "end": 277.76,
+   "text": "Um, but thank God for Reefer, huh?"
+  },
+  {
+   "start": 278.84,
+   "end": 279.5,
+   "text": "Ooh, boy."
+  },
+  {
+   "start": 280.0,
+   "end": 281.7,
+   "text": "Um, hey, have I talked?"
+  },
+  {
+   "start": 282.28,
+   "end": 284.66,
+   "text": "I like to keep my videos to like 3 minutes."
+  },
+  {
+   "start": 285.02,
+   "end": 286.78,
+   "text": "Oh, shit, almost 5 minutes."
+  },
+  {
+   "start": 287.46,
+   "end": 288.22,
+   "text": "I should go."
+  },
+  {
+   "start": 288.56,
+   "end": 289.28,
+   "text": "Peace out."
+  },
+  {
+   "start": 292.71,
+   "end": 293.17,
+   "text": "Oh, shit."
+  },
+  {
+   "start": 293.55,
+   "end": 294.29,
+   "text": "I did that wrong."
+  },
+  {
+   "start": 294.37,
+   "end": 295.33,
+   "text": "I have to hit stop first."
+  },
+  {
+   "start": 295.33,
+   "end": 296.17,
+   "text": "We should go ahead."
+  },
+  {
+   "start": 296.17,
+   "end": 296.79,
+   "text": "Peace out."
+  },
+  {
+   "start": 296.79,
+   "end": 296.95,
+   "text": "We should knock out, we're?"
+  },
+  {
+   "start": 297.07,
+   "end": 297.35,
+   "text": "We should go."
+  },
+  {
+   "start": 297.59,
+   "end": 298.29,
+   "text": "I should go, literally."
+  },
+  {
+   "start": 298.71,
+   "end": 299.13,
+   "text": "Bye."
+  },
+  {
+   "start": 299.13,
+   "end": 299.51,
+   "text": "Bye."
+  },
+  {
+   "start": 300.09,
+   "end": 300.29,
+   "text": "Bye."
+  },
+  {
+   "start": 300.29,
+   "end": 300.89,
+   "text": "Bye."
+  },
+  {
+   "start": 301.03,
+   "end": 301.37,
+   "text": "Bye."
+  },
+  {
+   "start": 301.47,
+   "end": 302.37,
+   "text": "See you."
+  },
+  {
+   "start": 302.71,
+   "end": 303.07,
+   "text": "Bye."
+  },
+  {
+   "start": 303.21,
+   "end": 305.21,
+   "text": "Bye."
+  },
+  {
+   "start": 305.39,
+   "end": 305.45,
+   "text": "Bye."
+  },
+  {
+   "start": 305.45,
+   "end": 305.71,
+   "text": "Bye."
+  },
+  {
+   "start": 305.95,
+   "end": 306.19,
+   "text": "Bye."
+  },
+  {
+   "start": 310.95,
+   "end": 311.01,
+   "text": "Bye."
+  },
+  {
+   "start": 317.55,
+   "end": 317.73,
+   "text": "Bye."
+  },
+  {
+   "start": 318.43,
+   "end": 318.79,
+   "text": "Bye."
+  },
+  {
+   "start": 319.25,
+   "end": 319.39,
+   "text": "Bye."
+  },
+  {
+   "start": 319.47,
+   "end": 320.61,
+   "text": "Bye."
+  },
+  {
+   "start": 320.89,
+   "end": 321.55,
+   "text": "Bye."
+  },
+  {
+   "start": 321.55,
+   "end": 322.99,
+   "text": "Bye."
+  },
+  {
+   "start": 323.07,
+   "end": 323.33,
+   "text": "Bye."
+  },
+  {
+   "start": 323.47,
+   "end": 324.09,
+   "text": "Bye."
+  },
+  {
+   "start": 324.09,
+   "end": 324.59,
+   "text": "Bye."
+  }
+ ]
+}

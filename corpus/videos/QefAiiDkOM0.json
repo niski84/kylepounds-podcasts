@@ -1,0 +1,234 @@
+{
+ "youtube_id": "QefAiiDkOM0",
+ "title": "Living in Boulder Vlog 3-5-2016",
+ "url": "https://youtu.be/QefAiiDkOM0",
+ "published_at": "2016-03-07",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder about his day: dropping off a broken laptop at the store, buying a replacement USB keyboard, visiting his mom for veggie soup and watching the TV show Outlander, working on his website, and listening to Donald Trump videos while expressing support for Bernie Sanders.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "tech troubles",
+   "visiting family",
+   "TV show",
+   "politics",
+   "cannabis"
+  ],
+  "stances": [
+   {
+    "topic": "Bernie Sanders",
+    "position": "Bernie is a genuinely good politician and the right choice"
+   },
+   {
+    "topic": "Donald Trump",
+    "position": "Listening to him is depressing and drags you down"
+   },
+   {
+    "topic": "politicians generally",
+    "position": "Pushes back on the idea that there are no good politicians, citing Bernie as evidence"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Outlander",
+   "Bernie Sanders",
+   "Donald Trump",
+   "Mac (Apple laptop)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 10.58,
+   "text": "Up living in boulder vlog I think for the fifth pretty sure um what did I do today today I got"
+  },
+  {
+   "start": 10.58,
+   "end": 20.62,
+   "text": "Up at about 10 or 11 um right now it's like 1 30 or something it's time to get to sleep"
+  },
+  {
+   "start": 20.62,
+   "end": 29.98,
+   "text": "Um today I'm turning in because of my brain kind of got tired usually it's because my"
+  },
+  {
+   "start": 29.98,
+   "end": 38.18,
+   "text": "Um my uh my body gets tired but I kind of got to a stopping point on my website I think I'm gonna"
+  },
+  {
+   "start": 38.18,
+   "end": 43.54,
+   "text": "Fix links tomorrow that's gonna be fun I always like it when I go to fix links that's exciting"
+  },
+  {
+   "start": 43.54,
+   "end": 50.94,
+   "text": "And then I'll just do that until I get my macintosh back I got up today and um I think the first thing"
+  },
+  {
+   "start": 50.94,
+   "end": 60.54,
+   "text": "That I did was I brought my macintosh into the store because uh um well yeah the first thing is I did"
+  },
+  {
+   "start": 60.54,
+   "end": 64.34,
+   "text": "Tech support and all I did was turn on then I couldn't do anything and I was like yeah just"
+  },
+  {
+   "start": 64.34,
+   "end": 70.72,
+   "text": "Take it in the store so I took it in the store and I guess when they put it together the dude told me"
+  },
+  {
+   "start": 70.72,
+   "end": 76.76,
+   "text": "That they didn't put it together right he couldn't even put the cable in diagnostic cable but uh they're"
+  },
+  {
+   "start": 76.76,
+   "end": 82.08,
+   "text": "Going to take it in anyway and get it fixed for me but when I took it in and turned it on it worked"
+  },
+  {
+   "start": 82.08,
+   "end": 88.38,
+   "text": "It turned on just fine I turned it on three or four times and every time it's just this canvas that you"
+  },
+  {
+   "start": 88.38,
+   "end": 93.52,
+   "text": "Can't do anything with you just all you can do is move the mouse around and then I go there and I"
+  },
+  {
+   "start": 93.52,
+   "end": 99.24,
+   "text": "Turn it on and all of a sudden it's like what I'm fine but yeah but then that computer's done that"
+  },
+  {
+   "start": 99.24,
+   "end": 106.96,
+   "text": "Before but uh just like that but um yeah they took it in they said they'd try to get me back"
+  },
+  {
+   "start": 106.96,
+   "end": 113.14,
+   "text": "Maybe even by the end of the week so but that's fine because I'm working on my computer oh and I also"
+  },
+  {
+   "start": 113.14,
+   "end": 120.56,
+   "text": "Had to buy a thirty dollar freaking external keyboard because the um little usb chip disappeared"
+  },
+  {
+   "start": 120.56,
+   "end": 126.0,
+   "text": "That's the weirdest thing I went to go grab it out of my mac turn around and take three paces and put"
+  },
+  {
+   "start": 126.0,
+   "end": 130.48,
+   "text": "It in the other computer and then it like it was like wait where where is it and it was gone"
+  },
+  {
+   "start": 130.48,
+   "end": 136.0,
+   "text": "Forever I don't think I'll ever see it again um that's happened a few times to me"
+  },
+  {
+   "start": 136.0,
+   "end": 145.8,
+   "text": "So um it happens when you're smoking lots of weed I've got full on pluralysis here because I've been"
+  },
+  {
+   "start": 145.8,
+   "end": 153.66,
+   "text": "Having a band-aid on too long that's stupid um I should put some kind of cream on um oh and I should"
+  },
+  {
+   "start": 153.66,
+   "end": 165.7,
+   "text": "Put um you know what um um um hemp oil what about hemp oil put on there um uh it's cool this thing"
+  },
+  {
+   "start": 165.7,
+   "end": 174.04,
+   "text": "Says like how long your video is uh recording with my cell phone so then I came back and I was working"
+  },
+  {
+   "start": 174.04,
+   "end": 183.88,
+   "text": "Um and then I'm gonna yeah work fix the links tomorrow oh my mom invited me over to her house today"
+  },
+  {
+   "start": 183.88,
+   "end": 191.56,
+   "text": "Um to have some like noodles and veggies and noodles and some kind of veggie soup and we watched"
+  },
+  {
+   "start": 191.56,
+   "end": 198.26,
+   "text": "The show that I even know exists called the outlander um about some lady who travels back"
+  },
+  {
+   "start": 198.26,
+   "end": 205.22,
+   "text": "In time to 1642 right before the english revolution and from like 1943 because she touches an old rock"
+  },
+  {
+   "start": 205.22,
+   "end": 209.2,
+   "text": "So that was pretty interesting but we only got halfway through of the video of the movie and then I was"
+  },
+  {
+   "start": 209.2,
+   "end": 214.7,
+   "text": "I got bored bored and came home but I think I want to go back and bring my computer and watch the rest"
+  },
+  {
+   "start": 214.7,
+   "end": 227.56,
+   "text": "Of it um so then I came back and I worked some on my website but um I got kind of I was having a"
+  },
+  {
+   "start": 227.56,
+   "end": 234.14,
+   "text": "Little bit of trouble paying attention towards the end though and that's why I turned in because"
+  },
+  {
+   "start": 234.14,
+   "end": 241.32,
+   "text": "I was trying to work and watch listen to uh I was listening to some donald trump videos today of him"
+  },
+  {
+   "start": 241.32,
+   "end": 248.7,
+   "text": "Actually talking and all the insults guy's biggest asshole and it drags you down guy's got it's so weird"
+  },
+  {
+   "start": 248.7,
+   "end": 259.88,
+   "text": "How people can't see that bernie sanders is the guy for us you know they're like no good politicians"
+  },
+  {
+   "start": 259.88,
+   "end": 273.23,
+   "text": "Yeah we do we got a good politician way better than that guy so anyway um I'm pretty high right now"
+  },
+  {
+   "start": 273.23,
+   "end": 283.65,
+   "text": "Um so yeah I'm gonna get to sleep and uh I go tomorrow like fixing links fixing links fixing links"
+  },
+  {
+   "start": 283.65,
+   "end": 292.34,
+   "text": "And stuff uh that'll be fun maybe even adding words who knows okay peace out"
+  }
+ ]
+}

@@ -1,0 +1,231 @@
+{
+ "youtube_id": "vrp9S4Navy0",
+ "title": "Living in Boulder blog 8 - 28 - 2017: Strava Segment Regording. ? Miles on Rollers.",
+ "url": "https://youtu.be/vrp9S4Navy0",
+ "published_at": "2017-08-29",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle gives a casual Tuesday morning life update from Boulder, covering why he skipped the previous night's log (working late), his car making a buzzing noise he needs the dealership to fix, and his day plan to ride his bike. He shares his habit of reading audiobooks synced with text on a big TV while riding rollers, and his excitement about adding Wikipedia photos to his digital books to make them easier to follow.",
+  "speaker": "kyle",
+  "topics": [
+   "daily vlog",
+   "car trouble",
+   "indoor cycling/rollers",
+   "reading while riding",
+   "audiobooks",
+   "digital book annotation with photos",
+   "sobriety"
+  ],
+  "stances": [
+   {
+    "topic": "reading while riding",
+    "position": "loves syncing audiobook playback with scrolling text on a big screen — keeps him focused and prevents mind-wandering"
+   },
+   {
+    "topic": "adding photos to digital books",
+    "position": "strongly prefers books with images; excited about inserting Wikipedia photos into his ebooks to aid memory and navigation"
+   },
+   {
+    "topic": "video making vs. book annotation",
+    "position": "almost prefers annotating books over making and converting videos despite the extra effort"
+   }
+  ],
+  "entities": [
+   "Boulder",
+   "Strava",
+   "Google Earth",
+   "Wikipedia",
+   "Flickr",
+   "mom"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.53,
+   "end": 2.53,
+   "text": "Hello living in Bolvenbila."
+  },
+  {
+   "start": 5.45,
+   "end": 7.45,
+   "text": "It's Tuesday at 11.30."
+  },
+  {
+   "start": 10.49,
+   "end": 13.49,
+   "text": "I didn't do it the log last night because"
+  },
+  {
+   "start": 15.01,
+   "end": 24.3,
+   "text": "I was working too late. I was writing until like two or something and then I was doing something in my computer"
+  },
+  {
+   "start": 24.3,
+   "end": 27.42,
+   "text": "and I can't remember what it was, but I just got too tired."
+  },
+  {
+   "start": 27.42,
+   "end": 33.42,
+   "text": "Because I wanted to get up today and you need to take my car to the shop to have me gather look at it."
+  },
+  {
+   "start": 35.78,
+   "end": 41.62,
+   "text": "Let's get this buzz going on all the time and it's really annoying. I might wait on the how to stop it."
+  },
+  {
+   "start": 42.42,
+   "end": 47.42,
+   "text": "He told me to grow the wire, but it didn't know anything, so he's gonna look at it."
+  },
+  {
+   "start": 49.42,
+   "end": 55.98,
+   "text": "Well, I'll collect some mechanic used to work at the factory so I think I'll be able to figure it out."
+  },
+  {
+   "start": 55.98,
+   "end": 59.98,
+   "text": "Or the dealership anyway."
+  },
+  {
+   "start": 63.62,
+   "end": 76.43,
+   "text": "So, um, you have today, I got all day to ride. So it's nice. It's just came back from my mom's house."
+  },
+  {
+   "start": 77.43,
+   "end": 84.43,
+   "text": "I was cleaning her house and she wanted me to have my car parked at it."
+  },
+  {
+   "start": 84.43,
+   "end": 95.9,
+   "text": "So yeah, I'm just gonna ride yesterday. I was doing the videos of mountain biking."
+  },
+  {
+   "start": 96.9,
+   "end": 102.9,
+   "text": "And yeah, I think I'm just on Google Earth and I think I'm gonna continue with that."
+  },
+  {
+   "start": 106.34,
+   "end": 119.69,
+   "text": "And, uh, lessons to play to, I went all the way through and I went through all the way through a book yesterday."
+  },
+  {
+   "start": 119.69,
+   "end": 127.69,
+   "text": "And I was reading it along while I ride the bike. I'm looking at my big TV on the wall. I'll do it and demo later."
+  },
+  {
+   "start": 128.69,
+   "end": 138.69,
+   "text": "But, uh, you read this reads to you and you just read along with it on the fast speed gets sort of a page of 50 seconds for a page."
+  },
+  {
+   "start": 138.69,
+   "end": 148.69,
+   "text": "And then I just scroll down at the table right in front of me and sign just scroll. It's pretty cool. It really helps."
+  },
+  {
+   "start": 149.69,
+   "end": 154.69,
+   "text": "I'm following along without wasting out and thinking about something else."
+  },
+  {
+   "start": 155.69,
+   "end": 161.69,
+   "text": "But it would be a lot better if it had pictures. Oh, that's what I was doing. I just remember that."
+  },
+  {
+   "start": 161.69,
+   "end": 174.59,
+   "text": "I'm running my bike. I'm running my bike. I stopped running my bike. I don't like to."
+  },
+  {
+   "start": 175.59,
+   "end": 180.59,
+   "text": "I stopped running my bike. Not because I had to get up early in this day or because I was tired."
+  },
+  {
+   "start": 181.59,
+   "end": 190.59,
+   "text": "But because I went to put photos on my old books. I've always photos on Google that I got from Wikipedia on my flicker."
+  },
+  {
+   "start": 190.59,
+   "end": 201.59,
+   "text": "And I want to attach them because when I was reading the books, I kept thinking to myself, this would be so much easier to remember. Especially if you're not."
+  },
+  {
+   "start": 202.59,
+   "end": 213.59,
+   "text": "If you're just scrolling down and I'm not looking for stuff. It's so much easier to mark where you are in the book along with the scroll and the right."
+  },
+  {
+   "start": 213.59,
+   "end": 220.59,
+   "text": "If you had pictures on either side, having to do a full-greeting and I had the space there."
+  },
+  {
+   "start": 221.59,
+   "end": 225.59,
+   "text": "And yeah, they'd probably look really cool on a big screen anyway."
+  },
+  {
+   "start": 226.59,
+   "end": 232.59,
+   "text": "So I wanted to do that, but I couldn't do it while the converter was gone. It was converting."
+  },
+  {
+   "start": 233.59,
+   "end": 237.59,
+   "text": "But when it stopped converting, that's when I got off the bike."
+  },
+  {
+   "start": 238.59,
+   "end": 243.02,
+   "text": "Yeah, I was making a thought."
+  },
+  {
+   "start": 244.02,
+   "end": 254.04,
+   "text": "It was the thing I was doing last night. Oh yeah, the photos. So yeah, I can zoom those photos in really fast."
+  },
+  {
+   "start": 255.04,
+   "end": 258.04,
+   "text": "I mean, put those photos in on the pages really fast."
+  },
+  {
+   "start": 259.04,
+   "end": 261.04,
+   "text": "I was experimenting with that because we're really exciting."
+  },
+  {
+   "start": 262.04,
+   "end": 267.04,
+   "text": "So I almost feel like I would prefer to do that."
+  },
+  {
+   "start": 267.04,
+   "end": 272.04,
+   "text": "And then making videos and converting them even though it's harder."
+  },
+  {
+   "start": 273.04,
+   "end": 286.71,
+   "text": "But because, yeah, so anyway, I just remember that. So I guess I'll do that and I'll come back now, right my bike."
+  },
+  {
+   "start": 287.71,
+   "end": 295.71,
+   "text": "So anyway, it's unbelievable. I'm going to sober up pretty soon. I only have a few days before we'd more left and then I'll only lots of speaking videos."
+  }
+ ]
+}

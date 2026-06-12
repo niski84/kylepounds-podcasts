@@ -1,0 +1,449 @@
+{
+ "youtube_id": "vjiK3zC_rT4",
+ "title": "Living in Boulder vlog 3 -  23 -  2017: Google Earthing Swimmers in Boulder Reservoir",
+ "url": "https://youtu.be/vjiK3zC_rT4",
+ "published_at": "2018-03-23",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "Kyle vlogs from Boulder Reservoir, where he discovered an open water swimming course and is researching it for his triathlon-related website. He shares his multi-year plan to polish his website before starting to exercise around 2020, describes his current progress adding swimmers to a course visualization, and closes with a historical aside about a 1928 dam collapse near Los Angeles that killed 600 people.",
+  "speaker": "kyle",
+  "topics": [
+   "open water swimming",
+   "Boulder Reservoir",
+   "website development",
+   "triathlon visualization",
+   "Race Across America",
+   "future exercise plans",
+   "1928 dam disaster history"
+  ],
+  "stances": [
+   {
+    "topic": "website timeline",
+    "position": "2019 is the polishing year; he won't finish this year and won't start exercising until 2020"
+   },
+   {
+    "topic": "Boulder Reservoir swimming",
+    "position": "finds the course impressive and wants to start doing it around 2020"
+   },
+   {
+    "topic": "website progress",
+    "position": "feels genuine joy watching it come together, though he's only had glimpses of that feeling so far"
+   },
+   {
+    "topic": "current work priority",
+    "position": "finishing swimming section first, then running, then back to the Race Across America listing"
+   }
+  ],
+  "entities": [
+   "Boulder Reservoir",
+   "Race Across America",
+   "Los Angeles",
+   "Mexico",
+   "St. Francis Dam (implied, unnamed)"
+  ],
+  "date": "",
+  "model": "sonnet"
+ },
+ "transcript": [
+  {
+   "start": 0.43,
+   "end": 5.43,
+   "text": "Hello looking in Boulder, Vila. It's March 23rd"
+  },
+  {
+   "start": 7.43,
+   "end": 9.43,
+   "text": "2018"
+  },
+  {
+   "start": 12.43,
+   "end": 18.84,
+   "text": "So I did a Vila couple of days ago"
+  },
+  {
+   "start": 20.84,
+   "end": 21.84,
+   "text": "And"
+  },
+  {
+   "start": 25.43,
+   "end": 30.43,
+   "text": "We're working on the race across America with my website, but I didn't finish it"
+  },
+  {
+   "start": 30.43,
+   "end": 32.43,
+   "text": "I got close to finishing it"
+  },
+  {
+   "start": 33.43,
+   "end": 35.43,
+   "text": "But then I got this idea of"
+  },
+  {
+   "start": 36.43,
+   "end": 37.43,
+   "text": "I thought to myself"
+  },
+  {
+   "start": 37.43,
+   "end": 40.43,
+   "text": "Oh yeah don't take you this swimming I was thinking about what I heard"
+  },
+  {
+   "start": 40.43,
+   "end": 44.43,
+   "text": "It's like big course swimming out here in the reservoir"
+  },
+  {
+   "start": 45.43,
+   "end": 47.43,
+   "text": "So I took it out here and then even they had"
+  },
+  {
+   "start": 49.43,
+   "end": 50.43,
+   "text": "They had"
+  },
+  {
+   "start": 53.51,
+   "end": 56.51,
+   "text": "Like Google Earth screen captures of the course"
+  },
+  {
+   "start": 56.51,
+   "end": 57.51,
+   "text": "It's two courses"
+  },
+  {
+   "start": 58.51,
+   "end": 59.51,
+   "text": "And it's a thousand meters"
+  },
+  {
+   "start": 59.51,
+   "end": 60.51,
+   "text": "And it's one thousand meters"
+  },
+  {
+   "start": 60.51,
+   "end": 62.51,
+   "text": "And it's one hundred fifty meters"
+  },
+  {
+   "start": 63.51,
+   "end": 65.51,
+   "text": "So yeah it's one hundred thousand meters"
+  },
+  {
+   "start": 66.51,
+   "end": 68.51,
+   "text": "It's a pretty big"
+  },
+  {
+   "start": 69.51,
+   "end": 72.51,
+   "text": "This is straight away that's like six hundred meters so yeah"
+  },
+  {
+   "start": 73.51,
+   "end": 74.51,
+   "text": "Pretty cool"
+  },
+  {
+   "start": 75.51,
+   "end": 77.51,
+   "text": "And it's open twice a week for an hour and a half"
+  },
+  {
+   "start": 78.51,
+   "end": 84.46,
+   "text": "I think I want to start doing that in a couple of years"
+  },
+  {
+   "start": 85.46,
+   "end": 87.46,
+   "text": "Not next year"
+  },
+  {
+   "start": 87.46,
+   "end": 89.46,
+   "text": "Yeah I'm going to start exercising"
+  },
+  {
+   "start": 90.46,
+   "end": 93.46,
+   "text": "When I'm polished my website on my website to be polished"
+  },
+  {
+   "start": 95.46,
+   "end": 97.46,
+   "text": "And I'm not going to finish that this year"
+  },
+  {
+   "start": 98.46,
+   "end": 99.46,
+   "text": "I think this year is going to be like a"
+  },
+  {
+   "start": 100.46,
+   "end": 102.46,
+   "text": "Collapting year"
+  },
+  {
+   "start": 103.46,
+   "end": 105.46,
+   "text": "And then next year we'll be the polishing year"
+  },
+  {
+   "start": 106.46,
+   "end": 108.46,
+   "text": "So for 2020 the beginning of 2020"
+  },
+  {
+   "start": 109.46,
+   "end": 110.46,
+   "text": "That's when I'll start"
+  },
+  {
+   "start": 111.46,
+   "end": 112.46,
+   "text": "Exercise that I want to"
+  },
+  {
+   "start": 112.46,
+   "end": 115.9,
+   "text": "Out of the blue"
+  },
+  {
+   "start": 116.9,
+   "end": 118.9,
+   "text": "The swimming in the Boulder reservoir"
+  },
+  {
+   "start": 119.9,
+   "end": 123.9,
+   "text": "So yeah because I saw on my website I already built"
+  },
+  {
+   "start": 124.9,
+   "end": 127.9,
+   "text": "The sample races of the"
+  },
+  {
+   "start": 128.9,
+   "end": 131.9,
+   "text": "Sprit triathlon when I first moved back I built that"
+  },
+  {
+   "start": 133.9,
+   "end": 135.9,
+   "text": "And"
+  },
+  {
+   "start": 136.9,
+   "end": 138.9,
+   "text": "So I was like, yeah well let's let's put them on there"
+  },
+  {
+   "start": 139.9,
+   "end": 141.9,
+   "text": "So I'm putting this swimmers on this"
+  },
+  {
+   "start": 141.9,
+   "end": 145.18,
+   "text": "on the switch I thought it was some of the 50 meters in this course"
+  },
+  {
+   "start": 145.18,
+   "end": 147.42,
+   "text": "is a thousand sided at I speed."
+  },
+  {
+   "start": 148.7,
+   "end": 151.18,
+   "text": "And yes, I'm building them now."
+  },
+  {
+   "start": 151.18,
+   "end": 153.42,
+   "text": "I'm on like 330 at 4."
+  },
+  {
+   "start": 153.42,
+   "end": 154.42,
+   "text": "Sixth year."
+  },
+  {
+   "start": 156.62,
+   "end": 159.62,
+   "text": "Then I think I'll do the running section two."
+  },
+  {
+   "start": 160.7,
+   "end": 162.62,
+   "text": "That way, then I can have it complete."
+  },
+  {
+   "start": 162.62,
+   "end": 167.62,
+   "text": "But I won't get detailed with the level thing,"
+  },
+  {
+   "start": 167.62,
+   "end": 169.38,
+   "text": "running and swimming,"
+  },
+  {
+   "start": 169.38,
+   "end": 171.38,
+   "text": "then I'll for all I could do for the bike."
+  },
+  {
+   "start": 173.06,
+   "end": 174.42,
+   "text": "So that's what I'm doing now."
+  },
+  {
+   "start": 174.42,
+   "end": 176.1,
+   "text": "I'll take another few days."
+  },
+  {
+   "start": 178.66,
+   "end": 180.82,
+   "text": "They'll take a good half day of maro,"
+  },
+  {
+   "start": 180.82,
+   "end": 183.06,
+   "text": "just to finish this swimming and then I'll go into the running."
+  },
+  {
+   "start": 186.54,
+   "end": 189.98,
+   "text": "I can go back and finish that rampage."
+  },
+  {
+   "start": 189.98,
+   "end": 191.34,
+   "text": "It's not too much more."
+  },
+  {
+   "start": 191.34,
+   "end": 193.34,
+   "text": "Yeah, then start working on the listing."
+  },
+  {
+   "start": 194.22,
+   "end": 196.46,
+   "text": "Do some creative work."
+  },
+  {
+   "start": 197.02,
+   "end": 198.78,
+   "text": "The creative work is going to be interesting."
+  },
+  {
+   "start": 199.74,
+   "end": 202.38,
+   "text": "When I've got all the leg worked, I'm going back in there"
+  },
+  {
+   "start": 202.38,
+   "end": 203.42,
+   "text": "to do the creative work."
+  },
+  {
+   "start": 204.86,
+   "end": 213.17,
+   "text": "There's a really good feeling of joy when you see it coming together."
+  },
+  {
+   "start": 213.89,
+   "end": 215.01,
+   "text": "So amazing feeling."
+  },
+  {
+   "start": 216.37,
+   "end": 218.85,
+   "text": "I don't think I haven't even really felt it in that chat."
+  },
+  {
+   "start": 218.85,
+   "end": 220.37,
+   "text": "I've probably had glances of it."
+  },
+  {
+   "start": 221.17,
+   "end": 223.17,
+   "text": "But yeah, and now it looks good."
+  },
+  {
+   "start": 223.17,
+   "end": 244.53,
+   "text": "So yeah, I was listening to years of the 21st century and then decades of the 80s,"
+  },
+  {
+   "start": 244.53,
+   "end": 249.73,
+   "text": "and I'm doing actually recordings that I recorded at the centuries of the 80s."
+  },
+  {
+   "start": 249.73,
+   "end": 257.09,
+   "text": "And yeah, what interesting piece of history that I didn't know that existed is."
+  },
+  {
+   "start": 260.74,
+   "end": 266.34,
+   "text": "Back in 1928, the dam of Los Angeles broke."
+  },
+  {
+   "start": 267.06,
+   "end": 271.62,
+   "text": "Hold in, Dan just put the grill down and killed 600 people."
+  },
+  {
+   "start": 272.82,
+   "end": 276.02,
+   "text": "All this, they went up to like three miles wide or something."
+  },
+  {
+   "start": 276.02,
+   "end": 281.94,
+   "text": "And it was still like two meters high and they found bodies as like far back as South as Mexico."
+  },
+  {
+   "start": 283.14,
+   "end": 285.7,
+   "text": "And they never built the dam there again."
+  },
+  {
+   "start": 287.3,
+   "end": 290.74,
+   "text": "I guess the mud felt the earth fell away up from under it."
+  },
+  {
+   "start": 292.74,
+   "end": 294.5,
+   "text": "So..."
+  },
+  {
+   "start": 296.34,
+   "end": 296.98,
+   "text": "Okay."
+  },
+  {
+   "start": 299.78,
+   "end": 301.54,
+   "text": "I should get to sleep again."
+  },
+  {
+   "start": 303.06,
+   "end": 304.74,
+   "text": "Okay, peace out."
+  }
+ ]
+}
