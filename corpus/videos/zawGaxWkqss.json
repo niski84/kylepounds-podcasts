@@ -1,0 +1,29 @@
+{
+ "youtube_id": "zawGaxWkqss",
+ "title": "Floor Back & Leg Ups 1stx 110x",
+ "url": "https://youtu.be/zawGaxWkqss",
+ "published_at": "",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": {
+  "summary": "The transcript contains only a single utterance ('Hmm') with no spoken content. Based on the title, the video appears to document Kyle performing floor back and leg raises, likely for the first time at a count of 110 repetitions, but nothing is said that reveals his thoughts, technique, or opinions on the exercise. No information about the workout, his experience, or any commentary can be derived from the transcript alone.",
+  "speaker": "kyle",
+  "topics": [
+   "exercise",
+   "workout",
+   "fitness",
+   "floor exercises"
+  ],
+  "stances": [],
+  "entities": [],
+  "date": "",
+  "model": "sonnet"
+ },
+ "claims": [],
+ "transcript": [
+  {
+   "start": 17.94,
+   "end": 38.3,
+   "text": "Hmm"
+  }
+ ]
+}
