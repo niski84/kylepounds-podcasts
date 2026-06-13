@@ -51,7 +51,60 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "economists",
+   "claim": "Economists talk about debt getting out of control but don't address the root problem of the economy."
+  },
+  {
+   "subject": "economy",
+   "claim": "The main problem with the economy is that it has too much overhead, with computers, robots, and machines making lives more bogged down instead of easier."
+  },
+  {
+   "subject": "education system",
+   "claim": "The educational system creates unnecessary overhead by requiring certificates and training due to a lack of trust in people's abilities."
+  },
+  {
+   "subject": "economy",
+   "claim": "The solution to economic problems is to streamline processes by eliminating industries rather than adding more jobs."
+  },
+  {
+   "subject": "education system",
+   "claim": "Schools should be shut down, and teachers, janitors, principals, and secretaries should be rehired in a self-education model where everyone is paid equally."
+  },
+  {
+   "subject": "education system",
+   "claim": "In the new education model, people would ride bicycles, listen to audiobooks, and share educational videos while interacting with kids."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was forced through school, got D's, and was kicked out despite doing all assignments perfectly and never talking back to teachers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went through four years of college to become a teacher but was kicked out and told he wasn't good enough despite doing everything required."
+  },
+  {
+   "subject": "economy",
+   "claim": "Economists don't understand that streamlining processes by eliminating industries is the key to solving economic problems."
+  },
+  {
+   "subject": "economy",
+   "claim": "The solution to economic problems is to relax individual restrictions within cities, allowing people to build their own houses and simplify their lives."
+  },
+  {
+   "subject": "housing",
+   "claim": "Relaxing housing codes would allow people to build their own houses, creating more natural and pleasant living spaces."
+  },
+  {
+   "subject": "economy",
+   "claim": "In crises like wars, people trust that things will work out, and the same approach should be applied to the economy by releasing regulations."
+  },
+  {
+   "subject": "Mark Blith",
+   "claim": "Kyle wants to talk to Mark Blith or another economist, preferably an anti-austerity economist, to discuss his ideas about streamlining the economy."
+  }
+ ],
  "transcript": [
   {
    "start": 0.73,

@@ -75,7 +75,208 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I used to be an atheist until I had the strangest thought of my life."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I believed science was able to explain the nature of reality."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I became interested in the concepts of Darwin and the theories of natural selection to explain the development of humans in the natural world."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When looking at a dog, I was able to explain why it looked and behaved in a certain way based upon centuries of selective breeding by humans."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I understood how living creatures had DNA which determined physical attributes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had an epiphany when I realized I could explain the existence of everything external but not my own consciousness."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I started trying to remember back into my childhood to figure out when I first realized I was conscious of my existence."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Even on the scale of a single sperm and egg, leading towards our eventual consciousness is bizarre and improbable."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Even though we don't have any scientific evidence for a soul, I wonder if the soul provides the answer to our own unique individual existence."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The computer you use was produced in a factory and serves the purpose we assign it, but in human terms, you exist without understanding what your thoughts program or originated."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was wondering if the fact we exist at all is so unlikely and inexplicable that it proves there are much greater forces at play than we can possibly explain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think modern atheists are generally smarter than fundamentalist Christians."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Atheists are people who don't have a good education in the religious area."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Atheists see religion as only the negative side because they get all their information from school, which doesn't include any religion."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Atheists reject God and the soul partly as a reaction to the bad things religion has done."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Atheists get mesmerized by the scientific side because of the strides made in science over the last couple hundred years."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Science is all about learning the rules and doing experiments; you don't have to be that smart to be a scientist."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We look up to scientists so much as a society because of all the stuff science does and because scientifically advanced countries have a huge economic advantage."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Scientists are just technicians; they're not people you want to be looking up to."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Our focus on scientific advancements can block out all the other stuff, like religion."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Science doesn't explain the spiritual side at all, except maybe the double-slit experiment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "People can get addicted to certain mindsets, like being addicted to a video game."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've had conversations about the double-slit experiment, and some scientists can't explain it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I met a geologist who had never heard of the growing earth theory, which is Geology 101."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Oil comes from inside the earth, not from dead dinosaurs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The earth is a living being that grows from the inside, just like a plant."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Scientists are looked up to, but they're just technicians."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Our educational system worldwide puts too much faith in technology and not enough on the big picture."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We need to take the next step in science by integrating data from all different fields."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The mainstream intelligent design and evolution arguments are both wrong."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Intelligent design people are idiots because they get their ideas from the Old Testament."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Atheists who believe in natural selection don't have to be atheists; it's not just a random accident."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "People need to remember that blind faith in religion is a rejection of evidence and logic."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There is scientific support for the afterlife, like past life memories."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Children can remember their past lives, like a little boy who remembered his past life in World War II."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We all have stories of communicating with people in other situations because we've been in that situation in past lives."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Atheists can be closed-minded because they're raised religiously but don't talk about religion, so they reject it entirely."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Religious people need to acknowledge the negative side of religion to have better conversations with atheists."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "DNA relates to your mind and the physical world, but we don't know how much is affected by your mind."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Genetically engineering a person takes away their individuality, but it's always been like that with parents programming their children."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Children choose their parents just as much as parents program their children."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Genetic modification expands our power; it doesn't take it away."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We've always known that we're not our bodies; we live inside our bodies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Reincarnation is a human being reincarnating as a human, not as a star or something else."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Time travel reincarnation is a belief I've seriously contemplated over the last four years."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "People reincarnate where they belong, with the people they relate to."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Atheism is a religion because atheists claim to know the soul is extinguished when you die, which they can't prove."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The law of transference of energy suggests the soul doesn't disappear when the body dies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There are scientific experiments connecting the spirit world with the physical world, like DNA unraveling when you get stressed out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Psychic stuff is real, like people having their own personal source or detecting changes in the electromagnetic field when major events happen."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

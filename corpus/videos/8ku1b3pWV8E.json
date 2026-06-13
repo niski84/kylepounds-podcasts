@@ -86,7 +86,156 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's computer is a piece of shit and keeps restarting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle smoked weed for five minutes before recording a half-hour-long video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle tried to upload a video about Washington, D.C., but it didn't upload, and he was too lazy to try again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle deleted the video about Washington, D.C., because he filled up his phone and forgot about it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle considers himself a historian of Rome, Atlantis, and Greece, and claims to have discovered things nobody else knows."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes he needs to edit Wikipedia pages because they are wrong about Rome, Atlantis, and Greece."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "Washington, D.C., and Rome are sister cities and should be officially consecrated as such."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome is the parent city of Washington, D.C., and D.C. is the child of Rome."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Caligula built large boats called the Nemo boats for parties, sank them, and they were later found when the lake was drained."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The Nemo boats were destroyed in a fire after being bombed by the Allies or Mussolini."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The boats Livy wrote about were not the Nemo boats but were much larger boats that traveled from Rome to Naples."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "Washington, D.C., became the capital of America after independence, replacing Philadelphia."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "The White House was first created in 1810, and Thomas Jefferson was the first president to live there."
+  },
+  {
+   "subject": "Federalists vs. Anti-Federalists",
+   "claim": "The Federalists believed in a strong central government, while the Anti-Federalists believed in strong state governments."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome was a federal empire with a strong central army, which allowed it to build roads, architecture, and collect knowledge."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome was a cosmopolitan city with people of different races and religions."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "Washington, D.C., is now predominantly Black due to migration from the South after World War II."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "Washington, D.C., should be a microcosm of the entire country, representing all races and economic classes."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The Roman Empire fell partly because they abandoned the city of Rome and moved the capital to Ravenna."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome should be rebuilt to restore its former glory and civilization."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "Washington, D.C., should be supported with extra taxes to maintain its infrastructure and social welfare."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "Washington, D.C., is one of the most dangerous places in America."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "Washington, D.C., was originally designed as a diamond-shaped city 10 miles by 10 miles."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The Roman kingdom was 20 kilometers in diameter, similar in size to Washington, D.C."
+  },
+  {
+   "subject": "Founding Fathers",
+   "claim": "The Founding Fathers modeled America and Washington, D.C., after the Roman Republic, not the Roman Empire."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "Washington, D.C., should reclaim its western territory from Maryland to restore its original diamond shape."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "Washington, D.C., should build a 10-meter-high wall around the city to model ancient kingdoms and create a 40-mile bike route."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "Washington, D.C., should become a living museum with monuments to ancient Rome and history throughout the city."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome had hundreds of mini classrooms called exedras where people could learn, and these should be rebuilt."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "Washington, D.C., could become a hub for YouTubers to create content from small exedras throughout the city."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "Washington, D.C., should be a pedestrian city with no cars, allowing people to bike and rollerblade around."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "Washington, D.C., has the potential to be a beautiful, natural city with trees and mountain bike trails."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "Washington, D.C., could host triathlons and endurance swimming events in the Potomac River."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "Washington, D.C., could build a large mountain or tower in the future for activities like bungee jumping."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "People from Washington, D.C., should be proud of their city and work to improve its culture."
+  },
+  {
+   "subject": "Washington, D.C.",
+   "claim": "Washington, D.C., should become a state, and its residents should have the right to vote for the president."
+  },
+  {
+   "subject": "Puerto Rico",
+   "claim": "Puerto Rico should also become a state."
+  }
+ ],
  "transcript": [
   {
    "start": 1.46,

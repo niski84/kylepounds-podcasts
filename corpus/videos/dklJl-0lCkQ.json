@@ -38,7 +38,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, Kyle worked on his motorbike and had to remove the rack and tool bag to put the side panel on correctly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle took his motorbike out for the first time yesterday but had the gears in reverse, causing it to stall repeatedly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle initially thought pushing the gear lever down meant a higher gear and pulling it up meant a lower gear, but he realized he was wrong."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle felt freaked out by the motorbike's power and worried about accidentally doing a wheelie due to a twitch."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to drive around North Boulder on dirt roads today to get more comfortable with the motorbike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has a habit of only using the front brake and slamming on it because he's not used to disc brakes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle often forgets to use the turn signal or turn it off while riding the motorbike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was a little high while riding the motorbike but doesn't think it affected his performance."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle owns a Kawasaki KLR 400, which he describes as a 'daddy bike' capable of going from zero to 60 in under five seconds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle noticed that his bank is charging him $50 a month in interest, but the bank website shows his monthly payment is only $31."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to call his bank to clarify the interest rate discrepancy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle organized his files and folders on his computer yesterday but didn't work on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to create videos of strong, attractive women working out to inspire himself."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels weak and unable to lift heavy weights like the women he admires."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to focus on riding his motorbike today and hopes he doesn't crash."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is unsure if his Suzuki DRZ 400 motorbike has a gas gauge and doesn't know how to check the gas level."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is also unsure where to put the brake fluid in his motorbike."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

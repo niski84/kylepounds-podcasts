@@ -41,7 +41,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He weighs 185.2 pounds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is doing 10 reps of an exercise to assess his fitness level."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is warming up with light weights because he is out of shape."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His hamstrings blew out on him after the first set the last time he exercised."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is not a CrossFit person and prefers doing actual movements without dancing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is listening to the song 'Houdini' by an English girl whose name he can't remember."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He takes 30 seconds between sets and a minute and a half between weights to recover and psych himself up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to do three sets of ten with 15-pound weights and three sets of ten with 25-pound weights."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The first time he tried this exercise, he couldn't do 35-pound weights because his shoulders were blown out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The most difficult part of the workout for him is the triceps endurance."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is sweating and glowing from the exercise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He gets an asthma attack when his heart rate goes past 100, and he doesn't have asthma medication or insurance."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He did six sets with 25-pound weights the last time he exercised."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is trying to break his record by doing a set with 35-pound weights."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His left butt cheek is pulling, which has never happened before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is sweating a lot of weed lately, which affects his breathing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He rode his bike for five hours the day before, making his legs sore."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is trying to improve his form during the exercise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels the burn in his thighs during the warm-down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been lifting weights on and off since August and September."
+  }
+ ],
  "transcript": [
   {
    "start": 0.27,

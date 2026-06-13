@@ -23,7 +23,24 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He is starting a new channel called Streaming for his streaming content."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is considering making a vlogging channel separate from his regular content."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will keep his original channel for philosophy videos and requests."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "From now on, videos on his original channel will be talking videos."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

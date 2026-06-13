@@ -36,7 +36,72 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He went over and hung out with his mom for her birthday on the 21st."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked until around 3:30 on the 22nd."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got to sleep early the night before the 22nd."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom called him because he didn't get up on the 22nd."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had a meal with his mom's brother, his wife, and two kids on the 22nd."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom's brother and family had just arrived on the 22nd."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His brother came over on the 22nd."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hung out with his family all day on the 22nd, having meals and talking about family."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He watched a couple episodes of Hell on Wheels on the 22nd."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He talked to his long-distance girlfriend on the phone on the 22nd."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Talking to his long-distance girlfriend on the phone makes him feel like she's right there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked on Google Earth on the 22nd."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He planned to measure how many feet he can do per hour on the roads in Google Earth but didn't make it very far in two hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he may have bit off more than he can chew with his Google Earth project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to go to the beginning of February to see what's going on with his Google Earth project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks roads without cobblestones look naked."
+  }
+ ],
  "transcript": [
   {
    "start": 0.24,

@@ -47,7 +47,156 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday was a good day to go out on the motorbike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He first went to his mom's house to show her the bike, but she wasn't there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He drove up to get gas because he didn't know how much gas was left in the bike, as there's no gas gauge."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The gas station he usually goes to was gutted and had no pumps."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't want to turn around and go to another gas station due to traffic and lack of preparation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He decided to take dirt roads to get gas, which was 13 miles away."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He ran out of gas about 10 miles away from home on dirt roads."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He tried to push, walk, and coast the bike down hills to keep going."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A Boulder County utility truck driver stopped and gave him some gas, citing a 'carton rule' about helping motorbikers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The truck driver mentioned a reserve tank, which Kyle didn't know about."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He ran out of gas again halfway home because he didn't fill it up enough."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had to push the bike up a steep hill, which was a workout."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He remembered the reserve tank and used it to get to a gas station."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He filled up the bike with $6.50 worth of gas."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He drove back to explore dirt roads and had fun."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His Kawasaki KLX 400 SR is a dirt bike version of the Suzuki DRZ 400."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The bike is supposed to top out at 95 mph, but it stopped accelerating at 81 mph on a dirt road."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The bike accelerates quickly from 50 to 81 mph."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The bike fishtails on dirt roads when accelerating, which can change trajectory dangerously."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He gained a new perspective on motorcycles after riding this bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He can see how people get addicted to pushing the limits on motorbikes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His brother had friends who rode motorbikes, but many of them broke their backs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He realizes how close to wrecking people often are on motorbikes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has to be careful not to get overexcited while riding."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He did a California stop at a dirt road crossing and ended up pulling a wheelie unintentionally."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels that riding a motorbike is like being at one with the machine, but it's also unnaturally dangerous."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He compares riding a motorbike to strapping razor-sharp claws on a tiger, calling it a death wish for impulsive people."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wouldn't loan his motorbike to his impulsive brother."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He initially worried that riding a motorbike would make him lose interest in push biking and get fat."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He realized that motorbiking and push biking are totally different and complement each other."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Motorbiking helps him explore trails and terrain, which makes push biking more enjoyable later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got microscopic crickets for his lizard and a new kind of worm calcium."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He tried to sync up perfect files for MP3 but didn't finish."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to work on finishing files and his website tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to get started on his YouTube page soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He can't eat oatmeal with chocolate for breakfast anymore because it makes him gag."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finds it weird that his body rejects oatmeal, even though it's healthy."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

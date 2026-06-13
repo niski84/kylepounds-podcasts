@@ -76,7 +76,112 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He is finally doing book reviews again after every single book he reads."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes everyone should do book reviews, regardless of whether they think they can do a good job or not."
+  },
+  {
+   "subject": "Thomas Cromwell",
+   "claim": "Thomas Cromwell was the chief minister of King Henry the Eighth."
+  },
+  {
+   "subject": "Thomas Cromwell",
+   "claim": "Thomas Cromwell was beheaded by King Henry the Eighth because he didn't manage to get the king's marriage to Anne of Cleves annulled well enough."
+  },
+  {
+   "subject": "Anne Boleyn",
+   "claim": "Anne Boleyn was beheaded in 1536."
+  },
+  {
+   "subject": "King Henry the Eighth",
+   "claim": "King Henry the Eighth was a totalitarian dictator who had his wife beheaded because she couldn't give him a male baby."
+  },
+  {
+   "subject": "King Henry the Eighth",
+   "claim": "He had six wives and beheaded another young girl, Catherine Howard, because she supposedly cheated on him."
+  },
+  {
+   "subject": "King Henry the Eighth",
+   "claim": "He divorced his first wife, Catherine of Aragon, because he wanted to become Protestant."
+  },
+  {
+   "subject": "King Henry the Eighth",
+   "claim": "He was more Catholic than Protestant ideologically, but broke away from the Catholic Church because he wanted to get divorced."
+  },
+  {
+   "subject": "Michael Jackson",
+   "claim": "Michael Jackson was a truly nice guy who became skin and bones because he was accused by people who were lying about him, which ate away at his conscience."
+  },
+  {
+   "subject": "Ivan the Terrible",
+   "claim": "Ivan the Terrible lived at the same time as King Henry the Eighth and murdered his son by hitting him over the head with a scepter."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome was looted in 410 by an army that included many liberated Roman slaves, making it like Spartacus part two."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The wealth discrepancy in Rome was extreme, with senators living in huge villas with slaves, similar to modern-day wealth inequality."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome's economy was overpriced, with quality goods like Ferraris and Lamborghinis only for the rich, similar to how it was in ancient times."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome produced mostly flowers and wines in its countryside, as it got its food from other places like Egypt."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The fall of Rome was due to wealth discrepancy and internal strife."
+  },
+  {
+   "subject": "Pope",
+   "claim": "When Rome fell, the bishop of Rome became the pope, acting as the new emperor."
+  },
+  {
+   "subject": "Catholic Church",
+   "claim": "The Catholic Church sold entrances into heaven to fund the construction of Saint Peter's Cathedral."
+  },
+  {
+   "subject": "Reformation",
+   "claim": "The Reformation began when King Henry the Eighth broke from the Catholic Church in the 1530s, around the same time as Calvinism and Martin Luther's preaching."
+  },
+  {
+   "subject": "England",
+   "claim": "England outlawed torture around the same time Miyamoto Musashi wrote the Book of Five Rings in Japan."
+  },
+  {
+   "subject": "Japan",
+   "claim": "Japan was figuring out what a samurai was when England was already outlawing torture."
+  },
+  {
+   "subject": "Thomas Cromwell",
+   "claim": "Thomas Cromwell forgave and prayed for the guy who was going to chop his head off, but the execution was botched and took multiple attempts."
+  },
+  {
+   "subject": "Thomas Cromwell's son",
+   "claim": "After Thomas Cromwell's execution, his son asked King Henry the Eighth for his father's position and holdings, which the king granted."
+  },
+  {
+   "subject": "King Henry the Eighth",
+   "claim": "King Henry the Eighth was probably the most powerful king in history, embodying the classic idea of an all-powerful king."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He found the book about Thomas Cromwell hard to read and pay attention to because it was filled with too much personal detail about many people."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to do a book review for every book he reads from now on, including classic history books."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

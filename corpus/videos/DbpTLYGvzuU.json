@@ -88,7 +88,108 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle hopes his recording works this time because his last video stopped recording after 14 minutes for no apparent reason."
+  },
+  {
+   "subject": "Greek city-states",
+   "claim": "The Greek city-states had political autonomy and controlled the land around them, with about 50 independent political units in the Greek world."
+  },
+  {
+   "subject": "Greek city-states",
+   "claim": "The Greek world was like a country with no central leader, and Athens tried to lead the Delian League after being attacked by Xerxes."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Plato was from Athens and interacted with the tyrant of Syracuse, but left after realizing it was futile because no one could challenge the tyrant."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Plato wrote scathing letters to the tyrant of Syracuse after escaping, criticizing tyranny and explaining why it is bad."
+  },
+  {
+   "subject": "Roman Empire",
+   "claim": "The Roman Empire was an autocracy, but its advancements and literature mostly came from the republic era, not the empire."
+  },
+  {
+   "subject": "Greek city-states",
+   "claim": "Ancient Greece, especially democratic towns like Athens, preserved literature and writing."
+  },
+  {
+   "subject": "Delian League",
+   "claim": "The Delian League was justified for war, particularly after Athens was attacked by Xerxes' army."
+  },
+  {
+   "subject": "America",
+   "claim": "America was founded over 200 years ago, and its constitution was designed with states having two senators and governors."
+  },
+  {
+   "subject": "America",
+   "claim": "America's population has grown significantly since its founding, which may require adjusting the democratic ratio."
+  },
+  {
+   "subject": "Plato and Aristotle",
+   "claim": "Plato and Aristotle had deep insights into politics, and their ideas should be used as a foundation for modern political discussions."
+  },
+  {
+   "subject": "America",
+   "claim": "America's current political system is too top-heavy and federal, according to Kyle."
+  },
+  {
+   "subject": "local governance",
+   "claim": "Laws, especially regarding personal freedoms like abortion and marijuana, should be controlled locally rather than federally."
+  },
+  {
+   "subject": "Greek city-states",
+   "claim": "The Greek city-state system allowed for local autonomy and communication, which could be compared to modern decentralized governance."
+  },
+  {
+   "subject": "Roman Empire",
+   "claim": "Ancient Rome was controlled by 300 senators, and similar numbers of people control modern countries like China and America."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Plato believed the richest person should only be five times richer than the poorest person."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes promoting a lifestyle of minimal spending and self-improvement, like riding a bike, is beneficial for society."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "The highest-paid YouTubers often make videos about spending money, which Kyle sees as a negative feedback loop for society."
+  },
+  {
+   "subject": "Greek city-states",
+   "claim": "The Greek city-state was the largest political unit where people could communicate effectively without modern technology."
+  },
+  {
+   "subject": "global governance",
+   "claim": "The world could be run like a Greek city-state, with a supercomputer administering democratic decisions globally."
+  },
+  {
+   "subject": "Boulder",
+   "claim": "Kyle is creating Boulder as a city-state with a unique identity, inspired by ancient Rome."
+  },
+  {
+   "subject": "local governance",
+   "claim": "Local governance gives people more power over their lives and fosters community identity."
+  },
+  {
+   "subject": "America",
+   "claim": "America should decentralize power further to resemble the Greek city-state system."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump's presidency might lead people to challenge the centralization of power in the president."
+  },
+  {
+   "subject": "electoral college",
+   "claim": "The electoral college was designed for 13 states and is outdated for modern America."
+  }
+ ],
  "transcript": [
   {
    "start": 0.05,

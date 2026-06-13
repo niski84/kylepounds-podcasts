@@ -75,7 +75,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "electoral college",
+   "claim": "The electoral college was created to have aristocracy baked into the constitution so the US wouldn't be completely democratic like ancient Athens."
+  },
+  {
+   "subject": "ancient Athens",
+   "claim": "Ancient Athens was completely democratic where all free men could vote directly on leaders and policies."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome prided itself on having a perfectly balanced constitution that mixed democracy, aristocracy, and monarchy."
+  },
+  {
+   "subject": "Aristotle",
+   "claim": "Aristotle said revolutions occur when a country shifts between political systems, and stability comes from balancing different elements like democracy, aristocracy, and monarchy."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome had temporary dictatorships during crises, like Cincinnatus who took power to fight wars then gave it back afterward."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome's consuls shared power like kings but were elected annually, maintaining a balance between monarchy and democracy."
+  },
+  {
+   "subject": "US founding fathers",
+   "claim": "The US founding fathers in the 1770s modeled the constitution after Rome's balanced system, influenced by Montesquieu's 'Spirit of the Laws' which was inspired by Aristotle."
+  },
+  {
+   "subject": "Federalist Papers",
+   "claim": "The Federalist Papers were written anonymously by the founding fathers as newspaper articles explaining the constitution, referencing Roman and Greek political systems extensively."
+  },
+  {
+   "subject": "US constitution",
+   "claim": "The US constitution was designed to balance democracy (voting), aristocracy (electoral college), and monarchy (presidency) like Rome did."
+  },
+  {
+   "subject": "electoral college",
+   "claim": "The electoral college was meant to give educated state leaders oversized influence to prevent mob rule and demagogues, acting as an aristocratic safeguard."
+  },
+  {
+   "subject": "US constitution",
+   "claim": "The constitution's clauses (emoluments, traitor) are interconnected, and ignoring one (like emoluments) unravels the whole system."
+  },
+  {
+   "subject": "electoral college",
+   "claim": "The electoral college has backfired by enabling oligarchs (like Trump's cabinet) instead of aristocrats, as money now buys influence over education."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump led a rebellion (Jan 6) and ran again despite the traitor clause, setting a precedent to ignore constitutional safeguards."
+  },
+  {
+   "subject": "electoral college",
+   "claim": "The electoral college overrode the popular vote for George W. Bush, Donald Trump, and nearly Biden, proving it works against democracy."
+  },
+  {
+   "subject": "electoral college",
+   "claim": "The electoral college is outdated because information is now equally accessible, reducing the need for aristocratic oversight."
+  },
+  {
+   "subject": "electoral college",
+   "claim": "Abolishing the electoral college risks setting a precedent to remove other constitutional clauses (like emoluments or term limits) if not done carefully."
+  },
+  {
+   "subject": "Federalist Papers",
+   "claim": "The Federalist Papers are a valuable resource for understanding ancient political systems and the US constitution's foundations."
+  }
+ ],
  "transcript": [
   {
    "start": 1.55,

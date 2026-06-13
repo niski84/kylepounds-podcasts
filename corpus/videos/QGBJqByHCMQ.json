@@ -52,7 +52,100 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I was really tired yesterday and passed out when I got home."
+  },
+  {
+   "subject": "Kyle's roommate",
+   "claim": "My roommate offered to put a new tire on my bike because my tire was worn out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I woke up after passing out and tried transferring files between my computers but was too tired."
+  },
+  {
+   "subject": "Kyle's roommate",
+   "claim": "My roommate was smoking a lot of weed, specifically Blue Dream and hash oil."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Smoking weed, especially hash oil, makes me really high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I passed out last night and woke up feeling lazy today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I cleaned the house today."
+  },
+  {
+   "subject": "Kyle's fatty lipoma",
+   "claim": "We were supposed to do surgery on my fatty lipoma today, but my roommate chickened out."
+  },
+  {
+   "subject": "Kyle's family",
+   "claim": "My brother and mom don’t want to help with the lipoma surgery."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might do the lipoma surgery myself next day off, especially the one on my neck."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’ve been transferring files and downloading songs from YouTube using YTD video transfer and ABS audio converter."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m planning to make a video on the history of the papilla trees tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought two 32-ounce beers today and am working on the first one."
+  },
+  {
+   "subject": "Kyle's computer setup",
+   "claim": "I set up a new system with an external hard drive and a broken keyboard."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to get an extra keyboard for my other computer to make things easier."
+  },
+  {
+   "subject": "Kyle's catfish",
+   "claim": "My catfish died, and the surviving one seemed sick and was breathing heavily."
+  },
+  {
+   "subject": "Kyle's fish tank",
+   "claim": "I haven’t been changing the water every two weeks as recommended, only every month and a half."
+  },
+  {
+   "subject": "Kyle's tetras",
+   "claim": "I’ve bought tetras twice, and most disappeared, but one from the first batch is still alive."
+  },
+  {
+   "subject": "Kyle's fish",
+   "claim": "I currently have a big shark-looking tetra, a white one missing a tail, and a bottom feeder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don’t feel like making a feet video today; I’d rather drink beer and smoke."
+  },
+  {
+   "subject": "Kyle's shoulder",
+   "claim": "I have a sore spot on the top of my shoulder joint, and I don’t know where it came from."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to start stretching regularly because I’m pulling muscles and getting sore spots."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel like I’m getting old because my body is getting sore and pulling muscles easily."
+  }
+ ],
  "transcript": [
   {
    "start": 0.4,

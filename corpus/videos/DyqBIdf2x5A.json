@@ -41,7 +41,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He forgot to get his weed before starting the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got up at 9 and worked until 2 in the morning the previous day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was working on finishing Beaver Creek, which is super complicated."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is halfway through linking Beaver Creek and has about 100 more to do."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to work on Crested View next, which he thinks will be easier."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had to add a whole new section to Beaver Creek without realizing it initially."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was considering going back to Google Earth in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is in a good mental mode right now for brain candy stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been listening to videos from history scientists to memorize what different emperors did."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was focusing on Theodosius's era in his studies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has the 400 Mountains from Boulder project, which requires a lot of work, possibly two weeks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to work on the 400 Mountains project until he gets bored with it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He likes to take advantage of being in a productive mode for tedious, repetitive tasks like cutting, pasting, and tracing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got really high before making the video after waking up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He enjoys getting high in bed and lying there after waking up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He realizes he probably didn't need to get his weed before the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to work on ski resorts that were never built, mentioning there are about five, some of which are really big."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to make his own ski resort but hasn't looked at the mountains yet to decide where to put it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He intends to plug his ski resort project into his Sanctimonium project (Rome)."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If he builds Boulder on Google Earth, he can copy it to create Rome without rebuilding it from scratch."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's 8 o'clock, and he only got six hours of sleep but feels fresh."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is getting a good start to the day."
+  }
+ ],
  "transcript": [
   {
    "start": 1.23,

@@ -70,7 +70,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "homosexuality",
+   "claim": "Homosexuality is nature, not nurture."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has a cousin who is gay."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle visited his gay cousin in LA about 10 years ago."
+  },
+  {
+   "subject": "homosexuality",
+   "claim": "Being around gay people can make someone slide into gayness temporarily."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is 100% heterosexual."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle masturbated to a 21-year-old woman's Instagram photos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle finds fit young women attractive and has no desire for men."
+  },
+  {
+   "subject": "homosexuality",
+   "claim": "Looking at another man's muscles is not gay; it's appreciation of bodybuilding art."
+  },
+  {
+   "subject": "homosexuality",
+   "claim": "Aaron Hernandez, the football player, turned out to be gay."
+  },
+  {
+   "subject": "jail",
+   "claim": "People might turn gay in jail due to being surrounded by the same sex."
+  },
+  {
+   "subject": "jail",
+   "claim": "Jails should house men and women together to allow heterosexual relationships."
+  },
+  {
+   "subject": "ancient Greeks",
+   "claim": "Ancient Greeks were gay, as depicted in the movie 'Alexander'."
+  },
+  {
+   "subject": "Emperor Hadrian",
+   "claim": "Emperor Hadrian was gay and had a gay lover who drowned in the Nile."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had violent thoughts as a child, including wanting to murder a preschool kid."
+  },
+  {
+   "subject": "homosexuality",
+   "claim": "Homosexuality can arise in overpopulated areas like cities due to environmental factors."
+  },
+  {
+   "subject": "homosexuality",
+   "claim": "Homosexuality can act as a natural population control mechanism."
+  },
+  {
+   "subject": "homosexuality",
+   "claim": "About 1% of men are homosexual or bisexual, and 30% of women are gay or bisexual."
+  },
+  {
+   "subject": "women",
+   "claim": "Women are less intellectually bright due to social conditioning."
+  },
+  {
+   "subject": "women",
+   "claim": "Women in the future will become more open-minded and intellectually equal to men."
+  },
+  {
+   "subject": "marriage",
+   "claim": "The institution of marriage might change in the future, with less emphasis on monogamy."
+  },
+  {
+   "subject": "transsexuality",
+   "claim": "Transsexuality serves a higher spiritual purpose by bridging the sexes."
+  }
+ ],
  "transcript": [
   {
    "start": 0.94,

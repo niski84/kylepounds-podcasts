@@ -80,7 +80,180 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He is still smoking weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He uploads videos every day on his VLOG channel but doesn't do videos on his main channel because people don't give him requests."
+  },
+  {
+   "subject": "Prometheus",
+   "claim": "Prometheus is a movie about astronauts going to some other planet and finding the roots of our race."
+  },
+  {
+   "subject": "Prometheus",
+   "claim": "The movie is just another one where you think you're going to find some great mystery or truth about aliens, but the alien is just like a bad human who wants to kill everybody."
+  },
+  {
+   "subject": "Hollywood",
+   "claim": "People in Hollywood, when they write movies, can't imagine anything beyond where you are; they can only imagine aliens with different-looking bodies and cool technology, but they're just like the worst humans."
+  },
+  {
+   "subject": "Cocoon",
+   "claim": "Cocoon in the 80s was about positive aliens, but those movies are hard to make popular because they don't have enough action."
+  },
+  {
+   "subject": "Prometheus",
+   "claim": "Prometheus is a spinoff of Aliens and Predator because they're made by the same studio and are in the same universe."
+  },
+  {
+   "subject": "Alien vs. Predator",
+   "claim": "Alien vs. Predator was made because the Alien and Predator franchises are in the same universe."
+  },
+  {
+   "subject": "Alien",
+   "claim": "In the Alien movie with Sigourney Weaver, the aliens are parasite aliens that fester inside your stomach and hatch out, growing into giant spiders that eat you."
+  },
+  {
+   "subject": "Predator",
+   "claim": "The Predator is a human-like being, super muscular, always wearing a space suit that covers their face, and about eight feet tall."
+  },
+  {
+   "subject": "Predator",
+   "claim": "The Predators manage the aliens from the Alien movie, setting them loose on Earth-like planets to hunt them for fun."
+  },
+  {
+   "subject": "Prometheus",
+   "claim": "In Prometheus, the humans fly their spaceship, sleep on the way to avoid aging, and find that the real reason for the mission was to find eternal life for the billionaire who funded it."
+  },
+  {
+   "subject": "Prometheus",
+   "claim": "The humans in Prometheus find the alien area, but all the aliens are dead because the predator aliens accidentally discovered the alien aliens, who killed all the predators."
+  },
+  {
+   "subject": "Prometheus",
+   "claim": "The hero in Prometheus, Noomi Rapace, and her robot friend Michael Fassbender, manage to crash the spaceship and kill the evil representative of the billionaire."
+  },
+  {
+   "subject": "Prometheus",
+   "claim": "The movie ends with Noomi Rapace and the head of the alien, Michael Fassbender, going off to another planet."
+  },
+  {
+   "subject": "Prometheus",
+   "claim": "In the sequel, Michael Fassbender ends up killing Noomi Rapace and tries to use them to get back to Earth."
+  },
+  {
+   "subject": "Ra",
+   "claim": "The aliens from the channel book of Ra live on Venus in another dimension, having ascended after Venus suffered global warming."
+  },
+  {
+   "subject": "quantum physics",
+   "claim": "At a certain subatomic level, the rules of physics don't apply, and you enter the world of quantum physics where time and location don't exist, only probabilities."
+  },
+  {
+   "subject": "human genetics",
+   "claim": "If you go far enough into the past genetically, we're all related, even to kings and emperors like Emperor Maxentius."
+  },
+  {
+   "subject": "parallel universes",
+   "claim": "Once you go far enough back in the past, it has as much to do with whatever parallel universe you live in as what happened on this world."
+  },
+  {
+   "subject": "aliens",
+   "claim": "Physical evidence of aliens who lived on Earth and seeded how we are now is probably just footprints from different possible paths on Earth."
+  },
+  {
+   "subject": "past civilizations",
+   "claim": "People in ancient Greece knew more about different forms of government than we do now."
+  },
+  {
+   "subject": "human evolution",
+   "claim": "We've become more watered down and sterilized, not knowing how to survive in the woods like our ancestors did."
+  },
+  {
+   "subject": "master race",
+   "claim": "We were seeded by a master race and come from those races, including Venusians, Martians, and people from Maldek."
+  },
+  {
+   "subject": "Martians",
+   "claim": "Martians lived on a planet and then destroyed it, reincarnating on Earth to finish their journey."
+  },
+  {
+   "subject": "Maldek",
+   "claim": "Maldek was a planet that exploded, and its people had to deal with reincarnation trauma, putting their souls back together and reincarnating on Earth."
+  },
+  {
+   "subject": "fundamental Christians",
+   "claim": "Fundamental Christians these days are trying to destroy democracy to bring about end times as written in the Bible."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Fundamental Christians wanted Donald Trump in power so they could have their Antichrist."
+  },
+  {
+   "subject": "Gobekli Tepe",
+   "claim": "Gobekli Tepe was the beginning of civilization and might have had amazing stonework due to technology given by aliens."
+  },
+  {
+   "subject": "digital technology",
+   "claim": "All our digital stuff was given to us by aliens, like computer technology from Area 50 or Roswell."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Plato described Atlantis, and Kyle's website is dedicated to putting every single historical book online to avoid watered-down history."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "The flood in Greece was described by Plato, including how the Acropolis was created by the rain from the flood."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Atlantis was destroyed by comets from the sky, corroborated by diamonds and the Carolina Bays."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "The underwater island of Atlantis is only 20 feet deep and the same exact size Plato said, matching Andros Atoll."
+  },
+  {
+   "subject": "Irish Book of Invasions",
+   "claim": "The Irish Book of Invasions describes groups of people who invaded Ireland, backed up by mitochondrial DNA in 2013."
+  },
+  {
+   "subject": "human evolution",
+   "claim": "Cro-Magnon ancestors were superior to us, with bigger heads, bigger brains, and more physical strength."
+  },
+  {
+   "subject": "Native American mythology",
+   "claim": "Native American mythology has stories of the flood, the same as Noah's flood from 10,000 years ago, and even mentions the sloth."
+  },
+  {
+   "subject": "oral mythology",
+   "claim": "Oral mythology can keep stories going for thousands of years, showing how long it takes for stories to mutate."
+  },
+  {
+   "subject": "Prometheus",
+   "claim": "Prometheus didn't get good reviews because it had the same ending as other movies where the evil alien is killed to save humanity."
+  },
+  {
+   "subject": "Prometheus",
+   "claim": "The visuals of Prometheus were cool, but the Prometheus guy being silver and robotic was uncreative; he should have been human-like."
+  },
+  {
+   "subject": "Cro-Magnon",
+   "claim": "Cro-Magnon had to be jack-of-all-trades, making them more intelligent, but as we became compartmentalized, our brains got smaller."
+  },
+  {
+   "subject": "giant humans",
+   "claim": "Giant humans existed in the past, as seen in Native American legends and mummies, but were put away by the Smithsonian."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is working on his website all the time and can do request videos from now on."
+  }
+ ],
  "transcript": [
   {
    "start": 1.45,

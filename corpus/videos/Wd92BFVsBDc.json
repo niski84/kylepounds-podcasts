@@ -85,7 +85,148 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I believe in overtraining more than undertraining because people tend to undertrain just from laziness."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't been exercising lately."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "For the last seven years, I've been just sitting in bed doing nothing with zero exercise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The only exercise I get is riding my bike to my mom's house every day or to the supermarket."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I usually wouldn't even sleep a whole night; I'd stay up all night long and then work until the next day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "One day I went three days in a row without sleeping at all."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If you don't get any exercise, you need less sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't overeat because I was too busy working to think about eating."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I would eat canned food or frozen mixed vegetables just to curb hunger."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I eat protein powder because I'm a vegetarian."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom gives me really healthy food like steamed vegetables."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm 51 years old and for the last six or seven years I haven't done anything physically active."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had a stint of lifting weights in 2009 for a month or two."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did a bike tour in 2010 for six months."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was a part-time window washer from 2013 until 2018."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took a day off yesterday to get caught up on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had a C4 energy drink at around 9 at night yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Your brain burns calories just by focusing, which can be a form of exercise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My left hip is super sore and tight all the time, and my left shoulder pops and hurts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did a five-hour bike ride the other day and lifted weights all day long for the first time in forever."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I weigh 182 pounds last time I weighed myself."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think the best exercise is a dumbbell exercise I came up with that works every muscle except abs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Being limber actually makes you stronger."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I live in Boulder, Colorado, and have a bunch of bicycles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had a gym membership at 24 Hour Fitness for a couple of months but it expired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Habits are formed by creating new dendrites around your brain, and it takes 90 days to grow them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm on day 22 of quitting weed, copying an alcoholic recovery thing that goes up to 42 days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I saw a video where a jacked old guy said '99% diet,' which I think is code talk for steroids."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My goal for the end of the summer is to be able to do a 200-mile, 20,000-foot road ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Last time I lifted weights, I did three sets of 10 dumbbell pressing 45 pounds, which is all I could do."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Back when I was stronger, I did 45 reps at 45 pounds and bench-pressed 225 eight and a half times."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did the Grand Loop ride once when I was 30, and it took me 21 hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a job helping kids teaching biking at the bike park."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If you're an endurance dude, you should be lifting weights all the time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a full gym with dumbbells and barbells but haven't had a full lifting session yet."
+  }
+ ],
  "transcript": [
   {
    "start": 0.21,

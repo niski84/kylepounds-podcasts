@@ -41,7 +41,100 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is super high right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle smoked a lot of weed at 7:15 in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks he finally crashed at like 3 or something yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle woke up again at like 1:30 or something."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle doesn't remember what time he crashed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got up at like 1:30 and has been up since then."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels kind of tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is pretty close to finishing Pliny."
+  },
+  {
+   "subject": "Pliny",
+   "claim": "Pliny is divided into 37 books."
+  },
+  {
+   "subject": "Pliny",
+   "claim": "Each book in Pliny averages like 100 chapters."
+  },
+  {
+   "subject": "Pliny",
+   "claim": "Pliny is 1,022 pages long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is listening to a podcast called Roman Emperor's podcast by the Australians."
+  },
+  {
+   "subject": "Roman Emperor's podcast",
+   "claim": "Roman Emperor's podcast is good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle likes the smart lady on the Roman Emperor's podcast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't watch any TV yesterday."
+  },
+  {
+   "subject": "Borgia",
+   "claim": "Borgia TV show is really good."
+  },
+  {
+   "subject": "The Magnificent Century",
+   "claim": "Kyle tried to watch a new show called The Magnificent Century about the Sultan."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle doesn't have any internet and can't watch TV."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's internet died like three or four hours ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle rebooted his modem and might have to call for help."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is super excited to be done with Pliny."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had to build Chapter 11 from scratch."
+  },
+  {
+   "subject": "Pliny",
+   "claim": "Pliny is one of the most important books ever."
+  }
+ ],
  "transcript": [
   {
    "start": 1.36,

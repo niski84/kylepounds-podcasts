@@ -36,7 +36,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He just got up and is living in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked on building The Palace in Google Earth all day yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "At the end of the day, he zooms out to see the whole city and assess his progress."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is still in the fascination mode and learning a lot."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He saw Casa Privata de Traiana and has been googling to find it."
+  },
+  {
+   "subject": "Casa Privata de Traiana",
+   "claim": "It is the best example of an ancient map of Rome that shows the king's house."
+  },
+  {
+   "subject": "Casa Privata de Traiana",
+   "claim": "It has a big open space in the middle and 60 rooms with doors facing inward."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks it will be amazing to show the inside of Casa Privata de Traiana when it's done."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He always wanted to know what the king's house looked like."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks movies about Rome should have shown the king's house but they never did panoramas."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His shows can do full panoramas on TV, which he thinks will be awesome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked until 5:30 in the morning yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got up at 11:30 after only four hours of sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom woke him up to go to her house for an insurance meeting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has to work for his mom for three hours at $15 an hour, totaling $45."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today won't be a full day of working on his project due to the insurance meeting and work for his mom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is excited about his project and thinks it's the most amazing thing he's ever done."
+  },
+  {
+   "subject": "Rome",
+   "claim": "He is working on a project about Rome and says 'we're doing it'."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

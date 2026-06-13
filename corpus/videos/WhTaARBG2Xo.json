@@ -31,7 +31,72 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "It's been like four days off and so now it's time to work again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I'd find days up from the bad weather."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's 6:45 now, I'm going to wait 15 minutes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've got to be there at 8 but it's way too early to leave now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We've put in extra time especially in case they get a flat because the morning is getting flat."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've had like four flats between this year and last year and already this year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This is my rig by the way."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I just dropped my shoes to the back of that."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've got some power bars in my bike lock and there, hat and stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've got to make sure to drink a lot."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I enjoyed it every time because the days are big days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "What did I do yesterday? I just glued a thing, couple of glued some stuff on my bottom motorbike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There's a protector plate and then that GoPro thing on the helmet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We're going to do the organizing music which took all day because I got anyone to be through player for swimming so I figured that out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did a little bit of work on my flight too."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "That was that."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

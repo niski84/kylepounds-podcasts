@@ -82,7 +82,136 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "This is a request video from about a year ago about the impeachment, and now they're having another impeachment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This is his first video back because he doesn't have reefers anymore."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He huffed reefer for the last time yesterday, huffing a big old nugget for about an hour because he knew it was going to be the last time he was ever going to smoke reefer in his entire life."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to be a political figure, like a Congressman or president, because we need more politicians who think like he does."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When talking about a legal issue, you should always discuss the history, precedent, what the law says, and what's best for the future."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome is where all the history is, and you would talk about Rome when discussing the first time impeachment ever happened."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump was impeached the first time because he tried to blackmail the president of Ukraine into producing a news headline about investigating Joe Biden's son, Hunter Biden, for taking money from Burisma."
+  },
+  {
+   "subject": "Hunter Biden",
+   "claim": "Hunter Biden took $500,000 from Burisma, a natural gas company in Ukraine."
+  },
+  {
+   "subject": "right-wing politicians",
+   "claim": "Right-wing politicians use straw man arguments, taking them way too far, like Marjorie Taylor Greene and Kellyanne Conway."
+  },
+  {
+   "subject": "Marjorie Taylor Greene",
+   "claim": "Marjorie Taylor Greene was interviewed about supporting the insurrection and thinking the election was rigged, but instead of answering, she turned it on the person asking the question."
+  },
+  {
+   "subject": "Kellyanne Conway",
+   "claim": "Kellyanne Conway turns questions on the person asking them, avoiding the actual topic."
+  },
+  {
+   "subject": "Jim Jordan",
+   "claim": "Jim Jordan has a whiny voice and straw mans arguments during impeachment hearings."
+  },
+  {
+   "subject": "Devin Nunes",
+   "claim": "Devin Nunes was making money off the Ukrainian natural gas deal and was involved in knocking down Hunter and Joe Biden."
+  },
+  {
+   "subject": "Stephanie (unnamed)",
+   "claim": "A young woman named Stephanie, about 33, was super nasty and accused people of mistreating her on the Senate floor."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Trump said he wouldn't give Ukraine $40 million for Tomahawk missiles unless they agreed to do a story about Hunter Biden first."
+  },
+  {
+   "subject": "Emoluments Clause",
+   "claim": "The Emoluments Clause of the Constitution prohibits asking for personal favors in official dealings, and people have been busted for violating it."
+  },
+  {
+   "subject": "Bill Clinton",
+   "claim": "Bill Clinton was impeached for lying about a personal sex thing but wasn't convicted."
+  },
+  {
+   "subject": "Richard Nixon",
+   "claim": "Nixon was impeached for paying people to break into his opponent's hotel room at Watergate, but he resigned before being convicted."
+  },
+  {
+   "subject": "Al Franken",
+   "claim": "Al Franken resigned because a lady said he told her she had nice tits."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "The first impeachment of Trump was valid because he violated common sense and the law, and the opposition had no sensible reasons."
+  },
+  {
+   "subject": "two-party system",
+   "claim": "The two-party system exists because the right-wing is full of idiots, and the left-wing is where common sense resides."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Trump incited a riot at the Capitol, and he should be impeached for it."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Trump told his followers they were badasses and that it would be wild, which led to the Capitol riot."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Trump didn't call in the National Guard for two hours during the Capitol riot and tweeted that the election was unfairly stolen."
+  },
+  {
+   "subject": "Rudy Giuliani",
+   "claim": "Rudy Giuliani said 'trial by combat' during the Capitol riot."
+  },
+  {
+   "subject": "Don Jr.",
+   "claim": "Don Jr. said they would go after bad Republicans and hoped Mike Pence would do the right thing, or they would have to show them."
+  },
+  {
+   "subject": "post-presidential impeachment",
+   "claim": "A post-presidential impeachment is to prevent Trump from running again in 2024."
+  },
+  {
+   "subject": "Mitt Romney",
+   "claim": "Mitt Romney said Trump would be the nominee in 2024."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Trump is a demagogue who brainwashes people with uncontrolled rage."
+  },
+  {
+   "subject": "China",
+   "claim": "China has taken over manufacturing of high-end missile magnets, and the U.S. no longer knows how to make them."
+  },
+  {
+   "subject": "David K. Johnston",
+   "claim": "David K. Johnston wrote about how the U.S. outsourced missile magnet designs to China."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will do request videos now that he's sober and needs to think of stuff to talk about."
+  }
+ ],
  "transcript": [
   {
    "start": 0.53,

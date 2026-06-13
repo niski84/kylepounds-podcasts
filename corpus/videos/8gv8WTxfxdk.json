@@ -39,7 +39,52 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He forgot to do the video vlog from yesterday both in the morning before going to work and after coming back from work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He drove to work in the next town over and felt stupid because it was extremely hot for November."
+  },
+  {
+   "subject": "Kyle's mom",
+   "claim": "She called him with an idea to buy a pizza, pick him up, and go to her house to watch his last three YouTube videos, which was unusual because she had never done that before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He and his mom watched his Donald Trump video together but both kind of slept through it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "They watched a Baywards video that interviewed him, which his mom liked, especially the Del Monte corn thing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom now knows about his YouTube channel after watching his last vlog."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He mentioned that he thought he could get another thousand bucks out of his mom, and she didn't say anything, which he interpreted as the Jedi mind trick working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hasn't done much work on his website because his mom called and interrupted him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He felt like he was coming down with something last night, freezing cold, but feels okay today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to get a flu shot tomorrow if he remembers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to do a singing video soon."
+  }
+ ],
  "transcript": [
   {
    "start": 0.02,

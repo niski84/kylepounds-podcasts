@@ -42,7 +42,100 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle worked late last night, possibly until midnight."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is not working the rest of the week because it's cold."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle put his crickets outside last night despite knowing a cold spell was coming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle woke up to find his crickets dead, likely due to the cold."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's geckos ate all their crickets, causing him to lose $30."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes weed sometimes tricks his mind into thinking everything will be alright."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks stoners need an artificial checklist to avoid careless mistakes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to dispose of the dead crickets and order more."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has a good memory and will remember not to put crickets outside during a cold spell in the future."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle cleaned gutters yesterday and noticed guys installing gutters next door."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle worked for two hours and sixteen minutes yesterday before Google Earth crashed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was working on mapping Sugarloaf and Jamestown in Google Earth when it crashed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle changed his method of mapping to avoid Google Earth crashing by deleting files as he went."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle successfully mapped Jamestown after making adjustments to his method."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle mapped Sugarloaf, Jamestown, Allen's Park, and Primo's in Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's leg was hurting from sitting in his chair for too long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle likes to get high when he wakes up to relax and sleep easily."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is tracing towns in Boulder County and wants to map all of them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has already traced all the roads between towns in Boulder County."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle uses a solid background layer in his maps to block out the rest of the world and create a cartoon-like environment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to add rich guy territories and farmers' estates to his map of Boulder County."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle noted that Boulder County is the same size as the Kingdom of Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle considers mapping roads and towns in Italy as well."
+  }
+ ],
  "transcript": [
   {
    "start": 0.44,

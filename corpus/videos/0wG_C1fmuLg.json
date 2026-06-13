@@ -43,7 +43,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He has to pay rent on December 1st."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked on tracing buildings in Google Earth on November 30th, 2011."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels like he's still towards the beginning of his tracing project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to do ground level tours of historical sites like Augustus' house, the Circus Maximum, and the Forum."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got four and a half hours of sleep the previous day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom woke him up to handle insurance matters."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went out to eat at a hamburger restaurant with his mom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked until 6:17 AM after returning home."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to go to his mom's house to recycle a TV for her."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finished listening to the Duncan podcast yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He recommends checking out the History of Rome podcast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He planned to work on his timeline while listening to the podcast but found it too overwhelming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He managed to get through the first couple hundred years of Rome in the podcast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He started listening to the History of Byzantium podcast by an English guy who continues where the History of Rome left off."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He discovered there are 20 history vlog podcasters on a Facebook group and plans to check them out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The History of Byzantium was the first history podcast he listened to."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He lost a video he recorded because he minimized it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He decides not to minimize videos while recording them in the future."
+  }
+ ],
  "transcript": [
   {
    "start": 1.68,

@@ -36,7 +36,116 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "The last time he did a vlog was yesterday morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He rode for four hours and 20 minutes the day before yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he lost some brain cells since the last time he did a video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He managed to ride about two and a half hours yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "While riding, he got cold really fast and had to put on extra clothing and turn on a heater."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He ran out of energy while riding and felt like falling asleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The general rule of thumb for him right now is that he can ride about four and a half or five hours before bonking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He can't eat and ride at the same time because he'll barf."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got a sandwich at a sandwich shop after riding."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got another smoke pin, but the battery wasn't charged."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He ate the sandwich while listening to music and smoking weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After eating the sandwich, he had a second wind and got suited up to ride again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He talked to his fiancée for two hours instead of going riding."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He made a video about Greek city states versus American states between his two rides."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was planning on riding five hours today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He woke up with severe vertigo and everything was zooming from right to left."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He dry heaved and barfed white foam multiple times."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He felt more firm and had lost fat in just those two days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He stumbled and his balance was off."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He laid on his stomach because moving made him dizzy and nauseous."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He smoked weed to help with his vertigo."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He fell while trying to grab the marijuana, crashing into a table."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He forgot where he was and what was happening after the fall."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His roommate offered to make him tea, but there was no tea."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He smoked 10 or 15 hits of weed, which made him feel better."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He set up his computer and microphone to make a video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hopes he didn't have a stroke."
+  }
+ ],
  "transcript": [
   {
    "start": 0.91,

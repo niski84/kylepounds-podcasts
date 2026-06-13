@@ -48,7 +48,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He got up really late today after working until 2 AM and got 10 hours of sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom wanted him to help her at her house, but he thinks she mainly just wanted to talk to him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom yelled at him for not making money and needing to make money right away."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom was going to give him $4,000 today, and he had borrowed $11,600 from her this winter until he sold his car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He felt bad because his mom is 35 years old and he didn't want her to have a heart attack."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He told his mom he would start riding his bike on April 15th to make money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was excited about biking because he felt really bad physically and was feeling horrible earlier tonight."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is working on his bubbles and 25 area dimensions page and hopes to finish it this weekend."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After finishing the bubbles, he plans to work on the Rome page and create a parody timeline."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to finish writing his intro and the bike racer levels on his page before he starts riding his bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has a long-term plan to make money, including potentially getting a job at Walmart if biking doesn't work out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finished making movies of the circles and is now making the circles from level 1 to 8."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is renaming the levels on Google Earth and plans to do screen captures and upload them to his website and YouTube."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was listening to 'Wealth of Nations' by Adam Smith for the last couple of days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom bought him a book called 'Dark Money' about the secret history of billionaires taking over America with lobbyists."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to memorize 'Dark Money' and write a page about it after he starts riding his bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wonders if it's possible to type and ride a bike at the same time and thinks whoever does that is a superhero."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is using 20Ks as the background for his videos despite complaints."
+  }
+ ],
  "transcript": [
   {
    "start": 1.01,

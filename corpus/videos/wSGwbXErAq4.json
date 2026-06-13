@@ -81,7 +81,152 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Jim Smith",
+   "claim": "Jim Smith wanted Kyle to do a video about the history of Atlantis and offered him $20."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle prepared a video to convince people that he found Atlantis."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "Kyle couldn't prove much with Google Earth screen captures because he didn't capture the whole thing before the Navy or Google depixelated the area at the beginning of March 2024."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle believes Atlantis is located based on studying history correctly and common sense historical study."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle thinks there are too many coincidences pointing to the location of Atlantis."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle built a model of Atlantis on Google Earth based on his research."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle believes the Richat structure is Atlantis because it matches the description of an island in the sea."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle thinks the canal described in Plato's account of Atlantis is 1,850 kilometers long."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle superimposed Atlantis on modern cities like Rome and Boulder to show its size."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle claims the real Atlantis is now depixelated on Google Earth, making it hard to see."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle believes the Temple of Poseidon in Atlantis is a 92.5-meter square building visible on Google Earth."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle thinks the island of Atlantis was hit by a comet, causing its destruction."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle claims the island of Atlantis was surrounded by many other islands."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle believes the real Atlantis is in the Bahamas, near where Columbus landed."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle thinks the island of Atlantis was 555 by 370 kilometers, matching Plato's description."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle claims the island of Atlantis had a flat plain on the southern side and was protected to the north."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle believes the island of Atlantis was destroyed in a single day and night of earthquakes and floods."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle thinks the mud from the sunken island of Atlantis made the sea in that area shallow."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle claims the Atlanteans had a navy of 1,300 boats."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle believes the Atlanteans owned Egypt and parts of Italy."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle thinks the Atlantean constitution included distinct classes like priests, artificers, shepherds, and warriors."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle claims the Atlanteans had ten kings who controlled ten different jurisdictions."
+  },
+  {
+   "subject": "Egypt",
+   "claim": "Kyle believes Egypt was founded by the Atlanteans and preserved their culture."
+  },
+  {
+   "subject": "Egypt",
+   "claim": "Kyle thinks the Egyptians survived many global calamities because of the Nile."
+  },
+  {
+   "subject": "Egypt",
+   "claim": "Kyle claims the priests of Scythe traced their lineage back over 10,000 years."
+  },
+  {
+   "subject": "Herodotus",
+   "claim": "Kyle mentions Herodotus' account of the Phoenicians circumnavigating Africa."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Kyle references Plato's description of Atlantis as an island beyond the pillars of Hercules."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Kyle believes Plato's account of Atlantis is historically accurate, not metaphorical."
+  },
+  {
+   "subject": "Younger Dryas",
+   "claim": "Kyle thinks the Younger Dryas event (12,090 to 11,070 years ago) coincides with the destruction of Atlantis."
+  },
+  {
+   "subject": "Columbus",
+   "claim": "Kyle claims Columbus landed on San Salvador Island, which he believes is part of Atlantis."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle believes the island of Atlantis was oblong-shaped, extending 3,000 stadia in one direction and 2,000 stadia across the center."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle thinks the plain of Atlantis was rectangular and oblong, supplying food for wild and tame animals."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle claims the canal system in Atlantis included straight canals of 100 feet in width and a circular ditch."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle believes the Temple of Poseidon in Atlantis was 185 meters in length and 92.5 meters in width."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle thinks the city of Atlantis had 60,000 lots, each 1.85 kilometers square."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Kyle claims the Navy depixelated the area where he believes Atlantis is located."
+  }
+ ],
  "transcript": [
   {
    "start": 0.62,

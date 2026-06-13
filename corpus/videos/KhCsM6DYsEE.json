@@ -37,7 +37,60 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went to bed but wasn't sleepy, so he got up to do the video on the couch."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went to the store four times due to confusion about the printer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went to his mom's house twice because he forgot to get the lampshade."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle spent a long time printing and putting up photos but didn't finish putting the text ones in the bathroom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle loves organizing and finds it fun and cost-effective."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle bought a green screen for his videos, which will arrive in about a week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to build shin guards (greaves) out of cardboard and shoestring for his warrior outfit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has swords but doesn't need a shield, though he could make one out of cardboard if necessary."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to make cardboard knives to hang off his Speedos for his warrior outfit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle considers buying male diapers for his warrior outfit but decides Speedos are better."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to add cardboard flaps to his beanie hat to represent ear protectors for his warrior outfit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes in doing things without worrying about order and encourages others to just do it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is tired and needs to get to sleep."
+  }
+ ],
  "transcript": [
   {
    "start": 0.56,

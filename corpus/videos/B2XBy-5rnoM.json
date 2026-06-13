@@ -35,7 +35,40 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, he got too tired to go to the clubhouse and take a shower."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't sleep well because he wasn't perfectly clean."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got up at around 2 in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was working all day long, mainly on his bike racer level page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels like he can finish his bike racer level page in about a week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He started listening to a new podcast about the fall of the Roman Empire."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to explore more historical podcasts and movies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is really high right now."
+  }
+ ],
  "transcript": [
   {
    "start": 1.17,

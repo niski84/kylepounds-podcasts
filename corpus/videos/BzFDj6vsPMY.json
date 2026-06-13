@@ -36,7 +36,60 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He got to sleep at around noon and woke up at around five yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was up all night and is currently still awake at 9:46 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was trying to get as far ahead on his website as possible by Monday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He planned on selling his car but didn't due to the snow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom advised him not to go outside because it was too dangerous due to the snow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is super jazzed by how fast his new computer is."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is working on surface level stuff for his website and it's going by fast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had moments where he felt overwhelmed by the size of his projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was fixing lists and adding ads but realized he added the wrong ad."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday was a stuck-in-the-mud day where he didn't make much progress."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had to redo his 100 levels on his 40-kilometer page because he couldn't decide how he wanted them to look."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He enjoys the cold weather and his new setup by the window."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was listening to the History Chicks and thinks they're good."
+  }
+ ],
  "transcript": [
   {
    "start": 0.62,

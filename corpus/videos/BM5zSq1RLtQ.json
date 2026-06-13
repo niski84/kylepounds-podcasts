@@ -53,7 +53,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been thinking about why society isn't actively restoring beaver populations for a couple of years."
+  },
+  {
+   "subject": "Google Earth website",
+   "claim": "Kyle is almost done with his Google Earth website project, which includes the exact locations of every single animal in Boulder County and Rocky Mountain National Park."
+  },
+  {
+   "subject": "beaver habitat",
+   "claim": "Only 10% of beaver habitat is being occupied in Rocky Mountain National Park."
+  },
+  {
+   "subject": "beaver restoration",
+   "claim": "Kyle believes it would be easy to restore beaver populations to 100% in Rocky Mountain National Park, as it would create more habitat for other animals."
+  },
+  {
+   "subject": "beaver restoration",
+   "claim": "Kyle suggests that any teenager or preteen could help restore beaver populations by building beaver dams in the park."
+  },
+  {
+   "subject": "American entrepreneurship",
+   "claim": "Kyle argues that restoring beaver populations aligns with the American entrepreneurial spirit, similar to how early settlers built their own farms and communities."
+  },
+  {
+   "subject": "beaver restoration",
+   "claim": "Kyle proposes a method for restoring beaver populations: identify unused habitat, build beaver dams, and introduce beavers to the area."
+  },
+  {
+   "subject": "beaver restoration",
+   "claim": "Kyle believes the government should allow people to restore beaver habitats without excessive regulation."
+  },
+  {
+   "subject": "beaver behavior",
+   "claim": "Kyle thinks beavers would likely survive and expand their habitat if reintroduced to suitable areas."
+  },
+  {
+   "subject": "beaver restoration",
+   "claim": "Kyle suggests expanding beaver restoration efforts to Boulder County after Rocky Mountain National Park."
+  },
+  {
+   "subject": "beaver dam",
+   "claim": "Kyle saw a beaver dam in Left Hand Canyon while driving with his mom a couple of weeks ago, but there were no beavers present."
+  },
+  {
+   "subject": "beavers",
+   "claim": "Kyle describes beavers as some of the coolest animals, noting their intelligence and historical size (as large as bears)."
+  },
+  {
+   "subject": "beavers",
+   "claim": "Kyle mentions that beavers are rodents and are much smarter than people typically think."
+  },
+  {
+   "subject": "otters",
+   "claim": "Kyle argues that restoring beaver populations would also benefit otters, as otters eat beavers and are fascinating animals to observe."
+  },
+  {
+   "subject": "pet store hippie",
+   "claim": "Kyle discussed his beaver restoration idea with a hippie at a pet store, who seemed receptive to the idea."
+  },
+  {
+   "subject": "Rocky Mountain National Park rangers",
+   "claim": "Kyle wants to contact rangers in Estes Park to ask why beaver restoration isn't being prioritized."
+  },
+  {
+   "subject": "unemployed workers",
+   "claim": "Kyle suggests employing people who are unhappy in their jobs or unemployed to help restore beaver habitats."
+  },
+  {
+   "subject": "environmental impact studies",
+   "claim": "Kyle believes environmental impact studies are unnecessary for beaver restoration, as beavers are already known to be beneficial."
+  },
+  {
+   "subject": "Caribou Ranch",
+   "claim": "Kyle mentions Caribou Ranch, where there is a beaver sanctuary, as a potential source for beavers to reintroduce to Rocky Mountain National Park."
+  },
+  {
+   "subject": "beaver reintroduction",
+   "claim": "Kyle notes that someone has already reintroduced beavers to a lake in northeast Longmont, proving that people are already taking action."
+  },
+  {
+   "subject": "civil disobedience",
+   "claim": "Kyle suggests that people might consider restoring beaver habitats without government permission, even if it risks arrest."
+  },
+  {
+   "subject": "elderly activists",
+   "claim": "Kyle humorously proposes that elderly people who don't care about consequences could lead the charge in beaver restoration efforts."
+  }
+ ],
  "transcript": [
   {
    "start": 1.17,

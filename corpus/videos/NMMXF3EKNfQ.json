@@ -37,7 +37,56 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't go to sleep last night but isn't tired yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is building Plenty right now and hopes to finish it today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After building Plenty, Kyle plans to create a template for a large book similar in size to Plenty."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes his book template will be the best way to portray books and will look interestingly similar to the little encyclopedia he made."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is taking time off and not selling his card."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is buying stuff with his credit card because he lost his debit card and there's no interest for a whole month."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, Kyle retrieved his rocket box from his mom's garage so he can work on his car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle needs to finish Plenty before focusing on other tasks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, Kyle watched one episode of Rain and is now watching Borgia."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes Borgia is the most realistic show and feels like he's experiencing a retelling of history."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is listening to the Roman Imperator's podcast and wants to zoom through all the history podcasts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's reorganization of his room coincided with getting Netflix and listening to podcasts, making everything feel new."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

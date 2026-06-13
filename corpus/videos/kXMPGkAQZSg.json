@@ -59,7 +59,120 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Apple",
+   "claim": "Apple should make it so that when someone calls you on an iPhone, it doesn't interrupt your video recording."
+  },
+  {
+   "subject": "web designer",
+   "claim": "A web designer showed up with three people and spent about 10 minutes explaining how to set up a website and server before dismissing them."
+  },
+  {
+   "subject": "web designer",
+   "claim": "The web designer lied about having a Ph.D. in education and claimed to have taught at Fort Lewis College."
+  },
+  {
+   "subject": "web designer",
+   "claim": "The web designer was fired from Fort Lewis College, possibly because he didn't have an education license."
+  },
+  {
+   "subject": "education system",
+   "claim": "The education system is flawed because people with degrees abuse their power and prevent others from achieving their goals."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was prevented from completing his student teaching semester, which would have allowed him to get an education license."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes he can never be a teacher now because people trust the system over him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle created his own educational website to bypass the traditional education system."
+  },
+  {
+   "subject": "education system",
+   "claim": "The education system forces people to jump through hoops and gives power to those who lie about their qualifications."
+  },
+  {
+   "subject": "Fort Lewis College",
+   "claim": "Many people at Fort Lewis College lied about their qualifications and didn't even graduate high school."
+  },
+  {
+   "subject": "education system",
+   "claim": "The education system is a scam where people lie on their resumes and hide their lack of knowledge."
+  },
+  {
+   "subject": "education system",
+   "claim": "The education system prioritizes titles over actual knowledge and forces people to please others to succeed."
+  },
+  {
+   "subject": "education system",
+   "claim": "Rich people buy their way into colleges while others go into debt for a worthless education."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's English degree wasn't recognized in Chile, and he wasn't hired because people thought he forged it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle taught himself Spanish, web design, and history because he didn't learn much in college."
+  },
+  {
+   "subject": "college",
+   "claim": "College is unnecessary because people can teach themselves skills like coding and make a lot of money without a degree."
+  },
+  {
+   "subject": "education system",
+   "claim": "The education system is a scam where teachers make a lot of money for doing nothing."
+  },
+  {
+   "subject": "education system",
+   "claim": "The education system needs to be reformed so people can share their knowledge openly."
+  },
+  {
+   "subject": "web designer",
+   "claim": "The web designer who lied about his Ph.D. never made a website, which would expose his lack of knowledge."
+  },
+  {
+   "subject": "education system",
+   "claim": "People should rebel against the education system by not attending college and creating their own websites."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes he couldn't get hired in Chile because he was too honest about being kicked out of college."
+  },
+  {
+   "subject": "education system",
+   "claim": "The education system is a scam where people are judged unfairly and forced to follow arbitrary rules."
+  },
+  {
+   "subject": "education system",
+   "claim": "The future of education should involve spontaneous sharing of knowledge rather than scripted content."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's goal is to shut down 90% of schools and let the smart people control their own education."
+  },
+  {
+   "subject": "education system",
+   "claim": "The education system is a scam where teachers make $310,000 a year for choosing bad curriculums."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is allergic to learning from others and prefers to teach himself."
+  },
+  {
+   "subject": "education system",
+   "claim": "People should avoid college and instead create their own websites and YouTube channels."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is working on his website and feels he is playing catch-up because he wasted time in college."
+  }
+ ],
  "transcript": [
   {
    "start": 0.37,

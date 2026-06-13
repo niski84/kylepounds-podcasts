@@ -69,7 +69,136 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "occupied movement",
+   "claim": "The occupied movement is good because it's people speaking up against wealth discrepancy caused by bankers and the top 1%."
+  },
+  {
+   "subject": "wealth discrepancy",
+   "claim": "The top 1% of society is 20% wealthier now than they were in the late 70s."
+  },
+  {
+   "subject": "corporations",
+   "claim": "In 1978 under Carter, a law was passed that declared corporations as humans, allowing them to lobby politicians."
+  },
+  {
+   "subject": "lobbying",
+   "claim": "Lobbying is essentially corporations bribing politicians to do what they want."
+  },
+  {
+   "subject": "Young Turks",
+   "claim": "The Young Turks discuss how corporations influence politicians on a daily basis."
+  },
+  {
+   "subject": "private prisons",
+   "claim": "A congressman was allegedly paid $200 to pass a law benefiting private prisons."
+  },
+  {
+   "subject": "politicians",
+   "claim": "Politicians spend more money to get elected than they make in their entire term, showing who really funds them."
+  },
+  {
+   "subject": "bankers",
+   "claim": "Bankers gamble with public money, get rich when they win, and taxpayers bail them out when they lose."
+  },
+  {
+   "subject": "justice system",
+   "claim": "The justice system unfairly punishes the poor while letting the rich go free."
+  },
+  {
+   "subject": "occupied movement",
+   "claim": "The occupied movement is about exercising First Amendment rights to protest wealth inequality."
+  },
+  {
+   "subject": "media portrayal",
+   "claim": "Fox News portrayed occupiers as lazy people angry about not working hard enough."
+  },
+  {
+   "subject": "capitalism",
+   "claim": "Hardcore Republicans defend capitalism by saying if you want to get rich, you should be able to."
+  },
+  {
+   "subject": "systemic inequality",
+   "claim": "The system is skewed so that the rich stay rich and the poor stay poor."
+  },
+  {
+   "subject": "French Revolution",
+   "claim": "The French Revolution happened because people took to the streets, similar to the occupied movement."
+  },
+  {
+   "subject": "Russian Revolution",
+   "claim": "The Russian Revolution also happened due to mass protests."
+  },
+  {
+   "subject": "police response",
+   "claim": "Police kicking occupiers off the streets proves that the rich control the politicians."
+  },
+  {
+   "subject": "protest tactics",
+   "claim": "Occupiers should focus on education, using bullhorns and soapboxes to inform the public."
+  },
+  {
+   "subject": "wealth disparity",
+   "claim": "The world can't function if most people work all day just to pay rent while others hoard wealth."
+  },
+  {
+   "subject": "wastefulness",
+   "claim": "The ultra-rich waste resources, like buying cars and abandoning them."
+  },
+  {
+   "subject": "corporate influence",
+   "claim": "Rich people manipulate society as if they're gods, like the Koch brothers funding political campaigns."
+  },
+  {
+   "subject": "autocracy",
+   "claim": "Extreme wealth leads to autocratic rule, as seen in countries like Libya and Iraq."
+  },
+  {
+   "subject": "Sarah Palin",
+   "claim": "Sarah Palin once said they 'baptize terrorists with waterboarding,' showing how extreme some politicians are."
+  },
+  {
+   "subject": "conspiracies",
+   "claim": "The ultra-rich engage in secretive, James Bond-like schemes to control society."
+  },
+  {
+   "subject": "credit card interest",
+   "claim": "Credit card interest rates used to be capped at 8%, but now they can go as high as 23%."
+  },
+  {
+   "subject": "Goldman Sachs",
+   "claim": "Goldman Sachs manipulates markets by buying and storing goods to drive up prices."
+  },
+  {
+   "subject": "Christian ethics",
+   "claim": "Society no longer follows Christian ethics, leading to greed and corruption."
+  },
+  {
+   "subject": "occupied movement",
+   "claim": "The occupied movement failed partly because it lacked organization and education."
+  },
+  {
+   "subject": "future protests",
+   "claim": "Future protests should be more organized, with live-streamed educational speeches."
+  },
+  {
+   "subject": "campaign finance",
+   "claim": "A 38th amendment is needed to get money out of politics."
+  },
+  {
+   "subject": "internet activism",
+   "claim": "The internet will eventually make campaign finance reform obsolete by increasing public awareness."
+  },
+  {
+   "subject": "transparency",
+   "claim": "Political donations should be transparent so voters know who funds candidates."
+  },
+  {
+   "subject": "next occupy movement",
+   "claim": "The next occupy movement will be the tipping point for change."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

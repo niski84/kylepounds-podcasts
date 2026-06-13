@@ -46,7 +46,136 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "His washing machine started going right when he hit the record button for the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was working until 6 in the morning the day before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went to bed right as it was getting light the day before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He likes to go to sleep before it gets light, so he can feel like he's sleeping at night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got up at noon or 1 PM the day before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had 6 or 7 hours of sleep the night before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He discovered the Naumachia the day before and didn't know it was there because he hadn't looked at it."
+  },
+  {
+   "subject": "Naumachia of Augustus",
+   "claim": "Augustus made a 500 meter diameter lake that he had 30 boats go on with 3,000 prisoners of war, all fight to the death."
+  },
+  {
+   "subject": "Naumachia of Augustus",
+   "claim": "It's where the saying 'for those about to die, we salute you' comes from originally."
+  },
+  {
+   "subject": "Boulder",
+   "claim": "Boulder has a twin lake to the Naumachia, the same exact size."
+  },
+  {
+   "subject": "Rome",
+   "claim": "There's another man-made palace lake in Rome the same size as another lake that used to live in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He started working on the Serbian Wall the day before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He deleted his Serbian Wall and started working on it from a new map because it's better."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It would take at least a whole day just to do the Serbian Wall and at least a whole day just to do the Naumachia."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks finishing the Naumachia that day would be cool."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Being done by Sunday is ridiculous."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't notice how big the project was when he initially planned it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He noticed that once he's done with all the buildings he's working on, that's only half of the territory of the Aurelian Wall."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will have to fill another half of the territory with his own buildings."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to make the entire area look 3D and like one city within the Aurelian Wall."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Making all the new buildings look like the old buildings will take a long time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to work on the project until the beginning of February."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He usually likes to make a rule to only work on something for 2 or 3 weeks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If something is mind-blowingly interesting, he could put months into it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to work on this project for 10 weeks (2.5 months)."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will see what he can do and then probably bail and work on something else."
+  },
+  {
+   "subject": "Naumachia",
+   "claim": "The Naumachia only existed for a little bit in the time of Augustus, around 15 AD."
+  },
+  {
+   "subject": "map",
+   "claim": "The guy who put the map together in 1840 included all the greatest hits but not exactly how it looked in one particular year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to do his request video about Courage later that day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's still running ahead on going on the Naumachia thing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's really excited because he wanted to know where the Naumachia was and didn't know it was on the map."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Everything is within the wall."
+  }
+ ],
  "transcript": [
   {
    "start": 0.37,

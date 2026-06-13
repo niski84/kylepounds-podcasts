@@ -39,7 +39,64 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got his sleep schedule switched back to daytime hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle worked until 2 or 3 in the morning yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle tied up loose ends on Plenty yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to make a perfect template before putting more books on his site to avoid redoing work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle managed to put Plenty up on his website in the education section."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is working on his education page now and realized how incomplete it was."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Plenty is over a thousand pages and divided into a thousand chapters."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks his way of portraying Plenty on the internet is the best."
+  },
+  {
+   "subject": "John Bostock",
+   "claim": "John Bostock has Plenty organized on Perseus.tuffs.edu with a left column and right text layout."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks his version of Plenty is better than John Bostock's."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to modernize the rest of his website pages because they are basic and can be fixed quickly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle received a nasty comment on his video yesterday from someone who used to be a fan."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes smoking weed helps open the mind and is acceptable as long as you're improving your site."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is moving at a blisteringly fast pace and plans to hit the ground running today."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

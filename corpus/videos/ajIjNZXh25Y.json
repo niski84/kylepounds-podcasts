@@ -55,7 +55,128 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He is starting a new series on his main channel about training."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He mentions having a vlog channel where he talks about his life and website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He aims to make training videos super quick and plans to make a video every day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is training every single day and wants to document the journey."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He did a 50-mile ride a few days ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He swam three times recently, with distances of 1,300 meters, 1,400 meters, and 7,000 meters."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today he went on his second ride of the year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had insomnia because he hasn't been exercising and has too much energy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he got some REM sleep between three and four in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got up around 6:20 AM after setting his alarm for 6 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had breakfast with eggs on toast and green fruit juice from Boathouse Farms."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He experienced a bad asthma attack during the first hour and a half of his ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He isn't taking asthma medication because he doesn't have health insurance and has limited Advair left."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His asthma improved after an hour and a half and mostly went away after two and a half hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went on an 87-mile ride with 8,000 feet of climbing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His ride was broken into two segments because his computer paused unexpectedly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He rode from Boulder to Lyons, then to Estes Park, over a pass, and back via Ward and Lee Hill."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He refilled his water bottles at a spring in Allen's Park."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His knee hurt during the ride, especially after stopping and restarting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His earphones died during the ride, but he had a backup pair."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The ride lasted about seven and a half hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He regrets buying a second pair of earphones because wind noise makes them hard to hear."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His bike radar worked intermittently during the ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The tendons in his left leg were the most painful part of the ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks his left knee has always been weaker, possibly due to an ankle sprain 20 years ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After the ride, he was exhausted and fell asleep for a couple of hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He ate a chicken burrito from Cadoba after the ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He used energy goo packets during the ride to avoid bonking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He only drank three water bottles during the 87-mile ride because it was cold."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He used Cytomax in his water bottles to help with hydration."
+  }
+ ],
  "transcript": [
   {
    "start": 0.85,

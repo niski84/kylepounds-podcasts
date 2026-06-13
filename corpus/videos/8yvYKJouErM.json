@@ -58,7 +58,144 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He hasn't done a video for two weeks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The last time he did a video, he was working on the law code of America."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom and fiancé reacted positively when he told them he was working on the law code of America."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He felt good about working on the law code, as if it was divinely inspired or internally rewarding."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes the best way to fix the world is to make yourself smarter than those in control and defeat them intellectually."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to offer the U.S. law code as a downloadable file for people to modify themselves."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He suggests marking up the law code in red, running for office, and presenting the marked-up version as a demonstration of higher intellect."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If people don't follow along with his approach, he believes it's their problem and one should then give up on politics and become a philosopher."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He abandoned the law code project because he realized he wasn't done with other tasks, like fixing books on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He discovered that many links on his website were broken and chapters were unnumbered due to a batch edit error."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been manually fixing the chapter numbers and links on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He uses a backup on his computer to restore missing dates or information."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Batch edits in Dreamweaver sometimes don't work as expected."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He traced his ancestry back to Adam and Eve using a website called Jenny.com (G-E-N-I.com)."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He found discrepancies in his ancestry records, such as incorrect timelines, and decided to give up for now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes most people are directly related to famous kings and queens due to historical reproductive patterns."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "One of his ancestors lived from the 1500s and lived to be 111 years old."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is currently working on attaching page numbers to 2,600 chapters in his book 'Plenty'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to finish the edits on 'Plenty' soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He encountered issues with batch editing timestamps for Josephus' 'Jewish Wars'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to study and memorize Aristotle's 'Politics' and Plato's 'Republic' to make a video about monarchy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finds it hard to focus on studying these books because he's high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to listen to these books repeatedly to understand them better."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to title all the chapters in these books on his website, as they are currently only numbered."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He adds books to his website primarily for his own use, to have them formatted the way he prefers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes memorizing books involves breaking them into smaller parts and associating them with visuals."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He criticized the idea of reading a book once and never revisiting it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was called 'fat fuck' in a comment but doesn't prioritize exercise because he values intellectual work over physical fitness for now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes in enjoying his youth by focusing on his website work, as physical health may decline later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to change the world through his work before focusing on personal enjoyment like exercise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He estimates it will take him about three years to finish his current projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to make a video about monarchy after studying Plato and Aristotle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He demonstrates how to use his website to have books read aloud on an iPhone."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finds it frustrating when links on his website don't work during demonstrations."
+  }
+ ],
  "transcript": [
   {
    "start": 0.11,

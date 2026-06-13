@@ -91,7 +91,112 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I stopped smoking weed on Tuesday, and it's Saturday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't smoked reefer for four days."
+  },
+  {
+   "subject": "alien and ancient civilization enthusiasts",
+   "claim": "Most of the new alien, ancient civilization, alternative history people are right-wingers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "15 to 20 years ago, nobody was talking about aliens, the previous civilization that made the pyramids, interdimensional beings, and similar topics."
+  },
+  {
+   "subject": "hippies and new agers",
+   "claim": "I thought hippies and new agers were all left-wingers, associated with the Democratic Party."
+  },
+  {
+   "subject": "Republicans",
+   "claim": "I thought Republicans were super close-minded, stuffy, rich, traditional, Christian, lily-white types."
+  },
+  {
+   "subject": "Art Bell people",
+   "claim": "The Art Bell people from Art Bell days have only good things to say about Donald Trump and the Republicans, and only bad things to say about the Democrats."
+  },
+  {
+   "subject": "David Wilcock and Danica Patrick",
+   "claim": "David Wilcock and Danica Patrick likely voted for Donald Trump."
+  },
+  {
+   "subject": "Elizabeth April",
+   "claim": "Elizabeth April, a remote viewer, talks to aliens about the history of the universe and the reptilians getting kicked out, but also admires Elon Musk as a once-in-a-generation genius."
+  },
+  {
+   "subject": "Elon Musk",
+   "claim": "Elon Musk is compared to Leonardo da Vinci or Einstein as a once-in-a-generation super genius."
+  },
+  {
+   "subject": "remote viewing",
+   "claim": "Elizabeth April's remote viewing claims are not original and may be part of a larger scam conspiracy."
+  },
+  {
+   "subject": "right-wing alien enthusiasts",
+   "claim": "Right-wing alien enthusiasts like David Wilcock, David Icke, and Danica Patrick are pushing narratives that align with Republican politics."
+  },
+  {
+   "subject": "COVID-19 lockdowns",
+   "claim": "COVID-19 lockdowns and vaccination laws were seen by some as deep state actions to take away freedoms."
+  },
+  {
+   "subject": "vaccines",
+   "claim": "Some people believe vaccines contain nanotechnology or sickness to control or harm people."
+  },
+  {
+   "subject": "measles outbreak",
+   "claim": "The first kids in 30 years are dying of measles in Texas due to anti-vaccine sentiments."
+  },
+  {
+   "subject": "Robert F. Kennedy and Donald Trump",
+   "claim": "Robert F. Kennedy and Donald Trump have publicly supported vaccines."
+  },
+  {
+   "subject": "wealth discrepancy",
+   "claim": "Wealth discrepancy and power consolidation are historical patterns that lead to societal collapse."
+  },
+  {
+   "subject": "Roman Republic and Empire",
+   "claim": "The Roman Republic was more democratic and successful, while the Roman Empire's totalitarianism led to its fall."
+  },
+  {
+   "subject": "Christianity",
+   "claim": "Christians invented the first public hospitals and communal housing, promoting sharing and fairness."
+  },
+  {
+   "subject": "American democracy",
+   "claim": "America was more democratic and shared wealth more in the 1960s, leading to growth, while current wealth discrepancy and less democracy are causing decline."
+  },
+  {
+   "subject": "Jimmy Corsetti",
+   "claim": "Jimmy Corsetti, a former soldier, may be a government plant promoting misinformation about Atlantis."
+  },
+  {
+   "subject": "Plato's Atlantis",
+   "claim": "Plato explicitly stated that his account of Atlantis was real history, not an allegory."
+  },
+  {
+   "subject": "Atlantis location",
+   "claim": "Atlantis is in the Bahamas, not the Richat Structure, based on historical and geographical evidence."
+  },
+  {
+   "subject": "Donald Trump's administration",
+   "claim": "Donald Trump's administration was marked by nepotism, totalitarianism, and redesigning political structures, similar to historical tyrants."
+  },
+  {
+   "subject": "history education",
+   "claim": "Learning mainstream history is crucial to avoid falling for conspiracy theories and understanding political patterns."
+  },
+  {
+   "subject": "left-wing hippies",
+   "claim": "Left-wing vegetarian hippies should take back the narrative on aliens and ancient civilizations from right-wing figures."
+  }
+ ],
  "transcript": [
   {
    "start": 0.46,

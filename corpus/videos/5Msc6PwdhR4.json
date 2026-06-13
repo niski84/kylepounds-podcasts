@@ -45,7 +45,64 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He was working until about 6:20 this morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went to bed as it was starting to get light."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's 11:17 now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He just got really stoned."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is going to his mom's house."
+  },
+  {
+   "subject": "driving under influence",
+   "claim": "You have to be stoned when you drive a car or ride a bike."
+  },
+  {
+   "subject": "YouTube videos",
+   "claim": "He has some really good ideas for some YouTube videos he's going to do later on today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was working all day last night and all day yesterday."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome is still fascinating and he thinks it's the most interesting thing he's ever done."
+  },
+  {
+   "subject": "past life memories",
+   "claim": "You get past life memories by learning the language and concepts of a time, similar to the movie 'Arrival'."
+  },
+  {
+   "subject": "past life memories",
+   "claim": "Walking around Rome as it looked in the past can unlock a forgotten world and bring past life memories."
+  },
+  {
+   "subject": "past life memories",
+   "claim": "Music, smells, stories, pictures, and Google Earth 3D are good ways to have past life memories."
+  },
+  {
+   "subject": "YouTube videos",
+   "claim": "He wants to do a video about the proper way to make money for his idea for jet in general for everybody."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Right now he's going to get firewood, pick up his TV, and get rid of lots of stuff."
+  }
+ ],
  "transcript": [
   {
    "start": 0.98,

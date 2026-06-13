@@ -46,7 +46,124 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "IQ testing",
+   "claim": "IQ testing is not the way to measure intelligence, it's rather history IQ testing."
+  },
+  {
+   "subject": "IQ testing",
+   "claim": "We need to come up with a conversion chart to compare history IQ tests to actual IQ tests until we move it over to history IQ tests permanently."
+  },
+  {
+   "subject": "Elon Musk",
+   "claim": "Elon Musk's IQ is estimated to be around 140."
+  },
+  {
+   "subject": "Chris Langan",
+   "claim": "Chris Langan says he took an IQ test and it was 200, with his IQ rated between 190 and 210."
+  },
+  {
+   "subject": "Chris Langan",
+   "claim": "Chris Langan is a right-winger who postulates on everything and seeks interviews frequently."
+  },
+  {
+   "subject": "culture",
+   "claim": "In our culture, the smart people are the ones who get to talk and say everything and become the pundits."
+  },
+  {
+   "subject": "rich people",
+   "claim": "Rich people and millionaires are on YouTube now because they're supposed to be smart on everything and talk about everything because they made a bunch of money."
+  },
+  {
+   "subject": "intelligence",
+   "claim": "We need to objectify intelligence; intelligence can't be how much money you have."
+  },
+  {
+   "subject": "history test",
+   "claim": "Making you smart is scoring well in the history test, not the IQ test."
+  },
+  {
+   "subject": "IQ test",
+   "claim": "The IQ test doesn't have anything grounded in reality like the history test does."
+  },
+  {
+   "subject": "politics",
+   "claim": "People in politics and news aren't debating math problems or mental game problems like in IQ tests; they're debating the kind of stuff you see on history timelines."
+  },
+  {
+   "subject": "history",
+   "claim": "You need to know history to have precedent for everything you talk about."
+  },
+  {
+   "subject": "IQ",
+   "claim": "The upper limit of IQ is set at 200, which is considered a perfect score."
+  },
+  {
+   "subject": "history test",
+   "claim": "The history test is the best way to grade intelligence based on raw studying and raw mental power."
+  },
+  {
+   "subject": "IQ",
+   "claim": "Average IQ is 85 to 115."
+  },
+  {
+   "subject": "history test",
+   "claim": "If you can guess all 150 events that happened from 1500 to 2000 on England, you're at the upper limit of average IQ (115)."
+  },
+  {
+   "subject": "history test",
+   "claim": "Doing the history test multiple times increases your IQ score: once (115), twice (125), three times (135), four times (145), and ten times (200)."
+  },
+  {
+   "subject": "Albert Einstein",
+   "claim": "You can be as smart as Albert Einstein after completing the history test ten times."
+  },
+  {
+   "subject": "history test",
+   "claim": "Completing the history test eleven times makes you the smartest person ever."
+  },
+  {
+   "subject": "intelligence",
+   "claim": "Quantifying intelligence through history tests is the new way to measure intelligence, similar to how athletics are quantified."
+  },
+  {
+   "subject": "fluid intelligence",
+   "claim": "You need good fluid intelligence to have good crystallized intelligence because fluid intelligence is used to crystallize your intelligence."
+  },
+  {
+   "subject": "history",
+   "claim": "Memorizing all of history requires putting it into context, which demands a deep understanding of history."
+  },
+  {
+   "subject": "chess",
+   "claim": "Being good at chess is a good measure of IQ because it requires RAM memory, similar to understanding history."
+  },
+  {
+   "subject": "history test",
+   "claim": "Scoring higher in the history test makes you the highest IQ."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle tried the 150 England history test today and was about 75% through, which would make his IQ around 70, though he believes he's way above that."
+  },
+  {
+   "subject": "history IQ",
+   "claim": "The history IQ is what score you get on the history test; a perfect score is 150."
+  },
+  {
+   "subject": "intelligence",
+   "claim": "Quantifying intelligence through history tests is the new way, and everyone can join in without any advantage over others."
+  },
+  {
+   "subject": "poor people and athletes",
+   "claim": "Poor people and athletes can participate in the history test because they can study while riding a bike or running on a treadmill."
+  },
+  {
+   "subject": "history test",
+   "claim": "The history test allows learning both visually and auditorily."
+  }
+ ],
  "transcript": [
   {
    "start": 0.37,

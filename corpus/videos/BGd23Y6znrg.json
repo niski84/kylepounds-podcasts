@@ -35,7 +35,108 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I was kind of tired yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up kind of late."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I cleaned up my house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We were going to do the surgery, but my roommate took him down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll be self-laining."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked all day long all night until like 11 or something."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm excited."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm fired up to do it today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to put all the new stuff that I put on the links."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've done that."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Maybe I'll do it like to do that pretty soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got my bike already to go."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to kind of take all of it about a half hour."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Maybe I'll do some respond to some comments now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I saw Godzilla the other day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't know if I mentioned by myself for the first time at the movie theater."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom didn't want to go see it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to see it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I love these action movies and TV."
+  },
+  {
+   "subject": "Godzilla",
+   "claim": "It was good."
+  },
+  {
+   "subject": "Godzilla",
+   "claim": "He breathed fire and all that cool stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't know if I should do a review without doing a spoiler."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can't do reviews without spoilers."
+  },
+  {
+   "subject": "Godzilla",
+   "claim": "They did a pretty good job making it all explainable and a new 20th first century way."
+  },
+  {
+   "subject": "Godzilla",
+   "claim": "There's some other things that weren't, but whatever it's cool."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

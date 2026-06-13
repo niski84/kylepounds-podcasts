@@ -115,7 +115,184 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "world",
+   "claim": "Part of the problem of the world right now is people don't have a foundation in their philosophy about life."
+  },
+  {
+   "subject": "people",
+   "claim": "When people lack a philosophical foundation, they become like sheeple who just do what they're told without thinking."
+  },
+  {
+   "subject": "education",
+   "claim": "People were never taught or shown the basic principles of what it means to be a human when they were younger."
+  },
+  {
+   "subject": "philosophy",
+   "claim": "If you have basic principles, you can build off of that through the rest of your life."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump has no principles."
+  },
+  {
+   "subject": "capitalism",
+   "claim": "The sickness of capitalism is that money is the only thing that matters."
+  },
+  {
+   "subject": "Adam Smith",
+   "claim": "Adam Smith's 'Wealth of Nations' was a breakthrough in economic philosophy that brought people out of mercantilism."
+  },
+  {
+   "subject": "mercantilism",
+   "claim": "Mercantilism was the economic system during the dark ages where countries hoarded gold to measure wealth."
+  },
+  {
+   "subject": "Adam Smith",
+   "claim": "Adam Smith realized that free trade and the invisible hand would guide society to benefit everyone."
+  },
+  {
+   "subject": "capitalism",
+   "claim": "Capitalism evolved from Adam Smith's ideas, but now we need another revolution because the invisible hand isn't working."
+  },
+  {
+   "subject": "government regulation",
+   "claim": "We need actual government regulation because the current system isn't working."
+  },
+  {
+   "subject": "industrial revolution",
+   "claim": "During the industrial revolution, rich people worked poor people to death in cities, exploiting them for profit."
+  },
+  {
+   "subject": "church",
+   "claim": "The church once served as a moral foundation, but it lost power and became too similar to the business world."
+  },
+  {
+   "subject": "society",
+   "claim": "Society now lacks equal opportunity and quality of life because there's no foundational philosophy."
+  },
+  {
+   "subject": "Peter Thiel",
+   "claim": "Peter Thiel said he doesn't want democracy."
+  },
+  {
+   "subject": "Jeremy Boring",
+   "claim": "Jeremy Boring from the Daily Wire said it's time for a revolution back to kingship, quoting Plato or Aristotle."
+  },
+  {
+   "subject": "Trilateral Commission",
+   "claim": "The Trilateral Commission in 1973 wrote a book called 'Crisis of Democracy' advocating for the end of democracy."
+  },
+  {
+   "subject": "rich people",
+   "claim": "Rich people have a cynical view of the world, mixing ignorance with arrogance."
+  },
+  {
+   "subject": "identity politics",
+   "claim": "Cynicism among the rich leads to identity politics, where groups label others as enemies if they don't follow their principles."
+  },
+  {
+   "subject": "Patrick Bette David",
+   "claim": "Patrick Bette David dismissed taxing the wealthy by labeling the idea as socialism."
+  },
+  {
+   "subject": "taxation",
+   "claim": "Taxing the wealthy at 90% over a certain income, as done during World War II, would prevent excessive wealth accumulation."
+  },
+  {
+   "subject": "projection",
+   "claim": "People grounded in reality are often labeled as engaging in identity politics by those who are cynical."
+  },
+  {
+   "subject": "wealth",
+   "claim": "In today's world, if you're rich, you're seen as smart, and if you're poor, you're seen as stupid."
+  },
+  {
+   "subject": "education",
+   "claim": "The most important job is being a teacher for kids, as they can instill the difference between right and wrong."
+  },
+  {
+   "subject": "educational system",
+   "claim": "The main problem is the educational system, which fails to teach humanities and history."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle only had one quarter of government class in eighth grade, taught by a basic teacher, and never learned government properly."
+  },
+  {
+   "subject": "philosophy",
+   "claim": "People lack general knowledge of philosophy, leading them to pick and choose ideologies without understanding."
+  },
+  {
+   "subject": "Ben Shapiro",
+   "claim": "Ben Shapiro's video on the Federalist Papers was superficial and didn't explain any concepts."
+  },
+  {
+   "subject": "sophistry",
+   "claim": "Sophistry is dangerous because it allows leaders to sound smart without actually being knowledgeable."
+  },
+  {
+   "subject": "Ben Shapiro",
+   "claim": "Ben Shapiro is a sophist who uses words to sound smart without conveying real understanding."
+  },
+  {
+   "subject": "democracy",
+   "claim": "Rich people like Peter Thiel and Donald Trump want to get rid of democracy."
+  },
+  {
+   "subject": "laws",
+   "claim": "Laws are meant to preserve rights, but some people follow them only because they have to, not because they believe in them."
+  },
+  {
+   "subject": "Roman Republic",
+   "claim": "The Roman Republic was destroyed when rich people broke the law and turned it into an empire."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump may have stolen the election and now wants to end voting and establish totalitarianism."
+  },
+  {
+   "subject": "Commodus",
+   "claim": "Commodus and Caligula created insane laws, like renaming Rome and repurposing statues, due to their cynicism."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump fabricates achievements, like fake golf trophies and battleground stories, to inflate his ego."
+  },
+  {
+   "subject": "Glass-Steagall Act",
+   "claim": "The Glass-Steagall Act was repealed in 1976, allowing banks to gamble with people's money."
+  },
+  {
+   "subject": "campaign finance",
+   "claim": "Under Clinton, campaign finance donation limits were removed, letting rich people buy political influence."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube is a huge industry where right-wing channels spread misinformation and create echo chambers."
+  },
+  {
+   "subject": "education",
+   "claim": "Education from childhood is crucial because societal change comes when the old generation is replaced by those raised right."
+  },
+  {
+   "subject": "democracy",
+   "claim": "Democracy ensures a fair quality of life by allowing people to vote and have a say in their leadership."
+  },
+  {
+   "subject": "electoral college",
+   "claim": "The electoral college is now corrupted by money and should be abolished."
+  },
+  {
+   "subject": "technology",
+   "claim": "Technology can help the intellectual class rise to the top through platforms like YouTube."
+  },
+  {
+   "subject": "Peter Thiel",
+   "claim": "Peter Thiel struggles to articulate answers in interviews, showing his lack of understanding."
+  }
+ ],
  "transcript": [
   {
    "start": 0.27,

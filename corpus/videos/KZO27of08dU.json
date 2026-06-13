@@ -35,7 +35,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "The sound will be good today because he remembered to unplug certain devices."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went to work and worked on two houses, including doing gutters and removing nine bags from the second house."
+  },
+  {
+   "subject": "Theodosius",
+   "claim": "He was listening to the dismantling of the Roman Empire from Theodosius and is interested in that period."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He came back from work, worked a little, then went to his mom's place at five."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He vacuumed the whole house, did the dishes, and helped his mom move two air conditioning units."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom paid him 15 bucks for an hour of work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom gave him a hamburger meal with veggies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is currently working on number 29 out of approximately 87 for the project 'Defunct Ski Resorts of Colorado'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is creating link files, pasting icons, and linking them all in one step."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has already completed the big tasks and is now working on the smaller ones."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He could have finished the project today if he didn't have so much other stuff going on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to finish 'Defunct Ski Resorts' tomorrow and start working on the active ones."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He predicts he could finish the active ski resorts project in another two days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He might be done with everything by the end of the week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He starts yawning a lot when he's tired, especially during videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been groggy all day and is very tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When he's yawning uncontrollably during videos, it means he's extremely tired and could fall asleep almost immediately."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He compares his level of tiredness to driving and needing to pull over because his eyes are shutting."
+  }
+ ],
  "transcript": [
   {
    "start": 0.05,

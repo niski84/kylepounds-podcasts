@@ -44,7 +44,68 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't do his view log yesterday and acknowledges he needs to stay more on top of things."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been getting really high lately because his roommate gives him different strains of weed every day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't have time to look at his manual yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to read through his Owners manual and the motorbike handbook today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle spent time on Google Earth yesterday coming up with cool routes to do in Colorado."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went to his mom's house for Mother's Day yesterday and had a barbecue meal."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had a big slab of beef made by his brother during the Mother's Day barbecue."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle passed out after eating beef because people get tired when they eat beef."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle came home and crashed after the Mother's Day barbecue."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had a couple of beers and lost his ability to work effectively."
+  },
+  {
+   "subject": "Kyle's gecko",
+   "claim": "Kyle's gecko looks over to the corner when he's hungry because that's where the crickets often hide."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to read through his manuals and get prepared today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was going to ride his bike today but it's snowing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle notes that it's snowing even though it's almost June and halfway through May."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to do some requests videos today."
+  }
+ ],
  "transcript": [
   {
    "start": 0.94,

@@ -50,7 +50,148 @@
   "date": "2019-05-10",
   "model": "anthropic/claude-sonnet-4"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I think I'm going to do Living in Boulder Vlog on my main channel from now on instead of just training."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a more interesting life now than just sitting around on the computer all the time doing stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today I wanted to ride my bike on the inside and work on my computer all day long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm realizing I can do a lot with my timeline in not as much time as I thought with these castles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up at like 11:30 because I had a little bit of insomnia last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I ran to my mom's house because she had my bike, which was a mile and a half."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was running like a 12:05 mile according to my Apple Watch."
+  },
+  {
+   "subject": "Apple Watch",
+   "claim": "My Apple Watch still can't communicate with the phone."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to call Apple and ask them what the hell is wrong with my Apple Watch."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My calves are blown to hell from running."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got my bike and did some errands, including going down to town."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to put my triathlon aero bars on my bike to ride on the inside while working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Back in January, I was riding 100 miles a day and working the whole time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had to get long screws to put the aero bars on my new bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a 25-foot Ethernet cable so I didn't have to step over it and under it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a swimming cap from the swimming place because I tore the top of my old one off."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I swam 7,520 meters yesterday, which made me tired today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been gone years and years from exercising, basically laying in like a coma in bed for like 20 years."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was lifting weights and stretching 10 years ago, but nothing since then."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm 45, so I have to ratchet up exercise slowly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It was too cold today, with snow everywhere in the mountains."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow is supposed to be not rainy and freezing, so I'm going to run."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to run up Sunitas, Red Rocks Hill, and possibly Green Mountain tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't want to ride my bike too much today so I wouldn't be too beat to run tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a good start on my North Europe 1,000 to 1,500 castles project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I checked analytics and my website's at 82,000 page views a month, up from 71,000 last week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Once I hit 100,000 page views, I can start getting paid through Ad Thrive."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to make my website more presentable before hitting 100,000 page views."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have Chinese pyramids on my website, but I don't think I'll take them down because they're probably outside of copyright."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not bummed that I didn't exercise much today because I still rode five miles and ran a mile and a half."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Exercise is now a priority over working on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The rain is keeping me from exercising outside."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to finish my Ireland book and listen to a Wikipedia article to start another one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There's a book about a dude who took a boat across South America and saw huge cities in the Amazon with 50,000 people, as big as London at the time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The Amazon had 20 million people living in it in the 1500s."
+  }
+ ],
  "transcript": [
   {
    "start": 0.21,

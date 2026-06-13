@@ -47,7 +47,140 @@
   "date": "2019-05-06",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Today I swam 9,345 meters in two goes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The first swim was 55 laps in a 15.24 meter pool, totaling 825 meters."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The second swim was 885.20 meters."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got out the first time because my earphones, the second pair, didn't work on the left side."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent $50 on the earphones last week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I came home to get my original earphones, and those stayed in just fine."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow I'm going to need to buy a new swimming cap because I yanked the top of it right off."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had a little bit of insomnia from lack of being able to breathe and ended up getting up at 11:30."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had a breakfast burrito at Dodd's Diner because I had the munchies this morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got hamster food, which I didn't need."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "At first I couldn't do the flip turns, so I practiced on the shallow end over and over again until I figured it out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Flip turns aren't that complicated; you just have to go directly under and then kick off."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't have the fitness to do flip turns during my swim because I run out of breath."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I swam for a few hours today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to my mom's house and did a light treatment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I only had a burrito today and some Sprite."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I drank a whole water bottle of Cytomax drink."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Next time I go swimming, I'm going to make two Cytomax drinks so that I don't run out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Cytomax drinks go rotten if they sit around for more than a day or two."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My legs were totally sore today, especially my hamstrings, because I did all the stretching yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's great to go swimming on days where your legs are sore."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I love triathlon because it's a great way to even everything out when one thing is sore."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to sleep tonight and get up to do a ride tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to try the Strava feature on my road bike computer tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I love exercising all the time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I practiced my stroke and remembered you're supposed to have an angle for more power."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The problem with having an angle in my stroke is it feels like it pushes my head down, making it harder to breathe."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm an ambidextrous swimmer, turning to each side to help with my overall stroke."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I hope to feel okay tomorrow so I can do a big ride and maybe a run."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't think I have the fitness to do more than one sport a day, so I'll stagger it: one day swim, one day ride, one day run."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to be able to swim for an hour and a half when the reservoir opens on May 24th."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to train my ass off tomorrow morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to bring my car in to get fixed."
+  }
+ ],
  "transcript": [
   {
    "start": 0.78,

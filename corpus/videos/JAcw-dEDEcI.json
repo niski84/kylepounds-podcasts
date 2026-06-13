@@ -39,7 +39,60 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle slept in and got up at 8:52 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is currently sitting on his couch, which he finds comfortable."
+  },
+  {
+   "subject": "Kyle's ski resorts project",
+   "claim": "Kyle reached a stage in his ski resorts project where he had to back up and fix surface-level issues."
+  },
+  {
+   "subject": "Kyle's Google Earth Fantasylandia Sanctimonium",
+   "claim": "Kyle noticed his Google Earth Fantasylandia Sanctimonium was unprocessed and a mess."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle decided to fix his Google Earth Fantasylandia Sanctimonium before returning to work on Mulder."
+  },
+  {
+   "subject": "Kyle's Fantasylandia project",
+   "claim": "Kyle made significant progress on his Fantasylandia project and plans to tie it together and possibly put it on his website."
+  },
+  {
+   "subject": "Kyle's Fantasylandia project",
+   "claim": "Kyle renamed his Fantasylandia project to Boulder Roma because there was already a place called Fantasylandia."
+  },
+  {
+   "subject": "Kyle's Boulder Roma project",
+   "claim": "Kyle describes Boulder Roma as Rome created in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to work on his Boulder Roma project on Google Earth today and possibly put it on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle finds working on Boulder Roma to be a different kind of thinking but something that can be done well while high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got a lot of cool new ideas for his Boulder Roma project last night while lying down and thinking about it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today is the first day Kyle is working on his Boulder Roma project full time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle started working on his Boulder Roma project late yesterday and got tired, which burned him out."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

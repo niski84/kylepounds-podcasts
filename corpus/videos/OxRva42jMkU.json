@@ -73,7 +73,156 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He received a request from Robert to talk about insomnia."
+  },
+  {
+   "subject": "insomnia",
+   "claim": "Insomnia might be good and natural, and people shouldn't worry about being up at night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had previously thought about making a video on insomnia but couldn't finish it due to technical issues."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to make a video about exercising at night once he gets more physically fit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to convince his mom to support his idea of training at night."
+  },
+  {
+   "subject": "night training",
+   "claim": "Training at night should be made popular because it opens up possibilities for people with busy schedules."
+  },
+  {
+   "subject": "night training",
+   "claim": "People with insomnia should consider training at night to sleep better."
+  },
+  {
+   "subject": "trails",
+   "claim": "In the future, trails will get crowded, and people will get sick of bumping into others."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He recently ran the Mesa Trail and encountered many people, even on a weekday."
+  },
+  {
+   "subject": "night training",
+   "claim": "Exercising at night could help reduce trail overcrowding."
+  },
+  {
+   "subject": "animals",
+   "claim": "Animals will adapt to humans training at night, and people shouldn't overprotect them."
+  },
+  {
+   "subject": "nature preservation",
+   "claim": "Encouraging people to enjoy nature will make them more likely to support habitat protection laws."
+  },
+  {
+   "subject": "trails",
+   "claim": "Building more trails can reduce population pressure on existing ones."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He participated in the 24 Hours of Moab mountain bike race in 2010."
+  },
+  {
+   "subject": "environmentalists",
+   "claim": "They wrongly believe mountain biking harms the environment, but it actually makes people love nature more."
+  },
+  {
+   "subject": "urban development",
+   "claim": "Cities should build upward (skyscrapers) to prevent encroachment on natural habitats."
+  },
+  {
+   "subject": "Denver",
+   "claim": "The city is rapidly developing, which could lead to water shortages and habitat destruction."
+  },
+  {
+   "subject": "Gross Reservoir",
+   "claim": "Its expansion will make it the second-highest dam in the nation after Hoover Dam."
+  },
+  {
+   "subject": "global warming",
+   "claim": "Droughts caused by global warming could lead to a water crisis."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He mapped out natural trails and animal paths in a 160-kilometer radius around Boulder using Google Earth."
+  },
+  {
+   "subject": "night training",
+   "claim": "Training at night is safer because you can see car lights better and avoid accidents."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He almost crashed into a skunk during a night ride on Flagstaff Mountain last year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He saw a bear and a fox while biking last year, showing how animals are becoming domesticated."
+  },
+  {
+   "subject": "night training",
+   "claim": "Riding at night in flat areas like Oklahoma or Texas could be ideal due to cooler temperatures."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is currently in a relaxed mode with his roommate, drinking beer and smoking weed."
+  },
+  {
+   "subject": "mountain lions",
+   "claim": "They are less likely to approach humans at night because bright lights make humans more noticeable."
+  },
+  {
+   "subject": "animals",
+   "claim": "Animals like sparrows adapt quickly to human environments, so they can coexist with night exercisers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is experimenting with stretching all night to combat insomnia."
+  },
+  {
+   "subject": "stretching",
+   "claim": "Being fully limber is essential for athletes to reach their full potential."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to buy candy after the video because he has the munchies."
+  },
+  {
+   "subject": "nocturnal lifestyle",
+   "claim": "Living nocturnally reduces traffic and crowds, making cities more efficient."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He used to be a nocturnalist and enjoyed having the city to himself at night."
+  },
+  {
+   "subject": "stores",
+   "claim": "Stores should stay open 24/7 to accommodate nocturnal lifestyles."
+  },
+  {
+   "subject": "animal friendship",
+   "claim": "Humans should try to make friends with nocturnal animals like mountain lions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He takes Unisom and lavender essential oil pills to help with sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom recommends taking Benadryl after intense training sessions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes mountain lions can be domesticated and even ridden like horses."
+  }
+ ],
  "transcript": [
   {
    "start": 0.53,

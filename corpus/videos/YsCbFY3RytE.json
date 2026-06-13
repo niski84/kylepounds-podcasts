@@ -36,7 +36,160 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Living in Boulder, I feel like I totally fell off the horse."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's been a few days where I did not upload a video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If you miss one day of uploading videos, then you can miss every day after that easily."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I missed uploading a video because I uploaded the same video twice by mistake."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought I recorded a new video but ended up trying to upload the same video that was already uploaded."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got confused and thought something was wrong with the computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Sometimes you just keep trying to upload videos but give up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to get back to uploading videos again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Last time I uploaded a video, I was smoking a lot of hash and marijuana."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My roommate gives me a big amount of weed every weekend."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When I run out of weed, my roommate gives me more."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Mixing weed with hash gets me really high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm really high right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My hybrid hash oil is getting empty."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought two more grams of hash oil, one hybrid and one Sativa."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Sativa gives you energy or something like that."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been working on a page on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Maybe I'll finish the website page today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Once I finish my YouTube page, I'll start uploading a lot of videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Uploading a lot of videos will be fun."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went on a motorbike ride on Saturday, and it was fun."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It was my first motorbike ride in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Riding a motorbike up a mountain lets you feel the power and the rocks it spits up behind you."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Riding a motorbike is awesome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I came up with the idea to ride my motorbike up the mountains, run to the top, and then ride back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Using a motorbike is way cheaper than a car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to get a bike for this plan."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to do some requested videos now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to get exercise because my shoulder is getting worse."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My shoulder hurts, and I can't move it without pain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't know how my shoulder injury happened."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The only thing I can tie the shoulder pain to is pulling some muscles last October at the gym."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wasn't exercising enough, and then I pressed too much at the gym."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The shoulder pain only lasted 20 minutes initially but started hurting again weeks later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "You have to be careful with shoulders."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Summer is here."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think that's all I have to say."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to work on requested videos now."
+  }
+ ],
  "transcript": [
   {
    "start": 0.05,

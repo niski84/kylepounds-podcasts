@@ -41,7 +41,52 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He has been working since around 11 o'clock."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked until around 3 o'clock."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He helped his mom yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He started downloading videos of GoPro and other stuff to watch while riding his bike in the future."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is addicted to Google Earth and Rome because he really wants to know what it looks like."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finished listening to the History of Byzantium podcast."
+  },
+  {
+   "subject": "History of Byzantium podcast",
+   "claim": "The creator abandoned the podcast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wanted to hear the part about when they broke into Constantinople."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He started listening to the History of England podcast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to keep the video short because he hasn't upgraded the program that condenses videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He noticed that his video uploaded just as fast non-condensed, suggesting his slow internet speed might only affect downloading."
+  }
+ ],
  "transcript": [
   {
    "start": 1.22,

@@ -39,7 +39,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He forgot to do his daily vlog for yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His hamster escaped and he put food and water down for it."
+  },
+  {
+   "subject": "hamster",
+   "claim": "It has to climb up a sheer wall to get out, which hamsters can't do."
+  },
+  {
+   "subject": "hamster",
+   "claim": "If it jumps down, it could die or get lost."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks the hamster is probably dead."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He came back from work and did research on motorcycles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He spent the day organizing playlists for living in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hadn't organized playlists for months."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He did a little bit of work on his website but not much."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked on his porch all day and enjoyed it because it was warm."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He rediscovered a new part of his house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has a setup with his shoes strapped to a rack, power bars, wallet, bike log, and extra parts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He forgot to plug in his device and didn't record his bike ride on Strava."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He doesn't race on Strava when biking to work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He prefers to enjoy the ride, smell the flowers, and enjoy the sunshine rather than race."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He bikes on bike paths to work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He admits he's still a little high from smoking weed the night before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hasn't been sober since weed was legalized."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He claims that even when high, he functions at 99% capacity."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He says his memory and structure are not significantly affected by being high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels like the colors are still vibrant when he's high."
+  }
+ ],
  "transcript": [
   {
    "start": 0.02,

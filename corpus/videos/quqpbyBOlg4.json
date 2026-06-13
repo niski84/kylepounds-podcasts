@@ -41,7 +41,68 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle smokes weed every once in a while."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was working until almost 7 PM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle only got like 5 hours of sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels totally rested despite only sleeping 5 hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was working on buildings in the Pantheon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is currently doing the pillars inside the Pantheon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle finds it hard to predict how long the work will take because most buildings have pillars and pillar bases."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle only did the pillar at the pillar base and has to do the pillars all over again, probably thousands."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is looking forward to seeing where he can be at the beginning of February."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle doesn't see himself working on this project longer than February."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was listening to the History of England podcast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle loves the History of England podcast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to try to watch the TV show Hell on Wheels today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was watching Hell on Wheels the other day at his mom's house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle will wait until his girlfriend figures out how to do Netflix."
+  }
+ ],
  "transcript": [
   {
    "start": 0.08,

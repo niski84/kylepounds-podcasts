@@ -42,7 +42,64 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got up at around 11 or 12 yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle worked all day until 3:30 or 4 in the morning yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had to get up today to help his mom with tasks like polishing silver for Christmas, buying something at the hardware store, and cleaning the house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle worked on the NOMACCHI all day yesterday."
+  },
+  {
+   "subject": "NOMACCHI",
+   "claim": "The NOMACCHI is a man-made lake in Rome that is about 500 meters across."
+  },
+  {
+   "subject": "NOMACCHI",
+   "claim": "Only between half and two-thirds of the NOMACCHI is traceable on the map, so Kyle has to draw out the rest like an artist."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle compares building the NOMACCHI to building Boulder, which is 10 times more time-consuming than tracing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is tripped out that the NOMACCHI is the same size as Hayden Lake in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks it would be a good idea to put photos of the NOMACCHI and Hayden Lake superimposed on the internet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to work with his mom today and then continue working on the NOMACCHI."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was listening to the History of Byzantium and stopped watching TV."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got halfway through the first episode of Last Kingdom about Alfred the Great before realizing it was just another stupid TV show."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to go back to historical TV shows and fast forward to the good parts to capture wide pans of castles and battlefields."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has a collection of screen captures from historical TV shows on his other hard drive, which he thinks died."
+  }
+ ],
  "transcript": [
   {
    "start": 0.85,

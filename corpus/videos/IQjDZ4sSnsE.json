@@ -48,7 +48,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I'm at 33.5% fat and 184.4 pounds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My dumbbell exercise involves touching the dumbbell to the knee, which is different from how others do it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can flex and dance between sets."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Others doing similar exercises stop five inches above the knee, while I go all the way down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm doing three sets of 10 reps with 25-pound dumbbells."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My left side is weaker and tighter than my right side."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm sweating a lot during the workout."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have asthma from smoking weed earlier."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I respect the endurance of the CrossFit woman doing 100 reps with 25-pound dumbbells."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My shoulders are blown out from the exercise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm considering switching to 15-pound dumbbells because 25 pounds is too heavy for me now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm 5'10\" and 184.5 pounds with 33.5% body fat."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I call my workout routine 'diesel dad bod workouts,' where I use whatever weight I can handle and keep moving."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm addicted to coffee with sweeteners."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can't do pull-ups without using my legs on a chair for support."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Flexibility affects my strength, especially on my left side, which is tighter."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I love dumbbell workouts and find them fun."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might have pulled a muscle during the workout."
+  }
+ ],
  "transcript": [
   {
    "start": 1.17,

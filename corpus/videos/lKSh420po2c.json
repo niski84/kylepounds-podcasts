@@ -83,7 +83,232 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "David Goggins",
+   "claim": "David Goggins is a motivational speaker who promotes hardcore exercise and the overtraining philosophy."
+  },
+  {
+   "subject": "athletic training",
+   "claim": "There are two different philosophies with being an athlete: overtraining and undertraining."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is on David Goggins' side, favoring overtraining."
+  },
+  {
+   "subject": "training philosophy",
+   "claim": "A good analogy for overtraining is the way slaves, soldiers from ancient Rome, or sled dogs were trained by being worked to death, with the survivors becoming fit quickly."
+  },
+  {
+   "subject": "training philosophy",
+   "claim": "The harder you train, the better you're going to be, as long as you don't get injured."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle tried to run 10 miles but decided against it because his muscles were still sore from lifting weights two days prior."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle lifted weights all day long two days ago and his muscles are still sore because he hadn't done it for months."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle rode five hours on his mountain bike the day after lifting weights, and his whole body was aching."
+  },
+  {
+   "subject": "training philosophy",
+   "claim": "It's better to over-train than to under-train because the body heals itself and can reach a higher level of fitness quicker."
+  },
+  {
+   "subject": "Arnold Schwarzenegger",
+   "claim": "Arnold Schwarzenegger said the same thing as David Goggins about feeling the burn during exercise."
+  },
+  {
+   "subject": "sports",
+   "claim": "Sports make people the best athletes because they compete and push themselves as hard as they can."
+  },
+  {
+   "subject": "competition",
+   "claim": "Competition is about trying to be the best you can be and using other people as benchmarks."
+  },
+  {
+   "subject": "David Goggins",
+   "claim": "David Goggins ran 200 miles in a race and does pull-ups all day long."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Plato said in book Laws, book 7, chapter 14, that the training of the mind and the training of the body need to be wedded together like the horse and the rider."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's life purpose is to marry mental and physical training to avoid wasting time with traditional education."
+  },
+  {
+   "subject": "education",
+   "claim": "Traditional education is just sitting around and licking people's buttholes, and if you're not good at it or different, you get kicked out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got kicked out of college because a professor unfairly failed him, ruining his teaching license plans."
+  },
+  {
+   "subject": "Spartans",
+   "claim": "The Spartans were a purely physically competitive society with 10,000 citizens who trained naked and competed in gymnastics, boxing, wrestling, and running."
+  },
+  {
+   "subject": "Spartans",
+   "claim": "The Spartans had MMA-like sports in ancient Greece as part of the Olympics."
+  },
+  {
+   "subject": "competition",
+   "claim": "The more competitive you are, the more realistic and less egotistical you become."
+  },
+  {
+   "subject": "Alexander the Great",
+   "claim": "Alexander the Great chewed out a professional runner for letting him win a foot race because he knew it wasn't realistic for a king to be faster than a professional runner."
+  },
+  {
+   "subject": "Alexander the Great",
+   "claim": "Alexander the Great said he would only race against other kings because it would be unfair to race against professional runners."
+  },
+  {
+   "subject": "Dunning-Kruger effect",
+   "claim": "The Dunning-Kruger effect shows that the stupider you are, the smarter you think you are because you're not competing with your mind."
+  },
+  {
+   "subject": "physical competition",
+   "claim": "The people who talk the most about being badass fighters are often the most physically incapable."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump claims to be the most persecuted, smartest, and most godly person in history because he doesn't know history."
+  },
+  {
+   "subject": "competition",
+   "claim": "The least competitive people cheat the most and are the most jealous."
+  },
+  {
+   "subject": "Arnold Schwarzenegger",
+   "claim": "Arnold Schwarzenegger was always super supportive of his bodybuilder buddies."
+  },
+  {
+   "subject": "Lance Armstrong",
+   "claim": "Lance Armstrong is an example of someone who won by cheating and then tried to drag his competitors down."
+  },
+  {
+   "subject": "future society",
+   "claim": "In the future, everyone should have a YouTube channel to share their thoughts and accomplishments transparently."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to create a daily vlog show produced live from his bedroom studio."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube should be a platform where everyone shares their thoughts and accomplishments, not just influencers."
+  },
+  {
+   "subject": "jealousy",
+   "claim": "Jealousy was a big problem in ancient Roman and Greek times, leading to poisonings and other harms."
+  },
+  {
+   "subject": "narcissists",
+   "claim": "Narcissists use your confidences against you and focus only on your negatives."
+  },
+  {
+   "subject": "China",
+   "claim": "China's closed society leads to people worrying about saving face and making up stories, like the president claiming to be an endurance athlete."
+  },
+  {
+   "subject": "David Goggins",
+   "claim": "David Goggins' approach is cool, but Kyle doesn't understand why people need motivation to exercise."
+  },
+  {
+   "subject": "steroids",
+   "claim": "People use steroids to get physically strong quickly but ruin their health and die young."
+  },
+  {
+   "subject": "time management",
+   "claim": "The key to exercise is having spare time, which requires streamlining society and eliminating extraneous expenses like traditional education."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was kicked out of college because a professor lied to him and ruined his teaching license plans."
+  },
+  {
+   "subject": "transparency",
+   "claim": "Society needs transparency so no one can get in your way but yourself."
+  },
+  {
+   "subject": "David Goggins",
+   "claim": "Kyle would love to know David Goggins' physical capabilities, like his bench press or biking endurance."
+  },
+  {
+   "subject": "future fitness",
+   "claim": "The next step after David Goggins is combining physical and mental training, like riding 100 miles while listening to a book and then reviewing it."
+  },
+  {
+   "subject": "social safety nets",
+   "claim": "There should be scholarships or government support for people to take time off work for self-improvement."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels it's a bummer that David Goggins makes money from motivational speaking instead of using that time to exercise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had insomnia last night, likely due to recovering from new exercise routines."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks people don't support him because they're jealous of his spare time to build his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to be like David Goggins but with brains, combining physical and mental achievements."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle needs to pass his history tests before asking for money from educational foundations."
+  },
+  {
+   "subject": "future media",
+   "claim": "In the future, Kyle envisions making videos of different lengths to explain his ideas, from 30 minutes to 10 seconds."
+  },
+  {
+   "subject": "sports popularity",
+   "claim": "When Kyle was growing up, only boxing, football, baseball, and basketball were popular, but now endurance sports like running are mainstream."
+  },
+  {
+   "subject": "social media",
+   "claim": "Social media has made young people, especially girls, more muscular and physically fit than ever."
+  },
+  {
+   "subject": "David Goggins",
+   "claim": "David Goggins is important because he changed from being a fat dude to a fit motivational figure."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle can only do 50-mile mountain bike rides because his stomach can't handle eating during rides."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle threw up during his last bike ride because his stomach couldn't handle water."
+  },
+  {
+   "subject": "future categories",
+   "claim": "The ultimate category in the future should be the master of all trades, combining physical and mental training."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Plato's idea of wedding mind and body training can now be achieved with modern technology."
+  },
+  {
+   "subject": "future society",
+   "claim": "Society should use technology to combine physical and mental training, shut down schools, and streamline the economy for social safety nets."
+  }
+ ],
  "transcript": [
   {
    "start": 0.3,

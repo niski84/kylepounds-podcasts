@@ -57,7 +57,128 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "When Kyle was out of shape, he would eat only when he was hungry or had low blood sugar, and only enough to tide him off."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle developed bad eating habits when he was working on his website all the time, often forgetting to eat during the day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the most important thing about diet when trying to get back in shape is eating regularly and enough."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle eats a big bowl of oatmeal every morning, mixed with raisins and honey, which he lets soak for about 20 minutes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks oatmeal is healthy, detoxifying, and cheap, making it a good base food for getting back in shape."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle recommends eating cheap, easy-to-make food when trying to get back in shape to save money and maintain the habit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle suggests having a banana or a protein drink blended with a banana for a quick and tasty breakfast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle tries to have a protein drink at least three times a day because he is generally a vegetarian and needs protein."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle read that only 2% of Olympic athletes are vegetarian."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle tries to be a vegetarian because he thinks it’s healthier and nicer for the animals."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes vegetables are best eaten at night because they don’t provide energy in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels more motivated to eat cleanly when he exercises a lot and feels good physically."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn’t have breakfast today but had a burrito for lunch and a protein drink and pizza later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes it’s better to pig out at night and risk insomnia than to not eat enough at night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had an energy drink today, which he regrets because it might affect his sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle took an involuntary nap today because he was so tired he fell asleep during his vlog."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle finds that if he does a big day of exercise, it can take him up to four days to recover, with the fourth day sometimes being the worst."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes that feeling low blood sugar should only happen during intense physical activity, not from skipping meals."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle doesn’t worry about gaining fat because he sees it as extra energy he can burn during endurance rides."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle shops at Costco once a month, spending around $300-$350, and the food lasts him for at least two months."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle’s last Costco trip was at the beginning of April, and he still hasn’t touched most of the food he bought."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle buys frozen vegetables, sandwich stuff, meat slices, protein drinks, nuts, raisins, yogurt, and potatoes at Costco."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle prefers using an air fryer to cook potatoes because it’s quicker than a regular oven."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle recommends brown rice with good seasoning as a healthy and tasty meal option."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle avoids tuna because it has a lot of mercury."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle brings goo on his rides because it’s easy to eat while biking and helps him gauge his energy needs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle goes through one goo every four to five hours during indoor rides and two goos for a 12-hour ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to bring goo with him tomorrow when he goes to the bike park, weather permitting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle couldn’t go to the bike park today because it was raining and he was tired from fixing images on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the key to his diet is eating a lot, even pigging out at night, to ensure he has enough energy."
+  }
+ ],
  "transcript": [
   {
    "start": 1.01,

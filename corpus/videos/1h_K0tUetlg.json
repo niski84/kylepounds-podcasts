@@ -64,7 +64,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle did his first bi-weekly history test last night and graded himself today."
+  },
+  {
+   "subject": "bi-weekly history test",
+   "claim": "The bi-weekly history test is a way to avoid traditional schooling by excelling in the test, which can lead to acceptance into graduate programs without years of preamble."
+  },
+  {
+   "subject": "education",
+   "claim": "Education today is about elite overproduction, where the focus is on graduating as young as possible, often fueled by nepotism and money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle graduated with an English degree at 23 after two summer sessions and was kicked out of the education department."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle attended Fort Lewis College in Durango and was rejected from CU Boulder because he dropped out of chemistry."
+  },
+  {
+   "subject": "bi-weekly history test",
+   "claim": "The bi-weekly history test involves using a random number generator to select decades and recalling events from those decades within a minute."
+  },
+  {
+   "subject": "bi-weekly history test",
+   "claim": "The bi-weekly history test requires precise knowledge of events, as close calls or rounding up decades do not count."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle scored 154 on his first bi-weekly history test, mentioning 154 things that happened across random decades."
+  },
+  {
+   "subject": "bi-weekly history test",
+   "claim": "The bi-weekly history test exposes personal knowledge and honesty, as participants must grade themselves accurately."
+  },
+  {
+   "subject": "bi-weekly history test",
+   "claim": "The bi-weekly history test can be done with ChatGPT for quick verification and explanation of historical events."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to train his mind by exercising while listening to history books and recordings of different decades."
+  },
+  {
+   "subject": "bi-weekly history test",
+   "claim": "The bi-weekly history test can be taken every two weeks, with different versions focusing on AD, BC, ancient history, and the 20th century."
+  },
+  {
+   "subject": "education",
+   "claim": "Kyle believes that shutting down schools and redirecting funds to robots planting trees could solve environmental issues like global warming."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump thinks Colorado borders Mexico and that the English bombed airports during the American Revolution."
+  },
+  {
+   "subject": "bi-weekly history test",
+   "claim": "The bi-weekly history test could expose leaders like Donald Trump for their lack of historical knowledge."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes that people who excel at the bi-weekly history test should be paid $50,000 a year to focus on learning and fitness."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to be sponsored by billionaires to fund his bi-weekly history test and bike training, allowing him to pay off his HELOC loan and buy new bikes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to ask Elon Musk for sponsorship, calling the bi-weekly history test the 'X test' and himself the 'X racer.'"
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle will combine the bi-weekly history test with book reviews and physical activities like cycling, swimming, and rowing."
+  },
+  {
+   "subject": "bi-weekly history test",
+   "claim": "The bi-weekly history test is the beginning of a new world where people teach themselves and schools are shut down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle encourages people to ask anyone, including college presidents and mayors, to take the bi-weekly history test, backed by the authority of bike school."
+  }
+ ],
  "transcript": [
   {
    "start": 0.5,

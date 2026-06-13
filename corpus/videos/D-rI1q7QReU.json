@@ -40,7 +40,72 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He was working from around 11 until 12:30 on November 24th."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was working on tracing columns and buildings in Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels like he does a lot when zoomed in, but realizes it's just a small fraction when looking at the whole city."
+  },
+  {
+   "subject": "Rome",
+   "claim": "He is rebuilding an entire city of about 12 to 20 miles in circumference, down to the detail of the stairs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He doesn't know how long the project will go on or if he'll finish it, but he'll work on it until the fascination wears off."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He typically works on something new until a new big project comes along, then tries to get it 50% to 75% done before returning to it later."
+  },
+  {
+   "subject": "Rome",
+   "claim": "He is amazed that they can put Rome together and didn't know how many columns there were."
+  },
+  {
+   "subject": "PyCat",
+   "claim": "He was listening to PyCat talk about the history of Rome and is halfway through the content."
+  },
+  {
+   "subject": "history",
+   "claim": "Learning history is about absorbing little tidbits through the years."
+  },
+  {
+   "subject": "Caesar",
+   "claim": "Caesar had to fight Pompey and Brutus in Spain, and he got there with all his legions from Rome in 27 days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He likes memorizing historical facts so he can recall them later without listening to the book again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today is Thanksgiving, and he's going to his mom's house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is technically sober right now because he hasn't had a hit yet this morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is going to get really high later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will have a free meal at his mom's house with his brother and friend."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom wants to go see the alien movie, but he might not go because he's hooked on his job."
+  }
+ ],
  "transcript": [
   {
    "start": 1.68,

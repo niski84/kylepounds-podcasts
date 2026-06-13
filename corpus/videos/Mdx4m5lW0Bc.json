@@ -37,7 +37,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He hasn't smoked weed since he got up permanently."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He smoked weed a couple hours ago when he first woke up and then went back to bed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Last night he was working until 2 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He decided not to make a video last night because he was too tired and would just be yawning the whole time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The new model for bike school is to go on the bike ride, listen to the book, and then do the video the next morning after thinking about it and resting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He accidentally uploaded the same video twice two days in a row."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His new methodology is to watch the video before uploading it to make sure it's the right video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The day before yesterday he worked on the Funk Ski Resort's project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He realized there's a lift or a pass he has to throw in, but it's a short run at the end of the line, so he doesn't have to reprogram the whole thing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If he had to throw in the longest run of the ski resort, he would have to renumber everything after that, which would be a nightmare."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday he finished a lot of the big resorts and now only has Beaver Creek and Crested Butte left."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has to trace a whole new bowl in Crested Butte and finish Beaver Creek."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he's still on track for finishing the project today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got nine and a half hours of sleep last night because he was particularly tired after several days of not getting much sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to do a little tour to show what he's up to when he's done with the project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He demonstrates how to use the website to view Strava segments on Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will have every single ski run in Colorado available like this, with thousands and thousands of them."
+  }
+ ],
  "transcript": [
   {
    "start": 2.03,

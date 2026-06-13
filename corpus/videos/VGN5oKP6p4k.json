@@ -48,7 +48,116 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle keeps getting video requests and hasn't even been out of bed yet because he keeps doing them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle moved to Chile with his wife Wu and her son in May 2007."
+  },
+  {
+   "subject": "Wu",
+   "claim": "Wu is Chilean."
+  },
+  {
+   "subject": "Wu's son",
+   "claim": "Wu's son was 14 when they moved to Chile in 2007."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was in Chile for five years with Wu."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got married in Chile and then returned to the US with Wu because she wanted to live there with him."
+  },
+  {
+   "subject": "Wu",
+   "claim": "Wu got pregnant a month after arriving in the US."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was terrified of having kids and wasn't making any money at the time."
+  },
+  {
+   "subject": "Wu",
+   "claim": "Wu was 37 years old and wanted to have another kid."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was working as a window washer for someone else and freaked out about the pregnancy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle initially tried to get Wu to have an abortion because he didn't want the baby."
+  },
+  {
+   "subject": "Wu",
+   "claim": "Wu is Catholic and didn't want to have an abortion."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle now thinks abortions should be illegal, but believes they should be legal for others."
+  },
+  {
+   "subject": "Wu",
+   "claim": "Wu agreed to have an abortion for a week but then changed her mind."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle changed his mind and decided they should have the baby, then changed his mind again and said they should divorce."
+  },
+  {
+   "subject": "Wu",
+   "claim": "Wu told Kyle the baby wasn't his but was from a boyfriend she had before meeting him."
+  },
+  {
+   "subject": "Wu",
+   "claim": "Wu admitted she was dating and having sex with her ex-boyfriend while still in Chile before leaving."
+  },
+  {
+   "subject": "Wu",
+   "claim": "Wu went to Mexico for a weekend, claiming a friend paid for it, but later admitted it was her boyfriend who paid so they could plan her leaving Kyle."
+  },
+  {
+   "subject": "Wu",
+   "claim": "Wu dumped Kyle, went back to Chile, had the kid there, and then moved to Italy with her boyfriend."
+  },
+  {
+   "subject": "Wu's daughter",
+   "claim": "Wu's daughter turned 13 on September 26th."
+  },
+  {
+   "subject": "Wu's boyfriend",
+   "claim": "Wu's boyfriend is raising their daughter as the biological father."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes Wu did him a favor by leaving him and raising the kid with someone else."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks it would have been terrible if he had raised a kid that wasn't his and he didn't want."
+  },
+  {
+   "subject": "Wu",
+   "claim": "Kyle considers Wu his best friend and says she has his back more than anyone."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is loyal to Wu and loves her but wouldn't marry her again due to her age and physical appearance."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle prefers women under 30 who are super physically fit with tight skin."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle views his website as his kid and doesn't feel the need to have children."
+  }
+ ],
  "transcript": [
   {
    "start": 0.43,

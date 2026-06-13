@@ -37,7 +37,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I was living in Boulder Viewlog on May 5, 2013, or maybe May 14."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, I rode 10 miles out of town to do a house and then rode back on some dirt for the first time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent all afternoon researching motorcycles and think I want to get a Yamaha WR 126, a little cross motorbike for about $1800."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a line of credit from the bank for $5000 at 19.5% interest to pay back a friend and buy a motorcycle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It would be fun to motorbike all over the mountainside."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did a little bit of work, but it's a bummer because I'm used to being ambitious and working on big projects, but now I only have a couple of hours a day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Working on the website feels like traveling through time at light speed because everything changes so fast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to finish what I'm working on now, even though it feels boring and I wonder what I'm doing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm looking forward to organizing my YouTube page and creating a bunch of videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working with a clock today for the first time and starting at nine, but I got to sleep super early yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was groggy this morning because I didn't sleep much last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I brought my hamster out on the porch yesterday, but it escaped through a hole in the deck and is now under the deck."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to seal the hole with cement and paint it to make it hermetically sealed, then buy another hamster."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The escaped hamster is probably starving and dehydrating under the deck, but hamsters are smart and know their escape routes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's a bummer because the hamster is a little smart guy stuck in the pitch black, but hamsters are hamsters."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I looked around the deck but didn't see the hole until it was too late, and the hamster didn't see it either until it was running."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to do two houses today and get breakfast now."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

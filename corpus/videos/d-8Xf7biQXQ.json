@@ -81,7 +81,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle predicts that society is about to enter a phase of extreme creativity and original thought."
+  },
+  {
+   "subject": "rich kids",
+   "claim": "Kyle believes that rich kids who don't have to work should settle down and focus on creativity rather than trying to make more money."
+  },
+  {
+   "subject": "animals",
+   "claim": "Kyle argues that animals, like humans, should focus on their strengths rather than trying to do things they're not good at."
+  },
+  {
+   "subject": "UBI",
+   "claim": "Kyle claims that Universal Basic Income (UBI) will unleash hidden talent and creativity by freeing people from having to work."
+  },
+  {
+   "subject": "society",
+   "claim": "Kyle wonders how society can maintain civility while fostering extreme creativity."
+  },
+  {
+   "subject": "Aristotle and Plato",
+   "claim": "Kyle references Aristotle and Plato's cycles of government, explaining how societies transition from kingdoms to aristocracies, oligarchies, democracies, and back to tyrannies."
+  },
+  {
+   "subject": "democracy",
+   "claim": "Kyle explains that democracy can devolve into rudeness and chaos, as people equate equality with being disrespectful."
+  },
+  {
+   "subject": "aristocracy",
+   "claim": "Kyle argues that aristocracy, ruled by the best and smartest, is the ideal form of government according to Plato and Aristotle."
+  },
+  {
+   "subject": "China",
+   "claim": "Kyle mentions that China's lack of intellectual property rights has fueled rapid invention and entrepreneurship."
+  },
+  {
+   "subject": "creativity",
+   "claim": "Kyle believes that Western-style creativity is still ahead of the rest of the world but needs to be maintained in a civilized manner."
+  },
+  {
+   "subject": "Ben Shapiro",
+   "claim": "Kyle criticizes Ben Shapiro for potentially squashing others' opinions simply because he has more followers."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Kyle suggests that Donald Trump's rise reflects a devolution into a bad form of democracy where might makes right."
+  },
+  {
+   "subject": "knowledge",
+   "claim": "Kyle argues that high-value knowledge, such as history, should be prioritized over entrepreneurial or business knowledge."
+  },
+  {
+   "subject": "history",
+   "claim": "Kyle proposes a bi-weekly history test to measure and improve people's historical knowledge."
+  },
+  {
+   "subject": "education",
+   "claim": "Kyle criticizes traditional school systems for favoring butt-lickers over genuinely smart students."
+  },
+  {
+   "subject": "mind castle technique",
+   "claim": "Kyle explains the mind castle technique as a way to remember anything by connecting meaning to it."
+  },
+  {
+   "subject": "100th monkey theory",
+   "claim": "Kyle references the 100th monkey theory, suggesting that widespread knowledge can lead to collective omniscience."
+  },
+  {
+   "subject": "social media",
+   "claim": "Kyle believes that social media should focus on sharing knowledge rather than shallow content like dancing or flexing."
+  },
+  {
+   "subject": "self-help books",
+   "claim": "Kyle argues that people should move beyond self-help books and focus on learning history instead."
+  },
+  {
+   "subject": "history books",
+   "claim": "Kyle suggests that reviewing history books can strengthen one's brain and expose their depth of knowledge."
+  }
+ ],
  "transcript": [
   {
    "start": 0.62,

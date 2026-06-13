@@ -86,7 +86,112 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks he'll do a YouTube video about Donald Trump becoming president."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle did a video a couple weeks ago about Donald Trump versus Hillary Clinton."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle said he would vote for Hillary Clinton in the 2016 election."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle voted for Gary Johnson four years ago."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump is a bad businessman who went bankrupt six times."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "One of Donald Trump's bankruptcies involved casinos in Atlantic City, including the Mario Lago and another unnamed casino."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump opened Trump Tower, which put his other casinos out of business."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump tried to sell Trump vodka to the Russians."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump's airline didn't do well because he spent too much money outfitting it for short business trips around the East Coast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle did a video about Donald Trump in 2008 because he liked his style on The Apprentice."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump was a Democrat three years ago."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump is friends with progressive people like Jesse Ventura."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's philosophy is to support the president because it's a way to keep unity for the country."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump's presence in the White House could change the political atmosphere, similar to how Bernie Sanders' presence influenced Hillary Clinton."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump could turn the White House into a reality show by filming business meetings with his cabinet and holding press conferences."
+  },
+  {
+   "subject": "Hillary Clinton",
+   "claim": "Hillary Clinton repealed the Glass-Steagall Act, which was put in place to prevent another Great Depression."
+  },
+  {
+   "subject": "Hillary Clinton",
+   "claim": "Hillary Clinton took hundreds of thousands of dollars from bankers."
+  },
+  {
+   "subject": "Hillary Clinton",
+   "claim": "Hillary Clinton got the DNC to funnel democratic money to her ads, which was unfair to Bernie Sanders."
+  },
+  {
+   "subject": "Hillary Clinton",
+   "claim": "Hillary Clinton took millions of dollars from the King of Morocco and Saudi Arabia for the Clinton Foundation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes Hillary Clinton appears to be more corrupt than Donald Trump."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump's immigration stance was a major reason he won the election."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has a friend who supported Trump because he felt isolated working with Indian programmers who spoke Hindi and took jobs from Americans."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes America is a white Christian country with a strong Judeo-Christian culture that has developed over thousands of years."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks white people are genetically better at creating a healthy society due to their European background."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes that bringing third-world immigrants to America can create a third-world environment in the country."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks that if he were in a situation where he couldn't get a job because of foreign workers, he would vote for Trump."
+  }
+ ],
  "transcript": [
   {
    "start": 0.85,

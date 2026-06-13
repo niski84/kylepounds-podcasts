@@ -35,7 +35,68 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "cultivating truth in household",
+   "claim": "If you punish your child for telling the truth, they might learn to lie to avoid punishment."
+  },
+  {
+   "subject": "cultivating truth in household",
+   "claim": "You have to use intelligence psychology to cultivate a culture of telling the truth in your household."
+  },
+  {
+   "subject": "cultivating truth in household",
+   "claim": "Each case is different, and you have to explain everything to the kid."
+  },
+  {
+   "subject": "cultivating truth in household",
+   "claim": "Tell the kid that they will get busted anyway, whether they lie or tell the truth."
+  },
+  {
+   "subject": "cultivating truth in household",
+   "claim": "Getting busted as a liar takes away a lot of points, while telling the truth shows appreciation for honesty."
+  },
+  {
+   "subject": "cultivating truth in household",
+   "claim": "Explain to the child that lying and getting away with it is really hard, and it's better to tell the truth because they will eventually get busted."
+  },
+  {
+   "subject": "cultivating truth in household",
+   "claim": "If you cultivate a culture of honesty, admitting to wrongdoing becomes the least of your concerns."
+  },
+  {
+   "subject": "cultivating truth in household",
+   "claim": "A culture of honesty in the household is the same as a culture of intelligence, disclosure, and transparency."
+  },
+  {
+   "subject": "cultivating truth in household",
+   "claim": "When everyone is communicating and getting along, wrongdoing is less likely to happen in the first place."
+  },
+  {
+   "subject": "cultivating truth in household",
+   "claim": "If you have a culture of honesty, you focus more on sharing and being honest rather than admitting to bad things."
+  },
+  {
+   "subject": "cultivating truth in household",
+   "claim": "A true culture of honesty involves sharing everything, debating religion, politics, and being high-functioning, intelligent people."
+  },
+  {
+   "subject": "cultivating truth in household",
+   "claim": "In a culture of honesty, admitting to wrongdoing is the last thing you think about because you're too busy creating magic with honesty and intelligence."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle surfed for a month and a half and found it easier and fun."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has kayaksurfed on rivers, which he found fun."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle never stood up and rode the wave in chilly conditions."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

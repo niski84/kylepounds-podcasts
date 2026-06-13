@@ -38,7 +38,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle just got out of bed and is having breakfast while being really high before going to work."
+  },
+  {
+   "subject": "Kyle's videos",
+   "claim": "Kyle received a request that his videos should be at least five minutes long but no longer than eight minutes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to follow the guideline of making his videos five to eight minutes long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday was Kyle's first day dedicating the whole day to working on Boulder Rome, specifically the kingdom."
+  },
+  {
+   "subject": "Boulder Rome",
+   "claim": "The kingdom of Boulder Rome is exactly the size of Boulder County."
+  },
+  {
+   "subject": "Boulder County",
+   "claim": "Boulder County traces back to 200."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The Latins trace Rome back to 206."
+  },
+  {
+   "subject": "Caribou",
+   "claim": "Caribou is going to be all the longer, and Kyle is changing some stuff around, including locating the Cluelian trench."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to create Boulder Rome organically by pairing cities without following any system and piecing it together later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle traced the outlines of cities to determine habitable areas, aiming for around 4k, similar to his work in Europe and Italy."
+  },
+  {
+   "subject": "Manzanilla",
+   "claim": "Manzanilla is a perfect oval, but Kyle thinks he is missing some details and needs to find some walls he made a lot of time ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today is Kyle's first day spending the entire day working on Boulder Rome."
+  },
+  {
+   "subject": "Boulder Rome",
+   "claim": "Kyle finds Boulder Rome super fascinating and magical due to how well the cities and sizes match up with Boulder County and the kingdom of the Latins."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to work on Boulder Rome for the next two or three weeks before focusing on Boulder itself."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is almost done with Boulder but needs to work on panoramas before completing it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle listened to the chapter about Gratian from 'Decline and Fall' yesterday."
+  },
+  {
+   "subject": "Gratian",
+   "claim": "Kyle wants to memorize the part about the conversion and the split of the Roman Empire into two, as well as the conversion of religions."
+  },
+  {
+   "subject": "Roman emperors",
+   "claim": "Kyle finds some of the more obscure Roman emperors interesting and mentions Adrian Murdoch, who does good synopses of the emperors."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has a system with his girlfriend where they talk for an hour or two each night about the book they listen to together."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes that shooting for exactly five minutes of video content each day is enough to cover everything effectively."
+  }
+ ],
  "transcript": [
   {
    "start": 2.13,

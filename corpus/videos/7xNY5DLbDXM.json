@@ -33,7 +33,100 @@
   "date": "2019-05-05",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Today was his very first day of stretching."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was originally going to do some sport exercising but decided to stretch all day because he was really wasted yesterday and his legs were barely moving."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got up at 10:30 because he had insomnia from asthma last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had to get on health insurance again to get some asthma medication."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He listened to 'Popular History of Ireland' until the end of book nine."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to do books 10, 11, and 12 tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The general rule of thumb for training all day long and listening to audiobooks is about 500 pages a day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If somebody has the computer read the book to you, it's faster and you can do more."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He likes to do a book when he stretches or reads it from his phone."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He can do a sport like running or swimming while having one of his Kindles read to him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He did some simple stretches including hamstring left, hamstring right, double hamstring, splits, calves individually, and two different kinds of buttock ones."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has a demo video from 10 years ago with the same exact routine now, which involves isolating muscles and squeezing all the juices out of them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has two stretches for his upper body where he just hangs on something."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He cycled through his stretching routine from 11 until 8."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His legs are super sore, similar to lifting weights all day long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It was like 10 years since the last time he went stretching."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wanted to see how limber he could get in one day and get his legs to a reasonable limberity."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His legs were a wreck the last couple of days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wanted to get into the habit of stretching all the time but couldn't in the last couple of days because he was too tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is happy that he stretched and feels tired like he's been exercising all day long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's midnight right now and he's been up for about 13 and a half hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to do some exercise tomorrow, possibly starting with swimming and then going on a ride to see how his bike computer's Strava segments work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He would like to film his exercise tomorrow."
+  }
+ ],
  "transcript": [
   {
    "start": 0.08,

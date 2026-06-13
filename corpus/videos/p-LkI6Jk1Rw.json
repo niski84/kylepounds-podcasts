@@ -39,7 +39,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "time",
+   "claim": "Time goes by so fast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is not working today because it's too cold."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was adding sister towns to Boulder, Rome yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle realized he had to build roads in Boulder and Italy to get more detailed."
+  },
+  {
+   "subject": "Italy",
+   "claim": "There are seven major roads and about 20 minor ones in Italy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to build the roads in Italy today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle worked until late yesterday, around 2 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle slept a little more than normal today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle finds it fun to make roads and wants to incorporate bridges and build a replica of Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to build towns around the replica."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle will do his videos in his room from now on because his roommate distracts him in the living room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thought he killed his crickets a few days ago, but they were just hibernating."
+  },
+  {
+   "subject": "crickets",
+   "claim": "The crickets got half frozen after spending the night outside."
+  },
+  {
+   "subject": "weather",
+   "claim": "The weather changed drastically from 80 degrees to winter in one day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to power through Google Earth and the Roman Empire."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to build the Roman Empire in Google Earth and then replicate it in America."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to get Libby and history books on his website this winter."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle listened to a podcast for the first time yesterday."
+  },
+  {
+   "subject": "podcast",
+   "claim": "The podcast Kyle listened to was hosted by Mike something and was really good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is a little behind the times on technology."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is a little high after having about 10 hits."
+  }
+ ],
  "transcript": [
   {
    "start": 0.53,

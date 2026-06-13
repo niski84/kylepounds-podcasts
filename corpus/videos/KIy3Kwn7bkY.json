@@ -48,7 +48,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He wants to create a mathematical equation unifying reincarnation with scientific evolution."
+  },
+  {
+   "subject": "reincarnation",
+   "claim": "There's an argument between reincarnation and scientific evolution, mainly reincarnation versus intelligent design."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He always believes in reincarnation and knows a lot of people believe in it."
+  },
+  {
+   "subject": "soul",
+   "claim": "If you believe your soul is born on planet Earth, it means your soul came along with the very earliest cellular organism and evolved into a human."
+  },
+  {
+   "subject": "reincarnation",
+   "claim": "To become a human, you start as a single cell organism, live its lifespan, die, and reincarnate as another single cell organism, stacking lifespans until you evolve into a human."
+  },
+  {
+   "subject": "human evolution",
+   "claim": "You can tally up all the lifespans and interactions (eating, pooping, peeing, fighting, sex, children, communication) of organisms from single cell to human to understand how many times it takes to do certain things to become a human."
+  },
+  {
+   "subject": "human evolution",
+   "claim": "Most people think tallying up all interactions from single cell to human is impossible, but it's just simple math."
+  },
+  {
+   "subject": "Buddhist quote",
+   "claim": "There's a Buddhist quote that says the chances of being born a human are less than a turtle floating in the ocean randomly popping its head through a lifesaver."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He interprets the Buddhist quote as comparing the chance of being born a human with all other animals alive today, but he doesn't believe it because you have to live the entire lifespan of organisms to become a human."
+  },
+  {
+   "subject": "reincarnation",
+   "claim": "Most lifespans in human evolution aren't human; it's a small percentage."
+  },
+  {
+   "subject": "reincarnation",
+   "claim": "You could divide reincarnation into first and third world countries, but it gets complicated and borderline racist because third world countries happen to have dark-skinned people, implying they're younger souls."
+  },
+  {
+   "subject": "reincarnation",
+   "claim": "Rules change as the future goes on, and there can always be exceptions, like a dick living in a first world country or a nice person in a third world country."
+  },
+  {
+   "subject": "reincarnation",
+   "claim": "You could set rules to tally how many times you've killed or eaten something as an animal to understand your evolution to human."
+  },
+  {
+   "subject": "reincarnation",
+   "claim": "It gets complicated to explain, but you could come up with a scientific explanation for esoteric questions by plugging evolution into it."
+  },
+  {
+   "subject": "reincarnation",
+   "claim": "There are more single cell organisms and basic animals than humans now, so maybe it takes lots of souls for single cell organisms to turn into the soul of a human."
+  },
+  {
+   "subject": "Christianity",
+   "claim": "When Christianity was invented, they had councils like the Council of Nicaea that asked crazy questions, like how many angels can fit on the tip of a needle."
+  },
+  {
+   "subject": "angels",
+   "claim": "You could explain how many angels can fit on the tip of a needle scientifically by saying the smallest a soul can be is the size of the smallest living organism and calculating how many fit on a needle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks it'd be fun to answer all the crazy questions from Christian and Buddhist councils by plugging them into mainstream science."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "You could gain insights into the future based on these equations."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's kind of high from smoking most of a joint his roommate gave him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This idea integrates everything and helps you remember everything, like the mind palace technique he talked about in another video."
+  }
+ ],
  "transcript": [
   {
    "start": 0.3,

@@ -39,7 +39,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle doesn't remember exactly what he did with his website yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got up early in the morning after working late and was still tired because his mom wanted to take him shopping."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle and his mom went to three different places to find a dresser because the first place was too big and the second place was too small."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went to Goodwill and got a dresser for 50 bucks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's mom got him a TV."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle hasn't watched the TV since he got it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's mom said he can get Hulu for a month for free."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle doesn't know what Hulu is but guesses it's like Netflix for movies and stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is hesitant to try Hulu because he worries about automatic charges after the free month expires."
+  },
+  {
+   "subject": "Kyle's mom",
+   "claim": "Kyle's mom had Netflix reactivated on her after the free month expired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is listening to the history of Byzantium and finds it really interesting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has never been totally proficient in the history of Byzantium but is now super interested in it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is looking at the history of Byzantium in terms of Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is reading 'The Decline and Fall of the Roman Empire' and thinks it goes all the way to the end of Byzantium."
+  },
+  {
+   "subject": "Roman Empire",
+   "claim": "The Roman Empire grew following good rules, then followed bad rules, and eventually shrank and disappeared."
+  },
+  {
+   "subject": "Byzantium",
+   "claim": "Byzantium was just a town before it was taken out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been thinking a lot about doing a fundraising video lately."
+  }
+ ],
  "transcript": [
   {
    "start": 0.62,

@@ -36,7 +36,64 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Today was a get caught up on sleep day because he was working until like 6."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He started two new pages that are essential."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to finish the pages now because he is so close to completing them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "One of the pages will probably take a whole day to complete."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday he spent all day doing the picture thing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Later on yesterday, he started working on a new page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The new page is graphs of different levels for all the different divisions lined up to ancient Rome."
+  },
+  {
+   "subject": "ancient Rome",
+   "claim": "In ancient Rome, they had Cherry races 60 times a year."
+  },
+  {
+   "subject": "ancient Rome",
+   "claim": "They normally had 24 divisions a day during Cherry races."
+  },
+  {
+   "subject": "cycling",
+   "claim": "You can have 24 divisions in cycling if you include both sexes in one division by age."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had his shower this morning and came back feeling burnt out and exhausted."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn’t feel like doing the video or talking, so he went to sleep and woke up later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He gutted his closet to put pictures back there and moved all his stuff to the couches in the living room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His roommate and his girlfriend were making noise in the living room today."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

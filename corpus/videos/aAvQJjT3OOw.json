@@ -29,7 +29,52 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He forgot to unplug the earphones the first time he did this video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "From now on, he will delete comments that he cannot respond to on his videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He doesn't want to allow comments that he can't respond to because it doesn't seem fair."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He doesn't want to come across as someone who doesn't answer questions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Since the beginning of his YouTube channel, he has responded to all comments."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Deleting comments he can't respond to helps him maintain his integrity and stay true to responding to every comment he can."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is going to investigate why he can't respond to some comments on YouTube."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "The last time YouTube restricted his ability to comment, they sent him an email stating it would last for three weeks."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "This time, YouTube took away his ability to comment without sending him an email."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to email YouTube about the issue, but if they don't respond, he will find other means to get his voice heard."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "As time goes on, the issue will probably annoy him more and more."
+  }
+ ],
  "transcript": [
   {
    "start": 0.02,

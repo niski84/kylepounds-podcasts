@@ -38,7 +38,112 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He got up and had to work at eight on May 7, 2014."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He rode his bike through a bike path he had never used before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He rode home on another bike path he had never used before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The rainy weather caused his job to be canceled, so he came home and worked on his website all day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finished one page of his website and is working on some big news related to it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't work the next day either because they were supposed to get rained out, but it didn't rain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He looked on Craigslist for a motorcycle and found one just three blocks from his house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He rode his bike to see a 2003 Kawasaki XTR 400 in really good condition, listed for $3,100."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went to the bank to transfer his line of credit to buy the motorcycle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There was confusion with the bank due to another deal under the same name."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He negotiated with the seller, initially offering $2,600, then $2,700, but settled on $2,900."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He brought the motorcycle home and stored it in his garage."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The motorcycle came with trail gears and original gears."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He can't take his driver's test until May 5th."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The minimum line of credit was $5,000, so he took out $3,000 for the bike and plans to take out the remaining $2,000 for his friend."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He now has his entire $5,000 line of credit allocated, with $5,000 going to his friend."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is happy with his living situation, especially having an indoor garage to store the motorcycle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His van doesn't fit in the garage because of the racks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His roommate offered to help him extract something on Sunday, which they plan to film for a YouTube video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to go to the bank to get more cash for his friend."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is waiting for an insurance agent to email him so he can register the bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has the manual to study for the written test, which he plans to take soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has almost no experience riding motorcycles but is excited to hit the trails."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The motorcycle is a Kawasaki KLX 400 in pristine condition with two sets of gears."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The motorcycle has features like breakaway mirrors, lights, and signals."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He also owns kayaks but doesn't dream about them."
+  }
+ ],
  "transcript": [
   {
    "start": 0.02,

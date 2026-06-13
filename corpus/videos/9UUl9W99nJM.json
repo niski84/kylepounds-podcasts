@@ -58,7 +58,104 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Sometimes people get sore muscles like knots and call it a back injury, using it as an excuse to not exercise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Not exercising due to perceived back injuries leads to weakness and actual back problems."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The mind has a lot to do with the health of your body because it communicates with the body in immediate and strong ways."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Adrenaline rushes from being scared or angry show how quickly the mind can affect the body physically."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Different glands like adrenal glands, testicles, ovaries, and pituitary secrete hormones based on mood and thoughts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Hormones travel through the lymph system, which is more extensive than the bloodstream, affecting cells throughout the body."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The body has two modes: maintenance mode for long-term health and fight-or-flight mode for immediate survival."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Chronic fight-or-flight mode prevents nutrient sharing and toxin flushing, leading to premature aging and illness."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Cells communicate via proteins and hormones that attach to cell linings, sending signals to the nucleus."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Being relaxed, sleeping well, and exercising allows the body to function as designed without unnecessary stress."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Hypochondria can stress the body by avoiding exercise and fixating on illness, leading to glandular atrophy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Emotions like love or anger activate glands and bodily responses, showing the mind's control over the body."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Positive thinking about health is better than negative thinking, which can make you sick."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Refusing to believe you're sick (like a workaholic with sniffles) can sometimes help recovery by keeping circulation going."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Focusing on minor illnesses like sniffles can make them worse by drawing attention and causing secondary issues."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Hypochondria is a form of stupidity because a logical person would assess their body like a mechanic checks a car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Hypochondria might stem from wanting attention, laziness, or having nothing better to do."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Confronting hypochondriacs with logic can make them realize their irrationality and help them stop inventing illnesses."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Fighting hypochondria involves redirecting focus, like exercising despite perceived ailments."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Using the placebo effect on yourself, like drinking 'magical herbal tea,' can improve mood and health."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Hypochondria is dangerous when ignoring serious symptoms like organ pain, which could indicate cancer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Obamacare makes it more affordable to get CAT scans and catch cancer early."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Over-exercising can lower immunity temporarily, but the body bounces back quickly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "People need to be in touch with their bodies through exercise to avoid hypochondria."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

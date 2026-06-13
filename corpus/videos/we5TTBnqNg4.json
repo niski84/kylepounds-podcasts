@@ -42,7 +42,112 @@
   "date": "2019-05-04",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He is super basic, starting from the bottom in the worst shape you can be in."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went on a big ride of 85 miles yesterday, the first time he went on such a big ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today he was physically shot and could have slept all day if he wanted to."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Last night, he didn't really sleep much at all and it took him forever to get to sleep because he got really bad asthma."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is going to need to go in as soon as he can next week on the weekday to sign up for health insurance so he can get back on Advairs."
+  },
+  {
+   "subject": "Advair",
+   "claim": "You can't just buy Advair at $650 because it's debilitating."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got up late at 10:30 and had to meet his mom at 1:30 to go see Avengers Endgame with his mom and brother."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He ran 4.85 miles in an hour, averaging 12.31 a mile."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He ran up to the local track a couple miles away, ran around the track a few times, and then came back to his mom's house by 1:30."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His fastest mile was 11.29, which is his full-blown running pace."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It was super freaky for him to not be able to run because his legs basically don't move and he can't bound."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is super motivated to be a triathlete."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The sports that are easiest for him to pick up as a totally basic are swimming and riding because they don't involve joints."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Running is problematic for him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He stretched a little bit over at his mom's house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He saw the movie Avengers Endgame with his mom and brother."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He did a light treatment that made him feel much better and put him to sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks stretching is just as important as any other kind of sport."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to stretch three hours a day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is not really into resting, even if it means he doesn't fully recover, because it's a mental thing for him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He explains his psychology of training as a flat surface with a ball on top, where one side is work (like his website) and the other side is exercising."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to have the ball over with the training side because he is naturally going to work on his website anyway."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If the ball is on the website side, he won't do any training at all, based on his life experience."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "As long as all he thinks about in his obsessive mind is training, he is there and ready to feel good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will probably look healthier and healthier as time goes on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow he wants to try to get up early, sleep tonight, start swimming, and then go running."
+  }
+ ],
  "transcript": [
   {
    "start": 0.85,

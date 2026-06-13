@@ -42,7 +42,120 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I went up Boulder Canyon and then four mile canyon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went up Logan Mill Road to the left."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was directed to Sugar Loaf Road, which is paved."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to the other side of Sugar Loaf Mountain down Switzerland Trail, which is a small trail for motor bikes and ATVs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I saw a car up there on Switzerland Trail."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went up Bare Gulch, which was really fun, steep, and loose."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was bouncing up the whole Bare Gulch trail."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took a ride back up Sugar Loaf to Peak to Peak Highway."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The whole trip was about 70 miles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I ran out of gas at the end of the trip."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We took a detour down some dirt road just to see where it went."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We went up to the end of that road, but it wasn't open yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think one of the trails will be opened for mountain motor bikes later on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We went up to Green Ridge Lake, but it was closed before we could actually get to the lake."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There was still a lot of snow up there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We went down to the town of Ward and up Switzerland Trail."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We got lost and went around looking for Switzerland Trail."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Some dude had his own lake all to himself."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We turned around where the lake is and went down Switzerland Trail."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've mountain biked Switzerland Trail a bunch of times."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Switzerland Trail has a cool narrow road."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We went back up Bare Gulch for the second time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We went to the base of Sugar Loaf Mountain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We went back down this part of Switzerland Trail for the second time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We went down Four Mile Canyon back home."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The whole trip was about 70 miles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I ran out of gas and had to use the reserve tank."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The new trail was part of the adventure."
+  }
+ ],
  "transcript": [
   {
    "start": 0.98,

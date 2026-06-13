@@ -69,7 +69,196 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He got diagnosed with autism."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got diagnosed with autism again recently."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was diagnosed with level one autism out of three."
+  },
+  {
+   "subject": "autism",
+   "claim": "Level one autism is the normal autistics who seem normal."
+  },
+  {
+   "subject": "autism",
+   "claim": "Level three autism is like the type who don't even talk, like Rain Man."
+  },
+  {
+   "subject": "Kim Peek",
+   "claim": "He died of a heart attack a few years ago at 56."
+  },
+  {
+   "subject": "Kim Peek",
+   "claim": "He could tell you the day of the week for any date."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He took an autism test a couple weeks ago or maybe a month ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has trouble finding specific words for things."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He forgot the word for a pair once when he was a kid."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He noticed a rich lady rolling her eyes at him in Texas a few years ago but pretended not to notice."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was kicked out of school in fourth grade."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He left school two weeks before the end of fourth grade."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wanted to be a bike racer since he was 10."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He raced road bikes in 1987 when he was 13."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got 25th out of 40 or 50 kids in the Red Zing race."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He ran a 5:45 mile on the track team in the spring."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't train at all for the bike race in 1987."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His parents didn't want him to race bikes because they thought it was too expensive."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom thought competition would make him depressed if he didn't win."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wasn't allowed to race in 1988 because he had Osgood-Schlatter knee disease."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His father made him quit bike racing after 1988."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had a friend named Tom who died in a paragliding accident."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had another friend who started screaming at him and smashing his house apart."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has zero friends now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was told to drop out of chemistry class in high school because he was getting D-pluses."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had a piano teacher who wouldn't teach him a song on the first day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He refused to take more piano lessons from that teacher."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes autistic people are more similar to people in the future than regular people."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks neurotypical people are more similar to people in the past."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He created a timeline to memorize history by superimposing different parts of the world and history on top of each other."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes omniscience is memorizing 150 things from a 500-year period in a country."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He made a timeline for England from 1500 to 2000 with 150 things in three sections: war and treaties, science, and culture."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks autistic people are more logical."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes autistic people notice non-verbal cues just as well if not better than everybody else but ignore them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks autistic people are more focused on the actual data than non-verbal cues."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks autistic people have an insatiable desire to understand everything all the time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes autistic people sacrifice other things to focus on what they're interested in."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wears the same t-shirt every day to save time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks autistic people end up with no friends because they make friends with people they shouldn't."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes autistic people are just better at certain things, like extreme concentration."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks the school system doesn't work with autism because it teaches things in a sequence instead of all at once."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes autistic people learn faster by memorizing everything at once instead of step by step."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks neurotypical people don't need a reason to make monkey faces at you."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes autistic people are more interested in what you're saying than your non-verbal cues."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks autistic people are more ambitious than neurotypical people."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hopes autistic people will try to memorize history using his timeline method."
+  }
+ ],
  "transcript": [
   {
    "start": 0.94,

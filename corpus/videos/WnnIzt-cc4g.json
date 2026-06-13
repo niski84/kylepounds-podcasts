@@ -54,7 +54,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He forgot to unplug his earphones while recording a video, which made it hard to hear himself talk."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was working until 3 AM and is trying to adjust his schedule back to daytime."
+  },
+  {
+   "subject": "Rome",
+   "claim": "He has been working on a project about Rome for about two to three weeks before burning out on it."
+  },
+  {
+   "subject": "Rome",
+   "claim": "He doesn't think he'll finish Google Earthing Rome before burning out on the project because it's too big."
+  },
+  {
+   "subject": "Boulder",
+   "claim": "His goal is to finish Google Earthing Boulder by the end of the winter."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hates doing videos twice and suggests painting his earphones red to remember to unplug them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He traced a couple of buildings before recording the video because he forgot to do it earlier."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to have breakfast because he's hungry."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His hair is getting long and he might need a haircut soon, especially once it gets in his eyes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom likes to make him cut his hair, but he'll wait until she insists."
+  },
+  {
+   "subject": "Rome",
+   "claim": "He realized he got some measurements wrong about a map of Rome, correcting it from 100 feet by 100 feet to 30 feet by 30 feet."
+  },
+  {
+   "subject": "Rome",
+   "claim": "He had a picture of the map of Rome on his wall, but it fell off and some pieces were lost or used as building material."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Only 10 pieces of the map were recovered after it fell."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The map of Rome was made by Severus around 205 AD."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The Aurelian Wall was built around 270 AD, about 65 years after the map was made."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The Rome depicted in the Severan Map is the same Rome that Aurelian built the wall around."
+  },
+  {
+   "subject": "Rome",
+   "claim": "He is excited about tracing the map of Rome but didn't know the Severan Map existed until he found it on the David Rumsey map website."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "The 3D Rome on Google Earth is probably the most developed city model they have."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "He wishes Google would provide the technology to turn pictures of buildings into 3D models for public use."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The Aurelian Wall is about 20 kilometers (12 miles) in circumference."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Tracing Rome is easier than tracing Boulder because the buildings are bigger and more straightforward."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is hungry and needs to eat."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

@@ -46,7 +46,104 @@
   "date": "2019-05-07",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's hair looks calm even though it's not."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was busy all day helping his mom and organizing his house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't sleep at all last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle saw a video about testosterone for men over 40 before going to sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle hasn't been active for years and has been mostly lying or sitting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went running recently and could barely run."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle swam 9,345 meters in the pool yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Lower testosterone in older men can cause insomnia."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's body is in recovery mode since he started training about a week ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The physical pain from not exercising for years feels the same as being overtrained."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels like he might be overtrained but isn't sure because he feels bad regardless."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't sleep at all yesterday but felt okay today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle ran on the treadmill today but could only go four miles per hour."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle watched Robin Hood on Netflix while running but found it too painful to continue."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle ran a mile and a half before stopping because it was too depressing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to psych himself up to trot on the treadmill tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to swim 10 kilometers tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't listen to an audiobook the last time he swam 10 kilometers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle spent three hours today working on website tasks, including collecting castle photos from his timeline."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's new earphones don't work on the left side and need to be sent back to Amazon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to listen to music while swimming tomorrow for motivation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been staying awake until sunrise lately."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to listen to his audiobook tonight to finish 'The Popular History of Ireland.'"
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels frantic about finishing the book and doing a book review."
+  }
+ ],
  "transcript": [
   {
    "start": 0.91,

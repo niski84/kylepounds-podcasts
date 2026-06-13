@@ -47,7 +47,84 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle forgot to do his V-LOG on November 9th, so he did it after coming back from work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle pretty much finished his Ski Resorts project on November 8th."
+  },
+  {
+   "subject": "Ski Resorts project",
+   "claim": "Kyle didn't complete some Ski Resorts because he didn't have internet when he tried to work on them."
+  },
+  {
+   "subject": "Ski Resorts project",
+   "claim": "Kyle realized later that the Ski Resorts he guessed on were much bigger than he thought and had actual cut-out trails, so he needs to redo them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had internet problems before getting a new modem, but still experienced weird internet issues afterward."
+  },
+  {
+   "subject": "Carbonite",
+   "claim": "Kyle needs to ensure his Carbonite backup is turned off during the day and only turned on when he's at work or at night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to do more flyovers and movie files for his Ski Resorts project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle intends to finish the Ski Resorts project within the next week, between Monday and Friday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle usually burns out on projects after two or three weeks and then moves on to something else."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle doesn't intend to fully finish his current project but plans to do the main stuff before moving on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes he can finish everything in a year."
+  },
+  {
+   "subject": "Trump",
+   "claim": "Trump won the election, and Kyle plans to make a video about it soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's mom wanted to go see Doctor Strange with him on November 8th, but he declined because he was too busy working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks he's done with movies, even at the theater, including the good 3D ones."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to sell his van this winter and borrow another thousand dollars from his mom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle doesn't think his mom will want to owe him anymore after he borrows money from her."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to sell his car, pay off his debts, and be ready to move on by the end of next year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels like time doesn't matter and that three years ago feels like yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes that January 1st, 2018, will feel like tomorrow."
+  }
+ ],
  "transcript": [
   {
    "start": 0.14,

@@ -73,7 +73,176 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Enduro School is a lifestyle that he is finally ready to pursue because he has the time and money for it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His full-time job is bike school, financed by land investments from his grandfather hundreds of years ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has never made money from his website or YouTube."
+  },
+  {
+   "subject": "Enduro School",
+   "claim": "The idea behind Enduro School is to listen to an audiobook every day while engaging in endurance sports like swimming, biking, or running."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes you can finish a 500-page audiobook in a day if you listen from sunrise to sunset."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The first book he listened to was 'Popular History of Ireland', which is 2,000 pages long."
+  },
+  {
+   "subject": "Enduro School",
+   "claim": "The goal is to be prolific, doing a new book every day unless it's a gigantic book that takes multiple days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has around 1,600 books to go through before cycling back to repeat any."
+  },
+  {
+   "subject": "Enduro School",
+   "claim": "The purpose is to memorize all the history books on his website by listening to them repeatedly."
+  },
+  {
+   "subject": "Enduro School",
+   "claim": "The goal is to make it possible for everyone to be a professional athlete by leveling the playing field."
+  },
+  {
+   "subject": "professional athletes",
+   "claim": "Currently, only about 50 triathletes a year make enough money to be professional, leaving others to work jobs that limit their potential."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes people need to spend all day, every day improving themselves to reach their potential."
+  },
+  {
+   "subject": "Enduro School",
+   "claim": "The idea is to make it so that people can give back to society as their training, rather than just inspiring others by being exceptional."
+  },
+  {
+   "subject": "Dan Payne",
+   "claim": "He criticizes Dan Payne, the '$50 billion man', for charging people for motivational speaking and celebrating his wealth."
+  },
+  {
+   "subject": "David Parkman",
+   "claim": "He references David Parkman's video about social media being toxic and people being fake on platforms like Instagram."
+  },
+  {
+   "subject": "social media",
+   "claim": "He agrees that social media has become toxic, with people only showing their best, fake selves."
+  },
+  {
+   "subject": "Enduro School",
+   "claim": "He wants to create a level playing field where everyone shares their mind equally, emulating nature's balance."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He connects physical and mental fitness, believing they complement each other."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This is his fifth time exercising in 2019 and the first time listening to an audiobook all day."
+  },
+  {
+   "subject": "Enduro School",
+   "claim": "The plan is to do a book every day, with videos lasting about an hour for a 500-page book."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes this lifestyle saves society money by eliminating wasteful spending on luxury items and services."
+  },
+  {
+   "subject": "rich people",
+   "claim": "He criticizes rich people for creating a divide in society by hoarding resources and flaunting wealth."
+  },
+  {
+   "subject": "professional athletes",
+   "claim": "He argues that professional athletes who focus only on physical fitness waste time that could be spent improving their minds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He rode for seven hours and 16 minutes while listening to 'Popular History of Ireland'."
+  },
+  {
+   "subject": "Enduro School",
+   "claim": "He believes this lifestyle can crowd out shallow content on YouTube and change societal priorities."
+  },
+  {
+   "subject": "Steven Crowder",
+   "claim": "He criticizes Steven Crowder for not owning his YouTube channel and being controlled by contracts."
+  },
+  {
+   "subject": "Ben Shapiro",
+   "claim": "He calls Ben Shapiro fake and criticizes him for making racist statements and pushing divisive politics."
+  },
+  {
+   "subject": "social media",
+   "claim": "He references a Ted Talk about how social media has increased depression rates, especially among teenage girls since 2011."
+  },
+  {
+   "subject": "Enduro School",
+   "claim": "The strategy is to listen to a book, pay attention, and then share ideas from it in a video, even if not all details are memorized."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes this approach allows people to improve their minds and be their own person, free from external control."
+  },
+  {
+   "subject": "Andrew Yang",
+   "claim": "He mentions Andrew Yang's proposal for a basic income of $12,000 a year, similar to what he lives on."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "He criticizes Donald Trump for being wealthy through cheating and lacking the ability to understand or discuss complex topics like Plato."
+  },
+  {
+   "subject": "Enduro School",
+   "claim": "He envisions a future where the best political candidates are those with the most and best book review videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to do a video every day, starting with 'Popular History of Ireland', and hopes to inspire others to join."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes this lifestyle can restore biodiversity in human thought and culture."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He listens to audiobooks on his phone or Kindle, using resources like LibriVox or his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He combines listening to books with physical training, believing the subconscious picks up a lot even if not fully focused."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He aims to do this every day, with most books being 500-700 pages, manageable in a day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hopes to attract billionaire funding to pay bike schoolers $50,000 a year to live this lifestyle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes this movement will spread once a critical mass of people start doing it, changing culture and priorities."
+  },
+  {
+   "subject": "Ben Carson",
+   "claim": "He criticizes Ben Carson for being smart in one area (brain surgery) but ignorant in others (like history)."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to pitch this idea to billionaires after doing it consistently for three weeks or a month."
+  }
+ ],
  "transcript": [
   {
    "start": 0.72,

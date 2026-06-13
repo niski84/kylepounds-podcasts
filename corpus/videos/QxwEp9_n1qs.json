@@ -53,7 +53,116 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is going to start exercising 10 hours a day every day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to make videos about his exercises and rides, aiming to become a triathlete."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube deactivated Kyle's comments on his videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle watched videos on his other channel and hopes YouTube doesn't deactivate comments there."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "Kyle thinks he set his channel to be for kids due to a new FCC rule requiring channels to designate if they are for kids."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to enter the kids' realm because he is an educator and believes education is for kids."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle hopes kids can take over his unfinished projects, like the Google Earth thing of Rome."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "Kyle believes designating a channel as for kids means you can't make money from the videos."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "Kyle thinks YouTube already deactivated his monetization."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "Kyle noticed his video comments were turned off and couldn't find a way to turn them back on."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "Kyle believes designating a channel as for kids also prevents viewers from commenting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to retaliate against YouTube by changing the titles of his videos on his Kyle Pounds Vlogs channel to 'Turn my comments back on YouTube' every day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to send YouTube a message every day demanding they turn his comments back on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle worries YouTube might delete his channel as a result of his retaliation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has a backup plan involving painting his website and 'Turn my comments back on YouTube assholes' on his van and parking it near the Google office in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to park his van near Whole Foods where Google employees go for lunch and save receipts to avoid being towed illegally."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to record conversations with Whole Foods employees if they tow his car illegally."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to sue Whole Foods if they tow his car before the allotted time period."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to rotate parking his van between Whole Foods and Target every day until YouTube turns his comments back on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to continue using his regular channel as if nothing happened, even if comments are turned off."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the best way to care for children is by allowing adults to have their comments turned on."
+  },
+  {
+   "subject": "TikTok",
+   "claim": "Kyle is freaked out by TikTok, calling it an oppressive platform from China that only allows dancing and no speaking aloud."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to install cameras in his van to live-stream and catch anyone who tries to smash its windows."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels lucky to have a van that acts as a giant billboard and to live near Google for his retaliation plan."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes taking away comments doesn't make sense unless the goal is to shut people up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to research who is responsible for the FCC rule and create YouTube videos against them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes America should allow communication while other countries suppress it."
+  }
+ ],
  "transcript": [
   {
    "start": 1.23,

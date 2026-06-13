@@ -31,7 +31,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He forgot to do a video before this one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He just got really high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He started working on audio history books, focusing on their sizes and finishing how they look."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got going on Google Earth stuff and worked on the page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He linked Battles, Google Earth Battles today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks you can download most of the files he writes for download."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will make sure all the links work and stuff when he's writing the bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His project for writing the bike will be perfecting his site."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's coming along pretty quickly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will finish Google Earth Battles tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He did Google Earth History today and will finish it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow is Sunday, so he has a reason to just work on his website the whole time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He downloaded 262 green screen backgrounds, all different kinds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The green screen backgrounds can help shape his story and give him ideas."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got 240 sound effects, all different kinds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to watch layout when he rides the bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will watch all of them and memorize what he has so he knows just by calling it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will rename the files and make them simple to look at."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is really tired right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He did some writing today and checked out his Boulder Road page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He explained the Boulder Road page a little bit more."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's fun to write."
+  }
+ ],
  "transcript": [
   {
    "start": 0.53,

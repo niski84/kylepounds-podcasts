@@ -55,7 +55,132 @@
   "date": "",
   "model": "anthropic/claude-sonnet-4"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He likes vegans."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was with his mom at the mall a couple months ago and saw vegans passing out literature about veganism."
+  },
+  {
+   "subject": "vegans",
+   "claim": "They had a YouTube channel showing videos of animal torture."
+  },
+  {
+   "subject": "veganism",
+   "claim": "The main reason people should be vegans and vegetarians is to avoid an industry of killing animals."
+  },
+  {
+   "subject": "slaughterhouses",
+   "claim": "Cows are knocked unconscious by being whacked over the head and then torn apart while still alive, screaming in terror."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went on a bike ride on Monday and saw black cows in a field, noting they are smart animals similar to horses."
+  },
+  {
+   "subject": "meat industry",
+   "claim": "Eating meat means consuming the fear and adrenaline of animals that were terrified before death."
+  },
+  {
+   "subject": "industrialized cow farming",
+   "claim": "Eastern Colorado has huge cow farms visible on Google Earth, where cows live in hot, barren dirt pits filled with waste."
+  },
+  {
+   "subject": "humans",
+   "claim": "Humans have long intestinal tracts and are naturally omnivores, capable of living fine on plants."
+  },
+  {
+   "subject": "Bashar aliens",
+   "claim": "Bashar aliens said humans are naturally omnivores but don't eat."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks humans should phase out meat."
+  },
+  {
+   "subject": "Kyle's family",
+   "claim": "His mom is a big meat eater, and his brother is a vegetarian but doesn't live with them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He would be a vegetarian if he didn't live with his mom, who feeds him meat."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He tries to eat healthy and strong, preferring chicken over beef."
+  },
+  {
+   "subject": "Kyle's mom",
+   "claim": "She eats meat that is hard to chew, like roadkill."
+  },
+  {
+   "subject": "future generations",
+   "claim": "New generations will become more vegetarian."
+  },
+  {
+   "subject": "protein powder",
+   "claim": "Protein powder is an easier way to regulate protein intake, as the body can only absorb about 30 grams per hour."
+  },
+  {
+   "subject": "Olympic athletes",
+   "claim": "Only 2% of Olympic athletes are vegetarian, likely because it's easier to eat meat for calorie intake."
+  },
+  {
+   "subject": "bodybuilders",
+   "claim": "Bodybuilders often live on chicken."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He praised the vegan group he saw for motivating people to go vegan."
+  },
+  {
+   "subject": "veganism",
+   "claim": "Veganism is awesome, and it involves avoiding dairy as well."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had a bad asthma attack after cleaning his house and inhaling dust."
+  },
+  {
+   "subject": "asthma",
+   "claim": "Getting rid of dairy can help reduce asthma because dairy creates mucus."
+  },
+  {
+   "subject": "humans",
+   "claim": "Humans only became lactose tolerant 6,000 years ago due to a random mutation."
+  },
+  {
+   "subject": "Scythians and Mongolians",
+   "claim": "They survived by eating bugs, leeches, ticks, and making beef jerky from their horses."
+  },
+  {
+   "subject": "lactose tolerance",
+   "claim": "A mutation 4,000 years ago allowed humans to drink milk without getting sick, spreading lactose tolerance worldwide."
+  },
+  {
+   "subject": "dairy",
+   "claim": "Many people are still lactose intolerant, and reducing dairy could lead to less heart disease."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks future diets will first eliminate meat, then dairy, and eventually find other protein sources."
+  },
+  {
+   "subject": "militant meat eaters",
+   "claim": "They annoy Kyle because they trash vegans and are proud of eating meat."
+  },
+  {
+   "subject": "vegan athletes",
+   "claim": "There are vegan athlete channels, and Kyle's vegetarian brother is fitter than him, proving you can be an athlete without meat."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He respects vegans and plans to become a vegetarian after his mom is no longer around."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

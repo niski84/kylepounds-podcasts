@@ -32,7 +32,44 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He tried to upload a vlog yesterday but couldn't because YouTube insisted it had already been uploaded."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He changed the name of the file on his computer and tried to upload it again, but it still didn't work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hopes he's not stuck in a difficult situation with uploading the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went to the DMV to get another driver's license because he thought he lost one, ordered a new one, found the original, and then lost the new one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He rode his motorcycle to work for the first time yesterday and found it fun because it was a far distance."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He rode his bike to work today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He bought a thousand crickets from a company he can't remember."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He divided the crickets into two big cricket keepers and enjoys watching them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's unsure if he'll be able to upload the video and doesn't want to talk much because of that uncertainty."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

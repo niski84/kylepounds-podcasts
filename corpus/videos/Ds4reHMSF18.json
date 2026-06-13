@@ -36,7 +36,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He has been busy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went to work and then did gutters in the house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went and did another house with gutters in the house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The neighbor wanted them to do her gutters in her house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The neighbor next to her wanted them to do her gutters."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He came back and got crickets last night or yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was too lazy to put the crickets in their containers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He put a thousand crickets in seven containers today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is really tired and honking right now because he didn't eat anything."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He just had some orange juice and that brought him back a little bit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He put the crickets in with the geckos and they were chowing down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is finally getting work and getting started on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Last night he was really excited to get going on building the history of Boulder County, all the mining towns of Boulder County, and all the roads and trails of Boulder County."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will fill in the mining towns with actual buildings that he downloaded off of the Boulder website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will put the background on it and like the layer, making it just like this world."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is making sister cities to Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been thinking about building ski resorts forever but never got around to it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was listening to about Theodosius and Valentinian and those guys today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he'll keep listening to them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's an interesting period of history where the Roman Empire adopted and spread Christianity, killed paganism, and spread Christianity throughout the empire and Europe just in the nick of time before they got snuffed out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He doesn't really have much to say and is yawning."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

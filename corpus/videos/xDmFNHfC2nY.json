@@ -41,7 +41,72 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle did a video earlier in the morning but there was no sound, which had never happened before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is doing his first green screen show and finds it weird to do the same video twice."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has a broad sword that is very heavy and a protector shield that is a real-life shield."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has greaves and arm greaves but no chest guard because he can do all his protection with his greaves and shield, like the Spartans."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has ear protectors that spin around when he is having visions, but that only happens in the King's Court."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is of the lineage of the Sacred Seer and his family had to fight for their position in ancient boulder room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's family is officially Sacred Seer, court dancers, court singers, and warriors, and they are the only family allowed to dress as warriors even if they are not warriors."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is not officially a warrior right now and is just a commuter class."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle connects three different worlds: boulder, Rome, and the fantasy world realm."
+  },
+  {
+   "subject": "ancient Rome",
+   "claim": "In ancient Rome, to be a warrior, you had to be a bike racer who could go 20 miles an hour, but Kyle is only at 19 miles an hour."
+  },
+  {
+   "subject": "ancient past",
+   "claim": "In the ancient past, athleticism was measured by whether you could swim across a big river in full armor."
+  },
+  {
+   "subject": "Buena Vista",
+   "claim": "Buena Vista in Boulder Rome corresponds to the Samnians or Samnites, who were mountain tribes that put up a great fight against Boulder Rome."
+  },
+  {
+   "subject": "Buena Vista",
+   "claim": "The Samnians were barbarians who did business dealings with the Gauls and were not as civilized as the normal Italians."
+  },
+  {
+   "subject": "Buena Vista",
+   "claim": "Twenty years ago, Buena Vista was a place where people cruised up and down Main Street and looked like hillbillies who didn't like Kyle because he had dreadlocks."
+  },
+  {
+   "subject": "Buena Vista",
+   "claim": "Now Buena Vista is artisanal or hipster and has great mountain biking, having been colonized by more cultured people from the front range, similar to how the Samnians were cultured by the Romans."
+  },
+  {
+   "subject": "mountains",
+   "claim": "Kyle mentions different mountains and the road that goes up to the top of them but didn't label them."
+  }
+ ],
  "transcript": [
   {
    "start": 1.7,

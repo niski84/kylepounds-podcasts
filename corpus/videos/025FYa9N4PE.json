@@ -42,7 +42,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is a perfectionist and doesn't miss a day of making videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is recording a video for December 23rd on December 25th to catch up on missed videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't work on his website yesterday because he got up late due to being super stressed out the night before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle overcooked himself with tiles the night before, which caused him to be super stressed out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle started working on his room and went to the hardware store to get supplies to mount the TV on the wall."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't finish organizing his room but plans to work on it tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had to take a shower at the clubhouse because his hot water wasn't working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle noticed the lap pool in the clubhouse for the first time and thinks it's almost as long as the one at 24 Hour Fitness."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to start using the lap pool at the clubhouse."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks biking and working on his website will help him get in shape."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wonders what his MP3 player would sound like underwater."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle doesn't pay much attention to what he listens to because he's so high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle considers smoking less weed when he starts biking and using the pool."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is glad he came up with the idea to set up his room, even though it will cost him a lot of money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to sell his car soon to cover the costs of setting up his room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to show his room setup when it's finished, including lights and pictures."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle loves Christmas and considers this his favorite Christmas ever."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's birthday is two days after Christmas."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to work on organizing his room for his birthday instead of working on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is super excited to work on his website and the new setup for his bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's first project involves tracing outlines of cobblestones, which he thinks is an easy and perfect starting point."
+  }
+ ],
  "transcript": [
   {
    "start": 0.5,

@@ -38,7 +38,64 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He thought it was 6 in the morning but it was actually 6 in the evening because it was dark."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked all night because he thought he had 12 free hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went to sleep at 6 in the morning and woke up around 1 PM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He spent most of his time fixing links on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He updated lists on his website, which took a few hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He built a page for categorizing and downloading audio files, but it was reduced to just lists after iPower deleted his files."
+  },
+  {
+   "subject": "iPower",
+   "claim": "They deleted his folders without telling him, including a section on religions of the world he worked on for three weeks."
+  },
+  {
+   "subject": "iPower",
+   "claim": "They misled him about having 20 gigabytes of dedicated space, which was actually shared with others."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He left iPower after they deleted important files, including a timeline page from 1500 to 2000 North Europe."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He now uses SiteGround, which he considers the best hosting service."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He fixed links for the 'Bike Racer Level Page' (40 kilometer standardized version)."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to fix links for his entire website over the weekend."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will start trying to sell his car full-time on Monday, estimating it will take about a week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to fix his rocket box before selling his car."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

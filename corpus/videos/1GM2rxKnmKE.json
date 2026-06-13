@@ -89,7 +89,196 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "It's been forever since I've done a video talking about philosophical topics like aliens, giants, and past histories."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was studying some histories before and had some insights."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm kind of stoned right now."
+  },
+  {
+   "subject": "aliens",
+   "claim": "The question is at what point along the spectrum does truth lie in pertinence to how real are aliens and how much of an interaction with us have they had?"
+  },
+  {
+   "subject": "giants",
+   "claim": "How alien are giants from the past and how native to the earth, like in a scientific way of looking at the world, are they?"
+  },
+  {
+   "subject": "giants and aliens",
+   "claim": "Believing in giants and aliens isn't necessarily on the same category, but a lot of people like to talk about those two things together."
+  },
+  {
+   "subject": "Graham Hancock",
+   "claim": "Graham Hancock believes in a past world civilization but looks at it from a scientific way and isn't into aliens at all."
+  },
+  {
+   "subject": "Graham Hancock",
+   "claim": "Graham Hancock doesn't want to talk about Roswell, Bob Lazar, or the Face on Mars."
+  },
+  {
+   "subject": "mainstream scientists",
+   "claim": "In the future, more mainstream scientists will believe in giants being real, Atlantis, and similar ideas."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "The legend of Atlantis comes from Plato, who is the only actual source for Atlantis."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Plato said that Atlantis sunk 9,000 years before Solon, who was around 6,000 BC, making it 11,600 years ago."
+  },
+  {
+   "subject": "Younger Dryas",
+   "claim": "Atlantis sunk right at the beginning of the Younger Dryas, when the ice age ended suddenly, 85% of animals bigger than a dog died, and sea levels rose."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Atlantis was an island beyond the Pillars of Hercules, having a war with Athens, and was at least as technologically advanced and worldly as ancient civilizations."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Atlantis was larger than the ancient world until now because they were seafaring between the Americas and Europe."
+  },
+  {
+   "subject": "Christopher Columbus",
+   "claim": "If you do the Christopher Columbus thing and sail beyond the Pillars of Hercules, you reach the island next to where Atlantis is in about three weeks."
+  },
+  {
+   "subject": "Andros",
+   "claim": "The island of Andros in the Caribbean is next to where Atlantis is, and if you lower the water by 60 feet, the island would emerge."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Plato described Atlantis as 550 by 350 kilometers, which matches the size of the underwater island near Andros."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "There is a coincidence between Plato's description of Atlantis and the underwater island near Andros in terms of size and location."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Plato described the city of Atlantis with inner circles, walls, and canals, which match features found near Andros."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "The city of Atlantis was about the size of greater Rome or Denver."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Plato's description of Atlantis includes 1500 kilometers of canals, which could fit on the island near Andros."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I take Plato's account of Atlantis literally as a fundamentalist historian."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "If you believe Atlantis existed 11,600 years ago, it implies a world civilization even grander than ancient Rome at its height."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Atlantis would have been an ideal place for a society because it was an insulated island like England or Japan."
+  },
+  {
+   "subject": "ice age predators",
+   "claim": "In the ice age, there were gigantic bears, mountain lions, saber-toothed tigers, and sloths that would hunt humans."
+  },
+  {
+   "subject": "Cahokia",
+   "claim": "Cahokia mound near St. Louis was built about a thousand years ago, but the river nearby looks ancient."
+  },
+  {
+   "subject": "giants",
+   "claim": "Giants could have evolved in Siberia during the ice ages to hunt mastodons and fight off predators."
+  },
+  {
+   "subject": "giants",
+   "claim": "Giants may have struggled when they moved south and had to live among regular-sized humans, leading to myths about cannibalism."
+  },
+  {
+   "subject": "mastodons",
+   "claim": "Mastodons and saber-toothed tigers may have gone extinct due to overhunting by starving giants."
+  },
+  {
+   "subject": "giants",
+   "claim": "I believe in giants because of stories from Native Americans and historical accounts."
+  },
+  {
+   "subject": "Smithsonian Institute",
+   "claim": "Thousands of giant bones were stockpiled in the Smithsonian Institute but were given back to Native American tribes about 10 years ago."
+  },
+  {
+   "subject": "Denisovans",
+   "claim": "A Denisovan tooth found in Siberia suggests the person was about 10 feet tall."
+  },
+  {
+   "subject": "Gigantopithecus",
+   "claim": "Gigantopithecus was a giant primate ancestor of the orangutan, showing that primates can get giant."
+  },
+  {
+   "subject": "Neanderthals",
+   "claim": "Neanderthals went extinct about 35,000 to 40,000 years ago because they didn't organize as well as Homo sapiens."
+  },
+  {
+   "subject": "Pliny",
+   "claim": "Pliny said that in Roman times, it was common knowledge that children were shorter than their parents, implying the giant genome was still present."
+  },
+  {
+   "subject": "Herodotus",
+   "claim": "Herodotus tells a story of King Gyges finding a giant's tomb in Lydia."
+  },
+  {
+   "subject": "ancient Rome",
+   "claim": "In ancient Rome, there was a 12-foot-tall man and wife who led an army in the Middle East."
+  },
+  {
+   "subject": "Irish Book of Invasions",
+   "claim": "The Irish Book of Invasions describes people from Scythia invading Ireland in 30 boats around 2,500 BC."
+  },
+  {
+   "subject": "ancient Egypt",
+   "claim": "Ancient Egyptians circumnavigated Africa by boat, proving advanced seafaring in ancient times."
+  },
+  {
+   "subject": "Cro-Magnon",
+   "claim": "Cro-Magnon humans, our ancestors, were taller and had bigger heads than us, implying they were smarter."
+  },
+  {
+   "subject": "human evolution",
+   "claim": "Humanity may have devolved in brain size and intelligence since Cro-Magnon times."
+  },
+  {
+   "subject": "Bigfoot",
+   "claim": "Bigfoot might be an intelligent alien observing us, according to Bashar."
+  },
+  {
+   "subject": "Amazon rainforest",
+   "claim": "Francisco de Orellana wrote about encountering gigantic, muscular, topless women in the Amazon rainforest."
+  },
+  {
+   "subject": "Native American legends",
+   "claim": "Native American flood stories describe events that match the end of the ice age 12,000 years ago."
+  },
+  {
+   "subject": "Mandan tribe",
+   "claim": "The Mandan tribe has a legend of a man arriving from Atlantis after it was flooded."
+  },
+  {
+   "subject": "aliens",
+   "claim": "Aliens may have observed humans throughout history but didn't interfere, explaining sightings in ancient texts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think the proper way to look at alien influence is through mainstream Darwinian evolution, with aliens as observers."
+  }
+ ],
  "transcript": [
   {
    "start": 0.62,

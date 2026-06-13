@@ -101,7 +101,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "media divide",
+   "claim": "There is a shared source of truth in the media, which includes CNN and MSNBC."
+  },
+  {
+   "subject": "CNN",
+   "claim": "CNN and MSNBC are also way off into the world of the rich donor closed-minded asshole."
+  },
+  {
+   "subject": "independent media",
+   "claim": "Independent media, like independent YouTube channels, is good."
+  },
+  {
+   "subject": "media divide",
+   "claim": "The media divide came from social media taking over the news cycle."
+  },
+  {
+   "subject": "media divide",
+   "claim": "People getting their news off Facebook instead of newspapers contributed to the media divide."
+  },
+  {
+   "subject": "QAnon",
+   "claim": "QAnon followers live in their own alternate reality."
+  },
+  {
+   "subject": "legalized weed",
+   "claim": "Legalized weed has a big part to do with the media divide."
+  },
+  {
+   "subject": "marijuana",
+   "claim": "Marijuana is well known to be a cause of psychosis."
+  },
+  {
+   "subject": "social media",
+   "claim": "Social media enclaves and mass psychosis are related."
+  },
+  {
+   "subject": "Capitol insurrection",
+   "claim": "People running into the Capitol thought they were going to have a successful insurrection."
+  },
+  {
+   "subject": "media divide",
+   "claim": "The solution to the media divide is history."
+  },
+  {
+   "subject": "history",
+   "claim": "Knowledge in history allows you to see something for what it is at a glance."
+  },
+  {
+   "subject": "education",
+   "claim": "The more educated people are, the more democratic stuff has to become."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube should prioritize history videos over sports car videos."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "Rich people should pay regular people to talk about history on YouTube."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube's monetization model is flawed because it expects only a small fraction of people to make money."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "People should upload videos without worrying about making money off them."
+  },
+  {
+   "subject": "media divide",
+   "claim": "Opening up communication lines and avoiding cancel culture can help fix the media divide."
+  },
+  {
+   "subject": "exercise",
+   "claim": "Exercise is important, and people should stream themselves working out."
+  },
+  {
+   "subject": "history",
+   "claim": "People need to become proactive and upload videos about history."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube's algorithm might be tampered with to favor certain content creators."
+  },
+  {
+   "subject": "media divide",
+   "claim": "Reporters and writers need to find a way to proprietize their material to avoid falling into the background."
+  }
+ ],
  "transcript": [
   {
    "start": 0.69,

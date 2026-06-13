@@ -92,7 +92,108 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "UBI",
+   "claim": "Kyle supports universal basic income (UBI) and believes it should be given to everyone, including those perceived as lazy."
+  },
+  {
+   "subject": "UBI",
+   "claim": "Kyle plans to explain an alternative way to implement UBI for people who oppose it because they think it encourages laziness."
+  },
+  {
+   "subject": "UBI",
+   "claim": "Kyle believes UBI could be started by requiring people to work for it, referencing his 'bike school' idea."
+  },
+  {
+   "subject": "coronavirus",
+   "claim": "Kyle believes the coronavirus crisis, if used correctly, could improve the country by leading to sanctions on China, shutting down wet markets, and improving healthcare."
+  },
+  {
+   "subject": "coronavirus",
+   "claim": "Kyle thinks the coronavirus is highlighting the economic problem of people not being able to work, which could drive support for UBI."
+  },
+  {
+   "subject": "education",
+   "claim": "Kyle argues that closing schools is problematic because it eliminates jobs for teachers and childcare for parents, not because it hinders learning."
+  },
+  {
+   "subject": "education",
+   "claim": "Kyle suggests that parents should take care of and educate their own children instead of relying on teachers."
+  },
+  {
+   "subject": "UBI",
+   "claim": "Kyle believes UBI would streamline the economy and allow people to educate themselves."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle receives passive income from land investments inherited from his grandfather, which allows him to survive without working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle claims his website, Kylepounds.com, makes him the greatest mind in history, surpassing Plato, Socrates, Newton, and Einstein."
+  },
+  {
+   "subject": "UBI",
+   "claim": "Kyle believes UBI would create a society where people don't care about money and instead focus on serving the world."
+  },
+  {
+   "subject": "Joe Rogan",
+   "claim": "Kyle criticizes Joe Rogan for having a 'bully mentality' and believing that people who don't have to work become useless."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle recounts his experiences traveling frugally in South America to study Spanish and how people treated him poorly because they thought he was rich."
+  },
+  {
+   "subject": "UBI",
+   "claim": "Kyle argues that UBI would eliminate jealousy and classism by equalizing society."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle grew up in a wealthy household in Austin, Texas, and later in Boulder, Colorado, but his family lost their money during the 1980 oil crash."
+  },
+  {
+   "subject": "rich people",
+   "claim": "Kyle believes rich people in third-world countries are often rude and entitled, citing his experiences teaching English in Chile."
+  },
+  {
+   "subject": "slavery",
+   "claim": "Kyle compares minimum wage jobs to slavery, arguing that UBI would eliminate this modern form of enslavement."
+  },
+  {
+   "subject": "UBI",
+   "claim": "Kyle believes UBI would lead to a society where people are more creative and community-oriented, similar to his own lifestyle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle spends most of his time working on his website, Kylepounds.com, because he believes it benefits the world."
+  },
+  {
+   "subject": "UBI",
+   "claim": "Kyle argues that UBI would allow people to focus on inventing and creating new technologies, leading to greater societal wealth."
+  },
+  {
+   "subject": "rich people",
+   "claim": "Kyle criticizes CEOs and wealthy individuals for being greedy and believes poor people would make better leaders."
+  },
+  {
+   "subject": "communism",
+   "claim": "Kyle compares UBI to communism, citing Sparta as an example of a successful communist society."
+  },
+  {
+   "subject": "UBI",
+   "claim": "Kyle believes UBI would eliminate class strife and allow people to communicate without prejudice."
+  },
+  {
+   "subject": "UBI",
+   "claim": "Kyle argues that UBI would allow people to develop their individuality and accomplishments, rather than being exhausted by work."
+  },
+  {
+   "subject": "rich people",
+   "claim": "Kyle criticizes billionaires like Tom Ballou for believing that rich and poor people must exist, arguing that UBI could eliminate this divide."
+  }
+ ],
  "transcript": [
   {
    "start": 2.38,

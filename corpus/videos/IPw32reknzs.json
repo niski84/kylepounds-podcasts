@@ -36,7 +36,64 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He was organizing his room and putting photos up on the wall."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He stayed up all night and went to bed at 7:30 in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to go to McGuckin's to get a DSL cable."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is setting up cables on his TV."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He intends to start exercising again and use his bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels like he needs exercise because he feels unhealthy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been smoking the same amount of weed but feels really high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is changing his room setup and adding LED lights in his closet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is organizing USB cables and other items around his house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is excited to try out time trial handlebars and a thumb mouse for his bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He borrowed $500 a month from his mom until April or until he sells his car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has a $5,000 line of credit and transferred $1,000 of it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to spend a couple hundred bucks to fix up his room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He tries to vlog every day but often faces issues like unplugged cables or no internet."
+  }
+ ],
  "transcript": [
   {
    "start": 0.31,

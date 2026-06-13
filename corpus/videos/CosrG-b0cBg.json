@@ -38,7 +38,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "It's December 21st."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's his mom's birthday today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom called him half an hour ago to ask him to come over and help her with stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's the shortest day of the year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday he worked a little bit on his Google Earth project, doing part of one road and then part of another."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got kind of confident with the Google Earth project and started feeling like he could finish it if he powered away at it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't feel like he was in a rush because he felt like he could kick the shit out of those roads."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His room was a total mess with piles all over the place because he abandoned halfway through reorganizing it to put the TV on the wall."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He even bought the TV stand but hasn't finished setting it up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to make some cool bike videos, collecting videos off YouTube, which would work really cool with a huge ass screen right in front of him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's listening to the history of England right now, although it's not lineal, so he got lost as to which one he was listening to."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's just listening to the ones that he likes and finds interesting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's listening to moving over again, which has pretty good information about land, which he wanted to know."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Now he thinks he's got it figured out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to work on making a map of Boulder of an imaginary pet place in the past with the same land that they did in the past."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The map would have slaves, serfs, earls, lords, dukes, and a king, all in the same exact territory with roads going between all of them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He would totally spell it out at least for Boulder County type area."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "That's probably one of the projects he's going to do next, but he hasn't started it yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There's a high chance he would get started on it just to experiment with it and get excited about it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's going to get really high and then go to his mom's house."
+  }
+ ],
  "transcript": [
   {
    "start": 0.38,

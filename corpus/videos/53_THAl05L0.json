@@ -74,7 +74,104 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He is nocturnal and sleeps from around 6 in the morning until noon or 1-2 in the afternoon."
+  },
+  {
+   "subject": "omniscience",
+   "claim": "Omniscience is possible and we need to pursue it aggressively."
+  },
+  {
+   "subject": "economy",
+   "claim": "The main problem with the economy is too much overhead."
+  },
+  {
+   "subject": "food banks",
+   "claim": "Food banks should only provide canned fruits and vegetables because it's the cheapest way to feed people."
+  },
+  {
+   "subject": "Rome",
+   "claim": "In 390 BC, the Gauls sacked Rome, destroying much of its written history."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Roman citizens were a citizen army who later defeated the Gauls after initially fleeing the city."
+  },
+  {
+   "subject": "Rome",
+   "claim": "800 years later, the Goths invaded Rome, and the Romans, who had become lazy, were easily defeated."
+  },
+  {
+   "subject": "economy",
+   "claim": "To fix the economy, we should eliminate overhead like military spending and focus on home defense."
+  },
+  {
+   "subject": "education",
+   "claim": "Schools should be shut down because they are inefficient and people can educate themselves using technology."
+  },
+  {
+   "subject": "education",
+   "claim": "The school system was adopted from the Prussians in 1870 and is outdated."
+  },
+  {
+   "subject": "omniscience",
+   "claim": "People should strive to become omniscient by self-learning and following their passions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was a D or C-minus student in school because he was bored and uninterested."
+  },
+  {
+   "subject": "omniscience",
+   "claim": "Smoking weed can help with becoming omniscient by opening the mind and making connections."
+  },
+  {
+   "subject": "omniscience",
+   "claim": "People who become omniscient should be paid to motivate others to do the same."
+  },
+  {
+   "subject": "China",
+   "claim": "China suffered a famine in the 1950s because they killed finches, which led to crop destruction."
+  },
+  {
+   "subject": "China",
+   "claim": "China's autocratic system prevents the kind of free knowledge-sharing needed for omniscience."
+  },
+  {
+   "subject": "democracy",
+   "claim": "Democracy and individual freedoms are essential for reducing overhead and achieving omniscience."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to take an omniscience test within a year or two and claims he could be the first truly omniscient person."
+  },
+  {
+   "subject": "Wikipedia",
+   "claim": "Wikipedia is more accurate than traditional encyclopedias because it involves democratic collaboration."
+  },
+  {
+   "subject": "Sparta",
+   "claim": "Sparta was a successful communist city-state where people owned very little and prided themselves on strength."
+  },
+  {
+   "subject": "economy",
+   "claim": "Eliminating schools and other overhead would free up money and time for people to pursue omniscience."
+  },
+  {
+   "subject": "rich people",
+   "claim": "Rich people should sell their excess possessions and fund omniscience efforts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will challenge billionaires like Mark Cuban to fund omniscience or face public criticism."
+  },
+  {
+   "subject": "omniscience",
+   "claim": "Omniscience will lead to better decision-making and a more harmonious society."
+  }
+ ],
  "transcript": [
   {
    "start": 0.59,

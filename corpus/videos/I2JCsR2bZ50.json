@@ -60,7 +60,116 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "websites",
+   "claim": "Websites need to be designed for speed readers."
+  },
+  {
+   "subject": "websites",
+   "claim": "Websites are currently designed for children, specifically idiot children, not smart children."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has a vlog channel called Kyle Pounds Vlogs designed for children under twelve, specifically dedicated to the sixties."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube should explain why little kitty channels don't get to have comments."
+  },
+  {
+   "subject": "parenting",
+   "claim": "People should be allowed to police their own children without government interference."
+  },
+  {
+   "subject": "children",
+   "claim": "Children's books with big fonts and giant pictures are acceptable, but there should also be a speed reader alternative."
+  },
+  {
+   "subject": "speed reading",
+   "claim": "If speed reading is to be promoted, there needs to be an infrastructure set up to support it."
+  },
+  {
+   "subject": "websites",
+   "claim": "No website is currently set up for speed reading except Kyle's website, kylepounds.com."
+  },
+  {
+   "subject": "Netflix",
+   "claim": "Netflix and Amazon video websites are designed by women or children, with overly large fonts and pictures."
+  },
+  {
+   "subject": "women",
+   "claim": "Women are basically overgrown children."
+  },
+  {
+   "subject": "Netflix",
+   "claim": "Netflix and Amazon video interfaces require excessive clicking to see more movies due to large fonts and pictures."
+  },
+  {
+   "subject": "websites",
+   "claim": "Websites should display movies in a list format with small fonts, allowing speed readers to quickly scan options."
+  },
+  {
+   "subject": "Wikipedia",
+   "claim": "Wikipedia's design, where mousing over a link displays a picture, is a better model for websites."
+  },
+  {
+   "subject": "Netflix",
+   "claim": "Netflix and Amazon video interfaces use large fonts to create the illusion of having more movies than they actually do."
+  },
+  {
+   "subject": "women",
+   "claim": "Women like to fake and create smokescreens, which is reflected in website design."
+  },
+  {
+   "subject": "websites",
+   "claim": "Websites should offer both a 'little kitty' style and a speed reader style interface."
+  },
+  {
+   "subject": "future",
+   "claim": "In the future, websites will adopt a grid system for speed readers because it is the right way to do things."
+  },
+  {
+   "subject": "Flickr",
+   "claim": "Flickr's interface has annoyingly large fonts and pictures, making it difficult to browse quickly."
+  },
+  {
+   "subject": "speed reading",
+   "claim": "People need to design websites and write books that are designed for speed readers, with color-coded and font-coded sections."
+  },
+  {
+   "subject": "executives",
+   "claim": "Executives in Silicon Valley don't speed read, which is why websites aren't designed for speed readers."
+  },
+  {
+   "subject": "speed reading",
+   "claim": "Speed readers need an infrastructure to support their reading habits, which currently doesn't exist."
+  },
+  {
+   "subject": "websites",
+   "claim": "Websites should accommodate smart people (speed readers) and not just dumb people."
+  },
+  {
+   "subject": "marijuana",
+   "claim": "The idea that smoking marijuana will make you burn your house down is false."
+  },
+  {
+   "subject": "speed reading",
+   "claim": "If a system is set up to support speed reading, more people will become speed readers."
+  },
+  {
+   "subject": "Netflix",
+   "claim": "Netflix and Amazon should be honest about how many movies they have and not use large fonts to create a false impression."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube has a vast library of movies and should pay people a reasonable amount to get their classic movies on the platform."
+  },
+  {
+   "subject": "storage",
+   "claim": "There is no storage problem; anyone can upload a video."
+  }
+ ],
  "transcript": [
   {
    "start": 0.82,

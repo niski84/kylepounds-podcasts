@@ -64,7 +64,152 @@
   "date": "2019-05-09",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He swam 7,520 meters today but originally wanted to swim 10,000 meters."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He drank a bottle of Jägermeister last night and had Taco Bell for dinner because he was depressed about his car breaking down."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "His car keeps having a problem where nothing happens when you turn the key, and nobody can figure out how to fix it."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "His wheels have a tendency of falling off, with his rear right wheel and front right wheel falling off in the past."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He might start merging his daily vlogs from his vlog channel into his main channel again because it's hard to keep track."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He accidentally uploaded a daily vlog from his vlog channel to his main channel and had to delete it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't do a vlog video today for the first time because he got up late and was depressed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom picked him up because he was depressed and they went to Costco where he spent $180 on food."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He bought a bottle of Akai juice at Costco and loves it."
+  },
+  {
+   "subject": "Akai juice",
+   "claim": "It's good for your connective tissue because of vitamin C and the fat, and for your cardiovascular system."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He only ate one thing today: a chicken or turkey sandwich at Costco with his mom and a couple of bites of her salad."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He cooked a microwave lasagna and plans to eat it after his video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His appetite has not kicked in yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "From experience, getting back in shape usually takes about three weeks of working out every day until your appetite kicks in suddenly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When his appetite kicks in, his strength level goes up and fat goes down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He started at 197.5 pounds with little muscle and just fat."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was going to send back his earphones to Amazon but realized they might not be broken."
+  },
+  {
+   "subject": "Kyle's earphones",
+   "claim": "The earphones that come with his iPod shuffle don't work properly in the water."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to find reliable earphones for swimming because music helps him stay motivated."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He tried a flip kick today and it was better than yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Once his fitness improves, he'll be able to do flip turns and complete 10K swims in a reasonable time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It took him about three hours and 20 minutes to swim 7,520 meters in a 15.2-meter pool."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He used swim.com on his Apple Watch for the first time today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to see if he can connect swim.com to his watch and then to Strava."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It snowed all day today and was freezing cold at 35 degrees."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow he plans to do his first real run since his last run of 4.85 miles didn't go well."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He can't run well on a treadmill, so he prefers mountain running."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Mountain running is easier because going uphill slows you down and downhill lets you take advantage of gravity."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "As a kid, he often felt like he couldn't stop when running downhill, but it hasn't happened as an adult."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels beat today and doubts he could have swum 10 kilometers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's back on Advair after getting a new medical plan one level up from Medicaid."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He never gets asthma in the pool because the water's purity and ions help."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to listen to music tomorrow and finish his book on the history of Ireland."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finds the history of Ireland book boring and uneducational."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After finishing the Ireland book, he plans to study Diogenes and philosophy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels like finishing the Ireland book will help him feel like he's getting going."
+  }
+ ],
  "transcript": [
   {
    "start": 0.98,

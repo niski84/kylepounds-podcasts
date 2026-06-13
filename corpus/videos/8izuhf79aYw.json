@@ -40,7 +40,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle slept in a little bit on May 4th, 2014 because he was up late the night before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle did his monthly house cleaning on May 4th, 2014."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle cleaned up the shavings from his ancestors and put a new hand shaving in."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle swept the floor, mopped the floor, and wiped all the drippy brown crap that was dripping off everything."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle swept up the porch and started working on making request videos on May 4th, 2014."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't get around to doing much work on his website on May 4th, 2014."
+  },
+  {
+   "subject": "Aaron",
+   "claim": "Aaron called Kyle and wanted him to buy a motorcross motorcycle to get up in the mountains."
+  },
+  {
+   "subject": "motorcross motorcycle",
+   "claim": "A motorcross motorcycle can be bought for around $1,200."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thought about getting a dirt bike like a motorcross motorcycle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went to see Spider-Man 2 with his brother and mom on May 4th, 2014."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went to a restaurant with his brother and mom, had a meal and a couple of beers, and then came home on May 4th, 2014."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was up late on May 4th, 2014 and felt tired when he woke up the next morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had to ride 10 miles to work in 25 minutes on May 5th, 2014."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle dealt with insomnia and should have made himself sleep earlier on May 4th, 2014."
+  },
+  {
+   "subject": "Spider-Man 2",
+   "claim": "Kyle thought Spider-Man 2 was good but felt the character arc was a bit too fast."
+  },
+  {
+   "subject": "Spider-Man 2",
+   "claim": "Kyle thought the action in Spider-Man 2 was cool and the acting was good."
+  },
+  {
+   "subject": "Spider-Man 2",
+   "claim": "Kyle felt Spider-Man 2 put a negative light on humanity by showing how someone can turn from a best friend into an enemy."
+  },
+  {
+   "subject": "Spider-Man 2",
+   "claim": "Kyle thought Spider-Man 2 had a little too much of a preview to the next movie."
+  },
+  {
+   "subject": "Marvel comic movies",
+   "claim": "Kyle loves Marvel comic movies and seeing them in 3D at the theater."
+  },
+  {
+   "subject": "Marvel comic movies",
+   "claim": "Kyle feels Marvel comic movies bring him back to his childhood."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

@@ -37,7 +37,72 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He worked until six o'clock in the morning Sunday on Rome."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Tracing Rome keeps revealing more buildings no matter how many you do."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got up at noon or one on Sunday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went to his mom's house and helped her organize and clean the house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His roommate gave him a joint this morning, which he smoked."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is listening to the history of England podcast."
+  },
+  {
+   "subject": "England",
+   "claim": "He received a YouTube request to do a video about England."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to do his enlightenment video about England tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has to take his mom to her surgery at 9:15 or 9:30 tomorrow morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hopes the pipes are fixed so he doesn't have to shower at the clubhouse."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he lost the cove to get it for his rent."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He decided to not be so ambitious with his realm project, opting to just outline buildings instead of detailing them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He might be able to finish the whole project by this winter."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A year ago, he was working on Google everything Boulder and told himself it was the last project he would do before finishing, but then started two others."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels the same way about his current project, believing it's the last one he'll start before finishing."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome is fascinating, and he can't wait to see and make all the movies moving around it."
+  }
+ ],
  "transcript": [
   {
    "start": 0.02,

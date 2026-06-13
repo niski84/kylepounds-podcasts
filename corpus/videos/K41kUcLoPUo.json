@@ -55,7 +55,248 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "University and college are total bullshit and a scam."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "High school is also total bullshit and a scam."
+  },
+  {
+   "subject": "society",
+   "claim": "School causes problems in society."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We need to rebel against school, especially at university."
+  },
+  {
+   "subject": "meritocracy",
+   "claim": "The world needs a meritocracy to separate smart people from stupid people."
+  },
+  {
+   "subject": "smart people",
+   "claim": "Smart people should move on and be leaders."
+  },
+  {
+   "subject": "stupid people",
+   "claim": "Stupid people can be mechanics or do labor jobs."
+  },
+  {
+   "subject": "history",
+   "claim": "Ancient societies like the Greeks and Ireland had social structures divided with slaves and workers."
+  },
+  {
+   "subject": "slaves",
+   "claim": "Slaves were people with less power who did manual labor."
+  },
+  {
+   "subject": "smart people",
+   "claim": "Smart people owned businesses, land, and were in government."
+  },
+  {
+   "subject": "education",
+   "claim": "Education should cater to allowing smart people to come up and educate everybody."
+  },
+  {
+   "subject": "school",
+   "claim": "School now gives too much power to the people in charge who can do whatever they want."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is 45 and thinks people his age should try to make things better."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Most of Kyle's audience is younger, probably around 25 or college age."
+  },
+  {
+   "subject": "college debt",
+   "claim": "There is a big problem with college debt where people go into debt for nothing."
+  },
+  {
+   "subject": "military industrial complex",
+   "claim": "The military industrial complex is a problem where spending more on military leads to more spending."
+  },
+  {
+   "subject": "military budget",
+   "claim": "The U.S. spends more on military than the next 10 countries combined."
+  },
+  {
+   "subject": "education",
+   "claim": "Education has the same problem as the military industrial complex."
+  },
+  {
+   "subject": "rich people",
+   "claim": "Rich people pay money to get their kids into college, like Dr. Dre donating a billion dollars."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle hated school because it was too slow-paced."
+  },
+  {
+   "subject": "teachers",
+   "claim": "Most of Kyle's teachers growing up were stupid."
+  },
+  {
+   "subject": "teachers",
+   "claim": "Teachers give bad grades to students they don't like."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle failed out of the education department of his college."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's brother thought he deserved to fail and was lying."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle suggests doing bike school instead of traditional school."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle sat in a chair most of his life and now can barely move."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's parents wanted him to stay back a year in seventh grade."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Staying back a year meant an extra year of college."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle knew a kid who skipped ahead in school and never went to college."
+  },
+  {
+   "subject": "parents",
+   "claim": "Smart parents know skipping ahead saves a year of college."
+  },
+  {
+   "subject": "education",
+   "claim": "Schools should be resource centers without overlords deciding who can pass."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had a high school physics teacher who gave him a C despite having a B and an A on the final."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had a chemistry teacher who told him to drop the class because of bad grades."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Dropping chemistry class meant Kyle didn't get into CU."
+  },
+  {
+   "subject": "Fort Lewis college",
+   "claim": "Fort Lewis college is a school anyone can get into, even without a high school diploma."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's parents insisted he go to college."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's dad was born in 1928 and was a confused old-school moron."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's mom is not very bright."
+  },
+  {
+   "subject": "Fort Lewis college",
+   "claim": "Fort Lewis college recruiters beg people to go there."
+  },
+  {
+   "subject": "Fort Lewis college",
+   "claim": "Fort Lewis college is tax-funded and cheap."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got into an integrated learning program at Fort Lewis college."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The integrated learning program was like babysitting with no homework."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got a C in the integrated learning program despite being told he wouldn't get below a B."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's advisor refused to let him design his own major."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle majored in English and had boring classes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle took PE classes like telemark skiing and weightlifting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was a better skier than his telemark skiing teacher."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got a D in Southwest literature because the teacher changed the bibliography requirements."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got a D in figure drawing because the teacher was creepy and didn't like him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had to do an extra semester of classes for his education license."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got kicked out of the education department for peeing outside a high school."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was told he wasn't high quality enough to be a teacher."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had to take a creative writing class at CU for $900 to graduate."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't graduate with his degree until after paying $900 for the creative writing class."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle majored in English education to have a teaching license."
+  },
+  {
+   "subject": "Fort Lewis college",
+   "claim": "The president of Fort Lewis college makes $310,000 a year and does nothing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's education classes were pointless and taught by lazy teachers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had to do 100 practicum hours tutoring kids."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was kicked out of the education department for peeing outside a high school."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was told he wasn't high quality enough to be a teacher by the education department head."
+  }
+ ],
  "transcript": [
   {
    "start": 1.01,

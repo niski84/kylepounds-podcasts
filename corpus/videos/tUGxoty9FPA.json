@@ -81,7 +81,144 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "This is a request video about monarchy that I got like three weeks ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I read Aristotle Politics to prepare for this video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I listened to some later Republic and some of the dialogues."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was even listening to some of the Machiavelli Prints and kind of accidentally just kind of moved in."
+  },
+  {
+   "subject": "monarchy",
+   "claim": "It's a very pertinent thing to talk about these days, because I think a lot of people are kind of moving into a monarchy with Donald Trump trying to gut the government and be more unilateral."
+  },
+  {
+   "subject": "Peter Schiff",
+   "claim": "The Peter Schiff economist said he wanted to make it so that only like maybe educated people could vote or something like that."
+  },
+  {
+   "subject": "monarchy",
+   "claim": "A few years ago, one of my YouTube commenters said their preferred form of government was monarchy."
+  },
+  {
+   "subject": "monarchy",
+   "claim": "Monarchy is like a kingdom where the king is the guy with the crown and everything he says goes."
+  },
+  {
+   "subject": "ancient Greeks",
+   "claim": "The ancient Greeks know more about monarchy and other forms of government than we do because they had city states, each like a different country."
+  },
+  {
+   "subject": "Aristotle",
+   "claim": "Aristotle talks about all the different forms of government like aristocracy, oligarchy, pre-state democracy, tyranny, and how they replace each other in a cycle."
+  },
+  {
+   "subject": "revolution",
+   "claim": "Revolution literally means revolve, like a wheel revolving around eternally, which is how Aristotle and the Greeks thought about politics."
+  },
+  {
+   "subject": "political structures",
+   "claim": "Political structures are constantly replacing each other in a cycle, and you're just trying to find a perfect balance."
+  },
+  {
+   "subject": "Aristotle",
+   "claim": "Aristotle had a judgment about all the different political structures, saying they're based on the types of people they're taking care of."
+  },
+  {
+   "subject": "best political system",
+   "claim": "The only way to judge what is the best political system is to consider who the best people are and what political system they use."
+  },
+  {
+   "subject": "French Revolution",
+   "claim": "The French Revolution was more like an upgrade, a transcendence, a one-time reorganization, not just a revolution."
+  },
+  {
+   "subject": "modern world",
+   "claim": "Today's world is different than in history because countries are too big and institutions are too set in stone to go back to simpler political systems."
+  },
+  {
+   "subject": "natural world",
+   "claim": "The political system of ancient Greece is similar to the natural world where different species of animals fight it out in survival of the fittest."
+  },
+  {
+   "subject": "Aristotle",
+   "claim": "Aristotle's Politics has eight chapters talking about city regime, citizenship, democracy, oligarchy, policy, constitutional change, the ideal state, and ideal education."
+  },
+  {
+   "subject": "Yanis Varoufakis",
+   "claim": "Yanis Varoufakis, the Greek economist, mentioned that the ancient Greeks didn't like democracy."
+  },
+  {
+   "subject": "Noam Chomsky",
+   "claim": "Noam Chomsky said that the Greeks did like democracy."
+  },
+  {
+   "subject": "Jason Reza Jorjani",
+   "claim": "Jason Reza Jorjani, a professor of religion and philosophy, said that the Greeks didn't like democracy and that aristocracy is best."
+  },
+  {
+   "subject": "democracy",
+   "claim": "According to the ancient Greeks, the smarter the population, the more democratic it has to be."
+  },
+  {
+   "subject": "Aristotle",
+   "claim": "Aristotle called democracy a free state and described it as a utopian world where everybody has the same level and a right to rule."
+  },
+  {
+   "subject": "pure democracy",
+   "claim": "Pure democracy is where the bad part of democracy happens, like when uneducated people are paid to vote and a demagogue can take advantage."
+  },
+  {
+   "subject": "demagogue",
+   "claim": "A demagogue is a negative term for someone who steers the mass consciousness of the masses without real substance."
+  },
+  {
+   "subject": "revolution",
+   "claim": "The causes of revolution include wealth discrepancy, wars, and natural catastrophes that disrupt the balance."
+  },
+  {
+   "subject": "Aristotle",
+   "claim": "Aristotle described four classes of people: golden soul (aristocrats), silver soul (landowners/farmers), bronze soul (traders), and iron soul (laborers)."
+  },
+  {
+   "subject": "free state",
+   "claim": "A free state is the best kind of state where people can move up and down classes based on their souls."
+  },
+  {
+   "subject": "education",
+   "claim": "The most important thing for a healthy society is to improve education so that people are all quality people."
+  },
+  {
+   "subject": "modern technology",
+   "claim": "Today, the masses can get intelligent a lot easier because we have cell phones with Wikipedia and spare time to learn."
+  },
+  {
+   "subject": "democracy",
+   "claim": "We are going towards a transparent society where political meetings could be filmed for the public, which is a democratic idea."
+  },
+  {
+   "subject": "monarchy",
+   "claim": "We do not want a monarchy nowadays because people are way smarter and we're going towards a transparent society."
+  },
+  {
+   "subject": "royal family",
+   "claim": "We have such a positive view of monarchy, like with the royal family, but that's going to start to seem really silly soon."
+  },
+  {
+   "subject": "past lives",
+   "claim": "We all have innate knowledge from our past lives or from our complex biology, which helps take care of us."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

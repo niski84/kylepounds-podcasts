@@ -46,7 +46,84 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He worked until 4:20 in the morning on November 26th, 2016."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is pretty high right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He stayed in the house all day on November 26th, 2016."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finished Circus Maximus on November 26th, 2016."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He started Circus Maximus the day before November 26th, 2016."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His pace is about a large building a day, like the Baths of Diocletian."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is trying to see how much he can get ahead before he burns out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is listening to Mike Duncan's History of Rome as supplementary material."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to listen to Mike Duncan's History of Rome again after finishing it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is fixing his Italy timeline and Rome timeline as he works on two projects together."
+  },
+  {
+   "subject": "Rome",
+   "claim": "It would have been cool if Rome could have never been destroyed and looked just the way it did in the Severian plan."
+  },
+  {
+   "subject": "Rome",
+   "claim": "People could ride their bikes around and do whatever they do at the temples if Rome had never been destroyed."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Maybe we should rebuild Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is really getting into the zone this winter."
+  },
+  {
+   "subject": "Rome",
+   "claim": "He can't wait to see what Rome looks like."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to trace the whole thing before he actually builds it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is doing the building in more detail than anything, including a water lake or fountain between the stands and the race course in Circus Maximus."
+  },
+  {
+   "subject": "Circus Maximus",
+   "claim": "Nobody included a water lake or fountain between the stands and the race course in their models or videos."
+  },
+  {
+   "subject": "Circus Maximus",
+   "claim": "The water lake or fountain was likely to dampen people from getting in the way of the chariot races before they could be apprehended."
+  }
+ ],
  "transcript": [
   {
    "start": 0.34,

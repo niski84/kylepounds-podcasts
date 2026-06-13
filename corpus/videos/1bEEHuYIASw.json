@@ -37,7 +37,84 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He was thinking about doing a Patreon video for a long time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is going to try to keep the Patreon video to three minutes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is thinking about doing exercise, but wants an infinity pool that costs $10,000."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If he gets $10,000 from Patreon, he will do the infinity pool."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "With the infinity pool, he can do enduro school and bike school as seen on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He does videos every single day about audiobooks he listens to."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Doing audiobook videos conflicts with working on his website, reducing his website work by 90%."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He can't work on his website and computer stuff at the same time in his current state."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If he gets the infinity pool, he will likely reduce his website work significantly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It is possible to have a balance of life, but he needs money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He doesn't have the money for the infinity pool."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He received his first check from Google on the 21st of this month for $100."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The last time he got a check from Google was exactly one year ago on the 21st of the same month."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He makes $100 a year from Google."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His website analytics suggest he should make $1,000 a week, but he doesn't know why he isn't."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he may be demonetized, which is why he isn't making money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is $15,000 in credit card debt, partly from paying off his big TV."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has a Patreon and has put it on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will let God decide what he does because he doesn't care either way and wants to finish his website."
+  }
+ ],
  "transcript": [
   {
    "start": 1.3,

@@ -40,7 +40,56 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He is not working on Monday and Tuesday this week, giving him an extra long weekend."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He predicted he would finish his project before Monday and Friday last week but didn't."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is still finishing Monarch but has completed tracing it and is now filling in details."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to name the traced elements, organize them, number them, create movies, and link them in Dreamweaver."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked until just after midnight last night and got about nine hours of sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels rested now after being tired and worn out from working solidly yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to finish his project today, including adding area links and dates."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to build his own project but hasn't decided where to put it yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is currently high and in a creative zone."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He listened to Seneca from beginning to end yesterday, which was about nine and a half hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He enjoyed listening to Seneca's philosophizing and might listen to another one today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to talk more about his project tomorrow."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

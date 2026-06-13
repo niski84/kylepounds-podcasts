@@ -37,7 +37,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He has a hard time keeping up with his videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He decided to trace every single cobblestone in ancient Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tracing cobblestones in Rome is crazy-making, even when listening to audiobooks or smoking weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tracing cobblestones is the only way to illustrate moving forward in Rome for his videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His solution is to ride a bike on rollers while working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has never worked on something on his website that is this mind-numbingly easy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got re-interested in biking when he was about to put a TV on the wall."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to go to a 3D movie on Christmas Eve, specifically the new Star Wars movie."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He realized tracing all the cobblestones of Rome was going too slowly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He took a few days off doing other things, which slowed down the cobblestone tracing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Riding a bike while tracing could make the tasks feed off each other and be really good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels like a lion pacing back and forth, needing to do something."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to fix the TV to the wall and clean up his room after the movie."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to attach a thumb mouse to the bike handlebar for easier tracing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will use a big screen in front of him to do the tracing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to ride a hundred miles a day while tracing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is excited about his new plan."
+  }
+ ],
  "transcript": [
   {
    "start": 0.31,

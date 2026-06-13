@@ -56,7 +56,136 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Today is the tenth day of the V-Log for Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was busy all day yesterday getting butter-cycle stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is not working today because it's too cold."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle received his insurance email and plans to register his motorbike today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to study for and possibly take a test later today or tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle bought a helmet yesterday and wants to get jacking gloves from Craigslist."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle prefers having his own helmet to avoid sharing others' juices."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle bought a medium-sized helmet that feels tight but was told it needs to be snug."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was tired last night and slept from 10 PM to 9:30 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle switched his bank accounts to avoid overdraft fees caused by CenturyLink."
+  },
+  {
+   "subject": "CenturyLink",
+   "claim": "CenturyLink keeps dropping calls when trying to resolve overdraft issues."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to call CenturyLink today to ensure he gets the discount he's owed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle hasn't been to the gym in six months but still pays for it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle slept at the farm and bought bud there for the first time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The farm is closer to Kyle's house than the previous place he bought bud."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The parking lot near the farm has people living in vans and campers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle describes the parking lot near the farm as the 'sooner of van living in America.'"
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle bought a product called 'Kim dog' for $12, which he considers high-quality."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle bought Rocky Mountain blueberry hash oil hybrid for $75."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to smoke all the bud he bought today, costing him $15 a day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle finds hash oil cheaper than bud but prefers the high from bud."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle doesn't feel qualified to review different kinds of weed because he can't tell the difference between strains."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle hasn't been sober since marijuana was legalized in Colorado."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to try reviewing hash versus bud."
+  },
+  {
+   "subject": "Colorado",
+   "claim": "Colorado was the first state to legalize marijuana."
+  },
+  {
+   "subject": "Colorado",
+   "claim": "Edible marijuana products can take up to two hours to take effect."
+  },
+  {
+   "subject": "Colorado",
+   "claim": "Marijuana concentrates are stronger and have a quicker effect than regular marijuana."
+  },
+  {
+   "subject": "Colorado",
+   "claim": "It is illegal to consume marijuana openly in public places in Colorado."
+  },
+  {
+   "subject": "Colorado",
+   "claim": "Driving under the influence of marijuana is illegal in Colorado and carries serious penalties."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes he is safer driving a motor cross bike when high than when sober."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle advises against traveling to Oklahoma if you've smoked weed in the last 30 days due to strict laws."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to stay in Colorado until recreational marijuana is legalized nationwide."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

@@ -28,7 +28,204 @@
   "date": "",
   "model": "anthropic/claude-sonnet-4"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle accidentally hit the record button on the video camera and now has to splice the footage."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer is the kind of person who needs constant new stimuli and gets bored quickly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer is sensitive, talented, and prefers to let others showcase their talents while they watch."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer is a great host and communicator, making them good at throwing parties."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer would excel as a psychiatrist or psychologist because they give good advice."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer would dislike working as a clerk or salesman and prefers a job with higher purpose."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer is interested in money and plans to become wealthy through their own efforts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer is a wonderful artist and often engages in music, singing to themselves but not with others."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer is shy and uncomfortable singing as a human but would be wonderful as an angel."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer, who is around 12 years old, is wondering what they will do when they grow up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer is unhappy because they don’t want the same things everyone else wants for them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer is tuned in and receives messages from people even if they’re not speaking English."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer and their brother are both exceedingly smart but may compete with each other."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer is quick to get the last word in and is powerful and aggressive."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer’s competition with their brother stems from a desire to protect or love their mom the most."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer’s mom has an impractical nature, which the viewer has noticed but loves about her."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer is worried about their future and whether they will be strong or powerful."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer may want to be a bodybuilder, weightlifter, or Olympian and will have a great reputation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer doesn’t like to work and would prefer someone to give them money rather than earn it themselves."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer has a dry sense of humor and sometimes makes jokes at the wrong time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer’s cold and fever activity is related to needing attention from their father."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer is born in a water year and enjoys swimming laps with goggles but not casual swimming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer wants to compete and be an Olympian, possibly in bicycle racing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer and their brother do a lot of traveling, possibly separately."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer will be a ladies man when they grow up and will marry around age 26 or 27."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer’s future wife will have a lot of power over them and they will have several kids."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer will accumulate a lot of money through their own creative efforts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer could be a writer or engage in a creative profession related to bicycle racing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer and their brother could be a team in international bicycle racing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer is angry about something, possibly an obstacle they’re trying to overcome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer is rich and successful but not particularly famous, which is okay with them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer is enlightened and very aware, which may make it hard for others to understand them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer is afraid to leave home and prefers being taken care of."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer and their brother have guardian angels who are wrathful and protective."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer will live a long life and spend a lot of time outside the country."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer has a sensitive and artistic nature, possibly resembling Merlin the wizard."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer wants to be peaceful and loves being around water in this life."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer wants to help people overcome negative thoughts but first needs to help themselves."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer spends a lot of time daydreaming, which could lead to inventions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer wishes they were stronger physically and could visualize themselves as strong."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer needs church, prayer, or ritual work for spiritual growth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer could train people or build bicycles as part of their career."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer and their brother will both be very successful in life."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer is happy on the outside but not on the inside and is trying hard to make something happen."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer wanted to die when they were five years old but finds life tolerable now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer’s sadness will gradually improve and get better by age 21."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer needs to control their mind and engage in contemplation, possibly by water."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes the viewer is too emotional and attaches to old things that send them down crazy roads."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the viewer is artistic with their thoughts and can weave stories all day long."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

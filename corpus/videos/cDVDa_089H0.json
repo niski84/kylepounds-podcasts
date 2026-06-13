@@ -49,7 +49,124 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "CIA and IRS",
+   "claim": "The CIA and IRS are colluding with each other to push me off onto the streets."
+  },
+  {
+   "subject": "IRS",
+   "claim": "The IRS sent a letter on March 24th saying I owe $3,000 for 2022 taxes and will levy my income and bank account if I don't pay by April 14th."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I pay taxes every year using TurboTax or H&R Block."
+  },
+  {
+   "subject": "IRS",
+   "claim": "A couple years after I pay my taxes, the IRS tells me I never paid and threatens to take all my money."
+  },
+  {
+   "subject": "IRS",
+   "claim": "In 2011, the IRS sent me a letter saying I never paid my 2008 taxes and threatened to levy my income and bank account."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had to show the IRS all of my taxes for the entire tax year while living in my car in California."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom had to get involved and mail me my tax packet to a general delivery mailbox in Seattle."
+  },
+  {
+   "subject": "IRS",
+   "claim": "I had to send my taxes to multiple IRS offices in Ogden, Utah, Fresno, California, and Salt Lake City."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It cost me $30 to print and mail a huge tax packet to the IRS."
+  },
+  {
+   "subject": "IRS",
+   "claim": "Since 2011, the IRS keeps sending me letters saying I never paid taxes, and I have to pay fines or straighten things out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a folder with all my 2022 IRS tax paperwork, including my 1040 form from H&R Block."
+  },
+  {
+   "subject": "IRS",
+   "claim": "The IRS waited until 2025 to send me a notice about my 2022 taxes, demanding $3,000 by April 4th."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The IRS does this to me all the time, demanding money years after I've paid my taxes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think the IRS and CIA are targeting me because of my website and YouTube channel, where I discuss Atlantis and U.S. law code."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Last year, I started writing about Atlantis being in the Bahamas and didn't get any replies."
+  },
+  {
+   "subject": "Google Maps",
+   "claim": "At the beginning of March this year, Google Maps de-pixelated the entire Bahamas region."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I mentioned the de-pixelation to my mom, and she got mad at me for thinking the world revolves around me."
+  },
+  {
+   "subject": "Google Maps",
+   "claim": "The Bahamas region was pixelated again at the beginning of August for a day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I made a video showing the de-pixelation on my vlog channel."
+  },
+  {
+   "subject": "CIA",
+   "claim": "A month ago, I wrote to the CIA warning them that if they don't pixelate Atlantis, the Chinese will, and it will make them look bad."
+  },
+  {
+   "subject": "IRS",
+   "claim": "A month after I wrote to the CIA, the IRS sent me a notice demanding $3,000 within three days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think the IRS is trying to bleed me out financially by demanding money I don't owe."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might have to sell my apartment, move into a storage shed, and live in a car or become homeless."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I become homeless, I'll have to carry my laptop around and sleep in a sleeping bag."
+  },
+  {
+   "subject": "IRS",
+   "claim": "The IRS could keep extorting me by claiming I owe more taxes until I have no money left."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might have to get a gym membership or find food in dumpsters if I lose my bank account."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm terrified every time I get an IRS notice because they send them to me all the time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll keep uploading videos about Atlantis, even though it's turned everyone against me."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel like I don't belong on this planet and will eventually get kicked off."
+  }
+ ],
  "transcript": [
   {
    "start": 0.4,

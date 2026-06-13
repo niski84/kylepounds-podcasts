@@ -41,7 +41,108 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He thought he did the video this morning but realized he didn't when his girlfriend called him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was working until 6 the previous day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom called him because he was supposed to help her get firewood."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went over to his mom's place at noon after only getting 6 hours of sleep or so."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He brought wood from his mom's car to her house and hung out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He did some organizational stuff and looked for things."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked all day on the Rome project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wanted to figure out how to use Hulu on his TV."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom bought him a Roku or similar device for Hulu."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He doesn't have the USB cable or other necessary cable to make it work, but plans to buy it tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to play videos from his computer on the TV once he gets the cable."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He noticed an SD card slot in the device and might use a micro SD card."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The table is about to wiggle apart, and he needs to tighten it again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was doing random buildings in the Rome project that day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is still in the excitement mode of the Rome project and hasn't started to get tired of it yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He still looks at Rome and thinks it's beautiful, not yet seeing it as crowded or unappealing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If you start looking at something and not seeing its beauty, that's the beginning stages of burning out on the project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks it will look cool to go on ground level and travel around in the Rome project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been testing ground-level travel in the Rome project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been listening to the history of Byzantium."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There is a lot of source material on the internet about Byzantium, but it's disparate."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to organize all the Byzantium source material on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Byzantium has a pretty interesting history."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is going to get really high and have a shower after the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he should have gotten high before making the video."
+  }
+ ],
  "transcript": [
   {
    "start": 0.46,

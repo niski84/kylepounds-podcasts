@@ -39,7 +39,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "It just turned 4:20 in the morning on his birthday when he hit the record button."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been having trouble keeping up with daily V-Logs because it took him forever to upload the last one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He couldn't upload his last V-Log because he unplugged the modem while moving his bike table around and didn't realize it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He forgot to plug in the Wi-Fi after reconnecting the modem, causing another interruption in the upload."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been rearranging his room and putting pictures up all over the walls."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has covered his walls with pictures three times before: in Chile in his apartment, when he moved in with his wife in Chile, and when he lived with his mom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Covering all the walls with pictures helps him familiarize himself with every square inch of the room and prevents it from feeling like a void."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This method helps him avoid clutter, as his room was previously a total mess with items sitting around for years."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had an external hard drive fused to a table from spilled orange juice about a year ago and had to pry it off with a knife."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is trying to fix the TV mount and had to raise his table to fit his head underneath."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He forgot to get a trackball for his thumb yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to sell his car and take care of loose ends he has been neglecting while working on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He stopped working on his website at the perfect spot—tracing cobblestones in Rome—because it's easy to resume."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to add words to his website for the first time to make it look polished."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is trying to get his mom to do a fundraising video with him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to organize his room by moving unneeded items to his mom's basement and bringing other items back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to buy squat equipment that will fit perfectly in his room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He might create a preliminary version of his TV show while riding to monitor his physical fitness daily."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to act out the part of a warrior in his TV show, complete with a warrior outfit and swords hung around his room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to buy hooks to hang his wigs, with intentions to buy more wigs when he has the money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels the cobblestone section on his website came at the perfect time, aligning with New Year's resolution time and his birthday."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

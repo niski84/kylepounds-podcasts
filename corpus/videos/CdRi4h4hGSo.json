@@ -53,7 +53,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He didn't receive a video request for a while until someone asked about Conor McGregor a couple days ago."
+  },
+  {
+   "subject": "Conor McGregor",
+   "claim": "Conor McGregor is an MMA fighter known for his pompous antics."
+  },
+  {
+   "subject": "Conor McGregor",
+   "claim": "Conor McGregor is the number one guy in one of the UFC's skinny guy divisions."
+  },
+  {
+   "subject": "Conor McGregor",
+   "claim": "Conor McGregor's antics resemble Muhammad Ali's attitude, including wearing a fur jacket."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle initially thought the video request about Conor McGregor was weird but then realized he's the most appropriate person to ask because he's the 'godfather of MMA'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is the godfather of MMA because of his idea for the fight suit, not because he's a fighter."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle doesn't know anything about fighting and won't for a long time, but he plans to study it eventually for the science of the fight suit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got the idea for the fight suit after seeing Ronda Rousey get knocked out, which he viewed as barbaric."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes UFC fighters should wear fight suits to avoid injuries and fight more frequently, like five fights a day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks Conor McGregor would be the best person to help mainstream the fight suit because of his flamboyance."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is calling out Conor McGregor to a fight suit match to prove the concept and inspire others."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes his lack of fighting knowledge won't matter because the fight suit will level the playing field."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's interest in fighting stems from his study of history, particularly battles and gladiator combat."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks real historical fighting wasn't as glamorous as depicted, often involving exhaustion from marching before battle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle mentions Livy's account of the Gauls being strong but poor endurance athletes, leading to their defeat."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to become an endurance athlete starting January 1, 2018, to prepare for his fight suit challenge."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle envisions a fight suit match involving a long endurance run followed by combat, where his stamina would give him an advantage."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes mass-producing fight suits could make them affordable and mainstream, like bicycles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks fighters avoid frequent matches because they fear losing, but fight suits could eliminate that fear."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle acknowledges that Conor McGregor might not be active by the time he's ready for the fight suit challenge, so he might target the next generation."
+  }
+ ],
  "transcript": [
   {
    "start": 0.02,

@@ -40,7 +40,64 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He took forever to do the video because he didn't have the program to condense the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't have the program because he had to put the new operating system in, which rendered his old video reduction program obsolete."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to get the upgrade for his video reduction program."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was going to talk to the person at the Apple store about it today but forgot."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was postponing doing the video because he was watching TV at his mom's house."
+  },
+  {
+   "subject": "Hell's Wheels",
+   "claim": "He really liked the TV show Hell's Wheels on Netflix about the West."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finished the Nutriculus and it wasn't that much work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is now working on buildings around the forum."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is super fired up and motivated to power through his work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to do the survey and make the buildings 3D, one building at a time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He can't make the video smaller or render it smaller."
+  },
+  {
+   "subject": "Kyle's mom",
+   "claim": "His mom's internet isn't that fast because she poaches off her neighbor."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to figure out a way to condense his videos again tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wasn't really listening too much to the history of the Zantan today."
+  }
+ ],
  "transcript": [
   {
    "start": 0.16,

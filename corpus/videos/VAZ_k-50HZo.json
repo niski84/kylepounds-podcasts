@@ -40,7 +40,68 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "hypochondria",
+   "claim": "Hypochondria is when people think they're sick all the time."
+  },
+  {
+   "subject": "hypochondria",
+   "claim": "The mind is a huge factor in how the body reacts to hypochondria and the placebo effect."
+  },
+  {
+   "subject": "hypochondria",
+   "claim": "People with hypochondria could benefit from the placebo effect."
+  },
+  {
+   "subject": "hypochondria",
+   "claim": "People with hypochondria can make themselves sick."
+  },
+  {
+   "subject": "Kyle's mom",
+   "claim": "Kyle's mom once exaggerated a single ant into an army of ants invading her house."
+  },
+  {
+   "subject": "people with imagined injuries",
+   "claim": "Some people think they have an injured back or ankle and avoid activities like running because of it."
+  },
+  {
+   "subject": "people with imagined injuries",
+   "claim": "Avoiding exercise due to imagined injuries can lead to actual weakness and injury."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle experienced back pain after sitting on his couch for four months without exercising."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's back pain was from a muscle knot between his clavicle and back due to lack of exercise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes working through the pain or massaging it can make the back pain go away."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's back pain went away after he addressed it."
+  },
+  {
+   "subject": "muscle injuries",
+   "claim": "Exercise can help heal muscle or tendon injuries."
+  },
+  {
+   "subject": "muscle injuries",
+   "claim": "Injuries can occur from not exercising."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got a shoulder injury last summer or fall from overexerting himself at the gym after a long break."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle tore his shoulder while doing incline bench presses with too much weight."
+  }
+ ],
  "transcript": [
   {
    "start": 0.21,

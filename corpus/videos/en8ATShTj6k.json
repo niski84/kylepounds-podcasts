@@ -89,7 +89,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle received a request video from Katie 69 655 about Donald Trump wanting to annex Greenland, Canada, and the Panama Canal."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is unsure if Katie 69 655 likes his videos because YouTube seems to be taking away likes from his videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle asks viewers to like his videos and comment if they enjoyed them to confirm whether YouTube is removing likes."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Kyle believes Donald Trump wants to annex Greenland, Canada, and the Panama Canal because he doesn't know how to govern effectively."
+  },
+  {
+   "subject": "Roman Empire",
+   "claim": "Kyle mentions that there was a 10-year period of peace in the Roman Empire during the 150s under Antoninus Pius before the Marcomannic Wars began."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Kyle compares Donald Trump's actions to those of spoiled brats who upend the apple cart because they don't know what else to do."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Kyle thinks Donald Trump imposes tariffs because he believes America has been paying too much for policing the world and getting bad trade deals."
+  },
+  {
+   "subject": "Tariffs",
+   "claim": "Kyle argues that tariffs can be used to stop imports and encourage Americans to produce more goods domestically."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Kyle believes Donald Trump's approach to tariffs is a disaster because he doesn't know what he's doing."
+  },
+  {
+   "subject": "Tariffs",
+   "claim": "Kyle acknowledges that tariffs can lead to higher prices for American consumers as foreign countries pass the costs onto them."
+  },
+  {
+   "subject": "Tariffs",
+   "claim": "Kyle supports the idea of tariffs in general because they can encourage local production and reduce reliance on foreign goods."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Kyle criticizes Donald Trump for implementing tariffs suddenly and without understanding the consequences."
+  },
+  {
+   "subject": "Local Production",
+   "claim": "Kyle believes that reducing world trade and focusing on local production can bring cultural diversity and entrepreneurial opportunities."
+  },
+  {
+   "subject": "Elon Musk",
+   "claim": "Kyle criticizes Elon Musk for pretending to be a statesman when he is actually a computer nerd who made his fortune through PayPal."
+  },
+  {
+   "subject": "Ancient Greece",
+   "claim": "Kyle compares modern society to ancient Greece, where the aristocracy was trained to govern effectively."
+  },
+  {
+   "subject": "Ancient Greece",
+   "claim": "Kyle explains that ancient Greeks had a distinct class system, with landowners at the top and slaves at the bottom."
+  },
+  {
+   "subject": "Aristocracy",
+   "claim": "Kyle argues that the aristocracy should be trained to govern because it requires a lifetime of preparation and skill."
+  },
+  {
+   "subject": "Modern Society",
+   "claim": "Kyle criticizes modern society for allowing market traders and engineers to rise to positions of power without the proper training to govern."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Kyle compares Donald Trump's actions to those of historical figures like Commodus and Caligula, who also made arbitrary and destructive decisions."
+  },
+  {
+   "subject": "Tariffs",
+   "claim": "Kyle believes that tariffs could be beneficial if implemented correctly, but Donald Trump's approach is chaotic and harmful."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle asks Katie 69 655 to like his video or comment if they enjoyed it, or he won't do any more request videos for them."
+  }
+ ],
  "transcript": [
   {
    "start": 0.46,

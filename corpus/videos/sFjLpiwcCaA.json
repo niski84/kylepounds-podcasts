@@ -47,7 +47,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is sober in this video, which is the first time he's done a video sober in many years."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle worked until about 3:30 AM on the morning of the recording."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got up at 7:30 AM after sleeping only 4 hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has gotten only 4 hours of sleep per night for the past 3 days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle felt low on energy yesterday due to lack of sleep but later got a second wind."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is considering taking over a window washing business but needs financial resources."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle cannot get a bank loan because he doesn't make enough money to qualify."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to sell his car to raise money, estimating he could get $11,000 for it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is $12,000 in debt."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to run errands with his mom, including bringing stuff to her house and visiting Goodwill."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle intends to shampoo his car and fix his rocket box to prepare it for sale."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle doesn't really want to own a business and considers passing it to his roommate after a couple of years."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle aspires to be a professional athlete and a movie/TV star."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle also wants to continue his web design work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was working on Bike Racer Level Pages lists yesterday, which are currently disorganized."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle decided to focus intensely on his website again, specifically the Bike Racer Levels page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle anticipates burning out on the project after about three weeks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to switch to something else if he burns out before completing the project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle aims to place ads on his website and attach words to them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle listened to 'The History Chicks' podcast, which discusses biographies of famous women from the past."
+  },
+  {
+   "subject": "Mary Wollstonecraft",
+   "claim": "Mary Wollstonecraft's 'A Vindication of the Rights of Woman' is a good book."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

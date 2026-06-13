@@ -86,7 +86,108 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "It is snowing outside on May 11th, which is wild."
+  },
+  {
+   "subject": "morality",
+   "claim": "Morality is about figuring out the difference between right and wrong in different situations."
+  },
+  {
+   "subject": "employer-employee relationship",
+   "claim": "If an employer treats employees unfairly by not giving cost-of-living raises, it is not okay for employees to steal from the employer to make ends meet."
+  },
+  {
+   "subject": "Chile",
+   "claim": "In Chile, bosses often do shenanigans with workers, and workers steal from bosses, leading to increased security measures and higher cost of living."
+  },
+  {
+   "subject": "first-world countries",
+   "claim": "First-world countries do better than third-world countries because they are more efficient and have higher trust among people."
+  },
+  {
+   "subject": "employment",
+   "claim": "If an employer doesn’t give a cost-of-living raise, the employee should find a more competitive job elsewhere."
+  },
+  {
+   "subject": "law",
+   "claim": "If an employer is breaking the law by not paying a certain amount, the employee should report them rather than steal."
+  },
+  {
+   "subject": "dishonesty",
+   "claim": "Stealing from someone is dishonest because it involves taking something without telling them."
+  },
+  {
+   "subject": "morality",
+   "claim": "Morality involves studying history and the development of laws to understand right and wrong."
+  },
+  {
+   "subject": "Solomon",
+   "claim": "Solomon was a great judge who used clever methods, like proposing to split a baby in half to determine the real mother."
+  },
+  {
+   "subject": "law codes",
+   "claim": "Early law codes were based on precedents set by judges like Solomon, which later became traditions and written laws."
+  },
+  {
+   "subject": "speed limit",
+   "claim": "Laws like speed limits are followed because there are consequences, such as tickets, for breaking them."
+  },
+  {
+   "subject": "morality",
+   "claim": "Morality is relative and changes over time, as seen in the evolution of laws and societal norms."
+  },
+  {
+   "subject": "death penalty",
+   "claim": "The death penalty is immoral because it propagates a culture of vengeance rather than forgiveness."
+  },
+  {
+   "subject": "abortion",
+   "claim": "Abortion should be a personal decision, as it aligns with the moral principle of personal freedoms."
+  },
+  {
+   "subject": "historical laws",
+   "claim": "Historical laws were often harsh, like cutting off hands for theft, because societies lacked better ways to enforce rules."
+  },
+  {
+   "subject": "democracy",
+   "claim": "In a democratic society, people should vote on laws directly rather than relying on appointed judges or politicians."
+  },
+  {
+   "subject": "Supreme Court",
+   "claim": "The Supreme Court’s recent decisions, like allowing internet discrimination, undermine free speech and democracy."
+  },
+  {
+   "subject": "marijuana",
+   "claim": "Legalizing marijuana is not immoral; it aligns with personal freedoms and has benefits like creativity and motivation."
+  },
+  {
+   "subject": "Fox News",
+   "claim": "Fox News panders to the lowest common denominator, with viewers often focusing on superficial aspects like appearances rather than issues."
+  },
+  {
+   "subject": "debate",
+   "claim": "The best way to determine morality is through debate and communication, which helps separate good ideas from bad ones."
+  },
+  {
+   "subject": "historical freedoms",
+   "claim": "Societies have progressed from having few personal freedoms, like serfdom, to allowing more individual liberties."
+  },
+  {
+   "subject": "draconian laws",
+   "claim": "Draconian laws, like making oral sex illegal in some states, are unrealistic and harmful."
+  },
+  {
+   "subject": "education",
+   "claim": "Future schools should focus on debate and communication to develop leadership and critical thinking skills."
+  },
+  {
+   "subject": "morality",
+   "claim": "Morality is the intersection of creativity and analysis, helping society determine what is cool or not cool for the future."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

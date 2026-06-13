@@ -33,7 +33,48 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He got up at around 10 AM on November 19, 2016."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was up until 4 AM on November 19, 2016."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got 6 hours of sleep on November 19, 2016."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He started building sister cities to Rome, with Boulder as the counterpart to Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He began with the cities farthest out from Rome and noted their proximity percentages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He kept the sizes of the sister cities about the same as their Roman counterparts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He focused on the more interesting sister cities and completed the smaller ones closer to Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is now working on the sister cities in Italy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to create tribe areas and Roman States based on the sister cities."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to create a counterpart to everything in the Roman Empire."
+  }
+ ],
  "transcript": [
   {
    "start": 0.66,

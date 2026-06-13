@@ -40,7 +40,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday was a weird day because he woke up as it was getting dark."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was up until around 1 a.m. the previous night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He woke up at 6 p.m. after going to sleep late."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He might stay up all day to switch his sleep schedule."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is currently copying and pasting stuff for his video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been working on his website, focusing on surface-level stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His website looks weird because it's not finished."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is in the final stages of finishing his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The work is going much faster now because he has a faster computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hasn't worked on this project since he got his new computer a couple of years ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He remembers building the website without a computer and waiting a long time for things to process."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been sitting around waiting for the past hour while working on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He entertained himself by printing pictures and posting them on the wall but ran out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finished listening to his podcast, Fall of Rome, and listened to a couple of chapters twice."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is now listening to History Chicks, starting with Mary Queen of Scots because he is watching Rain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to listen to all 120 episodes of History Chicks during this time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The guys in his house will come tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "On Monday, he is going to go full bore."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is trying to sell his car for whatever he can get."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is working on standardizing the way he has lists on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He built some lists before realizing exactly what he wanted them to do."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The work is going quickly because of his new computer."
+  }
+ ],
  "transcript": [
   {
    "start": 0.64,

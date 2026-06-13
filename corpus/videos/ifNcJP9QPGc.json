@@ -45,7 +45,156 @@
   "date": "2019-05-08",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "This video is training with Kyle V-Log, because now that's his priority."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't do anything yesterday because he wanted to experiment and had too many sore muscles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His hamstrings were sore, and his shoulder was a little bit sore."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't do anything because it was raining and sub-40 degrees outside."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't want to swim or run, and he wasn't going to ride the bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He did some errands, including riding his bike to get permission to drive the car and driving to emissions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His car broke down at emissions and had to be towed to the mechanic."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The car breaking down depressed him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Being an athlete is 100% mental."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He cracked mentally today because of his car issues."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His car sometimes doesn't turn over, and nobody knows why."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked on his website and timeline with the castles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's going to snow all day tomorrow, so he plans to swim."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He physically can't run and isn't sure about riding, but might swim."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't do anything over the last two days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He can't run on the flats; all he can do is trot because he's out of shape."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Running in the mountains is easier than running on the flats because he can't bound."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He can trot up the mountain and bounce down, feeling like he's in shape."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has endurance as long as he's mentally there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His car not working gives him the heebie-jeebies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He can go all day long as long as he's mentally there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's May, and it's wintertime with snow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to swim tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He bought Jägermeister, drank alcohol, and pigged out on Taco Bell today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked on his timeline."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He can't tell the difference between being overtrained and undertrained because it feels the same."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels like shit either way, so he might as well overdo it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't get around to putting an audiobook on his AP3 player for underwater use."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to listen to music for motivation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He managed to sleep yesterday but didn't sleep at all the night before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The night before last, he only got three hours of sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he slept last night for maybe four or five hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to go to sleep tonight and get up whenever he wakes up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has a vision for what he needs to do for his timeline."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He could do it on his bicycle but doesn't know if he will."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't do much today but has a good excuse because of his car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to get his car to work at least 50% of the time to improve his mood."
+  }
+ ],
  "transcript": [
   {
    "start": 0.66,

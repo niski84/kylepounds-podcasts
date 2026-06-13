@@ -44,7 +44,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle belched during yesterday's video because he didn't give his stomach time to settle after getting out of bed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle started a new month-long project involving Roman Roads yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle checked for KMZ Google Earth downloads of Roman Roads to avoid redundant work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle discovered new maps of Rome on the David Rumsey historical map site that he hadn't noticed before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle found a tracing of the Servian and Aurelian walls superimposed on Google Earth, which corrected his previous errors."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle decided to map all of Rome within the Aurelian walls to create a detailed model for future projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes mapping Rome will help him understand the city's layout and historical context better."
+  },
+  {
+   "subject": "Rome",
+   "claim": "A detailed street plan of Rome was lost to history during the Dark Ages."
+  },
+  {
+   "subject": "Rome",
+   "claim": "In 1564, etchings on rock pieces were discovered behind a church, which were remnants of a huge mural map of Rome."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The mural map of Rome was originally 30 meters by 30 meters and was created during Emperor Severus' reign (193-215 AD)."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The map included a building called the Tagliate, built in 205 AD, indicating the map was made after that year."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The map was created around 210 AD, at the height of Rome's construction and imperial strength."
+  },
+  {
+   "subject": "Rome",
+   "claim": "An Italian guy in the 1840s pieced together the stone fragments to create a map of ancient Rome overlaid on modern Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to trace the map of Rome on Google Earth to build a detailed model of the ancient city."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle worked until 5:15 AM on the project and got about 6.5 hours of sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is excited to continue tracing the map of Rome and hopes to complete it within a month."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The big jail in Rome was placed at the end of the Circus Maximus so prisoners could watch the chariot races."
+  }
+ ],
  "transcript": [
   {
    "start": 1.68,

@@ -34,7 +34,64 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle gave himself an eye injury on his face yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle pretty much finished tracing around except for the Baza Diocletian, which he started a few days ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle decided to trace the cobblestones of all the roads last night, even though he initially planned not to, because he realized it would make the project look a million times better."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle worked until about 6 in the morning last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got up at around 9 today to drive his mom to the hospital for an eye checkup."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's mom got him food at an Indian restaurant today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle predicts that tracing the cobblestones will take two or three weeks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle listened to the History of England podcast last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't watch any TV last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle and his girlfriend watched Netflix the day before yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle finds having Netflix in his home to be a blast of technology."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle only got three hours of sleep last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle measured the cobblestones and found them to be about 1.3 meters, suggesting they were giant slabs of granite or marble."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has three quest videos he wants to do today."
+  }
+ ],
  "transcript": [
   {
    "start": 1.49,

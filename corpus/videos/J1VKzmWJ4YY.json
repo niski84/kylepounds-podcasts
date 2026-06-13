@@ -92,7 +92,120 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He had a request video about religion but can't remember who asked for it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got a request a couple years ago about what he thinks about the devil."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He sometimes gets emotional when he was really high in the past."
+  },
+  {
+   "subject": "society",
+   "claim": "He thinks part of the reason everybody's going crazy these days is because they're all smoking reefer for very long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He used to watch Young Turks a lot and they were his favorite channel but not so much anymore."
+  },
+  {
+   "subject": "Young Turks",
+   "claim": "They just hate religion, which he thinks is a blanket statement that doesn't understand history."
+  },
+  {
+   "subject": "history",
+   "claim": "Religion has always played an important part of society and will always exist."
+  },
+  {
+   "subject": "society",
+   "claim": "If society had to restart after a catastrophe, the first thing people would do is establish a religion and a religious leader."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome got started in the year 753 BC and has a very detailed story of the past from the very beginning."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The very first leader of Rome was Romulus, and the second king, Numa Pompilius, started the religion."
+  },
+  {
+   "subject": "religion",
+   "claim": "To say that religion is bad is wrong; the issue is mixing politics and personal gain with religion."
+  },
+  {
+   "subject": "Catholic religion",
+   "claim": "The worst part was from the year 900 until 1450 when the popes got too powerful and turned into a business."
+  },
+  {
+   "subject": "religion",
+   "claim": "If you think your religion is going bad, you should shower them with more religion, not less."
+  },
+  {
+   "subject": "fundamentalist Christians",
+   "claim": "They are the least knowledgeable about history, citing an example about ancient Romans having a devil worshiping ceremony called Lupacabra."
+  },
+  {
+   "subject": "Lupacabra",
+   "claim": "It was a full moon ceremony that the ancient Romans had before they even had a religion, not devil worship."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He grew up in a religious cult, initially a Hindu-Sufi cult, then a Buddhist one following Chögyam Trungpa Rinpoche."
+  },
+  {
+   "subject": "Chögyam Trungpa Rinpoche",
+   "claim": "He was drunk all the time, couldn't focus, and died at the age of 47 from drinking."
+  },
+  {
+   "subject": "Kyle's parents",
+   "claim": "Both grew up in extremely religious families but hate Christianity to the point of being unable to have a conversation about it."
+  },
+  {
+   "subject": "Kyle's father",
+   "claim": "He was a consummate follower in a Buddhist cult, believed he had magical powers, and was a raging alcoholic."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was bullied in a Buddhist school and his parents took him out of the school three weeks before the end of the school year."
+  },
+  {
+   "subject": "cults",
+   "claim": "They are just bullying, with leaders who have too much power and followers who are bullied out if they're not the cool kids."
+  },
+  {
+   "subject": "religion",
+   "claim": "It's a tradition from history that needs to be revamped, keeping the positive parts but removing the power structure."
+  },
+  {
+   "subject": "Christianity",
+   "claim": "Its fatal flaw is that it's a finite religion that can't evolve into Christianity 2.0; it needs to be replaced by a new religion."
+  },
+  {
+   "subject": "Rome",
+   "claim": "It should be rebuilt as a 3D YouTube, a community center for the world where people can meet, compete, and share ideas."
+  },
+  {
+   "subject": "religion",
+   "claim": "We need to destroy all religions but honor their traditions, encouraging cultural appropriation to keep the garden growing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He calls himself a Sufi Muslim on Facebook as a joke but plans to change it to 'new ager' because everyone needs to become a new ager."
+  },
+  {
+   "subject": "religion",
+   "claim": "It's history, and you can't be a proper religious person unless you're a historian who loves and appropriates everything from history."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to write a screenplay about future Atlantis, a utopia without religion but with religious morals and respect for history."
+  }
+ ],
  "transcript": [
   {
    "start": 0.05,

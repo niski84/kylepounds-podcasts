@@ -51,7 +51,100 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Forgetting to do a vlog one day makes it much more likely to forget the next day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Maintaining daily habits like going to the gym requires consistency."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hasn't worked recently due to bad weather."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He spent a day working on his motorcycle, checking shocks and removing panels."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He read through the motorcycle manual and handbook."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He took the motorcycle test, which took a long time due to waiting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He bought brake fluid, oil, superglue, a brush, and a hose attachment for his motorcycle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He ordered a rack and a gas tank bag for his motorcycle but won't buy pannier side racks to keep it light for trails."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to use his car or bicycle for touring instead of his motorcycle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got a neon green biking jacket, black helmet, and green-blue gloves to match his bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He missed one question on the written test about car and motorcycle accidents."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He now has a motorcycle permit, allowing him to ride with a licensed motorcyclist."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He lost his car driver's license and is unsure if he can get a replacement without retaking the test."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks the government is inefficient for making him potentially retake his driver's license test."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He bought underwater earphones to listen to audiobooks while swimming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is considering keeping his gym membership to use the underwater earphones."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to cut down on marijuana smoking if he starts swimming regularly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to create new playlists for different exercise routines and lengths."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He uses a free program to download music from YouTube and convert it to MP3."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to finish inspecting his motorcycle, including brake pads and helmet lock."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to buy goggles for riding his motorcycle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been ordering crickets from Flutter Farms but is dissatisfied with their size."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He enjoys feeding wax worms to his gecko and might try growing them himself."
+  }
+ ],
  "transcript": [
   {
    "start": 0.24,

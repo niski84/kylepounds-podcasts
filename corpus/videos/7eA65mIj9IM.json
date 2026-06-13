@@ -81,7 +81,100 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He is the prophet of prophets because he found Atlantis."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube will hit a saturation point where everyone is watching it all the time."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube will evolve to go back to its original format where people do videos because they want to, not for fame."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "If storage becomes an issue, YouTube could prioritize educational videos over silly ones."
+  },
+  {
+   "subject": "social media",
+   "claim": "Social media is wreaking havoc on young girls because it turns into a competition."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "People are watching YouTube everywhere, even in the gym."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "In the past, people would quit YouTube if they didn't make money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He started uploading YouTube videos in 2009 because he finally got a camera."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "Celebrities initially lagged in joining YouTube, possibly due to harassment concerns."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes everyone has a platform to defend themselves on YouTube, even against slander."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "There has been an explosion of new creators in recent years, leading to oversaturation."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "Warrior influencers (e.g., Navy SEALs) are becoming oversaturated, making it hard for new ones to succeed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wears low view counts as a badge of honor because he believes people should spend time on better things."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "In the future, people will upload videos just for the sake of it, not for hits."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube should be standardized like railroad tracks to create a meritocracy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to upload IQ test videos to motivate himself to improve."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He faced online harassment after getting a DUI for marijuana in 2015."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His website improved over time, reducing harassment against him."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "The future of YouTube should involve self-education, like book reviews and history tests."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He proposed a 'bi-weekly history test' where people test their knowledge of random decades."
+  },
+  {
+   "subject": "education system",
+   "claim": "The U.S. education system is designed to brainwash people rather than make them smart."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He struggled in college due to unfair grading and authority figures disliking him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes the future of YouTube should be about transparency and self-improvement, not popularity."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

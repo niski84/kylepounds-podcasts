@@ -84,7 +84,200 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "country",
+   "claim": "The most important thing a country can have is the ability for people to own their own homes."
+  },
+  {
+   "subject": "economy",
+   "claim": "Homeownership is a good gauge for whether the economy is in a healthy condition."
+  },
+  {
+   "subject": "ultra wealthy",
+   "claim": "The ultra wealthy are up to no good if they advocate for renting over homeownership."
+  },
+  {
+   "subject": "ultra wealthy",
+   "claim": "When the ultra wealthy argue that renting is best for the economy, it's because they benefit from it and don't care about others."
+  },
+  {
+   "subject": "Warren Buffett",
+   "claim": "Warren Buffett said that economically it's better to rent, likely because he and his friends depend on renting out houses."
+  },
+  {
+   "subject": "investing",
+   "claim": "Investing in big companies for returns is different from investing in apartments to rent out, which is not a good way to invest."
+  },
+  {
+   "subject": "renting",
+   "claim": "Renting a house temporarily, like during a vacation or living abroad, is acceptable, but owning multiple properties to rent out is not."
+  },
+  {
+   "subject": "law",
+   "claim": "There should be a law that limits one person to owning no more than three houses or condos to discourage renting out properties."
+  },
+  {
+   "subject": "Robert Kowalski",
+   "claim": "Robert Kowalski makes his money from renting out 6,000 units, which is excessive and makes him too rich."
+  },
+  {
+   "subject": "Robert Kowalski",
+   "claim": "Owning 6,000 rental units is like owning an entire city and creates a power imbalance."
+  },
+  {
+   "subject": "Crassus",
+   "claim": "Robert Kowalski is like Crassus from ancient Rome, who bought up land after a fire and became a slumlord."
+  },
+  {
+   "subject": "wealth discrepancy",
+   "claim": "When people have to rent instead of owning homes, it indicates too much wealth discrepancy and pay gap."
+  },
+  {
+   "subject": "colonization",
+   "claim": "Historically, colonies were established with the idea that everyone gets a house and land is divided evenly, not with one person owning everything."
+  },
+  {
+   "subject": "homeownership",
+   "claim": "Homeownership represents sovereignty and personal freedom, allowing people to express creativity and personality."
+  },
+  {
+   "subject": "renting",
+   "claim": "Renting prevents people from expressing their artistic personality and stunts personal growth."
+  },
+  {
+   "subject": "North Korea",
+   "claim": "Renting is like North Korea, where people have limited choices and become automatons."
+  },
+  {
+   "subject": "Aristotle",
+   "claim": "Aristotle and Plato discussed slaves as untrustworthy, reflecting an us-versus-them mentality."
+  },
+  {
+   "subject": "Chile",
+   "claim": "In Chile, huge wealth discrepancy leads to distrust between classes and inefficient shopping processes."
+  },
+  {
+   "subject": "jewelry factory",
+   "claim": "Kyle's wife's brother had a small jewelry factory where workers stole from him, and rich people stole from workers by not paying them."
+  },
+  {
+   "subject": "economy",
+   "claim": "If people can't buy houses, the economy should provide tiny houses or low-interest loans to make homeownership possible."
+  },
+  {
+   "subject": "taxation",
+   "claim": "The wealthy should be taxed more, and minimum wage should be increased to help people afford homes."
+  },
+  {
+   "subject": "interest rates",
+   "claim": "Banks should offer extremely low interest rates for home loans, like the 4% rate in ancient Rome."
+  },
+  {
+   "subject": "New York",
+   "claim": "In New York, billionaires from other countries buy apartments as investments and leave them empty, driving up prices."
+  },
+  {
+   "subject": "Versailles",
+   "claim": "The situation with absentee landlords is like Louis XIV bringing lords to Versailles, centralizing power and wealth."
+  },
+  {
+   "subject": "French Revolution",
+   "claim": "Excessive wealth and power among the rich, like in pre-revolution France, leads to societal collapse."
+  },
+  {
+   "subject": "property management",
+   "claim": "Property management companies are an inefficient industry that shouldn't exist if people owned their homes."
+  },
+  {
+   "subject": "eviction",
+   "claim": "Kyle's friend was evicted without reason by a property management company, showing the power imbalance in renting."
+  },
+  {
+   "subject": "Robert Kowalski",
+   "claim": "Landlords like Robert Kowalski can evict people arbitrarily, creating instability and power abuse."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump made money by renting apartments only to rich white people, showing discriminatory practices in housing."
+  },
+  {
+   "subject": "ghettos",
+   "claim": "Rich landlords could create ghettos by segregating renters, similar to medieval Jewish ghettos."
+  },
+  {
+   "subject": "personality",
+   "claim": "Renting warps the personalities of both rich and poor people, making the rich bullies and the poor meek."
+  },
+  {
+   "subject": "homeownership",
+   "claim": "Owning a home allows people to express themselves artistically and philosophically, like Kyle did with his condo."
+  },
+  {
+   "subject": "artistry",
+   "claim": "Rich people who brag about being artists are hypocrites if their wealth depends on others not being able to express themselves."
+  },
+  {
+   "subject": "legislation",
+   "claim": "Legislators should reduce interest rates and create government banks to loan money at 4% for homeownership."
+  },
+  {
+   "subject": "children",
+   "claim": "Children who move frequently due to renting lose friends and stability, harming their development."
+  },
+  {
+   "subject": "homelessness",
+   "claim": "Some homeless people prefer tents or cars over renting because it gives them freedom and sovereignty."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump proposed forcing homeless people into houses to enrich landlords, which is exploitative."
+  },
+  {
+   "subject": "property taxes",
+   "claim": "Property taxes should be low for small homeowners to prevent them from losing their homes during unemployment."
+  },
+  {
+   "subject": "unemployment",
+   "claim": "Owning a home makes unemployment less stressful, as people still have security and stability."
+  },
+  {
+   "subject": "rich people",
+   "claim": "Rich people oppose UBI because they don't trust others and think people need to be policed."
+  },
+  {
+   "subject": "Elon Musk",
+   "claim": "Elon Musk's endless acquisition of businesses shows how power corrupts the wealthy."
+  },
+  {
+   "subject": "Pajani Watch Adiwaga",
+   "claim": "A Facebook billionaire complained that Trump was easier to manipulate than Biden, showing how wealth influences politics."
+  },
+  {
+   "subject": "Peter Thiel",
+   "claim": "Peter Thiel opposes democracy because billionaires like him want to control government policy."
+  },
+  {
+   "subject": "democracy",
+   "claim": "Billionaires undermining democracy leads to oligarchy and instability, like in Russia."
+  },
+  {
+   "subject": "economy",
+   "claim": "A healthy economy requires people to own homes, as it stimulates buying and economic activity."
+  },
+  {
+   "subject": "debt",
+   "claim": "Kyle is happy despite falling into debt because he owns his apartment and can't be arbitrarily evicted."
+  },
+  {
+   "subject": "America",
+   "claim": "America should be the first country to ensure homeownership to set an example for others."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is making more videos now because he's not smoking weed anymore."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

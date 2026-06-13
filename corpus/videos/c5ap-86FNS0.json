@@ -33,7 +33,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He never went to sleep last night because he worked all night long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is currently pasting ads on his free audio book pages on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A couple of years ago, he filled his whole website up with ads but they didn't appear."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He forgot about the ads not appearing on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He now sees a lot of ads on his website because he put them inside a table."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is pasting new ads that do appear on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is working on a new car right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The process of pasting ads on his audio books page is taking forever because it's such a big page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He remembers the rules with AdSense were that you can only have like five ads per page, which was problematic for him because he has such big pages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He counted 29 ads that showed up before they stopped showing up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks it's cool that you can load your pages up with ads now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes he should have attached ads all over his website a long time before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After attaching ads and fixing up the links, he can have a regular website that looks like it makes money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finds it pretty exciting to work on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finished the 40 kilometer bike pace and level page link today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is going to do the rest of the bike pace and level page links."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't realize how close he actually was to being done with everything on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today is Saturday and he plans to work all day today and Sunday to get as far ahead on his site as he can."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Working on the surface level stuff on his website, like attaching ads, gives him a sense of accomplishment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This sense of accomplishment allows him to separate himself from working on the website or trying to set up his house and focus on trying to sell his car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Selling his car is really the important thing right now, even if he has to sell it for a deal."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to work until he starts to get tired and then lay down."
+  }
+ ],
  "transcript": [
   {
    "start": 0.3,

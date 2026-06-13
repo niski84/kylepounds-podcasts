@@ -90,7 +90,156 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Studying history is the closest thing we can get to time travel."
+  },
+  {
+   "subject": "time travel",
+   "claim": "Time travel can also be parallel universe travel."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Atlantis is an island that's 550 kilometers by 350 kilometers with a big northern bay that comes from the north."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "The capital city of Atlantis is about 13 kilometers inland."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "The wall of Atlantis is about three kilometers in from the sea."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "The central capital of Atlantis is about 13 kilometers from the sea."
+  },
+  {
+   "subject": "Atlantis",
+   "claim": "Atlantis had a 1,600 kilometer winding canal from Andros Island."
+  },
+  {
+   "subject": "future civilization",
+   "claim": "The next level of civilization in terms of infrastructure is giant buildings acting as cities."
+  },
+  {
+   "subject": "future civilization",
+   "claim": "In the future, we will have giant caves that turn into giant cities."
+  },
+  {
+   "subject": "future energy",
+   "claim": "In about 50 years, we're going to run out of oil."
+  },
+  {
+   "subject": "future energy",
+   "claim": "We will have to rely on solar, hydroelectric, tidal energy, geothermal energy, and wind energy."
+  },
+  {
+   "subject": "future cities",
+   "claim": "One architecture of the future is the big ass building, like the XC4000."
+  },
+  {
+   "subject": "XC4000",
+   "claim": "The XC4000 is a 4,000 meter high building shaped like a stocky Eiffel tower."
+  },
+  {
+   "subject": "XC4000",
+   "claim": "The XC4000 revolutionizes travel by making it free and fast."
+  },
+  {
+   "subject": "XC4000",
+   "claim": "The XC4000 is covered in solar panels and can get wind energy from the top."
+  },
+  {
+   "subject": "XC4000",
+   "claim": "The XC4000 is self-sufficient as far as energy goes."
+  },
+  {
+   "subject": "future travel",
+   "claim": "Gliders starting at 13,148 feet could fly 20 kilometers in any direction."
+  },
+  {
+   "subject": "future travel",
+   "claim": "People could fly around the entire island without using any energy by jumping in gliders."
+  },
+  {
+   "subject": "future animals",
+   "claim": "In the future, wild animals will be tamed and used to fight humans for fun."
+  },
+  {
+   "subject": "future animals",
+   "claim": "Animals like lions, tigers, and bears will turn into our little play things."
+  },
+  {
+   "subject": "time travel",
+   "claim": "The best way to do time travel in the past is by recreating history."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Ancient Rome had all of their roads totally straight because they didn't have cars."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Ancient Rome's buildings were designed with really long hallways that go all the way to the other end."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Ancient Rome had residential towers that got up to about 75 meters."
+  },
+  {
+   "subject": "time travel",
+   "claim": "Time travel and interdimensional travel work by combining AI with quantum computing."
+  },
+  {
+   "subject": "quantum computing",
+   "claim": "Quantum computing is infinite power because it uses all of its information through averages."
+  },
+  {
+   "subject": "quantum universe",
+   "claim": "The quantum universe is a hologram and it's just a mathematical equation."
+  },
+  {
+   "subject": "time travel",
+   "claim": "When you travel back in time, you're not actually traveling back in your own timeline but to a very similar parallel universe."
+  },
+  {
+   "subject": "Mandela effect",
+   "claim": "The Mandela effect happens because you're actually dancing between parallel universes."
+  },
+  {
+   "subject": "Arcturians",
+   "claim": "The Arcturians live around Arcturus, a red giant star, and have been around since before it was a red giant."
+  },
+  {
+   "subject": "Arcturians",
+   "claim": "The Arcturians can time travel on a whim, making them halfway between the spirit world and the physical world."
+  },
+  {
+   "subject": "future prediction",
+   "claim": "If everybody predicts the future on their websites in an educated way, AI can tally up the average to predict the future."
+  },
+  {
+   "subject": "future time travel",
+   "claim": "Future time travel is already figured out by jumping in a spaceship that zooms around at almost 99% the speed of light."
+  },
+  {
+   "subject": "past time travel",
+   "claim": "Past time travel uses the power of a supercomputer."
+  },
+  {
+   "subject": "aliens",
+   "claim": "Aliens are defusing our nuclear weapons and stopping accidentally sent off nuclear weapons."
+  },
+  {
+   "subject": "computing",
+   "claim": "There are three different new forms of computing: classical binary computing, AI computing, and quantum computing."
+  },
+  {
+   "subject": "human computing",
+   "claim": "Using humans as computers involves asking millions of people and taking their averages to find truth."
+  }
+ ],
  "transcript": [
   {
    "start": 0.37,

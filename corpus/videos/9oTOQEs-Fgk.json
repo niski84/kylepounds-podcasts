@@ -39,7 +39,52 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle worked until about 4:15 in the morning on November 28th, 2016."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got up and started working again from 5 AM to noon on November 28th, 2016."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle completed tracing the Flaminian Circus and Pompeii Amphitheater on November 28th, 2016."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle also traced some other temples and structures on November 28th, 2016."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle estimates that half of his tracing work is done as of November 28th, 2016."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has completed tracing most of the big buildings as of November 28th, 2016."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is excited to see the final 3D product of his tracing work because the possibilities are immense."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to create movies that transition from one room to another and offer tours of buildings using his tracing work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is undecided whether to showcase his tracing work on a new YouTube channel or his existing one."
+  },
+  {
+   "subject": "Mike Duncan",
+   "claim": "Kyle recommends Mike Duncan's podcast for its ability to help listeners remember important historical events."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to listen to Mike Duncan's podcast while updating his website timeline for Rome."
+  }
+ ],
  "transcript": [
   {
    "start": 0.85,

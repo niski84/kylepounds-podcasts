@@ -81,7 +81,124 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle voted for Kamala Harris in the 2024 election."
+  },
+  {
+   "subject": "Kyle's mom",
+   "claim": "Kyle's mom voted for Kamala Harris in the 2024 election."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump won the 2024 election by a significant margin, including a five-million popular vote lead and a decisive Electoral College victory."
+  },
+  {
+   "subject": "Kamala Harris campaign",
+   "claim": "The Kamala Harris campaign aired an ad featuring a skit where a woman votes for Harris and confidently affirms her choice to her MAGA-supporting husband."
+  },
+  {
+   "subject": "voters",
+   "claim": "Some voters may have secretly voted for Donald Trump despite publicly claiming they voted for Kamala Harris, possibly due to fear of immigration issues."
+  },
+  {
+   "subject": "immigration",
+   "claim": "Immigration concerns, particularly about immigrants coming through the Southern border, influenced many voters to support Donald Trump."
+  },
+  {
+   "subject": "black and Latino voters",
+   "claim": "Many black and Latino voters supported Donald Trump due to concerns about immigrants moving into their neighborhoods and competing for jobs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels afraid about immigration, citing a picture of 3,000 immigrants heading toward the Southern border."
+  },
+  {
+   "subject": "illegal immigrants",
+   "claim": "Between 2021 and 2022, illegal immigrants in the U.S. increased by 500,000, reaching 12 million by 2024, representing one out of every 28 people in America."
+  },
+  {
+   "subject": "fall of Rome",
+   "claim": "The fall of Rome is often compared to the potential decline of America, with both sides of the political spectrum attributing it to different causes."
+  },
+  {
+   "subject": "Aristotle's Politics",
+   "claim": "Kyle has been reading Aristotle's Politics repeatedly over the last couple of weeks and is considering memorizing it."
+  },
+  {
+   "subject": "Aristotle's Politics",
+   "claim": "Aristotle's Politics is similar to Montesquieu's 'Spirit of the Laws,' as both discuss how different situations create different laws."
+  },
+  {
+   "subject": "fall of Rome",
+   "claim": "The Roman Empire's population declined from 75 million in the 150s to 55 million by 400 AD due to plagues and wars, and 150,000 Goths entering the empire contributed to its decline."
+  },
+  {
+   "subject": "immigration",
+   "claim": "The current ratio of illegal immigrants in the U.S. (1 out of 28) is 13 times higher than the ratio of Gothic invaders in the Roman Empire (1 out of 333) when it began to decline."
+  },
+  {
+   "subject": "Democrats",
+   "claim": "Democrats failed to take seriously the notion that immigration could pose a threat to the country, dismissing concerns outright."
+  },
+  {
+   "subject": "U.S. Constitution",
+   "claim": "There is talk of changing the U.S. Constitution, with Donald Trump potentially seeking a third term and Vivek Ramaswamy proposing to raise the voting age to 25."
+  },
+  {
+   "subject": "Aristotle's Politics",
+   "claim": "Michael Knowles, influenced by Aristotle's Politics, argued that the U.S. should transition from a democracy to a dictatorship due to the constant evolution of government forms."
+  },
+  {
+   "subject": "Crisis of Democracy",
+   "claim": "The book 'Crisis of Democracy,' published in the late 1970s by the Trilateral Commission, argues for the need to eliminate democracy."
+  },
+  {
+   "subject": "immigration",
+   "claim": "Brett Weinstein observed immigrants crossing the Darien Gap, with many countries facilitating their journey to the U.S."
+  },
+  {
+   "subject": "immigration",
+   "claim": "Immigrants crossing the Darien Gap often lose their children or parents during the journey due to the dangers involved."
+  },
+  {
+   "subject": "immigration",
+   "claim": "Half a million new illegal immigrants cross the U.S. border annually, raising concerns about the long-term impact on the country."
+  },
+  {
+   "subject": "immigration",
+   "claim": "Chinese men are among those crossing the Darien Gap, with some speculating that China may be sending them to America to sabotage or spy on the country."
+  },
+  {
+   "subject": "immigration",
+   "claim": "Kyle believes that the influx of immigrants could lead to the creation of third-world-like enclaves in the U.S., overwhelming the country's ability to manage them."
+  },
+  {
+   "subject": "immigration",
+   "claim": "Illegal immigrants often do not pay taxes, contributing to financial strain and mismanagement in communities."
+  },
+  {
+   "subject": "immigration",
+   "claim": "Kyle has observed Mexican families begging outside supermarkets in Boulder, Colorado, despite it being a predominantly white area."
+  },
+  {
+   "subject": "dictatorship",
+   "claim": "Kyle suggests that a dictatorship might be necessary to effectively deport large numbers of immigrants and secure the border."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump's victory in 2024 may have been driven by widespread fear of immigration and its potential to destabilize the country."
+  },
+  {
+   "subject": "U.S. Constitution",
+   "claim": "Trump's potential third term and changes to the Constitution could lead to a more fascist government, but Kyle believes most Americans would resist such changes."
+  },
+  {
+   "subject": "immigration",
+   "claim": "Kyle believes that the majority of Americans subconsciously voted for Trump due to concerns about immigration, despite publicly supporting Kamala Harris."
+  }
+ ],
  "transcript": [
   {
    "start": 0.05,

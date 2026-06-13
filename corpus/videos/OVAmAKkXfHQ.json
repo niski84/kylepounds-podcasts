@@ -77,7 +77,136 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "the fitness industry on YouTube",
+   "claim": "The fitness industry on YouTube is ass-backwards because everyone cares about appearance rather than performance."
+  },
+  {
+   "subject": "CrossFit",
+   "claim": "CrossFit commoditizes performance by requiring payment to access performance numbers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle created a fitness exercise called Jocosium years ago where people record their strength and keep track of their records."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle invented a one-size-fits-all exercise where everyone can compete together, starting with 10 pounds and progressing through levels."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's biceps are sore from doing his invented dumbbell exercise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle did his dumbbell exercise a few days ago and plans to do it again today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle reached level 9 to 11 in his dumbbell exercise and aims to progress further."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's goal is to perform his dumbbell exercise with 45-pound weights and eventually reach 100 pounds."
+  },
+  {
+   "subject": "Chris Hemsworth",
+   "claim": "Kyle would love to see how Chris Hemsworth and other Hollywood muscle guys perform on his dumbbell exercise."
+  },
+  {
+   "subject": "the fitness industry",
+   "claim": "Kyle believes changing the fitness industry could fix societal problems by shifting focus from appearance to performance."
+  },
+  {
+   "subject": "online behavior",
+   "claim": "66% of people lie about themselves online."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube has become a platform where people remain anonymous, similar to Reddit."
+  },
+  {
+   "subject": "Kyle's mom",
+   "claim": "Kyle's mom likes Reddit because it allows her to remain anonymous."
+  },
+  {
+   "subject": "YouTube channels",
+   "claim": "Most YouTube channels are anonymous, with users rarely uploading videos or using their real names."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle attaches his YouTube channel and website to his resumes, which often leads to him being rejected from jobs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle suspects he might have Asperger's and believes it affects how his brain works differently."
+  },
+  {
+   "subject": "society",
+   "claim": "People tend to dislike others if they disagree on one thing, even if they agree on ten."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants people to compete in his dumbbell exercise and upload videos of their performance."
+  },
+  {
+   "subject": "synthol users",
+   "claim": "Synthol users prioritize appearance over strength, leading to dangerous outcomes like death or injury."
+  },
+  {
+   "subject": "MMA",
+   "claim": "A Russian synthol user got beaten up in MMA by a Mongolian fighter and later by a girl."
+  },
+  {
+   "subject": "fitness",
+   "claim": "Pro athletes, CrossFitters, and gymnasts have great bodies because they focus on performance rather than appearance."
+  },
+  {
+   "subject": "Greg Doucette",
+   "claim": "Kyle wants to see how Greg Doucette performs on his dumbbell exercise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle performed his dumbbell exercise with 25-pound weights and progressed to 35-pound weights."
+  },
+  {
+   "subject": "Arnold Schwarzenegger",
+   "claim": "Arnold Schwarzenegger said in the 1970s that pushing yourself to failure is what builds muscle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle competed against his past self by performing his dumbbell exercise and uploading a video."
+  },
+  {
+   "subject": "Will Tennyson",
+   "claim": "Will Tennyson, known for being natural, started using Tren to gain more muscle."
+  },
+  {
+   "subject": "Greg Doucette",
+   "claim": "Greg Doucette had Lean to Beef Patty perform a dumbbell squat exercise, but Kyle doubts she completed the full sets."
+  },
+  {
+   "subject": "fitness industry",
+   "claim": "The fitness industry should focus on performance rather than appearance to improve society."
+  },
+  {
+   "subject": "Melinda Lindmark",
+   "claim": "Kyle found only one workout video of Melinda Lindmark bench pressing 185 pounds five times."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "People often need to be interviewed before they can start making YouTube videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants people to film themselves performing his dumbbell exercise and upload it to YouTube."
+  },
+  {
+   "subject": "IRS",
+   "claim": "The IRS claims Kyle owes $3,000 in taxes from 2022, which he disputes."
+  }
+ ],
  "transcript": [
   {
    "start": 0.27,

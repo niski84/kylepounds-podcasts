@@ -63,7 +63,112 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "YouTube",
+   "claim": "YouTube is dominated by American content and creators."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube lacks academic and historical content compared to entertainment content."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube is growing and becoming more professional with creators using graphics and polished entrances."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube is headed towards becoming a central platform for academics and learning."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube is in its infancy when it comes to educational content despite the abundance of teachers."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube is not ruined; it's getting better as people get smarter and content quality rises."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube will see an influx of content from countries like India in the future."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle watches very few YouTube videos, primarily the Young Turks and some political content."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle recently started using Netflix to watch historical shows."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle listens to audiobooks and history podcasts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle vlogs for posterity and to have a record of his predictions and statements."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle vlogs to gain political clout and exposure for his ideas."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle earns a couple hundred dollars a year from YouTube."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes everyone should vlog to share their unique stories and improve their communication skills."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to create a condensed history of Rome show set in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is excited about the potential of YouTube for creative and original content."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle follows the Young Turks and some history channels on YouTube."
+  },
+  {
+   "subject": "YouTube creators",
+   "claim": "Top YouTube personalities are hard to identify now compared to the past."
+  },
+  {
+   "subject": "YouTube creators",
+   "claim": "Many girls run makeup channels, and others focus on pranks and similar content."
+  },
+  {
+   "subject": "YouTube creators",
+   "claim": "A popular gaming YouTuber made between $7 to $14 million last year."
+  },
+  {
+   "subject": "YouTube content",
+   "claim": "Original content on niche topics like history can easily stand out on YouTube due to lack of competition."
+  },
+  {
+   "subject": "YouTube content",
+   "claim": "YouTube is flooded with trivial content like pranks and kids' videos."
+  },
+  {
+   "subject": "YouTube content",
+   "claim": "There are very few history podcasts and channels, such as Mike Duncan's 'History of Rome' and 'History of Byzantium'."
+  },
+  {
+   "subject": "YouTube trends",
+   "claim": "Young people dominate YouTube by sharing their daily lives, while older people do not."
+  },
+  {
+   "subject": "YouTube trends",
+   "claim": "YouTube is becoming more competitive, making it harder for creators to get noticed."
+  },
+  {
+   "subject": "YouTube trends",
+   "claim": "YouTube will continue to grow with more creative and original content from users, including children."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

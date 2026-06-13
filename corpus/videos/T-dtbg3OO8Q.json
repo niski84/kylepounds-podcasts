@@ -54,7 +54,68 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "High school was more time consuming than college because he had more homework in high school."
+  },
+  {
+   "subject": "Michael Ferai",
+   "claim": "Michael Ferai, a history of Central America professor, assigned so much homework that Kyle got kicked out of his class for not doing it all."
+  },
+  {
+   "subject": "high school social dynamics",
+   "claim": "In high school, people gravitate towards acting like who they think they're supposed to be, often being fake or following trends like being a hipster or granola hippie."
+  },
+  {
+   "subject": "college social dynamics",
+   "claim": "In college, people realize who they really are and change, often moving away from phases like being a stoner or partyer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't participate much in high school, didn't join any cliques, and mostly went home after school."
+  },
+  {
+   "subject": "Kyle's brother",
+   "claim": "Kyle's brother was very plugged into high school social life, cared about appearances, and got embarrassed when Kyle acted weird in front of his friends."
+  },
+  {
+   "subject": "high school aggression",
+   "claim": "In high school, some kids act aggressively to intimidate others, but this behavior is less common in college."
+  },
+  {
+   "subject": "college fights",
+   "claim": "Kyle saw one fight in college, which was a party fight, compared to arranged fights he saw in high school."
+  },
+  {
+   "subject": "social maturity",
+   "claim": "People are generally more mature in college than in high school, though Kyle felt he was about the same in both."
+  },
+  {
+   "subject": "high school vs. junior high",
+   "claim": "There's as much difference between junior high and high school as between high school and college, with cliques being smaller in junior high."
+  },
+  {
+   "subject": "meeting girls",
+   "claim": "Girls are easier to meet in high school because of structured environments like sports teams and parties, whereas college is less organized."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't participate in college clubs except for joining the bike team briefly in his last semester."
+  },
+  {
+   "subject": "social trends",
+   "claim": "From junior high to college, the social world expands, and people gravitate towards those more similar to them rather than just longtime friends."
+  },
+  {
+   "subject": "college workload",
+   "claim": "The workload in college depends on the school, but it's possible to get away with not doing much homework and still pass."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got kicked out of school for not doing a required paper and never got his degree."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

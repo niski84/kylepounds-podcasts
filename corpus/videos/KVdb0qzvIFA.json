@@ -73,7 +73,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Francisco de Aureliano",
+   "claim": "The book 'River of Darkness' is about Francisco de Aureliano, the first European explorer to cross the South American continent from the western to the eastern coast."
+  },
+  {
+   "subject": "Graham Hancock",
+   "claim": "Graham Hancock mentioned that the Amazon used to be densely populated, with an estimated 20 million people living there and cities of up to 50,000 people."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle listened to 'River of Darkness' in one day, a nine-hour audiobook with 22 chapters."
+  },
+  {
+   "subject": "Spanish conquistadors",
+   "claim": "The Spanish conquistadors took over Peru and the Incan civilization, marking one of the most interesting epochs in world history."
+  },
+  {
+   "subject": "Columbus",
+   "claim": "Columbus sailed the open seas in 1492, looking for India but reached the Cabot Islands instead."
+  },
+  {
+   "subject": "Cortez",
+   "claim": "Cortez took over the Aztec empire with just a few boats full of men armed with guns."
+  },
+  {
+   "subject": "Tenochtitlan",
+   "claim": "Tenochtitlan was a huge Aztec city in the middle of a lake, now the site of Mexico City, with canals resembling Venice."
+  },
+  {
+   "subject": "Pizarro",
+   "claim": "Francisco Pizarro and his brothers took over the Incan empire due to their superior weaponry and fighting skills."
+  },
+  {
+   "subject": "Incan empire",
+   "claim": "The Incan empire stretched from Quito, Ecuador, to Santiago, Chile, and was connected by well-paved roads."
+  },
+  {
+   "subject": "Tupac Amaru",
+   "claim": "The Incan king Tupac Amaru offered the Spaniards a room full of gold as ransom but was killed after delivering it."
+  },
+  {
+   "subject": "El Dorado",
+   "claim": "The Incans told the conquistadors about a city called El Dorado, rich in gold, located in the jungle."
+  },
+  {
+   "subject": "Amazon river",
+   "claim": "The Amazon river was originally called the River of Orellana but was renamed after the Amazon women of Greek mythology."
+  },
+  {
+   "subject": "Amazon women",
+   "claim": "The conquistadors encountered tall, muscular women leading tribes in the Amazon, resembling the Amazons of Greek mythology."
+  },
+  {
+   "subject": "smallpox",
+   "claim": "Native Americans brought by the Spaniards died quickly from smallpox, which blinded and incapacitated them."
+  },
+  {
+   "subject": "Amazon civilization",
+   "claim": "The Amazon was once home to a highly civilized population with paved roads, stone buildings, and specialized villages."
+  },
+  {
+   "subject": "poison arrows",
+   "claim": "Some Amazon tribes used poison arrows that could kill with even a minor scratch."
+  },
+  {
+   "subject": "Francisco de Orellana",
+   "claim": "Francisco de Orellana survived the Amazon expedition but later died in a failed attempt to return."
+  },
+  {
+   "subject": "encomienda system",
+   "claim": "Spain outlawed the racially segregated encomienda system, which angered conquistadors like Pizarro."
+  },
+  {
+   "subject": "Pizarro",
+   "claim": "Pizarro was beheaded after defying the Spanish crown and murdering a royal envoy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to do a book synopsis on Diogenes next."
+  }
+ ],
  "transcript": [
   {
    "start": 2.35,

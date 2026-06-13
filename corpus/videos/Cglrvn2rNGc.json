@@ -72,7 +72,156 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He received a video request about empiricism versus rationalism a couple months ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is currently too high to do the reading for the video properly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He initially thought he was an empiricist but then realized he is actually a rationalist."
+  },
+  {
+   "subject": "rationalists",
+   "claim": "Rationalists believe there is another way of knowing, such as through godly or reincarnation concepts."
+  },
+  {
+   "subject": "empiricists",
+   "claim": "Empiricists only take what they see as being real for the world."
+  },
+  {
+   "subject": "Descartes",
+   "claim": "The idea of rationalism versus empiricism started with Descartes in the 1500s."
+  },
+  {
+   "subject": "Christian church",
+   "claim": "In the 1500s, people were starting to question the Christian religion due to the scientific revolution."
+  },
+  {
+   "subject": "dark ages",
+   "claim": "In the dark ages, life was hard and people relied on old wives' tales and superstition."
+  },
+  {
+   "subject": "Christian religion",
+   "claim": "The Christian religion's job was to keep people optimistic about life, requiring them to be dreamers."
+  },
+  {
+   "subject": "scientific revolution",
+   "claim": "The scientific revolution marked a shift in mass consciousness from trusting in God to questioning God and the Catholic Church."
+  },
+  {
+   "subject": "Catholic church",
+   "claim": "People rebelled against the Catholic Church's monetary policies, such as taxing too much to build Saint Peter's."
+  },
+  {
+   "subject": "Plato",
+   "claim": "The beginning of the rationalism versus empiricism conversation came with Plato."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Plato was a scientist who wrote scientific manuals and books about politics, describing different types of government and soul."
+  },
+  {
+   "subject": "Socrates",
+   "claim": "Socrates and Plato discussed ancient myths, the formation of the cosmos, and morals to improve society."
+  },
+  {
+   "subject": "Socrates",
+   "claim": "Socrates used Socratic questioning to make people question practices like slavery."
+  },
+  {
+   "subject": "Epicurus",
+   "claim": "Epicurus was an ancient Greek philosopher who believed that people who do best for themselves are the best for society, akin to survival of the fittest."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes understanding history in a present sense is the most important and engaging conversation to have."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks people who believe they are only the sum of their experiences lack the freedom to find true joy or make everything interesting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He references a song by Amaranth that says the goal is not to be immortal but to create something immortal."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes a life focused on creating meaningful impact is more satisfying than one filled with fleeting experiences."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks reincarnation adds merit to the idea of working hard in this life for a better next life."
+  },
+  {
+   "subject": "world",
+   "claim": "The world is very wasteful with resources and tilting too much toward useless entertainment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes people should better themselves and entertain themselves by bettering rather than being passive participants in life."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks people who are only into wealth are less likely to have religious ideas or do things for others."
+  },
+  {
+   "subject": "religious right",
+   "claim": "The religious right supporting Trump are not truly religious but virtue signalers needing a social group."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He remembers in 2008, people into aliens were seen as hippies, but now they seem to be on the right side of politics."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He distinguishes between high IQ dreamers and low IQ dreamers."
+  },
+  {
+   "subject": "Kant",
+   "claim": "Kant wrote about whether people are more than the sum of their experiences, before reincarnation was widely discussed."
+  },
+  {
+   "subject": "ancient Greeks",
+   "claim": "The ancient Greeks believed in reincarnation, mentioning it often in their philosophies."
+  },
+  {
+   "subject": "Egyptians",
+   "claim": "The Egyptians believed you reincarnate as different animals before becoming human again."
+  },
+  {
+   "subject": "Native Americans",
+   "claim": "Native Americans viewed animals as akin to humans."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had the opportunity to be an endurance athlete but chose to focus on creating something original, like his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He gets more joy from building something original than from traveling and having diverse experiences."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes empiricism gave us the scientific revolution and is anti-superstition."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He recommends reading Kant to understand rationalism versus empiricism deeply."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He tried reading Descartes in Spanish but was too stoned to pay attention."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks there are two types of people: those who seem dead inside and only care about money, and those who think in terms of the whole."
+  }
+ ],
  "transcript": [
   {
    "start": 1.68,

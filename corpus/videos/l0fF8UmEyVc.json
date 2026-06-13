@@ -56,7 +56,124 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is going to try a new lifestyle where he exercises starting tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was having a nervous breakdown due to feeling stuck with his website."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "Kyle's website was having issues with the Old Testament section, including computer crashes and data deletion."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "Kyle fixed the issues with the Old Testament and New Testament sections on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle realized he was wasting time because the files he needed were on his old computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is averse to exercising because he fears his website progress will halt."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is afraid someone else will build a similar website, making his version obsolete."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle estimates it would take about three years to complete his website as he envisions it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels physically fine but mentally exhausted and not learning as much as he should."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was up all night working and got up around noon the next day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to go on a bike ride, run, or swim tomorrow to start exercising."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's strategy involves having his mom encourage him to treat exercising like a job."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes his website will progress fine even if he focuses on exercising."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "Kyle recently achieved a milestone by fixing the links for the Old and New Testament on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle needs to do more surface-level work on his website, like writing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to be transparent about his endurance sports routine, documenting everything he eats and does."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle compares his approach to endurance sports to NASA's meticulous testing and preparation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes professional sports should focus more on age groupers and lifestyle, not just performance."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was the fastest kid in his class in sixth grade and the second fastest in seventh grade."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle ran a mile in 5:40 in seventh grade without training."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't run again until his senior year of high school due to a knee disease."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's fastest 5K in high school was 17:07 on a grassy, hilly course."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle did some bike touring but never consistently trained or exercised to his full potential."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's last bike touring trip was in 2010, but it involved more bus rides than biking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes he should focus on endurance sports now while he's still young enough to recover well."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to call his mom for encouragement before, during, and after his exercise sessions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to listen to audiobooks while exercising to stay focused."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle aims to be the world's only truly professional endurance athlete by documenting everything transparently."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle never gave endurance sports a real try before but is now committed to doing so."
+  }
+ ],
  "transcript": [
   {
    "start": 0.85,

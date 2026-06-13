@@ -96,7 +96,196 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He was smoking a bunch of weed before making the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to smoke all of his money in weed."
+  },
+  {
+   "subject": "Peloponnesian War",
+   "claim": "Requesting a video about the Peloponnesian War is like an ultimate intelligence or personality test."
+  },
+  {
+   "subject": "Peloponnesian War",
+   "claim": "It is the most widely talked about historical subject on YouTube."
+  },
+  {
+   "subject": "Donald Kagan",
+   "claim": "Donald Kagan was a professor at Yale for about 40 years."
+  },
+  {
+   "subject": "Donald Kagan",
+   "claim": "Kyle found Donald Kagan's lectures on the Peloponnesian War on Yale's YouTube channel around 2010 or 2011."
+  },
+  {
+   "subject": "Donald Kagan",
+   "claim": "Donald Kagan was already old when he gave the lectures, likely at the end of his tenure."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wrote to Yale suggesting they edit out the smacking and swallowing noises from Donald Kagan's lectures to improve the experience."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He listened to Donald Kagan's entire lecture series on the Peloponnesian War and later read Kagan's book on the subject."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has a tegu that is currently running around his living room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His tegu has not eaten for about six months and is in a state of brumation."
+  },
+  {
+   "subject": "Peloponnesian War",
+   "claim": "The war lasted 27 years and is surrounded by interesting history."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He first learned about the Peloponnesian War in 10th grade in high school."
+  },
+  {
+   "subject": "Peloponnesian War",
+   "claim": "The war can also be referred to as the Athens versus Sparta World War or the great civil war of the Greeks."
+  },
+  {
+   "subject": "Persians",
+   "claim": "The great empire centered in Ephesus tried to take over the Greeks around 490-485 BC."
+  },
+  {
+   "subject": "Greeks",
+   "claim": "They set up the Delian League to collect money and build a fleet to fight off the Persians."
+  },
+  {
+   "subject": "Athens",
+   "claim": "Athens transported all the gold from the island of Delos to Athens and built the Acropolis without asking anyone."
+  },
+  {
+   "subject": "Acropolis",
+   "claim": "The Acropolis was like the original bank or Fort Knox to secure the funds."
+  },
+  {
+   "subject": "Athens",
+   "claim": "Athens built a big wall around the city that went all the way to the sea, about 17 miles around."
+  },
+  {
+   "subject": "Thucydides",
+   "claim": "Thucydides was a main general in the Peloponnesian War who wrote a book about it after being exiled for 20 years."
+  },
+  {
+   "subject": "Thucydides",
+   "claim": "His book ends mid-sentence in one of the final battles of the war because he died."
+  },
+  {
+   "subject": "Classical writings",
+   "claim": "Most classical writings from Athens come from the period of the Peloponnesian War."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome had a lot of writers in the first century BC, comparable in volume to those from Athens."
+  },
+  {
+   "subject": "Peloponnesian War",
+   "claim": "Thucydides and Donald Kagan agree that the war happened because Sparta freaked out and didn't allow Athens to grow into an empire."
+  },
+  {
+   "subject": "Athens",
+   "claim": "Athens didn't treat the subjects of their empire with enough respect, causing them to side with Sparta."
+  },
+  {
+   "subject": "Greek tragedy",
+   "claim": "The Peloponnesian War and the fall of Athens can be seen as a Greek tragedy."
+  },
+  {
+   "subject": "Oedipus Rex",
+   "claim": "The story of Oedipus Rex came out in 430 BC, the same year as the plague of Athens."
+  },
+  {
+   "subject": "Plague of Athens",
+   "claim": "The plague killed 75,000 to 100,000 people, one-third to two-thirds of Athens' population."
+  },
+  {
+   "subject": "Greek world",
+   "claim": "The Greek world was a miracle situation with thousands of individual city-states trading and communicating easily."
+  },
+  {
+   "subject": "Xerxes",
+   "claim": "Xerxes tried to take over the Greek world because his father's brother hired 10,000 Spartans to overthrow his brother, but died in battle."
+  },
+  {
+   "subject": "Anabasis",
+   "claim": "The story of the 10,000 Spartans is told in the book Anabasis by Xenophon."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome became a republic in 509 BC."
+  },
+  {
+   "subject": "Bronze Age collapse",
+   "claim": "The Bronze Age collapse happened in 1185 BC due to a volcano that caused crops to die and led to invasions by the Scythians."
+  },
+  {
+   "subject": "Dorians",
+   "claim": "The Dorians came down around 900 BC and repopulated Greece, speaking one language."
+  },
+  {
+   "subject": "Sparta",
+   "claim": "Sparta was a unique civilization where all citizens were professional warriors who trained from sunrise to sunset."
+  },
+  {
+   "subject": "Helots",
+   "claim": "The Helots were slaves of the Spartans who hated their masters and often rebelled."
+  },
+  {
+   "subject": "Sparta",
+   "claim": "Sparta used iron bars for money to keep citizens poor and focused on war."
+  },
+  {
+   "subject": "Athens",
+   "claim": "Athens had a strong desire to become an empire because they saw the potential for a Greek world under their leadership."
+  },
+  {
+   "subject": "Peloponnesian War",
+   "claim": "The war can be compared to the Napoleonic Wars because both were motivated by democratic ideals."
+  },
+  {
+   "subject": "Athens",
+   "claim": "Athens lost the war because they couldn't get other city-states to side with them due to their abusive treatment of subjects."
+  },
+  {
+   "subject": "Miletus",
+   "claim": "Athens exercised genocide over the people of Miletus, killing all the men and enslaving the women and children."
+  },
+  {
+   "subject": "Democracy",
+   "claim": "Athens' failure in the Peloponnesian War shows that straight democracy isn't the best form of government without solid laws."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome's success was due to being a democratic elected republic with written laws."
+  },
+  {
+   "subject": "America",
+   "claim": "Kyle thinks America currently has a generation of retards due to spoiled boomers and high millennials."
+  },
+  {
+   "subject": "America",
+   "claim": "He believes America's collective IQ will rise by 20 points in the next five years after dealing with Fox News and Trump."
+  },
+  {
+   "subject": "Sicilian expedition",
+   "claim": "The invasion of Syracuse by Athens was seen as the stupidest decision ever, caused by democracy."
+  },
+  {
+   "subject": "Peloponnesian War",
+   "claim": "The war was essentially an argument between aristocracy (Sparta) and democracy (Athens), with Sparta winning."
+  }
+ ],
  "transcript": [
   {
    "start": 1.04,

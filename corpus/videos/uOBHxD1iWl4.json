@@ -48,7 +48,140 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "YouTube",
+   "claim": "YouTube might be playing games with me."
+  },
+  {
+   "subject": "history",
+   "claim": "If you study history, it always comes to light that people are very nefarious and evil and like to do stuff behind the scenes to screw certain people over and boost other people."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "There's lots of people who just pop up out of nowhere and all of a sudden they have millions of subscribers, people like Ben Shapiro, Stephen Crowder, right wing people."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "Maybe they're friends with people in Silicon Valley and so then they pump them up with a whole bunch of fake subscribers and fake hits and even fake comments and stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Maybe it's the opposite going on with me because there's some weirdy, weirdy stuff going on."
+  },
+  {
+   "subject": "Kyle's vlog channel",
+   "claim": "There was somebody who was commenting every day called Marty McFly to like most of my videos and then all of a sudden they stopped commenting and then all their comments disappeared."
+  },
+  {
+   "subject": "Marty McFly",
+   "claim": "Their channel just disappeared."
+  },
+  {
+   "subject": "Marty McFly",
+   "claim": "It was weird cause they were like somebody who I'd known for years and they'd commented on my main channel a bunch of times for a long time."
+  },
+  {
+   "subject": "Marty McFly",
+   "claim": "I thought that was out of character for them to just disappear."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "I've had a couple of comments from people who say, 'Hey, I comment to you and then the comment disappears, you know, or you don't reply and stuff like that.'"
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube might be going in there and keeping me down by removing people who are clear fans of mine."
+  },
+  {
+   "subject": "Jason Jelton Inc.",
+   "claim": "This person commented, 'If you're ever in Florida, man, hit me up. I've been watching your channel on and off for a while now. You are always on point. Also what you were saying about using YouTube is inspiring to me.'"
+  },
+  {
+   "subject": "Jason Jelton Inc.",
+   "claim": "If you click on their channel, their channel doesn't even exist."
+  },
+  {
+   "subject": "Jason Jelton Inc.",
+   "claim": "That was done just a couple of hours ago."
+  },
+  {
+   "subject": "Alejandro Gonzalez",
+   "claim": "This person commented, 'Hola, por favor, un video in a Spaniel. Me gustan tus videos.'"
+  },
+  {
+   "subject": "Alejandro Gonzalez",
+   "claim": "If you click on his channel, there's no channel."
+  },
+  {
+   "subject": "Alejandro Gonzalez",
+   "claim": "His comment is gone off of my video and that was just 15 hours ago."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "It's happened a bunch of times before I've seen this happen."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "Maybe that whole false propping people up actually goes both ways and sometimes people knock you down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I used to make money on YouTube, 350 bucks a month back in 2010."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "They demonetize me and said I violated something but I don't even know why."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've also never made any money on my website."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "I used to have ads all over my website, hundreds of ads."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "Even when I go to analytics, it says I make like 800 bucks every two weeks."
+  },
+  {
+   "subject": "Google",
+   "claim": "I've never received any money from Google."
+  },
+  {
+   "subject": "Google",
+   "claim": "I think I may have gotten a message that I can demonetize."
+  },
+  {
+   "subject": "Google",
+   "claim": "Google might be pressing me down."
+  },
+  {
+   "subject": "Google",
+   "claim": "At least they let me have my use their platform for free."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't delete comments unless I don't block people unless they comment over and over again, like a bunch of times, like every video I do like ragging, like insulting me and then making it seem like they're trying to comment to me and I'm not commenting back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've only done that to a couple of people."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If somebody says good things to me and then I don't comment back, check the video and if it's not there, write me on Twitter or Facebook and tell me."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm kind of like anti-industry, you know, like stuff should be free type of stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Maybe they just don't like me."
+  }
+ ],
  "transcript": [
   {
    "start": 0.55,

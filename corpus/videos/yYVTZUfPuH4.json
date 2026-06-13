@@ -40,7 +40,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I worked all day long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went into work, did two houses, and then went by my mom's house on my way home."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I stop by my mom's house a lot."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did the dishes at my mom's house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We needed a bunch of plants to plant a bunch of flowers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was at my mom's house for a couple of hours because she always has stuff for me to do."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went home and planned to do some errands."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to R.E.I. and Sports Authority to find little earphones but they didn't have them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I ended up ordering the earphones online from a weird site that asked for my email password."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I freaked out because the site had no account login or customer service number."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought I got robbed because the site seemed sketchy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The people who sell swimming materials don't know about the professionals who sell motorcycle stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to install a mail rack and a front bag on my motorcycle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I needed longer screws to install the tool bag on top of the rack."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to the hardware store to get longer screws but they were too long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I found the original screws were the right size after all."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I realized I needed the longer screws for the tool bag on top of the rack."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was high and tired, which made me loopy and forgetful."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't smoke hash in the morning or when I work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't upload my video because I hit sleep on my computer before it finished uploading."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

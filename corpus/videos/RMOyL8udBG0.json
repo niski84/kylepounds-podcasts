@@ -61,7 +61,72 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "government shutdown",
+   "claim": "The government shutdown is bad because it puts government employees out of work, making it hard for them to pay mortgages and buy food."
+  },
+  {
+   "subject": "government shutdown",
+   "claim": "Unlike a natural catastrophe, government shutdowns can be controlled because the government is controlled by people."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump blamed the Democrats for the government shutdown, saying they didn't want the wall."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump is at fault for the government shutdown because he declared a national emergency to fund the wall."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump is the kind of person who does whatever it takes to win, similar to his persona on 'The Apprentice.'"
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump doesn't understand the limits of power in government and acts like a kid breaking rules."
+  },
+  {
+   "subject": "Republicans",
+   "claim": "The Republicans and anyone who supports Donald Trump are also at fault for the government shutdown."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump is a tyrant, not a Democrat, and his declaration of a national emergency for the wall is an abuse of power."
+  },
+  {
+   "subject": "Brett Kavanaugh",
+   "claim": "Brett Kavanaugh is a bad guy who was pushed through despite objections."
+  },
+  {
+   "subject": "Democrats",
+   "claim": "The Democrats have transformed themselves with new members like Alexandria Ocasio-Cortez who didn't rely on PAC money."
+  },
+  {
+   "subject": "Hillary Clinton",
+   "claim": "Hillary Clinton's presidency didn't have government shutdowns."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump lied about his meeting with Putin being publicly viewable."
+  },
+  {
+   "subject": "conservatives",
+   "claim": "A segment of the population, mostly older, wealthy white conservatives, have gone crazy and are breaking the law."
+  },
+  {
+   "subject": "younger generation",
+   "claim": "Younger people are showing more integrity and realizing that money controls voting."
+  },
+  {
+   "subject": "government and war",
+   "claim": "In the 1970s, soldiers criticized the government for sending poor people to fight wars while profiting from them."
+  },
+  {
+   "subject": "internet",
+   "claim": "The internet is a tool to help fix government issues like shutdowns."
+  }
+ ],
  "transcript": [
   {
    "start": 1.84,
