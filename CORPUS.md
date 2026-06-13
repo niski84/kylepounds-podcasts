@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-2464 videos with transcripts. Source of truth for transcripts + enrichments.
+2628 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -735,6 +735,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Soaking grains in my van - Request](corpus/videos/-8PobnC39SM.json) | — |  |
 | — | [What an american thinks about germany - bike touring](corpus/videos/-8yRDarfjmk.json) | — |  |
 | — | [My living in the van diet requested by German Daniel](corpus/videos/-BfAQUDBbvo.json) | — |  |
+| — | [Paola walking around her place of work in Boulder](corpus/videos/-F9x0JY96JI.json) | — |  |
 | — | [How to pick up on and hang on to women](corpus/videos/-Gd0kKU4FEM.json) | — |  |
 | — | [what i think about jews](corpus/videos/-GpfNRlvs3s.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 12/21](corpus/videos/-GyLITkPPvI.json) | — |  |
@@ -742,6 +743,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What an American thinks about Nicaragua](corpus/videos/-JV70Dd8dGw.json) | — |  |
 | — | [Tucson, Arizona - Request](corpus/videos/-KLh-kmhnpQ.json) | — |  |
 | — | [The New World Order NWO - What I think](corpus/videos/-KlazMnnmnk.json) | — |  |
+| — | [3rd Notch Dumbbell Presses 45 lbs 1stx 17X](corpus/videos/-MsFqkq-klc.json) | — |  |
 | — | [The best way to release physical tension](corpus/videos/-N3knW_wP7Q.json) | — |  |
 | — | [Lives of the 12 Caesars by Seutonius Book Synopsis - Pt1 Julius Caesar](corpus/videos/-P6z291wATA.json) | — |  |
 | — | [English Words from Other Languages 1/2](corpus/videos/-ROn6Lx64ms.json) | — |  |
@@ -756,6 +758,8 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Dream Journal Video #1](corpus/videos/-kqIdZMMw5Q.json) | — |  |
 | — | [Crossfit Cindy Workout 1stx 16 rounds 2/2](corpus/videos/-mWQIdqglOw.json) | — |  |
 | — | [What I Think About Bike Touring 2/4](corpus/videos/-mlxuDomA4M.json) | — |  |
+| — | [Dumbbell Gound to Skys 45 lbs 1stx 10X](corpus/videos/-mqIjND9-Bs.json) | — |  |
+| — | [Me flexing on April 9 2008](corpus/videos/-o-dEC0UzKo.json) | — |  |
 | — | [Living in Boulder Vlog 1  -  1 -  2014](corpus/videos/-oDUfdQJEKA.json) | — |  |
 | — | [Traveling with Kyle - Guatemala Part 1/2](corpus/videos/-q9zf6thjU4.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 13 - 2013](corpus/videos/-s4DyR4vkRY.json) | — |  |
@@ -763,6 +767,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Timelessness vs time - parralel universes vs riencarnation](corpus/videos/019Ud9u6F_8.json) | — |  |
 | — | [Standing 2 Arm Dumbbell Rows 35 lbs 1stx 40x](corpus/videos/04sAupM7rQY.json) | — |  |
 | — | [Aliens make crop circles not humans!](corpus/videos/08EG9AehZkU.json) | — |  |
+| — | [Mike Cable Curls 150 lbs 1stx 1X](corpus/videos/08N_8jcYa3A.json) | — |  |
 | — | [La Historia del Italia 3/3](corpus/videos/0CHsjDn_Z58.json) | — |  |
 | — | [Bashar Quote - We want to live in a Republic not a Democracy](corpus/videos/0EeUnnTQevA.json) | — |  |
 | — | [What I think about the fraud Billy Meier](corpus/videos/0FCkoaDoVnQ.json) | — |  |
@@ -771,6 +776,8 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Marraige - Request](corpus/videos/0KPrzukbxx0.json) | — |  |
 | — | [I'm Going Bike Touring Then Racing](corpus/videos/0LCYVtsqxCY.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 5 - 2014](corpus/videos/0LQN8ucfiOE.json) | — |  |
+| — | [Dumbbell Back Extensions 25 lbs 1stx 15X](corpus/videos/0NBChgVlqXc.json) | — |  |
+| — | [Clapping Push Ups 1st time 20X](corpus/videos/0P_PCgu5u00.json) | — |  |
 | — | [History of Greece 1/3](corpus/videos/0RS37GTnUkU.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 27 - 2013](corpus/videos/0SFtuUQO8Xs.json) | — |  |
 | — | [Bike Touring Vlog - Europe - Summer 2010 7/8](corpus/videos/0U2kGnRsr6k.json) | — |  |
@@ -785,6 +792,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What would I do if I got 3rd degree burns on 80% of my body - Request](corpus/videos/0ldo8ooOj_I.json) | — |  |
 | — | [how Nostradamus made his predictions](corpus/videos/0mAvjpaojto.json) | — |  |
 | — | [2 arm dumbbell deadlift to overhead presses 45 lbs 2ndx 15x](corpus/videos/0oAKbd9oij8.json) | — |  |
+| — | [Red Zinger Mini Classic 1986 boys 10-11 Diagonal](corpus/videos/0pKiqHsnA6o.json) | — |  |
 | — | [Traveling with Kyle - Australia Part 2 - Alice Springs, Uluru, biking ](corpus/videos/0rgI-5ksRG0.json) | — |  |
 | — | [What I think about blessings and curses](corpus/videos/0sSk3O27mic.json) | — |  |
 | — | [What I wanna do in my spare time - Request](corpus/videos/0yE41F7WnQA.json) | — |  |
@@ -799,10 +807,12 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Vienna, Austria - Downtown 4-2010 1/2](corpus/videos/18pSLlH_t-c.json) | — |  |
 | — | [Deep Push Ups 2ndx 50x](corpus/videos/1AjJRZ4Amt0.json) | — |  |
 | — | [How has habitual drug used changed my personality and life - Request](corpus/videos/1BxGdst-k7Q.json) | — |  |
+| — | [Groovy Granny's 85th birthday party at the house 2/3](corpus/videos/1D98cxzR1-w.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 30 - 2013](corpus/videos/1EjxhgMLCFg.json) | — |  |
 | — | [Traveling with Kyle - Living in Chile Part 14/17](corpus/videos/1HQ1bIiZUhI.json) | — |  |
 | — | [Dimensional visualization aid - the power of ten - my page is the best](corpus/videos/1Hhh2h26Wnk.json) | — |  |
 | — | [La historia del universo y el mundo 8/17](corpus/videos/1LcIXmg28jI.json) | — |  |
+| — | [Mike Bodyweight Row Hold 1stx :43](corpus/videos/1MDunkTJGTs.json) | — |  |
 | — | [What I think about the future of Music](corpus/videos/1Mtl4-2yQdU.json) | — |  |
 | — | [What I think about Campaign finance reform](corpus/videos/1NmAODyJbt8.json) | — |  |
 | — | [Don't use Q-Tips!](corpus/videos/1TPI-mBQgkI.json) | — |  |
@@ -816,6 +826,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Living in Boulder Vlog 12 - 6 &  7 - 2013](corpus/videos/1l4Mkm9dzt8.json) | — |  |
 | — | [Traveling with Kyle - Bolivia Part 3 - Mount Potasi, La Paz, the most ](corpus/videos/1mg8Np6prmo.json) | — |  |
 | — | [Cool new industry - Installing solar panels on houses](corpus/videos/1nDE_0oCkKc.json) | — |  |
+| — | [Dumbbell Presses 25 lbs 1stx 100X](corpus/videos/1nNWNNiiQ3A.json) | — |  |
 | — | [What I think about Autism](corpus/videos/1nfDnIKIOTc.json) | — |  |
 | — | [Lives of the 12 Caesars by Seutonius Book Synopsis - Pt2 Caligula to D](corpus/videos/1vdNdc6Zqwg.json) | — |  |
 | — | [People should ride their bikes instead of drive their cars](corpus/videos/1xJ6be2uKAs.json) | — |  |
@@ -838,6 +849,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Standing Dumbbell Back Extensions 45 lbs 1stx  50x](corpus/videos/2d6b194BtYM.json) | — |  |
 | — | [Why left liberals do yoga and right conservatives lift weights - Reque](corpus/videos/2dNC90g0XK8.json) | — |  |
 | — | [Bike Touring Vlog - Semijarvi, Finland to Amsterdam, Netherlands 8 & 9](corpus/videos/2ej_PUybzis.json) | — |  |
+| — | [Kyle's gym - 10-1](corpus/videos/2hLq3hYnuNU.json) | — |  |
 | — | [What an American thinks about Indonesia](corpus/videos/2pLBO37nmUA.json) | — |  |
 | — | [Alternating Dumbbell Deadlifts to Overhead Presses 45 lbs 2ndx 25x](corpus/videos/2r6m4tEeaGQ.json) | — |  |
 | — | [Bike Touring - Slovakia. 5-2010](corpus/videos/2xS9EsO52QU.json) | — |  |
@@ -853,17 +865,21 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Traveling with Kyle - Living in Chile part 4/17](corpus/videos/39pP67ergRk.json) | — |  |
 | — | [What I think about anastasia and the screaming cedars book 1 - book re](corpus/videos/3EiIKJrJAow.json) | — |  |
 | — | [Bullies - Request](corpus/videos/3JhgxNVbx_8.json) | — |  |
+| — | [Claudio in Boulder](corpus/videos/3MrvfymamYQ.json) | — |  |
 | — | [Possible 2012 scenario on December 21st Twenty Twelve the end of the M](corpus/videos/3O0y0orBppA.json) | — |  |
 | — | [Anna Hayes (Ashayana Dean) - Alien Contactee 13/15](corpus/videos/3P33OKOU1_c.json) | — |  |
 | — | [How and why we should change the educational system 2/4](corpus/videos/3RdT3yqSTbM.json) | — |  |
 | — | [Ios, Greek Island nightlife June 2 2010 1 of 3](corpus/videos/3b5Gvd6JQfA.json) | — |  |
 | — | [The Personalities of People in the Future 2/2](corpus/videos/3e9TePh4_qo.json) | — |  |
 | — | [What I think about Demon possesion](corpus/videos/3eBJ31b5cWE.json) | — |  |
+| — | [Kyle Gym 26-1](corpus/videos/3gRt8pcIY9Q.json) | — |  |
 | — | [Mycenia, Greece, Treasury of Atreus - Amazing!!!](corpus/videos/3ibX2EPxNK8.json) | — |  |
 | — | [What I think about the Pineal Gland Request](corpus/videos/3k7rcaPY52Q.json) | — |  |
 | — | [Living in Boulder 4 - 24 - 2014](corpus/videos/3p_dQeQeLkc.json) | kyle | Kyle records a brief daily vlog from Boulder, recapping his energy levels after adjusting to a work routine, a bike comm |
 | — | [Bike Touring - Hamburg, Germany to Amsterdam, Netherlands 9-2010](corpus/videos/3phXduNxdOA.json) | — |  |
+| — | [Groovy Granny's 85th birthday party at the house 3/3](corpus/videos/3ptweMlwHac.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 8 - 2013](corpus/videos/3q0oXkHnoEM.json) | — |  |
+| — | [Kyle's Gym 18-2](corpus/videos/3q3gyqy0psE.json) | — |  |
 | — | [What I think about disclosure](corpus/videos/3q5T88SUKs8.json) | — |  |
 | — | [Alternating Dumbbell Incline Curls 35 lbs 1stx 25x](corpus/videos/3udUGc6owe0.json) | — |  |
 | — | [Standing Dumbbell Shrugs 35 lbs 1stx 70x](corpus/videos/3ujQBgjr3gk.json) | — |  |
@@ -871,6 +887,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Talking about my life - Boulder, Colorado 19/21](corpus/videos/3yoCG-hfvk4.json) | — |  |
 | — | [What I think about bubble cities](corpus/videos/3zbjotLIiVs.json) | — |  |
 | — | [Hermeticism - Request](corpus/videos/4-f-20a0a28.json) | — |  |
+| — | [Kyle's Gym 10-3](corpus/videos/43SD7Fkf5zU.json) | — |  |
 | — | [What I think about fundimentalist christians](corpus/videos/44gzX-_TZJ8.json) | — |  |
 | — | [What I think about the Military Industrial Complex](corpus/videos/49vAuCuRd4k.json) | — |  |
 | — | [2 arm Dumbbell Incline Curls 35 lbs 2ndx 20x](corpus/videos/4G4g3R5NxAM.json) | — |  |
@@ -886,9 +903,11 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Tales from College 6/6](corpus/videos/4sSHbm0VNi0.json) | — |  |
 | — | [La Historia del Russia 1/2](corpus/videos/4sTMbXcUX5o.json) | — |  |
 | — | [What an American thinks about Bolivia](corpus/videos/4t004Hxipic.json) | — |  |
+| — | [Standing Alternating Dumbbell Overhead Presses 45 lbs 1stx 15X](corpus/videos/4xXdaIXqbgA.json) | — |  |
 | — | [We should make generalizations about other countries](corpus/videos/51V7f_bQgdU.json) | — |  |
 | — | [What I think about the String Theory](corpus/videos/5336vexuoH4.json) | — |  |
 | — | [Bike Touring - Croatia - Zagreb to Serbia. 5-2010](corpus/videos/58fYtnu5muw.json) | — |  |
+| — | [Kyle's Gym - 5-1 1/4](corpus/videos/5AIze-CUbY8.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 3 - 2014](corpus/videos/5EdFogO_W78.json) | — |  |
 | — | [There should be no Billionaires](corpus/videos/5JUceifupVA.json) | — |  |
 | — | [Ranting on 12 Beers - request](corpus/videos/5NOZMOvDeSE.json) | — |  |
@@ -908,6 +927,8 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [History's Relationship to Aliens](corpus/videos/5by9dGstJtw.json) | — |  |
 | — | [What does the fact that the aliens are here mean?](corpus/videos/5dvmgn0N2WM.json) | — |  |
 | — | [Outsourcing - What I think about that. I want to help those third worl](corpus/videos/5h_K5oMRKFM.json) | — |  |
+| — | [Planche Push Ups 1stx 0x](corpus/videos/5n5e3zk5x_U.json) | — |  |
+| — | [Kyle's trip to LA March 2008](corpus/videos/5oOs-b79XCQ.json) | — |  |
 | — | [What will the world be like post disclosure? 3 of 8](corpus/videos/5tpMOB7cxY0.json) | — |  |
 | — | [Trondheim, Norway 8-2010](corpus/videos/5y9GIVN8pxg.json) | — |  |
 | — | [A "homopro" is a hetero who acts homo to support the homos and the bis](corpus/videos/6-2f7gq2cf4.json) | — |  |
@@ -925,10 +946,14 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Spent like three days at Mount Baker Ski Area Making Videos](corpus/videos/6MlYdQysGnM.json) | — |  |
 | — | [How and why we should change the educational system 4/4](corpus/videos/6N7ejDGYc5k.json) | — |  |
 | — | [What I think about Colorado - Request](corpus/videos/6OKtsexgZcY.json) | — |  |
+| — | [Red Zinger Mini Classic 1989 boys 13 Jamestown](corpus/videos/6PLA-kXubkk.json) | — |  |
 | — | [I Can't recomend uploading videos via cell anymore](corpus/videos/6WBl4F5WZ2Y.json) | — |  |
 | — | [What I think about the documentary Thrive - Requested by Krishnaslittl](corpus/videos/6XpydOfMr6w.json) | — |  |
+| — | [Mike Bench Presses 95 lbs 1stx 10X](corpus/videos/6_VVQbKfTfs.json) | — |  |
+| — | [Kyle's gym 27-1 30 oh pr45#, 20ohpr35#,20ohpr25#,15c45,35,25#](corpus/videos/6a5wEjuDTZM.json) | — |  |
 | — | [Politics - Request](corpus/videos/6bdtYZtAxnA.json) | — |  |
 | — | [Yosemeti National Park, California](corpus/videos/6cIzSY0KbVE.json) | — |  |
+| — | [Ballet Stretch Yoga Pose 1stx Left 1:27 Right 1:32](corpus/videos/6cYPpHaZXDw.json) | — |  |
 | — | [Insights After Visiting Auschwitz, Poland 3/3](corpus/videos/6d1S0SBwlFY.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 14/21](corpus/videos/6eCtxnNryS0.json) | — |  |
 | — | [Sitting Straight 2 Arm Dumbbell Curls 45 lbs 1stx 10x](corpus/videos/6fZK0IwqMqs.json) | — |  |
@@ -940,6 +965,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [La historia del universo y el mundo 6/17](corpus/videos/6tGdPoMISqw.json) | — |  |
 | — | [We all should mock each other](corpus/videos/6ulpDhv4VYo.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 3 - 2013](corpus/videos/6vSYiZR2NsI.json) | — |  |
+| — | [Dumbbell Back Extensions 45 lbs 1stx 10X](corpus/videos/71BlTgXPsgo.json) | — |  |
 | — | [What I think about Atlantis 2/2](corpus/videos/78ED7DEY1P8.json) | — |  |
 | — | [Bench Leg Ups 2ndx 500x 2/2](corpus/videos/78S7z_soOxk.json) | — |  |
 | — | [Dumbbell Split Squat Jumps 45 lbs 2ndx 10x](corpus/videos/7Ci_JhT5Qkk.json) | — |  |
@@ -991,6 +1017,8 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Trayvon Martin Case - Request](corpus/videos/8eG17RSqr-o.json) | — |  |
 | — | [Anna Hayes (Ashayana Dean) - Alien Contactee 2/15](corpus/videos/8eVATNQ-tQI.json) | — |  |
 | — | [USA religious statistics 7/9](corpus/videos/8fzLxRqdLJk.json) | — |  |
+| — | [Downward Dog Yoga Pose 1stx 1:51](corpus/videos/8gveQwc7WyE.json) | — |  |
+| — | [Mike Air Situp Hold 1stx :60](corpus/videos/8gz1t7_EbwU.json) | — |  |
 | — | [Petrified Forest National Park 2/2](corpus/videos/8iZUdtodeP8.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 18 - 2013](corpus/videos/8oAetJycn0c.json) | — |  |
 | — | [Difference Between Aliens & Humans 2/2](corpus/videos/8oVWNIK1NhA.json) | — |  |
@@ -1023,16 +1051,22 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Traveling with Kyle - Agentina Part 3, Uruguay, Brazil Part 1](corpus/videos/9LecpaG3QOU.json) | — |  |
 | — | [Traveling with Kyle - Living in Chile part 10/17](corpus/videos/9O00SIgtDt0.json) | — |  |
 | — | [Welcome to my Road Bike 1984 Pinarello Steel 58cm w/ Aluminum Fork](corpus/videos/9RhKtAmYfhM.json) | — |  |
+| — | [Chin Up Hold 1stx :40](corpus/videos/9UvIHFtKaDs.json) | — |  |
+| — | [Barbell Curls 55 lbs 1stx 15X](corpus/videos/9Xb83YJ6UZI.json) | — |  |
 | — | [My Experience w/ Legal Drugs (Enthogeons) - Request](corpus/videos/9YDh9S8M51E.json) | — |  |
 | — | [Recorded History 2/9](corpus/videos/9cTDFSAmSuw.json) | — |  |
 | — | [Bike Touring - Interview With Serbian Newspaper at Sunny Resort 1/2](corpus/videos/9enJOkXCjUY.json) | — |  |
+| — | [Mike Leg Up Hold 1stx :10](corpus/videos/9gjpY1WBVHo.json) | — |  |
 | — | [Transparentist is the new political party of the future](corpus/videos/9sDZeYv05e4.json) | — |  |
 | — | [How to deal with sickness](corpus/videos/9tHRatQPZ7Y.json) | — |  |
 | — | [Everybody Should Be Able to Join the Ballot for Elections](corpus/videos/9tcvjmb-yh8.json) | — |  |
+| — | [Red Zinger Mini Classic 1989 boys 13 Gunbarrel crit part 1](corpus/videos/9v4UwGcWmt8.json) | — |  |
+| — | [Standing Dumbbell Iron Crosses 45 lbs 1stx  0X](corpus/videos/9xg__toC8mE.json) | — |  |
 | — | [Channeling - What I think about that](corpus/videos/A4H1tghdVak.json) | — |  |
 | — | [When you say stuff give a REASON and EXAMPLES](corpus/videos/A5WuIXHjfJ4.json) | — |  |
 | — | [Kyle's invention for Kyle's gym "the o rings"](corpus/videos/A67B4YmDXIg.json) | — |  |
 | — | [The story of the Universe 2/2](corpus/videos/A6V01iYQ1uI.json) | — |  |
+| — | [Red Zinger Mini Classic 1989 boys 13 Meed part 2](corpus/videos/A8CmkYnVjNg.json) | — |  |
 | — | [What an American thinks about Albania](corpus/videos/ABjpeNWjeVo.json) | — |  |
 | — | [How to be social in College - Request](corpus/videos/AFBT8bk2K_w.json) | — |  |
 | — | [the ted conference at ted.com is a cool educational website to check o](corpus/videos/AGzj0_szaKM.json) | — |  |
@@ -1041,33 +1075,41 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Identifying soul groups on the Earth 2/2](corpus/videos/AJ6Qc3fQw54.json) | — |  |
 | — | [Movie "The Message" about Muhammad & Islam - Request](corpus/videos/AMikx9YH2GA.json) | — |  |
 | — | [Why Marijuana is Illegal - Request](corpus/videos/AO3xQ_mrg7M.json) | — |  |
+| — | [Red Zinger Mini Classic 1986 boys 12 Gunbarrel](corpus/videos/AOuSQCEdZYs.json) | — |  |
 | — | [Ra and the Law of One 10/11](corpus/videos/AVEO_QD_N2A.json) | — |  |
 | — | [What I think about the Rapture](corpus/videos/AWFPdzubjNE.json) | — |  |
 | — | [Free Bill Kuenzel and stop the death penalty - Request](corpus/videos/AXZuxpZxXT8.json) | — |  |
 | — | [Living with your parents is cool](corpus/videos/AcCYZGaBGdg.json) | — |  |
 | — | [What I think about soul groups](corpus/videos/Ajs9TBWZKp8.json) | — |  |
+| — | [Handstand Hold 1stx 1:00](corpus/videos/Ak9zNz1vC30.json) | — |  |
+| — | [Paola dancing with her mom and son](corpus/videos/ApVjxR4nv3g.json) | — |  |
 | — | [History of Greece 2/3](corpus/videos/AtmDXO83klE.json) | — |  |
 | — | [What I think about Genetic Engineering - It's Good, the Way of the Fut](corpus/videos/Av6lDShxI7M.json) | — |  |
 | — | [Seattle, Washington 9-2011 1/2](corpus/videos/AvUR3SUTurE.json) | — |  |
 | — | [What I think about RFID tags](corpus/videos/AwWB9Y4WEaQ.json) | — |  |
 | — | [What I think about intelligence](corpus/videos/Axg2Ai-SKuI.json) | — |  |
 | — | [What kinds of women I like and guys in general like](corpus/videos/AyGV1LuMw9k.json) | — |  |
+| — | [Ring Straight Body Hold 1stx :20](corpus/videos/AyIV2ltl_0g.json) | — |  |
 | — | [philidelphia experiment](corpus/videos/AyiXIxbuLHM.json) | — |  |
 | — | [Push Ups in 5:00 1stx 75x](corpus/videos/B1kzTS5fzMM.json) | — |  |
 | — | [Historical cycles - Request](corpus/videos/B7Yx_VnOEe0.json) | — |  |
 | — | [What I use for my website, where I learned and if I use ads on it - Re](corpus/videos/B9R285U6IAU.json) | — |  |
 | — | [1st Notch Dumbbell Preacher Curls 45 lbs 1stx 0x](corpus/videos/B9sa41iC_mE.json) | — |  |
+| — | [Arms Bent Ring Dip Hold 1stx 1:00](corpus/videos/BCrUcezwngo.json) | — |  |
 | — | [Sponsorship request to Mcdonalds](corpus/videos/BDeMbVIUd38.json) | — |  |
 | — | [History of Monotheism](corpus/videos/BKPx5K0fqOY.json) | — |  |
 | — | [Mount Hood, Oregon Part 2 July 19ish 2011](corpus/videos/BLe-E6aeHLk.json) | — |  |
 | — | [Standing Alternating Dumbbell Rows 35 lbs 1stx 30x](corpus/videos/BLhukUWjeBQ.json) | — |  |
 | — | [Bike Touring - Kosovo - Montenegro to Pristina to Macedonia. 5-2010](corpus/videos/BOa7YAl5eFw.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 19 - 2013](corpus/videos/BPvBbjiMLPc.json) | — |  |
+| — | [Standing Alternating Dumbbell Curls 45 lbs 1stx 10x](corpus/videos/BUc73C4Yz4g.json) | — |  |
 | — | [Living in Boulder Vlog 4 - 23 - 2014](corpus/videos/BVOGAr1qNS0.json) | kyle | Kyle vlogs about his first full day back at work after weeks off, getting unexpectedly high from cannabis-infused food/d |
 | — | [Amsterdam, Netherlands 9-2010 3/4](corpus/videos/BYbZ4EtP66k.json) | — |  |
 | — | [Back Pull Ups 1stx 10x](corpus/videos/B__zmWz2x5g.json) | — |  |
 | — | [This is the most exciting time of my life because of the audio books!](corpus/videos/Ba2-_4SsVCc.json) | — |  |
+| — | [Kyle's Gym 12-2](corpus/videos/BasyfyvdU1M.json) | — |  |
 | — | [What an American thinks about Leichtenstein](corpus/videos/BbuoN4mpSfw.json) | — |  |
+| — | [Steep Dumbbell Incline Sit Ups 25 lbs 1stx 15X](corpus/videos/BdTpjus840c.json) | — |  |
 | — | [Illuminati, David Icke & Alex Jones - Request](corpus/videos/BfaDh_jKS4Y.json) | — |  |
 | — | [Recorded History 5/9](corpus/videos/BhDnkCzq3RA.json) | — |  |
 | — | [What I think about Bashar the Grey-Human Hybrid Alien 2/5](corpus/videos/BjnZER9taPM.json) | — |  |
@@ -1079,12 +1121,14 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [We Must All Mention Marijuana and Psilocybin Mushrooms at Every Possib](corpus/videos/BmRBa7jkYa0.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 17/21](corpus/videos/BnGcOfIMjYQ.json) | — |  |
 | — | [Dumbbells on Shoulders Squats 35 lbs 1stx 30x](corpus/videos/BsNxbQ-lTNA.json) | — |  |
+| — | [Push Up Hold 1stx 1:00](corpus/videos/BvPAQkZy37g.json) | — |  |
 | — | [5-? Bench Leg Ups & Hold 1stx 40x](corpus/videos/BxRXQ_JF5cI.json) | — |  |
 | — | [Bench Dumbbell Rows 35 lbs 2ndx 50x](corpus/videos/C0jxJUo-sVY.json) | — |  |
 | — | [path to disclosure](corpus/videos/C2g5oBifgUs.json) | — |  |
 | — | [My youtube insight demographics](corpus/videos/C32hE6yColw.json) | — |  |
 | — | [What an American thinks about Guyana](corpus/videos/C3qLTmU4KhA.json) | — |  |
 | — | [My negative experience with higher education](corpus/videos/C5IMexw5Go4.json) | — |  |
+| — | [Red Zinger Mini Classic 1989 boys 13 stage 1 East Boulder](corpus/videos/C8lNDLi10Dg.json) | — |  |
 | — | [Uploading Videos gives you ideas to make more Videos](corpus/videos/C9G14kRmsF8.json) | — |  |
 | — | [Chaos Vs. Order](corpus/videos/CAdYivvT6Ng.json) | — |  |
 | — | [1,000 Sit Ups 1stx 1:00:23 4/7](corpus/videos/CF9zDUz6PjU.json) | — |  |
@@ -1109,6 +1153,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Living in Boulder Vlog 12 - 18 - 2013](corpus/videos/Ccutmd78plk.json) | — |  |
 | — | [Enlightenments relationship to insanity](corpus/videos/CeU2xq4NhTM.json) | — |  |
 | — | [What I Think About Alex Jones 2/2](corpus/videos/CfJNPCyC670.json) | — |  |
+| — | [2 Arm Dumbbell Deadlifts  to Standing Curls 45 lbs 1stx 20X](corpus/videos/CiFhpdER7cM.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 10 - 2014](corpus/videos/CioggELAyZQ.json) | — |  |
 | — | [Living with your parents is cool](corpus/videos/CkE9TbEi6Hg.json) | — |  |
 | — | [La historia del universo y el mundo 16/17](corpus/videos/ClT5yS3L-DM.json) | — |  |
@@ -1132,6 +1177,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Answering questions about me from Seamus 2/5](corpus/videos/DFWQ4Qtipyg.json) | — |  |
 | — | [Dumbbell Flys 45 lbs 1stx 0X](corpus/videos/DGaESZLVdYo.json) | — |  |
 | — | [A good new industry for the world - Rock Gardens!](corpus/videos/DIn6BHiGEGg.json) | — |  |
+| — | [14-1](corpus/videos/DIxlOE6M_ys.json) | — |  |
 | — | [New Mexico - Request](corpus/videos/DJi-__XCrVc.json) | — |  |
 | — | [Mount Olympus, Greece 7-2010 2/6](corpus/videos/DNdPkgZYK_E.json) | — |  |
 | — | [Crossfit Filthy Fifty Workout 1stx 35 lbs 32:47 1/4](corpus/videos/DSB8OX8FdNA.json) | — |  |
@@ -1159,6 +1205,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [uncertaintly principle - we create our reality](corpus/videos/EE84U9UqdEU.json) | — |  |
 | — | [Alternating Dumbbell Incline Curls 35 lbs 2ndx 30x](corpus/videos/EGYF6JuMbvE.json) | — |  |
 | — | [What I think about lying aliens and spirits](corpus/videos/EGwtKc6_dWY.json) | — |  |
+| — | [Warrior 3 Yoga Pose 1stx Left :44 Right :31](corpus/videos/EHFTrD-h6PE.json) | — |  |
 | — | [Comparing the Sizes of Things 6/6 - The Power of Ten](corpus/videos/EJQQT0aHM6U.json) | — |  |
 | — | [Response #2 to Hardcore Muslim about God, Muslim Immigration & Overpop](corpus/videos/EKYwNwCPvvg.json) | — |  |
 | — | [Legs Straight Twist Yoga Pose 1stx 1:00](corpus/videos/EN4nMn-qRr0.json) | — |  |
@@ -1173,6 +1220,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Corinth, Greece - Archaeological Site 6-2010 3/4](corpus/videos/EWbnWsgkXbk.json) | — |  |
 | — | [What I think about where Christianity went wrong 1/2](corpus/videos/EWxY8DN8bzs.json) | — |  |
 | — | [2 Arm Dumbbell Deadlifts to Overhead Presses 45 lbs 1stx 12x](corpus/videos/EXpoMkWnL4U.json) | — |  |
+| — | [Arms Extended Ring Dip Hold 1stx 1:00](corpus/videos/EYZT6FU8QsM.json) | — |  |
 | — | [Burning flesh - The mark of the beast - Marijuana leaf burn tatoo.](corpus/videos/EZH5GmQT_MQ.json) | — |  |
 | — | [Which famous chicks I think are hot](corpus/videos/E_jfbVKMi1A.json) | — |  |
 | — | [Back Pull Ups 2ndx 12x](corpus/videos/EakqOvlSVrc.json) | — |  |
@@ -1234,24 +1282,29 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Living out of your car is cool!](corpus/videos/GBMNaNHg3N0.json) | — |  |
 | — | [What an American thinks about Czeck Republic - Bike touring May 2010](corpus/videos/GDEHCzvipPA.json) | — |  |
 | — | [All Female Athletes Should Wear Spandex - Not Just Rowers and Volleyba](corpus/videos/GE21dgde6SQ.json) | — |  |
+| — | [Kyle's Gym - 5-1 3/4](corpus/videos/GEp-hwSAL38.json) | — |  |
 | — | [Creo que la luna es un barco del espacio](corpus/videos/GFwgVePlu68.json) | — |  |
 | — | [Heavy Metal Music - Request](corpus/videos/GNtcGuUl4Fg.json) | — |  |
 | — | [La Historia de Alemania](corpus/videos/GOKsdzkebFs.json) | — |  |
 | — | [Copenhagen, Denmark 8-2010 2/3](corpus/videos/GOUyy89kT8s.json) | — |  |
 | — | [Intergalactic space battles](corpus/videos/GPrcChxS7tc.json) | — |  |
 | — | [Mount Olympus, Greece 7-2010 4/6](corpus/videos/GSclckitl64.json) | — |  |
+| — | [Chin Ups 1stx 19X](corpus/videos/GTXna6OzNzc.json) | — |  |
 | — | [Time space verses Space time - Double Slit Experiment, Uncertainty Pri](corpus/videos/GaN1tL5ev30.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 15/21](corpus/videos/GaRViEJ_Has.json) | — |  |
+| — | [Red Zinger Mini Classic 1985 10-11 boys awards ceremony](corpus/videos/GdKdK_Ogf-Q.json) | — |  |
 | — | [Multiverse - Request](corpus/videos/GdZpz-B_QDU.json) | — |  |
 | — | [Talking about different Vaporizors, the plug in ones are the best - Re](corpus/videos/GhDpb2m_f14.json) | — |  |
 | — | [Cats - Request](corpus/videos/GietF6gMs3s.json) | — |  |
 | — | [Stability Ball dumbbell Squats 45 lbs 1stx 20x](corpus/videos/GnW2LoE1mj8.json) | — |  |
 | — | [My Living out of my Van Working Out Diet](corpus/videos/Gp0AP6knRbA.json) | — |  |
+| — | [Red Zinger Mini Classic 1986 boys 12 Meridian Park Denver](corpus/videos/Gpr7OTqY_MM.json) | — |  |
 | — | [Standing Alternating Dumbbell Curls to Overhead Presses 45 lbs 2ndx 15](corpus/videos/GuYS_fZBlic.json) | — |  |
 | — | [My last day in Vienna Austria May 4th 2010](corpus/videos/Gunqk1nDktw.json) | — |  |
 | — | [Dan Burish - Alien Contactee 1/3](corpus/videos/Gw3-gHw5JLw.json) | — |  |
 | — | [5 favorite cities in Latin America - Request](corpus/videos/GwmTDOOCvR4.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 13 -  2014](corpus/videos/Gx8ZJgiZVT8.json) | — |  |
+| — | [Hard Flat Bench Sit Ups 1stx 20X](corpus/videos/GzEa8WfvEXU.json) | — |  |
 | — | [What the world will be like in 1,000 years - Request](corpus/videos/GzFfPU4mfD8.json) | — |  |
 | — | [Traveling with Kyle - Living in Chile Part 15/17](corpus/videos/H-v7uUX6xWE.json) | — |  |
 | — | [How to retain information and other random questions - Request](corpus/videos/H08m37oW9ls.json) | — |  |
@@ -1263,6 +1316,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [My religious and spritual history in this life](corpus/videos/HH9lXFssrcA.json) | — |  |
 | — | [Conversation about Mike's homeless friend's story of looking for work ](corpus/videos/HJkIwIBG8v0.json) | — |  |
 | — | [What I think about Andy Basiago and Project looking glass, pegasus 5 o](corpus/videos/HLyLVpiOqeE.json) | — |  |
+| — | [Our animals, the Muneca and friends](corpus/videos/HSoxobeqOe0.json) | — |  |
 | — | [Alex Collier - Alien Contactee 2/3](corpus/videos/HUKYjwhehD4.json) | — |  |
 | — | [What I think about the Future 3/3](corpus/videos/HVerbaBsOxc.json) | — |  |
 | — | [What I think about Affirmative Action](corpus/videos/HWcaybjC5Ig.json) | — |  |
@@ -1315,6 +1369,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Traveling with Kyle - Living in Chile Part 12/17](corpus/videos/Iz-zZO5h45c.json) | — |  |
 | — | [A School Sport Should be Dressing up like Knights and Doing Battle](corpus/videos/J2t1JaUWAxs.json) | — |  |
 | — | [Standing Dumbbells Together Overhead Presses 35 lbs 1stx 20x](corpus/videos/J3AHUypaVZs.json) | — |  |
+| — | [Boat Yoga Pose 1stx 1:15](corpus/videos/J6WAVj1ehQ0.json) | — |  |
 | — | [Asia questions and other random ones - Request](corpus/videos/J77jv40cBYc.json) | — |  |
 | — | [Living in the van for college kids - Request](corpus/videos/JCWNeziCOnA.json) | — |  |
 | — | [2nd Notch Dumbbell Preacher Curls 15 lbs 2ndx 70x](corpus/videos/JEN3unnz1sQ.json) | — |  |
@@ -1335,12 +1390,14 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Overhead Reach Yoga Pose 1stx 2:00](corpus/videos/Ja1pkoHr3R0.json) | — |  |
 | — | [Bike Touring - Germany - Netherlands to Cologne. 4-2010](corpus/videos/JbmHyj0SaK4.json) | — |  |
 | — | [What I think about Barbara Marciniak and Bringers of the Dawn](corpus/videos/Jni8shx8cSc.json) | — |  |
+| — | [Kyle's Gym 12-4](corpus/videos/Jrx9GCvV_nU.json) | — |  |
 | — | [Would I kill and innocent person to end world hunger? Yes - Request](corpus/videos/Jz6kcE_t-ns.json) | — |  |
 | — | [Tirane, Albania 6-2010](corpus/videos/K-6AfohgEU8.json) | — |  |
 | — | [What an American thinks about Uruguay](corpus/videos/K-YgwTxoZ28.json) | — |  |
 | — | [Delphi, Greece - Archaeological Site 7-2010 1/4](corpus/videos/K0NuVGURMg4.json) | — |  |
 | — | [Lisa Renee - Alien Channeler 1/5](corpus/videos/K4VkNrXnK5g.json) | — |  |
 | — | [How to judge Religions - Request](corpus/videos/K5_stR4viDw.json) | — |  |
+| — | [Red Zinger Mini Classic 1985 10-11 boys NCAR hillclimb](corpus/videos/K6tdG3kvc6k.json) | — |  |
 | — | [What I think about psychology](corpus/videos/K9kQMash0xs.json) | — |  |
 | — | [The difference between Facebook, Youtube and Personal websites - Reque](corpus/videos/KD7jfPzkQ6M.json) | — |  |
 | — | [2 arm dumbbell deadlift to overhead presses 45 lbs 1stx 12x](corpus/videos/KKBTGmvR_Qw.json) | — |  |
@@ -1361,10 +1418,13 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Talking about my life - Boulder, Colorado 5/21](corpus/videos/KgvtYdFkMwU.json) | — |  |
 | — | [Anna Hayes (Ashayana Dean) - Alien Contactee 8/15](corpus/videos/Kjw_zakCRrk.json) | — |  |
 | — | [What I think about myself](corpus/videos/KtNuFtHc1_U.json) | — |  |
+| — | [Mike Handstand Hold 1stx :11](corpus/videos/KtbbE-PweiE.json) | — |  |
+| — | [Red Zinger Mini Classic 1989 boys 13 Morgul Bismark](corpus/videos/KwsJxibQwrg.json) | — |  |
 | — | [La Historia del Russia 2/2](corpus/videos/Kww98noCQUA.json) | — |  |
 | — | [Just because Margaret Sanger was racist doesn't make Planned Parenthoo](corpus/videos/Kxs8AemkDJc.json) | — |  |
 | — | [Locust Yoga Pose 2ndx 2:30](corpus/videos/L4hqQZxKXBI.json) | — |  |
 | — | [Advice & Approach to Uploading Videos to Youtube](corpus/videos/L6TBqI_F7KU.json) | — |  |
+| — | [Mike Chair Dips 1stx 25X](corpus/videos/L82gnl0jxko.json) | — |  |
 | — | [Albert Einstein - What I think - request](corpus/videos/LAOMtPI9dvU.json) | — |  |
 | — | [How to program the Subconcious - Request](corpus/videos/LDVGtWP03tg.json) | — |  |
 | — | [Chakras - What I think, Chakras are cool](corpus/videos/LI9EjG4cKOo.json) | — |  |
@@ -1379,6 +1439,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Lying Two Arm tricep extension 15lbs 3rdxpr 70x](corpus/videos/LUeFt-MG3Mc.json) | — |  |
 | — | [What I think about Andy Basiago and Project looking glass, pegasus 2 o](corpus/videos/LVhAUJsNqh0.json) | — |  |
 | — | [History of Greece 3/3](corpus/videos/LYjh4pkj_zE.json) | — |  |
+| — | [Handstand Push Ups 1stx 10x](corpus/videos/LaMTwHvi74A.json) | — |  |
 | — | [What I Think About Bike Touring 3/4](corpus/videos/Lcsfuo1_Amw.json) | — |  |
 | — | [What I think about Bashar the Grey-Human Hybrid Alien 5/5](corpus/videos/LePkJsQA2ng.json) | — |  |
 | — | [Headstand 2ndx 1:30](corpus/videos/LjBCLdf_Ti4.json) | — |  |
@@ -1389,6 +1450,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [How to look at history 1/2](corpus/videos/MAHwbkGE0-M.json) | — |  |
 | — | [Bike Touring Vlog - Semijarvi, Finland to Amsterdam, Netherlands 8 & 9](corpus/videos/MAvDoNVG-W8.json) | — |  |
 | — | [Making videos should be part of the evaluation process in school, not ](corpus/videos/MFASlLRw2fk.json) | — |  |
+| — | [Red Zinger Mini Classic 1989 boys 13 Gunbarel crit part 2](corpus/videos/MFVprCEhoLA.json) | — |  |
 | — | [Overhead Reach Yoga Pose 3rdx 3:00](corpus/videos/MK6ZoaR0mhI.json) | — |  |
 | — | [Setting up my tent on magic mushrooms in Amsterdam 3/4](corpus/videos/MNWt68sJfPM.json) | — |  |
 | — | [Tales from College 1/6](corpus/videos/MOk5wLqJCAc.json) | — |  |
@@ -1401,8 +1463,10 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [1st Notch Dumbbells Together Presses 25 lbs 2ndx 60x](corpus/videos/McOCwCTTpeg.json) | — |  |
 | — | [I can tell you how I feel about you night and day sexy dance](corpus/videos/Mcc6Biee9lY.json) | — |  |
 | — | [If I could travel to the future would I + Theory of Relativity - Reque](corpus/videos/Md5kmCVv2EU.json) | — |  |
+| — | [Sitting 1 Arm Dumbbell Tricep Extensions 45 lbs 1stx 0X](corpus/videos/MeHCgZa3U4Q.json) | — |  |
 | — | [Bike Touring - Greece - Istmus of Corinth Bridge 6-2010](corpus/videos/MfQgo7NjbzQ.json) | — |  |
 | — | [Los extraterrestres estan aqui!](corpus/videos/MfW5Q9j4Gms.json) | — |  |
+| — | [Airplane Yoga Pose 1stx Left :44 Right :48](corpus/videos/MiyWhnm3cEo.json) | — |  |
 | — | [Stability Ball Dumbbell Squats 35 lbs 1stx 30x](corpus/videos/MjpLIMlLxWA.json) | — |  |
 | — | [War against the Atheists. Call it God  God is it's name Not Jahovah or](corpus/videos/MobJlKh209o.json) | — |  |
 | — | [ADHD (Attention Deficit Hyperactivity Disorder) - Request](corpus/videos/Mq1uEmdT7WQ.json) | — |  |
@@ -1416,6 +1480,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Bike Touring - Interview With Serbian Newspaper at Sunny Resort 2/2](corpus/videos/N1hhp-HW0Pk.json) | — |  |
 | — | [What I think about the structure of the soul 2/2](corpus/videos/N28SrJEniLM.json) | — |  |
 | — | [How Has Legalizaation changed my life   Request](corpus/videos/N5-uu3-PneU.json) | kyle | Kyle, filming while very high, responds to a viewer request about cannabis legalization in his area. He covers his exper |
+| — | [Dumbbell Pushup Lateral Raises 45 lbs 1stx 0X](corpus/videos/N6Q6r2zYg9s.json) | — |  |
 | — | [I present the entity that I channel named "Billy"](corpus/videos/N8QFNsm0Iz4.json) | — |  |
 | — | [How my van is organized for weekend trips](corpus/videos/NDJfAtz_52c.json) | — |  |
 | — | [Dumbbell Squat Cleans 45 lbs 1stx 15x](corpus/videos/NDyOWAZLTp4.json) | — |  |
@@ -1424,12 +1489,15 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Don't compare yourself to anybody](corpus/videos/NG-_Qns5ztY.json) | — |  |
 | — | [How to Look at History 2/2](corpus/videos/NGyil2YAyFg.json) | — |  |
 | — | [History of Western Religion 2/3](corpus/videos/NJPVTXmCpFw.json) | — |  |
+| — | [Red Zinger Mini Classic 1986 boys 10-11 & 12 time trail](corpus/videos/NO2lV4I5Jds.json) | — |  |
 | — | [Betasso Preserve Mountain Bike Trail - Complete. Boulder, Colorado](corpus/videos/NPNxIjmE0W0.json) | — |  |
 | — | [History of Italy (Including the Roman Empire) 1/3](corpus/videos/NP_YsZRYPvg.json) | — |  |
 | — | [My miracles](corpus/videos/NSFqQNPjO28.json) | — |  |
 | — | [How to use the law of attraction in relationships](corpus/videos/NUBs-5_uq8w.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 8 - 2014](corpus/videos/NUaOEVYGtHM.json) | — |  |
+| — | [Toe Touch Sit Ups 1stx 42x](corpus/videos/NUgxckB5FVY.json) | — |  |
 | — | [My 1991 Volkswagen Vanagon Westfalia pop up is my new home!](corpus/videos/NUl2sP7RsQo.json) | — |  |
+| — | [Paola dancing](corpus/videos/NXFdShRKL3A.json) | — |  |
 | — | [what I think about the illuminati](corpus/videos/NZMUSA1-f6Q.json) | — |  |
 | — | [What will the world be like post disclosure? 2 of 8](corpus/videos/NcbrwjxFjVA.json) | — |  |
 | — | [What an American thinks about Panama](corpus/videos/NfCzzpWgNos.json) | — |  |
@@ -1437,15 +1505,20 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What is Consciousness & Reality? - Request](corpus/videos/NgTk8pBBlkI.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 4 - 2013](corpus/videos/NhlXPGH85zc.json) | — |  |
 | — | [Dumbbell Squat Presses 45 lbs 3rdx 10x](corpus/videos/Nij52jVJ08s.json) | — |  |
+| — | [Kyle's Gym 23-1](corpus/videos/Nl0qwTNs8Qw.json) | — |  |
 | — | [donald trump the apprentice](corpus/videos/NoVzZW_mh7Q.json) | — |  |
 | — | [Paradoxes - Pole Shifts in Conciousness](corpus/videos/Nohktq0sYgo.json) | — |  |
 | — | [How Much Money Should I have before I Paint that I live in my Van on m](corpus/videos/Now8_vTRiq8.json) | — |  |
 | — | [What I think about Bashar the Grey-Human hybrid alien 4/5](corpus/videos/O1TO7VQ6NZU.json) | — |  |
 | — | [Advice for someone moving to Denver - Request](corpus/videos/O2vs_DVnHKo.json) | — |  |
+| — | [Red Zinger Mini Classic 1986 team time trial Wilhelm](corpus/videos/O316_ExLD-Y.json) | — |  |
+| — | [Mike Pullup Hold 1stx :29](corpus/videos/O4lq1Phh9_c.json) | — |  |
 | — | [The Unified Field Theory 1/2](corpus/videos/O7oMZ8F93VE.json) | — |  |
 | — | [Reverse Warrior Yoga Pose 1stx 1:30](corpus/videos/OB9U3txgvNM.json) | — |  |
 | — | [What I think about Atlantis 1/2](corpus/videos/OCM4NJgCYlo.json) | — |  |
+| — | [Standing 2 Arm Dumbbell Curls 35 lbs 2ndx 20X](corpus/videos/OCgCyPZ6in4.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 7/21](corpus/videos/OCz6LYESKG4.json) | — |  |
+| — | [Standing Dumbbell Shrugs 25 lbs 1stx 70X](corpus/videos/OFB0eVP-ivQ.json) | — |  |
 | — | [Vlogging 3rd Year Anniversary](corpus/videos/OGA_Szta6Mo.json) | — |  |
 | — | [The principles of anti gravity and free energy - From RA](corpus/videos/OGc7O2IPKZ8.json) | — |  |
 | — | [La historia del universo y el mundo 13/17](corpus/videos/OHTdad8uDzI.json) | — |  |
@@ -1456,6 +1529,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [NDAA National Defense Authorization Act 2012 - What I think about it -](corpus/videos/OXSnxXeIbqY.json) | — |  |
 | — | [2 Arm Dumbbell Squat Swings 35 lbs 1stx 20x](corpus/videos/OcbFAhofYZ0.json) | — |  |
 | — | [Plank Yoga Pose 1stx 1:30](corpus/videos/Od3Hf4DNjgo.json) | — |  |
+| — | [Kipping Pull Ups 1stx 14x](corpus/videos/OeWDrq5wdyU.json) | — |  |
 | — | [Legs Ups 2ndxpr 220x](corpus/videos/OfxWrk_zZj8.json) | — |  |
 | — | [Aliens want us to be confused](corpus/videos/OhkAEb_VQQc.json) | — |  |
 | — | [La Historia del Francia](corpus/videos/OiUL7ckls_E.json) | — |  |
@@ -1468,11 +1542,13 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Jim Jones and the massacre - Request](corpus/videos/Oyqxq3C7pEg.json) | — |  |
 | — | [Traveling with Kyle - Nepal part 1](corpus/videos/Oz1r8vhgZU4.json) | — |  |
 | — | [What I think about Alex Collier UFO contactee](corpus/videos/P0EChkZ1p8o.json) | — |  |
+| — | [My basement tour](corpus/videos/P0eQXL8pdME.json) | — |  |
 | — | [Ancient Olympia archaeological mueseum Greece](corpus/videos/P1NSKicKPT0.json) | — |  |
 | — | [USA religious statistics 1/9](corpus/videos/P4LKWKJsODQ.json) | — |  |
 | — | [Abortion debate #12 - Pro choicers aren't bigots](corpus/videos/P7_dzKObxCg.json) | — |  |
 | — | [Ron Paul and Libertarians - Request](corpus/videos/P9Ba0xdVq-0.json) | — |  |
 | — | [Traveling with Kyle - Ecuador Part 2/2, Peru Part 1/7](corpus/videos/P9vT_PpdRq0.json) | — |  |
+| — | [Hands Locked Behind Back Yoga Pose 1stx :57](corpus/videos/PAnmno9qGbY.json) | — |  |
 | — | [Talking about my Relationships - Request](corpus/videos/PBNGOMUE6hc.json) | — |  |
 | — | [Favorite munchie food - Request](corpus/videos/PDl_8ceBg7I.json) | — |  |
 | — | [History of Western Religion 1/3](corpus/videos/PF9k-quv6MY.json) | — |  |
@@ -1480,10 +1556,12 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [We really should spread the word about the aliens.](corpus/videos/PIE9f9ZrxrQ.json) | — |  |
 | — | [Spartacus TV Show - Request](corpus/videos/PJbebc90wfE.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 4  - 2014](corpus/videos/POnLDcsIXs0.json) | — |  |
+| — | [Brother and my hike-run around Chataqua and the foothills](corpus/videos/PPv1jqNqxao.json) | — |  |
 | — | [Syncronicity - what I think 2/2](corpus/videos/PQ0OFWys_Bk.json) | — |  |
 | — | [5-? Bench Leg Ups & Hold 2ndx 40x](corpus/videos/PTJcqQ5cb70.json) | — |  |
 | — | [Reasons for Richness & Poorness of Countries 1/3](corpus/videos/PTcD3ttn888.json) | — |  |
 | — | [Theme Song](corpus/videos/PUdTPTP-xxw.json) | — |  |
+| — | [Wheel Yoga pose 1stx :33](corpus/videos/PWviFkg8tfs.json) | — |  |
 | — | [Stability Ball Bridge Curl Hold 1st time 52 seconds](corpus/videos/PYcy6HdsDVI.json) | — |  |
 | — | [The British Royal Family P2 2013 - Request](corpus/videos/PYf87UvTDSo.json) | — |  |
 | — | [Comparing the Sizes of Things 2/6 - The Power of Ten](corpus/videos/P_WNwcgdyhQ.json) | — |  |
@@ -1492,7 +1570,9 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [I like not spending money on food](corpus/videos/PeWROAX8VdU.json) | — |  |
 | — | [Slavery is bad!](corpus/videos/PfGrQv8TZRs.json) | — |  |
 | — | [Wendy Munro & the Sirian Aliens 2/4](corpus/videos/PhyoUML7nR0.json) | — |  |
+| — | [Beggining of Cobra Yoga Pose 1stx 1:12](corpus/videos/PjtJjo7y-Cw.json) | — |  |
 | — | [Ring Flys 2ndx 6x](corpus/videos/Plo9gWazduU.json) | — |  |
+| — | [DB ground to standing curls 45# 10x first try](corpus/videos/PnDJ4NgBvRU.json) | — |  |
 | — | [Delphi, Greece - Museum 7-2010 4/4](corpus/videos/PpGKhaiEjPw.json) | — |  |
 | — | [Ring Push Ups 1stx 25x](corpus/videos/PrBlyPF6PNc.json) | — |  |
 | — | [What I think about Tea - Request](corpus/videos/PsK0-HImxIU.json) | — |  |
@@ -1515,9 +1595,11 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Bike Touring - Netherlands & Germany - Amsterdam, Netherlands to Germa](corpus/videos/QVs-r321DpA.json) | — |  |
 | — | [My Video about Making Videos - Request from Cell Message](corpus/videos/QXvbURpf_os.json) | — |  |
 | — | [Traveling with Kyle - Peru Part 4/7 - Cuzco](corpus/videos/Qd4BTFqw11g.json) | — |  |
+| — | [Red Zinger Mini Classic 1986 boys 12 Boulder Mall Criterium](corpus/videos/QdwK265mXjE.json) | — |  |
 | — | [La Historia del Estados Unidos 2/4](corpus/videos/QkZdS8EAYTo.json) | — |  |
 | — | [Religious Statistics - Africa vrs Europe](corpus/videos/QlX5e_tYiiM.json) | — |  |
 | — | [what I think about multi-tasking and the new way to learn](corpus/videos/Qoi17Mvderk.json) | — |  |
+| — | [Red Zinger Mini Classic 1986 boys 12 diagonal](corpus/videos/QrNY32pXTLo.json) | — |  |
 | — | [Bike Touring - Denmark. 9-2010](corpus/videos/QrTwWg4oThI.json) | — |  |
 | — | [Kyle's gym's BACK homies! Plus lessons on how to get back into shape](corpus/videos/QxB1UCKB0-w.json) | — |  |
 | — | [Bench Dumbbell Rows 70 lbs 2ndx 20x](corpus/videos/Qxob23nmJwk.json) | — |  |
@@ -1543,6 +1625,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [500 Sit Ups 1stx 23:17 2/3](corpus/videos/RpENL_jSdLE.json) | — |  |
 | — | [Why we need cities - Request](corpus/videos/RqAlhPqPtro.json) | — |  |
 | — | [What I think about Andy Basiago and Project looking glass, pegasus 4 o](corpus/videos/RtSa95HNb6k.json) | — |  |
+| — | [Dumbbell Flys 25 lbs 1stx 20X](corpus/videos/RuuEWNvWBv4.json) | — |  |
 | — | [King Dancer Yoga Pose 1stx Left :20 Right :30](corpus/videos/S3KH2ky_s7o.json) | — |  |
 | — | [Kinds of Aliens 2/5](corpus/videos/S4Tbqj7kP34.json) | — |  |
 | — | [Soul, Rebirth & Higher Self - Request](corpus/videos/S5a3mVxSUaw.json) | — |  |
@@ -1554,18 +1637,24 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What I think about California - Request](corpus/videos/SEF4X1DzWh0.json) | — |  |
 | — | [What I would do if I straight up Won 15 Million Dollars - Request](corpus/videos/SK1VjohMHqo.json) | — |  |
 | — | [Nudity is good](corpus/videos/SLv2dpwQPjU.json) | — |  |
+| — | [Sitting Straight 2 Arm Dumbbell Overhead Presses 45 lbs 1stx 10x](corpus/videos/SP_z0aUrIsI.json) | — |  |
+| — | [Mike Backup Hold 1stx 1:20](corpus/videos/SUAKLiDZdyI.json) | — |  |
 | — | [Why I believe in Reincarnation 2/2](corpus/videos/SXr1KWu92s8.json) | — |  |
 | — | [Sofia, Bulgaria 7-2010 2/3](corpus/videos/SZd1TdNDEKA.json) | — |  |
+| — | [Push Ups 1stx 60x, Dumbbell Curls 45 lbs 1stx 10x](corpus/videos/SbQOaeXjCIk.json) | — |  |
 | — | [Lo que cero del Barbara Marciniak](corpus/videos/Sf2eMo4ojME.json) | — |  |
 | — | [what I think about the government](corpus/videos/Sh11HCZF7Lg.json) | — |  |
 | — | [What Kind of cars I like - Request](corpus/videos/SkqOYuHmm1g.json) | — |  |
+| — | [Blubber Test #1.  I need to go on a diet](corpus/videos/So_q_CPPCF4.json) | — |  |
 | — | [Hands on Knee Splits Yoga Pose 1stx 1:00](corpus/videos/SpB1HrJN7xk.json) | — |  |
 | — | [Audio Encyclopedia is what everyone should have so I made it for you! ](corpus/videos/SpjFm2DJ_Fo.json) | — |  |
 | — | [What an American thinks about Suriname](corpus/videos/StZVGJRxxxc.json) | — |  |
 | — | [My favourite 20 cities in the world - Request](corpus/videos/SvprRwUGags.json) | — |  |
 | — | [Questions for Bashar the Grey Alien-Human hybrid from the future 1/2](corpus/videos/Swy_GL8vzP0.json) | — |  |
 | — | [History of Italy (Including the Roman Empire) 3/3](corpus/videos/Sxuo0f3RljM.json) | — |  |
+| — | [Bench Dumbbell Rows 45 lbs 1stx 50x](corpus/videos/T-fR-CjGwUw.json) | — |  |
 | — | [Dumbbells on Shoulders Squats 25 lbs 2ndx 50x](corpus/videos/T5eZZSMIs8E.json) | — |  |
+| — | [Sit Ups in 1:00 1stx 60x](corpus/videos/T62FMBp7hW4.json) | — |  |
 | — | [Book Review of Livy's History of Rome - Stoned](corpus/videos/T8P7o5enkKc.json) | — |  |
 | — | [Relive your life how you do when you die, before you die.](corpus/videos/T9s-RaxCmxU.json) | — |  |
 | — | [Living in the van tour - Neighborhood showering, clean van, sleeping](corpus/videos/TFde4UNmzeo.json) | — |  |
@@ -1578,6 +1667,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What an American thinks about Denmark - August 2010 One week](corpus/videos/TTfUjKFq5sI.json) | — |  |
 | — | [Talking about my life - Austin, Texas 3/21](corpus/videos/TVeYH2cw43s.json) | — |  |
 | — | [Pike Push Ups 1stx 15x](corpus/videos/TWGTdv0yAiU.json) | — |  |
+| — | [Groovy Granny's 85th birthday party at the church 1/5](corpus/videos/TXBoW0Yw2MM.json) | — |  |
 | — | [Thomas Malthus & Principles of Population  - Request](corpus/videos/TXyaGquG5xA.json) | — |  |
 | — | [Push Up Hold 3rdx 1:40](corpus/videos/TYGgIRlhBMM.json) | — |  |
 | — | [Bike Touring Tent - Bicamper](corpus/videos/TZMToAHZpaI.json) | — |  |
@@ -1607,6 +1697,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What I think about Portland, Oregon](corpus/videos/UEL6qimXDIE.json) | — |  |
 | — | [Dumbbell Back Extensions 25 lbs 2ndx 20x](corpus/videos/UGRtfMlwCo8.json) | — |  |
 | — | [What I think about the Future 2/3](corpus/videos/UJ1iwbcLyto.json) | — |  |
+| — | [Dumbbell Presses 35 lbs 1stx 60x](corpus/videos/UKzeQz2JJ1c.json) | — |  |
 | — | [What I think about countries playlist mission statement.](corpus/videos/ULHw8idi8WM.json) | — |  |
 | — | [Aliens on my website 2/2](corpus/videos/ULbLgOUwkMM.json) | — |  |
 | — | [What an American thinks about the Ukraine](corpus/videos/UNOzQsX0NTY.json) | — |  |
@@ -1614,7 +1705,9 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Dumbbell Presses 35 lbs 3rdx 70x](corpus/videos/UeNUv9zD_Zs.json) | — |  |
 | — | [Knee Push Ups 2ndx 55x](corpus/videos/Ui_NySZ_hSo.json) | — |  |
 | — | [Role Playing Games - Request](corpus/videos/UoJToND1cas.json) | — |  |
+| — | [Standing Dumbbell Shrugs 45 lbs 1stx 50X](corpus/videos/UoLGCRtMz3k.json) | — |  |
 | — | [Are video games artwork? - Request](corpus/videos/UpAGh9_xkYg.json) | — |  |
+| — | [1st Notch Dumbbell Presses 25 lbs 1stx 90x](corpus/videos/UsJIvvcd2JQ.json) | — |  |
 | — | [Gambling - Request](corpus/videos/UsbieVGFTOw.json) | — |  |
 | — | [Bike Touring Vlog - Semijarvi, Finland to Amsterdam, Netherlands 8 & 9](corpus/videos/UzCfywWoVXE.json) | — |  |
 | — | [La historia del universo y el mundo 5/17](corpus/videos/V3wytRFaMV4.json) | — |  |
@@ -1623,6 +1716,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [There is room for everybody in the New Age](corpus/videos/V715w2C0Lhg.json) | — |  |
 | — | [Rugged Individualism VS Communism - Request](corpus/videos/VCbQ_zLztOQ.json) | — |  |
 | — | [A cool way to use youtube is to make preditions about the future](corpus/videos/VDQHBNl-CMY.json) | — |  |
+| — | [Warrior Yoga Pose 1stx  Left 1:02 Right :30](corpus/videos/VEuTGxNs_jM.json) | — |  |
 | — | [Talking about my van   Request](corpus/videos/VLLSL1Z9jAo.json) | — |  |
 | — | [1st Notch Dumbbell Preacher Curls 25 lbs 1stx  L18x  R17x](corpus/videos/VMsngxOvK0o.json) | — |  |
 | — | [What movies will be like in 15 years - Request](corpus/videos/VOkzVT77SwM.json) | — |  |
@@ -1647,6 +1741,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Bench Dumbbell Rows 45 lbs 2ndx 60x](corpus/videos/W70J2yJ7Fs0.json) | — |  |
 | — | [A zany love story](corpus/videos/W8b_H5StJI4.json) | — |  |
 | — | [How to Wield Power](corpus/videos/W928PI8QC_Y.json) | — |  |
+| — | [Kyle's Gym Intro](corpus/videos/W9Fdx6VKGfw.json) | — |  |
 | — | [No drop setting videos from me](corpus/videos/W9pyqJLmNdY.json) | — |  |
 | — | [What I think about the Theory of Relativity](corpus/videos/WCvDKTNLNzc.json) | — |  |
 | — | [My Personal Calendar](corpus/videos/WF3AOGdXPx8.json) | — |  |
@@ -1664,6 +1759,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What the world will be like in five years](corpus/videos/WkdBizKUIqs.json) | — |  |
 | — | [Autobiography of Benjamin Franklin Book Synopsis - Request](corpus/videos/Wlf1snYiCz4.json) | — |  |
 | — | [Bow Yoga Pose 1stx 2:00](corpus/videos/WlhTYZ_7U1o.json) | — |  |
+| — | [Lazy Boat Yoga Pose 1stx 1:00](corpus/videos/WlsvcKUoo8g.json) | — |  |
 | — | [Difference between 1st, 2nd & 3rd world countries - Request](corpus/videos/WpTsmHI1yPk.json) | — |  |
 | — | [Lip syncing to Alanis Morrissette - Request](corpus/videos/WszbKwvfEys.json) | — |  |
 | — | [What I think about the social consequences of Disclosure](corpus/videos/Wu_aRmpWDYo.json) | — |  |
@@ -1673,6 +1769,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What an American thinks about Paraguay](corpus/videos/WyFlrv-Ivag.json) | — |  |
 | — | [Dumbbell presses 25 lbs 3rdx 130x](corpus/videos/X3sXnrFxRlo.json) | — |  |
 | — | [How parralel universes communicate with each other](corpus/videos/X3yi7tpMmSU.json) | — |  |
+| — | [Red Zinger Mini Classic 1989 boys 13 Fort Collins](corpus/videos/X5qWiuaPzFo.json) | — |  |
 | — | [Cheech and Chong - Request](corpus/videos/X6ZIL4k4g6M.json) | — |  |
 | — | [Mount Olympus, Greece 7-2010 6/6](corpus/videos/X9L4SHpUeJg.json) | — |  |
 | — | [Stand up comedy and favorite comedians - Request](corpus/videos/X9OJx7hAdUQ.json) | — |  |
@@ -1684,7 +1781,9 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [How and why we should change the educational system 1/4](corpus/videos/XMZMaMBUYdI.json) | — |  |
 | — | [The Personalities of People in the Future 1/2](corpus/videos/XNC27lGst6I.json) | — |  |
 | — | [Ra and the Law of One 2/11](corpus/videos/XNt0bUSodxo.json) | — |  |
+| — | [Bench Legs Up Hold 1stx :20](corpus/videos/XP3hnpVXdrk.json) | — |  |
 | — | [Traveling with Kyle - Brazil Part 6 - Boat ride up Amazon, Manaus, Guy](corpus/videos/XPy40klvReg.json) | — |  |
+| — | [15-3](corpus/videos/XdzW7pRf6jk.json) | — |  |
 | — | [2nd Notch Dumbbells Together Presses 25 lbs 2ndx 30x](corpus/videos/Xe_ULdicmzQ.json) | — |  |
 | — | [Psychology of Living in the Van](corpus/videos/XkRlNW-7YI4.json) | — |  |
 | — | [What will food be like in 15 - 45 years - Request](corpus/videos/XlpK5YOlzTQ.json) | — |  |
@@ -1713,10 +1812,13 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What an American thinks about Latvia](corpus/videos/Yh6GQVzFnoY.json) | — |  |
 | — | [What I think about the emotional state of the universe](corpus/videos/YjfyhrLYC58.json) | — |  |
 | — | [what humans look like to aliens](corpus/videos/YmmPAvyReKs.json) | — |  |
+| — | [Kyle's Gym 5-1 4/4](corpus/videos/YtW-c48pGoY.json) | — |  |
 | — | [George4Title saga & scammers - Request](corpus/videos/Yvjg5MkOmbs.json) | — |  |
 | — | [What I think about death](corpus/videos/Z1DCKomigW8.json) | — |  |
+| — | [Standing Dumbbell Front Raises 45 lbs 1stx 3X](corpus/videos/Z45RydeVn5I.json) | — |  |
 | — | [Talking about my diet](corpus/videos/Z5Nn3n-0VFU.json) | — |  |
 | — | [Traveling with Kyle - Living in Chile part 6/17](corpus/videos/Z646sn0rL0A.json) | — |  |
+| — | [1 Leg Squats 1stx 4X](corpus/videos/Z83Vc9yQ0WA.json) | — |  |
 | — | [My Youtube Notebook Helps me Keep Track of my Videos](corpus/videos/Z92nD60jZ68.json) | — |  |
 | — | [What I think about the Marfa Lights](corpus/videos/Z9EsGWN9l14.json) | — |  |
 | — | [Drink more water!](corpus/videos/ZEnSLNqPFmw.json) | — |  |
@@ -1747,22 +1849,27 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Traveling with Kyle - Luxemburg and France](corpus/videos/_EsCvyH9vKc.json) | — |  |
 | — | [What I think about sacred geometry](corpus/videos/_JnbxQgPmYY.json) | — |  |
 | — | [Airport Security - Request](corpus/videos/_LxMTIFZj8g.json) | — |  |
+| — | [Kyle's Gym 12-1](corpus/videos/_Mhh95UXR20.json) | — |  |
 | — | [the proof of the soul](corpus/videos/_QfrdH-BeMo.json) | — |  |
 | — | [Don't think your religion is superior to the next guys religion](corpus/videos/_TEvQIyDAFM.json) | — |  |
+| — | [Groovy Granny's 85th birthday party at the house 1/3](corpus/videos/_UmN0UCofVI.json) | — |  |
 | — | [Have I played laser tag and stuff - Request](corpus/videos/__yXm48ipBU.json) | — |  |
 | — | [What I think about Anarchy](corpus/videos/_aXjt20Y5JY.json) | — |  |
 | — | [There are two kinds of people in the world. - Those who watch youtube ](corpus/videos/_dZ6mUBiyQI.json) | — |  |
 | — | [Hanna Movie Review](corpus/videos/_ellj1aoUGs.json) | — |  |
 | — | [Recorded History 3/9](corpus/videos/_hDQ0PuN9MA.json) | — |  |
 | — | [Traveling with Kyle - Brazil Part 5 - Salvador, Belem, Boat ride up Am](corpus/videos/_mT8phmRK6Y.json) | — |  |
+| — | [Mike Ring Dip Hold 1stx :55](corpus/videos/_na7Z1vMSAY.json) | — |  |
 | — | [Traveling With Kyle - Argentina Part 1 - Ushuaia, Rio Gallegos, Paenen](corpus/videos/_o1qj9ye7xc.json) | — |  |
 | — | [Hall of the Immortals Song](corpus/videos/_pyqygEDUJ0.json) | — |  |
+| — | [Red Zinger Mini Classic 1989 boys 13 NCAR time trail](corpus/videos/_t3-3WwsAhg.json) | — |  |
 | — | [listening to your instincts](corpus/videos/_tzdmXIT8ug.json) | — |  |
 | — | [2 Arm Dumbbell Squat Swings 45 lbs 1stx 15x](corpus/videos/_uaCbO8y63M.json) | — |  |
 | — | [What An American thinks about Luxembourg](corpus/videos/_w_hpa8HG4c.json) | — |  |
 | — | [Can we get too old to enjoy things & why do we sell out in old age - R](corpus/videos/_zd7Delyp2w.json) | — |  |
 | — | [Traveling with Kyle - Peru Part 2 - Lima to Nazca](corpus/videos/a1WHoq2kkSA.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 29 - 2013](corpus/videos/a1bRFLQReug.json) | — |  |
+| — | [Kyle's Gym 23-2](corpus/videos/a7AVJeSE2o0.json) | — |  |
 | — | [Evil reptile aliens 2/2](corpus/videos/a9EOweV0LnA.json) | — |  |
 | — | [What I think about black people](corpus/videos/aFkcf3k3TFc.json) | — |  |
 | — | [What the inside of Flying Saucers looks like](corpus/videos/aGnDdxT0stw.json) | — |  |
@@ -1776,6 +1883,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Sitting Straight 2 Arm Dumbbell Overhead Presses 25 lbs 2ndx 35x](corpus/videos/aTTXysfd-Ow.json) | — |  |
 | — | [Comparing the Sizes of Things 1/6 - The Power of Ten](corpus/videos/aUnSoc7Z_co.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 13/21](corpus/videos/aWCFEuYICeM.json) | — |  |
+| — | [Our going away party ](corpus/videos/aXHkmaNSQgY.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 31 - 2013](corpus/videos/abSOn2yxj4U.json) | — |  |
 | — | [Tales from College 2/6](corpus/videos/ad01mVm6Duc.json) | — |  |
 | — | [Side Plank Yoga Pose 1stx :30](corpus/videos/adKtQRuO7e8.json) | — |  |
@@ -1792,9 +1900,11 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Living in Boulder Vlog 4 - 30 - 2014](corpus/videos/b-h6biF4YXM.json) | kyle | Kyle vlogs about his day in Boulder on April 30, 2014, spending it working on his cycling website (a bike racer level pa |
 | — | [What an American thinks about Finland - From bike touring a week in Au](corpus/videos/b50DVXKTw0w.json) | — |  |
 | — | [What I think about over training](corpus/videos/b78Y3Te-634.json) | — |  |
+| — | [Ring Pectoral Stretch 2ndx :58](corpus/videos/b7ev-c6wb8s.json) | — |  |
 | — | [Living  in Boulder Vlog 11 - 4 - 2013](corpus/videos/b8G62j6P9_U.json) | — |  |
 | — | [communism vs capitalism, then democracy](corpus/videos/bBW_TDudWHc.json) | — |  |
 | — | [Olympic Paenensula, Washington. Olympic Hot Springs. 7-24ish-2011](corpus/videos/bD4pNUPrPCw.json) | — |  |
+| — | [Mike One Leg Squats 1stx 4X](corpus/videos/bKptPFyVw7o.json) | — |  |
 | — | [Talking About 24 hours of Moab Solo Mountain Bike Race 2010 - 1stx 3/4](corpus/videos/bMfic3ITYfA.json) | — |  |
 | — | [Bike Touring Vlog - Greece & Bulgaria 3/3](corpus/videos/bYRfQC3_Uk0.json) | — |  |
 | — | [We Will NEVER have more of an impact than we are having now - Bashar Q](corpus/videos/bZkzpQgTF0A.json) | — |  |
@@ -1820,6 +1930,8 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [2 Arm Dumbbell Deadlifts to Overhead Presses 35 lbs 1stx 10x](corpus/videos/cPRwnq4beIA.json) | — |  |
 | — | [Whisteling Melody](corpus/videos/cRSRRWMlCA4.json) | — |  |
 | — | [Setting up my tent on magic mushrooms in Amsterdam 2/4](corpus/videos/cS7j_Rmn5Nc.json) | — |  |
+| — | [Paola Montage](corpus/videos/cTjWKEQ1FXQ.json) | — |  |
+| — | [Red Zinger Mini Classic 1989 boys 13 Boulder Mall part 1](corpus/videos/cU9Z3COpHME.json) | — |  |
 | — | [October 28th End of the Mayan Calendar - What I think about hippy NWO](corpus/videos/cVJq4Lmada8.json) | — |  |
 | — | [History of India](corpus/videos/cWPvpfzeNLA.json) | — |  |
 | — | [censorship is bad](corpus/videos/ca-XfiHQ080.json) | — |  |
@@ -1849,8 +1961,10 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Ron Paul for President!](corpus/videos/dHCzWnWJe0I.json) | — |  |
 | — | [Talking About 24 hours of Moab Solo Mountain Bike Race 2010 - 1stx 4/4](corpus/videos/dHvlyrAo52E.json) | — |  |
 | — | [Bike Touring - Norway - Trondheim to Hessedalen. 8-2010](corpus/videos/dISHntvZYRE.json) | — |  |
+| — | [Mike Extended Row Hold 1stx :60](corpus/videos/dIdwUD6vF9E.json) | — |  |
 | — | [English Words from Other Languages 2/2](corpus/videos/dMtsqhglC-Y.json) | — |  |
 | — | [Future of the transit system in America - Request](corpus/videos/dNGMBjwzcTw.json) | — |  |
+| — | [Red Zinger Mini Classic 1989 boys 13 team awards ceremony](corpus/videos/dPHGyh8lUIg.json) | — |  |
 | — | [What an American thinks about Poland - Bike touring May 2010](corpus/videos/dPdeipoABss.json) | — |  |
 | — | [We should think out of the box and be original](corpus/videos/dPvujS3M2Cg.json) | — |  |
 | — | [Legs Crossed Twist Yoga Pose 1stx 1:30](corpus/videos/dPyrhUOCy3o.json) | — |  |
@@ -1867,18 +1981,23 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Push Up Hold 2ndx 1:10](corpus/videos/dh9dAIVBTR8.json) | — |  |
 | — | [Bike Touring - Greece. Argos-Corinth-Athens-Delphi. 7-2010](corpus/videos/djokQdyU3xg.json) | — |  |
 | — | [Sitting Leg Extension Hold 1stx 3:00](corpus/videos/dnDULKV46Fk.json) | — |  |
+| — | [Warrior 4 Yoga Pose 1stx  Left 1:28 Right :50](corpus/videos/dvNdQ3n2dPw.json) | — |  |
 | — | [Religious Statistics - Most spriritual - Chritians vs Non Christians](corpus/videos/dvcfXKA6bCo.json) | — |  |
 | — | [La historia del universo y el mundo 15/17](corpus/videos/dwE0WatwHno.json) | — |  |
+| — | [Dumbbell pushup rows 45 lbs 1stx 15X](corpus/videos/dznraYzUuuU.json) | — |  |
 | — | [What I think about Sacramento, California](corpus/videos/e0qSHGUecV4.json) | — |  |
 | — | [Predicting My Future](corpus/videos/e3zoOA6i5qs.json) | — |  |
+| — | [1 Arm Push Ups 1stx Left 0 Right 2](corpus/videos/e4d0FHmFYZc.json) | — |  |
 | — | [Why I love being a Hobo - Request](corpus/videos/e5PjaNGFD70.json) | — |  |
 | — | [What I think about the ultimate movie that needs to be made - True his](corpus/videos/e8YnGrUrmy8.json) | — |  |
 | — | [My perfect girlfriend & date - Request](corpus/videos/eDdH78bxUl0.json) | — |  |
 | — | [A successful society needs to believe in God](corpus/videos/eFKk-MQ82C4.json) | — |  |
 | — | [Podgorica, Montenegro 5-2010](corpus/videos/eJWBodkuh38.json) | — |  |
 | — | [What I think about Moses of the Bible](corpus/videos/eLc5w-ABM1M.json) | — |  |
+| — | [Back Bend Twist Yoga Pose 1stx Left :54 Right :37](corpus/videos/eLt3AcmjqBo.json) | — |  |
 | — | [Copenhagen, Denmark 8-2010 1/3](corpus/videos/eN1Oe6qzXrg.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 1 - 2013](corpus/videos/eUemtoz7ZWY.json) | — |  |
+| — | [Dumbbell Ground to Skys 45 lbs 1stx 7X](corpus/videos/eZm2orBsY6o.json) | — |  |
 | — | [Bike Touring Europe Mission Statement](corpus/videos/eZmnPzNsoos.json) | — |  |
 | — | [What I think about David Wilcock 2 of 4](corpus/videos/eeZwJcc-ITE.json) | — |  |
 | — | [Vienna, Austria - Palace Area 4-2010](corpus/videos/eeoZnOgk5VE.json) | — |  |
@@ -1901,6 +2020,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Extreme Frugality - Request](corpus/videos/ey-DwE04TqE.json) | — |  |
 | — | [Traveling with Kyle - Peru Part 6/7 - Arequipa, Mount Misti, Earthquak](corpus/videos/ezMn3J6DxGo.json) | — |  |
 | — | [What an American thinks about Brazil](corpus/videos/f-YkuMGu7GE.json) | — |  |
+| — | [Mike Chinup Hold 50"](corpus/videos/f2CdOLqi54s.json) | — |  |
 | — | [Is Colorado good for van dwelling? - Request](corpus/videos/f4InR-OnsHs.json) | — |  |
 | — | [What an American thinks about Singapore](corpus/videos/f5Y9yDJWTSM.json) | — |  |
 | — | [Are we ready for extended life & how to have a sustainable economy - R](corpus/videos/f8rDfSGzpoA.json) | — |  |
@@ -1915,7 +2035,9 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [100 Push Ups 1stx 3:09](corpus/videos/fZnRcP3VwVM.json) | — |  |
 | — | [Traveling with Kyle - Living in Chile Part 16/17](corpus/videos/fd61h9JiP7k.json) | — |  |
 | — | [Autobiography of a Yogi Book Review + Insights on Kriya Yoga](corpus/videos/fdsJzjNb21o.json) | — |  |
+| — | [Bench Dumbbell Rows 35 lbs 1stx 40X](corpus/videos/fr4MYcC6MtU.json) | — |  |
 | — | [Analyzing the Faggyness Factor of Reincarnating as Both Sexes](corpus/videos/fsQQNM5RmWI.json) | — |  |
+| — | [Standing 2 arm Dumbbell Curls 45 lbs 1stx 10X](corpus/videos/ftjHCAPpvxk.json) | — |  |
 | — | [Prague, Czech Republic - Marathon & The Castle 4-2010](corpus/videos/fuTBQ5uqAS4.json) | — |  |
 | — | [answering shift4chizzle about Riencarnation and Alien Greys - request](corpus/videos/fvyIGxpAHL0.json) | — |  |
 | — | [Welcome to my new living out of my van show!](corpus/videos/fxNoAhelJ80.json) | — |  |
@@ -1936,6 +2058,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [How to look at Karma](corpus/videos/gLXNbGbzJ9A.json) | — |  |
 | — | [What I think about Phoenix, Arizona](corpus/videos/gNI5a27OCho.json) | — |  |
 | — | [starwalker prayer](corpus/videos/gOgDRj1EIPI.json) | — |  |
+| — | [Clapping Behind Back Push Ups 1stx 3X](corpus/videos/gRQpgrIs2vQ.json) | — |  |
 | — | [Bike Touring - Switzerland - Lake Zurich to Leichtenstein 4-2010](corpus/videos/gUs91dCN5Ro.json) | — |  |
 | — | [Girl snowboarders on mount hood, Oregon doing 20 foot helicopters. 7-1](corpus/videos/gX6SiEsyXkM.json) | — |  |
 | — | [Knee Ab Rollers 3rdx 35x](corpus/videos/gXxamf8IMeQ.json) | — |  |
@@ -1972,6 +2095,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Cheating on your lady friend - Request](corpus/videos/hmV_8GhiKMQ.json) | — |  |
 | — | [Religious statistics - whose most spritual between blacks, whites and ](corpus/videos/hmZRLCWJfIY.json) | — |  |
 | — | [Comparing the athleticism between blacks and whites and men and women](corpus/videos/hpDDMPQCkC0.json) | — |  |
+| — | [Standing 2 Arm Dumbbell Curls 35 lbs 1stx 20X](corpus/videos/hsU0L7n_jwc.json) | — |  |
 | — | [La historia del universo y el mundo 14/17](corpus/videos/hwpqRD42oXI.json) | — |  |
 | — | [Amsterdam, Netherlands 9-2010 1/4](corpus/videos/hzt-cV5pBag.json) | — |  |
 | — | [Tourism History and Opinions - Request](corpus/videos/i0CwnbsYEE0.json) | — |  |
@@ -1990,6 +2114,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What I think about Grey Aliens](corpus/videos/iPBcXzHv82Q.json) | — |  |
 | — | [Traveling with Kyle - Argentina Part 2 - Buenos Aires](corpus/videos/iPjfxVFA-To.json) | — |  |
 | — | [What an American thinks about Lithuania](corpus/videos/iRuMFSKYMDQ.json) | — |  |
+| — | [Pull Up Hold 1stx :40](corpus/videos/iUWu3r6Cyog.json) | — |  |
 | — | [Bill O'reilly and his war on Christmas theory - Request](corpus/videos/iVnrio-NmSw.json) | — |  |
 | — | [Bike Touring - Germany - South End of Bike path along Rhine to Friebur](corpus/videos/iWe2vpKI0m4.json) | — |  |
 | — | [infinite amount of parralel universes meditation](corpus/videos/iZ6ELPsTszk.json) | — |  |
@@ -2012,6 +2137,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Traveling with Kyle - Netherlands and Belgium](corpus/videos/j2sXaGaDOog.json) | — |  |
 | — | [Overcoming Anxiety - Request](corpus/videos/j5U_HXsb9d4.json) | — |  |
 | — | [Obamacare & Government Shutdown - Request](corpus/videos/j5nA02IBOeQ.json) | — |  |
+| — | [Red Zinger Mini Classic 1989 boys 13 Meed part 1](corpus/videos/j6LXXgVkMyk.json) | — |  |
 | — | [What I would ask an alien - request](corpus/videos/jP3BbEgjxSA.json) | — |  |
 | — | [I Love the Young Turks](corpus/videos/jQ1ieX58rss.json) | — |  |
 | — | [Humanities enslavement to sleep - Request](corpus/videos/jR4IULgPDTE.json) | — |  |
@@ -2019,6 +2145,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Full Extension Pull Ups 2ndx 16x](corpus/videos/jZLDaYnwUOc.json) | — |  |
 | — | [7 Rounds of 7 Burpees, 7 Air Squats, 7 Situps - Request 10:10](corpus/videos/jc4OrTmXqpg.json) | — |  |
 | — | [What I think About Jihad](corpus/videos/jcMEfEEY__w.json) | — |  |
+| — | [Mike Ring Dips 1stx 3X](corpus/videos/jdDdmTyXtvE.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 9 - 2013 (Detailed tour a a typical day)](corpus/videos/jeBT-g6Srfs.json) | — |  |
 | — | [Redwoods National Park, California](corpus/videos/jf32S_W4W-o.json) | — |  |
 | — | [What an American thinks about Serbia - bike touring may 2010](corpus/videos/jgN0F9eQd_g.json) | — |  |
@@ -2029,6 +2156,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Bike Racer Quality Levels - Raw Rough Draft Version with the Mustache](corpus/videos/jkfDlLoGXMM.json) | — |  |
 | — | [Aaron Macullom super soldier - what I think](corpus/videos/jlLoJ0q_S0U.json) | — |  |
 | — | [Sitting Straight Dumbbells Together Overhead Presses 35 lbs 1stx 10x](corpus/videos/jlqOXC4qbOU.json) | — |  |
+| — | [Shaving my legs for the 1985 Red Zinger Mini Classic](corpus/videos/jm_kijg7Ijo.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 14 - 2013](corpus/videos/joU2lEzMCYg.json) | — |  |
 | — | [Traveling with Kyle - Peru Part 5/7 - Cuzco, Antiplano, Arequipa](corpus/videos/jrQ3b6f8gfQ.json) | — |  |
 | — | [What an American thinks about Macedonia](corpus/videos/jrza67EJAxg.json) | — |  |
@@ -2045,6 +2173,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Weight lifting suppliments work!](corpus/videos/k3Y3h9B0Vzc.json) | — |  |
 | — | [zeitgeist documentary what i think - request](corpus/videos/k51bOSJMTu0.json) | — |  |
 | — | [Republic vs Democracy](corpus/videos/k6XhP2aRnhc.json) | — |  |
+| — | [Red Zinger Mini Classic 1989 boys 13 Boulder Mall part 2](corpus/videos/k7S9bHsKwK4.json) | — |  |
 | — | [Traveling with Kyle - Bolivia Part 5 - Salar de Yunui, biking through ](corpus/videos/kAZetMN2rv8.json) | — |  |
 | — | [Standing Alternating Dumbbell Curls to Overhead Presses 35 lbs 1stx 20](corpus/videos/kKzNYwVowPw.json) | — |  |
 | — | [How to attatch a backpack to a seat post bike rack - Request](corpus/videos/kMpKqH2hgUM.json) | — |  |
@@ -2055,6 +2184,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Nassim Haramein - what I think 2/2](corpus/videos/kTrLLsGohrE.json) | — |  |
 | — | [Bike Touring - Poland - Czech Republic to Katowica  5-2010](corpus/videos/k_tk3meqP84.json) | — |  |
 | — | [3rd Notch Dumbbells Together Presses 35 lbs 2ndx 20x](corpus/videos/kaJD678r6gw.json) | — |  |
+| — | [Squats 1stx 150 lbs 5X](corpus/videos/kho0PA4peao.json) | — |  |
 | — | [Audio Encyclopedia is what everyone should have so I made it for you! ](corpus/videos/kjis2XXygIk.json) | — |  |
 | — | [What God is](corpus/videos/knCuuSr1jwo.json) | — |  |
 | — | [Why I believe in Reincarnation 1/2](corpus/videos/ksWpJIDUAO8.json) | — |  |
@@ -2062,19 +2192,23 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [The Corporation documentary - Request](corpus/videos/kuHWGU30cgc.json) | — |  |
 | — | [Why I don't have a Job & live in my Van working on my Timeline - Reque](corpus/videos/kv_A8_80IQs.json) | — |  |
 | — | [Dumbbell Split Squat Jumps 35 lbs 1stx 15x](corpus/videos/kwLefAJjBkY.json) | — |  |
+| — | [Red Zinger Mini Classic 1986 boys 13? Boulder Mall Criterium](corpus/videos/l-sbAXyiYHI.json) | — |  |
 | — | [Sitting Straight Dumbbells Together Overhead Presses 35 lbs 2ndx 15x](corpus/videos/l2je5oXV70I.json) | — |  |
 | — | [Dumbbell Concentration Curls 45 lbs 2ndx 20x](corpus/videos/l4p4xdfodXM.json) | — |  |
 | — | [Anna Hayes (Ashayana Dean) - Alien Contactee 7/15](corpus/videos/l5fwaEnTins.json) | — |  |
 | — | [What an American thinks about Sweden - August 2010](corpus/videos/l8ECMhP7PGg.json) | — |  |
 | — | [1 Leg 1 Arm Dumbbell Deadlifts 35 lbs 1stx 15X](corpus/videos/lAE8nHVEpJo.json) | — |  |
+| — | [Red Zinger Mini Classic 1986 boys 12 Morgul Bismark](corpus/videos/lArK1v3YwlM.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 7 -  2014](corpus/videos/lCrwCYcjDf8.json) | — |  |
 | — | [26 VS 29 inche mountain bikes +fat tires - Request](corpus/videos/lE8cwn0YjKQ.json) | — |  |
 | — | [Bashar Quote - Enlightenment is when you realize you are the path you ](corpus/videos/lFWbkCfVSEw.json) | — |  |
 | — | [Living in Boulder Vlog 10 - 23 - 2013](corpus/videos/lFgUwQ1Z3pY.json) | — |  |
 | — | [dan winter what I think about the fractal guy 1/2](corpus/videos/lHaf05doQkg.json) | — |  |
 | — | [Audio Encyclopedia is what everyone should have so I made it for you! ](corpus/videos/lL-eNGR_TR8.json) | — |  |
+| — | [Red Zinger Mini Classic 1989 boys 15 awards ceremony](corpus/videos/lM-tdsJ0MYE.json) | — |  |
 | — | [Standing tate press 45lbs 2ndxpr 20x](corpus/videos/lO5VsVoMzdE.json) | — |  |
 | — | [What I think about David Wilcock 4 of 4](corpus/videos/lSn4sv4-URw.json) | — |  |
+| — | [Mike Air Situp Hold 1stx :20](corpus/videos/lTrtX1mucmE.json) | — |  |
 | — | [What airports will be like in 35-40 years - Request](corpus/videos/lUU6cOnkrTM.json) | — |  |
 | — | [1 arm Dumbbell Squat Swings 25 lbs 1stx 100x](corpus/videos/l_o0fKGPOeo.json) | — |  |
 | — | [Acrobat Abdominal Workout 1stx 2x](corpus/videos/laNT8djLbRI.json) | — |  |
@@ -2115,7 +2249,9 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [You either have freedom of speech or you don't - there's no halfway](corpus/videos/msG8sW9LJnU.json) | — |  |
 | — | [Analyzing myself as a Capricorn - I'm sooo Capricorn! I totally believ](corpus/videos/mtD8rPqppzk.json) | — |  |
 | — | [Lo que creo del crossfit](corpus/videos/mth3QyP5OTw.json) | — |  |
+| — | [Dumbbell Push Ups 1stx 20X](corpus/videos/muON45luBzI.json) | — |  |
 | — | [Making Videos Reduces your Ego](corpus/videos/mwcXPqdm_t8.json) | — |  |
+| — | [Bodyweight Row Hold 1stx :40](corpus/videos/my9C7-qWCRA.json) | — |  |
 | — | [Mycenia, Greece - Museum 6-2010 2/2](corpus/videos/mzo6b35IOXE.json) | — |  |
 | — | [How I organize my van now that I actually live in it](corpus/videos/n0lLhdHgfMc.json) | — |  |
 | — | [Homosexuality is natural](corpus/videos/n1hLf3y4g_o.json) | — |  |
@@ -2128,6 +2264,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Islam vs Christianity - Child Religions vs Parent Religions](corpus/videos/nKSpRMzx5lE.json) | — |  |
 | — | [All Religions are Correct](corpus/videos/nM95fPKtAdY.json) | — |  |
 | — | [History Study should include Futurology](corpus/videos/nWSOdIgMA9I.json) | — |  |
+| — | [Red Zinger Mini Classic 1985 boys 10-11 Team Time Trail](corpus/videos/nZPV259IN_Y.json) | — |  |
 | — | [Hands Together Full Extension Chin Ups 1stx 14x](corpus/videos/naQ5Xiej2IE.json) | — |  |
 | — | [Aliens on my Website 1/2](corpus/videos/nb-9xKdmLVE.json) | — |  |
 | — | [What I think about Transhumanism](corpus/videos/nbi73NB6gWw.json) | — |  |
@@ -2162,6 +2299,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Crossfit Barbara Workout 1stx 27:24 2/3](corpus/videos/oRBimKkYacQ.json) | — |  |
 | — | [Traveling with Kyle - Living in Chile Part 13/17](corpus/videos/oVnK_fAVJ8U.json) | — |  |
 | — | [Answering questions about me from Seamus 4/5](corpus/videos/o_UhTAfqwX4.json) | — |  |
+| — | [15-2](corpus/videos/o_v_XCKTeEg.json) | — |  |
 | — | [Talking tripping Mushrooms in Amsterdam 1/3](corpus/videos/oc5EHTjzfO4.json) | — |  |
 | — | [What I think about Christianity](corpus/videos/ojK089DydoU.json) | — |  |
 | — | [What I think about David Wilcock 1 of 4](corpus/videos/ol9kWv47Oq4.json) | — |  |
@@ -2190,6 +2328,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Frog Jumps 2ndx 30x](corpus/videos/pkGP6aGVtLA.json) | — |  |
 | — | [Kayakers Shoulder Excersize 1stx 5x](corpus/videos/pkGaV1TBGxA.json) | — |  |
 | — | [La historia del universo y el mundo 3/17](corpus/videos/plL8DUFI3xM.json) | — |  |
+| — | [Standing Dumbbell Iron Crosses 25 lbs 1stx 20X](corpus/videos/plcPrL5OJXU.json) | — |  |
 | — | [Vienna, Austria - Downtown 4-2010 2/2](corpus/videos/pqUzQUS7o9w.json) | — |  |
 | — | [Joshua Trea National Park 1/2](corpus/videos/pr8fSgVVOxA.json) | — |  |
 | — | [Ra and the Law of One 8/11](corpus/videos/pxsT8_TxOAU.json) | — |  |
@@ -2208,6 +2347,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Crater Lake National Park, Oregon](corpus/videos/qNAPnmvfFCg.json) | — |  |
 | — | [Delphi, Greece - Museum 7-2010 2/4](corpus/videos/qP1ZfV-tA0o.json) | — |  |
 | — | [Medical prescriptions is bullshit - I want my freedom to buy my own as](corpus/videos/qTH3DKWFnZk.json) | — |  |
+| — | [3rd Notch Dumbbell Presses 35 lbs 1stx 20X](corpus/videos/qWKkiD7fE1E.json) | — |  |
 | — | [Up from Slavery by Booker T Washington  Book Sysopsis](corpus/videos/qWtgjZRdU9E.json) | — |  |
 | — | [My Personal plan for how the aliens should land](corpus/videos/qXL4S3JtBy8.json) | — |  |
 | — | [Living in Boulder Vlog 4 - 22 - 2014](corpus/videos/qYKTWJMxq2U.json) | kyle | Kyle vlogs about his daily routine in Boulder in April 2014: working his first full week at a job cleaning houses, organ |
@@ -2217,6 +2357,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [My fans & who I'm a fan of - Requests (2 in 1)](corpus/videos/qh0R6xEpZXs.json) | — |  |
 | — | [Special message for the Basharians](corpus/videos/qi4Dojf31Yc.json) | — |  |
 | — | [We Should Make CGI Animations of All our Historical Figures so we know](corpus/videos/qjBU3KbfMJg.json) | — |  |
+| — | [Red Zinger Mini Classic 1986 boys 10-11 Gunbarrel Criterium](corpus/videos/qrJh-rgFYeE.json) | — |  |
 | — | [Will there be an economic collapse in America? - Request](corpus/videos/qvjq3TtTEH0.json) | — |  |
 | — | [Sitting Straight Alternating Dumbbell Curl to Overhead Presses 35 lbs ](corpus/videos/qzxq9zB67Sw.json) | — |  |
 | — | [What I think about Transalchemy](corpus/videos/r09_bKptbiY.json) | — |  |
@@ -2227,6 +2368,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Living in Boulder 11 - 11 - 2013](corpus/videos/rCgM_NaDN8o.json) | — |  |
 | — | [limitations of profit incentive (capitalism series) - Request](corpus/videos/rLIWjCJ6WQA.json) | — |  |
 | — | [Answering Rubbe - Talking about jobs in the new age - request](corpus/videos/rMVNhrRBOZg.json) | — |  |
+| — | [Ring Dips 1stx 18x](corpus/videos/rPgYDfusaE4.json) | — |  |
 | — | [The United States of America is the greatest country in the whole worl](corpus/videos/rPkS5_kjgaI.json) | — |  |
 | — | [What I think about 2012 1/2](corpus/videos/rQyFUjncUg0.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 18/21](corpus/videos/rTNUq3UJgnE.json) | — |  |
@@ -2273,9 +2415,11 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [My Childhood - Request](corpus/videos/sungIXYP2ik.json) | — |  |
 | — | [Talking with a dude who lives out of his truck](corpus/videos/swULheigVQo.json) | — |  |
 | — | [Stockholm, Sweden 8-2010 2/3](corpus/videos/sxStblKRwfI.json) | — |  |
+| — | [Philosophy with kyle](corpus/videos/sxYtx_6D2hA.json) | — |  |
 | — | [Why people don't read and have short attention spans - Request](corpus/videos/szWloCAJ2uc.json) | — |  |
 | — | [The difficult part about living in a van - request](corpus/videos/t13uZdVjEdA.json) | — |  |
 | — | [Arrogance is good](corpus/videos/t346nsuRBZM.json) | — |  |
+| — | [15-1](corpus/videos/t4OdBnuMMhs.json) | — |  |
 | — | [What herbs to take for energy - Request (I know nothing about this sub](corpus/videos/t5OCxh9RmKs.json) | — |  |
 | — | [Airplanes - Request](corpus/videos/t7uiKKw4lyI.json) | — |  |
 | — | [What I think about Youtube Partnership](corpus/videos/tA8naaHk2AQ.json) | — |  |
@@ -2283,17 +2427,22 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Beginning of Cobra Yoga Pose 2ndx 1:16](corpus/videos/tCj-19TBJ7g.json) | — |  |
 | — | [What I think about the educational system 2/2](corpus/videos/tDO0LfmRZ_I.json) | — |  |
 | — | [Sequia National Park, California 2/2](corpus/videos/tDwhOw311Pg.json) | — |  |
+| — | [Bench Dumbbell Rows 25 lbs 1stx 40X](corpus/videos/tFLrZmalY3U.json) | — |  |
+| — | [Bench Back Extension Hold 1stx 1:30](corpus/videos/tG6YxF0DeMk.json) | — |  |
 | — | [Commando Pull Ups 1stx 15x](corpus/videos/tJ3m2v3gS04.json) | — |  |
 | — | [Religious Statistics by Sex and Age](corpus/videos/tJeFPNXg-mY.json) | — |  |
 | — | [Sparta, Greece - Museum 6-2010](corpus/videos/tLL1Kz_LS2w.json) | — |  |
+| — | [Dumbbell Squat Presses 45 lbs 4thx 15X](corpus/videos/tLo0HD-zGmo.json) | — |  |
 | — | [Traveling with Kyle - Bolivia Part 4 - La Paz,  antiplano, Potasi, Yun](corpus/videos/tMOEjeYxOkI.json) | — |  |
 | — | [The State of the Union - Request](corpus/videos/tPsCRw8y3QQ.json) | — |  |
+| — | [3rd Notch Dumbbell Presses 25 lbs 1stx 50x](corpus/videos/tQZZ40l5hdE.json) | — |  |
 | — | [Standardized Tests - What I think about that](corpus/videos/tUYH0_2gjPA.json) | — |  |
 | — | [La historia del universo y el mundo 4/17](corpus/videos/tWkZt8UTcWs.json) | — |  |
 | — | [Welcome to my Mountain Bike, the "Purple Power" - Request - Stumpjumpe](corpus/videos/tYAcrTGcGhM.json) | — |  |
 | — | [What I think about shakers](corpus/videos/tYRwgvMqtnM.json) | — |  |
 | — | [Stability Ball Bridge Curls 1st time 48x](corpus/videos/t_pkeuX4LLA.json) | — |  |
 | — | [Interview with Kosovar talking about Kosovo June 2010](corpus/videos/tfBUc-8nz9U.json) | — |  |
+| — | [Eagle Yoga Pose 1stx :34](corpus/videos/tk-BYhkJkzE.json) | — |  |
 | — | [The Aliens are here! 2/2](corpus/videos/tlLPB5q_vF8.json) | — |  |
 | — | [Living in Van Introduction 1/5](corpus/videos/tmFYnxtOcCQ.json) | — |  |
 | — | [Traveling with Kyle - Living in Chile part 9/17](corpus/videos/tmJvj7OfqQE.json) | — |  |
@@ -2335,6 +2484,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Movie Reviews - requested by Krishnas Little Helper](corpus/videos/uldOHXNx9k4.json) | — |  |
 | — | [Only Butt Touches Ground Abdominal Excersize 1stx 4:00](corpus/videos/un_mTVUjhMY.json) | — |  |
 | — | [Update - As requested](corpus/videos/upP2ZdsoiAY.json) | — |  |
+| — | [Kyle's Gym introduction](corpus/videos/uskEGUmJe2Y.json) | — |  |
 | — | [Traveling with Kyle - Indonesia Part 4/4, Australia Part 1](corpus/videos/uu8QZELrbDo.json) | — |  |
 | — | [Hamburg, Germany 9-2010](corpus/videos/uxOgZVgWgMM.json) | — |  |
 | — | [Talking about my life - Austin, Texas 2/21](corpus/videos/uxice04xuA8.json) | — |  |
@@ -2365,11 +2515,14 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Lower Lumbar self massage Demostration](corpus/videos/wGN__eiUCtY.json) | — |  |
 | — | [Bench Situps 2ndx 30x](corpus/videos/wHymZqjZyj0.json) | — |  |
 | — | [Ios Greek island chola town during the day](corpus/videos/wIPZXl0fcTk.json) | — |  |
+| — | [2nd Notch Dumbbell Presses 25 lbs 1stx 50X](corpus/videos/wN1Qett-UZ0.json) | — |  |
 | — | [What an American thinks about Mexico](corpus/videos/wNPnj9ivXz0.json) | — |  |
+| — | [Bridge Yoga Pose 1stx 1:47](corpus/videos/wPEcCrz-_lA.json) | — |  |
 | — | [What I think about my lives on other planets](corpus/videos/wR0VXWRqYRU.json) | — |  |
 | — | [THC Enemas - Request](corpus/videos/wTGMgXwk84c.json) | kyle | Kyle responds to a viewer request asking about THC enemas and suppositories, sharing his opinions on their effectiveness |
 | — | [What I think about Fear](corpus/videos/wUXDJFs37Q4.json) | — |  |
 | — | [Recorded History 6/9](corpus/videos/wYKBUqe3NCY.json) | — |  |
+| — | [Standing 2 Arm Dumbbell Curls to Overhead Presses 45 lbs 1stx 16X](corpus/videos/whwh2Tik4pQ.json) | — |  |
 | — | [Modern Slavery and how to fix it - Request](corpus/videos/wl-QMxYfgfE.json) | — |  |
 | — | [Lo que creo del "Pole Shift" parte 1 de 2](corpus/videos/wlkEumvQcCY.json) | — |  |
 | — | [Identifying soul groups on the Earth 1/2](corpus/videos/wnTdLi9skE4.json) | — |  |
@@ -2381,6 +2534,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Religious Statistics - Americans are the most spiritual people in the ](corpus/videos/wzubbBqmo-k.json) | — |  |
 | — | [Fear Mongers who profit from fear Scientology,  Alex Jones, George4Tit](corpus/videos/x0r-R_K09pE.json) | — |  |
 | — | [Bike Touring Vlog - Greece & Bulgaria 2/3](corpus/videos/x5PHI38PBs8.json) | — |  |
+| — | [Kyle's Gym 5-1 Part 5](corpus/videos/x6TLChee5dQ.json) | — |  |
 | — | [Ironclad Movie Review](corpus/videos/x8XHa7doN2s.json) | — |  |
 | — | [You don't have to be anti-hero to believe in God + Religious Fanaticis](corpus/videos/xApRKVZrN1I.json) | — |  |
 | — | [Stay away from energy drinks and energy bars if you want to be lean](corpus/videos/xBJb4XSDquQ.json) | — |  |
@@ -2388,6 +2542,8 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Knee Ab rolls 2ndxpr 30x](corpus/videos/xG0BFand7F4.json) | — |  |
 | — | [Bound Extended Side Angle Yoga Pose 1stx 1:30](corpus/videos/xIUeo7juZAU.json) | — |  |
 | — | [What I think about Karma vs Luck](corpus/videos/xNVokV5ukBg.json) | — |  |
+| — | [Kyle's Gym 21-1](corpus/videos/xSZ2HaT9pbA.json) | — |  |
+| — | [Cable Curls 150 lbs 1stx 15X](corpus/videos/xTNfr4KQq5o.json) | — |  |
 | — | [Dream I had about aliens](corpus/videos/xUCbmWmP3q4.json) | — |  |
 | — | [Thoughts on 2012 - Parrallel universe crossroads](corpus/videos/xYOQSYnrJEc.json) | — |  |
 | — | [How to make a free energy machine from Bashar 2/2](corpus/videos/xZcvJV5P8zs.json) | — |  |
@@ -2402,6 +2558,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [La Historia del Espana](corpus/videos/xph_CNB1c6Y.json) | — |  |
 | — | [Abortion debate #10 - The bad part of abortion](corpus/videos/xr7ZQz0REd8.json) | — |  |
 | — | [Now is the Time to Live in Your Van - With the Levels of Technology we](corpus/videos/xvKPzB4-InU.json) | — |  |
+| — | [Red Zinger Mini Classic 1986 boys 10-11 Meridian Park Denver](corpus/videos/xwnE8QNvt2M.json) | — |  |
 | — | [Alternating Dumbbell Deadlifts to Overhead Presses 35 lbs 1stx 50x](corpus/videos/xxytIsjczAE.json) | — |  |
 | — | [What an American thinks about Guatemala](corpus/videos/y1mNephL8js.json) | — |  |
 | — | [Hands Together Knee Push Ups 2ndx 25x](corpus/videos/y1qaiERniVY.json) | — |  |
@@ -2423,6 +2580,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Half Moon Yoga Pose 1stx 1:00](corpus/videos/yWBpc87eskU.json) | — |  |
 | — | [What I think about the nervous system](corpus/videos/yWdbsAATlYQ.json) | — |  |
 | — | [Incline Sit Ups 1stx 100x](corpus/videos/yXTQB_EYmWw.json) | — |  |
+| — | [Red Zinger Mini Classic 1989 boys 13 awards ceremony](corpus/videos/yXhydZBHM94.json) | — |  |
 | — | [Scissor situps 1stx 50x each side](corpus/videos/yYkQzBpqeUI.json) | — |  |
 | — | [The war on drugs is the number one enemy to civilization](corpus/videos/y_pvXaK4q2Y.json) | — |  |
 | — | [Manly P Hall on Education - Request](corpus/videos/yfkzvEXxffw.json) | — |  |
@@ -2430,6 +2588,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Special message to Kyle Pounds fans. VERY VERY VERY VERY IMPORTANT!!!!](corpus/videos/yhx1hvUsH7s.json) | — |  |
 | — | [Warrior 4 Yoga Pose 2ndx Left 1:40 Right 1:00](corpus/videos/yiFtCKSvG_w.json) | — |  |
 | — | [Noam Chomsky - Request](corpus/videos/ykajazW92Vs.json) | — |  |
+| — | [Kyle's Gym 5-1 2/4](corpus/videos/yloNfAT22BQ.json) | — |  |
 | — | [What I think about my past lives](corpus/videos/yopabAkY9BY.json) | — |  |
 | — | [The differences between men and women](corpus/videos/yshlofm5vZw.json) | — |  |
 | — | [What I think about music](corpus/videos/ytyObMDw4Wg.json) | — |  |
@@ -2437,6 +2596,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Tips for Living out of your Van](corpus/videos/yw-GRkKAhMo.json) | — |  |
 | — | [Yosemeti National Park, California Museum](corpus/videos/yxBkCHKDnVc.json) | — |  |
 | — | [Copenhagen, Denmark 8-2010 3/3](corpus/videos/z-ZntUatLYc.json) | — |  |
+| — | [Pullups 1stx 20x,20 pushups 1stx,10overheadsquats45lbs10rows45lbs](corpus/videos/z03sDGJwf_E.json) | — |  |
 | — | [Traveling with Kyle - Mexico Part 2, Belize](corpus/videos/z3s9e5SdEdU.json) | — |  |
 | — | [Audio Encyclopedia is what everyone should have so I made it for you! ](corpus/videos/z4XHulittG4.json) | — |  |
 | — | [Weightliftes PLEASE list your weight so I can know how strong you are!](corpus/videos/z4xtrdY4p5M.json) | — |  |
@@ -2445,8 +2605,10 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Delphi, Greece - Archaeological Site 7-2010 2/4](corpus/videos/zH-_0jCOseg.json) | — |  |
 | — | [Ice Cream - Request](corpus/videos/zI7oIShgeuY.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 11 & 12 - 2013](corpus/videos/zIX_uc3TrD4.json) | — |  |
+| — | [Bench Back Extensions 1stx 40x](corpus/videos/zJ91iT05Pic.json) | — |  |
 | — | [Athens, Greece - Acropolis 6-2010 3/3](corpus/videos/zMlYOWF9XEg.json) | — |  |
 | — | [Sitting Straight Alternating Dumbbell Curls to Overhead Presses 45 lbs](corpus/videos/zNfRZ792xHo.json) | — |  |
+| — | [Red Zinger Mini Classic The great peppi Schwinne team](corpus/videos/zPc6tCtpEyk.json) | — |  |
 | — | [Favourite Cities in Asia - Request](corpus/videos/zS16G3K2kqQ.json) | — |  |
 | — | [James Bond   Request](corpus/videos/zTrMrkkhwJA.json) | kyle | Kyle, while notably high on edibles, responds to a viewer request to share his thoughts on the James Bond film series. H |
 | — | [Ascension - What I think](corpus/videos/zUX9TA_jgTI.json) | — |  |
@@ -2464,8 +2626,10 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What I think about Blasphemy](corpus/videos/zmnODfaYyuA.json) | — |  |
 | — | [Bicycle Trainer (Roller) Table Demonstration - Request](corpus/videos/zmqPfmosqfA.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 20 - 2013](corpus/videos/znBhTkIPqcY.json) | — |  |
+| — | [29-7 Shoulders and back workout kylepounds.com](corpus/videos/zq4wMuFTEew.json) | — |  |
 | — | [Answering questions about me from Seamus 1/5](corpus/videos/zqF5LE-BmtQ.json) | — |  |
 | — | [Living in Boulder Vlog 5 - 3 - 2014](corpus/videos/zrOtbVutquc.json) | kyle | Kyle films a short vlog from Boulder on a Sunday, recounting how he accidentally went to work on Saturday, discovered a  |
 | — | [Suicide Should be Legal](corpus/videos/zsqIBbSejEM.json) | — |  |
 | — | [Living your excitement - What I think about what Bashar said](corpus/videos/ztkYuKoSeFQ.json) | — |  |
+| — | [Kyle's Gym 12-3](corpus/videos/zxNo90qegAs.json) | — |  |
 | — | [Scandinavian Saami - Request](corpus/videos/zzoDWSXKr0k.json) | — |  |
