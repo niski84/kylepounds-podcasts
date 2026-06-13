@@ -1,0 +1,360 @@
+{
+ "youtube_id": "Avw4jtp3P4g",
+ "title": "Living in Lafayette Vlog 6-4-2013",
+ "url": "https://youtu.be/Avw4jtp3P4g",
+ "published_at": "2013-06-04",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": null,
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 5.74,
+   "text": "How's it going? The 4th of June, 2013, living in Lafayette, V-Log."
+  },
+  {
+   "start": 6.3,
+   "end": 11.12,
+   "text": "Yesterday I spent all day long renaming the CSS, because there was one thing that I forgot to rename."
+  },
+  {
+   "start": 11.56,
+   "end": 15.84,
+   "text": "It wasn't consistent with all the other pages, so I went ahead and did that, and it took a long time."
+  },
+  {
+   "start": 17.08,
+   "end": 25.74,
+   "text": "Now when I say rename CSS, what I mean is I've got at least three different, you know, movie, country title, and kings, and then queens."
+  },
+  {
+   "start": 25.74,
+   "end": 31.92,
+   "text": "And all the different pages, and they're named differently on those pages than they are on the master page, so I have to rename them."
+  },
+  {
+   "start": 32.48,
+   "end": 41.3,
+   "text": "So that when I paste all the CSS from the main page onto those pages, it knows all the things that I spend all the time connecting CSS to, and knows what it connects to."
+  },
+  {
+   "start": 41.46,
+   "end": 41.56,
+   "text": "Okay?"
+  },
+  {
+   "start": 42.86,
+   "end": 46.74,
+   "text": "I know this is Greek to people who don't know web design, but..."
+  },
+  {
+   "start": 47.36,
+   "end": 51.0,
+   "text": "So what else did I do yesterday?"
+  },
+  {
+   "start": 51.0,
+   "end": 58.28,
+   "text": "And I also was, I guess that's what I did all day yesterday."
+  },
+  {
+   "start": 58.28,
+   "end": 68.76,
+   "text": "My brain's not working too well, because last night, I took two of the herbal sleeping pills, but it didn't do anything."
+  },
+  {
+   "start": 69.0,
+   "end": 74.68,
+   "text": "And I kind of wanted to get up today, and so I wasn't sleeping, so then I took a Unisom."
+  },
+  {
+   "start": 74.76,
+   "end": 77.18,
+   "text": "That was a mistake, because it made me sleep until like one."
+  },
+  {
+   "start": 77.76,
+   "end": 81.76,
+   "text": "And then when I woke up, I realized Unisom doesn't make you grousy the whole next day."
+  },
+  {
+   "start": 81.8,
+   "end": 83.36,
+   "text": "It makes it so you're stupid."
+  },
+  {
+   "start": 83.36,
+   "end": 85.52,
+   "text": "But I couldn't even speak."
+  },
+  {
+   "start": 85.72,
+   "end": 91.06,
+   "text": "Like, I was using the wrong words and pronouncing wrong and stuff, and I was trying to make it a little screen capture."
+  },
+  {
+   "start": 91.96,
+   "end": 93.3,
+   "text": "I've got to stay away from that, man."
+  },
+  {
+   "start": 93.3,
+   "end": 97.84,
+   "text": "And tomorrow, I'm going to do a barbecue over at my mom's house."
+  },
+  {
+   "start": 97.84,
+   "end": 98.66,
+   "text": "She invited me there."
+  },
+  {
+   "start": 99.0,
+   "end": 102.96,
+   "text": "I'm going to do that with my mom and brothers, and there's one of my brothers who's in town."
+  },
+  {
+   "start": 104.16,
+   "end": 112.94,
+   "text": "And also going to mow my friend's lawn, so going to Boulder for two reasons tomorrow."
+  },
+  {
+   "start": 113.74,
+   "end": 115.98,
+   "text": "So I guess I won't be spending that much time on the timeline."
+  },
+  {
+   "start": 115.98,
+   "end": 120.22,
+   "text": "And I got a call back from the window guys, and they said they'd bring me on next week."
+  },
+  {
+   "start": 120.22,
+   "end": 126.38,
+   "text": "So I'd like to work as much as I can here."
+  },
+  {
+   "start": 126.46,
+   "end": 128.04,
+   "text": "Today, it's already 4.15."
+  },
+  {
+   "start": 128.12,
+   "end": 129.02,
+   "text": "I haven't really done anything."
+  },
+  {
+   "start": 129.24,
+   "end": 135.72,
+   "text": "I got up, and I was experimenting with what kind of, I think I want to make a drop-down menu to help explain my timeline."
+  },
+  {
+   "start": 135.72,
+   "end": 140.1,
+   "text": "Instead of the, like, the Wikipedia way where it's all there, because it's just too much."
+  },
+  {
+   "start": 140.44,
+   "end": 143.46,
+   "text": "I think it'll be a lot easier to understand if you do it at a drop-down."
+  },
+  {
+   "start": 146.12,
+   "end": 152.32,
+   "text": "But I also need to standardize the CSS on my main page."
+  },
+  {
+   "start": 153.04,
+   "end": 157.68,
+   "text": "Make sure it's all named exactly how I want it, just to give it a run-through."
+  },
+  {
+   "start": 158.2,
+   "end": 164.12,
+   "text": "And then I can go and paste it all in on all the pages, so that that can be one of the things that I do."
+  },
+  {
+   "start": 165.72,
+   "end": 174.75,
+   "text": "You know, when I start working on the timeline again, attaching that."
+  },
+  {
+   "start": 175.51,
+   "end": 179.43,
+   "text": "Even though I'll probably rename some of them, I just want to get them all post-pasted on there,"
+  },
+  {
+   "start": 179.53,
+   "end": 182.45,
+   "text": "Just to make it as, like, polished as I can."
+  },
+  {
+   "start": 184.17,
+   "end": 187.85,
+   "text": "So I'm going to do the menu, and then the CSS, and that'll take me a while."
+  },
+  {
+   "start": 188.57,
+   "end": 190.01,
+   "text": "I won't even be done with that today."
+  },
+  {
+   "start": 190.87,
+   "end": 193.79,
+   "text": "That'll be today, and then I guess tomorrow, and probably the day after that,"
+  },
+  {
+   "start": 193.85,
+   "end": 195.35,
+   "text": "Because I'm not going to do much tomorrow."
+  },
+  {
+   "start": 195.35,
+   "end": 201.15,
+   "text": "Yeah, I'm not going to, I don't think I'm going to rate movies at Redbox anymore,"
+  },
+  {
+   "start": 201.23,
+   "end": 202.59,
+   "text": "Unless it's a movie I really want to see."
+  },
+  {
+   "start": 203.53,
+   "end": 209.19,
+   "text": "Because I notice there's lots of movies on YouTube that I can watch if I want to watch a movie to decompress that way."
+  },
+  {
+   "start": 209.23,
+   "end": 212.77,
+   "text": "I saw this movie, Jill and John, or whatever."
+  },
+  {
+   "start": 212.77,
+   "end": 220.13,
+   "text": "Luke Wilson and Kate Hudson bought a writer."
+  },
+  {
+   "start": 220.33,
+   "end": 220.97,
+   "text": "That was pretty good."
+  },
+  {
+   "start": 221.05,
+   "end": 222.73,
+   "text": "And there's lots of movies on YouTube, man."
+  },
+  {
+   "start": 222.87,
+   "end": 224.89,
+   "text": "A lot of movies that I've seen already, but they're funny."
+  },
+  {
+   "start": 227.69,
+   "end": 231.65,
+   "text": "I'm good, so yeah, I think I'll do that to save money, because I like not spending anything."
+  },
+  {
+   "start": 231.81,
+   "end": 235.95,
+   "text": "Like, a day where I go by and I don't spend anything, it makes me feel good."
+  },
+  {
+   "start": 236.09,
+   "end": 237.03,
+   "text": "It makes me feel empowered."
+  },
+  {
+   "start": 237.03,
+   "end": 243.83,
+   "text": "You know, as opposed to spending, like, $1.20 on a Redbox, and then another, like, dollar on popsicles, you know."
+  },
+  {
+   "start": 244.01,
+   "end": 245.19,
+   "text": "If I don't spend anything, it's cool."
+  },
+  {
+   "start": 246.15,
+   "end": 251.15,
+   "text": "I did have a cup of coffee, though, because I was, like, uncontrollably yawning from that Unisom."
+  },
+  {
+   "start": 251.27,
+   "end": 252.67,
+   "text": "Man, those things, fuck me up."
+  },
+  {
+   "start": 252.71,
+   "end": 253.71,
+   "text": "I've got to stop taking those."
+  },
+  {
+   "start": 254.79,
+   "end": 261.47,
+   "text": "Even if I'm up all night and I don't get any sleep, I can still function better the next day than if I take a Unisom when I sleep."
+  },
+  {
+   "start": 262.41,
+   "end": 264.09,
+   "text": "I was having some pretty deep dreams, though."
+  },
+  {
+   "start": 264.67,
+   "end": 266.21,
+   "text": "So, anyway, that's what I'm doing."
+  },
+  {
+   "start": 266.21,
+   "end": 269.39,
+   "text": "And as far as timeline, well, if I'm working, I don't know how long it'll be."
+  },
+  {
+   "start": 269.55,
+   "end": 279.79,
+   "text": "If I wasn't working, I bet you this month, I bet you in the month of June, I could finish the timeline explanation page."
+  },
+  {
+   "start": 279.93,
+   "end": 284.11,
+   "text": "And maybe even the Europe, North Europe 1500 to 2000."
+  },
+  {
+   "start": 285.23,
+   "end": 292.67,
+   "text": "But if I do start working, then maybe I'll spend my other time, because I'll have money, you know, going mountain biking and having fun and stuff,"
+  },
+  {
+   "start": 292.73,
+   "end": 294.53,
+   "text": "And just put the timeline on the back burner."
+  },
+  {
+   "start": 294.53,
+   "end": 298.25,
+   "text": "Until I have time."
+  },
+  {
+   "start": 298.95,
+   "end": 300.29,
+   "text": "Or maybe, you know, just work on it."
+  },
+  {
+   "start": 300.53,
+   "end": 301.81,
+   "text": "Have a more balanced life, basically."
+  },
+  {
+   "start": 303.27,
+   "end": 303.63,
+   "text": "Yeah."
+  },
+  {
+   "start": 304.11,
+   "end": 304.47,
+   "text": "Alright."
+  },
+  {
+   "start": 304.71,
+   "end": 305.07,
+   "text": "Let's stop."
+  }
+ ]
+}
