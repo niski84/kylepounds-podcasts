@@ -46,7 +46,100 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I went on a ride with a YouTube subscriber visiting the area."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had to turn around during the ride because my wife called me and I got sick."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been busy setting up my bike with Garmin devices like the Carrey monitor, lot pedals, sputometer, and keys."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent 40 minutes on the phone with Garmin support."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My sputometer didn't work yesterday, so I got new batteries, but it still didn't work today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Garmin is sending me a new sputometer, which should arrive in three days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My lot meter doesn't work because it showed inconsistent wattage compared to another rider."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I tried updating my pedals but ran into issues with Garmin Express."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to call Garmin support again tomorrow to resolve the pedal update issue."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to create charts for pedaling cadence, speed, and watts using data from my rides."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I made a chart based on data from the Quartzinger German Quartzinger website, but it's designed for a time trial bike, which I don't have."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to make another chart tailored to my bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to create a chart for my rollers to know exactly how many watts I'm using for each cadence."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I called Garmin support, and they suggested updating the software on my pedals."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm frustrated with my computer and microphone not working properly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to call the manufacturers of my devices to troubleshoot the issues."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I lack motivation to ride my bike unless I have my wattage data working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I estimate my FTP (Functional Threshold Power) to be about 235 watts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't done a 28k time trial in a while but plan to do one soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on Strava screen captures and videos of every Strava segment in the Boulder area."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to upload these Strava videos to my YouTube channel, Kyle Towns Google or YouTube channel."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I aim to have thousands of videos on my YouTube channel, covering various topics like ancient world villages and catastrophes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a lot of content planned for my YouTube channel, including stuff I haven't even thought about yet."
+  }
+ ],
  "transcript": [
   {
    "start": 0.24,

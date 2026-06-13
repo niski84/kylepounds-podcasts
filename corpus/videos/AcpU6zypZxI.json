@@ -28,7 +28,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He had a normal schedule today, waking up at around 8 after sleeping at around 1."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't do his video right away because he was working on photos of his room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He mentions there isn't much to talk about on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday he was on YouTube."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today he plans to work on Native American Muslim legends."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is also continuing to work on Bible-related stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He did a lot of work on his education page, which he had previously neglected."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After making a video yesterday, he did house stuff, including plugging up a hole in his room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He painted the hole made by the plumber when fixing his shower a couple of weeks ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He painted all the heaters in his apartment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He took pictures yesterday as well."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels like he has a lot of stuff going on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to call the bank to ask about what they need for a business loan."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is unsure if he wants to pursue the business loan this week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He dedicated this whole week to working on his website, which turned into focusing on the Bible section."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is excited about the prospect of focusing on his website for the next three months."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes he can make significant progress if he focuses on his website for the next three months."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't have much to talk about in the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wasn't listening to much stuff on the street yesterday, just music."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He enjoys listening to Shinsong repeatedly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He references the lyrics 'rats lip-alip' and 'sleep with lips, ink shit, dang, dang'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He mentions someone named '254' and asks if they are up to talk to another 'K-Pissar'."
+  }
+ ],
  "transcript": [
   {
    "start": 0.59,

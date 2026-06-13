@@ -37,7 +37,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I live in Bolivia."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up around 11 AM today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working on organizing circle distances for Superderee."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I will finish building the circles tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After building the circles, I will paint some of the different areas."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I will then work on the website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom called me to move some books from upstairs to downstairs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom fed me lunch after I hadn't eaten all morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We had spaghetti and a salad for lunch."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I told my mom I just want free time for the rest of the week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got an entrepreneurial idea today about biking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Subscribers have been suggesting I should start biking again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to start biking again by April 15th."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might incentivize biking by asking for money—$1,000 to ride on rollers and $5,000 to ride outside."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I compare my approach to biking to how plants grow—you can't rush it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After finishing the circle project, I will fix the curtains on my car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I will take photos of the car's interior and post them online."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might need to call a mechanic for documentation purposes."
+  }
+ ],
  "transcript": [
   {
    "start": 0.78,

@@ -44,7 +44,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Boulder",
+   "claim": "Living in Boulder has been nice with misty, rainy weather recently."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's peaceful to wake up to the rainy weather in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I prefer sleeping from 2 AM to 11 AM because it's peaceful at night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't finished my backgrounds yet, specifically the 12, 30s diameters."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to make sure the backgrounds are long enough to avoid looking unprofessional."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I finished working on distances today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I started working on the webpage and making the legs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to work on aerodynamics and circles tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Building the webpage was initially grinding but is now becoming fun."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "One of my big regrets in life is not having a past in computers early on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't like to complain about my regrets."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was studying and listening to a dark movie today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was listening to someone who has a lot of information but wacky political ideas."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was listening to Google Ads again and found it interesting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm fired up about working on my projects now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I visited my mom's house for lunch because my brother was in town."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I watched a little bit of something during lunch."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to do a video demo of how something works with myself."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to explain the demo after doing it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I'm pretty odd."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel like I've been babbling nonsense for almost 40 minutes."
+  }
+ ],
  "transcript": [
   {
    "start": 1.71,

@@ -37,7 +37,68 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "It's Monday, November 28th, and he's recording a vlog for November 27th."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He just woke up at noon after working until 4:15 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He slept for 6.5 hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He smoked some 'rufr' about 6 or 7 minutes ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, he worked on a temple next to the old school but didn't finish it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He also worked on housing and tracing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He did a 'circus flamenia' but isn't sure if he finished it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He aims to complete one big building a day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He still needs to work on 'bad as a caracol' and a mission."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's excited to explore Rome using Google Earth to see it at ground level and walk around."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to build a little room to 'unleash past life memories.'"
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks people might recognize the town he builds from past lives."
+  },
+  {
+   "subject": "Rome",
+   "claim": "He wants to rebuild Rome the way it was in classical times because it's beautiful."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's listening to a podcast and considering 'going down with the tetrake.'"
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to work on two projects simultaneously: the podcast and his timeline for Italy/Rome."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

@@ -38,7 +38,56 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I've been 43 for a month in 2017."
+  },
+  {
+   "subject": "Tyne Samson",
+   "claim": "Tyne Samson commented on my last video calling me 'Kyle Piggy Pounds,' which I find funny and accept as a nickname."
+  },
+  {
+   "subject": "YouTube comments",
+   "claim": "I tried to reply to Tyne Samson's comment, but it failed to post, so I had to delete it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "People say I look like I'm in a hospital bed, including my mom and two others."
+  },
+  {
+   "subject": "green screen",
+   "claim": "I got a green screen a few days ago and plan to hang it in my bathroom for videos with psychedelic backgrounds and sound effects."
+  },
+  {
+   "subject": "Kyle's mom",
+   "claim": "My mom is coming over at 10 to help me thin out my closet because I have too many clothing items."
+  },
+  {
+   "subject": "Bibles of America",
+   "claim": "I was working on 'Bibles of America' (origin stories) but got burned out and switched to audio history books."
+  },
+  {
+   "subject": "website",
+   "claim": "I need to focus on my website for the next three months (February, March, April) to tie up loose ends before starting my bike-writing project."
+  },
+  {
+   "subject": "business",
+   "claim": "I plan to buy a business and have my roommate work with me, but I need to make myself likable and irreproachable first."
+  },
+  {
+   "subject": "bicycle business",
+   "claim": "I want to start a revolutionary small business using a bicycle to haul window-washing equipment, including full-sized ladders."
+  },
+  {
+   "subject": "ladders",
+   "claim": "I plan to store ladders on my roommate's car or in my living room since my garage is full of kayaks."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "I'd like to figure out why I can't respond to YouTube comments, but I don't have time for it right now."
+  }
+ ],
  "transcript": [
   {
    "start": 0.78,

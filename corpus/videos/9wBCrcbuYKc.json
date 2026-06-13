@@ -39,7 +39,116 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I was in Boulder Vila on June 9th, 2014."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I waited for my water to boil and then poured it into oatmeal."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I put in my password yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to work yesterday and then came back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went motorbike cycling in the mountains."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I tried to go over Roll and pass to Winter Park but encountered a big snow field."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My front rail couldn't get over the snow field."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I could have ridden over the left part where the snow was less."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I turned around and saw guys in Jeeps."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "They wanted me to try going through another snow field or trail, possibly leading to Eldora."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I considered going up a really steep section but went too slow and had to put the clutch in."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't like going up steep sections with the clutch engaged because it's not a smooth way to ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I turned back because I couldn't turn around."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I rode some cool evituary trails I hadn't been on before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought about learning the motorbike trails by the back of my hand."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I came home and realized I should adjust everything before riding again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My spokes are loose, and I should probably fix that."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not sure if I'll go riding today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I only did a little bit of work on my website last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I should probably work on my website today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My water just boiled."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm thinking about how big houses are today compared to one month ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might ride my motorbike to work today for the second time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was thinking about the rear tire getting chewed up quickly if I ride the motorbike more."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't have much money to spend on the motorbike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My original plan was only riding one motorbike with Garrett."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might go back to that plan and focus on the website."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

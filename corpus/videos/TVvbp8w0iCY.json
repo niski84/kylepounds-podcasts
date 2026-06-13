@@ -42,7 +42,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He was living in Boulder, Vila on August 13th and 12th of 2017."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't do the video the last couple days because he was too wrapped up in working on his ancient book."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He changed books and updated his education page, which now has around 3300 pages of writing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he has to do Aristotle next but is currently ensuring all the existing content is on the page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to add more content from another page but is prioritizing biking over working on the computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He could write while biking on rollers but prefers to write outside for adventure and enjoyment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is really high right now and has a little bit of weed left."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He won't be able to afford more weed, which will help him save money on food."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finds supermarket food expensive and prefers to prepare his own meals."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Drinking juice adds up because he consumes a lot, costing around three bucks per drink."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to smoke a lot of weed and enjoy good rides while high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He transferred his weed from a big container to smaller ones, which are now full."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He did two rides, one of which resulted in a flat tire."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He forgot his keys three times and had to retrieve them from his mom's workplace."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His pump is small and takes a long time to inflate tires, so he didn't fully inflate his tire after the flat."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The next day, he rode to the top of a neighborhood climb but felt sick and exhausted."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He doesn't feel as good now as he did a couple of weeks ago when he started riding."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hopes his fatigue will go away so he can continue biking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is now logging his bicycling activities, not just working on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There are many cool rides to do around Boulder, but he's unsure if he'll be fit enough to complete them this summer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to assess the amount of time he has left for biking."
+  }
+ ],
  "transcript": [
   {
    "start": 0.98,

@@ -34,7 +34,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I can't remember what time I got up, it was like 10 or something, nine or something."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working on my website all day long, surface stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A couple of days I was doing writing, but now I'm doing website stuff like adding pictures."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I never had a picture on my website before, I think it's because I was working on my old computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was just kicking the shit on my old computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "With this computer, the resume theory, it's really fun."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow's chore is going to be taking a bunch of photos of my band."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't look forward to taking photos of my band."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to do a commercial for my band."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll mail back to people who are interested in my band, like five people who didn't have modern photos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I also need to work on the website because it's coming together fast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The background is 2.5k."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's 2 o'clock in the morning, 1:57."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm doing my area circles imagination on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm space imagination space."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm incrementing up two times each day, starting with 500, then a thousand, then 2500 meters."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Two and a half corners across is like a town or something, you'll see on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been listening to anything."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't have anything else to say."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Sting visits are funny."
+  }
+ ],
  "transcript": [
   {
    "start": 1.17,

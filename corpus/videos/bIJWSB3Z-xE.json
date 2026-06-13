@@ -46,7 +46,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "My computer crashed and wouldn't open folders or Safari."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took my computer to the store for diagnostics, including a video card test and hard drive test."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I reinstalled the operating system, which took 16 hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I performed a control option PR reboot reset at the store and again at home."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My computer still had issues with recording videos and mouse functionality."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I couldn't use QuickTime for recording until I updated it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I now have to compress videos with another program before uploading."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a medical appointment at the People's Clinic tomorrow at 9:25 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need antibiotics for a skin issue around my neck."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been squeezing a pimple that's been growing and spreading."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My skin is cracked from using tea tree oil."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been working on Google Earth projects, but it's overwhelming due to the scale."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I found an old home video from 1985-1986 of me bike racing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought the bike racing video was lost forever."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had the video converted to digital and plan to upload it to YouTube next week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I watched the Super Bowl with my brother, friends, and neighbors at my mom's house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel like I'm back in business after resolving my computer issues."
+  }
+ ],
  "transcript": [
   {
    "start": 0.56,

@@ -43,7 +43,68 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got up at around 11 in the morning at his mom's house because he was working until 4."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle and his mom came to an agreement that she will sell his car and he will still do chores."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle agreed to go on a bike ride every day with his mom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle and his mom rode their bikes from their house under a tunnel to the supermarket."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to ride his bike from his mom's house to his house and back tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to find out how far away someone can hear yelling for the purposes of his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle doesn't want to deal with selling his car because he is focused on his film projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is excited about finishing his Google Earth Rome project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is working on an alphabetical list of all the buildings in Rome for his Google Earth project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is currently on book A, which is dark blue and corresponds to the ages of Hercules."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks it would be cool to have a link to the 20 days in Rome and download locations on Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is interested in rebuilding the layout of ancient Roman houses."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was listening to a book on church history and found it interesting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to do a project on aqueducts because he can build things around them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is looking forward to doing green screen work on his project."
+  }
+ ],
  "transcript": [
   {
    "start": 0.14,

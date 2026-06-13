@@ -36,7 +36,108 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I'm not going to ride my bike this week because my bike computer broke."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had to order another kind of sensor for my bike computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't want to ride my bike without recording how far I'm going."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm just going to spin the next week instead of biking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll be working on my website to get it caught up and polished."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I just smoked a bunch of weed and am feeling kind of high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll do a silver video one of these days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I did paperwork and finished it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working on telling my night or something yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took care of all my car stuff yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I picked up my car yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday was a day where I did lots of different things."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I cleaned a lot yesterday because I hadn't cleaned in a long time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm trying to have a well-rounded life even though I'm on the computer all the time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up too late today to get weed at the discount price before 10."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I ran out of weed last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I still got weed today, just not the discount kind."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a good deal on the weed I bought today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I came back and hung out with my roommate a little bit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to do some videos until I have to go to work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll come back and work on my website later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't feel all that motivated today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up at like nine or ten today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I only slept five hours last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think that's enough for this vlog."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

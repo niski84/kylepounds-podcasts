@@ -36,7 +36,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He lives in Boulder, B-Lock."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't do a video on June 1st because he was too busy with work and his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been working on his education page on his website, adding books he has read."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is organizing books into different sections of the menu and body on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is figuring out how many pages the menus and body will have, and the percentage of the menu to the body."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is calculating the average pages per chapter to understand the size of books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is excited to compare the sizes of different books because they are presented in the same style."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been listening to Momson, which is 3,200 pages long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He set his reading speed to 50 seconds per page for his calculations."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A word counter suggested it takes 53 seconds to read a page with 175 words."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to make a chart to estimate how long it takes to read books of different sizes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to categorize books by size and create percentages for easier comparison."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has started organizing his 303 books but hasn't done the same for his classics yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He forgot to include the dates that the authors lived on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is committed to finishing this project and might work on it for weeks without stopping."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He compares this project to physically rebuilding realm on good words in terms of scale."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He mentions the festival virgins, female politicians whose job was to take care of the fire."
+  },
+  {
+   "subject": "festival virgins",
+   "claim": "They were female politicians responsible for maintaining the fire in temples."
+  },
+  {
+   "subject": "festival virgins",
+   "claim": "They served between the ages of six and ten until about 30 years old."
+  },
+  {
+   "subject": "festival virgins",
+   "claim": "If they broke the law, like letting the fire go out, they could be punished severely."
+  },
+  {
+   "subject": "festival virgins",
+   "claim": "Only ten of them broke the law in a thousand years."
+  },
+  {
+   "subject": "festival virgins",
+   "claim": "Punishment included being buried alive with limited food and water."
+  }
+ ],
  "transcript": [
   {
    "start": 0.88,

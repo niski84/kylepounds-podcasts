@@ -31,7 +31,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I was working late at night and worked very hard."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought three beers because they were only a dollar each."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I drank three beers and felt kind of drunk."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went back and bought three more beers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I ended up drinking four beers total."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Four beers was too much for me."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My liver is in bad shape and can't handle much."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I felt like I was about to throw up and passed out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was out of commission after drinking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I still worked a little bit despite feeling bad."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked until two in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I slept from around five to six or seven."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did a lot of work and did well."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't eat the greatest diet yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to have oatmeal for breakfast today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I set up late last night so I didn't have to get up until seven."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I only have one house to work on today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll be working all afternoon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had a pretty good weekend."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to go to my mom's house today to attach the trellis to the divider next to the garden."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

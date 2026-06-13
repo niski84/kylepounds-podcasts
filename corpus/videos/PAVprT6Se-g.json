@@ -38,7 +38,100 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I haven't done a log for two days because I was working on history books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought I was almost done with history books up until the fall of Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did some books covering the period up until the 600s, after the fall of Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I compiled a collection of Rome-related books totaling 3,200 pages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked on a book about Marcelline but had to rebuild it because it was wrong."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I watched YouTube videos by Ryan Reeves about religious history to learn about the church fathers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Ryan Reeves mentioned figures like Basil the Great that weren't on my list, so I want to add them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's tempting to collect more books throughout history, but I could get out of control."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think it would be cool to have the Magna Carta in my collection."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to organize my education materials and group them by a symbolic representation, like letters or numbers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I imagine arranging the books like soldiers in formation, placed on top of the Roman Forum."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought of making the height of the representations correspond to the number of pages in each book."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to create a visual system that makes memorizing all the material feel achievable."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was listening to Ryan Reeves while working on books about Marcelline and Danielos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll start writing again when I get my pedals back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I don't get my pedals soon, I'll continue working on my boat projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'd like to map the 14 regions of Augusta, but there isn't a good existing map."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I found a map showing the 14 regions of Italy, but I might have to build one on Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to base the map on the book 'The Platinum Ash' from my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought everything related to 'The Platinum Ash' to organize the buildings I've built."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel like this project would bring me closer to completing my goals, but I should stay focused."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I still have a little work left to do, so I should prioritize that."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to sleep now."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

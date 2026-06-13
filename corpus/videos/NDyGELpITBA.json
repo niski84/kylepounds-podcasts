@@ -48,7 +48,72 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Malaysian Airlines",
+   "claim": "Malaysian Airlines had four plane crashes this year, which is more than half of the seven crashes worldwide."
+  },
+  {
+   "subject": "Malaysian Airlines",
+   "claim": "The high number of crashes suggests a design or maintenance issue with the airline."
+  },
+  {
+   "subject": "Malaysia",
+   "claim": "Malaysia is a third-world country where people don't understand the value of maintenance."
+  },
+  {
+   "subject": "Malaysia",
+   "claim": "Malaysians are like cargo cults, copying things without understanding them properly."
+  },
+  {
+   "subject": "Malaysia",
+   "claim": "Malaysia is in Southeast Asia, next to Burma on the island of Borneo."
+  },
+  {
+   "subject": "Malaysia",
+   "claim": "The people in Malaysia were headhunters 100 years ago and are jungle people."
+  },
+  {
+   "subject": "Malaysian Airlines",
+   "claim": "The most likely explanation for Flight 370 is that it crashed due to faulty maintenance."
+  },
+  {
+   "subject": "Malaysian Airlines",
+   "claim": "The black box probably didn't work for the same reason the plane crashed."
+  },
+  {
+   "subject": "Burma",
+   "claim": "The king of Burma is the fourth richest person in the world."
+  },
+  {
+   "subject": "Burma",
+   "claim": "The king of Burma spends all his money on a little Disneyland in his own town."
+  },
+  {
+   "subject": "Burma",
+   "claim": "The people in Burma don't have experience running a big country."
+  },
+  {
+   "subject": "Malaysian Airlines",
+   "claim": "Malaysian Airlines needs new management to stop the planes from crashing."
+  },
+  {
+   "subject": "Malaysian Airlines",
+   "claim": "People should stop flying on Malaysian Airlines until the crashes stop."
+  },
+  {
+   "subject": "Malaysian Airlines",
+   "claim": "It's possible that Flight 370 was abducted by aliens."
+  },
+  {
+   "subject": "psychics",
+   "claim": "A psychic might be able to tell what happened to Flight 370."
+  },
+  {
+   "subject": "psychics",
+   "claim": "Psychics have described situations accurately, like Janice Joplin's room before knowing it was hers."
+  }
+ ],
  "transcript": [
   {
    "start": 0.69,

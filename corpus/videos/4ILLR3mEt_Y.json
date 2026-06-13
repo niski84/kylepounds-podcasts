@@ -44,7 +44,112 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is currently living in Boulder, Vila."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is more or less sober now because he ran out of money and can't buy more."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle doesn't want to go into credit card debt again or borrow more money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle borrowed $12.50 from his mom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels cornered but believes he can do a better job with his timeline if he's sober."
+  },
+  {
+   "subject": "Kyle's timeline",
+   "claim": "Kyle's timeline was never finished and was only halfway through."
+  },
+  {
+   "subject": "Kyle's timeline",
+   "claim": "Kyle was still in the designing stage when his car broke down, which led to abandoning the timeline."
+  },
+  {
+   "subject": "Kyle's timeline",
+   "claim": "Kyle worked on the timeline again in the latter half of 2012 and the beginning of 2013."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to work full force on his website until the end of April."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle will focus on sober, well-rounded life maintenance tasks next week."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "Kyle's mom is helping him sell his car."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "Kyle's mom offered to drive the car to her house but didn't let him lower the price."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "Kyle's car is worth $23, and everything is new on the engine."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "Kyle added a new feature to his website that he had been thinking about since 2011."
+  },
+  {
+   "subject": "Kyle's timeline",
+   "claim": "Kyle's timeline starts with the Roman calendar."
+  },
+  {
+   "subject": "Kyle's timeline",
+   "claim": "Kyle's timeline aligns with the Roman calendar, so 244 in the Roman calendar is also 244 in his calendar."
+  },
+  {
+   "subject": "Kyle's timeline",
+   "claim": "Kyle created generations in his timeline every 33 years."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle listened to the Young Turks discussing generational cycles and believes in the concept."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle identifies as part of Generation X, which he considers the lazy generation."
+  },
+  {
+   "subject": "Kyle's timeline",
+   "claim": "Kyle's timeline includes patterns every 14 generations, cycling back to the same characteristics."
+  },
+  {
+   "subject": "Kyle's timeline",
+   "claim": "Kyle's timeline features one family for his television show, with each character living 100 years."
+  },
+  {
+   "subject": "Kyle's timeline",
+   "claim": "In Kyle's timeline, each character has a kid at 33, knows their grandkid, and dies at 100."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "Kyle acknowledges that his website is huge and needs polishing to avoid confusing people."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to spend the rest of the year polishing and finishing his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle prefers not to use a green screen for his YouTube videos because it looks unprofessional."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle forgot to turn the lights on for his video and hopes to fast-forward to the part where the lights are on."
+  }
+ ],
  "transcript": [
   {
    "start": 0.18,

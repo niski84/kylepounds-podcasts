@@ -39,7 +39,100 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I'm not going to use the green screen today because I don't have time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's 9:56 pm, and I have work tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up at around 1:30 pm today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I slept for about 6, 7, or 8 hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked all day on my book, 'Classics.'"
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm nearing the end of working on my book."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a lot of touch-ups and revisions left to do."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can finish the book in a couple of weeks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Finishing the book will motivate me to do other things."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been listening to 'The Romans and His Dream Room.'"
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've listened to interesting parts of the book repeatedly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The book is 3,200 pages long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The book is already on my website's education page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought hard drinks because they were 25% off at the supermarket."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought frozen food and candy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to gain weight because of the food I bought."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm excited to see what I can accomplish tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to link items to my website page for organization."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can't do batch edits on Dreamweaver anymore."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to group links on one page to make them visible."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can use batch edits for other purposes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm kind of high right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't get extra high while making this video."
+  }
+ ],
  "transcript": [
   {
    "start": 0.69,

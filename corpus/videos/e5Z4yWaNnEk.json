@@ -34,7 +34,56 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He got up at 6 AM after working until 4 AM the previous day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked until noon and then slept for a couple of hours because he couldn't keep his eyes open."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had to rebuild the Roman timeline because the columns were not working correctly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The culprit for the timeline issue was just text formatting problems."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had to paste the text into a notepad program and then back into the timeline to fix the formatting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He fixed the links in the timeline so that clicking on a king's name takes you to the corresponding vertical part."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked on turning the time chart into a playlist for his show."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He attached YouTube icons to the back of the time chart."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He attached phone links to the dates in the timeline for easy navigation during his show."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to refine the timeline by cleaning up the text and making it look better than a simple Wikipedia copy-paste job."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to link the dates written in his living documents to the timeline for better integration."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finds the prospect of completing these tasks super exciting."
+  }
+ ],
  "transcript": [
   {
    "start": 0.69,

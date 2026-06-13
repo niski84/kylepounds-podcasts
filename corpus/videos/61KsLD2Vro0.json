@@ -46,7 +46,148 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I started kind of slow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to the hardware store to try to fix my shower."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took a part out of my shower."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't been able to use the hot shower."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I replaced the part but it didn't do anything."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll have to call them tomorrow and Monday to see if they can help me figure it out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It would suck if I had to get a plumber to fix it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't have much money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "At least I can take a shower at the clubhouse."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My roommate doesn't bother me to fix it right away."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I was working on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to fix the numbers speed on my micro shower little page for 40 kilometers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I realized it was only like three levels."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I decided to go ahead and fix it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent the rest of last night working on my page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A lot of the pages were in a state of incompletion."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Many of them were extremely basic, just at the pasting stage."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The work I had to do was super easy, like changing colors and numbers and the status."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I like doing that kind of work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's definitely worth it under the umbrella of stuff I need to do before I start exercising."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't want to finish my bike race or level page or anything like that yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to get all the obvious stuff done, like level stuff for my whole website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll probably be working on it the rest of the month."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I probably won't start writing my rollers until sometime in February."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There's just so much stuff that I have to do."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm definitely going to put my car up for sale and aggressively try to sell it no matter what."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was going to zoom down with this."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There was a lot of stuff I wanted to do on my site yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to print up my photos and post them on the walls."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to put hooks around the walls."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I still have to clean up my room and my floor."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm missing the history of being on a podcast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm ready to start doing the audiobook thing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might just do an audiobook today and do the video about it later on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on the sound right now."
+  }
+ ],
  "transcript": [
   {
    "start": 0.21,

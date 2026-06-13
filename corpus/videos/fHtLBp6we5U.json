@@ -39,7 +39,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Right now, it's April 22nd, 2:52 PM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on my Boulder Room page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I divided the Boulder Room page into older and timeline sections, which took me two days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, I was working on the timeline and converting dates."
+  },
+  {
+   "subject": "Kyle's timeline",
+   "claim": "The Boulder timeline is the same as the wrong timeline, so you can use the same calendar."
+  },
+  {
+   "subject": "Kyle's timeline",
+   "claim": "Every event in the Boulder timeline corresponds to the same year in other timelines."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In the year 762, there's a bottle mentioned in the Boulder timeline, which is trippy."
+  },
+  {
+   "subject": "Boulder Room",
+   "claim": "The Boulder Room has a legend that predicts the last 1,000 years."
+  },
+  {
+   "subject": "Boulder Room",
+   "claim": "The Boulder Room was the capital of Italy for 1,000 to 4,000 years."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm motivated to work on the Google Docs for the Boulder Room because I want to see how it looks."
+  },
+  {
+   "subject": "Kyle's project",
+   "claim": "My Boulder Room project includes pages for timeline, time chart, language, tribes, cities, buildings, and battles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm looking forward to working on the cities and tribes sections of the Boulder Room project."
+  },
+  {
+   "subject": "Wikipedia",
+   "claim": "Wikipedia has a feature where you can type in a name and year to see events, which I plan to use for my timeline."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to focus on my Boulder Room project this weekend to build momentum."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to get my Boulder Room project to a point where I can estimate how long it will take."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The Boulder Room project is my most important project right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have other tasks to do, like Google Docs and the wrong timeline."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm listening to Livy on LibriVox, which has a different writing style than my website."
+  },
+  {
+   "subject": "LibriVox",
+   "claim": "The LibriVox readings are from a different book with the same language but different writing than my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to find the context or mentions of people in the LibriVox readings on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't decided what to put in the background of my video."
+  }
+ ],
  "transcript": [
   {
    "start": 1.01,

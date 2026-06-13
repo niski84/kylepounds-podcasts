@@ -62,7 +62,176 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He had to delete a previous video because he talked about someone else and got reprimanded."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was diagnosed with autism (Asperger's) and persecuted personality disorder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He sought a psychological evaluation after a DUI to use the autism diagnosis in court."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes smoking weed can help manage autism symptoms."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The psychological evaluation consisted of talking to a psychiatrist, taking a test with pictures and questions, and a computer multiple-choice test."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He scored high on the persecuted personality disorder test, answering 'yes' to questions about visions and people being out to get him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was kicked out of a university education program, which he discussed in a YouTube video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He doesn't consider himself paranoid like typical persecuted personality disorder cases, despite the diagnosis."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He smokes weed frequently, including before the evaluation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He scored low average on list learning and list recall tests but high average on story memory."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He excelled in visuospatial construction and figure recall tests, scoring 'superior.'"
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He struggled with semantic fluency and picture naming tests."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has difficulty with verbal memory tasks but good long-term memory."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He performed poorly on the trail-making test due to rushing and making errors."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes the 20-questions test was flawed because he wasn't given enough time to think."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He scored high on the paranoia scale in the personality questionnaire but attributes it to feeling mistreated."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has a history of social interaction difficulties, few friends, and imaginative play as a child."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Teachers suspected hearing issues because he often didn't respond to verbal instructions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has a loud, unmodulated voice and struggles with giving concise stories."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He follows strict routines, like eating the same meals and watching specific YouTube channels."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has hypersensitivity to temperature, water, wool, and skin-to-skin contact while sleeping."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was diagnosed with ADHD as a child but dislikes taking medications."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He disagrees with past diagnoses of anxiety and bipolar disorder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has a history of depression in adolescence due to school problems."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He used to binge drink but quit years ago and now smokes weed daily."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has a retinal tear and occasional leg jerks at night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His family has a history of Alzheimer's, alcohol abuse, and mental health issues."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was placed in remedial classes in third and seventh grades due to academic struggles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He earned a bachelor's degree in English but was removed from an education program for political reasons and poor grades."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He taught English abroad and was married for three years before divorcing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He works as a window washer and spends hours daily on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He prefers auditory learning over reading due to slow reading speed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes listening to audiobooks is a superior learning method compared to reading."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He criticizes traditional education, especially math classes, for being ineffective for his learning style."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He resents teachers and authority figures, expressing anger toward them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mother often sent him to mental health professionals as a child, which he disliked."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He denies having psychosis but acknowledges concerns about people deceiving him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mother believes his paranoia about online trolls is justified, but he considers them fans."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had a staph infection that turned into cancer and required surgery."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He dislikes taking medications, including antidepressants and ADHD drugs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was placed in remedial classes because teachers misinterpreted his boredom as disinterest or lack of intelligence."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes his imaginative and deep thinking made traditional schooling frustrating and ineffective for him."
+  }
+ ],
  "transcript": [
   {
    "start": 0.62,

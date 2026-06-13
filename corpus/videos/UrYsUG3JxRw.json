@@ -74,7 +74,176 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I did a video vlog about living in Boulder because it's been almost three months."
+  },
+  {
+   "subject": "Randy",
+   "claim": "Randy wrote me on Facebook and suggested I do a video vlog about living in Boulder."
+  },
+  {
+   "subject": "Chris",
+   "claim": "Love for nature wrote me a couple days ago saying that Chris travels and that a video shot him out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm really high right now because I smoked weed for like a half hour to get extra high for the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I accidentally left my weed in the living room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to a new dispensary today because I usually go to The Farm, but today's Sunday and I couldn't get my before 10 deal (15% off if you go there before 10)."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had trouble finding the new dispensary because I was high and must have been really high, even though I didn't smoke weed this morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was sober this morning, which is rare for me, and maybe that's why I was super confused."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I typed the wrong address into my phone and ended up going to the wrong place."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The dispensary was right where the lady said it would be, but I didn't see it at first."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent $100 on weed at the new dispensary, but it was way less weed than I usually get—like a quarter or something."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Last time I went to The Farm, I paid $91 out the door for a half ounce."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The weed I got at the new dispensary is super dense like hash, so a little bit burns for a long time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The Farm sells poofy weed that burns away quickly, which I think is crappy stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Boulder County law doesn't allow dispensaries to do the stamp card thing anymore (10 times you buy, they give you a stamp)."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Dispensaries have to film you all the time and show your ID when you first go in and again when you actually get the weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Dispensaries have to buy everything in cash, except the place I went to today, which takes credit cards but treats it like cash."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The Farm used to take credit cards but can't now because of the new law."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Dispensaries can't open bank accounts because of federal law, so they have to store all their cash in cash."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The guy at the new dispensary was super high, with totally red eyes, and was really relaxed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The weed I got has a really sweet smell, like the best weed from 20 years ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was so high at the start of this video that I had low blood sugar and felt a little dizzy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I forgot what I was going to talk about in this video because I was so high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been collecting Google Earth data for the last three months, tracing roads, tribes, rivers, and trails."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I lost two weeks' worth of Google Earth data because I transferred it to the wrong folder and most of it got lost."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I lost the Arizona Trail, all the rivers, tribes, and other data I had collected."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I started collecting battles from Wikipedia, tracing their exact locations."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I re-did all the tribes and rivers in Europe, as well as linguistic groups in Italy and Greece."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm tracing motor bike routes, mountain bike routes, road bike routes, running routes, and kayaking routes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to make a Google Earth download page on my website for all this data."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on a project to show passing speeds of people in different modes of movement (biking, running, kayaking, etc.) from 33 mph down to 2 mph in quarter-mile increments."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm creating a fantasy world around where I live to help people understand the size of ancient kingdoms by comparing it to Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The ancient kingdom of Rome was about 20 kilometers in diameter, which is the size of the current ring road of Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm using Haystack Mountain as the center of my fantasy world because it's 300 feet higher than Neverro and about the size of the Great Pyramid of Egypt."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm pairing the history of Boulder with the history of Rome, matching battles, conquests, and land acquisitions to the same sizes and distances."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm tracing summits and creating routes for biking, running, and climbing, with different colors for different terrains."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm pairing bike rides with audiobooks, so the ride takes as long as the audiobook."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm selling my van to pay off debts and plan to build a new panel with help from a mechanic."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My hamster died a couple days ago, maybe because I didn't clean the cage for a month."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a couple of geckos, and they're doing well."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been listening to audiobooks at double speed, which is about the speed I'm talking now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I run through audiobooks one after another, which is the best way to do it."
+  }
+ ],
  "transcript": [
   {
    "start": 4.3,

@@ -29,7 +29,52 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I got up at 11 or something today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I needed to get a haircut, so I got a haircut."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to get new earphones, so I got a pair of headsets and two pairs of earphones."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was going to go to my mom's house to do stuff with my car, but I'll do it tomorrow instead."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was listening to something and trying to go all the way through without dropping anything."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm sweating."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on a book called 'To Your Grandma', which is alphabetical and will take a long time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working on the book a little bit today before working on my house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not able to be a few days in an ideal situation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm looking forward to working on the book."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll probably take a couple of days to work on the book."
+  }
+ ],
  "transcript": [
   {
    "start": 0.37,

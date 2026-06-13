@@ -79,7 +79,152 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "This is my first video request since I started doing video requests again from a dude named Nathan Washington Perm up from up in Seattle, Washington."
+  },
+  {
+   "subject": "Nathan Washington",
+   "claim": "Nathan Washington wants to know Hi, what's up Kyle? I think I must have done this video like a million times already."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm good. I'm a little bit tired because my computer's been giving me trouble the last few days and that's pretty much the only thing that will drain the shit out of me."
+  },
+  {
+   "subject": "Seattle",
+   "claim": "Seattle guys, you've got like a mountain like a hundred miles away. We get like 50 mountains like one mile away bitch."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was there for less like a number of 20. The hot springs up there are awesome a lot of the hot springs."
+  },
+  {
+   "subject": "travel and tourism",
+   "claim": "Travel and tourism will be a lot more built than it is now by the 2060s."
+  },
+  {
+   "subject": "future tourism",
+   "claim": "People will have their shit together and will be doing specific things by then."
+  },
+  {
+   "subject": "planet",
+   "claim": "I think we'll pretty much have turned the planet into a big old giant fucking playground."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on a website that's pretty much kind of like catering to that kind of planning on that."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "I'm building on collecting KML files and Google Earth KML files so that you can see all the traces and everything on Google Earth."
+  },
+  {
+   "subject": "Boulder",
+   "claim": "Boulder's a good place to practice with that because to start it out kind of turn Boulder into its tourist destination because there's just so much around here to look at and to do."
+  },
+  {
+   "subject": "future activities",
+   "claim": "People will go somewhere to do stuff like skiing all the glaciers, runs across all the sand dunes, kayak all the rivers, hike up all the little roots and the flattards."
+  },
+  {
+   "subject": "ancient tours",
+   "claim": "There will be tours of ancient mining in Boulder county, tours of the villages that existed in 1875, tours of the villages that existed in 1950 kind of stuff."
+  },
+  {
+   "subject": "ancient trade routes",
+   "claim": "You could recreate all of the tours that anybody ever did, like the ancient trade route from down the Tigris and the Euphrates all the way from Greece to Babylon."
+  },
+  {
+   "subject": "Pheidippides",
+   "claim": "Pheidippides ran from Athens to Sparta in a day and a half, 150 miles, and then he died the next day."
+  },
+  {
+   "subject": "Apache",
+   "claim": "There's lots of cool stuff draw rates that the ancient Apaches did like Geronimo rates like when they go and capture ladies on the wagon train and then take them back to their chief like 300 miles away."
+  },
+  {
+   "subject": "buffalo roots",
+   "claim": "You can make buffalo root by path facing the buffalo root all right up bird migration by path for all the different birds."
+  },
+  {
+   "subject": "bike path",
+   "claim": "I want to have like a road for bicycle racers to ride from Boulder all the way to the Atlantic Ocean like without having to stop just on one bike path."
+  },
+  {
+   "subject": "Antarctica",
+   "claim": "People will be going across Antarctica skiing across Antarctica and the Arctic."
+  },
+  {
+   "subject": "kayaking",
+   "claim": "I want to do a kayaking trip from my house down the river all the way down to the Pacific or the Gulf of Mexico."
+  },
+  {
+   "subject": "Oregon trail",
+   "claim": "When the wagon train would go across on the Oregon trail a lot of the wagoners tried to put their wagons on boats and try to take their boats down the river because it was easier."
+  },
+  {
+   "subject": "Lewis and Clark",
+   "claim": "Lewis and Clark a lot of their trip when they went from America to the Coast of Pacific and back in 1805 as part of Jefferson's ordered it because we bought America and the Louisiana purchase from Napoleon for like $3 million."
+  },
+  {
+   "subject": "America",
+   "claim": "America is a great river place. I don't think people realized it yet, but if you're going to compare America to the rest of the world, America would be one of the best places to do river cruises."
+  },
+  {
+   "subject": "future tourism",
+   "claim": "With YouTube and Google Earth, people can enjoy that stuff vicariously, you know, like people can be really into it without actually doing it."
+  },
+  {
+   "subject": "mountain climbing",
+   "claim": "In the future, we'll have the science of the weather science figured out so much that you'll know when to go up when there won't be a storm, you won't get blindsided by any storms."
+  },
+  {
+   "subject": "oxygen tanks",
+   "claim": "People will just have better oxygen tanks so you can just put on you don't have to worry about dying."
+  },
+  {
+   "subject": "surfing",
+   "claim": "You just put up with a little with a little hot oxygen thing on your mask so you can get from the water forever but you can keep it."
+  },
+  {
+   "subject": "future trips",
+   "claim": "You can start all that stuff right that cool designing trips and stuff and sharing it with on your computer and your GoPro and your energy you need to without even having to go anywhere."
+  },
+  {
+   "subject": "future lifestyle",
+   "claim": "What I want to do is like every day going like a bike ride or a new bike ride a really big bike ride as soon as I get caught up on my website."
+  },
+  {
+   "subject": "ancient Rome",
+   "claim": "With my sanctimonian thing like may oh we're at ancient Rome like what time would you be an ancient in ancient Rome?"
+  },
+  {
+   "subject": "future tourism",
+   "claim": "People will even be touching relics will organize your Alex name in the future private owners will sell that relics back to the cup companies you know countries like maybe countries will go out the program."
+  },
+  {
+   "subject": "future jobs",
+   "claim": "That provides jobs because people people can guide people people love having guides you want to have someone go show you the way and the support liquid and also teachers."
+  },
+  {
+   "subject": "future technology",
+   "claim": "By then we'll have it all figured out you know, I think we'll have it figured out really pretty soon."
+  },
+  {
+   "subject": "aliens",
+   "claim": "What if the aliens come you know, and then we have anti-gravity foot spaceships and you could go up to the moon and you get your trips jumping off of like the thousand foot sky."
+  },
+  {
+   "subject": "Mars",
+   "claim": "You can go to like Mars and do the rope do like the sand in races of Mars."
+  },
+  {
+   "subject": "water slides",
+   "claim": "I imagine how big the water slides will be oh my god."
+  }
+ ],
  "transcript": [
   {
    "start": 3.92,

@@ -40,7 +40,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle's computer",
+   "claim": "My computer crashes on a regular basis now."
+  },
+  {
+   "subject": "Kyle's computer",
+   "claim": "It completely crashes and has to restart, often showing a blue screen."
+  },
+  {
+   "subject": "Kyle's computer",
+   "claim": "After restarting, it has a memory catastrophe but works for a couple of hours before needing another restart."
+  },
+  {
+   "subject": "Kyle's computer",
+   "claim": "The problem gets worse every day."
+  },
+  {
+   "subject": "Kyle's computer",
+   "claim": "I have System Mechanic, Spybot, Malware, and Norton installed, but the computer is still messed up."
+  },
+  {
+   "subject": "Kyle's USBs",
+   "claim": "Both of my USBs broke, and my keyboard stopped working after a couple of months."
+  },
+  {
+   "subject": "Kyle's USBs",
+   "claim": "Luckily, one USB still works, but if that fails, I won't be able to use the computer anymore."
+  },
+  {
+   "subject": "Kyle's backup computer",
+   "claim": "I have a backup computer, but I'm not sure if it works."
+  },
+  {
+   "subject": "Kyle's vlogs",
+   "claim": "I haven't been doing many vlogs because I've been too busy working on my website."
+  },
+  {
+   "subject": "Kyle's weekend",
+   "claim": "This weekend, I went to the movies with my mom and saw 'Edge of Tomorrow' in 3D."
+  },
+  {
+   "subject": "Kyle's work",
+   "claim": "Yesterday, I worked from dawn till dusk."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "I got my website to a pretty cool place and am excited to see where it's going."
+  },
+  {
+   "subject": "Kyle's work schedule",
+   "claim": "I have to ride 12 miles to my first job today."
+  },
+  {
+   "subject": "Kyle's bike",
+   "claim": "I at least put oil on my bike, but I'm not sure if I want to test it tonight."
+  },
+  {
+   "subject": "Kyle's YouTube comments",
+   "claim": "I haven't looked at my YouTube comments in the last few days because I felt behind."
+  },
+  {
+   "subject": "Kyle's website development",
+   "claim": "Sometimes I design something, but the original design turns out to be flawed, requiring rework."
+  },
+  {
+   "subject": "Kyle's website development",
+   "claim": "Reworking the design is a bummer, but it means the page is more complicated and better in the end."
+  },
+  {
+   "subject": "Kyle's website development",
+   "claim": "The goal is to figure out the right way to build it as early as possible."
+  },
+  {
+   "subject": "Kyle's website development",
+   "claim": "Originally, I had the website based on Watson, but now it's based on speed."
+  },
+  {
+   "subject": "Kyle's website development",
+   "claim": "The website might end up being even bigger than I realized, possibly delaying it another month."
+  },
+  {
+   "subject": "Kyle's dedication",
+   "claim": "I have a 'time no object' attitude toward my website, meaning I'll take as long as needed to make it awesome."
+  },
+  {
+   "subject": "Kyle's computer",
+   "claim": "Now my computer won't even start, and I don't know what's going on."
+  }
+ ],
  "transcript": [
   {
    "start": 0.14,

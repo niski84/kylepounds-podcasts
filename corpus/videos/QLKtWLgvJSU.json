@@ -35,7 +35,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, Thursday, I had to do a place at 7:15 in the morning, which is the earliest this year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We were early and done with our lecture, so we didn't want to play."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went over to my mom's place on the way home."
+  },
+  {
+   "subject": "Kyle's mom",
+   "claim": "She had me take stuff out of the basement and clean up."
+  },
+  {
+   "subject": "Kyle's mom",
+   "claim": "She did a light treatment on me with tiny LED lights of different colors."
+  },
+  {
+   "subject": "light treatment",
+   "claim": "The lights are supposed to rejuvenate your cells because that's what your cells are made out of."
+  },
+  {
+   "subject": "light treatment",
+   "claim": "There's a big machine that costs around $10,000, which she got a couple of years ago."
+  },
+  {
+   "subject": "light treatment",
+   "claim": "She recently got a light pen that costs about $500."
+  },
+  {
+   "subject": "light pen",
+   "claim": "It looks like a futuristic pen with light coming out, and you put it on certain areas."
+  },
+  {
+   "subject": "light pen",
+   "claim": "It feels like you're in Star Trek, but it hurts if you hold it in one place for too long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think the light treatment works because it hurts, so I might go with her to play with those more."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I should do a YouTube video about the light treatment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked outside all day long after that."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Everyone wanted me to come up with some cool rides to do in their estates park, so I put together some cool motor cross rides."
+  },
+  {
+   "subject": "motor cross rides",
+   "claim": "I made big loops and missed some trails while riding."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went back to work after riding."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm kind of tired right now and can't remember what time I went to sleep last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Luckily, I don't have to work very far from here—it's only about five minutes away."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Maybe I should try to do a talking video today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been really focused on grinding away at my website and haven't had time for anything else."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll try to do some talking for sure."
+  }
+ ],
  "transcript": [
   {
    "start": 0.69,

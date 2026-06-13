@@ -36,7 +36,72 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I took two days off from making videos because I was catching up on some books."
+  },
+  {
+   "subject": "Play-Toy",
+   "claim": "I noticed that I didn't have all the Play-Toy installed leather."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got my pedals repaired at the shop and picked them up, so my bike is ready to go."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to clean up my house before going on a ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I tested my pedals and they worked, which felt really cool."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I promoted a couple of loans today and then worked on Play-Toy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m going to start riding my bicycle outside and then use rollers while working on the website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’ll produce a demo video soon, but my priority is riding."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m trying to adjust my schedule to get up earlier."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I go on a ride tomorrow, I’ll be tired enough to sleep and get up earlier."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My appetite is low; I had a bowl of cereal and didn’t need to eat all day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I may have skin cancer, but the doctor said it’s not certain yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I weighed 196 pounds, down from 200, after a long ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel firm and energized after riding, unlike people on electric bikes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to adjust my bike’s derailleur and clean it regularly."
+  },
+  {
+   "subject": "Boulder",
+   "claim": "The recent rain has made everything green like it’s matte."
+  }
+ ],
  "transcript": [
   {
    "start": 0.37,

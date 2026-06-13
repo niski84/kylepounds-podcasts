@@ -40,7 +40,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle ran out of internet because his motor broke and had to wait for a new one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle picked up the new motor from the hardware store and hooked up his internet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The lady at the hardware store said the new motor would provide faster internet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle uploaded a video after fixing his internet and is excited to see how it works."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's mom came by and took the old motor to the UPS place to send it back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's mom invited him over for dinner with his brother."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "They had Trader Joe's wraps with veggies and nut sauce for dinner."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle offered to let his brother borrow his motorbike because Ridgeway, Colorado is a great place for motorbiking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle needs to sell his van, and someone was interested last week but didn't call back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's video battery died, and then his memory card filled up, delaying his video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had to fix a metal thing that holds the curtains up in his van."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been archiving books from the classic world and wants to add photos of them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle rebuilt the book 'The Rainbow Crystal' and is working on other classic books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is compiling a collection of buildings from the realm and wants to publish it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is building menus for his website and organizing books by name."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's fast computer is helping him archive books quickly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle aims to have every book from the Western world up until 700 AD archived in two weeks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is excited to finish his project and might jump into it soon."
+  }
+ ],
  "transcript": [
   {
    "start": 1.01,

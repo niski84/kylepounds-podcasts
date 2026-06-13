@@ -73,7 +73,168 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle Pounds is the godfather of MMA, not Bruce Lee."
+  },
+  {
+   "subject": "Bruce Lee",
+   "claim": "Bruce Lee was just an actor in MMA."
+  },
+  {
+   "subject": "MMA",
+   "claim": "MMA is a complex sport that covers history, physical training, strategy, and emotions."
+  },
+  {
+   "subject": "MMA",
+   "claim": "There's a big problem with MMA because it's not healthy due to injuries like concussions and scars."
+  },
+  {
+   "subject": "MMA",
+   "claim": "People like to watch MMA for the strategy and reflexes, not for the injuries."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighters should separate the blood and gore from the sport to make it healthier."
+  },
+  {
+   "subject": "MMA",
+   "claim": "People watch MMA fights to satisfy their curiosity about outcomes and techniques."
+  },
+  {
+   "subject": "MMA",
+   "claim": "The culture should evolve to include more frequent and safer fights, like at parties."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fight suits with foam padding and sensors could make fighting safer and more accessible."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fight suits could diffuse the force of punches and kicks to prevent injuries."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fight suits could include helmets with clear lenses and fake hair to make fights more entertaining."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to become an MMA fighter at age 60 after his biking and kayaking trips."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fight festivals could reenact historical battles with safe fighting suits."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting levels could be used to pair people up for fair matches."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could become a way to express negative emotions in a controlled, sport-like manner."
+  },
+  {
+   "subject": "MMA",
+   "claim": "In the future, fighting could be a well-rounded activity integrated into daily life."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been in two fights in his life, one in fifth grade and one in college."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could become a tradition that future generations embrace for entertainment and fitness."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could be recorded and uploaded automatically for people to learn and improve."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could bring people closer together through physical and verbal interaction."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could evolve to include more advanced technology like iron man suits."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could be a way to reenact historical battles and integrate history into modern culture."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle predicts that fighting will become more popular in the future due to human boredom and curiosity."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could be a way to transform negative karma from past conflicts into a sport."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could be a way to relate to historical figures who viewed battles as adventures."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could be integrated into schools to forge stronger relationships between students and teachers."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could become a well-rounded activity where people aim to be balanced rather than the best."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could be a way to keep future generations entertained and engaged."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is developing fighter levels to categorize and match fighters based on weight, fitness, and skills."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could include fantasy matchups like Bruce Lee vs. modern fighters or historical figures."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could be a way to spice up life and keep future generations interested in history and sport."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes he is the godfather of MMA because he came up with the idea of safer, more integrated fighting."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could be a way to bring people together and create a more interactive society."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could be a way to reenact historical battles and integrate them into modern festivals."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could be a way to transform past conflicts into a sport that people can enjoy and learn from."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to challenge people to fights with safe suits when he is older to promote the idea."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could be a way to keep people fit and engaged in physical activity."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could be a way to create a more interesting and interactive future society."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes that fighting will inevitably become more popular due to human nature and boredom."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting could be a way to integrate history, sport, and entertainment into daily life."
+  }
+ ],
  "transcript": [
   {
    "start": 3.06,

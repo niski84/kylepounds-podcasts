@@ -45,7 +45,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I was working until the morning, around six or seven, then slept."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I decided to upload all of the Greg O'Ram books on my website because I can do it faster now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wish I had a faster computer before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can wrap my head around a lot of information and wish there was more to memorize."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can record books from my website and convert them into p3 files to listen to."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Converting books into p3 files is cool but complicated due to copyright laws."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to see how big these books are and how they look on my site."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on reading and uploading books, starting with 'Antiquities of the G.A.'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to create a sister-ro section on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been listening to WikiSource content on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm only creating the book section, not the chapters, for now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm thinking about spending a week just collecting books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I measure the worth of tasks in terms of time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I started working on these projects at the end of last week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to polish and complete the book section soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to create a library-like section on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I aim to finish uploading books by next Sunday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll focus on the Roman timeline after finishing the book uploads."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Someone was interested in my car, and I plan to make a video about it tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was too hooked on collecting books today to make the car video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel like a god when I look at all the books I've collected."
+  }
+ ],
  "transcript": [
   {
    "start": 0.4,

@@ -39,7 +39,112 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle did a 70-mile bike ride yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle ran four miles after his bike ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle swam four millimeters after running."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle read six books over three days on Monday and Tuesday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wrote 65 miles on Tuesday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was super tired after his activities and went to sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle slept in until later today because he was tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went to his mom's house to figure out his taxes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has never done taxes with TurboTax before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got stuck while trying to figure out his taxes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle started selling his van by putting ads on Craigslist and another website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to do commercials for selling his van."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to go on a bike ride before it gets too dark."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to upload the video, get high, and then go biking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle enjoys electro running and swimming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today is Kyle's day number four of exercising."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle will listen to music instead of audiobooks during his workout."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle ran out of weed yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's bike spoke broke 20 miles out on his way back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle unhooked his rear brake when his wheel started acting up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's rear wheel is ruined."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's roommate gave him a brand new set of wheels."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is excited to use his new strong wheels."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was 80th out of 83 people on a Strava segment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is usually at the back of the pack when biking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle can keep up with slower riders by getting on their wheels."
+  }
+ ],
  "transcript": [
   {
    "start": 0.14,

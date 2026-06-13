@@ -38,7 +38,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I'm doing a transcript earlier than normal today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to make a new page for the transcript because the current one is too big."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm using a Macintosh for the transcript."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm concerned about memory issues if I record while transcribing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have Google Earth and Dream We Room open."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm trying to use the FN key to transcribe my speech, but it doesn't work while recording."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might film myself with another video camera and then transcribe from that."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "On Macintosh, holding the FN key down brings up a transcription feature."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to try the transcription feature tomorrow with better enunciation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a new video camera memory today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked until I was tired today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to the store three times yesterday because supermarkets were closing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to the store again today and spent around two hundred dollars."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I filled up my house with groceries but might need a few more things like pizza and drinks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working on counting and comparing the sizes of books and menus today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This project will take a couple of weeks to complete."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm fascinated with my current project but might not finish it before moving on to something else."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was listening to a story about moms today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think the story about moms is a good book."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm pretty high right now."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

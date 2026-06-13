@@ -36,7 +36,112 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I'm living in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had another jam-packed weekend."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "On Saturday, I went over to my mom's house."
+  },
+  {
+   "subject": "Kyle's mom",
+   "claim": "She gave me some light thing."
+  },
+  {
+   "subject": "Kyle's mom",
+   "claim": "She loaned me her other light thing."
+  },
+  {
+   "subject": "light thing",
+   "claim": "It charges your cells with light, kind of like how the sun grows plants."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I should have done videos just today, but I was dragging myself away from my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working pretty late."
+  },
+  {
+   "subject": "Kyle's roommate",
+   "claim": "My roommate got me a lot of weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I gave me air, gave me weed, like on Friday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I listened to a little bit of Young Thurns on Saturday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, I listened to something, but I can't remember what it was."
+  },
+  {
+   "subject": "a book",
+   "claim": "There was some guy who wrote a book called 'Mechall in Defense of Women.'"
+  },
+  {
+   "subject": "Mechall in Defense of Women",
+   "claim": "It's kind of interesting, but he said a lot of crazy things too."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I started another book, but I can't remember what it was."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked all weekend."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a pretty big day today."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "I didn't go back and finish working on the website."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "I can see the light at the end of the tunnel, but it seems like it's a couple miles away, but it's really like 25 miles away."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm just doing that end, that end to push."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll probably want to do the same damn thing with running and swimming, so it'll just expand."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This could go on for a long time, as it always turns out."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "The page is getting way bigger than I originally planned, but I don't care because I'm still young."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "When I'm done, it'll be really cool, and maybe I can make money off it."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "It's cool because that image is working on a dragon dropping, and I haven't even really looked at it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've only been doing the legwork, so it'll be cool to step back and actually look at it later on."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

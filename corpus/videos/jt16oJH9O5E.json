@@ -46,7 +46,56 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "credit and debit cards",
+   "claim": "Credit and debit cards are currently being used with high interest rates, such as 23%, 19%, and 12%."
+  },
+  {
+   "subject": "credit card interest rates",
+   "claim": "In the past, interest rates were much lower, such as 4% or even less in Roman times."
+  },
+  {
+   "subject": "credit card interest rates",
+   "claim": "The current high interest rates are partly due to a lack of regulations and businesses pushing the envelope."
+  },
+  {
+   "subject": "credit card interest rates",
+   "claim": "High interest rates are also a result of businesses needing to make up for people who don't pay their debts."
+  },
+  {
+   "subject": "credit card regulations",
+   "claim": "The lack of regulation in the credit card industry has led to interest rates going out of control."
+  },
+  {
+   "subject": "politics and business",
+   "claim": "Big businesses control politics, which affects regulations in industries like credit cards."
+  },
+  {
+   "subject": "future of credit cards",
+   "claim": "In 50 to 100 years, credit cards will still exist but will become more regulated and socialistic."
+  },
+  {
+   "subject": "government and banking",
+   "claim": "The government will eventually take over the banking system as industries become more regulated."
+  },
+  {
+   "subject": "future interest rates",
+   "claim": "Within 100 years, interest rates on credit cards and loans will likely decrease to around 2%."
+  },
+  {
+   "subject": "future payment methods",
+   "claim": "In the future, people may opt for microchip implants for payments, making wallets unnecessary."
+  },
+  {
+   "subject": "microchip implants",
+   "claim": "Microchip implants for payments will become more common as people see the convenience and become less fearful of government control."
+  },
+  {
+   "subject": "future society",
+   "claim": "In 50 to 100 years, society may evolve to the point where people walk around with everything stored in tiny chips in their bodies."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

@@ -50,7 +50,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "status quo",
+   "claim": "The status quo for power and the power structure is trying to maintain itself when Bernie Sanders gets elected."
+  },
+  {
+   "subject": "people",
+   "claim": "People stop looking at themselves when they stop watching TV and start watching YouTube."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube videos are starting to show pharmaceutical ads and ads for television shows."
+  },
+  {
+   "subject": "news",
+   "claim": "When people stop watching news and focus on YouTube, it becomes popular."
+  },
+  {
+   "subject": "websites",
+   "claim": "People start thinking about how websites might try anything funky and weird to keep people engaged."
+  },
+  {
+   "subject": "professional trolls",
+   "claim": "There might be professional trolls funded by big money to push certain narratives on YouTube."
+  },
+  {
+   "subject": "Fox News",
+   "claim": "Fox News could be broken up and replaced by a thousand different YouTube channels funded by big money."
+  },
+  {
+   "subject": "Republican base",
+   "claim": "The religious base of the Republican Party is not necessarily aligned with the beliefs of the rich elite."
+  },
+  {
+   "subject": "religion",
+   "claim": "Religion is an easy way out for people who are dumb and mess up all the time."
+  },
+  {
+   "subject": "Christianity",
+   "claim": "Christianity has evolved into a religion where people can just say they love Jesus and forget about their bad actions."
+  },
+  {
+   "subject": "rich people",
+   "claim": "Rich people might not actually believe in Jesus but use religion to control the base."
+  },
+  {
+   "subject": "YouTube channels",
+   "claim": "There could be enclaves of people on YouTube who are paid trolls pushing certain agendas."
+  },
+  {
+   "subject": "George Potato",
+   "claim": "George Potato is a YouTube guy who got busted for doing stuff just for money."
+  },
+  {
+   "subject": "YouTube culture",
+   "claim": "There are small cultures on YouTube with only a dozen people or less talking about niche topics."
+  },
+  {
+   "subject": "Russians",
+   "claim": "The Russians had a $15 million yearly budget for trolls."
+  },
+  {
+   "subject": "Fox News",
+   "claim": "Fox News might disintegrate as people stop watching TV and move to YouTube."
+  },
+  {
+   "subject": "YouTube channels",
+   "claim": "Big money could fund fake YouTube channels to push certain narratives."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Some people on YouTube taunt others by saying they love Donald Trump even when they don't."
+  },
+  {
+   "subject": "professional trolls",
+   "claim": "Professional trolls might be behind some of the negative comments on YouTube."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube could become a forest of fake stories and funded channels pushing certain agendas."
+  }
+ ],
  "transcript": [
   {
    "start": 1.01,

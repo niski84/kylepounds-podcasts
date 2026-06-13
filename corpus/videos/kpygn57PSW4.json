@@ -38,7 +38,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I didn't do the video on the other day because I wasn't motivated and wanted to get going on my bike into my room."
+  },
+  {
+   "subject": "Kyle's bike",
+   "claim": "I put pedals on my bike, but they hit the chain, so I took it to a bike shop on 18th and Pearl in Blacksburg."
+  },
+  {
+   "subject": "bike shop",
+   "claim": "The bike shop said they could fix the pedals in three days, but I'm not sure about the cost."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm super excited to work on my project about the cobblestones of ancient Rome."
+  },
+  {
+   "subject": "project",
+   "claim": "The cobblestones project is total brain candy and easy to do, serving as a reserve for bike cycling to get me started."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I gravitated to putting the cobblestones on while riding my bike the other day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The project is hard because I'm not in shape, but it will get easier as I get more fit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to make a demo video when I get my bike back."
+  },
+  {
+   "subject": "project",
+   "claim": "I'm working on the plaza in front of the cobblestones, which is a large chunk of area, and then I'll fan out and do all the roads."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was listening to Ethan this morning, who is into history, but now I'm watching Borges."
+  },
+  {
+   "subject": "project",
+   "claim": "I think the project might be too big for my computer to handle all at once, so I'll do it in sections for YouTube videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In a couple of years, I might have a computer powerful enough to handle the whole project seamlessly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I hope it won't take too long to program the rest of the road."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When I ride my bike, it will be easier and more physical, giving me a sense of accomplishment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to work on the service level of my website and try to make sure my target is sold to start making money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to get back to working on Borges and my cobblestones project."
+  },
+  {
+   "subject": "project",
+   "claim": "The cobblestones project has been going on for a long time, but it's good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to put the cobblestones on tiles too when I'm done, and it's going to be really cool."
+  }
+ ],
  "transcript": [
   {
    "start": 0.37,

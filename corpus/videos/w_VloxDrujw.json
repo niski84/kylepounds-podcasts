@@ -40,7 +40,56 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "unemployed Greeks",
+   "claim": "Unemployed Greeks are moving back in with their parents and have a lot of spare time."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "Nobody has really created a detailed map of Ancient Greece on Google Earth."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "The only thing available on Google Earth related to Ancient Greece is some drawings and vague representations."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have created a bunch of tribes, cities, and other details across Europe and Italy for Google Earth."
+  },
+  {
+   "subject": "Ancient Greece project",
+   "claim": "Completing the Ancient Greece project on Google Earth would require a lot of work, including adding cities, databases, populations, and battles."
+  },
+  {
+   "subject": "Ancient Greece project",
+   "claim": "The whole country of Greece could organically collaborate to build the Ancient Greece project on Google Earth without needing coordination."
+  },
+  {
+   "subject": "Ancient Greece project",
+   "claim": "People can check Google Earth to see what hasn't been done yet and contribute by uploading their additions immediately."
+  },
+  {
+   "subject": "Ancient Greece project",
+   "claim": "The project would grow organically because it's fun and interesting, especially with historical details."
+  },
+  {
+   "subject": "Greeks",
+   "claim": "Greeks should take the initiative to create detailed historical content about Greece on Google Earth instead of waiting for others to do it."
+  },
+  {
+   "subject": "Americans",
+   "claim": "Americans might end up creating all the free trade routes and historical voyages related to Greece on Google Earth if Greeks don't act."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I will share a link to my Google Earth project below and update it today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If anyone contributes to the Ancient Greece project on Google Earth, I want to know about new additions I haven't included yet."
+  }
+ ],
  "transcript": [
   {
    "start": 0.08,

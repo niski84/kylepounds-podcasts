@@ -70,7 +70,116 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to run for president of the United States of America."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to run for president in about 25 years, around 2039 or 2040."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I don't make president, I'll go for Senator and keep trying for president every year."
+  },
+  {
+   "subject": "Ralph Nader",
+   "claim": "Ralph Nader is a good guy who fought for the little man and ran for president year after year."
+  },
+  {
+   "subject": "perennial candidates",
+   "claim": "The best presidential candidates are the perennial seekers who run year after year."
+  },
+  {
+   "subject": "future politicians",
+   "claim": "Future politicians should declare their presidential ambitions early to prove their dedication."
+  },
+  {
+   "subject": "Bill Clinton",
+   "claim": "Bill Clinton always wanted to be president and was a Rhodes Scholar, but he lived before YouTube."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to build my educational website to prepare for designing government websites."
+  },
+  {
+   "subject": "government websites",
+   "claim": "Government websites should be jam-packed with data, like USDA spending and taxpayer subsidies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm creating educational resources like audiobook lists and size comparison tools to practice for presidency."
+  },
+  {
+   "subject": "First Amendment",
+   "claim": "I have a First Amendment memorabilia website with cases and my positions on them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I won't run for president until I have a detailed plan for everything within the president's power."
+  },
+  {
+   "subject": "transparency in politics",
+   "claim": "I'd make my presidency a reality show with all meetings and correspondence transparently uploaded."
+  },
+  {
+   "subject": "anonymity",
+   "claim": "Anonymity is dying, and future politicians will need to be fully transparent."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to start a news show to cover politics, like The Young Turks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll be a workaholic president, putting in long hours like a career-focused individual."
+  },
+  {
+   "subject": "history",
+   "claim": "Good politicians must be historians because political decisions rely on historical patterns."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll be a futurist and prophet by the time I run for president, painting a bright future."
+  },
+  {
+   "subject": "bad politicians",
+   "claim": "Bad politicians envision dark futures but pretend to be optimistic during campaigns."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll solidify my bright future vision on my website and YouTube to prove I'm not hypocritical."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm the most appropriate person to be president in 25 years due to my qualities and preparation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I'm physically unable at 65, I'll focus on mental health and lighter work."
+  },
+  {
+   "subject": "future politicians",
+   "claim": "Future politicians should be individuals, not party-aligned, to inspire others to think independently."
+  },
+  {
+   "subject": "anonymous communication",
+   "claim": "Anonymous communication leads to sloppy, rude behavior, while transparency fosters intelligent discourse."
+  },
+  {
+   "subject": "presidential debates",
+   "claim": "Presidential debates should focus on deep, intelligent topics, not accusations and lies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll stand by my words non-anonymously and not delete my YouTube videos to build credibility."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll start making more politically related videos next year to prepare for my presidential run."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

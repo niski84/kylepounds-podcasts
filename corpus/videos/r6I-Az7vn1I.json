@@ -45,7 +45,120 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I took two days off from making videos because I'm having trouble motivating myself."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I do my videos in my bathroom and have to hang up a green cloth, which takes time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I usually only do videos late at night when I'm allowed to go to sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm too lazy to set up the green cloth late at night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't want to disturb my roommate by coming out to record."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to simplify my video setup process."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had my wall covered with Google Earth time trial data for biking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't want to attach the green cloth anywhere in my room because it would make my house look cluttered."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I decided to put the green paper on the outside of my room and bathroom doors."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think the new setup will improve video quality because I won't be too close to the side, reducing wrinkles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The green cloth in my main room works fine for jumping around."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If the cloth doesn't work, I'll have to iron and fold it every time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been spending time working on classic old books for my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm recording how many pages each book has and how long it takes to read with fast speed on Mac."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The education page on my website shows the vast majority of what I've done so far."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm currently working on Polybius, which is very time-consuming due to the number of books and chapters."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm curious to see how many pages Polybius has because it seems really big."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The fascination with seeing how many pages books are keeps me motivated."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to understand every book I work on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I hope to finish Polybius today or tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm still motivated to focus on this project exclusively."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been listening to Wikipedia articles read aloud on my phone."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I create playlists of Wikipedia articles to listen to when I'm in bed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think the Wikipedia read-aloud program is one of the best inventions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took some time off to make this video because I hadn't done one in two days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might take photos of the wall setup today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm looking forward to seeing how good the video quality will be with the new setup."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This video was almost six minutes long because I took two days off first."
+  }
+ ],
  "transcript": [
   {
    "start": 0.56,

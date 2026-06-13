@@ -36,7 +36,108 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I'm living way out of the YouTube world right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm doing this video for you log because I'm used to it and trying to keep up with the habit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "YouTube is the last thing on my mind; I haven't even opened YouTube yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I watched a couple of Young Turks videos, but I can't really watch YouTube anymore."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "For the last week, I haven't been able to watch YouTube much because my internet sucks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My cell phone can watch YouTube better than my computers can."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been forgetting to call my internet provider to fix my internet issues."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My computer sometimes takes a long time to start or gets stuck on the welcome screen."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, I visited two houses and then came home to work on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I realized I'm more motivated to work on my website than I thought."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went motorcrossing because the area called me, even though I wanted to work on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Motorcross bikes can cover a lot of distance quickly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Motorcross tires are expensive; the cheapest dirt tire I want costs $140."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It costs an additional $45 to put the tire on or $25 if I just bring the wheel in."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A brand-new motorcross tire is only good for three or four hundred miles of trail riding."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I'll only go motorcrossing when the area calls me and focus on working on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm hardcore into working on my website right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm making progress on my website, even though it's taking a long time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've resigned myself to work on my website for as long as it takes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm 40 years old, so even if I work 16 hours a day, I'll get it done eventually."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Even if it takes 20 years, I'll still be relatively young at 60 and it'll be badass."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My website is about volume, with lots of words and links to itself."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm tired because I was working on my website really late last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today is a busy day because I have to move a lot and deal with my computer issues."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might turn off the video and finish my breakfast before dealing with my computer."
+  }
+ ],
  "transcript": [
   {
    "start": 0.24,

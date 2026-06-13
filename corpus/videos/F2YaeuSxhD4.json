@@ -44,7 +44,112 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I have decided to start doing YouTube videos again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I realized how easy it is to upload a video, at least in theory."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There's really no reason to not upload videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The pressure I felt to upload videos was overwhelming and made it hard to focus."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I can focus on uploading videos now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Every few months, I work on a new project, burn out, and move on to something else."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I burned out on doing Boulder or Google-related things."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "YouTube is theoretically easy because you just record and upload."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I uploaded a 7-second video that took two hours to process."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I tried uploading a 20-minute video, but it's stuck at 0%."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If uploading is this simple, I'll start making videos like crazy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll do requests and make awesome content."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wonder why it took me so long to start doing this."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm making a 'Living in Boulder' video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I clean my teeth with toenails after spitting on them to sanitize."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been working on a Google Air thing in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The Google Air thing in Boulder is more time-consuming than I originally thought."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I compared the effort to running in the mountains and getting out of breath."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to pace myself instead of sprinting through projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm taking a breather and slowing down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not familiar enough with Apple devices to answer a call while recording."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I find Apple products anti-intuitive and confusing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My rule for YouTube is to keep it super informal and just push the upload button."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I hope this video uploads quickly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think being an Uber driver would be cool because you get to talk to people."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "People talk to Uber drivers when they're partying or in a good mood."
+  }
+ ],
  "transcript": [
   {
    "start": 2.19,

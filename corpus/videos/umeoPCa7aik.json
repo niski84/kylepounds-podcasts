@@ -36,7 +36,116 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Today I went under Rye."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In the afternoon, I was going to go up Flagstaff and then down the other side to the end of the road and come back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When I got to the top of the hill, my battery was low and it wasn't giving me any data."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought maybe my device wouldn't record my ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My device did record the whole ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went into sleep mode and managed to transfer the information."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I came back and wanted to work on finishing some ancient books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It was a prelectic afternoon working on the books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to Rye, then to my mom, and came back to work on the books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working on one of the books until early on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It was time to sit down and try to finish up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll zoom through and see if I get to somebody else's work, but it may not be complicated."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There are lots of chapters and books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't been listening to anything really."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm too high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm coming up on the end of the smoke and the weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was really fond of the bikes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm fascinated to travel around the mountains after looking at them on Google for so long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It was 14% steep, the steepest I've been on in my ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My bike is more than any part of a stunt shine or old stage."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I'll do that tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might start by doing a first step."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I could just do as many else as I can."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I consider it part of the first step."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I would have to do it today, but I forgot."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been for the game department."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll set my monitor to play and remember that tomorrow."
+  }
+ ],
  "transcript": [
   {
    "start": 0.91,

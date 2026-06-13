@@ -40,7 +40,112 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He didn't make a vlog on July 1st because he was working until he passed out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He experienced difficulty breathing for the second night in a row, describing it as hell."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels the need to change his health habits and start a new routine."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels really sick and toxic."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to switch gears and focus on writing inside of rollers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He mentions tracing a couple of sounds on rum."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He already did 40,000 people and needs 60,000 more to make his armies and stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to start biking tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He mentions specific days: Tuesday, Wednesday, Thursday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is burning out on the book 'Pladney and Ashbury'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "For the last two days, he has been listing all the houses and buildings of Rome and their locations."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to build a map of Rome later."
+  },
+  {
+   "subject": "Rome",
+   "claim": "He was studying the city of Rome, its geography, and ancient buildings."
+  },
+  {
+   "subject": "Rome",
+   "claim": "He was looking at Rome on Google Earth."
+  },
+  {
+   "subject": "Rome",
+   "claim": "He finds ancient buildings super fascinating."
+  },
+  {
+   "subject": "Rome",
+   "claim": "He mentions a building that existed since 300 AD, with its dome collapsing in 1826."
+  },
+  {
+   "subject": "Rome",
+   "claim": "A lot of destruction happened in the 1500s and the Middle Ages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was listening to 'Pladney and Ashbury' and working on computer goals."
+  },
+  {
+   "subject": "Rome",
+   "claim": "He was excited about mapping the area and studying the population at different times."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wanted to plug the data into Boulder, Boulder Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wrote to his mom yesterday because she was tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went on a bike ride with his mom, passing the lake and baseball fields."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom is getting stronger every day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to go on another adventure tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He enjoys the trails because they allow him to go everywhere without worrying about cars."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A new path is being built near his location."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

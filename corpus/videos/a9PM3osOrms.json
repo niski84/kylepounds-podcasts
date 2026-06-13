@@ -41,7 +41,128 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I have to be at the doctor at 9:25 to get on an antibiotic for this thing that stays the same size like a rock."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "No matter how much I squeeze it, it just puts out more and more pus but stays the same size."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I should have gotten this fixed before because now I feel sick."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel like fibers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to head over to the doctor soon after finishing this video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't had breakfast yet, so I'll eat something on my way back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't sleep last night, but I feel rested."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was disconcerted this morning when my computer wasn't working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I restarted my computer and it worked again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The mouse and keyboard weren't responding properly, bringing up long-click menus instead."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to the doctor and then coming back to work on my good alert all day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to do 'News with Kyle' for the first time when I come home."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "For 'News with Kyle,' I plan to listen to news websites like the Huffington Post for about half an hour."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I enjoy watching Secular Talk and Kyle Kulinski's videos where they critique politicians."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll spend about 10 or 20 minutes talking about the news every day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I forgot to mention something interesting earlier."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got this phone around the beginning of 2013 when I switched to a new carrier."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm broke, so I had to get this phone because my previous one got water damaged."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I knocked over my chubler, and water spilled onto my phone."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The water sat inside the phone all night because the case was watertight."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I tried to use the phone for a day after the spill, but it wasn't working properly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I opened the phone and found water inside."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The phone wouldn't charge, and the charger cable got super hot."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I never had a problem with my phone before; it seemed invincible until it got wet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This is the first time my phone got water damaged."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "From now on, I need to be more careful with my phone around water."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The phone case can trap water inside, creating a reservoir."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent about $200 on the new phone, which I bought on a credit card."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel like I have poison in my neck, and it's growing into something weird."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's nice to know what's going on tomorrow."
+  }
+ ],
  "transcript": [
   {
    "start": 0.69,

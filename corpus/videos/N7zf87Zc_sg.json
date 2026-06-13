@@ -22,7 +22,24 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I know how to dance."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I am Mr. Sexy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Come take the shield."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Come eat my shield."
+  }
+ ],
  "transcript": [
   {
    "start": 5.68,

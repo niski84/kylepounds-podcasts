@@ -70,7 +70,108 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I just got a message from Shaman on Facebook saying he's my number one fan of all time on YouTube and that I should do an update video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had a couple of hits on my oil pen and I'm doing this video because I'm bored."
+  },
+  {
+   "subject": "Kyle's mom",
+   "claim": "My mom kept insisting I need an Apple computer because my brother got one and was impressed by it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't have the money for an Apple computer and I'm always on Dreamweaver, so I don't really need one."
+  },
+  {
+   "subject": "Kyle's computer",
+   "claim": "My computer is a piece of shit and can't even play videos properly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I ended up getting a refurbished Apple computer with my mom's help, spending $2500, with her contributing $700."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm paying $140 a month for the computer with no interest for a year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My old computer was crashing all the time, and someone suggested reinstalling the operating system, but I never did."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I gave my old computer to the store for a data transfer and will pick up the new one tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I found a bat in my house that tested positive for rabies, but it didn't bite me, so I didn't need vaccination."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a part-time job as a janitor to make ends meet after miscalculating taxes and rent."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Being a janitor is a good job for listening to audiobooks and getting into a routine."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been thinking about being a janitor for years because it's a perfect job to focus on personal projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I also got a job as a snow shoveler for the winter, which will be another good opportunity to listen to audiobooks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been smoking a lot of weed this year, staying high as much as possible."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Smoking weed helps me see the future steps of my website projects clearly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't care about much when I'm high, which makes me focus intensely on my own projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I rode my motorcycle a few times this summer, including a trip to Rollinsville over St. Mary's Glacier."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to do more motorbiking next year and have ordered a new tire and lift for my motorcycle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on a website project that involves organizing all ancient mythologies into one cohesive page, focusing on Atlantis."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to turn Ignatius Donnelly's book 'Atlantis: The Antediluvian World' into a webpage to prove the connections between global mythologies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My website is designed to have everything visible at once without dropdown menus, which helps me organize information better."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I hope to finish my current website projects by the end of the year and then focus on the Atlantis page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I estimate it will take me a year and a half to two years to finish my website and get out of debt."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might start making YouTube videos again once my website is more organized, but right now it's not a priority."
+  }
+ ],
  "transcript": [
   {
    "start": 0.37,

@@ -41,7 +41,52 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He didn't upload a video for a few days because he was busy working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His bike is too old to repair, so he needs to get a new one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He bought a new bike for $2,000 after a discount from the original price of $40,500."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will go for a bike fitting on Wednesday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to ride his new bike outdoors and get more fit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to participate in a 20,000-time trial bike race."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will focus less on his website and more on biking and fitness."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs money and is considering seeking grant money or getting a second job."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes he can get sponsorship because he has a good website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been working on roads and tracing digital double sums."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He couldn't sleep because he couldn't breathe."
+  }
+ ],
  "transcript": [
   {
    "start": 0.3,

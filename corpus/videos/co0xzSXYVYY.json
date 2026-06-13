@@ -37,7 +37,48 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, Kyle worked in a cell until around 4 AM and then slept until 11:30 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle spent time editing a book, removing excessive references and parentheses to make it more cohesive."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is currently on chapter 17 of the book he is editing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to finish editing the book tomorrow and then add menus, which will take a couple of days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This will be the first book Kyle has done with two different kinds of menus, organized by subject."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was listening to something involving solenoids but couldn't recall the details."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle explored features on his cell phone and website, including copying and pasting text to read aloud."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle watched comparisons between larger and larger items, possibly referring to a TV show."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is excited about Netflix and hopes to finish editing tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle finds this project the most challenging of all the books he has worked on so far."
+  }
+ ],
  "transcript": [
   {
    "start": 0.98,

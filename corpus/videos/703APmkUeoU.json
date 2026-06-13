@@ -33,7 +33,104 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I was really busy all night until about 6:30 in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I cleaned the refrigerator and under the refrigerator."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I reorganized the whole house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't clean up the outside of the living room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought a fan and put it up on my ceiling to activate my beanie hat."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I put reflectors on the fan so you can see what's going on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The fan setup will be awesome for when I sing and dance."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up at around one o'clock."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to the store to exchange the ink because I got the wrong ink."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought electrical tape and some other stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to my mom and son's place to pay rent."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I hung out at my mom and son's place for a little bit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I came back home and printed up some papers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to paste the printed papers to the wall."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I will cover the walls with cloth again for special occasions or when I film."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Not all my pictures are decent."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm watching D.S. Mediti right now, on episode five."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not really watching D.S. Mediti, just listening with my earphones."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to do a Wikipedia search about D.S. Mediti."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might do a YouTube video about D.S. Mediti later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I lost my good earphones, which is a bummer because I like to listen to music."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had two good earphones, but both vanished."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This video is 21 minutes long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel like I've talked enough in this video."
+  }
+ ],
  "transcript": [
   {
    "start": 0.08,

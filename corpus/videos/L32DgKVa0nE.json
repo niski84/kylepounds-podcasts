@@ -35,7 +35,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, he worked on tracing buildings on Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He superimposed a picture from Wikipedia onto Google Earth and traced it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to finish tracing the Forum of Titus next."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He organized files but is unsure how to proceed with them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked until six o'clock in the morning and slept for only three hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He took his mom to her cataract surgery at 9:30 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He spent an hour at the hospital with his mom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After picking his mom up, they went to eat at Mass Burger."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked for an hour at home before passing out from exhaustion."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He woke up and has been working for the last couple of hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He started watching 'Mary Queen of Scots' last night and wants to finish it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There is no Netflix signal at his mom's house right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has a fire going and is trying to finish up his work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hopes to finish tracing the Forum of Titus today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finds tracing tedious but wants to power through it this time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Watching TV news with his mom drives him crazy due to all the drug commercials."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to bring a list of 20 drugs to his next doctor's appointment as a joke."
+  }
+ ],
  "transcript": [
   {
    "start": 0.5,

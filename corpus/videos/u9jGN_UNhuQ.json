@@ -41,7 +41,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got up at 11 AM on March 26th."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle procrastinated and started his day by doing circles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle focused on tracing distances for his Google Earth project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle aims to finish the Google Earth dimensions page by tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to trace the remaining distances to complete his project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After tracing distances, Kyle will focus on the website part of the project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is meticulously tracing distances, such as a marathon in Tokyo or trails on islands."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle creates the best courses by starting from the middle or across."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's background distance was 10 km yesterday and 20 km today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to increase his background distance to 40 km, then 80 km, and so on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle estimates it will take another week and a half to complete his tracing project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle hasn't created his background yet but plans to do so after the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to create a page inspired by the book 'Dark Money' by Jane Mayer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to tie 'Dark Money' into his work by addressing wealth discrepancy and inequality."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got high before the video to enhance his scientific research."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle sees his videos as scientific research to inform policymakers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle recalls Hillary Clinton's stance on needing more scientific research before legalizing marijuana."
+  }
+ ],
  "transcript": [
   {
    "start": 0.37,

@@ -39,7 +39,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "This is his first green screen video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had an operation to remove a big cyst."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels he looks like a 'fat fuck' without his shirt on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to do all his videos shirtless."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is sitting on the toilet while recording."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is figuring out the layout of Premiere for his videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is high and that's why he can't think of anything."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is organizing his store and setting up lights."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He ordered Lapse shades online and they have already shipped."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He can start dancing and doing shows in his videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is a commander."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will show his setup later, including his things and canals."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has lights in front of him and above him, with clear ones behind him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He mentions 'Virginia cake confirmed by the three wise men' as one of his video ideas."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is testing his green screen and notices too many shadows."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He folded some of the green screen to reduce shadows."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He tightened the green screen with hooks to minimize folds and shadows."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He did not iron the green screen, which caused some shadows."
+  }
+ ],
  "transcript": [
   {
    "start": 1.62,

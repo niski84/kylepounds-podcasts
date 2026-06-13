@@ -41,7 +41,112 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I didn't do the log last night because I was working too late."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was writing until like two or something and then I was doing something on my computer and I can't remember what it was."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got too tired because I wanted to get up today and take my car to the shop."
+  },
+  {
+   "subject": "car",
+   "claim": "My car has a buzz going on all the time and it's really annoying."
+  },
+  {
+   "subject": "mechanic",
+   "claim": "The mechanic told me to grow the wire, but it didn't know anything, so he's gonna look at it."
+  },
+  {
+   "subject": "mechanic",
+   "claim": "The mechanic used to work at the factory, so I think he'll be able to figure it out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have all day to ride today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I just came back from my mom's house where I was cleaning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom wanted me to have my car parked at her house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I was doing videos of mountain biking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I'm just on Google Earth and I'm gonna continue with that."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went all the way through a book yesterday while riding the bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was reading along with the book on my big TV on the wall."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The book reads to you and you just read along with it on fast speed, about 50 seconds per page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I scroll down the table right in front of me and it helps me follow along without zoning out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It would be a lot better if the book had pictures."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I stopped running my bike not because I had to get up early or was tired, but because I wanted to put photos on my old books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have photos on Google that I got from Wikipedia on my Flickr."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to attach photos to the books because it would make reading easier to remember."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Having pictures on either side would make it easier to mark where you are in the book."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The photos would probably look really cool on a big screen."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I couldn't attach photos while the converter was running."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When the converter stopped, that's when I got off the bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was experimenting with zooming photos in really fast and putting them on the pages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I almost feel like I would prefer to attach photos to books rather than making videos and converting them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to sober up pretty soon because I only have a few days before more speaking videos."
+  }
+ ],
  "transcript": [
   {
    "start": 0.53,

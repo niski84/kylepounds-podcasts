@@ -47,7 +47,104 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I got high before working this morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked until about 3:30 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today I got up, worked, went to my mom's house for Thanksgiving meal, and then watched the movie Arrival."
+  },
+  {
+   "subject": "Arrival",
+   "claim": "I was confused about the movie Arrival because they kept showing her daughter and then revealed Jeremy Renner was the father."
+  },
+  {
+   "subject": "Arrival",
+   "claim": "My brother told me that the events with the daughter hadn't happened yet in the timeline."
+  },
+  {
+   "subject": "Arrival",
+   "claim": "I watched a YouTube explanation of Arrival and now it makes sense."
+  },
+  {
+   "subject": "Arrival",
+   "claim": "The movie is about aliens who live with no time, creating a continuous loop where they fix things by going back in time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think life might actually be like that, with no linear time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After the movie, I went back to my mom's house briefly and then came home to work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been working for about four days, but I'm not entirely sure because I lose track of time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I never pay attention to how long I've been working on a project."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "The most interesting thing about Google Earth's ancient Rome from 205 AD is that it keeps getting more fascinating to me."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When I start a new project, I ask myself if it's worth my time, especially if it's something I've never done before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm willing to dedicate a month to a new project if it's compelling enough."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I work on a project for a month or more, I'll have a solid foundation to return to later."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome is the one city that fascinates me across two different time periods."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The current map of Rome only shows about 10% of what it could be."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome is thoroughly documented, with all its history available, which is pretty cool."
+  },
+  {
+   "subject": "Mike Duncan",
+   "claim": "I've been listening to Mike Duncan's podcast about Rome, but my computer won't play it anymore."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My computer has been acting up, preventing me from watching YouTube videos or accessing comments."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My German friend Dave's comments were marked as spam, and approving them just deleted them."
+  },
+  {
+   "subject": "Vitruvius",
+   "claim": "I'm currently listening to Vitruvius, specifically his discussions about aqueducts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm studying aqueducts in detail to gather all the necessary data for my project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I should probably type in Italian to find more accurate sources on Roman aqueducts."
+  }
+ ],
  "transcript": [
   {
    "start": 0.85,

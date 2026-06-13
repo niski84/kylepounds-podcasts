@@ -91,7 +91,116 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "ISIS",
+   "claim": "ISIS is a new terrorist organization that tried to join Al Qaeda but was rejected because they were too radical and violent."
+  },
+  {
+   "subject": "Al Qaeda",
+   "claim": "Every time the U.S. captures or kills the leader of Al Qaeda, it’s celebrated as a victory, but new leaders emerge, making it seem like cutting off one head just leads to another growing back."
+  },
+  {
+   "subject": "Middle East",
+   "claim": "The U.S. spent a lot of money intervening in Middle Eastern countries, but instead of eliminating Al Qaeda, they ended up creating an even more extreme version of it, referred to as 'Al Qaeda on steroids.'"
+  },
+  {
+   "subject": "Middle East",
+   "claim": "The Middle East has a complex network of trade and tribal affiliations that cross borders, making it difficult for centralized governments to maintain control."
+  },
+  {
+   "subject": "Iraq",
+   "claim": "The U.S. invasion of Iraq was a bad idea, and even people like Glenn Beck have admitted they were wrong to support it."
+  },
+  {
+   "subject": "Dick Cheney",
+   "claim": "Dick Cheney continues to defend the Iraq War, even as most people now recognize it was a mistake, making him look foolish."
+  },
+  {
+   "subject": "Iraq",
+   "claim": "Iraq is one of the oldest civilizations in the world, dating back to Mesopotamian times around 5,200 years ago."
+  },
+  {
+   "subject": "Iraq",
+   "claim": "Iraq was once the most advanced civilization in the world, particularly during the Islamic Golden Age, but it declined after invasions by the Mongols."
+  },
+  {
+   "subject": "Mongols",
+   "claim": "The Mongols invaded Iraq, committed genocide, and adopted Islam, but their version of Islam was more simplistic and fundamentalist compared to the educated and scientific Islam of the earlier Islamic empire."
+  },
+  {
+   "subject": "Middle East",
+   "claim": "The Middle East was bypassed economically when trade routes shifted to sea routes to India and China, leaving the region isolated and economically stagnant."
+  },
+  {
+   "subject": "Middle East",
+   "claim": "The discovery of oil in the Middle East renewed Western interest in the region, but the local populations were still largely uneducated and tribal."
+  },
+  {
+   "subject": "Middle East",
+   "claim": "The borders of Middle Eastern countries were drawn by European powers like England and Russia, ignoring the tribal and ethnic realities on the ground, which has led to ongoing conflict."
+  },
+  {
+   "subject": "Iraq",
+   "claim": "Saddam Hussein, a Sunni minority leader, managed to maintain control in Iraq by balancing the interests of the Sunni minority and the Shia majority, but the U.S. invasion disrupted this balance."
+  },
+  {
+   "subject": "Iraq",
+   "claim": "After the U.S. invasion, Iraq’s democratically elected government was dominated by the Shia majority, leading to resentment and revenge against the Sunni minority."
+  },
+  {
+   "subject": "Middle East",
+   "claim": "The Middle East’s tribal and ethnic conflicts are exacerbated by the fact that people identify more with their tribes than with their national borders."
+  },
+  {
+   "subject": "ISIS",
+   "claim": "ISIS is essentially a Sunni Muslim group that has created its own nation, ignoring the borders drawn by European powers and focusing on tribal and ethnic affiliations."
+  },
+  {
+   "subject": "Middle East",
+   "claim": "The Middle East’s conflicts are so entrenched that the only solution may be to let the various factions fight it out until they exhaust themselves."
+  },
+  {
+   "subject": "United States",
+   "claim": "The U.S. should focus on fixing its own domestic problems rather than intervening in Middle Eastern conflicts."
+  },
+  {
+   "subject": "Middle East",
+   "claim": "The next generation in the Middle East, after years of conflict, may look to the U.S. as a model for how to create a peaceful, multiethnic society."
+  },
+  {
+   "subject": "Dick Cheney",
+   "claim": "Dick Cheney and George Bush, who led the U.S. into the Iraq War, had no military experience and were primarily motivated by financial gain, particularly through companies like Halliburton."
+  },
+  {
+   "subject": "Halliburton",
+   "claim": "Halliburton profited immensely from the Iraq War, charging exorbitant prices for services like laundry and construction, while soldiers were left idle."
+  },
+  {
+   "subject": "United States",
+   "claim": "The U.S. military-industrial complex benefits from having leaders who are inexperienced in war but willing to delegate decisions to generals who favor military intervention."
+  },
+  {
+   "subject": "United States",
+   "claim": "The world perceives the U.S. invasion of Iraq as motivated by financial gain rather than a genuine desire to liberate the country."
+  },
+  {
+   "subject": "United States",
+   "claim": "The U.S. political system is dominated by two parties that serve the interests of big business rather than the needs of the people."
+  },
+  {
+   "subject": "Middle East",
+   "claim": "The U.S. should support peaceful groups in the Middle East who want to improve their countries through education and technology, rather than focusing on military intervention."
+  },
+  {
+   "subject": "Middle East",
+   "claim": "The conflicts in the Middle East are not due to the stupidity of the people but rather to the legacy of colonialism and the imposition of artificial borders."
+  },
+  {
+   "subject": "United States",
+   "claim": "The U.S. needs to address its own internal divisions, such as racism and religious intolerance, before it can serve as a model for other countries."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

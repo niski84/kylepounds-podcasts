@@ -25,7 +25,48 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I was outside and I worked."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was making videos and got caught up on request videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did some work on my website throughout the day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mother called me yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had a barbecue with my brother and my mother for a couple of hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I saw some of the Bible while at my mother's place."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mother has Netflix, and I think I want to go back there to watch more of it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I enjoy watching historical shows like Elizabeth on Netflix."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today I will go to work in the next town over, Beryl."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m trying to finish a page and will continue working on it today."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

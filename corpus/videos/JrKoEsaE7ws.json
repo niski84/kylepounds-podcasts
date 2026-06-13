@@ -22,7 +22,32 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "pull-up victims",
+   "claim": "We followed by 130 pull-up victims."
+  },
+  {
+   "subject": "riders",
+   "claim": "We split up, set through the rider's neck and going to the police."
+  },
+  {
+   "subject": "award",
+   "claim": "Following the award, we'll be in September, ladies and gentlemen, set up all these riders today."
+  },
+  {
+   "subject": "riders",
+   "claim": "Number 120 is playing a high-all group of two riders working together."
+  },
+  {
+   "subject": "Number 107",
+   "claim": "Number 107 is being a grand-up, followed by 139 Chris Collins in."
+  },
+  {
+   "subject": "Number 107",
+   "claim": "Number 107 is being a grand-up."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

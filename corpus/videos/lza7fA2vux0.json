@@ -39,7 +39,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is very excited about doing video logs again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels like he's at a point where he wonders why he's been doing video logs, as it seems like everyone is doing them now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had been out of the loop on YouTube, having last watched it actively around 2008-2009 in Atlanta."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle doesn't know much about current YouTube trends or content."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle recently started listening to The Huffington Post articles read by a computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle hasn't been paying attention to modern news because he felt it would take away from his time focusing on audio work and other projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes that sometimes you have to block out certain things (like the current world) to understand other things (like the past world)."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wanted to block out the modern world to focus on the past world so he could later view the current world from a historical perspective."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Most of the people Kyle has been listening to in recent years are from long ago, making his social circle feel like it's from the past."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels like his friends are from old times rather than 2015, which he finds trippy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle lost his train of thought while talking about his perspective on time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been working all day on complicated tasks related to his projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels kind of bad and hungry because it's morning and he hasn't eaten yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is now ready to talk and plans to start doing more videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is super excited about listening to news articles with his computer for the first time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks it's cool that the computer can read news articles to him, even if it takes a while."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to cook later but feels okay for now."
+  }
+ ],
  "transcript": [
   {
    "start": 0.94,

@@ -41,7 +41,148 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to build a VLOG."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's 5:20 in the evening on September 2nd."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, I wrote for about 5 hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not paying much attention to the computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't think my computer is working right because I'm writing in the second to lowest gear and going 6 miles an hour at less than 100 watts, which doesn't make sense."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll call Garment maybe Monday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not smoking weed anymore."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I scraped my pipe a couple of times and got a little high, but it doesn't really do anything."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I'm done doing videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I decided to set up my room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can do a lot while writing with the mic."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Most of the stuff I've done could have been done on this computer already, but I wasn't."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to set up the Augustinian regions of Rome, which nobody has ever done."
+  },
+  {
+   "subject": "Augustinian regions of Rome",
+   "claim": "Nobody even knows what the Augustinian regions of Rome are."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I looked at some pictures and path-ass drawings of the Augustinian regions of Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I created a Google Earth project to organize all the stuff into the Augustinian regions of Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I would say I could be done with all the stuff this year with the problems I'm working on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I focus on one thing, I could be done with it pretty soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm ready to go with setting up the Augustinian regions of Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm about to finish the straw of the stuff, the mountains, and all the main things."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I also want to finish building Boulder because then I can do Google Earth videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not that far away from finishing the nature of that project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I tried to work on it but was passing out and couldn't keep my eyes open."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I jumped badly and was sleeping when my girlfriend called me."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We watched a couple of videos that were on the board yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got back on the bike for two more hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I rode for three hours the first time and then another two hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was going to try and work on the regions of Rome, but I passed out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent all day today studying other things in Rome to make sure the place was right."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was lazy today because it was the first day I didn't want to know what was coming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It was kind of snowing out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm still out of shape even though I ride every day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm eventually going to take a break from riding because I'll need it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll probably be ready to stop riding after five hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "That's a lot of work I'll be doing on this stuff."
+  }
+ ],
  "transcript": [
   {
    "start": 0.11,

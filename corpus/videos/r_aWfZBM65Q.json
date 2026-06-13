@@ -43,7 +43,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "This is my new strategy of doing the video when I get up before going on my ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, I wanted to go up to Goldhill from Lick's skillet from the north but turned around."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I then wanted to go up Linden but it started raining, so I turned around and went the other way."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to go beyond Hungry but didn't feel like getting a power bar, so I came up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went over to my mom's house and helped her for a few hours with moving her office."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to help my mom consolidate her office today but will go on a quick ride first."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I'll go up Linden and see if the road in the Linden area is open."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After that, I might ride down into Formal can, which has a lot of dirt roads."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My bike is really good on dirt roads; it's an Eddie Marx model Rank 69."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My bike is the endurance bike site with a longer top tube, making it better for rough terrain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was riding down washboard when I went up James Cannon, and it was totally smooth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I love that bike because it handles rough terrain amazingly well."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today, I think I'll listen to music again while riding."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm really stoned right now but will run out of weed in about a week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll quit weed soon, which will make me more efficient."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll stop listening to music and start doing more talking in my videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There's enough talking for now in my videos."
+  }
+ ],
  "transcript": [
   {
    "start": 0.18,

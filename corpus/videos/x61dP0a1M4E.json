@@ -39,7 +39,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been living in Boulder, New York for the fourth time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels that time has gone by really slowly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle spent the day printing information related to racial level stuff and chapters from 'The Decline and Fall of the Roman Empire.'"
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle placed the printed information underneath Google Earth pictures representing the crystal level in his room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to put a light in his room to illuminate the setup."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was busy all day printing pictures and setting up his room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got up at one in the afternoon today, which made the day start slowly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle couldn't print anymore because the printer ran out of ink."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle initially only got red ink because that was the only color blinking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle realized he should have gotten all the ink colors after opening the printer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went back to get the three colors of ink because he was convinced he needed them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle forgot to get the lamp shape during his first trip to his mom's house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had to go back again to get the black ink."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle finally got all the ink cartridges he needed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wishes he knew how much ink he would need before starting the project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle used a technique in Chile where he injected more colors into the cartridges to print his entire room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle finished his teaching but didn't watch it, only listened to it while working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle started working on a board while listening to rain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to print more stuff and put more levels up in his room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went up four times today, which felt super sketchy, but he's glad to be back home."
+  }
+ ],
  "transcript": [
   {
    "start": 0.24,

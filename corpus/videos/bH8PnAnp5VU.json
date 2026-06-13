@@ -56,7 +56,148 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "size dimensions",
+   "claim": "There are 45 size dimensions ranging from the electron to the known universe."
+  },
+  {
+   "subject": "human size",
+   "claim": "Humans are remarkably close to the middle of the size dimensions, specifically at size dimension number 19."
+  },
+  {
+   "subject": "human size",
+   "claim": "Humans are 58% closer in size to the electron than to the universe out of the 45 size dimensions."
+  },
+  {
+   "subject": "size dimensions",
+   "claim": "Without the anchor dimension of one meter, there are 18 smaller dimensions and 26 larger dimensions."
+  },
+  {
+   "subject": "electron",
+   "claim": "The electron is the smallest thing we know, with a size of one quintillionth of a meter, also known as an attometer."
+  },
+  {
+   "subject": "size dimensions",
+   "claim": "Each size dimension is 10 times smaller or larger than the adjacent one."
+  },
+  {
+   "subject": "weak force",
+   "claim": "The weak force range is how close subatomic particles need to be to have a gravitational effect on each other."
+  },
+  {
+   "subject": "helium nucleus",
+   "claim": "The helium nucleus is visible at size dimension negative 14, along with neutrons and protons."
+  },
+  {
+   "subject": "gold nucleus",
+   "claim": "The gold nucleus and uranium nucleus are visible at size dimension negative 12."
+  },
+  {
+   "subject": "atom structure",
+   "claim": "Most of an atom is empty space; if the nucleus were the size of a tennis ball, the electron would orbit at the edge of a football stadium."
+  },
+  {
+   "subject": "hydrogen atom",
+   "claim": "The hydrogen atom is the smallest atom, visible at size dimension negative 10."
+  },
+  {
+   "subject": "DNA",
+   "claim": "The DNA double helix is visible at size dimension negative 8, along with proteins and bucky balls."
+  },
+  {
+   "subject": "bucky balls",
+   "claim": "Bucky balls, made of 60 carbon atoms, can exhibit wave-like behavior in the double-slit experiment."
+  },
+  {
+   "subject": "viruses",
+   "claim": "The polio virus and herpes virus are visible at size dimension negative 7, alongside other viruses and nanotechnology."
+  },
+  {
+   "subject": "visible light",
+   "claim": "Visible light wavelengths are about the same size as red blood cells and olfactory receptors."
+  },
+  {
+   "subject": "radio waves",
+   "claim": "Radio waves are about the same size as green light wavelengths."
+  },
+  {
+   "subject": "fruit fly",
+   "claim": "A fruit fly is visible at size dimension negative 4, alongside crystals and pollen."
+  },
+  {
+   "subject": "human scale",
+   "claim": "Humans live at size dimension 0, which is one meter across, encompassing everyday objects like basketballs and hands."
+  },
+  {
+   "subject": "large animals",
+   "claim": "The largest animals, like horses and dragons, are visible at size dimension positive 1."
+  },
+  {
+   "subject": "buildings",
+   "claim": "Buildings and the largest trees are visible at size dimension positive 2."
+  },
+  {
+   "subject": "asteroids",
+   "claim": "An asteroid predicted to hit in 2029 is visible at size dimension positive 3."
+  },
+  {
+   "subject": "Mount Everest",
+   "claim": "Mount Everest's height is visible at size dimension positive 5 (100 kilometers)."
+  },
+  {
+   "subject": "Death Star",
+   "claim": "The Death Star from Star Wars is comparable in size to the moon at size dimension positive 7."
+  },
+  {
+   "subject": "Earth",
+   "claim": "The Earth is visible at size dimension positive 8, alongside other planets like Saturn."
+  },
+  {
+   "subject": "Sun",
+   "claim": "The Sun is visible at size dimension positive 10, alongside other stars like Sirius."
+  },
+  {
+   "subject": "solar system",
+   "claim": "The solar system is visible at size dimension positive 12, spanning about half a billion kilometers."
+  },
+  {
+   "subject": "nebulae",
+   "claim": "Planetary nebulae are visible at size dimension positive 14, comparable in size to the solar system."
+  },
+  {
+   "subject": "Milky Way",
+   "claim": "The Milky Way galaxy is visible at size dimension positive 21."
+  },
+  {
+   "subject": "superclusters",
+   "claim": "Galaxy superclusters are visible at size dimension positive 24."
+  },
+  {
+   "subject": "universe",
+   "claim": "The known universe is the largest thing we know, encompassing all size dimensions up to positive 26."
+  },
+  {
+   "subject": "size comparison",
+   "claim": "A brain cell is to a human what a human is to a skyscraper."
+  },
+  {
+   "subject": "size comparison",
+   "claim": "A red blood cell is to a human what a human is to a city like Denver."
+  },
+  {
+   "subject": "size comparison",
+   "claim": "A protein is to a human what a human is to the Earth."
+  },
+  {
+   "subject": "size comparison",
+   "claim": "An atom is to a human what a human is to the solar system."
+  },
+  {
+   "subject": "size comparison",
+   "claim": "An electron is to a human what a human is to a nebula."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

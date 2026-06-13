@@ -36,7 +36,112 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I didn't do a video yesterday because I was too lazy to go in my room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was too motivated to work on my 25 area dimensions page instead of making a video yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I built the 25 area dimensions page in one day but left it in a basic state."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I kept fixing the 25 area dimensions page because I couldn't figure out what I wanted it to look like."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I realized I needed to finish with keys for Google downloads to upload the right photos with all the details."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have about 50 photos to upload but I'm not there right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm trying to tie up the surface level of my site now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to do some work on my car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm currently working on the words for my dog project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to explain the surface level of my site but didn't get to it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was going to do car stuff today but I'm not sure."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom is going to help me put the ad on live because I'm not doing it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom's money is kind of on the line with the ad."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel like my voice is coming together pretty good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm getting to a point where I can work on my projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can finish my work inside but not outside because I'm not spending any money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I really need to move because gravity is compressing me."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might have to exercise to feel better."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to go out and attach my curtains again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My phone is upgrading right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to send photos of my car to my mom and myself."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to get with a computer because my phone needs to upgrade."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I've done enough talking and will try to do a green screen video next time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm currently working on circles, about 25 or 30 inches in the last one I did."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The last circle I did was about five kilometers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a bunch more circles to do, which might take another month or half a month."
+  }
+ ],
  "transcript": [
   {
    "start": 0.75,

@@ -45,7 +45,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I didn't record videos for a few days because I was organizing 350 gigabytes of files."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The files included work, videos of chicks working out, exercises like squatting and deadlifting, and project files."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was converting the files into an organized format, which took a long time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "While converting files, I couldn't record, process, or upload videos because it would crash my computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I learned not to store files in only one place, even temporarily, because my external drive failed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Luckily, the files were recoverable when I took the drive to a computer repair shop."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm selling a van and did some touch-up work like shampooing and fixing the interior."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I lost some paperwork, which might lower the van's selling price."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm stressed about money and decided to start a Patreon to generate income."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My website ads only make about 30 cents a day, which isn't enough."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to write an introduction for my Patreon page but find it challenging."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might have to sell my motorcycle to make ends meet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took an AdWords certification test but only scored 45% and will retake it in seven days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think the AdWords test format is how education should be—focused on certification and retakes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to study more and pass the AdWords test to improve my website's marketing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll start recording videos daily now that my file organization is done."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had an issue with a muted video upload due to my computer overheating during file transfers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I restarted my computer to fix the overheating issue during file transfers."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

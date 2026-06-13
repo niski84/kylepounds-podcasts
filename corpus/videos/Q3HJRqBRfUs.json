@@ -31,7 +31,68 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got really high and decided to organize his room."
+  },
+  {
+   "subject": "Kyle's mom",
+   "claim": "Kyle's mom called and asked him to come over to her house and clean up his car."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "Kyle checked the oil levels in his car because he never just takes his car without checking."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "Kyle poured oil into his car but realized he was pouring it into the wrong place because it was the same color as the oil."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "Kyle drove to a car parts place and got 5 quarts of oil for his car."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "Kyle drained all the oil out of his car and then put 5 quarts of new oil in."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "Kyle filled up his power steering fluid but isn't sure if he filled it completely."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "Kyle put new windshield wipers on his car but needs to adjust them."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "Kyle painted his car silver and thinks it looks really good from a distance."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle organized his room and the electrical stuff around the console."
+  },
+  {
+   "subject": "Kyle's deck",
+   "claim": "Kyle organized his deck and fixed a cracked rocket box that fell off."
+  },
+  {
+   "subject": "Kyle's kitchen",
+   "claim": "Kyle organized his kitchen."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "Kyle plans to shampoo his car tomorrow to make it look really black."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "Kyle didn't use detergent while shampooing his car, and the water kept coming up."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "Kyle plans to shampoo his car until it looks really black and might use white paint for wet edges."
+  }
+ ],
  "transcript": [
   {
    "start": 0.98,

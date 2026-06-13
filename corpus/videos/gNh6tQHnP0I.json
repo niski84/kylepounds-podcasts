@@ -38,7 +38,56 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "It is currently 12:35 am on March 13th, 2013."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today was his second day working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is using a background of thousand-meter diameter circles for calibration."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is working on a project and writing an intro for his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This is the most fun thing he has ever done."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom and girlfriend are helping him with the project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has 13 pages of text so far."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is aiming for about 20 pages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to put the manual on Patreon and other websites."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is waiting for sunny weather to take good photos for his project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to charge the battery."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to listen to his recording again to make it perfect."
+  }
+ ],
  "transcript": [
   {
    "start": 0.66,

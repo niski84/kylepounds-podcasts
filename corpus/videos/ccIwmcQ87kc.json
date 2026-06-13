@@ -52,7 +52,108 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "If I were to become a rapper, my rap style would be influenced by oratory and history."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When stoned, my inner monologue sometimes freestyles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Being a rapper is my whole deal, my identity."
+  },
+  {
+   "subject": "oratory",
+   "claim": "Oratory was one of the most important skills in ancient Roman and Greek history."
+  },
+  {
+   "subject": "oratory",
+   "claim": "Ancient orators used sign language and comedic timing to enhance their speeches."
+  },
+  {
+   "subject": "oratory",
+   "claim": "Good oratory required passion, strong voice, and memorization of speeches."
+  },
+  {
+   "subject": "ancient Greece",
+   "claim": "Ancient Greece was not an organized kingdom but a collection of tribes."
+  },
+  {
+   "subject": "ancient Greece",
+   "claim": "Orators could rise to leadership by convincing people through speeches."
+  },
+  {
+   "subject": "oratory",
+   "claim": "A famous Greek orator regained his stolen inheritance by mastering oratory."
+  },
+  {
+   "subject": "rapping",
+   "claim": "Modern rappers are like ancient orators, trying to convey messages through their art."
+  },
+  {
+   "subject": "rapping",
+   "claim": "Rapping evolves from personal topics to deeper messages over time."
+  },
+  {
+   "subject": "music",
+   "claim": "Rhymes help people remember songs and messages, just like in ancient times."
+  },
+  {
+   "subject": "music",
+   "claim": "Songs with deep messages can become legendary and teach history."
+  },
+  {
+   "subject": "music",
+   "claim": "The Flight of the Valkyries caused a frenzy when first played, like a rock concert."
+  },
+  {
+   "subject": "music",
+   "claim": "Music combines intellect (words) and emotion (delivery)."
+  },
+  {
+   "subject": "rapping",
+   "claim": "You don’t need a good singing voice to be a rapper, just clear pronunciation."
+  },
+  {
+   "subject": "rapping",
+   "claim": "Older rappers can still perform well if their minds are sharp."
+  },
+  {
+   "subject": "rapping",
+   "claim": "Perfect songs require years of research and refinement."
+  },
+  {
+   "subject": "rapping",
+   "claim": "An album can tell a complete message, with each song leading to the next."
+  },
+  {
+   "subject": "rapping",
+   "claim": "I’d like to be a 'preacher rapper,' combining ancient oratory with modern rap."
+  },
+  {
+   "subject": "ancient Rome",
+   "claim": "Ancient Roman orators used specific gesticulations during speeches."
+  },
+  {
+   "subject": "rapping",
+   "claim": "Rap battles could replace political debates in the future."
+  },
+  {
+   "subject": "artists",
+   "claim": "Artists like George Michael lose their creative spark when they 'don’t feel it' anymore."
+  },
+  {
+   "subject": "artists",
+   "claim": "The muse (inspiration) can leave suddenly, just like it can return."
+  },
+  {
+   "subject": "music",
+   "claim": "Music is called 'music' because it comes from the muse."
+  }
+ ],
  "transcript": [
   {
    "start": 0.98,

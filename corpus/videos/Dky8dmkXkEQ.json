@@ -53,7 +53,228 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to do a vlog before I get back to work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It is 6:10 in the evening."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working until like 4 on the board egg."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today would be a good day for me to show you what I've been working on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In the last couple days, I did the Doris Sikulous Historical Library."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Polybius History."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Amianis Marcella's History."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Cast His Dial History."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did all of Decline and Fall."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Utropius Roman History."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Frontinus Aqueducts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Gothic History was already there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Herodian History of Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Herodicus was already there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Josephus Antiquities of the Jews."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Josephus Jewish War."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Jewish African War."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Jewish Alexandria and War."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Jewish Civil War."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Jewish Gallic War."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Jewish Spanish War."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Olivia was already there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did New Testaments."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Marcella's was already there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Odysseys was already there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Old Testaments were already there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Renatus Roman Military Institutions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Sallust Cataline Conspiracy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Sallust Jugurthine War."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did St. Augustine Christian Doctrine."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did St. Augustine City of God."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did St. Augustine Confessions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Strabo Geography."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Tacitus Agricola."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Tacitus Annals."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Tacitus Germany."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Tacitus History."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Thucydides Peloponnesian War."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did Vitruvius Architecture."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Right now I'm finishing up St. Augustine Confessions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After this, I might do Etched Run from St. Augustine."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to do everything within the Roman Empire."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm just gathering the body now, then I have to attach the menu when I'm done."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Attaching the titles to the chapters in the menu section takes time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't know how long this will take."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to do another history of the Romans."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It was raining today, and it's raining right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The rain feels peaceful."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm listening to books that I'm not capturing from my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm listening to books to decide if I want to capture them for my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm doing one book's Adams Theory Social Revolutions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've read other books by Adams, but I can't remember what they're called."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to get going on running stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I've talked long enough for three or four days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll talk to you tomorrow."
+  }
+ ],
  "transcript": [
   {
    "start": 0.72,

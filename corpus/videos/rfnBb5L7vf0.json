@@ -76,7 +76,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is making videos again after Randy E-Mell and Crazy Dank E-Mell suggested he should."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle smoked a lot of weed for about half an hour before making the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been experiencing physical pain, mainly in his back and arms, due to lack of exercise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to change his routine by exercising more, including riding his bike on rollers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels he needs to balance his life by exercising, making YouTube videos, commenting on YouTube videos, and working on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been working on his website, focusing on collecting myths, legends, and creation stories from around the world."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to create a world population map for history, starting with a map of Vericum, France, from the Celts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to finish his bike race level page and then focus on becoming a hardcore bike racer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been listening to Herodotus and plans to make videos about the books he listens to."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had a lipoma removed from his neck and back and is considering removing more lipomas cryogenically."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's blood test showed he might have a thyroid issue, but he feels fine and doesn't think he has thyroid problems."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to ride his bike 100 miles a day for 30 days as part of his winter training."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to create a tour of Boulder modeled after the Tour de France, with 21 stages over 23 days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's website includes a bike race level page where he collects data on local triathlon times to measure his progress."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to finish his website projects, including the world population chart and linking all the myths and legends, before focusing on his bike racing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels he is on the edge of creating a new genre that combines reality TV, educational content, and professional athletics."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle loves the attention and encouragement from his fans and is excited to reconnect with them."
+  }
+ ],
  "transcript": [
   {
    "start": 0.43,

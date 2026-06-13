@@ -36,7 +36,60 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle smoked half of a gram of 21% THC weed, which was the strongest strain available."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle smoked approximately 20 to 40 hits of weed but couldn't remember the exact count."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to smoke an entire gram of 21% THC weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle conducted a scientific test to measure the effects of smoking a gram of weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle smoked conservatively over the course of an hour."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle finished smoking a gram of weed at 11:47 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle waited 53 minutes after smoking to take a blood test."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle performed a walking test, including walking in a straight line and standing on one leg for 30 seconds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes talking should be part of the impairment test."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle drove a route that included Netherland, Central City, South Park, and Trail Ridge Road, covering approximately 308 miles and 40,000 feet of elevation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle smoked a gram of 21% THC OG Push Indica weed from 10:30 AM to 12:00 PM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had his blood drawn an hour after smoking and took another hour to return for the test."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle conducted the test scientifically by smoking exactly one gram of weed and waiting an hour before testing."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

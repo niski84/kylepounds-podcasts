@@ -51,7 +51,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Pearl Harbor",
+   "claim": "Pearl Harbor is the day America got attacked by the Japanese."
+  },
+  {
+   "subject": "Patriotism",
+   "claim": "Expressing your American freedom by smoking weed on Pearl Harbor day is appropriate."
+  },
+  {
+   "subject": "America",
+   "claim": "America is the only country in the world where weed is legal."
+  },
+  {
+   "subject": "President",
+   "claim": "The president overrode the people to make weed legal in America."
+  },
+  {
+   "subject": "Netherlands",
+   "claim": "Weed is not even officially legal in the Netherlands."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle bought something to put dry over something and wanted to make CDs but couldn't figure out how."
+  },
+  {
+   "subject": "Apple store",
+   "claim": "Kyle has an appointment at the Apple store to get help with making CDs."
+  },
+  {
+   "subject": "Kyle's mom",
+   "claim": "Kyle went to his mom's house, had dinner, and got some CDs from his roommate's car."
+  },
+  {
+   "subject": "Kyle's van",
+   "claim": "Kyle needs to take the battery out of his van before it dies."
+  },
+  {
+   "subject": "Kyle's sleep schedule",
+   "claim": "Kyle has a half-day, half-night sleep schedule."
+  },
+  {
+   "subject": "Netflix",
+   "claim": "Kyle's mom got him a Netflix trial and plans to pay for it after."
+  },
+  {
+   "subject": "Netflix",
+   "claim": "Netflix is the new generation of TV."
+  },
+  {
+   "subject": "Supergirl",
+   "claim": "Kyle had Supergirl playing in the background while working on his computer."
+  },
+  {
+   "subject": "Byzantium",
+   "claim": "Kyle was listening to Byzantium while Supergirl was playing."
+  },
+  {
+   "subject": "Marco Polo",
+   "claim": "Marco Polo on Netflix has as much nudity and sex as Spartacus on Stars."
+  },
+  {
+   "subject": "Marco Polo",
+   "claim": "Marco Polo shows the panoramas of areas better than previous generations of movies."
+  },
+  {
+   "subject": "Mongol court",
+   "claim": "The inner workings of the Mongol court and Chinese court are shown in Marco Polo."
+  },
+  {
+   "subject": "History",
+   "claim": "Kyle wants to study the history of the Mongol and Chinese courts as he watches Marco Polo."
+  },
+  {
+   "subject": "Historical shows",
+   "claim": "Kyle wants to critique all the historical shows and documentaries he's seen."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "Kyle is working on building Rome on Google Earth by tracing and three-dimensionalizing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels like he's going over the hump with his Google Earth project but it's hard to tell because it's so big."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to work on his Google Earth project for four full days."
+  }
+ ],
  "transcript": [
   {
    "start": 1.1,

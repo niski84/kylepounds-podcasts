@@ -46,7 +46,108 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He didn't make a video yesterday because he was working until 5 and then got tired and went to sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He woke up at around 1 today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is taking a week off and not riding his bike because he doesn't have the right pedals."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked on his ancient books page, specifically 'The Justinian Lockup'."
+  },
+  {
+   "subject": "The Justinian Lockup",
+   "claim": "He found out that the first chapter and the numbers were screwed up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to redo the media part of 'The Justinian Lockup'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to work on Jordan and Scott's history next."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He aims to finish all the books and put them on an Education page."
+  },
+  {
+   "subject": "The Justinian Lockup",
+   "claim": "He mentions that 'The Justinian Lockup' is about 960 pages long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to work on platinum ash meat tomorrow."
+  },
+  {
+   "subject": "Wikipedia",
+   "claim": "He notes that Wikipedia has 12 Gardens, but a little platter in Ashgok has about 32."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to create a list of buildings, similar to a Dick Shener."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has an address book called 'The Brown and the Vatient Row' on his website Submire."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to tally the pages of all the books he has, noting some have 14,000 pages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He mentions that the golden age of room sisteros has only 20 can look ages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to make a list of books from most to least pages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He visited his mom at the hospital and she gave him some food."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He ate chicken, corn, and other food because he had the munchies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His appetite for taste has gone out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is trying to figure out a system that hasn't been working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has Creative Cloud and wants to learn all its programs by watching tutorials."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has about 30 programs in Creative Cloud."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to watch analytics videos and record lots of content."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is experiencing neck pains and needs to stretch."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels he has been talking too much."
+  }
+ ],
  "transcript": [
   {
    "start": 0.66,

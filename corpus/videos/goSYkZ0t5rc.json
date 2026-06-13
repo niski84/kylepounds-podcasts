@@ -30,7 +30,44 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I can smoke marijuana and ride a bicycle at the same time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was smoking shatter and marijuana, but I didn't get that high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took about 20 hits, but it wasn't enough to get me very high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm only about 27% aware of how high I am."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can balance on a bicycle with one hand while filming myself."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I successfully rode over a speed bump without crashing while high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can ride a bicycle high and it doesn't seem to make much difference."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There's a saying that a stoned person will slow down at a green light."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A drunk person will blow through a red light, but a stoned person will blow through a yellow light."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

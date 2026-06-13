@@ -39,7 +39,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Mark Belive",
+   "claim": "Mark Belive is an economist who explains the economy in an interesting way."
+  },
+  {
+   "subject": "economy",
+   "claim": "Austerity is bad; we should take money from the rich and spend it on people to get the economy going."
+  },
+  {
+   "subject": "background",
+   "claim": "I'm recording the video before I made the background."
+  },
+  {
+   "subject": "Boulder",
+   "claim": "Let's do walking around Boulder in 1915 at ground level."
+  },
+  {
+   "subject": "Mark Q",
+   "claim": "Mark Q said when he became a billionaire, he got to pass time on the play and say if he's not overing it, drunk as many people as he could."
+  },
+  {
+   "subject": "alcohol",
+   "claim": "I experimented with alcohol for the first time in five months."
+  },
+  {
+   "subject": "alcohol",
+   "claim": "I pounded six margaritas but didn't feel anything because it was 3.2 or 2.2 super market alcohol."
+  },
+  {
+   "subject": "body",
+   "claim": "My belly felt like it was on fire after drinking, similar to when you're out of shape and exercise a lot."
+  },
+  {
+   "subject": "body",
+   "claim": "My whole body and intestines felt like they were on fire, causing excruciating pain."
+  },
+  {
+   "subject": "video",
+   "claim": "I passed out and couldn't get up to do the video because of the pain."
+  },
+  {
+   "subject": "sleep",
+   "claim": "Whenever I drink, I wake up early the next day."
+  },
+  {
+   "subject": "work",
+   "claim": "I've been working since I woke up because I couldn't do the outcome I was expecting."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "I came across my YouTube videos page on my website and realized I needed to add the time and filter out deleted videos."
+  },
+  {
+   "subject": "website",
+   "claim": "I've been neglecting my website since I moved to Boulder in 2013."
+  },
+  {
+   "subject": "calendar",
+   "claim": "I went to my calendar page and plugged videos into it, which was an easy thing to do."
+  },
+  {
+   "subject": "work",
+   "claim": "I have a lot of work to do, including putting together my financial thing for many can."
+  },
+  {
+   "subject": "rent",
+   "claim": "I have to pay rent and give money to my brothers."
+  },
+  {
+   "subject": "car",
+   "claim": "I'll get my car on Monday and see if I can stay intact into liking so that I don't be interesting."
+  }
+ ],
  "transcript": [
   {
    "start": 3.12,

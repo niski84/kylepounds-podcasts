@@ -37,7 +37,56 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Glaciers",
+   "claim": "Glaciers are the perfect natural barometer for showing global warming because every year the glacier is melting."
+  },
+  {
+   "subject": "Boulder",
+   "claim": "Out of around 20 glaciers in the lower 48, about 14 of them are right outside of Boulder."
+  },
+  {
+   "subject": "St. Mary's Glacier",
+   "claim": "St. Mary's Glacier used to be big and wide, but now it's just a tiny little sliver."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle remembers skiing at St. Mary's Glacier and seeing how much it has shrunk over time."
+  },
+  {
+   "subject": "Battles",
+   "claim": "There are about three thousand battles recorded in history, which is the same amount as pages in the Bible or miles across America."
+  },
+  {
+   "subject": "Moses",
+   "claim": "Moses lived around the same time as the Trojan War, which was the first story from long ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle fixed the ads on his website after they were initially screwed up due to changes in ad formats."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "Google Earth's resolution is getting better and better, almost like a photograph, and soon it will be as clear as a fun photograph on Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is working on his website and finds it exciting how fast things are coming together with his new computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle needs to send in paperwork to prove his eligibility for Medicaid."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is trying to set up his car and find his paperwork, possibly for a solar car project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's mom suggested he might just stop working on certain projects, but he finds it exciting and wants to continue."
+  }
+ ],
  "transcript": [
   {
    "start": 1.33,

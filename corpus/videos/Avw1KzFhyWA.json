@@ -44,7 +44,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He worked until past 2 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He traced a bunch of trash in Boulder County."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He started building and tracing aqueducts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He traced the roads by looking at Via Appia and comparing distances."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He traced a road from Boulder to Shiprock and called it the Appian Road."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He found a town where the Appian Road breaks off and traced its distance from Boulder and Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He traced another road up north but couldn't decide between northeast or far west."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He decided to go farther west because the east would be equivalent to the sea and going to India."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got physically and mentally tired after working for a long time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He noticed that physical tiredness precedes mental tiredness."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He slept for about 7.5 hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He found a new YouTube channel called Extra Credits that talks about the Punic Wars and the Gracchi."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks listening to different history teachers on YouTube helps with memorization."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to trace the rest of the Roman roads today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes tracing the roads makes it easier to plug in the towns using Wikipedia."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he can build the whole Roman Empire within a couple of weeks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He jokes that Rome wasn't built in a day, but in a month."
+  }
+ ],
  "transcript": [
   {
    "start": 1.87,

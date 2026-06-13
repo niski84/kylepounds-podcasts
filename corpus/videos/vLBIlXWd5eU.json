@@ -37,7 +37,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Caribou, Colorado",
+   "claim": "Caribou, Colorado was a ghost town from 1867 until 1927."
+  },
+  {
+   "subject": "Caribou, Colorado",
+   "claim": "Caribou, Colorado was a silver mining town."
+  },
+  {
+   "subject": "Caribou, Colorado",
+   "claim": "At its height in the 1870s, Caribou, Colorado had up to 1000 people around the area."
+  },
+  {
+   "subject": "Caribou, Colorado",
+   "claim": "Caribou, Colorado had six fire hydrants and reservoirs, which you can see on the highway."
+  },
+  {
+   "subject": "Caribou, Colorado",
+   "claim": "The entire metropolitan area of Caribou, Colorado can be recreated with all the roads and everything using x-ray vision to see through the road."
+  },
+  {
+   "subject": "Cardinal ski resort",
+   "claim": "Cardinal ski resort was established in the 1940s."
+  },
+  {
+   "subject": "Cardinal ski resort",
+   "claim": "Miners worked at Cardinal ski resort in the 1940s."
+  },
+  {
+   "subject": "Caribou, Colorado",
+   "claim": "Even in modern day, there's one building in Caribou, Colorado that's still standing but scarred up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is experiencing insomnia and not getting a whole lot of sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels like he's not working as efficiently as normal due to organizational stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went to his mom's house and slept for like 6 hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle made a mistake a few years ago by putting too much concentrated shampoo in his car and it took a long time to clean it out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle poured a huge kitchen trash can of shampoo all over his car floor and it was sudsie all day long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle spent like 120 bucks last summer getting somebody to fix his car's interior light, the only car electrical place in the whole area that would check it out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle fixed the rocket box by stapling it together and plans to do more tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is organizing his house, including drawers that fell apart and are being glued back together."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is considering screwing the drawer back together but worries about hitting something."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels so high that he uses music like different words for everything."
+  }
+ ],
  "transcript": [
   {
    "start": 0.11,

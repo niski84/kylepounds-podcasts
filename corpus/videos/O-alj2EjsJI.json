@@ -40,7 +40,68 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Living in Boulder, he forgot to do his video on November 13th, 2016, because he had to leave early for work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had to run out early because his coworkers texted him saying they would arrive early to pick him up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to work on his new project, Sanctum Monium, the next day since he doesn't work on Wednesdays."
+  },
+  {
+   "subject": "Sanctum Monium",
+   "claim": "His new project is the most exciting thing a person could ever do, especially if they're high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He recalls listening to a history audiobook that mentioned people in the 1100s smoking weed in the Middle East and enjoying it because it made them think of different worlds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When he gets really high, he likes thinking of different worlds."
+  },
+  {
+   "subject": "Boulder Rome",
+   "claim": "He describes a concept called 'Boulder Rome,' where you rebuild Rome on top of Boulder, creating a third, imaginary place."
+  },
+  {
+   "subject": "Boulder Rome",
+   "claim": "It's a cartoon-like place where you can create your own world using existing Boulder roads and buildings as a template."
+  },
+  {
+   "subject": "Boulder Rome",
+   "claim": "The idea is to merge the historical and cultural elements of Rome with Boulder, making it a personalized, imaginative space."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to work on this project for a couple of weeks before returning to other projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is personalizing the project for himself, starting with mapping out circles radiating from his house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is memorizing distances, like five plumbers (possibly a typo for 'blocks') from his house being 10 kilometers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He drove in the mountains today, around Flagstaff, and recognized the area because he had memorized it using Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He felt like he had entered Google Earth Street View because he had studied the area so thoroughly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finds it really cool to memorize locations using Google Earth and then recognize them in real life."
+  }
+ ],
  "transcript": [
   {
    "start": 0.05,

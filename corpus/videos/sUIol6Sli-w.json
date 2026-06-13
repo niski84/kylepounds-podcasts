@@ -43,7 +43,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I didn't do a vlog for the last two days because I started working on a strap."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to buy a friend a few days ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went out to board and wanted to go to a super park but didn't tell three."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to war and came back through lines."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I recorded a video and tried to edit it, but wanted to get fancy by including a strawberry segment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't have the movies needed to attach a screen capture to YouTube."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I decided to focus on finishing the store page for my website, which is super basic right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I built the website on my old computer, which is 10 times slower than my new one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't know why I used the old computer for so long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My new computer is much better, but I'm still having issues with screen captures crashing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The screen capture crashes every 20 seconds, making it hard to work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I tried to show the data on straw for five seconds in a screen capture, but it kept crashing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I finished one video capture, but it crashed afterward."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to call Apple to see if increasing storage fixes the crashing issue."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If increasing storage doesn't work, I'll ask Apple for another program or solution."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I lost motivation to write outside because my reddit was outside."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did some climbing and reached a top speed of 67.28 miles per hour."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to retire soon because I'm already on the inside."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I only ride enough to not mess up my lungs or sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might quit smoking weed for a while to focus on carving."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm reducing the price of something to $16,000 to get rid of it for the summer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to get a job to live off the money from selling my car."
+  }
+ ],
  "transcript": [
   {
    "start": 0.62,

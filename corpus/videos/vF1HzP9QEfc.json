@@ -52,7 +52,104 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "ISIS vs Anonymous",
+   "claim": "Anonymous has been hacking anti-ISIS accounts and doing damage to them."
+  },
+  {
+   "subject": "ISIS vs Anonymous",
+   "claim": "Anonymous is better at internet hacking than ISIS."
+  },
+  {
+   "subject": "ISIS vs Anonymous",
+   "claim": "Any kind of work against ISIS is good, including techno warfare."
+  },
+  {
+   "subject": "ISIS vs Anonymous",
+   "claim": "ISIS might not be smart enough to take precautions against hacking."
+  },
+  {
+   "subject": "Anonymous",
+   "claim": "Anonymous has the same enemies as me, so they seem like smart people."
+  },
+  {
+   "subject": "Anonymous",
+   "claim": "Anonymous does damage to bad people for free, without asking money from the government."
+  },
+  {
+   "subject": "Anonymous",
+   "claim": "Hacking bad guys from an anonymous place is a smart strategic move."
+  },
+  {
+   "subject": "Anonymous",
+   "claim": "Many people who work for Anonymous are really good at computers."
+  },
+  {
+   "subject": "Anonymous",
+   "claim": "Computer engineering is a job where you don’t have to be a certain kind of person to do it."
+  },
+  {
+   "subject": "Anonymous",
+   "claim": "In the future, anonymous activism might be seen as cowardly as it becomes easier to express yourself openly online."
+  },
+  {
+   "subject": "Internet privacy",
+   "claim": "Privacy is going to disappear completely."
+  },
+  {
+   "subject": "Internet privacy",
+   "claim": "It’s easy to get pictures of people off the internet from Facebook or Instagram."
+  },
+  {
+   "subject": "Internet privacy",
+   "claim": "People can grab all kinds of stuff from other websites by cutting, pasting, and sharing."
+  },
+  {
+   "subject": "Internet privacy",
+   "claim": "We need really specific, smart laws about copyright and how people should make money from their creations."
+  },
+  {
+   "subject": "YouTube monetization",
+   "claim": "YouTube might start charging $8 a month for a premium service to block ads."
+  },
+  {
+   "subject": "YouTube monetization",
+   "claim": "Ad-block programs have reduced the money creators make on YouTube."
+  },
+  {
+   "subject": "YouTube monetization",
+   "claim": "Once YouTube blocks ad-block programs, creators like me can start making money again."
+  },
+  {
+   "subject": "YouTube monetization",
+   "claim": "The world economy is shifting toward creators making money from exposure and ads, not subscription fees."
+  },
+  {
+   "subject": "YouTube monetization",
+   "claim": "People who put work into their YouTube channels deserve to make money from ads."
+  },
+  {
+   "subject": "Personal experience",
+   "claim": "I can get away with saying whatever I want because I’m a janitor and window washer, jobs where being a weirdo is acceptable."
+  },
+  {
+   "subject": "Personal experience",
+   "claim": "I was making $350 a month with 1,500 subscribers, but now with 5,000 subscribers, I make only $75 a month."
+  },
+  {
+   "subject": "Personal experience",
+   "claim": "I think I’m getting fewer hits because of ad-block programs."
+  },
+  {
+   "subject": "Freedom of speech",
+   "claim": "People should be fearless and continue creating, not worry about others stealing their work."
+  },
+  {
+   "subject": "Freedom of speech",
+   "claim": "We need to evolve by sharing and not getting freaked out about privacy."
+  }
+ ],
  "transcript": [
   {
    "start": 0.53,

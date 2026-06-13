@@ -90,7 +90,136 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I'm really excited super super high right now, and it's one thirty in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to call and see if one of my Adobe programs can do the thing where you see a little mirror window of my face while I record."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I read posts and then talk about what I listened to during the day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to remember to do it quick because the stories go away."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to write the stories down so I don't forget them."
+  },
+  {
+   "subject": "cyber tech plan",
+   "claim": "The cyber tech plan is about shutting down enemy silos and making them spin out of control."
+  },
+  {
+   "subject": "Middle East",
+   "claim": "We need to stay the fuck out of the Middle East because it's Russia's business since they're closer."
+  },
+  {
+   "subject": "Turkey",
+   "claim": "Turkey was the Byzantine Empire, and when it fell, the Zars moved to Russia and tried to reignite the Byzantine Empire."
+  },
+  {
+   "subject": "Russia",
+   "claim": "Russia is like a child of the Middle East because of its historical ties to the Byzantine Empire."
+  },
+  {
+   "subject": "America",
+   "claim": "America caused problems in the Middle East by invading Iraq and should be banned from interfering there."
+  },
+  {
+   "subject": "Russia",
+   "claim": "Russia wants peace in the Middle East, but they do fucked-up things too."
+  },
+  {
+   "subject": "Republican Party",
+   "claim": "The Republican Party and warmongers are lying to each other and calling each other pieces of shit in debates."
+  },
+  {
+   "subject": "North Korea",
+   "claim": "North Korea is so backwards in the modern world that its leader won't last more than five years."
+  },
+  {
+   "subject": "North Korea",
+   "claim": "North Korea could get invaded easily because they have no real power."
+  },
+  {
+   "subject": "Indians",
+   "claim": "Indians are starting to upload a lot of videos on YouTube, and soon there will be way more Indian content than American."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Everybody hates Donald Trump because he's too brash and will piss off too many people."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Donald Trump will make bad political decisions and put stupid conservative people in power."
+  },
+  {
+   "subject": "Republican Party",
+   "claim": "The Republican Party is scared because this might be their last chance to win an election."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders is going to tax the rich heavily and fund a lot of social programs."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders will make the world more meritocratic by giving people resources to compete."
+  },
+  {
+   "subject": "Republican Party",
+   "claim": "The Republican Party is appealing to ignorant people who don't realize how outdated their views are."
+  },
+  {
+   "subject": "Ted Cruz",
+   "claim": "Ted Cruz got mad about a porn star being in his ad, showing how out of touch he is."
+  },
+  {
+   "subject": "women",
+   "claim": "Women are getting more comfortable showing their bodies, and soon they'll be fully nude in public."
+  },
+  {
+   "subject": "Pope Francis",
+   "claim": "Pope Francis criticized Mexico's rich elite for the wealth disparity and corruption."
+  },
+  {
+   "subject": "cell phones",
+   "claim": "Cell phone services should be government-run so people can vote out the controllers if they do a bad job."
+  },
+  {
+   "subject": "Greece",
+   "claim": "Greece's seniors are getting only a quarter of their pensions, and their kids are unemployed."
+  },
+  {
+   "subject": "Greece",
+   "claim": "Unemployed Greeks should be doing something useful instead of just sitting around."
+  },
+  {
+   "subject": "Obama",
+   "claim": "Obama is urging Russia to stop bombing Syrian rebels, but we should stay out of it."
+  },
+  {
+   "subject": "Supreme Court",
+   "claim": "The president has the constitutional right to nominate a Supreme Court justice, and the Senate should review it, not just block it."
+  },
+  {
+   "subject": "Marco Rubio",
+   "claim": "Marco Rubio saying he'll block any Supreme Court nomination is undemocratic and violates checks and balances."
+  },
+  {
+   "subject": "Supreme Court",
+   "claim": "The next Supreme Court nomination is crucial because it will break the tie between liberal and conservative justices."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "If Trump wins, he'll nominate a bad Supreme Court justice, but if Sanders wins, it'll be a good one."
+  }
+ ],
  "transcript": [
   {
    "start": 1.71,

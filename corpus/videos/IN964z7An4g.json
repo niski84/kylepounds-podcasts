@@ -37,7 +37,124 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "This morning I was going to take photos of the man, but she had other stuff to do."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked on my computer all day today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was trying to finish the 25 air lander today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm still trying to figure out how I want the 25 air lander to look."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It would be cool if the 25 air lander was downloadable for Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can't make the 25 air lander downloadable until I finish the Google Earth files."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might finish the 25 air lander in just a few days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to finish the 25 air lander page within a week if I take time off."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I tried to stay surface level and work on my front page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got to the part where I was explaining my recent level stuff and all the different air distances."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I couldn't describe the areas because I didn't know what they were called."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "That's how I got sucked into the land area page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was listening to Adam Smith's 'Wealth of Nations' but not paying full attention."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can't remember what else I was listening to."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's going to be cold."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll put that stuff out there pretty soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The courage will come back when I have money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I set my sights for January 1st, 2018 to work on deep level stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working on the land area page of Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It took me a little while to figure out what was going on with the land area page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The land area page is still confusing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might as well fix the land area page now when I know exactly what's going on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can wipe all pages out in a microweek."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I would like this page because it'll help me understand how to be safe."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The background is 10 kilometers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The backgrounds I'm using on this are stuff I'm working on the site."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not done working on the music file yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My shirt looks super black today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Maybe I should have a black background so you only see my head and my eyes."
+  }
+ ],
  "transcript": [
   {
    "start": 0.18,

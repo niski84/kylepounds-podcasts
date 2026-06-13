@@ -54,7 +54,148 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I probably still have social anxiety disorder since every time I go to a public place, I always feel dizzy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Even if I try to eat healthy, those issues are still there."
+  },
+  {
+   "subject": "Brian Delacruz",
+   "claim": "Brian Delacruz is a kid in college who likes a girl, but she knows another guy likes her too."
+  },
+  {
+   "subject": "Brian Delacruz",
+   "claim": "The girl told Brian that the one who shows her the most affection will be the one who gets her."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm surprised Brian would ask me about social anxiety disorder if he knows a girl well enough to be in a love triangle."
+  },
+  {
+   "subject": "Brian Delacruz",
+   "claim": "Brian gets nervous whenever he goes out and feels dizzy when he meets strangers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Brian's dizziness is related to his anxiety and nervousness around people."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Brian likely has some kind of insecurity, wanting people to feel like he's doing right by them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Brian's parents probably made him feel guilty, which knocked his confidence down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Brian feels like he has something to prove because people expect less of him than he thinks he's worth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't done much reading on social anxiety disorder, but I saw a movie about it 15 years ago."
+  },
+  {
+   "subject": "Sean Conner",
+   "claim": "Sean Conner is a famous writer who hadn't left his apartment for 10 years due to social anxiety."
+  },
+  {
+   "subject": "Sean Conner",
+   "claim": "Sean Conner was tutored by a kid who eventually convinced him to go out to a baseball game, where he felt nervous."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There are different kinds of anxiety, like feeling claustrophobic around too many people."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Being around people you can't easily leave can make you feel nervous and dizzy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Brian's issue is more about insecurity and worrying what people think of him, not just being unused to crowds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "At college age, people often define themselves based on how others perceive them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Brian should pay more attention to others and less to himself, pretending he's invisible."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Brian should practice making eye contact with people and holding their gaze when they notice him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Looking at people and having them look away can make you feel like you own the room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If someone gets angry at Brian for looking at them, he should still hold his ground."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Brian should act like a king, being the center of the world but not feeling the need to perform for others."
+  },
+  {
+   "subject": "Captain Cook",
+   "claim": "Captain Cook encountered a chief who sat silently on his ship, ignoring him, acting like a king."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Brian should adopt the attitude of a king, going to places to entertain himself, not others."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Brian should dress simply and stand in the corner at parties, letting people approach him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Brian might be a people pleaser, trying to make others happy so they like him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Brian needs to realize he doesn't have to validate his niceness by performing for others."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Some people are assholes but still cool, which might piss Brian off."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Brian should change his appearance to alter how people perceive him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Having a radical look can make people treat you differently, sometimes with more respect."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Brian feels like he needs to change his personality, but he should focus on feeling happy instead."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Brian should go to events just to watch people, not to interact with them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Watching people interact can be fun, especially if you're high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Girls like guys who are smog and don't try to please everyone."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Brian should avoid the girl who's manipulating him and find someone who likes him for who he is."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

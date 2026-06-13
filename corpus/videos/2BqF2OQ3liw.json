@@ -29,7 +29,20 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "If a subscriber requested to meet him, his first reaction would be to ask them to take him to a place he always wanted to eat at or buy him some weed because he's a busy person."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He would like to have a video conversation with subscribers because he's never had a two-way conversation with someone he hasn't met before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks the only person who would agree to a two-way conversation with him is his wife, but it would have to be in person, not on Skype."
+  }
+ ],
  "transcript": [
   {
    "start": 0.75,

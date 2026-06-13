@@ -31,7 +31,124 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I just woke up, it's like 9 something."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My computer has to do some kind of thing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm smoking ball in hits because of my roommate getting a match that I want you to eat."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "That's what's left from what you gave me yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think we'd eat every weekend."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I'm going to finish this one page, and I can get going on the YouTube page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll be interesting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After that, I think I'm going to put the actual website together."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "All the pages I made."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Touching that'll be fun."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's a nice one day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked all day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't work today because I put people cancelled."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I get to work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm at Port Saldé, which is fun."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We asked excited, because I'm all refreshed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had a different breakfast today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The normal moments of supermarket and expanded my foods."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a bunch of pancake mix and cereal."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "That's what I had this morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Now it's not just oatmeal."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll expand it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There's a few other things."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got some tater tots."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "That was a good one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It was really gruggable this morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think the healthiest thing was just to catch vegetables."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been sponking a lot of weight."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to get back to my life."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

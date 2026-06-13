@@ -44,7 +44,140 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Living in Boulder is like living with me in the 21st century."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, I worked on a house really close to here."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I finished early and spent the rest of the day working on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I passed out during the day, possibly from exercising or working too much."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had to take an absentee because I passed out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on color coding for my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The website is taking way longer than I thought to complete."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Someone gave me a bunch of weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I made a couple of videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I am Jesus Christ and I am going to run for prison."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I should do a couple more request videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel behind when I don't make videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I tend to sacrifice everything else when I'm working too much."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Working on one page for too long makes it drag out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, I moved to my mom's house because it was right next to the house I worked on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did a couple of chores at my mom's house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom wanted to give me a light treatment with a special pen."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The light treatment is supposed to recharge your DNA with different colored lights."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The light pen looks futuristic and badass."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The light pen is supposed to be the future of the medical profession for keeping us healthy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I held the light pen for too long and it started hurting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't know how much the light treatment actually does."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going back to my mom's house today for another light treatment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom wants to buy me the light pen, which costs $500."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There's a $4,000 training course on how to use the light pen."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom might discount the training because she's taking it too."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom thinks I can make money using the light pen."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was thinking about getting a massage license to make money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I like the idea of having a special light thing that can give you super strength and longevity."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There's a book by a guy named Claude that talks about the light treatment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might do a video about the light treatment later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might watch another episode of Orange Is the New Black."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The temperatures are nice right now."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

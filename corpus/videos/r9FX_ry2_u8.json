@@ -46,7 +46,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "aliens",
+   "claim": "Aliens use teleportation to get around galaxies in our solar system."
+  },
+  {
+   "subject": "Bashar",
+   "claim": "Bashar is a notchal alien who talks about smart spaceships."
+  },
+  {
+   "subject": "spaceships",
+   "claim": "Alien spaceships are so smart they become sentient machines."
+  },
+  {
+   "subject": "Stephen Hawking",
+   "claim": "Stephen Hawking thinks sentient machines will take over and harm humans."
+  },
+  {
+   "subject": "Stephen Hawking",
+   "claim": "Stephen Hawking said anyone who believes in UFO sightings is a quack."
+  },
+  {
+   "subject": "Stephen Hawking",
+   "claim": "Stephen Hawking is not very smart, just good at certain things."
+  },
+  {
+   "subject": "spaceships",
+   "claim": "Alien spaceships have powerful computers with vast memory and processing capabilities."
+  },
+  {
+   "subject": "computers",
+   "claim": "The bigger the computer, the more powerful it is due to space for components."
+  },
+  {
+   "subject": "spaceships",
+   "claim": "Alien spaceship computers understand things intuitively, not just analytically."
+  },
+  {
+   "subject": "Yorkterians",
+   "claim": "Yorkterians are aliens from the Artis who have been around a long time."
+  },
+  {
+   "subject": "Yorkterians",
+   "claim": "Yorkterians now live in spaceships after leaving their planet."
+  },
+  {
+   "subject": "humans",
+   "claim": "Human scientists predict that creating sentient machines is in our future."
+  },
+  {
+   "subject": "aliens",
+   "claim": "Aliens can create objects out of thin air using advanced technology."
+  },
+  {
+   "subject": "technology",
+   "claim": "Alien technology can assemble objects like a 3D printer using elemental blocks."
+  },
+  {
+   "subject": "universe",
+   "claim": "The universe can be created or manipulated by advanced alien computers."
+  },
+  {
+   "subject": "teleportation",
+   "claim": "Teleportation is how aliens navigate without flying into meteors or dying."
+  },
+  {
+   "subject": "aliens",
+   "claim": "Dead alien bodies are evidence of their presence in space."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

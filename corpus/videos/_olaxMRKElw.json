@@ -44,7 +44,212 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "free audio history book section",
+   "claim": "These are all of the three, audio history books."
+  },
+  {
+   "subject": "USA page",
+   "claim": "The USA page has 331 books."
+  },
+  {
+   "subject": "religion section",
+   "claim": "There are 46 books in the religion section."
+  },
+  {
+   "subject": "sections",
+   "claim": "There are different 15 sections, having to do with America."
+  },
+  {
+   "subject": "sections",
+   "claim": "There are like 78 different sections here."
+  },
+  {
+   "subject": "world sections",
+   "claim": "There are nine different parts of the world represented in the sections."
+  },
+  {
+   "subject": "America section",
+   "claim": "America's 331 books make it large enough to get its own section."
+  },
+  {
+   "subject": "Italy section",
+   "claim": "Italy got its own section."
+  },
+  {
+   "subject": "organization method",
+   "claim": "Dividing the books based on size is a good way to organize them."
+  },
+  {
+   "subject": "organization method",
+   "claim": "The sections were built when I had my Windows computer and had memory issues."
+  },
+  {
+   "subject": "color coding",
+   "claim": "I'm in the process of color coding things."
+  },
+  {
+   "subject": "organization dimensions",
+   "claim": "There are three different dimensions of organizing the books."
+  },
+  {
+   "subject": "sections",
+   "claim": "One dimension shows the 15 different sections."
+  },
+  {
+   "subject": "titles",
+   "claim": "Another dimension shows the titles of the books and all the different sections."
+  },
+  {
+   "subject": "chapters",
+   "claim": "A third dimension shows the title of the books with the title of all the chapters inside."
+  },
+  {
+   "subject": "free audio history books section",
+   "claim": "I like to call my free audio history books section 'the book of books.'"
+  },
+  {
+   "subject": "religion novels",
+   "claim": "Here is religion novels."
+  },
+  {
+   "subject": "philosophy",
+   "claim": "Philosophy goes down this far."
+  },
+  {
+   "subject": "book organization",
+   "claim": "Right now I have books organized vertically."
+  },
+  {
+   "subject": "book organization",
+   "claim": "I'm going to have them after this horizontal and block sections."
+  },
+  {
+   "subject": "book organization",
+   "claim": "I had it vertically because I liked having the titles of all the books next to each other."
+  },
+  {
+   "subject": "book organization",
+   "claim": "I think being able to look at the book as one minute is better, so having that in a block is preferable."
+  },
+  {
+   "subject": "audio history book section",
+   "claim": "Here's my audio history book section."
+  },
+  {
+   "subject": "time page",
+   "claim": "The time while it's been a history time while, you know, that's a time page."
+  },
+  {
+   "subject": "book metrics",
+   "claim": "This means how many books it is."
+  },
+  {
+   "subject": "book metrics",
+   "claim": "This means how many chapters it has."
+  },
+  {
+   "subject": "book metrics",
+   "claim": "This means how many pages the book has."
+  },
+  {
+   "subject": "book metrics",
+   "claim": "This means how many hours it is to read it."
+  },
+  {
+   "subject": "reading time",
+   "claim": "72 hours 55 minutes is also called three days and 55 hours."
+  },
+  {
+   "subject": "pairing with rides",
+   "claim": "It's fun to pair this with a ride, like a 72-hour long ride."
+  },
+  {
+   "subject": "book listing",
+   "claim": "This is all of the different books listed, all 1159 books that I have."
+  },
+  {
+   "subject": "book sources",
+   "claim": "The ones with the red background are from the green box."
+  },
+  {
+   "subject": "book sources",
+   "claim": "The ones with the black background are from Amazon."
+  },
+  {
+   "subject": "book organization",
+   "claim": "This is organized from the longest biggest book to the smallest."
+  },
+  {
+   "subject": "Mahabharata",
+   "claim": "The Mahabharata is the biggest book that you can have it read to you."
+  },
+  {
+   "subject": "Mahabharata",
+   "claim": "You can download the Mahabharata off my website."
+  },
+  {
+   "subject": "Mahabharata",
+   "claim": "The computer voice is reading it to you, one of very good voice."
+  },
+  {
+   "subject": "Mahabharata",
+   "claim": "The Mahabharata is 12,829 pages."
+  },
+  {
+   "subject": "Mahabharata",
+   "claim": "The Mahabharata was compiled in the 380s from historical stories from before that."
+  },
+  {
+   "subject": "Mahabharata",
+   "claim": "The Mahabharata is 213 hours 49 minutes long, which is eight days to 21 hours."
+  },
+  {
+   "subject": "non-fiction collection",
+   "claim": "Next is non-fiction collection by various things."
+  },
+  {
+   "subject": "world-class greatest books",
+   "claim": "World-class greatest books are next after that."
+  },
+  {
+   "subject": "book organization",
+   "claim": "The first huge column is 20 books."
+  },
+  {
+   "subject": "book organization",
+   "claim": "The first 20 books have over 1,730 pages."
+  },
+  {
+   "subject": "book organization",
+   "claim": "The first hundred books have over 900 pages."
+  },
+  {
+   "subject": "color coding",
+   "claim": "These colors are having to do with what part of the world they are from."
+  },
+  {
+   "subject": "color coding",
+   "claim": "I don't have the key organized yet."
+  },
+  {
+   "subject": "Asia",
+   "claim": "This is Asia."
+  },
+  {
+   "subject": "America",
+   "claim": "This is America."
+  },
+  {
+   "subject": "Europe",
+   "claim": "This is Europe."
+  },
+  {
+   "subject": "history books",
+   "claim": "That's my great idea of history books."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

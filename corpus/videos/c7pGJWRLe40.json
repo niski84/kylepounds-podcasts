@@ -58,7 +58,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "reggae music",
+   "claim": "Reggae music sounds relaxed because people in the tropics smoke weed and live a relaxed lifestyle."
+  },
+  {
+   "subject": "black people",
+   "claim": "Black people are naturally relaxed."
+  },
+  {
+   "subject": "Bob Marley",
+   "claim": "Bob Marley invented reggae music; there wasn't any reggae before him."
+  },
+  {
+   "subject": "Bob Marley",
+   "claim": "Bob Marley believed music could fix all the world's problems by spreading happiness and positivity."
+  },
+  {
+   "subject": "Bob Marley",
+   "claim": "Bob Marley started with 'Scott,' which was just a basic beat before evolving into reggae."
+  },
+  {
+   "subject": "Rastafarianism",
+   "claim": "Rastafarianism is the religion where Haile Selassie was believed to be the reincarnation of Jesus Christ."
+  },
+  {
+   "subject": "Haile Selassie",
+   "claim": "Haile Selassie was the Prince of Ethiopia."
+  },
+  {
+   "subject": "Marcus Garvey",
+   "claim": "Marcus Garvey wanted Africans in Jamaica to move back to Africa to establish a strong new country, with Ethiopia as a prime location due to its rich history."
+  },
+  {
+   "subject": "Rastafarianism",
+   "claim": "Rastafarianism has two aspects, similar to Scientology—one spiritual and one focused on natural living."
+  },
+  {
+   "subject": "Rastafarianism",
+   "claim": "Rastafarianism is essentially a 'stoner religion' centered around marijuana use, natural living, and dreadlocks."
+  },
+  {
+   "subject": "Rastafarianism",
+   "claim": "Rastafarians believe in vegetarianism, natural living, and avoiding impure foods like shellfish."
+  },
+  {
+   "subject": "Snoop Dogg",
+   "claim": "Snoop Dogg did a good thing by embracing Rastafarian culture, growing dreadlocks, and making reggae music."
+  },
+  {
+   "subject": "Rastafarianism",
+   "claim": "Rastafarianism is a tribal and raw belief system that can unify people, especially Black communities."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle first listened to Bob Marley in 10th grade and it made him want to smoke weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle would grow his hair out like a Rasta if it were more comfortable."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle considers himself a Rasta and challenges anyone who says otherwise."
+  },
+  {
+   "subject": "weed",
+   "claim": "Listening to Bob Marley and smoking weed are connected experiences."
+  },
+  {
+   "subject": "weed",
+   "claim": "There should be a 'weed religion' to unite stoners under a shared culture."
+  }
+ ],
  "transcript": [
   {
    "start": 1.46,

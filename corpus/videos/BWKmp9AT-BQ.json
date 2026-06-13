@@ -22,7 +22,48 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "the race",
+   "claim": "This is the third race in the course of two of many class at Fort Collins, June 2nd, 1985."
+  },
+  {
+   "subject": "the race",
+   "claim": "This is a six lap race."
+  },
+  {
+   "subject": "the race",
+   "claim": "This is a seven lap race."
+  },
+  {
+   "subject": "the race",
+   "claim": "They're getting ready to go."
+  },
+  {
+   "subject": "the race",
+   "claim": "This is the lead."
+  },
+  {
+   "subject": "the race",
+   "claim": "This is the second lap."
+  },
+  {
+   "subject": "the race",
+   "claim": "This is the first lap race."
+  },
+  {
+   "subject": "the race",
+   "claim": "This is the second lap race."
+  },
+  {
+   "subject": "the race",
+   "claim": "Good job."
+  },
+  {
+   "subject": "the race",
+   "claim": "It's number three."
+  }
+ ],
  "transcript": [
   {
    "start": 1.1,

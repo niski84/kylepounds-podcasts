@@ -28,7 +28,68 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle Pounds is in fifth place overall at the start of the race."
+  },
+  {
+   "subject": "race",
+   "claim": "The race is the final event of the Mile High Mini Classic weekend."
+  },
+  {
+   "subject": "race",
+   "claim": "The temperature at the start of the race is about 80 degrees."
+  },
+  {
+   "subject": "race",
+   "claim": "The lead car starts the race."
+  },
+  {
+   "subject": "race",
+   "claim": "There are at least four riders in the lead group during the first lap."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle Pounds is in the top four during the race."
+  },
+  {
+   "subject": "race",
+   "claim": "The bell lap indicates one lap remaining for the riders."
+  },
+  {
+   "subject": "race",
+   "claim": "Brittany is leading, followed by a constant cheetah."
+  },
+  {
+   "subject": "race",
+   "claim": "A sprint finish is not expected from the leading riders."
+  },
+  {
+   "subject": "race",
+   "claim": "Michael Hegerty finished second in a previous time trial."
+  },
+  {
+   "subject": "race",
+   "claim": "Eric Owen takes third place in the race."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle Pounds finishes in fourth place."
+  },
+  {
+   "subject": "race",
+   "claim": "Tim Halgen finishes in fifth place."
+  },
+  {
+   "subject": "race",
+   "claim": "The constant cheetah rider has won two races over the past two days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle Pounds finished fourth in the original time trial."
+  }
+ ],
  "transcript": [
   {
    "start": 1.17,

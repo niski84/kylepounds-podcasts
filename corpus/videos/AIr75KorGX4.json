@@ -77,7 +77,132 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders should be our next president."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders is the perfect guy we could have as president."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders cares about people and has been in politics for years doing the right thing."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders doesn't take donor money like other politicians do."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders says the right things about taking on the bankers."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "You can believe Bernie Sanders really cares because of his record and what he's saying."
+  },
+  {
+   "subject": "Hillary Clinton",
+   "claim": "Hillary Clinton is not talking about the same issues as Bernie Sanders."
+  },
+  {
+   "subject": "Jeb Bush",
+   "claim": "Jeb Bush's response about taxing millionaires was a cop-out."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders comes from a framework where even the poorest person deserves a good life."
+  },
+  {
+   "subject": "Hillary Clinton",
+   "claim": "Hillary Clinton takes money from wealthy donors and should be disqualified for it."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders has a longer and more solid track record than Barack Obama."
+  },
+  {
+   "subject": "Barack Obama",
+   "claim": "Barack Obama was elected partly because he was black."
+  },
+  {
+   "subject": "Hillary Clinton",
+   "claim": "Hillary Clinton is using her gender as a reason to get elected."
+  },
+  {
+   "subject": "Madeline Albright",
+   "claim": "Madeline Albright said there's a special place in hell for women who don't vote for Hillary."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Having a Jewish president like Bernie Sanders would be more revolutionary than having a female president."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "There's a lot more anti-Semitism in the world than anti-womanism."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Getting a Jewish president would require social change and acceptance."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders could face more drama from Republicans than a woman president would."
+  },
+  {
+   "subject": "Barack Obama",
+   "claim": "Republicans have blocked everything Barack Obama tried to do because he's black."
+  },
+  {
+   "subject": "Barack Obama",
+   "claim": "Republicans tried to repeal Obamacare 36 times."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders could get away with being as loud and angry as Donald Trump."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders would be the oldest person ever elected president."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Congress would try to block Bernie Sanders but could be voted out if they do."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders is challenging the status quo of the rich and powerful."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders is expressing what the majority of people want, like taxing the wealthy."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "The only way the power elite would assassinate Bernie Sanders is if he refused to go to war."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders would appoint very liberal people to his administration."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders can't be framed or impeached because he's been in public office for so long without scandal."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders will be the first of many liberal leaders as the status quo crumbles."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders will apply more taxes to the rich and reduce warfare."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders will fund good education and other programs by reallocating money from wasteful spending."
+  }
+ ],
  "transcript": [
   {
    "start": 3.22,

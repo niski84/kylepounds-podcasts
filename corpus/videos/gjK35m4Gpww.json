@@ -36,7 +36,132 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I was biking until midnight yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to start earlier today but didn't manage to."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't see any old bike on my ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up late today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent the first few hours cleaning my house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had my stitch-room moved."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't have cans for the move."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took my time to do the move properly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't have to do the move but I did it anyway."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I know now how the move went."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I came back and felt released."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't have much weight left."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might quit soon because of my money situation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I'll be more productive without the beginning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm glad I can smoke weed for the first few days of writing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Last night I went to bed around four in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to a 24-hour restaurant in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There was a Denny's that closed suddenly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The newspaper called the closed Denny's."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had oatmeal with protein powder and canned fruit for breakfast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I needed to date out because I couldn't do it yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't done much today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not going to ride until midnight tonight."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think riding will help me sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Last night I rode until I got angry."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tonight I'll ride until I get hungry."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll see if I can sleep even if it's not the right time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm still working on the store of the video captures."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to do an ointment cycle cross now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to do mountain climbing next."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll check if I can capture the history stuff."
+  }
+ ],
  "transcript": [
   {
    "start": 0.3,

@@ -52,7 +52,176 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Today I rode my bike up Sunshine Canyon through Gold Hilltown and then down to Ward."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got some water at the Fountain of Ward."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow I'm going to work to figure out how to get all my stuff working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I rode on a pizza pick back down from James Canyon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A guy in a truck told me to turn around, so I went a mile farther where there was a sign for James Town."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Biking down James Canyon is really fast, almost 50 miles an hour."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not used to zooming really fast while being really high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The mountains and cars can be dangerous, especially where the asphalt breaks off into holes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Biking requires being really alert, especially on dirt roads."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I averaged around 200 watts for 10 minutes to an hour during my ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My average watts for the 46-mile ride was 148."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I love climbing and descending on my bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't tested the maximum braking power because I'm afraid of breaking the 4x."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I weigh 200 pounds, so I'm cautious with braking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to test braking at 50 miles per hour to see how quickly I can stop."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a veggie burger and fries in James Town from a lady named Dolores."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There's a ghost town just above James Town called something I can't recall."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can ride my bike on dirt roads pretty well, but I have to be careful with normal road tires."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My appetite is low; yesterday I only ate a little corn and rice."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I brought five power bars but didn't eat any today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today I had a 7-layer burrito and a bean burrito from Taco Bell, plus a veggie burger and fries."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm burning fat for energy since I'm not eating much."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to my mom's basement to look for an extra scale to update my weight on Strava."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need a new bike bag because the current one hits my knee."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got an energy drink today but might switch to recovery drinks with protein powder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to ride mountains until I can't anymore, then recover."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My knee was painful today, especially going up Sunshine Canyon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The knee pain drains energy but isn't sharp, so I can keep riding."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll ride until my knee gives me sharp pain, then take a week off."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to get fit so I can challenge others and ride indoors more easily."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't been working on my website because I'm too tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm treating this time like a vacation to make things fun."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I get really fit, it'll be easier to work on my projects while riding indoors."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow I might try a new climb or explore more."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to organize better; it took me forever to leave the house today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had to go back home twice because I forgot things."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to be more efficient and focused like a fish in a TV show."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to adjust my bike's shifting and fix my flats."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to figure out how to set up my laptop for monitoring my rides."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm currently one-track-minded about biking and not diversifying my projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I hope my microphone is working this time; it didn't work last time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to practice not talking so much in my videos."
+  }
+ ],
  "transcript": [
   {
    "start": 0.88,

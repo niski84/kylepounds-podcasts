@@ -48,7 +48,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I took three days off from doing videos because my strategy was to do as many videos as possible."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked until around seven in the morning this morning and until seven-thirty the day before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m still working on a book and listening to books."
+  },
+  {
+   "subject": "Theodore Mommsen",
+   "claim": "Theodore Mommsen wrote 'The History of Rome' in the late 1800s."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent a couple of days putting Theodore Mommsen’s book on my website because I get excited about books related to Rome."
+  },
+  {
+   "subject": "Livy",
+   "claim": "Livy’s work on Rome is around thirty-three hundred pages long."
+  },
+  {
+   "subject": "Theodore Mommsen",
+   "claim": "Theodore Mommsen’s book is thirty-two hundred pages long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I organized Mommsen’s book on my website to align with my educational philosophy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My educational philosophy is to look at the whole picture first before diving into details."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In 10th grade history class, I struggled with understanding the Peloponnesian War because we didn’t start with the broader historical context."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I organize books into four dimensions: books, chapters, subjects within chapters, and paragraphs within subjects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I list all the subjects of each chapter at the top of the chapter to help readers understand the context."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Understanding the overview of a book helps bring the story to life, similar to how visuals help in television."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I created a page on my website where you can have the computer read the entire book aloud."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The most important thing in learning or training is to make practicing fun and engaging."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I started working on 'The Decline and Fall of the Roman Empire,' which is divided into six volumes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m creating a master link page to connect every chapter of 'The Decline and Fall of the Roman Empire.'"
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m excited about how fast my computer is at linking and organizing content."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I aim to finish organizing all my classical books on my website within the next couple of weeks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This project is one of the most exciting things I’ve ever done."
+  }
+ ],
  "transcript": [
   {
    "start": 1.17,

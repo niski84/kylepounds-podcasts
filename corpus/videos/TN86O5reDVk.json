@@ -39,7 +39,104 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I decided to do my 40,000 people simulation again because last time I just hovered above it and swiveled around."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to simulate walking along the ground at two meters high in a square of 200 people across."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't like being on a road in the simulation because I couldn't move around freely."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In the simulation, yellow represents 10,000, green represents 40,000, and red represents 100."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I came up with the idea of the King's Court, a fantasy world halfway between Rome and Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In Boulder Room, the Kingly Court is outside, unlike Rome's concrete buildings."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Boulder Room is a public space where everyone can watch interactions, similar to Twitter but in person."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There's an interdimensional bleed-through between Boulder and Boulder Room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I introduced the concept of interdimensional bleed-through into the real world."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't done a scientific experiment to see how far away people can hear you in the simulation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was up late working until I came to Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked for a couple of hours in Rome before going to my long-south at 12:30."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to help clean up for dinner and fix various items like a huddle, belt, and shampoo cover."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked on history books for America and most of the links, but not all."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm now working on UK history books, but I don't think it would be good because they were all part of one thing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I still haven't been called back about getting the interior light fixed in my car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I lost all of my service records for my car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had a theory that the service records were in a drawer of a piece of furniture in my kitchen."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I can't find the service records, I can use my YouTube videos as proof of the motor rebuild."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm pretty high right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow, if they call me about the car, I'll pick it up and continue working on it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't want to do anything to sell the car until I have it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to pay my bills, but I couldn't get anyone to help last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to have my bills sent to the actual branch to manually pay them."
+  }
+ ],
  "transcript": [
   {
    "start": 0.34,

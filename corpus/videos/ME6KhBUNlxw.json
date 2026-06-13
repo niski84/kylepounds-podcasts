@@ -26,7 +26,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Living in Boulder for the year would have been the 28th."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was out on my porch all day yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked until about 11 yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I started working around 10 to 11 yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did pretty well with my work yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I can finish that page today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I go to work really close to where I am now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not going to ride my normal bicycle shoes, just my normal sneakers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Someone will drop me off really close to my house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My oatmeal is cooking right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "That's about what I did yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It was exciting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's always exciting to get to the next level."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll explain all this stuff later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have new website stuff on dirt."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I probably have it all uploaded a couple of months."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "You can peace out."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

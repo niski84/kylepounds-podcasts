@@ -74,7 +74,108 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "ISIS",
+   "claim": "ISIS is a bunch of crazy assholes."
+  },
+  {
+   "subject": "ISIS",
+   "claim": "The reason ISIS is so crazy is extremely complicated and involves many factors in the world."
+  },
+  {
+   "subject": "ISIS",
+   "claim": "People have always defaced historical things, but ISIS's destruction is notable because it's the first time it's been filmed and widely seen."
+  },
+  {
+   "subject": "ISIS",
+   "claim": "ISIS members have been in a state of war and stress for so long that they've snapped and gone into a warrior mode."
+  },
+  {
+   "subject": "ISIS",
+   "claim": "The violence and dire circumstances in their environment, not religion, are what made ISIS members go crazy."
+  },
+  {
+   "subject": "ISIS",
+   "claim": "ISIS uses religion as a unifying force to bring themselves together against perceived enemies."
+  },
+  {
+   "subject": "ISIS",
+   "claim": "Destroying museums and historical objects is a strategic move by ISIS to provoke the rest of the world."
+  },
+  {
+   "subject": "ISIS",
+   "claim": "Both fundamentalist Christians in America and fundamentalist Muslims in the Middle East believe in an end-times battle and want to expedite it."
+  },
+  {
+   "subject": "ISIS",
+   "claim": "ISIS members are not consciously discussing their desire for an end-times battle, but they subconsciously want it."
+  },
+  {
+   "subject": "ISIS",
+   "claim": "The belief that God is on their side is the only logic ISIS needs to justify their actions."
+  },
+  {
+   "subject": "ISIS",
+   "claim": "The current conflict with ISIS is boiling down to a potential end-times battle, though it won't happen unless there's a nuclear war."
+  },
+  {
+   "subject": "ISIS",
+   "claim": "The violence and bloodshed will continue until people tire of it and wake up from their frenzy."
+  },
+  {
+   "subject": "Iraq",
+   "claim": "If the U.S. hadn't invaded Iraq, the current situation with ISIS wouldn't be happening."
+  },
+  {
+   "subject": "Middle East",
+   "claim": "The Middle East was once one of the most advanced regions in the world but declined after invasions like those by Genghis Khan."
+  },
+  {
+   "subject": "Middle East",
+   "claim": "The Middle East's economy suffered when people stopped traveling the Silk Road due to fear of barbarians."
+  },
+  {
+   "subject": "Middle East",
+   "claim": "The Middle East's current state of ignorance is due to its isolation and lack of education."
+  },
+  {
+   "subject": "Oklahoma",
+   "claim": "People in Oklahoma are ignorant because they're isolated and lack exposure to broader knowledge."
+  },
+  {
+   "subject": "Oklahoma",
+   "claim": "Oklahoma's law enforcement targets Colorado drivers for weed-related offenses because they lost revenue due to Colorado's legalization."
+  },
+  {
+   "subject": "Violence",
+   "claim": "Violence is a result of bottled-up energy in societies where people can't express themselves freely."
+  },
+  {
+   "subject": "War",
+   "claim": "Wars historically last about five years because people eventually tire of the violence."
+  },
+  {
+   "subject": "Society",
+   "claim": "Societies progress from violence to cooperation over time, with hippie-like figures eventually advocating for peace."
+  },
+  {
+   "subject": "Education",
+   "claim": "Education and exposure to smarter people are necessary for human intelligence to develop."
+  },
+  {
+   "subject": "Religion",
+   "claim": "Religion doesn't make people crazy; it's the circumstances and stress that drive them to extremism."
+  },
+  {
+   "subject": "Crusades",
+   "claim": "During the Crusades, the Muslims were more humane and defensive compared to the Christians, who were often the aggressors."
+  },
+  {
+   "subject": "Cooperation",
+   "claim": "A cooperative society where people work together without alliances or enemies is the ideal model for progress."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

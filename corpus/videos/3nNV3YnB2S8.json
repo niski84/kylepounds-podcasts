@@ -56,7 +56,108 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Walmart, Safeway, Whole Foods",
+   "claim": "All three places are within two blocks of where I live."
+  },
+  {
+   "subject": "midnight stalker job",
+   "claim": "The perfect job for a stoner is the midnight stalker."
+  },
+  {
+   "subject": "stoners",
+   "claim": "Stoners can't be midnight stalkers due to a law."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I consider myself a stoner."
+  },
+  {
+   "subject": "stoners",
+   "claim": "Stoners are people and need jobs."
+  },
+  {
+   "subject": "midnight stalker job",
+   "claim": "The midnight stalker job is ideal for stoners because it involves minimal interaction with people."
+  },
+  {
+   "subject": "supermarkets",
+   "claim": "Supermarkets are safe environments with no dangerous items or cliffs."
+  },
+  {
+   "subject": "gardening",
+   "claim": "Gardening is a stoner job because it allows being outside and enjoying nature."
+  },
+  {
+   "subject": "food distribution companies",
+   "claim": "Food distribution companies should not be owned by private individuals."
+  },
+  {
+   "subject": "aeroponic skyscrapers",
+   "claim": "Aeroponic skyscrapers in city centers could revolutionize food distribution."
+  },
+  {
+   "subject": "stoners",
+   "claim": "Stoners should be allowed to work at supermarkets."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't want to lie about being a stoner to get a job."
+  },
+  {
+   "subject": "Walmart",
+   "claim": "My roommate got a job at Walmart and passed a drug test despite smoking weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm too old to be told I have to lie about being a stoner."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm declaring a metaphoric war against supermarket owners for not allowing stoners to work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I will curse the supermarket owners to bring light to the issue."
+  },
+  {
+   "subject": "slander",
+   "claim": "Slander requires malice, and I'm not being malicious."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I will dedicate videos to the supermarket owners and drop their names."
+  },
+  {
+   "subject": "supermarket management",
+   "claim": "Supermarkets should be managed by local people, not distant owners."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm qualified to be a midnight stalker because I have a college degree, speak Spanish, and can do arithmetic."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm $6,500 in debt and need a job."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm a philosopher, inventor, and hard worker."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did janitorial work last year for $10 an hour."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want the midnight stalker job because it suits my preferences."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I will continue to fight for the right of stoners to work at supermarkets."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

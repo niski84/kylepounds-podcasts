@@ -39,7 +39,84 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "The video didn't record properly because the converter was running and interfered with the recording."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The sound quality was really bad in the initial recording attempt."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The microphone wasn't working even though it was plugged into the computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to redo the vlog to ensure better sound quality."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's 3:30 in the morning on August 28th when he's recording this."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This recording will count for August 27th because he hadn't done a video that day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hasn't done a video in a while because he was too busy with other activities."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He started writing while biking in his room yesterday and found it awesome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He reached a point on his website where he had to do screen captures of strawberry segments."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to create a YouTube channel called 'Kyle Pounds Google Earth' with thousands of videos and hundreds of playlists."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Recording screen captures is time-consuming and prevents him from doing other tasks simultaneously."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He uses the time during screen captures to write and listen to stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to sober up to do more talking videos and book reviews."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He ran out of 'reaper' today but started writing yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finds it fun to write 'reaper' inside because there's more stuff to 'reaper' out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has a table around his bike where he places stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to buy more fans to create a tornado of air in his room so he never sweats."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has a lot of light in his room because of the setup."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today was his first day trying this new setup."
+  }
+ ],
  "transcript": [
   {
    "start": 0.27,

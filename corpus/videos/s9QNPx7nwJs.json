@@ -28,7 +28,36 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle Pounds",
+   "claim": "Kyle Pounds received fifth place ribbon and a gift certificate from McDonald's number 38."
+  },
+  {
+   "subject": "Tim How",
+   "claim": "Tim How received fifth place ribbon and a gift certificate from McDonald's number 34."
+  },
+  {
+   "subject": "Eric Owen",
+   "claim": "Eric Owen received fourth place ribbon and a gift certificate from McDonald's number 37."
+  },
+  {
+   "subject": "Mike Turley",
+   "claim": "Mike Turley received the third place ribbon and a five dollar gift certificate from the didn't verspoke, number 41."
+  },
+  {
+   "subject": "Mike Turley",
+   "claim": "Mike Turley will maintain the race Leeter jersey he wore this afternoon in the criterion."
+  },
+  {
+   "subject": "Number 35",
+   "claim": "Number 35 received second place and a 25 dollar gift certificate from B&H sports."
+  },
+  {
+   "subject": "Mike Constantine",
+   "claim": "Mike Constantine received second place and a 25 dollar gift certificate from B&H sports, number 33."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

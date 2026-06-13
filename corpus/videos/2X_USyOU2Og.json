@@ -69,7 +69,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "courage",
+   "claim": "Courage is people who can follow the law even if it's difficult."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Plato had four cardinal virtues, and courage was one of them."
+  },
+  {
+   "subject": "Roman Empire",
+   "claim": "The fall of Rome was because people didn't have the courage to follow the law."
+  },
+  {
+   "subject": "Diocletian",
+   "claim": "Diocletian abdicated to set a precedent, which took courage."
+  },
+  {
+   "subject": "Roman Republic",
+   "claim": "The Roman Republic had two consuls with checks and balances to prevent power concentration."
+  },
+  {
+   "subject": "Sulla",
+   "claim": "Sulla was the first to prove that controlling the army meant controlling the country, leading to the empire."
+  },
+  {
+   "subject": "courage",
+   "claim": "Courage is following the ultimate law everyone would agree on, even when others are selfish."
+  },
+  {
+   "subject": "Bob Lazar",
+   "claim": "Bob Lazar showed courage by revealing secrets about Area 51, even though it made him a black sheep."
+  },
+  {
+   "subject": "politicians",
+   "claim": "Politicians who defy their peers for the public good are courageous, even if they fail."
+  },
+  {
+   "subject": "Fiatosius",
+   "claim": "Fiatosius was foolish or courageous depending on whether he acted for personal gain or principle."
+  },
+  {
+   "subject": "Martin Luther King",
+   "claim": "Martin Luther King demonstrated courage by breaking unjust laws to uphold higher principles."
+  },
+  {
+   "subject": "courage",
+   "claim": "Courage is doing what you believe is right because you're following a higher law, even if others oppose you."
+  },
+  {
+   "subject": "bravery",
+   "claim": "Bravery is acting without fear, but courage is acting wisely for a just cause."
+  },
+  {
+   "subject": "Roman Empire",
+   "claim": "Rome fell because people lacked the courage to resist centralization and corruption."
+  },
+  {
+   "subject": "courage",
+   "claim": "Courage requires faith in doing the right thing even if it brings no immediate reward."
+  },
+  {
+   "subject": "American Revolution",
+   "claim": "Only 10% of Americans fought in the Revolutionary War, showing most lacked courage."
+  },
+  {
+   "subject": "pessimism",
+   "claim": "Pessimism discourages courage and prevents people from accomplishing meaningful change."
+  },
+  {
+   "subject": "democracy",
+   "claim": "A society cultivates courage by promoting education and democratic participation."
+  },
+  {
+   "subject": "marijuana laws",
+   "claim": "Standing up against unfair marijuana laws, even at personal cost, is an act of courage."
+  },
+  {
+   "subject": "courage",
+   "claim": "Courage is valued in society because it upholds justice and resists corruption."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

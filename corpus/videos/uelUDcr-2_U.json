@@ -49,7 +49,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Bruce Jenner",
+   "claim": "Bruce Jenner hasn't had his pecker chopped off."
+  },
+  {
+   "subject": "Bruce Jenner",
+   "claim": "Bruce Jenner has had hormone replacement and facial reconstruction surgery."
+  },
+  {
+   "subject": "Bruce Jenner",
+   "claim": "Bruce Jenner's Vanity Fair cover looks like he was a woman, body and everything."
+  },
+  {
+   "subject": "Chris Jenner",
+   "claim": "Chris Jenner is hot."
+  },
+  {
+   "subject": "Bruce Jenner",
+   "claim": "Bruce Jenner's wealth and privilege and being in the spotlight with the Kardashian TV show has distorted his perception of himself."
+  },
+  {
+   "subject": "fame",
+   "claim": "When you're put into the spotlight, you have more courage and see yourself as a mover and shaker in society."
+  },
+  {
+   "subject": "success",
+   "claim": "Success is the act of changing the world, making a ripple effect that causes positive change."
+  },
+  {
+   "subject": "Bruce Jenner",
+   "claim": "Bruce Jenner is a great person to transition because he was seen as the ultimate man."
+  },
+  {
+   "subject": "gender identity",
+   "claim": "There have always been gay people and feminine men or masculine women throughout history."
+  },
+  {
+   "subject": "reincarnation",
+   "claim": "Men and women have been men and women separately for many lives, explaining their different personalities."
+  },
+  {
+   "subject": "personality",
+   "claim": "Personalities come from other lives, reflecting past socioeconomic groups."
+  },
+  {
+   "subject": "reincarnation",
+   "claim": "Most past lives were as children, explaining why many adults act like children today."
+  },
+  {
+   "subject": "gender differences",
+   "claim": "Men and women have different reincarnational experiences, leading to different behaviors today."
+  },
+  {
+   "subject": "modern society",
+   "claim": "The world is changing, and socioeconomic personality types are melting away."
+  },
+  {
+   "subject": "gender",
+   "claim": "Men and women's personalities are becoming more similar as they share the same activities and responsibilities."
+  },
+  {
+   "subject": "future",
+   "claim": "In the future, men and women will be more interchangeable in jobs and activities."
+  },
+  {
+   "subject": "human evolution",
+   "claim": "Human bodies may evolve to be more similar between men and women."
+  },
+  {
+   "subject": "future",
+   "claim": "Eventually, humans may become asexual and then spirit beings."
+  },
+  {
+   "subject": "gender relations",
+   "claim": "Men and women don't understand each other well today."
+  },
+  {
+   "subject": "military",
+   "claim": "Having women in battle alongside men could be awkward due to attraction."
+  }
+ ],
  "transcript": [
   {
    "start": 0.4,

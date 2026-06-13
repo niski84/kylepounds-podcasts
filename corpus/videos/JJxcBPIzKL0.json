@@ -59,7 +59,136 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I've been really focused on my website and haven't been updating it as much as I should."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Someone donated $10 to my website, but I haven't updated the donation page yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to a pre-trial hearing last Thursday in Denver."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I decided to represent myself in court because I like the idea of speaking directly in the courtroom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was inspired by the movie 'Erin Brockovich' where the main character represents herself."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My trial is scheduled for September 10th at 12:30 PM with a jury of 12."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I mentioned to the prosecutor that I have a video from five years ago showing my left leg shaking uncontrollably when I'm nervous, which is why I failed the sobriety test."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I deleted the video because it had cringeworthy content about someone."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I initially thought they didn't return my insurance and registration, but I later found them after miscommunication with my roommate."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom mentioned that I'm a habitual marijuana user, and I confirmed it with a herhological test showing a 7.1, which is seven times the threshold for a positive result."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to subpoena someone to explain the herhological test and how it correlates to blood THC levels."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My blood test showed 9.5 nanograms of THC, almost double the legal limit of 5 nanograms."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I argue that I'm habituated to marijuana, so I don't feel 'stoned' like a casual user would."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I conducted my own sobriety test after smoking heavily and felt my balance was better, not worse."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I believe marijuana helps me focus and work longer without stress."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom thinks I have Asperger's syndrome because of my intense focus on my website and temper tantrums."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was born after my mom was given oxytocin (Pitocin) for 10 hours, including a double dose for the last three hours, which may have affected my development."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had insomnia and nightmares as a child, which I think might be related to Asperger's."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I fit the profile of Asperger's: solitary, creative, awkward, and intensely focused on specific interests."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I organize my website with numbered lists, color codes, and fonts, which I think is an Asperger's trait."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I believe marijuana helps manage my Asperger's symptoms by calming me down and enhancing my focus."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think marijuana might actually generate brain cells, contrary to the old belief that it kills them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel smarter when I'm high, especially when working on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I compared my focus on my website to how Bill Gates and Mark Zuckerberg might operate, suggesting they could have Asperger's."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I believe marijuana 'lubricates the engine' of my mind, preventing burnout."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't think marijuana impairs my balance, as I felt fine biking after smoking heavily."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I argued that skiing while high isn't dangerous, unlike skiing while drunk."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I smoke marijuana throughout the day, including when I wake up at 3 AM due to insomnia."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to challenge the 5-nanogram THC limit by researching how it was established."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to create a system where marijuana users can have a 'sponsorship' on their licenses to avoid legal issues."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to get a medical marijuana license to strengthen my case."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I referenced a case where a medical marijuana user was acquitted for driving with THC in their system."
+  }
+ ],
  "transcript": [
   {
    "start": 0.5,

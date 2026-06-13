@@ -32,7 +32,64 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I had to change the manual chimneys and the manual from the chapter."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I put the wrong book on my website, but now I can fix it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My computer keeps crashing when I try to work on the manual."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I restarted my computer, but it still crashes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I opened a tiny page and took out a paragraph, but then my computer crashed again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I recorded a video today and uploaded it, but it wouldn’t play on my computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I deleted the video because it wasn’t playing correctly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m recording another video to see if it works this time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m trying to paste something back on my website to see if it works."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think my computer has been crashing a lot lately."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m feeling weird, so I’m trying to fix things."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have about 3,000 pages to work on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m going to ask someone to help me with the pages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow, I’ll try to put the good light on the pages."
+  }
+ ],
  "transcript": [
   {
    "start": 30.59,

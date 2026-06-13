@@ -35,7 +35,140 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I'm pretty high right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I just had a shower."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I was working until like six and I was trying to get light and stuff so I got to sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I love going to bed at sunrise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I never have trouble getting to sleep late."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have the worst time getting to sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Even if I've only had a normal day and I'm not totally tired, I can still get to sleep right at sunrise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I always been like that, but now I just organized it in a dream here in the right way so that I have to look at the camera."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up at like noon, which is only six hours asleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought they were gonna come and do something, but I'm all right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Somebody called me and said that the electric company needed to put a new sensor in behind my heater."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "They said they would come one day, but I just got up anyway."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working on those videos, those times for all videos, and now I'm adding the audio track to it too."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "They're complete, and I'm gonna upload them on YouTube."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There are like a hundred of them, but I'm not getting carried away with it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I mainly work on Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm coming through Google Earth, and if I work all day and night here now, it'll be coming up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm gonna do the bad as a declaration but differently because not all of it is actually in the map."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "That lake I had to build myself because only two-thirds of it was in the map."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The bads of the declaration only like 10% of it is in the map."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The Wikipedia article didn't have a picture of the lake, so I had to build it myself."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I couldn't superimpose it, but through this as a declaration, you can superimpose it really well right on it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll get to build my own and then make it 3D and build my own cities on it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm listening to the history of England right now, and it's really fascinating."
+  },
+  {
+   "subject": "England",
+   "claim": "England has such a fascinating history."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Even being high, it's still fascinating to listen to."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My heater burrow can take, but there's no hot water comes out, so I had to go to the club in the house to take a shower."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Hopefully, they'll fix it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't have a shower last night either, and the night before last, so I was smelling myself."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went over there to take a shower."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't have the kick code to get in there last night, otherwise I would have."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm gonna split up shut."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm gonna get back to my project now."
+  }
+ ],
  "transcript": [
   {
    "start": 0.05,

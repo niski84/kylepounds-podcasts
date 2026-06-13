@@ -52,7 +52,176 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday was my first day actually sizing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today I got up and felt good, like I was revived."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It took me a while to get going until around one because I had to figure out how to work my underwater camera in P3."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I experimented with the underwater camera and found out it can zoom in and out, place a song segment, do a random shuffle, and push forward, but the button volume is not very good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I'll exclusively use the underwater camera for water or swimming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I transferred music to my P3 clear and was running them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I helped someone put big bags of dirt in her garden."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It takes every ounce of energy I have to keep track of my stuff and put it away."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel really tired and my brain needs to work in the right way."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When I compare myself to when I was younger, I feel the same sensations riding a bike, but I go a lot slower now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I was laid out for two hours until 11 because I felt exhausted."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today I got up and went for a ride up to Jamestown."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I forgot to bring my government computer to see how fast I was going."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought I hit 'go' on my phone but realized later I hit 'stop' instead."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I saw an old lady pass me while riding, followed by an old guy and a triathlon girl."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got cold riding in shorts and a t-shirt, so I put on a windbreaker."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I prefer riding in the mountains more than on the flats."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to do a mountain ride tomorrow and bring a jacket."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I enjoyed riding down because it's easier and fun doing corners."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I saw a dude on a bike and we hit a stop sign at the same time, then he passed me."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wish I knew how fast we were going to calculate my level."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If you're riding at 100% effort behind someone, your level is three miles an hour below their speed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I couldn't ride out of the saddle because my left thigh would cramp."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took a dirt road home and forgot how much it would slow me down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Cobbles and rough roads slow you down more if you're heavy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was so tired after the ride that I had to lie down for three hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to the store and spent $30 on food, craving fruit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I believe the best nutrients are whatever you crave."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to quit smoking weed as soon as I run out of what I have."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to use the money I would spend on weed on extra food."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I ate 10 goops and two power bars during my ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I called my mom and asked her to give me more money so I don't have to think about finances."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel like I'm visiting Boulder for the first time even though I live here because I haven't ridden much."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I rebuilt the mining communities on Google Earth and will show it soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Before the miners came, there were flowers of gold sticking out of the rocks and rivers in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to do a video tomorrow showing where I am and riding by."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spaced doing a video today but will do it tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to try to ride to Eldor tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to fix my gears because I can only get to the second highest cog."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I know how to get in shape quickly because I grew up riding and did bike touring."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Bike touring in Europe in 2010 was great for getting in shape because you ride all day long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm looking forward to tomorrow's ride."
+  }
+ ],
  "transcript": [
   {
    "start": 0.43,

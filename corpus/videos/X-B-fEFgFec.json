@@ -42,7 +42,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I feel like it's March 26th, 2017."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up at 11 today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked until 3 a.m. yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got about 8 hours of sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's currently 2 a.m."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to go to bed now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today was my first day working on distances from my circles areas."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I organized the work wrong by having them separately instead of grouped together."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think it will take me three days total to finish this task."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The effort is worth it because once I've helped the Google Earth Park, it's just clicking on it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow everything will change from one year to the next."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll try to clean my earth, fix my turn tomorrow, and take photos to upload."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I finished listening to the book 'Dark One' by Jane Mayor."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to listen to 'Dark One' again, probably three to five times to fully understand it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to make a web page about 'Dark One' to help get donors from my Patreon page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I hope to finish the circles task in three more weeks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I mentioned the Kato Institute or the old foundation or the libertarian website in relation to Jane Mayor's work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to use certain websites as examples for my new website designs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My new website will be called 'Bright Barred News' and will sell design services."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to use the libertarian website as an example for my designs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think it's 3:16 a.m. and I need to sleep."
+  }
+ ],
  "transcript": [
   {
    "start": 0.56,

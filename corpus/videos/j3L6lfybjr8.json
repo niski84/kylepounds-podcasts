@@ -61,7 +61,84 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I just smoked marijuana and got a bunch of shatter."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I define addiction as something that's bad, unlike my use of marijuana which I see as an obsession."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Marijuana helps me become obsessed and puts me in a zone of joy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I consider myself to have been addicted to weed before it was legalized because I craved it and went to great lengths to get it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Now that marijuana is legal, I can smoke it all the time without periods of craving."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Marijuana enhances my life by making it possible for me to work on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When I'm high, I get new ideas and see things differently, which helps with my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I believe marijuana acts as a catalyst for creativity, similar to how psychedelic drugs might have spurred evolutionary leaps in humans."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Marijuana helps me focus intensely on my work, like Google Earth, to the point where the rest of the world doesn't exist."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Getting high allows me to immerse myself in my work, similar to falling into a cartoon or another world."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Marijuana motivates me and keeps me focused on my goals, unlike people who just sit around when they're high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I could quit marijuana at any time, but I choose not to because it helps me work on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I quit marijuana, I would have to quit working on my website because I need it to focus."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spend very little money on anything except marijuana, which I consider a worthwhile expense."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Smoking marijuana doesn't take much time out of my day, and I only buy it once every week or two."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The opportunity cost of not smoking marijuana would be losing the ability to work on my website effectively."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Marijuana makes it possible for me to listen to music and audiobooks while working, which enhances my productivity."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Getting high softens the edge of tedious work, making it more enjoyable and sustainable."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Audiobooks have a similar effect to marijuana in helping me focus and stay engaged with my work."
+  }
+ ],
  "transcript": [
   {
    "start": 2.77,

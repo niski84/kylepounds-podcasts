@@ -33,7 +33,48 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't do a video yesterday because he was too busy with his green screens."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The last time Kyle did a video, he had 855 green screen backgrounds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle now has 1655 green screen backgrounds and probably has over 2000."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is not downloading green screens manually but is subscribing to green screen channels and downloading interesting ones."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to organize his green screens into folders, with each folder containing around 30 subfolders."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is excited to use his green screens for today's video because he has so many prepared."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been listening to 'In Birdland' and 'Church History' by Sousum."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had an idea to create a graph of his book sorting that resembles an agent, with each chapter represented as a person."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to have armies of books square off against each other, such as Greek classics versus Norman classics."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is considering using a visual tool like Google Super Puzzle to represent his book armies."
+  }
+ ],
  "transcript": [
   {
    "start": 0.62,

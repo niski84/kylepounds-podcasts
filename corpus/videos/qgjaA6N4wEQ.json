@@ -57,7 +57,200 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "history timeline",
+   "claim": "The history timeline has five different sections, with BC and CE being the biggest."
+  },
+  {
+   "subject": "BC section",
+   "claim": "The BC section has 200 pages and covers from zero to 5000 years back."
+  },
+  {
+   "subject": "CE section",
+   "claim": "The CE section has 160 pages and covers from zero to the present (2000 years)."
+  },
+  {
+   "subject": "80 section",
+   "claim": "The 80 section has 2390 pages."
+  },
+  {
+   "subject": "future section",
+   "claim": "The future section has 160 pages."
+  },
+  {
+   "subject": "prehistory pages",
+   "claim": "The prehistory pages consist of 58 pages covering different time dimensions."
+  },
+  {
+   "subject": "3000 years back section",
+   "claim": "The 3000 years back section has two pages: one from present to 500 and another from 500 to 3000 years back."
+  },
+  {
+   "subject": "history timeline purpose",
+   "claim": "The purpose of the timeline is to help users memorize all recorded historical events and categorize them for better historical literacy."
+  },
+  {
+   "subject": "history literacy",
+   "claim": "History literacy allows people to identify types of current events and predict their outcomes."
+  },
+  {
+   "subject": "complete history timeline",
+   "claim": "The complete history timeline includes everything that ever happened in recorded and non-recorded history, as well as the future."
+  },
+  {
+   "subject": "timeline sections",
+   "claim": "The timeline is divided into six interlinkable sections: prehistory, BC, CE, 3000 years back, dense AMP, and future."
+  },
+  {
+   "subject": "prehistory section",
+   "claim": "The prehistory section goes as far back as 15 billion years."
+  },
+  {
+   "subject": "future section",
+   "claim": "The future section goes 52,000 years into the future."
+  },
+  {
+   "subject": "total time span",
+   "claim": "The total time span covered by the timeline is 15 billion and 52,000 years."
+  },
+  {
+   "subject": "historical events format",
+   "claim": "Historical events on the timeline are listed in a format with five columns per page."
+  },
+  {
+   "subject": "five columns",
+   "claim": "Five columns per page are used because they provide visual and mental symmetry."
+  },
+  {
+   "subject": "column width",
+   "claim": "The width of the columns is optimized to fit the number of words that almost take up the column width."
+  },
+  {
+   "subject": "BC and CE sections",
+   "claim": "In the BC and CE sections, each column represents 100 years, and the width of the page represents 500 years."
+  },
+  {
+   "subject": "3000 years gap pages",
+   "claim": "The 3000 years gap pages condense time differently, with each column representing 500 years and the page width representing 2500 years."
+  },
+  {
+   "subject": "time dimensions",
+   "claim": "The timeline can be divided into 12 total time dimensions."
+  },
+  {
+   "subject": "future time dimensions",
+   "claim": "In the future sections, time dimensions increase by a factor of 10, twice, and five once."
+  },
+  {
+   "subject": "prehistory time dimensions",
+   "claim": "In the prehistory section, time dimensions increase by factors of 5, 4, 3, and 10 (multiple times)."
+  },
+  {
+   "subject": "horizontal timeline section",
+   "claim": "At the top of each page is a traditional horizontal timeline section."
+  },
+  {
+   "subject": "world division",
+   "claim": "Each page divides the world into 16 sections based on the 19 United Nations subregions."
+  },
+  {
+   "subject": "navigation",
+   "claim": "The timeline is linked so users can navigate to any United Nations subregion within the current page or to any other 500-year page in the section."
+  },
+  {
+   "subject": "event types",
+   "claim": "Events are divided into 99 types created by combining 11 event categories and 9 event causes."
+  },
+  {
+   "subject": "event coding",
+   "claim": "Event types are color and font coded to reflect their category and cause."
+  },
+  {
+   "subject": "complete knowledge",
+   "claim": "The idea of the timeline is to make it possible to memorize all historical events and categorize them in any needed context."
+  },
+  {
+   "subject": "non-recorded history",
+   "claim": "Non-recorded history is included in the timeline, extending back exponentially in time."
+  },
+  {
+   "subject": "learning non-linearly",
+   "claim": "The timeline allows users to learn history non-linearly by skipping around to different sections."
+  },
+  {
+   "subject": "complete grid",
+   "claim": "A condensed grid format makes historical knowledge seem smaller and more manageable by showing boundaries and quantities."
+  },
+  {
+   "subject": "interlinkable sections",
+   "claim": "The six sections of the timeline are interlinkable, allowing navigation between them."
+  },
+  {
+   "subject": "prehistory navigation",
+   "claim": "In the prehistory section, users can navigate from 30,000 years back to 15 billion years back."
+  },
+  {
+   "subject": "BC navigation",
+   "claim": "The BC section allows navigation through 500-year segments from 5000 BC to zero."
+  },
+  {
+   "subject": "CE navigation",
+   "claim": "The CE section allows navigation through 500-year segments from zero to the present, with more recent years condensed further."
+  },
+  {
+   "subject": "future navigation",
+   "claim": "The future section increases exponentially, with segments like 2000-2050, 2050-2100, and up to 52,000 years."
+  },
+  {
+   "subject": "time dimensions explanation",
+   "claim": "Time dimensions expand like a microscope, with smaller segments nested within larger ones."
+  },
+  {
+   "subject": "horizontal timeline demonstration",
+   "claim": "The horizontal timeline section shows events stacked vertically to compare simultaneous occurrences."
+  },
+  {
+   "subject": "United Nations sections",
+   "claim": "The world is divided into 16 sections based on United Nations subregions, organized by cultural and geographic proximity."
+  },
+  {
+   "subject": "event categories",
+   "claim": "Event categories include political, positive, negative, and people types, each with subcategories like country, city, building, invention, war, and leader."
+  },
+  {
+   "subject": "event causes",
+   "claim": "Event causes are divided into practical, cultural, and theoretical, such as conflict, transportation, and natural causes."
+  },
+  {
+   "subject": "event type examples",
+   "claim": "Mixing event categories and causes creates specific event types, like a country war (conflict + country) or a cultural event with a natural cause (new music emerging spontaneously)."
+  },
+  {
+   "subject": "color and font coding",
+   "claim": "Events are color and font coded to make scanning for specific types easier, such as inventions in green or wars in red."
+  },
+  {
+   "subject": "condensed information",
+   "claim": "The timeline condenses vast amounts of information into small spaces, like summarizing World War I casualties in half a page of text."
+  },
+  {
+   "subject": "battle details",
+   "claim": "Battles are detailed with numbers of participants and casualties, such as the Battle of Gallipoli with Ottoman and British forces."
+  },
+  {
+   "subject": "navigation flexibility",
+   "claim": "Users can navigate the timeline by tracing specific countries or jumping across regions and time periods."
+  },
+  {
+   "subject": "complete historical coverage",
+   "claim": "The timeline aims to include every significant historical event, war, king, and invention, making it a comprehensive resource."
+  },
+  {
+   "subject": "visual organization",
+   "claim": "The timeline's visual organization, with colors, fonts, and borders, helps users quickly identify and compare events."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

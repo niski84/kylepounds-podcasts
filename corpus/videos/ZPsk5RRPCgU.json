@@ -50,7 +50,100 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I just flushed the toilet and shouldn't have done that because the sound won't be on the recording."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm dragging something off to the side so it doesn't distract me."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I should have timed my tongue movement for the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm making a Google Earth background first so I can talk about it at the beginning of the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My daily vlog has a dual purpose: talking about my life and teaching something new about Google Earth."
+  },
+  {
+   "subject": "Hidden Valley",
+   "claim": "Hidden Valley is a city-state within my kingdom of Boulder, with 10,000 people and 5,000 houses."
+  },
+  {
+   "subject": "Hidden Valley",
+   "claim": "The houses in Hidden Valley are 10 meters in diameter, accommodating five people each."
+  },
+  {
+   "subject": "Hidden Valley",
+   "claim": "Hidden Valley has a circumference of four kilometers, which I chose as the standard city-state size."
+  },
+  {
+   "subject": "Mantineia",
+   "claim": "Mantineia is an ancient Greek city with a completely intact wall and a perfectly oval shape."
+  },
+  {
+   "subject": "Mantineia",
+   "claim": "Mantineia was considered a perfectly sized city-state in ancient times."
+  },
+  {
+   "subject": "Mantineia",
+   "claim": "Mantineia was the site of two of the biggest and most decisive battles in ancient Greece."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I standardized all my city-states to four kilometers as part of my education philosophy."
+  },
+  {
+   "subject": "Ancient Boulder",
+   "claim": "The kingdom of ancient Boulder is the same diameter as ancient Rome."
+  },
+  {
+   "subject": "Hidden Valley",
+   "claim": "I chose a population of 10,000 for Hidden Valley because it's a good round number and matches Boulder's population in 1915."
+  },
+  {
+   "subject": "Ancient cities",
+   "claim": "In ancient times, a city-state's fighting force was about one-fifth of its total population."
+  },
+  {
+   "subject": "Hidden Valley",
+   "claim": "Hidden Valley's public buildings include replicas of the Tower of London, the Statue of Jesus in Rio, and the Washington Monument."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up at noon today because I've been under more stress than usual."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I organized my mic deck and plan to fit everything in my room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Someone made a troll comment about me not trying to sell my car, but I am, I just need to clean it first."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent three hours shampooing my car seats today and used too much concentrate."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow I plan to shampoo the other seats and list my car online."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I organized the electronics under my bed and couch today and will organize my hard drives tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I cleaned my floor for the first time in a while and will finish organizing tomorrow."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

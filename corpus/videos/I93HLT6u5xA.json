@@ -47,7 +47,104 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I got up late yesterday, around 2 in the afternoon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working on a project before going to sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I considered going to the store to get candy before sleeping."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I love sleeping in the morning because it's peaceful."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, I was working on uploading books from the classical world to my website."
+  },
+  {
+   "subject": "classical world",
+   "claim": "There are many figures from the classical world that people haven't heard of."
+  },
+  {
+   "subject": "Arianism",
+   "claim": "Arianism was a significant movement at the beginning of Christianity, but most of their books were destroyed."
+  },
+  {
+   "subject": "Origen",
+   "claim": "Origen's works were also largely destroyed."
+  },
+  {
+   "subject": "Athanasius",
+   "claim": "Athanasius is a prolific figure whose works survived because he was on the winning side of history."
+  },
+  {
+   "subject": "Roman Empire",
+   "claim": "The most prolific time period of the Roman Empire was at the end, with all the Christian figures."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was listening to my computer read Roman laws and other historical texts to me."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm learning a lot but feel too high to talk much about it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm tired right now, but my hair looks good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm addicted to working on my website and uploading books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm making rapid progress on uploading books to my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might extend my deadline for completing the project by another week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to make a video about selling my van next Monday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to make all my street books available for download on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I hope to eventually figure out how to make this system work for other people's websites."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Having all historical books on my website will help me reference them easily in discussions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to transcribe my vlogs and link references directly to the books on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This system would revolutionize communication by allowing direct links to specific references."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm motivated by the potential of this system to impress historical figures like early Christians."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I already have a link on my homepage about the distribution of the coaching industry."
+  }
+ ],
  "transcript": [
   {
    "start": 0.24,

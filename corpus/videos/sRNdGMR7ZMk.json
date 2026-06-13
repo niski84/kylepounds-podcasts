@@ -64,7 +64,136 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I just got really high and realized I didn't do a video for a while."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's really warm outside now, like summer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a haircut."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been hammering on my website and started two new pages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The new page I started yesterday is the most fascinating one I've ever done in my entire life."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The page before that was the second most fascinating."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't been writing on my bike because my bike computer wasn't working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had to order a new part for my bike computer because they changed the technology."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My hub is too thick around for the new bike computer part to attach."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to call the bike computer company today to figure out what's going on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't think I want to ride my bike anyway because the program I'm doing on my website requires a steady hand and concentration."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been wanting to mark out areas with different colors on Google Earth that you could click on and off with visuals like layers."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "Google Earth never had the feature to mark out areas with different colors that you could click on and off with visuals like layers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I noticed Google Earth Pro is newly free and tried to download it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on mapping Native American tribes and linguistic groups on Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I found a Native American tribe map that's like 3,000 pixels by 4,000 pixels and 8 megabytes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I completed mapping Italy with Roman provinces or states and the tribes around it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The amazing thing with Google Earth is you can control the opacity and see the different sizes of tribes superimposed on the map."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got started on this project because I was working on my bike racer level page and wanted to map trails."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I came up with the idea to show trails at different area sizes from 10 meters up to 2,580 kilometers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The average horse travels about 30 miles a day over hilly and flat terrain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A bike can travel faster than a horse over any terrain, even hard terrain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A human without a bike could probably beat a horse in an endurance race over a day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The fastest record for the Continental Divide Trail is 17 days, averaging 130 miles a day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to memorize the whole area of America between Banff and New Mexico by riding the trail multiple times."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I see the future of social interaction and economies in tourism and traveling ancient routes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My next outdoor excursions are to mountain bike around Boulder and possibly the Colorado Trail in 2016."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to sell my van because it's costing me money to maintain and I don't drive it much."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to make money from my website and videos to support my biking and traveling lifestyle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to do the Colorado Trail in 2016 and the Divide Trail in 2017."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to do the Divide Trail for 13 years because I like the number 13."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to figure out how to do screen capture recordings on my Mac for my Google Earth videos."
+  }
+ ],
  "transcript": [
   {
    "start": 0.91,

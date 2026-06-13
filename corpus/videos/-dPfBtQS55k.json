@@ -42,7 +42,120 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went biking on August 19th at around 2 p.m."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle planned to ride up Flagstaff Road but his MP3 player stopped working mid-song."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thought his MP3 player dying was a sign he should stop biking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle decided to go to the top of the hill before heading home."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's bike brakes started squeaking even when not engaged."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle took his bike to Full Cycle on 18th and April to get it fixed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle bought his bike at Full Cycle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle rode up a 14% gradient road for a mile, which was very steep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle felt his gears were not suited for him and he was wasting energy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle hopes to climb steep roads without issues in the future."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle drank two 24-ounce water bottles during his ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle refilled his water bottles at the bottom of the Climate Energy Fine Park."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle felt tired and cloudy-headed after his ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't work on his website after the ride because he was too tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle prefers to eat delicious foods after biking instead of loading up on carbohydrates."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle enjoys drinking fruit juice with ice after biking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had cereal for breakfast and two energy packets during his ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle rode 57 miles and wrote for 45 minutes after his ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle ate potato salad and fruit juice after his ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle considered going to Taco Bell but it was closed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle loves eating delicious food, especially when he's hungry."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to quit smoking weed soon because he wants to stay motivated."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes sleep is important when training and feels it's okay to sleep as long as needed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle felt drowsy during his ride the previous day because he needed more sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle felt refreshed during his ride today because he slept enough."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle enjoys lying down when tired and finds it relaxing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle considered going to bed early to wake up early."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wished his girlfriend Kirsten a happy birthday."
+  }
+ ],
  "transcript": [
   {
    "start": 0.82,

@@ -51,7 +51,136 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "The other video camera suddenly decided that the memory card was incompatible with it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm gonna go on and get lights tomorrow and put them on this top there so the more light shines on my face."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This is day two of my daily vlog life."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm gonna do it on the bike from now on and I'm not gonna stop this time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The physical pain you feel when you're not on the bike is too big compared to when you're on it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm gonna start feeling some pain in my back between my clavicle and my spine on the right side from standing up constantly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll use my little massage thing to relieve the pain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I got on the bike and rode, but the GPS didn't register the work because I forgot to turn it off."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had to reattach the sensor and put a new cable in my shifter."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Last night I was really tired and slept really well."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't know how much I rode because it didn't work, but it was like a couple of hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "As soon as I got in bed, I felt so good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "One of the funnest things about bike touring is you sleep so well."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When bike touring, you don't experience much of the discomfort because you're asleep as soon as you lay down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I could feel my heart pumping while laying in bed, which was an interesting feeling."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I slept until noon today because I needed the sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My general rule of thumb is like eight to nine hours of sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The brain uses energy, like a computer, and thinking tires you out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Eating food or candy can help you think better because it gives you more energy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to start doing videos not high because I was a wreck last time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was out of it at work yesterday and forgot stuff I'd never usually forget."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I'm sitting around watching YouTube all day, I can get by on four or five hours of sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Sometimes I stay up for 24 hours straight and feel fine."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've had multiple days in a row where I only got four or five hours of sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not in bad shape because my brain keeps my body in shape by using energy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm gonna need more sleep now, like 12 hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can multitask and get almost as much done while riding my bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm finally doing this and it's cool to work hard."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm gonna upload these to Strava every day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This is my first official ride because stuff wasn't set up yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll do a vlog every day talking about the office bike life."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to find out how many miles I can do while working in the office."
+  }
+ ],
  "transcript": [
   {
    "start": 0.08,

@@ -37,7 +37,112 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I did a four minutes and 44 seconds video about ski resorts in Colorado."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I zoomed in and out of ski resorts, including current and defunct ones."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have some money to get back to making more videos about ski resorts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The videos are all open for digital download."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "You can click on your cell phone to navigate around the panorama."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I designed the website well for smartphones."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up today and there was something in my car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom took me to pick up my car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "They put in a new LED light for $40."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I needed to get seeds for my car or my mom's house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The hole was covered because my sheepskin rug shrank when I cleaned it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had to cut the hole bigger to fit the foot in."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I heard a loud explosion while getting a knife."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My light was missing and the front right one exploded."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took my car to a mechanic and it was wet and blew up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I ordered two new parts for $100 each."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My car is literally falling apart."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm still in debt after fixing my car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a cell phone that I can sell."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I run out of money, I might need to get a job."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent time fixing my website and realized how much work it needed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I kept building new things on my website without realizing how far I went."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I looked at my philosophy page and realized it needed updates."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I enjoy watching my website grow and improve."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I find it fun to watch my car get cleaned."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I like my job when I'm just sitting and watching things get done."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

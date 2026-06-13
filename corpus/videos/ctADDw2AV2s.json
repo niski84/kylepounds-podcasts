@@ -45,7 +45,68 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "It's 1:05 AM in 2016, and he's reflecting on 2015."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked late yesterday and went on a ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today has been busy, so he hasn't made much progress on his site."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He helped his mom with vacuuming today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was reading Clement of Alexandria last time but has since moved on to other books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's currently reading 'A Topographical Dictionary of Ancient Rome' from 1920."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's focusing on classics from the Roman Empire era."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has other books like one from 1780 and another 18,000-page one from the 1860s."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's using the 1920 topography book to fill gaps in his Google Earth project of Rome."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Only 10% of the original topography of Rome is left, leaving big gaps on maps."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to make his Google Earth project as realistic as possible by filling in those gaps."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's also working on a project in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's trying to sell his car to get money for other projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to make a video about selling his car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His process involves working on big projects that take a long time, like three days for one task."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

@@ -45,7 +45,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I got a Facebook message suggesting I should do an update video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I lost 50 subscribers because my videos were getting boring and repetitive."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I stopped making money from YouTube for the first time since late 2011."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I used the last of my college card to buy dirt for a garden project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm planning to turn my fireplace into a garden with plants and mirrors."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to cut glass to fit the fireplace for my garden project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I considered using screws but realized clamps would be better for the glass installation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't been doing YouTube videos because I'm too focused on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been working on one section of my website since before summer started."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I listen to my audiobook over and over until I memorize it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The audiobook is about the Atlantian alphabet and its connections to other ancient alphabets."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I believe Atlantis was real and the Greek gods were actually Atlantian kings."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "One of my YouTube subscribers visited and we smoked marijuana together."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think hashish is like a smokeable concentrate similar to weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I use a pen for smoking concentrates, which is the cheapest and healthiest method."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I burned through a gram of concentrate in a week despite the dispensary saying it would last three weeks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Smoking helps me focus and be more creative with my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't checked my YouTube channel or comments in a long time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to finish my website before returning to YouTube, which might take a year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to create multiple YouTube channels in the future, like a bike videos channel and a movie review channel."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I enjoy being in my own little world, focusing on my projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think being homeless is a way to live in your own world if you're willing to give up comforts."
+  }
+ ],
  "transcript": [
   {
    "start": 0.08,

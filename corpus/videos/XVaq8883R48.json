@@ -36,7 +36,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I was supposed to do this video yesterday but forgot."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been forgetting to do videos for the last few days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked all day yesterday on Rome-related content."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might have forgotten to save my work on Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My MacBook has issues opening Google Earth when other programs are running."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to the store today and bought a DVD player."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm trying to make CDs to play on my MacBook TV."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The first program I tried for making CDs didn't work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't remember what I did yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked on a big Circus Maximus project in Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I made a video about rebuilding around Circus Maximus from two to three."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been working today but also trying to figure out technical issues."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I watched a documentary on Netflix about Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I find the documentary very interesting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to watch all the documentaries on TV to comment on their accuracy later."
+  },
+  {
+   "subject": "documentary",
+   "claim": "Mark Zuckerberg is only nine years older than Lucilla in real life."
+  },
+  {
+   "subject": "documentary",
+   "claim": "In the documentary, the actor playing Mark Zuckerberg is about 30 years older than Lucilla."
+  },
+  {
+   "subject": "documentary",
+   "claim": "Lucilla was only 13 when she died, but in the documentary, she appears to be about 30."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to start doing vlogs in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to figure out some technical issues before I can continue."
+  }
+ ],
  "transcript": [
   {
    "start": 0.46,

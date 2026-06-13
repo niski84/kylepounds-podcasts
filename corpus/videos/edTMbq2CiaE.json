@@ -37,7 +37,100 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I just got a new microphone from the Apple store, the Apogee."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm testing the sound quality of the new microphone."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Last night, I couldn't breathe and was laying in bed all night, which caused me to sleep during the day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't have to work today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a top bag for my bike that can hold five power bars and a Jelp."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I ordered another bag that goes under the handlebars."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might get a third bag that hooks onto the frame later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't want to put any bags under my seat because I might need space for water."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm considering getting a bigger seat for the back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought two more water bottle cages for $60 each."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got lights for my bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought a bolt for my bike tip to hold a water bottle holder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to the armory to get the bolt."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought a new microphone and am setting up my stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I replaced my broken glasses for $60."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been waiting for my mom to call me so we can go on a short backpack ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After the backpack ride, I might go on a terror ride if there's still daylight."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to do a couple of strata statements but don't understand some of them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll include the strata statements in my daily routine."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to try Zwift when I can ride on a roller."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The Zwift piece is only $10."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not selling the Zwift piece; you need real diapers with other people."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm looking forward to testing the new microphone."
+  }
+ ],
  "transcript": [
   {
    "start": 0.43,

@@ -56,7 +56,108 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I got a ticket for sleeping in my van in a university parking lot in Colorado."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The judge fined me $40 for sleeping in my van."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think the campus cops should handle parking violations, not regular cops."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been given warnings by cops multiple times for parking or sleeping in my van."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got busted by cops in Tucson for parking near a cop station, even though I asked permission."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A cop in Seattle told me to move my van because people complained about me parking there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A cop once told me I could stay parked somewhere for up to 24 hours without it being illegal."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got busted in Dallas by security for parking overnight in a fitness center lot."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’ve never been arrested or fined for weed while traveling in my van."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don’t get pulled over by cops because I don’t speed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn’t smoke weed much while living in my van."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got high twice while living in my van—once at a ski resort and once in Las Vegas."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Cops have never searched me or asked about drugs when they’ve stopped me."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was with a friend who got busted for weed in college, and I think the cop planted it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got pulled over once because a cop claimed I was speeding, but I wasn’t."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I traveled with people who smoked weed in my van, but we never got busted."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I almost got caught smoking weed on the side of a highway in Texas when my van broke down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "To find weed in a new city, look for people who stand around downtown and ask them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Undercover cops aren’t a big concern anymore when looking for weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A YouTube viewer of mine easily found weed in Boulder by asking homeless-looking people in a park."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’ve scored weed all over the world, including from an Aboriginal guy in Australia."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In some places, like Kansas, cops are strict and will fine you heavily for weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If you’re stoned and have a gun, you could get into serious trouble."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "West of the Mississippi, cops generally don’t hassle you for weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It’s unlikely cops will arrest you just for asking someone for weed in most places."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

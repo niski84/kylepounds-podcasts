@@ -40,7 +40,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I've been too busy to vlog for a few days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm trying to read all the books from the ancient Western world."
+  },
+  {
+   "subject": "church fathers",
+   "claim": "The church fathers are very, very prolific."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm currently reading 'The Pastor of Hermos' by Clement of Rome."
+  },
+  {
+   "subject": "ancient world texts",
+   "claim": "I'm wondering if the church fathers wrote more text than everything else in the ancient world combined."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I originally planned to finish reading by last Sunday, but it's already the next Saturday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I underestimated how many books there are in history."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm still super fired up and plan to go another week to finish."
+  },
+  {
+   "subject": "church fathers",
+   "claim": "Once I power through the church fathers, the rest will be easier."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I downloaded a new voice-to-text program for my computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to see if I can get the voice-to-text to work for writing on paper."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might start putting transcripts of my videos on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Having transcripts would allow me to link to parts of history I talk about."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been listening to Wikipedia articles about Rome using a voice reading program."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a program called Voice Reading that reads Wikipedia articles aloud."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The voice reading program reads very fast, which I like."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The program can read really big pages, like entire books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to try reading an entire book with the voice reading program soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The program stopped when I tried to read a 3600-page text, maybe because I need the Pro version."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm super interested in finding out how many pages of text exist from the ancient world."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to categorize the pages of ancient texts by subject and link them to their original sources."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think linking all the texts to their original pages would be really cool."
+  }
+ ],
  "transcript": [
   {
    "start": 0.34,

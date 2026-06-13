@@ -44,7 +44,132 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He didn't do a VLOG for a few days because he was too busy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is starting to do a VLOG every day because he works until he crashes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The other day, he worked until 2 in the morning but ended up working until 6."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He crashed and didn't nap until 5, sleeping for about five hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got up and rode his bike until 3 in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He ended up sleeping for 12 hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is in a stage where he needs 12 hours of sleep a day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His appetite hasn't kicked in; yesterday, he only remembers eating a Taco Bell meal and a couple of bananas."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is still eating like a bird but drinking a lot of fruit juice all day long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He fills his cup with ice all the way to the top and then pours sugar-free fruit juice in."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He drinks pomegranate, cranberry apple, and other fruit juices, having moved on from orange juice."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He loves the sweet, cold drink with a straw while riding his bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to do a demonstration of his bike table when he sobers up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he'll start selling his bike table."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He places his drink on the table next to his bike while working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finds it best to get into a rhythm by listening to music, but he doesn't know how to make a program play one song after another."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plays music off videos he downloads from YouTube on his iPad."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He downloads videos on his phone to listen to music but has to bring up another video to continue listening."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "To stay in the groove, he reads books on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, he read through a whole chapter of 'Cities, Through the Bell, Tunisian Wars' for about an hour."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has thousands of pages of books to read but can only highlight for about an hour before the computer gets corrupted."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He listens to videos while writing and watching them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has to force-feed himself because his appetite hasn't kicked in."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to get into a daytime schedule so he can ride outside."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wonders if he can time a ride outside during a full moon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hasn't cleaned his bathroom for over a week, and it smells really nasty."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hasn't had time to clean because he sleeps all the time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is making good progress on his 'struggle stuff' and might finish today or tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will move on to other projects like Google Earth and will have thousands of videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks it will be really cool but doesn't know how long it will take."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to try to do a video every day from now on."
+  }
+ ],
  "transcript": [
   {
    "start": 0.98,

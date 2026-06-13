@@ -63,7 +63,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Apple",
+   "claim": "Apple's video recording feature is confusing because after hitting record and stop, you don't know where the video went."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is aggravated but plans to start doing video requests soon."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Kyle thinks Trump's intent means well and likes that he's not a puppet or bought by big companies."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Kyle appreciates Trump's stance on being stricter at the border to stop illegal immigration and reduce imports from China, Japan, and Mexico to bring jobs back."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Kyle supports Bernie Sanders because he promises free stuff like weed."
+  },
+  {
+   "subject": "wealth inequality",
+   "claim": "The 65 richest people in the world own half the world's wealth, and about 200-300 people in America donate most of the money for national politicians."
+  },
+  {
+   "subject": "money",
+   "claim": "People don't need much money to be happy, but those in big cities might want extra for travel and other expenses."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Kyle questions why Trump supporters think he's different from other rich people who influence politicians for favors."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Trump embodies the worst parts of rich people, including elitism and a lack of conscience."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders is a lifelong politician who genuinely cares about people and wealth redistribution."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Trump's personality is misogynistic, and he only cares about money, as seen in his TV show."
+  },
+  {
+   "subject": "liberals",
+   "claim": "Trump supporters wrongly assume liberals are lazy and just want free stuff, which is a projection of their own views."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Trump is a fascist who would rewrite the Constitution and disregard the rules of the country."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Trump's rallies are filled with chest-pumping and trash-talking, showing he lacks substance."
+  },
+  {
+   "subject": "immigration",
+   "claim": "Trump capitalizes on fear of immigrants and cultural changes to gain popularity."
+  },
+  {
+   "subject": "political correctness",
+   "claim": "Conservative backlash against political correctness is fueling Trump's rise."
+  },
+  {
+   "subject": "religion",
+   "claim": "Kyle once criticized Buddhism, which upset people who aren't used to hearing critical views about it."
+  },
+  {
+   "subject": "America",
+   "claim": "America's wealth inequality is stifling opportunities for poorer people."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Trump is dangerous because he only cares about himself and his wealthy friends."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders will destroy Trump in debates because he cares about all people, not just the wealthy."
+  },
+  {
+   "subject": "Donald Trump",
+   "claim": "Trump is an asshole who shouldn't be president because he doesn't care about all people."
+  }
+ ],
  "transcript": [
   {
    "start": 2.38,

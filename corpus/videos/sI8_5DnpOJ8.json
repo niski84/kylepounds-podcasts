@@ -40,7 +40,180 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I took three days off because I got stressed out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I couldn't transfer the audiobecause the guy said it didn't work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought my files were backed up all over the place, but they weren't backed up anywhere."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My files weren't on any of my hard drives, my computer, or my other two computers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The card is broken, and so is this old phone."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There was 82 gigabytes on Carbonite, and I'm in the process of getting that back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I may have half of the files back already."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to download the rest manually, but Carbonite backed up the folders so I know where to put them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's probably going to be like 400 books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Three of my hard drives died at the same exact time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Two of them are broken, and one is similar to broken."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a new hard drive."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Don't store hard drives like this because the disc has to fight against gravity."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Hard drives should be in a line when they're stacked."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The background for my website is now five kilometers because the last one was two and a half kilometers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My website is finally working for the first time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My new computer is so much faster and makes the website look smaller."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working on attaching areas to the distances for the different levels on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "You can link directly to that part of the page and then see my timeline."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I saw a link on the timeline of all the countries I have for the timeline."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm adding links to all the different 500-year blocks with color-coded dots."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The dots make it easier to see the information."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I started on that last night and won't stop until I'm done."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was up until six in the morning working on it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I slept in until 11 because I was working late."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom called me to help her put away stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got stressed out because I need money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom has money, so I asked her for some."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I already paid $50 of interest this year and $250 last year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I owe $11,600 here and $3,000 there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My brother owes $16,000."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't been motivated to work on my car because I got stressed out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I fixed the curtains in my car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My car breaks every time I fix something."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I fixed the light bulb in my car for no reason."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My curtain came down after I fixed the light bulb."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to fix the length of the curtain today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It'll make me feel like things are coming together."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I love smoking lots of weed and riding."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Smoking weed makes proofreading go really slow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Sometimes you go backwards and fix the same thing twice."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Proofreading is fun but takes longer because you have to do multiple run-throughs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll start working on the length as soon as I fix this."
+  }
+ ],
  "transcript": [
   {
    "start": 1.07,

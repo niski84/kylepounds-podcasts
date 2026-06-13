@@ -35,7 +35,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Boulder",
+   "claim": "We're still in our cold spell."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I forgot to do my video yesterday because I got up to help my mom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was up until six helping my mom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to my mom's house to help put wood in the backyard."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working all day after helping my mom."
+  },
+  {
+   "subject": "Xanthium",
+   "claim": "I was listening to the history of the Xanthium."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I found some cool source material related to the Xanthium."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did a bunch of apartment buildings yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm kind of high right now."
+  },
+  {
+   "subject": "Roman forum",
+   "claim": "I wanted to do the Roman forum today."
+  },
+  {
+   "subject": "Roman forum",
+   "claim": "The Roman forum is the last complicated part to trace."
+  },
+  {
+   "subject": "Roman forum",
+   "claim": "I have to do tiles from the ground for the Roman forum."
+  },
+  {
+   "subject": "Roman forum",
+   "claim": "Tracing the temples in the Roman forum would take forever."
+  },
+  {
+   "subject": "Roman forum",
+   "claim": "I have to do the roads in the Roman forum as well."
+  },
+  {
+   "subject": "Roman Boulder",
+   "claim": "It's faster to trace the left Roman Boulder because it's more uniform."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can start building the Roman structures one after the other."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to start with the easiest Roman structure."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome is so active that it always pulls you down to ground level."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got pulled down to ground level in Rome, right into some statues."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm doing columns right now for the Roman structures."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought about how we should rebuild Rome."
+  }
+ ],
  "transcript": [
   {
    "start": 0.34,

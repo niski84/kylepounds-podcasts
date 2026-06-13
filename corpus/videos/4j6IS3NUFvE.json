@@ -32,7 +32,148 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday was Friday, not Saturday, November 11, 2016."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today is Saturday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I had a pretty good day at work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got tired a little bit earlier at 10 or something yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up at 7 yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to sleep at 11 last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to bed at 10 last night because I was kind of tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I got up early, but I can't remember exactly when."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was going to leave my mom's house yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked and then I went to my mom's house yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to put some weight on my mom's windows yesterday, but I never got around to doing it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to put weight on my mom's windows today after work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to work on my paper again, my page, my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The ski resort thing is really dragging on because there's lots of stuff I didn't consider."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's really hard to predict how long it takes to do stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Stuff always goes wrong and there's more to do than expected."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm giving up trying to predict how long it takes to do stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Instead of predicting how long it takes to do stuff, it's best to just decide how long you can work on something and then just go as long as you can."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I could probably finish the ski resort thing if I go another few days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After finishing the ski resort thing, I might do circus level stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I really need to finish Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Boulder is like an order to not solve it, I left the works."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My legs are starting to hurt."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I should sit down so much, it's like squashed my hamstrings to the point where it squeezes the nerves or something."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Sitting too much makes my legs hurt, like you want to walk around or lay in bed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The leg pain started like two weeks ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I started sleeping, laying on that couch."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not so much on my couch in my room, because it's eight, but my leg on the table on it, pinched my legs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's kind of a kind of under-me that I'm in, because it's going to be difficult to go another year physically, because of my legs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can't get my website done this year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There's no way I can finish my website this year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to need another year, a whole another year, but I think I can finish it another year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I guess I'll just have to buckle up and deal with some pain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Maybe I could just exercise a little bit more."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I guess we'll be with my mom or son."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

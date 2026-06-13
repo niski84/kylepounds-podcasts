@@ -53,7 +53,128 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I was watching the television show 'Wheels' and I was enjoying it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't think I should be proud of watching 'Wheels' because it's so violent."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was thinking about the scene where the guy strangles the blonde girl to death, and that's my happy show."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The show 'Wheels' is a good example of what's wrong with our society."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The show 'Wheels' reflects what's wrong with the way we look at history, the past, and our own human nature."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The show 'Wheels' shows how we don't take our lives seriously."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We shouldn't be representing people as being that evil in shows like 'Wheels'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The show 'Wheels' wasn't that violent in the sense that people weren't just gratuitously killing each other."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In 'Wheels', every season somebody has to die or do something completely violent for no reason."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In 'Wheels', there's a scene where three guys from the railroad town go out to get revenge on the Indians who attacked the rail car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In 'Wheels', the army guy kills the Indian guy for no reason after chatting with him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In 'Wheels', the Swedish guy strangles the girl to death when they could have just had her go back to Chicago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The Wild West wasn't as violent as portrayed in 'Wheels'; people weren't just meticulously killing each other."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Caribou, one of the biggest mining towns in Colorado, had only one murder in 50 years."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In Caribou, an Irish guy got in a fight with a black guy over food and killed him, but they acquitted the white guy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Wild Bill Hickok, the most famous gunslinger, only killed six people in his whole life."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The guy who killed Wild Bill Hickok was a random dude who walked into his card game and shot him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The Wild West had a lot of law and order, and people were always trying to maintain their order in better ways."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In the Oregon Trail, a woman wrote a book about her experiences, including an incident where a guy was killed and nobody knew who did it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In the Oregon Trail, they hung the guy they suspected of killing the wagon guy but took care of his family for the rest of the way."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The Mormons in 'Wheels' are portrayed as shooting and killing a cop for no reason."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In the Oregon Trail book, the Mormons had a bad reputation because they were accused of ambushing wagon trains and kidnapping women."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Historical TV shows should focus on the most outrageous but true stories rather than inventing things that don't make sense."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The most outrageous true stories from history are a lot more tame than the stuff they put in 'Wheels'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The show 'Wheels' is too violent and gives people nightmares."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The show 'Wheels' is rated PG-13 despite its violence because it has no nudity."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Marco Polo, another Netflix original series, has a lot of nudity but not much actual violence."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The show 'Wheels' is programming people to think that people in the past were gratuitously violent and vengeful."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "People should try to cut down on consuming violent content like 'Wheels' even if they enjoy it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm addicted to 'Wheels' and will keep watching it, but I think we should cut down on the violent behavior portrayed in it."
+  }
+ ],
  "transcript": [
   {
    "start": 0.02,

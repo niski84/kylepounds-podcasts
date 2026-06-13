@@ -46,7 +46,132 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "tap water",
+   "claim": "I don't think tap water is healthy."
+  },
+  {
+   "subject": "tap water",
+   "claim": "When I turn on my tap water here in my house, I can taste it and it tastes nasty."
+  },
+  {
+   "subject": "tap water",
+   "claim": "Even the guys I work with said their tap water tastes bad."
+  },
+  {
+   "subject": "government regulations",
+   "claim": "Our government has regulations that keep stuff clean, but they're not strong enough."
+  },
+  {
+   "subject": "government regulations",
+   "claim": "The regulations are strong in the wrong ways."
+  },
+  {
+   "subject": "government regulations",
+   "claim": "We have regulations against natural things like raw milk, but not against the pharmaceutical industry."
+  },
+  {
+   "subject": "government",
+   "claim": "I wouldn't trust the government to make tap water healthy."
+  },
+  {
+   "subject": "government",
+   "claim": "The government doesn't ensure tap water is as healthy as it could be with extra filters."
+  },
+  {
+   "subject": "supplement companies",
+   "claim": "Many natural herbal pill supplement companies sell products that don't contain what they claim."
+  },
+  {
+   "subject": "government",
+   "claim": "The government isn't staying on top of regulating supplement companies."
+  },
+  {
+   "subject": "tap water",
+   "claim": "I can taste the impurities in tap water."
+  },
+  {
+   "subject": "college experiment",
+   "claim": "A kid in college showed how metals attach to a glass of water, revealing impurities."
+  },
+  {
+   "subject": "surgeon general",
+   "claim": "A former surgeon general was fired for saying masturbation could prevent unwanted pregnancies."
+  },
+  {
+   "subject": "surgeon general",
+   "claim": "The surgeon general said two reasons we live longer are quality of water and medical advancements."
+  },
+  {
+   "subject": "water quality",
+   "claim": "Bad quality water can harm your health by introducing toxins into your body."
+  },
+  {
+   "subject": "water quality",
+   "claim": "Toxins in water can interfere with the electrical functioning of the body and cause sickness."
+  },
+  {
+   "subject": "water filters",
+   "claim": "I've had water filters in the past but keep forgetting to get a new one."
+  },
+  {
+   "subject": "water filters",
+   "claim": "My mom has a special German-made water filter."
+  },
+  {
+   "subject": "water consumption",
+   "claim": "I don't drink much water at home; I usually drink tea or orange juice."
+  },
+  {
+   "subject": "tap water contaminants",
+   "claim": "Tap water contains pesticides, fertilizers, medications, and other harmful chemicals."
+  },
+  {
+   "subject": "bacteria in water",
+   "claim": "I think we can trust the government to remove bacteria from water, but not other contaminants."
+  },
+  {
+   "subject": "pharmaceuticals in water",
+   "claim": "Mental health drugs and other pharmaceuticals can end up in our water."
+  },
+  {
+   "subject": "fluoride",
+   "claim": "Alex Jones claims we're all retarded because of too much fluoride in water."
+  },
+  {
+   "subject": "fluoride",
+   "claim": "Fluoride might be making us stupider than people in the past."
+  },
+  {
+   "subject": "fluoride",
+   "claim": "People in the past seemed smarter based on audiobooks and historical speeches."
+  },
+  {
+   "subject": "fluoride",
+   "claim": "There's a conspiracy theory that fluoride is deliberately added to water for harmful reasons."
+  },
+  {
+   "subject": "fluoride",
+   "claim": "Fluoride is supposed to be good for teeth, but we don't need it in water."
+  },
+  {
+   "subject": "corporations",
+   "claim": "Corporations prioritize short-term profits over long-term health effects of water additives."
+  },
+  {
+   "subject": "water filters",
+   "claim": "It's worth getting a water filter to reduce toxins in your water."
+  },
+  {
+   "subject": "health",
+   "claim": "The biggest thing about our health is trying to keep toxins away."
+  },
+  {
+   "subject": "water",
+   "claim": "Water is the number one thing that goes inside your body, so its quality is crucial."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

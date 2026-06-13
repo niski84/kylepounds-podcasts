@@ -39,7 +39,84 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Last night I went to sleep at around 1:30 a.m. because I was really tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought I slept in today but I think I got an okay amount of sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to the hardware store to get lighting stuff but they only had one of the seven lamp covers I needed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I still needed another light itself, so I went to Home Depot but they didn't have it at all."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I called around and found someone selling the lights online, so I ordered six more."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm glad I got the old technology lights before they're completely phased out for LED lights."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll be able to put up my lights today, but I haven't yet because I was working on another project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My project for the day is putting up a living section on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I figured out the green screen and wanted to start my TV show."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have everything ready for the TV show, including the lights and coat stands, but I need the storyline."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need the storyline on my website because that's the only way I know how to look at books, using my rainbow Christian format."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm currently putting up 'Livi' on my website, which is a pretty big book with 100 pages and 37 books, each with about 60 chapters."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm making a template for 'Livi' now because I never made one before and just built the books without one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Once the template is done, I'll put it on my website so others can download it and I can fill in the other books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm building the template for 'Livi' now and will copy it to use as a template for other books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I can finish 'Livi' in a couple of days or over the weekend if I focus on it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might need to do a little bit of Googling, but I'm pretty much ready to finish 'Livi'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I won't have the green screen ready today because it's my vlog day, but maybe by tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had the green screen ready to go, but it's not set up for today's vlog."
+  }
+ ],
  "transcript": [
   {
    "start": 0.98,

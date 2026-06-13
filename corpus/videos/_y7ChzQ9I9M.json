@@ -41,7 +41,72 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I didn't ride today because I was recovering from the ride yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was up until sunrise but didn't need much sleep after that."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to the bike shop and they took my pedals off to exchange them, which will take about a week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not going to ride this week because I don't want to put my other pedals on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to focus this week on organizing ancient books on my website's education page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I find it fascinating to see all the ancient books together because it's everything we have."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to memorize all the pages of the ancient books by scrolling through them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think memorizing the books will take about a week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I also want to get a couple of things fixed on my car to make it better."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm really sore today, especially walking upstairs, so riding wouldn't have been good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think taking a week off from riding will help me reach a higher level when I start again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to buy a scale to start weighing myself because I expect to lose weight."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been focusing intensely on my projects and not listening to much else."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't think I could ride my bike on rollers while concentrating on other tasks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might not do a premiere on this video because it's annoying."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to figure out how to sync the mouth movements with the sound better."
+  }
+ ],
  "transcript": [
   {
    "start": 0.43,

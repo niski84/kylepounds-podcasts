@@ -61,7 +61,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I grew up Buddhist and so I grew up with a concept of enlightenment."
+  },
+  {
+   "subject": "Buddhism",
+   "claim": "If you don't have to reincarnate anymore, that's kind of like the next level."
+  },
+  {
+   "subject": "Buddha",
+   "claim": "Buddha lived 500 BC and was a mountain dude prince who meditated and focused on the breath."
+  },
+  {
+   "subject": "Buddhism",
+   "claim": "Original Buddhism is about focusing on what's important in life, not pre-existing gods."
+  },
+  {
+   "subject": "enlightenment",
+   "claim": "Enlightenment is enjoying every moment to its fullest, naturally living without time."
+  },
+  {
+   "subject": "enlightenment",
+   "claim": "An enlightened person is someone who loves their job and doesn't care about external success."
+  },
+  {
+   "subject": "India",
+   "claim": "In India, enlightenment was connected with yoga because yoga was the best thing to do in their environment."
+  },
+  {
+   "subject": "India",
+   "claim": "India supports life easily due to its climate, so people had spare time for yoga and culture."
+  },
+  {
+   "subject": "Egypt",
+   "claim": "Ancient Egyptians had spare time from the Nile's flooding, which allowed them to develop culture and religion."
+  },
+  {
+   "subject": "medieval Europe",
+   "claim": "Medieval serfs worked only a few days a week and had time to sit around."
+  },
+  {
+   "subject": "enlightenment",
+   "claim": "An enlightened person is content with their situation, like a Roman guard happy in his tower."
+  },
+  {
+   "subject": "enlightenment",
+   "claim": "The easiest way to become enlightened is to do what you enjoy and be content with what you have."
+  },
+  {
+   "subject": "society",
+   "claim": "If managed correctly, our economy could provide enough for people to live freely and pursue enlightenment."
+  },
+  {
+   "subject": "enlightenment",
+   "claim": "Enlightenment comes from the East, specifically Buddhism, and involves being content with oneself."
+  },
+  {
+   "subject": "Western Enlightenment",
+   "claim": "The Western Enlightenment in the 1700s was about rediscovering ancient Roman and Greek culture."
+  },
+  {
+   "subject": "enlightenment",
+   "claim": "Eastern enlightenment is about shedding light on knowledge, while Western enlightenment was about education."
+  },
+  {
+   "subject": "society",
+   "claim": "Society needs mechanisms to help people realize what truly matters in life, like being a good person."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel enlightened because I love my job and don't care how long my projects take."
+  },
+  {
+   "subject": "enlightenment",
+   "claim": "Enlightenment is not being hypnotized by petty drama or temporal desires like money and status."
+  },
+  {
+   "subject": "ancient Rome",
+   "claim": "Ancient Rome was an enlightened society because everyone had a place and could contribute."
+  },
+  {
+   "subject": "meditation",
+   "claim": "Meditation helps with enlightenment by allowing people to experience time without external pressures."
+  },
+  {
+   "subject": "society",
+   "claim": "A healthy society allows people to be free and not compete for scraps like in a dog-eat-dog world."
+  }
+ ],
  "transcript": [
   {
    "start": 0.05,

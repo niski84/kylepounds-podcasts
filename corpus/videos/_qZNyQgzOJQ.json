@@ -89,7 +89,116 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Jacob Dylan",
+   "claim": "Jacob Dylan wanted to be a musician like his father Bob Dylan because his father is a big icon."
+  },
+  {
+   "subject": "Jacob Dylan",
+   "claim": "Jacob Dylan's music is just a knock-off because he wanted to be a singer just to follow in his father's footsteps."
+  },
+  {
+   "subject": "society",
+   "claim": "People often choose careers just because their parents did it or because it's what people in their town do."
+  },
+  {
+   "subject": "society",
+   "claim": "In the past, if your dad was a tailor, you were going to be a tailor, similar to carpenters or smiths."
+  },
+  {
+   "subject": "society",
+   "claim": "Modern society is in a state of decadence, similar to the decline described by Bill O'Reilly."
+  },
+  {
+   "subject": "society",
+   "claim": "The mainstream media is experiencing a precipitous drop in popularity, which will accelerate in 2016 and 2017."
+  },
+  {
+   "subject": "TV",
+   "claim": "TV is becoming obsolete as more people gravitate toward the internet for entertainment."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "There has been a surge in new YouTube channels, especially among younger people creating vlogs or van-living content."
+  },
+  {
+   "subject": "society",
+   "claim": "Society is overly judgmental and operates on mob mentality, where people fear association with controversial figures."
+  },
+  {
+   "subject": "Chick-fil-A viral guy",
+   "claim": "The Chick-fil-A viral guy was blackballed because people are afraid to associate with him due to societal judgment."
+  },
+  {
+   "subject": "society",
+   "claim": "Modern society is a gross distortion of what a healthy society should be, with industries designed to hurt people."
+  },
+  {
+   "subject": "government agencies",
+   "claim": "Agencies like the FDA, FCC, and DEA are designed to hurt people, stifle natural businesses, and suppress free speech."
+  },
+  {
+   "subject": "college",
+   "claim": "Most people go to college just to get a degree and secure a job, not to learn."
+  },
+  {
+   "subject": "college",
+   "claim": "Parents pressure their kids to go to college because they believe it's the only path to a decent life."
+  },
+  {
+   "subject": "college",
+   "claim": "Some people attend college just to meet a partner or because their parents insist, not for education."
+  },
+  {
+   "subject": "society",
+   "claim": "Decadence is destroying society, similar to how it destroyed the Roman Empire."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Ancient Rome evolved from a hardworking society to a decadent one, where people lost sight of the meaning of life."
+  },
+  {
+   "subject": "wealth",
+   "claim": "Excessive wealth leads to a focus on power over others rather than personal growth or contribution."
+  },
+  {
+   "subject": "education",
+   "claim": "The internet makes it easier to self-educate, rendering traditional college less necessary for knowledge."
+  },
+  {
+   "subject": "Ivy League schools",
+   "claim": "Ivy League graduate programs are now dominated by wealthy international students seeking status, not education."
+  },
+  {
+   "subject": "society",
+   "claim": "Society is shifting toward individualism, self-education, and less judgmental attitudes."
+  },
+  {
+   "subject": "music industry",
+   "claim": "The early music industry was led by creative, iconic figures like Bob Dylan, not imitators like Jacob Dylan."
+  },
+  {
+   "subject": "internet media",
+   "claim": "The fall of mainstream media will happen faster than the rise of internet media, creating a temporary void in leadership."
+  },
+  {
+   "subject": "music",
+   "claim": "The future of music will involve more niche sounds and shorter-lived hits, reducing the era of long-term icons."
+  },
+  {
+   "subject": "society",
+   "claim": "Economic systems need redesigning to replace useless industries like college or regulatory agencies with productive work."
+  },
+  {
+   "subject": "electronic music",
+   "claim": "Electronic music is thriving, with countries like Romania, Ukraine, and Russia producing some of the best new sounds."
+  },
+  {
+   "subject": "music",
+   "claim": "Future music will feature more complex and intense sounds that were once jarring but will become relaxing."
+  }
+ ],
  "transcript": [
   {
    "start": 0.24,

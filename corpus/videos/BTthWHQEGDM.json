@@ -42,7 +42,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I was too lazy to do a vlog yesterday because I was working until 2 AM and then got really tired and went to sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on attaching or creating files to download for a Q&A."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I decided to make two tables, one for race distances and another for circles, because combining them didn't fit right."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm creating files for the circles, but it's more intricate than I planned, so it's taking longer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My brother is helping with my motorbike, and my mom is handling selling my car, so I don't have to do anything."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "I'm trying to figure out why my website isn't making money, even though I've only made $230 total from it."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "My website is loaded with ads, and I'm listening to ad tutorials while working on it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm reading about experiments and guides to monetize my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to watch videos and work on my website while riding my bike indoors."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had lunch with my mom at Jake's Tweeter yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I finished a page on my website and showed my mom the tables I was working on at the restaurant."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "I noticed my website looks weird on mobile, with inconsistent text sizes and table widths."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I called Adobe for help with mobile design, but they don't have programs in Creative Cloud to fix it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I suspect libertarians are all paid shills and plan to study them to prove it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I watched a video about libertarians for two and a half hours and took notes, but lost them accidentally."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to target libertarians because they're funded by billionaires pushing misleading ideas."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I believe diverting resources to bicycles for everyone could be a better system."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

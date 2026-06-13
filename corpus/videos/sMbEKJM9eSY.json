@@ -39,7 +39,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got up late because he was working until one or two in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle spent the day tracing stuff and lost four hours of work when his computer crashed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle lost 1600 different tracings when his computer crashed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is worried about how long it will take to recreate the lost tracings on a grid."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle doubts he can complete the project on his current hardware."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is studying libertarianism and commenting on libertarian content."
+  },
+  {
+   "subject": "libertarians",
+   "claim": "Libertarians believe people are lazy and shouldn't be given anything because they will remain lazy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle argues that his daily routine of talking for two hours proves he is not lazy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes his routine is self-fixing and fun, so everyone should do it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks his routine is cheap and there's no reason not to do it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is copying libertarian content to use later for his own website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle struggles with typing on his computer and wants to experiment with dictation."
+  },
+  {
+   "subject": "backgrounds",
+   "claim": "The backgrounds Kyle is working on are 640 kilometers in diameter."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle hasn't memorized the details of his website yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is listening to the book 'Dark Money' by Jane Mayer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle pauses the book to research foundations, institutes, or people mentioned on Wikipedia or YouTube."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes understanding dark money is necessary to direct finances effectively."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle hopes it won't take too long to implement his ideas."
+  }
+ ],
  "transcript": [
   {
    "start": 0.5,

@@ -44,7 +44,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "It's 2.24 pm on July 24th and I'm just about to go on my ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a late start because I had to organize and fix the gears on my bike and fix the flat on my bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I got up kind of late and then I went on my ride up to James Town."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a photo of the bike station in James Town."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The bike station in James Town has tools, a shelter for the rain, and outhouses."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I uploaded my ride to Strava from my bike computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to try to upload a photo of a specific ride from my phone."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Riding my bike up the hill to James Town was amazing because it was steep and hard when I was younger."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My current bike is much better than the one I had when I was younger."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I rode out of the saddle and enjoyed it because it was stiff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went down to Ward and got a drink to put in my fridge."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought some candy at the store in Ward, like gummies for a dollar."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a flat tire right when I hit the park where Old Stage and Left Hand meet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I punctured the tire when I rode into the dirt part of the road and dug into it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I couldn't fix the flat tire because my spare tube also had a hole and my glue was empty."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A biker walked by, and I thought about asking him for glue, but I decided to pump the tire instead."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I pumped the tire five times and a car offered to give me a ride, but I declined."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm excited to get my new map holder that matches the colors of my bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I also have gloves that match the colors of my bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When I came back from the ride, I didn't have the motivation to make a video because I needed to rest."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today I'm going to ride up Sunshine Canyon because I love climbing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to go up to Ward and see if I can find more candy."
+  }
+ ],
  "transcript": [
   {
    "start": 0.4,

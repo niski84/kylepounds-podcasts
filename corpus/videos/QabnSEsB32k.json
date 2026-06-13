@@ -70,7 +70,168 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Martino Martin",
+   "claim": "Martino Martin is my number one fan for the last two years, sending the most video requests."
+  },
+  {
+   "subject": "Randy",
+   "claim": "Randy suggested I should do a video last week."
+  },
+  {
+   "subject": "December 21st",
+   "claim": "December 21st is the shortest day of the year and my mom's birthday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm doing triage like Charles Lindbergh, focusing on my work and throwing away extra stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My janitor job is fun and I get a little better each time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been smoking a lot of weed and absorbing audiobook content, especially biblical stuff."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "My website's Bible section is the oldest part, started 10 years ago and never finished."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "I invented a new internet language called rainbow crystal internet language."
+  },
+  {
+   "subject": "Rainbow crystal internet language",
+   "claim": "Rainbow crystal language fixes numbers from one to ten to colors of the rainbow."
+  },
+  {
+   "subject": "Rainbow crystal internet language",
+   "claim": "The rainbow in my language starts light and goes dark, ending with a halo-like light purple."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "My website emulates nature with its rainbow crystal design."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "Color-coding your website makes you more developed, like being a 3D color guy in a black-and-white world."
+  },
+  {
+   "subject": "Crystal concept",
+   "claim": "The crystal represents the power of 10, allowing zooming in and out of information like a microscope."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "Standardizing all Bibles on my website helps you see connections without changing how you perceive them."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "Each page on my website is numbered to show how big it is in terms of text and reading time."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "My website's design helps you remember where you are in a book by numbering paragraphs."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "I'm working on an aliens and Bible page to connect similar stories across different Bibles."
+  },
+  {
+   "subject": "Kyle's geckos",
+   "claim": "I forgot to feed my geckos for like two or three weeks, and the crickets had babies."
+  },
+  {
+   "subject": "Kyle's computer",
+   "claim": "My new Mac is way better than my old $450 computer, handling more pages and crashing less."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "I redesigned my personal website after not looking at it since 2009."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "My website's layout is grid-based, utilizing every square centimeter of the screen."
+  },
+  {
+   "subject": "Rainbow crystal internet language",
+   "claim": "Rainbow crystal language is about standardizing colors, fonts, and grid layouts for efficient information processing."
+  },
+  {
+   "subject": "Crystal concept",
+   "claim": "Crystals are the perfect design for communication because they're symmetrical and tightly packed."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "My website's design lets you zoom in and out of information like the power of 10 video."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "Transparency in government could be achieved with my website's design, showing exactly how big laws are."
+  },
+  {
+   "subject": "Kyle's weed",
+   "claim": "The weed I smoke now is like soft hash, super potent and expensive."
+  },
+  {
+   "subject": "Weed effects",
+   "claim": "Weed makes you smarter by removing inhibitors, letting you latch onto ideas you'd normally dismiss."
+  },
+  {
+   "subject": "Weed effects",
+   "claim": "Smoking weed shrinks the part of your brain that assesses consequences, explaining why stoners don't care."
+  },
+  {
+   "subject": "Weed effects",
+   "claim": "Weed helps creative people by removing barriers and letting them see the big picture."
+  },
+  {
+   "subject": "Weed history",
+   "claim": "Hemp was a major crop in history, but people didn't talk about getting high because they didn't need to break barriers."
+  },
+  {
+   "subject": "Weed future",
+   "claim": "In the future, if creativity isn't suppressed, people might not need weed anymore."
+  },
+  {
+   "subject": "Kyle's geckos",
+   "claim": "I built a little jungle gym for my geckos out of my fireplace."
+  },
+  {
+   "subject": "Kyle's garden",
+   "claim": "I turned my fireplace into a garden with mirrors to make it look bigger."
+  },
+  {
+   "subject": "Kyle's timeline",
+   "claim": "I have a history timeline book called 'Streams of Time' next to my fireplace."
+  },
+  {
+   "subject": "Kyle's weed",
+   "claim": "The weed I have now is called 'Wide Out,' 22% THC, and it's like a rock."
+  },
+  {
+   "subject": "Kyle's high",
+   "claim": "When I'm high, I feel like I'm in a sitcom, watching myself from a third-person perspective."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "My website's design lets you see the ratio of information, helping your brain hold more."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "I want to digitize all underground books with rainbow crystal language."
+  },
+  {
+   "subject": "Kyle's high",
+   "claim": "Being high helps me do tedious work on my website without getting bored."
+  },
+  {
+   "subject": "Kyle's high",
+   "claim": "When I'm high, I can daydream and work forever, tripping over audiobook content."
+  }
+ ],
  "transcript": [
   {
    "start": 0.24,

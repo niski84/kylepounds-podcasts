@@ -49,7 +49,112 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I was going to pick up my microphone today but just woke up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My computer is not cooling itself, but the sound is really good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm really high right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working until around 2 AM and woke up at 10 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel like I took my period away from myself the other day because I had to move things out of the way."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It doesn't take much time to get the mattress out of the way, but it takes more time to move the pyramid."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm really hurt right now, but I think it's worth it to take the pyramid out of the way."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Since I got rid of the pyramid, I need more extra sleep, like 12 hours yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When I had the pyramid, I was getting around six hours of sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel a little bit overwhelmed with so much organization."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Organizing my room feels like trying to run through a wall and never quite getting there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The great goal for organizing my room is tackling the shelves."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to organize the deck, the car, and digital stuff before selling the car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Someone gave me a request after two green screen videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can do green screen panoramas or visions in the background, whatever people want."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't care about doing incomplete versions of things."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can recreate historical locations like 1859 Boulder or ghost towns in Colorado."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have traced walls of cities in Europe and can create panoramas of them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I don't get a request, I'll stand on top of the Great Pyramid of Giza in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had issues uploading a video last time, with it getting stuck at processing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might email large files to my mom instead of uploading them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My neighbor's internet is fast, but mine is slow even when hardwired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can't comment on YouTube comments and don't want people calling me paranoid."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today I'm going to organize my house because I need to sell my car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to organize my papers, including car documents, before selling the car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to scan and share all my papers for the car."
+  }
+ ],
  "transcript": [
   {
    "start": 0.82,

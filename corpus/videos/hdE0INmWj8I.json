@@ -33,7 +33,52 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He forgot that February only has 28 days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to send his medicina paperwork tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got carried away working on his website until late at night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was fixing his aliens page on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He reduced the size of the pictures on his website to 20% of their original size."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finds beauty in perfecting his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is working on his Google Earth stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to showcase different pages of his website after finishing his Google Earth projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hopes showcasing his website will motivate him to complete certain pages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wonders if he will run out of things to do on his website or Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He feels tired but acknowledges there is still more work to do."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

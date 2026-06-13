@@ -47,7 +47,180 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He lives in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is 38 years old."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went riding for the last few days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been doing a lot of work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He helped his mom move her office."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went on a ride in the afternoon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't go on a ride yesterday because he didn't have time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went on a ride up the linden."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to go all the way to the top to see if there's a strong signal."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will put photos from his ride online."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went up some chan can and then down the poor man and up a farm out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went up on north to Wall Street."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He saw an old mining town that used to have 300 people."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He saw a big tall tower that held the gold."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The mining operation was only active from 1902 to 1905."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The platforms for the houses and an old stage were still up there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He saw wagon wells up there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There is a dude living in the old church where the station was."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The estate is offices of Museum open from 11 to 3 every third Saturday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went up to the end of the road and went back down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He tried to imagine the town being there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has already looked at the area on Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Riding is amazing after looking at the doors because it's like going inside of the door."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went up to gold hill and then down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It was getting dark when he got home."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thought he would just want to get on the scale."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was out of water."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is a water guzzler because he's just starting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His ride was 38 miles and 4800 feet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's fun to ride but he needs to make sure he's not overdoing it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is struggling because it's more painful than it would be if he were super fit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's weird to think of a short 30-mile ride being really hard."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He can't wait till he can do a ride starting in the morning and go all day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There's a strawberry challenge to do a hundred-mile ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He came home and was working on YouTube."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is working his way down one page to capture everyone from the ancient world."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to make sure he gets everybody from the ancient world and the church fathers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There are a lot of fragments and short ones."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he can zoom through and finish soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is super motivated."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was looking on Strava and figuring around Strava."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "With his bike computer, he can hit laps to get information between the times he hits it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is using Strava's segment feature to know the watts and other data."
+  }
+ ],
  "transcript": [
   {
    "start": 1.2,

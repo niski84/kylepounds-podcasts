@@ -42,7 +42,136 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I didn't do yesterday's video because it was a different day and I got through it easily."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I may have reversed my sleep schedule because I just woke up at 6:30 in the morning, which is usually when I go to sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I stayed up all night and didn't get to sleep until around 1."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working at the Plimer until 1, and my mom came over and was hanging out at the beginning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I finally had my mom call a Plimer and put a whole new fixture in there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The new fixture is a lot easier to adjust, gets hot, and doesn't leak."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The new fixture cost about $500."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My shower stopped working because the hot water just stopped doing anything when you turn it on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't have a shower last night and waited until the fixture was fixed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom is getting super pissed off because I keep getting her to give me money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've had my mom give me $7,000 over the last couple of months."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom sold her house in Virginia to her brother for cash and got money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been siphoning money off from my mom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I really need to start selling my car on Monday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom says to start high with the car price, so I think I'll start at $25,000."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll sell the car for real this time, unlike last time when I didn't include all the photos and maintenance information."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll take more photos, update the maintenance records, and make a YouTube video for the car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I'll do a YouTube video every week, like different commercial genres, to entice people to buy my van."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I could do mock trips and artistic angles to make the van seem cool."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I was working on the bike race level page and realized I left a lot of it in a state of abandonment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't finish getting my pictures for the bike race level page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to put my stuff back in and finish the bike race level page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When I get my green screen in the mail, it'll be a little project to figure out how to work it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I told my mom I wouldn't start selling the car full-time until Thursday, Friday, Saturday, or Sunday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to work on the bike race level page full-time because there's so much to do with it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to get my surface-level stuff on the website fixed to help sell my car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took $2,000 out of my line of credit because I forgot I'd have to pay anything."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I tried to sell my car last summer, but right after I put it on sale, I had light problems that took a couple of weeks to fix."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My rocket box fell off, but I fixed it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was listening to 'Versaiman,' which is a really good, realistic, and seriously done TV show."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There are so many historical shows on Netflix that I like."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I've talked for long enough and will peace out now."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

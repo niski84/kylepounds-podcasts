@@ -35,7 +35,128 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got to Smyrning at around 9 or 10."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle worked for a little bit after arriving at Smyrning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle realized his mom wanted him to go to her house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went to his mom's house and cleaned dishes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle ran some errands with his mom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle picked up some stuff with Katie."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle received some emails."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to be picked up tomorrow to get his bike or Alice."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle worked on the same treatment later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is currently filling in buttons and doesn't find any gaps."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to go to work at 2:30 in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is recording a video and will process it later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle will put photos on Clicker and start tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow is Kyle's last day of winter break."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle works on new days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was listening to different Wikipedia articles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wrote a little bit about Renatus."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle watched the first movie again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle originally got into the movie through his mom's TV."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got back on Netflix with the money he had."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle started watching the first movie again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is not familiar with Alexa."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle likes to record videos for about 3.5 hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle saw the movie when it first came out and is watching it again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle takes notes while watching the movie."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks the movie is really well made."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to finish a page tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels excited about finishing the page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks continuing with his work feels like being buried forever."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks he might be crazy but hopes everything will work out."
+  }
+ ],
  "transcript": [
   {
    "start": 1.39,

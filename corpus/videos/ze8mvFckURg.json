@@ -48,7 +48,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "My computer has been making noise all day long and won't shut up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I tried recording with my cell phone to avoid the noise, but the phone is corrupted."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent two hours with tech support trying to fix my phone."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to resolve the phone issue tomorrow so I can record without hearing the noise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I rode my bike indoors for 40 miles and lost four pounds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to the doctor and had my blood pressure taken, which was 200 over something."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I realized I need to know my walking or driving speed to adjust my bike rollers correctly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I looked at a chart to pace myself but found it inaccurate for my needs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to lean a certain way to make the bike rollers work better for me."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought new pedals for my bike after getting a discount."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I also bought new shoes because my old ones weren't compatible with the new pedals."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent $180 on shoes, originally priced at $250."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm trying not to think about money right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to set up a green screen for my bike area but had to move pictures around first."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to finish setting up the green screen tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been listening to videos about archaeology and Amazonian buildings."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I watched a show about drama and enjoyed it, finishing season two today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked on my website while riding my bike and watching TV."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm focusing on finishing my website to improve my financial situation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I work slower when I'm not busy, which makes it harder to focus."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't done a video in many days, which is why I'm talking so much now."
+  }
+ ],
  "transcript": [
   {
    "start": 0.5,

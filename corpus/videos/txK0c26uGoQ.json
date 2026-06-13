@@ -35,7 +35,124 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I love living in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I forgot to do a viewlog yesterday morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wasn't home until like nine in the afternoon yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was too tired and stoned to do the viewlog yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, I think I visited three houses."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wrote out a long mind yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked on my own yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked out in the morning yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I rode my bike all day back, about 10 miles out and back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It was stountrying, so we didn't know."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I built part of my little cone."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We went into the other place and organized the furniture and the lawn."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went over to my mom's house and dug up plants around her rose bushes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had dinner at my mom's house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We watched episodes of 'Orange is the New Black'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom is really into 'Orange is the New Black'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The casting in 'Orange is the New Black' is brilliant."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I came home tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to ride about eight miles away or something."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm ready for the weekend."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When I come home from work, I'll just work on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got six more cricket containers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I get a thousand crickets from a new company."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I built my little cone thing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a couple of crickets running around my house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can get more different reptiles when I have the money, like next year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might get a chameleon or a bearded dragon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I could pick birds and put plastic leaves all over my room to make it look like a jungle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Maybe I'll even get a humidifier."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

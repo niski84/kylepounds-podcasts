@@ -39,7 +39,84 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Moving in Boulder is scheduled for August 2nd."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's currently August 3rd at 2:14 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked all day on 'Climbing of Alexander' and completed a thousand-page book."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He realized he had already done the same work, leading to a wasted day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had mixed up his completed and uncompleted books, causing the duplication."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This was the biggest reading volume he has ever done in one day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hasn't wasted a day like this in a while and usually has a good track record."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The mistake was a big bummer but made him want to work even harder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to do a little more work tonight because he feels close to finishing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Many of the books he's working on have a lot of writing, but he's powering through."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He mentions being totally absorbed in his work, referencing 'nobias, tias, commandias, directory, thou, my two, the belated, 6.0, the l.s. ever kind'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is prepared to work all week to finish his current project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Once done, he will have read almost everything except some fragmented poets."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is excited to move on to other projects after finishing his current work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was listening to TASA's owls and a play by a church father."
+  },
+  {
+   "subject": "church fathers",
+   "claim": "Church fathers who lived around the fall of Rome were prolific writers."
+  },
+  {
+   "subject": "church fathers",
+   "claim": "They wrote instruction manuals and had opinions about everything, including shoes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He recommends listening to church fathers for those interested in Christianity and the Bible."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There is an endless amount of material to listen to from the church fathers."
+  }
+ ],
  "transcript": [
   {
    "start": 1.04,

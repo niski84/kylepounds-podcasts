@@ -44,7 +44,84 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't get the time to do a video yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been focusing on books related to the Greco-Roman world for the past couple of days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle decided to collect everything from the classical world up until the fall of Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels exhausted from collecting material on Rome and is now focusing on Greece."
+  },
+  {
+   "subject": "Plato and Aristotle",
+   "claim": "Plato and Aristotle wrote a lot, and collecting their works would take the most time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels like he is learning a lot just by collecting the books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is excited to finish the books and do a word count to understand their size and structure."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been working into the morning and sleeping a little but getting a lot done."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been listening to books while working."
+  },
+  {
+   "subject": "Plato's Republic",
+   "claim": "Kyle was listening to Plato's Republic and plans to work on it next."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been bouncing around exploring different materials and feels he can zoom through them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's goal is to memorize all the information and set it up on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to calculate how much information the human brain can hold in a lifetime from reading."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to compare the storage capacity of the brain to that of a computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle estimates that reading all day every day might use up one-fifth of the brain's total storage capacity."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is currently working on detailing mood and then plans to focus on Plato and Aristotle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels that after conquering Plato and Aristotle, he will have the rest of the Greco-Roman material."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is looking forward to condensing all the Greco-Roman world's information onto one page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to estimate how many pages of lost books there are based on known information."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

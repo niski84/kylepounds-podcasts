@@ -36,7 +36,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "His computer screen turned black after he tried to save a video he had just recorded."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had to restart his computer because it stopped responding."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The video he named and saved was lost after the restart."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had to re-record the video because the original was lost."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His first computer died after about a year of use."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got up at 1 PM the previous day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't get much done during the day due to traffic and snow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He bought two lights for filming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He spent time organizing his room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He discovered a major problem with the bike race data he had printed and organized."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There was a huge discrepancy in the speeds recorded in the bike race data."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He initially thought the data was perfect but later realized it was flawed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to fix the data issues the next day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He might have to rebrand and recut the data or manually correct entries after the 24-mile mark."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't want to work on his website but feels compelled to fix the data immediately."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He also has a problem with his fluid trainer that needs fixing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hates having to redo videos or tasks."
+  }
+ ],
  "transcript": [
   {
    "start": 0.02,

@@ -34,7 +34,64 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I got up late today because I was working until around 5 in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I woke up at around 11 or 12."
+  },
+  {
+   "subject": "Aristotle",
+   "claim": "I was studying Aristotle last night."
+  },
+  {
+   "subject": "books",
+   "claim": "Around 400 AD, there are a lot of books from that time."
+  },
+  {
+   "subject": "Roman Empire",
+   "claim": "I was researching the Roman Empire and Byzantine Empire today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I set up a list of about 30 books in my bookmarks."
+  },
+  {
+   "subject": "books",
+   "claim": "There's no single site that has every old book; they're scattered across multiple sites."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working hard despite being high."
+  },
+  {
+   "subject": "computer",
+   "claim": "I wish I had a faster computer for research purposes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I lost some opportunities due to my current computer."
+  },
+  {
+   "subject": "books",
+   "claim": "It's amazing to compile every book in history together."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to work on this project until next Sunday."
+  },
+  {
+   "subject": "website",
+   "claim": "I'll put the collected books on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might go into a 'crazy mode' and switch to something else."
+  }
+ ],
  "transcript": [
   {
    "start": 0.94,

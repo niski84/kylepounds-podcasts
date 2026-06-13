@@ -102,7 +102,124 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "the Vatican",
+   "claim": "The Vatican is the smallest country in the world."
+  },
+  {
+   "subject": "the papacy",
+   "claim": "The papacy is the oldest continual line of leadership in the world, going back 2000 years."
+  },
+  {
+   "subject": "the papacy",
+   "claim": "The papacy is the only ancient political structure that is an elected autocracy."
+  },
+  {
+   "subject": "history",
+   "claim": "History should be looked at as though it’s a living person to understand cause and effect."
+  },
+  {
+   "subject": "the papacy",
+   "claim": "The papacy has changed over time, with some popes being greedy and others truly religious."
+  },
+  {
+   "subject": "Jesus",
+   "claim": "Jesus started Christianity by preaching the New Testament against the old traditions of the Jews."
+  },
+  {
+   "subject": "Jesus",
+   "claim": "Jesus performed miracles because he was an alien with superpowers."
+  },
+  {
+   "subject": "Christianity",
+   "claim": "Christianity caught on because it was a superior religion that didn’t require trinkets or temple fees."
+  },
+  {
+   "subject": "Jesus",
+   "claim": "Jesus was born in 7 BC and died in 33 AD, around the age of 40."
+  },
+  {
+   "subject": "the New Testament",
+   "claim": "The New Testament started being written down about 30 years after Jesus’s death."
+  },
+  {
+   "subject": "apostle Peter",
+   "claim": "Apostle Peter was the first pope, appointed by Jesus."
+  },
+  {
+   "subject": "the Holy Spirit",
+   "claim": "The Holy Spirit refers to alien technology that gave the apostles superpowers."
+  },
+  {
+   "subject": "Christianity",
+   "claim": "Christianity spread well in Jewish, Greek, and pagan communities."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome was a multicultural city where Christianity caught on well."
+  },
+  {
+   "subject": "Constantine",
+   "claim": "Constantine made Christianity the official religion of the Roman Empire in 325 AD."
+  },
+  {
+   "subject": "the Bible",
+   "claim": "Constantine commissioned the assembly of the Old and New Testament books."
+  },
+  {
+   "subject": "the papacy",
+   "claim": "The papacy became a political entity during the Papal States period."
+  },
+  {
+   "subject": "Gregory the Great",
+   "claim": "Gregory the Great was one of the greatest popes, focusing on helping the poor."
+  },
+  {
+   "subject": "the Catholic Church",
+   "claim": "The Catholic Church went through fluctuations of wealth and poverty, similar to a person’s life."
+  },
+  {
+   "subject": "the Papal States",
+   "claim": "The Papal States were a country owned by the papacy from 752 to 1870."
+  },
+  {
+   "subject": "Charlemagne",
+   "claim": "Charlemagne was crowned emperor of Rome by the pope in 800 AD."
+  },
+  {
+   "subject": "the Crusades",
+   "claim": "The Crusades brought Middle Eastern culture and education to Western Europe."
+  },
+  {
+   "subject": "Urban II",
+   "claim": "Urban II was the worst pope because he started the First Crusade."
+  },
+  {
+   "subject": "the Medici family",
+   "claim": "The Medici family used their wealth to influence the papacy during the Renaissance."
+  },
+  {
+   "subject": "the Sistine Chapel",
+   "claim": "The Sistine Chapel was painted during the Renaissance, funded by selling indulgences."
+  },
+  {
+   "subject": "Martin Luther",
+   "claim": "Martin Luther’s 95 Theses criticized the Catholic Church for selling indulgences."
+  },
+  {
+   "subject": "the Jesuits",
+   "claim": "The Jesuits traveled the world to spread Christianity and help natives."
+  },
+  {
+   "subject": "the current pope",
+   "claim": "The current pope is focusing on helping the poor and being humble."
+  },
+  {
+   "subject": "the Vatican",
+   "claim": "The Vatican should digitize its library and turn churches into homeless shelters."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

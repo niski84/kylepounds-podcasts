@@ -74,7 +74,152 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I want to do a view log today to explain my new website development because it reached another level of creativity."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm high; I wasn't smoking for half an hour before doing this, but I should probably smoke a bowl in a couple of seconds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't drink, but my roommate is giving me a beer for growth, so I'll drink it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got new ideas for my website and explained them to my mom, who liked the idea."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I paired my biking campaign with Julius Caesar's military campaign to align my races with his battles."
+  },
+  {
+   "subject": "Julius Caesar",
+   "claim": "Julius Caesar's army hiked 20 miles a day, which I compare to my biking distances."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Pairing historical events with personal experiences helps me learn things better."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome was founded in 756 BC by Romulus and Remus, sons of a deposed king."
+  },
+  {
+   "subject": "Romulus and Remus",
+   "claim": "Romulus and Remus were the rightful heirs of the kingdom of Alba Longa."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome started as a small settlement in a marshy, undesirable area of Italy."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome grew powerful because it was founded in a harsh, swampy area, fostering resilience."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome's founders gained followers because they were strong fighters."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome's location in a swampy area made it defensible against enemies who couldn't use formations there."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome's early territory was about 20 kilometers across, a distance people could walk in a day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I paired the Roman Coliseum with the Haystack North Boulder, a hill that looks like a pyramid."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I created a story where the St. Dominions start a warrior band, similar to Rome's founders."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The Romans kidnapped Sabine women to populate their city, leading to a conflict and eventual alliance."
+  },
+  {
+   "subject": "Rome",
+   "claim": "The Sabines attacked Rome but were stopped when the kidnapped women intervened, leading to unification."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome dismantled Alba Longa after defeating them, forcing its inhabitants to move to Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I mapped Rome's expansion to my biking routes, like riding to Kansas or Utah to symbolize conquering territories."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I created fantasy kingdoms in Colorado that mirror ancient tribes and linguistic groups."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I paired athletic distances (e.g., 500m, 10k) with historical message-relaying and military movements."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to act out historical motifs with wigs and costumes, like a Roman senator or Jesus."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll sing songs about historical motifs, like the 'virgin-born king' inspired by Jesus Christ."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll use biblical English in my performances to add gravity and authenticity."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll create a sitcom-style show blending history, audiobooks, and biking adventures."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll use Google Earth to show concentric circles representing historical territories and distances."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll delay my biking project by a year to focus on my website and creative content."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I believe pairing historical events with modern activities helps people understand scale and context."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll reimagine religious motifs creatively, like twisting Christian songs into my own myths."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll accuse critics of 'decadence' if they oppose my creative reinterpretations of religious themes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll use my biking routes to symbolize Roman military campaigns, like the Battle of the Sabines."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll create traditions inspired by Rome, like 'hot cheap unboxing' for carrying women, mirroring the Sabine rape."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll map Roman city walls to local landmarks, like the Haystack Boulder matching Rome's first wall size."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll use my show to teach history by pairing it with my biking and creative performances."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll motivate others to bike and learn history by making it entertaining and relatable."
+  }
+ ],
  "transcript": [
   {
    "start": 0.69,

@@ -32,7 +32,108 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He lives in Boulder, Vila, Virginia."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday was a normal day where he worked until around 6 or so."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was printing pictures and posting them on his walls."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was mainly working on his bike research."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finds skating more interesting the more he works on it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He started working on his bike research when he first moved to Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He saw a flat from his window and decided to build a bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked on the bike for months before abandoning it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He abandoned the bike project when he decided to focus on his computer and other stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The bike project was the closest to being done among all his abandoned projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is excited to go back and fix the bike project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He doesn't know how long it will take to fix the bike project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked on fixing the bike project for at least a week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's hard to explain what he was fixing on the bike project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He originally built the bike with his old, slower computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Fixing the bike project is faster and easier with his new computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was listening to a history podcast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He watched a show called 'The Fall of Theater' or 'Sack of Siege' on Netflix."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The show had great battle scenes he wants to watch again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He enjoys watching Netflix because there are so many movies to choose from."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He likes to watch the best parts of interesting movies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He doesn't feel like talking much today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's 9:38 and he's already tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't get much sleep last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's starting to feel a little tired."
+  }
+ ],
  "transcript": [
   {
    "start": 1.78,

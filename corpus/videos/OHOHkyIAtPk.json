@@ -52,7 +52,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "cheese burgers",
+   "claim": "I love cheese burgers."
+  },
+  {
+   "subject": "cheese burgers",
+   "claim": "I never eat cheese burgers but I want to."
+  },
+  {
+   "subject": "cheese burgers",
+   "claim": "When I travel to other countries, I sometimes get a hamburger or a Big Mac."
+  },
+  {
+   "subject": "cheese burgers",
+   "claim": "As a kid, I usually just got hamburgers to save money."
+  },
+  {
+   "subject": "cheese burgers",
+   "claim": "I think it's good to get cheese burgers because the cheese is right there on the burger."
+  },
+  {
+   "subject": "hamburgers",
+   "claim": "Hamburgers are basically an American food."
+  },
+  {
+   "subject": "American food",
+   "claim": "American food includes hamburgers and chili."
+  },
+  {
+   "subject": "American food",
+   "claim": "A lot of American food comes from Germany, like bacon."
+  },
+  {
+   "subject": "bacon",
+   "claim": "Americans have thin crispy bacon, while the English have juicy bacon."
+  },
+  {
+   "subject": "American agriculture",
+   "claim": "America has a lot of fields and grassland for cows."
+  },
+  {
+   "subject": "American agriculture",
+   "claim": "Before cows, the land was occupied by buffalo."
+  },
+  {
+   "subject": "buffalo",
+   "claim": "Americans used to eat buffalo, and sometimes still eat buffalo burgers."
+  },
+  {
+   "subject": "meat consumption",
+   "claim": "Americans are big meat eaters, often preferring ground beef in hamburgers."
+  },
+  {
+   "subject": "meat consumption",
+   "claim": "Argentinians are also big meat eaters, but they usually have it in steak form."
+  },
+  {
+   "subject": "meat processing",
+   "claim": "Americans are now eating every part of the animal, like in India, but in a gross way."
+  },
+  {
+   "subject": "meat processing",
+   "claim": "Some hamburgers contain 'pink slime,' which is melted bones and tendons with chemicals."
+  },
+  {
+   "subject": "fast food",
+   "claim": "My favorite hamburger is from Burger King, though Burger King has slipped in quality."
+  },
+  {
+   "subject": "fast food",
+   "claim": "I also like McDonald's Big Mac."
+  },
+  {
+   "subject": "French fries",
+   "claim": "McDonald's has the best French fries because they're the crispiest."
+  },
+  {
+   "subject": "French fries",
+   "claim": "McDonald's fries have the perfect amount of salt, evenly spread."
+  },
+  {
+   "subject": "French fries",
+   "claim": "Burger King's fries are soggy, and Wendy's fries don't have enough salt and aren't crispy enough."
+  },
+  {
+   "subject": "hamburger toppings",
+   "claim": "When I have a hamburger, I put everything on it: cheese, lettuce, tomato, ketchup, and mustard."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

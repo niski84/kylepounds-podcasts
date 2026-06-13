@@ -65,7 +65,236 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "teleportation",
+   "claim": "I wanted to know whether you would use teleportation if it was ever invented."
+  },
+  {
+   "subject": "teleportation",
+   "claim": "If teleportation worked by copying all your cells and reproducing them at the final destination, would this still be you to your friends and family, to the person at the destination?"
+  },
+  {
+   "subject": "teleportation",
+   "claim": "I wasn't sure if it was possible to transfer a soul through the teleportation process."
+  },
+  {
+   "subject": "teleportation",
+   "claim": "I wouldn't want to teleport if it meant my personal consciousness was erased."
+  },
+  {
+   "subject": "teleportation",
+   "claim": "There would be no way to prove one way or another if the duplicate is you or a copy of you."
+  },
+  {
+   "subject": "human cells",
+   "claim": "I've read that our human cells are replaced every few years, so we aren't even the same person we used to be."
+  },
+  {
+   "subject": "teleportation",
+   "claim": "Would you feel confident enough to try teleportation?"
+  },
+  {
+   "subject": "teleportation",
+   "claim": "Would you be accepting of a lower quality of life than everyone else in society if you didn't teleport?"
+  },
+  {
+   "subject": "teleportation",
+   "claim": "I don't know if I would be able to teleport."
+  },
+  {
+   "subject": "aliens",
+   "claim": "If you believe in aliens, how do you think they travel around?"
+  },
+  {
+   "subject": "space travel",
+   "claim": "They can't fly like we fly from here to Mars; they'd crash into little asteroids and it would take too long."
+  },
+  {
+   "subject": "space travel",
+   "claim": "The closest star to here is four and a half light years away, and traveling at the speed of light would still take four and a half years."
+  },
+  {
+   "subject": "aliens",
+   "claim": "Aliens travel here for vacations or short trips, so they must already know how to teleport."
+  },
+  {
+   "subject": "space travel",
+   "claim": "If you can imagine traveling to other stars or galaxies, then teleportation is how you would do it."
+  },
+  {
+   "subject": "human soul",
+   "claim": "The human soul is designed to grow, and the human experience is designed to grow."
+  },
+  {
+   "subject": "society",
+   "claim": "If you can imagine something happening and feel like it's the natural progress of our society, then it is the natural progress of our society."
+  },
+  {
+   "subject": "belief",
+   "claim": "You think of it, and then you do it, and anybody who tells you otherwise is just a grumpy, angry, stupid person."
+  },
+  {
+   "subject": "skeptics",
+   "claim": "Skeptics and atheists are just dumb people who grew up in a society where everyone around them chooses to disbelieve."
+  },
+  {
+   "subject": "belief",
+   "claim": "People who disbelieve don't have reasons; they just spout nonsense talking points they hear."
+  },
+  {
+   "subject": "imagination",
+   "claim": "If you can imagine traveling to another star, then you can travel to another star."
+  },
+  {
+   "subject": "science",
+   "claim": "Stupid people in politics and society believe in science selectively to back up their stupid ideas."
+  },
+  {
+   "subject": "paradigm",
+   "claim": "If you have a paradigm that is open-minded and offers a way to grow, then by default, that's the correct paradigm."
+  },
+  {
+   "subject": "facts",
+   "claim": "All scientific data will support an open-minded paradigm if you believe in it."
+  },
+  {
+   "subject": "alchemy",
+   "claim": "Alchemy and early chemistry were based on imagination, and now we're in a similar stage with teleportation."
+  },
+  {
+   "subject": "imagination",
+   "claim": "The golden rule of imagination is that anything you imagine is possible."
+  },
+  {
+   "subject": "teleportation",
+   "claim": "We should believe in teleportation now, even if we don't know how it happens."
+  },
+  {
+   "subject": "time travel",
+   "claim": "Teleportation and time travel are the things we've got to do, and they're kind of the same thing."
+  },
+  {
+   "subject": "time travel",
+   "claim": "Time travel is like version 2.0 of the teleportation machine."
+  },
+  {
+   "subject": "time travel",
+   "claim": "When you time travel, you're going to another reality in a different time period."
+  },
+  {
+   "subject": "future society",
+   "claim": "By the time we can time travel, society will be utopian enough to prevent people from messing things up."
+  },
+  {
+   "subject": "aliens",
+   "claim": "Aliens or future humans time-traveling to the past are where the gods in the Bible and Greek mythology come from."
+  },
+  {
+   "subject": "technology",
+   "claim": "How much technology we have depends on how open-minded we are as a society."
+  },
+  {
+   "subject": "society",
+   "claim": "If we open all borders and stop racism, we could shift industry from war to transportation and tourism."
+  },
+  {
+   "subject": "teleportation",
+   "claim": "If you make society ready for teleportation machines, the technology will magically appear or be given to us by aliens."
+  },
+  {
+   "subject": "teleportation",
+   "claim": "You would know it's you teleporting because how could it not be you?"
+  },
+  {
+   "subject": "human consciousness",
+   "claim": "Yes, I would use teleportation, but I wouldn't be the first to test it."
+  },
+  {
+   "subject": "teleportation technology",
+   "claim": "The technology for teleportation is actually pretty simple once you understand it in the right way."
+  },
+  {
+   "subject": "nanotechnology",
+   "claim": "We're developing micro-machines that can collect molecules and create things, which could help with teleportation."
+  },
+  {
+   "subject": "DNA",
+   "claim": "Once we map the DNA of a human being, we can create human beings."
+  },
+  {
+   "subject": "teleportation",
+   "claim": "Your soul would know what's happening during teleportation and wouldn't detach from your body."
+  },
+  {
+   "subject": "organ transplants",
+   "claim": "When people get organ transplants, their soul just attaches to the new organ, and it works the same way."
+  },
+  {
+   "subject": "human body",
+   "claim": "Our human bodies are like machines, and if you engineer them to fit with technology, they will work."
+  },
+  {
+   "subject": "human body",
+   "claim": "Human bodies follow the same scientific laws as computers; we're all electromagnetic devices."
+  },
+  {
+   "subject": "brain waves",
+   "claim": "The brain wave frequency of our brains overlaps with the Earth's frequency, which is about 8 Hz."
+  },
+  {
+   "subject": "mind control",
+   "claim": "You can shut people's brains off or control them the same way you can with machines."
+  },
+  {
+   "subject": "soul",
+   "claim": "Your soul is the most dense, powerful thing in the universe and cannot be destroyed."
+  },
+  {
+   "subject": "soul",
+   "claim": "The soul is the source point of energy, and everything else comes from it."
+  },
+  {
+   "subject": "memories",
+   "claim": "Nothing can erase your memories because they are part of your soul."
+  },
+  {
+   "subject": "God",
+   "claim": "When Christians say God is watching you, it's really you watching yourself."
+  },
+  {
+   "subject": "teleportation",
+   "claim": "You can prove a duplicate is you the same way you prove it's you on the phone—by asking personal questions."
+  },
+  {
+   "subject": "fear",
+   "claim": "People freak out and get scared for no reason, like with Ouija boards or teleportation."
+  },
+  {
+   "subject": "teleportation",
+   "claim": "I would teleport if everybody else did it, because otherwise I'd feel like an idiot afraid to experience life."
+  },
+  {
+   "subject": "society",
+   "claim": "To use advanced technology, society must first learn to trust and not be racist or prejudiced."
+  },
+  {
+   "subject": "trust",
+   "claim": "It's better to be the person who gets fucked over than the one who fucks others over."
+  },
+  {
+   "subject": "borders",
+   "claim": "Opening up borders is the key to advancing society and technology."
+  },
+  {
+   "subject": "Canada",
+   "claim": "Canada wouldn't even let me visit for a day because they didn't trust me, and that's the kind of thing we need to cut out."
+  },
+  {
+   "subject": "technology",
+   "claim": "If we cut out distrust and prejudice, we can use advanced technology; if not, we can't."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

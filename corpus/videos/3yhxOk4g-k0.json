@@ -38,7 +38,100 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I'm able to comment on maybe 9% of my videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been unable to comment on my videos since I started uploading."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't know why I can't comment on my videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't contacted YouTube about the commenting issue."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I probably won't contact YouTube about the commenting issue."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Not being able to comment on my videos will likely start to bother me."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Commenting on my videos was one of my favorite things to do."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I always commented on the news."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I never blocked people unless they repeatedly attacked me over multiple videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I love having conversations with people in the comments."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can't comment on people's comments anymore, which is probably a big reason I don't engage as much."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "YouTube may have diminished my commenting ability because I'm a stoner."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In 2011, I got really drunk and made a video where I exposed myself."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "YouTube deleted the video immediately."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was shocked when I realized what I had done the next morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A cop confronted me about my behavior that night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was using public Wi-Fi at the time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "YouTube disabled my ability to upload comments for two weeks after that incident."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think YouTube has permanently disabled my ability to comment on my own videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I never received an email from YouTube explaining why my commenting was disabled."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There might be a law or policy that led to my commenting being disabled."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might have received enough complaints to trigger the restriction."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I will show what the commenting restriction looks like to prove I'm not lying."
+  }
+ ],
  "transcript": [
   {
    "start": 1.1,

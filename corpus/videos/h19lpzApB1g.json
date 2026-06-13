@@ -44,7 +44,116 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I rode 13 miles on the Roll Trainer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I slept in today until noon because I was extremely tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My appetite is increasing, so I have to eat more."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m simplifying my meals but adding more veggies to eat more."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m recording how much I eat and how much I ride every day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn’t get much work done in the morning because I was setting up my new bike racing gear."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I drove to work today because it was snowy, and my car broke down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This is the second time my car has broken down in winter."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The first time my car broke down, the front wheel fell off near my mom’s house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The mechanic said he’d seen the front wheel issue happen before with Hondas."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today my car broke down again because the gas pedal detached from the floorboard."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I managed to creep to the gas station at 5 miles per hour by keeping the car in gear."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The same issue happened two and a half years ago on my way to Texas."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The mechanic who fixed it last time didn’t fix it properly, so it happened again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A stranger helped me fix the gas pedal temporarily with a metal bar and vise grips."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don’t like going to work on Sundays because there are too many people at the yoga studio."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m working on my website and have paperwork to do, but it’s tedious."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m excited about writing and think I can do quite well with it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might turn this summer into a big writing summer if I keep up the momentum."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m making good progress on my website and feel like I’m balancing things well."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to do a tour of Boulder and put it on my website to reference it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to test my strength on climbs in Boulder to see where I stand."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m planning to create a chart to track my watts and speed on rides."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m noticing all the little things I need to fix in different areas of my life."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I forgot to turn the light on for this vlog, so it’s dark."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m planning to get lights for my setup to improve the video quality."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Eventually, I want to set up a green screen for my videos."
+  }
+ ],
  "transcript": [
   {
    "start": 0.05,

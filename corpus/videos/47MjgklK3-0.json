@@ -40,7 +40,84 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I looked at my YouTube and the last upload was the first one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought I did an upload yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's 6:29 and I have to work at eight."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If you go the next town over, you should understand that."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm letting my oatmeal do its final cookage before I eat it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I went to Lafayette and did some house work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I moved my Crancelal and then came home and paid rent to my mom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked on my website a little bit but didn't get much done."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working in telecomm 11 and suddenly it said 11 else, so I thought I should get to sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had a couple of power bars for lunch and a barren pizza for dinner."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm a little bit hungry now, so I'll have my oatmeal."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm expanding my diet and got a lot of bulldog foods."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought 14 big oatmeal containers because I don't like running out of staples."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have one can of fruit and I clean them out every time I get more."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got pancake mix and syrup but haven't made pancakes yet because it's time-consuming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought a chibariges blend and make a fruit drink with it, a banana, and cheese fruit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Fruit was selling really cheaply last week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to do two houses today and then come home and work hard."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm getting closer to finishing one page."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

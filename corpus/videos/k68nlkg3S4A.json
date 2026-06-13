@@ -43,7 +43,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I don't eat cookies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I never buy cookies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I almost never never never buy cookies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I buy cookies I can't like them or it's in my time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to see my money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't mind eating cookies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Back last summer I didn't have any money and I went over to VIA food place, you know? We're a little food kitchen place."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm gonna give you some cookies and I ate them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom likes to get cookies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When I get a sweet tooth I just keep counting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In fact last night I bought candy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought nerds and bottle caps and that's what I have."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't have cookies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When I do eat cookies my favorite would be chocolate chip cookies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I like the chocolate chip cookies that are soft or particularly soft."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to grow up my favorite flavor was chocolate."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't think it's like that anymore but yeah cookies are good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I like oatmeal cookies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "For a while those are my favorite but I like what you're talking about cookies go with nuts like macadamia nuts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't know the history of cookies though."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wouldn't be surprised if it was like somebody who was sweet tooth and they were normally make bread and they forgot to add the yeast and it was sweet bread."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It does the fries and it looks like it's making a cookie."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

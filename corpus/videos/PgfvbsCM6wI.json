@@ -32,7 +32,104 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I'm 14, 46 and 9 right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today I had to get up early."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was just laying there trying to relax."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got high like three times or something."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to bed around 12 or something."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I slept in to recover."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went over to my mom's house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent time until around 6 just feeling up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't used any detergent yet this year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I accidentally put too much detergent in my car in 2012."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Even when I only clean the doors and front seats, it still smells like detergent."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I must have put a layer of detergent over the wall."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I watched a couple of YouTube videos about cleaning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I forgot to do the intro for the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The background in the video is from a Google-certified collection of battles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The weather is over."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have decades-colored and centuries-colored backgrounds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "You can click through the backgrounds one at a time to see them change."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was looking at YouTube videos of really clean cars."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to make artistic videos of my car because it looks beautiful."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to finish cleaning my car this year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had some buttons on the front to keep the car running."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't know that was wrong."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to go over the videos again."
+  }
+ ],
  "transcript": [
   {
    "start": 2.0,

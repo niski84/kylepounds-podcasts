@@ -41,7 +41,68 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I went to the dermatologist because I thought I had cancer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The dermatologist confirmed it wasn't cancer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I developed a staph infection after the procedure."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't take the antibiotics correctly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The dermatologist said I shouldn't worry because the infection isn't in the same place as the previous cancer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked on connecting battle lengths to my timeline and files."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I was at around 900 in my work progress."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today I'm at 1575 in my work progress."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow I plan to work through the 1610s, 1620s, and 1630s."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I aim to catch up to the 1800s by tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to create YouTube videos about battles using Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to show the distances people covered in battles from a runner's perspective."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I watched a YouTube channel called Historia Civilis that explains battles with flash animations."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Historia Civilis covers Roman and political history."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think the Historia Civilis videos are really good."
+  }
+ ],
  "transcript": [
   {
    "start": 1.1,

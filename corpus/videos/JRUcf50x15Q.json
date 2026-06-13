@@ -48,7 +48,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I have my shirt off for body transformation and exercise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today I swam 54 laps in a 50-foot pool with fins and paddles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have no strength in my arm when I push down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to get good at swimming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I tried listening to an audiobook louder this time to see how it works."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Someone was supposed to come look at my car at 3 but never called or showed up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked on my 20-area size page, putting pictures on my arm."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to the bike shop to get gloves because I only had three left gloves and no right."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to the triathlon store called Multi-Sport and got a swim bag, anti-fog goggles, a swim cap, and a triathlon suit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went on a ride and did a 20-column time show at level 61, 19.2 miles per hour, which is faster than last time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I use my website as a tracker for progress."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not officially a micro-racer, but I'm doing bicycle racing with an old 30-pound bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to sign up for a triathlon in August, giving me four months to train."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went running but didn’t go to the top of Mount Sinus because I didn’t have an extra shirt and knew I’d get cold."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I checked out a local running track near a junior high, which is open to anyone and has a water fountain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I ran 8.6 miles today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn’t listen to any music or audiobooks during my run."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m low on money because I gave some away and need to budget carefully."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Organizing and locating things takes too much time and energy, which affects my blood sugar and exercise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to afford food because my appetite will increase in about three weeks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have pizza cooking right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow I plan to swim in the morning and possibly ride in the comments."
+  }
+ ],
  "transcript": [
   {
    "start": 0.56,

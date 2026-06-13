@@ -30,7 +30,36 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Uber",
+   "claim": "Uber is a service where people with normal cars sign up to drive others around."
+  },
+  {
+   "subject": "Uber",
+   "claim": "Uber is a great idea and a great internet innovation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think Uber is better than traditional taxis."
+  },
+  {
+   "subject": "Uber",
+   "claim": "Uber is just getting somebody with a normal car to drive you."
+  },
+  {
+   "subject": "Uber",
+   "claim": "Uber is going to put taxis and everything else out of business."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I should sign up to be an Uber driver."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Being an Uber driver could be a way to make money."
+  }
+ ],
  "transcript": [
   {
    "start": 2.29,

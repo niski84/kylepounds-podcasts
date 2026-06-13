@@ -44,7 +44,112 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I had a four day weekend and I was just so high, I was too high to do a video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm embarrassed that I didn't make a video over the weekend."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Over the weekend I worked pretty hard, similar to how I did over the winter."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't think I'll be making any videos next coming winter either."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on my website and it's taking on a life of its own."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My website is becoming much bigger than I ever imagined it to be."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to write out my website in a minute or the week or so."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm also working on my YouTube page and some other ones."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm trying to tie everything together."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might have my first website done by the end of the year, but now I'm thinking by the end of April."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel totally hooked up on my motorcycle and obsessed with exploring on it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went up the very first day that I could legally ride my motorcycle on Friday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had to turn around when it started raining."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Whenever there's a sunny day, I'm up there riding my motorcycle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I love that I can get to trails so fast on my motorcycle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The gas for my motorcycle doesn't cost that much."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm excited to learn all these roads on my motorcycle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm listening to audiobooks every day, aiming to get through a lot of them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm currently listening to 'Confessions of the Child of the Century' about a dude who lived from 1815-57."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Before that, I listened to 'Report in the Hiroshima all-makes', which was really important and interesting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Before that, I listened to 'Captain Cook' and 'Mary Wilson Crossup'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to finish the current audiobook today and then start another one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's exciting to listen to audiobooks and power through them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was doing the same thing with the Bible for a while."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to cut out my life home videos, some are easy to get out and some are hard."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There's one video on my back that I don't know if I want to go alone."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

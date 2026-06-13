@@ -52,7 +52,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I had a fall start the other day while riding my bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to know how fast I was when I was strong, so I created a conversion chart for my biking speed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I put up photos and created a shrine-like setup with lights to motivate myself while biking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a chart with levels from international pro down to average commuter, calibrated for a 150-pound person on a triathlon bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did a test last year and averaged 17.7 miles per hour, which translates to 235 miles per hour on a triathlon bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to do an hour test tomorrow to see my current biking level."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Once the snow melts, I’ll do a 40-kilometer loop and predict my time based on my current strength."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m motivated by the science of calibrating and standardizing my biking performance."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might seek financial support through a funding platform to get a new bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My current bike is heavy and might break soon because it’s been soldered together many times."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’ve been working on my website to make it more organized and explanatory."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I find it harder to write when I’m high, but I still prefer it because I can proofread later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My car broke down twice this winter, once when the wheel fell off and another time when the gas pedal fell off."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My roommate’s dad invented a new kind of plastic and started a company that became a Fortune 500 company."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My roommate doesn’t like driving, so he might let me use his BMW."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a new car with manual shifting and traction control, which excites me more than the motorcycle I had last summer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’ve been putting off paperwork for a month, and my mom is getting upset about it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to do my paperwork while on the rollers to multitask."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I forgot about an apple my mom gave me because I’m not used to eating apples."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’ve been working late, sometimes until 2:30 AM, and only getting about five and a half hours of sleep."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

@@ -39,7 +39,72 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I like pancakes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Pancakes are good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't eat pancakes very often because they take effort to make."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I usually eat oatmeal, canned fruit, and protein powder for breakfast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I should make pancakes more often."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I prefer waffles over pancakes because they are easier to make."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Waffles require less work than pancakes since you don't have to flip them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "You can add syrup and butter to waffles, and they taste good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Pancakes are definitely good food."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Pancakes are a good lightweight food for traveling, especially for backpacking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Grain doesn't weigh much, making pancakes a calorie-efficient food for travel."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Water is readily available from rivers and streams when traveling."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Pancakes puff up into a tasty meal when cooked."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Bread and grain provide a lot of calories and energy for traveling."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When I was backpacking in 2010, vegetables and fruit didn't provide enough energy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Bread and grain, like pancakes, were better for energy during backpacking."
+  }
+ ],
  "transcript": [
   {
    "start": 1.58,

@@ -46,7 +46,116 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I didn't upload the video yesterday because there was no sound, possibly due to making it extra wide to show the side."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll use the same background for the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The background I used last night was strong, but my computer crashed while working on it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was going to do a print around on Boulder, showing different styles of sections by clicking on different folders."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have different sports categories like running, mountain biking, road biking, cycle across, and mountain climbing, but I don't have all of them now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll do a video about the sports categories later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, I was working on a good notebook and free audio history books for my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't realize how bad my website was, but I made it look pretty and will fix the links later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today, I'm working on the history and education page, and then the Google page, just adding words."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have almost 500,000 pages of books and audiobooks on my list between Kildo and Malibu Luxe."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My website has over a thousand pages just on the chapter contents that I made."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm currently figuring out how many pages the website actually has."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm tying everything up, and it's going to be fun and quick."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, the sound didn't upload, possibly due to my computer acting weird."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was going to cancel the upload because I found out it was an effort, but I was too tired to redo it at 2 in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not as tired now and will work more on some type of videos through Google."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought of another cool page template for books, with five columns across, each column having a chapter with 100 pages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The template could be used for a 1000-page book, with each row representing 10 chapters, totaling 100,000 pages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I envision a million-page book with a billion characters, but I'll explain it later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to redo the video yesterday, but Premiere crashed, and I lost the project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My computer is slow, causing issues like not seeing myself while recording and taking an hour to render."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The lesson from last night was to restart the computer, but it's still slow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The sound issue might have been a glitch, not something I did, because I tested the sound."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My car is ready, but I didn't pick it up because it's slow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to work on my voice over the weekend and focus on other tasks on Monday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Calling about the car will help me look cooler."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The video I made is just about six minutes long, but I forgot to check the exact time."
+  }
+ ],
  "transcript": [
   {
    "start": 0.43,

@@ -31,7 +31,68 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I got up and worked two places yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked all afternoon on the porch until like seven."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked in my room until like ten."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got to sleep at like eleven."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm getting close to being done with this one page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I listened to 'Behind the Scenes' by Elizabeth Cascill yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll do a video about 'Behind the Scenes' by Elizabeth Cascill."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I might listen to some other new things."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was gonna get the Bible, but maybe it's good to spread that out a little bit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's cool listening to a new book that's an easy read when you get through it in one day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I filmed my sister's scar healing up when I cut the one out of my neck."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to do it myself."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The scar looks ugly and feels bad, but I'll do it pretty soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm kind of tired right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll do another update and put the flakes in."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

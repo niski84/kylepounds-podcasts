@@ -76,7 +76,120 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "witchcraft",
+   "claim": "Witchcraft means different things depending on what part of history you're looking at."
+  },
+  {
+   "subject": "witchcraft",
+   "claim": "Historically, witchcraft is the 'other' religion, the pagan religions before Christianity."
+  },
+  {
+   "subject": "Christianity",
+   "claim": "Christianity is the religion that replaced pagan religions in Europe."
+  },
+  {
+   "subject": "pagan religions",
+   "claim": "Pagan religions in Europe worshipped gods, which I think were actually aliens."
+  },
+  {
+   "subject": "Native Americans",
+   "claim": "Native Americans lived in a completely different world with a different perception and developed powers we don't have."
+  },
+  {
+   "subject": "Black Elk",
+   "claim": "Black Elk, a medicine man of the Oglala Sioux, had visionary powers and found a healing plant through a vision."
+  },
+  {
+   "subject": "medicine men",
+   "claim": "Medicine men like Black Elk had powers beyond what we can conceptualize, such as seeing deer over a ridge."
+  },
+  {
+   "subject": "tribal societies",
+   "claim": "Tribal societies develop extra-sensory powers because they live in a different world."
+  },
+  {
+   "subject": "Christianity",
+   "claim": "Christianity started with Jewish law in the Old Testament, which was different from tribal religions."
+  },
+  {
+   "subject": "Judaism",
+   "claim": "Judaism was a religion of laws given by aliens who took the Jews under their wing."
+  },
+  {
+   "subject": "Jesus",
+   "claim": "Jesus gave the final law from the aliens, which was the golden rule: share, give to the poor, and don't let ego take over."
+  },
+  {
+   "subject": "Christianity",
+   "claim": "Christianity was superior to tribal religions because it provided a formula for creating a civilized society."
+  },
+  {
+   "subject": "Christianity",
+   "claim": "Christianity streamlined time and economy by rejecting elaborate pagan rituals."
+  },
+  {
+   "subject": "witchcraft",
+   "claim": "Christians saw witchcraft as a waste of time and evil because it was a holdover from the tribal world."
+  },
+  {
+   "subject": "yoga",
+   "claim": "Yoga is just a technology for stretching, not inherently bad like some Christians think."
+  },
+  {
+   "subject": "Christianity",
+   "claim": "Christianity can fit with other religions because it adds golden rules without requiring people to abandon their existing beliefs."
+  },
+  {
+   "subject": "idol worship",
+   "claim": "Idol worship can be transformed into something useful if it doesn't take precedence over belief in God."
+  },
+  {
+   "subject": "cults",
+   "claim": "A cult means 'hidden' and refers to groups who practiced expansive philosophies in private to avoid persecution."
+  },
+  {
+   "subject": "Satanism",
+   "claim": "Satanism is a reaction against Christianity, often by people who are pissed off at fundamentalist Christians."
+  },
+  {
+   "subject": "Satan",
+   "claim": "Satan was invented as a myth, possibly adopted from darker gods in tribal religions."
+  },
+  {
+   "subject": "hellfire",
+   "claim": "The Christian idea of hellfire comes from metaphors about fire as a cleanser, not a literal place."
+  },
+  {
+   "subject": "Satanism",
+   "claim": "Satanists often just like the idea of rebelling against Christianity, not necessarily believing in Satan."
+  },
+  {
+   "subject": "modern witchcraft",
+   "claim": "Modern witchcraft is about preserving history and developing powers like remote viewing or communicating with spirits."
+  },
+  {
+   "subject": "witchcraft",
+   "claim": "Witchcraft in the future will be about honoring tribal traditions and developing extra-sensory powers."
+  },
+  {
+   "subject": "salvia",
+   "claim": "Smoking salvia in a graveyard could be a form of witchcraft, allowing communication with spirits."
+  },
+  {
+   "subject": "mediumship",
+   "claim": "Mediumship is a form of witchcraft that involves communicating with the dead."
+  },
+  {
+   "subject": "nature",
+   "claim": "Tribal powers derived from living in nature, so modern witchcraft should involve nature too."
+  },
+  {
+   "subject": "voodoo dolls",
+   "claim": "Voodoo dolls are just a mean-spirited way for angry people to try to hurt others spiritually."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

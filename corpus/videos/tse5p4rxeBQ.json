@@ -41,7 +41,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I didn't work yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Sometimes you don't work five days a week because people cancel."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I worked all morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to my mom's house by five and spent half hours helping her clean and organize for her business."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I came home and worked until about 10 o'clock."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to work today at seven fifty."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I only have one place to work today, so I'll come home early."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on my webpage and getting to the point of seeing what it'll look like in the end."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't have a YouTube page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I listened to 'China treaty' by Mark Twain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today I listened to 'Captivity and Restoration' by Mary Rowlandson from 1680."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I like the method of going through an audiobook in one day to understand its style and content."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Some audiobooks are really interesting, like 'Captain Cook' and 'China treaty' by Mark Twain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Some audiobooks are flowery poetic plays on words and don't mean much."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might do a book review."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have oatmeal on my chin."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm just working on my webpage; it's all I do."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had oatmeal and fruit for breakfast."
+  }
+ ],
  "transcript": [
   {
    "start": 0.21,

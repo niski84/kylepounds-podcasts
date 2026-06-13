@@ -61,7 +61,128 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I already went to college, so I wouldn't go back to college."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My philosophy is to learn things yourself rather than going back to school."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I believe you should be able to get a high-end job without a degree."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I never liked school because the prescribed pace never aligned with my style."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "School feels like bullying to me, pushing people around to fit a certain mold."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I hadn't been to school and needed a degree for jobs, I would consider online college for cost and flexibility."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't go to college for the social aspect, unlike many people."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think colleges will become free and more about gathering places than degrees in the future."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "College degrees will become obsolete within about 20 years."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Online education could be purely meritocratic, unlike traditional grading systems."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Teachers have given me lower grades than promised multiple times, showing grading is subjective."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "You can learn almost anything online without needing a formal degree, like watching Yale classes on YouTube."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "For hands-on professions like medicine or law, some in-person practice is necessary, but not all education has to be in school."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There should be online debate platforms where people can practice arguing, like for aspiring lawyers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to be an amateur polymath, learning across many fields while working a labor job."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Labor jobs are great for becoming a polymath because you can listen to audiobooks while working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The smarter you get, the more you can monetize your knowledge through platforms like YouTube."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The future economy will shift more toward service-related industries like teaching and lecturing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "People should think twice before pursuing an online degree and consider self-learning instead."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m working on my personal website before returning to my timeline project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to seek educational grants to fund my timeline project so I can work on it full-time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Completing my timeline project could take 10 years if I work four hours a day or five years if I work eight hours a day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I believe my timeline project will change the world by making history more accessible and engaging."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My personal website is a template for future leaders to share their beliefs and ideas openly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m inventing new ways to design websites using simple HTML and layout philosophy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A well-designed website can be like stepping into someone’s imagination, with intricate links and layouts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’ve decided to prioritize my work over friendships and relationships to focus on my projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I motivate myself to exercise by linking it to improving my website and overall productivity."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I learn best by creating condensed, organized lists of information, which I then share on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I want to master a subject, I become the grandmaster teacher of it by creating the ultimate educational resource."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

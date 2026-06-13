@@ -38,7 +38,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I was working on my timeline all day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to my mom's house to help with back and now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was cutting and pasting years into my timeline."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't like how the kings were blended in everything, so I wanted to give them their own background."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I changed my mind and gave the kings' background on the vertical column the same as the horizontal one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I linked the kings so clicking on them takes you to the other one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm on cloud nine because I separated one part of my timeline."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I could finish the timeline in another week or so."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The columns on my timeline are warped, and I don't know why."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to condense the words down on my timeline tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I know a PHP script to add a mouse-over effect, but I want to hold off on that."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I centered the kings with the date below them on my timeline."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I will add white backgrounds for the rest of the kings."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The white background helps make the timeline look better."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I could represent the era or dynasty in a table."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Nobody probably knows what I'm talking about, but it'll look really cool when it's done."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was listening to art while working on my timeline."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was having a high small day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Getting high and working on the timeline is really fun."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been learning a lot about Roman history."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've had quantum jumps in knowledge recently."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was listening to a book."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

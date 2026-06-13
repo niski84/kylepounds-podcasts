@@ -41,7 +41,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I live in Boulder, Vila."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "On January 24, 2017, I studied the Old Testament and New Testament."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked on converting Autotest data, where each number box expands to show more details."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There are over a thousand auditors in the Autotest data."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The computer is slow, so processing the data takes time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel like I can edit the data for selling purposes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think the computer should have a second job or maybe I should research better computers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I made a lot of progress on the Autotest data, currently on book eight of nine."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The project involves 11.1 million entries."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My sleep schedule switched back to daytime recently."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked until 11:45 PM last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I woke up around six or seven in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After working on auditors, I moved on to another big task."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The data conversion process feels trippy, like traveling back in time to fix old norms."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I listened to Roman history podcasts but couldn't remember their names."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I started listening to a podcast about revolutions, specifically the 1650s, which has 354 episodes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm really hungry now and plan to have breakfast with protein powder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to eat and then end the video."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

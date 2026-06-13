@@ -37,7 +37,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I didn't do a video yesterday because I was too busy and got up early."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I stayed up until three and got up at nine."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to my mom's house and then to the thrift store early to get goods."
+  },
+  {
+   "subject": "dispensary",
+   "claim": "The thrift store is next to a dispensary."
+  },
+  {
+   "subject": "old lady",
+   "claim": "An old lady from a different state felt sorry for businesses near the dispensary."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I couldn't smell the weed from where we were standing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We opened the car and got our stuff, including a rug."
+  },
+  {
+   "subject": "rug",
+   "claim": "The rug takes up most of my room and makes it awesome."
+  },
+  {
+   "subject": "couch",
+   "claim": "My mom got me a one-person blue couch that's comfortable and beautiful."
+  },
+  {
+   "subject": "chairs",
+   "claim": "My mom got me three chairs for $25."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got motivated to organize my room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I posted photos of my room with muscle chick legs and supple ceilings."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want my legs to get fat like muscle chick legs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's best to keep my room covered up for guests."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll do a video showing my room later."
+  },
+  {
+   "subject": "green screen",
+   "claim": "I need to figure out how to use Adobe Premiere for the green screen."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Using a green screen will make my videos more professional."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thanked my mom for all the cool stuff for the house."
+  }
+ ],
  "transcript": [
   {
    "start": 1.42,

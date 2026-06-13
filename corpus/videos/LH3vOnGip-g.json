@@ -38,7 +38,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't upload his vlog on July 20 because he got sick and vomited all over his bathroom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle woke up late on July 20 because he had a hangover."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went riding to do his 20-kilometer time trial but had an asthma attack right before starting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle completed his 20-kilometer ride in 34 minutes and 48 seconds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's average speed for the 20-kilometer ride was 21.7 miles per hour."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels like he's officially a bike racer now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle noticed that bikes feel much faster when he rides in the mountains compared to the flats."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels a sense of forward momentum when he pushes down on the pedals."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle needs to stretch more when riding."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to try a new route to get over the saddle and climb."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got sick again after returning from his ride and vomited multiple times."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle couldn't drink water without vomiting, but he wasn't too dehydrated."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle decided not to listen to audiobooks because he wants to enjoy the silence."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels that riding helps him avoid asthma attacks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle tries to save money by eating less."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels too high to focus or remember anything."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been listening to a lot of music lately."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle forgot to use his new microphone for part of the recording."
+  }
+ ],
  "transcript": [
   {
    "start": 0.24,

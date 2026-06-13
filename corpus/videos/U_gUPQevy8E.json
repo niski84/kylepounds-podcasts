@@ -47,7 +47,128 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I'm really high right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I tried to do a video for the last few days but kept losing my train of thought because I had a guest over."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I can only do videos when there's nobody in the room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My computer was acting weird and suddenly made a noise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When I move around, my computer thinks it's zooming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't want to deal with my computer issues because I get stressed out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I restarted my computer and am downloading the new version of Google Arts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went hiking with my guest and then to the Buffalo Film Museum."
+  },
+  {
+   "subject": "Buffalo Film Museum",
+   "claim": "The museum featured a guy who traveled the world for 35 years starting in 1868."
+  },
+  {
+   "subject": "Buffalo Film Museum",
+   "claim": "He went to all the big cities in Europe and America with a big troop."
+  },
+  {
+   "subject": "Buffalo Film Museum",
+   "claim": "I saw a list of all the picture people, including cowboys, camel people, and elephant people."
+  },
+  {
+   "subject": "Black Elk",
+   "claim": "Black Elk was a Lakota medicine man and first cousin to Crazy Horse."
+  },
+  {
+   "subject": "Black Elk",
+   "claim": "Black Elk toured with Buffalo Bill and went to England."
+  },
+  {
+   "subject": "Black Elk",
+   "claim": "He stayed with a family in England and had a lot of experiences."
+  },
+  {
+   "subject": "Jajronos",
+   "claim": "Jajronos traveled with Buffalo Bill and talked about the cozax being scary and hard to kill."
+  },
+  {
+   "subject": "Jajronos",
+   "claim": "He was glad he was in America because in Mexico, he would be attacked all the time."
+  },
+  {
+   "subject": "Jajronos",
+   "claim": "He saw little people from little islands who were naked and thought they shouldn't have been allowed to come like that."
+  },
+  {
+   "subject": "Jajronos",
+   "claim": "He heard that Americans captured them to teach them civilization and then sent them back to teach others."
+  },
+  {
+   "subject": "Buffalo Bill",
+   "claim": "Buffalo Bill had Indians in his troop with names like Running Buffalo Dick."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I soaked in the hot springs in Idaho Springs and it made me really relaxed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got sick from milkshakes because I'm on antibiotics."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had a neck issue that was calcified, and the doctor had to scrape it away."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I weighed over 200 pounds and had a lot of pus from the neck issue."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I felt sick after drinking alcohol and not staying hydrated."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I forgot to eat and only had a little sushi."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got really fat because I started eating too much food."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I used to eat rice and veggies for dinner and oatmeal and fruit for breakfast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to focus on the Google Earth project and see how fat I can get."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to do a declaration video soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm tired and need to lie down and rest."
+  }
+ ],
  "transcript": [
   {
    "start": 0.18,

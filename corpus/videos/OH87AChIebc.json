@@ -30,7 +30,72 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I didn't have a motivation to do the video before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This is kind of tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, I just, there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did taxes all day yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't exercise yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was feeling like shit all day yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was wasted yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had 4 days in a row from after being at the absolute bottom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to my mom's house and was hanging out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was trying to detect it like we'd get stuck and then wait for a call."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working on my dimensions pitch, the thing that I ditched a few days ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's nice to have that on the back burner."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "That's what I did yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday was pretty boring, pretty simple day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll do today's few log later on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't know if you like me that goes to shit."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

@@ -70,7 +70,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "internet",
+   "claim": "People on the internet don't read article titles, they only read the reactions and say something offensive."
+  },
+  {
+   "subject": "Republicans",
+   "claim": "Republicans make laws to get rid of regulation and then try to regulate to shut out everybody."
+  },
+  {
+   "subject": "rich people",
+   "claim": "Rich people should not be so rich, and it's obvious why they shouldn't be."
+  },
+  {
+   "subject": "people",
+   "claim": "People are dumb on this planet, they're financially stupid."
+  },
+  {
+   "subject": "time travelers",
+   "claim": "Being a time traveler is like cheating because you have knowledge others don't."
+  },
+  {
+   "subject": "internet",
+   "claim": "People are getting nicer on the internet compared to the past."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "People don't read YouTube titles and comment without understanding the video's content."
+  },
+  {
+   "subject": "language",
+   "claim": "The word 'mean' in mathematics means average, and it used to mean normal hundreds of years ago."
+  },
+  {
+   "subject": "society",
+   "claim": "Society was naturally stratified, with people floating up or down based on their merit."
+  },
+  {
+   "subject": "kings",
+   "claim": "People in the past loved their kings and believed they had divine power."
+  },
+  {
+   "subject": "internet",
+   "claim": "The internet exposes people's lack of communication skills because everyone can now speak."
+  },
+  {
+   "subject": "reincarnation",
+   "claim": "People today are the same souls as 500 years ago, just a few lifetimes ahead."
+  },
+  {
+   "subject": "inventions",
+   "claim": "People often don't use new inventions for 100 years because they're not ready for them."
+  },
+  {
+   "subject": "internet",
+   "claim": "People are not used to speaking their minds, which is why they struggle with the internet."
+  },
+  {
+   "subject": "arguments",
+   "claim": "People attack the messenger instead of the argument to win debates dishonestly."
+  },
+  {
+   "subject": "stupid people",
+   "claim": "There will always be stupid people, and you can use that as an advantage to be smarter."
+  },
+  {
+   "subject": "communication",
+   "claim": "People don't understand the concept of a two-way conversation."
+  },
+  {
+   "subject": "education",
+   "claim": "The education system doesn't teach people how to communicate effectively."
+  },
+  {
+   "subject": "poor people",
+   "claim": "Poor people in third-world countries lack sophistication in communication because they don't need it."
+  },
+  {
+   "subject": "internet",
+   "claim": "People stay anonymous online because they're afraid of losing arguments and looking stupid."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

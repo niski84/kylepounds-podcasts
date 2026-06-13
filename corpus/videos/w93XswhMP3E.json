@@ -40,7 +40,92 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He loves living in Boulder View from 2013 to 2013."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is loving being 42 at midnight right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't get his greens today but will try again tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He didn't want to do videos before because he had titties showing on Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He can now record in his room without any issues."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks the volume works well in his current recording setup."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been working on videos but had issues with uploading, causing crashes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He recently worked on a project called Cyprian and is now working on Climbing of Alexandria."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is unsure if he can upload the Climbing of Alexandria video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been making progress but is slowing down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His mom got a tricycle and they went on their first ride today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to ride more with his mom on the bike path."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks it would be awesome to explore new places in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He owns a motorcycle and is considering selling it to his brother."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to work on a project about Alexander of Alexandria tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He mentions Mark Church and prepared materials related to fathers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He doesn't expect any huge books coming his way soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is trying to maintain a fast pace but feels like he can't finish his projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hasn't realized how big his current project is."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is still making progress and tracking his head."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to get all the books from the invention or a legionless tomorrow on his website."
+  }
+ ],
  "transcript": [
   {
    "start": 0.75,

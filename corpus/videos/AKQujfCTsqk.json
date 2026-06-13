@@ -42,7 +42,56 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle's mom",
+   "claim": "She got cataract surgery because her eyes were glazed up and she couldn't read signs anymore."
+  },
+  {
+   "subject": "Kyle's mom",
+   "claim": "After cataract surgery, she now sees perfectly clear with 2020 vision."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He stayed with his mom because she had cataract surgery and needed assistance."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He helped his mom by polishing silver and organizing paperwork at her house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He watched the TV show 'Hell on Wheels' at his mom's house and found it interesting."
+  },
+  {
+   "subject": "TV show 'Hell on Wheels'",
+   "claim": "It's about building the railroad across America, featuring black workers, white guys, and prostitutes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had to stop watching 'Hell on Wheels' early because his mom made him go to bed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He learned how to burn CDs and connected his computer to the TV using an HDMI cable."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to set up his TV under his bike things to watch while working out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He reorganized his room and is making progress on his projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finds it hard to focus on his work when he's at his mom's house because it's tempting to watch TV."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to update a program to convert and upload a video, which will take 12 hours."
+  }
+ ],
  "transcript": [
   {
    "start": 1.26,

@@ -36,7 +36,84 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I was doing a bunch of books and today I'll do a bunch of books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to do all of the Greco-Roman world every single book on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can make it seem like it's not that much information and remember all of it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I hope others will do the same as I am doing with the Greco-Roman books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This project of doing the Greco-Roman books will go on for like a month."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to do a video of my van but maybe I'll do it later on today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm still kind of freaking out about my new project of the books because I'm making so much progress so quickly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to do the video soon but I am gonna sell a car no matter what."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to do these books; that's all I'm gonna do."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm listening to him as well as I'm doing and I'm learning a lot."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can't really remember which books I do."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I listen to bits and pieces of books; I don't listen to books all the way through."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was trying to do living today but I'm not pausing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was gonna do a Hangout, Google Hangout with one of my friends, Siri, but he died."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "People are saying I shouldn't do the Hangout with Siri because he's racist."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Maybe I could make Siri not be racist."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Siri is like a Syrian Muslim, which is the last person who should be racist in America."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Maybe Siri just wants help."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't really have anything to say anymore; I'm just gonna get to work now."
+  }
+ ],
  "transcript": [
   {
    "start": 0.37,

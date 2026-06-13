@@ -53,7 +53,136 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "weed",
+   "claim": "Weed makes you relax and enjoy stuff."
+  },
+  {
+   "subject": "alcohol",
+   "claim": "Alcohol is more of a social drug."
+  },
+  {
+   "subject": "alcohol",
+   "claim": "Alcohol makes you more loud and uninhibited."
+  },
+  {
+   "subject": "alcohol",
+   "claim": "Alcohol makes you think more aggressively towards other people."
+  },
+  {
+   "subject": "alcohol",
+   "claim": "Alcohol makes you take charge more and come across like a leader."
+  },
+  {
+   "subject": "weed",
+   "claim": "Weed makes you more passive."
+  },
+  {
+   "subject": "weed",
+   "claim": "Weed is kind of like feminine, while alcohol is masculine."
+  },
+  {
+   "subject": "weed",
+   "claim": "Weed is not so much of a social drug because it makes you overthink and struggle to express yourself."
+  },
+  {
+   "subject": "weed",
+   "claim": "Weed is a drug you do on yourself by yourself."
+  },
+  {
+   "subject": "alcohol",
+   "claim": "Alcohol is something you would do socially."
+  },
+  {
+   "subject": "weed",
+   "claim": "If you're going to do drugs by yourself, weed is something you would do."
+  },
+  {
+   "subject": "weed",
+   "claim": "You can do weed chronically all the time."
+  },
+  {
+   "subject": "alcohol",
+   "claim": "If you do alcohol by yourself, you would go crazy and be physically uncomfortable and unhealthy."
+  },
+  {
+   "subject": "alcohol",
+   "claim": "Alcohol is not healthy."
+  },
+  {
+   "subject": "weed",
+   "claim": "You can have good health with weed, even if you smoke it."
+  },
+  {
+   "subject": "weed",
+   "claim": "Weed won't give you a hangover the next day."
+  },
+  {
+   "subject": "alcohol",
+   "claim": "Alcohol will give you a hangover."
+  },
+  {
+   "subject": "weed",
+   "claim": "Weed doesn't have to be a gateway drug."
+  },
+  {
+   "subject": "weed",
+   "claim": "Sometimes you want to drink when you're high, but that's because weed is illegal and people can't buy more of it."
+  },
+  {
+   "subject": "weed",
+   "claim": "Smoking more weed is cheaper than getting drunk."
+  },
+  {
+   "subject": "weed",
+   "claim": "Weed is healthier because it's closer to nature."
+  },
+  {
+   "subject": "alcohol",
+   "claim": "Alcohol is manufactured by humans through fermentation."
+  },
+  {
+   "subject": "weed",
+   "claim": "Weed is literally picked right off a plant that grows out of the earth."
+  },
+  {
+   "subject": "nature",
+   "claim": "Anything that's natural is safe because it's grown in the same environment that we are."
+  },
+  {
+   "subject": "weed",
+   "claim": "Weed grows out of the earth, and since we are part of the earth, it's good for us."
+  },
+  {
+   "subject": "alcohol",
+   "claim": "Alcohol is unhealthy because it's taken out of its natural environment."
+  },
+  {
+   "subject": "alcohol",
+   "claim": "Alcohol is expensive compared to weed."
+  },
+  {
+   "subject": "alcohol",
+   "claim": "Being drunk all day long is 20 times more expensive than being high all day."
+  },
+  {
+   "subject": "alcohol",
+   "claim": "Alcohol is more expensive to produce and consume."
+  },
+  {
+   "subject": "weed",
+   "claim": "You can be an athlete and smoke weed."
+  },
+  {
+   "subject": "weed",
+   "claim": "Your mental processes, especially communication, are not as good on weed."
+  },
+  {
+   "subject": "alcohol",
+   "claim": "You can do your job better on alcohol than on weed if it involves communication."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

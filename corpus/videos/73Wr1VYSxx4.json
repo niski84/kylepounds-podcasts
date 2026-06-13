@@ -39,7 +39,104 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "This is my second time doing this video because the first time had barely any sound."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I forgot to plug in my microphone the first time, which caused the sound issue."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The microphone is only two feet away from the computer, so it picks up computer noise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't done a v-log for the last few days because I've been busy moving stuff from my mom's basement."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was depressed the first day and slept all day long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had crickets in my Gecko cage but couldn't motivate myself to deal with them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I helped my mother the next day and didn't get any sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today I was organizing my house to prepare for writing my bike inside."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I listened to 'Percopia Secret History' and 'Percopia Wars' recently."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Being sober will help me listen to books and possibly start a podcast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm making a black chart for writing my rollers with six different cadence categories."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I created a chart with cadences ranging from 30 to 1680 but got them jumbled up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to redo the 60s, 80s, 90s, 100, and 120 cadences tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The watts didn't appear on my computer while pedaling, possibly due to dead batteries."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll call tomorrow to figure out if the issue is dead batteries."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The chart will be on my bike race level page with links once it's set up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Once the chart is ready, I'll start writing my bike inside daily."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I quit smoking partly because I ran out of money but also for health reasons."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can't get my heart rate over 130 without risking an asthma attack."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm curious how my personality will change now that I'm sober."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Weed made me super driven on my website, but I might be more driven outside now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow I'll call to fix the bike issue, finish the chart, and start writing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm confident I'll work on my bike all day every day within a year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Within two years, my website will be in a really good place."
+  }
+ ],
  "transcript": [
   {
    "start": 0.21,

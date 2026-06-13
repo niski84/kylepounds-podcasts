@@ -77,7 +77,176 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Richard Wolf",
+   "claim": "Richard Wolf is a fucking asshole."
+  },
+  {
+   "subject": "Richard Wolf",
+   "claim": "Richard Wolf came from humble roots but went to a good Ivy League school."
+  },
+  {
+   "subject": "Ivy League schools",
+   "claim": "People in Ivy League schools meet in college just to make business dealings later."
+  },
+  {
+   "subject": "Ivy League schools",
+   "claim": "They have small, tight-knit business communities and inside gangs like the skull and crossbones."
+  },
+  {
+   "subject": "George Bush",
+   "claim": "George Bush was involved in these kinds of exclusive groups."
+  },
+  {
+   "subject": "wealth preservation",
+   "claim": "These groups try to preserve the wealth of the elite because they believe the smartest are the best."
+  },
+  {
+   "subject": "Trump",
+   "claim": "Trump was straight-up better at this than anybody."
+  },
+  {
+   "subject": "Richard Wolf",
+   "claim": "Richard Wolf became a socialist."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders is a socialist."
+  },
+  {
+   "subject": "Richard Wolf",
+   "claim": "Richard Wolf does monthly posts on YouTube explaining current events and gives speeches."
+  },
+  {
+   "subject": "Richard Wolf",
+   "claim": "Richard Wolf predicts the world is going to go socialist."
+  },
+  {
+   "subject": "socialism",
+   "claim": "The world is going to go socialist."
+  },
+  {
+   "subject": "Greece",
+   "claim": "Greece is going socialist with a new young candidate."
+  },
+  {
+   "subject": "Portugal",
+   "claim": "Portugal is going socialist."
+  },
+  {
+   "subject": "Europe",
+   "claim": "Europe is desperately socialist."
+  },
+  {
+   "subject": "Richard Wolf",
+   "claim": "Richard Wolf explained that socialism got us out of problems caused by capitalism."
+  },
+  {
+   "subject": "capitalism",
+   "claim": "Capitalism caused the crash of 1929 because bankers could gamble with other people's money."
+  },
+  {
+   "subject": "wealth inequality",
+   "claim": "Before the crash, one guy owned like 60% of the whole country."
+  },
+  {
+   "subject": "Teddy Roosevelt",
+   "claim": "Teddy Roosevelt broke up the oil and railroad companies."
+  },
+  {
+   "subject": "Franklin Roosevelt",
+   "claim": "Franklin Roosevelt scared rich business owners into coughing up money to fund public programs."
+  },
+  {
+   "subject": "socialism",
+   "claim": "Socialism fixed the Great Depression by taxing the rich and funding public works."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Bernie Sanders plans to do the same thing Franklin Roosevelt did to get out of the depression."
+  },
+  {
+   "subject": "socialism",
+   "claim": "Socialism is better than anarchy because capitalism is controlled by undemocratic companies."
+  },
+  {
+   "subject": "companies",
+   "claim": "Companies are controlled by a small group of shareholders and are not democratic."
+  },
+  {
+   "subject": "CEO compensation",
+   "claim": "CEOs make millions while laying off workers, like a refrigerator company that laid off 3,000 workers to move to Mexico."
+  },
+  {
+   "subject": "socialism",
+   "claim": "Under socialism, companies are controlled by the government and the people, making it more democratic."
+  },
+  {
+   "subject": "socialism",
+   "claim": "Socialism cuts out middlemen like lobbyists and advertisers, making decisions more direct."
+  },
+  {
+   "subject": "rule of law",
+   "claim": "Socialism strengthens the rule of law because laws are written by elected officials and are more permanent."
+  },
+  {
+   "subject": "historical evolution",
+   "claim": "Society evolves from tribal leaders to kingdoms to democracies as resources and education expand."
+  },
+  {
+   "subject": "printing press",
+   "claim": "The invention of the printing press allowed more people to read and travel, leading to more democratic systems."
+  },
+  {
+   "subject": "socialism",
+   "claim": "Socialism allows for the nationalization of successful private innovations for the public good."
+  },
+  {
+   "subject": "Russia",
+   "claim": "People criticize socialism because of Russia, but Russia has its own historical problems."
+  },
+  {
+   "subject": "European socialism",
+   "claim": "European socialist countries are more advanced politically than America."
+  },
+  {
+   "subject": "China",
+   "claim": "China is trying to return to its ancient Confucian rule of law and not mimic Western capitalism."
+  },
+  {
+   "subject": "socialism",
+   "claim": "In the future, people won’t care about owning things because everything will be automated and abundant."
+  },
+  {
+   "subject": "basic needs",
+   "claim": "People only need enough money for basics like rice, vegetables, electricity, internet, and water to be happy."
+  },
+  {
+   "subject": "population control",
+   "claim": "Countries like Italy and Japan have demonstrated that populations can be under control."
+  },
+  {
+   "subject": "socialism",
+   "claim": "Socialism is the way of the future because people will want to be administrators of systems rather than owners."
+  },
+  {
+   "subject": "socialism",
+   "claim": "Socialism allows for more democratic voting on specific laws rather than relying on representatives."
+  },
+  {
+   "subject": "communism",
+   "claim": "In the future, communism might work because nobody will care about owning things when everything is abundant."
+  },
+  {
+   "subject": "Richard Wolf",
+   "claim": "Richard Wolf explains socialism from an insider’s perspective and mocks the elite."
+  },
+  {
+   "subject": "socialism",
+   "claim": "Socialism is best because it cuts out the undemocratic power of wealthy elites."
+  }
+ ],
  "transcript": [
   {
    "start": 0.05,

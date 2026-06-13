@@ -37,7 +37,120 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I predicted I would finish the project today, but I didn't because I lost work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought I had saved my work, but that was only the part where I was working on the record."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had saved movies and everything else because I'm not doing the music."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I pretty much had only just started working on the project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I could only make like 30 years or something, more or 35, tracing it perfectly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was studying libertarianism and stuff so that I can tear them apart."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was trying to seek money for myself, for black school."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was looking at Google Earth when my screen turned gray with gray lines going through it for about 50 seconds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My computer restarted itself and started up where I left off in the YouTube video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I hadn't saved my work in Google Earth, which was a mistake."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I usually save my work, so this was the worst time for it to crash."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't get upset when the computer crashed; I just took a break and came back to it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I lost about three or four hours of work when the computer crashed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not done with the project yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was going to put the distances and their specials into the project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll explain how it all works later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm listening to libertarian stuff and a book by June."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I Wikipedia the institute, think tank, or dude mentioned in the book."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to interview the dude mentioned in the book, but I can't remember his name."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I commented on libertarian videos, but they deleted all my comments."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "They made my dislike on the libertarian videos disappear somehow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "They didn't block me from commenting on the libertarian videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel like I have an anonymous penpal on the other side of the libertarian videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought my car is easier to blast into this project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I needed to feel like this project is important."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might get stuck again while working on the project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to do other pages like the bikers or other stuff before finishing the project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll finish the project to the point where I can sell the car."
+  }
+ ],
  "transcript": [
   {
    "start": 0.3,

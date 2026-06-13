@@ -40,7 +40,100 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I went on my first ride with my new road bike today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The ride was 54.7 miles with 43.54 feet of elevation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The ride took 4 hours, 11 minutes, and 25 seconds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up late because I couldn't breathe less than I think it happened again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did bike stuff, they called me and I went down and got the adapter to be able to put the bike on the rollers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I noticed that the pedal was hitting the change, just like with my other bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The reason I'm riding again is because I wanted to get a lot pedals for my other bike to make riding on the rollers interesting, but they didn't fit them either."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took them to the bike shop and they said they've never seen anything like that before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to take the little sensor thing off of the leather right pedal and call them tomorrow to see if I can get it to work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I also got another bag and some new gloves."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't gotten my helmet in the mail yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to get organized and stuff on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I noticed that on Google Earth, I needed to re-color all the road rides, but then realized I didn't have to do that because it was just the main file below."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was still getting oriented with the whole oversight of the whole website again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can make a new page of rides that I do, but I only had made rides of very big rides before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've turned my ride into a Strava segment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When people make Strava segments, they don't make them for the whole ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm the first person to make Strava segments for whole rides like from Boulder up to the net or over the wall and back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My computer is running really loud and I wonder if the microphone will pick it up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow, I'll set up the rollers on the bike, the watt pedals, and the heart rate monitor."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to readjust when I do rollers because I try to fix it with access to screw you up some."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll go on a ride, do a Strava segment, come up with a route, and do the video before I do it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll use the second segment to go to and then talk about it after, which is my new thing that I'll do."
+  }
+ ],
  "transcript": [
   {
    "start": 0.78,

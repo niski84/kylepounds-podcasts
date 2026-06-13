@@ -40,7 +40,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday's video had barely any sound, and I didn't do anything different to cause it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I recently discovered that wireless earbuds can interfere with recording sound."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I use a website that reads text aloud so I can listen while doing other things around the house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I stayed up until 3 AM working, but I wasn't very efficient."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel like organizing my house has been taking forever, even though it shouldn't be that complicated."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom mentioned that it's the end of the Tibetan New Year, a time when people traditionally reorganize their homes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today I got up at noon and worked on organizing my garage."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought wood to fix my sagging table but had to return to the hardware store because the first method didn't work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to find an electrical outlet at my mom's house to power my band equipment since my garage setup is too high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent hours shampooing my car's rug and realized I might have used too much shampoo concentrate before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My car's main light stopped working again after I paid to have it fixed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel superstitious that my car doesn't want to be sold because issues keep arising when I try."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm focusing on making my car look presentable before selling it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm also organizing my digital files and considering different hard drives."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow I plan to work on my car and apartment organization again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I have enough money to get by even if I sell my car for less than expected."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to decide whether to record a video first or create the background for it first."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I realized it's better to make the background first so I can talk about it in the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think starting the video by discussing the background will make it more engaging."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's 12:21 AM, and I'm going to sleep now."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

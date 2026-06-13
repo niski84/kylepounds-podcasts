@@ -38,7 +38,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I live in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today is Wednesday, April 26th at 10 o'clock a.m."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The side of my mouth is totally numb, making it look lopsided."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I tripped and got a chip fix."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working until one in the morning yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent time copying and pacing events from years for my timeline."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wonder if Dreamweaver has dropdown menus to help with my timeline."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to work on my timeline for the rest of the week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I will re-evaluate my progress at the beginning of May."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to figure out ads to make money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I am learning a lot by building my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't worked on my 2011 timeline but am picking it up again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I felt really sick yesterday because I didn't smoke weed until the day before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Scraping my pipe and smoking resin gives me bad asthma."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Smoking resin makes me feel sick and gives me a metallic, constricting feeling in my mouth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I used to smoke resin a lot before weed became legal."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I resent people who want to keep weed illegal."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Smoking regular green weed out of a bong is not bad for your lungs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I still have asthma and feel sick, so I won't smoke resin anymore."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I expect my mind to clear up and my health to improve if I stop smoking resin."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm curious if I'll be able to work on my timeline all day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I burn out, I might incorporate exercise instead of smoking weed."
+  }
+ ],
  "transcript": [
   {
    "start": 0.88,

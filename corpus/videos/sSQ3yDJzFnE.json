@@ -34,7 +34,52 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He worked until he got too tired on June 29th, 2017."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He worked until around 4:30 AM on June 29th, 2017."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got up at 9:30 AM on June 30th, 2017."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was working on organizing a menu alphabetically and by types of buildings."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He copied a list of buildings and their dimensions from Wikipedia to use as a menu."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to fill in the menu with as many buildings as possible, including those from 1945."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is motivated to work on Google Earth Rome but needs to finish organizing the rows first."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to trace soldiers and increase their numbers from 40,000 to 160,000 for battles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had his computer read the book 'The Buildings of Rome' to him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is watching Board G and working on characters related to it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is planning to create videos about the buildings around Rome."
+  }
+ ],
  "transcript": [
   {
    "start": 0.3,

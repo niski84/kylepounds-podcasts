@@ -36,7 +36,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I'm really high because my rematch has been giving me lots of weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I went to work and then came back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to my mom's house and cleaned her dishes for like an hour."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I passed out yesterday in the middle of the day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We painted the outside of my deck in my building."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked until I passed out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a piece of this from the market."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I started working at like nine or ten today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't think I'm going to work tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can just insert a series damage on the 40 weekend on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today I had to go in the middle of the day to take my motorcycle test."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I just got my motorcycle like three freaky weeks ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The motorcycle test was easy for me but could be hard for somebody else."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The cones for the motorcycle test are closer together than 10 feet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "You have to weave in and out of cones during the motorcycle test."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The motorcycle is so fast."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can't go faster than 1st or 2nd gear in Florida."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been watching a lot of Jeff and Young Turks videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Young Turks pack in a lot of information."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "You have to watch Young Turks videos a couple of times to remember the information."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

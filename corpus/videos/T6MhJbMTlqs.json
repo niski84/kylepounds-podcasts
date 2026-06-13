@@ -43,7 +43,24 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Muslim immigration",
+   "claim": "Muslim immigration is better than liquidating them because the Chinese won't let them live in their new department buildings built in Cantola for some reason."
+  },
+  {
+   "subject": "Muslims",
+   "claim": "We shouldn't be so scared of Muslims because the worst stuff is in the Christian Bible, and if they're attacking people, it's because they're inferior."
+  },
+  {
+   "subject": "Mexicans",
+   "claim": "People are afraid of Mexicans because they have less advantage, like not speaking the language, but there's no reason to be scared of them."
+  },
+  {
+   "subject": "Democracy",
+   "claim": "In a democracy and meritocracy, stronger individuals will prevail, so there's no need to fear immigrants taking over."
+  }
+ ],
  "transcript": [
   {
    "start": 0.82,

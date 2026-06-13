@@ -68,7 +68,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I'm super competitive, but not in a way where others have to be lower for me to feel good."
+  },
+  {
+   "subject": "competition",
+   "claim": "In a race, if everybody finishes under a certain time, then everybody is a winner."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't compare myself to others negatively; if someone does better, I think they probably trained harder."
+  },
+  {
+   "subject": "friendship",
+   "claim": "You should be happy for your friends' successes, like seeing them finish a race—it means your group is healthy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "At 41, I reflect a lot on life, especially since Saturn's cycle is about 40 years, marking a rebirth."
+  },
+  {
+   "subject": "regret",
+   "claim": "I regret quitting skiing and not being more social or active in sports like bike racing when I was younger."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't feel jealousy toward others because I've had a fulfilling life with varied experiences."
+  },
+  {
+   "subject": "success",
+   "claim": "Success is about fulfillment, not money—using all your talents to their fullest potential."
+  },
+  {
+   "subject": "fulfillment",
+   "claim": "A fulfilled person is like a wild animal, free and using all their strengths, not caged or restricted."
+  },
+  {
+   "subject": "base jumpers",
+   "claim": "Base jumpers who die young might actually be happier because they avoid the toxicity of a trapped life."
+  },
+  {
+   "subject": "reincarnation",
+   "claim": "Happy memories from past lives influence your current life, so dying young with joy is better than living long in misery."
+  },
+  {
+   "subject": "Solon",
+   "claim": "Solon considered the most fortunate people to be those who died gloriously in battle, like the brothers Jimmy and Jets."
+  },
+  {
+   "subject": "Vikings",
+   "claim": "Vikings valued dying in battle to avoid the shame of being beaten down, which aligns with reincarnation beliefs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel fulfilled because I'm always pushing my limits, like in biking or working on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't care about money or fame right now because my website isn't finished, and I don't need more than I have."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Comparing myself to successful people like Cenk Uygur, I think my future influence will be greater because my work is more foundational."
+  },
+  {
+   "subject": "websites",
+   "claim": "My website is like a house built on stone—solid and unchanging—unlike blogs that are like scrolls, hard to navigate."
+  },
+  {
+   "subject": "history",
+   "claim": "Whatever you do stays in history forever, so it's important to build things that last."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I’m creating a new language with my thoughts and color-coding, which gives me fulfillment."
+  },
+  {
+   "subject": "success",
+   "claim": "The most successful person is the one who uses all their talent, not necessarily the one with the most money or influence."
+  }
+ ],
  "transcript": [
   {
    "start": 2.16,

@@ -34,7 +34,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to do a video but forgot and got late."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle slept until it was light outside."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got up at 2:13 PM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got really high for about ten minutes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, Kyle did photos and organized."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle doesn't have much to say about what he did yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is excited about getting his TV show started."
+  },
+  {
+   "subject": "Boulder",
+   "claim": "It snowed last night in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels it's time to be inside because it's really cold."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today, Kyle plans to post pictures on the wall."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to organize his room because it's a mess."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to organize his house because it's a mess."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants his house to look like his mom's house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle likes well-organized people who have nice trinkets sitting around."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants his house to have functional stuff in their places."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has totally neglected his house since he moved there three years ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle hasn't done much with his house since he moved in."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has a lot of stuff in his car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was listening to a podcast while cleaning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to fire today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle finds it hard to focus on one thing when organizing his room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is really hungry and plans to get something to eat."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

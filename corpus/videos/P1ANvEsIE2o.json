@@ -42,7 +42,112 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Boulder",
+   "claim": "The first building in Boulder was the post office in 1864."
+  },
+  {
+   "subject": "Boulder",
+   "claim": "In 1887, there was a directory in the 1887 folder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle worked on a project in 2015 that was gutted and not completed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle spent eight minutes and 25 seconds working on a project showing Satakwa in 1915."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thought the project was the last one he would do, but it was too big and he cracked."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle discovered Rome and dropped everything to focus on it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle tried to map cobblestones and roads in Rome but realized it was crazy and gave up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle started working on selling his car and his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to start riding his bike while working on the computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got a new couch because his old one was cutting his leg."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's old couch had a sharp edge that caused a permanent dent in his hamstring muscle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle experienced sharp shooting pains in his hamstring even after getting a new couch."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels sick and toxic all the time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is good at dropping stuff and starting something new."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to sell his car soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been trying to get up early to work on his car but is struggling with his sleep rhythm."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has been lying in bed at night unable to sleep until sunrise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks riding his bike might help him sleep at night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes selling his car will give him enough money to fix his room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to ride his bike on rollers for the whole year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is close to finishing some projects and thinks he can be productive while riding his bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle needs to have his website ready before starting a show."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to make a webpage quickly to start the show."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's hamstring pain is so bad he can't sit down or work properly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is scared because the pain in his hamstring comes all the way up from his butt."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to shampoo tomorrow."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

@@ -36,7 +36,104 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He was up until 5 AM working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He slept in until winter something."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "The car was fixed in a couple of things."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "The car now has little caps on the wheels."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "The heater was pushing out heat."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "The mechanic accidentally broke the washer, so now he only has a washer on the left."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "Fixing the washer would cost $500."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He left to drop the car off."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He came back and finished working on something but hasn't put it on his website yet."
+  },
+  {
+   "subject": "Kyle's book",
+   "claim": "The book is about all the buildings of Rome."
+  },
+  {
+   "subject": "Kyle's book",
+   "claim": "The book is organized alphabetically and has about 2,000 buildings."
+  },
+  {
+   "subject": "Kyle's book",
+   "claim": "He went through the important buildings alphabetically and created a menu out of that."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to drag and drop in the proper colors and make the links tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he'll finish the book tomorrow and put it on his website."
+  },
+  {
+   "subject": "Kyle's book",
+   "claim": "It's going to be the only book about the director of ancient Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He might do a demo of what he's been working on or a little graph of downtown Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The next book he does after this one will be more time-consuming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to go through this weekend and the next week to finish up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He's close to finishing and isn't in a rush."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He might get his pedals for his bike in another week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He'll be done with the whole ancient books project soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He started the ancient books project from scratch about a month ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wishes he had a faster computer before."
+  },
+  {
+   "subject": "Kyle's website",
+   "claim": "He plans to add more surface-level stuff to his website."
+  }
+ ],
  "transcript": [
   {
    "start": 0.02,

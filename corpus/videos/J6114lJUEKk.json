@@ -28,7 +28,28 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle Pounds",
+   "claim": "Kyle Pounds won sixth place, receiving a ribbon and a gift certificate from McDonald's."
+  },
+  {
+   "subject": "Tim Helgen",
+   "claim": "Tim Helgen won fifth place, receiving a ribbon and a gift certificate from McDonald's."
+  },
+  {
+   "subject": "Eric Owen",
+   "claim": "Eric Owen won fourth place, receiving a ribbon and a gift certificate."
+  },
+  {
+   "subject": "Mike Turley",
+   "claim": "Mike Turley won third place, receiving a ribbon and a five-dollar gift certificate from DINN verse spoke."
+  },
+  {
+   "subject": "Mike Constantino",
+   "claim": "Mike Constantino won second place, receiving a twenty-five-dollar gift certificate from BNH Sports."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

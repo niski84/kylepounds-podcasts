@@ -54,7 +54,64 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "iTunes/iMovie",
+   "claim": "The way iTunes or iMovie works is stupid because if you record a bunch of videos, they get thrown into a pool of videos where you can't see them directly, only frames that you have to scroll through forever."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle hasn't had the time to figure out how to use Premier, so he's going to do a couple more videos with iTunes or iMovie before switching to Premier."
+  },
+  {
+   "subject": "Kyle's computer",
+   "claim": "Kyle's computer crashed big time, and now he has to take it to the Apple Store, hoping he doesn't need to get a new computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is not in the greatest mood but is determined to finish the video for the third attempt."
+  },
+  {
+   "subject": "bars",
+   "claim": "Bars are part of the culture of Europe, and when Europeans came to America in the 1800s for mining, they brought their bar culture with them."
+  },
+  {
+   "subject": "bars in Boulder",
+   "claim": "Boulder has a bar culture influenced by its concentration of microbreweries."
+  },
+  {
+   "subject": "bars in Europe",
+   "claim": "In Europe, local bars are cozy places where people gather regularly, and you can tell outsiders because they are unfamiliar faces."
+  },
+  {
+   "subject": "bars in mining towns",
+   "claim": "In mining towns, bars were common, and people would go to saloons to drink, which was a way to bring people together."
+  },
+  {
+   "subject": "bars",
+   "claim": "Bars are a temporary activity and not something sustainable for the long term, and they might be replaced by general get-together places in the future."
+  },
+  {
+   "subject": "night clubs",
+   "claim": "Night clubs are places where people gather to dance in different styles, and in the future, they might be more outdoors, like beach night clubs in Alaska with heated water."
+  },
+  {
+   "subject": "dancing styles",
+   "claim": "In South America, women dance by moving their hips, while in America, people dance with their hands up."
+  },
+  {
+   "subject": "dancing in the future",
+   "claim": "In the future, people will dance differently, with more originality, and making fun of others for their dancing will be less common."
+  },
+  {
+   "subject": "communal living",
+   "claim": "In the future, communal living might replace bars with local community centers where people gather informally without paying anything."
+  },
+  {
+   "subject": "drugs",
+   "claim": "In the future, if someone wants to do drugs and freak out, they will do it at the local community center instead of at home."
+  }
+ ],
  "transcript": [
   {
    "start": 1.26,

@@ -21,7 +21,48 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle's team",
+   "claim": "My team made 31st in 1986 in Fort Collins."
+  },
+  {
+   "subject": "Kyle's team",
+   "claim": "We were getting ready for the time trial, stage one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I just saw them lining up for the time trial."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to start with a brighter number, 270 degrees."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wind them down before starting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "You have to force two people to start."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We need to stabilize before starting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Number 274 is part of the lineup."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The 1011 is part of the lineup."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Number 277 is brave and shade."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

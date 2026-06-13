@@ -39,7 +39,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He didn't do a video yesterday because he was working in telecrash."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He spent a whole day working on tours of Basil the Great."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He recently started working on the Ambros."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He found a page with many links to Ambros, which motivated him to finish it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to compile all books from the ancient classical world up until the 600s."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is excited about a story related to the Brits and a 3200-page work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Most of the works he's compiling are not very big."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He hopes there won't be many more gigantic works left to compile."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He called about his bike pedals and expects to get them later this week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Once he gets the pedals, he will start writing his bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to compile the works he already has before getting the pedals."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes the collection he's compiling will be the best in the world."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow he plans to work on Ambros and possibly the Nag Hammadi library."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is interested in doing other works through history eventually."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He listened to Scott Cold Riders today and found it interesting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks the religious church history of the Catholic Church is really interesting because of the amount of material."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He finds it challenging to get into learned religious history but thinks it would be good to know."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes knowing history tied into the present time helps people make the right decisions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to do more videos about how knowing history is beneficial."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to get to sleep soon."
+  }
+ ],
  "transcript": [
   {
    "start": 0.3,

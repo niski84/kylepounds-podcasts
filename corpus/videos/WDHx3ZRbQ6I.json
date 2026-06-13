@@ -30,7 +30,52 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Jonathan Muru",
+   "claim": "Jonathan Muru is a journalist."
+  },
+  {
+   "subject": "John Wayne",
+   "claim": "John Wayne has a connection to Derry Queen."
+  },
+  {
+   "subject": "Eric",
+   "claim": "Eric wins a bridge top and here one in force."
+  },
+  {
+   "subject": "cycling balls",
+   "claim": "Cycling balls from the bike broker are noteworthy."
+  },
+  {
+   "subject": "Ray Brown",
+   "claim": "Ray Brown is the first place winner overall, right or number nine."
+  },
+  {
+   "subject": "racing seats",
+   "claim": "The first place winner receives a set of racing seats from the bike broker."
+  },
+  {
+   "subject": "participants",
+   "claim": "Participant awards are given for the 10, 9 year old boys."
+  },
+  {
+   "subject": "John Rick",
+   "claim": "John Rick is a participant award winner."
+  },
+  {
+   "subject": "R.J.R. Jeremy Newlin",
+   "claim": "R.J.R. Jeremy Newlin is a participant award winner."
+  },
+  {
+   "subject": "Jonathan Podbore",
+   "claim": "Jonathan Podbore is a participant award winner."
+  },
+  {
+   "subject": "Brandon Riding",
+   "claim": "Brandon Riding is a participant award winner."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

@@ -31,7 +31,104 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I feel really ill right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't been getting enough exercise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today, I was working until late."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up kind of early today, but I can't remember what time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was just going to be a little bit more tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got two more lights today because I wanted more lights."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was studying the dream screen screen."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I realized I needed more lights because today was my first day working with it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got new lights, but then I realized I might need even more lights."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I knew more lights were needed in the bathroom because I didn't have one on that side."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to go buy more lights to get it right."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll have three lights in front of me in the bathroom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll have five lights in front of me for a 12-8 setup."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "They already have three lights, but I need lights on the back too."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have two lights in the back and five in the front."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I actually have two natural lights in the bathroom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not getting two more lights, so it'll actually be seven lights total."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I just now figured out the green screen."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I put a glow on the green screen and it works great."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's 10:20 at night and I'm too tired to do my vlog in front of the green screen."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow, I'll do my vlog in front of the green screen."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today will be the last time I do a video without the green screen."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "From now on, no matter how sick I feel, my videos will still look good and professional because of the green screen."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't feel like talking today."
+  }
+ ],
  "transcript": [
   {
    "start": 0.43,

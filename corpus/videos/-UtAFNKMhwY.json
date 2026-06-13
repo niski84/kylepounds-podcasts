@@ -41,7 +41,60 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I'm setting up a green screen for my video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working on Polibious for three days."
+  },
+  {
+   "subject": "Polibious",
+   "claim": "Polibious had three different levels of menu."
+  },
+  {
+   "subject": "Polibious",
+   "claim": "The big menu was 57 pages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got the first five chapters from Wiki Source."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had to go to Gutenberg for the rest of the chapters."
+  },
+  {
+   "subject": "Gutenberg",
+   "claim": "Gutenberg had a different translator for Polibious."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had to manually pick out titles from the text."
+  },
+  {
+   "subject": "Polibious",
+   "claim": "Polibious tells the history of Bob Waw."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on digitizing ancient classics."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to create a five-hawing page for the classics."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been listening to Bill Moore's audiobooks."
+  },
+  {
+   "subject": "Bill Moore",
+   "claim": "Bill Moore talks about how the plutocracy happened."
+  }
+ ],
  "transcript": [
   {
    "start": 0.11,

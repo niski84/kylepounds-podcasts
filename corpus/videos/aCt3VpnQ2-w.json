@@ -52,7 +52,124 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I went to Denver last Thursday to handle a plea deal."
+  },
+  {
+   "subject": "plea deal",
+   "claim": "The plea deal involved a $35 fine and 10 hours of community service."
+  },
+  {
+   "subject": "plea deal",
+   "claim": "The plea deal requires me to quit smoking weed during probation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took the plea deal because it was less expensive than going to court."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't need to go to court to be a marijuana activist; I can do it through my YouTube and website."
+  },
+  {
+   "subject": "DUI",
+   "claim": "I can use my DUI as motivation to create content for others in similar situations."
+  },
+  {
+   "subject": "Saint Dominium",
+   "claim": "I'm creating lists of every battle Rome was involved in from 753 BC to 211 AD."
+  },
+  {
+   "subject": "Saint Dominium",
+   "claim": "I'm mapping the distance of each battle from Rome, including round trips."
+  },
+  {
+   "subject": "Saint Dominium",
+   "claim": "I'm listing every town in northern Italy and the Roman Empire with their distances from Rome."
+  },
+  {
+   "subject": "Saint Dominium",
+   "claim": "I plan to create sister cities and sister battles based on their distances from Rome."
+  },
+  {
+   "subject": "Saint Dominium",
+   "claim": "I'm dividing the battles into different wars and tribes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been obsessed with working on Saint Dominium for the last couple of weeks."
+  },
+  {
+   "subject": "court appearance",
+   "claim": "I forgot to sign in when I first arrived at court, so I had to wait for two hours."
+  },
+  {
+   "subject": "court appearance",
+   "claim": "I watched other people handle their cases while waiting."
+  },
+  {
+   "subject": "prosecutor",
+   "claim": "The prosecutor asked if I was going to take the plea deal."
+  },
+  {
+   "subject": "probation",
+   "claim": "The prosecutor mentioned unsupervised probation if the supervising lady didn't show up."
+  },
+  {
+   "subject": "probation",
+   "claim": "I agreed to unsupervised probation, which doesn't require blood or urine tests."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I told the judge I was guilty of driving while ability impaired, even though I don't believe it's true."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I paid a $35 fine and signed up for community service."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm $1,200 in credit card debt and $4,600 in personal debt."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to get a job or find a way to make money soon."
+  },
+  {
+   "subject": "car",
+   "claim": "I need to replace my car battery because it died from sitting unused."
+  },
+  {
+   "subject": "car",
+   "claim": "I plan to sell my car to help get out of debt."
+  },
+  {
+   "subject": "website",
+   "claim": "I'm going to work on a fundraising page on my website to ask for donations."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "I might start making videos again in the winter to earn money."
+  },
+  {
+   "subject": "Saint Dominium",
+   "claim": "I'm excited about creating a mirrored Roman kingdom on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm currently focused on finishing the Saint Dominium page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I tend to get hyper-focused on new projects for about three days before burning out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm eating a Subway sandwich now."
+  }
+ ],
  "transcript": [
   {
    "start": 0.02,

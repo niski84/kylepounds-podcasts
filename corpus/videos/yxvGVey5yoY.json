@@ -65,7 +65,64 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "It's good to stand up for your principles because it's good for everybody involved, especially the other person."
+  },
+  {
+   "subject": "line skipping",
+   "claim": "Skipping in line should always be frowned upon regardless of whether they know someone in line because they could be with them, and you don't know."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If someone skips in line, you should assume they did it by accident and calmly tell them you were there first."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If someone is rude after being confronted about skipping in line, you should change your tone and get angry."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If someone spills beer on your new suit, they should compensate you for dry cleaning costs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If someone refuses to compensate you for dry cleaning costs, you should explain the logic and make it clear they are being unfair."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If a neighbor plays loud music and won't turn it down, you should record the noise and confront them calmly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If someone is speaking loudly on their cell phone in public, you should calmly ask them to lower their voice."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's worth confronting people to stand for fairness because it prevents them from going through life being rude."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In third-world countries, people get away with being rude because nobody confronts them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In America, people would take matters into their own hands if drug cartels started murdering people in cities."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In Chile, people often throw their hands up and say 'that's just how it is' instead of confronting unfair situations."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If someone confronts you calmly, you should respond calmly, but if they get angry, you can continue to talk to them calmly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Confronting people in a calm voice helps regulate society and makes the world a better place."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

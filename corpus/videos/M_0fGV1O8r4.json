@@ -45,7 +45,132 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got really high after returning from his first solo motorbike ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle woke up at around nine or ten in the morning."
+  },
+  {
+   "subject": "Japstown",
+   "claim": "Japstown is inaccessible unless you live there."
+  },
+  {
+   "subject": "Japstown",
+   "claim": "Half of the road to Japstown was dirt, which was unusual for Kyle because it used to be perfectly paved."
+  },
+  {
+   "subject": "Japstown",
+   "claim": "The road to Japstown was damaged due to a flood."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle rode up Four Mile Canyon, which was also in poor condition."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle rode up Skillet, a steep road, and his motorcycle performed strongly."
+  },
+  {
+   "subject": "Skillet",
+   "claim": "Skillet is a steep road with a gradient of around 13%."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle rode up to Peak to Peak and discovered a new trail he had never ridden before."
+  },
+  {
+   "subject": "Switzerland Trail",
+   "claim": "Kyle rode the Switzerland Trail, which had a super steep section that he managed to climb quickly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got gas and then rode to the town of Aldora."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle rode to the end of the 4th of July Trail."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle tried to use his hot stone device, but the battery was dead."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle smoked more than he thought he did and got really high."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes he could ride a motorbike while high if he went slowly on a trail."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle encountered rain while riding and had to stop."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle picked up an old hitchhiker who was trying to get back to Boulder."
+  },
+  {
+   "subject": "Hitchhiker",
+   "claim": "The hitchhiker was angry because he had been standing for half an hour without anyone stopping for him."
+  },
+  {
+   "subject": "Hitchhiker",
+   "claim": "The hitchhiker had never ridden a motorbike before and didn't have a helmet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle dropped the hitchhiker off just as he entered Boulder to avoid getting a ticket."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle experienced heavy traffic for the first time while riding his motorbike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had to make a left turn at a red light and let another car go straight."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes he avoided getting a ticket because it was his first full day of being legal."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle rode up to Aldora and the Sourdough Trail."
+  },
+  {
+   "subject": "Sourdough Trail",
+   "claim": "Kyle encountered a man with long hair who confirmed that the trail was open to motorbikes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle noticed that his right light was dangling near the exhaust pipe and was partially melted."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle continued his ride despite the damaged light."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle returned home to find the light completely melted off."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle needs to buy a new bulb and figure out how to reattach the left light."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to fix the light and secure other loose parts tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle recorded some GoPro footage of his ride and plans to compile a video."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

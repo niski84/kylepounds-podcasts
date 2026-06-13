@@ -49,7 +49,84 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Black Lives Matter",
+   "claim": "Black Lives Matter is good because the movement addresses how black people get treated differently."
+  },
+  {
+   "subject": "Sandra Bland",
+   "claim": "Sandra Bland was pulled over by a cop in Texas in a historically racist town, and the stop was questionable because she forgot to signal while getting out of his way."
+  },
+  {
+   "subject": "Sandra Bland",
+   "claim": "Sandra Bland was aggravated during the stop, yelled at the cop, and was then pulled out of her car."
+  },
+  {
+   "subject": "Sandra Bland",
+   "claim": "Sandra Bland was later found dead a couple of days later, allegedly by suicide with a plastic bag, despite no history of depression."
+  },
+  {
+   "subject": "Sandra Bland",
+   "claim": "Sandra Bland was part of Black Lives Matter, and the authorities got away with her death."
+  },
+  {
+   "subject": "Tamir Rice",
+   "claim": "Tamir Rice was a 13-year-old kid playing with a toy gun in the park when a cop with a history of reckless behavior shot him within seconds of arriving."
+  },
+  {
+   "subject": "Unnamed black kid",
+   "claim": "Another black kid was shot in a store while playing with a toy gun."
+  },
+  {
+   "subject": "Eric Garner",
+   "claim": "Eric Garner, a big black man selling cassettes, was choked to death by police after complaining."
+  },
+  {
+   "subject": "Michael Brown",
+   "claim": "Michael Brown was shot by Darren Wilson, who claimed Brown was charging at him, but the narrative was disputed."
+  },
+  {
+   "subject": "Police killings",
+   "claim": "Statistics show that cops kill around 10 to 100 people a year, with a disproportionate impact on black individuals."
+  },
+  {
+   "subject": "Michael Brown law",
+   "claim": "Passing the Michael Brown law, which mandates body cameras for cops, would solve many issues by providing clear evidence of interactions."
+  },
+  {
+   "subject": "Body cameras",
+   "claim": "Body cameras are now cheap and could be widely implemented to hold cops accountable, such as in cases like Darren Wilson and Michael Brown."
+  },
+  {
+   "subject": "Black Lives Matter",
+   "claim": "Black Lives Matter serves as a reminder that black people deserve as much respect as white people, despite cultural stereotypes about violence."
+  },
+  {
+   "subject": "Police encounters",
+   "claim": "Black people are culturally more likely to walk away or run from cops, which can escalate situations."
+  },
+  {
+   "subject": "Police brutality in Chile",
+   "claim": "In Chile, cops faced violent resistance from a poor neighborhood after arresting people for stealing copper."
+  },
+  {
+   "subject": "Racism denial",
+   "claim": "Some people claim there is no racism today, ignoring clear evidence like the disproportionate impact of the drug war on black communities."
+  },
+  {
+   "subject": "Drug war",
+   "claim": "The drug war disproportionately incarcerates black people, who make up 80% of prisoners despite being only 12% of the population."
+  },
+  {
+   "subject": "Racism awareness",
+   "claim": "People should share their experiences with racism to counter the narrative that racism no longer exists."
+  },
+  {
+   "subject": "Personal experiences",
+   "claim": "If people shared their horror stories about bad experiences with black people, many might realize they don’t have as many as they thought."
+  }
+ ],
  "transcript": [
   {
    "start": 0.72,

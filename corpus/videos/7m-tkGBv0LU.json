@@ -65,7 +65,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "The hardest challenge bicycling through Europe is motivating to sleep in the bushes instead of getting a hotel."
+  },
+  {
+   "subject": "Europe",
+   "claim": "Europe is really populated, like the East Coast on steroids with houses everywhere."
+  },
+  {
+   "subject": "Europe",
+   "claim": "Camping is illegal in Europe, so it's hard to find a hiding place to sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The hardest part is motivating yourself to camp in the bushes when it's raining."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Living on cheap food instead of expensive meals is hard but allows you to travel longer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Eating cheaply involves downing cans of vegetables, chili, and other cheap canned foods."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Wind, elevation, and cold weather are not an issue if you have the proper gear."
+  },
+  {
+   "subject": "Poland",
+   "claim": "Poland has very dangerous drivers who pass closely at high speeds."
+  },
+  {
+   "subject": "Mexico",
+   "claim": "Mexico has bad roads with no shoulders, making biking dangerous."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Finding small roads instead of super highways is difficult when biking through towns."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Navigating through towns and ensuring you take the right road out is time-consuming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Language barriers aren't a problem because someone always speaks English."
+  },
+  {
+   "subject": "Asia",
+   "claim": "In Asia, women often refuse to give directions and defer to men."
+  },
+  {
+   "subject": "Muslim women",
+   "claim": "Muslim women with veils sometimes ignore questions and walk away."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If he were to bike tour again, he would be more motivated to avoid hotels and eat canned food."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Drinking and partying while traveling is worth the expense because of the memories."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to make more biking videos, especially around Boulder, Colorado."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

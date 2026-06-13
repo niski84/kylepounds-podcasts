@@ -38,7 +38,108 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I didn't do a video yesterday because I was too busy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have been working on a battle project, superimposing maps on Google Earth and attaching pictures to place markers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The next step involves page 1111, almost page 12, and page 14, which has only four pictures on Flickr."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There are about 1300 photos from the 1800s, and I'll finish working on them day after tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The 1900s has 199 pictures, which will take me about a week or two to complete after the 1800s."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The 2000s has about 200 photos to work on after the 1900s."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After that, I have to work on Castles, which is about 2700, and I don't have place markers for them yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to check the GBS Played first, which is another step in the process."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "For the battles, I'm just adding pictures now, which is a big chunk of the project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Sometimes it's good to have different people working on the same thing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm hungry right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When I decide to do a big project, it's chaotic with all the photos, and it's time-consuming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The strategist in me wonders how much time the work will take, since my currency is time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Putting all cathedrals, castles, and battles on Google Earth with links is a significant time investment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I estimate it will take about six months to complete the project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "By the beginning of summer or May, my timeline might be functional."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I compare my timeline to the Great Pyramid, which was functional before the flood but is now just a shell."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My timeline is currently like the Death Star before it gets blown up—just a shell."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In six months, my timeline might be fully functional."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My website doesn't work properly if the banks don't work, because consistency is key to my timeline."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The concept behind my timeline is consistency, where everything looks the same to help familiarize patterns."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If you can see everything in the same frame, you can understand it better and zoom around."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The whole timeline needs to work for the concept to function."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can do a demonstration of finding a remote, but it's hard."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll try to talk tomorrow if I get the chance."
+  }
+ ],
  "transcript": [
   {
    "start": 2.32,

@@ -39,7 +39,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I got a nose plug so I could go swimming with the snorkel."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went on a bike ride up Leigh Hill."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "An old guy (around 70) caught up with me and asked if I was going full effort or half effort."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I told the old guy I was going full effort because it was my fifth ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Another guy passed me twice while chatting with me."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not a good climber on the bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I saw a place where a dude was getting water from a spigot."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "You can get a lot of water for free at the store in Ward, but after that, it's 25 cents per gallon with a maximum of a gallon per person."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I rode all the way down North P2K, took a photo from a strong stage, and then went down to Lyons and back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm better on the flats than climbing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked on my website and had to go to the dentist."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The dentist told me I'm a big-time grinder and need a grinding thing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to go back next Wednesday for three fillings."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I decided I'm not going to ride my bike for exercise anymore."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll get back on the computer as much as I can because biking makes me depressed about not having money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I realized how much work I have on my website and that biking was halting my progress."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm building a Boulder timeline page starting from January 1st, 2018."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Every year in my timeline will be exactly 50 years, every two years 100 years, and every month 4.25 years."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to adjust leap days to keep the timeline symmetrical."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to link the Boulder room, time chart, timeline, and living book together."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I proved I could ride my bike and got some ideas for my bike race page."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm glad I took a couple of days to bike and think about my projects."
+  }
+ ],
  "transcript": [
   {
    "start": 0.14,

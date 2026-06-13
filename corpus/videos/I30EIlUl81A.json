@@ -52,7 +52,84 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "News with Kyle",
+   "claim": "Kyle announces the return of 'News with Kyle' by popular request."
+  },
+  {
+   "subject": "News with Kyle",
+   "claim": "Kyle plans to do 'News with Kyle' every single day, similar to how he did it last time."
+  },
+  {
+   "subject": "News with Kyle",
+   "claim": "Kyle will look at top news articles, have them read to him while working, and include segments from his own and others' videos."
+  },
+  {
+   "subject": "Kyle Colinski",
+   "claim": "Kyle mentions including Kyle Colinski from Secular Talk in his news segments because he likes to include those pieces."
+  },
+  {
+   "subject": "YouTube channel",
+   "claim": "Kyle considers creating a channel dedicated to flips of all machines for historical preservation."
+  },
+  {
+   "subject": "News with Kyle",
+   "claim": "Kyle acknowledges he might not be the best newscaster but embraces being a new and unique style of newscaster."
+  },
+  {
+   "subject": "Huffington Post",
+   "claim": "Kyle mentions browsing Huffington Post for news stories but forgets which one he looked at previously."
+  },
+  {
+   "subject": "Drug war",
+   "claim": "Kyle criticizes the drug war, mentioning 46 bodies found in 2014 and a massacre in 2010, blaming the system for making drugs illegal."
+  },
+  {
+   "subject": "Gravity waves",
+   "claim": "Kyle finds it interesting that scientists are still discussing whether gravity waves exist."
+  },
+  {
+   "subject": "Untricks videos",
+   "claim": "Kyle watches Untricks videos, including one discussing a potential war scenario involving present-day figures."
+  },
+  {
+   "subject": "Bernie Sanders",
+   "claim": "Kyle jokes about Bernie Sanders having a little arm to cover all bases in a political scenario."
+  },
+  {
+   "subject": "Trump vs. Rubio",
+   "claim": "Kyle comments on Trump leading and Rubio almost out of the race after being caught repeating the same speech."
+  },
+  {
+   "subject": "George Bush",
+   "claim": "Kyle mentions George Bush being called a 'loser' on a talk show but thinks the description should have been more serious."
+  },
+  {
+   "subject": "Hillary Clinton",
+   "claim": "Kyle notes Hillary Clinton's accusation that Bernie Sanders took money from backers."
+  },
+  {
+   "subject": "News with Kyle",
+   "claim": "Kyle admits the show is a work in progress and will improve over time."
+  },
+  {
+   "subject": "YouTube uploads",
+   "claim": "Kyle feels pressure to make sure his YouTube uploads are good but acknowledges the challenge of doing so while still learning."
+  },
+  {
+   "subject": "News with Kyle",
+   "claim": "Kyle believes doing daily news helps keep him informed and provides a record of his thoughts on current events."
+  },
+  {
+   "subject": "YouTube channel",
+   "claim": "Kyle considers creating a separate YouTube channel for his news but decides to wait for now."
+  },
+  {
+   "subject": "Video length",
+   "claim": "Kyle aims to keep his videos between five and twenty minutes, depending on the content."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

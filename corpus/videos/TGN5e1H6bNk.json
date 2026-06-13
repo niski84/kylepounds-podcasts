@@ -49,7 +49,188 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I forgot to do my vlog yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to the liquor store to get beers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "They were having sales, and I got this beer for a dollar."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got three of these beers for a dollar."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wish I had gotten more because it's really good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I called my mom up because I wanted to see the movie 'X-Men: Days of Future Past.'"
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom took me to see 'X-Men: Days of Future Past' in 3D."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Whenever good movies come out, I have to see them in 3D."
+  },
+  {
+   "subject": "Wolverine",
+   "claim": "Wolverine is a complicated character now because of the other Wolverine from the parallel universe."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Captain America is the man out of time, and Wolverine is the man from the parallel universe."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The movie 'X-Men: Days of Future Past' was pretty good with cool action."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I liked the character who can open up vortexes for people to jump through."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The fast-running guy in the movie was really cool."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The fast-running guy and the vortex-opening girl were in the end of the Captain America movie too."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't work yesterday because it was Saturday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working on my website in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom called me up to go over and dig a hole to plant a rose bush."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I watched a couple more episodes of 'The Bible' at my mom's house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The show 'The Bible' is too melodramatic and cheesy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The show 'The Bible' makes Pontius Pilate out to be a bad guy, but in the Bible, he was trying to save Jesus."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The Romans shouldn't be made out to be bad guys; it was the Jews."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was listening to the Bible every day, but then I listened to Elizabeth Keckley, who was Mary Lincoln's dressmaker and best friend."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Elizabeth Keckley was batshit crazy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I listened to the entire book by Mary Shelley's mother, a feminist."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The book was really fascinating."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wasn't into the voyage to the South Pole with Cook."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got into the idea of listening to the same book over and over again to really understand it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to listen to one side of the book review, but I'm too high to do it now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll just listen to a book once and then move on to the next one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did a nice little pass and go through a book a day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When you listen to the end sober, you pay more attention to the chapter titles and where it takes place."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on my website now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My internet sucks, and I can't watch YouTube videos half the time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I called my internet provider because it's supposed to be faster."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It doesn't matter because I can listen to my MP3s all day long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on my website, specifically one page that I like."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Originally, I wanted to make the website really small with drink ratio categories."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I decided to focus on speed and get people in time trials for a multi-other and one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Now the website will mold together, and I'll see if what people say on forums matches the time trials."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a little calculator thing on the website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The website is going to be really cool but a lot of work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The website is going to be trippy to look at."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm trying to hammer through as much as I can today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been doing pretty good from night in the morning until now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got these beers and I'm going to go again because I have to work till nine."
+  }
+ ],
  "transcript": [
   {
    "start": 0.21,

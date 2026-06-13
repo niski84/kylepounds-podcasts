@@ -42,7 +42,188 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I cracked, so I'm doing my video with my shirt off."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to start writing my bio tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up at around 10 and went to work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom called me to help her with chores at her house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom doesn't pay me for helping her, but she feeds me really good food."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had to pick up my bike because I have to work tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to my mom's house to upload files because it's faster there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "At my mom's house, uploading files takes five seconds compared to five minutes at my place."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I started feeling excruciating pain in my back and arm while working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The pain in my arm was so bad it went numb."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I generally feel numb when I hit myself."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The pain distracted me so much I couldn't concentrate."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I stood up and walked around to try to alleviate the pain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think the pain might be due to long-term bad habits."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I compared my pain to ancient Roman stories of people dying of malnutrition."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel like I'm wasting my life."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I need to start exercising."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might have to ditch my website to focus on exercise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had a feeling it would be bad if I didn't finish my webpage today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm almost done with a super nice webpage and have a lot to be proud of."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think it's time to quit working on the webpage for now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to ride my bike, listen to music, and smoke weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The weed I'm smoking is pure and strong."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm smoking pure buds out of a pipe."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The weed is super cheap."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can smoke as much as I want without it being a problem."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't like to talk about audiobooks after smoking weed because I can't remember them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm too high to talk coherently after smoking weed all day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to focus on biking and taking baby steps."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm thinking about the miles I'll bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow is my first day of work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm calling my new routine 'Smoke Bike'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Smoke Bike involves smoking weed all the time and biking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll talk about my rides and vlogs in my routine."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can sync my vlogs with the right background because I'll have more time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Working on my website makes me one-track-minded."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't have a program that plays consecutive songs automatically."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might try to do a path Iron Man a day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm out of shape, so I'll start with fins and battles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might sign up for an Iron Man this summer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I could finish an Iron Man without coming in last."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might rent a fast bike for the Iron Man."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The idea is to get super high and fit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to be really high and thin, not jiggly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I talked too long in this video."
+  }
+ ],
  "transcript": [
   {
    "start": 0.56,

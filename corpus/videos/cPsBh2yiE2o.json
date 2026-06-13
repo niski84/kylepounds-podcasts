@@ -44,7 +44,68 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "internet service",
+   "claim": "The internet in my neighborhood is really bad, and I can only get 1.5 Mbps because it's an old and bad neighborhood."
+  },
+  {
+   "subject": "video uploads",
+   "claim": "I couldn't upload my video from the 17th until a couple of hours ago because everything was backed up due to slow internet."
+  },
+  {
+   "subject": "ethernet cable",
+   "claim": "I have an ethernet cable, and I plan to use it at night to upload videos when I'm backed up."
+  },
+  {
+   "subject": "mom's house",
+   "claim": "I had to go back to my mom's house when the internet technician came, but I couldn't do much because she was getting her house replaced."
+  },
+  {
+   "subject": "Skimers work project",
+   "claim": "I've been working on a Skimers work project for a few days, initially got stuck on Boulder research, but now I'm focusing on the Skimers."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "I'm adding distances to all the runs in Boulder to organize them on Google Earth."
+  },
+  {
+   "subject": "geckos",
+   "claim": "My geckos' crickets arrived today, and I got a thousand of them in the third size down for full-grown geckos."
+  },
+  {
+   "subject": "gecko cage",
+   "claim": "I cleaned the gecko cage for the first time in a couple of months and found a bunch of big beetles in there."
+  },
+  {
+   "subject": "jurbles",
+   "claim": "I forgot to feed my jurbles, and one of them ate the other, leaving only a little bit of a tail."
+  },
+  {
+   "subject": "work schedule",
+   "claim": "This week has slowed down, but I still have work on Thursday, Friday, and Saturday."
+  },
+  {
+   "subject": "house cleaning",
+   "claim": "I plan to clean my house tomorrow, including vacuuming, because it's kind of weird and messy from all the gecko stuff."
+  },
+  {
+   "subject": "Skores project",
+   "claim": "I'm excited to see what the Skores project looks like on Google Earth, where I'm rebuilding the school and creating fantasy city-states."
+  },
+  {
+   "subject": "fantasy city-states",
+   "claim": "I'm creating fantasy city-states where people live in 10x10 meter houses as tall as the lifts, with populations based on the size of the city walls."
+  },
+  {
+   "subject": "future video ideas",
+   "claim": "I want to make a video about being the only professional athlete in the world, extending the 'most powerful person in Boulder' concept, and reinventing education and the economic system using bikes and audio bugs."
+  },
+  {
+   "subject": "audio logs",
+   "claim": "I want to keep up with my audio logs and plan to do more videos tomorrow, but it's too late now."
+  }
+ ],
  "transcript": [
   {
    "start": 1.23,

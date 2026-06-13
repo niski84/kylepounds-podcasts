@@ -40,7 +40,80 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday Kyle got up at 6 AM because he had to do chores and returned home at around 4:30 PM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle called Garmin to get his watt meter fixed so he could start riding his bike."
+  },
+  {
+   "subject": "Garmin",
+   "claim": "Garmin helped Kyle fix his watt meter by guiding him through a setup process and clicking some settings."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle picked up his car with only 15 minutes left before the place closed."
+  },
+  {
+   "subject": "Kyle's car",
+   "claim": "Kyle's car had a problem where it was buzzing loudly due to a low-wheel pressure warning light, a short-circuited wire, and an oil light."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was relieved that the dealership figured out the car issue for $100-$185."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle finished Google screen captures and is now ready to piece together the statements."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle created 400 mountains that can be climbed from Boulder, inspired by the idea 'all roads lead to Rome.'"
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle mentioned that climbing these mountains will take a long time because they involve 200-mile trips."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is glad he has something easy to start working on his bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was listening to YouTube videos about a room and forgot to bring his MP3 player."
+  },
+  {
+   "subject": "Tantius",
+   "claim": "Kyle finds Tantius's book 'Divine Institutions' fascinating, describing it as a critique of gods and a historical chronology."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to memorize Tantius's work to incorporate it into his timeline."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to call Garmin tomorrow to fix his bike's lot display issue."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle will spend a day riding his bike to record data for his chart."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has a crystal-level chart page with all the lots needed for different cases."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is losing weight quickly and is now 105 pounds lighter than his previous weight."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to sleep after being awake for almost 24 hours."
+  }
+ ],
  "transcript": [
   {
    "start": 0.88,

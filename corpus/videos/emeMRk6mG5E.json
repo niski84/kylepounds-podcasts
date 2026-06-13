@@ -43,7 +43,96 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I took two days off because I'm too pressured with this book."
+  },
+  {
+   "subject": "book",
+   "claim": "The book is about the geography and buildings of Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm putting the book on my internet so my computer can read it to me."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm cutting out references and extra stuff to make the book flow smoothly for computer reading."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After editing, the book will be around 110 pages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to learn all the buildings of Rome for the map."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I recently did a sound check to see how far away people can hear each other in the park."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I recorded the sound check for my holiday project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday, I couldn't breathe well and felt sick."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I decided to ride my bike all day every day to get in shape."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm tracing the cobblestones of Rome and building a live Legion in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on the book while riding my bike on rollers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm concentrating on what to leave in or take out of the book."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm listening to the book as I edit it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to finish editing the book by the end of the day or tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The menu for this book will be the biggest I've ever done, with over a thousand buildings."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After finishing the book, I'll focus on surface-level stuff on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to start a Patreon after finishing the book."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Next, I'll trace the cobblestones of Rome on the map and bike the route."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I'll be done with my projects by early 2018."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm looking forward to when everything comes together quickly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was listening to some insurance history and other topics."
+  }
+ ],
  "transcript": [
   {
    "start": 0.62,

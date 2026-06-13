@@ -42,7 +42,104 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He lived in Boulder on April 5, 2017."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He got up early for work at around 8 or 9 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He stayed up until 2:30 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He only got 4 hours of sleep one night and 5 hours the next."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He doesn't feel tired despite the lack of sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He usually doesn't get only 4 or 5 hours of sleep two days in a row."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was recording a video for the first time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was working on a chart and had to finish building it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He spent time working on movie circles and found it time-consuming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he can finish the chart tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He had a new idea to include buildings at the edges of the area in his chart to show distances."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He considered having buildings at cardinal points, possibly double-sized ones."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wanted the buildings to be standardized in size."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He envisioned a video showing his career life and using Google Earth for visualization."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He listened to Wikipedia articles about history."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He read about Tynus and the literary voluntary story."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He listened to Tynus's entire book and parts of it again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thought about historical people crossing rivers and the challenges they faced."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He felt like he was experiencing the past while thinking about these historical events."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is super excited and motivated to continue working on his project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He built something around his idea and feels like he might break a world record."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to give himself the rest of the week to finish his project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He likes the current page he's working on, even though it's taking longer than expected."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He talked for about 4 minutes and 39 seconds."
+  }
+ ],
  "transcript": [
   {
    "start": 1.36,

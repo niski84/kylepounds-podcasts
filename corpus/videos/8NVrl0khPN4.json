@@ -45,7 +45,168 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I slept in today until 1:30 because I was really tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got really stoned."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I rode my bike up to Nederland."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took the bike path as far as I could."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I rode up across the P2B kayak."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did a video of Bargreso and Del Dora."
+  },
+  {
+   "subject": "ski resort",
+   "claim": "The ski resort still has snow on it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went north towards Ward."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was climbing a lot."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I noticed a lot of snow right on the edge."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought I need to put down nails for my videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I could feel the oxygen from this extra week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I felt stronger when I was right around the flats here."
+  },
+  {
+   "subject": "P2P",
+   "claim": "P2P was beautiful."
+  },
+  {
+   "subject": "P2P",
+   "claim": "When you look to the west to the left, there were big mountains."
+  },
+  {
+   "subject": "P2P",
+   "claim": "At one point you feel like you're the same level almost as tree line."
+  },
+  {
+   "subject": "roads",
+   "claim": "The roads are in really good shape."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I made it to Ward and did a video there."
+  },
+  {
+   "subject": "Ward",
+   "claim": "Ward's one of the old minestows."
+  },
+  {
+   "subject": "church",
+   "claim": "The old church in Ward is over 100 years old."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Riding down was fun because it was a long downhill."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think it was like 4,500 feet of climbing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was thinking about running when I got back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm only going to ride until I run out of weed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a few more days of weed left and I'm not going to buy more."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to take advantage of the weed just hang out and get out of the weed instead of be all."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Once I sober up, I can start new other things."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I work on figuring out fish type listens on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a bargain with myself that as long as I'm still smoking weed, all I do is ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel tired and can't really think as much."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My appetite hasn't kicked in yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I eat barely anything."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I must be burning calories from my fat."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow I would like to go on another ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to take advantage of as much as three times I can't afford works."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I start to work beginning in May."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to ride up to Ward like the same road reverse."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to ride big to pee over to like a same ranking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think it's called down to Lions, though we're getting another mountain day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Maybe I can make it all the way to this as part."
+  }
+ ],
  "transcript": [
   {
    "start": 1.07,

@@ -85,7 +85,200 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Ignatius Donnelly",
+   "claim": "Ignatius Donnelly wrote 'Atlantis: The Antediluvian World' in 1888."
+  },
+  {
+   "subject": "Ignatius Donnelly",
+   "claim": "Ignatius Donnelly was an American congressman from Minnesota."
+  },
+  {
+   "subject": "Ignatius Donnelly",
+   "claim": "Ignatius Donnelly started a hippie commune that failed, leaving him as the only member, where he wrote his book about Atlantis."
+  },
+  {
+   "subject": "Ignatius Donnelly",
+   "claim": "Ignatius Donnelly was a good politician who fought for poor people's rights."
+  },
+  {
+   "subject": "Ignatius Donnelly",
+   "claim": "Ignatius Donnelly was a one-term congressman."
+  },
+  {
+   "subject": "Ignatius Donnelly",
+   "claim": "Ignatius Donnelly became really rich after his book became a bestseller."
+  },
+  {
+   "subject": "Atlantis: The Antediluvian World",
+   "claim": "The book 'Atlantis: The Antediluvian World' was the number one bestseller when it was published."
+  },
+  {
+   "subject": "Atlantis: The Antediluvian World",
+   "claim": "The book 'Atlantis: The Antediluvian World' is now considered pseudo-scientific by mainstream consciousness, including Wikipedia."
+  },
+  {
+   "subject": "Wikipedia",
+   "claim": "Wikipedia operates like a democracy where contributors vote on content, often influenced by scholars and college professors."
+  },
+  {
+   "subject": "Atlantis: The Antediluvian World",
+   "claim": "The book 'Atlantis: The Antediluvian World' is not pseudo-scientific; people label it as such because they can't conceive of a world civilization before our time."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Plato is the only person who mentioned Atlantis in detail in the past."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Plato's account of Atlantis is not considered science because it's based on a single source."
+  },
+  {
+   "subject": "Ancient civilizations",
+   "claim": "Ancient civilizations like the Egyptians and Scythians knew the world was round and surrounded by an ocean."
+  },
+  {
+   "subject": "Atlantis: The Antediluvian World",
+   "claim": "The book 'Atlantis: The Antediluvian World' compiles data from myths, legends, and archaeological sites."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Plato's account of Atlantis includes evidence of a world-based civilization in the Atlantic."
+  },
+  {
+   "subject": "Ignatius Donnelly",
+   "claim": "Ignatius Donnelly's book discusses giants and pyramids, and giant mummies were found 20 years after its publication, confirming some of its claims."
+  },
+  {
+   "subject": "Ancient Greece",
+   "claim": "The gods of ancient Greece were actually kings of Atlantis, according to Ignatius Donnelly."
+  },
+  {
+   "subject": "Ancient Greece",
+   "claim": "This idea that Greek gods were kings of Atlantis was revolutionary in the 1880s."
+  },
+  {
+   "subject": "Ancient discoveries",
+   "claim": "In the 1800s, discoveries like the Nile, Troy, and Machu Picchu sparked interest in ancient texts and cultures."
+  },
+  {
+   "subject": "Heinrich Schliemann",
+   "claim": "Heinrich Schliemann found Troy based on descriptions from ancient texts."
+  },
+  {
+   "subject": "Ancient texts",
+   "claim": "Ancient texts were initially dismissed as fiction until discoveries proved their accuracy."
+  },
+  {
+   "subject": "Fundamentalist Christianity",
+   "claim": "The rise of fundamentalist Christianity began when people started taking ancient religious texts seriously."
+  },
+  {
+   "subject": "Ancient myths",
+   "claim": "Ancient myths like Zeus and Hercules were not made-up fiction but distorted accounts of real kings and heroes."
+  },
+  {
+   "subject": "Hercules",
+   "claim": "Hercules was a king from Egypt and a hero from Greece, and their stories became mixed up."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Plato was an ancient Greek philosopher who lived around 450 BC and was a student of Socrates."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Plato wrote about Atlantis based on knowledge passed down from his grandfather, a descendant of Solomon."
+  },
+  {
+   "subject": "Solomon",
+   "claim": "Solomon was an ancient sage who traveled to Egypt and learned from Egyptian priests."
+  },
+  {
+   "subject": "Herodotus",
+   "claim": "Herodotus recorded that Egyptian priests had a lineage going back 10,000 years."
+  },
+  {
+   "subject": "Ancient Egypt",
+   "claim": "Ancient Egypt was a peaceful and organized society with a cooperative political structure."
+  },
+  {
+   "subject": "Ancient Egypt",
+   "claim": "Women had significant rights in ancient Egypt, and the society was very clean and advanced."
+  },
+  {
+   "subject": "Ancient Egypt",
+   "claim": "The Egyptian delta was only 10,000 years old, according to Herodotus, suggesting Egyptians came from elsewhere."
+  },
+  {
+   "subject": "Ancient Egypt",
+   "claim": "The Egyptians knew Africa was surrounded by an ocean, even though no one had circumnavigated it."
+  },
+  {
+   "subject": "Ancient Egypt",
+   "claim": "The pyramids and other ancient Egyptian structures suggest advanced technology or organization."
+  },
+  {
+   "subject": "Ancient Egypt",
+   "claim": "Herodotus described a labyrinth in Egypt that was even more impressive than the pyramids."
+  },
+  {
+   "subject": "Ancient Egypt",
+   "claim": "The Nile's flooding and dike systems were managed by ancient Egyptians, with some dikes built 5,000 years ago."
+  },
+  {
+   "subject": "Ancient Egypt",
+   "claim": "Ancient Egyptians believed in reincarnation, where souls cycled through different animals before becoming human again."
+  },
+  {
+   "subject": "Ancient Greece",
+   "claim": "Ancient Greece was a federation of city-states with a shared culture and gods."
+  },
+  {
+   "subject": "Ancient Greece",
+   "claim": "The Oracle of Delphi, a woman, had significant influence over Greek decisions, including wars."
+  },
+  {
+   "subject": "Ancient cultures",
+   "claim": "Many ancient cultures shared similar flood stories, suggesting a common origin."
+  },
+  {
+   "subject": "Vedic astrology",
+   "claim": "Vedic astrology and Western astrology share similarities, indicating a common origin from a world culture."
+  },
+  {
+   "subject": "Halloween",
+   "claim": "Halloween and the Day of the Dead are remnants of the same ancient holiday commemorating the destruction of Atlantis."
+  },
+  {
+   "subject": "Alphabets",
+   "claim": "Alphabets like Phoenician and Hebrew are related and trace back to a common ancient language."
+  },
+  {
+   "subject": "Phoenicians",
+   "claim": "The Phoenicians were traders with a widespread influence, possibly remnants of an ancient world culture."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Plato claimed Atlantis sank 9,000 years before his time, around 11,500 years ago."
+  },
+  {
+   "subject": "Native American legends",
+   "claim": "Native American flood legends, like the story of Noah, suggest a shared cultural origin with other ancient civilizations."
+  },
+  {
+   "subject": "Mandans",
+   "claim": "The Mandan Indians were a tribe of white Native Americans, possibly descended from ancient Atlanteans."
+  },
+  {
+   "subject": "Ancient America",
+   "claim": "Ancient America had a river-based civilization, possibly connected to Atlantis."
+  },
+  {
+   "subject": "Ancient world",
+   "claim": "The ancient world was a remnant of a higher civilization that has since devolved."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

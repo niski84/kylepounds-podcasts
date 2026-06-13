@@ -30,7 +30,76 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He got up at 11 AM today, which is the same as other days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He stayed up until around 2:31 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He was working on his Google race distance grid."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The grid is more intricate than he originally planned."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is designing the grid as he goes along."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is excited to finish the grid tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he will be done with the grid tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is curious to see who likes the grid and who the solvers are."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes the grid can help understand political groups and groupings of people."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks the grid can help understand how different languages or sizes became what they are."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He decided to start listening to a Google Analytics tutorial."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is happy with his progress."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to finish the grid tomorrow and then move on to other tasks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he can finish the whole page tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He mentions the day was short and backgrounds are 12's, 24's, and 50's."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He apologizes if the video is making people dizzy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He signs off with 'Peace out.'"
+  }
+ ],
  "transcript": [
   {
    "start": 0.3,

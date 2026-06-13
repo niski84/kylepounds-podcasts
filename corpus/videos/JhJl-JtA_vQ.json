@@ -70,7 +70,100 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is good and is responding to video requests."
+  },
+  {
+   "subject": "Elliot Rodger",
+   "claim": "Elliot Rodger was the first serial killer to upload YouTube videos."
+  },
+  {
+   "subject": "Elliot Rodger",
+   "claim": "Elliot Rodger's case is typically LA because he wanted to upload videos and have a movie made about him."
+  },
+  {
+   "subject": "Elliot Rodger",
+   "claim": "Elliot Rodger was diagnosed with Asperger's, which is a type of autism."
+  },
+  {
+   "subject": "Asperger's",
+   "claim": "People with Asperger's are really interested in one thing and will talk about it all the time."
+  },
+  {
+   "subject": "Asperger's",
+   "claim": "People with Asperger's don't understand social cues."
+  },
+  {
+   "subject": "Elliot Rodger",
+   "claim": "Elliot Rodger's problem was a mixture of Asperger's and sociopathy."
+  },
+  {
+   "subject": "Elliot Rodger",
+   "claim": "Elliot Rodger felt entitled because he was rich."
+  },
+  {
+   "subject": "Elliot Rodger",
+   "claim": "Elliot Rodger identified himself as being awesome with being rich."
+  },
+  {
+   "subject": "Elliot Rodger",
+   "claim": "Elliot Rodger was isolated and had no friends."
+  },
+  {
+   "subject": "Elliot Rodger",
+   "claim": "Elliot Rodger's father was probably a workaholic and neglected him."
+  },
+  {
+   "subject": "Elliot Rodger",
+   "claim": "Elliot Rodger's stepmother probably neglected him because he wasn't her kid."
+  },
+  {
+   "subject": "Elliot Rodger",
+   "claim": "Elliot Rodger had a creepy vibe that made people not want to hang out with him."
+  },
+  {
+   "subject": "Elliot Rodger",
+   "claim": "Elliot Rodger snapped because he was isolated and felt entitled."
+  },
+  {
+   "subject": "Elliot Rodger",
+   "claim": "Elliot Rodger's father was an atheist and made a documentary about God."
+  },
+  {
+   "subject": "Elliot Rodger",
+   "claim": "Elliot Rodger's father was the assistant director of The Hunger Games."
+  },
+  {
+   "subject": "Elliot Rodger",
+   "claim": "Elliot Rodger grew up around actors and thought he should be treated like a celebrity."
+  },
+  {
+   "subject": "Elliot Rodger",
+   "claim": "Elliot Rodger's case was a perfect storm of mental illness, entitlement, and neglect."
+  },
+  {
+   "subject": "Mass killings",
+   "claim": "Mass killings are always committed by men, not women."
+  },
+  {
+   "subject": "Women",
+   "claim": "Women don't snap and kill people like men do."
+  },
+  {
+   "subject": "Women",
+   "claim": "Women might use poison instead of violence."
+  },
+  {
+   "subject": "Elliot Rodger",
+   "claim": "Elliot Rodger's case is similar to other rich people who committed murders because they felt entitled."
+  },
+  {
+   "subject": "Elliot Rodger",
+   "claim": "Elliot Rodger thought he was going to get away with his crimes."
+  }
+ ],
  "transcript": [
   {
    "start": 0.37,

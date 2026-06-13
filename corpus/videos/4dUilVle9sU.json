@@ -42,7 +42,84 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He lives in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He recorded the video on April 11th, 2017 at 10 PM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He planned to do body shots for the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He forgot to set up the computer on a table to show his whole torso."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went to work yesterday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His commute to work was a 21-mile round trip."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went to Aaron's place downtown."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He planned to go riding but ended up running instead."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He ran 4.34 miles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went to a swimming pool after running."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He couldn't hear his MP3 player while swimming due to splashing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He lost motivation to swim without music."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He tried using another MP3 player with lower volume."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He used fins while swimming but forgot the paddle hand paddle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He realized how hard swimming is when he started pushing down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He forgot to bring a tripod to film himself running."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He plans to film himself running next time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he looks fat on camera."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will show how his appearance has changed in the next video."
+  }
+ ],
  "transcript": [
   {
    "start": 0.59,

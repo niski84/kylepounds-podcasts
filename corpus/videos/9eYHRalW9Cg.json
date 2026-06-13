@@ -40,7 +40,116 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Today I got up and did a little bit of work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went over to my mom's house to help with things and do an ad for my car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to the doctor to get a pulmonary check on my side."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went back to my mom's house and watched the news."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going back to my mom's house tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked on a little bit of a green screen setup."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a fast car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm done with working on the car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was also going to get started on Saturday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got back to reading Plattener Ashby's topographer dictionary of ancient Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I just started the bees section, which is alphabetical."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to coat it and stay in."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today I was listening to Anabesus from an exagress, which is about a smart king and strand."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm really tired and should do these videos in the morning when I get up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to try doing videos in the morning tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm really excited for this video and plan to use more green screens."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I figured out how to fix the sound issues with the green screen."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I drag everything onto the timeline and put my vlog last to avoid sound issues."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I mute the other layers to manage sound."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I like to grab a bunch of random clips and stack them, cutting out uninteresting parts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The yellow green screen allows me to throw all clips in and place them easily."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to practice dumping green screens to get better at it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have like 1700 green screens to play with."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "From now on, I plan to do everything from my car during the day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to do the video from my car all day tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Being at my mom's house is a different situation because she cooks for me and we watch TV."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When I get home at night, I record."
+  }
+ ],
  "transcript": [
   {
    "start": 0.56,

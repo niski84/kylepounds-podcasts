@@ -43,7 +43,104 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Today I got up kind of early like at 8 and I think I even did a little bit of work on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I laid down again and slept until I got a lot and then I went to my mom's house and shampooed her car from noon to six."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The car was dumping out white foam constantly while I was shampooing it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't realize how dirty the car was before and it's starting to look really good now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Shampooing the car is very time-consuming, taking hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to continue shampooing the car until it stops producing white foam."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I must have put too much shampoo concentrate in the car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I will go over the car again without adding any more detergent to remove the remaining foam."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The background for today's video is an area circle to give an idea of size for calibration."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The area circle can be used to calibrate distances when traveling around Boulder or other places in the world."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The area circle starts at 500 meters and then doubles in size (1000 meters, 2000 meters, etc.)."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to label each size of the area circle, such as 20 plumber across being a kingdom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think later I will make a video showing the same size comparisons from different places in the world."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Creating the area circle took eight minutes, so the video will also be eight minutes long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I feel like I'm trying to do too many things at the same time and it's overwhelming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to start running and biking, but I need to get other things in order first."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to create a webpage for my biking project, but the one I made disappeared."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought I had made 300 pages for the biking project, but they disappeared."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to rebuild the biking project webpage and finish other unfinished pages on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My website is in disarray, like 'Syria, Mom doubts Syria,' and needs to be fixed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm currently working on the Italy section of my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow I will go to my mom's house again to continue shampooing the car."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to listen to Roman agrarian law while working tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm really high right now."
+  }
+ ],
  "transcript": [
   {
    "start": 0.72,

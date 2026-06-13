@@ -85,7 +85,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "economy",
+   "claim": "The economy in the USA and other countries in the world can improve within the next 20 years by transitioning from a resource-extraction economy to a sustainable service-based economy."
+  },
+  {
+   "subject": "economy",
+   "claim": "The 2008 economic collapse started from the housing crisis due to irresponsible loans and taxpayer bailouts, leading to a worldwide recession."
+  },
+  {
+   "subject": "oil industry",
+   "claim": "Fracking in America is causing significant groundwater problems, potentially making places like Oklahoma and Texas wildlife sanctuaries in 50 years due to undrinkable water."
+  },
+  {
+   "subject": "oil industry",
+   "claim": "Oil prices will stay low forever because demand will bottom out as alternative energy technologies like electric cars improve."
+  },
+  {
+   "subject": "media",
+   "claim": "The transition from television economy to YouTube economy is in high gear, and television will be obsolete in about four years."
+  },
+  {
+   "subject": "education",
+   "claim": "Future education will focus more on personal, specific technical skills to aid in the automation of everything."
+  },
+  {
+   "subject": "wealth",
+   "claim": "In the future, people won't hoard money out of fear because they'll realize that richness means access to natural places and safety, not material accumulation."
+  },
+  {
+   "subject": "education",
+   "claim": "Memorizing a thousand important historical stories could make a nation of people who know all of history, effectively making them 'gods on earth.'"
+  },
+  {
+   "subject": "education",
+   "claim": "Biking while listening to stories is the perfect way to learn because it combines physical activity with mental focus without needing infrastructure."
+  },
+  {
+   "subject": "farming",
+   "claim": "Future farming will involve aeroponic skyscrapers that grow food five times faster than traditional dirt farming, without pesticides and with minimal resource use."
+  },
+  {
+   "subject": "space exploration",
+   "claim": "Building a space elevator could allow slingshot launches to the moon to bring back hydrogen dust, potentially powering the world for free."
+  },
+  {
+   "subject": "genetics",
+   "claim": "Future jobs will include DNA tampering to fix genetic issues passed down through generations, like asthma or autoimmune disorders."
+  },
+  {
+   "subject": "genetics",
+   "claim": "Gene manipulation could repair genetic damage caused by toxic environments and even improve human physical potential."
+  },
+  {
+   "subject": "careers",
+   "claim": "In the future, people will have fewer long-term careers and instead switch jobs frequently, reducing wealth disparity as all jobs are valued equally."
+  },
+  {
+   "subject": "globalization",
+   "claim": "Third-world countries will culturally catch up to first-world countries through exposure and competition, like Indians uploading videos on YouTube and realizing their content isn't as engaging."
+  },
+  {
+   "subject": "globalization",
+   "claim": "Meritocracy will naturally integrate third-world populations into first-world economies, as their lower-quality work will force them to charge less, keeping skilled workers on top."
+  },
+  {
+   "subject": "longevity",
+   "claim": "Future advancements will focus on growing organs in vitro and extending life, but society may shift to valuing quality of life over sheer longevity."
+  },
+  {
+   "subject": "culture",
+   "claim": "Open-mindedness is key for third-world countries to develop, but it requires a cultural shift from close-mindedness, driven by exposure and competition."
+  },
+  {
+   "subject": "reincarnation",
+   "claim": "Belief in reincarnation may reduce fear of death in the future, making people more open to sharing resources and living fully."
+  },
+  {
+   "subject": "automation",
+   "claim": "Automation will reduce the need for traditional jobs, allowing people to explore multiple careers and focus on personal growth."
+  }
+ ],
  "transcript": [
   {
    "start": 0.72,

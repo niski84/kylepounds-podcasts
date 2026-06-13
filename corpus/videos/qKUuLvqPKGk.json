@@ -45,7 +45,140 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got up at 7:30 AM on April 5th, 2017, despite staying up until 3 AM the previous night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle sometimes gets 8 hours of sleep, but other times he only gets 4 hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle felt fine despite getting only 4 hours of sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was working on a project involving a 20-year-old dimension."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was working on links for charts and had them on their own pages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle screwed up the colors on the charts because he couldn't do a batch edit after removing some columns."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle contacted Adobe support and spoke to someone in India to resolve the issue."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle realized he needed to restart Dream Weaver to fix the issue."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had never experienced this problem with the old version of Dream Weaver."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle did a batch edit of the colors but forgot he had another version for the race distance, which caused issues."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle couldn't do a batch edit anymore because it wouldn't work properly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had to finish building a 250-meter diameter guillaula, which was partially completed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle decided to do samples because making a complete grid can be incomplete."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes it's better for learning to be able to zoom in and out completely."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle hopes to finish the project the next day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was listening to 'Living Again' and finds it fascinating."
+  },
+  {
+   "subject": "Living Again",
+   "claim": "Kyle thinks 'Living Again' is a really good writer who describes events well and allows the reader to imagine the situation."
+  },
+  {
+   "subject": "Living Again",
+   "claim": "Kyle appreciates that 'Living Again' tells a story without over-explaining."
+  },
+  {
+   "subject": "Living Again",
+   "claim": "Kyle believes that every time you read 'Living Again,' you learn more things."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to listen to 'Living Again' a lot to get ideas for his show."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to think more about his show now so he can do better when he makes it."
+  },
+  {
+   "subject": "calendar",
+   "claim": "Kyle mentions that in some cultures, they adjust their calendar every 20 years to account for discrepancies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to wear a different hat each day from now on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle mentions that his hat is scratched and he put it on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to work on his Google Earth collection next."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to work on his wood page after finishing his Google Earth collection."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle tries not to scroll up and down too much to avoid giving people headaches."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle lost 25 subscribers because of his content."
+  },
+  {
+   "subject": "Alexander the Great",
+   "claim": "Kyle discusses whether Alexander the Great could have defeated the Romans."
+  },
+  {
+   "subject": "Alexander the Great",
+   "claim": "Kyle mentions that Alexander the Great was not a good general because he was just a drunk."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to incorporate the discussion about Alexander the Great into his show."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was listening to an interview with Jane Mayer and learned more about some of his projects."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks he has talked enough and has nothing else to say."
+  }
+ ],
  "transcript": [
   {
    "start": 0.5,

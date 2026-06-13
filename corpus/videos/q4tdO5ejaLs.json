@@ -37,7 +37,88 @@
   "date": "",
   "model": "sonnet"
  },
- "claims": [],
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle lives in Boulder, B.A.L.A."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle started the video with his band on Google Earth."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "Google Earth captured the angle of the windshield in the front and back perfectly, including a flower cow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's apartment is on the Northeastern side of the building."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "Kyle did a panoramic at 3D from a thousand feet, and it looked very realistic."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle felt like he was in a cartoon while moving around his neighborhood at ground level in 3D on Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle got out early in the dark and worked all day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is working on his Patreon and show page, which is now his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle encourages viewers to go to his website and have their computer read his intro to them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes his website will get better over time, even if it takes millions of years due to slow computers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to spend another couple of weeks working on his website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle lives in a place where he has to be out of his house often."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle collaborates with others on ideas and enjoys explaining things to them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's mom and girlfriend help him with proofreading."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is not listening to anything else because he is focused on his current task."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle finds writing trippy and believes he will get hooked on it after finishing his current project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wonders if it would be possible to learn how to write and ride a bike at the same time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle considered writing a bike and doing simple stuff simultaneously."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks it would be impressive if someone could write a bike and write at the same time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle ended the video after 39 minutes and plans to talk again tomorrow."
+  }
+ ],
  "transcript": [
   {
    "start": 3.79,
