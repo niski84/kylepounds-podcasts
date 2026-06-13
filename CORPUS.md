@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-1495 videos with transcripts. Source of truth for transcripts + enrichments.
+1719 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -732,6 +732,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2013-05-30 | [Living in Lafayette Vlog 5-30-2013](corpus/videos/0QBnMFcOHRg.json) | — |  |
 | 2013-05-29 | [Living in Lafayette Vlog 5-29-2013](corpus/videos/cTfsdnOZuiA.json) | — |  |
 | — | [Soaking grains in my van - Request](corpus/videos/-8PobnC39SM.json) | — |  |
+| — | [What an american thinks about germany - bike touring](corpus/videos/-8yRDarfjmk.json) | — |  |
 | — | [My living in the van diet requested by German Daniel](corpus/videos/-BfAQUDBbvo.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 12/21](corpus/videos/-GyLITkPPvI.json) | — |  |
 | — | [Drive from Joshua Tree to Las Vegas](corpus/videos/-HBn82eHAuo.json) | — |  |
@@ -742,11 +743,15 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Income Inequality - Request](corpus/videos/-_Kwrc5Bd_E.json) | kyle | Kyle responds to a video request about Thomas Piketty's 'Capital in the 21st Century,' discussing income inequality, wea |
 | — | [I got rejected from Canada](corpus/videos/-fqX-8TuqXE.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 12 - 2014](corpus/videos/-huYY8QTguQ.json) | — |  |
+| — | [Setting up my tent on magic mushrooms in Amsterdam 1/4](corpus/videos/-irECG_qMls.json) | — |  |
 | — | [Living in Boulder Vlog 3 - 22 - 14](corpus/videos/-jybDomEMFw.json) | — |  |
 | — | [Living in Boulder Vlog 1  -  1 -  2014](corpus/videos/-oDUfdQJEKA.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 13 - 2013](corpus/videos/-s4DyR4vkRY.json) | — |  |
+| — | [Timelessness vs time - parralel universes vs riencarnation](corpus/videos/019Ud9u6F_8.json) | — |  |
+| — | [Aliens make crop circles not humans!](corpus/videos/08EG9AehZkU.json) | — |  |
 | — | [La Historia del Italia 3/3](corpus/videos/0CHsjDn_Z58.json) | — |  |
 | — | [Marraige - Request](corpus/videos/0KPrzukbxx0.json) | — |  |
+| — | [I'm Going Bike Touring Then Racing](corpus/videos/0LCYVtsqxCY.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 5 - 2014](corpus/videos/0LQN8ucfiOE.json) | — |  |
 | — | [History of Greece 1/3](corpus/videos/0RS37GTnUkU.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 27 - 2013](corpus/videos/0SFtuUQO8Xs.json) | — |  |
@@ -759,31 +764,43 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What would I do if I got 3rd degree burns on 80% of my body - Request](corpus/videos/0ldo8ooOj_I.json) | — |  |
 | — | [What I wanna do in my spare time - Request](corpus/videos/0yE41F7WnQA.json) | — |  |
 | — | [What I think about Nikola Tesla - Request](corpus/videos/117xKgrYQQA.json) | — |  |
+| — | [Mount Olympus, Greece 7-2010 1/6](corpus/videos/12mATy51AHk.json) | — |  |
 | — | [What kind of bike to get - Request](corpus/videos/16dganL8V-8.json) | — |  |
 | — | [What kinds of fruit I like - Request](corpus/videos/18BehusCouU.json) | — |  |
+| — | [Vienna, Austria - Downtown 4-2010 1/2](corpus/videos/18pSLlH_t-c.json) | — |  |
 | — | [How has habitual drug used changed my personality and life - Request](corpus/videos/1BxGdst-k7Q.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 30 - 2013](corpus/videos/1EjxhgMLCFg.json) | — |  |
+| — | [Dimensional visualization aid - the power of ten - my page is the best](corpus/videos/1Hhh2h26Wnk.json) | — |  |
 | — | [What I think about Campaign finance reform](corpus/videos/1NmAODyJbt8.json) | — |  |
 | — | [Don't use Q-Tips!](corpus/videos/1TPI-mBQgkI.json) | — |  |
 | — | [My phone & phone plan - Request from Ron Staudinger the Aussie](corpus/videos/1cwkEgC4bZk.json) | — |  |
+| — | [Bike Touring & Vlogging - Czech Republic - Prague Towards Poland. 5-20](corpus/videos/1fxbIJy6_so.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 6 &  7 - 2013](corpus/videos/1l4Mkm9dzt8.json) | — |  |
 | — | [What I think about Autism](corpus/videos/1nfDnIKIOTc.json) | — |  |
 | — | [Lives of the 12 Caesars by Seutonius Book Synopsis - Pt2 Caligula to D](corpus/videos/1vdNdc6Zqwg.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 11/21](corpus/videos/24B8BjhyYKI.json) | — |  |
 | — | [What I would do if I was a Fugitive - Metalsmithseamus's idea.](corpus/videos/24CWjWIPEAY.json) | — |  |
+| — | [Vienna, Austria - Countryside From Wells 200 KM To Vienna From The Tra](corpus/videos/255sBgKEfHc.json) | — |  |
+| — | [3,000 miles on my legs vlog bike touring in Europe 2010](corpus/videos/26ajSwdhwV4.json) | — |  |
 | — | [What an American thinks about Bulgaria](corpus/videos/2INObFo_dcA.json) | — |  |
 | — | [La Historia de los Balkan](corpus/videos/2POqLyq_yL8.json) | — |  |
 | — | [How to cure Depression - Request](corpus/videos/2Xg8o2d-Owo.json) | — |  |
 | — | [What I think about Arizona - Request](corpus/videos/2_eYh-8Zvng.json) | — |  |
 | — | [Why left liberals do yoga and right conservatives lift weights - Reque](corpus/videos/2dNC90g0XK8.json) | — |  |
 | — | [Bike Touring Vlog - Semijarvi, Finland to Amsterdam, Netherlands 8 & 9](corpus/videos/2ej_PUybzis.json) | — |  |
+| — | [Bike Touring - Slovakia. 5-2010](corpus/videos/2xS9EsO52QU.json) | — |  |
 | — | [History of Spain](corpus/videos/2zyQJHTl9xU.json) | — |  |
 | — | [People stuck in their Paradigms - Request](corpus/videos/3-jhm_4S7g8.json) | — |  |
 | — | [La Historia de China](corpus/videos/35yUPMEbRR0.json) | — |  |
 | — | [Answering questions about me from Seamus 5/5 stoned](corpus/videos/37eVv-Gxeys.json) | — |  |
+| — | [Kinds of Aliens 4/5](corpus/videos/37rG-BlGANU.json) | — |  |
 | — | [Living in Boulder Vlog 9 - 21 - 2013](corpus/videos/38FNEX6BNRs.json) | — |  |
 | — | [What I think about anastasia and the screaming cedars book 1 - book re](corpus/videos/3EiIKJrJAow.json) | — |  |
 | — | [Bullies - Request](corpus/videos/3JhgxNVbx_8.json) | — |  |
+| — | [Possible 2012 scenario on December 21st Twenty Twelve the end of the M](corpus/videos/3O0y0orBppA.json) | — |  |
+| — | [How and why we should change the educational system 2/4](corpus/videos/3RdT3yqSTbM.json) | — |  |
+| — | [Ios, Greek Island nightlife June 2 2010 1 of 3](corpus/videos/3b5Gvd6JQfA.json) | — |  |
+| — | [Mycenia, Greece, Treasury of Atreus - Amazing!!!](corpus/videos/3ibX2EPxNK8.json) | — |  |
 | — | [What I think about the Pineal Gland Request](corpus/videos/3k7rcaPY52Q.json) | — |  |
 | — | [Living in Boulder 4 - 24 - 2014](corpus/videos/3p_dQeQeLkc.json) | kyle | Kyle records a brief daily vlog from Boulder, recapping his energy levels after adjusting to a work routine, a bike comm |
 | — | [Bike Touring - Hamburg, Germany to Amsterdam, Netherlands 9-2010](corpus/videos/3phXduNxdOA.json) | — |  |
@@ -792,6 +809,8 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Talking about my life - Boulder, Colorado 19/21](corpus/videos/3yoCG-hfvk4.json) | — |  |
 | — | [Hermeticism - Request](corpus/videos/4-f-20a0a28.json) | — |  |
 | — | [Future of Robots - Request](corpus/videos/4H-MIk7mMFA.json) | — |  |
+| — | [Give me money rich boy](corpus/videos/4LcNM2SadfU.json) | — |  |
+| — | [Esther (Abraham) Hicks - What I think - request](corpus/videos/4WJBb0Sfd8Y.json) | — |  |
 | — | [How living in Chile tweaked my mind 2/4](corpus/videos/4XpXwg5X63s.json) | — |  |
 | — | [In Reincarnation a Fad - Request](corpus/videos/4h9xli7A2cE.json) | — |  |
 | — | [La Historia del Grecia](corpus/videos/4rdcEYr78_o.json) | — |  |
@@ -799,6 +818,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What an American thinks about Bolivia](corpus/videos/4t004Hxipic.json) | — |  |
 | — | [We should make generalizations about other countries](corpus/videos/51V7f_bQgdU.json) | — |  |
 | — | [What I think about the String Theory](corpus/videos/5336vexuoH4.json) | — |  |
+| — | [Bike Touring - Croatia - Zagreb to Serbia. 5-2010](corpus/videos/58fYtnu5muw.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 3 - 2014](corpus/videos/5EdFogO_W78.json) | — |  |
 | — | [There should be no Billionaires](corpus/videos/5JUceifupVA.json) | — |  |
 | — | [Ranting on 12 Beers - request](corpus/videos/5NOZMOvDeSE.json) | — |  |
@@ -809,24 +829,33 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Living in Boulder Vlog 12 - 1 - 2013](corpus/videos/5Yzy4_UiLI0.json) | — |  |
 | — | [Favorite Historical Eras to Study - Request](corpus/videos/5aP_nL2kcmI.json) | — |  |
 | — | [Many Lives many masters book by Brain Weiss - What I think about it - ](corpus/videos/5aSP6L4slEI.json) | — |  |
+| — | [there are three kinds of people in the world](corpus/videos/5amq00nImgs.json) | — |  |
 | — | [Living in a Van for $480 a month - Request](corpus/videos/5bZlY0JUp10.json) | kyle | Kyle responds to a viewer request about lifestyle options on $480/month rental income, discussing van living, bike touri |
 | — | [Souls of Black Folk by W.E.B. Dubios Book Review & Insights](corpus/videos/5bciOXPRKLo.json) | — |  |
 | — | [History's Relationship to Aliens](corpus/videos/5by9dGstJtw.json) | — |  |
 | — | [Outsourcing - What I think about that. I want to help those third worl](corpus/videos/5h_K5oMRKFM.json) | — |  |
+| — | [What will the world be like post disclosure? 3 of 8](corpus/videos/5tpMOB7cxY0.json) | — |  |
+| — | [Trondheim, Norway 8-2010](corpus/videos/5y9GIVN8pxg.json) | — |  |
 | — | [Living in Boulder Vlog 5 - 1 - 2014](corpus/videos/64UdiezR5yo.json) | kyle | Kyle briefly explains why he skipped his previous day's vlog — he was exhausted after a full day of cycling 10 miles, cl |
 | — | [Nevada - Request](corpus/videos/68TQCrEGebg.json) | — |  |
+| — | [Vienna, Austria -Skyline From The Cathedral 5-2010](corpus/videos/6Ad0d832OsA.json) | — |  |
+| — | [What will the world be like post disclosure? 1 of 8](corpus/videos/6BKHHg1HxCE.json) | — |  |
 | — | [History of France](corpus/videos/6FjmwVFqlQI.json) | — |  |
+| — | [What will the world be like post disclosure? 5 of 8](corpus/videos/6GaVUEPOf8M.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 5 - 2013](corpus/videos/6I2xPtcB1nA.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 15 - 2013](corpus/videos/6LMY7bmL6Fo.json) | — |  |
 | — | [Bike Touring Vlog - Europe - Summer 2010 4/8](corpus/videos/6M-lcQSgamc.json) | — |  |
 | — | [Spent like three days at Mount Baker Ski Area Making Videos](corpus/videos/6MlYdQysGnM.json) | — |  |
+| — | [How and why we should change the educational system 4/4](corpus/videos/6N7ejDGYc5k.json) | — |  |
 | — | [What I think about Colorado - Request](corpus/videos/6OKtsexgZcY.json) | — |  |
 | — | [What I think about the documentary Thrive - Requested by Krishnaslittl](corpus/videos/6XpydOfMr6w.json) | — |  |
 | — | [Politics - Request](corpus/videos/6bdtYZtAxnA.json) | — |  |
 | — | [Yosemeti National Park, California](corpus/videos/6cIzSY0KbVE.json) | — |  |
+| — | [Insights After Visiting Auschwitz, Poland 3/3](corpus/videos/6d1S0SBwlFY.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 14/21](corpus/videos/6eCtxnNryS0.json) | — |  |
 | — | [We all should mock each other](corpus/videos/6ulpDhv4VYo.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 3 - 2013](corpus/videos/6vSYiZR2NsI.json) | — |  |
+| — | [What an American thinks about Austria](corpus/videos/7SCYZXl8zZE.json) | — |  |
 | — | [Dan Burish - Alien Contactee 2/3](corpus/videos/7ShH-mATivU.json) | — |  |
 | — | [Questions about Homosexuality - Request](corpus/videos/7ZZrBEE7HAI.json) | — |  |
 | — | [Las Vegas, Nevada 2/2](corpus/videos/7a8MsbTFHVI.json) | — |  |
@@ -836,6 +865,8 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Bike Touring Vlog - Semijarvi, Finland to Amsterdam, Netherlands 8 & 9](corpus/videos/7m6hDcLb9lY.json) | — |  |
 | — | [Earth Changes - What I think](corpus/videos/7qlDDo4Tkow.json) | — |  |
 | — | [Living in Boulder Vlog 9 - 18-  2013](corpus/videos/7sTThVYFpD0.json) | — |  |
+| — | [The boat ride to Ios, Greece July 2010](corpus/videos/7tXpD5Idu0w.json) | — |  |
+| — | [Bike Touring - Austria - Weer Campsite 4-2010](corpus/videos/7uZ7Sr3LwcM.json) | — |  |
 | — | [Hallucinogins - Request](corpus/videos/8AuHYORNLmE.json) | — |  |
 | — | [Joshua Trea National Park 2/2](corpus/videos/8HsilraXMzY.json) | — |  |
 | — | [Hitchhiker talking about aliens he has met](corpus/videos/8MsgrYoo6AI.json) | — |  |
@@ -845,6 +876,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [How living in Chile tweaked my mind 1/4](corpus/videos/8YKpnLZq2wg.json) | — |  |
 | — | [DNA is our spirit - Talking on mushrooms - tripping - booming](corpus/videos/8_DAYVxg7P8.json) | — |  |
 | — | [How living in Chile tweaked my mind 3/4](corpus/videos/8_ciZ1g4HTQ.json) | — |  |
+| — | [Bike Touring - Switzerland - Basel to Zurich. 4-2010](corpus/videos/8am__2CrRCc.json) | — |  |
 | — | [Strong girls who could kick my ass lifting in the gym](corpus/videos/8cjlbAiITiw.json) | — |  |
 | — | [Trayvon Martin Case - Request](corpus/videos/8eG17RSqr-o.json) | — |  |
 | — | [Petrified Forest National Park 2/2](corpus/videos/8iZUdtodeP8.json) | — |  |
@@ -860,19 +892,24 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Weight Lifting Machines Should be Connected to the Internet](corpus/videos/8zqfDwFpnYY.json) | — |  |
 | — | [Living in Boulder Vlog 10 - 22 - 2013](corpus/videos/9-n4P7HIS2Q.json) | — |  |
 | — | [The Future of Australia's Population - Request](corpus/videos/94p3VwrvTsg.json) | — |  |
+| — | [how we can deal with our fear of aliens](corpus/videos/977SdI5lBIk.json) | — |  |
 | — | [Give me your Money Poor Person - For My Timeline](corpus/videos/9AdXi_ogepE.json) | — |  |
+| — | [Check out my AD timeline wall poster for world history](corpus/videos/9B2VOXmOBjg.json) | — |  |
 | — | [Nassim Haramein - what I think 1/2](corpus/videos/9CqKMlxTlbg.json) | — |  |
+| — | [My DNA activation vision](corpus/videos/9DPhSmzYlrc.json) | — |  |
 | — | [Living in Boulder Vlog 4 - 21 - 14](corpus/videos/9JOkUzyikXM.json) | kyle | Kyle records a late-night vlog from his bathroom in Boulder while high and slightly drunk after dinner with his brothers |
 | — | [Ooh my new TopPeak Bike Bag is gunna make me like Conan!](corpus/videos/9L5VVNEdN-I.json) | — |  |
 | — | [Welcome to my Road Bike 1984 Pinarello Steel 58cm w/ Aluminum Fork](corpus/videos/9RhKtAmYfhM.json) | — |  |
 | — | [My Experience w/ Legal Drugs (Enthogeons) - Request](corpus/videos/9YDh9S8M51E.json) | — |  |
 | — | [Recorded History 2/9](corpus/videos/9cTDFSAmSuw.json) | — |  |
+| — | [Bike Touring - Interview With Serbian Newspaper at Sunny Resort 1/2](corpus/videos/9enJOkXCjUY.json) | — |  |
 | — | [Transparentist is the new political party of the future](corpus/videos/9sDZeYv05e4.json) | — |  |
 | — | [Everybody Should Be Able to Join the Ballot for Elections](corpus/videos/9tcvjmb-yh8.json) | — |  |
 | — | [Channeling - What I think about that](corpus/videos/A4H1tghdVak.json) | — |  |
 | — | [What an American thinks about Albania](corpus/videos/ABjpeNWjeVo.json) | — |  |
 | — | [How to be social in College - Request](corpus/videos/AFBT8bk2K_w.json) | — |  |
 | — | [How I plan to make money with my Timeline   Request](corpus/videos/AHifo5swEh8.json) | — |  |
+| — | [Make the educational system fractal, holographic](corpus/videos/AILKzfTFGTw.json) | — |  |
 | — | [Identifying soul groups on the Earth 2/2](corpus/videos/AJ6Qc3fQw54.json) | — |  |
 | — | [Movie "The Message" about Muhammad & Islam - Request](corpus/videos/AMikx9YH2GA.json) | — |  |
 | — | [Why Marijuana is Illegal - Request](corpus/videos/AO3xQ_mrg7M.json) | — |  |
@@ -884,6 +921,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What I use for my website, where I learned and if I use ads on it - Re](corpus/videos/B9R285U6IAU.json) | — |  |
 | — | [History of Monotheism](corpus/videos/BKPx5K0fqOY.json) | — |  |
 | — | [Mount Hood, Oregon Part 2 July 19ish 2011](corpus/videos/BLe-E6aeHLk.json) | — |  |
+| — | [Bike Touring - Kosovo - Montenegro to Pristina to Macedonia. 5-2010](corpus/videos/BOa7YAl5eFw.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 19 - 2013](corpus/videos/BPvBbjiMLPc.json) | — |  |
 | — | [Living in Boulder Vlog 4 - 23 - 2014](corpus/videos/BVOGAr1qNS0.json) | kyle | Kyle vlogs about his first full day back at work after weeks off, getting unexpectedly high from cannabis-infused food/d |
 | — | [Amsterdam, Netherlands 9-2010 3/4](corpus/videos/BYbZ4EtP66k.json) | — |  |
@@ -898,36 +936,50 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Talking about my life - Boulder, Colorado 17/21](corpus/videos/BnGcOfIMjYQ.json) | — |  |
 | — | [What an American thinks about Guyana](corpus/videos/C3qLTmU4KhA.json) | — |  |
 | — | [Uploading Videos gives you ideas to make more Videos](corpus/videos/C9G14kRmsF8.json) | — |  |
+| — | [Kinds of Aliens 3/5](corpus/videos/CFxSY1wHgb8.json) | — |  |
+| — | [Bike Touring - Sweden - Mine East to Stockholm & West To Denmark. 8-20](corpus/videos/CHuRo1zTJrw.json) | — |  |
+| — | [How and why we should change the educational system 3/4](corpus/videos/CKOnfmwlg2I.json) | — |  |
 | — | [Deverias vivir en su auto](corpus/videos/CVJi-bPaARc.json) | — |  |
+| — | [2,000 Miles On My Legs Vlog - Bike Touring Through Europe 5-2010](corpus/videos/CWK1JWrD_Tg.json) | — |  |
 | — | [Why the Universe is alive](corpus/videos/CWP-Jn7ebo8.json) | — |  |
 | — | [Recorded History 4/9](corpus/videos/CZioNRj8TzI.json) | — |  |
+| — | [How I've changed since I've gotten older - From the 20's to the 30's, ](corpus/videos/C_82fzKyuAI.json) | — |  |
 | — | [What an American thinks about Kosovo](corpus/videos/CaaEoASEyho.json) | — |  |
 | — | [Talking About 24 hours of Moab Solo Mountain Bike Race 2010 - 1stx 2/4](corpus/videos/CcOZ2zSOHjY.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 18 - 2013](corpus/videos/Ccutmd78plk.json) | — |  |
 | — | [Enlightenments relationship to insanity](corpus/videos/CeU2xq4NhTM.json) | — |  |
 | — | [What I Think About Alex Jones 2/2](corpus/videos/CfJNPCyC670.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 10 - 2014](corpus/videos/CioggELAyZQ.json) | — |  |
+| — | [Living with your parents is cool](corpus/videos/CkE9TbEi6Hg.json) | — |  |
 | — | [Pondering if one's paradigm is all wrong - Request](corpus/videos/Cm98I8wC4qw.json) | — |  |
+| — | [Bike Touring Vlog - Austria - Leichtenstein to Vienna. 4-2010](corpus/videos/Cmu7NJJdkjU.json) | — |  |
 | — | [Tour of my Van that I live in - 1991 Volkswagen Vanagon Pop Up Westfal](corpus/videos/CutOwg421cA.json) | — |  |
 | — | [A Day in the Life of Kyle Pounds - Request](corpus/videos/Cwz9d4UMuQM.json) | — |  |
 | — | [A good way to make money - Make educational materials. New industry.](corpus/videos/CzDJ5mEngTY.json) | — |  |
 | — | [Vegetables   Request](corpus/videos/CzMi5d40Fig.json) | — |  |
 | — | [Paul Walker death -  Request](corpus/videos/D03_yWnTCnE.json) | — |  |
+| — | [What I think about Rainbow gatherings](corpus/videos/D7XSJJD8QZc.json) | — |  |
+| — | [What an american thinks about Switzerland - bike touring](corpus/videos/D7imq3rk9mU.json) | — |  |
 | — | [what I think about dolores cannon hypnotherapist](corpus/videos/D9R-x80Nr3U.json) | — |  |
 | — | [What an American thinks about Greece](corpus/videos/DA-g3EP4l7Q.json) | — |  |
 | — | [Living in Boulder Vlog 10 -  25 - 2013](corpus/videos/DCnlRpOBs34.json) | — |  |
 | — | [Answering questions about me from Seamus 2/5](corpus/videos/DFWQ4Qtipyg.json) | — |  |
 | — | [New Mexico - Request](corpus/videos/DJi-__XCrVc.json) | — |  |
+| — | [Mount Olympus, Greece 7-2010 2/6](corpus/videos/DNdPkgZYK_E.json) | — |  |
 | — | [Comparing the Sizes of Things 5/6 - The Power of Ten](corpus/videos/DmmkqKnJJOc.json) | — |  |
 | — | [What I think about Michael Tsarion conspiracy theorist 3/3 - request](corpus/videos/DvYuYb9HIEg.json) | — |  |
 | — | [How I plan on marketing my timeline website - Request](corpus/videos/DxFI11UgxBo.json) | — |  |
+| — | [Bike Touring - Austria - Landeck to Innsbruck. 4-2010](corpus/videos/DxYyo6WNt2M.json) | — |  |
 | — | [Amsterdam, Netherlands 9-2010 2/4](corpus/videos/E4lEtFo8m28.json) | — |  |
 | — | [What I think about David Deida,  Sex Counselor - Request by lecharia](corpus/videos/E660FSEzEaE.json) | — |  |
 | — | [What I think about Michael Tsarion conspiracy theorist 1/3 - request](corpus/videos/E7RoGGY3MV8.json) | — |  |
 | — | [War on Democracy Documentary, Hugo Chavez, Cold War, CIA - Request](corpus/videos/E7bu6Z6guLU.json) | mixed | Kyle responds to a viewer request to share his thoughts on the Oliver Stone documentary 'The War on Democracy,' covering |
 | — | [Comparing the Sizes of Things 6/6 - The Power of Ten](corpus/videos/EJQQT0aHM6U.json) | — |  |
 | — | [Response #2 to Hardcore Muslim about God, Muslim Immigration & Overpop](corpus/videos/EKYwNwCPvvg.json) | — |  |
+| — | [Delphi, Greece - Archaeological Site 7-2010 4/4](corpus/videos/ENI_RDvykpk.json) | — |  |
 | — | [Get rid of high school diplomas as a way to fix the educational system](corpus/videos/EOSJSkKdLek.json) | — |  |
+| — | [Corinth, Greece - Archaeological Site 6-2010 3/4](corpus/videos/EWbnWsgkXbk.json) | — |  |
+| — | [Burning flesh - The mark of the beast - Marijuana leaf burn tatoo.](corpus/videos/EZH5GmQT_MQ.json) | — |  |
 | — | [Which famous chicks I think are hot](corpus/videos/E_jfbVKMi1A.json) | — |  |
 | — | [George Kavissalas' Earth Changes - What I think - request](corpus/videos/EkyK9b4D4pY.json) | — |  |
 | — | [Project Camelot - What I think - request](corpus/videos/Ell8s5Hiubg.json) | — |  |
@@ -935,6 +987,8 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Good aliens - Request](corpus/videos/EpOS16uz4Og.json) | — |  |
 | — | [Sequia National Park, California & Kings Canyon National Park](corpus/videos/ErlirnR9pm8.json) | — |  |
 | — | [What I think about Scientology](corpus/videos/EshhzK9EWJ0.json) | — |  |
+| — | [What will the world be like post disclosure? 7 of 8](corpus/videos/EzCJnxWQJCM.json) | — |  |
+| — | [Sofia, Bulgaria 7-2010 3/3](corpus/videos/F4gmUrRR8yo.json) | — |  |
 | — | [Bike Touring - Camping in Copenhagen, Denmark. 8-2010](corpus/videos/F5soqBiYxWk.json) | — |  |
 | — | [What I think about Austin, Texas](corpus/videos/FAftNE94Jzc.json) | — |  |
 | — | [Why 10% of us are Atheists but Higher Ed and Science is Controlled by ](corpus/videos/FBa0Qq12kGU.json) | — |  |
@@ -947,83 +1001,108 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [My experience with remote controlled vehicles - Request](corpus/videos/FS8C2YeQR1U.json) | — |  |
 | — | [What I do all day long on the Ultimate Timeline](corpus/videos/FVcb082RxuU.json) | — |  |
 | — | [How I decide what I was in my past lives - Resquest by globetrottermik](corpus/videos/Fa9-wYbvsSo.json) | — |  |
+| — | [War against the Athiest. "There is a soul"  God damnit! There IS  soul](corpus/videos/FdpPdvTfidE.json) | — |  |
 | — | [steps towards disclosure](corpus/videos/Fe0qJT72Qn0.json) | — |  |
 | — | [The New Goal for Pulic Education Should be for kids to know everything](corpus/videos/FeUQx4ZvFE4.json) | — |  |
 | — | [We should act the same way to everybody](corpus/videos/Fgqn9sdml1k.json) | — |  |
 | — | [Kyles Gym Web Site Tour](corpus/videos/Fgs8Qi0O5mM.json) | — |  |
 | — | [self-censorship & political correctness - Request](corpus/videos/FsAxbNAO4t0.json) | — |  |
 | — | [Special message to the most fanouse of my fans](corpus/videos/G2nmOj2UOK8.json) | — |  |
+| — | [What an American thinks about Romania part 2](corpus/videos/G7zV3ujl6LI.json) | — |  |
 | — | [Predictions for 2012](corpus/videos/G89T--QmYwU.json) | — |  |
 | — | [Talking about Scientology](corpus/videos/G9kOUY2uko4.json) | — |  |
+| — | [What an American thinks about Czeck Republic - Bike touring May 2010](corpus/videos/GDEHCzvipPA.json) | — |  |
 | — | [All Female Athletes Should Wear Spandex - Not Just Rowers and Volleyba](corpus/videos/GE21dgde6SQ.json) | — |  |
 | — | [Heavy Metal Music - Request](corpus/videos/GNtcGuUl4Fg.json) | — |  |
 | — | [La Historia de Alemania](corpus/videos/GOKsdzkebFs.json) | — |  |
 | — | [Copenhagen, Denmark 8-2010 2/3](corpus/videos/GOUyy89kT8s.json) | — |  |
+| — | [Mount Olympus, Greece 7-2010 4/6](corpus/videos/GSclckitl64.json) | — |  |
+| — | [Time space verses Space time - Double Slit Experiment, Uncertainty Pri](corpus/videos/GaN1tL5ev30.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 15/21](corpus/videos/GaRViEJ_Has.json) | — |  |
 | — | [Multiverse - Request](corpus/videos/GdZpz-B_QDU.json) | — |  |
 | — | [Talking about different Vaporizors, the plug in ones are the best - Re](corpus/videos/GhDpb2m_f14.json) | — |  |
 | — | [Cats - Request](corpus/videos/GietF6gMs3s.json) | — |  |
 | — | [My Living out of my Van Working Out Diet](corpus/videos/Gp0AP6knRbA.json) | — |  |
+| — | [My last day in Vienna Austria May 4th 2010](corpus/videos/Gunqk1nDktw.json) | — |  |
 | — | [Dan Burish - Alien Contactee 1/3](corpus/videos/Gw3-gHw5JLw.json) | — |  |
 | — | [5 favorite cities in Latin America - Request](corpus/videos/GwmTDOOCvR4.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 13 -  2014](corpus/videos/Gx8ZJgiZVT8.json) | — |  |
 | — | [What the world will be like in 1,000 years - Request](corpus/videos/GzFfPU4mfD8.json) | — |  |
 | — | [How to retain information and other random questions - Request](corpus/videos/H08m37oW9ls.json) | — |  |
+| — | [Bike Touring Vlog - Greece & Bulgaria 1/3](corpus/videos/H7BHOZr3dKs.json) | — |  |
+| — | [Zagreb, Croatia 5-2010 2/2](corpus/videos/H9kFjtF7Hd8.json) | — |  |
 | — | [Some Say Love song - Request by krishnaslittlehelper](corpus/videos/HB98rqQS8lE.json) | — |  |
 | — | [La Historia del Estados Unidos 3/4](corpus/videos/HG8sePTqF-c.json) | — |  |
 | — | [My religious and spritual history in this life](corpus/videos/HH9lXFssrcA.json) | — |  |
 | — | [Conversation about Mike's homeless friend's story of looking for work ](corpus/videos/HJkIwIBG8v0.json) | — |  |
+| — | [What I think about Andy Basiago and Project looking glass, pegasus 5 o](corpus/videos/HLyLVpiOqeE.json) | — |  |
 | — | [Alex Collier - Alien Contactee 2/3](corpus/videos/HUKYjwhehD4.json) | — |  |
 | — | [What I Think About Alex Jones 1/2](corpus/videos/HWn-KksEhsY.json) | — |  |
 | — | [The US should annex Mexico](corpus/videos/HZ3Yp5_cy-E.json) | — |  |
 | — | [Ultimate Kayak Demo - Hammock, Cart, Flipping, Stand-Up Paddling](corpus/videos/HbJImhbjSsw.json) | — |  |
 | — | [How our Luminous Body carries karma & stuff - Request](corpus/videos/Hg_QWxCJha8.json) | — |  |
+| — | [Bike Touring - Albania - From North Towards Tirane. 6-2010](corpus/videos/HgcdRF5SgOQ.json) | — |  |
 | — | [What I think about Durango, Colorado](corpus/videos/HhXH_--qCok.json) | — |  |
 | — | [Portland, Oregon. July 2011](corpus/videos/Hi36_WXiT3Y.json) | — |  |
 | — | [What I think about George kavassilas - request](corpus/videos/HlTfImgcojw.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 24 - 2013](corpus/videos/HqOnMKO4mxc.json) | — |  |
+| — | [Insights After Visiting Auschwitz, Poland 2/3](corpus/videos/HsbG8Wj7nB4.json) | — |  |
 | — | [Answering questions about me from Seamus 3/5](corpus/videos/I0MS54nr94U.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 16 - 2013](corpus/videos/I4tJWjX1egI.json) | — |  |
 | — | [History of England 2/3](corpus/videos/I6BHYzW7fBc.json) | — |  |
 | — | [Comparing the Sizes of Things 3/6 - The Power of Ten](corpus/videos/IA2SbnZa3YQ.json) | — |  |
 | — | [2010 24 Hours of Moab Mountain bike race - National Championships](corpus/videos/IC54KS18ih8.json) | — |  |
+| — | [Pristina, Kosovo 5-2010](corpus/videos/IE9gb2-diQk.json) | — |  |
 | — | [Drive from Death Valley to Sequoia National Parks, California.](corpus/videos/IFQYQFhKAds.json) | — |  |
 | — | [Timeline update - Request](corpus/videos/IHxLgqWe2Ms.json) | — |  |
+| — | [What  American thinks about Croatia - bike touring](corpus/videos/II6uhvqDh50.json) | — |  |
 | — | [Narcissism - Request](corpus/videos/INBJ14xTW9Q.json) | — |  |
 | — | [How I'm getting back into shape](corpus/videos/IPQ-hGnSGJ8.json) | — |  |
+| — | [What I think about Holograms](corpus/videos/IYUIUi9AzmQ.json) | — |  |
 | — | [Lisa Renee - Alien Channeler 3/5](corpus/videos/I_TB57bP4o8.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 16 - 2013](corpus/videos/I_qVCFRsNkQ.json) | — |  |
 | — | [Why I yawn all the time - Request](corpus/videos/IgXFFL8Z3vQ.json) | — |  |
 | — | [What I think about Michael Tsarion conspiracy theorist 2/3 - request](corpus/videos/Iook006kbg8.json) | — |  |
 | — | [What I was like in High School - Request](corpus/videos/Iqgi0s2hDT8.json) | kyle | Kyle answers two viewer requests: what he does for money (window washing, Google ad revenue, property investment, and a  |
+| — | [Bike Touring - Germany - Showing all my Gear for my European Bike Tour](corpus/videos/IrYVt6kd_TA.json) | — |  |
 | — | [Sports like Skiing & Biking + Skiing to the South Pole - Request](corpus/videos/IsCiPyVcFxE.json) | — |  |
+| — | [Ios island views in Greece July 2 2010](corpus/videos/IvCWfBxCJS4.json) | — |  |
 | — | [Living in Van Introduction 5/5](corpus/videos/IwBrQwuS5MM.json) | — |  |
 | — | [A School Sport Should be Dressing up like Knights and Doing Battle](corpus/videos/J2t1JaUWAxs.json) | — |  |
 | — | [Asia questions and other random ones - Request](corpus/videos/J77jv40cBYc.json) | — |  |
 | — | [Living in the van for college kids - Request](corpus/videos/JCWNeziCOnA.json) | — |  |
 | — | [Ultimate Timeline Preview](corpus/videos/JGzk4IW5LlU.json) | — |  |
 | — | [Living in Van Introduction 2/5](corpus/videos/JI5m1gRsV3Y.json) | — |  |
+| — | [Bike Touring - Germany - Up the Rhine going South from Cologne. 4-2010](corpus/videos/JOsGEbxt6JQ.json) | — |  |
 | — | [Stock Market - Request](corpus/videos/JUS43KgN5Fs.json) | — |  |
 | — | [Answering gamemanscphints - I have 1873 videos and only 473 subscriber](corpus/videos/JV0SSlcWvdg.json) | — |  |
 | — | [Crossfit Fran 1stx 21-15-9 45lbs Dumbell Thruster & Pullups with rings](corpus/videos/JW_EplbHWxE.json) | — |  |
 | — | [Rob Ford - Request](corpus/videos/J_ZaWenMVII.json) | — |  |
+| — | [Bike Touring - Germany - Netherlands to Cologne. 4-2010](corpus/videos/JbmHyj0SaK4.json) | — |  |
 | — | [Would I kill and innocent person to end world hunger? Yes - Request](corpus/videos/Jz6kcE_t-ns.json) | — |  |
+| — | [Tirane, Albania 6-2010](corpus/videos/K-6AfohgEU8.json) | — |  |
 | — | [What an American thinks about Uruguay](corpus/videos/K-YgwTxoZ28.json) | — |  |
+| — | [Delphi, Greece - Archaeological Site 7-2010 1/4](corpus/videos/K0NuVGURMg4.json) | — |  |
 | — | [Lisa Renee - Alien Channeler 1/5](corpus/videos/K4VkNrXnK5g.json) | — |  |
 | — | [How to judge Religions - Request](corpus/videos/K5_stR4viDw.json) | — |  |
 | — | [The difference between Facebook, Youtube and Personal websites - Reque](corpus/videos/KD7jfPzkQ6M.json) | — |  |
 | — | [10 most memorable moments living in the van - Request](corpus/videos/KKVX0rIPPcM.json) | — |  |
 | — | [History of the Middle East 1/2](corpus/videos/KKoguh9nCA0.json) | — |  |
+| — | [What will the world be like post disclosure? 8 of 8](corpus/videos/KQ-sspc5m5M.json) | — |  |
 | — | [American talking about finland on mushrooms](corpus/videos/KYJQcB_Gxu0.json) | — |  |
 | — | [TMI (Too Much Information) - Request](corpus/videos/Kb58xYelT88.json) | — |  |
+| — | [Specific steps to change to educational system](corpus/videos/KbaGSu713xg.json) | — |  |
 | — | [Computer on Treadmill  - WATCH THIS VIDEO!!!!!!!](corpus/videos/KeDBeEBpbvE.json) | — |  |
+| — | [Bike Touring - Greece, Patrus to Sparta & Towards Argos. 6-2010](corpus/videos/Kgmx7wEmrlQ.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 5/21](corpus/videos/KgvtYdFkMwU.json) | — |  |
 | — | [La Historia del Russia 2/2](corpus/videos/Kww98noCQUA.json) | — |  |
 | — | [Albert Einstein - What I think - request](corpus/videos/LAOMtPI9dvU.json) | — |  |
 | — | [How to program the Subconcious - Request](corpus/videos/LDVGtWP03tg.json) | — |  |
+| — | [Chakras - What I think, Chakras are cool](corpus/videos/LI9EjG4cKOo.json) | — |  |
 | — | [Cloud Atlas movie review - Request](corpus/videos/LMN-OgX8Ubc.json) | — |  |
 | — | [Bike Touring Vlog - Semijarvi, Finland to Amsterdam, Netherlands 8 & 9](corpus/videos/LN9v0ar4AtI.json) | — |  |
 | — | [Congressman Sherman explaining bad Wallstreet bills to Alex Jones](corpus/videos/LSM3BEzF1gE.json) | — |  |
+| — | [Sparta, Greece - Archaeological Site 6-2010](corpus/videos/LTgG7yD4s8s.json) | — |  |
 | — | [Narcissism is good](corpus/videos/LUHAMxSYvCM.json) | — |  |
 | — | [History of Greece 3/3](corpus/videos/LYjh4pkj_zE.json) | — |  |
 | — | [What I think about Tipping - Request](corpus/videos/LkcrWifZHfc.json) | — |  |
@@ -1033,14 +1112,19 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [How to look at history 1/2](corpus/videos/MAHwbkGE0-M.json) | — |  |
 | — | [Bike Touring Vlog - Semijarvi, Finland to Amsterdam, Netherlands 8 & 9](corpus/videos/MAvDoNVG-W8.json) | — |  |
 | — | [Making videos should be part of the evaluation process in school, not ](corpus/videos/MFASlLRw2fk.json) | — |  |
+| — | [Setting up my tent on magic mushrooms in Amsterdam 3/4](corpus/videos/MNWt68sJfPM.json) | — |  |
 | — | [What I think about Moab Utah](corpus/videos/MPlRacGaqEI.json) | — |  |
 | — | [What I think about Las Vegas, Nevada](corpus/videos/MSjVKvTJzOg.json) | — |  |
 | — | [History of China 1/2](corpus/videos/MURi3HUIb2Y.json) | — |  |
 | — | [Bike Touring - Copenhagen, Denmark to Hamburg, Germany & Towards Amste](corpus/videos/MXiCqPt0QKQ.json) | — |  |
 | — | [If I could travel to the future would I + Theory of Relativity - Reque](corpus/videos/Md5kmCVv2EU.json) | — |  |
+| — | [Bike Touring - Greece - Istmus of Corinth Bridge 6-2010](corpus/videos/MfQgo7NjbzQ.json) | — |  |
+| — | [War against the Atheists. Call it God  God is it's name Not Jahovah or](corpus/videos/MobJlKh209o.json) | — |  |
 | — | [ADHD (Attention Deficit Hyperactivity Disorder) - Request](corpus/videos/Mq1uEmdT7WQ.json) | — |  |
 | — | [people should make video about stuff they don't know about](corpus/videos/Mr2ULqwQfxI.json) | — |  |
 | — | [The future of education 15 - 45 years - Request](corpus/videos/Mt6c_kFGWac.json) | — |  |
+| — | [Corinth, Greece - Archaeological Site 6-2010 4/4](corpus/videos/MvcbdCLEThQ.json) | — |  |
+| — | [Bike Touring - Interview With Serbian Newspaper at Sunny Resort 2/2](corpus/videos/N1hhp-HW0Pk.json) | — |  |
 | — | [How Has Legalizaation changed my life   Request](corpus/videos/N5-uu3-PneU.json) | kyle | Kyle, filming while very high, responds to a viewer request about cannabis legalization in his area. He covers his exper |
 | — | [How my van is organized for weekend trips](corpus/videos/NDJfAtz_52c.json) | — |  |
 | — | [Las Vegas, Nevada 1/2](corpus/videos/NFLAjw7pLCM.json) | — |  |
@@ -1051,6 +1135,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [History of Italy (Including the Roman Empire) 1/3](corpus/videos/NP_YsZRYPvg.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 8 - 2014](corpus/videos/NUaOEVYGtHM.json) | — |  |
 | — | [My 1991 Volkswagen Vanagon Westfalia pop up is my new home!](corpus/videos/NUl2sP7RsQo.json) | — |  |
+| — | [What will the world be like post disclosure? 2 of 8](corpus/videos/NcbrwjxFjVA.json) | — |  |
 | — | [What an American thinks about Panama](corpus/videos/NfCzzpWgNos.json) | — |  |
 | — | [What is Consciousness & Reality? - Request](corpus/videos/NgTk8pBBlkI.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 4 - 2013](corpus/videos/NhlXPGH85zc.json) | — |  |
@@ -1060,11 +1145,16 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [The Unified Field Theory 1/2](corpus/videos/O7oMZ8F93VE.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 7/21](corpus/videos/OCz6LYESKG4.json) | — |  |
 | — | [Vlogging 3rd Year Anniversary](corpus/videos/OGA_Szta6Mo.json) | — |  |
+| — | [The principles of anti gravity and free energy - From RA](corpus/videos/OGc7O2IPKZ8.json) | — |  |
+| — | [What an American thinks about Montenegro - Bike touring 2010](corpus/videos/OOR21l0ADt0.json) | — |  |
+| — | [Bike Touring - Poland - Katowica to Slovakia. 5-2010](corpus/videos/OSDmvTKfOKM.json) | — |  |
 | — | [NDAA National Defense Authorization Act 2012 - What I think about it -](corpus/videos/OXSnxXeIbqY.json) | — |  |
 | — | [Aliens want us to be confused](corpus/videos/OhkAEb_VQQc.json) | — |  |
 | — | [La Historia del Francia](corpus/videos/OiUL7ckls_E.json) | — |  |
+| — | [Mount Olympus, Greece 7-2010 3/6](corpus/videos/OqQCRnSjDkU.json) | — |  |
 | — | [We should tell each other what to think](corpus/videos/OqzC6z9Dbpo.json) | — |  |
 | — | [Jim Jones and the massacre - Request](corpus/videos/Oyqxq3C7pEg.json) | — |  |
+| — | [Ancient Olympia archaeological mueseum Greece](corpus/videos/P1NSKicKPT0.json) | — |  |
 | — | [Ron Paul and Libertarians - Request](corpus/videos/P9Ba0xdVq-0.json) | — |  |
 | — | [Talking about my Relationships - Request](corpus/videos/PBNGOMUE6hc.json) | — |  |
 | — | [Favorite munchie food - Request](corpus/videos/PDl_8ceBg7I.json) | — |  |
@@ -1077,6 +1167,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Comparing the Sizes of Things 2/6 - The Power of Ten](corpus/videos/P_WNwcgdyhQ.json) | — |  |
 | — | [I like not spending money on food](corpus/videos/PeWROAX8VdU.json) | — |  |
 | — | [Wendy Munro & the Sirian Aliens 2/4](corpus/videos/PhyoUML7nR0.json) | — |  |
+| — | [Delphi, Greece - Museum 7-2010 4/4](corpus/videos/PpGKhaiEjPw.json) | — |  |
 | — | [What I think about Tea - Request](corpus/videos/PsK0-HImxIU.json) | — |  |
 | — | [Yosemeti National Park, California Documentary](corpus/videos/PvBBHUahwUA.json) | — |  |
 | — | [Ghengis Khan Lecture](corpus/videos/PwXipY29bc4.json) | — |  |
@@ -1086,14 +1177,17 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Seattle, Washingtom 9-2011 2/2](corpus/videos/Q3tOo-RrW-Q.json) | — |  |
 | — | [Lisa Renee - Alien Channeler 2/5](corpus/videos/Q5gv1vbIx7c.json) | — |  |
 | — | [David Wilcock and Benjamin fulford talking about Gold - Request](corpus/videos/QAXRz8iwavA.json) | — |  |
+| — | [Bike Touring - Netherlands & Germany - Amsterdam, Netherlands to Germa](corpus/videos/QVs-r321DpA.json) | — |  |
 | — | [My Video about Making Videos - Request from Cell Message](corpus/videos/QXvbURpf_os.json) | — |  |
 | — | [La Historia del Estados Unidos 2/4](corpus/videos/QkZdS8EAYTo.json) | — |  |
 | — | [Bike Touring - Denmark. 9-2010](corpus/videos/QrTwWg4oThI.json) | — |  |
+| — | [I don't like Fox news but I think it's funny](corpus/videos/R5IRjucJ5xA.json) | — |  |
 | — | [Wikileaks is good](corpus/videos/REPwWQE5Opo.json) | — |  |
 | — | [Kyle Pounds' YouTube Trailer](corpus/videos/RF2LY74Hsys.json) | — |  |
 | — | [Standing Dumbbell Curls   25 lbs PR 55X](corpus/videos/RGkrAkR4Xw4.json) | — |  |
 | — | [Bike Touring Vlog - Europe - Summer 2010 6/8](corpus/videos/RICBSFC7Wh8.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 8/21](corpus/videos/RJL32eL_hk8.json) | — |  |
+| — | [Albanian talking about modern Albanian history](corpus/videos/RMLttUlKrxk.json) | — |  |
 | — | [General Education Wikipedia Audio Collection](corpus/videos/RN66jrL00SE.json) | — |  |
 | — | [Bike Touring Vlog - Europe - Summer 2010 2/8](corpus/videos/RNkxGxV5_lo.json) | — |  |
 | — | [What an American thinks about Honduras](corpus/videos/RSNNwok-D5U.json) | — |  |
@@ -1102,22 +1196,31 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What to do when the aliens land](corpus/videos/RbiRcaeRq-s.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 10 - 2013](corpus/videos/Rj9BW6IaMOY.json) | — |  |
 | — | [Why we need cities - Request](corpus/videos/RqAlhPqPtro.json) | — |  |
+| — | [What I think about Andy Basiago and Project looking glass, pegasus 4 o](corpus/videos/RtSa95HNb6k.json) | — |  |
+| — | [Kinds of Aliens 2/5](corpus/videos/S4Tbqj7kP34.json) | — |  |
 | — | [Soul, Rebirth & Higher Self - Request](corpus/videos/S5a3mVxSUaw.json) | — |  |
 | — | [Quick Personal Calendar Tour](corpus/videos/S7LqYLq3tDs.json) | — |  |
 | — | [Why is nobody well rounded & were they more so in the past - Request](corpus/videos/S8qhE5PEnu0.json) | — |  |
+| — | [Bike Touring & Train Riding - Bulgiaria 7-2010](corpus/videos/SA5E1L6mCHI.json) | — |  |
 | — | [What I think about California - Request](corpus/videos/SEF4X1DzWh0.json) | — |  |
 | — | [What I would do if I straight up Won 15 Million Dollars - Request](corpus/videos/SK1VjohMHqo.json) | — |  |
+| — | [Nudity is good](corpus/videos/SLv2dpwQPjU.json) | — |  |
+| — | [Sofia, Bulgaria 7-2010 2/3](corpus/videos/SZd1TdNDEKA.json) | — |  |
 | — | [What Kind of cars I like - Request](corpus/videos/SkqOYuHmm1g.json) | — |  |
 | — | [What an American thinks about Suriname](corpus/videos/StZVGJRxxxc.json) | — |  |
 | — | [My favourite 20 cities in the world - Request](corpus/videos/SvprRwUGags.json) | — |  |
 | — | [History of Italy (Including the Roman Empire) 3/3](corpus/videos/Sxuo0f3RljM.json) | — |  |
 | — | [Book Review of Livy's History of Rome - Stoned](corpus/videos/T8P7o5enkKc.json) | — |  |
+| — | [Relive your life how you do when you die, before you die.](corpus/videos/T9s-RaxCmxU.json) | — |  |
 | — | [Living in the van tour - Neighborhood showering, clean van, sleeping](corpus/videos/TFde4UNmzeo.json) | — |  |
 | — | [Crossfit Cindy 10Rds  - Request](corpus/videos/TFi63usOAPA.json) | — |  |
+| — | [Bike Touring - Austria & Czeck Republic. Vienna, Austria to Prague, Cz](corpus/videos/TKyklSgIxwQ.json) | — |  |
 | — | [Future of sentient computers - Request](corpus/videos/TNYwPE17A4U.json) | — |  |
+| — | [Sarajevo, Bosnia - Herzegoniva Streets 6-2010 1/2](corpus/videos/TSZeYlXgLnY.json) | — |  |
 | — | [What an American thinks about Denmark - August 2010 One week](corpus/videos/TTfUjKFq5sI.json) | — |  |
 | — | [Talking about my life - Austin, Texas 3/21](corpus/videos/TVeYH2cw43s.json) | — |  |
 | — | [Thomas Malthus & Principles of Population  - Request](corpus/videos/TXyaGquG5xA.json) | — |  |
+| — | [Bike Touring Tent - Bicamper](corpus/videos/TZMToAHZpaI.json) | — |  |
 | — | [Bootlegged Movies - Request](corpus/videos/TbE31ahe_ug.json) | — |  |
 | — | [We need more systems designers, social architects](corpus/videos/TcnAqAViW4A.json) | — |  |
 | — | [Lip syncing to Arthur Brown's Fire - Request](corpus/videos/TicwV_-HlcM.json) | — |  |
@@ -1128,36 +1231,43 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Why do Americans drink defaf Coffee   Request](corpus/videos/TzoPxMBBjkM.json) | kyle | Kyle responds to a viewer request asking why Americans drink so much decaf coffee. He defends Americans as the world's b |
 | — | [How I Cook with my Cans](corpus/videos/U0v5TtxfQAs.json) | — |  |
 | — | [The World is a Playground](corpus/videos/U18MJuAHf6U.json) | — |  |
+| — | [Where Buddhism went wrong 2/2](corpus/videos/U34yRUKy3-8.json) | — |  |
 | — | [History of China 2/2](corpus/videos/U4us-mYnpIE.json) | — |  |
 | — | [Bike Touring Vlog - Europe - Summer 2010 5/8](corpus/videos/UAdi-lwpzZ4.json) | — |  |
 | — | [What I think about couchsurfing.org website](corpus/videos/UE7plyMUFwg.json) | — |  |
 | — | [What I think about Portland, Oregon](corpus/videos/UEL6qimXDIE.json) | — |  |
 | — | [Aliens on my website 2/2](corpus/videos/ULbLgOUwkMM.json) | — |  |
+| — | [What an American thinks about the Ukraine](corpus/videos/UNOzQsX0NTY.json) | — |  |
 | — | [Wendy Munro & the Sirian Aliens 3/4](corpus/videos/UYXCD5_H59Y.json) | — |  |
 | — | [Role Playing Games - Request](corpus/videos/UoJToND1cas.json) | — |  |
 | — | [Are video games artwork? - Request](corpus/videos/UpAGh9_xkYg.json) | — |  |
 | — | [Gambling - Request](corpus/videos/UsbieVGFTOw.json) | — |  |
 | — | [Bike Touring Vlog - Semijarvi, Finland to Amsterdam, Netherlands 8 & 9](corpus/videos/UzCfywWoVXE.json) | — |  |
+| — | [What an American thinks about Bosnia-Herzegovina bike touring 2010](corpus/videos/V4gO_9DoQ-w.json) | — |  |
 | — | [There is room for everybody in the New Age](corpus/videos/V715w2C0Lhg.json) | — |  |
 | — | [Rugged Individualism VS Communism - Request](corpus/videos/VCbQ_zLztOQ.json) | — |  |
+| — | [A cool way to use youtube is to make preditions about the future](corpus/videos/VDQHBNl-CMY.json) | — |  |
 | — | [Talking about my van   Request](corpus/videos/VLLSL1Z9jAo.json) | — |  |
 | — | [What movies will be like in 15 years - Request](corpus/videos/VOkzVT77SwM.json) | — |  |
 | — | [Juice - Request](corpus/videos/VUPMoSYcy_s.json) | — |  |
 | — | [My Flickr Page Tour](corpus/videos/Valfvh7V28E.json) | — |  |
 | — | [How I'm Getting back in shape and how I work out in the gym](corpus/videos/Vb7OIkc8a6g.json) | — |  |
 | — | [How the evil forces twist around spiritual teachings](corpus/videos/VkIDvOdQ26E.json) | — |  |
+| — | [It's becoming impossible for people to lie - In weird southern type ac](corpus/videos/VmThV3hHaWY.json) | — |  |
 | — | [History of Africa](corpus/videos/Vtg5R1wHTvo.json) | — |  |
 | — | [way for us to identify our past lives](corpus/videos/VwCVEuuhzyE.json) | — |  |
 | — | [Online Dating and if Single people are outcasts - Request](corpus/videos/W1oWE524Aeg.json) | — |  |
 | — | [Sleep - Request](corpus/videos/W3EX8Z-egos.json) | — |  |
 | — | [Hampsters at play](corpus/videos/W6ExH69HOVk.json) | — |  |
 | — | [Modern Day Slavery Pt2 - Request](corpus/videos/W6uX66Q9Wzg.json) | — |  |
+| — | [A zany love story](corpus/videos/W8b_H5StJI4.json) | — |  |
 | — | [How to Wield Power](corpus/videos/W928PI8QC_Y.json) | — |  |
 | — | [What I think about the Theory of Relativity](corpus/videos/WCvDKTNLNzc.json) | — |  |
 | — | [My Personal Calendar](corpus/videos/WF3AOGdXPx8.json) | — |  |
 | — | [Difference Between Aliens & Humans 1/2](corpus/videos/WFWckZmfl0c.json) | — |  |
 | — | [Recorded History 8/9](corpus/videos/WJ_ggz6LcDw.json) | — |  |
 | — | [What I think about healthcare](corpus/videos/WVH7T3z56H4.json) | — |  |
+| — | [Sofia, Bulgaria 7-2010 1/3](corpus/videos/WX4R0uyPPz4.json) | — |  |
 | — | [Why so many Americans are Fundi Christians, if concept of God is compl](corpus/videos/Wb8tq1bM_f4.json) | — |  |
 | — | [If I inherited a vast fortune - Request](corpus/videos/Wje_QoBhKgA.json) | — |  |
 | — | [What the world will be like in five years](corpus/videos/WkdBizKUIqs.json) | — |  |
@@ -1166,11 +1276,16 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Lip syncing to Alanis Morrissette - Request](corpus/videos/WszbKwvfEys.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 23 - 2013](corpus/videos/WvcA0d7cMr4.json) | — |  |
 | — | [It's been a nice week being a stoner - We should all be stoners one we](corpus/videos/Wwga1XbvHWc.json) | — |  |
+| — | [Dreams are meant to be watched and not tampered with](corpus/videos/WxeuRgL_uOs.json) | — |  |
 | — | [What an American thinks about Paraguay](corpus/videos/WyFlrv-Ivag.json) | — |  |
+| — | [How parralel universes communicate with each other](corpus/videos/X3yi7tpMmSU.json) | — |  |
 | — | [Cheech and Chong - Request](corpus/videos/X6ZIL4k4g6M.json) | — |  |
+| — | [Mount Olympus, Greece 7-2010 6/6](corpus/videos/X9L4SHpUeJg.json) | — |  |
 | — | [Stand up comedy and favorite comedians - Request](corpus/videos/X9OJx7hAdUQ.json) | — |  |
+| — | [Delphi, Greece - Museum 7-2010 3/4](corpus/videos/X9W4valeKiI.json) | — |  |
 | — | [La historia del Italia 1/2](corpus/videos/XGKp87B7V00.json) | — |  |
 | — | [Living in Van Diet](corpus/videos/XGhOcIocpPQ.json) | — |  |
+| — | [How and why we should change the educational system 1/4](corpus/videos/XMZMaMBUYdI.json) | — |  |
 | — | [Psychology of Living in the Van](corpus/videos/XkRlNW-7YI4.json) | — |  |
 | — | [What will food be like in 15 - 45 years - Request](corpus/videos/XlpK5YOlzTQ.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 26 - 2013](corpus/videos/XmO7r34NJpc.json) | — |  |
@@ -1185,31 +1300,42 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [History of the Middle East 2/2](corpus/videos/YHDaZ23DNYc.json) | — |  |
 | — | [Comparing the Sizes of Things 4/6 - The Power of Ten](corpus/videos/YQjgjbAaYTk.json) | — |  |
 | — | [I'm the fffitthest pherssoon evaar - or else show your DAMN weights an](corpus/videos/Yb2wSPidQMo.json) | — |  |
+| — | [What an American thinks about Latvia](corpus/videos/Yh6GQVzFnoY.json) | — |  |
+| — | [what humans look like to aliens](corpus/videos/YmmPAvyReKs.json) | — |  |
 | — | [George4Title saga & scammers - Request](corpus/videos/Yvjg5MkOmbs.json) | — |  |
 | — | [My Youtube Notebook Helps me Keep Track of my Videos](corpus/videos/Z92nD60jZ68.json) | — |  |
 | — | [I do request videos   I'll do ANYTHING!](corpus/videos/ZRkKHALAym4.json) | — |  |
 | — | [What an American thinks about El Salvador](corpus/videos/ZSQky48eX6Q.json) | — |  |
 | — | [What an American thinks about Peru](corpus/videos/ZT4tF1bqXbo.json) | — |  |
+| — | [What an American thinks about Moldova](corpus/videos/ZTA8xsjdIOE.json) | — |  |
+| — | [Mycenia, Greece - Archaelogical Site](corpus/videos/ZUwJLiaypBY.json) | — |  |
+| — | [The difference between Atheism and Agnostisism](corpus/videos/ZXNKPA-dbCM.json) | — |  |
 | — | [How to get fit and stay fit  - Request](corpus/videos/ZbREqn6sKc0.json) | — |  |
 | — | [The Unified Field Theory 2/2](corpus/videos/Zdipua6l-7E.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 20/21](corpus/videos/Zg7lfOf2BCw.json) | — |  |
 | — | [Occupy Wall Street P2 2013 - Request](corpus/videos/Zn91wN7N6no.json) | — |  |
+| — | [2010 resolutions and predictions](corpus/videos/ZuhsKZEGJOU.json) | — |  |
 | — | [What an American thinks about Norway](corpus/videos/ZvdB9IUU8sE.json) | — |  |
 | — | ["Anonomous" Facebook Threat - What I think. Request](corpus/videos/_3-52jTA9TI.json) | — |  |
 | — | [Airport Security - Request](corpus/videos/_LxMTIFZj8g.json) | — |  |
 | — | [Don't think your religion is superior to the next guys religion](corpus/videos/_TEvQIyDAFM.json) | — |  |
 | — | [Have I played laser tag and stuff - Request](corpus/videos/__yXm48ipBU.json) | — |  |
+| — | [There are two kinds of people in the world. - Those who watch youtube ](corpus/videos/_dZ6mUBiyQI.json) | — |  |
 | — | [Hanna Movie Review](corpus/videos/_ellj1aoUGs.json) | — |  |
 | — | [Recorded History 3/9](corpus/videos/_hDQ0PuN9MA.json) | — |  |
 | — | [Hall of the Immortals Song](corpus/videos/_pyqygEDUJ0.json) | — |  |
+| — | [listening to your instincts](corpus/videos/_tzdmXIT8ug.json) | — |  |
 | — | [Can we get too old to enjoy things & why do we sell out in old age - R](corpus/videos/_zd7Delyp2w.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 29 - 2013](corpus/videos/a1bRFLQReug.json) | — |  |
+| — | [Evil reptile aliens 2/2](corpus/videos/a9EOweV0LnA.json) | — |  |
+| — | [Ios, Greek Island nightlife June 2 2010 3 of 3](corpus/videos/aNE6GV70lKE.json) | — |  |
 | — | [You need to have faith in God to have proper political views](corpus/videos/aNvntadSnKE.json) | — |  |
 | — | [Minimalism and money free living - Request](corpus/videos/aO_qG-R2-Xo.json) | — |  |
 | — | [History of Western Religion 3/3](corpus/videos/aSHwSfX9ALY.json) | — |  |
 | — | [Comparing the Sizes of Things 1/6 - The Power of Ten](corpus/videos/aUnSoc7Z_co.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 13/21](corpus/videos/aWCFEuYICeM.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 31 - 2013](corpus/videos/abSOn2yxj4U.json) | — |  |
+| — | [The New Age way to view politics](corpus/videos/aeoBRX-tH3M.json) | — |  |
 | — | [Give the fundamentalists tough loving to save them from damnation](corpus/videos/aoJD6wJwaMs.json) | — |  |
 | — | [Bacon - Request](corpus/videos/aodTxRNu3p8.json) | — |  |
 | — | [Living in Boulder Vlog 4 - 30 - 2014](corpus/videos/b-h6biF4YXM.json) | kyle | Kyle vlogs about his day in Boulder on April 30, 2014, spending it working on his cycling website (a bike racer level pa |
@@ -1218,6 +1344,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [communism vs capitalism, then democracy](corpus/videos/bBW_TDudWHc.json) | — |  |
 | — | [Olympic Paenensula, Washington. Olympic Hot Springs. 7-24ish-2011](corpus/videos/bD4pNUPrPCw.json) | — |  |
 | — | [Talking About 24 hours of Moab Solo Mountain Bike Race 2010 - 1stx 3/4](corpus/videos/bMfic3ITYfA.json) | — |  |
+| — | [Bike Touring Vlog - Greece & Bulgaria 3/3](corpus/videos/bYRfQC3_Uk0.json) | — |  |
 | — | [We Will NEVER have more of an impact than we are having now - Bashar Q](corpus/videos/bZkzpQgTF0A.json) | — |  |
 | — | [Selected Slave Narratives Book Review](corpus/videos/bb74gSNbfJs.json) | — |  |
 | — | [If/how the aliens communicte with us - Request](corpus/videos/bdnP4idm4rE.json) | — |  |
@@ -1227,40 +1354,56 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Living in Boulder Vlog 11 -  2 -  2013](corpus/videos/c0VZWScuxmA.json) | — |  |
 | — | [Quick(ish) Tour of My Website](corpus/videos/c3RfpRy6vPs.json) | — |  |
 | — | [Living in the van for women - Request](corpus/videos/c50ryUrYLUA.json) | — |  |
+| — | [Stephen Hawking saying aliens are bad confirms government conspiracy](corpus/videos/cDOqHcCwli4.json) | — |  |
 | — | [What I think about Tucson, Arizona](corpus/videos/cHqdUYgM8rM.json) | — |  |
 | — | [Phoenix, Arizona living in the van touring April 2011](corpus/videos/cIBVYlNeXZQ.json) | — |  |
+| — | [Bike Touring - Austria - Setting up my Bicamper at the Camp Site. 5-20](corpus/videos/cIag9dfy54A.json) | — |  |
+| — | [Setting up my tent on magic mushrooms in Amsterdam 2/4](corpus/videos/cS7j_Rmn5Nc.json) | — |  |
 | — | [October 28th End of the Mayan Calendar - What I think about hippy NWO](corpus/videos/cVJq4Lmada8.json) | — |  |
 | — | [History of India](corpus/videos/cWPvpfzeNLA.json) | — |  |
 | — | [censorship is bad](corpus/videos/ca-XfiHQ080.json) | — |  |
 | — | [What I think about Steven Gibbs](corpus/videos/cbQSlSU2FuU.json) | — |  |
 | — | [What I think about 2012 - Request](corpus/videos/cp9QPV5CcC0.json) | — |  |
 | — | [Social Stigma of Living in your van and/or being different - Request](corpus/videos/cr5STImdVoc.json) | mixed | Kyle responds to a viewer request about minimalism and societal pressure to conform, sharing his personal experiences wi |
+| — | [What i think about Barrak Obama and disclosure](corpus/videos/cruk-88tUbk.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 21 - 2013](corpus/videos/cuIKSRTS0OI.json) | — |  |
 | — | [1st Ammendment Analyzation on my site](corpus/videos/cxdjQiAU83o.json) | — |  |
 | — | [1991 Volkswagon Vanagon Westfalia review](corpus/videos/d0Lk4VlnZPU.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 9 - 2014](corpus/videos/d5FG3pNPfC0.json) | — |  |
 | — | [Talking about removing subcutaneous fatty lipomas](corpus/videos/d6mHO8v7AxE.json) | — |  |
+| — | [Bicycles should be allowed on the freeway man](corpus/videos/d8WZNRgosEA.json) | — |  |
+| — | [Bike Touring Gear. Going Light.](corpus/videos/d8qaZo2xieM.json) | — |  |
 | — | [Explaining my tattoo and toilet situation in the van - Request](corpus/videos/d9aClc-YegY.json) | — |  |
 | — | [Utah - Request](corpus/videos/dC-X5m-67Gc.json) | — |  |
 | — | [Campaign Financing - What I think](corpus/videos/dFJFfQWbK7c.json) | — |  |
 | — | [Ron Paul for President!](corpus/videos/dHCzWnWJe0I.json) | — |  |
 | — | [Talking About 24 hours of Moab Solo Mountain Bike Race 2010 - 1stx 4/4](corpus/videos/dHvlyrAo52E.json) | — |  |
+| — | [Bike Touring - Norway - Trondheim to Hessedalen. 8-2010](corpus/videos/dISHntvZYRE.json) | — |  |
 | — | [English Words from Other Languages 2/2](corpus/videos/dMtsqhglC-Y.json) | — |  |
 | — | [Future of the transit system in America - Request](corpus/videos/dNGMBjwzcTw.json) | — |  |
+| — | [What an American thinks about Poland - Bike touring May 2010](corpus/videos/dPdeipoABss.json) | — |  |
 | — | [We should think out of the box and be original](corpus/videos/dPvujS3M2Cg.json) | — |  |
+| — | [Tirane, Albania - Kruja. 6-2010](corpus/videos/dStzrEHFSF0.json) | — |  |
 | — | [Questions about Texas and living in the van - Request](corpus/videos/dVY34aJMmdw.json) | — |  |
 | — | [Questions about Europe - Request](corpus/videos/dXP9ELJ0WfA.json) | — |  |
 | — | [What I think about the Olympics - Request](corpus/videos/dcvJCduYxPI.json) | — |  |
 | — | [Lisa Renee - Alien Channeler 4/5](corpus/videos/deM8MiQ9tYo.json) | — |  |
 | — | [End separation of church and state](corpus/videos/df_4d1z5Qrk.json) | — |  |
+| — | [Bike Touring - Greece. Argos-Corinth-Athens-Delphi. 7-2010](corpus/videos/djokQdyU3xg.json) | — |  |
 | — | [What I think about Sacramento, California](corpus/videos/e0qSHGUecV4.json) | — |  |
 | — | [Predicting My Future](corpus/videos/e3zoOA6i5qs.json) | — |  |
 | — | [Why I love being a Hobo - Request](corpus/videos/e5PjaNGFD70.json) | — |  |
 | — | [My perfect girlfriend & date - Request](corpus/videos/eDdH78bxUl0.json) | — |  |
+| — | [Podgorica, Montenegro 5-2010](corpus/videos/eJWBodkuh38.json) | — |  |
 | — | [Copenhagen, Denmark 8-2010 1/3](corpus/videos/eN1Oe6qzXrg.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 1 - 2013](corpus/videos/eUemtoz7ZWY.json) | — |  |
+| — | [Bike Touring Europe Mission Statement](corpus/videos/eZmnPzNsoos.json) | — |  |
+| — | [Vienna, Austria - Palace Area 4-2010](corpus/videos/eeoZnOgk5VE.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 6/21](corpus/videos/egvUT2qtFcI.json) | — |  |
+| — | [1,000 Miles On My Legs Bike Touring Vlog - Bike Touring Through Europe](corpus/videos/en6O9QBLcuE.json) | — |  |
+| — | [Ios island Greece Far Out camping beach resort](corpus/videos/er3y4YDu7qM.json) | — |  |
 | — | [Race Video Games - Request](corpus/videos/ewb2Y2drWLM.json) | — |  |
+| — | [Bike Touring - Greece. Mount Olympus to Bulgaria 7-2010](corpus/videos/exCJRUZNeIU.json) | — |  |
 | — | [Extreme Frugality - Request](corpus/videos/ey-DwE04TqE.json) | — |  |
 | — | [What an American thinks about Brazil](corpus/videos/f-YkuMGu7GE.json) | — |  |
 | — | [Is Colorado good for van dwelling? - Request](corpus/videos/f4InR-OnsHs.json) | — |  |
@@ -1272,42 +1415,56 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What I think about the Egyptian Revolution - Request](corpus/videos/fXme9IPUiM0.json) | — |  |
 | — | [Autobiography of a Yogi Book Review + Insights on Kriya Yoga](corpus/videos/fdsJzjNb21o.json) | — |  |
 | — | [Analyzing the Faggyness Factor of Reincarnating as Both Sexes](corpus/videos/fsQQNM5RmWI.json) | — |  |
+| — | [Prague, Czech Republic - Marathon & The Castle 4-2010](corpus/videos/fuTBQ5uqAS4.json) | — |  |
 | — | [answering shift4chizzle about Riencarnation and Alien Greys - request](corpus/videos/fvyIGxpAHL0.json) | — |  |
 | — | [Welcome to my new living out of my van show!](corpus/videos/fxNoAhelJ80.json) | — |  |
 | — | [What Restaurants will be like in 20 - 25 Years Request](corpus/videos/fxthW9mjvyc.json) | kyle | Kyle responds to a video request about the future of restaurants, predicting they will become more culturally central, l |
 | — | [NSA Spying Constitutionality & 911 - Request](corpus/videos/fzZZ4kj3-lM.json) | — |  |
+| — | [hey aliens you should abduct me](corpus/videos/g-6xnW4DgBo.json) | — |  |
 | — | [2014 National Cyclocross Championships  - Boulder, Colorado. Women's f](corpus/videos/g10l9Mt6quY.json) | — |  |
 | — | [History files collection 2/2](corpus/videos/g86kF8Mk6UE.json) | — |  |
 | — | [What I think about: The Elite's Plan for Global Extermination Exposed ](corpus/videos/gCWTBdo4A5U.json) | — |  |
 | — | [Dan Burish - Alien Contactee 3/3](corpus/videos/gEE7TI7Tcjs.json) | — |  |
+| — | [How to look at Karma](corpus/videos/gLXNbGbzJ9A.json) | — |  |
 | — | [What I think about Phoenix, Arizona](corpus/videos/gNI5a27OCho.json) | — |  |
+| — | [Bike Touring - Switzerland - Lake Zurich to Leichtenstein 4-2010](corpus/videos/gUs91dCN5Ro.json) | — |  |
 | — | [Girl snowboarders on mount hood, Oregon doing 20 foot helicopters. 7-1](corpus/videos/gX6SiEsyXkM.json) | — |  |
 | — | [Legalized Prostitution - Request](corpus/videos/gZQKh8070QU.json) | — |  |
 | — | [Recorded History 9/9](corpus/videos/g_80j7trbqc.json) | — |  |
+| — | [What I think about tapping](corpus/videos/gdniZTFgRCM.json) | — |  |
+| — | [Skopje, Macedonia 7-2010](corpus/videos/gnA-kmbry0U.json) | — |  |
 | — | [Do I play video games and stuff - Request](corpus/videos/grnB_Dzqiug.json) | — |  |
 | — | [We are living in a Peculiar Time](corpus/videos/gs9f1k19XXM.json) | — |  |
 | — | [Obamacare & the debate about it - Request](corpus/videos/gsnhRGPEtFI.json) | — |  |
 | — | [Living in Lafayette Vlog 5-9 & 10-2013](corpus/videos/gwFQ3nNDwVs.json) | — |  |
+| — | [Warsaw, Poland bike touring Vlog July 24ish - Romania, Moldova, Ukrain](corpus/videos/gyyq_8qorCY.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 25 - 2013](corpus/videos/h0AhHW9aOTc.json) | — |  |
+| — | [Bus Touring - Norway - Karosjock to Alta & Down The Fjord. 8-2010. 1/2](corpus/videos/h7Ogm9WAPN8.json) | — |  |
 | — | [We are ALL Kings, That's the thing about this Day in Age. Jesus would ](corpus/videos/hD-VsgqNgio.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 17 - 2013](corpus/videos/hGRmPEZS7sQ.json) | — |  |
 | — | [Gay Marraige   Request](corpus/videos/hLpKEKDrSLo.json) | — |  |
 | — | [Gallic Wars by Julius Caesar - Book Review](corpus/videos/hXXPwaaRCCg.json) | — |  |
 | — | [Why I don't Watch the News](corpus/videos/hXXo3SEEsi8.json) | — |  |
+| — | [Student should be able to get public school diplomas without going to ](corpus/videos/hkqq1KgP1xU.json) | — |  |
 | — | [Cheating on your lady friend - Request](corpus/videos/hmV_8GhiKMQ.json) | — |  |
 | — | [Amsterdam, Netherlands 9-2010 1/4](corpus/videos/hzt-cV5pBag.json) | — |  |
 | — | [Tourism History and Opinions - Request](corpus/videos/i0CwnbsYEE0.json) | — |  |
 | — | [La Historia del Estados Unidos 4/4](corpus/videos/i2QAObXpQMI.json) | — |  |
+| — | [What an american thinks about slovakia - bike touring may 20th 2010](corpus/videos/i3gxhb86UQA.json) | — |  |
 | — | [Torsion fields - the answer to the grand unified field theory, better ](corpus/videos/i51bREDWdow.json) | — |  |
 | — | [Would I go back to school? - Request](corpus/videos/i8hcdaGAb3s.json) | — |  |
 | — | [What I think about religion - Request](corpus/videos/iNGnO__zODY.json) | — |  |
 | — | [Sacramento, California. June, 2011.](corpus/videos/iOpHgJB0BeE.json) | — |  |
+| — | [What an American thinks about Lithuania](corpus/videos/iRuMFSKYMDQ.json) | — |  |
 | — | [Bill O'reilly and his war on Christmas theory - Request](corpus/videos/iVnrio-NmSw.json) | — |  |
+| — | [Bike Touring - Germany - South End of Bike path along Rhine to Friebur](corpus/videos/iWe2vpKI0m4.json) | — |  |
+| — | [infinite amount of parralel universes meditation](corpus/videos/iZ6ELPsTszk.json) | — |  |
 | — | [New Years' Resolution for 2014 - Request](corpus/videos/ibkh_-A0C9A.json) | — |  |
 | — | [My favorite instrument - Request](corpus/videos/ig-G8pRI7ao.json) | — |  |
 | — | [Whooly Mamoth - Request](corpus/videos/isk9r5D3lVk.json) | — |  |
 | — | [Bike Touring Vlog - Europe - Summer 2010 8/8](corpus/videos/ivDHJXeYLOc.json) | — |  |
 | — | [The Story of Mankind by Hendrik Van Loon Book Synopsis - Request](corpus/videos/ix2K9cwgmcA.json) | — |  |
+| — | [Setting up my tent on magic mushrooms in Amsterdam 4/4](corpus/videos/ixGSnMwR5MU.json) | — |  |
 | — | [History files collection 1/2](corpus/videos/j0HyufVY7cg.json) | — |  |
 | — | [How living in Chile tweaked my mind 4/4](corpus/videos/j0KfjOtMlcU.json) | — |  |
 | — | [Audio Encyclopedia on my site](corpus/videos/j2YmEK7S9Sg.json) | — |  |
@@ -1320,16 +1477,24 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [7 Rounds of 7 Burpees, 7 Air Squats, 7 Situps - Request 10:10](corpus/videos/jc4OrTmXqpg.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 9 - 2013 (Detailed tour a a typical day)](corpus/videos/jeBT-g6Srfs.json) | — |  |
 | — | [Redwoods National Park, California](corpus/videos/jf32S_W4W-o.json) | — |  |
+| — | [What an American thinks about Serbia - bike touring may 2010](corpus/videos/jgN0F9eQd_g.json) | — |  |
 | — | [Bike Racer Quality Levels - Raw Rough Draft Version with the Mustache](corpus/videos/jkfDlLoGXMM.json) | — |  |
 | — | [Aaron Macullom super soldier - what I think](corpus/videos/jlLoJ0q_S0U.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 14 - 2013](corpus/videos/joU2lEzMCYg.json) | — |  |
+| — | [What an American thinks about Macedonia](corpus/videos/jrza67EJAxg.json) | — |  |
+| — | [i love my audio encyclopedia!](corpus/videos/jt0y-_VTX3k.json) | — |  |
 | — | [Future of Cars in 20 - 30 Yrs - Request](corpus/videos/jttGElV5AIs.json) | — |  |
+| — | [War against the Athiests. Scientific proof of the soul. Ooh you're soo](corpus/videos/jva4HmIRoAQ.json) | — |  |
 | — | [I am Yogananda the New Spirit Being - I am an Eleninian, Stoned](corpus/videos/jzym9UC2X8Y.json) | — |  |
+| — | [Bike Touring Vlog - Germany - Up Rhine From Mainz To End of Rhine. 4-2](corpus/videos/k-PzVcjGN-A.json) | — |  |
 | — | [zeitgeist documentary what i think - request](corpus/videos/k51bOSJMTu0.json) | — |  |
 | — | [Republic vs Democracy](corpus/videos/k6XhP2aRnhc.json) | — |  |
 | — | [How to attatch a backpack to a seat post bike rack - Request](corpus/videos/kMpKqH2hgUM.json) | — |  |
+| — | [what i think about aliens in the movies](corpus/videos/kOAvr74x6Vo.json) | — |  |
+| — | [Bike Touring Vlog - Austria - My Envisioned 2010 European Route](corpus/videos/kR7W7Ln4g0Y.json) | — |  |
 | — | [Saying that Weed is good while high on nuggets](corpus/videos/kRsw3YmESak.json) | — |  |
 | — | [Nassim Haramein - what I think 2/2](corpus/videos/kTrLLsGohrE.json) | — |  |
+| — | [Bike Touring - Poland - Czech Republic to Katowica  5-2010](corpus/videos/k_tk3meqP84.json) | — |  |
 | — | [The Corporation documentary - Request](corpus/videos/kuHWGU30cgc.json) | — |  |
 | — | [Why I don't have a Job & live in my Van working on my Timeline - Reque](corpus/videos/kv_A8_80IQs.json) | — |  |
 | — | [What an American thinks about Sweden - August 2010](corpus/videos/l8ECMhP7PGg.json) | — |  |
@@ -1343,15 +1508,27 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [We should respect our bodies](corpus/videos/lorjcs8EvQw.json) | — |  |
 | — | [Gun Control & people trying to disarm urban poor - Request](corpus/videos/lrmb72hIPQI.json) | — |  |
 | — | [What I think about Boulder, Colorado](corpus/videos/lvXyi_GnYhk.json) | — |  |
+| — | [Talking tripping Mushrooms in Amsterdam 3/3](corpus/videos/lwMTYG_pAP8.json) | — |  |
 | — | [Thinking about fundies - fundamentalis christians and muslims](corpus/videos/lxg14QXBxeY.json) | — |  |
+| — | [Aliens don't have names because they live in a hologram](corpus/videos/lyIBU1QSNdI.json) | — |  |
+| — | [Zagreb Croatia 5-2010 1/2](corpus/videos/m1Lbpy4axeA.json) | — |  |
+| — | [Stockholm, Sweden 8-2010 1/3](corpus/videos/m3aL9aMifwo.json) | — |  |
+| — | [weer to unterach austria](corpus/videos/m4jIhUj3hlA.json) | — |  |
+| — | [Stockholm, Sweden 8-2010 3/3](corpus/videos/mHX_2aqztLE.json) | — |  |
+| — | [Enough with the two party system - I'm voting non democrate republican](corpus/videos/mR-4XuUwqn0.json) | — |  |
 | — | [dan winter what I think about the fractal guy 2 of 2](corpus/videos/mTEzk18xrBc.json) | — |  |
+| — | [Vlogging 2nd Year Anniversary](corpus/videos/mVb1BVTqG-U.json) | — |  |
 | — | [Mount Hood Ski Resort, Oregon July 18th 2011](corpus/videos/mZrxdi7p6vU.json) | — |  |
 | — | [I can't respond to comments anymore if anyone can help](corpus/videos/mfaoNh7vjmA.json) | — |  |
 | — | [Wendy Munro & the Sirian Aliens 1/4](corpus/videos/mhyO5gdH0s0.json) | — |  |
 | — | [How to adjust to living in the van - Request](corpus/videos/mluHd50C0a8.json) | — |  |
 | — | [Talking about the transformation 2/2](corpus/videos/mptjForX668.json) | — |  |
+| — | [You either have freedom of speech or you don't - there's no halfway](corpus/videos/msG8sW9LJnU.json) | — |  |
+| — | [Analyzing myself as a Capricorn - I'm sooo Capricorn! I totally believ](corpus/videos/mtD8rPqppzk.json) | — |  |
 | — | [Making Videos Reduces your Ego](corpus/videos/mwcXPqdm_t8.json) | — |  |
+| — | [Mycenia, Greece - Museum 6-2010 2/2](corpus/videos/mzo6b35IOXE.json) | — |  |
 | — | [How I organize my van now that I actually live in it](corpus/videos/n0lLhdHgfMc.json) | — |  |
+| — | [Homosexuality is natural](corpus/videos/n1hLf3y4g_o.json) | — |  |
 | — | [What an American thinks about Argentina](corpus/videos/n7ElvtksOdQ.json) | — |  |
 | — | [History of Italy (Including the Roman Empire) 2/3](corpus/videos/n7v5wbYOz9c.json) | — |  |
 | — | [Which famous person from history would I hang with for a week & why - ](corpus/videos/nF4T_I2z-g8.json) | — |  |
@@ -1361,6 +1538,8 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Aliens on my Website 1/2](corpus/videos/nb-9xKdmLVE.json) | — |  |
 | — | [What I think about the state of Washington - Request](corpus/videos/ne8VNyiHibE.json) | — |  |
 | — | [Talking About 24 hours of Moab Solo Mountain Bike Race 2010 - 1stx 1/4](corpus/videos/nfRYolO11So.json) | — |  |
+| — | [Kiev, Ukraine 7-2010](corpus/videos/ni8TstxXQgk.json) | — |  |
+| — | [What I think about youtube haters](corpus/videos/nyZYEmghaVo.json) | — |  |
 | — | [How to deal with racist people - Request](corpus/videos/nypdD6X23R8.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 2 - 2014](corpus/videos/o-pVkU4ALuc.json) | — |  |
 | — | [God Helmet & Michael Persinger - What I think - Request](corpus/videos/o1rnW3Pfk5M.json) | — |  |
@@ -1372,22 +1551,33 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Alex Collier - Alien Contactee 3/3](corpus/videos/oMNh1sOqQiY.json) | — |  |
 | — | [British Royal Family - What I think - Request](corpus/videos/oOVqHK-J6xU.json) | — |  |
 | — | [Answering questions about me from Seamus 4/5](corpus/videos/o_UhTAfqwX4.json) | — |  |
+| — | [Talking tripping Mushrooms in Amsterdam 1/3](corpus/videos/oc5EHTjzfO4.json) | — |  |
 | — | [Will I live in the van again and do I miss it - Request](corpus/videos/oljO5o-qozA.json) | — |  |
 | — | [Jobs shouldn't Require College Degrees](corpus/videos/oqtTBONZvuc.json) | — |  |
+| — | [Mount Olympus, Greece 7-2010 5/6](corpus/videos/owrD87bKOoQ.json) | — |  |
 | — | [What I think about my Subscribers - For Seamus](corpus/videos/oxY0Ccy79YA.json) | — |  |
 | — | [Living in Van Introduction 4/5](corpus/videos/oy2su0vvyF4.json) | — |  |
+| — | [Kinds of Aliens 5/5](corpus/videos/p5rl82qseyQ.json) | — |  |
+| — | [Bike Touring - Greece. Delphi to Thermopoli & Towards Mount Olympus. 7](corpus/videos/p7JyRkI85i4.json) | — |  |
 | — | [Reincarnation and the Law of Karma book Synopsis - Request](corpus/videos/pOUAj1ZQaSA.json) | — |  |
+| — | [Bike Touring - Bosnia/Herzegovina -  Serbia to Sarajevo. 5-2010](corpus/videos/pQp4gjsNu0E.json) | — |  |
+| — | [Bike Touring - Austria - Groz East Over Pass To Landeck. 4-2010](corpus/videos/pW4biZXEJX0.json) | — |  |
+| — | [Bike Touring - Hungary & Slovania 5-2010](corpus/videos/pWq-ZDLLuuQ.json) | — |  |
 | — | [32 Years To Digital Immortality (transhumanism (transalchemy)) - Reque](corpus/videos/pYHPK3amkqY.json) | — |  |
 | — | [Marijuana perception related to legalization and reasonable amounts to](corpus/videos/pcIE_2rHfds.json) | — |  |
 | — | [Living in Boulder Vlog 4 - 26 - 2014](corpus/videos/pdzCFqSsZQ4.json) | kyle | Kyle records a casual vlog while drunk and stoned on a Saturday in Boulder. He talks about his recent drinking, mistakin |
+| — | [Vienna, Austria - Downtown 4-2010 2/2](corpus/videos/pqUzQUS7o9w.json) | — |  |
 | — | [Joshua Trea National Park 1/2](corpus/videos/pr8fSgVVOxA.json) | — |  |
 | — | [That Osama Bin Laden Stuff is Bullshit](corpus/videos/pzCIswXpxt8.json) | — |  |
 | — | [What I think About the Angry Grandpa Show on Youtube - Request](corpus/videos/q0WnTBT24Ig.json) | — |  |
 | — | [La Historia del Italia 2/2](corpus/videos/qBGFh-MNpUU.json) | — |  |
+| — | [What an American thinks about sex shops - request - YOUR fault if you ](corpus/videos/qDazHc-dv2c.json) | — |  |
 | — | [Which historical person would I bring back to live here? Jesus - Reque](corpus/videos/qF-I1MAU8ms.json) | — |  |
 | — | [Teachers should expand and contract their lessons in video format](corpus/videos/qIFEXXl91aU.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 21 - 2013](corpus/videos/qLTebmD9YP0.json) | — |  |
+| — | [How to make a Free Energy Machine from Bashar 1/2](corpus/videos/qMrsiXifDj4.json) | — |  |
 | — | [Crater Lake National Park, Oregon](corpus/videos/qNAPnmvfFCg.json) | — |  |
+| — | [Delphi, Greece - Museum 7-2010 2/4](corpus/videos/qP1ZfV-tA0o.json) | — |  |
 | — | [Medical prescriptions is bullshit - I want my freedom to buy my own as](corpus/videos/qTH3DKWFnZk.json) | — |  |
 | — | [Up from Slavery by Booker T Washington  Book Sysopsis](corpus/videos/qWtgjZRdU9E.json) | — |  |
 | — | [Living in Boulder Vlog 4 - 22 - 2014](corpus/videos/qYKTWJMxq2U.json) | kyle | Kyle vlogs about his daily routine in Boulder in April 2014: working his first full week at a job cleaning houses, organ |
@@ -1401,9 +1591,14 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [limitations of profit incentive (capitalism series) - Request](corpus/videos/rLIWjCJ6WQA.json) | — |  |
 | — | [Answering Rubbe - Talking about jobs in the new age - request](corpus/videos/rMVNhrRBOZg.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 18/21](corpus/videos/rTNUq3UJgnE.json) | — |  |
+| — | [Deep Chair Push Ups 1stx 20x](corpus/videos/rUBe33LaXzo.json) | — |  |
+| — | [What an American thinks about Estonia](corpus/videos/rXXyRJBQGRQ.json) | — |  |
 | — | [How to do videos for poor people - Request](corpus/videos/rZmjI6sppcM.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 16/21](corpus/videos/r_wmY6dDQbs.json) | — |  |
+| — | [the best way to express yourself on your web page](corpus/videos/rrxLY6PHt38.json) | — |  |
 | — | [We Should Rank Everybody in Everything instead of Grades in Schools](corpus/videos/rs6tmv2Fi90.json) | — |  |
+| — | [Bike Touring Vlog - Austria - Leichtenstein Towards Vienna. 5-2010](corpus/videos/rwfNnv-sWSQ.json) | — |  |
+| — | [Bike Touring - Montenegro - Podgorica to Kosovo. 5-2010](corpus/videos/ryjENa-88d0.json) | — |  |
 | — | [Christmas - Request](corpus/videos/s2nH0sXT2eg.json) | — |  |
 | — | [We should believe in Reincarnation to accept who we are and celebrate ](corpus/videos/s6K3YdA5ikI.json) | — |  |
 | — | [Fitness Psychology](corpus/videos/sBiDIdsEAqo.json) | — |  |
@@ -1414,23 +1609,31 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Living in Boulder Vlog 12 -  2 -  2013](corpus/videos/seLywvFa8xY.json) | — |  |
 | — | [My Childhood - Request](corpus/videos/sungIXYP2ik.json) | — |  |
 | — | [Talking with a dude who lives out of his truck](corpus/videos/swULheigVQo.json) | — |  |
+| — | [Stockholm, Sweden 8-2010 2/3](corpus/videos/sxStblKRwfI.json) | — |  |
 | — | [Why people don't read and have short attention spans - Request](corpus/videos/szWloCAJ2uc.json) | — |  |
 | — | [The difficult part about living in a van - request](corpus/videos/t13uZdVjEdA.json) | — |  |
 | — | [Arrogance is good](corpus/videos/t346nsuRBZM.json) | — |  |
 | — | [What herbs to take for energy - Request (I know nothing about this sub](corpus/videos/t5OCxh9RmKs.json) | — |  |
 | — | [Airplanes - Request](corpus/videos/t7uiKKw4lyI.json) | — |  |
 | — | [Sequia National Park, California 2/2](corpus/videos/tDwhOw311Pg.json) | — |  |
+| — | [Sparta, Greece - Museum 6-2010](corpus/videos/tLL1Kz_LS2w.json) | — |  |
 | — | [The State of the Union - Request](corpus/videos/tPsCRw8y3QQ.json) | — |  |
 | — | [Standardized Tests - What I think about that](corpus/videos/tUYH0_2gjPA.json) | — |  |
 | — | [Welcome to my Mountain Bike, the "Purple Power" - Request - Stumpjumpe](corpus/videos/tYAcrTGcGhM.json) | — |  |
 | — | [What I think about shakers](corpus/videos/tYRwgvMqtnM.json) | — |  |
+| — | [Interview with Kosovar talking about Kosovo June 2010](corpus/videos/tfBUc-8nz9U.json) | — |  |
 | — | [Living in Van Introduction 1/5](corpus/videos/tmFYnxtOcCQ.json) | — |  |
+| — | [What will the world be like post disclosure? 6 of 8](corpus/videos/tpdPWCEPoHs.json) | — |  |
 | — | [Alex Collier - Alien Contactee 1/3](corpus/videos/tpo9OAzw8Vc.json) | — |  |
 | — | [Gypsies deserve more respect](corpus/videos/tremGdiVVZI.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 7 - 2013](corpus/videos/tsWrW48PFbI.json) | — |  |
+| — | [Sarajevo, Bosnia - Herzegoniva Streets 6-2010 2/2](corpus/videos/txV9Vkiaq4Y.json) | — |  |
 | — | [Living in the Van Security  - Request](corpus/videos/u0vO-sGyD90.json) | — |  |
 | — | [Dumbbell Presses 25lbs PR 140X](corpus/videos/u2tWWXI-7d4.json) | — |  |
 | — | [Favourite Types of Candy - Request](corpus/videos/u3P8zGMSkRQ.json) | — |  |
+| — | [What I think about Bigfoot - I believe](corpus/videos/u8rVANDp-T8.json) | — |  |
+| — | [Bike Touring - Frieburg Germans Sautering My Bike For Free. 4-2010](corpus/videos/uCAQPff4Y0U.json) | — |  |
+| — | [The difference between Indigo Children and Crystal Children](corpus/videos/uCYqQGz9hZA.json) | — |  |
 | — | [Recorded History 1/9](corpus/videos/uO_Vw7aXRiQ.json) | — |  |
 | — | [Season of the Witch Movie Review](corpus/videos/uTHVkveec00.json) | — |  |
 | — | [Favourite Game Shows - Request](corpus/videos/uTomsrZSpWM.json) | — |  |
@@ -1441,13 +1644,16 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Living in Van Introduction 3/5](corpus/videos/udlgxSg0ELE.json) | — |  |
 | — | [Bike Touring Tales - Request](corpus/videos/udwYsrb2JU8.json) | — |  |
 | — | [What I think about Florida, Tampa, Miami   Request](corpus/videos/uh_Jcmj9IOI.json) | kyle | Kyle responds to a video request about Florida cities, sharing his limited personal experience visiting Miami and Epcot  |
+| — | [Just because you don't have internet doesn't mean you should not  make](corpus/videos/uiMy9i8mvdc.json) | — |  |
 | — | [Movie Reviews - requested by Krishnas Little Helper](corpus/videos/uldOHXNx9k4.json) | — |  |
 | — | [Update - As requested](corpus/videos/upP2ZdsoiAY.json) | — |  |
 | — | [Hamburg, Germany 9-2010](corpus/videos/uxOgZVgWgMM.json) | — |  |
 | — | [Talking about my life - Austin, Texas 2/21](corpus/videos/uxice04xuA8.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 9 - 2013](corpus/videos/v0jUl_kaDJE.json) | — |  |
 | — | [Why we stopped going to the moon and if we will go to mars by 2030 - R](corpus/videos/v5jAzkOcfY0.json) | — |  |
+| — | [What I think about Andy Basiago and Project looking glass, pegasus 6 o](corpus/videos/v9K-h8Bimpk.json) | — |  |
 | — | [Living in Boulder Vlog 5 - 2 - 2014](corpus/videos/vAR4l0XjeVY.json) | kyle | Kyle records a vlog the morning after May 2nd, 2014, reflecting on his habit of cataloging things (books, running times) |
+| — | [Check out my personal calendar it's the best ever!](corpus/videos/vC6T6x1NvJ8.json) | — |  |
 | — | [Strava Bike & Run Race Website is Fascinating & Futuristic](corpus/videos/vJJVtNReors.json) | — |  |
 | — | [Big Dutch chicks vs Little Asian Men - Request (Drunk & Stoned)](corpus/videos/ve-TSo5wDgM.json) | kyle | Kyle responds to a viewer request about whether large Dutch/German/Czech women could beat small Asian men in a fight. He |
 | — | [We should express both our  positive and negative ideas about stuff](corpus/videos/vjrH8ZozKjw.json) | — |  |
@@ -1457,42 +1663,60 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What types of movies I like and why - Request](corpus/videos/w3J1Z77HTsI.json) | — |  |
 | — | [Living in Present in our society - Request](corpus/videos/w7ZrMPjO1M4.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 10 - 2013](corpus/videos/wF4U3IERnOg.json) | — |  |
+| — | [Ios Greek island chola town during the day](corpus/videos/wIPZXl0fcTk.json) | — |  |
 | — | [What an American thinks about Mexico](corpus/videos/wNPnj9ivXz0.json) | — |  |
 | — | [THC Enemas - Request](corpus/videos/wTGMgXwk84c.json) | kyle | Kyle responds to a viewer request asking about THC enemas and suppositories, sharing his opinions on their effectiveness |
 | — | [Recorded History 6/9](corpus/videos/wYKBUqe3NCY.json) | — |  |
 | — | [Modern Slavery and how to fix it - Request](corpus/videos/wl-QMxYfgfE.json) | — |  |
 | — | [Identifying soul groups on the Earth 1/2](corpus/videos/wnTdLi9skE4.json) | — |  |
 | — | [Fear Mongers who profit from fear Scientology,  Alex Jones, George4Tit](corpus/videos/x0r-R_K09pE.json) | — |  |
+| — | [Bike Touring Vlog - Greece & Bulgaria 2/3](corpus/videos/x5PHI38PBs8.json) | — |  |
 | — | [Ironclad Movie Review](corpus/videos/x8XHa7doN2s.json) | — |  |
 | — | [You don't have to be anti-hero to believe in God + Religious Fanaticis](corpus/videos/xApRKVZrN1I.json) | — |  |
+| — | [Stay away from energy drinks and energy bars if you want to be lean](corpus/videos/xBJb4XSDquQ.json) | — |  |
 | — | [Tour of my Solar Power system in my van - Request](corpus/videos/xEQObGOU-vM.json) | — |  |
+| — | [Dream I had about aliens](corpus/videos/xUCbmWmP3q4.json) | — |  |
 | — | [How to make a free energy machine from Bashar 2/2](corpus/videos/xZcvJV5P8zs.json) | — |  |
+| — | [Delphi, Greece - Archaeological Site 7-2010 3/4](corpus/videos/xc8_nW4ialQ.json) | — |  |
 | — | [Vegetarianism - Request](corpus/videos/xf-aFj3466E.json) | — |  |
+| — | [wondering where miracles come from](corpus/videos/xhwe1d4flG8.json) | — |  |
 | — | [Talking about my life - Boulder, Colorado 9/21](corpus/videos/xkmKbzFfkyo.json) | — |  |
 | — | [Next big movement in humanity and it's results - Request](corpus/videos/xnucLNHs0As.json) | — |  |
+| — | [Delphi, Greece - Museum 7-2010 1/4](corpus/videos/xp2pd4_3Tic.json) | — |  |
 | — | [La Historia del Espana](corpus/videos/xph_CNB1c6Y.json) | — |  |
 | — | [Now is the Time to Live in Your Van - With the Levels of Technology we](corpus/videos/xvKPzB4-InU.json) | — |  |
 | — | [What an American thinks about Guatemala](corpus/videos/y1mNephL8js.json) | — |  |
 | — | [History of Germany](corpus/videos/yHSQ45Eh310.json) | — |  |
+| — | [What will the world be like post disclosure? 4 of 8](corpus/videos/yIvJBLtBhVg.json) | — |  |
+| — | [Athens, Greece - Acropolis 6-2010 2/3](corpus/videos/yK4PgDC_WhM.json) | — |  |
+| — | [Ios, Greek Island nightlife June 2 2010 2 of 3](corpus/videos/yKSTztDFSag.json) | — |  |
 | — | [La Historia del Estados Unidos 1/4](corpus/videos/yLtch_c4tKs.json) | — |  |
 | — | [youtube suspension - What I think (not like I'd ever get suspended)](corpus/videos/yMkjcfvS9mw.json) | — |  |
+| — | [Weighlifting form doesn't matter](corpus/videos/yQ_xMJs8bMw.json) | — |  |
 | — | [Living in Lafayette Vlog 7-30-203](corpus/videos/yROB65OjDjg.json) | — |  |
+| — | [Corinth, Greece - Archaeological Site 6-2010 2/4](corpus/videos/yTXwCxVf4hA.json) | — |  |
 | — | [Manly P Hall on Education - Request](corpus/videos/yfkzvEXxffw.json) | — |  |
+| — | [Corinth, Greece - Archaeological Site 6-2010 1/4](corpus/videos/yhFi29Oh4Ng.json) | — |  |
 | — | [Special message to Kyle Pounds fans. VERY VERY VERY VERY IMPORTANT!!!!](corpus/videos/yhx1hvUsH7s.json) | — |  |
 | — | [Noam Chomsky - Request](corpus/videos/ykajazW92Vs.json) | — |  |
 | — | [What I think about the Pleiadean aliens - Request](corpus/videos/yuOwtd2EAJ8.json) | — |  |
 | — | [Tips for Living out of your Van](corpus/videos/yw-GRkKAhMo.json) | — |  |
 | — | [Yosemeti National Park, California Museum](corpus/videos/yxBkCHKDnVc.json) | — |  |
 | — | [Copenhagen, Denmark 8-2010 3/3](corpus/videos/z-ZntUatLYc.json) | — |  |
+| — | [Delphi, Greece - Archaeological Site 7-2010 2/4](corpus/videos/zH-_0jCOseg.json) | — |  |
 | — | [Ice Cream - Request](corpus/videos/zI7oIShgeuY.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 11 & 12 - 2013](corpus/videos/zIX_uc3TrD4.json) | — |  |
+| — | [Athens, Greece - Acropolis 6-2010 3/3](corpus/videos/zMlYOWF9XEg.json) | — |  |
 | — | [Favourite Cities in Asia - Request](corpus/videos/zS16G3K2kqQ.json) | — |  |
 | — | [James Bond   Request](corpus/videos/zTrMrkkhwJA.json) | kyle | Kyle, while notably high on edibles, responds to a viewer request to share his thoughts on the James Bond film series. H |
+| — | [Ascension - What I think](corpus/videos/zUX9TA_jgTI.json) | — |  |
+| — | [Kinds of Aliens 1/5](corpus/videos/zY4Z0pP7f8Y.json) | — |  |
 | — | [Amsterdam, Netherlands 9-2010 4/4](corpus/videos/zYmKVeWF5CM.json) | — |  |
 | — | [The transformation of the world 1/2 - request](corpus/videos/za0SIamaxh0.json) | — |  |
 | — | [Comparing niceness of cities in America - Request](corpus/videos/zbj-_RX-rLM.json) | — |  |
 | — | [Idealists are Cooler than Realists](corpus/videos/zdtniG4JLRY.json) | — |  |
 | — | [How to win the Love Triangle - Request](corpus/videos/ze118bCvE5s.json) | kyle | Kyle responds to a viewer request from Brian De La Cruz, who is in a college love triangle and struggling to prove his f |
+| — | [Bike Touring - Montenegro - Bosnia to Podgorica. 5-2010](corpus/videos/zjBBIwXmc0Q.json) | — |  |
 | — | [Bike Touring vs Car Touring](corpus/videos/zjVLh_6ECdM.json) | — |  |
 | — | [Bicycle Trainer (Roller) Table Demonstration - Request](corpus/videos/zmqPfmosqfA.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 20 - 2013](corpus/videos/znBhTkIPqcY.json) | — |  |
