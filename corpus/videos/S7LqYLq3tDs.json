@@ -1,0 +1,226 @@
+{
+ "youtube_id": "S7LqYLq3tDs",
+ "title": "Quick Personal Calendar Tour",
+ "url": "https://youtu.be/S7LqYLq3tDs",
+ "published_at": "",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.75,
+   "end": 6.55,
+   "text": "This is a quick tour of my personal calendar feature on my site."
+  },
+  {
+   "start": 7.09,
+   "end": 12.55,
+   "text": "It's a cool way to look at your life."
+  },
+  {
+   "start": 13.51,
+   "end": 15.39,
+   "text": "For example, I'll show you how it works."
+  },
+  {
+   "start": 15.49,
+   "end": 16.21,
+   "text": "I have the 70s."
+  },
+  {
+   "start": 16.53,
+   "end": 19.55,
+   "text": "I haven't gotten around to writing an introduction here yet."
+  },
+  {
+   "start": 19.59,
+   "end": 22.75,
+   "text": "We have the 70s, 80s, 90s, 0s, and 10s."
+  },
+  {
+   "start": 23.99,
+   "end": 29.47,
+   "text": "And so, for example, the 10s, it's an entire decade on one page."
+  },
+  {
+   "start": 29.47,
+   "end": 34.51,
+   "text": "You have 2010, 2011, 2012, 2013, 2014, 2015."
+  },
+  {
+   "start": 34.67,
+   "end": 44.49,
+   "text": "And you can jump from one year to the next, 2010 to 2011, 2011 to 2012, 2012 to 2013, 2013 to 2014."
+  },
+  {
+   "start": 44.71,
+   "end": 48.93,
+   "text": "So you can superimpose and be like, hmm, what was I doing this day, 2017?"
+  },
+  {
+   "start": 49.73,
+   "end": 50.77,
+   "text": "Oh, that's what I was doing."
+  },
+  {
+   "start": 51.39,
+   "end": 53.85,
+   "text": "Or you could do it the next 10 years prior."
+  },
+  {
+   "start": 53.85,
+   "end": 57.73,
+   "text": "For example, I'm on, like, June 12th of 2013."
+  },
+  {
+   "start": 57.93,
+   "end": 62.13,
+   "text": "Well, what was I doing on June 12th of 2003?"
+  },
+  {
+   "start": 62.41,
+   "end": 63.03,
+   "text": "Well, let's see."
+  },
+  {
+   "start": 63.93,
+   "end": 68.21,
+   "text": "Now, this will just take me to another page, but it's on the same site."
+  },
+  {
+   "start": 68.61,
+   "end": 73.71,
+   "text": "So you can put this in you on a certain page, on a place on that page, just like Wikipedia does."
+  },
+  {
+   "start": 73.71,
+   "end": 75.49,
+   "text": "And so this is what I was doing."
+  },
+  {
+   "start": 75.65,
+   "end": 79.41,
+   "text": "I was with Paula, living at Capiana Barsua."
+  },
+  {
+   "start": 79.85,
+   "end": 85.63,
+   "text": "But I don't have a journal entry that day because I do have, I have drop-downs."
+  },
+  {
+   "start": 86.51,
+   "end": 95.36,
+   "text": "I have a CSS script that makes it so that you can mouse over and you can have, like, a blog on the page."
+  },
+  {
+   "start": 100.62,
+   "end": 101.46,
+   "text": "So there you go."
+  },
+  {
+   "start": 101.46,
+   "end": 105.28,
+   "text": "And so I have every single, every single decade."
+  },
+  {
+   "start": 106.06,
+   "end": 118.98,
+   "text": "Now, if you wanted to, if you like the idea, all you have to do is connect, is, like, click on the O's on the page."
+  },
+  {
+   "start": 120.12,
+   "end": 121.78,
+   "text": "And then it's all blank."
+  },
+  {
+   "start": 122.08,
+   "end": 124.54,
+   "text": "It's a blank page that you can fill in."
+  },
+  {
+   "start": 124.68,
+   "end": 129.26,
+   "text": "And so all you have to do is right-click, view source."
+  },
+  {
+   "start": 129.26,
+   "end": 138.42,
+   "text": "And then you, you know, Control-A, select all, and copy that, and then put that in the code view of your program, like Dreamweaver."
+  },
+  {
+   "start": 139.38,
+   "end": 142.34,
+   "text": "And then you have this page right here."
+  },
+  {
+   "start": 142.38,
+   "end": 152.3,
+   "text": "And all you have to do is, at that point, is you just click the background of this, of this, this thing is in the way,"
+  },
+  {
+   "start": 152.3,
+   "end": 158.32,
+   "text": "And it's not getting out of the way, of this table, the cell."
+  },
+  {
+   "start": 158.32,
+   "end": 167.96,
+   "text": "And then make it a certain color to say that you were doing this that day, or the border of the cell, if you're doing two things on the same day."
+  },
+  {
+   "start": 168.42,
+   "end": 175.32,
+   "text": "And then as far as writing what's in the drop-down menu, you go into the code, and then between where it says span, you just write what you did."
+  },
+  {
+   "start": 175.38,
+   "end": 176.44,
+   "text": "And then it comes in on here."
+  },
+  {
+   "start": 176.44,
+   "end": 186.82,
+   "text": "So if you want to copy the CSS script, you would just right-click and copy the script here, because it's a,"
+  },
+  {
+   "start": 187.42,
+   "end": 195.14,
+   "text": "And then you just put this script into the same folder as the pages, and then all, and then it's good to go."
+  },
+  {
+   "start": 195.14,
+   "end": 201.22,
+   "text": "All you have to do is look at the thing, and I use it like a WYSIWYG, Dreamweaver, real easy."
+  },
+  {
+   "start": 201.3,
+   "end": 204.5,
+   "text": "You don't have to know how to be a web designer to do that."
+  },
+  {
+   "start": 204.5,
+   "end": 209.14,
+   "text": "If you are interested in this, though, you do want to copy this and have extra ones of these laying around,"
+  },
+  {
+   "start": 209.24,
+   "end": 212.9,
+   "text": "And then save them all the time, upload them with Dreamweaver."
+  },
+  {
+   "start": 213.04,
+   "end": 218.78,
+   "text": "It's Control-Out, it's Control-Shift-U, and upload it all the time in case you screw it up,"
+  },
+  {
+   "start": 218.78,
+   "end": 225.64,
+   "text": "And you don't know how to fix it, you know, you can just download the one that you already uploaded."
+  },
+  {
+   "start": 225.64,
+   "end": 227.66,
+   "text": "So anyways, that's that."
+  }
+ ]
+}
