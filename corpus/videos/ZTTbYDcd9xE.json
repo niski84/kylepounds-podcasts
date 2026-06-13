@@ -43,6 +43,68 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I decided to figure out the seating capacity of all the different venues in Rome."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome was the perfect vacation city and a perfect place for people to get together."
+  },
+  {
+   "subject": "Circus Maximus",
+   "claim": "I calculated the seating capacity of Circus Maximus to be 47,000 people initially."
+  },
+  {
+   "subject": "Circus Maximus",
+   "claim": "After adding stands behind the columns, the seating capacity of Circus Maximus increased to 150,000."
+  },
+  {
+   "subject": "Wikipedia",
+   "claim": "The Wikipedia article estimates the seating capacity of Circus Maximus at 260,000."
+  },
+  {
+   "subject": "Stadium of Domitian",
+   "claim": "The Stadium of Domitian has 26 kilometers worth of stands, which is more than the Colosseum."
+  },
+  {
+   "subject": "Stadium of Domitian",
+   "claim": "The seating capacity of the Stadium of Domitian is estimated at 52,000 people."
+  },
+  {
+   "subject": "Wikipedia",
+   "claim": "The Wikipedia article states the seating capacity of the Stadium of Domitian is 15,000 to 20,000."
+  },
+  {
+   "subject": "Theater of Marcellus",
+   "claim": "The Theater of Marcellus has a seating capacity of 17,000."
+  },
+  {
+   "subject": "Circus Domitian",
+   "claim": "I estimated the seating capacity of Circus Domitian to be about 30,000."
+  },
+  {
+   "subject": "Theater of Caustic Strip",
+   "claim": "I wanted to rebuild the Theater of Caustic Strip, which is a smaller version of a Caustian theater."
+  },
+  {
+   "subject": "Theater of Caustic Strip",
+   "claim": "The Theater of Caustic Strip has a seating capacity of 355 people."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I am currently tracing the seating arrangement for the Theater of Caustic Strip to visualize the people inside."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I am listening to different decades of music while working on the seating arrangements."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I received a cancer cutout today and will find out in five days if it is cancer."
+  }
+ ],
  "transcript": [
   {
    "start": 0.3,

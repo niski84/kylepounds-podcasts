@@ -47,6 +47,132 @@
   "date": "2018-04-05",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I didn't sleep last night at all, but I laid there and made sure to rest."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up at 5 AM and was ready to go by sunrise at 6:45 AM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It was already light enough to ride a half hour before the sun officially arrived."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I could have been out the door at 6 AM today, even though it was a little cold."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had all the clothes I needed to stay warm in 40-degree weather."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I ate a bunch of fruit for breakfast before riding my bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I rode my bike to Loveland for the first time, which was exciting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went downtown and got a breakfast burrito and hash browns."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I rode up to the canyon and back to Boulder, enjoying the scenery and other riders."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today was my first big ride since I started riding again."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was super fired up about riding this morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I rode 75 miles today in four and a half hours, averaging about 16 miles per hour."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My watt pedals didn't register properly, likely because the battery is dying."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had a suffer score of 161, which is considered extreme."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The suffer score suggests I should take three to four days to recover."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The best way to recover is to keep riding until you're too weak to ride the next day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My left knee was hurting and felt loose, while my right side was tight and fresh."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The pain in my left knee was a sweet pain, almost like getting kicked in the nuts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My left shoulder and hip were also bothering me during the ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Getting a breakfast burrito was a good strategy because it's easier to eat than power bars or oatmeal."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't know how many power bars I need for long rides because my body works differently now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After the ride, I went to my mom's house and helped with her taxes and cleaning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I accompanied my mom to the dog park with my brother's dog."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm feeling the effects of being an athlete again, like being really tired and needing sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Everything feels heightened when riding a lot—food, water, and sleep are all more enjoyable."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I won't run or swim tomorrow because I'm focusing on being a triathlete."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I expect my knee to blow out sooner because I'm older, and I'll switch sports when that happens."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When my knee blows out, it'll be a sharp shooting pain that makes it hard to extend fully."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm looking forward to trying other sports when my knee gives out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wish I had started this training two weeks earlier."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm excited to sleep tonight because I'm exhausted from the ride."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

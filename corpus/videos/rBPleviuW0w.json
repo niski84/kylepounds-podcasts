@@ -54,6 +54,88 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "currency",
+   "claim": "We need to make a new currency."
+  },
+  {
+   "subject": "Bitcoin",
+   "claim": "Bitcoin is an existing currency."
+  },
+  {
+   "subject": "currency",
+   "claim": "Currency is something that adds value, something you can exchange to keep the economy going and to know how much stuff is worth."
+  },
+  {
+   "subject": "new currency",
+   "claim": "The new currency would have similarities to regular currency in valuing devaluations and appraisals, and then relate that to actual real money."
+  },
+  {
+   "subject": "social credits",
+   "claim": "The new currency is called social credits, which would assign value to people based on their worth."
+  },
+  {
+   "subject": "alternative currencies",
+   "claim": "Alternative currencies like Bitcoin and casino chips exist alongside traditional currencies."
+  },
+  {
+   "subject": "new currency",
+   "claim": "The reason for creating a new currency is to bring reality back into discussions about pay and contributions to the world."
+  },
+  {
+   "subject": "wealth discrepancy",
+   "claim": "The new currency would help counteract wealth discrepancy by reflecting only positive contributions to the world."
+  },
+  {
+   "subject": "oligarchs",
+   "claim": "The new currency would involve asking for money from oligarchs, who have too much money."
+  },
+  {
+   "subject": "jobs",
+   "claim": "The new currency would involve listing all jobs, their current pay, and their actual worth based on their benefit to society."
+  },
+  {
+   "subject": "negative money",
+   "claim": "People who make money by destroying the world could be assigned negative money."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "Doing YouTube videos is a job, but the current system doesn't fairly distribute wealth among creators."
+  },
+  {
+   "subject": "education",
+   "claim": "Attaching monetary value to educational activities like studying would encourage people to become smarter."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "If everyone had a YouTube channel and made educational videos, it would crowd out less intelligent content."
+  },
+  {
+   "subject": "video hits",
+   "claim": "Getting 10 hits on a well-produced, educational video should be considered a success."
+  },
+  {
+   "subject": "oligarchs",
+   "claim": "The new currency would encourage oligarchs to willingly give money to people who demonstrate value through their contributions."
+  },
+  {
+   "subject": "society credits",
+   "claim": "The new currency, called society credits, would allow people to assign value to their contributions and use it as a bargaining tool."
+  },
+  {
+   "subject": "political influence",
+   "claim": "Society credits could be used to gain political influence by demonstrating one's contributions to society."
+  },
+  {
+   "subject": "changing the world",
+   "claim": "The best way to change the world is by creating better alternatives, not by fighting existing power structures."
+  },
+  {
+   "subject": "society credits",
+   "claim": "Society credits would help smooth the transition of wealth by making oligarchs willingly give money to those who demonstrate value."
+  }
+ ],
  "transcript": [
   {
    "start": 1.1,

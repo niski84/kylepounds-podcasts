@@ -5,6 +5,80 @@
  "published_at": "",
  "channel": "Kyle Pounds (main)",
  "enrichment": null,
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He cannot remember the difference between the special theory and the general theory of relativity."
+  },
+  {
+   "subject": "Einstein",
+   "claim": "Einstein figured out that matter and energy were the same thing through contemplation rather than experiment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He speculates that Einstein may have been reading Eastern texts when he arrived at the idea that matter and energy are the same thing."
+  },
+  {
+   "subject": "Einstein",
+   "claim": "Einstein is the one Kyle credits with coming up with quantum physics."
+  },
+  {
+   "subject": "Einstein",
+   "claim": "Einstein came up with the idea of the atom and matter interacting with vibration."
+  },
+  {
+   "subject": "Einstein",
+   "claim": "Einstein contemplated how time stops when you travel at the speed of light."
+  },
+  {
+   "subject": "the universe",
+   "claim": "Everything in the universe operates at a vibration."
+  },
+  {
+   "subject": "quarks and strings",
+   "claim": "The quarks or strings inside protons and neutrons vibrate at a certain speed."
+  },
+  {
+   "subject": "quarks and strings",
+   "claim": "Quarks or strings cannot vibrate any faster than the speed of light — they vibrate at the speed of light."
+  },
+  {
+   "subject": "the universe",
+   "claim": "There is a fixed point in the universe against which motion is measured."
+  },
+  {
+   "subject": "time dilation",
+   "claim": "When you move through space, your internal vibrations cannot propagate as fast relative to your own frame as they could if you were stationary, because they are limited to the speed of light."
+  },
+  {
+   "subject": "train analogy",
+   "claim": "The standard train analogy for relativity operates at the macro scale and did not make sense to Kyle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle only understood time dilation when he started thinking about it at the subatomic scale of vibrating quarks or strings rather than through the train analogy."
+  },
+  {
+   "subject": "time dilation",
+   "claim": "Time slows down incrementally the faster you move."
+  },
+  {
+   "subject": "time dilation",
+   "claim": "If you travel at the speed of light, time stops entirely for you because the vibrating strings freeze."
+  },
+  {
+   "subject": "time dilation",
+   "claim": "Time dilation has been tested experimentally using watches carried by airline pilots."
+  },
+  {
+   "subject": "airline pilots",
+   "claim": "Airline pilots have to regularly adjust their watches to correct for time dilation caused by their speed."
+  },
+  {
+   "subject": "airline pilots",
+   "claim": "Airline pilots travel at roughly 700 miles per hour, which is enough to produce a measurable — though small — time dilation effect."
+  }
+ ],
  "transcript": [
   {
    "start": 1.58,

@@ -46,6 +46,56 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thought he had cancer because of a sore, puffy spot that looked like his previous cancer, but it tested as an infection."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes he has a recurring MRSA staph infection in his blood."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has a doctor's appointment to test for MRSA and possibly get a special antibiotic."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle mentions that MRSA can be fatal if it infects organs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks his brain function has declined due to strong weed he recently tried."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle feels his IQ dropped further after his roommate invited homeless people into their home."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was working on a math problem involving bike race speeds but couldn't solve it due to his mental state."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was imagining a parallel universe where Romans raced bikes instead of chariots."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes he could finish his website timeline in a month if he focused on it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle speculates his website might launch the same day as an economic collapse, which could benefit him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle considers taking a nap because he's too distracted to work on easy problems."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle stayed up all night working and only slept five hours."
+  }
+ ],
  "transcript": [
   {
    "start": 0.43,

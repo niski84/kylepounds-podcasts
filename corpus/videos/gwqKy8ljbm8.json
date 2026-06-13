@@ -36,6 +36,124 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I did a Vila yesterday, so I want to do Vila every single day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday's Vila was in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "After Vila, I planned on going on a ride but never did because I spent all day catching up on apartment stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was vacuuming a bunch of times and realized my vacuum was clogged."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I unplugged the vacuum and kept vacuuming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't even really started organizing, so I need to do that next."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent the rest of the day doing maintenance stuff like scrubbing my toilet and bathroom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Cleaning my house takes forever."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Having a clean house is a priority over exercising because it makes it easy to just exist."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "You need to enjoy just existing if you're exercising all the time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Doing less academic-type things means you need a clean house to give you satisfaction."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "A clean house gives you a quick variety of minds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll do more cleaning later on today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was really tired even though I didn't ride from the previous days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was hoping to get this thing done but ended up laying there all night tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My rule of thumb was to get up at five, but I was still laying there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought about getting up and riding anyways, even if exhausted, but then I wouldn't make it so I could sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took a melatonin last night and maybe I should take a real sleeping pill."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I ended up going to sleep before five and slept until like 11:30."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Now it's 12:30, and I had to do some errands."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The plan is pretty crazy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't have much of a breakfast or dinner."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not exercising, so my metabolism is low."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll just bring a bunch of power bars and maybe get a meal somewhere."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll just go on a ride and see how high in the mountains I can go."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It might be raining, so I'll take a rain jacket."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm leaving at 12:35, maybe going to Esdys Park."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "This is gonna be the earliest that I've left since I started riding, so that's exciting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm done talking and gonna upload this and get going with my day."
+  }
+ ],
  "transcript": [
   {
    "start": 0.78,

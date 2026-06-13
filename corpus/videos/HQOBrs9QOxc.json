@@ -62,6 +62,104 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "WWF wrestling",
+   "claim": "WWF wrestling involves performers who pretend to fight and wrestle, with half of it being a show."
+  },
+  {
+   "subject": "WWF wrestling",
+   "claim": "Wrestlers create personas with specific wrestling and personal styles, which clash for entertainment."
+  },
+  {
+   "subject": "WWF wrestling",
+   "claim": "WWF wrestling reminds me of gladiators, but ancient gladiators likely had less creativity."
+  },
+  {
+   "subject": "history of wrestling",
+   "claim": "Wrestling started maybe 100 years ago and then grew significantly in popularity."
+  },
+  {
+   "subject": "WWF wrestling",
+   "claim": "In the past, vendors at markets would play WWF wrestling, drawing crowds of around 30 people to watch."
+  },
+  {
+   "subject": "WWF wrestling",
+   "claim": "Kids believed wrestling was real, but adults pretended it was real for entertainment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I remember watching wrestling in the 80s when I was in the back of the house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In 7th grade, my Spanish teacher encouraged me to join the wrestling team, but I declined because it wasn't like Hulk Hogan."
+  },
+  {
+   "subject": "WWF wrestling",
+   "claim": "Hulk Hogan was a top wrestler in the 80s."
+  },
+  {
+   "subject": "WWF wrestling",
+   "claim": "Wrestlers I watched included Macho Man Randy Savage, Animal, Hulk Hogan, and The Ultimate Warrior."
+  },
+  {
+   "subject": "WWF wrestling",
+   "claim": "In the 2000s, I watched wrestlers like The Rock and Triple H."
+  },
+  {
+   "subject": "WWF wrestling",
+   "claim": "Modern wrestling has shifted from gimmicky personalities to jacked athletes performing athletic maneuvers."
+  },
+  {
+   "subject": "future of wrestling",
+   "claim": "Wrestling will lose popularity and morph into other sports adopting wrestlers' business styles."
+  },
+  {
+   "subject": "future of wrestling",
+   "claim": "Athletes in other sports will adopt wrestling-style personalities and trash-talking."
+  },
+  {
+   "subject": "future of wrestling",
+   "claim": "Fighting sports may evolve into using protective suits like stormtroopers to prevent injuries."
+  },
+  {
+   "subject": "future of wrestling",
+   "claim": "People will focus on self-presentation and personal betterment rather than watching fights."
+  },
+  {
+   "subject": "wrestlers",
+   "claim": "Wrestlers are often funny, uneducated, and prone to violent behavior offstage."
+  },
+  {
+   "subject": "wrestlers",
+   "claim": "Wrestlers have hard lives due to frequent injuries and reliance on painkillers."
+  },
+  {
+   "subject": "MMA",
+   "claim": "MMA should change to reduce head injuries and allow fighters to continue after losses."
+  },
+  {
+   "subject": "MMA",
+   "claim": "MMA fighters claim to love the technical aspect but limit fights, which contradicts their stated passion."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighters should compete more frequently to provide more data for fans and improve the sport."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Head injuries in fighting sports are detrimental to memory and overall health."
+  },
+  {
+   "subject": "MMA",
+   "claim": "Fighting sports should prioritize protective gear to prevent head injuries."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I believe everyone should strive to memorize everything, which head injuries can hinder."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

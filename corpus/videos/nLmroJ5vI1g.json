@@ -55,6 +55,7 @@
   "date": "",
   "model": "anthropic/claude-sonnet-4"
  },
+ "claims": [],
  "transcript": [
   {
    "start": 0.0,

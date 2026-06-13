@@ -43,6 +43,68 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I uploaded a video to YouTube two nights ago but it was freezing during playback so I deleted it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was halfway through Irish castles in my video project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I finished the journey part of my project by Sunday night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to work on castles in India next."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to edit and verify some castle entries using Google search."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I will get help with castles in the UK and Italy."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to link the castle entries to my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might include archaeological sites in my project later."
+  },
+  {
+   "subject": "Plato",
+   "claim": "Plato is my favorite smartest guy of all time."
+  },
+  {
+   "subject": "Plato",
+   "claim": "I've been reading Plato's Dialogues, specifically about the fantasy city-state with 5,048 people and its laws."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There are over 300 castles in France, and many are located in mountainous areas."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to visit my brother soon, who recently got a house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I aim to finish the castle project by the beginning of December."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to start doing YouTube videos again around December 15th, exactly one year after I began my project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to sleep now because I have to wake up early for a picnic."
+  }
+ ],
  "transcript": [
   {
    "start": 1.55,

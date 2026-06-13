@@ -53,6 +53,104 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I spent yesterday cleaning my room and toilet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom came by and we signed up for a payment plan credit card at Home Depot."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We got a washer dryer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to get a new phone, so we went to Apple and Verizon to compare prices."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I signed up for Expedit internet service because they now serve my neighborhood and offer a gigabyte of speed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The Expedit internet installation is scheduled for Thursday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My washer dryer will be installed on Wednesday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got an iPhone 10 with 256 gigabytes of storage."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm excited to see if the iPhone 10 can handle audiobooks and my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The iPhone 10 has a video camera that might improve my YouTube videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My GoPro died and the charger fell in, so I got a new one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I fixed my DreamWeaver password issue by resetting it from my computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My internet only works well when the cable is plugged in."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm looking forward to having better internet with Expedit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I hooked up my bike with a motor that gives me 350 extra watts for 20 miles."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might be the first person to use this motor setup on a bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a bike that I can share with my girlfriend or roommate."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got a radar computer for my bike that alerts me to cars approaching."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I bought energy gels and a holder for long rides."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm excited about all the new technology I'm getting at the same time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to go on a ride today but was super tired this morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I slept a lot after a long ride and still feel tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My girlfriend broke up with me, but I got a new one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I upgraded my bike radar to a newer model with a map feature."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

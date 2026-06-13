@@ -54,6 +54,120 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "He definitely has skin cancer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has a skin cancer spot right on top of his scalp."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is going to see his doctor on Monday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His Medicaid turned on on the 11th, so luckily it happened at the right time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The skin cancer spot just popped up out of nowhere."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He squeezed the spot and it turned into a big thing with pustules."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wrote a page about the bi-weekly history test."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He will put the link to the page in the comment section for people to read."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He traced a few stairs but couldn't rotate the image he was working with."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "When he can't rotate an image, he just turns off his computer and turns it back on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His shoulders started hurting really bad, possibly due to a latent injury."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He thinks he might have twisted his shoulder kayaking a long time ago."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He tried to bench press 135 pounds without training and it caused pain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His shoulder pain is as painful as any burn when exercising."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has been feeling nerve damage in his lower and mid back."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "His couch has started to sink down, and he has to throw more pillows on it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He went to the vitamin cottage store to buy MSM and fish oil for his joints."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He spent $60 at the store and is now out of money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He needs to get on Patreon to start making money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to start exercising to avoid feeling pain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is excited about listening to the decade pages on Wikipedia."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The decade pages on Wikipedia don't have a play feature to read the text."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He might convert the decade pages into MP3 files to listen to them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He wants to start swimming because of his shoulder pain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He has a heated pool at his apartment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He is not tired at all and wasn't yelling before starting the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He might start exercising and put his work on the back burner."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes he has come far enough that even if he cuts his work down, he will still reach his destination."
+  }
+ ],
  "transcript": [
   {
    "start": 0.69,

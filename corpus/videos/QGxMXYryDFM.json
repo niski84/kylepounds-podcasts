@@ -35,6 +35,92 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Today was the day that all I did was clean and organize."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had to get caught up on cleaning and organizing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took everything off my shelves to make sure I know everything."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I put everything back and organized it straight ahead and put stuff in the garage."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to drink, so I got two eggnog drinks but spread them out so I wasn't really buzzed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wasn't hungover at all this morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I woke up at 11 AM today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working until 3 AM last night, scrubbing and cleaning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today I cleaned my deck and organized it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I also cleaned and organized my room."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I finished the day by scrubbing my bathtub and bathroom walls."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to the store to get a scrubber and other cleaning supplies."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was busy all day long organizing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow morning between 8 and 10 AM, they will deliver my new washing machine and dryer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Tomorrow morning, they are also going to install my new gigabyte."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to sleep now and let them install the machine tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't really get caught up with my own house until today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might film tomorrow since I haven't done enough filming lately."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a new tour room and need to find my GoPro for the helmet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't do anything other than ride my bike across town a couple of times today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think it's good to keep yourself fresh and light."
+  }
+ ],
  "transcript": [
   {
    "start": 0.34,

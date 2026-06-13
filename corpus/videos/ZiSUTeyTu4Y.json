@@ -42,6 +42,72 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "melatonin",
+   "claim": "I guess I'll take a melatonin because I'm not tired at all."
+  },
+  {
+   "subject": "marijuana",
+   "claim": "The batch I have right now isn't really that strong; it doesn't pack tight like the stuff I had before."
+  },
+  {
+   "subject": "marijuana",
+   "claim": "The previous batch was like powder condensed—you could squeeze it with your finger and it would pop, leaving powder behind."
+  },
+  {
+   "subject": "Regional Academy of Cattleogues",
+   "claim": "There's this thing called the Regional Academy of Cattleogues, which I pretended didn't exist in my head until recently."
+  },
+  {
+   "subject": "Regional Academy of Cattleogues",
+   "claim": "The Regional Academy of Cattleogues was active from the study of 68 to 354, and I had the last year of it through this fort."
+  },
+  {
+   "subject": "buildings",
+   "claim": "The Regional Academy of Cattleogues lists how many buildings of each kind exist in a beach region, like embolls, apartments, houses, green depots, baths, and systems."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "I needed to find a way to build a city on Google Earth that illustrates everything in detail, like a cartoon but not too tiny."
+  },
+  {
+   "subject": "houses",
+   "claim": "I designed houses based on an average nice big house plan, with all rooms divided and a traditional layout."
+  },
+  {
+   "subject": "houses",
+   "claim": "I have five meters of the house design, which I think is enough, but I can modify it for the next region."
+  },
+  {
+   "subject": "houses",
+   "claim": "I have different sizes of houses, including little houses and standard cookie-cutter houses."
+  },
+  {
+   "subject": "apartments",
+   "claim": "I was figuring out how to illustrate the exact number of apartments, which was 2200 out of 3750 needed."
+  },
+  {
+   "subject": "apartments",
+   "claim": "I decided to make 100 square foot apartments next to each other, as described on Wikipedia, where families could live."
+  },
+  {
+   "subject": "virtual reality",
+   "claim": "In 30 or 40 years, we might have virtual reality where you can recreate a room exactly, like room number 6075 in a house."
+  },
+  {
+   "subject": "visualization",
+   "claim": "I'm trying to create a way to visualize numbers and space in actual history so you can understand everything just by looking at it."
+  },
+  {
+   "subject": "apartments",
+   "claim": "I have to do about 3750 individual apartments, which is a lot of work but great for visualizing the whole city."
+  },
+  {
+   "subject": "timeline",
+   "claim": "I thought I'd be done by the end of April, but now I realize it might take longer because of all the apartments I have to do."
+  }
+ ],
  "transcript": [
   {
    "start": 1.3,

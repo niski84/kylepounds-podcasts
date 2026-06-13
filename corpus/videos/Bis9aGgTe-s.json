@@ -45,6 +45,100 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I didn't ride my bike today because I'm trying to get caught up on my life."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My goal is to not work on my bike until I get the wheels rolling."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Riding my bike is making me have a well-balanced life by forcing me to do other things."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been allowing time to get revenge on me by working all the time without much downtime."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Last night, I rode my bike twice, totaling 30 miles, as exercise."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I spent the rest of my time organizing a thousand-mile computer, which is a main task I need to catch up on."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I collect videos and photos but don't organize them, leading to a cluttered library."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I tried to sleep early last night to ride today but was too awake and body buzzing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My body tends to buzz between 12 and 6 in the morning every day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I ended up sleeping until 3 o'clock in the afternoon due to exhaustion from body buzzing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I took melatonin and might start taking sleeping pills to regulate my sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Sleeping pills make me so tired that I can sleep through the morning, which is good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I swept my house and tried to have breakfast, which took two hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had a big potato, a small bowl of macaroni and cheese, and made a bread patty with a scrambled egg inside, but didn't eat it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I opened a can of vegetables but couldn't eat it because it was too salty and tasted a bit rotten."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to go to the supermarket and buy all kinds of vegetable soups to make eating easier."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to drink really hot soups to get food down quickly without taking much time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I need to quit weed because it's affecting my lungs, especially since I started riding my bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might have exercise-induced asthma, which is worse when I'm in bed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I still need to organize files on my computer and find my video camera."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to study for my history test for two hours before taking it, possibly while riding my bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If I study sober for two hours before the test, I can make it an entertaining YouTube video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I didn't ride today but still managed to talk for eight minutes, showing I'm just trying to get caught up with life."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

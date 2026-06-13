@@ -55,6 +55,124 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I live in Boulder, Vila 7 and 9 in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't gone to sleep yet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I just had breakfast, a wrap from Whole Foods."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I love roasted seaweed, especially the sesame kind."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got two packages of roasted seaweed, but the one made for wraps isn't as good because it lacks salt."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't done a video in a week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was working on history books, including 'Decline and Fall of the Roman Empire'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have six volumes of 'Decline and Fall of the Roman Empire'."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I decided to switch to working on the US Constitution because I have so many important books to cover."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm formatting the US Constitution from the Cornell website in my own way because their version is confusing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The US Constitution project is huge, with 54 chapters, and it might take a month or more."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to also do the Colorado Constitution and the Boulder City Charter."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I see value in having many books formatted the same way for easier learning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I format books so they can be read aloud by a computer, which I think is an interesting concept."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm motivated by seeing how the final product will look, not just by money or making it for others."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The US Constitution has many subsections, which I organize with numbers and color-coding."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worry about my computer overheating due to the complexity of the tables I'm creating."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was listening to 'Origins of Totalitarianism' while working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had issues with my iPhone 10 after a software reboot and screen replacement."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I heard a woman screaming outside and thought she might have had her keys or phone stolen."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been drinking energy drinks and lost weight, now weighing 112 pounds."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought the US Constitution project would take a week, but it might take two weeks or more."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I made a mistake in pasting code and had to delete hours of work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I use a smoke stick, which I think is better for my lungs than flour."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm updating my video to talk about working on the US Constitution."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was listening to Richard Wolff and Robert Tainter, whose work I find interesting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I believe the solution to greed is to reward people for knowledge and hard work, not just money."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think the world can be fixed by redirecting energy from greed to improving the world."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm yawning a lot and think it's time to sleep."
+  }
+ ],
  "transcript": [
   {
    "start": 0.72,

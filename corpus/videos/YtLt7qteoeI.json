@@ -45,6 +45,76 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I went to my mom's house and shampooed her house and helped organize the basement."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been working on a project involving roads and images, pasting little images of roads and cutting them to the right size."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can't just cut and paste the road images because I can't move them for some reason."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've built an earth boulder but didn't have a dirt road or something you can see moving under."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to design the roads from scratch, deciding which ones to include and leave out to make it consistent with the past."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm working on a map of Rome in 2011, including old roads and a lake made for a sea battle in Amasia."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been listening to Platinum and Ash, which mentioned there were 233 apartment buildings in Region 9 of Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Region 9 is the oldest part of Rome that existed in the middle ages, north of downtown."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Region 9 has 140 houses, making it a lot less dense compared to Region 4, which was supposed to have 63,500 apartment buildings."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might focus on Region 9 and trace all the buildings there to make it consistent with historical data."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Creating a detailed map of Rome with all buildings might cause problems because the file could be too big for my computer to handle."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might partition the file or do screen captures of certain angles to manage the size."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I believe future computers will be able to handle the detailed map of Rome in Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Seeing the cartoon world of Rome in Google Earth with labeled buildings and hills will be amazing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I can finish the roads tomorrow and then start working on the buildings."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've finished tracing all of the map and now need to give the buildings proper heights and colors."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might be closer than I think to finishing the project."
+  }
+ ],
  "transcript": [
   {
    "start": 0.82,

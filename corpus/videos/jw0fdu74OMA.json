@@ -43,6 +43,116 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is currently living in Boulder."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is super high at the moment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle hasn't done a video for a few days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The last video Kyle did was about working on the ropes around the Colosseum."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle finished working on the ropes around the Colosseum."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is now working on making the Colosseum look as realistic as possible."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to see if he can outdo Google's representation of the Colosseum."
+  },
+  {
+   "subject": "Google",
+   "claim": "Google used SketchUp to create their Colosseum model, but it doesn't allow you to go inside it."
+  },
+  {
+   "subject": "Colosseum",
+   "claim": "The Colosseum has entrances on both the North and South sides at ground level."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle wants to create a screen capture video of him riding his bike into the Colosseum in ancient Rome."
+  },
+  {
+   "subject": "Colosseum",
+   "claim": "Kyle was working on the seats of the Colosseum, which go up to about 49 meters."
+  },
+  {
+   "subject": "Colosseum",
+   "claim": "The seats in the Colosseum are pretty steep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle visited the Colosseum in 1997 and walked around it for about an hour."
+  },
+  {
+   "subject": "Colosseum",
+   "claim": "Kyle remembers the Colosseum feeling like a modern-day structure when he visited in 1997."
+  },
+  {
+   "subject": "Colosseum",
+   "claim": "Kyle recalls the original stairwell going up to the Colosseum's second floor and the trenches for water on the side."
+  },
+  {
+   "subject": "Colosseum",
+   "claim": "Kyle noticed that the Colosseum was narrower than he expected."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was researching what the Emperor's box in the Colosseum looks like."
+  },
+  {
+   "subject": "Colosseum",
+   "claim": "The Colosseum has a podium that is 15 feet wide where the city officials sit."
+  },
+  {
+   "subject": "Colosseum",
+   "claim": "The Emperor's box in the Colosseum is called the 'polvita' and is higher than the podium."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle found a Roman coin that resembles the Colossus of Nero."
+  },
+  {
+   "subject": "Roman coin",
+   "claim": "The Roman coin Kyle found features Antoninus Pius, who was Emperor from 138 to 161 AD."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle received a Roman coin as a birthday gift from his mom."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to wear the Roman coin to parties as a piece of history."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle visited Rome in 1987 and read the Arch of Titus, understanding the Latin inscriptions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is going to build the area around the Colosseum and the seats next."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle did a screen capture of Google Earth to get ideas for his Colosseum model."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to thoroughly memorize the layout of the Colosseum to create an accurate model."
+  }
+ ],
  "transcript": [
   {
    "start": 2.19,

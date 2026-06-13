@@ -40,6 +40,92 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I feel like it's January 23rd, 2018, and it's 10 out of 6 in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I never went to sleep last night, but I did sleep like all day today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My mom just called me and I'm supposed to go to her house to help her organize stuff in an hour."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The last time I did a video, I was working on the Colosseum, specifically the stairs or something."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been staring at the mats for the Colosseum over the last few days because the design seems complicated."
+  },
+  {
+   "subject": "Colosseum",
+   "claim": "A lot of the models of the Colosseum that exist now are misleading and incorrect."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I downloaded a YouTube video that guides through the Colosseum scene with a video game like Warcraft."
+  },
+  {
+   "subject": "Colosseum",
+   "claim": "Nobody has written a comic model of the Colosseum, and I hope my version looks good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm building the Colosseum model using the polygon tool on Google Earth."
+  },
+  {
+   "subject": "Colosseum",
+   "claim": "The map I have now shows only the lower couple levels, and I made stairs that go to the third level."
+  },
+  {
+   "subject": "Colosseum",
+   "claim": "There are stairs that go from the third level to the third level, and I have to make stairs go all around the Colosseum."
+  },
+  {
+   "subject": "Colosseum",
+   "claim": "The Colosseum has five levels, and I have to make stairs that go from the second to the third level, and then from the third to the fourth, and so on."
+  },
+  {
+   "subject": "Colosseum",
+   "claim": "The Colosseum is 48 meters high, and when you're on the almost second level, that's only 20 meters up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to make a movie of traveling all the way up the flights of stairs and through the Colosseum."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "Google Earth made the Colosseum model incorrectly, as it doesn't show the stairs correctly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I watched a YouTube channel called Virtual Tours where a dude walks around attractions like the Colosseum."
+  },
+  {
+   "subject": "Colosseum",
+   "claim": "The way Google Earth has the Colosseum model is incorrect because it doesn't show the stairs going up higher."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I figured out how to design the Colosseum model realistically and make it easy to see how it works."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I might have to call the doctor because my scar from skin cancer acted up."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm excited to try to explain how the Colosseum was designed because it's complicated and nobody shows it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Rebuilding the Colosseum is a good mental challenge that's hard but not too hard, right at my level."
+  }
+ ],
  "transcript": [
   {
    "start": 1.46,

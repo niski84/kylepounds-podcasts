@@ -49,6 +49,132 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I usually do a video like once a week."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm kind of high right now."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been getting lots of new technology and stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I found out about streaming and got OBS (Open Broadcaster Software)."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Somebody told me about OBS right when I was streaming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got OBS where you can do all of the editing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's kind of like being a radio star, only now you're a video guy live."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I found out about the Elgato Stream Deck, which I ordered on Amazon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "On Friday is when I really get into streaming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Streaming while biking is the ultimate multitasking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to do multitasking while streaming, like working on my computer while biking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll use a small keyboard on the side of my bike to switch programs like Dreamweaver."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll have a green screen behind me while streaming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to have Zwift on one corner of the stream to show my watts, speed, and heart rate."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I can work on my website while streaming and switch to other tasks."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to get back into shape by doing different sports like rowing and triathlon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'd like to get a mountain bike, cyclocross bike, and gravel bike someday."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a road bike and an electric bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got the electric bike so my aunt can ride with me when she visits."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I set the electric bike to the same size as my road bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The electric bike has a governor limiting its speed."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I thought the electric bike wouldn't have a governor and could go 40 mph on flats."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The electric bike feels like someone is pushing you as hard as they can with each pedal stroke."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The electric bike's booklet says it maxes out at 250 watts, but the app showed 453 watts (possibly including my effort)."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm organizing my room to fit more bikes and hang stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to hook up my Garmin computer and watt pedals to my bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to figure out how to use a green screen in OBS."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to improve my website and add a blog page tracking my daily miles and activities."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to make videos of the books I listen to while biking."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I hope improving my website won't be too stressful."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll have time to rest and improve my website little by little."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

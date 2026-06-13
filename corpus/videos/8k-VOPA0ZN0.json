@@ -41,6 +41,280 @@
   "date": "2018-04-07",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I live in a Boulder Vain log."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It's 10.15 on April 7."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "She's out, 17.18 on Saturday."
+  },
+  {
+   "subject": "weather",
+   "claim": "I don't know what the weather's going to be like tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not going to do tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Actually, I do know what I'm going to do tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not going to red my bike."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Last night I got to sleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was up all night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Now I'm remembering why I've been up all night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been able to sleep because I haven't been able to breathe."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been sucking down the air in the supplementary moment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think what's going on is the general tired feeling from the exercising."
+  },
+  {
+   "subject": "asthma",
+   "claim": "Asthma is a immune system problem."
+  },
+  {
+   "subject": "immune system",
+   "claim": "The immune system goes into overdrive and puffs up the flesh around the capillaries and protects them from small constaff."
+  },
+  {
+   "subject": "immune system",
+   "claim": "It makes it so that you can still survive, but not destroy your lungs."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think you'll never get tired."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "That's when I have my immune system pumps that starts the asthma."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think it goes as tough as the stomach and lean."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Because you sleep well."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I sleep well."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had to do some work this morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I came back and I was doing some on my computer for a little bit, but then I fell asleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I jumped in bed and fell asleep."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had my sleep to catch up from last night."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up and rode for three hours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was thinking about maybe riding for four."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I figured three is enough."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I only had one, three hours right before this."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I had to ride extra slow today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today my pain and my knee got so bad that I had to actually back off from the riding."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was trying to pedal."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I hadn't been riding for very long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I naturally just gravitating to riding at 65 RPM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "That's really bad on my knees."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "You'd think now is the time to train myself to ride more like 85 RPM."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "You didn't even have my knees restilled when you were still hurting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I remember thinking, I was starting bad enough and I shouldn't ride tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to get up tomorrow and do the running in the swimming."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "For like two days."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Then come back and see how my knees do."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My knee was doing okay."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today, after I relaxed and was spinning more, it wasn't really hurting."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It only hurts when I hammer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I noticed that yesterday, it grew through."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Who would've been paying an relation now on and riding."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "As long as I keep it like 100, 100 watts, I'm fine."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "200 watts, my knees are killing me."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "150 watts today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "What have been way too much?"
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Time to do that."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm looking forward for that."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was kind of afraid to swim before, because I was so I should."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Who would've been able to pull with my mom like last month and two months ago or whatever?"
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't need to do as many laps as I could."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Because I can't cross."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was up breath."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "But it was really fun."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going to do that tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "It'll be my first time actually swimming more than a couple of likes with your funds and stay in bed at underwater earphones."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm still listening to music."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Maybe in a few weeks, he feels like I'm starting to argue."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm starting to argue about the time I was starting to do more fit."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to Mara, I think I'd like to do my history test."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to clean up my room first."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I still need to find stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Okay, so that's enough talking for today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "For 20."
+  }
+ ],
  "transcript": [
   {
    "start": 0.0,

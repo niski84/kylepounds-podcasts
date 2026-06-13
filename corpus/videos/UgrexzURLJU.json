@@ -44,6 +44,84 @@
   "date": "2018-03-28",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Colonialism hat",
+   "claim": "The Colonialism hat is from a show where people in Rome who go and live in the colonies wear these hats."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Last night, Kyle felt really tired and distracted because he had some of the old stuff he loves."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle slept in today but it wasn't that late."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went to the store and got a bunch of power bars for a long ride."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle made a bunch of key copies because he needed more keys."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle rode for 40 minutes but got exhausted, dropping down to 110 watts and barely able to focus."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle took a nap after riding and then worked for two hours, averaging 150 watts and 17 miles an hour."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle did a weekly history test video today but had issues saving it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was high while doing the history test video and kept forgetting what decades he was covering."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't study for the history test, which made his memory of the history not good."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to study for the next history test by scanning the timeline and taking the test right after to improve performance."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle believes getting your ass kicked is valuable because it encourages people to fail and learn."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle thinks making yourself look stupid can be a way to get others on board, but it didn't work for him."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to use a video camera for the next history test to prove he's not making up the combo to look smart."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle checks the weather and decides it's too cold to ride tomorrow because he's just starting out and needs to be easy on himself."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's rule is to ride for one or two hours, no more."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to ride now because he had a nap and can sleep in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is going to listen to music and smoke to distract himself from his thoughts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle mentions he did two rides but might load the next one tomorrow if he hasn't already."
+  }
+ ],
  "transcript": [
   {
    "start": 0.4,

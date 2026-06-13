@@ -53,6 +53,88 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I have been working on my website, dividing up levels from different categories and businesses with data from England and America."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I couldn't find enough data from Canada and Australia for my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My computer overheats when processing large amounts of data for my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been converting miles and hours to farmers and hours, which is super tedious."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I am meticulous about consistency in my website to ensure information is displayed uniformly across all pages."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Making changes to the design of my website is easier with CSS, but some elements require individual adjustments."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to be decisive at the beginning of my work to minimize the need for redoing tasks later."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I made progress on my website, but some tasks, like adjusting spacing in titles, took a lot of time due to my slow computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My website is pushing my computer to its limits with the amount of data it processes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I believe the future of web design will involve faster computers that can handle large pages effortlessly, possibly even allowing voice commands for content creation."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In the future, building large websites like mine could take just a day with advanced computer technology."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think personal websites will become more popular as technology makes them easier to create and maintain."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Scrolling is an underutilized feature in web design that should be used more, especially for large pages like books."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The 'Control F' function is an amazing tool for navigating large pages and finding specific content quickly."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I am collecting books and organizing them by decades, starting from the 20th century and moving backward."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Reading about historical events often leads me to interesting discoveries and Wikipedia rabbit holes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to implement a grading system for the content on my website, but it will take time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I believe that in the future, websites like Wikipedia will be commonplace as more people contribute information online."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today, I plan to continue working on my website, focusing on making all the data consistent."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have figured out the math for converting units on my website, which is simple division."
+  }
+ ],
  "transcript": [
   {
    "start": 0.88,

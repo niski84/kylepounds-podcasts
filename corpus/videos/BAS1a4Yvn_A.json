@@ -45,6 +45,112 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Colosseum",
+   "claim": "I was looking at the model of the Colosseum to picture in my head where the stairs were and what I'm going to make them look like."
+  },
+  {
+   "subject": "Colosseum",
+   "claim": "The stairs up above still exist, I could see them in the middle of the stairs."
+  },
+  {
+   "subject": "Colosseum",
+   "claim": "I traced these stairs to get to the second level to be from two A."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "All of these red Xs began to appear all over Google Earth where I was working so I couldn't do my work because they're solid red Xs."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "The red Xs happen when my internet gets really bad, it's the way that this map works on Google Earth."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "This map is so big, it's a map of the entire city that you can't edit at all and it's connected to the internet."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "I restarted my computer and opened Google Earth to see if that would help, but it didn't."
+  },
+  {
+   "subject": "computer",
+   "claim": "I thought maybe I should reinstall the program."
+  },
+  {
+   "subject": "website",
+   "claim": "I thought about other things I could be doing on my website, like the bi-weekly history test page."
+  },
+  {
+   "subject": "computer",
+   "claim": "I tried to fix it by getting the operating system update on my computer because I hadn't been getting that for a while."
+  },
+  {
+   "subject": "computer",
+   "claim": "I reset the password to get the operating system update."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "After the update, Google Earth was working again."
+  },
+  {
+   "subject": "website",
+   "claim": "I made the numbers to decades and years chart and made the different tests for the history test."
+  },
+  {
+   "subject": "Wikipedia",
+   "claim": "I decided to have the test questions from Wikipedia."
+  },
+  {
+   "subject": "website",
+   "claim": "I initially tried to copy what the computer put on my website where you mouse over it and it just appears right there, but it didn't work after I put all the breaks in."
+  },
+  {
+   "subject": "Wikipedia",
+   "claim": "I decided it was better to just link it to Wikipedia because Wikipedia is always changing."
+  },
+  {
+   "subject": "website",
+   "claim": "I'm in the process of linking all of the years and decades that it tested to my page to the chart."
+  },
+  {
+   "subject": "website",
+   "claim": "I'm going to write a little intro page to the history test."
+  },
+  {
+   "subject": "history test",
+   "claim": "Taking the test will be embarrassing probably because I'm not that good in history."
+  },
+  {
+   "subject": "history test",
+   "claim": "The test will motivate me to get better at history."
+  },
+  {
+   "subject": "sleep",
+   "claim": "I didn't get to sleep last night, I stayed up until like 4:30."
+  },
+  {
+   "subject": "mom",
+   "claim": "I had to pick up my mom from surgery where she had needles stuck in her neck to help with finger pain."
+  },
+  {
+   "subject": "history test",
+   "claim": "The test takes an hour, no matter how many questions there are, you spend a minute on each one."
+  },
+  {
+   "subject": "history test",
+   "claim": "It takes an hour for the test, another half hour to grade it."
+  },
+  {
+   "subject": "doctor",
+   "claim": "I have a doctor's appointment on Monday because there's a lump that looks like when it was cancer."
+  },
+  {
+   "subject": "lump",
+   "claim": "The lump is sore and looks just like when it was cancer."
+  }
+ ],
  "transcript": [
   {
    "start": 1.46,

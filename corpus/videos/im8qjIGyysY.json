@@ -51,6 +51,88 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Dark Matter",
+   "claim": "Dark Matter is the matter that we cannot see, unlike Light Matter which is visible when illuminated by light."
+  },
+  {
+   "subject": "Dark Matter",
+   "claim": "The existence of Dark Matter is inferred from the gravitational effects observed in the formation and rotation of galaxies."
+  },
+  {
+   "subject": "Dark Matter",
+   "claim": "Only about 5% of the matter in galaxies is visible, while the remaining 95% is Dark Matter."
+  },
+  {
+   "subject": "Dark Matter",
+   "claim": "Without Dark Matter, galaxies would not maintain their structure and would collapse or spiral out of control."
+  },
+  {
+   "subject": "Dark Matter",
+   "claim": "Dark Matter might be composed of higher dimensions, spirits, or even black holes."
+  },
+  {
+   "subject": "soul",
+   "claim": "When a person dies, their body loses seven grams of weight, which might be the soul leaving the body."
+  },
+  {
+   "subject": "moon",
+   "claim": "The moon always faces the sun on one side, which is an interesting and unique characteristic in the solar system."
+  },
+  {
+   "subject": "Mars' moon",
+   "claim": "Mars' moon, Phobos, is very close to Mars and is only about 10 miles across, resembling an asteroid."
+  },
+  {
+   "subject": "Phobos",
+   "claim": "There is a visible fire or bright spot on Phobos, which can be seen in photos on Wikipedia."
+  },
+  {
+   "subject": "space travel",
+   "claim": "Traveling to the closest star, which is 4.5 light years away, would require a spaceship with thick iron shielding to protect against collisions."
+  },
+  {
+   "subject": "space travel",
+   "claim": "A spaceship traveling to another star would need continuous propulsion for acceleration and deceleration, taking years to complete the journey."
+  },
+  {
+   "subject": "space travel",
+   "claim": "Traveling at near-light speeds increases the risk of collisions with small objects, which could destroy the spaceship."
+  },
+  {
+   "subject": "space travel",
+   "claim": "Interstellar travel would be similar to canoeing across the Atlantic Ocean in terms of difficulty and risk."
+  },
+  {
+   "subject": "time dilation",
+   "claim": "Traveling to another star and back would result in time dilation, making the travelers younger than those who stayed behind."
+  },
+  {
+   "subject": "telescopes",
+   "claim": "Advanced telescopes could potentially capture detailed images of planets and civilizations around other stars, even if they are thousands of light years away."
+  },
+  {
+   "subject": "light travel time",
+   "claim": "The light we see from stars and galaxies is from the past, meaning we are observing them as they were thousands or millions of years ago."
+  },
+  {
+   "subject": "aliens",
+   "claim": "An alien species a million light years away would see Earth as it was a million years ago, with no evidence of human civilization."
+  },
+  {
+   "subject": "aliens",
+   "claim": "Advanced civilizations might be observing us, but due to light travel time, they would not see our present state."
+  },
+  {
+   "subject": "solar system",
+   "claim": "The solar system is full of interesting phenomena, such as the moon's rotation and the proximity of Mars' moon Phobos."
+  },
+  {
+   "subject": "space exploration",
+   "claim": "Building a moon base could serve as a stepping stone for easier travel around the solar system."
+  }
+ ],
  "transcript": [
   {
    "start": 0.34,

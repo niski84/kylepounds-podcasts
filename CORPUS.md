@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-1043 videos with transcripts. Source of truth for transcripts + enrichments.
+1047 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -854,6 +854,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Cloud Atlas movie review - Request](corpus/videos/LMN-OgX8Ubc.json) | — |  |
 | — | [living in Boulder Vlog 9 - 20 - 2013](corpus/videos/LuJ-ZPUodvs.json) | — |  |
 | — | [If I could travel to the future would I + Theory of Relativity - Reque](corpus/videos/Md5kmCVv2EU.json) | — |  |
+| — | [ADHD (Attention Deficit Hyperactivity Disorder) - Request](corpus/videos/Mq1uEmdT7WQ.json) | — |  |
 | — | [The future of education 15 - 45 years - Request](corpus/videos/Mt6c_kFGWac.json) | — |  |
 | — | [How Has Legalizaation changed my life   Request](corpus/videos/N5-uu3-PneU.json) | kyle | Kyle, filming while very high, responds to a viewer request about cannabis legalization in his area. He covers his exper |
 | — | [How my van is organized for weekend trips](corpus/videos/NDJfAtz_52c.json) | — |  |
@@ -872,6 +873,8 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What I think about Tea - Request](corpus/videos/PsK0-HImxIU.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 20 - 2013](corpus/videos/Q1li-2QB4q8.json) | — |  |
 | — | [My favorite types of Cheese - Request](corpus/videos/Q2mjkk42rCw.json) | kyle | Kyle responds to a viewer request about his favorite cheeses and thoughts on cheese in general. He shares preferences fo |
+| — | [Standing Dumbbell Curls   25 lbs PR 55X](corpus/videos/RGkrAkR4Xw4.json) | — |  |
+| — | [1 KM Roller 1stX PR 1:50 Youtube record! (right?)](corpus/videos/RYvVrVyAhJI.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 10 - 2013](corpus/videos/Rj9BW6IaMOY.json) | — |  |
 | — | [Why we need cities - Request](corpus/videos/RqAlhPqPtro.json) | — |  |
 | — | [Soul, Rebirth & Higher Self - Request](corpus/videos/S5a3mVxSUaw.json) | — |  |
@@ -1013,6 +1016,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Airplanes - Request](corpus/videos/t7uiKKw4lyI.json) | — |  |
 | — | [The State of the Union - Request](corpus/videos/tPsCRw8y3QQ.json) | — |  |
 | — | [Living in Boulder Vlog 11 - 7 - 2013](corpus/videos/tsWrW48PFbI.json) | — |  |
+| — | [Dumbbell Presses 25lbs PR 140X](corpus/videos/u2tWWXI-7d4.json) | — |  |
 | — | [Favourite Types of Candy - Request](corpus/videos/u3P8zGMSkRQ.json) | — |  |
 | — | [Favourite Game Shows - Request](corpus/videos/uTomsrZSpWM.json) | — |  |
 | — | [Greyhound Bus Line & Buses - Request](corpus/videos/uVQDKpkZB_w.json) | kyle | Kyle responds to a request about Greyhound buses, sharing his personal experience riding one back from a cross-country b |

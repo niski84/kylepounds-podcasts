@@ -5,6 +5,120 @@
  "published_at": "",
  "channel": "Kyle Pounds (main)",
  "enrichment": null,
+ "claims": [
+  {
+   "subject": "electrons",
+   "claim": "You would initially think electrons are the same as photons because electrons are particles."
+  },
+  {
+   "subject": "electrons",
+   "claim": "Electrons can be measured, quantified, and counted individually as they go by, according to physicists."
+  },
+  {
+   "subject": "double slit experiment",
+   "claim": "The double slit experiment is the number one most confounding, Twilight Zone-y thing ever."
+  },
+  {
+   "subject": "protons",
+   "claim": "When protons are shot through a single slit, they fill up the other side in exactly the shape of the slit, as expected."
+  },
+  {
+   "subject": "protons",
+   "claim": "When protons are shot through two slits, they produce exactly the two-band pattern you would expect on the other side."
+  },
+  {
+   "subject": "electrons",
+   "claim": "When electrons are shot through a single slit, they behave like particles just like protons and produce the expected single-band pattern."
+  },
+  {
+   "subject": "electrons",
+   "claim": "When electrons are shot through two slits one at a time, individually in single file, they produce a wave interference pattern on the other side rather than two bands."
+  },
+  {
+   "subject": "wave interference pattern",
+   "claim": "A wave interference pattern consists of a bright center line, gradually dimming toward the edges, then darkness, then another bright line, repeating — the result of waves canceling each other out."
+  },
+  {
+   "subject": "double slit experiment",
+   "claim": "It is deeply confusing how electrons fired one at a time could cancel each other out to create a wave pattern, since there is no other electron for them to bump into."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He does not know exactly how the double slit experiment was physically conducted and speculates light from a bulb might cause particles to bounce off each other on the way through."
+  },
+  {
+   "subject": "protons",
+   "claim": "Protons behave differently from electrons in the double slit experiment."
+  },
+  {
+   "subject": "electrons",
+   "claim": "The electron, unlike the proton, travels through the universe along filaments of a higher-dimensional wave pattern rather than a straight path."
+  },
+  {
+   "subject": "universe",
+   "claim": "Everything emanates giant bubbles out into eternity, and these bubbles create a giant three-dimensional filament structure in a higher dimension."
+  },
+  {
+   "subject": "electrons",
+   "claim": "An unobserved electron does not travel along its own individual path but randomly follows the general filament paths of whatever electrons travel through."
+  },
+  {
+   "subject": "double slit experiment",
+   "claim": "The wave behavior of single electrons in the double slit experiment would prove the existence of a higher-dimensional ether."
+  },
+  {
+   "subject": "double slit experiment",
+   "claim": "When scientists attached a camera to watch the trajectory of each individual electron, the electrons stopped producing a wave pattern and instead behaved as ordinary particles."
+  },
+  {
+   "subject": "electrons",
+   "claim": "When observed, an electron goes through one specific slit and lands on the other side in the expected particle location, every time."
+  },
+  {
+   "subject": "electrons",
+   "claim": "Something about the laser used to detect the electron changed the electron's own behavior."
+  },
+  {
+   "subject": "electrons",
+   "claim": "When being watched, an electron behaves as though it knows it is observed and travels as a straight particle the whole way."
+  },
+  {
+   "subject": "electrons",
+   "claim": "When not being watched, an electron randomly follows the filament matrix, zigzagging and jumping between parallel universe trajectories."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes nobody has yet explained or even seriously attempted to explain how an electron knows it is being watched."
+  },
+  {
+   "subject": "electrons",
+   "claim": "The laser beam hitting the electron should not be enough to make it become a particle, because electrons travel through space encountering all kinds of other particles all day long."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He believes that human attention — the soul — actually changes the physical universe, as evidenced by the observer effect in the double slit experiment."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He posits that when a person dies, their vibration changes and they move into a higher-frequency dimension."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "In a higher-frequency dimension after death, a consciousness would float freely through the filament matrix and be more in touch with it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "At even higher vibrational levels, a consciousness could potentially gain control not just over electrons but over the behavior of protons and neutrons as well."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He explicitly acknowledges he is not smart enough to explain how the electron knows it is being watched."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "He poses two open questions he wants viewers to answer: how electrons act as waves when fired one at a time, and how an electron knows it is being watched and why it then becomes a particle."
+  }
+ ],
  "transcript": [
   {
    "start": 0.56,

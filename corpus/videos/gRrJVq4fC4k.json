@@ -36,6 +36,100 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I went to sleep really late last night because I was making videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I got up late today as planned to sleep all day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to my mom's house and had noodle soup with squash, salad, and other stuff."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "We watched the news at my mom's house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I did my taxes at my mom's house with her help."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I finished my taxes but got stuck in the box."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to go to the post office tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was trying to make videos but my computer kept crashing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm going on a ride tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't think my subscribers have the opportunity to see the ride because my phone can't connect to my computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll bring a video camera or the GoPro soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to do a lot of things."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Some people got upset about yesterday's video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There's no other channel like mine where I vlog every day about the events of the day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Starting tomorrow, the training genre is a great way to vlog because it's about the flow of training."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If anybody else vlogged like I do, I'd watch them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Nobody else vlogs or blogs about everything they do every day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm not the kind of person who just wants to do nothing all day and train."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "If you put me on the scale of who works the most, I'd be at the top."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Yesterday I didn't feel like working, but today is the first day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm looking forward to tomorrow and will get up really early."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'll make sure to go to the stop tomorrow."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Today's vlog was kind of boring."
+  }
+ ],
  "transcript": [
   {
    "start": 0.4,

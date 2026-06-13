@@ -54,6 +54,120 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I discovered ancient Rome on Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worked late at a hotel until six or seven in the morning."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I wanted to look at SketchUp, a program I experienced in the original building."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I watched a tutorial on YouTube about SketchUp."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I saw a video on the Google YouTube channel with 5 million subscribers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The person in the video is from Boulder and was talking about Google SketchUp."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The video showed a fancy building in a drawing and the real building."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There was a mention of Rome in the video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I saw a comment I made two years ago about Google Earth Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Someone replied to my comment, telling me how to download the model of ancient Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I downloaded the model of ancient Rome from Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The model of ancient Rome had 5,000 buildings."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The buildings in the model were hovering above the ground."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The model didn't load properly on my computer."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The model didn't have details inside the buildings."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The Coliseum in the model was all white and lacked detail."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to create my own version of ancient Rome with more detail."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to make my version of ancient Rome color-coded and organized by building type."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The Google Earth model doesn't account for the contours of the land."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I find the early history of Rome more interesting than the empire period."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to recreate ancient Roman towns using data from a book about Roman land laws."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I made progress on my project, adding ropes to the Colosseum model."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The Google Earth version of the Colosseum doesn't have an awning or ropes."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I downloaded SketchUp to try it out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "SketchUp costs $700, which is too expensive for me."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think SketchUp should be cheaper to make it accessible to more people."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I listened to Aristotle's Politics while working on my project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't need anything more than what I have to continue my project."
+  }
+ ],
  "transcript": [
   {
    "start": 0.37,

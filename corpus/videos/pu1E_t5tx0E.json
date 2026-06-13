@@ -41,6 +41,72 @@
   "date": "2018-04-06",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "I rode my bike for 70 miles and got a suffer score of 161, which is extreme."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I was up all night and didn't sleep at all the night before."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I set my alarm for 5 a.m. but only slept until 3 a.m."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I went to my mom's house to do tax stuff, which took all day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I rode for three hours today, the longest I've ridden on rollers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been watching NASA videos and learning about the moon landing."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm taking baby steps in my training to keep it comfortable."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I felt stronger during my ride today."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm proud of my current state of 143 watts."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to do a 20-minute power test soon."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been listening to music while making videos at my mom's house."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I decided not to do my history tests as planned."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm recording my bike rides and watts to track progress."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm training in a way I've never tried before, focusing on consistency."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I'm excited about my current training routine because I have no distractions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I haven't been taking advantage of my time to ride, but now I can."
+  }
+ ],
  "transcript": [
   {
    "start": 1.65,

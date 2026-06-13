@@ -49,6 +49,80 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "YouTube",
+   "claim": "You can't delete videos on YouTube anymore, you can only private them."
+  },
+  {
+   "subject": "YouTube",
+   "claim": "YouTube might have deleted videos to free up gigabytes of storage, but we just don't know about it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle had to private a video because the sound was screwed up on it."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle can't remember what he said in his last video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is deciding whether to put stairs to the bottom part or the whole thing in his project."
+  },
+  {
+   "subject": "YouTube channel",
+   "claim": "There's a YouTube channel called Pro Walks that Kyle recommends checking out."
+  },
+  {
+   "subject": "Pro Walks",
+   "claim": "Pro Walks puts a GoPro on his hat and walks slowly around sparkly areas, making you feel like you're right there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle traced a Pro Walks video of Rome using Google Earth and his own model."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "Kyle's Google Earth download page includes Region three, which covers the city of Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle worked on the Colosseum in detail, including every single stair."
+  },
+  {
+   "subject": "Circus Maximus",
+   "claim": "Kyle is working on the Circus Maximus with less detail than the Colosseum."
+  },
+  {
+   "subject": "Circus Maximus",
+   "claim": "Circus Maximus is designed to work simply in the Colosseum."
+  },
+  {
+   "subject": "Circus Maximus",
+   "claim": "Circus Maximus had a capacity of 385,000 people."
+  },
+  {
+   "subject": "Circus Maximus",
+   "claim": "Circus Maximus was like an ancient indoor mall with a big racetrack in the center."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is more interested in the Circus Maximus now than the Colosseum."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's Colosseum version is better because he's right on the earth, making it more realistic."
+  },
+  {
+   "subject": "Google Earth",
+   "claim": "Kyle's Google Earth keeps crashing when he records with audio using QuickTime."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle has to save his work frequently because Google Earth keeps crashing."
+  }
+ ],
  "transcript": [
   {
    "start": 0.98,

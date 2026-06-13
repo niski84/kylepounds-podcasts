@@ -35,6 +35,132 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is sitting at 36 in the morning on December 11th."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle didn't go to sleep last night and is going to bed right after doing this video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle hasn't done a video for a couple of days because he has been busy working."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle was trying to finish up the roads in his last video."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is now working on building buildings instead of roads."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle went into Boulder to figure out how to do his buildings."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle created an imaginary Aralean Wall around Boulder, the same size as the one around Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle decided to have 40 precincts in Boulder to keep it consistent with Rome."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Rome has 14 regions."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle found that region five in Rome was too big to handle as one unit, so he decided to break it out."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle organized region five into 40 precincts across 14 regions, with six precincts per region."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle traced and completed all the buildings for the first three precincts in region five in one day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle followed the pattern of region nine for his building layout."
+  },
+  {
+   "subject": "Rome",
+   "claim": "There are 42,000 to 46,000 buildings in Silla, Rome."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle's house is in Rome in the third-century region he used."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle used Ashby's book, a Bible for Roman buildings, to estimate the number of buildings in region nine."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Region nine in Rome has 2,777 buildings in the 40th house of Silla."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Region nine is 1.70 square kilometers in size."
+  },
+  {
+   "subject": "Rome",
+   "claim": "Region five is almost as big as region nine, at 1.67 square kilometers."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle estimated that region five would have around 2,500 buildings."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle traced half of the buildings in region five in one day."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle sets buildings at 18 meters, the highest they can be."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle makes every other building 13 meters tall and colors them orange and silver."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle makes one out of every 20 buildings a house, colored red and 5 meters tall."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is pleased with the progress, as it means he can finish building by the end of the year."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle realized he needs to add more roads to his project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle finds adding roads more fun than removing them."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to finish regions five and six before moving on to the next ones."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle is excited to make videos after completing his project."
+  },
+  {
+   "subject": "Neil deGrasse Tyson",
+   "claim": "Kyle imagines a Cosmos-style show where he rides a magic carpet-like bicycle instead of a spaceship."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Kyle plans to go to sleep and think of more ideas."
+  }
+ ],
  "transcript": [
   {
    "start": 0.69,

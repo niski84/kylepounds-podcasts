@@ -50,6 +50,7 @@
   "date": "2019-05-10",
   "model": "anthropic/claude-sonnet-4"
  },
+ "claims": [],
  "transcript": [
   {
    "start": 0.21,

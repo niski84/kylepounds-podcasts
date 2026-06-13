@@ -37,6 +37,108 @@
   "date": "",
   "model": "sonnet"
  },
+ "claims": [
+  {
+   "subject": "Kyle",
+   "claim": "My computer is making a loud sound because it's trying to cool down."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a big fan under my computer that goes on all the time."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The last video I uploaded had audio issues because the microphone wasn't helping."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I don't talk very loud, but my mom always has to tell me to be quiet."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to know how to get better sound for my videos."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have a $275 microphone, but it doesn't work."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My cell phone can't transfer files to the computer, so I need a new one."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I plan to get an Apple cell phone that's compatible for recording."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I want to do fancy videos standing in front of a green screen."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I give tours of buildings and mansions on Google Earth."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "You can build mansions on Google Earth and see views from there."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I ride a bicycle at 21 miles per hour in my Google Earth tours."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I've been working on the Google Earth team world, specifically section region five."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I have to place 180 houses, 3700 apartment buildings, 75 baths, 15 shrines, and 22 grand egos in my Google Earth project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "Building all these structures takes a lot of time and effort."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "My computer started acting weird while I was working on the project."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I build systems in stages, similar to how I work on my website."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I traced out the different buildings and apartments in the system."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I color-coded the buildings, but some scattered when I tried to change their colors."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I saved my file and restarted the computer when it started acting weird."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I need to finish section five to have a better understanding of what to do next."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I think I'll be done with the building project by the end of winter."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "I worry about the project more than I should."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "There are different ways to model buildings on Google Earth, but my method allows for ground-level exploration."
+  },
+  {
+   "subject": "Kyle",
+   "claim": "The realm I'm creating on Google Earth is close enough to the actual realm for practical understanding."
+  }
+ ],
  "transcript": [
   {
    "start": 0.75,
