@@ -1,0 +1,376 @@
+{
+ "youtube_id": "clLWHSsyWh8",
+ "title": "2/19/19 Roman Roads Polyglon Day 3",
+ "url": "https://youtu.be/clLWHSsyWh8",
+ "published_at": "2019-02-19",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 1.01,
+   "end": 5.89,
+   "text": "Hello, living in Boulder V-Log for February 19th of 2019."
+  },
+  {
+   "start": 7.97,
+   "end": 18.67,
+   "text": "It is 7.06 in the morning, and I'm here working on my Google Earthing of Rome."
+  },
+  {
+   "start": 18.79,
+   "end": 19.25,
+   "text": "Check it."
+  },
+  {
+   "start": 21.76,
+   "end": 22.84,
+   "text": "Those are the sections."
+  },
+  {
+   "start": 29.98,
+   "end": 33.78,
+   "text": "So this is day three of the roads."
+  },
+  {
+   "start": 35.34,
+   "end": 36.98,
+   "text": "So I think I'll be done today."
+  },
+  {
+   "start": 37.18,
+   "end": 41.98,
+   "text": "I've just been spending the last few days tracing all of the roads."
+  },
+  {
+   "start": 42.06,
+   "end": 47.74,
+   "text": "I already built the roads of Rome, tracing off of the map, and then trying to make a balance"
+  },
+  {
+   "start": 47.74,
+   "end": 52.7,
+   "text": "Between this map that this guy in the 1700s made, an Italian architect, recreating Rome"
+  },
+  {
+   "start": 52.7,
+   "end": 59.96,
+   "text": "From the Tabla Severiana, the map of Rome from the year 200, which they found 10% of, and"
+  },
+  {
+   "start": 59.96,
+   "end": 61.74,
+   "text": "Then this other guy reconstructed the rest of it."
+  },
+  {
+   "start": 63.36,
+   "end": 66.38,
+   "text": "And it's kind of different from what, you know, Rome Reborn."
+  },
+  {
+   "start": 66.52,
+   "end": 69.52,
+   "text": "It doesn't include the Julia, Curia Julia for some reason."
+  },
+  {
+   "start": 70.04,
+   "end": 72.48,
+   "text": "So then I went, I'm going to create a whole bunch of them in the other parts."
+  },
+  {
+   "start": 72.64,
+   "end": 74.38,
+   "text": "That's the Vico Magistrate building."
+  },
+  {
+   "start": 74.38,
+   "end": 80.94,
+   "text": "But, um, I, uh, so it was a lot of work just tracing all those roads."
+  },
+  {
+   "start": 81.22,
+   "end": 85.74,
+   "text": "Um, I don't remember how long it took me to make those roads before, but it took me a"
+  },
+  {
+   "start": 85.74,
+   "end": 93.08,
+   "text": "Lot longer the other way where I pasted the images on, um, of the, of the roads with the"
+  },
+  {
+   "start": 93.08,
+   "end": 93.72,
+   "text": "Cobblestones."
+  },
+  {
+   "start": 93.72,
+   "end": 100.24,
+   "text": "Um, but I can't use that for, that, that's only functional for when you're doing screen"
+  },
+  {
+   "start": 100.24,
+   "end": 104.6,
+   "text": "Capturing on ground level to show the ground going by, but you can't use it as a map of"
+  },
+  {
+   "start": 104.6,
+   "end": 106.02,
+   "text": "The roads because it's too heavy."
+  },
+  {
+   "start": 106.22,
+   "end": 107.7,
+   "text": "It slows the program down too much."
+  },
+  {
+   "start": 108.58,
+   "end": 111.2,
+   "text": "So, um, I'm tracing it with the Polygon tool."
+  },
+  {
+   "start": 111.36,
+   "end": 114.68,
+   "text": "And, um, also you can locate the roads that way, you know, for some reason, when you click"
+  },
+  {
+   "start": 114.68,
+   "end": 116.9,
+   "text": "On the images, it doesn't take you to the image on the left side."
+  },
+  {
+   "start": 116.9,
+   "end": 126.6,
+   "text": "Um, so, um, yeah, I'm, I'm almost done though, tracing all of the roads from the, uh, from"
+  },
+  {
+   "start": 126.6,
+   "end": 127.22,
+   "text": "The images."
+  },
+  {
+   "start": 128.02,
+   "end": 133.18,
+   "text": "So once I'm done with that, I can then, well, in fact, I'm not even, I'm skipping ahead."
+  },
+  {
+   "start": 133.28,
+   "end": 138.92,
+   "text": "I'm, I, uh, I just, I'm going to drag and drop all of the roads into their proper, um,"
+  },
+  {
+   "start": 139.78,
+   "end": 141.56,
+   "text": "Their proper regions now."
+  },
+  {
+   "start": 141.56,
+   "end": 143.54,
+   "text": "And then I'm going to finish tracing the roads."
+  },
+  {
+   "start": 143.54,
+   "end": 149.52,
+   "text": "Um, and then, um, I'm going to try to find a balance, like just like before, how I tried"
+  },
+  {
+   "start": 149.52,
+   "end": 154.72,
+   "text": "To find a balance between the map that this guy wrote of ancient Rome and current Rome."
+  },
+  {
+   "start": 155.2,
+   "end": 162.76,
+   "text": "Cause I want to make it so that if you study Rome on Google earth, you can then recreate"
+  },
+  {
+   "start": 162.76,
+   "end": 164.92,
+   "text": "That same Rome in real Rome."
+  },
+  {
+   "start": 164.92,
+   "end": 168.16,
+   "text": "If you're riding your bike around Rome, cause it's the same road."
+  },
+  {
+   "start": 168.16,
+   "end": 169.52,
+   "text": "So I want the roads to be the same."
+  },
+  {
+   "start": 169.52,
+   "end": 176.24,
+   "text": "Um, but I also want to, uh, make a connection between how many roads there are now and how"
+  },
+  {
+   "start": 176.24,
+   "end": 182.2,
+   "text": "Many roads there were in the, uh, in the, uh, chronography book, because they said exactly"
+  },
+  {
+   "start": 182.2,
+   "end": 183.32,
+   "text": "How many roads there were."
+  },
+  {
+   "start": 183.66,
+   "end": 188.74,
+   "text": "Um, so, uh, yeah, I want to try to make like sister roads, you know, like this is the road,"
+  },
+  {
+   "start": 188.82,
+   "end": 192.24,
+   "text": "This is road number one through 28 or whatever, you know?"
+  },
+  {
+   "start": 192.24,
+   "end": 196.8,
+   "text": "And so this, and then maybe kind of have a different color for the other roads."
+  },
+  {
+   "start": 196.8,
+   "end": 198.42,
+   "text": "Like Rome Reborn does that."
+  },
+  {
+   "start": 198.54,
+   "end": 199.86,
+   "text": "They have brown roads and black roads."
+  },
+  {
+   "start": 199.96,
+   "end": 201.18,
+   "text": "Black means like path."
+  },
+  {
+   "start": 202.22,
+   "end": 207.9,
+   "text": "So, um, yeah, just to make it as close to the chronography as I can, make it a balance"
+  },
+  {
+   "start": 207.9,
+   "end": 214.66,
+   "text": "As close to everything as I can, you know, moving around the actual city, the chronography,"
+  },
+  {
+   "start": 214.84,
+   "end": 215.72,
+   "text": "How it really looked."
+  },
+  {
+   "start": 215.72,
+   "end": 223.88,
+   "text": "Um, so, yeah, but this part is super exciting what I'm doing now, because, um, you know,"
+  },
+  {
+   "start": 223.88,
+   "end": 227.4,
+   "text": "When you have the roads up, it really helps you understand what the actual city looks like,"
+  },
+  {
+   "start": 227.4,
+   "end": 228.94,
+   "text": "You know, and to remember where everything is."
+  },
+  {
+   "start": 228.94,
+   "end": 233.22,
+   "text": "So, um, but it's also, you know, pretty to look at."
+  },
+  {
+   "start": 233.36,
+   "end": 240.04,
+   "text": "So, um, and I can take it to the next level."
+  },
+  {
+   "start": 240.04,
+   "end": 245.9,
+   "text": "You know, I can put these, these roads in with all the other, uh, regions that I finished"
+  },
+  {
+   "start": 245.9,
+   "end": 252.2,
+   "text": "And, um, um, let's see how close I am to finishing the whole thing."
+  },
+  {
+   "start": 252.54,
+   "end": 256.62,
+   "text": "Uh, yeah, I was figuring, uh, another, what day is it today?"
+  },
+  {
+   "start": 256.74,
+   "end": 257.58,
+   "text": "The 19th."
+  },
+  {
+   "start": 258.14,
+   "end": 263.36,
+   "text": "So, yeah, I figured 421, the birthday of Rome."
+  },
+  {
+   "start": 263.48,
+   "end": 267.04,
+   "text": "So another two months I can, I can power on this and I'm feeling good, man."
+  },
+  {
+   "start": 267.04,
+   "end": 272.58,
+   "text": "When I pop this out with the movies, it's going to be, it's going to be fascinating."
+  },
+  {
+   "start": 273.56,
+   "end": 273.88,
+   "text": "Okay."
+  },
+  {
+   "start": 273.98,
+   "end": 277.6,
+   "text": "So, yeah, I'm diurnalized getting up right at the crack of dawn."
+  },
+  {
+   "start": 277.66,
+   "end": 278.08,
+   "text": "It's awesome."
+  },
+  {
+   "start": 278.38,
+   "end": 279.12,
+   "text": "I've been working."
+  },
+  {
+   "start": 279.22,
+   "end": 281.62,
+   "text": "I did get up like an hour ago or a couple hours ago."
+  },
+  {
+   "start": 281.74,
+   "end": 287.38,
+   "text": "It was a little bit before and I've been, I've been setting this up, but, uh, yeah, I"
+  },
+  {
+   "start": 287.38,
+   "end": 290.92,
+   "text": "Love it when it gets to like nine or 10 at night, I turn into a pumpkin and fall asleep"
+  },
+  {
+   "start": 290.92,
+   "end": 291.68,
+   "text": "Like everybody else."
+  },
+  {
+   "start": 292.42,
+   "end": 294.0,
+   "text": "Uh, we'll see how long this goes on for."
+  },
+  {
+   "start": 294.58,
+   "end": 294.94,
+   "text": "Okay."
+  },
+  {
+   "start": 295.04,
+   "end": 295.28,
+   "text": "Later."
+  }
+ ]
+}

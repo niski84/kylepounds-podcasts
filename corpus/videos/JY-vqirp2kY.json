@@ -1,0 +1,476 @@
+{
+ "youtube_id": "JY-vqirp2kY",
+ "title": "2/17/19 Google Earthing Roman Roads with Polyglon Tool",
+ "url": "https://youtu.be/JY-vqirp2kY",
+ "published_at": "2019-02-17",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 1.33,
+   "end": 9.09,
+   "text": "Hello, February 17th, living in Boulder Vlog at 10, 18 in the morning."
+  },
+  {
+   "start": 10.25,
+   "end": 19.15,
+   "text": "I got up at, oh, I don't, I forgot to look what time exactly I got up."
+  },
+  {
+   "start": 21.23,
+   "end": 24.83,
+   "text": "I got up, I think it was maybe an hour before sunrise or something."
+  },
+  {
+   "start": 24.83,
+   "end": 33.45,
+   "text": "Um, I was, uh, got up like two yesterday and then I was working and then at six went over"
+  },
+  {
+   "start": 33.45,
+   "end": 39.47,
+   "text": "To my mom's house and had dinner with my mom and my brothers, um, and then came back here"
+  },
+  {
+   "start": 39.47,
+   "end": 45.01,
+   "text": "And, uh, watched dances with the wolves with my fiancee, maybe the first half of it."
+  },
+  {
+   "start": 45.03,
+   "end": 47.61,
+   "text": "And then I just got too tired and maybe that's when I went to sleep."
+  },
+  {
+   "start": 47.67,
+   "end": 48.81,
+   "text": "Maybe it was like 11 or something."
+  },
+  {
+   "start": 48.81,
+   "end": 54.37,
+   "text": "Um, so, um, yeah, um, so I'm diurnalized now."
+  },
+  {
+   "start": 55.17,
+   "end": 66.19,
+   "text": "Uh, so today I, uh, I finished putting all of the houses, pasting the images of the houses"
+  },
+  {
+   "start": 66.19,
+   "end": 72.79,
+   "text": "That I need 140 of them on region nine circus Flaminius for rum, Google earthing."
+  },
+  {
+   "start": 72.79,
+   "end": 76.99,
+   "text": "And, um, but it was working too slowly."
+  },
+  {
+   "start": 76.99,
+   "end": 82.77,
+   "text": "And then I started to putting, um, apartments and, uh, figuring out what I was going to do"
+  },
+  {
+   "start": 82.77,
+   "end": 83.31,
+   "text": "About apartments."
+  },
+  {
+   "start": 83.31,
+   "end": 92.37,
+   "text": "So I, uh, to find out what I want my apartments to look like, my, uh, insula, uh, I looked at"
+  },
+  {
+   "start": 92.37,
+   "end": 96.07,
+   "text": "The map that I have and I traced the one I actually, I showed it yesterday."
+  },
+  {
+   "start": 96.57,
+   "end": 100.33,
+   "text": "I'll look at me into it, but then there's, but then I was like thinking to myself, well,"
+  },
+  {
+   "start": 100.33,
+   "end": 102.61,
+   "text": "I would want more, you know, not just that one."
+  },
+  {
+   "start": 103.21,
+   "end": 108.53,
+   "text": "So I decided to use the, uh, Ludo Grande, the apartments that the gladiators lived in"
+  },
+  {
+   "start": 108.53,
+   "end": 109.65,
+   "text": "Next to the Colosseum."
+  },
+  {
+   "start": 109.99,
+   "end": 116.15,
+   "text": "And in the middle where instead of put their, put a stadium, like what they had, put a,"
+  },
+  {
+   "start": 116.15,
+   "end": 125.33,
+   "text": "Um, put a, um, uh, like a bath, you know, and, and a temple or something or bath and a"
+  },
+  {
+   "start": 125.33,
+   "end": 125.71,
+   "text": "Granary."
+  },
+  {
+   "start": 125.71,
+   "end": 133.29,
+   "text": "So, um, and then there was another apartment that I lifted from the other side, trans-temporary"
+  },
+  {
+   "start": 133.29,
+   "end": 133.91,
+   "text": "Room that I'll have."
+  },
+  {
+   "start": 134.03,
+   "end": 141.01,
+   "text": "So, uh, so I put those, uh, and then I put some, uh, temples in and then, uh, um, oh yeah."
+  },
+  {
+   "start": 141.01,
+   "end": 146.79,
+   "text": "And then I put some bath houses in, um, and then, but it was working really slowly."
+  },
+  {
+   "start": 146.79,
+   "end": 152.51,
+   "text": "So I need to, uh, it was because my roads are too slow because I have all my roads in"
+  },
+  {
+   "start": 152.51,
+   "end": 159.65,
+   "text": "Rome are images because I want to do a tour of Rome when I'm done with it, uh, ground level"
+  },
+  {
+   "start": 159.65,
+   "end": 162.73,
+   "text": "All over Rome as though you're on ground level, a person."
+  },
+  {
+   "start": 163.67,
+   "end": 170.23,
+   "text": "And the best way to have that is if, uh, you have tiles on the roads cause you can see the"
+  },
+  {
+   "start": 170.23,
+   "end": 171.79,
+   "text": "Tiles passing below you."
+  },
+  {
+   "start": 172.55,
+   "end": 178.07,
+   "text": "And, uh, you know, if it's just a, uh, polyglon color, then you can't see the ground moving"
+  },
+  {
+   "start": 178.07,
+   "end": 178.53,
+   "text": "Below you."
+  },
+  {
+   "start": 178.59,
+   "end": 182.69,
+   "text": "All you, the only movement, you know, that your way that you know you're moving is from"
+  },
+  {
+   "start": 182.69,
+   "end": 188.19,
+   "text": "The buildings moving past you, but that's not, it takes it out of, it takes you out of"
+  },
+  {
+   "start": 188.19,
+   "end": 190.97,
+   "text": "It more if you can't see the ground moving that you're on."
+  },
+  {
+   "start": 191.13,
+   "end": 193.47,
+   "text": "So that's why it was worth it to me."
+  },
+  {
+   "start": 193.53,
+   "end": 195.37,
+   "text": "But the problem is it makes it way too heavy."
+  },
+  {
+   "start": 195.37,
+   "end": 205.81,
+   "text": "So if I'm going to make videos, I'm going to have to like either borrow a faster computer,"
+  },
+  {
+   "start": 206.11,
+   "end": 212.41,
+   "text": "Get a faster computer or do the tours with just the roads with, with that, just the polygon,"
+  },
+  {
+   "start": 212.63,
+   "end": 216.05,
+   "text": "Not the image, but where I could do with the image and just in sections."
+  },
+  {
+   "start": 216.05,
+   "end": 220.21,
+   "text": "But the problem is if I don't have other buildings, you can't see me in the background, but I guess"
+  },
+  {
+   "start": 220.21,
+   "end": 224.19,
+   "text": "I could just paste the specific ones in the background, you know, just piecemeal, make"
+  },
+  {
+   "start": 224.19,
+   "end": 225.17,
+   "text": "It work with the movie."
+  },
+  {
+   "start": 225.99,
+   "end": 232.39,
+   "text": "So, um, so yeah, so now I'm tracing all of the roads, but I'm also labeling them."
+  },
+  {
+   "start": 232.49,
+   "end": 234.13,
+   "text": "I'm making an index of the road too."
+  },
+  {
+   "start": 234.23,
+   "end": 236.87,
+   "text": "So you just click on it and you know what road it is."
+  },
+  {
+   "start": 236.87,
+   "end": 243.05,
+   "text": "And then you can click on and off and you can see the road, uh, and have it in a background"
+  },
+  {
+   "start": 243.05,
+   "end": 243.51,
+   "text": "Of white."
+  },
+  {
+   "start": 243.51,
+   "end": 245.49,
+   "text": "So you can actually see the whole grid of the city."
+  },
+  {
+   "start": 245.57,
+   "end": 246.65,
+   "text": "And so that'd be cool."
+  },
+  {
+   "start": 247.53,
+   "end": 249.63,
+   "text": "Um, so yeah, I just started that a little bit ago."
+  },
+  {
+   "start": 249.73,
+   "end": 250.57,
+   "text": "I'll trace all those."
+  },
+  {
+   "start": 250.65,
+   "end": 254.17,
+   "text": "Hopefully I'll be done with that before too long, you know, hopefully today."
+  },
+  {
+   "start": 254.17,
+   "end": 259.31,
+   "text": "And then I can go and, um, yeah, cause I finished, you know, the houses."
+  },
+  {
+   "start": 259.31,
+   "end": 260.67,
+   "text": "So I'll just zoom through it."
+  },
+  {
+   "start": 260.67,
+   "end": 264.85,
+   "text": "I'll finish, try to finish, you know, in one day, finish all the other buildings."
+  },
+  {
+   "start": 265.67,
+   "end": 268.43,
+   "text": "Um, oh, I decided what I was going to do about Vico magistrates."
+  },
+  {
+   "start": 268.55,
+   "end": 269.45,
+   "text": "There are these other building."
+  },
+  {
+   "start": 269.53,
+   "end": 270.67,
+   "text": "It says Vico magistrate."
+  },
+  {
+   "start": 270.75,
+   "end": 271.51,
+   "text": "And I'm, what is that?"
+  },
+  {
+   "start": 271.55,
+   "end": 274.39,
+   "text": "Is that a building or is that just where the guy lives?"
+  },
+  {
+   "start": 274.41,
+   "end": 278.27,
+   "text": "And so I decided in the end, I'm just going to, cause Vico, baby."
+  },
+  {
+   "start": 280.69,
+   "end": 283.11,
+   "text": "Vico means neighborhood and magistrate be magistrate."
+  },
+  {
+   "start": 283.19,
+   "end": 284.11,
+   "text": "So neighbor magistrate."
+  },
+  {
+   "start": 284.11,
+   "end": 290.09,
+   "text": "So I'm thinking, okay, I'll put a, uh, I'll just put a duplicate of the Julia Su's,"
+  },
+  {
+   "start": 290.09,
+   "end": 296.09,
+   "text": "Uh, the, uh, the Julia temple of Julia, the Senate building."
+  },
+  {
+   "start": 297.13,
+   "end": 302.01,
+   "text": "And, uh, uh, I don't know how many people it holds, but it shows exactly like 300 people."
+  },
+  {
+   "start": 302.77,
+   "end": 307.29,
+   "text": "And I'll put that, uh, as a replacement for that."
+  },
+  {
+   "start": 307.29,
+   "end": 313.07,
+   "text": "So I'll make like a little Senate house for every single or 48 Senate houses for every single,"
+  },
+  {
+   "start": 313.07,
+   "end": 316.07,
+   "text": "Um, uh, region."
+  },
+  {
+   "start": 316.07,
+   "end": 320.21,
+   "text": "And so what, I'd be able to, what, 48 times 14, a whole bunch of those."
+  },
+  {
+   "start": 320.97,
+   "end": 325.33,
+   "text": "But, uh, you know, even if it's not true, I like the idea of it, you know, cause it's a lot of,"
+  },
+  {
+   "start": 325.33,
+   "end": 335.41,
+   "text": "Gives you the image of, of a community city, just like how it is, uh, from all the baths"
+  },
+  {
+   "start": 335.41,
+   "end": 337.69,
+   "text": "And the theaters and the racetracks and stuff."
+  },
+  {
+   "start": 338.69,
+   "end": 348.49,
+   "text": "So, um, so you have to put those in and then the granaries and, uh, uh, uh, yeah, bakeries."
+  },
+  {
+   "start": 348.59,
+   "end": 352.09,
+   "text": "And it says, and, uh, but yeah, zoom through that one."
+  },
+  {
+   "start": 352.11,
+   "end": 356.93,
+   "text": "And then before I draw them up though, this is a new strategy before I kind of finished the whole section,"
+  },
+  {
+   "start": 357.01,
+   "end": 359.65,
+   "text": "Uh, region, cause I did a couple of regions before this,"
+  },
+  {
+   "start": 359.65,
+   "end": 367.81,
+   "text": "But from now on I'm going to paste the houses first with the images for the whole city and then build it up,"
+  },
+  {
+   "start": 367.89,
+   "end": 372.01,
+   "text": "You know, cause that way I can, I can fix it, you know, cause there's,"
+  },
+  {
+   "start": 372.09,
+   "end": 374.11,
+   "text": "There's things I would have fixed on the other ones."
+  },
+  {
+   "start": 374.49,
+   "end": 376.21,
+   "text": "But anyway, when it's done, it'll be good."
+  },
+  {
+   "start": 376.23,
+   "end": 379.71,
+   "text": "I just have hope that my computer can handle it."
+  },
+  {
+   "start": 379.79,
+   "end": 382.97,
+   "text": "You know, I can make a way, figure out a way to make videos with it."
+  },
+  {
+   "start": 382.97,
+   "end": 390.47,
+   "text": "Um, so it doesn't freeze, uh, but that's a problem for another day."
+  },
+  {
+   "start": 390.69,
+   "end": 394.53,
+   "text": "Um, I was listening to, I'm listening to Edward Gibbon."
+  },
+  {
+   "start": 395.99,
+   "end": 398.83,
+   "text": "No, Theodore Momsen over and over again about the Rome,"
+  },
+  {
+   "start": 399.11,
+   "end": 403.43,
+   "text": "How the constitution of Rome and chapter five and six over and over again."
+  },
+  {
+   "start": 403.67,
+   "end": 408.41,
+   "text": "Um, and, uh, yeah, I think I'm going to go get something to eat now."
+  },
+  {
+   "start": 408.83,
+   "end": 409.71,
+   "text": "All right."
+  },
+  {
+   "start": 410.19,
+   "end": 410.63,
+   "text": "Later."
+  }
+ ]
+}

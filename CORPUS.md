@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-2979 videos with transcripts. Source of truth for transcripts + enrichments.
+3098 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -86,17 +86,136 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2019-05-05 | [Training with Kyle 5/4/19 Ran 4.85 Miles 1:00:49](corpus/videos/we5TTBnqNg4.json) | kyle | Kyle documents his second training video, recapping a 4.85-mile run completed in about an hour despite being physically  |
 | 2019-05-04 | [Enduro School Mission Statement: EVERYBODY is a pro enduro athlete now](corpus/videos/OLnHi8UIhI4.json) | kyle | Kyle introduces 'Enduro School,' his personal mission to democratize professional athletic status by combining endurance |
 | 2019-05-04 | [Training with Kyle: Ride #2 7:16 83.43 Miles 8,186 Feet climbing](corpus/videos/ajIjNZXh25Y.json) | kyle | Kyle recounts his second cycling ride of the year — an ~87-mile, 8,000+ foot climbing route from Boulder through Lyons,  |
+| 2019-05-04 | [5/4/19 USA Tribes on Timeline](corpus/videos/hy_2yLf8KBo.json) | — |  |
+| 2019-05-03 | [5/3/19 FINALLY realized I need to use Audiobooks app on my phone](corpus/videos/3WKmA0JuLbY.json) | — |  |
+| 2019-05-03 | [5/3/19 Google Earthing Tribes Last Day, Now Site](corpus/videos/7oAO40NLuPM.json) | — |  |
+| 2019-05-02 | [5/2/19 Figuring our problems with books on phone](corpus/videos/YYa0CM5_U1s.json) | — |  |
+| 2019-05-01 | [5/1/19 bought Apple Watch band and wheel for Ebike](corpus/videos/aKr_k7EOa1A.json) | — |  |
+| 2019-05-01 | [5/1/19 Google Earthing USA Tribes](corpus/videos/etEG1gwHZMg.json) | — |  |
+| 2019-04-30 | [4/30/19 Swam 5,900 Meters, got watch band & roller wheel](corpus/videos/VcPIP1-QIzU.json) | — |  |
+| 2019-04-29 | [4/29/19 Learning bike computer and iPod](corpus/videos/eMu1ERJluTE.json) | — |  |
+| 2019-04-28 | [4/28/19 Swam 1.4K, Learning bike computer](corpus/videos/Os-VZvEQ1g0.json) | — |  |
+| 2019-04-27 | [4/27/19 Lost a few days fusing chapters with trial version, silly me](corpus/videos/FleKkE6HpLA.json) | — |  |
+| 2019-04-26 | [4/26/19 1st day riding yesterday](corpus/videos/HtZ7FjV_w7s.json) | — |  |
+| 2019-04-25 | [4/25/19 Turning chapters into books for my phone](corpus/videos/NXQwt-CUANw.json) | — |  |
+| 2019-04-24 | [4/24/19 Fusing Chapters Into Books For My Phone](corpus/videos/vH4ze_kpbA8.json) | — |  |
+| 2019-04-23 | [4/23/19 Stupid IPhone!!!](corpus/videos/-a07dsofQT0.json) | — |  |
+| 2019-04-22 | [4/22/19 Gathering my things for training](corpus/videos/gpJ--jsZJ2o.json) | — |  |
 | 2019-04-21 | [Think I have to start exercising again](corpus/videos/_DS4wAVHFGI.json) | kyle | Kyle announces he needs to start exercising again after his body and mind broke down from weeks of eating junk food, not |
+| 2019-04-21 | [4/21/19 Cracked, have to start exercising again](corpus/videos/lDzSdq-D7Ok.json) | — |  |
+| 2019-04-20 | [4/20/19 Boulder Adventures Page for Google Earthing](corpus/videos/rgSQ8ZSriaw.json) | — |  |
+| 2019-04-19 | [4/19/19 Google Earth World History Page](corpus/videos/e0gxsuQH8hY.json) | — |  |
+| 2019-04-17 | [4/17/19 Google Earthing Mountains](corpus/videos/QUcXLr49ygg.json) | — |  |
+| 2019-04-16 | [4/16/19 Google Earthing Mountains](corpus/videos/FQOZnPefgRU.json) | — |  |
+| 2019-04-15 | [4/15/19 Google Earthing Mountains of Colorado](corpus/videos/2633iSRq5j8.json) | — |  |
+| 2019-04-13 | [4/13/19 Diogenes image quotes](corpus/videos/VGCcoIo1F8I.json) | — |  |
+| 2019-04-12 | [4/12/19 Diogenes image quotes](corpus/videos/-AtKJBlhfhU.json) | — |  |
+| 2019-04-11 | [4/11/19 Diogenes quote images](corpus/videos/7VevQk1-sBU.json) | — |  |
+| 2019-04-10 | [4/10/19 Diogenes image quotes](corpus/videos/vzffGcy_46I.json) | — |  |
+| 2019-04-09 | [4/9/19 Images on Diogenes](corpus/videos/p1Um758ttOs.json) | — |  |
+| 2019-04-08 | [4/8/19 Quote images for Diogenes](corpus/videos/nQrVgzlv_A4.json) | — |  |
+| 2019-04-07 | [4/7/19 Google Earthing Mountains + Quotes on Diogenes](corpus/videos/2y3vcW7O6O0.json) | — |  |
+| 2019-04-06 | [4/6/19 Google Earthing Mountains + Diogenes](corpus/videos/anxglLZ7nwE.json) | — |  |
+| 2019-04-05 | [4/5/19 Google Earthing Co Mountains + Diogenes Quotes](corpus/videos/ROMUaiLar2A.json) | — |  |
+| 2019-04-04 | [4/4/19 Google Earthing Mountains + Fixed Aristotle Ethics](corpus/videos/GyYeLoHeTVg.json) | — |  |
+| 2019-04-03 | [4/3/19 Google Earthing Mountains + Aristotle Politics](corpus/videos/UK34X9bwXSM.json) | — |  |
+| 2019-04-02 | [4/2/19 Google Earthing Mountains + Aristotle Politics](corpus/videos/xJ7WEc-q7iA.json) | — |  |
+| 2019-04-01 | [4/1/19 Started adding Golden sayings to books](corpus/videos/aLlQA-4bMsM.json) | — |  |
+| 2019-03-31 | [3/31/19 Google Earthing Mountains again](corpus/videos/FIkwKOa4Td8.json) | — |  |
+| 2019-03-29 | [3/29/19 Google Earthing Mountains still, oh God](corpus/videos/ABl2x5b6WOA.json) | — |  |
+| 2019-03-29 | [3/29/19 Google Earthing Mountains still, yep](corpus/videos/R8i_LhtP_Pk.json) | — |  |
+| 2019-03-28 | [3/28/19 Google Earthing Mountains still, dang](corpus/videos/K88qR_vttcI.json) | — |  |
+| 2019-03-27 | [3/27/19 Google Earthing Mountains on Boulder Adventures Page](corpus/videos/L2fWYT1nG2c.json) | — |  |
+| 2019-03-26 | [3/26/19 Google Earthing Boulder Adventures Page #2](corpus/videos/ItxMQpxDwsM.json) | — |  |
+| 2019-03-25 | [3/25/19 Google Earth links on Boulder Adventures page](corpus/videos/OatoGLe4FqQ.json) | — |  |
+| 2019-03-23 | [3/23/19 Google Earthing Mountains here still](corpus/videos/dAnmpOOB4oE.json) | — |  |
+| 2019-03-22 | [3/22/19 Google Earthing Mountains of Boulder still](corpus/videos/KPaHIjkBaao.json) | — |  |
+| 2019-03-21 | [3/21/19 Google Earthing Mountains here still](corpus/videos/rFCuHgbms4k.json) | — |  |
+| 2019-03-20 | [3/20/19 Explaining Google Earthing Mountains](corpus/videos/E0Cll3tGOgg.json) | — |  |
+| 2019-03-19 | [3/19/19 Google Earthing Boulder Mountains](corpus/videos/YHiaXCKCYb0.json) | — |  |
+| 2019-03-18 | [3/18/19 Google Earthing Mountains of Boulder](corpus/videos/TiZ2rjLCTX0.json) | — |  |
+| 2019-03-17 | [3/17/19 Google Earthing Mountains](corpus/videos/gl3zrYwy-Xk.json) | — |  |
+| 2019-03-16 | [3/16/19 Google Earthing Mountains](corpus/videos/qN8SavWCqyM.json) | — |  |
+| 2019-03-15 | [3/15/19 Google Earth link fix 2](corpus/videos/hh-mjsmXl20.json) | — |  |
+| 2019-03-14 | [3/14/19 Fixing Google Earthing Links!](corpus/videos/Y45DXNh4pO8.json) | — |  |
+| 2019-03-14 | [3/14/19 Google Earthing Mountains still](corpus/videos/y7OMxzJBowE.json) | — |  |
+| 2019-03-13 | [3/13/19 General Latium Google Earthing](corpus/videos/EGUaAKQ6v4A.json) | — |  |
+| 2019-03-12 | [3/12/19 Latium Rivers Google Earthing](corpus/videos/F7V-z-5w9gc.json) | — |  |
+| 2019-03-11 | [3/11/19 Hilltop forts, lakes, rivers, streams & tracks Google Earthing](corpus/videos/79H4rgn-G2E.json) | — |  |
+| 2019-03-10 | [3/10/19 Lots of Italian Google Earthing](corpus/videos/EsIqO3ELGMc.json) | — |  |
+| 2019-03-09 | [3/9/19 Aqua Vetis Of Rome Google Earthing](corpus/videos/Q_2GMnVn4Dw.json) | — |  |
+| 2019-03-07 | [3/7/19 Roman Roads Still](corpus/videos/Irs7njeSVt4.json) | — |  |
+| 2019-03-06 | [3/6/19 Roman Roads Google Earth](corpus/videos/hKe3VwLJ1k0.json) | — |  |
+| 2019-03-05 | [3/5/19 Roman Roads](corpus/videos/kQceblTCCrg.json) | — |  |
+| 2019-03-04 | [3/4/19 Google Earthing original Roman territory](corpus/videos/C9qbfsG8C9Q.json) | — |  |
+| 2019-03-03 | [3/3/19 Romulan City Google Earthing](corpus/videos/KmeVOXNnkWI.json) | — |  |
+| 2019-03-02 | [3/2/19 Goblins in the computer](corpus/videos/iOzxiYr_mkA.json) | — |  |
+| 2019-03-01 | [3/1/19 Seven Hills of Rome Google Earthing](corpus/videos/eF2n8yDLxnw.json) | — |  |
+| 2019-02-27 | [2/27/19 Google Earthing lots of Roman Stuff](corpus/videos/4dvucpRjfM0.json) | — |  |
+| 2019-02-26 | [2/26/19 Figuring aqueduct paths on Google Earthing](corpus/videos/7YfwDtfCP50.json) | — |  |
+| 2019-02-25 | [2/25/19 Aqua Claudia Google Earthing](corpus/videos/9W34_AepDXU.json) | — |  |
+| 2019-02-24 | [2/24/19 Aqua Virgo Google Earthing](corpus/videos/yfgTH-rH5iY.json) | — |  |
+| 2019-02-23 | [2/23/19 Aurelian Wall](corpus/videos/gT-l7ymz7h0.json) | — |  |
+| 2019-02-22 | [2/22/19 Aurelian Wall Google Earthing](corpus/videos/cKzDPrZjKmk.json) | — |  |
+| 2019-02-21 | [2/21/19 Aurelian Wall Google Earthing](corpus/videos/BWvHHniHw14.json) | — |  |
+| 2019-02-20 | [2/20/19 Roman Roads Google Earthing still](corpus/videos/kwCDHM_Zbp8.json) | — |  |
+| 2019-02-19 | [2/19/19 Roman Roads Polyglon Day 3](corpus/videos/clLWHSsyWh8.json) | — |  |
+| 2019-02-18 | [2/18/19 Tracing Roman Roads Google Earthing Day 2](corpus/videos/F8QE1wNpuyw.json) | — |  |
+| 2019-02-17 | [2/17/19 Google Earthing Roman Roads with Polyglon Tool](corpus/videos/JY-vqirp2kY.json) | — |  |
+| 2019-02-16 | [2/16/19 Rome Region 9 Dwellings Google Earthing](corpus/videos/Yoz520-zLlM.json) | — |  |
+| 2019-02-15 | [2/15/19 Studying Rome Reborn](corpus/videos/fBY4lerf77Y.json) | — |  |
+| 2019-02-14 | [2/14/19 Circus Agonalis Google Earthing](corpus/videos/YDb1HBlhRxg.json) | — |  |
+| 2019-02-13 | [2/13/19 Google Earthing stands in Region 9 of Rome](corpus/videos/w_E1miQuN2o.json) | — |  |
+| 2019-02-12 | [2/12/19 Circus of Augustus still](corpus/videos/MSnw_Xzs1wI.json) | — |  |
+| 2019-02-11 | [2/11/19 Circus of Augustus](corpus/videos/XwblRz2O_FY.json) | — |  |
+| 2019-02-10 | [2/10/19 Stadium of Domitian](corpus/videos/bNd-4pYEqzk.json) | — |  |
+| 2019-02-09 | [2/9/19 circus Flaminius Google Earthing](corpus/videos/s-yHl0516rU.json) | — |  |
+| 2019-02-06 | [2/6/19 Euripides](corpus/videos/l8ZwT2BUTSI.json) | — |  |
+| 2019-02-04 | [2/4/19 Cyril Protachesis](corpus/videos/NC51-egSDqs.json) | — |  |
+| 2019-02-02 | [2/2/19 Theater of Marcellinus, Bede](corpus/videos/w5rHWL39IC8.json) | — |  |
+| 2019-02-01 | [2/1/19 Theater of Marcellus & Cassiodorus](corpus/videos/tVjiBUGu_jA.json) | — |  |
+| 2019-01-31 | [1/31/19 Circus Flaminius & Cassiodorus](corpus/videos/nzhWCpVFDyI.json) | — |  |
+| 2019-01-30 | [1/30/19 Cassiodorus, Google Earth Theater of Pompey](corpus/videos/Dm0Nk_7IoUU.json) | — |  |
 | 2019-01-30 | [Merovingians vs Jesus vs Atlantis vs Richat Structure Request](corpus/videos/rIpnGArV7wk.json) | mixed | Kyle responds to a viewer request covering the Merovingian dynasty's alleged Jesus bloodline origins, the Richat Structu |
 | 2019-01-27 | [How to discover what you want in life Request](corpus/videos/AhjACaG3F8Q.json) | kyle | Kyle responds to a request from Andrew Brown asking how to discover what you want in life. He argues that minimizing wor |
+| 2019-01-27 | [1/27/19 Sophocles](corpus/videos/amwYgHfnSCg.json) | — |  |
+| 2019-01-25 | [1/25/19 Sophocles](corpus/videos/Ef7ubDNXwd0.json) | — |  |
+| 2019-01-25 | [1/25/19 Sophocles](corpus/videos/d4mqBGF4wec.json) | — |  |
+| 2019-01-24 | [1/24/19 Philostratus Book](corpus/videos/GrYNQ6VGqto.json) | — |  |
+| 2019-01-23 | [1/23/19 North American Myths Book](corpus/videos/8odgCGpcbvs.json) | — |  |
+| 2019-01-22 | [1/22/19 Finished Aristotle books](corpus/videos/jHpBDVCNzCE.json) | — |  |
+| 2019-01-20 | [1/20/19 Cicero books](corpus/videos/DMaOVbPYtqs.json) | — |  |
 | 2019-01-19 | [Rationalism vs Empiricism Request](corpus/videos/Cglrvn2rNGc.json) | kyle | Kyle gives a stoned, unscripted take on rationalism vs empiricism, declaring himself a rationalist (not an empiricist).  |
+| 2019-01-19 | [1/19/19 Aesop Fables](corpus/videos/OvNKSNVhfPs.json) | — |  |
 | 2019-01-19 | [What I think about government shutdown request](corpus/videos/RMOyL8udBG0.json) | kyle | Kyle responds to a viewer request about the government shutdown, arguing it is Donald Trump's fault rather than the Demo |
+| 2019-01-18 | [1/18/19 Google Earthing Rome!](corpus/videos/O4bwdMqf6QI.json) | — |  |
+| 2019-01-17 | [1/17/19 Ovid](corpus/videos/Zor7ejC0WOU.json) | — |  |
+| 2019-01-17 | [1/17/19 Cicero books](corpus/videos/ql3ICef3FbM.json) | — |  |
+| 2019-01-12 | [1/12/19 St Ambros books](corpus/videos/lG0X7YV9mrw.json) | — |  |
+| 2019-01-11 | [1/11/19 cant see, making Cicero books](corpus/videos/AdcOE6G68Ws.json) | — |  |
+| 2019-01-10 | [1/10/19 subjects page on audio history books](corpus/videos/VkM4GH966ps.json) | — |  |
+| 2019-01-10 | [1/10/19 bogged down yesterday](corpus/videos/xCzuuKLW4m0.json) | — |  |
+| 2019-01-09 | [1/9/19 3 new Cicero books](corpus/videos/oO1kEkemgzU.json) | — |  |
+| 2019-01-08 | [1/8/19 Theater of Pompey](corpus/videos/HMXdGv-b_N8.json) | — |  |
+| 2019-01-08 | [1/8/19 still fixing audio book mp3 files](corpus/videos/Wg5fdV5pXp8.json) | — |  |
+| 2019-01-07 | [1/7/19 Euripides still](corpus/videos/7fREL3KkErc.json) | — |  |
+| 2019-01-07 | [1-7-19 still editing audio book chapters](corpus/videos/TMcO716Mtjc.json) | — |  |
+| 2019-01-07 | [1/7/19 audio history book files](corpus/videos/vmcsHgDtXKs.json) | — |  |
+| 2019-01-06 | [1/6/19 1st full day fixing audio books & pages](corpus/videos/5IF_oU5mO2Q.json) | — |  |
+| 2019-01-05 | [1/5/19 Euripides](corpus/videos/B8SRhW3vh34.json) | — |  |
+| 2019-01-05 | [1/5/19 Audio history book organization](corpus/videos/Po1EmxSgnYQ.json) | — |  |
+| 2019-01-03 | [1/3/19 Many books](corpus/videos/3XYZby_eO0w.json) | — |  |
 | 2018-12-02 | [Started new vlog channel, Kyle Pounds Vlogs](corpus/videos/wABgE_2Mnl8.json) | kyle | Kyle announces he is creating two separate channels: one for streaming content and one for vlogs, keeping his main chann |
 | 2018-12-01 | [Living in Boulder vlog 12 - 1 - 2018: New Streaming Channel: Kyle Poun](corpus/videos/awEarNV1fjk.json) | kyle | Kyle gives a casual life update from Boulder, covering a rough few days of heavy weed use, 60-mile bike rides, insomnia, |
+| 2018-11-30 | [11/30/2018  Stream Trainer Ride 60 Miles 4 Hrs 15.1 mph 88 Watts 150 H](corpus/videos/w-bYFzlPYS0.json) | — |  |
+| 2018-11-29 | [11/29/2018 Stream Trainer Ride: 65.38 Miles 4:24:42 Hours 14.9 mph 102](corpus/videos/wm2n9_kd3GA.json) | — |  |
 | 2018-11-28 | [Living in Boulder vlog 11 - 27 - 2018: Vertigo](corpus/videos/8grQMmqBbag.json) | kyle | Kyle vlogs about experiencing a severe vertigo episode in Boulder that began when he woke up — the room was spinning rap |
 | 2018-11-27 | [Greek city states vs USA States -  Request](corpus/videos/DbpTLYGvzuU.json) | kyle | Kyle compares the ancient Greek city-state model to the American state system, arguing that power should be decentralize |
 | 2018-11-26 | [Living in Boulder vlog 11 - 26 - 2018](corpus/videos/HzaxQTROFlw.json) | kyle | Kyle vlogs about returning to cycling after completing the Old Testament section of his website, describing his first 4- |
+| 2018-11-26 | [11/26/2018 Streamed trainer ride pt 2 2:32 Hours](corpus/videos/mfil0btEpgw.json) | — |  |
+| 2018-11-26 | [11/26/2018 Stream Ride #2](corpus/videos/xbIqAqLepw0.json) | — |  |
 | 2018-11-25 | [Living in Boulder vlog 11-25-2018: Gunna exercise again](corpus/videos/l0fF8UmEyVc.json) | kyle | Kyle vlogs about his plan to start exercising again after feeling mentally burned out from website work. He describes hi |
+| 2018-11-25 | [11/25/2018 Stream Roller Ride #1  ? Miles  4:19:47 Hours](corpus/videos/qc4dyazUJx8.json) | — |  |
 | 2018-11-24 | [Kyle Pounds Patreon video](corpus/videos/1bEEHuYIASw.json) | kyle | Kyle announces a Patreon to raise $10,000 for an infinity pool, which he wants so he can exercise while doing daily audi |
 | 2018-11-16 | [Monarchy Request + Aristotle & Plato on Politics](corpus/videos/tUGxoty9FPA.json) | kyle | Kyle discusses monarchy and different forms of government by drawing on Aristotle's Politics and Plato's dialogues, cont |
 | 2018-11-13 | [Living in Boulder vlog 11-13-2018: History books](corpus/videos/VW3EP29L5-A.json) | kyle | Kyle gives a Boulder vlog update explaining he's still working on his history books website (digitalizing/indexing audio |
