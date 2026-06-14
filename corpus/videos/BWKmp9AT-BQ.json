@@ -67,93 +67,158 @@
  "transcript": [
   {
    "start": 1.1,
-   "end": 6.52,
-   "text": "This is Stage 3."
+   "end": 31.14,
+   "text": "This is stage 3, force 2, fireball, chair cooling wind."
   },
   {
-   "start": 6.52,
-   "end": 10.6,
-   "text": "1, 2."
+   "start": 31.14,
+   "end": 76.45,
+   "text": "This is stage 3, force 2, fireball, chair cooling wind."
   },
   {
-   "start": 10.6,
-   "end": 30.22,
-   "text": "1, 2, 3, 4, 5, 4."
+   "start": 76.45,
+   "end": 87.68,
+   "text": "They're getting their ready, set, go mark."
   },
   {
-   "start": 30.22,
-   "end": 73.87,
-   "text": "This is the start."
+   "start": 88.2,
+   "end": 94.5,
+   "text": "This is the third race in the Horsetooth Mini Classic, Court Collins, June 2, 1985."
   },
   {
-   "start": 75.55,
-   "end": 85.72,
-   "text": "Getting ready."
+   "start": 96.76,
+   "end": 101.84,
+   "text": "This is a six-lap race, seven-lap race."
   },
   {
-   "start": 85.72,
-   "end": 88.72,
-   "text": "They're getting their ready set go mark."
+   "start": 115.92,
+   "end": 117.38,
+   "text": "They're getting their ready to go."
   },
   {
-   "start": 88.72,
-   "end": 96.72,
-   "text": "This is the third race in the course of two of many class at Fort Collins, June 2nd, 1985."
+   "start": 117.38,
+   "end": 119.06,
+   "text": "Come on, Michael, ready!"
   },
   {
-   "start": 96.72,
-   "end": 100.72,
-   "text": "This is a six lap race."
+   "start": 119.74,
+   "end": 129.79,
+   "text": "You take the turn."
   },
   {
-   "start": 100.72,
-   "end": 116.1,
-   "text": "Seven lap race."
+   "start": 139.01,
+   "end": 141.49,
+   "text": "One of the kids said, sticking on the lead!"
   },
   {
-   "start": 116.1,
-   "end": 119.1,
-   "text": "They're getting ready to go."
-  },
-  {
-   "start": 119.1,
-   "end": 146.35,
-   "text": "One of the kick sets."
-  },
-  {
-   "start": 146.35,
-   "end": 159.08,
+   "start": 143.25,
+   "end": 150.6,
    "text": "This is the lead."
   },
   {
-   "start": 159.08,
-   "end": 176.24,
-   "text": "This is the second lap."
+   "start": 159.6,
+   "end": 161.34,
+   "text": "This is lap one."
   },
   {
-   "start": 176.24,
-   "end": 199.65,
-   "text": "This is the first lap race."
+   "start": 161.88,
+   "end": 175.44,
+   "text": "This is the end of second lap."
   },
   {
-   "start": 199.65,
+   "start": 175.44,
+   "end": 179.04,
+   "text": "We're going to really swing in this time to see who's going to win that race."
+  },
+  {
+   "start": 179.36,
+   "end": 180.92,
+   "text": "This is like number nine."
+  },
+  {
+   "start": 181.06,
+   "end": 195.97,
+   "text": "We're going to catch up, too."
+  },
+  {
+   "start": 195.97,
+   "end": 197.11,
+   "text": "This is what you want to say to clear the reward."
+  },
+  {
+   "start": 197.17,
+   "end": 199.69,
+   "text": "Why don't you just wait until the end of the race and fill the end?"
+  },
+  {
+   "start": 199.77,
+   "end": 200.29,
+   "text": "There he is."
+  },
+  {
+   "start": 200.31,
+   "end": 200.77,
+   "text": "He's fourth."
+  },
+  {
+   "start": 201.79,
+   "end": 203.57,
+   "text": "There's Todd coming up fourth."
+  },
+  {
+   "start": 203.65,
    "end": 204.65,
-   "text": "This is the second lap race."
+   "text": "Looking good."
   },
   {
    "start": 204.65,
-   "end": 219.64,
-   "text": "This is the second lap race."
+   "end": 216.86,
+   "text": "He's taking up right number nine, Ray Brown, followed by either Mike Turley or Eric Owen."
   },
   {
-   "start": 219.64,
-   "end": 226.05,
+   "start": 217.02,
+   "end": 219.28,
+   "text": "Pretty close for second or third in that race."
+  },
+  {
+   "start": 220.06,
+   "end": 220.76,
    "text": "Good job."
   },
   {
-   "start": 226.05,
-   "end": 233.05,
-   "text": "It's number three."
+   "start": 222.85,
+   "end": 223.31,
+   "text": "Where's it going?"
+  },
+  {
+   "start": 223.41,
+   "end": 223.75,
+   "text": "Where's it going?"
+  },
+  {
+   "start": 225.35,
+   "end": 226.45,
+   "text": "Kyle's going to go."
+  },
+  {
+   "start": 226.45,
+   "end": 227.77,
+   "text": "Okay, here come two more riders."
+  },
+  {
+   "start": 228.19,
+   "end": 230.15,
+   "text": "See who's going to be fourth or fifth here."
+  },
+  {
+   "start": 231.05,
+   "end": 232.67,
+   "text": "It's number three, Jonathan."
+  },
+  {
+   "start": 232.67,
+   "end": 262.65,
+   "text": "Thank you."
   }
  ]
 }
