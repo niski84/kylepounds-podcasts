@@ -1,0 +1,686 @@
+{
+ "youtube_id": "CudeDeo3Sv8",
+ "title": "Rainbow Text for Titles on Site (Not gay, I like colors)",
+ "url": "https://youtu.be/CudeDeo3Sv8",
+ "published_at": "",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 2.67,
+   "end": 10.95,
+   "text": "Hey, how's it going? Here's my vlog for the 11th of December 2022 on Sunday, 10.52pm."
+  },
+  {
+   "start": 11.45,
+   "end": 20.69,
+   "text": "I missed my video yesterday because I was too busy."
+  },
+  {
+   "start": 21.45,
+   "end": 27.33,
+   "text": "I think the last time I was doing a video, I was talking about how I'm trying to add icons to my whole site."
+  },
+  {
+   "start": 27.43,
+   "end": 30.71,
+   "text": "And I forgot how I'm doing it, to say exactly how I'm doing it."
+  },
+  {
+   "start": 32.55,
+   "end": 34.25,
+   "text": "Because it's really simple."
+  },
+  {
+   "start": 34.25,
+   "end": 39.85,
+   "text": "All I do is, you know, go to, like, I started, I just started it and I did one thing."
+  },
+  {
+   "start": 39.93,
+   "end": 41.37,
+   "text": "And then I got started on this new thing."
+  },
+  {
+   "start": 42.01,
+   "end": 48.67,
+   "text": "So I went to my, I was going to start with my audio books of America."
+  },
+  {
+   "start": 49.49,
+   "end": 55.21,
+   "text": "And so I cut out the first section and put it on another page so that, you know, it'll work faster."
+  },
+  {
+   "start": 56.09,
+   "end": 60.53,
+   "text": "And it was the novels page, novels section of America."
+  },
+  {
+   "start": 60.53,
+   "end": 62.99,
+   "text": "And there were 40 novels there."
+  },
+  {
+   "start": 64.25,
+   "end": 77.37,
+   "text": "And, um, yeah, I just went down and I looked at, um, stuff that was in the title and, um, um, would put an icon of whatever is in the title."
+  },
+  {
+   "start": 77.49,
+   "end": 79.11,
+   "text": "And most of them, I could put an icon there."
+  },
+  {
+   "start": 79.11,
+   "end": 83.23,
+   "text": "And, um, yeah, so that's what I'm going to do."
+  },
+  {
+   "start": 83.33,
+   "end": 85.51,
+   "text": "Um, but it's really simple because I just look at it."
+  },
+  {
+   "start": 86.15,
+   "end": 89.95,
+   "text": "I just, you know, control or command C."
+  },
+  {
+   "start": 90.67,
+   "end": 94.21,
+   "text": "You know, I copy the word and then I go up to my, uh, finder."
+  },
+  {
+   "start": 94.87,
+   "end": 95.59,
+   "text": "Command V."
+  },
+  {
+   "start": 95.83,
+   "end": 97.59,
+   "text": "Just paste it on the search bar."
+  },
+  {
+   "start": 97.59,
+   "end": 99.15,
+   "text": "And then I click on my Mac."
+  },
+  {
+   "start": 99.73,
+   "end": 101.81,
+   "text": "So just look for that word all over the Mac."
+  },
+  {
+   "start": 101.89,
+   "end": 103.83,
+   "text": "And I wait two or three seconds and then it appears."
+  },
+  {
+   "start": 104.61,
+   "end": 105.91,
+   "text": "And then I scroll down."
+  },
+  {
+   "start": 106.47,
+   "end": 109.41,
+   "text": "And if I don't find what I'm looking for, I'll type a synonym."
+  },
+  {
+   "start": 110.57,
+   "end": 113.15,
+   "text": "And I'll eventually find what I want and move on."
+  },
+  {
+   "start": 113.15,
+   "end": 116.79,
+   "text": "Because I have so many, you know, so many different, um, icons."
+  },
+  {
+   "start": 117.91,
+   "end": 119.49,
+   "text": "So, um, yeah."
+  },
+  {
+   "start": 119.55,
+   "end": 120.59,
+   "text": "So that went pretty quickly."
+  },
+  {
+   "start": 120.59,
+   "end": 123.05,
+   "text": "And I was like, all right, I think I could do the whole site like this."
+  },
+  {
+   "start": 123.05,
+   "end": 126.29,
+   "text": "Or at least if I give it a week, I'm curious to see what I could do in a week."
+  },
+  {
+   "start": 126.37,
+   "end": 127.51,
+   "text": "You know, maybe in two weeks."
+  },
+  {
+   "start": 127.63,
+   "end": 130.13,
+   "text": "Like, even if it took me a month, it would be worth it."
+  },
+  {
+   "start": 131.81,
+   "end": 135.55,
+   "text": "And, um, and, um, yeah."
+  },
+  {
+   "start": 135.57,
+   "end": 139.37,
+   "text": "But the problem was right after I got done with that, I got a little bit distracted."
+  },
+  {
+   "start": 139.37,
+   "end": 142.23,
+   "text": "And I was just curious to see if there were any, um, codes."
+  },
+  {
+   "start": 142.89,
+   "end": 149.77,
+   "text": "If there was any way that I could make like a font, you know, like a CSS font for, uh, rainbows."
+  },
+  {
+   "start": 149.77,
+   "end": 153.63,
+   "text": "Because, um, you know, my website's all about rainbows."
+  },
+  {
+   "start": 153.87,
+   "end": 155.07,
+   "text": "I'm not gay though."
+  },
+  {
+   "start": 155.35,
+   "end": 159.69,
+   "text": "Yesterday, my mom is like, ah, you made your name a rainbow."
+  },
+  {
+   "start": 160.75,
+   "end": 162.47,
+   "text": "Everybody's going to think that you're gay."
+  },
+  {
+   "start": 162.59,
+   "end": 164.91,
+   "text": "And I'm like, not everybody, dude."
+  },
+  {
+   "start": 165.13,
+   "end": 169.47,
+   "text": "I explained right on the front of my site, like why I, uh, I like colors."
+  },
+  {
+   "start": 170.43,
+   "end": 172.65,
+   "text": "So anyway, um, my mom."
+  },
+  {
+   "start": 172.85,
+   "end": 176.75,
+   "text": "And then today, oh, I got in a huge fight with my mom earlier today."
+  },
+  {
+   "start": 177.55,
+   "end": 179.17,
+   "text": "Because I went in there at like six in the morning."
+  },
+  {
+   "start": 179.17,
+   "end": 182.27,
+   "text": "I've been going in there early in the morning the last two days to help her with things."
+  },
+  {
+   "start": 183.63,
+   "end": 186.69,
+   "text": "And she tried to tell me, she was all pissed at me that I'm working on my site."
+  },
+  {
+   "start": 186.75,
+   "end": 190.19,
+   "text": "And she's tried to tell me that I shouldn't put any icons on my site."
+  },
+  {
+   "start": 191.33,
+   "end": 192.33,
+   "text": "And I'm like, really?"
+  },
+  {
+   "start": 192.45,
+   "end": 193.67,
+   "text": "Even if it only takes a week?"
+  },
+  {
+   "start": 193.75,
+   "end": 194.83,
+   "text": "Because it's cluttered."
+  },
+  {
+   "start": 194.87,
+   "end": 197.13,
+   "text": "It makes the site cluttered by putting icons there."
+  },
+  {
+   "start": 197.29,
+   "end": 198.37,
+   "text": "So whatever."
+  },
+  {
+   "start": 198.47,
+   "end": 199.31,
+   "text": "She's almost 81."
+  },
+  {
+   "start": 199.31,
+   "end": 208.63,
+   "text": "Um, but, um, but yeah, I wanted to know about the, the, um, the, uh, rainbow font."
+  },
+  {
+   "start": 209.97,
+   "end": 212.63,
+   "text": "And it turns out I found a rainbow font."
+  },
+  {
+   "start": 212.63,
+   "end": 221.82,
+   "text": "Um, yeah, and like a code for a, uh, for a CSS of it that worked really well."
+  },
+  {
+   "start": 221.82,
+   "end": 223.28,
+   "text": "And they actually had three of them."
+  },
+  {
+   "start": 223.94,
+   "end": 230.86,
+   "text": "And so, um, yeah, for my books, I just type, um, I, I actually could use three rainbow fonts."
+  },
+  {
+   "start": 230.86,
+   "end": 233.02,
+   "text": "Cause I could use one for the name."
+  },
+  {
+   "start": 233.14,
+   "end": 235.1,
+   "text": "And if you go to my website, you'll see my name in rainbow."
+  },
+  {
+   "start": 235.24,
+   "end": 235.9,
+   "text": "And it looks really cool."
+  },
+  {
+   "start": 235.98,
+   "end": 238.12,
+   "text": "Like moving rainbow, living rainbow."
+  },
+  {
+   "start": 238.24,
+   "end": 240.38,
+   "text": "And I like having something moving on my site all the time."
+  },
+  {
+   "start": 240.72,
+   "end": 242.26,
+   "text": "Cause it makes it seem like it's alive."
+  },
+  {
+   "start": 243.64,
+   "end": 252.2,
+   "text": "And, um, so then the other font is like outlined flashing rainbow, which I use for the name, the author of my books."
+  },
+  {
+   "start": 252.2,
+   "end": 253.38,
+   "text": "And then that I have here."
+  },
+  {
+   "start": 253.42,
+   "end": 258.24,
+   "text": "And then for the date, I have, um, like flashing rainbow that's solid."
+  },
+  {
+   "start": 258.24,
+   "end": 260.32,
+   "text": "And so all of them together, I think it looks cool."
+  },
+  {
+   "start": 261.64,
+   "end": 263.5,
+   "text": "Kind of a big font."
+  },
+  {
+   "start": 264.34,
+   "end": 268.58,
+   "text": "And, um, but the problem is, it's taking me forever, like a couple of days just to do that."
+  },
+  {
+   "start": 269.4,
+   "end": 277.42,
+   "text": "Because I have to open up the pages and change these fonts, but to open up the pages and to get to the code page and the back to the page takes forever."
+  },
+  {
+   "start": 277.42,
+   "end": 279.14,
+   "text": "And it's always crashing my computer."
+  },
+  {
+   "start": 279.94,
+   "end": 283.14,
+   "text": "For example, that's the reason I'm doing this, my video right now."
+  },
+  {
+   "start": 283.14,
+   "end": 287.42,
+   "text": "Cause I'm trying to, for the last half hour, I've been trying to change the font."
+  },
+  {
+   "start": 287.42,
+   "end": 295.02,
+   "text": "I've been trying to change the font on my, um, on my page and it just won't allow."
+  },
+  {
+   "start": 295.2,
+   "end": 296.16,
+   "text": "I only have one page."
+  },
+  {
+   "start": 296.24,
+   "end": 297.92,
+   "text": "It's Gregory, the great book of job."
+  },
+  {
+   "start": 297.92,
+   "end": 300.48,
+   "text": "It's 3,221 pages."
+  },
+  {
+   "start": 301.04,
+   "end": 304.22,
+   "text": "And because it's so big and it's the only page that I have open on Dreamweaver."
+  },
+  {
+   "start": 304.7,
+   "end": 307.94,
+   "text": "And I don't think, I don't have any other programs open on my computer either."
+  },
+  {
+   "start": 307.94,
+   "end": 317.04,
+   "text": "And I'm just sitting here just like waiting for it to spin to try to, so that I can attach the font to it."
+  },
+  {
+   "start": 317.1,
+   "end": 322.78,
+   "text": "And so sometimes if I hang out and just wait for like hours, it'll come back and I'll be able to click it."
+  },
+  {
+   "start": 323.18,
+   "end": 325.72,
+   "text": "But sometimes it'll just crash the computer."
+  },
+  {
+   "start": 325.72,
+   "end": 332.58,
+   "text": "Like, like I just had a nap today cause I only sleep during the day, um, for a few hours."
+  },
+  {
+   "start": 332.66,
+   "end": 339.02,
+   "text": "I can't remember how long it was, but, um, when I woke up, it was still spinning around."
+  },
+  {
+   "start": 340.32,
+   "end": 344.76,
+   "text": "So I had to, um, I had to shut the program."
+  },
+  {
+   "start": 344.76,
+   "end": 353.68,
+   "text": "And then I was trying to post, paste the CSS code onto the code page and, um, and it wouldn't paste."
+  },
+  {
+   "start": 354.56,
+   "end": 355.94,
+   "text": "So I'm like, well, that's weird."
+  },
+  {
+   "start": 356.04,
+   "end": 362.5,
+   "text": "So then I went and I copied it again with control, with command C and then also with right click copy."
+  },
+  {
+   "start": 363.1,
+   "end": 365.1,
+   "text": "And I pasted it and nothing would paste."
+  },
+  {
+   "start": 365.94,
+   "end": 367.98,
+   "text": "So I had to restart the whole computer."
+  },
+  {
+   "start": 369.18,
+   "end": 373.96,
+   "text": "And every time I restart the computer and restart Dreamweaver, it takes like 20 minutes for Dreamweaver to boot up."
+  },
+  {
+   "start": 373.96,
+   "end": 380.14,
+   "text": "Maybe cause my, I have too much in there or something, but, and, and then I was, I pasted it and it pasted."
+  },
+  {
+   "start": 380.94,
+   "end": 382.38,
+   "text": "And so I was able to do those."
+  },
+  {
+   "start": 382.46,
+   "end": 386.06,
+   "text": "And then I opened up this one page, Gregory, the great book of job."
+  },
+  {
+   "start": 386.06,
+   "end": 388.86,
+   "text": "And I'm just sitting here waiting and it could just freeze the whole computer."
+  },
+  {
+   "start": 389.7,
+   "end": 393.22,
+   "text": "So, cause the pages are just too big for this computer."
+  },
+  {
+   "start": 393.32,
+   "end": 401.2,
+   "text": "I have a 2015 Mac book pro and, um, and the page is 3,221 pages with, um,"
+  },
+  {
+   "start": 401.2,
+   "end": 404.98,
+   "text": "Not even that many tables."
+  },
+  {
+   "start": 406.12,
+   "end": 411.76,
+   "text": "I think it was only, I can't scroll it down, but I think it's only like 30 or 40 chapters."
+  },
+  {
+   "start": 412.88,
+   "end": 415.44,
+   "text": "So it's just, uh, the computer can't handle it."
+  },
+  {
+   "start": 415.64,
+   "end": 420.24,
+   "text": "It also can't open a Google or file I made a couple years, like last year, last April."
+  },
+  {
+   "start": 420.24,
+   "end": 426.14,
+   "text": "So, um, hopefully my other computer can do it or maybe I'll get another computer."
+  },
+  {
+   "start": 427.5,
+   "end": 431.5,
+   "text": "But, um, yeah, I'm just trying this over and over again."
+  },
+  {
+   "start": 432.3,
+   "end": 442.33,
+   "text": "But anyway, once I'm finally done with this, then I can, um, I was just thinking maybe I could cut it and paste it on another page,"
+  },
+  {
+   "start": 442.33,
+   "end": 448.44,
+   "text": "But I would have to have that one too."
+  },
+  {
+   "start": 448.62,
+   "end": 450.64,
+   "text": "If that doesn't work, I guess that's one thing I could try."
+  },
+  {
+   "start": 452.8,
+   "end": 458.57,
+   "text": "But anyway, um, once I'm finally done with this, and I think I'm almost done."
+  },
+  {
+   "start": 459.01,
+   "end": 464.83,
+   "text": "Cause it's like 170 books I had to get through and some of them are really big and it just took forever for them to load."
+  },
+  {
+   "start": 465.73,
+   "end": 470.41,
+   "text": "But once I'm done with this, I can finally get going on, um, attaching images again."
+  },
+  {
+   "start": 470.41,
+   "end": 479.57,
+   "text": "And I don't have to worry about having a slow computer for that because you can just copy out the sections and then paste them on another page and work on them there and then paste them back."
+  },
+  {
+   "start": 480.09,
+   "end": 485.7,
+   "text": "Which, um, yeah, maybe I can try that with this."
+  },
+  {
+   "start": 487.22,
+   "end": 490.04,
+   "text": "Anyway, so I think I was going to give that like a week."
+  },
+  {
+   "start": 490.1,
+   "end": 494.94,
+   "text": "Cause I was taking some time off of, um, building the animals on Rocky Mountain National Park."
+  },
+  {
+   "start": 494.94,
+   "end": 501.84,
+   "text": "I was doing each and every of the 3,700, um, um, raccoons."
+  },
+  {
+   "start": 502.58,
+   "end": 516.86,
+   "text": "And each and every one of the 3,250, um, elk, like in every, every animal, even the, like the squirrels, which there's like 10,000 of, I'll just do it in a different way."
+  },
+  {
+   "start": 516.9,
+   "end": 525.58,
+   "text": "I won't do each and every one cause it'll take too long, but I'll do it in, uh, paste over like the numbers that they would be over."
+  },
+  {
+   "start": 525.58,
+   "end": 532.78,
+   "text": "And anyway, so I'll do every, every animal, but, um, I want to do these images, these, um, icons first."
+  },
+  {
+   "start": 532.78,
+   "end": 535.68,
+   "text": "Cause I have so many of them and they're put pasting so quickly."
+  },
+  {
+   "start": 536.64,
+   "end": 545.52,
+   "text": "And I'm like really happy that I wasted, waited so long to attach the icons because, um, it'll just go by way faster."
+  },
+  {
+   "start": 545.52,
+   "end": 559.26,
+   "text": "If you, instead of, you know, doing a bits piecemeal, just build the whole page, get a huge, like it is now where my page has could gobble up thousands of icons, then collect all the icons and then put them all in."
+  },
+  {
+   "start": 559.26,
+   "end": 562.54,
+   "text": "And also I waited forever to collect the icons."
+  },
+  {
+   "start": 562.66,
+   "end": 566.04,
+   "text": "So I've got the biggest collection that I could possibly have, you know?"
+  },
+  {
+   "start": 566.94,
+   "end": 570.16,
+   "text": "So, um, yeah, I think I would just want to give it a week."
+  },
+  {
+   "start": 570.2,
+   "end": 573.02,
+   "text": "And if I'm happy with how much progress, fuck it and give it another week."
+  },
+  {
+   "start": 573.18,
+   "end": 576.06,
+   "text": "Cause it just makes my website look so much more polished that way."
+  },
+  {
+   "start": 577.14,
+   "end": 580.92,
+   "text": "Um, so anyways, um, but yeah, I'm basically not able to do anything."
+  },
+  {
+   "start": 581.02,
+   "end": 582.24,
+   "text": "It's just spinning around."
+  },
+  {
+   "start": 583.38,
+   "end": 585.22,
+   "text": "Um, anyways, let's keep this under 10 minutes."
+  },
+  {
+   "start": 585.3,
+   "end": 588.68,
+   "text": "I'll try to do a video tomorrow and hopefully I'll be talking about how I'm doing icons"
+  },
+  {
+   "start": 588.68,
+   "end": 591.48,
+   "text": "And not trying to attach this rainbow anymore."
+  },
+  {
+   "start": 591.72,
+   "end": 593.1,
+   "text": "But yeah, check out the rainbow on my site."
+  },
+  {
+   "start": 593.18,
+   "end": 593.74,
+   "text": "Tell me what you think."
+  },
+  {
+   "start": 594.4,
+   "end": 595.08,
+   "text": "Talk to you tomorrow."
+  }
+ ]
+}

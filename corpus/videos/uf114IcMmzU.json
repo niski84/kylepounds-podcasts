@@ -1,0 +1,26 @@
+{
+ "youtube_id": "uf114IcMmzU",
+ "title": "Kyle Pounds Live Stream",
+ "url": "https://youtu.be/uf114IcMmzU",
+ "published_at": "",
+ "channel": "Kyle Pounds (main)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 43.76,
+   "end": 53.92,
+   "text": "Apparently you can't just live stream. You have to do some kind of special settings so you don't lose your connection"
+  },
+  {
+   "start": 54.6,
+   "end": 57.52,
+   "text": "Even if you're hardwired with gigabit internet"
+  },
+  {
+   "start": 58.42,
+   "end": 68.02,
+   "text": "Still drops your live stream every five minutes and it works right the first time doesn't"
+  }
+ ]
+}
