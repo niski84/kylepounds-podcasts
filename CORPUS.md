@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-3840 videos with transcripts. Source of truth for transcripts + enrichments.
+3973 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -42,12 +42,145 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2024-09-05 | [Introducing FORTNIGHT HISTORY TEST so you don't havd to lick butthole ](corpus/videos/1h_K0tUetlg.json) | kyle | Kyle introduces his 'Fortnite History Test,' a bi-weekly self-graded quiz where you hit a random number generator to get |
 | 2024-09-05 | [1st Fortnight History Test, 1st AD. 154 points](corpus/videos/HygoxEUDccE.json) | kyle | Kyle attempts his first recorded bi-weekly history test, using a random number generator to select decades from 0–2000 A |
 | 2024-05-02 | [I found Atlantis - Requested by Jim](corpus/videos/wSGwbXErAq4.json) | kyle | Kyle presents his personal theory that Atlantis was located in the Bahamas, specifically around Andros Island, using mea |
+| 2023-05-01 | [5/1/23 Loose ends on Timeline appearance. Check it out in a month!](corpus/videos/FWjDCGUbGUs.json) | — |  |
+| 2023-04-31 | [4/31/23 Fonts & Grid on Future Timeline](corpus/videos/XBqziK06KII.json) | — |  |
+| 2023-04-28 | [4/28/23](corpus/videos/GRN81a6POQA.json) | — |  |
+| 2023-04-26 | [4/26/23 Got computer back. Didn’t fix Future Timeline paste problem so](corpus/videos/6lFr1RH47HA.json) | — |  |
+| 2023-04-25 | [4/25/23 Organizing apt / on vacation](corpus/videos/mTuX49-Al00.json) | — |  |
+| 2023-04-24 | [4/24/23 Gunna clean & organize today](corpus/videos/b-IBRFNY0ns.json) | — |  |
+| 2023-04-23 | [4/23/23  No computers, tutorial on how to get to Google Earth Coloseum](corpus/videos/O4C_6CnIJX4.json) | — |  |
+| 2023-04-22 | [4/22/23 Both computers in shop](corpus/videos/_gjhYZdEZJc.json) | — |  |
+| 2023-04-20 | [4/20/23 Batch Editing font and images on Timeline](corpus/videos/jd160-1GK9M.json) | — |  |
+| 2023-04-19 | [4-19-23 Loose ends on BC Timeline kylepounds.com](corpus/videos/PT2kQOFaeQA.json) | — |  |
+| 2023-04-18 | [4/18/23 Finally fitted Pre History Timeline, back to just icons](corpus/videos/5T943sjh8tc.json) | — |  |
+| 2023-04-15 | [4/15/23 Fixing fitting on 300M yrs back pages on Timeline](corpus/videos/T9Mhlt00wtI.json) | — |  |
+| 2023-04-15 | [4/15/23 Pre History Timeline. Watching movies](corpus/videos/ha1LxEZMCrQ.json) | — |  |
+| 2023-04-14 | [4/14/23 Pre History Timeline 300 Million Years Page](corpus/videos/inIUWTllI48.json) | — |  |
+| 2023-04-13 | [4/13/23 Sold Tegu & Turtle, Pre History Timeline](corpus/videos/4FrRozlyDVg.json) | — |  |
+| 2023-04-12 | [4/12/23 Pre History Timeline](corpus/videos/jnB5-UlyBrU.json) | — |  |
+| 2023-04-11 | [4/11/23 Icons on Timeline & Converting more icons, saw Valerian sci-if](corpus/videos/l3U52aNP7S0.json) | — |  |
+| 2023-04-10 | [4/10/23 Side grid pasting crashed my computer so now I’m adding icons ](corpus/videos/tFBhJdZ8x9I.json) | — |  |
+| 2023-04-07 | [4/7/23 Gunna make my vertical meter ten thousand and have hyperlinks &](corpus/videos/RFMeSwjY_dQ.json) | — |  |
+| 2023-04-06 | [4/6/23 New site vert meter invention, then icons on Timeline](corpus/videos/iK7M4VF8878.json) | — |  |
+| 2023-04-05 | [4/5/23 Invented new vertical meter for site](corpus/videos/iWPLgng33mk.json) | — |  |
+| 2023-04-04 | [4/4/23 Radio taken out, downloading & converting more icons from Envat](corpus/videos/KUNsFz6wT2c.json) | — |  |
+| 2023-04-03 | [4/3/23 My Ferrets killed my Cockatiel](corpus/videos/E27FowRCg0U.json) | — |  |
+| 2023-04-02 | [4/2/23 Icons on BC Timeline](corpus/videos/WTqGUMRFEgQ.json) | — |  |
 | 2023-04-01 | [Donald Kagan’s Peloponnesian War book review - Requested by 2 people](corpus/videos/dChehG1uQ-s.json) | kyle | Kyle reviews Donald Kagan's book on the Peloponnesian War, covering the war's origins, the Athens-Sparta rivalry, key ev |
+| 2023-03-31 | [3/31/23 Icons on S Europe 500 - 0 Timeline](corpus/videos/suxE-Ymai_A.json) | — |  |
+| 2023-03-29 | [3/29/23 Icons on Timeline. Sold car. Thinking about going to gym.](corpus/videos/qx1MSmPGFos.json) | — |  |
+| 2023-03-28 | [3/28/23 Icons on W Europe Timeline](corpus/videos/U6m_yfiQRuc.json) | — |  |
+| 2023-03-28 | [3/28/23 Icons N Europe Timeline, Studying Peloponnesian  War](corpus/videos/ftpWAGOZ4Nc.json) | — |  |
+| 2023-03-27 | [3/27/23 Monarch Icons for Japan on Timeline](corpus/videos/wJSYa3xJ3bQ.json) | — |  |
+| 2023-03-26 | [3/26/23 I realized I’m the only person on the planet who even has a we](corpus/videos/op9IshSTnPg.json) | — |  |
+| 2023-03-25 | [3/25/23 Mom gave ALL our money away in a phone scam $16K now I must se](corpus/videos/i8RSpszAAz4.json) | — |  |
+| 2023-03-24 | [3/24/23 Icons for Indian Rulers on Timeline](corpus/videos/r8XBBuknrds.json) | — |  |
+| 2023-03-21 | [3/21/23 S Europe 1500-2K Icons](corpus/videos/mt1ttmXmD-0.json) | — |  |
+| 2023-03-20 | [3/20/23 Icons on S Europe 1500-2000 Timeline](corpus/videos/TT82xMZJVgU.json) | — |  |
+| 2023-03-18 | [3/18/23 Icons on W Europe 1 - 2K & had to convert Monarchs again](corpus/videos/CT4MO8EZagA.json) | — |  |
+| 2023-03-17 | [3/17/23 Adding icons & converting images yet again](corpus/videos/GWo8vKH08nU.json) | — |  |
+| 2023-03-12 | [3/12/23 Converting & adding images on Timeline](corpus/videos/6yew6zUWzmo.json) | — |  |
+| 2023-03-12 | [3/12/23 Icons fm Google Earth & Adding images to Timeline at same time](corpus/videos/pq18ZM3faZI.json) | — |  |
+| 2023-03-11 | [3/11/23 Oops have to convert images again, THEN it’s fast to add icons](corpus/videos/szJvCsvEcwc.json) | — |  |
+| 2023-03-10 | [3/10/23 Turning Wikipedia Battle images into icons for my Timeline](corpus/videos/sch-U2KCSrI.json) | — |  |
+| 2023-03-09 | [3/9/23 Converting all my Wikipedia images to icons](corpus/videos/qcvRRZ39NxU.json) | — |  |
+| 2023-03-06 | [3/6/23 Making Monarch Icons for Timeline](corpus/videos/ZS74B2BjeS0.json) | — |  |
+| 2023-03-04 | [3/4/23 Backing up my site](corpus/videos/-1wlxcQ0MWU.json) | — |  |
+| 2023-03-03 | [3/3/23 Can’t get either computer to work & I can’t see, hopefully will](corpus/videos/eq7cwnNllFg.json) | — |  |
+| 2023-03-02 | [3/2/23 Linking my Adobe fonts so you can download them quicker](corpus/videos/YR4xwt67mZk.json) | — |  |
+| 2023-03-01 | [3/1/23 Linking ALL Adobe fonts to my site because that is the type of ](corpus/videos/gXQuG3n_JQY.json) | — |  |
+| 2023-02-27 | [2/27/23 Book pages & fonts](corpus/videos/hwF-cmrHjDM.json) | — |  |
+| 2023-02-25 | [2/25/23 Word Counting & Fonts](corpus/videos/zPmW_M0yG_s.json) | — |  |
+| 2023-02-24 | [2/24/23 Putting fonts on my pages](corpus/videos/towweM1GK6o.json) | — |  |
+| 2023-02-22 | [2/22/23 Check out my Adobe fonts on Flickr](corpus/videos/9al8oeRlZX4.json) | — |  |
+| 2023-02-20 | [2/20/23 Still installing fonts & making bizarre boo boos](corpus/videos/xISzjMqCLAw.json) | — |  |
+| 2023-02-18 | [2/18/23 Activating 3,719 fonts on my Mac for my Site](corpus/videos/baIJ0x-1KAw.json) | — |  |
+| 2023-02-17 | [2/17/23 Activating fonts on my computer](corpus/videos/GFPFFN1mWQg.json) | — |  |
+| 2023-02-16 | [2/16/23 Adobe Fonts & Generations Page](corpus/videos/gzz0WlGKiws.json) | — |  |
+| 2023-02-15 | [2/15/23 Web work one last day, then lift 100K lbs/day in my room](corpus/videos/iMzvSFAoTts.json) | — |  |
+| 2023-02-14 | [2/14/23 Issues regarding fitness nobody talks about because your retar](corpus/videos/navisYAvY7w.json) | — |  |
+| 2023-02-13 | [2/13/23 Car stuff](corpus/videos/eP7IkmSdWEU.json) | — |  |
+| 2023-02-12 | [2/12/23 Holy Shit!!!! was it HHHHHAARRRRDDDDD TO UPLOAD THIS VIDEO. OM](corpus/videos/Zdxi8NjVbNQ.json) | — |  |
+| 2023-02-11 | [2/11/23 Got a teal 96 Impreza hatchback 2.2L that I’ll lift & turbocha](corpus/videos/IskP2rHBMXk.json) | — |  |
+| 2023-02-09 | [2/9/23 Flickr Images mainly](corpus/videos/JUue_wtOqL4.json) | — |  |
+| 2023-02-06 | [2/6/23 Flickr Edits & BG Removing w/ my 2 Computers](corpus/videos/yAAo4UeHSEQ.json) | — |  |
+| 2023-02-01 | [2/1/23 Flickr settings today, gunna get weed and smoke it](corpus/videos/Y23jjBVLLSw.json) | — |  |
+| 2023-01-31 | [1/31/23 More Flickr edits, + Images on Timeline](corpus/videos/OhzdXGybYhg.json) | — |  |
 | 2023-01-30 | [John Dee & Alister Crowley Request (I talk mainly about Scientology](corpus/videos/Wd8fq8v5wP0.json) | kyle | Kyle responds to viewer requests about John Dee and Aleister Crowley, arguing they are not direct analogs — he places Cr |
+| 2023-01-30 | [1/30/23 Fontifying Education Page yesterday, now Icons on Horizontal T](corpus/videos/Ydj8wFlmXTw.json) | — |  |
+| 2023-01-29 | [1/29/23 Font Activation on Adobe](corpus/videos/fEGHUOiMtD4.json) | — |  |
+| 2023-01-26 | [1/26/23 Figured out how how to get iguanas & another turtle, & another](corpus/videos/R15odSJvwDg.json) | — |  |
+| 2023-01-25 | [1/25/23 Flickr images & Factbook USA page](corpus/videos/F-VFFn160OY.json) | — |  |
+| 2023-01-18 | [1/18/23 2 New Projects](corpus/videos/dmZ9FY_Wzb4.json) | — |  |
+| 2023-01-14 | [1/14/23 CIA World Factbook, cause the CIA are tards (retards)](corpus/videos/zrNDcojtaVw.json) | — |  |
+| 2023-01-12 | [1/12/23 CIA World Factbook](corpus/videos/ocNR4aqtrUs.json) | — |  |
+| 2023-01-08 | [1/8/23 Numbering & Filing 40K People on Google Earth](corpus/videos/I2V114Wo-rM.json) | — |  |
+| 2023-01-08 | [1/8/23 Wikipedia Calendar. Gunna do CIA World Facebook next.](corpus/videos/yn0U9rzJaJ0.json) | — |  |
+| 2023-01-05 | [1/5/23 Bi-Weekly History Test Page](corpus/videos/DJzUc4XroMM.json) | — |  |
+| 2023-01-04 | [1/4/23 Bi Weekly History Page Icons](corpus/videos/2bEk2wa3_nA.json) | — |  |
+| 2022-12-30 | [12/30/22 Bi-Weekly History Test Page & Icon Uploading & Converting](corpus/videos/ISL8gNyt-BQ.json) | — |  |
+| 2022-12-29 | [12/29/22 Timeline Decade Links on World Page](corpus/videos/EWEqbeMHWjI.json) | — |  |
+| 2022-12-28 | [12/28/22 Bi Weekly History Test Page](corpus/videos/5bSlafYlais.json) | — |  |
 | 2022-12-28 | [Washington DC - Request](corpus/videos/8ku1b3pWV8E.json) | kyle | Kyle rambles through a video request about Washington DC, drawing extensive parallels between DC and ancient Rome, discu |
+| 2022-12-27 | [12/27/22 Birthday. Bi-Weekly History Test Page](corpus/videos/JZlDsg8Rzag.json) | — |  |
 | 2022-12-24 | [48 Laws of Power book review - Request](corpus/videos/Z7XwmKbN_Vo.json) | mixed | Kyle reviews 'The 48 Laws of Power,' reading all 48 laws aloud and critiquing the book as Machiavellian, dark, and orien |
+| 2022-12-23 | [12/23/22 Education Page fixing & Icons](corpus/videos/__6wrxnf3jM.json) | — |  |
+| 2022-12-21 | [12/21/22 Icons on my Timeline](corpus/videos/v8H5o9rBNqg.json) | — |  |
+| 2022-12-18 | [12/18/22 Free Audio History Book Pages](corpus/videos/SnnA0zfcthk.json) | — |  |
+| 2022-12-12 | [12/12/22 Icons on USA Free Audio Books](corpus/videos/KDK9EOcfNl4.json) | — |  |
+| 2022-12-09 | [12/9/22 Icons on Timeline Page](corpus/videos/QW2uV7X-o8M.json) | — |  |
+| 2022-12-07 | [12/7/22 Website Icons](corpus/videos/sw4RKrN6t8o.json) | — |  |
+| 2022-12-05 | [12/5/22 Years on Bi-Weekly History Test Page](corpus/videos/ozQVEwK9vh4.json) | — |  |
+| 2022-12-04 | [12/4/22 Google Earthing Boulder Fauna. Raccoon & Elk pop](corpus/videos/9s_8ECzMkgc.json) | — |  |
+| 2022-11-30 | [11/30/22 Google Earthing Boulder Fauna](corpus/videos/BPQV0cDbVmo.json) | — |  |
 | 2022-11-25 | [Tapping Rebellion - Request](corpus/videos/n-LWPAT9raY.json) | kyle | Kyle gives a rambling, opinion-heavy overview of the Taiping Rebellion, using it as a launching pad to discuss Chinese h |
+| 2022-11-24 | [11/24/22 Google Earth Boulder Fauna](corpus/videos/ZKc8UtiiV-w.json) | — |  |
+| 2022-11-21 | [11/21/22 Google Earth Boulder Fauna, Trump Tapes](corpus/videos/iFAu3nwMmd8.json) | — |  |
+| 2022-11-20 | [11/20/22 Google Earth & History Books. Reading A History of China](corpus/videos/gr6mcD_8mu0.json) | — |  |
+| 2022-11-18 | [11/18/22 Google Earth Pages. 2 yrs in court of Chinese Empress.](corpus/videos/g_RuPRzBXLk.json) | — |  |
+| 2022-11-15 | [11/15/22 Google Earth Pages](corpus/videos/OSPuAN-_HwM.json) | — |  |
+| 2022-11-12 | [11/12/22 Google Earth Pages](corpus/videos/KMtNYAv8HOU.json) | — |  |
+| 2022-11-06 | [11/6/22 Google Earth History Page](corpus/videos/rl2MrMeqvs8.json) | — |  |
+| 2022-11-05 | [11/5/22 Standardizing Google Earth History Page](corpus/videos/bcegvQkPOYY.json) | — |  |
+| 2022-11-03 | [11/3/22 Uploading Flickr history screenshots](corpus/videos/nPcxzdYGnlw.json) | — |  |
+| 2022-10-27 | [10/27/22 Adding data to Google Earth History page](corpus/videos/N9B6NYvQGIU.json) | — |  |
+| 2022-10-26 | [10/26/22 Adding icons to Google Earth History page](corpus/videos/8Y_y6yDv1ew.json) | — |  |
+| 2022-10-23 | [10/23/22 Creating icons for Google Earth history page](corpus/videos/nNriF3kpRYA.json) | — |  |
+| 2022-10-17 | [10/17/22 Google Earthing USA Tribes](corpus/videos/CntHFJ5Tt6g.json) | — |  |
+| 2022-10-15 | [10/15/22 Google Earth Screen Capturing American Tribes](corpus/videos/E28_m2y73Qw.json) | — |  |
+| 2022-10-14 | [10/14/22 Google Earthing American Tribes](corpus/videos/SpfwcumHIW8.json) | — |  |
+| 2022-10-13 | [10/13/22 Google Earthing American Historical Places. Watch me terroriz](corpus/videos/q2PATlKbcMM.json) | — |  |
+| 2022-10-08 | [10/8/22 Got a Red Foot Tortoise for my Red Tegu](corpus/videos/ITbKP_YEyHA.json) | — |  |
+| 2022-10-02 | [10/2/22 Google Earthing Ancient Asian Cities](corpus/videos/FCzq_WP-_SU.json) | — |  |
+| 2022-09-27 | [9/27/22 Google Earthing Ancient European Cities](corpus/videos/mcrFVDTH5PU.json) | — |  |
+| 2022-09-24 | [9/24/22 Google Earthing Ancient Switzerland](corpus/videos/bzJut__m8Es.json) | — |  |
+| 2022-09-21 | [9/21/22 Google Earthing European Cities](corpus/videos/u2Mf4341se4.json) | — |  |
+| 2022-09-19 | [9/19/22 Google Earthing World Tribes](corpus/videos/xAzOUjAUE28.json) | — |  |
+| 2022-09-17 | [9/17/22 Google Earthing Greek Cities](corpus/videos/GccSm1M2Vl0.json) | — |  |
 | 2022-09-16 | [Prometheus Movie Review - Request](corpus/videos/8Y14N13LmxU.json) | kyle | Kyle reviews the 2012 film Prometheus, criticizing it for following the tired Hollywood trope of aliens as one-dimension |
+| 2022-09-15 | [9/15/22 Google Earth World History](corpus/videos/sOtnEw0pQnM.json) | — |  |
+| 2022-09-13 | [9/13/22 Google Earth World History Page](corpus/videos/IN24QYZPKCQ.json) | — |  |
+| 2022-09-12 | [9/12/22 Website icons](corpus/videos/qt68fVUR1bw.json) | — |  |
+| 2022-09-08 | [9/8/22 Icons & Links](corpus/videos/VUBxWiSBTQ4.json) | — |  |
+| 2022-09-06 | [9/6/22 Fixing Google Earth links for the next month at least](corpus/videos/omNihclsGKw.json) | — |  |
+| 2022-09-05 | [9/5/22 Rode 36 Mi 2900’. 4 mile canyon. Erg swam 2K 43 Min L 7](corpus/videos/mVgJIMMZH1s.json) | — |  |
+| 2022-09-04 | [9/4/22 Rode 69 Mi 6900’. Bldr Canyon, NCAR, Flag, 4 mile](corpus/videos/DYe8XwiTHuk.json) | — |  |
+| 2022-09-03 | [9/3/22 Oops 2 rest days in a row. Tried organizing but mainly rested.](corpus/videos/6T5IduQ6oxU.json) | — |  |
+| 2022-09-01 | [9/1/22 Rode 28 Mi 2,800’. Bldr Canyon & Super Flagstaff](corpus/videos/CEwiaAMc2M0.json) | — |  |
+| 2022-09-01 | [9/1/22 Super rest day. Blathering about my Google Earth stuff.](corpus/videos/UlOnGB23xPI.json) | — |  |
+| 2022-08-31 | [8/31/22 Rode 23 Mi 2K’ 1:48. Bldr Canyon & Flagstaff](corpus/videos/MS7w23ADIU4.json) | — |  |
+| 2022-08-28 | [8/28/22 Rode Super Jamestown & Lee Hill. 42 Mi 4,400’](corpus/videos/rDFDM539_qQ.json) | — |  |
+| 2022-08-27 | [8/27/22 Final cleaning w/ mom. Played w/ & Changed Tegu substrate for ](corpus/videos/qT81-TqeUwY.json) | — |  |
+| 2022-08-26 | [8/26/22 Cleaning. Brain dead from quitting weed. Describing Bike Schoo](corpus/videos/MB71XPWvHLc.json) | — |  |
+| 2022-08-25 | [8/25/22 Cleaning. Stomach ache.](corpus/videos/xZbJ-OF40Gc.json) | — |  |
+| 2022-08-24 | [8/24/22 Not sick. Gunna put apt for rent and pick up my room & try to ](corpus/videos/gtDwpm2XdKI.json) | — |  |
+| 2022-08-23 | [8/23/22 Sick & cleaning & organizing. Night LED Apt tour in beginning.](corpus/videos/OULvB6AdXaY.json) | — |  |
+| 2022-08-22 | [8/22/22 Sick. Gunna try to finish apt today. Apt tour at end](corpus/videos/DMg1eC4X0Yk.json) | — |  |
+| 2022-08-20 | [8/20/22 Sick. Cleaning, organizing & still installing things](corpus/videos/EltUwCgXHAw.json) | — |  |
+| 2022-08-18 | [8/18/22 I’m sick. Final apt cleaning/organizing](corpus/videos/FssTJ3eX0MA.json) | — |  |
+| 2022-08-16 | [8/16/22 Last 5 days finishing my apartment before next roommate](corpus/videos/u5SlLg59L0Q.json) | — |  |
+| 2022-08-12 | [8/12/22 Lyons Folk Festival](corpus/videos/lqs6MhHNdKU.json) | — |  |
+| 2022-08-11 | [8/11/22 Rode Brainard Lake 61 Mi 5,500’ 5:09](corpus/videos/t7yb10jDA5o.json) | — |  |
 | 2022-08-07 | [8/7/22 1 1/1 Rode 27 mi, 2362’. Lifted 43,390#](corpus/videos/OmCMkaX9SMQ.json) | — |  |
 | 2022-08-07 | [8/7/22 Flew RC plane, organized and rested](corpus/videos/_Qd2d1QQYKw.json) | — |  |
 | 2022-08-06 | [8/6/22 Finished Mylar on grow rooms and led light covers. Out of money](corpus/videos/VmDbCMIJv-A.json) | — |  |

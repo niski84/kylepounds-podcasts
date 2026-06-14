@@ -1,0 +1,1926 @@
+{
+ "youtube_id": "gXQuG3n_JQY",
+ "title": "3/1/23 Linking ALL Adobe fonts to my site because that is the type of crazy that I am",
+ "url": "https://youtu.be/gXQuG3n_JQY",
+ "published_at": "2023-03-01",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 1.71,
+   "end": 4.11,
+   "text": "Hi, how's it going? Here's my vlog."
+  },
+  {
+   "start": 6.45,
+   "end": 9.31,
+   "text": "Hopefully my roommate will be back before I'm done."
+  },
+  {
+   "start": 9.39,
+   "end": 11.37,
+   "text": "If my roommate comes in, I'll just cut it off."
+  },
+  {
+   "start": 11.65,
+   "end": 13.77,
+   "text": "I don't like doing the vlog when my roommate comes back."
+  },
+  {
+   "start": 13.83,
+   "end": 14.61,
+   "text": "I think he went to the gym."
+  },
+  {
+   "start": 17.25,
+   "end": 19.55,
+   "text": "It's 8.08, March 1st, Wednesday."
+  },
+  {
+   "start": 22.45,
+   "end": 25.09,
+   "text": "I don't think I did my video yesterday because it was busy."
+  },
+  {
+   "start": 26.13,
+   "end": 28.49,
+   "text": "So, yeah, I think I'm like on a new thing."
+  },
+  {
+   "start": 31.71,
+   "end": 41.07,
+   "text": "So, I was attaching fonts to my, I was trying to attach fonts to my education page,"
+  },
+  {
+   "start": 41.11,
+   "end": 45.17,
+   "text": "Which has like I need a font for each new word because it goes to a new link."
+  },
+  {
+   "start": 48.25,
+   "end": 53.47,
+   "text": "And it was taking forever because it takes like, it was taking two minutes to bring up the font."
+  },
+  {
+   "start": 53.55,
+   "end": 55.17,
+   "text": "And then it went down to like 20 seconds."
+  },
+  {
+   "start": 56.17,
+   "end": 59.29,
+   "text": "So, I was doing the, with the other computer, counting."
+  },
+  {
+   "start": 59.29,
+   "end": 66.55,
+   "text": "And then, well, and the ones that I didn't count and just writing in how many words each chapter had in the books."
+  },
+  {
+   "start": 67.65,
+   "end": 74.37,
+   "text": "And then I was just doing the, the fonts, you know, and then I'd wait and then surf around on the internet"
+  },
+  {
+   "start": 74.37,
+   "end": 77.11,
+   "text": "And then when it would pop up and be ready, I'd go and choose the next font."
+  },
+  {
+   "start": 77.11,
+   "end": 79.73,
+   "text": "So, and I think I finished education page."
+  },
+  {
+   "start": 79.75,
+   "end": 87.45,
+   "text": "And then I was like, well, how am I going to, like people, people need to see fonts."
+  },
+  {
+   "start": 87.53,
+   "end": 91.67,
+   "text": "So, I was like, well, I do have the gigabytes on my website."
+  },
+  {
+   "start": 91.97,
+   "end": 97.35,
+   "text": "It's like a gig and a half for 3,636 fonts that I have."
+  },
+  {
+   "start": 97.47,
+   "end": 102.15,
+   "text": "Because fonts are like as big as like a song, like four megabytes for some reason."
+  },
+  {
+   "start": 102.15,
+   "end": 112.29,
+   "text": "And then, uh, I guess it has to memorize it all for each letter, but, um, so I uploaded it to my server, my website."
+  },
+  {
+   "start": 114.67,
+   "end": 116.45,
+   "text": "For some, because I didn't think it through."
+  },
+  {
+   "start": 116.55,
+   "end": 119.25,
+   "text": "I was, because I figured I could link it to the file."
+  },
+  {
+   "start": 120.25,
+   "end": 123.13,
+   "text": "But then I realized you can't link it to a file."
+  },
+  {
+   "start": 123.17,
+   "end": 124.65,
+   "text": "And I figured, is there a way to link it?"
+  },
+  {
+   "start": 124.71,
+   "end": 126.21,
+   "text": "Like as a zip file or something?"
+  },
+  {
+   "start": 126.21,
+   "end": 128.67,
+   "text": "And I couldn't find a way."
+  },
+  {
+   "start": 128.81,
+   "end": 132.41,
+   "text": "And I was like, well, who would want to link, download the whole thing anyway?"
+  },
+  {
+   "start": 132.51,
+   "end": 133.01,
+   "text": "And who could?"
+  },
+  {
+   "start": 134.13,
+   "end": 137.13,
+   "text": "Wouldn't you need like fast internet to be able to download a file like that?"
+  },
+  {
+   "start": 137.39,
+   "end": 146.35,
+   "text": "So, I just thought, well, why not just, why not just, uh, because, because they're all already on there individually."
+  },
+  {
+   "start": 146.35,
+   "end": 150.13,
+   "text": "Why not just link them individually on your website?"
+  },
+  {
+   "start": 150.29,
+   "end": 151.77,
+   "text": "Make a list of all of them on the website."
+  },
+  {
+   "start": 151.77,
+   "end": 156.07,
+   "text": "That way you get to see them all on the way that I make lists on my website."
+  },
+  {
+   "start": 157.91,
+   "end": 161.45,
+   "text": "And then people can just download whatever ones I say you would need."
+  },
+  {
+   "start": 162.91,
+   "end": 164.43,
+   "text": "Which is like maybe a lot of them."
+  },
+  {
+   "start": 164.91,
+   "end": 165.53,
+   "text": "Half of them."
+  },
+  {
+   "start": 166.51,
+   "end": 168.49,
+   "text": "And I just show on the list which one it is."
+  },
+  {
+   "start": 168.53,
+   "end": 171.55,
+   "text": "And it's kind of like a list of, hey, here are all the ones on Adobe anyway."
+  },
+  {
+   "start": 171.69,
+   "end": 172.59,
+   "text": "So, it'd be interesting."
+  },
+  {
+   "start": 174.65,
+   "end": 178.53,
+   "text": "So, yeah, I figured it was worth it to do that."
+  },
+  {
+   "start": 178.53,
+   "end": 185.47,
+   "text": "Um, so I'm working on, uh, 1620 right now."
+  },
+  {
+   "start": 186.17,
+   "end": 187.87,
+   "text": "Where I'm just copying and pasting."
+  },
+  {
+   "start": 188.33,
+   "end": 192.05,
+   "text": "And then I have to go for 3630 some odd."
+  },
+  {
+   "start": 195.18,
+   "end": 196.42,
+   "text": "I found two doubles."
+  },
+  {
+   "start": 196.56,
+   "end": 198.94,
+   "text": "So, it's like 3634 now."
+  },
+  {
+   "start": 199.14,
+   "end": 205.53,
+   "text": "But, um, and I had to fix the name on a couple because I forgot to put the first letter."
+  },
+  {
+   "start": 205.53,
+   "end": 212.61,
+   "text": "But, um, I think I made, made the link to the first 15 or 20 or something."
+  },
+  {
+   "start": 213.81,
+   "end": 218.91,
+   "text": "Uh, so after I get done making the list, posting it, then I will link it."
+  },
+  {
+   "start": 219.63,
+   "end": 222.01,
+   "text": "Which will take just as long even though it's simpler."
+  },
+  {
+   "start": 222.15,
+   "end": 223.61,
+   "text": "Because you have to wait for it to come up."
+  },
+  {
+   "start": 224.77,
+   "end": 228.53,
+   "text": "Hopefully the computer, it'll be fast when I do that."
+  },
+  {
+   "start": 228.53,
+   "end": 235.8,
+   "text": "And then, uh, for all those, so, um, yeah."
+  },
+  {
+   "start": 235.86,
+   "end": 237.56,
+   "text": "And then just put it at the very beginning of my page."
+  },
+  {
+   "start": 237.62,
+   "end": 238.92,
+   "text": "I think it's linked actually right now."
+  },
+  {
+   "start": 238.98,
+   "end": 241.64,
+   "text": "If you go to my website right now, it'll be like the very top of like,"
+  },
+  {
+   "start": 242.08,
+   "end": 243.08,
+   "text": "Hi, welcome to Kyle Pounds."
+  },
+  {
+   "start": 243.44,
+   "end": 247.74,
+   "text": "I'm the bringer of education, changer of educational economic system."
+  },
+  {
+   "start": 247.9,
+   "end": 251.36,
+   "text": "There's an all important, bringer of all important knowledge of the language of the rainbow system."
+  },
+  {
+   "start": 251.42,
+   "end": 253.78,
+   "text": "And then right behind that I'll say, yeah."
+  },
+  {
+   "start": 253.86,
+   "end": 255.52,
+   "text": "And so you have to download all my fonts."
+  },
+  {
+   "start": 255.52,
+   "end": 261.92,
+   "text": "Maybe should I, I should call it the rainbow crystal, the fonted rainbow crystal."
+  },
+  {
+   "start": 262.24,
+   "end": 262.4,
+   "text": "Yeah."
+  },
+  {
+   "start": 263.36,
+   "end": 264.8,
+   "text": "So you have to download the fonts."
+  },
+  {
+   "start": 265.3,
+   "end": 269.7,
+   "text": "If you have, if you can't, if you have, and I, I would need to look and see if I,"
+  },
+  {
+   "start": 270.52,
+   "end": 275.16,
+   "text": "I don't know if those fonts are only available on Adobe or if they're on Envato too."
+  },
+  {
+   "start": 276.32,
+   "end": 277.92,
+   "text": "I have an Envato too, so I can check."
+  },
+  {
+   "start": 279.74,
+   "end": 281.28,
+   "text": "And if they are, then that'd be cool."
+  },
+  {
+   "start": 281.34,
+   "end": 283.12,
+   "text": "Cause there's more reason to ask people."
+  },
+  {
+   "start": 283.12,
+   "end": 286.56,
+   "text": "Uh, a lot of people will have Adobe, but most won't."
+  },
+  {
+   "start": 287.1,
+   "end": 292.66,
+   "text": "You can see it without the fonts on a Safari and with, on Mozilla Firefox, but you can't"
+  },
+  {
+   "start": 292.66,
+   "end": 293.12,
+   "text": "See all of them."
+  },
+  {
+   "start": 293.2,
+   "end": 298.56,
+   "text": "So hopefully later you can, you will, you can see whatever you can see on a Dreamweaver."
+  },
+  {
+   "start": 298.7,
+   "end": 299.42,
+   "text": "I'll just leave it."
+  },
+  {
+   "start": 302.06,
+   "end": 305.74,
+   "text": "It helps a lot with the fonts, but, um, yeah."
+  },
+  {
+   "start": 305.8,
+   "end": 307.68,
+   "text": "So that's, that's a big detour."
+  },
+  {
+   "start": 307.68,
+   "end": 311.5,
+   "text": "And then I'm going to go back and when I'm done with this and hopefully I'll be done."
+  },
+  {
+   "start": 312.84,
+   "end": 313.56,
+   "text": "What day is it?"
+  },
+  {
+   "start": 313.64,
+   "end": 313.88,
+   "text": "Wednesday?"
+  },
+  {
+   "start": 315.3,
+   "end": 315.62,
+   "text": "God."
+  },
+  {
+   "start": 315.72,
+   "end": 318.26,
+   "text": "Well, I mean, I'm hoping that I can be done pasting them all today."
+  },
+  {
+   "start": 318.86,
+   "end": 320.64,
+   "text": "I don't think I can, but I can try."
+  },
+  {
+   "start": 321.3,
+   "end": 326.2,
+   "text": "So then if I can do that, then by tomorrow, maybe I can link them all by day after tomorrow,"
+  },
+  {
+   "start": 326.32,
+   "end": 329.0,
+   "text": "I can link them all or something by Sunday."
+  },
+  {
+   "start": 329.0,
+   "end": 329.68,
+   "text": "I don't know."
+  },
+  {
+   "start": 330.58,
+   "end": 341.34,
+   "text": "And then, and then I'll finally move along and, uh, do fonts on the other surface level"
+  },
+  {
+   "start": 341.34,
+   "end": 342.36,
+   "text": "Pages that I have."
+  },
+  {
+   "start": 342.96,
+   "end": 346.0,
+   "text": "Which will take a couple of days and then, but what I really want to do and what I was"
+  },
+  {
+   "start": 346.0,
+   "end": 351.0,
+   "text": "Working on before is downloading and naming all of the, uh, cause I, yeah, I didn't name"
+  },
+  {
+   "start": 351.0,
+   "end": 351.12,
+   "text": "Them."
+  },
+  {
+   "start": 351.54,
+   "end": 352.62,
+   "text": "At least I backed them up."
+  },
+  {
+   "start": 352.96,
+   "end": 355.29,
+   "text": "I lost them."
+  },
+  {
+   "start": 355.37,
+   "end": 356.85,
+   "text": "I had to download them off Flickr again."
+  },
+  {
+   "start": 356.85,
+   "end": 364.03,
+   "text": "All of the, uh, images of the, uh, Monarchs from history and then get the background removed"
+  },
+  {
+   "start": 364.03,
+   "end": 365.37,
+   "text": "On them, which I think I already did."
+  },
+  {
+   "start": 365.45,
+   "end": 366.25,
+   "text": "I can't remember."
+  },
+  {
+   "start": 366.97,
+   "end": 372.27,
+   "text": "And then re-sign to font size and put that on my timeline."
+  },
+  {
+   "start": 373.13,
+   "end": 375.15,
+   "text": "And, and, oh yeah, not just that, but all the other fonts."
+  },
+  {
+   "start": 375.21,
+   "end": 379.59,
+   "text": "So boy, do I have my, my, do my work cut out for me."
+  },
+  {
+   "start": 379.59,
+   "end": 385.85,
+   "text": "Um, yeah, I mean, those two things, that'll be."
+  },
+  {
+   "start": 386.85,
+   "end": 388.87,
+   "text": "Um, that's most of the spring."
+  },
+  {
+   "start": 388.97,
+   "end": 396.03,
+   "text": "That'll be like, by the time I'm done with this font and, uh, yeah, those images for the"
+  },
+  {
+   "start": 396.03,
+   "end": 398.41,
+   "text": "Kings, that'll be like the end of April."
+  },
+  {
+   "start": 398.89,
+   "end": 402.31,
+   "text": "So anyway, yeah, I was thinking about that earlier."
+  },
+  {
+   "start": 402.53,
+   "end": 413.47,
+   "text": "Um, by the end of this year, um, end of this year, I'll be, um, I'll just, my website will"
+  },
+  {
+   "start": 413.47,
+   "end": 414.77,
+   "text": "Just inhale the whole year."
+  },
+  {
+   "start": 414.93,
+   "end": 419.05,
+   "text": "Like my, at the end of this year, I'll be at the same spot as I am now."
+  },
+  {
+   "start": 419.13,
+   "end": 421.07,
+   "text": "I'll just be frantically trying to finish something."
+  },
+  {
+   "start": 422.25,
+   "end": 432.18,
+   "text": "Um, I did get myself into a little bit of a, I guess, financial pickle, which, and financial"
+  },
+  {
+   "start": 432.18,
+   "end": 433.0,
+   "text": "Pickles are good."
+  },
+  {
+   "start": 433.04,
+   "end": 435.34,
+   "text": "I like them because they keep me on working on my computer."
+  },
+  {
+   "start": 435.34,
+   "end": 440.76,
+   "text": "Because if I'm in my room working on my computer all the time, I'm not spending money."
+  },
+  {
+   "start": 441.54,
+   "end": 449.14,
+   "text": "And so if I have money problems that I can't, um, that I have, like, you know, it kind of"
+  },
+  {
+   "start": 449.14,
+   "end": 454.18,
+   "text": "Scares me into just working all the time on my computer, which will then get me finished"
+  },
+  {
+   "start": 454.18,
+   "end": 454.5,
+   "text": "On it."
+  },
+  {
+   "start": 454.52,
+   "end": 459.18,
+   "text": "Because the only way that I'm ever going to finish it is if I just work 18 hours a day"
+  },
+  {
+   "start": 459.18,
+   "end": 461.44,
+   "text": "For, like, probably five years, to be realistic."
+  },
+  {
+   "start": 462.52,
+   "end": 468.2,
+   "text": "So, yeah, what happened was, um, I went into the, um, well, I had to, I went into a dentist."
+  },
+  {
+   "start": 468.7,
+   "end": 473.74,
+   "text": "I didn't go to my normal dentist that I was using when I had Medicaid because, uh, my mom"
+  },
+  {
+   "start": 473.74,
+   "end": 477.26,
+   "text": "Doesn't like them and wanted me to use hers because it's right across the street from her"
+  },
+  {
+   "start": 477.26,
+   "end": 477.46,
+   "text": "House."
+  },
+  {
+   "start": 477.48,
+   "end": 480.68,
+   "text": "So I tried to go there, but they moved, they had me on another spot."
+  },
+  {
+   "start": 480.78,
+   "end": 483.34,
+   "text": "I tried to tell them I wanted to go to that one, but they had me at another spot."
+  },
+  {
+   "start": 483.46,
+   "end": 484.26,
+   "text": "But it wasn't that far away."
+  },
+  {
+   "start": 484.38,
+   "end": 484.68,
+   "text": "I went there."
+  },
+  {
+   "start": 484.68,
+   "end": 489.44,
+   "text": "It's been, like, three years since I went to the dentist."
+  },
+  {
+   "start": 489.64,
+   "end": 491.7,
+   "text": "They said they want $2,300."
+  },
+  {
+   "start": 494.82,
+   "end": 495.82,
+   "text": "They want $2,300."
+  },
+  {
+   "start": 496.38,
+   "end": 501.12,
+   "text": "Look at that, $2,300 for, like, gum cleaning."
+  },
+  {
+   "start": 502.38,
+   "end": 505.4,
+   "text": "But I have three cavities for $236 each."
+  },
+  {
+   "start": 506.46,
+   "end": 507.54,
+   "text": "So it's, like, $750."
+  },
+  {
+   "start": 508.06,
+   "end": 513.72,
+   "text": "So I think I'm going to call my original dentist and see how much they'll do the three cavities"
+  },
+  {
+   "start": 513.72,
+   "end": 514.06,
+   "text": "For."
+  },
+  {
+   "start": 514.2,
+   "end": 515.72,
+   "text": "And if it's less, I'll just go back to them."
+  },
+  {
+   "start": 515.72,
+   "end": 518.96,
+   "text": "Because I paid them $100 just to give me the x-ray."
+  },
+  {
+   "start": 519.06,
+   "end": 520.9,
+   "text": "And I could have sworn they said they'd give me a cleaning."
+  },
+  {
+   "start": 521.04,
+   "end": 522.74,
+   "text": "I've never been to the dentist where they didn't give me a cleaning."
+  },
+  {
+   "start": 522.96,
+   "end": 524.2,
+   "text": "So I'm like, can I get the basic?"
+  },
+  {
+   "start": 524.28,
+   "end": 527.34,
+   "text": "But they're like, no, you've got to pay $2,300 for the full cleaning."
+  },
+  {
+   "start": 527.58,
+   "end": 530.74,
+   "text": "So anyway, but I drove there."
+  },
+  {
+   "start": 531.46,
+   "end": 539.22,
+   "text": "And on the way home, I went to the car installation place."
+  },
+  {
+   "start": 539.22,
+   "end": 545.48,
+   "text": "Because I talked to my mechanic, because I'm going to take it in on the 6 just to have"
+  },
+  {
+   "start": 545.48,
+   "end": 545.88,
+   "text": "It looked at."
+  },
+  {
+   "start": 545.94,
+   "end": 546.86,
+   "text": "It's my mom's mechanic."
+  },
+  {
+   "start": 547.28,
+   "end": 547.78,
+   "text": "She likes."
+  },
+  {
+   "start": 549.22,
+   "end": 553.92,
+   "text": "And they said I can't do any, like, I don't want to do any, shouldn't do any, like, performance"
+  },
+  {
+   "start": 553.92,
+   "end": 555.04,
+   "text": "Modifications on it."
+  },
+  {
+   "start": 555.04,
+   "end": 556.24,
+   "text": "Because it's an old engine."
+  },
+  {
+   "start": 556.4,
+   "end": 557.66,
+   "text": "193,000 miles."
+  },
+  {
+   "start": 558.14,
+   "end": 561.68,
+   "text": "So I'll just let the engine die and then do the performance modification."
+  },
+  {
+   "start": 561.68,
+   "end": 565.82,
+   "text": "It's like, why would you fix something that's not broken?"
+  },
+  {
+   "start": 565.92,
+   "end": 566.64,
+   "text": "That's a waste of money."
+  },
+  {
+   "start": 566.92,
+   "end": 572.7,
+   "text": "So I can, so then I should just, whatever money I spent on my car, do it to the stereo."
+  },
+  {
+   "start": 572.84,
+   "end": 575.78,
+   "text": "So I just went to the stereo place, because it's only a block from my house."
+  },
+  {
+   "start": 576.54,
+   "end": 583.88,
+   "text": "Just to see what, you know, what they were, what they kind of recommendation they would"
+  },
+  {
+   "start": 583.88,
+   "end": 584.56,
+   "text": "Have for my car."
+  },
+  {
+   "start": 584.56,
+   "end": 591.8,
+   "text": "And, um, um, and it also happened to be their 36th birthday for the franchise, Car"
+  },
+  {
+   "start": 591.8,
+   "end": 592.14,
+   "text": "Tours."
+  },
+  {
+   "start": 592.46,
+   "end": 596.24,
+   "text": "And, uh, they have, I guess, up to 50% off."
+  },
+  {
+   "start": 596.4,
+   "end": 599.96,
+   "text": "And so I was talking to them, and they were saying it's real expensive to do what I want"
+  },
+  {
+   "start": 599.96,
+   "end": 604.48,
+   "text": "To, they were like, no, but you should do it, because it's like 30%, 50% off."
+  },
+  {
+   "start": 604.54,
+   "end": 605.88,
+   "text": "It's like cheaper than Black Friday."
+  },
+  {
+   "start": 606.18,
+   "end": 609.58,
+   "text": "And plus you can get financing no interest for a year and a half."
+  },
+  {
+   "start": 609.6,
+   "end": 610.6,
+   "text": "I was like, year and a half?"
+  },
+  {
+   "start": 610.6,
+   "end": 615.42,
+   "text": "So yeah, I ended up getting, so I ended up, and I hope my mom doesn't watch this, because"
+  },
+  {
+   "start": 615.42,
+   "end": 616.16,
+   "text": "I'm not going to tell her."
+  },
+  {
+   "start": 616.72,
+   "end": 623.06,
+   "text": "I ended up getting the thousand watt stereo system in there, that they're going to install"
+  },
+  {
+   "start": 623.06,
+   "end": 627.68,
+   "text": "On the 8th, because, uh, I don't have to pay for a year and a half of the problemism"
+  },
+  {
+   "start": 627.68,
+   "end": 629.08,
+   "text": "Already, like so in debt."
+  },
+  {
+   "start": 630.6,
+   "end": 636.12,
+   "text": "But, uh, and it's, it's with a seven, a seven inch screen with the dash cam forward and"
+  },
+  {
+   "start": 636.12,
+   "end": 639.94,
+   "text": "Backward, and then dash, uh, video camera for back."
+  },
+  {
+   "start": 640.6,
+   "end": 647.3,
+   "text": "And, uh, oh God, I don't want to say how much it was, but, um, yeah, but like, that"
+  },
+  {
+   "start": 647.3,
+   "end": 651.6,
+   "text": "Means that it's one of those 20 foot ton, 9%."
+  },
+  {
+   "start": 651.6,
+   "end": 656.26,
+   "text": "And so I have to pay it off, but I have a year and a half, but I have these other ones"
+  },
+  {
+   "start": 656.26,
+   "end": 661.92,
+   "text": "That I owe so much, so I have to pay those off."
+  },
+  {
+   "start": 662.02,
+   "end": 668.1,
+   "text": "So I have to make sure to pay off this expensive one, even though I can't pay off those other"
+  },
+  {
+   "start": 668.1,
+   "end": 669.24,
+   "text": "Ones and leave those ones high."
+  },
+  {
+   "start": 669.56,
+   "end": 676.0,
+   "text": "So I've got all this debt from crazy town, but because I, I got the Black Friday sale,"
+  },
+  {
+   "start": 676.0,
+   "end": 678.76,
+   "text": "Um, and they wanted to do, oh yeah."
+  },
+  {
+   "start": 678.84,
+   "end": 681.2,
+   "text": "Plus they, see, I'm, I'm like superstitious."
+  },
+  {
+   "start": 681.2,
+   "end": 689.34,
+   "text": "Um, and, uh, I think it's, and I never used to be that way."
+  },
+  {
+   "start": 689.54,
+   "end": 692.1,
+   "text": "When I was younger, I used to be the opposite."
+  },
+  {
+   "start": 692.32,
+   "end": 695.24,
+   "text": "I used to like decide that I want something and that I'm going to get it no matter what,"
+  },
+  {
+   "start": 695.46,
+   "end": 697.74,
+   "text": "Even if the circumstances aren't right."
+  },
+  {
+   "start": 697.8,
+   "end": 700.5,
+   "text": "And then I got older and I'm like, fuck that."
+  },
+  {
+   "start": 700.5,
+   "end": 703.3,
+   "text": "Cause I wasted so much money doing that."
+  },
+  {
+   "start": 703.5,
+   "end": 704.1,
+   "text": "Like no."
+  },
+  {
+   "start": 705.1,
+   "end": 711.16,
+   "text": "So now what I do is if opportunities present themselves, then I'll go in."
+  },
+  {
+   "start": 712.06,
+   "end": 714.84,
+   "text": "And so, you know, I have this car."
+  },
+  {
+   "start": 716.32,
+   "end": 721.38,
+   "text": "It's, it's the kind, I happen to have a car that, um, that you would want to put a stereo"
+  },
+  {
+   "start": 721.38,
+   "end": 722.14,
+   "text": "Like that into."
+  },
+  {
+   "start": 722.34,
+   "end": 722.72,
+   "text": "Okay."
+  },
+  {
+   "start": 722.72,
+   "end": 723.84,
+   "text": "I'll just say how much I spent."
+  },
+  {
+   "start": 724.32,
+   "end": 726.14,
+   "text": "I'm $11,000 in debt."
+  },
+  {
+   "start": 726.14,
+   "end": 735.14,
+   "text": "Um, $1,000 over my credit limit on top of that, I'm over my credit limit."
+  },
+  {
+   "start": 735.24,
+   "end": 738.84,
+   "text": "I'm like $9,000 in debt on my Amazon card."
+  },
+  {
+   "start": 739.34,
+   "end": 743.0,
+   "text": "So it's like $20,000 in debt on top of that."
+  },
+  {
+   "start": 743.9,
+   "end": 746.1,
+   "text": "I just blew eight and a half thousand dollars."
+  },
+  {
+   "start": 746.44,
+   "end": 755.06,
+   "text": "So now I'm 28 and a half thousand dollars in debt because I'm a shopaholic."
+  },
+  {
+   "start": 755.34,
+   "end": 763.62,
+   "text": "And so I have to, I have to pay off that eight, eight and a half thousand or eight thousand"
+  },
+  {
+   "start": 763.62,
+   "end": 765.34,
+   "text": "Because I have 8,000 credit limit."
+  },
+  {
+   "start": 765.72,
+   "end": 769.14,
+   "text": "So I have to pay $500 to them on the eighth."
+  },
+  {
+   "start": 769.48,
+   "end": 775.37,
+   "text": "And then I don't have to pay 8,000 for a year and a half, but I have to pay that off in"
+  },
+  {
+   "start": 775.37,
+   "end": 777.13,
+   "text": "A year and a half when I already have the other."
+  },
+  {
+   "start": 778.21,
+   "end": 781.07,
+   "text": "So, um, what was I saying?"
+  },
+  {
+   "start": 782.96,
+   "end": 788.07,
+   "text": "Um, uh, oh yeah, the opportunity."
+  },
+  {
+   "start": 788.07,
+   "end": 795.15,
+   "text": "So I was like, they have that Black Friday sale."
+  },
+  {
+   "start": 795.23,
+   "end": 801.56,
+   "text": "And if you're going to spend that much money, then that's, that's the sale that you would"
+  },
+  {
+   "start": 801.56,
+   "end": 802.54,
+   "text": "Use to spend that much money."
+  },
+  {
+   "start": 802.68,
+   "end": 803.44,
+   "text": "You know what I mean?"
+  },
+  {
+   "start": 803.44,
+   "end": 808.88,
+   "text": "You wouldn't use a black, something that's cheaper than Black Friday to, to, to spend a"
+  },
+  {
+   "start": 808.88,
+   "end": 809.38,
+   "text": "Hundred bucks."
+  },
+  {
+   "start": 809.86,
+   "end": 813.7,
+   "text": "You would something that use something that's cheaper than Black Friday to spend eight and"
+  },
+  {
+   "start": 813.7,
+   "end": 814.6,
+   "text": "A half thousand dollars."
+  },
+  {
+   "start": 814.6,
+   "end": 821.24,
+   "text": "Um, now it's kind of a gamble cause it could bite me in the ass with the, uh, interest,"
+  },
+  {
+   "start": 821.36,
+   "end": 826.72,
+   "text": "Which it actually, the last time I did that, it did bite me in the ass, like big time to"
+  },
+  {
+   "start": 826.72,
+   "end": 829.0,
+   "text": "The point that I think I'm going to look into suing."
+  },
+  {
+   "start": 830.56,
+   "end": 836.42,
+   "text": "Um, I can't even remember the name of it."
+  },
+  {
+   "start": 836.76,
+   "end": 840.26,
+   "text": "Synchrony, Synchrony credit card, 29%."
+  },
+  {
+   "start": 840.26,
+   "end": 843.16,
+   "text": "They were charging me 1300 bucks a month interest."
+  },
+  {
+   "start": 843.84,
+   "end": 845.8,
+   "text": "That sounds like way too much."
+  },
+  {
+   "start": 846.08,
+   "end": 846.92,
+   "text": "Just interest."
+  },
+  {
+   "start": 846.92,
+   "end": 848.8,
+   "text": "So I had to sell my van."
+  },
+  {
+   "start": 849.02,
+   "end": 853.52,
+   "text": "I was like, sell the van because I was an idiot and I didn't sell the van before the interest"
+  },
+  {
+   "start": 853.52,
+   "end": 855.32,
+   "text": "Kicked in and that, but I only had a year."
+  },
+  {
+   "start": 855.58,
+   "end": 861.74,
+   "text": "That was when I spent $14,000 on a bicycle that I only rode two times."
+  },
+  {
+   "start": 863.93,
+   "end": 869.07,
+   "text": "The people who sold the bike to me were like emailing me multiple times, like taking the"
+  },
+  {
+   "start": 869.07,
+   "end": 874.05,
+   "text": "Piss out of me, offering to buy it back for like one 10th of what I paid for."
+  },
+  {
+   "start": 874.15,
+   "end": 876.87,
+   "text": "And it made me sell mad and I emailed him back and like, shut the fuck up."
+  },
+  {
+   "start": 876.87,
+   "end": 881.47,
+   "text": "Um, cause I'm not going to sell it back."
+  },
+  {
+   "start": 881.47,
+   "end": 882.07,
+   "text": "I'm going to keep it."
+  },
+  {
+   "start": 882.07,
+   "end": 887.47,
+   "text": "Um, cause that's the strategy, what I'm doing."
+  },
+  {
+   "start": 887.63,
+   "end": 888.89,
+   "text": "See, all this makes sense."
+  },
+  {
+   "start": 888.89,
+   "end": 901.05,
+   "text": "What I'm doing is I'm accumulating toys, slowly accumulating and not thinking about it so that"
+  },
+  {
+   "start": 901.05,
+   "end": 908.11,
+   "text": "When the time comes and I finally get to that stopping point on my website of which is extremely"
+  },
+  {
+   "start": 908.11,
+   "end": 912.93,
+   "text": "Difficult to predict because it's all based on feeling."
+  },
+  {
+   "start": 914.77,
+   "end": 922.4,
+   "text": "So, um, you know, like if you're me and you have, and you'd have to look at my website to"
+  },
+  {
+   "start": 922.4,
+   "end": 927.04,
+   "text": "Know anything about me, but if you're me and you have all those projects on my website that are not"
+  },
+  {
+   "start": 927.04,
+   "end": 932.5,
+   "text": "Done, that could cause a person to feel extremely, um, self-conscious cause then people are just"
+  },
+  {
+   "start": 932.5,
+   "end": 935.44,
+   "text": "Going to take the piss out of you and think that you're crazy, which they do."
+  },
+  {
+   "start": 935.6,
+   "end": 941.3,
+   "text": "People treat me like, uh, they try to make me stop working on the website and they don't have"
+  },
+  {
+   "start": 941.3,
+   "end": 942.58,
+   "text": "Any interest in it and stuff."
+  },
+  {
+   "start": 944.46,
+   "end": 948.76,
+   "text": "And, um, that makes you want to finish it."
+  },
+  {
+   "start": 948.76,
+   "end": 953.64,
+   "text": "Like, but what happens if all of a sudden there's all these other projects that you need to do?"
+  },
+  {
+   "start": 953.68,
+   "end": 956.82,
+   "text": "Like you're a shopaholic with your time, not just with your money, but with your time."
+  },
+  {
+   "start": 957.98,
+   "end": 964.24,
+   "text": "So it's a based on feeling thing, you know, you, you, you, you hope that you didn't want"
+  },
+  {
+   "start": 964.24,
+   "end": 967.48,
+   "text": "To have all these projects, but that's your nature."
+  },
+  {
+   "start": 968.32,
+   "end": 976.04,
+   "text": "It's kind of like, uh, the story of the port, the scorpion who was drowning and he needed"
+  },
+  {
+   "start": 976.04,
+   "end": 986.16,
+   "text": "To be rescued by the otter and the, and, um, or by the frog and the scorpions like, don't"
+  },
+  {
+   "start": 986.16,
+   "end": 987.04,
+   "text": "Rescue me, dude."
+  },
+  {
+   "start": 987.14,
+   "end": 988.76,
+   "text": "I'll probably sting you and kill you."
+  },
+  {
+   "start": 989.06,
+   "end": 991.06,
+   "text": "And he's the frogs like, but we're friends."
+  },
+  {
+   "start": 991.98,
+   "end": 992.9,
+   "text": "He's like, okay."
+  },
+  {
+   "start": 993.78,
+   "end": 996.76,
+   "text": "And like right before they're about to, it's as an ancient Greek myth."
+  },
+  {
+   "start": 997.06,
+   "end": 1001.44,
+   "text": "And right before they're about to get to the, to the edge, the scorpion stings the frog"
+  },
+  {
+   "start": 1001.44,
+   "end": 1002.06,
+   "text": "And kills them."
+  },
+  {
+   "start": 1002.24,
+   "end": 1003.92,
+   "text": "And as the frog's dying, he's like, we're friends."
+  },
+  {
+   "start": 1003.96,
+   "end": 1004.54,
+   "text": "Why'd you do that?"
+  },
+  {
+   "start": 1004.58,
+   "end": 1005.28,
+   "text": "I just saved your life."
+  },
+  {
+   "start": 1005.28,
+   "end": 1006.64,
+   "text": "He goes, I'm a scorpion."
+  },
+  {
+   "start": 1008.26,
+   "end": 1009.96,
+   "text": "So like, that's me."
+  },
+  {
+   "start": 1010.02,
+   "end": 1011.96,
+   "text": "I'm a fucking shopaholic, dude."
+  },
+  {
+   "start": 1011.96,
+   "end": 1019.14,
+   "text": "Like I'm addicted to weed, but that's, but I use it for my website and I'm addicted to"
+  },
+  {
+   "start": 1019.14,
+   "end": 1026.98,
+   "text": "The website, but I'm also addicted to, you know, buying stuff, but I'm addicted to the"
+  },
+  {
+   "start": 1026.98,
+   "end": 1027.36,
+   "text": "Website."
+  },
+  {
+   "start": 1028.02,
+   "end": 1035.0,
+   "text": "And so, uh, it's kind of hard to tell a heroin addict when they're going to be able to quit"
+  },
+  {
+   "start": 1035.0,
+   "end": 1035.46,
+   "text": "Their heroin."
+  },
+  {
+   "start": 1035.68,
+   "end": 1036.2,
+   "text": "You know what I mean?"
+  },
+  {
+   "start": 1037.18,
+   "end": 1043.22,
+   "text": "And so, um, and it's also difficult to, to predict when you're going to finish something"
+  },
+  {
+   "start": 1043.22,
+   "end": 1050.72,
+   "text": "Because, um, there's so many different projects and the projects that can get done can get"
+  },
+  {
+   "start": 1050.72,
+   "end": 1051.54,
+   "text": "Done very quickly."
+  },
+  {
+   "start": 1051.54,
+   "end": 1055.02,
+   "text": "Like you're working on something, working on, and then all of a sudden you're done."
+  },
+  {
+   "start": 1055.02,
+   "end": 1058.28,
+   "text": "Like you kind of can forget how close you are."
+  },
+  {
+   "start": 1058.28,
+   "end": 1062.42,
+   "text": "And if you're that close to a gazillion projects, maybe I am pretty close."
+  },
+  {
+   "start": 1062.42,
+   "end": 1069.3,
+   "text": "Maybe in six months I could be done close enough to wrap it up and back, back, um, stuff back"
+  },
+  {
+   "start": 1069.3,
+   "end": 1070.58,
+   "text": "Binge stuff."
+  },
+  {
+   "start": 1070.58,
+   "end": 1075.54,
+   "text": "And so if I suddenly freak out one day and decide that I have to start training or whatever,"
+  },
+  {
+   "start": 1075.62,
+   "end": 1081.22,
+   "text": "Be a normal person, I'm, it's going to be extremely stressful if I don't have the gear"
+  },
+  {
+   "start": 1081.22,
+   "end": 1084.62,
+   "text": "Because I'm not going to want to just start running."
+  },
+  {
+   "start": 1085.28,
+   "end": 1088.1,
+   "text": "I'm going to want to do more than things in that."
+  },
+  {
+   "start": 1088.22,
+   "end": 1089.1,
+   "text": "There's more stuff."
+  },
+  {
+   "start": 1089.1,
+   "end": 1097.88,
+   "text": "So, um, uh, so that's why, uh, the idea of driving a car up into the mountains with"
+  },
+  {
+   "start": 1097.88,
+   "end": 1102.98,
+   "text": "A stereo system is just a gazillion times better than doing it without a stereo system"
+  },
+  {
+   "start": 1102.98,
+   "end": 1110.36,
+   "text": "Because the Subaru Impreza, it's, oh, like I was saying the Subaru Impreza, it's like a"
+  },
+  {
+   "start": 1110.36,
+   "end": 1111.68,
+   "text": "Car that you would never sell."
+  },
+  {
+   "start": 1111.84,
+   "end": 1118.62,
+   "text": "Like nobody would ever junkyard a 96 Subaru Impreza hatchback because it's one of those cars"
+  },
+  {
+   "start": 1118.62,
+   "end": 1120.46,
+   "text": "That are like perfectly designed cars."
+  },
+  {
+   "start": 1121.1,
+   "end": 1124.24,
+   "text": "Like you couldn't improve on them and they'll, they'll never make them again."
+  },
+  {
+   "start": 1124.84,
+   "end": 1132.62,
+   "text": "You know, I have a, it's less than 2,700 pounds, 2.2 liter."
+  },
+  {
+   "start": 1132.94,
+   "end": 1133.92,
+   "text": "So you can get what?"
+  },
+  {
+   "start": 1134.48,
+   "end": 1138.86,
+   "text": "And then if you turbo and all that later on, that's when another car, but like 400 pound,"
+  },
+  {
+   "start": 1139.0,
+   "end": 1142.02,
+   "text": "400 horsepower, you get it to like three point something seconds, zero to 60."
+  },
+  {
+   "start": 1142.16,
+   "end": 1143.84,
+   "text": "You can make it a world-class sports car."
+  },
+  {
+   "start": 1143.94,
+   "end": 1145.78,
+   "text": "So why would you ever junkyard it?"
+  },
+  {
+   "start": 1146.7,
+   "end": 1150.04,
+   "text": "So if you can make it a world-class sports car, there does have some downside."
+  },
+  {
+   "start": 1150.16,
+   "end": 1151.44,
+   "text": "It's got a loud engine."
+  },
+  {
+   "start": 1151.66,
+   "end": 1153.16,
+   "text": "The boxer engine has the pistons."
+  },
+  {
+   "start": 1153.16,
+   "end": 1156.24,
+   "text": "It's called a boxer engine because the pistons go to each other like they're boxing."
+  },
+  {
+   "start": 1157.12,
+   "end": 1158.58,
+   "text": "But because of that, they're loud."
+  },
+  {
+   "start": 1158.76,
+   "end": 1160.74,
+   "text": "The engine comes up right in your face."
+  },
+  {
+   "start": 1161.42,
+   "end": 1164.6,
+   "text": "And that's why Subarus are like, sounds like a race car engine."
+  },
+  {
+   "start": 1165.26,
+   "end": 1167.06,
+   "text": "And you don't want to hear that as you're driving up the road."
+  },
+  {
+   "start": 1167.1,
+   "end": 1168.42,
+   "text": "You want to hear nice music."
+  },
+  {
+   "start": 1169.56,
+   "end": 1172.68,
+   "text": "And that'll make it seem like it's a luxury car."
+  },
+  {
+   "start": 1172.9,
+   "end": 1174.04,
+   "text": "And then a fast luxury car."
+  },
+  {
+   "start": 1174.1,
+   "end": 1174.78,
+   "text": "That's a nice car."
+  },
+  {
+   "start": 1174.78,
+   "end": 1176.72,
+   "text": "So, oh yeah."
+  },
+  {
+   "start": 1176.82,
+   "end": 1181.42,
+   "text": "So that's why I decided to do all that, you know, invest into it."
+  },
+  {
+   "start": 1181.5,
+   "end": 1186.26,
+   "text": "Because if I do sell it and I don't plan on, but if I do, whoever I sell it to would want"
+  },
+  {
+   "start": 1186.26,
+   "end": 1189.36,
+   "text": "To have a nice stereo system in it anyway, because it's one of those cars you would want"
+  },
+  {
+   "start": 1189.36,
+   "end": 1189.84,
+   "text": "To keep forever."
+  },
+  {
+   "start": 1190.16,
+   "end": 1192.52,
+   "text": "So, yeah."
+  },
+  {
+   "start": 1192.74,
+   "end": 1195.86,
+   "text": "So, but what the hell was I saying?"
+  },
+  {
+   "start": 1195.86,
+   "end": 1199.66,
+   "text": "Oh man, I was saying something."
+  },
+  {
+   "start": 1201.4,
+   "end": 1205.88,
+   "text": "Oh yeah, the reason, the reason why I'm investing, right?"
+  },
+  {
+   "start": 1206.88,
+   "end": 1210.76,
+   "text": "Well, because it also motivates me to stay in my room, you know, when I don't have money."
+  },
+  {
+   "start": 1211.8,
+   "end": 1216.18,
+   "text": "I don't spend it on, if you have money, you spend it on stuff, right?"
+  },
+  {
+   "start": 1216.6,
+   "end": 1222.66,
+   "text": "And if I had money, I might invest it in a bicycle."
+  },
+  {
+   "start": 1222.66,
+   "end": 1228.42,
+   "text": "But if I invested in an expensive ass bicycle again, like a mountain bike or a gravel bike,"
+  },
+  {
+   "start": 1228.5,
+   "end": 1230.98,
+   "text": "Which is what I want, I'm not going to ride it."
+  },
+  {
+   "start": 1232.82,
+   "end": 1235.32,
+   "text": "So it's just sinking money again, right?"
+  },
+  {
+   "start": 1236.2,
+   "end": 1246.12,
+   "text": "And so when I do ride it, like once I pay off my debts in a year and a half, if I, hopefully"
+  },
+  {
+   "start": 1246.12,
+   "end": 1251.82,
+   "text": "I will, I could just go into debt again and get a mountain bike."
+  },
+  {
+   "start": 1251.82,
+   "end": 1256.0,
+   "text": "And so, at that point, when I ride it."
+  },
+  {
+   "start": 1256.36,
+   "end": 1271.54,
+   "text": "So, yeah, so, anyway, so, I, yeah, my head, the work that I'm doing now is total brain candy"
+  },
+  {
+   "start": 1271.54,
+   "end": 1274.12,
+   "text": "So I can start listening to Thucydides."
+  },
+  {
+   "start": 1274.26,
+   "end": 1275.56,
+   "text": "I was trying to listen to it yesterday."
+  },
+  {
+   "start": 1275.56,
+   "end": 1283.06,
+   "text": "But, uh, my head was, I was, I think it was, I was trying to listen to it when I was choosing"
+  },
+  {
+   "start": 1283.06,
+   "end": 1287.6,
+   "text": "Fonts and I can't listen to something when I was choosing fonts because I just have to"
+  },
+  {
+   "start": 1287.6,
+   "end": 1292.78,
+   "text": "Use, it's hard to explain why, but I just have to use all of my brain to choose a font"
+  },
+  {
+   "start": 1292.78,
+   "end": 1293.38,
+   "text": "Or something."
+  },
+  {
+   "start": 1293.88,
+   "end": 1297.08,
+   "text": "I have to consider everything about it, you know, so I can't listen to something."
+  },
+  {
+   "start": 1297.08,
+   "end": 1303.58,
+   "text": "But now that I'm doing just brain candy, cutting, pasting, and then linking for the next probably"
+  },
+  {
+   "start": 1303.58,
+   "end": 1312.6,
+   "text": "At least three days, probably four, my goal, my goal is to be done by, ah, fuck it."
+  },
+  {
+   "start": 1312.96,
+   "end": 1317.54,
+   "text": "My goal is to be done by all this by Sunday, which is, if I'm not done this month, I'm going"
+  },
+  {
+   "start": 1317.54,
+   "end": 1318.22,
+   "text": "To be pissed."
+  },
+  {
+   "start": 1318.22,
+   "end": 1324.75,
+   "text": "So, but you know, then it'll be, it'll be easy."
+  },
+  {
+   "start": 1324.99,
+   "end": 1331.53,
+   "text": "It'll, it'll make it so much more accessible to people, hopefully to get those fonts, you"
+  },
+  {
+   "start": 1331.53,
+   "end": 1335.01,
+   "text": "Know, cause my mom's saying, you're never going to be able to get anybody to get the fonts."
+  },
+  {
+   "start": 1335.17,
+   "end": 1339.11,
+   "text": "But if I have them linked directly from my website, when you read it and they see that"
+  },
+  {
+   "start": 1339.11,
+   "end": 1341.97,
+   "text": "I have them linked, all you have to do is double click it and it's on your computer."
+  },
+  {
+   "start": 1342.63,
+   "end": 1348.03,
+   "text": "And if you already have Envato or I'm going to see if these are available Envato, but if you"
+  },
+  {
+   "start": 1348.03,
+   "end": 1351.05,
+   "text": "Already have like a dolly, there's no excuse to not have these fonts."
+  },
+  {
+   "start": 1351.47,
+   "end": 1355.07,
+   "text": "People, somebody was mentioning on my video that putting all the fonts on your computer"
+  },
+  {
+   "start": 1355.07,
+   "end": 1357.91,
+   "text": "Makes your computer slow and your website slow."
+  },
+  {
+   "start": 1358.59,
+   "end": 1365.69,
+   "text": "Uh, it has appeared to make my website crash on Google Chrome, but the fonts don't even"
+  },
+  {
+   "start": 1365.69,
+   "end": 1369.59,
+   "text": "Show up on Safari, only on Mozilla and Mozilla works just fine."
+  },
+  {
+   "start": 1369.73,
+   "end": 1371.71,
+   "text": "So, and my computer isn't slow."
+  },
+  {
+   "start": 1372.59,
+   "end": 1376.01,
+   "text": "So that whole thing about, and it doesn't take any time at all to put the fonts on."
+  },
+  {
+   "start": 1376.01,
+   "end": 1380.79,
+   "text": "Like if you could download all these, like I drug the entire folder over and just put"
+  },
+  {
+   "start": 1380.79,
+   "end": 1381.57,
+   "text": "Them in instantaneously."
+  },
+  {
+   "start": 1381.87,
+   "end": 1386.81,
+   "text": "You could download all these all at once and within a couple, a few minutes, a couple hours,"
+  },
+  {
+   "start": 1386.91,
+   "end": 1392.63,
+   "text": "Maybe download them all, uh, or an hour and then they're on your computer, you know, we're"
+  },
+  {
+   "start": 1392.63,
+   "end": 1392.87,
+   "text": "Good."
+  },
+  {
+   "start": 1393.63,
+   "end": 1395.35,
+   "text": "So, uh, and they're already renamed."
+  },
+  {
+   "start": 1395.49,
+   "end": 1397.23,
+   "text": "You would have to rename them if you did them from Adobe."
+  },
+  {
+   "start": 1397.39,
+   "end": 1399.73,
+   "text": "So Adobe should be thanking me for making it easier."
+  },
+  {
+   "start": 1399.77,
+   "end": 1401.15,
+   "text": "And I don't know why they don't do it like this."
+  },
+  {
+   "start": 1401.83,
+   "end": 1403.33,
+   "text": "So anyways, that's enough talking."
+  },
+  {
+   "start": 1403.33,
+   "end": 1405.03,
+   "text": "Um, I haven't eaten like anything today."
+  },
+  {
+   "start": 1405.09,
+   "end": 1408.55,
+   "text": "I had one thing of sleep at my mom's house, so I'm gonna have to eat pretty soon."
+  },
+  {
+   "start": 1408.77,
+   "end": 1411.39,
+   "text": "But, um, I, uh, yeah."
+  },
+  {
+   "start": 1411.55,
+   "end": 1419.29,
+   "text": "So I just disclosed financial stuff, which my mom doesn't want me to do, but, um, so yeah,"
+  },
+  {
+   "start": 1419.29,
+   "end": 1420.85,
+   "text": "I'm committed for the next year and a half."
+  },
+  {
+   "start": 1420.89,
+   "end": 1422.43,
+   "text": "Basically, that's the moral of the story."
+  },
+  {
+   "start": 1423.27,
+   "end": 1428.61,
+   "text": "The next year and a half, I'm locked in my room trying to spend no money."
+  },
+  {
+   "start": 1428.61,
+   "end": 1438.47,
+   "text": "Uh, eat, eat, eat, no food, just the simple food for the next year and a half."
+  },
+  {
+   "start": 1439.33,
+   "end": 1443.77,
+   "text": "And I know, like I said before, my website will inhale a year and a half."
+  },
+  {
+   "start": 1443.89,
+   "end": 1444.53,
+   "text": "Like it's nothing."
+  },
+  {
+   "start": 1444.69,
+   "end": 1446.75,
+   "text": "Just, is there more?"
+  },
+  {
+   "start": 1446.87,
+   "end": 1447.53,
+   "text": "We want more."
+  },
+  {
+   "start": 1447.91,
+   "end": 1448.99,
+   "text": "I guarantee you."
+  },
+  {
+   "start": 1448.99,
+   "end": 1455.39,
+   "text": "Um, and, uh, and in a year and a half, it'll be in the same exact situation as I am now."
+  },
+  {
+   "start": 1456.11,
+   "end": 1463.15,
+   "text": "I'll have like 50 different projects, none finished, just frantically thinking I'm almost"
+  },
+  {
+   "start": 1463.15,
+   "end": 1463.95,
+   "text": "Done with all of them."
+  },
+  {
+   "start": 1464.77,
+   "end": 1473.09,
+   "text": "So it's just that in a year and a half, I guarantee you I'll be a lot closer than I am now because"
+  },
+  {
+   "start": 1473.09,
+   "end": 1476.11,
+   "text": "In one day you can get a lot closer, right?"
+  },
+  {
+   "start": 1476.15,
+   "end": 1476.73,
+   "text": "That's how it works."
+  },
+  {
+   "start": 1476.81,
+   "end": 1479.63,
+   "text": "So, uh, simple, it's called philosophy."
+  },
+  {
+   "start": 1481.23,
+   "end": 1484.91,
+   "text": "And so, um, yeah, I will give an update tomorrow."
+  },
+  {
+   "start": 1485.03,
+   "end": 1487.11,
+   "text": "I guess this is really long because I didn't do mine yesterday."
+  },
+  {
+   "start": 1487.53,
+   "end": 1488.39,
+   "text": "Talk to tomorrow."
+  }
+ ]
+}
