@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-3320 videos with transcripts. Source of truth for transcripts + enrichments.
+3510 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -58,17 +58,207 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2021-03-03 | [Antifa violenge of 2020  - Request (I love them)](corpus/videos/uF7lSGMsIt0.json) | kyle | Kyle responds to a viewer request about Antifa violence in 2020. He shares his take after watching several Antifa vs. Pr |
 | 2021-03-01 | [BLM - Request](corpus/videos/F15sNJSyxPQ.json) | kyle | Kyle gives his opinion on Black Lives Matter after accidentally losing a 50-minute recording. He supports BLM and Antifa |
 | 2021-02-27 | [Trump Impeachment’s - Request](corpus/videos/zck5rrUm7Tg.json) | kyle | Kyle gives his opinion on both Trump impeachments, arguing both were justified. He explains the Ukraine/Burisma quid pro |
+| 2020-09-20 | [9/20/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/k7d68OjmPrM.json) | — |  |
+| 2020-09-19 | [9/19/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/tDPt2-EGQVo.json) | — |  |
+| 2020-09-18 | [9/18/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/NtLf8oOb8o8.json) | — |  |
+| 2020-09-08 | [9/8/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/ZkYfz2x6THs.json) | — |  |
+| 2020-09-06 | [9/6/20 Turn Comments Back on YouTube!](corpus/videos/tnVC8-PZxws.json) | — |  |
+| 2020-09-05 | [9/5/20](corpus/videos/GZfZLgHoOhk.json) | — |  |
+| 2020-09-04 | [9/4/20 Atlantis Google Earth](corpus/videos/ZP_sx7uEpQ0.json) | — |  |
+| 2020-09-03 | [9/3/20](corpus/videos/4gpsQwj_nHY.json) | — |  |
+| 2020-09-02 | [9/2/20 Atlantis w/ Time trials & nuclear bombs](corpus/videos/LxGUzB4doa8.json) | — |  |
+| 2020-09-01 | [9/1/20](corpus/videos/pMvHdT3HzLM.json) | — |  |
+| 2020-08-31 | [8/31/20](corpus/videos/Hv8cKzA_B78.json) | — |  |
+| 2020-08-30 | [8/30/20 Atlantis Google Earthing](corpus/videos/SJIn56pAeK0.json) | — |  |
+| 2020-08-29 | [8/29/20 Atlantis Google Earthing for Video](corpus/videos/e2F6zNdDHVE.json) | — |  |
+| 2020-08-28 | [8/28/20 Atlantis Google Earthing for video](corpus/videos/OZ3KLmZwADI.json) | — |  |
+| 2020-08-27 | [8/27/20 Gunna do Atlantis for a week](corpus/videos/qP-XMuVHw0s.json) | — |  |
+| 2020-08-26 | [8/26/20 Gotsta prep Atlantis! Full Neurotic Mode FNM](corpus/videos/v0YWAudVsAk.json) | — |  |
+| 2020-08-25 | [8/25/20](corpus/videos/xvatnCO7xlA.json) | — |  |
+| 2020-08-24 | [8/24/20 Swam 4,829 yd 1h 38m 2:02 /100yd. Ran .2 miles before calf tor](corpus/videos/rOOSCUGicLg.json) | — |  |
+| 2020-08-23 | [8/23/20 Swam 3,723yd 1:13:22  1:58/100yd 148 laps in 23Yard Pool. Star](corpus/videos/oFiDjQZwT2w.json) | — |  |
+| 2020-08-22 | [8/22/20 Swam like 3K in like 1:08. Forgot to put it on Strava. Had all](corpus/videos/xZjv5FFzTUw.json) | — |  |
+| 2020-08-21 | [8/21/20](corpus/videos/TT6JFREJxZM.json) | — |  |
+| 2020-08-20 | [8/20/20](corpus/videos/Oo0g-QWLcSg.json) | — |  |
 | 2020-08-20 | [History of Mammals](corpus/videos/_HMbBo5m6qU.json) | kyle | Kyle gives a wide-ranging, off-the-cuff lecture on mammal evolution, covering the origins of mammals from reptiles, cont |
+| 2020-08-19 | [8/19/20](corpus/videos/LQcb9VgYokE.json) | — |  |
+| 2020-08-17 | [8/17/20](corpus/videos/5-mclnoWZBo.json) | — |  |
+| 2020-08-17 | [8/17/20 2/2](corpus/videos/Qq3PgzyYSNc.json) | — |  |
+| 2020-08-14 | [8/14/20](corpus/videos/RQMlCk8x0ns.json) | — |  |
+| 2020-08-13 | [8/13/20](corpus/videos/3NxSDmu5yXM.json) | — |  |
+| 2020-08-12 | [8/12/20](corpus/videos/GqMIur0QYZE.json) | — |  |
+| 2020-08-11 | [8/11/20](corpus/videos/QT7ok3_QsPk.json) | — |  |
+| 2020-08-10 | [8/10/20](corpus/videos/aFeMYQ_4KXE.json) | — |  |
+| 2020-08-09 | [8/9/20](corpus/videos/wQQM5fnUGY4.json) | — |  |
+| 2020-08-08 | [8/8/20 1st Run Chataqua  2.61mi 38:29MT 14:44/mi Stopped from pulled c](corpus/videos/0kwcY94_ov4.json) | — |  |
+| 2020-08-07 | [8/7/20 Rode & hung out with mom. Slept all day.](corpus/videos/FA5j3JpYxjs.json) | — |  |
+| 2020-08-06 | [8/6/20 107.65mi 5:51:40 3,671f 18.4mph 168W 2014 Boulder Ironman Bike ](corpus/videos/646wTWrlEDg.json) | — |  |
+| 2020-08-05 | [8/5/20 75.03mi 8:52:26 10:26:23 11,266ft Flagstaff Everesting Attempt ](corpus/videos/m0Gp0mgsuEE.json) | — |  |
+| 2020-08-04 | [8/4/20 Hung with mom, rested, organized. Set up Apple Music](corpus/videos/F8bsV4Lgkdo.json) | — |  |
+| 2020-08-03 | [8/3/20 Everesting Flagstaff attempt but lights weren't charged. 37.76m](corpus/videos/Cjj6RcnmehA.json) | — |  |
+| 2020-08-02 | [8/2/20 Helped mom. Didn't have time & wasn't organized enough to ride](corpus/videos/8VOpc3bcB-c.json) | — |  |
+| 2020-07-31 | [7/31/20 Everest attempt on Flagstaff but chain broke. 40.95mi 4:22:14 ](corpus/videos/FOBOiK4NGjM.json) | — |  |
+| 2020-07-30 | [7/30/20 Just taking it easy after skinning myself](corpus/videos/JgycN9oUjeQ.json) | — |  |
+| 2020-07-29 | [7/29/20 Recovery day after crash](corpus/videos/n8h_yJznJ7g.json) | — |  |
+| 2020-07-28 | [7/28/20 53.51 mi 4,990 ft 4h 19m. St. Vrain Canyon, Lee Hill. CRASHED](corpus/videos/ivzQt9aLWKs.json) | — |  |
+| 2020-07-27 | [7/27/20](corpus/videos/N2Me2H2K_tw.json) | — |  |
+| 2020-07-26 | [7/26/20 Ram 2 Mi, 10:17 /mi, Rode 29.30 mi 1,247 ft 1h 38m](corpus/videos/uxgajNBcrd4.json) | — |  |
+| 2020-07-25 | [7/25/20 Zwift ride to volcano20.00 mi 0 ft 2h 0m. Swam 1,761 yd 38m 28](corpus/videos/o1vSMH4oY9Q.json) | — |  |
+| 2020-07-24 | [7/24/20 Swam 3,094 yd 1h 12m 2:19 /100yd](corpus/videos/hk10yTc2kU8.json) | — |  |
+| 2020-07-23 | [7/23/20 41mi 1,365ft 2:26  Lyons & Hygiene. Swam 3,773yd 1:18](corpus/videos/6RawVl3KxG4.json) | — |  |
+| 2020-07-22 | [7/22/20 51.14 mi 6,152 ft 4h 40m  Brainard Lake](corpus/videos/BdQ10zgtbDg.json) | — |  |
+| 2020-07-21 | [7/21/20 30.75 mi 3,579 ft 2h 41m Left Hand Canyon. Swam 3,500 yd 1h 16](corpus/videos/wJuAeS9GbM8.json) | — |  |
+| 2020-07-20 | [7/20/20 6.64mi Tried to ride but it rained  29:21 Moving Time 249ft](corpus/videos/dI-eqkIl2BU.json) | — |  |
+| 2020-07-19 | [7/19/20 29.08mi 2:54:14 3,435ft Old stage, Lickskillet, Sunshine](corpus/videos/ZxGbYuqYoJo.json) | — |  |
+| 2020-07-18 | [7/18/20 Kirsten visits 2 Wks. James Pk, Apache Pk, 2 nights car campin](corpus/videos/hDBaf22FiO4.json) | — |  |
+| 2020-07-02 | [7/2/20 61.7mi 6,920ft 4:51 Linden, Georgetown, Ward, Old Stage](corpus/videos/y82eEKW6oYA.json) | — |  |
+| 2020-06-30 | [6/30/20 52.91mi 5752ft 3:34 Flagstaff & Georgetown](corpus/videos/5-sh_A7RbiA.json) | — |  |
+| 2020-06-29 | [6/29/20 Rest day. Gunna stretch.](corpus/videos/zzIrGOYdoKU.json) | — |  |
+| 2020-06-28 | [6/28/20 13.5mi 1,840ft Sunshine canyon](corpus/videos/QUROXpCu11A.json) | — |  |
+| 2020-06-27 | [6/27/20 44.42 mi 3,912 ft Lee Hill & St. Vrain](corpus/videos/xYUIIlExvwQ.json) | — |  |
 | 2020-06-26 | [WE COME FROM MONKEYS!!! Jeezzzzusss!!!!](corpus/videos/LFAKPulWcR8.json) | kyle | Kyle, unable to sleep at 4:30am and newly sober from marijuana, argues that humans do come from monkeys — contra the com |
+| 2020-06-26 | [6/26/20 Rest day, ORGANIZED](corpus/videos/wFwZvmyt-4Y.json) | — |  |
+| 2020-06-25 | [6/25/20 E-biked Lee hill 24.06mi 1:42:04 3,345 ft 140 effort](corpus/videos/Q8hi_EG9FwU.json) | — |  |
+| 2020-06-24 | [6/24/20 Two rides 1 made Strava 1st E-bike ride](corpus/videos/bLoENUOHGEk.json) | — |  |
+| 2020-06-23 | [6/23/20 Rode 27.88 mi 2:36:50 2,934 ft 244 effort 127 W 10.7 mph](corpus/videos/dTYVlT7IgDU.json) | — |  |
+| 2020-06-19 | [6/19/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/RJzWauSY7OY.json) | — |  |
+| 2020-06-18 | [6/18/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/YdyMS1qfeX8.json) | — |  |
+| 2020-06-17 | [6/17/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/ngKPXdR0hmY.json) | — |  |
+| 2020-06-16 | [6/16/20 Turn comments back on YouTube! FOR KIDS!](corpus/videos/fGQSIb98m1o.json) | — |  |
+| 2020-06-15 | [6/15/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/Wh9p5IeTxrw.json) | — |  |
+| 2020-06-14 | [6/14/20  Turn comments back on YouTube! FOR KIDS](corpus/videos/_h7orvm0jUg.json) | — |  |
+| 2020-06-13 | [6/13/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/k5xId0UnnMs.json) | — |  |
+| 2020-06-12 | [6/12/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/I0KP7c_TEWY.json) | — |  |
+| 2020-06-11 | [6/11/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/0qluyeG-7t8.json) | — |  |
+| 2020-06-10 | [6/10/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/_qY9wSGh5gI.json) | — |  |
+| 2020-06-09 | [6/9/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/t9YIbg-omHw.json) | — |  |
+| 2020-06-07 | [6/7/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/KtxnHXEMmJg.json) | — |  |
+| 2020-06-07 | [6/7/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/fZZ2RfZOnnw.json) | — |  |
+| 2020-06-05 | [6/5/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/zpkEyxkthsI.json) | — |  |
+| 2020-06-03 | [6/3/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/iuySkFTVq8w.json) | — |  |
+| 2020-06-02 | [6/2/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/m8lnPgdoZfY.json) | — |  |
+| 2020-06-01 | [6/1/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/R9H_zDy3TDs.json) | — |  |
+| 2020-05-31 | [5/31/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/3uYzqZQLVcs.json) | — |  |
+| 2020-05-30 | [5/30/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/nHeJcjYq2Co.json) | — |  |
+| 2020-05-22 | [5/22/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/pZfQlPNJx70.json) | — |  |
+| 2020-05-21 | [5/21/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/6Jn9ZkYL8Ww.json) | — |  |
+| 2020-05-19 | [5/19/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/IPCEF1JNciM.json) | — |  |
+| 2020-05-18 | [5/18/20](corpus/videos/mvB9yHdIMXc.json) | — |  |
+| 2020-05-18 | [5/18/20 Turn comments back on YouTube!](corpus/videos/vDUoST3XtrU.json) | — |  |
+| 2020-05-17 | [5/17/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/BO7fWixIYP0.json) | — |  |
+| 2020-05-15 | [5/15/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/Shak5jhODCo.json) | — |  |
+| 2020-05-14 | [5/14/20 Turn comments back on YouTube!](corpus/videos/yIx92GbEEPE.json) | — |  |
+| 2020-05-13 | [5/13/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/DIKbtVNniyU.json) | — |  |
+| 2020-05-11 | [5/11/20 Turn comments back on YouTube!](corpus/videos/hgqO3MA6-8A.json) | — |  |
+| 2020-05-09 | [5/9/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/PVW4bkFtlHI.json) | — |  |
+| 2020-05-08 | [5/8/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/8nOW84qQnY8.json) | — |  |
+| 2020-05-07 | [5/7/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/ISd3Rs8qNr8.json) | — |  |
+| 2020-05-06 | [5/6/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/6-ok9g75jEI.json) | — |  |
+| 2020-05-05 | [5/5/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/iHvNTRSLtOQ.json) | — |  |
+| 2020-05-04 | [5/4/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/bIBmTkFF1qQ.json) | — |  |
+| 2020-05-03 | [5/3/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/_ffDrAELt8g.json) | — |  |
+| 2020-05-02 | [5/2/20 Turn comments back on YouTube!](corpus/videos/ElnC2zcfDao.json) | — |  |
+| 2020-05-01 | [5/1/20 Turn comments back on YouTube!](corpus/videos/MzusiWzQHug.json) | — |  |
+| 2020-04-28 | [4/28/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/hjI2i6WghRM.json) | — |  |
+| 2020-04-27 | [4/27/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/W4Mil_iD8aY.json) | — |  |
+| 2020-04-25 | [4/25/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/cuIzv7Sly0c.json) | — |  |
+| 2020-04-24 | [4/24/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/rtFLQruuJEQ.json) | — |  |
+| 2020-04-23 | [4/23/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/y8CnrbExS9Q.json) | — |  |
 | 2020-04-22 | [Historical OMNISCIENCE is actually POSSIBLE!!! I can see it.](corpus/videos/53_THAl05L0.json) | kyle | Kyle argues that 'historical omniscience' — memorizing all of history as covered on Wikipedia — is genuinely achievable  |
+| 2020-04-22 | [4/22/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/C6GMspZpy18.json) | — |  |
 | 2020-04-22 | [I need to talk to Mark Blyth the economist! I HAVE THE ANSWER!](corpus/videos/yHQ_tknQmwk.json) | kyle | Kyle proposes his solution to what he sees as the root economic problem: excessive overhead and credentialism. He argues |
+| 2020-04-21 | [4/21/20 Turn comments back on YouTube!](corpus/videos/jF5rLk00WwY.json) | — |  |
+| 2020-04-20 | [4/20/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/BBTT3RQeVbs.json) | — |  |
 | 2020-04-19 | [How to answer ALL wacky spiritual questions with science](corpus/videos/KIy3Kwn7bkY.json) | kyle | Kyle proposes creating a mathematical framework that unifies reincarnation with scientific evolution, where a soul progr |
+| 2020-04-19 | [4/19/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/M7hh2z_BmqQ.json) | — |  |
 | 2020-04-17 | [Websites need to be designed for speed readers Amazon & Netflix U DUMB](corpus/videos/I2JCsR2bZ50.json) | kyle | Kyle argues that major websites like Netflix, Amazon Video, and Flickr are designed with oversized fonts and large image |
 | 2020-04-17 | [How to have complete UBI creative freedom yet stay civilized w/ each o](corpus/videos/d-8Xf7biQXQ.json) | kyle | Kyle argues that UBI will unleash massive creative potential, but society needs a system to maintain civility alongside  |
+| 2020-04-17 | [4/17/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/weCViugd7j4.json) | — |  |
+| 2020-04-16 | [4/16/20 Turn comments back on YouTube!](corpus/videos/R9yeh3mQS_g.json) | — |  |
 | 2020-04-15 | [UBI](corpus/videos/4ANoRztV6wg.json) | kyle | Kyle argues in favor of universal basic income (UBI), drawing on his own experience receiving passive income from a fami |
+| 2020-04-15 | [4/15/20 Turn comments back on YouTube!](corpus/videos/hn3aZqJRBOs.json) | — |  |
 | 2020-04-15 | [I hope Donald Trump dies of Coronavirus JOE ROGAN!](corpus/videos/yy1m4Ices9s.json) | kyle | Kyle delivers a lengthy political rant explaining why he hopes Donald Trump dies of COVID-19, arguing it would break the |
+| 2020-04-14 | [4/14/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/-1fjw2nEUqU.json) | — |  |
+| 2020-04-12 | [4/12/20 Turn comments back on YouTube!](corpus/videos/HkY9q4ukLhg.json) | — |  |
+| 2020-04-11 | [4/11/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/2IXIa7b9650.json) | — |  |
+| 2020-04-08 | [4/8/20 Turn comments back YouTube! FOR KIDS](corpus/videos/iTTnHTtWDxs.json) | — |  |
 | 2020-04-07 | [Aliens vs Ancient Civilizations vs Giants & Atlantis & such](corpus/videos/1GM2rxKnmKE.json) | kyle | Kyle shares his personal theories on Atlantis, giants, and alien involvement in ancient history. He argues Atlantis was  |
+| 2020-04-07 | [4/7/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/c5YPZksU3I0.json) | — |  |
+| 2020-04-06 | [4/6/20 Turn comments back on for freedom & THE KIDS](corpus/videos/JxSet619S5Q.json) | — |  |
+| 2020-04-05 | [4/5/20 Turn comments back on dumb asses FOR KIDS](corpus/videos/sFPVscrMcQQ.json) | — |  |
+| 2020-04-03 | [4/3/20 Turn comments back on FOR KIDS](corpus/videos/E7Q3O3Lp4bU.json) | — |  |
+| 2020-04-02 | [4/2/20 Turn comments back on FOR KIDS](corpus/videos/WVo-fDxEDGs.json) | — |  |
+| 2020-04-01 | [4/1/20 Turn comments back on FOR KIDS](corpus/videos/lnELpd56F4c.json) | — |  |
+| 2020-03-31 | [3/31/20 Turn comments back on FOR KIDS](corpus/videos/M0g6CzelhkQ.json) | — |  |
+| 2020-03-30 | [3/30/20 Turn comments back on FOR KIDS](corpus/videos/YMXLgqR1B6s.json) | — |  |
+| 2020-03-28 | [3/28/20 Turn comments back on FOR KIDS](corpus/videos/DdvNuw0ThZg.json) | — |  |
+| 2020-03-27 | [3/27/20 Turn comments back on! FOR KIDS](corpus/videos/x9Eom7gOcNA.json) | — |  |
+| 2020-03-26 | [3/26/20 Turn comments back on. FOR KIDS](corpus/videos/W3RMGWCGLOI.json) | — |  |
+| 2020-03-25 | [3/25/20 Turn comments back on tards! FOR KIDS](corpus/videos/aN1LMrpKOTc.json) | — |  |
+| 2020-03-24 | [3/24/20 Turn comments back on Anti-Americans! FOR KIDS](corpus/videos/IbXBUdC3Lac.json) | — |  |
+| 2020-03-23 | [3/23/20 Turn comments back on damnit! FOR KIDS](corpus/videos/-KDyQUFsjng.json) | — |  |
+| 2020-03-22 | [3/22/20 Turn comments back on dooshes! FOR KIDS](corpus/videos/QesOiWBU4jA.json) | — |  |
+| 2020-03-21 | [3/21/20 Turn comments back on says I! FOR KIDS](corpus/videos/LdMCKJQDhs4.json) | — |  |
+| 2020-03-20 | [3/20/20 Turn comments back on Nazis! FOR KIDS](corpus/videos/iQPEpDwG8sI.json) | — |  |
+| 2020-03-19 | [3/19/20 Turn comments back on FOR KIDS](corpus/videos/P7dEAfeS6jQ.json) | — |  |
+| 2020-03-19 | [3/19/20 Turn comments back on says I discoverer of Atlantis FOR KIDS](corpus/videos/mdUpJiAoWF4.json) | — |  |
+| 2020-03-18 | [3/18/20 Turn comments back on FOR KIDS](corpus/videos/hXnpczd6yl0.json) | — |  |
+| 2020-03-17 | [3/17/20 Turn comments back on there’s enough problems FOR KIDS](corpus/videos/m4Zf8WPXsWA.json) | — |  |
+| 2020-03-16 | [3/16/20 Turn comments back on FOR KIDS](corpus/videos/Z1sVdq1yeac.json) | — |  |
+| 2020-03-15 | [3/15/20 Turn comments back on for God, Country & THE KIDS](corpus/videos/3AT5fJHu3Xo.json) | — |  |
+| 2020-03-14 | [3/14/20 Turn comments back on for freedom FOR KIDS](corpus/videos/mns9BjNku_o.json) | — |  |
+| 2020-03-13 | [3/13/20 Turn comments back on for freedom and the KIDS](corpus/videos/dtztRflq5Ro.json) | — |  |
+| 2020-03-12 | [3/12/20 Turn comments back on FOR KIDS](corpus/videos/KhninqpdVc8.json) | — |  |
+| 2020-03-11 | [3/11/20 Turn comments back on FOR KIDS](corpus/videos/78W8hR5SoEc.json) | — |  |
+| 2020-03-10 | [3/10/20 Turn comments back on FOR KIDS](corpus/videos/sErg78fq87g.json) | — |  |
+| 2020-03-08 | [3/8/20 Turn comments back on FOR KIDS](corpus/videos/DhoS4rX4wR4.json) | — |  |
+| 2020-03-06 | [3/6/20 Turn comments back on for America! FOR KIDS](corpus/videos/5F4flgs_Xmc.json) | — |  |
+| 2020-03-05 | [3/5/20 Turn comments back on say the philosophers! FOR KIDS](corpus/videos/l89Yx57QkQs.json) | — |  |
+| 2020-03-04 | [3/4/20 Turn comments back on FOR KIDS](corpus/videos/6FdMUa6_KIs.json) | — |  |
+| 2020-03-04 | [3/4/20 Turn comments back on the ancestors say FOR KIDS](corpus/videos/IhLE8oS6IHU.json) | — |  |
+| 2020-03-03 | [3/3/20 Turn comments back on Polybius would say FOR KIDS](corpus/videos/GwSFrTIIQjc.json) | — |  |
+| 2020-03-02 | [3/2/20 Turn comments back on dooshbags! FOR KIDS](corpus/videos/YcgE8JNfqmE.json) | — |  |
+| 2020-03-01 | [3/1/20 Turn comments back on say the philosophers FOR KIDS](corpus/videos/ovwI9Fle4LY.json) | — |  |
+| 2020-02-28 | [2/28/20 Turn comments back on FOR KIDS](corpus/videos/JMQ9MfZiqVc.json) | — |  |
+| 2020-02-28 | [2/28/20 Turn comments back on FOR KIDS](corpus/videos/SRFQs7AoWTU.json) | — |  |
+| 2020-02-26 | [2/26/20 Lycurgus would say to turn comments on FOR KIDS kylepounds.com](corpus/videos/YMEiffCbbdM.json) | — |  |
+| 2020-02-25 | [2/25/20 Turn comments back on yesterday! FOR KIDS](corpus/videos/VCWlC4F64P0.json) | — |  |
+| 2020-02-24 | [2/24/20 Turn comments back on for justice FOR KIDS](corpus/videos/7zxkn7DL89U.json) | — |  |
+| 2020-02-23 | [2/23/20 Turn comments back on for everyone FOR KIDS](corpus/videos/7UTJ_Sy3Ry4.json) | — |  |
+| 2020-02-22 | [2/22/20 Turn comments back on dummies! KOR KIDS](corpus/videos/_i3btUwOF5A.json) | — |  |
+| 2020-02-21 | [2/21/20 Turn comments back on for freedom FOR KIDS](corpus/videos/prtOKPMUZTk.json) | — |  |
+| 2020-02-20 | [2/20/20 Turn comments back on for 1st Amndmt FOR KIDS](corpus/videos/fQyiYVYOfg4.json) | — |  |
+| 2020-02-19 | [2/19/20 Turn comments back on Coppa FOR KIDS kylepounds.com](corpus/videos/TLvOZbr_3a8.json) | — |  |
+| 2020-02-18 | [2/18/20 Turn comments back on FOR KIDS](corpus/videos/QxqOFN5WM5c.json) | — |  |
+| 2020-02-17 | [2/17/20 Turn comments back on for freedom FOR KIDS](corpus/videos/CYgeoapBjPM.json) | — |  |
+| 2020-02-16 | [2/16/20 Turn comments back on Tards! FOR KIDS](corpus/videos/XpLoXXy_ga0.json) | — |  |
+| 2020-02-15 | [2/15/20 Turn comments back on Founders would say FOR KIDS](corpus/videos/jnBUKkFjJpE.json) | — |  |
+| 2020-02-14 | [2/14/20 Turn comments back on out of touches! FOR KIDS](corpus/videos/8OWFT_ggO4U.json) | — |  |
+| 2020-02-12 | [2/12/20 Turn comments back on freeks FOR KIDS](corpus/videos/WXGLMJy9-3Q.json) | — |  |
+| 2020-02-11 | [2/11/20 Activate comments for America! FOR KIDS](corpus/videos/tTcw4ri42oo.json) | — |  |
+| 2020-02-10 | [2/10/20 Turn comments back on FOR KIDS](corpus/videos/DUAy3thwI6Y.json) | — |  |
+| 2020-02-09 | [2/9/20 Turn comments back on for reelz FIR KIDS](corpus/videos/lSfyczBX9Gc.json) | — |  |
+| 2020-02-08 | [2/8/20 Activate comments again wingnuts! FOR KIDS](corpus/videos/Z5B-2a8tJJQ.json) | — |  |
+| 2020-02-07 | [2/7/20 Turn comments back on no mire games FOR KIDS](corpus/videos/G_XjSRfr8ic.json) | — |  |
+| 2020-02-06 | [2/6/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/7K96Oj2ZXlY.json) | — |  |
+| 2020-02-06 | [2/6/20 Turn comment back on for freedom dumbfucks! FOR KIDS](corpus/videos/rNu4aWl5NF0.json) | — |  |
+| 2020-02-05 | [2/5/20 Turn the dang comments back on, for THE KIDS](corpus/videos/mW9o0ljhWhg.json) | — |  |
 | 2020-02-04 | [12,000 up to 54,853 people in India on my site in 20 minutes, THEN 70 ](corpus/videos/brGvU89RHc8.json) | kyle | Kyle watches his real-time analytics tool show an explosive surge of visitors from India on his website, climbing from r |
+| 2020-02-04 | [2/4/20 Turn comments back on idiots! FOR KIDS](corpus/videos/uREW8NBgrrE.json) | — |  |
+| 2020-02-03 | [2/3/20 Turn comments on again doosh yards! FOR KIDS](corpus/videos/6zJRUlhqvgY.json) | — |  |
+| 2020-02-02 | [2/2/20 Turn comments back on dinglecunts! FOR KIDS](corpus/videos/1qtZtjyyTeY.json) | — |  |
+| 2020-02-01 | [2/1/20 Turn on comments & activate communication morons! FOR KIDS kyle](corpus/videos/vG1jVnOyL5M.json) | — |  |
+| 2020-01-31 | [1/31/20 Republicans tore tongues so activate comments to counter!](corpus/videos/UQkATc75SL4.json) | — |  |
+| 2020-01-28 | [1/28/20 Turn comments back on losers. FOR KIDS](corpus/videos/SZcfbTt1fa8.json) | — |  |
+| 2020-01-27 | [1/27/20 Turn comments on Coppa Ignoramouses! FOR KIDS](corpus/videos/KEZRskbTekM.json) | — |  |
+| 2020-01-26 | [1/26/20 Turn comments on! U protect kids w/ 1st Amdmnt. NOT against. F](corpus/videos/C0RIVYwXyvs.json) | — |  |
+| 2020-01-25 | [1/25/20 YouTube is gunna have to eventually turn comments back on](corpus/videos/dwUOveMD2xk.json) | — |  |
+| 2020-01-24 | [1/24/20 Asians & Women told YouTube to turn off comments FOR KIDS](corpus/videos/LZEymtO56vU.json) | — |  |
+| 2020-01-22 | [1/22/20 Turn comments on YouTube & avoid 10K yrs of Hell says Socrates](corpus/videos/M0QO7QlEYtI.json) | — |  |
+| 2020-01-21 | [1/21/20 Turn the comments back on and save your soul YouTube! FOR KIDS](corpus/videos/046oaTji0oY.json) | — |  |
+| 2020-01-20 | [1/20/20 Turn my comments back on YouTube meatheads!](corpus/videos/6VexOrf47F8.json) | — |  |
+| 2020-01-14 | [1/14/20 Turn the comments back on YouTube this is USA](corpus/videos/1fHrMSK7uKk.json) | — |  |
+| 2020-01-13 | [1/13/20 Turn comments back on YouTube dingleberries FOR KIDS](corpus/videos/Dk02cQRa5o8.json) | — |  |
 | 2020-01-13 | [1/13/20 Turn comments back on dudes. FOR KIDS](corpus/videos/dRp4fRhm6O0.json) | — |  |
 | 2020-01-11 | [1/11/20 Enable my Comments you Anti American YouTube Dooshbags!!! FOR ](corpus/videos/u8M04IMnoj8.json) | — |  |
 | 2020-01-09 | [1/9/20 Turn my comments on YouTube you BASTARDS!!!](corpus/videos/4foM9ELsOxM.json) | — |  |

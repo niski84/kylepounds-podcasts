@@ -1,0 +1,721 @@
+{
+ "youtube_id": "t9YIbg-omHw",
+ "title": "6/9/20 Turn comments back on YouTube! FOR KIDS",
+ "url": "https://youtu.be/t9YIbg-omHw",
+ "published_at": "2020-06-09",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.18,
+   "end": 9.66,
+   "text": "Hey, living in Boulder V-log for June 9th, 2020, Tuesday, 2.41 p.m."
+  },
+  {
+   "start": 11.46,
+   "end": 22.48,
+   "text": "So, yesterday my video had gone gone cut short because somebody done, or my fiance called me."
+  },
+  {
+   "start": 23.44,
+   "end": 26.64,
+   "text": "I didn't think that was going to happen, but then all of a sudden, you know."
+  },
+  {
+   "start": 26.64,
+   "end": 33.92,
+   "text": "So, um, and I didn't want to splice it together because I forgot how to do it with iMovie."
+  },
+  {
+   "start": 34.98,
+   "end": 40.48,
+   "text": "And when I tried it last time with, um, Adobe Premiere Rush, it just didn't work."
+  },
+  {
+   "start": 40.58,
+   "end": 42.62,
+   "text": "So, fuck it, I ain't gonna fuck around no more."
+  },
+  {
+   "start": 42.92,
+   "end": 44.22,
+   "text": "Stuff don't work first time."
+  },
+  {
+   "start": 45.44,
+   "end": 46.66,
+   "text": "I'll just upload the video."
+  },
+  {
+   "start": 47.34,
+   "end": 51.54,
+   "text": "Um, the more important thing is that you do a video a day, and I've been slagging on that, so."
+  },
+  {
+   "start": 52.76,
+   "end": 56.18,
+   "text": "Talking with my eyes closed because sometimes it's hard for me to maintain my train of thought."
+  },
+  {
+   "start": 56.18,
+   "end": 59.6,
+   "text": "I just had, like, um, a whole bunch of these."
+  },
+  {
+   "start": 59.68,
+   "end": 60.3,
+   "text": "I should have more."
+  },
+  {
+   "start": 60.4,
+   "end": 65.92,
+   "text": "I done gone and got these the other day with some marijuana candies, and I got my marijuana."
+  },
+  {
+   "start": 68.08,
+   "end": 73.72,
+   "text": "So, um, yeah, I'm done."
+  },
+  {
+   "start": 73.78,
+   "end": 74.58,
+   "text": "I think I'm done."
+  },
+  {
+   "start": 74.68,
+   "end": 82.7,
+   "text": "Like, I did a sweep through of all the ancient, um, timelines, and I think I, uh, I did a good round of first editing,"
+  },
+  {
+   "start": 82.7,
+   "end": 86.64,
+   "text": "And it wasn't just what I went, just the animals that I put on with the images."
+  },
+  {
+   "start": 86.64,
+   "end": 90.42,
+   "text": "Um, so, now I'm gonna go through again, and I'm gonna put fonts to the animals."
+  },
+  {
+   "start": 91.56,
+   "end": 98.38,
+   "text": "And borders have the animal font name the same for the text on the border."
+  },
+  {
+   "start": 98.48,
+   "end": 102.96,
+   "text": "If I decide later I don't like the border, you can tinker with it later as long as it's consistent."
+  },
+  {
+   "start": 102.96,
+   "end": 109.12,
+   "text": "You just batch, you just change the style of the font that it's connected, that the CSS is connected to."
+  },
+  {
+   "start": 109.22,
+   "end": 123.06,
+   "text": "But, and so I just decided, because I didn't have the font mat of the, uh, the CSS of the matched, of the, uh, of the table matched with the font."
+  },
+  {
+   "start": 123.06,
+   "end": 131.76,
+   "text": "But I was using the mammal one for all of them, and I, so I changed it on that, and I'll change it on the others for this main one."
+  },
+  {
+   "start": 131.84,
+   "end": 133.88,
+   "text": "And then, uh, and then get going on the animals."
+  },
+  {
+   "start": 134.2,
+   "end": 139.76,
+   "text": "And just add a font to the animals, and the, because that, what I just did was adding the font to location."
+  },
+  {
+   "start": 139.76,
+   "end": 145.92,
+   "text": "And then boldening the date, and putting the date in the right place, and editing the words out and down."
+  },
+  {
+   "start": 146.16,
+   "end": 150.9,
+   "text": "But, uh, now I'm gonna do the font for the name of the animal, and the border."
+  },
+  {
+   "start": 151.06,
+   "end": 152.68,
+   "text": "And then there's other common things."
+  },
+  {
+   "start": 152.86,
+   "end": 155.22,
+   "text": "Uh, I think those will have their own fonts, for example."
+  },
+  {
+   "start": 156.94,
+   "end": 169.96,
+   "text": "Um, extraneous information is just gonna be left alone, but, um, like, um, oh yeah, like, uh, uh, niche."
+  },
+  {
+   "start": 169.96,
+   "end": 177.06,
+   "text": "Niche, ecological niche, and, uh, well, there are others, there's other informations in there."
+  },
+  {
+   "start": 178.6,
+   "end": 186.2,
+   "text": "Yeah, anyway, uh, but, um, when I'm doing the border font, I think I'm just gonna do it around the TD, though, the inside,"
+  },
+  {
+   "start": 186.32,
+   "end": 192.62,
+   "text": "Because I could do something around the outer border, the main border, later, if I decide to put it, another one,"
+  },
+  {
+   "start": 192.72,
+   "end": 195.98,
+   "text": "For when I, if I want to identify the clay that's inside."
+  },
+  {
+   "start": 195.98,
+   "end": 206.66,
+   "text": "Um, there's so much you can do with, um, all the fonts they give you, with Dreamweaver, for the tables,"
+  },
+  {
+   "start": 206.88,
+   "end": 210.78,
+   "text": "What you can do with the tables, and then the text, and the background."
+  },
+  {
+   "start": 210.96,
+   "end": 218.32,
+   "text": "Between all those, you can, um, create a code for, uh, that could match all the different meanings of, uh,"
+  },
+  {
+   "start": 218.32,
+   "end": 227.56,
+   "text": "The information in, uh, the paleontological record, and, uh, do some really good, um, condensing of the words"
+  },
+  {
+   "start": 227.56,
+   "end": 235.72,
+   "text": "To fit all the information into a small period space, so you don't have to rely on drop-downs for anything."
+  },
+  {
+   "start": 236.64,
+   "end": 237.68,
+   "text": "It's just speed reading."
+  },
+  {
+   "start": 238.24,
+   "end": 241.24,
+   "text": "When you're a speed reader, you don't, you just get annoyed with the drop-downs,"
+  },
+  {
+   "start": 241.26,
+   "end": 242.12,
+   "text": "Because you'd read them all anyway."
+  },
+  {
+   "start": 242.12,
+   "end": 247.46,
+   "text": "You wouldn't, you'd just be hitting them, all of them, so it's better to just have everything prepared from the get-go."
+  },
+  {
+   "start": 248.56,
+   "end": 259.38,
+   "text": "So, um, um, uh, yeah, that's what I'm just about to start now."
+  },
+  {
+   "start": 259.62,
+   "end": 262.86,
+   "text": "Uh, I figured I'd do my video first, because I usually have been doing them too late."
+  },
+  {
+   "start": 264.28,
+   "end": 273.96,
+   "text": "Uh, yeah, oh, I found a really good, I was listening to Aaron Raw channel,"
+  },
+  {
+   "start": 273.96,
+   "end": 280.76,
+   "text": "But then I found another really good one called, um, Connected Us, um, Podcasts,"
+  },
+  {
+   "start": 280.76,
+   "end": 281.94,
+   "text": "And now they have a YouTube channel."
+  },
+  {
+   "start": 282.08,
+   "end": 284.12,
+   "text": "I think they recently started putting their podcasts on."
+  },
+  {
+   "start": 284.18,
+   "end": 288.82,
+   "text": "They're called Common Descent, and these two dudes talking about, um, really interesting stuff,"
+  },
+  {
+   "start": 288.88,
+   "end": 292.34,
+   "text": "And a lot of good information about different paleontological stuff."
+  },
+  {
+   "start": 292.56,
+   "end": 297.48,
+   "text": "They're, vlogs are usually an hour and a half long, but the first half hour is, I'm talking about news,"
+  },
+  {
+   "start": 297.58,
+   "end": 302.52,
+   "text": "So I like to fast-forward just to the subject, but, uh, you kind of have to drag around to know where it is,"
+  },
+  {
+   "start": 302.52,
+   "end": 306.58,
+   "text": "Because they don't, they don't say where it is in their description, but, uh, that's interesting."
+  },
+  {
+   "start": 306.66,
+   "end": 309.38,
+   "text": "I want to do a bunch of those, and then, you know, sometimes, when they mention something interesting,"
+  },
+  {
+   "start": 309.48,
+   "end": 316.08,
+   "text": "I'll do it on Wikipedia, but, uh, um, but yeah, you know, I'm going to definitely learn a lot"
+  },
+  {
+   "start": 316.08,
+   "end": 317.4,
+   "text": "Just from the construction of my website."
+  },
+  {
+   "start": 317.94,
+   "end": 322.86,
+   "text": "I haven't decided what fonts to put for the other, the Earth stuff, which I have a lot on there,"
+  },
+  {
+   "start": 322.92,
+   "end": 325.0,
+   "text": "So maybe I'll do that later, or maybe I have."
+  },
+  {
+   "start": 325.66,
+   "end": 329.1,
+   "text": "Ah, I actually did, so I could add that to everything."
+  },
+  {
+   "start": 329.2,
+   "end": 330.5,
+   "text": "Okay, so this will take at least a week."
+  },
+  {
+   "start": 330.5,
+   "end": 333.6,
+   "text": "Um, what day is it, because I thought that was going to take a whole week, and I'm on Tuesday."
+  },
+  {
+   "start": 333.7,
+   "end": 333.96,
+   "text": "Oh, wow."
+  },
+  {
+   "start": 334.04,
+   "end": 335.96,
+   "text": "So maybe by the end of this week, I'll be done with all that."
+  },
+  {
+   "start": 336.56,
+   "end": 337.4,
+   "text": "It'll take it up a lot."
+  },
+  {
+   "start": 337.74,
+   "end": 343.66,
+   "text": "I haven't decided, yeah, I haven't decided if I want to, on the vertical part of the timeline,"
+  },
+  {
+   "start": 343.8,
+   "end": 350.52,
+   "text": "Have it divided between different, like, orders and stuff, or if I want to throw it all together,"
+  },
+  {
+   "start": 351.38,
+   "end": 355.28,
+   "text": "But I'm going to put it all up there, divide it on the top part, and that'll give you an idea of"
+  },
+  {
+   "start": 355.28,
+   "end": 356.98,
+   "text": "Actually how I want to have it look in the bottom."
+  },
+  {
+   "start": 356.98,
+   "end": 360.12,
+   "text": "I think I'm definitely, I think I am going to divide it, but not yet."
+  },
+  {
+   "start": 360.24,
+   "end": 365.58,
+   "text": "I'm going to add all the different fonts first, and then divide it, and then add the rest of the animals, you know?"
+  },
+  {
+   "start": 365.58,
+   "end": 381.27,
+   "text": "I think I can, I think my web design is going to work for maximum size, you know?"
+  },
+  {
+   "start": 381.63,
+   "end": 383.93,
+   "text": "The speed reader, see, I'm thinking about it in terms of the speed reader."
+  },
+  {
+   "start": 384.05,
+   "end": 388.15,
+   "text": "The speed reader would hunger for more words."
+  },
+  {
+   "start": 388.15,
+   "end": 392.43,
+   "text": "I mean, if a book is 500 pages, and you want to speed read through the whole book,"
+  },
+  {
+   "start": 392.51,
+   "end": 397.37,
+   "text": "Like, why the hell wouldn't you shy away from just writing everything in the fossil record,"
+  },
+  {
+   "start": 397.75,
+   "end": 402.23,
+   "text": "And it would still be less than 500 pages, you know, like the size of a book,"
+  },
+  {
+   "start": 402.29,
+   "end": 404.75,
+   "text": "But that's a whole period of time, so I think it's worth it."
+  },
+  {
+   "start": 405.59,
+   "end": 408.99,
+   "text": "You know, this is stuff, so I'm going to be like, why are you taking so much time to do this?"
+  },
+  {
+   "start": 409.03,
+   "end": 409.65,
+   "text": "Is it worth it?"
+  },
+  {
+   "start": 409.67,
+   "end": 412.01,
+   "text": "And I'll be like, well, history is history."
+  },
+  {
+   "start": 412.13,
+   "end": 413.97,
+   "text": "Once history is done, it's set in stone, it's over."
+  },
+  {
+   "start": 413.97,
+   "end": 415.75,
+   "text": "There's no editing to it, you know?"
+  },
+  {
+   "start": 417.75,
+   "end": 421.27,
+   "text": "Well, actually, they're discovering a lot more."
+  },
+  {
+   "start": 421.37,
+   "end": 424.39,
+   "text": "I think they said they've only found, like, half the dinosaur species so far,"
+  },
+  {
+   "start": 424.49,
+   "end": 428.91,
+   "text": "But, so there is editing, but it's something you can, I mean, I wouldn't want to do it all once now."
+  },
+  {
+   "start": 428.93,
+   "end": 433.43,
+   "text": "Anyway, I would edit it as I go along, but it's not something that when you build it,"
+  },
+  {
+   "start": 433.51,
+   "end": 435.95,
+   "text": "They're going to do an update or change it, and then you have to change it, you know?"
+  },
+  {
+   "start": 436.05,
+   "end": 441.83,
+   "text": "History's done, so if you build, even if you spend your whole time,"
+  },
+  {
+   "start": 441.83,
+   "end": 445.93,
+   "text": "Your whole life building a timeline, history timeline, about ancient history,"
+  },
+  {
+   "start": 447.29,
+   "end": 452.05,
+   "text": "It's still there forever, and it'll never go out of style, you know?"
+  },
+  {
+   "start": 452.11,
+   "end": 455.37,
+   "text": "It'll never, in 500 years or 1,000 years, people look at my timeline,"
+  },
+  {
+   "start": 455.85,
+   "end": 459.21,
+   "text": "And they'll never go, oh, throw that in the bucket, we don't need that."
+  },
+  {
+   "start": 459.29,
+   "end": 462.85,
+   "text": "No, they'll look at it, and they'll go, oh, okay, put that in the library,"
+  },
+  {
+   "start": 462.85,
+   "end": 468.35,
+   "text": "Because that's a, that's a map of history, you know?"
+  },
+  {
+   "start": 468.43,
+   "end": 471.07,
+   "text": "Or at least a map of history as they knew it then, so."
+  },
+  {
+   "start": 472.23,
+   "end": 479.05,
+   "text": "It's, and, but, you know, maybe that's another argument for why it's good to"
+  },
+  {
+   "start": 479.05,
+   "end": 484.59,
+   "text": "Not do the dropdowns, because I've done dropdowns, and if you change,"
+  },
+  {
+   "start": 484.59,
+   "end": 489.59,
+   "text": "If the people who run the way that HTML is written, um,"
+  },
+  {
+   "start": 490.97,
+   "end": 492.77,
+   "text": "All of a sudden your dropdown doesn't work, you know?"
+  },
+  {
+   "start": 492.79,
+   "end": 497.33,
+   "text": "I want to keep it simple, so I don't, my website doesn't all of a sudden,"
+  },
+  {
+   "start": 497.47,
+   "end": 502.39,
+   "text": "Like, bit by bit stop working as they change what the HTML code means."
+  },
+  {
+   "start": 502.55,
+   "end": 503.47,
+   "text": "That doesn't happen."
+  },
+  {
+   "start": 504.65,
+   "end": 507.17,
+   "text": "Um, maybe they could invent, maybe if they do that,"
+  },
+  {
+   "start": 507.23,
+   "end": 509.35,
+   "text": "They could invent a program that could automatically update it."
+  },
+  {
+   "start": 510.01,
+   "end": 510.65,
+   "text": "I don't know."
+  },
+  {
+   "start": 511.01,
+   "end": 511.89,
+   "text": "Anyways, just babbling."
+  },
+  {
+   "start": 511.89,
+   "end": 515.55,
+   "text": "Um, yeah, so anyways, I'm gonna, maybe, I've been eating these."
+  },
+  {
+   "start": 515.63,
+   "end": 516.43,
+   "text": "Maybe I'll have another one."
+  },
+  {
+   "start": 517.09,
+   "end": 518.55,
+   "text": "I have to pick my mom up at 5.30."
+  },
+  {
+   "start": 518.61,
+   "end": 521.13,
+   "text": "I took her in today to do surgery on her hand."
+  },
+  {
+   "start": 522.35,
+   "end": 524.43,
+   "text": "Uh, so, yeah, maybe I'll have another one."
+  },
+  {
+   "start": 524.51,
+   "end": 526.63,
+   "text": "I just want a little bit more wafer, and then get on, on here."
+  },
+  {
+   "start": 527.29,
+   "end": 528.99,
+   "text": "Adding up the things, and it's great."
+  },
+  {
+   "start": 529.05,
+   "end": 531.39,
+   "text": "I love doing this, um, brain candy stuff,"
+  },
+  {
+   "start": 531.41,
+   "end": 535.15,
+   "text": "Because I can give, like, all of my attention to what these dudes are saying."
+  },
+  {
+   "start": 535.51,
+   "end": 535.85,
+   "text": "You know?"
+  },
+  {
+   "start": 535.93,
+   "end": 537.17,
+   "text": "They're tripping out, like, ooh, that's creepy."
+  },
+  {
+   "start": 537.29,
+   "end": 538.55,
+   "text": "I don't want to, like, follow along."
+  },
+  {
+   "start": 538.99,
+   "end": 541.61,
+   "text": "And if you follow along, and you trip out over it, you're like, whoa."
+  },
+  {
+   "start": 542.17,
+   "end": 543.99,
+   "text": "Like, then that gets in your head, you know?"
+  },
+  {
+   "start": 544.15,
+   "end": 547.39,
+   "text": "All, all you need to, to, for that memory to come back,"
+  },
+  {
+   "start": 547.45,
+   "end": 549.83,
+   "text": "That knowledge of history that come back,"
+  },
+  {
+   "start": 549.83,
+   "end": 553.19,
+   "text": "Is to be put in the same context, and be, oh, right, yeah, I know that."
+  },
+  {
+   "start": 553.27,
+   "end": 553.51,
+   "text": "Boom."
+  },
+  {
+   "start": 554.49,
+   "end": 557.63,
+   "text": "So, that's, the idea is to know everything."
+  },
+  {
+   "start": 558.33,
+   "end": 561.47,
+   "text": "Um, anyways, then the test is gonna be my timeline."
+  },
+  {
+   "start": 561.93,
+   "end": 563.23,
+   "text": "That's the, that's the live test."
+  },
+  {
+   "start": 563.67,
+   "end": 564.57,
+   "text": "Anyways, enough talking."
+  },
+  {
+   "start": 565.11,
+   "end": 565.87,
+   "text": "Talk to you tomorrow."
+  },
+  {
+   "start": 565.87,
+   "end": 565.91,
+   "text": "Bye."
+  },
+  {
+   "start": 565.91,
+   "end": 565.93,
+   "text": "Bye."
+  },
+  {
+   "start": 565.93,
+   "end": 565.95,
+   "text": "Bye."
+  },
+  {
+   "start": 565.95,
+   "end": 565.97,
+   "text": "Bye."
+  },
+  {
+   "start": 565.97,
+   "end": 565.99,
+   "text": "Bye."
+  },
+  {
+   "start": 565.99,
+   "end": 566.01,
+   "text": "Bye."
+  },
+  {
+   "start": 566.01,
+   "end": 566.03,
+   "text": "Bye."
+  },
+  {
+   "start": 566.03,
+   "end": 566.07,
+   "text": "Bye."
+  },
+  {
+   "start": 566.07,
+   "end": 566.09,
+   "text": "Bye."
+  },
+  {
+   "start": 566.09,
+   "end": 566.11,
+   "text": "Bye."
+  },
+  {
+   "start": 566.11,
+   "end": 566.15,
+   "text": "Bye."
+  },
+  {
+   "start": 566.15,
+   "end": 566.21,
+   "text": "Bye."
+  }
+ ]
+}
