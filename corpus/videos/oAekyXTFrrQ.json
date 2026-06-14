@@ -1,0 +1,861 @@
+{
+ "youtube_id": "oAekyXTFrrQ",
+ "title": "8/5/21 Setting up studio. Think streamdeck is busset (that means broken)",
+ "url": "https://youtu.be/oAekyXTFrrQ",
+ "published_at": "2021-08-05",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 1.01,
+   "end": 9.31,
+   "text": "Hello, V-LOG, 10.39 in the morning. Don't know what day of the week it is."
+  },
+  {
+   "start": 12.53,
+   "end": 17.09,
+   "text": "Prepare for my V-LOGs to be extremely boring from here on in."
+  },
+  {
+   "start": 21.49,
+   "end": 32.46,
+   "text": "Because I didn't drink coffee because I'm sitting at my studio now and it's going extremely slowly."
+  },
+  {
+   "start": 32.46,
+   "end": 40.82,
+   "text": "I think my Stream Deck's broken. It's kind of hard to explain just to like a normal person who doesn't know what I'm talking about."
+  },
+  {
+   "start": 41.82,
+   "end": 48.9,
+   "text": "I'm setting up a studio. I have an ATEM Mini Switcher."
+  },
+  {
+   "start": 53.27,
+   "end": 57.23,
+   "text": "I have a RODECaster Pro Mixer."
+  },
+  {
+   "start": 57.23,
+   "end": 68.23,
+   "text": "I have an ATEM, I mean I have an Elgato Stream Deck XL and an Elgato Stream Deck Regular."
+  },
+  {
+   "start": 68.83,
+   "end": 76.52,
+   "text": "I have a Hyper Deck and I have five monitors for all that stuff."
+  },
+  {
+   "start": 77.56,
+   "end": 80.6,
+   "text": "And two Macs and four cameras right now."
+  },
+  {
+   "start": 80.6,
+   "end": 83.38,
+   "text": "But I could do more cameras too."
+  },
+  {
+   "start": 84.02,
+   "end": 85.26,
+   "text": "If I had the money I would."
+  },
+  {
+   "start": 87.96,
+   "end": 93.96,
+   "text": "So yesterday, I think was like the second day of trying to work on this stuff."
+  },
+  {
+   "start": 94.08,
+   "end": 94.88,
+   "text": "Yeah, second day."
+  },
+  {
+   "start": 95.88,
+   "end": 100.3,
+   "text": "But yesterday, half the day I was at my mom's house helping her, cleaning her."
+  },
+  {
+   "start": 100.3,
+   "end": 110.14,
+   "text": "Scrubbing her, um, her shades and vacuuming and cleaning and hanging out and stuff."
+  },
+  {
+   "start": 110.22,
+   "end": 123.57,
+   "text": "And then I came back here and I was watching a bunch of tutorials and, um, um, kind of relearning everything."
+  },
+  {
+   "start": 123.57,
+   "end": 129.41,
+   "text": "And, uh, because when I set this up, I, I did do tutorials, but that was when I was high and it was months ago."
+  },
+  {
+   "start": 129.41,
+   "end": 133.07,
+   "text": "So I kind of have to start over learning how to set this up."
+  },
+  {
+   "start": 133.07,
+   "end": 134.23,
+   "text": "It's super complicated."
+  },
+  {
+   "start": 134.23,
+   "end": 137.09,
+   "text": "It's like learning a new language and there's a lot to remember."
+  },
+  {
+   "start": 137.81,
+   "end": 146.11,
+   "text": "Um, so last night I tried to, uh, there are these presets for the Elgato Stream Deck XL."
+  },
+  {
+   "start": 146.11,
+   "end": 151.23,
+   "text": "Um, which has four up and eight across."
+  },
+  {
+   "start": 151.35,
+   "end": 155.17,
+   "text": "So eight times four, 32 buttons."
+  },
+  {
+   "start": 155.83,
+   "end": 164.75,
+   "text": "And, um, I was going to import these presets to there and like try to do the fancy stuff that the guys do."
+  },
+  {
+   "start": 165.79,
+   "end": 168.87,
+   "text": "I'm doing it with two different dudes and seeing which one I like more."
+  },
+  {
+   "start": 168.99,
+   "end": 169.99,
+   "text": "A to Z Productions."
+  },
+  {
+   "start": 170.23,
+   "end": 172.81,
+   "text": "And then there's this other guy, David Joshua Ford."
+  },
+  {
+   "start": 172.81,
+   "end": 176.73,
+   "text": "But I tried to import them to my Stream Deck."
+  },
+  {
+   "start": 180.29,
+   "end": 183.69,
+   "text": "Um, but they went to my Stream Deck instead of my Stream Deck XL."
+  },
+  {
+   "start": 184.81,
+   "end": 186.49,
+   "text": "Everybody uses Stream Deck XL."
+  },
+  {
+   "start": 186.79,
+   "end": 190.65,
+   "text": "A couple of years ago, I got the Stream Deck because I was going to, I was going to stream."
+  },
+  {
+   "start": 191.57,
+   "end": 197.47,
+   "text": "And it was working with, um, OBS program, which is free on my Mac."
+  },
+  {
+   "start": 197.55,
+   "end": 200.05,
+   "text": "But then I decided since then I want to do it the pro way."
+  },
+  {
+   "start": 200.05,
+   "end": 210.07,
+   "text": "And just forego, bypass OBS and then just do it with an ATEM Mini Extreme Switcher."
+  },
+  {
+   "start": 211.81,
+   "end": 215.05,
+   "text": "And so all the, all the people who have the presets use the XL."
+  },
+  {
+   "start": 215.23,
+   "end": 216.25,
+   "text": "So I bought an XL."
+  },
+  {
+   "start": 217.47,
+   "end": 219.65,
+   "text": "Instead of just the regular Stream Deck."
+  },
+  {
+   "start": 219.65,
+   "end": 222.53,
+   "text": "So it only went to the Stream Deck."
+  },
+  {
+   "start": 222.63,
+   "end": 228.09,
+   "text": "I needed to call, um, tech support, but it was after eight and they were closed."
+  },
+  {
+   "start": 228.97,
+   "end": 238.31,
+   "text": "So last night I was just spending the night just watching tutorials, trying to get my brain back into the world of the Stream Deck, of the, um, the studios."
+  },
+  {
+   "start": 238.51,
+   "end": 241.31,
+   "text": "All the different hardware and stuff."
+  },
+  {
+   "start": 241.31,
+   "end": 247.13,
+   "text": "Um, and I slept in, had kind of insomnia last night."
+  },
+  {
+   "start": 247.19,
+   "end": 251.8,
+   "text": "I'm on day, oh, it's the fifth."
+  },
+  {
+   "start": 252.46,
+   "end": 255.02,
+   "text": "So I'm on day 15 of weed detox."
+  },
+  {
+   "start": 256.1,
+   "end": 261.58,
+   "text": "And, uh, so, I unplugged the Stream Deck."
+  },
+  {
+   "start": 262.6,
+   "end": 265.02,
+   "text": "And I tried it again and it didn't go to the XL."
+  },
+  {
+   "start": 267.22,
+   "end": 268.58,
+   "text": "So I called tech support."
+  },
+  {
+   "start": 269.12,
+   "end": 270.68,
+   "text": "Elgato tech support and they're really friendly."
+  },
+  {
+   "start": 270.68,
+   "end": 277.12,
+   "text": "And you, the first guy said, oh man, I think like, it's like a config problem."
+  },
+  {
+   "start": 277.12,
+   "end": 279.42,
+   "text": "You need to like configure it for the Stream Deck."
+  },
+  {
+   "start": 279.56,
+   "end": 281.76,
+   "text": "And then I, I was like, well, I don't know how to do that."
+  },
+  {
+   "start": 281.8,
+   "end": 285.8,
+   "text": "So I called back and I said, look, I think it's broken."
+  },
+  {
+   "start": 288.78,
+   "end": 290.22,
+   "text": "Can we just do some tests?"
+  },
+  {
+   "start": 291.18,
+   "end": 296.38,
+   "text": "So we did some tests where we dragged the button around and like the Stream Deck XL is just dead."
+  },
+  {
+   "start": 296.48,
+   "end": 297.84,
+   "text": "It's like non-responsive."
+  },
+  {
+   "start": 297.9,
+   "end": 300.62,
+   "text": "It's, it's, it's, uh, it's in a coma."
+  },
+  {
+   "start": 300.62,
+   "end": 304.26,
+   "text": "Uh, it's got, uh, it's subotomized."
+  },
+  {
+   "start": 305.3,
+   "end": 310.34,
+   "text": "So the guy goes, well, maybe you need a dedicated port."
+  },
+  {
+   "start": 311.6,
+   "end": 317.02,
+   "text": "Because I have all these different things plugged into my MacBook Pro."
+  },
+  {
+   "start": 317.02,
+   "end": 321.64,
+   "text": "So, you know, like the, I have the ATEM Mini going in there."
+  },
+  {
+   "start": 321.8,
+   "end": 331.02,
+   "text": "I have the stream, the Hyper Deck, Stream Deck, other Stream Deck, mixer, switcher."
+  },
+  {
+   "start": 331.02,
+   "end": 335.52,
+   "text": "So I have to use these adapters so that they can go in."
+  },
+  {
+   "start": 335.58,
+   "end": 337.48,
+   "text": "Because I only have two USB-C's."
+  },
+  {
+   "start": 337.62,
+   "end": 341.8,
+   "text": "I, I, I, I, I, I, I, the adapters on both sides."
+  },
+  {
+   "start": 342.98,
+   "end": 347.34,
+   "text": "So that the USBs go into USBs and then the USB-C's go into USB-C's."
+  },
+  {
+   "start": 347.34,
+   "end": 351.08,
+   "text": "And he's like, oh, but the adapter's overheated then."
+  },
+  {
+   "start": 351.18,
+   "end": 353.22,
+   "text": "Because the XL is just so badass."
+  },
+  {
+   "start": 353.52,
+   "end": 354.72,
+   "text": "It uses so much power."
+  },
+  {
+   "start": 355.44,
+   "end": 357.94,
+   "text": "So right now what I'm going to do is go into Best Buy."
+  },
+  {
+   "start": 358.04,
+   "end": 362.22,
+   "text": "I'm going to buy a dedicated adapter from the USB-A to USB-C."
+  },
+  {
+   "start": 362.62,
+   "end": 363.7,
+   "text": "And I'll try it again."
+  },
+  {
+   "start": 363.7,
+   "end": 366.42,
+   "text": "And if it doesn't work, which I'm pretty sure it doesn't."
+  },
+  {
+   "start": 367.62,
+   "end": 369.62,
+   "text": "I guess they're going to blame it on the Stream Deck."
+  },
+  {
+   "start": 369.72,
+   "end": 371.12,
+   "text": "And I have to send it in."
+  },
+  {
+   "start": 372.2,
+   "end": 374.26,
+   "text": "And get a replacement Stream Deck."
+  },
+  {
+   "start": 375.14,
+   "end": 376.18,
+   "text": "Which will make me happy."
+  },
+  {
+   "start": 376.22,
+   "end": 377.54,
+   "text": "Because that means I'm moving forward."
+  },
+  {
+   "start": 377.68,
+   "end": 378.34,
+   "text": "I'm not stuck."
+  },
+  {
+   "start": 379.72,
+   "end": 382.46,
+   "text": "And then while I wait in the mail for my new Stream Deck."
+  },
+  {
+   "start": 383.76,
+   "end": 387.0,
+   "text": "That's when I will just use my regular Stream Deck."
+  },
+  {
+   "start": 387.06,
+   "end": 388.56,
+   "text": "Even though it doesn't have all the buttons."
+  },
+  {
+   "start": 389.84,
+   "end": 391.3,
+   "text": "And watch the tutorials."
+  },
+  {
+   "start": 391.3,
+   "end": 393.12,
+   "text": "And figure out what the hell I'm doing."
+  },
+  {
+   "start": 393.12,
+   "end": 394.62,
+   "text": "And how the hell this thing works."
+  },
+  {
+   "start": 394.8,
+   "end": 395.6,
+   "text": "And yada, yada, yada."
+  },
+  {
+   "start": 396.16,
+   "end": 401.78,
+   "text": "So that by the time I get my new Stream Deck XL in the mail."
+  },
+  {
+   "start": 401.92,
+   "end": 405.86,
+   "text": "I can kind of hit the ground running on that."
+  },
+  {
+   "start": 405.94,
+   "end": 407.02,
+   "text": "So that's what I hope is wrong."
+  },
+  {
+   "start": 407.12,
+   "end": 407.66,
+   "text": "But I have to."
+  },
+  {
+   "start": 407.92,
+   "end": 409.54,
+   "text": "He wanted me to prove it to him."
+  },
+  {
+   "start": 410.88,
+   "end": 415.68,
+   "text": "By getting a dedicated adapter port."
+  },
+  {
+   "start": 415.98,
+   "end": 418.0,
+   "text": "So hopefully those aren't too much."
+  },
+  {
+   "start": 421.53,
+   "end": 422.79,
+   "text": "Yeah, I don't have a car anymore."
+  },
+  {
+   "start": 422.91,
+   "end": 423.87,
+   "text": "So I can't drive down there."
+  },
+  {
+   "start": 423.87,
+   "end": 425.41,
+   "text": "Drive my lazy ass down there."
+  },
+  {
+   "start": 425.93,
+   "end": 432.37,
+   "text": "So I have to ride my lazy ass on my electric bike."
+  },
+  {
+   "start": 434.27,
+   "end": 436.31,
+   "text": "But it's only like three blocks away."
+  },
+  {
+   "start": 436.69,
+   "end": 439.65,
+   "text": "So that's basically what's up with that."
+  },
+  {
+   "start": 439.65,
+   "end": 454.87,
+   "text": "Yeah, I don't have it in me to exercise."
+  },
+  {
+   "start": 455.21,
+   "end": 456.41,
+   "text": "Probably most people would."
+  },
+  {
+   "start": 456.73,
+   "end": 458.15,
+   "text": "It's just been too goddamn long."
+  },
+  {
+   "start": 459.15,
+   "end": 459.99,
+   "text": "I can't exercise."
+  },
+  {
+   "start": 460.33,
+   "end": 463.55,
+   "text": "All I can do is just focus 100% on my studio."
+  },
+  {
+   "start": 463.69,
+   "end": 464.99,
+   "text": "So I guess you could call it a relapse."
+  },
+  {
+   "start": 465.77,
+   "end": 467.41,
+   "text": "But it's not a relapse on the website."
+  },
+  {
+   "start": 467.51,
+   "end": 468.81,
+   "text": "And it's not a relapse on the weed."
+  },
+  {
+   "start": 468.81,
+   "end": 470.91,
+   "text": "I still haven't had time to back up everything."
+  },
+  {
+   "start": 471.11,
+   "end": 471.89,
+   "text": "So that's freaking me out."
+  },
+  {
+   "start": 471.95,
+   "end": 472.43,
+   "text": "I got to do that."
+  },
+  {
+   "start": 472.83,
+   "end": 473.93,
+   "text": "Probably going to get a roommate."
+  },
+  {
+   "start": 474.07,
+   "end": 476.09,
+   "text": "Hopefully if I get a roommate quick."
+  },
+  {
+   "start": 476.21,
+   "end": 477.05,
+   "text": "Which I need."
+  },
+  {
+   "start": 477.81,
+   "end": 481.27,
+   "text": "They'll be in here before I'm done setting up my studio."
+  },
+  {
+   "start": 481.47,
+   "end": 482.29,
+   "text": "So they'll just have."
+  },
+  {
+   "start": 482.29,
+   "end": 486.77,
+   "text": "If you deal with me being in my room all the time."
+  },
+  {
+   "start": 487.59,
+   "end": 491.59,
+   "text": "I'm going to close the door and be as invisible as possible."
+  },
+  {
+   "start": 491.91,
+   "end": 497.15,
+   "text": "But yeah, so that's what I'm doing."
+  },
+  {
+   "start": 497.27,
+   "end": 497.97,
+   "text": "Boring life."
+  },
+  {
+   "start": 498.19,
+   "end": 499.03,
+   "text": "Boring vlogs."
+  },
+  {
+   "start": 500.87,
+   "end": 504.61,
+   "text": "Talking about stuff that's hard to explain and hard to understand."
+  },
+  {
+   "start": 505.15,
+   "end": 508.25,
+   "text": "But yesterday I said it would take like a week."
+  },
+  {
+   "start": 508.33,
+   "end": 509.33,
+   "text": "I'm not thinking that anymore."
+  },
+  {
+   "start": 509.33,
+   "end": 510.89,
+   "text": "I'm thinking it'll at least take a month."
+  },
+  {
+   "start": 511.03,
+   "end": 511.69,
+   "text": "This stuff is."
+  },
+  {
+   "start": 512.41,
+   "end": 513.73,
+   "text": "I haven't even started yet."
+  },
+  {
+   "start": 513.89,
+   "end": 514.07,
+   "text": "So."
+  },
+  {
+   "start": 515.33,
+   "end": 516.77,
+   "text": "That's what I'm up with."
+  },
+  {
+   "start": 516.99,
+   "end": 517.87,
+   "text": "Up on that."
+  },
+  {
+   "start": 518.03,
+   "end": 519.37,
+   "text": "I'm going to head over there."
+  },
+  {
+   "start": 519.43,
+   "end": 519.65,
+   "text": "Right."
+  },
+  {
+   "start": 519.75,
+   "end": 520.01,
+   "text": "Yeah."
+  },
+  {
+   "start": 521.41,
+   "end": 523.75,
+   "text": "I think I'll have a protein drink."
+  },
+  {
+   "start": 523.87,
+   "end": 524.63,
+   "text": "And then I'll head over there."
+  },
+  {
+   "start": 524.67,
+   "end": 525.39,
+   "text": "I'm a little bit hungry."
+  },
+  {
+   "start": 526.29,
+   "end": 526.99,
+   "text": "And come back."
+  },
+  {
+   "start": 527.05,
+   "end": 528.41,
+   "text": "I slept in until 930."
+  },
+  {
+   "start": 528.57,
+   "end": 529.11,
+   "text": "I could have."
+  },
+  {
+   "start": 529.49,
+   "end": 530.61,
+   "text": "I could have gotten up."
+  },
+  {
+   "start": 530.65,
+   "end": 532.79,
+   "text": "Because I had insomnia like most of the night last night."
+  },
+  {
+   "start": 532.79,
+   "end": 537.01,
+   "text": "Because I made a mistake of having like a pre-workout drink."
+  },
+  {
+   "start": 537.01,
+   "end": 539.61,
+   "text": "Just because I wanted to have like be up."
+  },
+  {
+   "start": 539.95,
+   "end": 541.25,
+   "text": "But I took that at like 8."
+  },
+  {
+   "start": 541.29,
+   "end": 541.99,
+   "text": "And then I was like wait."
+  },
+  {
+   "start": 542.05,
+   "end": 543.07,
+   "text": "You don't take these at night."
+  },
+  {
+   "start": 543.17,
+   "end": 543.53,
+   "text": "I was just."
+  },
+  {
+   "start": 543.63,
+   "end": 544.13,
+   "text": "I was just."
+  },
+  {
+   "start": 547.63,
+   "end": 548.53,
+   "text": "Studying the stuff."
+  },
+  {
+   "start": 548.65,
+   "end": 550.21,
+   "text": "And I felt like I was more awake."
+  },
+  {
+   "start": 550.21,
+   "end": 551.75,
+   "text": "If I had had caffeine in me."
+  },
+  {
+   "start": 551.97,
+   "end": 552.89,
+   "text": "Because I was kind of having."
+  },
+  {
+   "start": 553.49,
+   "end": 555.35,
+   "text": "I think I took a nap yesterday too."
+  },
+  {
+   "start": 555.41,
+   "end": 556.57,
+   "text": "Having problems passing out."
+  },
+  {
+   "start": 557.01,
+   "end": 559.01,
+   "text": "I think I'm still dealing with the detox."
+  },
+  {
+   "start": 559.01,
+   "end": 563.83,
+   "text": "The weed keeping me groggy."
+  },
+  {
+   "start": 563.99,
+   "end": 564.71,
+   "text": "I'm giving me insomnia."
+  },
+  {
+   "start": 564.77,
+   "end": 565.43,
+   "text": "So I had insomnia."
+  },
+  {
+   "start": 566.23,
+   "end": 567.37,
+   "text": "Maybe that's why I slept in."
+  },
+  {
+   "start": 567.41,
+   "end": 568.71,
+   "text": "But I was up at noon."
+  },
+  {
+   "start": 568.81,
+   "end": 569.51,
+   "text": "At sunrise."
+  },
+  {
+   "start": 569.61,
+   "end": 571.27,
+   "text": "But I'm always relaxed at sunrise."
+  },
+  {
+   "start": 571.99,
+   "end": 574.31,
+   "text": "Which puts me to sleep again until like 930."
+  },
+  {
+   "start": 574.63,
+   "end": 574.97,
+   "text": "Anyways."
+  },
+  {
+   "start": 575.03,
+   "end": 576.29,
+   "text": "Let's keep the video under 10 minutes."
+  },
+  {
+   "start": 577.43,
+   "end": 577.83,
+   "text": "Hopefully."
+  },
+  {
+   "start": 578.63,
+   "end": 580.31,
+   "text": "I will have sent the stream back."
+  },
+  {
+   "start": 581.03,
+   "end": 582.13,
+   "text": "To get a new one."
+  },
+  {
+   "start": 582.63,
+   "end": 583.51,
+   "text": "By tomorrow."
+  },
+  {
+   "start": 583.69,
+   "end": 584.57,
+   "text": "So I'm moving forward."
+  },
+  {
+   "start": 584.91,
+   "end": 585.61,
+   "text": "Talk to you tomorrow."
+  },
+  {
+   "start": 585.61,
+   "end": 585.73,
+   "text": "So."
+  }
+ ]
+}

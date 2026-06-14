@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-3637 videos with transcripts. Source of truth for transcripts + enrichments.
+3723 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -48,6 +48,92 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2022-12-24 | [48 Laws of Power book review - Request](corpus/videos/Z7XwmKbN_Vo.json) | mixed | Kyle reviews 'The 48 Laws of Power,' reading all 48 laws aloud and critiquing the book as Machiavellian, dark, and orien |
 | 2022-11-25 | [Tapping Rebellion - Request](corpus/videos/n-LWPAT9raY.json) | kyle | Kyle gives a rambling, opinion-heavy overview of the Taiping Rebellion, using it as a launching pad to discuss Chinese h |
 | 2022-09-16 | [Prometheus Movie Review - Request](corpus/videos/8Y14N13LmxU.json) | kyle | Kyle reviews the 2012 film Prometheus, criticizing it for following the tired Hollywood trope of aliens as one-dimension |
+| 2021-10-25 | [10/25/21 Google Earthing Rome](corpus/videos/E5bwuUzg1Zo.json) | — |  |
+| 2021-10-20 | [10/20/21 Google Earthing Roman roads](corpus/videos/1hukpJerh4A.json) | — |  |
+| 2021-10-19 | [10/19/21 Google Earthing Ancient Rome. Saw Italian movie about Romulus](corpus/videos/yh5akAF7-38.json) | — |  |
+| 2021-10-18 | [10/18/21 Google Earthing Copper to Republican ages of Rome](corpus/videos/62L2GbIUD8c.json) | — |  |
+| 2021-10-13 | [10/13/21 Reading book for Google Earthing Ancient Rome](corpus/videos/SuOFmxiFoLA.json) | — |  |
+| 2021-10-12 | [10/12/21 Google Earthing Roman Bronze Age, Iron Age & from beginning o](corpus/videos/CM_f3h6EK_s.json) | — |  |
+| 2021-10-08 | [10/8/21 Google Earthing Early Rome. Got an $80 book about it.](corpus/videos/mujHIC4T5Nw.json) | — |  |
+| 2021-10-06 | [10/6/21 Google Earthing Livy](corpus/videos/tQuc3nINT5E.json) | — |  |
+| 2021-10-03 | [10/3/21 Google Earthing 2 Roman Legion Camp of Labienus in Gallic Wars](corpus/videos/VsuKIPeZOdo.json) | — |  |
+| 2021-10-01 | [10/1/21 Google Earthing Battle of Alesia & Gergovia from Caesar’s Gall](corpus/videos/uiA2ZpxglhE.json) | — |  |
+| 2021-09-30 | [9/30/21 Google Earthing Book 7 of Gallic Wars by Julius Caesar.](corpus/videos/wkJHC0b84XU.json) | — |  |
+| 2021-09-27 | [9/27/21 Google Earthing 23 Roman Forts at Battle of Alesia based on Ma](corpus/videos/p064uS-bgR4.json) | — |  |
+| 2021-09-26 | [9/26/21 Google Earthing Battle of Alesia. Roman Camps & Battlement Spi](corpus/videos/uU3OY5Dyt74.json) | — |  |
+| 2021-09-25 | [9/25/21 Google Earthing Battle of Alesia still. Two more days probably](corpus/videos/ykSMLPrE4QQ.json) | — |  |
+| 2021-09-23 | [9/23/21 Google Earthing Alesia. Bike ride w/ mom](corpus/videos/54FSp1a3jOg.json) | — |  |
+| 2021-09-22 | [9/22/21 Google Earthing Battle of Alesia](corpus/videos/rKCIAIjhgds.json) | — |  |
+| 2021-09-20 | [9/20/21 Google Earthing Caesar’s Gallic Wars. Painted mom’s deck & fur](corpus/videos/TSskWFoXxWo.json) | — |  |
+| 2021-09-19 | [9/19/21 Google Earthing Helvetii. I have angina, so might have to star](corpus/videos/a6oqBXn63SI.json) | — |  |
+| 2021-09-18 | [9/18/21 Google Earthing Ligurian tribes and Helvetii. Helped mom with ](corpus/videos/1IarwE4Nl38.json) | — |  |
+| 2021-09-17 | [9/17/21 Painting & returning things to mom’s deck. Google Earthing anc](corpus/videos/59td2YQoDVU.json) | — |  |
+| 2021-09-15 | [9/15/21 Google Earth Ancient Switzerland & France. Stained mom’s deck.](corpus/videos/nFmeXbqxo3k.json) | — |  |
+| 2021-09-14 | [9/14/21 Google Earthing Caesar’s France](corpus/videos/9S4Ry1TbAzc.json) | — |  |
+| 2021-09-11 | [9/11/21 Envato, After Effects, back to Google Earthing tribes.](corpus/videos/2zM7CdC5vBA.json) | — |  |
+| 2021-09-10 | [9/10/21 Envato video collections & downloads. Drove mom around.](corpus/videos/SMZiw794K1Y.json) | — |  |
+| 2021-09-10 | [9/10/21 Sanded & plugged moms deck. Envato video collections & downloa](corpus/videos/qO_8deGplOc.json) | — |  |
+| 2021-09-09 | [9/9/21 Power washed paint off mom’s deck & Envato video collections](corpus/videos/R5HziVAdKJM.json) | — |  |
+| 2021-09-08 | [9/8/21 Rode Flagstaff w/ roommate,  Envato video collections & downloa](corpus/videos/W0W9TNT1Czk.json) | — |  |
+| 2021-09-07 | [9/7/21 Scraped paint on mom’s deck, downloaded Envato music of countri](corpus/videos/FSDBzeFaZ9w.json) | — |  |
+| 2021-09-06 | [9/6/21 Paste stripping paint on mom’s deck. Envato collections & downl](corpus/videos/WKsxmebiVA8.json) | — |  |
+| 2021-09-05 | [9/5/21 Envato Rome collections & downloads](corpus/videos/AXR5bh7uGDU.json) | — |  |
+| 2021-09-04 | [9/4/21 Envato sound collections](corpus/videos/3-TzTbFjjAI.json) | — |  |
+| 2021-09-03 | [9/3/21 Envato Video Collections](corpus/videos/5ijqu7N1_As.json) | — |  |
+| 2021-09-03 | [9/3/21 Google Earthing Celtic France](corpus/videos/Aec6B3LAUzk.json) | — |  |
+| 2021-09-02 | [9/2/21 Envato video collections, stripped mom’s deck](corpus/videos/3Ro74oeFJgk.json) | — |  |
+| 2021-09-01 | [9/1/21 Envato collections, downloads & tutorials](corpus/videos/jBg0zy3_sNI.json) | — |  |
+| 2021-08-31 | [8/31/21 After Effects Tutorials from Premiumilk on Envato Elements](corpus/videos/fQtghkt-5nY.json) | — |  |
+| 2021-08-30 | [8/30/21 Envato Elements collections of video, photo & graphics templat](corpus/videos/s-KxBAxuNSY.json) | — |  |
+| 2021-08-29 | [8/29/21 Downloading & organizing  Envato Elements video, templates & p](corpus/videos/rPGDj5v4sD4.json) | — |  |
+| 2021-08-28 | [8/28/21 Organizing Green Screen Videos](corpus/videos/ELjiIuziIrE.json) | — |  |
+| 2021-08-27 | [8/27/21 Organizing Green Screen videos](corpus/videos/pDT3bLpUOpc.json) | — |  |
+| 2021-08-26 | [8/26/21 Totally useless with with Atem Mini Extreme Switcher](corpus/videos/OcryVeE4_Gk.json) | — |  |
+| 2021-08-25 | [8/25/21 installed green rug](corpus/videos/fgf1nGdDFiw.json) | — |  |
+| 2021-08-24 | [8/24/21 Installing Green Rugs & learning green screening on studio](corpus/videos/-8gfrJwD4-0.json) | — |  |
+| 2021-08-21 | [8/21/21 More tutorials & backing files](corpus/videos/x0EGSz1HnuY.json) | — |  |
+| 2021-08-20 | [8/20/21 More studio tutorials. 30 days weed sober. I like it.](corpus/videos/lrYTyYoV3gk.json) | — |  |
+| 2021-08-19 | [8/19/21 Just watching studio tutorials today](corpus/videos/NVWcH0UB2ZQ.json) | — |  |
+| 2021-08-18 | [8/18/21 Apostered chairs, backed files, batched photoshopped. Drank.](corpus/videos/kESrULgZMfg.json) | — |  |
+| 2021-08-17 | [8/17/21 First video with studio](corpus/videos/Lq2pqODbzho.json) | — |  |
+| 2021-08-16 | [8/16/21 Cleaned floors, backed files & baby steps with studio.](corpus/videos/K-CHfanRej4.json) | — |  |
+| 2021-08-15 | [8/15/21 Last day cleaning and reassembling home, backed up site](corpus/videos/IUawZVm0I2s.json) | — |  |
+| 2021-08-14 | [8/14/21 Costco, backing up, Mixer tutorials](corpus/videos/35fiTxTh7FQ.json) | — |  |
+| 2021-08-12 | [8/12/21 Gunna study Mixer & Streamdeck today. Up early.](corpus/videos/j6b9RgRp8jM.json) | — |  |
+| 2021-08-11 | [8/11/21 Final shopping for guest room & studio](corpus/videos/AZctDMfWjIY.json) | — |  |
+| 2021-08-11 | [8/11/21 Pulling my hair out with my studio and drinking alcohol to dea](corpus/videos/PmtvMmi79jk.json) | — |  |
+| 2021-08-10 | [8/10/21 Read Atem manual & tutorials, 20 days weed sober](corpus/videos/lfG9G6-hnAs.json) | — |  |
+| 2021-08-09 | [8/9/21 Atem tutorials, long talk w/mom, day 18 weed sober, 2nd day rem](corpus/videos/luoInbHJdR4.json) | — |  |
+| 2021-08-08 | [8/8/21 Watching Atem tutorials sober 18 days](corpus/videos/-fA7d7DavzI.json) | — |  |
+| 2021-08-07 | [8/7/21 Shopped & built tables & a chair & installed cables. Corrugated](corpus/videos/M5xZPNXU1K8.json) | — |  |
+| 2021-08-06 | [8/6/21 Installed closet door, stream deck stuff. Errands.](corpus/videos/jnarNuL1yZ4.json) | — |  |
+| 2021-08-05 | [8/5/21 Setting up studio. Think streamdeck is busset (that means broke](corpus/videos/oAekyXTFrrQ.json) | — |  |
+| 2021-08-04 | [8/4/21 Relapse to studio so no exercise but no reefer neither (Ex-wife](corpus/videos/PIrwZmTxn4E.json) | — |  |
+| 2021-08-03 | [8/3/21 Stretched. Looked for furniture w/ mom. TIRED.](corpus/videos/Mbf58WNBDa4.json) | — |  |
+| 2021-08-02 | [8/2/21 Rode 61.45mi 5,443ft 4:28 169W 13.8mph 3,138cal Lyons-Ward-Lee ](corpus/videos/EFJjcwx14-M.json) | — |  |
+| 2021-08-01 | [8/1/21 16.2mi 1:01 Neva. RAINED on.](corpus/videos/RnjCKvL90-s.json) | — |  |
+| 2021-07-30 | [7/30/21 Jamestown 37.53Mi 2507ft 2:30 183W 78%](corpus/videos/LOcpu0bf8Pk.json) | — |  |
+| 2021-07-30 | [7/30/21 Installed guest rm floor, shampooed moms house, road 14.37mi 5](corpus/videos/jR5nwRtt7sI.json) | — |  |
+| 2021-07-29 | [7/29/21 Ran 4.5 miles. Pulled L calf after 2.5mi. Organized most of da](corpus/videos/3iK10jx8s5c.json) | — |  |
+| 2021-07-28 | [7/28/21 Lyons & Saint Vrain canyon. 45ish miles 2500ish feet. BONKED a](corpus/videos/L2pIT3TMNys.json) | — |  |
+| 2021-07-27 | [7/27/21 NCAR & Flagstaff, then helped mom clean & garden](corpus/videos/Emxy8QKGTBE.json) | — |  |
+| 2021-07-26 | [7/26/21 NCAR & Flagstaff but BONKED fm joint](corpus/videos/XJ_0iWBFgKQ.json) | — |  |
+| 2021-07-25 | [7/25/21 Lee Hill to Georgetown basically. 35mi 3,500ft. LOW blood suga](corpus/videos/ZLEdm9xjAhE.json) | — |  |
+| 2021-07-24 | [7/24/21 Organizing and putting house together](corpus/videos/o6TCoPqv3Mc.json) | — |  |
+| 2021-07-22 | [7/22/21 organized apartment some MORE](corpus/videos/_Z8GLSYQ6hE.json) | — |  |
+| 2021-07-21 | [7/21/21 House errands w/ mom yesterday. Cold sweats and lethargy today](corpus/videos/xPSZlEDFyDU.json) | — |  |
+| 2021-07-20 | [7/20/21 Closet doors and set  flooring date. Rode Flagstaff yesterday.](corpus/videos/_Qsynx1vonw.json) | — |  |
+| 2021-07-18 | [7/18/21 ANOTHER day fixing my room](corpus/videos/1Aq3fMEPcik.json) | — |  |
+| 2021-07-18 | [7/18/21 Flagstaff and Boulder Canyon bonked fm beginning](corpus/videos/i3qYNrAWzsE.json) | — |  |
+| 2021-07-17 | [7/17/21 Gunna ride today, meaning NOW mom NEEDS me to get a job even t](corpus/videos/L4vKjaYKO64.json) | — |  |
+| 2021-07-16 | [7/16/21 Last day renovating place](corpus/videos/RF65Lb5GV9c.json) | — |  |
+| 2021-07-12 | [7/12/21 Organizing apartment](corpus/videos/MwBH6GN-CU4.json) | — |  |
+| 2021-07-10 | [7/10/21 Replacing stuff in my kitchen](corpus/videos/0txMdo3TWVs.json) | — |  |
+| 2021-07-08 | [7/8/21 Hanging out with mom](corpus/videos/-fQYRfeXASc.json) | — |  |
+| 2021-07-06 | [7-6-21 Hanging w/ mom & planning on Google Earthing Rome next week](corpus/videos/zfeMcis8YYE.json) | — |  |
+| 2021-06-23 | [6/23/21 Prepping house for next roomate](corpus/videos/b_0ttUPt6QA.json) | — |  |
+| 2021-06-22 | [6/22/21 Naming collected historical photos](corpus/videos/LkHBxlbhmE8.json) | — |  |
+| 2021-06-21 | [6/21/21 FULL Relapse. Organizing photos & videos then captures up the ](corpus/videos/mkRKdQUIE20.json) | — |  |
 | 2021-06-20 | [Maybe insomnia is good? - Request](corpus/videos/OxRva42jMkU.json) | kyle | Kyle responds to a viewer request about insomnia, arguing it's not necessarily bad and that people with insomnia should  |
 | 2021-06-20 | [China & situation with Taiwan - Request](corpus/videos/jWSEkSEbHyw.json) | kyle | Kyle shares his opinions on China and Taiwan, arguing that China poses a serious geopolitical threat through propaganda, |
 | 2021-06-19 | [6/19/21 Prepping short videos](corpus/videos/ofWTAZwiWEw.json) | — |  |
