@@ -1,0 +1,1261 @@
+{
+ "youtube_id": "B3H_atGBXfo",
+ "title": "6/18/21 Final studio hardware shopping & setup for streaming studio, now learning.",
+ "url": "https://youtu.be/B3H_atGBXfo",
+ "published_at": "2021-06-18",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.62,
+   "end": 22.64,
+   "text": "Hello, Living in Boulder, V-Log, 18th of November, June 2021, and Friday at 10.05 p.m. in June, not November, June."
+  },
+  {
+   "start": 23.34,
+   "end": 29.64,
+   "text": "That's the middle of summer. In fact, we're a couple weeks away from the longest day of the year, June 20th."
+  },
+  {
+   "start": 30.9,
+   "end": 35.02,
+   "text": "So I did my V-Log like at 3 in the morning or something."
+  },
+  {
+   "start": 36.28,
+   "end": 41.18,
+   "text": "It was up until like 6 in the morning, and then I went to sleep."
+  },
+  {
+   "start": 41.22,
+   "end": 42.7,
+   "text": "I always go to sleep at 6 in the morning."
+  },
+  {
+   "start": 43.38,
+   "end": 48.2,
+   "text": "And I need sleep just like everybody else because I'm a human being, so I slept until like noon."
+  },
+  {
+   "start": 48.48,
+   "end": 49.56,
+   "text": "That's when I get my day started."
+  },
+  {
+   "start": 50.36,
+   "end": 53.56,
+   "text": "And I usually do nothing between 10 at night and 6 in the morning."
+  },
+  {
+   "start": 53.68,
+   "end": 54.98,
+   "text": "I just kind of lay there waiting."
+  },
+  {
+   "start": 56.52,
+   "end": 60.22,
+   "text": "I'll get my insomnia fixed once I'm able to exercise."
+  },
+  {
+   "start": 60.62,
+   "end": 69.96,
+   "text": "Consistently, but I'm not good at multitasking when I'm setting something up."
+  },
+  {
+   "start": 70.72,
+   "end": 73.66,
+   "text": "I'm good at multitasking once stuff is already set up."
+  },
+  {
+   "start": 73.66,
+   "end": 78.74,
+   "text": "But while I'm in the process of setting it up, I'm the opposite of multitasking."
+  },
+  {
+   "start": 78.88,
+   "end": 80.38,
+   "text": "I'm like obsessive compulsive."
+  },
+  {
+   "start": 80.38,
+   "end": 88.16,
+   "text": "So I don't plan on doing any exercise until I get my studio set up because that's what I did today."
+  },
+  {
+   "start": 88.44,
+   "end": 91.96,
+   "text": "I think I'm going to do for the next bunch of times."
+  },
+  {
+   "start": 91.96,
+   "end": 102.16,
+   "text": "So, um, when I got up, you know, I went over to my thing and I was like, uh, I didn't, I kind of quit before I was done."
+  },
+  {
+   "start": 102.16,
+   "end": 109.88,
+   "text": "Like, cause I got, cause that's when I had my breathing problem and I thought I was going to die and I got all desperate to get in shape."
+  },
+  {
+   "start": 109.98,
+   "end": 112.86,
+   "text": "And I think I'm in shape enough and I'm not going to smoke any more weed."
+  },
+  {
+   "start": 112.96,
+   "end": 121.54,
+   "text": "I ran out of weed actually yesterday and I got, um, resin today, but I, there's nothing else to smoke."
+  },
+  {
+   "start": 121.54,
+   "end": 123.2,
+   "text": "So I got a little bit high off resin."
+  },
+  {
+   "start": 125.0,
+   "end": 131.82,
+   "text": "So I was working all day today and, uh, I get up there and, um, I had to attach."
+  },
+  {
+   "start": 131.82,
+   "end": 139.3,
+   "text": "It's really complicated to describe it, but I have a, um, a switcher which connects to my ATEM."
+  },
+  {
+   "start": 139.4,
+   "end": 140.58,
+   "text": "And I don't even know what that's called."
+  },
+  {
+   "start": 140.9,
+   "end": 143.18,
+   "text": "There was another name that I was using for it."
+  },
+  {
+   "start": 143.78,
+   "end": 151.32,
+   "text": "It's like video switcher, video switcher, audio switcher, audio switcher is what I called switchers."
+  },
+  {
+   "start": 151.54,
+   "end": 160.84,
+   "text": "And then I can't remember what I called the ATEM, but in order to connect the switcher to the ATEM, you need a converter and the converters didn't have power."
+  },
+  {
+   "start": 161.74,
+   "end": 176.96,
+   "text": "So I went into the store to buy two USB-C, two USBs and the power multiplier so that I could power my two converters to connect my HyperDeck to my,"
+  },
+  {
+   "start": 176.96,
+   "end": 182.68,
+   "text": "Oh yeah, my HyperDeck, not my switcher, my HyperDeck to my ATEM."
+  },
+  {
+   "start": 184.5,
+   "end": 192.68,
+   "text": "And then, um, I realized I never attached the ethernet cord from my HyperDeck to my modem."
+  },
+  {
+   "start": 193.4,
+   "end": 194.3,
+   "text": "So I did that."
+  },
+  {
+   "start": 195.4,
+   "end": 202.44,
+   "text": "And that's a little bit of a, all of these little things are a little bit of a process because you have to thread it through and then zip tie them and everything."
+  },
+  {
+   "start": 202.92,
+   "end": 204.74,
+   "text": "I'll do a demonstration when I'm done."
+  },
+  {
+   "start": 204.74,
+   "end": 220.2,
+   "text": "But, um, I had to go to the store three times today because, because the first time I got the, those things, but then I realized that I had an HDMI cable and I thought the HDMI cable was going to,"
+  },
+  {
+   "start": 220.28,
+   "end": 224.4,
+   "text": "Because I decided that I wanted to, um, use a monitor for my HyperDeck."
+  },
+  {
+   "start": 224.48,
+   "end": 228.16,
+   "text": "I wasn't going to do that before because I thought it was too expensive, but now I'm like, fuck it."
+  },
+  {
+   "start": 228.16,
+   "end": 230.38,
+   "text": "Cause I'm going to get a job and I'm like, I need a monitor for it."
+  },
+  {
+   "start": 230.4,
+   "end": 233.38,
+   "text": "Even though it has this little thing, I need to get an actual monitor."
+  },
+  {
+   "start": 233.6,
+   "end": 241.72,
+   "text": "So I thought that my four foot HDMI cable was long enough to get from the HyperDeck to where I wanted to put the monitor, but it wasn't."
+  },
+  {
+   "start": 241.72,
+   "end": 242.8,
+   "text": "It was like a foot away."
+  },
+  {
+   "start": 243.48,
+   "end": 248.42,
+   "text": "So I had to go to the store again for the second time to get the eight foot HDMI cable."
+  },
+  {
+   "start": 248.42,
+   "end": 250.26,
+   "text": "And those are expensive, like 56 bucks."
+  },
+  {
+   "start": 252.86,
+   "end": 257.84,
+   "text": "When I came home, I plugged the HDMI cable to the HyperDeck, ran it through and it was going to work great."
+  },
+  {
+   "start": 259.16,
+   "end": 262.56,
+   "text": "So up on the upper right is where I'm going to put the monitor for the HyperDeck."
+  },
+  {
+   "start": 263.94,
+   "end": 269.28,
+   "text": "And luckily, cause I bought that today, that was like 80 bucks, but then I had a $20 off."
+  },
+  {
+   "start": 269.38,
+   "end": 272.82,
+   "text": "So it was like 50 bucks, but luckily it's going to come in a couple of days."
+  },
+  {
+   "start": 273.64,
+   "end": 275.02,
+   "text": "I hate having to work to wait too long."
+  },
+  {
+   "start": 277.32,
+   "end": 282.24,
+   "text": "So when that, and then I got a bunch of Velcro from Home Depot, cause that's how I attach everything."
+  },
+  {
+   "start": 282.24,
+   "end": 284.72,
+   "text": "I'm even going to attach my new monitor, I think with Velcro."
+  },
+  {
+   "start": 284.72,
+   "end": 295.34,
+   "text": "So, um, um, when that comes in the mail, plug that up and I'll have a monitor for my HyperDeck."
+  },
+  {
+   "start": 297.35,
+   "end": 304.99,
+   "text": "But, um, then I, uh, like my computer wasn't working or whatever, slow."
+  },
+  {
+   "start": 305.13,
+   "end": 308.23,
+   "text": "And I looked at the computer and it wasn't hardwired to the internet."
+  },
+  {
+   "start": 310.6,
+   "end": 315.86,
+   "text": "So I'm like, okay, so where's the attachment for the ethernet cable to USB-C to plug my computer in?"
+  },
+  {
+   "start": 315.86,
+   "end": 319.14,
+   "text": "Cause I didn't have any other, any like ethernet to USB."
+  },
+  {
+   "start": 319.3,
+   "end": 320.46,
+   "text": "Cause there wasn't any more room for that."
+  },
+  {
+   "start": 320.52,
+   "end": 324.8,
+   "text": "Cause all kinds of stuff plugged into my computer."
+  },
+  {
+   "start": 325.04,
+   "end": 333.56,
+   "text": "I have these two, um, adapters that go into the two USB-Cs on my computer on either side."
+  },
+  {
+   "start": 333.56,
+   "end": 343.96,
+   "text": "And those create two USBs, two USB-Cs, a port for a card and even a mini card, an SD and a mini SD."
+  },
+  {
+   "start": 343.96,
+   "end": 352.88,
+   "text": "So on the left side, I have the ATEM attached to it, regular USB, and then I have, or USB-C."
+  },
+  {
+   "start": 352.96,
+   "end": 354.38,
+   "text": "And then I have power attached to one."
+  },
+  {
+   "start": 354.9,
+   "end": 358.4,
+   "text": "And then the other ones, I have like the Rodecaster switcher."
+  },
+  {
+   "start": 359.18,
+   "end": 368.76,
+   "text": "And then one of my, um, um, oh my God, I can't remember what it's called."
+  },
+  {
+   "start": 369.94,
+   "end": 370.7,
+   "text": "Button pusher."
+  },
+  {
+   "start": 370.92,
+   "end": 371.7,
+   "text": "Call them buttons."
+  },
+  {
+   "start": 372.32,
+   "end": 373.22,
+   "text": "One of my buttons."
+  },
+  {
+   "start": 373.32,
+   "end": 374.56,
+   "text": "I have little buttons and big buttons."
+  },
+  {
+   "start": 374.56,
+   "end": 377.48,
+   "text": "When I remember, I'll tell you, I'll use them by its real name."
+  },
+  {
+   "start": 378.5,
+   "end": 381.54,
+   "text": "So, um, so that's the left side."
+  },
+  {
+   "start": 381.62,
+   "end": 382.88,
+   "text": "All four ports are used up."
+  },
+  {
+   "start": 382.92,
+   "end": 386.48,
+   "text": "And on the right side, I have like Rodecaster."
+  },
+  {
+   "start": 388.18,
+   "end": 391.54,
+   "text": "And then I thought I had Rodecaster on the left."
+  },
+  {
+   "start": 393.22,
+   "end": 394.62,
+   "text": "But on the right, it's Rodecaster."
+  },
+  {
+   "start": 394.8,
+   "end": 396.2,
+   "text": "And then it's something else."
+  },
+  {
+   "start": 396.3,
+   "end": 396.74,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 397.8,
+   "end": 398.72,
+   "text": "I can't remember."
+  },
+  {
+   "start": 398.72,
+   "end": 400.4,
+   "text": "So anyways, both sides are full."
+  },
+  {
+   "start": 400.46,
+   "end": 401.38,
+   "text": "But then there were two ports."
+  },
+  {
+   "start": 402.54,
+   "end": 403.94,
+   "text": "Because I had to have power for one."
+  },
+  {
+   "start": 404.52,
+   "end": 405.76,
+   "text": "But then there were two ports ready."
+  },
+  {
+   "start": 406.14,
+   "end": 406.86,
+   "text": "Ready to go."
+  },
+  {
+   "start": 408.28,
+   "end": 410.1,
+   "text": "Um, but I didn't have the adapter."
+  },
+  {
+   "start": 410.82,
+   "end": 412.02,
+   "text": "Ethernet to USB-C."
+  },
+  {
+   "start": 412.16,
+   "end": 412.82,
+   "text": "And I'm like, where?"
+  },
+  {
+   "start": 412.9,
+   "end": 413.78,
+   "text": "I could have sworn I had one."
+  },
+  {
+   "start": 413.82,
+   "end": 414.94,
+   "text": "I could have sworn I had it."
+  },
+  {
+   "start": 415.42,
+   "end": 415.98,
+   "text": "Looked everywhere."
+  },
+  {
+   "start": 416.14,
+   "end": 416.6,
+   "text": "Couldn't find it."
+  },
+  {
+   "start": 416.6,
+   "end": 417.96,
+   "text": "So then I went to the store a third time."
+  },
+  {
+   "start": 418.86,
+   "end": 419.26,
+   "text": "$36."
+  },
+  {
+   "start": 421.08,
+   "end": 422.4,
+   "text": "Ethernet to USB-C."
+  },
+  {
+   "start": 422.54,
+   "end": 424.32,
+   "text": "So now I'm hardwired to the internet again."
+  },
+  {
+   "start": 425.66,
+   "end": 428.0,
+   "text": "And I think I even still have a USB-C port."
+  },
+  {
+   "start": 428.38,
+   "end": 438.18,
+   "text": "So, um, but then by then I had to go to my mom's house to, um, do a going away party for my roommate."
+  },
+  {
+   "start": 438.18,
+   "end": 440.68,
+   "text": "And she brought a friend over and we drank beers."
+  },
+  {
+   "start": 440.8,
+   "end": 441.8,
+   "text": "I had like five beers."
+  },
+  {
+   "start": 442.0,
+   "end": 443.02,
+   "text": "Maybe that's why I'm yawning."
+  },
+  {
+   "start": 443.16,
+   "end": 443.46,
+   "text": "I don't know."
+  },
+  {
+   "start": 443.46,
+   "end": 447.22,
+   "text": "Um, then I came back here and, uh, getting going again."
+  },
+  {
+   "start": 447.32,
+   "end": 451.6,
+   "text": "So, um, yeah, today was like a setup day."
+  },
+  {
+   "start": 451.82,
+   "end": 457.6,
+   "text": "Um, because my four-foot Ethernet cable wasn't long enough, I actually remembered, realized a way that I can use it."
+  },
+  {
+   "start": 459.04,
+   "end": 462.88,
+   "text": "Because I was looking at my ports and I have one port ready for, uh, for another camera."
+  },
+  {
+   "start": 464.02,
+   "end": 467.58,
+   "text": "I have a cable that goes to my east camera, but I don't have the camera yet."
+  },
+  {
+   "start": 467.58,
+   "end": 468.42,
+   "text": "So I have to buy the camera."
+  },
+  {
+   "start": 469.2,
+   "end": 473.04,
+   "text": "Because right now all I have is front camera, west camera, north camera, south camera."
+  },
+  {
+   "start": 473.18,
+   "end": 473.98,
+   "text": "Just four cameras."
+  },
+  {
+   "start": 475.22,
+   "end": 476.26,
+   "text": "But I have a port."
+  },
+  {
+   "start": 476.84,
+   "end": 477.66,
+   "text": "But I have a cable."
+  },
+  {
+   "start": 477.8,
+   "end": 477.96,
+   "text": "Good."
+  },
+  {
+   "start": 478.08,
+   "end": 478.42,
+   "text": "You see?"
+  },
+  {
+   "start": 479.46,
+   "end": 479.8,
+   "text": "You see?"
+  },
+  {
+   "start": 480.02,
+   "end": 480.34,
+   "text": "You see?"
+  },
+  {
+   "start": 480.56,
+   "end": 484.72,
+   "text": "Uh, HDMI cable going to my, my, uh, ATEM, ATEM."
+  },
+  {
+   "start": 485.56,
+   "end": 486.66,
+   "text": "For lack of a better word."
+  },
+  {
+   "start": 486.72,
+   "end": 488.02,
+   "text": "I can't remember what the word for it is."
+  },
+  {
+   "start": 488.12,
+   "end": 490.0,
+   "text": "Um, but there's no camera."
+  },
+  {
+   "start": 490.08,
+   "end": 491.96,
+   "text": "But then I have another open port."
+  },
+  {
+   "start": 492.28,
+   "end": 493.52,
+   "text": "So when I have the money, I'll buy it."
+  },
+  {
+   "start": 493.6,
+   "end": 496.26,
+   "text": "It's like 80 bucks for the 24-foot HDMI cable."
+  },
+  {
+   "start": 496.26,
+   "end": 499.16,
+   "text": "I'll plug it in there and then go it around for my rear camera."
+  },
+  {
+   "start": 499.16,
+   "end": 505.22,
+   "text": "And then there's even a switcher thing that I bought on Amazon to have even yet another camera."
+  },
+  {
+   "start": 505.58,
+   "end": 507.06,
+   "text": "You just hit the button and it's this camera."
+  },
+  {
+   "start": 507.14,
+   "end": 508.9,
+   "text": "Then if you hit it again, it'll switch it to that other camera."
+  },
+  {
+   "start": 508.94,
+   "end": 509.58,
+   "text": "It's really convenient."
+  },
+  {
+   "start": 509.58,
+   "end": 512.12,
+   "text": "I could do that with all my cameras."
+  },
+  {
+   "start": 512.86,
+   "end": 517.72,
+   "text": "Because, um, I wanted to have a camera that it showed at me from directly behind."
+  },
+  {
+   "start": 517.82,
+   "end": 519.6,
+   "text": "Because I have one that shows me directly in front."
+  },
+  {
+   "start": 519.72,
+   "end": 523.72,
+   "text": "And to have one from directly behind is a cool angle for when I'm riding my bike and stuff."
+  },
+  {
+   "start": 523.72,
+   "end": 528.14,
+   "text": "And, um, but then I wanted another camera in my bathroom."
+  },
+  {
+   "start": 529.1,
+   "end": 530.84,
+   "text": "Because my bathroom is a studio in itself."
+  },
+  {
+   "start": 530.86,
+   "end": 533.22,
+   "text": "It has really good audio acoustics."
+  },
+  {
+   "start": 533.7,
+   "end": 536.22,
+   "text": "And it's all green screened, the part behind me."
+  },
+  {
+   "start": 536.88,
+   "end": 539.0,
+   "text": "And it's really, really good lighting."
+  },
+  {
+   "start": 539.34,
+   "end": 544.02,
+   "text": "Like I, lighting all over the place if I want to do talking videos."
+  },
+  {
+   "start": 544.12,
+   "end": 547.3,
+   "text": "And I have a full-size fan on the top, on the roof, pointing down."
+  },
+  {
+   "start": 548.28,
+   "end": 549.78,
+   "text": "So I can wear my beanie hat."
+  },
+  {
+   "start": 550.26,
+   "end": 551.2,
+   "text": "And I can talk."
+  },
+  {
+   "start": 551.2,
+   "end": 558.66,
+   "text": "And maybe I can I can do the um I could do the sound so that the sound blocks out the sound of"
+  },
+  {
+   "start": 558.66,
+   "end": 566.82,
+   "text": "The fan so I can talk and my beanie hat will be spinning crazy it'd look really fucking cool"
+  },
+  {
+   "start": 566.82,
+   "end": 572.08,
+   "text": "So anyway but it can be just a place to talk and do videos later on you know so I just wanted to"
+  },
+  {
+   "start": 572.08,
+   "end": 578.0,
+   "text": "Have a camera in there so um so I drilled a hole through the camp through the wall of my bathroom"
+  },
+  {
+   "start": 578.0,
+   "end": 584.04,
+   "text": "To go from where I wanted the camera to point at my butt when I'm on the bike and then go through"
+  },
+  {
+   "start": 584.04,
+   "end": 589.62,
+   "text": "The wall for the other camera for the cable to go through for the camera in the bathroom so and then"
+  },
+  {
+   "start": 589.62,
+   "end": 594.46,
+   "text": "I stuck the cable through there and so it's waiting until when I have the money so I guess I'll buy three"
+  },
+  {
+   "start": 594.46,
+   "end": 599.4,
+   "text": "More cameras I'll buy a camera for behind me I'll buy the camera for west east side and then hell"
+  },
+  {
+   "start": 599.4,
+   "end": 604.7,
+   "text": "Another one for my bathroom and then I can easily take remove them and bring them if I want to take"
+  },
+  {
+   "start": 604.7,
+   "end": 614.34,
+   "text": "Them around town with me with for good shots so um today was a lot of setting up still like"
+  },
+  {
+   "start": 614.34,
+   "end": 625.38,
+   "text": "Physically setting up and buying I bought a monitor for my hyper deck I bought I had to buy a eight foot"
+  },
+  {
+   "start": 625.38,
+   "end": 633.78,
+   "text": "Hdmi cable for my hyper deck had to buy a switcher for my uh two cameras behind me the butt camera and"
+  },
+  {
+   "start": 633.78,
+   "end": 642.9,
+   "text": "The bathroom camera had to buy an adapter for internet for my um laptop even though I thought"
+  },
+  {
+   "start": 642.9,
+   "end": 656.65,
+   "text": "I already had one and velcro and um uh that's all I can think of now so today yeah I mean you think"
+  },
+  {
+   "start": 656.65,
+   "end": 662.93,
+   "text": "You're done and then you buy more it was the same thing with the bike like I was trying to ride my bike"
+  },
+  {
+   "start": 662.93,
+   "end": 670.11,
+   "text": "Before and I only I thought I had a whole bunch of um gloves but I couldn't find any gloves but I"
+  },
+  {
+   "start": 670.11,
+   "end": 676.05,
+   "text": "Found four five gloves but it was only one hand so I went on amazon I bought two more pair of gloves"
+  },
+  {
+   "start": 676.05,
+   "end": 682.83,
+   "text": "That all match in case I can't find the other side um and but then I had to buy another pump because I"
+  },
+  {
+   "start": 682.83,
+   "end": 688.47,
+   "text": "Need another pump for my other bike so I bought two pumps and then I bought a pump like a cartridge pump"
+  },
+  {
+   "start": 688.47,
+   "end": 697.51,
+   "text": "And so yeah so it's like that's why I'm so crazy in debt so my my I'm not gonna try to get her job"
+  },
+  {
+   "start": 697.51,
+   "end": 702.25,
+   "text": "Until my roommate moves I think I could I could pay the minimums on all four of my I like twenty"
+  },
+  {
+   "start": 702.25,
+   "end": 707.21,
+   "text": "Thousand dollars in credit cards and and there's eleven and a half thousand on one that's thirty percent"
+  },
+  {
+   "start": 707.21,
+   "end": 713.15,
+   "text": "Or it's like thirty three percent it's synchrony and total fucking they're like loan sharks I feel like"
+  },
+  {
+   "start": 713.15,
+   "end": 722.47,
+   "text": "I'm dealing with the goddamn mafia um so um when my roommate moves out in a couple days I think on"
+  },
+  {
+   "start": 722.47,
+   "end": 729.49,
+   "text": "Sunday or something sunday or monday I'm gonna uh immediately go in there and like use his deposit"
+  },
+  {
+   "start": 729.49,
+   "end": 738.09,
+   "text": "Money and other stuff to uh put a wood floor in his room and um try to set up my room my house and"
+  },
+  {
+   "start": 738.09,
+   "end": 743.87,
+   "text": "Clean it and make it look good as quickly as possible so I can get a roommate in here"
+  },
+  {
+   "start": 743.87,
+   "end": 749.63,
+   "text": "I'm curious to see how easy it will be for me to get a roommate I mean I have a perfect room"
+  },
+  {
+   "start": 749.63,
+   "end": 756.95,
+   "text": "Perfect part of town perfect apartments perfect you know I got a pool and a workout room and everything"
+  },
+  {
+   "start": 756.95,
+   "end": 761.95,
+   "text": "But and a good price gigabit internet and everything and I'm chill and I'm never here but"
+  },
+  {
+   "start": 761.95,
+   "end": 768.37,
+   "text": "Um you know I've kind of been in my own little cave for a while with people I know like I don't"
+  },
+  {
+   "start": 768.37,
+   "end": 774.21,
+   "text": "Really even know how the outside world's gonna even react to me because the rest of america are"
+  },
+  {
+   "start": 774.21,
+   "end": 779.59,
+   "text": "Like little chinese lemmings they're afraid to upload a video on you on the internet because they"
+  },
+  {
+   "start": 779.59,
+   "end": 785.89,
+   "text": "Think that if you upload a video on the internet you're like uh you're like insane or something like"
+  },
+  {
+   "start": 785.89,
+   "end": 790.31,
+   "text": "That and they want to be like the chinese where you're not allowed to upload videos on the internet"
+  },
+  {
+   "start": 790.31,
+   "end": 795.77,
+   "text": "So they try to think that they don't like you and I might not even be able to get a person in here"
+  },
+  {
+   "start": 795.77,
+   "end": 800.27,
+   "text": "You know they might think that I'm the enemy like I'm gonna talk trash about them or something just"
+  },
+  {
+   "start": 800.27,
+   "end": 807.63,
+   "text": "Because I'm open you know because I'm american america fuck yeah so um we'll see because I can't"
+  },
+  {
+   "start": 807.63,
+   "end": 814.23,
+   "text": "Get anybody by my car and nobody need to get a job I have a college degree but I have a website"
+  },
+  {
+   "start": 814.23,
+   "end": 822.91,
+   "text": "And in youtube you know and even though this ain't china I don't know man so I think my best bet to"
+  },
+  {
+   "start": 822.91,
+   "end": 830.57,
+   "text": "Get a job without having to suffer from judgmentality is uh just to get a job for a big company doing some"
+  },
+  {
+   "start": 830.57,
+   "end": 836.99,
+   "text": "Regular job like safeway I want to I want to go to safeway get a job as a baker from fourth in the"
+  },
+  {
+   "start": 836.99,
+   "end": 842.13,
+   "text": "Morning until 9 30 and then if they can be like you're satan and we're never gonna hire you ever"
+  },
+  {
+   "start": 842.13,
+   "end": 846.23,
+   "text": "Because we saw your website and you have youtube videos I'll be like yeah but I have a college"
+  },
+  {
+   "start": 846.23,
+   "end": 851.55,
+   "text": "Degree like if you don't hire people nobody's gonna have to be able to work everybody's gonna"
+  },
+  {
+   "start": 851.55,
+   "end": 855.37,
+   "text": "Have to turn to crime in order to eat like I own my house like I live across the street like"
+  },
+  {
+   "start": 855.37,
+   "end": 861.13,
+   "text": "I can't be the very like you can't you can't do this anti-americanism russian fucking chinese"
+  },
+  {
+   "start": 861.13,
+   "end": 865.35,
+   "text": "Wannabe bullshit on me gotta hire me be a baker I'm a baker look at my website"
+  },
+  {
+   "start": 865.35,
+   "end": 872.95,
+   "text": "They'd be like that your website I found a typo I found a broken link it's like oh my god do I"
+  },
+  {
+   "start": 872.95,
+   "end": 877.99,
+   "text": "Really have to explain how long it takes to make a website so we'll see we'll see if it we'll see how"
+  },
+  {
+   "start": 877.99,
+   "end": 886.19,
+   "text": "It works out but um anyways um um so as soon as my roommate moves out I have to get that going"
+  },
+  {
+   "start": 886.19,
+   "end": 897.37,
+   "text": "Together but I'm spending all of my time I'm setting up my um my um my uh my system here so um"
+  },
+  {
+   "start": 897.37,
+   "end": 903.45,
+   "text": "I uh tomorrow I guess will be the first day and I'll work out into night until"
+  },
+  {
+   "start": 903.45,
+   "end": 912.15,
+   "text": "10 or 12 or 2 in the morning and until I start to get a little bit tired but um I'm like a fish out"
+  },
+  {
+   "start": 912.15,
+   "end": 918.81,
+   "text": "Of water like I was looking at a bunch of videos before but now because it's been a couple months"
+  },
+  {
+   "start": 918.81,
+   "end": 925.59,
+   "text": "Because I was trying to get in shape I like I'm below where I was before and I'm almost like at the"
+  },
+  {
+   "start": 925.59,
+   "end": 931.55,
+   "text": "Beginning again because there was this video where I saw how to get the videos onto your hyperdeck and"
+  },
+  {
+   "start": 931.55,
+   "end": 937.45,
+   "text": "I don't even remember where to find that video I'm like what video is that and I copied all the"
+  },
+  {
+   "start": 937.45,
+   "end": 942.19,
+   "text": "Videos on my computer and organized them so basically I have to go through and watch all the"
+  },
+  {
+   "start": 942.19,
+   "end": 947.69,
+   "text": "Videos all over again I put a I put a um quick time file and they're supposed to be able to play"
+  },
+  {
+   "start": 947.69,
+   "end": 954.37,
+   "text": "To click time onto the the special card that I got that only the hyperdeck works with and I plugged"
+  },
+  {
+   "start": 954.37,
+   "end": 959.51,
+   "text": "It into the hyperdeck and it couldn't find the file so I had to delete the file and maybe they're"
+  },
+  {
+   "start": 959.51,
+   "end": 964.81,
+   "text": "The only way to get files onto the hyperdeck is through filezilla from your computer so that's"
+  },
+  {
+   "start": 964.81,
+   "end": 970.47,
+   "text": "Where I'm at now but I don't even know where that tutorial is so the spot that I'm at now is"
+  },
+  {
+   "start": 970.47,
+   "end": 975.59,
+   "text": "Just watching all the tutorials until I find the one I don't even know where the fuck it is I have no"
+  },
+  {
+   "start": 975.59,
+   "end": 983.65,
+   "text": "Idea until I can figure out how to get a goddamn file onto my hyperdeck where the hyperdeck sees the"
+  },
+  {
+   "start": 983.65,
+   "end": 992.77,
+   "text": "File and then I can then proceed to you know get the file to play on the computer and so anyways I'm"
+  },
+  {
+   "start": 992.77,
+   "end": 1001.15,
+   "text": "Like I'm at like base zero one and everything um and I should have I should have carried through"
+  },
+  {
+   "start": 1001.15,
+   "end": 1006.05,
+   "text": "This back then because now I'm wasting time I have to watch a bunch of stuff to get caught up to where"
+  },
+  {
+   "start": 1006.05,
+   "end": 1012.37,
+   "text": "I was before but um um that's where I'm at now and I goddamn did I blow a lot of money because"
+  },
+  {
+   "start": 1012.37,
+   "end": 1020.93,
+   "text": "Oh yeah because I also bought three more mics because my um switcher my roadcaster switcher um it's"
+  },
+  {
+   "start": 1020.93,
+   "end": 1027.39,
+   "text": "Called rosecaster pro switcher has four inputs for mics and so I threw away my other mic or I got"
+  },
+  {
+   "start": 1027.39,
+   "end": 1032.61,
+   "text": "Rid of my this mic apogee mic I barely used I got a few years ago for like 300 250 bucks"
+  },
+  {
+   "start": 1032.61,
+   "end": 1039.89,
+   "text": "But it's the wrong type of mic so I got three more mics so that I I can fill up all the ports of the"
+  },
+  {
+   "start": 1039.89,
+   "end": 1046.53,
+   "text": "Mics on my switcher and then I got two more uh 25 foot mic cables because I'm gonna put one mic"
+  },
+  {
+   "start": 1046.53,
+   "end": 1054.81,
+   "text": "On the top of that bitch right there right there right there the top of that light"
+  },
+  {
+   "start": 1054.81,
+   "end": 1061.95,
+   "text": "Because that light always sticks way out like it's a pole into my room even when my green screen's"
+  },
+  {
+   "start": 1061.95,
+   "end": 1066.35,
+   "text": "Everywhere it's the one thing that sticks out all the time so if I put the mic there it's a great"
+  },
+  {
+   "start": 1066.35,
+   "end": 1072.19,
+   "text": "Place to put a mic for if I talk when I'm in the middle of the room then I'm gonna I have a mic on"
+  },
+  {
+   "start": 1072.19,
+   "end": 1077.11,
+   "text": "The right that I already bought they're 100 bucks so I spent like 320 bucks or 350 again just on the"
+  },
+  {
+   "start": 1077.11,
+   "end": 1083.11,
+   "text": "Mics put another mic on the left side and then I'll put the third mic here and then the fourth"
+  },
+  {
+   "start": 1083.11,
+   "end": 1087.95,
+   "text": "Mic will be for my bathroom but until I get the bathroom thing set up I'll put it on another part"
+  },
+  {
+   "start": 1087.95,
+   "end": 1092.29,
+   "text": "Of my room but I have the 25 foot cable so I didn't buy those before I didn't buy the monitor"
+  },
+  {
+   "start": 1092.29,
+   "end": 1097.63,
+   "text": "For the hyperdeck or the mics for the switcher because I didn't want to spend the money like I"
+  },
+  {
+   "start": 1097.63,
+   "end": 1102.51,
+   "text": "Was afraid to but now I'm like fuck it let's just get what you need to get and when I do get the"
+  },
+  {
+   "start": 1102.51,
+   "end": 1109.33,
+   "text": "Money again when I have money again I'm gonna buy a uh east camera like I said behind camera and"
+  },
+  {
+   "start": 1109.33,
+   "end": 1116.19,
+   "text": "Bathroom camera and then of course the 25 foot cable I need and then another four foot cable so um"
+  },
+  {
+   "start": 1116.19,
+   "end": 1127.21,
+   "text": "So uh um that's where I'm at oh I've been talking for 18 minutes just to tech talk huh um so yeah I'm"
+  },
+  {
+   "start": 1127.21,
+   "end": 1132.17,
+   "text": "At square one so tonight I mean I even feel like buying weed like I want to buy weed I would buy"
+  },
+  {
+   "start": 1132.17,
+   "end": 1138.91,
+   "text": "Weed because I'm out but uh all the weed shops are closed because it's like 10 30 at night they need"
+  },
+  {
+   "start": 1138.91,
+   "end": 1144.73,
+   "text": "To have like a 24 hour weed shop but um but I mean I'll learn faster if I'm not high so I probably"
+  },
+  {
+   "start": 1144.73,
+   "end": 1149.91,
+   "text": "Shouldn't be but it's kind of tedious to sit here and want look through all of these tutorials just to"
+  },
+  {
+   "start": 1149.91,
+   "end": 1159.01,
+   "text": "Look find one thing you're looking for but um um yeah I'm back to square one um but I'm jazzed that"
+  },
+  {
+   "start": 1159.01,
+   "end": 1163.07,
+   "text": "I have all the bits and pieces if I don't smoke weed it'll be easier for me to multitask I'll be able"
+  },
+  {
+   "start": 1163.07,
+   "end": 1168.85,
+   "text": "To exercise because I'm like but I don't know if I will for the next few days I want to get I'm like"
+  },
+  {
+   "start": 1168.85,
+   "end": 1175.05,
+   "text": "Desperate to get caught up on this stuff because I'm like at way basic way I'm like at square one"
+  },
+  {
+   "start": 1175.05,
+   "end": 1181.37,
+   "text": "I'm like just stepped into the room today but luckily for me I have most of my gear set up so"
+  },
+  {
+   "start": 1181.37,
+   "end": 1190.31,
+   "text": "That's what I'm up to now I'm setting up my uh my studio so I can uh so I can work out I'm gonna"
+  },
+  {
+   "start": 1190.31,
+   "end": 1196.81,
+   "text": "I'm gonna set up a system where I do daily vlogs and I just I put it all together like everything"
+  },
+  {
+   "start": 1196.81,
+   "end": 1201.27,
+   "text": "That I have to talk about and then every exercise whatever in my room and then tours or what I'm gonna"
+  },
+  {
+   "start": 1201.27,
+   "end": 1208.83,
+   "text": "Do outside all all in one block you know so figure out a system so um so yeah that's where I'm at now"
+  },
+  {
+   "start": 1208.83,
+   "end": 1214.55,
+   "text": "I'm gonna go and uh do this oh yeah but it's just my roommate moves out I'll be busy fixing up my house"
+  },
+  {
+   "start": 1214.55,
+   "end": 1222.55,
+   "text": "A little bit I have to put wood floor in his room and then um find a roommate um yeah luckily my mom"
+  },
+  {
+   "start": 1222.55,
+   "end": 1228.09,
+   "text": "Helped me sell my car and we keep dropping the price down until somebody's interested um"
+  },
+  {
+   "start": 1228.09,
+   "end": 1232.97,
+   "text": "Yeah nobody's still buying my car yet either so I'm starting to feel a little bit like"
+  },
+  {
+   "start": 1232.97,
+   "end": 1242.07,
+   "text": "Jinxed um so um yeah I just hope you know and then and then as soon as I get my room set up before I"
+  },
+  {
+   "start": 1242.07,
+   "end": 1246.99,
+   "text": "Even get a roommate I think I'm just gonna get a job because I think I can keep up with my minimal"
+  },
+  {
+   "start": 1246.99,
+   "end": 1252.89,
+   "text": "Um credit card payments for next month but then I'll probably start to sink"
+  },
+  {
+   "start": 1252.89,
+   "end": 1258.93,
+   "text": "You know I'm like beyond where I can keep up with all the interest because I keep buying things"
+  },
+  {
+   "start": 1258.93,
+   "end": 1267.97,
+   "text": "Um so I'll yeah um I'll get a job pretty much as soon as I can but as soon as I figure out my uh"
+  },
+  {
+   "start": 1267.97,
+   "end": 1274.73,
+   "text": "Studio man I'm super excited about that um it's because it's gonna be really cool I'll do a tour"
+  },
+  {
+   "start": 1274.73,
+   "end": 1279.37,
+   "text": "Of it later so anyways that's my vlog for today talk to you tomorrow while I'll probably be"
+  },
+  {
+   "start": 1279.37,
+   "end": 1284.71,
+   "text": "Hopefully I'll be talking about all the breakthroughs I made with my machine"
+  },
+  {
+   "start": 1284.71,
+   "end": 1288.45,
+   "text": "Fingers crossed okay talk to you tomorrow"
+  }
+ ]
+}

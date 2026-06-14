@@ -1,0 +1,3576 @@
+{
+ "youtube_id": "h_2YpOyicSs",
+ "title": "3/10/21 Today, one more day of setting up streaming studio",
+ "url": "https://youtu.be/h_2YpOyicSs",
+ "published_at": "2021-03-10",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 1.18,
+   "end": 6.88,
+   "text": "Hello, living in Boulder, V-Log. I'm just getting out of bed now."
+  },
+  {
+   "start": 9.32,
+   "end": 13.86,
+   "text": "I had nice sleeping, and then I was resting in my bed after."
+  },
+  {
+   "start": 15.14,
+   "end": 18.04,
+   "text": "And my nice clean sheets, it was wonderful."
+  },
+  {
+   "start": 20.2,
+   "end": 24.5,
+   "text": "And then I was laying in bed for like an hour or two, I don't know,"
+  },
+  {
+   "start": 24.58,
+   "end": 28.24,
+   "text": "And then I look at my phone, and it says it's one in the afternoon, so."
+  },
+  {
+   "start": 28.24,
+   "end": 35.18,
+   "text": "So, Best Buy's been open for two hours already, so time to go on over."
+  },
+  {
+   "start": 35.68,
+   "end": 41.42,
+   "text": "Because last night, I was working around until like four in the morning or something,"
+  },
+  {
+   "start": 41.52,
+   "end": 42.94,
+   "text": "Or I was up until four in the morning."
+  },
+  {
+   "start": 46.06,
+   "end": 54.36,
+   "text": "Setting up my room, adjusting the position of my cameras,"
+  },
+  {
+   "start": 54.9,
+   "end": 58.24,
+   "text": "Because I started out the day yesterday at 1.30."
+  },
+  {
+   "start": 58.24,
+   "end": 64.84,
+   "text": "I went into Best Buy, and I think it was yesterday, yeah, and I went to one in"
+  },
+  {
+   "start": 64.84,
+   "end": 71.52,
+   "text": "To find out why my computer, my OBS, wasn't detecting the cameras."
+  },
+  {
+   "start": 71.7,
+   "end": 79.7,
+   "text": "And the guy, you know, didn't detect it, but he turned the computer off and on one time,"
+  },
+  {
+   "start": 79.92,
+   "end": 84.5,
+   "text": "And then the camera detected all four cameras without doing anything."
+  },
+  {
+   "start": 84.5,
+   "end": 91.5,
+   "text": "So, I was like, okay, yay, I guess all I had to do was turn off the camera, the program."
+  },
+  {
+   "start": 91.76,
+   "end": 93.34,
+   "text": "I could have sworn I was doing that, though."
+  },
+  {
+   "start": 93.42,
+   "end": 97.3,
+   "text": "Turning off the program, turning off the computer, unplugging the camera."
+  },
+  {
+   "start": 97.42,
+   "end": 103.34,
+   "text": "So, then I come home, and I think I had to do the same thing."
+  },
+  {
+   "start": 103.42,
+   "end": 108.04,
+   "text": "I had to like unplug the, I mean, restart the computer, I mean, the program."
+  },
+  {
+   "start": 108.04,
+   "end": 111.58,
+   "text": "And with Windows, it's actually really simple."
+  },
+  {
+   "start": 111.74,
+   "end": 117.72,
+   "text": "You just hit the X, it goes away, and then you go and find a program again."
+  },
+  {
+   "start": 118.42,
+   "end": 123.4,
+   "text": "It doesn't show up on my program, like taskbar, so I have to actually type OBS,"
+  },
+  {
+   "start": 123.5,
+   "end": 129.3,
+   "text": "And then it shows, and then I click it and brings it right back, like immediately, like it wasn't."
+  },
+  {
+   "start": 129.3,
+   "end": 144.37,
+   "text": "So, then I tried it with the extension cables, and it didn't work, but then I like started and restarted the program like before"
+  },
+  {
+   "start": 144.37,
+   "end": 148.75,
+   "text": "And unplugged and plugged the cables, and it eventually saw all cameras with extension cables."
+  },
+  {
+   "start": 148.75,
+   "end": 171.28,
+   "text": "So, then at that point, I proceeded to, I proceeded to, I proceeded to put the cameras on the walls"
+  },
+  {
+   "start": 171.28,
+   "end": 180.98,
+   "text": "And then place them and level them to how I wanted them, and then, I did the green screen on the different cameras,"
+  },
+  {
+   "start": 180.98,
+   "end": 189.24,
+   "text": "And, you know, as good as I could, I, good enough, I guess it's good enough."
+  },
+  {
+   "start": 189.32,
+   "end": 192.66,
+   "text": "Maybe I can get better where I can make it look better, learn tricks."
+  },
+  {
+   "start": 193.62,
+   "end": 199.78,
+   "text": "Some kid was doing something like, you do Chrome key, and then you do color correction together,"
+  },
+  {
+   "start": 199.96,
+   "end": 203.52,
+   "text": "But I guess he's doing it with different scenes, so I don't know."
+  },
+  {
+   "start": 204.24,
+   "end": 206.22,
+   "text": "Anyways, that's good enough for me for now."
+  },
+  {
+   "start": 206.22,
+   "end": 213.5,
+   "text": "Well, but then I realized stuff that I needed to do today to finish it up, you know."
+  },
+  {
+   "start": 214.58,
+   "end": 221.19,
+   "text": "My studio is, like, more intricate than any studio you're going to see."
+  },
+  {
+   "start": 222.05,
+   "end": 223.39,
+   "text": "It's, like, the most intricate in the world."
+  },
+  {
+   "start": 224.61,
+   "end": 228.95,
+   "text": "So, you know, I don't know how I get more ambitious as I go along."
+  },
+  {
+   "start": 229.43,
+   "end": 231.79,
+   "text": "I'm like, oh, wow, that's right, I need that."
+  },
+  {
+   "start": 231.97,
+   "end": 234.33,
+   "text": "So, I'm just looking at my stuff, what I need to do today."
+  },
+  {
+   "start": 234.33,
+   "end": 237.89,
+   "text": "What I'm going to do right now is I'm going to go get a joint"
+  },
+  {
+   "start": 237.89,
+   "end": 241.85,
+   "text": "Because there's a marijuana store right next to Best Buy."
+  },
+  {
+   "start": 243.65,
+   "end": 246.55,
+   "text": "And I got a joint there last night after Best Buy,"
+  },
+  {
+   "start": 246.71,
+   "end": 249.45,
+   "text": "And it was way bigger than at the farm."
+  },
+  {
+   "start": 249.63,
+   "end": 252.33,
+   "text": "It was only $9, so it was cheaper, and it was huge."
+  },
+  {
+   "start": 252.95,
+   "end": 257.73,
+   "text": "It was like a frickin', it was this big, and it got really wide at the end."
+  },
+  {
+   "start": 257.77,
+   "end": 259.49,
+   "text": "It was like a frickin' spliff."
+  },
+  {
+   "start": 259.49,
+   "end": 264.27,
+   "text": "And then she gave me the receipt, and she says,"
+  },
+  {
+   "start": 264.39,
+   "end": 267.55,
+   "text": "Yeah, if you use this receipt at your next purchase, you'll get $5 off."
+  },
+  {
+   "start": 268.11,
+   "end": 271.39,
+   "text": "So, I could go in there right now and spend $4 on a huge-ass spliff."
+  },
+  {
+   "start": 272.81,
+   "end": 274.51,
+   "text": "Like, literally right next to Best Buy."
+  },
+  {
+   "start": 274.67,
+   "end": 277.61,
+   "text": "So, you know, I think the place is called, like, Drift."
+  },
+  {
+   "start": 278.41,
+   "end": 280.85,
+   "text": "So, I'm going to go in there, go in to Best Buy,"
+  },
+  {
+   "start": 280.99,
+   "end": 282.49,
+   "text": "And because I went..."
+  },
+  {
+   "start": 282.49,
+   "end": 288.99,
+   "text": "After I talked to the guy, because I went all the way up to Longmont,"
+  },
+  {
+   "start": 289.05,
+   "end": 293.34,
+   "text": "And after I talked to the guy up there, I, you know,"
+  },
+  {
+   "start": 293.4,
+   "end": 296.82,
+   "text": "I forgot to bring my GoPro,"
+  },
+  {
+   "start": 297.56,
+   "end": 299.28,
+   "text": "Because I was going to have him hook up the GoPro, too,"
+  },
+  {
+   "start": 299.32,
+   "end": 300.24,
+   "text": "And I just spaced it."
+  },
+  {
+   "start": 301.7,
+   "end": 304.28,
+   "text": "So, then I had to go down to this Best Buy here"
+  },
+  {
+   "start": 304.28,
+   "end": 308.2,
+   "text": "To buy a GoPro adapter."
+  },
+  {
+   "start": 308.34,
+   "end": 310.44,
+   "text": "I think I had one, but I just couldn't find it, so."
+  },
+  {
+   "start": 310.44,
+   "end": 313.9,
+   "text": "So, besides, it's not long enough, so I need to get a long one"
+  },
+  {
+   "start": 313.9,
+   "end": 317.04,
+   "text": "That I'll reach, because I'm going to put it on the floor right here,"
+  },
+  {
+   "start": 317.16,
+   "end": 319.4,
+   "text": "Or at least one of my cameras on the floor right here on the bottom."
+  },
+  {
+   "start": 319.62,
+   "end": 321.26,
+   "text": "Fix it with Velcro to the bottom of this,"
+  },
+  {
+   "start": 321.34,
+   "end": 322.92,
+   "text": "So it points up at the TV and me."
+  },
+  {
+   "start": 325.52,
+   "end": 328.14,
+   "text": "But I got a mini USB, just like,"
+  },
+  {
+   "start": 328.28,
+   "end": 329.7,
+   "text": "Because it looked just like the GoPro,"
+  },
+  {
+   "start": 330.3,
+   "end": 332.72,
+   "text": "But I forgot that mini USB isn't fucking GoPro."
+  },
+  {
+   "start": 334.14,
+   "end": 335.42,
+   "text": "So, I have to go back right now."
+  },
+  {
+   "start": 335.48,
+   "end": 336.9,
+   "text": "I'm going to exchange my mini USB."
+  },
+  {
+   "start": 336.9,
+   "end": 338.32,
+   "text": "I got a 10-foot-long cable."
+  },
+  {
+   "start": 340.44,
+   "end": 343.48,
+   "text": "I said GoPro, because they have GoPros."
+  },
+  {
+   "start": 343.94,
+   "end": 350.6,
+   "text": "And then I think I'm going to get another webcam,"
+  },
+  {
+   "start": 350.82,
+   "end": 354.6,
+   "text": "A Logitech, because I have two extra USB ports"
+  },
+  {
+   "start": 354.6,
+   "end": 355.56,
+   "text": "In the back of my computer."
+  },
+  {
+   "start": 355.68,
+   "end": 357.12,
+   "text": "So, one of them can be for the GoPro,"
+  },
+  {
+   "start": 357.34,
+   "end": 360.58,
+   "text": "And one of them can be for the other cameras."
+  },
+  {
+   "start": 360.64,
+   "end": 361.78,
+   "text": "So, I'll have six cameras."
+  },
+  {
+   "start": 363.18,
+   "end": 364.86,
+   "text": "Four at the top of each wall."
+  },
+  {
+   "start": 364.86,
+   "end": 370.04,
+   "text": "The GoPro or whoever on the bottom of the north wall"
+  },
+  {
+   "start": 370.04,
+   "end": 371.06,
+   "text": "Pointing up at my TV."
+  },
+  {
+   "start": 373.0,
+   "end": 379.42,
+   "text": "And then I need a traditional webcam that's on top of my TV."
+  },
+  {
+   "start": 380.32,
+   "end": 381.88,
+   "text": "Like, so when I'm sitting in the desk,"
+  },
+  {
+   "start": 381.98,
+   "end": 383.26,
+   "text": "There's one pointing at my face,"
+  },
+  {
+   "start": 383.28,
+   "end": 384.26,
+   "text": "Or when I'm riding my bike,"
+  },
+  {
+   "start": 384.36,
+   "end": 387.96,
+   "text": "Pointing at my face."
+  },
+  {
+   "start": 388.04,
+   "end": 390.92,
+   "text": "That's essential because I'll probably do a lot of videos"
+  },
+  {
+   "start": 390.92,
+   "end": 392.26,
+   "text": "Where I'm just hanging out there."
+  },
+  {
+   "start": 392.26,
+   "end": 393.84,
+   "text": "I also have another place in my bathroom"
+  },
+  {
+   "start": 393.84,
+   "end": 396.18,
+   "text": "Where I can do videos,"
+  },
+  {
+   "start": 396.3,
+   "end": 397.7,
+   "text": "But I can't stream those videos"
+  },
+  {
+   "start": 397.7,
+   "end": 398.94,
+   "text": "Because of my desktop."
+  },
+  {
+   "start": 399.74,
+   "end": 400.66,
+   "text": "Unless I stream..."
+  },
+  {
+   "start": 400.66,
+   "end": 402.92,
+   "text": "I could stream in a camera,"
+  },
+  {
+   "start": 403.04,
+   "end": 404.28,
+   "text": "But then there wouldn't be good sound"
+  },
+  {
+   "start": 404.28,
+   "end": 405.78,
+   "text": "Because my mic is out here."
+  },
+  {
+   "start": 406.04,
+   "end": 409.8,
+   "text": "And so, if I do videos from my bathroom,"
+  },
+  {
+   "start": 409.9,
+   "end": 411.2,
+   "text": "I'll just do it with my..."
+  },
+  {
+   "start": 411.2,
+   "end": 412.82,
+   "text": "Just pre-recorded ones."
+  },
+  {
+   "start": 414.12,
+   "end": 415.58,
+   "text": "Or maybe even with OBS"
+  },
+  {
+   "start": 415.58,
+   "end": 416.72,
+   "text": "Because I have..."
+  },
+  {
+   "start": 416.72,
+   "end": 419.88,
+   "text": "I have OBS on my Macs."
+  },
+  {
+   "start": 420.34,
+   "end": 421.28,
+   "text": "So, I just couldn't..."
+  },
+  {
+   "start": 421.28,
+   "end": 422.3,
+   "text": "And I could stream it, too."
+  },
+  {
+   "start": 422.3,
+   "end": 424.2,
+   "text": "So, I actually could do it with OBS."
+  },
+  {
+   "start": 424.34,
+   "end": 425.62,
+   "text": "That's when I'll do OBS with my Mac"
+  },
+  {
+   "start": 425.62,
+   "end": 426.44,
+   "text": "When I'm in the bathroom,"
+  },
+  {
+   "start": 426.68,
+   "end": 427.24,
+   "text": "For whatever reason."
+  },
+  {
+   "start": 428.54,
+   "end": 429.86,
+   "text": "But yeah, I'm curious to see"
+  },
+  {
+   "start": 429.86,
+   "end": 430.76,
+   "text": "How the green screen and everything"
+  },
+  {
+   "start": 430.76,
+   "end": 433.5,
+   "text": "Is going to work with my desk."
+  },
+  {
+   "start": 433.56,
+   "end": 435.38,
+   "text": "I'll do a demo of everything today"
+  },
+  {
+   "start": 435.38,
+   "end": 436.36,
+   "text": "As soon as it's all set up."
+  },
+  {
+   "start": 437.2,
+   "end": 442.72,
+   "text": "I also am going to buy another 6x7 cloth"
+  },
+  {
+   "start": 442.72,
+   "end": 443.74,
+   "text": "Over at the camera store,"
+  },
+  {
+   "start": 443.82,
+   "end": 444.96,
+   "text": "Mike's camera, for the floor."
+  },
+  {
+   "start": 445.46,
+   "end": 447.82,
+   "text": "Because when I see on my West camera,"
+  },
+  {
+   "start": 448.1,
+   "end": 450.06,
+   "text": "Man, I'm getting some, like, acid reflux."
+  },
+  {
+   "start": 451.3,
+   "end": 452.02,
+   "text": "That sound good."
+  },
+  {
+   "start": 452.02,
+   "end": 452.46,
+   "text": "I..."
+  },
+  {
+   "start": 452.46,
+   "end": 455.74,
+   "text": "It's because I smoke so much weed."
+  },
+  {
+   "start": 455.84,
+   "end": 456.2,
+   "text": "I'm going to..."
+  },
+  {
+   "start": 456.2,
+   "end": 457.52,
+   "text": "I think that causes the yawning, too."
+  },
+  {
+   "start": 458.3,
+   "end": 459.9,
+   "text": "Since I'm done with the weed and exercising,"
+  },
+  {
+   "start": 460.02,
+   "end": 461.38,
+   "text": "I won't be doing acid reflux"
+  },
+  {
+   "start": 461.38,
+   "end": 462.14,
+   "text": "And constant yawning,"
+  },
+  {
+   "start": 462.28,
+   "end": 463.42,
+   "text": "But..."
+  },
+  {
+   "start": 463.42,
+   "end": 465.6,
+   "text": "I usually don't get acid reflux."
+  },
+  {
+   "start": 467.6,
+   "end": 469.34,
+   "text": "But, um..."
+  },
+  {
+   "start": 469.34,
+   "end": 471.34,
+   "text": "Yeah, so..."
+  },
+  {
+   "start": 471.34,
+   "end": 473.5,
+   "text": "Yeah, to cover up the floor."
+  },
+  {
+   "start": 473.64,
+   "end": 474.64,
+   "text": "So, when I ride my bike,"
+  },
+  {
+   "start": 474.68,
+   "end": 475.4,
+   "text": "When I'm looking at it"
+  },
+  {
+   "start": 475.4,
+   "end": 476.54,
+   "text": "On the East camera,"
+  },
+  {
+   "start": 476.54,
+   "end": 478.26,
+   "text": "It kind of..."
+  },
+  {
+   "start": 478.26,
+   "end": 482.04,
+   "text": "I could put whatever, um..."
+  },
+  {
+   "start": 482.04,
+   "end": 485.14,
+   "text": "Whatever, um..."
+  },
+  {
+   "start": 485.14,
+   "end": 487.04,
+   "text": "Like, image I want under the bike, you know?"
+  },
+  {
+   "start": 487.14,
+   "end": 489.32,
+   "text": "Like, if I'm biking through the sky."
+  },
+  {
+   "start": 489.56,
+   "end": 490.04,
+   "text": "Because I..."
+  },
+  {
+   "start": 490.04,
+   "end": 491.18,
+   "text": "I mean, I have lots of ideas"
+  },
+  {
+   "start": 491.18,
+   "end": 492.68,
+   "text": "For when I make videos"
+  },
+  {
+   "start": 492.68,
+   "end": 493.84,
+   "text": "For, like, time travel triathlon"
+  },
+  {
+   "start": 493.84,
+   "end": 494.8,
+   "text": "And all that kind of stuff."
+  },
+  {
+   "start": 495.26,
+   "end": 495.96,
+   "text": "And tours."
+  },
+  {
+   "start": 496.68,
+   "end": 497.78,
+   "text": "I can pretend that I'm, like,"
+  },
+  {
+   "start": 497.82,
+   "end": 498.64,
+   "text": "Biking through the sky"
+  },
+  {
+   "start": 498.64,
+   "end": 498.92,
+   "text": "Or whatever."
+  },
+  {
+   "start": 499.04,
+   "end": 499.26,
+   "text": "I don't know."
+  },
+  {
+   "start": 499.32,
+   "end": 500.4,
+   "text": "So..."
+  },
+  {
+   "start": 500.4,
+   "end": 501.74,
+   "text": "Yeah, or biking on water"
+  },
+  {
+   "start": 501.74,
+   "end": 503.0,
+   "text": "Or roads and stuff."
+  },
+  {
+   "start": 503.1,
+   "end": 503.72,
+   "text": "I just have..."
+  },
+  {
+   "start": 503.72,
+   "end": 504.02,
+   "text": "And it..."
+  },
+  {
+   "start": 504.02,
+   "end": 505.02,
+   "text": "Yeah, it just didn't look right."
+  },
+  {
+   "start": 505.08,
+   "end": 505.78,
+   "text": "It looked out of place"
+  },
+  {
+   "start": 505.78,
+   "end": 506.74,
+   "text": "And you could see the floor there."
+  },
+  {
+   "start": 506.82,
+   "end": 509.12,
+   "text": "So, I'm going to get another, uh..."
+  },
+  {
+   "start": 509.12,
+   "end": 512.3,
+   "text": "Green screen and, um..."
+  },
+  {
+   "start": 512.3,
+   "end": 512.96,
+   "text": "Um..."
+  },
+  {
+   "start": 514.08,
+   "end": 514.96,
+   "text": "And, um..."
+  },
+  {
+   "start": 515.84,
+   "end": 516.16,
+   "text": "You know?"
+  },
+  {
+   "start": 516.22,
+   "end": 516.64,
+   "text": "And so, like,"
+  },
+  {
+   "start": 516.66,
+   "end": 517.32,
+   "text": "If it gets dirty"
+  },
+  {
+   "start": 517.32,
+   "end": 518.5,
+   "text": "From sweat dripping on it,"
+  },
+  {
+   "start": 518.54,
+   "end": 520.1,
+   "text": "You just throw it in the machine, you know?"
+  },
+  {
+   "start": 520.18,
+   "end": 522.14,
+   "text": "You clean it on the machine on soft."
+  },
+  {
+   "start": 522.96,
+   "end": 523.44,
+   "text": "You know?"
+  },
+  {
+   "start": 523.44,
+   "end": 525.02,
+   "text": "And you just let it get the life out of it."
+  },
+  {
+   "start": 525.02,
+   "end": 526.32,
+   "text": "It seems like the cloth"
+  },
+  {
+   "start": 526.32,
+   "end": 527.02,
+   "text": "That it's made out of"
+  },
+  {
+   "start": 527.02,
+   "end": 529.2,
+   "text": "Is nice and strong, so..."
+  },
+  {
+   "start": 529.2,
+   "end": 530.24,
+   "text": "So, I'm going to get one of those."
+  },
+  {
+   "start": 530.66,
+   "end": 532.02,
+   "text": "I'm also going to go to my mom's house"
+  },
+  {
+   "start": 532.02,
+   "end": 533.92,
+   "text": "Because I dumped my paper,"
+  },
+  {
+   "start": 534.04,
+   "end": 534.86,
+   "text": "My green screen paper,"
+  },
+  {
+   "start": 534.98,
+   "end": 535.7,
+   "text": "Her garage again."
+  },
+  {
+   "start": 535.76,
+   "end": 536.66,
+   "text": "Go pick that up again."
+  },
+  {
+   "start": 537.28,
+   "end": 538.06,
+   "text": "Because I have to take"
+  },
+  {
+   "start": 538.06,
+   "end": 540.26,
+   "text": "Pictures off the wall"
+  },
+  {
+   "start": 540.26,
+   "end": 542.08,
+   "text": "And then cover my south wall"
+  },
+  {
+   "start": 542.08,
+   "end": 543.28,
+   "text": "And east and western wall"
+  },
+  {
+   "start": 543.28,
+   "end": 545.0,
+   "text": "With, um..."
+  },
+  {
+   "start": 545.0,
+   "end": 546.38,
+   "text": "With, uh..."
+  },
+  {
+   "start": 546.38,
+   "end": 547.1,
+   "text": "Green screen."
+  },
+  {
+   "start": 547.1,
+   "end": 548.0,
+   "text": "So that it..."
+  },
+  {
+   "start": 548.0,
+   "end": 548.36,
+   "text": "You know?"
+  },
+  {
+   "start": 548.44,
+   "end": 549.66,
+   "text": "So that my camera angles"
+  },
+  {
+   "start": 549.66,
+   "end": 550.6,
+   "text": "Don't include that."
+  },
+  {
+   "start": 552.32,
+   "end": 554.2,
+   "text": "So, get a joint"
+  },
+  {
+   "start": 554.2,
+   "end": 555.1,
+   "text": "And get a new"
+  },
+  {
+   "start": 555.1,
+   "end": 556.62,
+   "text": "Webcam."
+  },
+  {
+   "start": 558.32,
+   "end": 559.22,
+   "text": "Exchange the adapter"
+  },
+  {
+   "start": 559.22,
+   "end": 559.98,
+   "text": "For my GoPro"
+  },
+  {
+   "start": 559.98,
+   "end": 561.16,
+   "text": "So I can come back here"
+  },
+  {
+   "start": 561.16,
+   "end": 561.8,
+   "text": "And hook up the"
+  },
+  {
+   "start": 561.8,
+   "end": 562.86,
+   "text": "Webcam and a GoPro."
+  },
+  {
+   "start": 563.02,
+   "end": 563.64,
+   "text": "That'll give me"
+  },
+  {
+   "start": 563.64,
+   "end": 564.64,
+   "text": "Six cameras."
+  },
+  {
+   "start": 565.62,
+   "end": 566.42,
+   "text": "Buy the..."
+  },
+  {
+   "start": 566.42,
+   "end": 568.12,
+   "text": "The green screen"
+  },
+  {
+   "start": 568.12,
+   "end": 569.64,
+   "text": "Cloth."
+  },
+  {
+   "start": 570.76,
+   "end": 571.88,
+   "text": "Tear the papers off..."
+  },
+  {
+   "start": 571.88,
+   "end": 572.88,
+   "text": "Pictures off the wall."
+  },
+  {
+   "start": 575.26,
+   "end": 576.58,
+   "text": "Replace them with green screen"
+  },
+  {
+   "start": 576.58,
+   "end": 577.86,
+   "text": "That I get from my mom's house."
+  },
+  {
+   "start": 579.2,
+   "end": 579.96,
+   "text": "And, uh..."
+  },
+  {
+   "start": 579.96,
+   "end": 580.18,
+   "text": "Yeah."
+  },
+  {
+   "start": 580.26,
+   "end": 581.34,
+   "text": "That's what I'm doing today."
+  },
+  {
+   "start": 581.54,
+   "end": 582.42,
+   "text": "Just another day"
+  },
+  {
+   "start": 582.42,
+   "end": 583.5,
+   "text": "I have slight touch-ups"
+  },
+  {
+   "start": 583.5,
+   "end": 584.12,
+   "text": "And, uh..."
+  },
+  {
+   "start": 584.12,
+   "end": 585.02,
+   "text": "Like, another fucking"
+  },
+  {
+   "start": 585.02,
+   "end": 585.78,
+   "text": "Hundred dollars."
+  },
+  {
+   "start": 586.88,
+   "end": 588.16,
+   "text": "So, yesterday..."
+  },
+  {
+   "start": 588.16,
+   "end": 589.06,
+   "text": "Over the last few days"
+  },
+  {
+   "start": 589.06,
+   "end": 591.42,
+   "text": "I got really freaked out"
+  },
+  {
+   "start": 591.42,
+   "end": 592.64,
+   "text": "Because I thought"
+  },
+  {
+   "start": 592.64,
+   "end": 593.52,
+   "text": "That my knee..."
+  },
+  {
+   "start": 593.52,
+   "end": 594.44,
+   "text": "I dislocated my knee."
+  },
+  {
+   "start": 594.5,
+   "end": 596.18,
+   "text": "I went dancing last week"
+  },
+  {
+   "start": 596.18,
+   "end": 597.14,
+   "text": "And I was streaming it"
+  },
+  {
+   "start": 597.14,
+   "end": 597.84,
+   "text": "And I thought I streamed"
+  },
+  {
+   "start": 597.84,
+   "end": 598.32,
+   "text": "The whole thing"
+  },
+  {
+   "start": 598.32,
+   "end": 599.74,
+   "text": "And it was working, but..."
+  },
+  {
+   "start": 599.74,
+   "end": 600.36,
+   "text": "So I was excited"
+  },
+  {
+   "start": 600.36,
+   "end": 601.28,
+   "text": "And I was playing music"
+  },
+  {
+   "start": 601.28,
+   "end": 601.8,
+   "text": "Really loud"
+  },
+  {
+   "start": 601.8,
+   "end": 603.5,
+   "text": "And I was doing helicopters,"
+  },
+  {
+   "start": 603.72,
+   "end": 603.98,
+   "text": "You know,"
+  },
+  {
+   "start": 604.04,
+   "end": 604.9,
+   "text": "Where you do a 360"
+  },
+  {
+   "start": 604.9,
+   "end": 605.52,
+   "text": "And you land"
+  },
+  {
+   "start": 605.52,
+   "end": 606.42,
+   "text": "But as soon as I landed"
+  },
+  {
+   "start": 606.42,
+   "end": 607.16,
+   "text": "I did helicopter"
+  },
+  {
+   "start": 607.16,
+   "end": 607.88,
+   "text": "In the other direction"
+  },
+  {
+   "start": 607.88,
+   "end": 609.28,
+   "text": "And I just did a bunch of those"
+  },
+  {
+   "start": 609.28,
+   "end": 610.12,
+   "text": "Because I thought it was cool."
+  },
+  {
+   "start": 610.12,
+   "end": 612.6,
+   "text": "And I thought nothing of it"
+  },
+  {
+   "start": 612.6,
+   "end": 612.94,
+   "text": "At..."
+  },
+  {
+   "start": 612.94,
+   "end": 614.08,
+   "text": "Well, I thought a little bit"
+  },
+  {
+   "start": 614.08,
+   "end": 615.08,
+   "text": "Like, is this sketchy?"
+  },
+  {
+   "start": 615.12,
+   "end": 616.26,
+   "text": "But I didn't feel anything"
+  },
+  {
+   "start": 616.26,
+   "end": 616.84,
+   "text": "At the time"
+  },
+  {
+   "start": 616.84,
+   "end": 618.38,
+   "text": "And then my knee"
+  },
+  {
+   "start": 618.38,
+   "end": 619.12,
+   "text": "Just started having"
+  },
+  {
+   "start": 619.12,
+   "end": 620.98,
+   "text": "Like really, really bad pain."
+  },
+  {
+   "start": 621.06,
+   "end": 622.28,
+   "text": "Like, I'd walk down the stairs"
+  },
+  {
+   "start": 622.28,
+   "end": 624.38,
+   "text": "And then my mom"
+  },
+  {
+   "start": 624.38,
+   "end": 625.02,
+   "text": "Drove me out"
+  },
+  {
+   "start": 625.02,
+   "end": 625.96,
+   "text": "To do a hike with her"
+  },
+  {
+   "start": 625.96,
+   "end": 626.74,
+   "text": "And I'm sitting there"
+  },
+  {
+   "start": 626.74,
+   "end": 627.32,
+   "text": "And I'm like,"
+  },
+  {
+   "start": 627.42,
+   "end": 628.34,
+   "text": "God damn!"
+  },
+  {
+   "start": 630.96,
+   "end": 633.62,
+   "text": "My knee was in so much pain,"
+  },
+  {
+   "start": 633.78,
+   "end": 634.66,
+   "text": "Like a lot of pain"
+  },
+  {
+   "start": 634.66,
+   "end": 636.3,
+   "text": "And it was radiating out"
+  },
+  {
+   "start": 636.3,
+   "end": 638.64,
+   "text": "From my freaking knee"
+  },
+  {
+   "start": 638.64,
+   "end": 640.46,
+   "text": "On my hamstring"
+  },
+  {
+   "start": 640.46,
+   "end": 641.3,
+   "text": "On the inside"
+  },
+  {
+   "start": 641.3,
+   "end": 641.82,
+   "text": "And the outside"
+  },
+  {
+   "start": 641.82,
+   "end": 644.94,
+   "text": "And I had a huge lump"
+  },
+  {
+   "start": 644.94,
+   "end": 646.5,
+   "text": "Like it was..."
+  },
+  {
+   "start": 646.5,
+   "end": 647.12,
+   "text": "It seemed like"
+  },
+  {
+   "start": 647.12,
+   "end": 648.18,
+   "text": "As hard as a bone"
+  },
+  {
+   "start": 648.18,
+   "end": 649.8,
+   "text": "Sticking out."
+  },
+  {
+   "start": 650.72,
+   "end": 652.08,
+   "text": "Maybe I could do a video"
+  },
+  {
+   "start": 652.08,
+   "end": 653.92,
+   "text": "Now, do a demo."
+  },
+  {
+   "start": 656.16,
+   "end": 658.26,
+   "text": "It's actually not that bad anymore."
+  },
+  {
+   "start": 659.14,
+   "end": 660.44,
+   "text": "It got better yesterday."
+  },
+  {
+   "start": 661.5,
+   "end": 662.42,
+   "text": "Yeah, it's kind of"
+  },
+  {
+   "start": 662.42,
+   "end": 663.36,
+   "text": "Not even that bad."
+  },
+  {
+   "start": 663.36,
+   "end": 664.22,
+   "text": "So, yeah,"
+  },
+  {
+   "start": 664.26,
+   "end": 665.34,
+   "text": "I was just freaked out"
+  },
+  {
+   "start": 665.34,
+   "end": 665.94,
+   "text": "But I thought"
+  },
+  {
+   "start": 665.94,
+   "end": 667.44,
+   "text": "This knot here"
+  },
+  {
+   "start": 667.44,
+   "end": 669.5,
+   "text": "Because it was sore"
+  },
+  {
+   "start": 669.5,
+   "end": 671.02,
+   "text": "But it's actually"
+  },
+  {
+   "start": 671.02,
+   "end": 671.54,
+   "text": "Not that bad"
+  },
+  {
+   "start": 671.54,
+   "end": 672.42,
+   "text": "Because then I, uh,"
+  },
+  {
+   "start": 672.76,
+   "end": 673.3,
+   "text": "I even went into"
+  },
+  {
+   "start": 673.3,
+   "end": 674.26,
+   "text": "The doctor yesterday"
+  },
+  {
+   "start": 674.26,
+   "end": 675.22,
+   "text": "And they looked at it"
+  },
+  {
+   "start": 675.22,
+   "end": 676.64,
+   "text": "And he even ordered"
+  },
+  {
+   "start": 676.64,
+   "end": 677.6,
+   "text": "An x-ray"
+  },
+  {
+   "start": 677.6,
+   "end": 679.1,
+   "text": "Because I told him"
+  },
+  {
+   "start": 679.1,
+   "end": 679.72,
+   "text": "That it, like,"
+  },
+  {
+   "start": 679.78,
+   "end": 680.4,
+   "text": "Hurt so bad"
+  },
+  {
+   "start": 680.4,
+   "end": 681.04,
+   "text": "And it was still"
+  },
+  {
+   "start": 681.04,
+   "end": 681.92,
+   "text": "Kind of inflamed"
+  },
+  {
+   "start": 681.92,
+   "end": 683.8,
+   "text": "But I never took"
+  },
+  {
+   "start": 683.8,
+   "end": 684.9,
+   "text": "Ibuprofens"
+  },
+  {
+   "start": 684.9,
+   "end": 685.74,
+   "text": "For some reason."
+  },
+  {
+   "start": 685.9,
+   "end": 686.7,
+   "text": "It was going on"
+  },
+  {
+   "start": 686.7,
+   "end": 687.32,
+   "text": "For like"
+  },
+  {
+   "start": 687.32,
+   "end": 690.52,
+   "text": "Four days like that"
+  },
+  {
+   "start": 690.52,
+   "end": 691.24,
+   "text": "And I never took"
+  },
+  {
+   "start": 691.24,
+   "end": 691.98,
+   "text": "Ibuprofens"
+  },
+  {
+   "start": 691.98,
+   "end": 693.0,
+   "text": "And so I went home"
+  },
+  {
+   "start": 693.0,
+   "end": 693.64,
+   "text": "And finally took"
+  },
+  {
+   "start": 693.64,
+   "end": 694.62,
+   "text": "Four ibuprofens"
+  },
+  {
+   "start": 694.62,
+   "end": 695.06,
+   "text": "For two,"
+  },
+  {
+   "start": 695.14,
+   "end": 695.68,
+   "text": "Maybe that's why"
+  },
+  {
+   "start": 695.68,
+   "end": 697.06,
+   "text": "I'm getting the acid reflux."
+  },
+  {
+   "start": 697.14,
+   "end": 697.36,
+   "text": "I don't know."
+  },
+  {
+   "start": 697.92,
+   "end": 698.9,
+   "text": "I forgot to take it"
+  },
+  {
+   "start": 698.9,
+   "end": 699.2,
+   "text": "With water."
+  },
+  {
+   "start": 699.28,
+   "end": 699.7,
+   "text": "You're supposed to take it"
+  },
+  {
+   "start": 699.7,
+   "end": 700.1,
+   "text": "With food"
+  },
+  {
+   "start": 700.1,
+   "end": 701.02,
+   "text": "Because it burns your stomach"
+  },
+  {
+   "start": 701.02,
+   "end": 702.58,
+   "text": "And I take it with like"
+  },
+  {
+   "start": 702.58,
+   "end": 703.24,
+   "text": "Just a little bit"
+  },
+  {
+   "start": 703.24,
+   "end": 704.04,
+   "text": "Of like protein drink."
+  },
+  {
+   "start": 704.16,
+   "end": 704.78,
+   "text": "It was stupid"
+  },
+  {
+   "start": 704.78,
+   "end": 705.06,
+   "text": "But,"
+  },
+  {
+   "start": 705.3,
+   "end": 706.82,
+   "text": "Oh,"
+  },
+  {
+   "start": 706.9,
+   "end": 707.34,
+   "text": "And a little bit"
+  },
+  {
+   "start": 707.34,
+   "end": 707.68,
+   "text": "Of pizza"
+  },
+  {
+   "start": 707.68,
+   "end": 707.92,
+   "text": "But,"
+  },
+  {
+   "start": 708.98,
+   "end": 710.82,
+   "text": "Took four ibuprofens"
+  },
+  {
+   "start": 710.82,
+   "end": 712.12,
+   "text": "And like,"
+  },
+  {
+   "start": 712.3,
+   "end": 712.6,
+   "text": "Damn,"
+  },
+  {
+   "start": 712.78,
+   "end": 713.0,
+   "text": "Like,"
+  },
+  {
+   "start": 713.26,
+   "end": 714.14,
+   "text": "After a half hour"
+  },
+  {
+   "start": 714.14,
+   "end": 715.34,
+   "text": "It just came right down."
+  },
+  {
+   "start": 715.44,
+   "end": 715.54,
+   "text": "Like,"
+  },
+  {
+   "start": 715.58,
+   "end": 716.22,
+   "text": "That's all I needed"
+  },
+  {
+   "start": 716.22,
+   "end": 717.5,
+   "text": "Was to take ibuprofens."
+  },
+  {
+   "start": 717.5,
+   "end": 719.02,
+   "text": "Yeah,"
+  },
+  {
+   "start": 719.34,
+   "end": 719.6,
+   "text": "So,"
+  },
+  {
+   "start": 719.86,
+   "end": 720.96,
+   "text": "I went into the doctor"
+  },
+  {
+   "start": 720.96,
+   "end": 722.08,
+   "text": "Because I was with my mom"
+  },
+  {
+   "start": 722.08,
+   "end": 722.64,
+   "text": "And she was like,"
+  },
+  {
+   "start": 722.68,
+   "end": 723.26,
+   "text": "Go to the doctor"
+  },
+  {
+   "start": 723.26,
+   "end": 724.3,
+   "text": "And I just walked in"
+  },
+  {
+   "start": 724.3,
+   "end": 725.32,
+   "text": "And they sent an appointment"
+  },
+  {
+   "start": 725.32,
+   "end": 726.36,
+   "text": "For like two and a half hours later"
+  },
+  {
+   "start": 726.36,
+   "end": 726.9,
+   "text": "So it was cool"
+  },
+  {
+   "start": 726.9,
+   "end": 727.12,
+   "text": "But,"
+  },
+  {
+   "start": 727.62,
+   "end": 728.68,
+   "text": "I had to pay like $72"
+  },
+  {
+   "start": 728.68,
+   "end": 729.98,
+   "text": "To pay it."
+  },
+  {
+   "start": 730.62,
+   "end": 732.04,
+   "text": "I wanted to get an opinion,"
+  },
+  {
+   "start": 732.26,
+   "end": 732.42,
+   "text": "You know,"
+  },
+  {
+   "start": 732.68,
+   "end": 734.18,
+   "text": "I thought I dislocated my knee"
+  },
+  {
+   "start": 734.18,
+   "end": 735.52,
+   "text": "Because I have,"
+  },
+  {
+   "start": 735.64,
+   "end": 735.82,
+   "text": "I mean,"
+  },
+  {
+   "start": 735.86,
+   "end": 736.52,
+   "text": "It's been forever."
+  },
+  {
+   "start": 737.84,
+   "end": 738.94,
+   "text": "Whenever I get injured"
+  },
+  {
+   "start": 738.94,
+   "end": 739.8,
+   "text": "Or something happens,"
+  },
+  {
+   "start": 739.94,
+   "end": 740.06,
+   "text": "See,"
+  },
+  {
+   "start": 740.22,
+   "end": 740.86,
+   "text": "It's been forever"
+  },
+  {
+   "start": 740.86,
+   "end": 741.7,
+   "text": "Since I got exercise"
+  },
+  {
+   "start": 741.7,
+   "end": 742.58,
+   "text": "I don't know how I'm doing."
+  },
+  {
+   "start": 743.46,
+   "end": 743.66,
+   "text": "So,"
+  },
+  {
+   "start": 743.72,
+   "end": 744.58,
+   "text": "Whenever something happens"
+  },
+  {
+   "start": 744.58,
+   "end": 745.24,
+   "text": "Like an injury"
+  },
+  {
+   "start": 745.24,
+   "end": 745.82,
+   "text": "Or a pain,"
+  },
+  {
+   "start": 746.14,
+   "end": 746.5,
+   "text": "You know,"
+  },
+  {
+   "start": 746.5,
+   "end": 747.02,
+   "text": "Or I'm tired,"
+  },
+  {
+   "start": 747.12,
+   "end": 747.68,
+   "text": "I think to myself,"
+  },
+  {
+   "start": 747.82,
+   "end": 747.96,
+   "text": "Okay,"
+  },
+  {
+   "start": 748.04,
+   "end": 749.02,
+   "text": "What would I do"
+  },
+  {
+   "start": 749.02,
+   "end": 750.54,
+   "text": "If I was 20 and in shape?"
+  },
+  {
+   "start": 750.68,
+   "end": 750.88,
+   "text": "I'm like,"
+  },
+  {
+   "start": 750.96,
+   "end": 751.14,
+   "text": "Whoa,"
+  },
+  {
+   "start": 751.2,
+   "end": 751.68,
+   "text": "What would I do"
+  },
+  {
+   "start": 751.68,
+   "end": 752.4,
+   "text": "In that situation?"
+  },
+  {
+   "start": 753.8,
+   "end": 754.04,
+   "text": "Yeah,"
+  },
+  {
+   "start": 754.08,
+   "end": 755.0,
+   "text": "And I think with the knee"
+  },
+  {
+   "start": 755.0,
+   "end": 755.68,
+   "text": "I would have been like,"
+  },
+  {
+   "start": 755.76,
+   "end": 756.08,
+   "text": "Oh yeah,"
+  },
+  {
+   "start": 756.16,
+   "end": 757.44,
+   "text": "That's not dislocated,"
+  },
+  {
+   "start": 757.54,
+   "end": 758.76,
+   "text": "You don't dislocate knees."
+  },
+  {
+   "start": 759.02,
+   "end": 759.86,
+   "text": "What happened was"
+  },
+  {
+   "start": 759.86,
+   "end": 760.92,
+   "text": "It's just inflamed."
+  },
+  {
+   "start": 761.6,
+   "end": 761.88,
+   "text": "Oh yeah,"
+  },
+  {
+   "start": 761.92,
+   "end": 763.28,
+   "text": "The doctor said tendinitis"
+  },
+  {
+   "start": 763.28,
+   "end": 764.42,
+   "text": "And I was walking around."
+  },
+  {
+   "start": 764.54,
+   "end": 766.18,
+   "text": "It was actually really painful yesterday"
+  },
+  {
+   "start": 766.18,
+   "end": 767.48,
+   "text": "When I came back from the doctor"
+  },
+  {
+   "start": 767.48,
+   "end": 768.54,
+   "text": "Because every time I walk"
+  },
+  {
+   "start": 768.54,
+   "end": 769.26,
+   "text": "It was really painful"
+  },
+  {
+   "start": 769.26,
+   "end": 771.48,
+   "text": "But then I took the ibuprofen"
+  },
+  {
+   "start": 771.48,
+   "end": 772.38,
+   "text": "And I like fixed everything"
+  },
+  {
+   "start": 772.38,
+   "end": 773.6,
+   "text": "So we'll see if,"
+  },
+  {
+   "start": 774.44,
+   "end": 774.84,
+   "text": "Okay,"
+  },
+  {
+   "start": 774.84,
+   "end": 777.74,
+   "text": "Walking to the store"
+  },
+  {
+   "start": 777.74,
+   "end": 778.76,
+   "text": "Is going to make my knee"
+  },
+  {
+   "start": 778.76,
+   "end": 779.54,
+   "text": "Like really painful"
+  },
+  {
+   "start": 779.54,
+   "end": 780.1,
+   "text": "For the rest of the day"
+  },
+  {
+   "start": 780.1,
+   "end": 780.48,
+   "text": "And it does,"
+  },
+  {
+   "start": 780.56,
+   "end": 781.7,
+   "text": "I'll just take four more ibuprofen."
+  },
+  {
+   "start": 782.2,
+   "end": 782.46,
+   "text": "I mean,"
+  },
+  {
+   "start": 783.22,
+   "end": 783.98,
+   "text": "Oh my God,"
+  },
+  {
+   "start": 784.06,
+   "end": 785.74,
+   "text": "Ibuprofen does freaking wonders."
+  },
+  {
+   "start": 786.0,
+   "end": 786.94,
+   "text": "It's a wonder drug."
+  },
+  {
+   "start": 788.06,
+   "end": 788.38,
+   "text": "Ibuprofen,"
+  },
+  {
+   "start": 788.42,
+   "end": 789.1,
+   "text": "I always thought it was"
+  },
+  {
+   "start": 789.1,
+   "end": 789.98,
+   "text": "Like a pain reliever,"
+  },
+  {
+   "start": 790.08,
+   "end": 790.28,
+   "text": "You know,"
+  },
+  {
+   "start": 790.3,
+   "end": 790.66,
+   "text": "And I'm like,"
+  },
+  {
+   "start": 790.72,
+   "end": 791.78,
+   "text": "I don't do pain relievers,"
+  },
+  {
+   "start": 791.9,
+   "end": 792.4,
+   "text": "They're unhealthy."
+  },
+  {
+   "start": 793.06,
+   "end": 793.42,
+   "text": "No,"
+  },
+  {
+   "start": 793.68,
+   "end": 794.08,
+   "text": "No,"
+  },
+  {
+   "start": 794.38,
+   "end": 795.14,
+   "text": "They're healers."
+  },
+  {
+   "start": 795.22,
+   "end": 795.78,
+   "text": "It heals you."
+  },
+  {
+   "start": 795.86,
+   "end": 796.88,
+   "text": "It brings the swelling down."
+  },
+  {
+   "start": 798.02,
+   "end": 798.86,
+   "text": "It's actually started"
+  },
+  {
+   "start": 798.86,
+   "end": 800.18,
+   "text": "Getting hurt,"
+  },
+  {
+   "start": 800.32,
+   "end": 801.02,
+   "text": "Hurting again,"
+  },
+  {
+   "start": 801.08,
+   "end": 802.18,
+   "text": "Maybe because the ibuprofen"
+  },
+  {
+   "start": 802.18,
+   "end": 802.68,
+   "text": "Ran out."
+  },
+  {
+   "start": 802.68,
+   "end": 802.94,
+   "text": "So,"
+  },
+  {
+   "start": 803.54,
+   "end": 803.74,
+   "text": "Yeah,"
+  },
+  {
+   "start": 803.78,
+   "end": 804.94,
+   "text": "I had a meeting with a doctor,"
+  },
+  {
+   "start": 805.12,
+   "end": 805.9,
+   "text": "Like a virtual meeting"
+  },
+  {
+   "start": 805.9,
+   "end": 807.0,
+   "text": "With a doctor for two weeks."
+  },
+  {
+   "start": 807.06,
+   "end": 807.84,
+   "text": "I just like canceled."
+  },
+  {
+   "start": 808.02,
+   "end": 808.26,
+   "text": "I'm like,"
+  },
+  {
+   "start": 808.32,
+   "end": 809.26,
+   "text": "There's nothing wrong"
+  },
+  {
+   "start": 809.26,
+   "end": 809.64,
+   "text": "With my knee."
+  },
+  {
+   "start": 810.0,
+   "end": 810.94,
+   "text": "I'm not going to ride"
+  },
+  {
+   "start": 810.94,
+   "end": 812.52,
+   "text": "Or run anytime soon"
+  },
+  {
+   "start": 812.52,
+   "end": 814.9,
+   "text": "Until I get like a whole day"
+  },
+  {
+   "start": 814.9,
+   "end": 815.76,
+   "text": "Without any pain"
+  },
+  {
+   "start": 815.76,
+   "end": 816.84,
+   "text": "But definitely no more"
+  },
+  {
+   "start": 816.84,
+   "end": 817.8,
+   "text": "Dancing like that."
+  },
+  {
+   "start": 818.34,
+   "end": 819.38,
+   "text": "I'll do a helicopter"
+  },
+  {
+   "start": 819.38,
+   "end": 820.66,
+   "text": "Like skiing or whatever"
+  },
+  {
+   "start": 820.66,
+   "end": 821.54,
+   "text": "But not dancing."
+  },
+  {
+   "start": 822.96,
+   "end": 823.36,
+   "text": "Like,"
+  },
+  {
+   "start": 823.46,
+   "end": 824.2,
+   "text": "Or at least not"
+  },
+  {
+   "start": 824.2,
+   "end": 825.32,
+   "text": "While I weigh over 200,"
+  },
+  {
+   "start": 825.96,
+   "end": 827.24,
+   "text": "I weigh 200 pounds."
+  },
+  {
+   "start": 828.04,
+   "end": 829.14,
+   "text": "I went to the doctor's office"
+  },
+  {
+   "start": 829.14,
+   "end": 829.46,
+   "text": "Yesterday"
+  },
+  {
+   "start": 829.46,
+   "end": 831.02,
+   "text": "And it said 197 pounds"
+  },
+  {
+   "start": 831.02,
+   "end": 832.36,
+   "text": "Plus I'm not exercised."
+  },
+  {
+   "start": 832.36,
+   "end": 832.58,
+   "text": "So,"
+  },
+  {
+   "start": 833.24,
+   "end": 833.86,
+   "text": "Maybe I should run"
+  },
+  {
+   "start": 833.86,
+   "end": 834.54,
+   "text": "A little bit more"
+  },
+  {
+   "start": 834.54,
+   "end": 835.36,
+   "text": "And strengthen my,"
+  },
+  {
+   "start": 835.36,
+   "end": 838.9,
+   "text": "My joints a little bit more"
+  },
+  {
+   "start": 838.9,
+   "end": 839.5,
+   "text": "Before I start doing"
+  },
+  {
+   "start": 839.5,
+   "end": 840.46,
+   "text": "Fancy stuff like that."
+  },
+  {
+   "start": 840.74,
+   "end": 840.86,
+   "text": "So,"
+  },
+  {
+   "start": 841.0,
+   "end": 841.24,
+   "text": "Anyway,"
+  },
+  {
+   "start": 841.32,
+   "end": 841.78,
+   "text": "That was good."
+  },
+  {
+   "start": 841.84,
+   "end": 842.92,
+   "text": "Now I know to be super careful"
+  },
+  {
+   "start": 842.92,
+   "end": 843.62,
+   "text": "When I go running"
+  },
+  {
+   "start": 843.62,
+   "end": 845.28,
+   "text": "Up in the like rocks,"
+  },
+  {
+   "start": 845.4,
+   "end": 846.2,
+   "text": "Flat irons and stuff"
+  },
+  {
+   "start": 846.2,
+   "end": 846.9,
+   "text": "And I want to like"
+  },
+  {
+   "start": 846.9,
+   "end": 848.86,
+   "text": "Buckle and knee"
+  },
+  {
+   "start": 848.86,
+   "end": 849.34,
+   "text": "Or you know,"
+  },
+  {
+   "start": 849.38,
+   "end": 850.24,
+   "text": "You want to hit everything"
+  },
+  {
+   "start": 850.24,
+   "end": 852.18,
+   "text": "At the right angle."
+  },
+  {
+   "start": 852.64,
+   "end": 853.0,
+   "text": "Anyway,"
+  },
+  {
+   "start": 853.34,
+   "end": 855.32,
+   "text": "Yeah,"
+  },
+  {
+   "start": 855.4,
+   "end": 856.52,
+   "text": "So that's what I'm going to do."
+  },
+  {
+   "start": 856.68,
+   "end": 857.72,
+   "text": "I'm going to get up now"
+  },
+  {
+   "start": 857.72,
+   "end": 858.38,
+   "text": "And"
+  },
+  {
+   "start": 858.38,
+   "end": 860.54,
+   "text": "Drive around"
+  },
+  {
+   "start": 860.54,
+   "end": 860.88,
+   "text": "And"
+  },
+  {
+   "start": 860.88,
+   "end": 861.86,
+   "text": "Oh yeah,"
+  },
+  {
+   "start": 861.86,
+   "end": 862.62,
+   "text": "I'm also going to go"
+  },
+  {
+   "start": 862.62,
+   "end": 863.22,
+   "text": "To Home Depot"
+  },
+  {
+   "start": 863.22,
+   "end": 863.86,
+   "text": "And buy"
+  },
+  {
+   "start": 863.86,
+   "end": 865.16,
+   "text": "A"
+  },
+  {
+   "start": 865.16,
+   "end": 866.56,
+   "text": "Whole packet,"
+  },
+  {
+   "start": 867.06,
+   "end": 867.9,
+   "text": "They're like 10 bucks"
+  },
+  {
+   "start": 867.9,
+   "end": 869.56,
+   "text": "Of these little hooks"
+  },
+  {
+   "start": 869.56,
+   "end": 871.42,
+   "text": "So that I can hook"
+  },
+  {
+   "start": 871.42,
+   "end": 872.6,
+   "text": "Things around"
+  },
+  {
+   "start": 872.6,
+   "end": 873.08,
+   "text": "Like"
+  },
+  {
+   "start": 873.08,
+   "end": 875.64,
+   "text": "Hook stuff up"
+  },
+  {
+   "start": 875.64,
+   "end": 876.3,
+   "text": "On"
+  },
+  {
+   "start": 876.3,
+   "end": 878.12,
+   "text": "Cables or whatever"
+  },
+  {
+   "start": 878.12,
+   "end": 878.88,
+   "text": "Up near where my"
+  },
+  {
+   "start": 878.88,
+   "end": 879.66,
+   "text": "Desk is."
+  },
+  {
+   "start": 879.78,
+   "end": 880.0,
+   "text": "I just,"
+  },
+  {
+   "start": 880.36,
+   "end": 881.04,
+   "text": "There were some things"
+  },
+  {
+   "start": 881.04,
+   "end": 881.88,
+   "text": "I can't remember exactly"
+  },
+  {
+   "start": 881.88,
+   "end": 882.6,
+   "text": "What I was going to hook"
+  },
+  {
+   "start": 882.6,
+   "end": 882.84,
+   "text": "But"
+  },
+  {
+   "start": 882.84,
+   "end": 887.64,
+   "text": "Get another packet"
+  },
+  {
+   "start": 887.64,
+   "end": 888.88,
+   "text": "Of those Velcros."
+  },
+  {
+   "start": 889.12,
+   "end": 889.88,
+   "text": "I love"
+  },
+  {
+   "start": 889.88,
+   "end": 890.98,
+   "text": "The Velcros."
+  },
+  {
+   "start": 891.18,
+   "end": 891.64,
+   "text": "I'll show them"
+  },
+  {
+   "start": 891.64,
+   "end": 892.34,
+   "text": "In my demo"
+  },
+  {
+   "start": 892.34,
+   "end": 893.48,
+   "text": "When I have my"
+  },
+  {
+   "start": 893.48,
+   "end": 894.56,
+   "text": "Studio set up"
+  },
+  {
+   "start": 894.56,
+   "end": 894.74,
+   "text": "But"
+  },
+  {
+   "start": 894.74,
+   "end": 896.32,
+   "text": "You just stick Velcro"
+  },
+  {
+   "start": 896.32,
+   "end": 896.9,
+   "text": "On everything"
+  },
+  {
+   "start": 896.9,
+   "end": 898.28,
+   "text": "Like your gadgets"
+  },
+  {
+   "start": 898.28,
+   "end": 899.28,
+   "text": "And then you just stick"
+  },
+  {
+   "start": 899.28,
+   "end": 899.94,
+   "text": "The little Velcros"
+  },
+  {
+   "start": 899.94,
+   "end": 900.86,
+   "text": "All over the walls"
+  },
+  {
+   "start": 900.86,
+   "end": 901.32,
+   "text": "And places"
+  },
+  {
+   "start": 901.32,
+   "end": 901.92,
+   "text": "So you just stick"
+  },
+  {
+   "start": 901.92,
+   "end": 902.38,
+   "text": "Your gadgets"
+  },
+  {
+   "start": 902.38,
+   "end": 902.88,
+   "text": "On the wall"
+  },
+  {
+   "start": 902.88,
+   "end": 904.96,
+   "text": "And I need at least"
+  },
+  {
+   "start": 904.96,
+   "end": 905.82,
+   "text": "Two more Velcros"
+  },
+  {
+   "start": 905.82,
+   "end": 906.92,
+   "text": "For my keyboard"
+  },
+  {
+   "start": 906.92,
+   "end": 908.38,
+   "text": "So I can hang"
+  },
+  {
+   "start": 908.38,
+   "end": 908.88,
+   "text": "My keyboard"
+  },
+  {
+   "start": 908.88,
+   "end": 909.78,
+   "text": "Up on the wall"
+  },
+  {
+   "start": 909.78,
+   "end": 910.64,
+   "text": "Above the TV"
+  },
+  {
+   "start": 910.64,
+   "end": 911.5,
+   "text": "When I'm not using it"
+  },
+  {
+   "start": 911.5,
+   "end": 912.18,
+   "text": "Because it's really big."
+  },
+  {
+   "start": 913.46,
+   "end": 914.62,
+   "text": "I'll give a demo"
+  },
+  {
+   "start": 914.62,
+   "end": 915.72,
+   "text": "Of my desk area"
+  },
+  {
+   "start": 915.72,
+   "end": 916.68,
+   "text": "And it's actually"
+  },
+  {
+   "start": 916.68,
+   "end": 917.82,
+   "text": "Comfortable to work in"
+  },
+  {
+   "start": 917.82,
+   "end": 919.54,
+   "text": "But it's compact"
+  },
+  {
+   "start": 919.54,
+   "end": 921.16,
+   "text": "So I have to"
+  },
+  {
+   "start": 921.16,
+   "end": 922.52,
+   "text": "Manage time"
+  },
+  {
+   "start": 922.52,
+   "end": 923.8,
+   "text": "I mean space well"
+  },
+  {
+   "start": 923.8,
+   "end": 925.52,
+   "text": "So I'll give a demo"
+  },
+  {
+   "start": 925.52,
+   "end": 926.34,
+   "text": "Of that tomorrow"
+  },
+  {
+   "start": 926.34,
+   "end": 926.92,
+   "text": "But yeah"
+  },
+  {
+   "start": 926.92,
+   "end": 927.34,
+   "text": "It looks like"
+  },
+  {
+   "start": 927.34,
+   "end": 928.02,
+   "text": "Everything's working out"
+  },
+  {
+   "start": 928.02,
+   "end": 928.36,
+   "text": "So yeah"
+  },
+  {
+   "start": 928.36,
+   "end": 929.12,
+   "text": "One more day"
+  },
+  {
+   "start": 929.12,
+   "end": 930.88,
+   "text": "Oh yeah"
+  },
+  {
+   "start": 930.88,
+   "end": 931.76,
+   "text": "And then there's"
+  },
+  {
+   "start": 931.76,
+   "end": 932.32,
+   "text": "Another thing"
+  },
+  {
+   "start": 932.32,
+   "end": 933.02,
+   "text": "I have to do"
+  },
+  {
+   "start": 933.02,
+   "end": 934.36,
+   "text": "Man I hope I remember"
+  },
+  {
+   "start": 934.36,
+   "end": 935.34,
+   "text": "All this when I go out"
+  },
+  {
+   "start": 935.34,
+   "end": 936.06,
+   "text": "Maybe I should write"
+  },
+  {
+   "start": 936.06,
+   "end": 936.54,
+   "text": "A list"
+  },
+  {
+   "start": 936.54,
+   "end": 937.6,
+   "text": "I'm going to buy"
+  },
+  {
+   "start": 937.6,
+   "end": 938.4,
+   "text": "Another canister"
+  },
+  {
+   "start": 938.4,
+   "end": 938.92,
+   "text": "Of paint"
+  },
+  {
+   "start": 938.92,
+   "end": 939.88,
+   "text": "And I'll get"
+  },
+  {
+   "start": 939.88,
+   "end": 940.94,
+   "text": "Less than a quarter"
+  },
+  {
+   "start": 940.94,
+   "end": 941.66,
+   "text": "If they offer it"
+  },
+  {
+   "start": 941.66,
+   "end": 942.68,
+   "text": "But I'll get a quarter"
+  },
+  {
+   "start": 942.68,
+   "end": 943.18,
+   "text": "If I have to"
+  },
+  {
+   "start": 943.18,
+   "end": 943.92,
+   "text": "It's 16 bucks"
+  },
+  {
+   "start": 943.92,
+   "end": 944.64,
+   "text": "Of the paint"
+  },
+  {
+   "start": 944.64,
+   "end": 945.58,
+   "text": "That's the green screen"
+  },
+  {
+   "start": 945.58,
+   "end": 946.92,
+   "text": "Because I'm going"
+  },
+  {
+   "start": 946.92,
+   "end": 947.7,
+   "text": "To paint my TV"
+  },
+  {
+   "start": 947.7,
+   "end": 948.28,
+   "text": "When I was looking"
+  },
+  {
+   "start": 948.28,
+   "end": 948.8,
+   "text": "At my TV"
+  },
+  {
+   "start": 948.8,
+   "end": 949.66,
+   "text": "From the north camera"
+  },
+  {
+   "start": 949.66,
+   "end": 950.18,
+   "text": "You could see"
+  },
+  {
+   "start": 950.18,
+   "end": 951.0,
+   "text": "The black outline"
+  },
+  {
+   "start": 951.0,
+   "end": 951.32,
+   "text": "Of it"
+  },
+  {
+   "start": 951.32,
+   "end": 951.64,
+   "text": "And I think"
+  },
+  {
+   "start": 951.64,
+   "end": 952.16,
+   "text": "It'll look better"
+  },
+  {
+   "start": 952.16,
+   "end": 952.74,
+   "text": "If it's just"
+  },
+  {
+   "start": 952.74,
+   "end": 953.66,
+   "text": "Straight TV"
+  },
+  {
+   "start": 953.66,
+   "end": 954.6,
+   "text": "To the real world"
+  },
+  {
+   "start": 954.6,
+   "end": 955.98,
+   "text": "When I show videos"
+  },
+  {
+   "start": 955.98,
+   "end": 956.76,
+   "text": "And green screen stuff"
+  },
+  {
+   "start": 956.76,
+   "end": 957.38,
+   "text": "So I'm going to paint"
+  },
+  {
+   "start": 957.38,
+   "end": 958.76,
+   "text": "I'm going to paint"
+  },
+  {
+   "start": 958.76,
+   "end": 959.82,
+   "text": "The outsider edges"
+  },
+  {
+   "start": 959.82,
+   "end": 960.46,
+   "text": "Of my TV"
+  },
+  {
+   "start": 960.46,
+   "end": 961.34,
+   "text": "I'm going to paint"
+  },
+  {
+   "start": 961.34,
+   "end": 962.3,
+   "text": "The rest of my"
+  },
+  {
+   "start": 962.3,
+   "end": 963.8,
+   "text": "Treadmill"
+  },
+  {
+   "start": 963.8,
+   "end": 964.98,
+   "text": "I'm going to paint"
+  },
+  {
+   "start": 964.98,
+   "end": 965.86,
+   "text": "My bench"
+  },
+  {
+   "start": 965.86,
+   "end": 966.72,
+   "text": "Which wasn't painted"
+  },
+  {
+   "start": 966.72,
+   "end": 967.64,
+   "text": "At all"
+  },
+  {
+   "start": 967.64,
+   "end": 970.84,
+   "text": "Finish painting"
+  },
+  {
+   "start": 970.84,
+   "end": 972.12,
+   "text": "The back end"
+  },
+  {
+   "start": 972.12,
+   "end": 973.2,
+   "text": "Of my swimming machine"
+  },
+  {
+   "start": 973.2,
+   "end": 976.28,
+   "text": "Paint my mic"
+  },
+  {
+   "start": 976.28,
+   "end": 979.8,
+   "text": "Paint the top"
+  },
+  {
+   "start": 979.8,
+   "end": 980.56,
+   "text": "Of my table"
+  },
+  {
+   "start": 980.56,
+   "end": 982.42,
+   "text": "I might go through"
+  },
+  {
+   "start": 982.42,
+   "end": 983.22,
+   "text": "An entire court"
+  },
+  {
+   "start": 983.22,
+   "end": 983.76,
+   "text": "Yeah I am going"
+  },
+  {
+   "start": 983.76,
+   "end": 984.28,
+   "text": "To get a court"
+  },
+  {
+   "start": 984.28,
+   "end": 985.9,
+   "text": "The top of my"
+  },
+  {
+   "start": 985.9,
+   "end": 986.38,
+   "text": "Bike table"
+  },
+  {
+   "start": 986.38,
+   "end": 987.6,
+   "text": "Because the west"
+  },
+  {
+   "start": 987.6,
+   "end": 988.06,
+   "text": "Camera"
+  },
+  {
+   "start": 988.06,
+   "end": 989.16,
+   "text": "The east camera"
+  },
+  {
+   "start": 989.16,
+   "end": 990.46,
+   "text": "Looks down on it"
+  },
+  {
+   "start": 990.46,
+   "end": 992.22,
+   "text": "And so the more"
+  },
+  {
+   "start": 992.22,
+   "end": 993.18,
+   "text": "Stuff that's green"
+  },
+  {
+   "start": 993.18,
+   "end": 994.68,
+   "text": "The better off"
+  },
+  {
+   "start": 994.68,
+   "end": 995.42,
+   "text": "I am"
+  },
+  {
+   "start": 995.42,
+   "end": 996.36,
+   "text": "Because I can put"
+  },
+  {
+   "start": 996.36,
+   "end": 998.02,
+   "text": "Background scenes"
+  },
+  {
+   "start": 998.02,
+   "end": 998.54,
+   "text": "Into it"
+  },
+  {
+   "start": 998.54,
+   "end": 999.58,
+   "text": "Everything way easier"
+  },
+  {
+   "start": 999.58,
+   "end": 1000.88,
+   "text": "And"
+  },
+  {
+   "start": 1000.88,
+   "end": 1004.28,
+   "text": "So that's actually"
+  },
+  {
+   "start": 1004.28,
+   "end": 1005.1,
+   "text": "A lot of stuff"
+  },
+  {
+   "start": 1005.1,
+   "end": 1005.86,
+   "text": "That I have to paint"
+  },
+  {
+   "start": 1005.86,
+   "end": 1006.42,
+   "text": "I'm not going to"
+  },
+  {
+   "start": 1006.42,
+   "end": 1007.26,
+   "text": "Paint my weights"
+  },
+  {
+   "start": 1007.26,
+   "end": 1008.76,
+   "text": "I'm not going to"
+  },
+  {
+   "start": 1008.76,
+   "end": 1009.44,
+   "text": "Paint the sitting"
+  },
+  {
+   "start": 1009.44,
+   "end": 1010.04,
+   "text": "Part of my"
+  },
+  {
+   "start": 1010.04,
+   "end": 1010.74,
+   "text": "Bench"
+  },
+  {
+   "start": 1010.74,
+   "end": 1011.54,
+   "text": "Because I'll be in"
+  },
+  {
+   "start": 1011.54,
+   "end": 1012.28,
+   "text": "There with my"
+  },
+  {
+   "start": 1012.28,
+   "end": 1013.08,
+   "text": "Shorts and shirt"
+  },
+  {
+   "start": 1013.08,
+   "end": 1013.54,
+   "text": "And I don't want"
+  },
+  {
+   "start": 1013.54,
+   "end": 1015.3,
+   "text": "Paint to touch my skin"
+  },
+  {
+   "start": 1015.3,
+   "end": 1016.62,
+   "text": "But I did paint"
+  },
+  {
+   "start": 1016.62,
+   "end": 1017.74,
+   "text": "The seat of my"
+  },
+  {
+   "start": 1017.74,
+   "end": 1018.66,
+   "text": "Of my rowing machine"
+  },
+  {
+   "start": 1018.66,
+   "end": 1019.24,
+   "text": "I didn't paint"
+  },
+  {
+   "start": 1019.24,
+   "end": 1020.0,
+   "text": "The seat part of"
+  },
+  {
+   "start": 1020.0,
+   "end": 1020.66,
+   "text": "My swimming machine"
+  },
+  {
+   "start": 1020.66,
+   "end": 1021.04,
+   "text": "Because that's"
+  },
+  {
+   "start": 1021.04,
+   "end": 1021.44,
+   "text": "Bare skin"
+  },
+  {
+   "start": 1021.44,
+   "end": 1021.64,
+   "text": "But"
+  },
+  {
+   "start": 1021.64,
+   "end": 1022.6,
+   "text": "And I'm not going"
+  },
+  {
+   "start": 1022.6,
+   "end": 1023.0,
+   "text": "To paint any"
+  },
+  {
+   "start": 1023.0,
+   "end": 1023.4,
+   "text": "Of my weights"
+  },
+  {
+   "start": 1023.4,
+   "end": 1023.96,
+   "text": "Because my"
+  },
+  {
+   "start": 1023.96,
+   "end": 1024.78,
+   "text": "Cameras are good"
+  },
+  {
+   "start": 1024.78,
+   "end": 1025.2,
+   "text": "Enough that you"
+  },
+  {
+   "start": 1025.2,
+   "end": 1025.9,
+   "text": "Can actually see"
+  },
+  {
+   "start": 1025.9,
+   "end": 1026.54,
+   "text": "How heavy the"
+  },
+  {
+   "start": 1026.54,
+   "end": 1026.94,
+   "text": "Weights are"
+  },
+  {
+   "start": 1026.94,
+   "end": 1027.44,
+   "text": "Because I paint"
+  },
+  {
+   "start": 1027.44,
+   "end": 1028.46,
+   "text": "I painted it"
+  },
+  {
+   "start": 1028.46,
+   "end": 1029.1,
+   "text": "On the side"
+  },
+  {
+   "start": 1029.1,
+   "end": 1029.5,
+   "text": "And I think"
+  },
+  {
+   "start": 1029.5,
+   "end": 1030.12,
+   "text": "I'll even paint"
+  },
+  {
+   "start": 1030.12,
+   "end": 1031.3,
+   "text": "The weights"
+  },
+  {
+   "start": 1031.3,
+   "end": 1032.08,
+   "text": "Not in green"
+  },
+  {
+   "start": 1032.08,
+   "end": 1033.68,
+   "text": "But paint the"
+  },
+  {
+   "start": 1033.68,
+   "end": 1034.06,
+   "text": "Weights"
+  },
+  {
+   "start": 1034.06,
+   "end": 1035.44,
+   "text": "Of my barbell"
+  },
+  {
+   "start": 1035.44,
+   "end": 1036.1,
+   "text": "Weights too"
+  },
+  {
+   "start": 1036.1,
+   "end": 1038.26,
+   "text": "And like some"
+  },
+  {
+   "start": 1038.26,
+   "end": 1038.8,
+   "text": "Kind of white"
+  },
+  {
+   "start": 1038.8,
+   "end": 1039.58,
+   "text": "Yeah paint"
+  },
+  {
+   "start": 1039.58,
+   "end": 1040.64,
+   "text": "Or something"
+  },
+  {
+   "start": 1040.64,
+   "end": 1041.1,
+   "text": "I don't know"
+  },
+  {
+   "start": 1041.1,
+   "end": 1041.52,
+   "text": "What did I"
+  },
+  {
+   "start": 1041.52,
+   "end": 1042.24,
+   "text": "I did with"
+  },
+  {
+   "start": 1042.24,
+   "end": 1043.1,
+   "text": "White paint before"
+  },
+  {
+   "start": 1043.1,
+   "end": 1046.28,
+   "text": "Yeah maybe"
+  },
+  {
+   "start": 1046.28,
+   "end": 1046.58,
+   "text": "I'll buy"
+  },
+  {
+   "start": 1046.58,
+   "end": 1047.16,
+   "text": "White paint"
+  },
+  {
+   "start": 1047.16,
+   "end": 1047.9,
+   "text": "At Home Depot"
+  },
+  {
+   "start": 1047.9,
+   "end": 1048.24,
+   "text": "Today"
+  },
+  {
+   "start": 1048.24,
+   "end": 1048.68,
+   "text": "So I can"
+  },
+  {
+   "start": 1048.68,
+   "end": 1049.04,
+   "text": "Paint the"
+  },
+  {
+   "start": 1049.04,
+   "end": 1049.3,
+   "text": "Weights"
+  },
+  {
+   "start": 1049.3,
+   "end": 1049.72,
+   "text": "On the"
+  },
+  {
+   "start": 1049.72,
+   "end": 1050.44,
+   "text": "Bars"
+  },
+  {
+   "start": 1050.44,
+   "end": 1050.78,
+   "text": "I mean"
+  },
+  {
+   "start": 1050.78,
+   "end": 1051.74,
+   "text": "You should be"
+  },
+  {
+   "start": 1051.74,
+   "end": 1052.16,
+   "text": "Able to tell"
+  },
+  {
+   "start": 1052.16,
+   "end": 1052.62,
+   "text": "With barbell"
+  },
+  {
+   "start": 1052.62,
+   "end": 1052.92,
+   "text": "Paint"
+  },
+  {
+   "start": 1052.92,
+   "end": 1053.52,
+   "text": "Weights"
+  },
+  {
+   "start": 1053.52,
+   "end": 1053.88,
+   "text": "But just"
+  },
+  {
+   "start": 1053.88,
+   "end": 1054.68,
+   "text": "Just in case"
+  },
+  {
+   "start": 1054.68,
+   "end": 1055.04,
+   "text": "I don't know"
+  },
+  {
+   "start": 1055.04,
+   "end": 1055.82,
+   "text": "But you can"
+  },
+  {
+   "start": 1055.82,
+   "end": 1056.2,
+   "text": "Tell on my"
+  },
+  {
+   "start": 1056.2,
+   "end": 1056.76,
+   "text": "Dumbbells"
+  },
+  {
+   "start": 1056.76,
+   "end": 1058.36,
+   "text": "So yeah"
+  },
+  {
+   "start": 1058.36,
+   "end": 1058.82,
+   "text": "I actually"
+  },
+  {
+   "start": 1058.82,
+   "end": 1059.24,
+   "text": "Kind of have"
+  },
+  {
+   "start": 1059.24,
+   "end": 1059.6,
+   "text": "My work"
+  },
+  {
+   "start": 1059.6,
+   "end": 1059.94,
+   "text": "Cut out"
+  },
+  {
+   "start": 1059.94,
+   "end": 1060.2,
+   "text": "For me"
+  },
+  {
+   "start": 1060.2,
+   "end": 1060.38,
+   "text": "I still"
+  },
+  {
+   "start": 1060.38,
+   "end": 1060.56,
+   "text": "Have to"
+  },
+  {
+   "start": 1060.56,
+   "end": 1060.78,
+   "text": "Get a"
+  },
+  {
+   "start": 1060.78,
+   "end": 1061.06,
+   "text": "Joint"
+  },
+  {
+   "start": 1061.06,
+   "end": 1061.38,
+   "text": "Too"
+  },
+  {
+   "start": 1061.38,
+   "end": 1063.24,
+   "text": "So yeah"
+  },
+  {
+   "start": 1063.24,
+   "end": 1063.46,
+   "text": "Hopefully"
+  },
+  {
+   "start": 1063.46,
+   "end": 1063.8,
+   "text": "I can be"
+  },
+  {
+   "start": 1063.8,
+   "end": 1064.12,
+   "text": "Done with"
+  },
+  {
+   "start": 1064.12,
+   "end": 1064.42,
+   "text": "All that"
+  },
+  {
+   "start": 1064.42,
+   "end": 1064.72,
+   "text": "Today"
+  },
+  {
+   "start": 1064.72,
+   "end": 1064.96,
+   "text": "And"
+  },
+  {
+   "start": 1064.96,
+   "end": 1066.38,
+   "text": "Because"
+  },
+  {
+   "start": 1066.38,
+   "end": 1066.86,
+   "text": "Because"
+  },
+  {
+   "start": 1066.86,
+   "end": 1068.78,
+   "text": "As soon"
+  },
+  {
+   "start": 1068.78,
+   "end": 1069.16,
+   "text": "As that's"
+  },
+  {
+   "start": 1069.16,
+   "end": 1069.46,
+   "text": "As soon as"
+  },
+  {
+   "start": 1069.46,
+   "end": 1069.84,
+   "text": "My hardware"
+  },
+  {
+   "start": 1069.84,
+   "end": 1070.54,
+   "text": "Stuff is set up"
+  },
+  {
+   "start": 1070.54,
+   "end": 1070.84,
+   "text": "I'm going to"
+  },
+  {
+   "start": 1070.84,
+   "end": 1071.4,
+   "text": "Start working out"
+  },
+  {
+   "start": 1071.4,
+   "end": 1072.18,
+   "text": "I'm not that"
+  },
+  {
+   "start": 1072.18,
+   "end": 1073.66,
+   "text": "Focused on"
+  },
+  {
+   "start": 1073.66,
+   "end": 1074.14,
+   "text": "Getting all the"
+  },
+  {
+   "start": 1074.14,
+   "end": 1074.96,
+   "text": "Software set up"
+  },
+  {
+   "start": 1074.96,
+   "end": 1075.34,
+   "text": "I could do"
+  },
+  {
+   "start": 1075.34,
+   "end": 1075.86,
+   "text": "That later"
+  },
+  {
+   "start": 1075.86,
+   "end": 1078.14,
+   "text": "Just do the"
+  },
+  {
+   "start": 1078.14,
+   "end": 1078.84,
+   "text": "Hardware for now"
+  },
+  {
+   "start": 1078.84,
+   "end": 1080.26,
+   "text": "Okay anyways"
+  },
+  {
+   "start": 1080.26,
+   "end": 1081.22,
+   "text": "That was kind of"
+  },
+  {
+   "start": 1081.22,
+   "end": 1081.8,
+   "text": "A long one"
+  },
+  {
+   "start": 1081.8,
+   "end": 1083.92,
+   "text": "Alright I'm off"
+  },
+  {
+   "start": 1083.92,
+   "end": 1084.3,
+   "text": "To work"
+  },
+  {
+   "start": 1084.3,
+   "end": 1084.68,
+   "text": "Talk to you"
+  },
+  {
+   "start": 1084.68,
+   "end": 1085.04,
+   "text": "Tomorrow"
+  }
+ ]
+}

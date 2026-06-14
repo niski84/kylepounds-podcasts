@@ -1,0 +1,726 @@
+{
+ "youtube_id": "H-wDBl_UYMA",
+ "title": "3/29/21 Adobe tutorials, waiting for video camera",
+ "url": "https://youtu.be/H-wDBl_UYMA",
+ "published_at": "2021-03-29",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.56,
+   "end": 4.86,
+   "text": "Hey, living in Boulder, V-Log, March 29th, Monday."
+  },
+  {
+   "start": 6.64,
+   "end": 9.36,
+   "text": "It's like 6.30 or 7 in the morning."
+  },
+  {
+   "start": 9.62,
+   "end": 10.42,
+   "text": "I can't see."
+  },
+  {
+   "start": 13.36,
+   "end": 17.66,
+   "text": "I'm just watching Adobe tutorials"
+  },
+  {
+   "start": 17.66,
+   "end": 19.88,
+   "text": "Because I can't remember the last time I did it."
+  },
+  {
+   "start": 20.22,
+   "end": 24.22,
+   "text": "And if you can't remember the last time you saw all the Adobe tutorials,"
+  },
+  {
+   "start": 24.34,
+   "end": 26.52,
+   "text": "You should probably watch all the Adobe tutorials."
+  },
+  {
+   "start": 27.64,
+   "end": 29.8,
+   "text": "I'm just about to watch the Dreamweaver one."
+  },
+  {
+   "start": 30.56,
+   "end": 31.76,
+   "text": "That's a program I use."
+  },
+  {
+   "start": 31.82,
+   "end": 35.56,
+   "text": "I just want to watch the whole thing just in case there's anything he said"
+  },
+  {
+   "start": 35.56,
+   "end": 37.38,
+   "text": "That sparked my fancy."
+  },
+  {
+   "start": 37.54,
+   "end": 39.52,
+   "text": "I haven't watched enough of those."
+  },
+  {
+   "start": 40.22,
+   "end": 42.16,
+   "text": "There's this dude called Photoshop something."
+  },
+  {
+   "start": 43.36,
+   "end": 45.76,
+   "text": "I can't read it right now, but yeah."
+  },
+  {
+   "start": 46.68,
+   "end": 49.22,
+   "text": "I've been watching all his long ones, so I'm going to do that next."
+  },
+  {
+   "start": 50.56,
+   "end": 54.3,
+   "text": "I'm not studying the switcher for streaming right now"
+  },
+  {
+   "start": 54.3,
+   "end": 57.1,
+   "text": "Because I had to get another computer."
+  },
+  {
+   "start": 57.1,
+   "end": 58.54,
+   "text": "I mean, another camera."
+  },
+  {
+   "start": 58.54,
+   "end": 62.8,
+   "text": "The cameras wasn't supposed to come on until tomorrow."
+  },
+  {
+   "start": 64.16,
+   "end": 67.04,
+   "text": "But I just checked the Best Buy site,"
+  },
+  {
+   "start": 67.14,
+   "end": 69.08,
+   "text": "And it said it was going to come today to my house."
+  },
+  {
+   "start": 69.4,
+   "end": 72.06,
+   "text": "So as soon as the camera comes, I can plug it up."
+  },
+  {
+   "start": 72.18,
+   "end": 73.22,
+   "text": "It's going to be my webcam."
+  },
+  {
+   "start": 74.28,
+   "end": 76.68,
+   "text": "It's a video camera, but it acts as a webcam"
+  },
+  {
+   "start": 76.68,
+   "end": 78.9,
+   "text": "Because that's how it works these days."
+  },
+  {
+   "start": 78.9,
+   "end": 83.6,
+   "text": "But I can grab it and use it as my regular video camera."
+  },
+  {
+   "start": 84.08,
+   "end": 86.24,
+   "text": "So I have to hook it up to where its location is."
+  },
+  {
+   "start": 86.28,
+   "end": 87.42,
+   "text": "I think I have a location that's good."
+  },
+  {
+   "start": 87.5,
+   "end": 90.4,
+   "text": "And as soon as it's up, boom, I'm back in business"
+  },
+  {
+   "start": 90.4,
+   "end": 92.18,
+   "text": "Trying to do the switching thing."
+  },
+  {
+   "start": 92.3,
+   "end": 96.4,
+   "text": "So the first thing I'm going to do is try to hook up the green screen,"
+  },
+  {
+   "start": 96.86,
+   "end": 97.56,
+   "text": "Figure that out."
+  },
+  {
+   "start": 97.56,
+   "end": 104.62,
+   "text": "Then I'm going to figure out how the images come in"
+  },
+  {
+   "start": 104.62,
+   "end": 107.54,
+   "text": "And then build a bunch of them"
+  },
+  {
+   "start": 107.54,
+   "end": 113.5,
+   "text": "And then figure out how to transfer the video files"
+  },
+  {
+   "start": 113.5,
+   "end": 115.8,
+   "text": "From After Effects into the switcher."
+  },
+  {
+   "start": 115.8,
+   "end": 121.76,
+   "text": "And once I do that, yeah, I want to build a bunch of, like,"
+  },
+  {
+   "start": 122.06,
+   "end": 125.76,
+   "text": "Well, yeah, and then put the different green screens behind,"
+  },
+  {
+   "start": 125.98,
+   "end": 127.1,
+   "text": "Like, the images behind."
+  },
+  {
+   "start": 128.24,
+   "end": 140.76,
+   "text": "And then after that, after, yeah, the words"
+  },
+  {
+   "start": 140.76,
+   "end": 145.35,
+   "text": "And figure out which words go to what exercise."
+  },
+  {
+   "start": 145.95,
+   "end": 147.65,
+   "text": "I don't know how organized I'll actually get"
+  },
+  {
+   "start": 147.65,
+   "end": 149.25,
+   "text": "Before I actually start exercising."
+  },
+  {
+   "start": 149.81,
+   "end": 152.25,
+   "text": "I might just get to the point where I can make the green screen"
+  },
+  {
+   "start": 152.25,
+   "end": 157.03,
+   "text": "And then before I write in the actual thing,"
+  },
+  {
+   "start": 157.19,
+   "end": 158.83,
+   "text": "I might just start training then."
+  },
+  {
+   "start": 158.87,
+   "end": 161.17,
+   "text": "Because then I could just count it and look at it"
+  },
+  {
+   "start": 161.17,
+   "end": 162.23,
+   "text": "And write it on the bottom later."
+  },
+  {
+   "start": 162.31,
+   "end": 163.63,
+   "text": "I don't have to actually write it out,"
+  },
+  {
+   "start": 163.87,
+   "end": 167.45,
+   "text": "But I'd like to write it down."
+  },
+  {
+   "start": 169.03,
+   "end": 170.69,
+   "text": "All the exercises that I do and the weights"
+  },
+  {
+   "start": 170.69,
+   "end": 175.24,
+   "text": "And just type it if I feel like, I don't know,"
+  },
+  {
+   "start": 175.34,
+   "end": 176.6,
+   "text": "If I feel like I could program it in."
+  },
+  {
+   "start": 176.66,
+   "end": 179.88,
+   "text": "But I'll program that stuff in eventually anyway."
+  },
+  {
+   "start": 179.88,
+   "end": 192.9,
+   "text": "So, yeah, so, yeah, hopefully it'll go smoothly."
+  },
+  {
+   "start": 194.12,
+   "end": 196.06,
+   "text": "I'm glad the camera's coming in today."
+  },
+  {
+   "start": 196.18,
+   "end": 197.06,
+   "text": "It's so too well."
+  },
+  {
+   "start": 198.48,
+   "end": 200.82,
+   "text": "There's this other thing that I organized, that I ordered."
+  },
+  {
+   "start": 201.06,
+   "end": 203.7,
+   "text": "I bought the Elgato stream deck."
+  },
+  {
+   "start": 203.78,
+   "end": 205.22,
+   "text": "I had an Elgato stream deck before,"
+  },
+  {
+   "start": 205.34,
+   "end": 206.74,
+   "text": "But it was only the five buttons across."
+  },
+  {
+   "start": 206.74,
+   "end": 209.66,
+   "text": "And there are these two guys who do tutorials on them"
+  },
+  {
+   "start": 209.66,
+   "end": 211.7,
+   "text": "With the walkthroughs and they designed them."
+  },
+  {
+   "start": 212.36,
+   "end": 215.34,
+   "text": "So you can actually fill mine up and do what they do."
+  },
+  {
+   "start": 215.72,
+   "end": 218.08,
+   "text": "But they both have the A to Z productions"
+  },
+  {
+   "start": 218.08,
+   "end": 219.52,
+   "text": "And this other guy, David something."
+  },
+  {
+   "start": 220.18,
+   "end": 222.76,
+   "text": "They have the eight button Elgato."
+  },
+  {
+   "start": 223.0,
+   "end": 225.28,
+   "text": "So if I was going to do what they're doing, I had to do it."
+  },
+  {
+   "start": 225.34,
+   "end": 226.68,
+   "text": "It was $255."
+  },
+  {
+   "start": 226.92,
+   "end": 228.56,
+   "text": "It's not going to come until May 5th."
+  },
+  {
+   "start": 228.56,
+   "end": 233.28,
+   "text": "So, yeah, I'm not going to fiddle with that anytime soon."
+  },
+  {
+   "start": 233.42,
+   "end": 238.42,
+   "text": "So, yeah, I need to get exercising really soon."
+  },
+  {
+   "start": 238.92,
+   "end": 242.84,
+   "text": "So, yeah, I've procrastinated long enough."
+  },
+  {
+   "start": 242.98,
+   "end": 245.76,
+   "text": "I mean, it was bad enough that I decided I was going to procrastinate"
+  },
+  {
+   "start": 245.76,
+   "end": 246.72,
+   "text": "Just to get another camera,"
+  },
+  {
+   "start": 246.82,
+   "end": 249.08,
+   "text": "But I didn't want to use the other ones that I have hooked up."
+  },
+  {
+   "start": 251.02,
+   "end": 254.0,
+   "text": "So, yeah, hopefully I can get those little background graphics."
+  },
+  {
+   "start": 255.58,
+   "end": 257.12,
+   "text": "I don't even care about typing them."
+  },
+  {
+   "start": 257.12,
+   "end": 261.4,
+   "text": "Just figure out how to do it and then plug them in."
+  },
+  {
+   "start": 262.44,
+   "end": 263.84,
+   "text": "But do the training first."
+  },
+  {
+   "start": 263.9,
+   "end": 266.48,
+   "text": "So what I'm going to do with training is I'm just going to –"
+  },
+  {
+   "start": 266.48,
+   "end": 273.08,
+   "text": "I'm going to have to become – knock – die early somehow."
+  },
+  {
+   "start": 274.7,
+   "end": 278.45,
+   "text": "I don't know how that's going to work."
+  },
+  {
+   "start": 282.08,
+   "end": 285.08,
+   "text": "I'll probably just take a sleeping pill"
+  },
+  {
+   "start": 285.08,
+   "end": 289.7,
+   "text": "Or just smoke weed all night one night"
+  },
+  {
+   "start": 289.7,
+   "end": 292.96,
+   "text": "And just pretend that I'm sleeping and probably not sleep"
+  },
+  {
+   "start": 292.96,
+   "end": 296.92,
+   "text": "And then just start a day riding a bike all day long."
+  },
+  {
+   "start": 297.02,
+   "end": 298.06,
+   "text": "That will be my first thing."
+  },
+  {
+   "start": 299.24,
+   "end": 301.76,
+   "text": "And so what I want to do is, like, you ride 10 miles"
+  },
+  {
+   "start": 301.76,
+   "end": 313.94,
+   "text": "And then you do maximum squat and then maximum bench push-up"
+  },
+  {
+   "start": 313.94,
+   "end": 320.46,
+   "text": "And then ride 10 miles and then maximum squat at whatever weight."
+  },
+  {
+   "start": 320.54,
+   "end": 325.18,
+   "text": "I'm going to start at 135 just for the – spice it up."
+  },
+  {
+   "start": 325.18,
+   "end": 329.58,
+   "text": "And I'm going to do – and before I do riding every morning and every evening,"
+  },
+  {
+   "start": 329.72,
+   "end": 331.38,
+   "text": "It will be, like, a session of working out."
+  },
+  {
+   "start": 331.46,
+   "end": 335.02,
+   "text": "And that's what the main – mainly the streaming is with all the video cameras."
+  },
+  {
+   "start": 336.1,
+   "end": 342.96,
+   "text": "And include whatever else you think about."
+  },
+  {
+   "start": 342.96,
+   "end": 349.8,
+   "text": "And then get in the main studio there and do tours, renditions and tours"
+  },
+  {
+   "start": 349.8,
+   "end": 354.92,
+   "text": "Of the new rides I've done and did – or I've done and want to do the next day."
+  },
+  {
+   "start": 355.16,
+   "end": 358.54,
+   "text": "And it'll all be on my main channel because that's a monetized one"
+  },
+  {
+   "start": 358.54,
+   "end": 359.9,
+   "text": "And I'll include everything together."
+  },
+  {
+   "start": 360.2,
+   "end": 362.98,
+   "text": "So, yeah, so it comes today."
+  },
+  {
+   "start": 364.0,
+   "end": 367.62,
+   "text": "So maybe by the time this video is done, all the videos have been uploaded"
+  },
+  {
+   "start": 367.62,
+   "end": 372.06,
+   "text": "And I can watch the Dreamweaver tutorial."
+  },
+  {
+   "start": 375.68,
+   "end": 377.96,
+   "text": "That's super – that's going to be interesting."
+  },
+  {
+   "start": 378.76,
+   "end": 381.2,
+   "text": "I think it's going to be the last one I've seen."
+  },
+  {
+   "start": 381.3,
+   "end": 383.04,
+   "text": "Oh, yeah, the last one is just about to download."
+  },
+  {
+   "start": 383.52,
+   "end": 387.1,
+   "text": "I've seen all of them except for this one."
+  },
+  {
+   "start": 387.14,
+   "end": 387.84,
+   "text": "This is the last one."
+  },
+  {
+   "start": 387.9,
+   "end": 389.48,
+   "text": "Oh, and then Photoshop."
+  },
+  {
+   "start": 390.7,
+   "end": 393.38,
+   "text": "And I probably should watch, like, the complete Photoshop."
+  },
+  {
+   "start": 395.62,
+   "end": 395.98,
+   "text": "Yeah."
+  },
+  {
+   "start": 396.94,
+   "end": 398.02,
+   "text": "Anyways, enough talking."
+  },
+  {
+   "start": 398.02,
+   "end": 406.52,
+   "text": "Just killing – just, yeah, getting caught up on my life, you know."
+  },
+  {
+   "start": 408.5,
+   "end": 410.08,
+   "text": "I've neglected a lot of stuff."
+  },
+  {
+   "start": 410.18,
+   "end": 415.3,
+   "text": "I still haven't gotten around to organizing my shelves here and mopped my floor."
+  },
+  {
+   "start": 416.24,
+   "end": 419.76,
+   "text": "So as soon as I exercise, I'll start doing that stuff."
+  },
+  {
+   "start": 421.38,
+   "end": 424.12,
+   "text": "Oh, yeah, so the idea of the streaming is just –"
+  },
+  {
+   "start": 424.12,
+   "end": 427.42,
+   "text": "I'm not going to include stretching in the streaming, only the workouts."
+  },
+  {
+   "start": 428.02,
+   "end": 434.64,
+   "text": "And – but I'm going to do, like, stretching at least, like, a half hour in the morning and a half hour in the evening."
+  },
+  {
+   "start": 435.06,
+   "end": 441.72,
+   "text": "And whatever else I – I want to be able to do the splits."
+  },
+  {
+   "start": 441.72,
+   "end": 443.84,
+   "text": "All right, enough talking."
+  },
+  {
+   "start": 445.54,
+   "end": 447.16,
+   "text": "Yeah, it was kind of, like, up all night."
+  },
+  {
+   "start": 447.3,
+   "end": 452.2,
+   "text": "I, like – I was, like, kind of dozing off and up and dozing."
+  },
+  {
+   "start": 452.42,
+   "end": 457.04,
+   "text": "And so I'm kind of, like – there's no real time of sleeping for me."
+  },
+  {
+   "start": 457.08,
+   "end": 457.8,
+   "text": "It's kind of interesting."
+  },
+  {
+   "start": 458.82,
+   "end": 460.76,
+   "text": "Like, I couldn't tell you when I slept."
+  },
+  {
+   "start": 460.76,
+   "end": 466.24,
+   "text": "And I guess the official – because I didn't sleep last night, but I did doze a little bit."
+  },
+  {
+   "start": 466.48,
+   "end": 468.36,
+   "text": "And I'm not going to sleep at all today."
+  },
+  {
+   "start": 470.32,
+   "end": 473.82,
+   "text": "So, yeah, it's been going on like that for, like, the last week, which is good."
+  },
+  {
+   "start": 474.42,
+   "end": 477.68,
+   "text": "Because that means that there's something going on, you know."
+  },
+  {
+   "start": 477.68,
+   "end": 482.68,
+   "text": "If my body is physically – mind is doing things I'm not normally doing."
+  },
+  {
+   "start": 483.34,
+   "end": 483.9,
+   "text": "There it is."
+  },
+  {
+   "start": 485.08,
+   "end": 487.82,
+   "text": "Then I'm ready to boogie-woogie."
+  },
+  {
+   "start": 487.98,
+   "end": 489.52,
+   "text": "I'm going to be super weak."
+  },
+  {
+   "start": 490.56,
+   "end": 491.84,
+   "text": "So that's going to be interesting."
+  },
+  {
+   "start": 492.96,
+   "end": 494.66,
+   "text": "So I'm definitely a bodybuilder."
+  },
+  {
+   "start": 495.62,
+   "end": 496.96,
+   "text": "Building it from scratch."
+  },
+  {
+   "start": 497.68,
+   "end": 498.64,
+   "text": "Okay, enough talking."
+  },
+  {
+   "start": 498.76,
+   "end": 499.52,
+   "text": "Talk to tomorrow."
+  },
+  {
+   "start": 499.52,
+   "end": 499.92,
+   "text": "Tomorrow."
+  },
+  {
+   "start": 499.92,
+   "end": 500.12,
+   "text": "Tomorrow."
+  },
+  {
+   "start": 500.12,
+   "end": 500.32,
+   "text": "Tomorrow."
+  },
+  {
+   "start": 500.32,
+   "end": 500.68,
+   "text": "Tomorrow."
+  }
+ ]
+}

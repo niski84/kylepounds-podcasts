@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-3510 videos with transcripts. Source of truth for transcripts + enrichments.
+3637 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -50,14 +50,141 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2022-09-16 | [Prometheus Movie Review - Request](corpus/videos/8Y14N13LmxU.json) | kyle | Kyle reviews the 2012 film Prometheus, criticizing it for following the tired Hollywood trope of aliens as one-dimension |
 | 2021-06-20 | [Maybe insomnia is good? - Request](corpus/videos/OxRva42jMkU.json) | kyle | Kyle responds to a viewer request about insomnia, arguing it's not necessarily bad and that people with insomnia should  |
 | 2021-06-20 | [China & situation with Taiwan - Request](corpus/videos/jWSEkSEbHyw.json) | kyle | Kyle shares his opinions on China and Taiwan, arguing that China poses a serious geopolitical threat through propaganda, |
+| 2021-06-19 | [6/19/21 Prepping short videos](corpus/videos/ofWTAZwiWEw.json) | — |  |
+| 2021-06-18 | [6/18/21 Final studio hardware shopping & setup for streaming studio, n](corpus/videos/B3H_atGBXfo.json) | — |  |
+| 2021-06-18 | [6/18/21 Setting up streaming studio](corpus/videos/TtCMjmFZAVQ.json) | — |  |
+| 2021-06-17 | [6/17/21 Setting up studio for the next week](corpus/videos/MefqTuo4d_Y.json) | — |  |
+| 2021-06-16 | [6/16/21 Jogged 5.5 miles 1,057 Erg swam 2K](corpus/videos/_JIr4VIW-TY.json) | — |  |
+| 2021-06-15 | [6/15/21 Indoor rode 75mi. Sick fm candy OD, oops](corpus/videos/luu4AiX4lbg.json) | — |  |
+| 2021-06-14 | [6/14/21 Showed car and went out with mom](corpus/videos/SwX66CN3tRE.json) | — |  |
+| 2021-06-13 | [6/13/21 Rode 90 miles 7,400ft 180W Ward to Estes Park loop](corpus/videos/_Xg101kllX8.json) | — |  |
+| 2021-06-12 | [6/12/21 Gardened w/ mom & installed mirror for squatting](corpus/videos/xQLJyytux3c.json) | — |  |
+| 2021-06-09 | [6/9/21 Rode 46.33mi 4:44:40 5,761ft 174W NCAR, Flag, 4 Mile, Sunshine](corpus/videos/4Hzn92NOswg.json) | — |  |
+| 2021-06-08 | [6/8/21 Stretched all day. Sick with a cold from over training.](corpus/videos/_OuR38lljUU.json) | — |  |
+| 2021-06-06 | [6/6/21 Erg swam L7 5.5km in 3 sets.  Organized room.](corpus/videos/7pLgB8t_hqg.json) | — |  |
+| 2021-06-06 | [6/6/21 Swam 7,113M in 2:57 50ft pool](corpus/videos/ru4LuVmB_78.json) | — |  |
+| 2021-05-30 | [5/30/21 Indoor road 88 miles](corpus/videos/l6tPvgbUpa0.json) | — |  |
+| 2021-05-28 | [5/28/21 Rest Day - Gardened & Went to lunch with mom](corpus/videos/UlzytD8bIpE.json) | — |  |
+| 2021-05-27 | [5/27/21 Indoor Ran 7 miles, stretched 2hrs, lifted upper body in room.](corpus/videos/cK4Fjfsuugw.json) | — |  |
+| 2021-05-25 | [5/25/21 Vasa Erg Swam L7 19,656 Meters. 14,656 in 5:31:57](corpus/videos/YQAI5e80vzk.json) | — |  |
+| 2021-05-23 | [5/23/21 Vasa Erg Swam 10k L7 3:45, indoor rode 1:15](corpus/videos/5zkGCsZFf5w.json) | — |  |
+| 2021-05-22 | [5/22/21 Rode Flagstaff & Lifted a little weights](corpus/videos/c7H5DyaYSWU.json) | — |  |
+| 2021-05-21 | [5/21/21 Slept & partied with roommate for getting house](corpus/videos/7M47OCwg6N8.json) | — |  |
+| 2021-05-20 | [5/20/21 organized room and mowed a lawn](corpus/videos/cUw8rCUknpI.json) | — |  |
+| 2021-05-19 | [5/19/21 All indoor  Swam 2K 40Min, rode 2 hrs. Stretched 1 hr. Bike co](corpus/videos/76hnhD4cIWw.json) | — |  |
+| 2021-05-18 | [5/18/21 Vasa Erg swam L7 10K in 3:36:19](corpus/videos/I9u-vgNN-MQ.json) | — |  |
+| 2021-05-17 | [5/17/21 Indoor Bike Hammered 5 Hours but bike computer died](corpus/videos/OuWYQa2Xrrc.json) | — |  |
+| 2021-05-16 | [5/16/21 All indoor  stretched 1 hour, rode 25 miles, swam 4K, jogged 5](corpus/videos/x0b5MOGcZ5s.json) | — |  |
+| 2021-05-14 | [5/14/21 Organized Room. Velcroed my weights.](corpus/videos/KIZdefIKcCE.json) | — |  |
+| 2021-05-13 | [5/13/21 Rest day. Went shopping and hung out with mom](corpus/videos/_pP960-Tp98.json) | — |  |
+| 2021-05-12 | [5/12/21 Rode indoor 50 miles in 4:26](corpus/videos/0UxkZHN78oA.json) | — |  |
+| 2021-05-11 | [5/11/21 First Day Working Out 2 hrs. Puked. 82,950 lbs total lifted](corpus/videos/lHfiUBOkU3w.json) | — |  |
+| 2021-05-10 | [5/10/21 Cleaning House](corpus/videos/UU1NSmjl07s.json) | — |  |
+| 2021-05-09 | [5/9/21 Trying to smoke rest of my weed so I can get in shape](corpus/videos/tKChkprdoY8.json) | — |  |
+| 2021-05-08 | [5/8/21 Organizing People's  Exercise Videos for my Site](corpus/videos/E3Atjov4FMM.json) | — |  |
+| 2021-05-08 | [5/8/21  think I almost died of collapsed lungs](corpus/videos/Imj9J2IEYHs.json) | — |  |
+| 2021-05-07 | [5/7/21 Collecting more workout vids for site](corpus/videos/tCqDi4pgZvY.json) | — |  |
+| 2021-05-06 | [5/6/21 Collecting like ALL workout vids for site. All summer project.](corpus/videos/orVCeFqC7bQ.json) | — |  |
+| 2021-05-05 | [5/5/21 Collecting & Naming Workout  Videos for Site](corpus/videos/sJKteZy5CMc.json) | — |  |
+| 2021-05-04 | [5/4/21 Part two. To show end & beginning of a day.](corpus/videos/09q1rK87gOw.json) | — |  |
+| 2021-05-04 | [5/4/21 Naming & Counting People’s Workout Videos for my Site](corpus/videos/d6MnLaob60M.json) | — |  |
+| 2021-05-04 | [5/4/21 Ran Green Mountain. 6.5mi 2,222ft 2:21 21:39Mi 146BPM](corpus/videos/n_v7-uyoOdE.json) | — |  |
+| 2021-05-03 | [5/3/21 Road 50 miles, 5,150 feet. Ward & Jamestown.](corpus/videos/RB_3_SStayU.json) | — |  |
+| 2021-05-03 | [5/3/21 Organizing people’s lifting vids for my site](corpus/videos/xXKEq4vYTvQ.json) | — |  |
+| 2021-05-02 | [5/2/21 Counting Reps and Weight on People's Workout Vids so we have SC](corpus/videos/7K4b0AJNlWw.json) | — |  |
+| 2021-05-02 | [5/2/21 Stretched half hour. Rest day cause watch had to update.](corpus/videos/_gVifkmygGE.json) | — |  |
+| 2021-05-01 | [5/1/21 Organizing people's workout vids so I can be Lord of muscle peo](corpus/videos/AVYjPTdbEL0.json) | — |  |
+| 2021-05-01 | [5/1/21 Swam 5445M 2:07, treadmilled 10 miles](corpus/videos/oMkJ53Cb9HA.json) | — |  |
+| 2021-04-30 | [4/30/21 Collecting and organizing workout videos for site](corpus/videos/LKhtC-heMqE.json) | — |  |
+| 2021-04-29 | [4/29/21 Organizing workout videos for site](corpus/videos/s_wqNrc2BsQ.json) | — |  |
+| 2021-04-28 | [4/28/21 Processing exercise videos](corpus/videos/ct4sewYpsew.json) | — |  |
+| 2021-04-27 | [4/27/21 Celeb workout videos for site](corpus/videos/0q5RPMBCSMw.json) | — |  |
+| 2021-04-26 | [4/26/21 Celeb workout videos for site](corpus/videos/sIo6lX5dp40.json) | — |  |
+| 2021-04-25 | [4/25/21 Identifying weight and reps for workout lists on my site](corpus/videos/PZ7B2VvNXhs.json) | — |  |
+| 2021-04-25 | [4/25/21 Organizing people's workout vids for site  Gunna takes months](corpus/videos/TJmpYKhYvXY.json) | — |  |
+| 2021-04-23 | [4/23/21 Organizing Workout Videos for Site](corpus/videos/nhzBCe_nFdA.json) | — |  |
+| 2021-04-22 | [4/22/21 Organizing Lifting Videos for Site](corpus/videos/zulcYYfzdt4.json) | — |  |
+| 2021-04-21 | [4/21/21 Organizing muscle girl's lifts for my site.](corpus/videos/cAsgSu16xBA.json) | — |  |
+| 2021-04-20 | [4/20/21 Exercises List still. Prepared to go another month.](corpus/videos/kX2Zh-r5ELI.json) | — |  |
+| 2021-04-19 | [4/19/21 Collecting Workout Videos for lists on my site.](corpus/videos/ZnErjyfX4Ls.json) | — |  |
+| 2021-04-18 | [4/18/21 Collecting lifting videos for site](corpus/videos/AnHYomj3tfk.json) | — |  |
+| 2021-04-16 | [4/16/21 Collecting Exercise Videos for Site](corpus/videos/BTRzxDwngzQ.json) | — |  |
+| 2021-04-15 | [4/15/21 Compiling people's exercise videos for my site.](corpus/videos/mW6yC4hM3-k.json) | — |  |
+| 2021-04-14 | [4/14/21 OTHER PEOPLE'S Fitness Tests for my Site](corpus/videos/gcBtl9XLjog.json) | — |  |
+| 2021-04-13 | [4/13/21 Recording Fitness Video Performances for Site](corpus/videos/Msw_Amhe0KE.json) | — |  |
+| 2021-04-12 | [4/12/21 Organizing Crossfit Exercises](corpus/videos/nYGjbeFe9uQ.json) | — |  |
+| 2021-04-10 | [4/10/21 Organizing Crossfit Files for Site](corpus/videos/A6PRWmDfjMA.json) | — |  |
+| 2021-04-09 | [4/9/21 Crossfit videos for website](corpus/videos/cuQsZTO5Yck.json) | — |  |
+| 2021-04-08 | [4/8/21 Organizing Crossfit videos for site](corpus/videos/iBPqqpo7--g.json) | — |  |
+| 2021-04-07 | [4/7/21 Organizing Lifting Videos](corpus/videos/aFm-INirDkM.json) | — |  |
+| 2021-04-06 | [4/6/21 Organizing lifting videos & ordered cables for Hyperdeck](corpus/videos/nYKakWcERNk.json) | — |  |
+| 2021-04-05 | [4/5/21 Waiting for Mic & Doing Lifting Page](corpus/videos/2UacZ_CLGNg.json) | — |  |
+| 2021-04-04 | [4/4/21 Waiting for Mic & Doing Lifting Page](corpus/videos/axE85z4uCho.json) | — |  |
+| 2021-04-03 | [4/3/21 Working on Lifting Page and waiting for Mic on Monday](corpus/videos/7M_zWAE71ao.json) | — |  |
+| 2021-04-02 | [4/2/21 Got Hyperdeck. Touching up Lifting Page.](corpus/videos/p87gEAElhNI.json) | — |  |
+| 2021-03-31 | [3/31/21 Adobe Tutorials, Athletics Web Page tune up for show](corpus/videos/0wSTzb-i0Lo.json) | — |  |
+| 2021-03-30 | [3/30/21 Bought a Rode RODECaster mixer & Hyperdeck Mini for streaming](corpus/videos/7X6k83fGEdE.json) | — |  |
+| 2021-03-29 | [3/29/21 Adobe tutorials, waiting for video camera](corpus/videos/H-wDBl_UYMA.json) | — |  |
+| 2021-03-28 | [3/28/21 Watching tutorials waiting for camera on Tuesday](corpus/videos/Q6BHrvlvBRY.json) | — |  |
+| 2021-03-26 | [3/26/21 First day learning Atem Mini  Extreme](corpus/videos/EgbRzZqAtlM.json) | — |  |
+| 2021-03-25 | [3/25/21 FINALLY finished setting up hardware. Now learning Atem mini.](corpus/videos/8x1FC0pJs-g.json) | — |  |
+| 2021-03-24 | [3/24/21 Exchange a cable, set up cameras, reading Atem Mini Extreme sw](corpus/videos/XjrPO3OCtFQ.json) | — |  |
+| 2021-03-23 | [3/23/21](corpus/videos/dUNOGOwXGO0.json) | — |  |
+| 2021-03-20 | [3/20/21 Still getting streaming studio going](corpus/videos/Uw6VPbmPnWs.json) | — |  |
+| 2021-03-19 | [3/19/21 Organizing streaming studio](corpus/videos/UxyfqcEVPbg.json) | — |  |
+| 2021-03-18 | [3/18/21 Setting up Atem mini extreme studio with 5 cams! Somebody buy ](corpus/videos/Dk13xoMintY.json) | — |  |
+| 2021-03-17 | [3/17/21 Got switcher. Now I have to return all my webcam stuff.](corpus/videos/MU3ANq4IxWU.json) | — |  |
+| 2021-03-16 | [3/16/21 Watching Atem streaming tutorials](corpus/videos/Frpcn1EYFAc.json) | — |  |
+| 2021-03-15 | [3/15/21 Waiting for streaming stuff & watching tutorials & taking mari](corpus/videos/h3d4i7jtfKQ.json) | — |  |
+| 2021-03-14 | [3/14/21 Gunna find out today if I can use six streaming cams](corpus/videos/3fT5G5ma4Zc.json) | — |  |
+| 2021-03-14 | [3/14/21 Bought an Atem Mini Extreme. Have to sell my van](corpus/videos/RP-pwitEI3s.json) | — |  |
+| 2021-03-12 | [3/12/21 Have to get a USB cable and smoke a spliff and paint stuff gre](corpus/videos/T0yg0anO4Cg.json) | — |  |
+| 2021-03-11 | [3/11/21 Got 6 cams going, final night of painting stuff green](corpus/videos/ugfVSJqdrwQ.json) | — |  |
+| 2021-03-10 | [3/10/21 Today, one more day of setting up streaming studio](corpus/videos/h_2YpOyicSs.json) | — |  |
+| 2021-03-07 | [3/7/21 Still tryna get computer to see webcams](corpus/videos/2zIyj6XDy-s.json) | — |  |
+| 2021-03-07 | [3/7/21 Trying to hook 4cams still, studying Windows 10](corpus/videos/7g_tB-F8VNc.json) | — |  |
+| 2021-03-06 | [3/6/21 Day 1 setting up streaming computer](corpus/videos/joardI3heps.json) | — |  |
 | 2021-03-05 | [Maritime Law - Request](corpus/videos/TbeACwQeXzE.json) | kyle | Kyle gives his take on maritime law following a viewer request, covering territorial water boundaries, ship registration |
+| 2021-03-05 | [3/5/21 Organizing files. Got streaming computer in the mail. Will set ](corpus/videos/qw0PQzeUHAE.json) | — |  |
 | 2021-03-04 | [How I got divorced - Request](corpus/videos/VGN5oKP6p4k.json) | kyle | Kyle tells the story of his 2007 marriage to a Chilean woman named Wu, who became pregnant shortly after they moved to t |
+| 2021-03-04 | [3/4/21 Organizing pump up videos, got keyboard already, huffed a joint](corpus/videos/jaaN3pE7ZnQ.json) | — |  |
 | 2021-03-04 | [How to solve media divide - Request](corpus/videos/yHuhMSETeRo.json) | kyle | Kyle responds to a viewer request about solving the media divide, arguing that a lack of historical literacy is the root |
 | 2021-03-03 | [Religion - Request](corpus/videos/J1VKzmWJ4YY.json) | kyle | Kyle gives his broad take on religion, arguing it is inseparable from history and that blanket anti-religion stances (li |
+| 2021-03-03 | [3/3/21 Organizing work out videos, hit with $5K CC bill](corpus/videos/gNHfrcboN8E.json) | — |  |
 | 2021-03-03 | [Homosexuality nature or nurture - Request.  I say nature.](corpus/videos/t_H6fWeg0YA.json) | kyle | Kyle argues that homosexuality is primarily nature, not nurture, though he believes unhealthy societal conditions (overc |
 | 2021-03-03 | [Antifa violenge of 2020  - Request (I love them)](corpus/videos/uF7lSGMsIt0.json) | kyle | Kyle responds to a viewer request about Antifa violence in 2020. He shares his take after watching several Antifa vs. Pr |
 | 2021-03-01 | [BLM - Request](corpus/videos/F15sNJSyxPQ.json) | kyle | Kyle gives his opinion on Black Lives Matter after accidentally losing a 50-minute recording. He supports BLM and Antifa |
+| 2021-03-01 | [3/1/21 Benched 135 5x, DB pressed 45s 10x, concentration curls 10s 50x](corpus/videos/PooR6TfSfkY.json) | — |  |
+| 2021-02-28 | [2/28/21 Final studio set up day. Exercised body from THAT](corpus/videos/PYdFzEdE-90.json) | — |  |
 | 2021-02-27 | [Trump Impeachment’s - Request](corpus/videos/zck5rrUm7Tg.json) | kyle | Kyle gives his opinion on both Trump impeachments, arguing both were justified. He explains the Ukraine/Burisma quid pro |
+| 2021-02-20 | [2/20/21 Gunna hafa get back shape](corpus/videos/VWJboAVp-bE.json) | — |  |
+| 2021-02-17 | [2/17/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/hdRWDmmE448.json) | — |  |
+| 2021-02-16 | [2/16/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/1XiMQM3Kyh0.json) | — |  |
+| 2021-02-15 | [2/15/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/PzPICCxf07c.json) | — |  |
+| 2021-02-12 | [2/12/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/bRYzwKEbfPI.json) | — |  |
+| 2021-02-11 | [2/11/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/BH25PPhNJ20.json) | — |  |
+| 2021-02-10 | [2/10/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/n0ARg3wS0Sg.json) | — |  |
+| 2021-02-09 | [2/9/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/-3zw_xqA62g.json) | — |  |
+| 2021-02-08 | [2/8/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/tCS1_Omjrw8.json) | — |  |
+| 2021-02-07 | [2/7/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/qSWKv5-8CIA.json) | — |  |
+| 2021-02-05 | [2/5/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/sG29PU_IARY.json) | — |  |
+| 2021-02-04 | [2/4/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/TZqV_xBdd_8.json) | — |  |
+| 2021-02-03 | [2/3/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/zJEkTT1ceyE.json) | — |  |
+| 2021-02-02 | [2/2/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/9FVD0VZ_OB8.json) | — |  |
+| 2021-02-01 | [2/1/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/RxFCazFchKU.json) | — |  |
+| 2021-01-31 | [1/31/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/fLUTPqcObgo.json) | — |  |
+| 2021-01-28 | [1/28/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/CpvJ5kZIQZA.json) | — |  |
+| 2021-01-26 | [1/26/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/2kMmZY_pSBo.json) | — |  |
+| 2021-01-26 | [1/26/21 Rowed 2K 10:45, erg swam 1K 10:13, DBs, couple hrs stretching](corpus/videos/Oj6VR7gtdZg.json) | — |  |
+| 2021-01-24 | [1/24/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/58A0NFBhhV8.json) | — |  |
+| 2021-01-22 | [1/22/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/Zed7IJbfRXo.json) | — |  |
+| 2021-01-21 | [1/21/21 More Aristotle](corpus/videos/Ctx38GeRI9w.json) | — |  |
+| 2021-01-21 | [1/21/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/ts6mgxGk36I.json) | — |  |
+| 2021-01-18 | [1/18/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/ka53zaJtxfA.json) | — |  |
+| 2021-01-17 | [1/17/21 Turn comments back on YouTube! FOR KIDS](corpus/videos/bjVzM4zDlt0.json) | — |  |
+| 2021-01-01 | [1/1/21 Google Earthing Servian Wall so I can do Vespasian one](corpus/videos/RAaW5qPQWsQ.json) | — |  |
+| 2020-10-12 | [10/12/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/pFMkkqsgt1E.json) | — |  |
+| 2020-10-10 | [10/10/20 Enable my comments YouTube you Morons! FIR KIDS](corpus/videos/4ZhTDVUzPYo.json) | — |  |
 | 2020-09-20 | [9/20/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/k7d68OjmPrM.json) | — |  |
 | 2020-09-19 | [9/19/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/tDPt2-EGQVo.json) | — |  |
 | 2020-09-18 | [9/18/20 Turn comments back on YouTube! FOR KIDS](corpus/videos/NtLf8oOb8o8.json) | — |  |

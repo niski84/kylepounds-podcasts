@@ -1,0 +1,5136 @@
+{
+ "youtube_id": "TtCMjmFZAVQ",
+ "title": "6/18/21 Setting up streaming studio",
+ "url": "https://youtu.be/TtCMjmFZAVQ",
+ "published_at": "2021-06-18",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 1.71,
+   "end": 14.77,
+   "text": "Hello, Living in Boulder V-Log. I think it's for the 18th. I can't see the numbers without my glasses on."
+  },
+  {
+   "start": 18.09,
+   "end": 23.93,
+   "text": "Today was the second day of full force getting back into the studio, which is fine."
+  },
+  {
+   "start": 23.93,
+   "end": 30.35,
+   "text": "I don't feel like I relapsed out of getting back in shape at all, because it's not my website."
+  },
+  {
+   "start": 30.35,
+   "end": 43.6,
+   "text": "It's just, it's just, um, uh, studio. So, um, yeah, last night was a night like any other."
+  },
+  {
+   "start": 43.96,
+   "end": 53.22,
+   "text": "I was up awake all night until 7 in the morning or something. It was, like, light for a couple hours, and, um, 7 or 8."
+  },
+  {
+   "start": 53.22,
+   "end": 67.32,
+   "text": "And because I was, I started last night, like, yesterday I was busy, like, mainly setting up the hardware, buying new stuff, and, um, and then looking at, yeah, some tutorials."
+  },
+  {
+   "start": 67.32,
+   "end": 86.32,
+   "text": "And so I wanted to know, because I was, like, a little bit stuck before, I wanted to, um, I wanted to, I saw, I saw this one in where you could transfer a Photoshop file directly to your ATEM Mini."
+  },
+  {
+   "start": 86.98,
+   "end": 91.36,
+   "text": "I can't remember what it's called. My switcher. No, the switcher's the sound."
+  },
+  {
+   "start": 91.36,
+   "end": 112.87,
+   "text": "But, um, video's main switcher and then the sound switcher, which is my Roodcaster Pro, but, um, um, so, um, and it didn't work before, but, um, but yesterday, you know, I saw the video, and I tried it."
+  },
+  {
+   "start": 112.87,
+   "end": 128.01,
+   "text": "I just made a simple folder. I opened a file, and it went right in, so that was cool. Um, and then there was this other one where I saw where the guy brought a Adobe After Effects file into the HyperDeck,"
+  },
+  {
+   "start": 128.01,
+   "end": 146.65,
+   "text": "Which is where you, which is where you play videos from, a way to play a lot of videos from, and, um, um, um, I'm, like, really high."
+  },
+  {
+   "start": 146.77,
+   "end": 159.33,
+   "text": "I just scraped my pipe last night because I quit smoking weed, and, um, like, all this, like, weed was breaking off the side of the bong of the chubbler."
+  },
+  {
+   "start": 159.33,
+   "end": 171.1,
+   "text": "Mmm! Like, all that stuff was, like, breaking off. And so I was, like, filling up the water and shaking it, and I was, like, actually scraping it out."
+  },
+  {
+   "start": 171.2,
+   "end": 186.1,
+   "text": "I was getting it out of that hole and this hole. Um, yeah, with the help of a, um, a coat hanger, I just bent it, and I got so much weed, like, and then I just smoked all of it,"
+  },
+  {
+   "start": 186.1,
+   "end": 192.55,
+   "text": "And, like, I like the resin, and, um, everything fine as of now, but I'm, like, really high."
+  },
+  {
+   "start": 192.99,
+   "end": 205.97,
+   "text": "And I think resin weed is, like, super, it's retardo high, but, um, I got the, um, figured out, um, how to transfer,"
+  },
+  {
+   "start": 206.13,
+   "end": 211.43,
+   "text": "Because I saw a video where you use FileZilla to transfer files from your computer into your HyperDeck,"
+  },
+  {
+   "start": 211.43,
+   "end": 218.65,
+   "text": "And, um, it, like, didn't work before, but I tried it last night, I put it in my HyperDeck IP address,"
+  },
+  {
+   "start": 219.15,
+   "end": 222.23,
+   "text": "And lo and behold, I saw the two cards from my HyperDeck."
+  },
+  {
+   "start": 222.75,
+   "end": 223.79,
+   "text": "So it did connect."
+  },
+  {
+   "start": 224.67,
+   "end": 225.99,
+   "text": "So I was, like, ah."
+  },
+  {
+   "start": 227.97,
+   "end": 233.13,
+   "text": "Because I tried to, I put a video on that card, and then I put it in the HyperDeck, and I didn't see it."
+  },
+  {
+   "start": 233.13,
+   "end": 241.99,
+   "text": "And then I saw in a forum that, or somewhere that, um, yeah, the only way to get it on there is if you just transfer it from the computer."
+  },
+  {
+   "start": 242.07,
+   "end": 243.61,
+   "text": "So I did it, and I saw it, so."
+  },
+  {
+   "start": 244.23,
+   "end": 247.73,
+   "text": "I haven't tried to transfer anything, but I'll try to, I mean, I'm sure it'll work, so."
+  },
+  {
+   "start": 248.69,
+   "end": 251.69,
+   "text": "And if it doesn't show up, you just take the card out and put it back in."
+  },
+  {
+   "start": 252.17,
+   "end": 256.51,
+   "text": "But, um, yeah, I'm still a super beginner with all of this."
+  },
+  {
+   "start": 256.51,
+   "end": 263.23,
+   "text": "Like, right now, I can't even see the difference between, like, playing a video on a HyperDeck and the actual thing."
+  },
+  {
+   "start": 263.49,
+   "end": 265.29,
+   "text": "But, um, A-Tim."
+  },
+  {
+   "start": 266.29,
+   "end": 274.95,
+   "text": "But, um, so last night, um, I watched, I just got started, because I didn't have the time before, but last night I decided that was the time."
+  },
+  {
+   "start": 275.69,
+   "end": 279.53,
+   "text": "This 11 and a half hour long tutorial video on After Effects."
+  },
+  {
+   "start": 279.63,
+   "end": 280.79,
+   "text": "I can't remember the kid's name."
+  },
+  {
+   "start": 281.73,
+   "end": 283.13,
+   "text": "A young Hispanic kid."
+  },
+  {
+   "start": 283.13,
+   "end": 286.11,
+   "text": "Um, and he's really good."
+  },
+  {
+   "start": 286.11,
+   "end": 289.09,
+   "text": "And I got, like, an hour into it, and I'm watching it, you know."
+  },
+  {
+   "start": 289.41,
+   "end": 294.63,
+   "text": "I love watching the tutorials, because they, they, um, and don't, like, not following along, just watching it first."
+  },
+  {
+   "start": 295.59,
+   "end": 299.87,
+   "text": "Because if you pay attention to everything, you can remember exactly what you can do."
+  },
+  {
+   "start": 300.87,
+   "end": 303.11,
+   "text": "And pretty, enough how to do it, too."
+  },
+  {
+   "start": 303.17,
+   "end": 306.21,
+   "text": "Because if you forget what to push and where, you just watch the video again."
+  },
+  {
+   "start": 306.31,
+   "end": 308.61,
+   "text": "But, yeah, you remember what you can do."
+  },
+  {
+   "start": 308.61,
+   "end": 311.95,
+   "text": "And, um, and so I was watching it."
+  },
+  {
+   "start": 312.01,
+   "end": 312.79,
+   "text": "I got, like, an hour."
+  },
+  {
+   "start": 312.97,
+   "end": 314.25,
+   "text": "It's, like, 11 and a half hours long."
+  },
+  {
+   "start": 314.25,
+   "end": 316.47,
+   "text": "I was going to try to watch it, like, and finish it today."
+  },
+  {
+   "start": 317.75,
+   "end": 322.19,
+   "text": "But, like, I was, so I was watching it all night until I went to sleep."
+  },
+  {
+   "start": 322.61,
+   "end": 325.11,
+   "text": "But, um, yeah, I got kind of groggy and just fell asleep."
+  },
+  {
+   "start": 325.17,
+   "end": 325.91,
+   "text": "I love days like that."
+  },
+  {
+   "start": 326.67,
+   "end": 332.19,
+   "text": "That's one awesome thing about working inside on the computer is, um, as opposed to training when you're trying to sleep."
+  },
+  {
+   "start": 332.19,
+   "end": 334.67,
+   "text": "Because you just fall asleep and then you wake up, you're working."
+  },
+  {
+   "start": 335.43,
+   "end": 340.57,
+   "text": "But I was watching the video and I got, like, an hour and a half in and then I was, like, I was, like, oh, this is cool."
+  },
+  {
+   "start": 340.63,
+   "end": 341.19,
+   "text": "I get excited."
+  },
+  {
+   "start": 341.73,
+   "end": 343.15,
+   "text": "So I decided it was storyboard time."
+  },
+  {
+   "start": 343.47,
+   "end": 345.01,
+   "text": "Oh, man, my storyboards."
+  },
+  {
+   "start": 345.13,
+   "end": 346.19,
+   "text": "I was gonna..."
+  },
+  {
+   "start": 346.89,
+   "end": 347.13,
+   "text": "Ugh!"
+  },
+  {
+   "start": 347.55,
+   "end": 350.96,
+   "text": "Where the fuck?"
+  },
+  {
+   "start": 351.08,
+   "end": 351.74,
+   "text": "Oh, right here."
+  },
+  {
+   "start": 353.82,
+   "end": 354.1,
+   "text": "Okay."
+  },
+  {
+   "start": 354.1,
+   "end": 354.26,
+   "text": "Okay."
+  },
+  {
+   "start": 355.66,
+   "end": 358.76,
+   "text": "Yeah, so today I decided today was storyboard time."
+  },
+  {
+   "start": 358.76,
+   "end": 369.17,
+   "text": "Because, um, you know, the best way for me to, like, get clear in my head is just to figure out what I really want and just as simple as I can."
+  },
+  {
+   "start": 369.89,
+   "end": 373.03,
+   "text": "Because I have a good idea of what I can do and it's super simple."
+  },
+  {
+   "start": 373.21,
+   "end": 376.65,
+   "text": "And so think of something simple that you want and need."
+  },
+  {
+   "start": 377.97,
+   "end": 382.49,
+   "text": "And then just write it on the storyboard and figure out what your plan is first."
+  },
+  {
+   "start": 383.77,
+   "end": 386.59,
+   "text": "And then when you know exactly what you want to do, it's just like a project."
+  },
+  {
+   "start": 386.69,
+   "end": 389.69,
+   "text": "You just watch the tutorial again and you go, okay, okay, this is what I want to do."
+  },
+  {
+   "start": 389.69,
+   "end": 392.85,
+   "text": "And you just do it, you tweak it, what they're teaching how to do, I mean, in your way."
+  },
+  {
+   "start": 393.81,
+   "end": 394.37,
+   "text": "Your own way."
+  },
+  {
+   "start": 394.37,
+   "end": 406.21,
+   "text": "So, um, so I also, that also meant, meant I had to strategize on exactly, like, what is the strategy for my, um, my, uh, thing, my, uh, show."
+  },
+  {
+   "start": 406.91,
+   "end": 411.43,
+   "text": "I noticed that my video camera on the western side, like, turned off."
+  },
+  {
+   "start": 411.47,
+   "end": 415.07,
+   "text": "But only after I, uh, because I can see it because the video's turned towards me."
+  },
+  {
+   "start": 415.07,
+   "end": 424.25,
+   "text": "Uh, only after I unplugged, because it's charged with a USB cable, but I think it has its own, like, charger in the wall."
+  },
+  {
+   "start": 424.25,
+   "end": 428.77,
+   "text": "And I took it, because yesterday I bought a multiplier, USB charger multiplier."
+  },
+  {
+   "start": 428.97,
+   "end": 437.87,
+   "text": "It's because I wanted you to charge the two converters from SDI to HDMI for the cable that goes from my HyperDeck to my, um, ATEM Mini."
+  },
+  {
+   "start": 437.87,
+   "end": 446.93,
+   "text": "And so, um, I plugged those in, because I only had, I only had one in there, only room for one, because that was my camera."
+  },
+  {
+   "start": 447.01,
+   "end": 451.45,
+   "text": "So then I bought the multiplier, and I plugged those two in the multiplier and then the camera."
+  },
+  {
+   "start": 451.67,
+   "end": 452.97,
+   "text": "But then I noticed the camera died."
+  },
+  {
+   "start": 453.03,
+   "end": 459.01,
+   "text": "So I was like, oh, I, uh, maybe it only works with its, like, you know, manufactured little charger."
+  },
+  {
+   "start": 459.11,
+   "end": 460.13,
+   "text": "It needs a dedicated charger."
+  },
+  {
+   "start": 460.25,
+   "end": 463.95,
+   "text": "It just takes too much juice for the little multiplier to share with the other two."
+  },
+  {
+   "start": 463.95,
+   "end": 471.69,
+   "text": "Because those other two, um, uh, adapters, SDI to HDMI, are actually pretty hot."
+  },
+  {
+   "start": 471.83,
+   "end": 473.47,
+   "text": "I touched them, and they were, like, hot."
+  },
+  {
+   "start": 474.53,
+   "end": 479.94,
+   "text": "So, um, so, and then I tested it."
+  },
+  {
+   "start": 480.0,
+   "end": 484.14,
+   "text": "Like, I plugged it into the adapter, and I looked up, and it said that it didn't, it was getting charged."
+  },
+  {
+   "start": 484.2,
+   "end": 485.68,
+   "text": "And I plugged it directly, and it said it was good."
+  },
+  {
+   "start": 485.86,
+   "end": 490.74,
+   "text": "So, so then I, but there was no room to really have its own one over there under my bikes."
+  },
+  {
+   "start": 490.74,
+   "end": 496.34,
+   "text": "But I, I, I threaded it towards the south to my cat, my north-facing cabinet."
+  },
+  {
+   "start": 496.94,
+   "end": 500.14,
+   "text": "And it was only, like, a foot away from the outlet."
+  },
+  {
+   "start": 501.28,
+   "end": 506.74,
+   "text": "So, I remembered a couple months ago, I brought my, uh, an extra, uh, power strip to my mom's house."
+  },
+  {
+   "start": 507.1,
+   "end": 508.64,
+   "text": "So I, I called her, she didn't answer."
+  },
+  {
+   "start": 508.72,
+   "end": 511.8,
+   "text": "So I rolled my bike down there, and she actually was parking as I got there."
+  },
+  {
+   "start": 512.36,
+   "end": 517.02,
+   "text": "So we had ice cream together, and I, and she actually had two power strips that I gave her to put away,"
+  },
+  {
+   "start": 517.06,
+   "end": 519.54,
+   "text": "And she never even filed them away from our office."
+  },
+  {
+   "start": 519.54,
+   "end": 524.96,
+   "text": "So, yeah, when I came back here, I, um, plugged up the power strip to the wall,"
+  },
+  {
+   "start": 525.12,
+   "end": 528.72,
+   "text": "And so that it can, you know, the, uh, the camera gets its own charger."
+  },
+  {
+   "start": 529.84,
+   "end": 532.46,
+   "text": "And then when I have the money, and I get the other cameras,"
+  },
+  {
+   "start": 532.52,
+   "end": 535.96,
+   "text": "Because I don't have this north-facing camera, and then a camera in the bathroom,"
+  },
+  {
+   "start": 536.1,
+   "end": 539.04,
+   "text": "I can, um, they can have their own, yeah, chargers on the power strip."
+  },
+  {
+   "start": 539.32,
+   "end": 540.84,
+   "text": "And then I put the other power strip in the living room,"
+  },
+  {
+   "start": 540.9,
+   "end": 543.52,
+   "text": "So there's plenty of something, stuff to plug into out there if I need."
+  },
+  {
+   "start": 544.62,
+   "end": 547.38,
+   "text": "Um, and if I need another one in here, I know that that one's out there."
+  },
+  {
+   "start": 547.38,
+   "end": 554.08,
+   "text": "But, um, but while I was at my mom's house, I told her about my strategy and tried to explain to her the,"
+  },
+  {
+   "start": 554.18,
+   "end": 561.2,
+   "text": "You know, the concept of, of people's shows and how you try to make money and get hits and stuff."
+  },
+  {
+   "start": 561.26,
+   "end": 566.78,
+   "text": "And so I explained to her that you want to be, uh, consistent, and you want to be,"
+  },
+  {
+   "start": 566.86,
+   "end": 571.96,
+   "text": "So you want to be prolific every day and consistent and have a certain style, like your brand."
+  },
+  {
+   "start": 571.96,
+   "end": 577.78,
+   "text": "And so, I didn't get her, I only explained to her that much, and that I'm studying now,"
+  },
+  {
+   "start": 577.86,
+   "end": 583.22,
+   "text": "But today I did make, um, I did make, uh, like storyboards."
+  },
+  {
+   "start": 583.66,
+   "end": 589.4,
+   "text": "So, um, the first storyboard that I made was, like, how am I gonna, um,"
+  },
+  {
+   "start": 590.62,
+   "end": 593.98,
+   "text": "How am I gonna do, like, the videos and stuff, like intro videos,"
+  },
+  {
+   "start": 593.98,
+   "end": 597.68,
+   "text": "Because I wanted to do intro graphics with, um, After Effects."
+  },
+  {
+   "start": 599.18,
+   "end": 608.08,
+   "text": "So I make a lot of, um, different, like, I, so I started with, um, um, this one, lifting."
+  },
+  {
+   "start": 609.66,
+   "end": 613.48,
+   "text": "So I was like, okay, so if I'm gonna do dumbbells, if I'm talking to a thing and I'm like,"
+  },
+  {
+   "start": 613.54,
+   "end": 616.52,
+   "text": "Okay, so I'm gonna do dumbbells, I'll just put the button, like, here come the dumbbells."
+  },
+  {
+   "start": 616.54,
+   "end": 621.4,
+   "text": "So it's like, dump two dumbbells on either side that are moving up from the ground to the top,"
+  },
+  {
+   "start": 621.4,
+   "end": 626.24,
+   "text": "And I'm in the middle talking. And then, and I'll set that to time for, like, um,"
+  },
+  {
+   "start": 626.66,
+   "end": 630.8,
+   "text": "Five seconds or something, long enough for me to get done talking."
+  },
+  {
+   "start": 630.92,
+   "end": 634.12,
+   "text": "And then the same thing with the barbell that flights to the bottom to the top."
+  },
+  {
+   "start": 634.42,
+   "end": 638.44,
+   "text": "And it looks like that. And then I decided to put the outline as, as, um, orange,"
+  },
+  {
+   "start": 638.52,
+   "end": 641.18,
+   "text": "Because that's what it looks like on my website. Lifting is number two after fighting."
+  },
+  {
+   "start": 642.6,
+   "end": 646.48,
+   "text": "And then, so then I would have, like, yeah, like, a dumbbell, and then, like, DB,"
+  },
+  {
+   "start": 646.74,
+   "end": 651.06,
+   "text": "And then for, like, five seconds, and then, like, maybe, like, an image of me or a video of me."
+  },
+  {
+   "start": 651.82,
+   "end": 653.9,
+   "text": "Doing dumbbells, like, dumbbell press, sitting down."
+  },
+  {
+   "start": 654.74,
+   "end": 658.22,
+   "text": "And then on the right side, um, it's my phone, and I'll explain that."
+  },
+  {
+   "start": 658.28,
+   "end": 664.28,
+   "text": "And then here is my, uh, is the name of the exercise and the weight that I'm doing,"
+  },
+  {
+   "start": 664.54,
+   "end": 667.0,
+   "text": "That we're talking about, and, uh, my max reps."
+  },
+  {
+   "start": 668.58,
+   "end": 670.32,
+   "text": "Um, I came up with this phone."
+  },
+  {
+   "start": 671.98,
+   "end": 676.76,
+   "text": "To put that there, because I actually came up with a lot of original ideas today."
+  },
+  {
+   "start": 676.76,
+   "end": 680.1,
+   "text": "Or that, like, that are totally original, nobody else came up with."
+  },
+  {
+   "start": 681.04,
+   "end": 682.18,
+   "text": "And this is one of them."
+  },
+  {
+   "start": 683.32,
+   "end": 686.5,
+   "text": "I've never seen anybody, uh, lift."
+  },
+  {
+   "start": 686.68,
+   "end": 693.06,
+   "text": "See, I, like, with a counter, like, somebody counting, or them getting, um, like, um, registering their lift."
+  },
+  {
+   "start": 694.06,
+   "end": 699.76,
+   "text": "So I was like, is there a voice-activated, um, program or app out there where you can go, like, out loud?"
+  },
+  {
+   "start": 699.84,
+   "end": 703.12,
+   "text": "You go, one, two, three, four, twenty."
+  },
+  {
+   "start": 703.24,
+   "end": 709.12,
+   "text": "Like, if you, if you're trying to go max reps on something, it'll just, it'll be counting it on the screen in front of you."
+  },
+  {
+   "start": 710.02,
+   "end": 711.64,
+   "text": "You know how people do in videos?"
+  },
+  {
+   "start": 711.92,
+   "end": 715.46,
+   "text": "Like, they have fitness videos, and then there's, they're doing the, their pull-ups."
+  },
+  {
+   "start": 715.56,
+   "end": 717.86,
+   "text": "They have the little number, one, two, ten."
+  },
+  {
+   "start": 718.44,
+   "end": 722.78,
+   "text": "Well, they plug, they, they, like, program that in later with their editor, editing software."
+  },
+  {
+   "start": 724.4,
+   "end": 734.74,
+   "text": "But, uh, why not, if you're streaming and it's all live, why not get a app that can just have a little screen there and actually count for you?"
+  },
+  {
+   "start": 734.74,
+   "end": 737.96,
+   "text": "Like, you get, just because you're yelling out, one, it's voice-activated."
+  },
+  {
+   "start": 738.18,
+   "end": 741.08,
+   "text": "One, two, three, fifteen."
+  },
+  {
+   "start": 741.52,
+   "end": 742.78,
+   "text": "I just did fifteen."
+  },
+  {
+   "start": 743.38,
+   "end": 744.18,
+   "text": "Isn't that a cool idea?"
+  },
+  {
+   "start": 745.08,
+   "end": 750.02,
+   "text": "So I thought, yeah, is there, like, a website, like, an app on the computer I can do?"
+  },
+  {
+   "start": 750.1,
+   "end": 752.4,
+   "text": "Because I can make, like, a screen, or even on the website."
+  },
+  {
+   "start": 752.76,
+   "end": 759.3,
+   "text": "I mean, on the phone, because then I could just put the phone up next to the, the, uh, the screen of the video camera for my video."
+  },
+  {
+   "start": 760.2,
+   "end": 763.94,
+   "text": "And, um, so there wasn't anything like that."
+  },
+  {
+   "start": 763.94,
+   "end": 768.58,
+   "text": "I think there was one something like that, but now it's taken away and, like, went away and didn't work or something."
+  },
+  {
+   "start": 769.08,
+   "end": 773.16,
+   "text": "But then I found one called Voice App or something, or Voice Workout."
+  },
+  {
+   "start": 773.24,
+   "end": 779.92,
+   "text": "I can't remember, remember, but, uh, it is where you plug in and then it calls out what you pre-plug in."
+  },
+  {
+   "start": 780.02,
+   "end": 781.74,
+   "text": "And that actually, I figured that would work."
+  },
+  {
+   "start": 782.0,
+   "end": 783.7,
+   "text": "So, like, I made one."
+  },
+  {
+   "start": 783.74,
+   "end": 785.44,
+   "text": "And you can make as many different workouts as you want."
+  },
+  {
+   "start": 785.44,
+   "end": 791.04,
+   "text": "But I made one where it's, um, 20 reps."
+  },
+  {
+   "start": 791.7,
+   "end": 793.34,
+   "text": "It has a five-second countdown."
+  },
+  {
+   "start": 794.16,
+   "end": 796.7,
+   "text": "With, and then it even says the, the, the, the countdown."
+  },
+  {
+   "start": 796.92,
+   "end": 798.82,
+   "text": "Five, four, three, two, one."
+  },
+  {
+   "start": 799.3,
+   "end": 800.54,
+   "text": "The default was ten seconds."
+  },
+  {
+   "start": 800.64,
+   "end": 807.4,
+   "text": "But I put in reps, and I might make it to ten later if I have to, if it takes long to, like, if I have to put it up or something."
+  },
+  {
+   "start": 807.4,
+   "end": 816.16,
+   "text": "But I plugged the first one in to be 20 reps, um, so they count to 21, two, three, at four-second intervals."
+  },
+  {
+   "start": 816.16,
+   "end": 820.32,
+   "text": "Because I Googled what, like, your average reps are, the best time for reps, and it's four seconds."
+  },
+  {
+   "start": 821.46,
+   "end": 830.94,
+   "text": "And, um, and so I did three sets of 20 reps at, because I, I found out, I heard 20 reps is good if you're trying to make your muscles endurance strong."
+  },
+  {
+   "start": 831.16,
+   "end": 833.1,
+   "text": "And 20 reps is, I like that in reps anyway."
+  },
+  {
+   "start": 833.1,
+   "end": 839.26,
+   "text": "So, um, and every four seconds, counting every four seconds."
+  },
+  {
+   "start": 839.58,
+   "end": 844.06,
+   "text": "And so, and for three, and for three sets with 30 seconds in between."
+  },
+  {
+   "start": 844.18,
+   "end": 847.88,
+   "text": "Because I Googled it, and I said, yeah, 30 seconds is good in between."
+  },
+  {
+   "start": 848.06,
+   "end": 856.56,
+   "text": "So, and I didn't want it to be too many sets, too many seconds, because I Googled, uh, like, if you're going for strength, you want two minutes between them."
+  },
+  {
+   "start": 856.56,
+   "end": 859.84,
+   "text": "But that's not, that's not good for my streaming."
+  },
+  {
+   "start": 859.84,
+   "end": 865.98,
+   "text": "So, yeah, 30 seconds is good between, I can, I can stream that and keep it, you know, interesting."
+  },
+  {
+   "start": 867.46,
+   "end": 872.1,
+   "text": "Um, you like it, you can stretch between them or just be like, oh, like pose, pose and flex."
+  },
+  {
+   "start": 873.04,
+   "end": 881.7,
+   "text": "So, um, um, yeah, so what it does is it just counts it to 20, and then it counts down 30 seconds, and then it counts to 20."
+  },
+  {
+   "start": 881.7,
+   "end": 886.7,
+   "text": "And then it calls it all out, like, set three, and it counts it out, right, out loud."
+  },
+  {
+   "start": 887.84,
+   "end": 891.24,
+   "text": "So, um, it's like the same thing, with the number, and it also does the number."
+  },
+  {
+   "start": 891.44,
+   "end": 895.9,
+   "text": "So it's the same thing as, like, people do, only you have to do as many as you're programmed."
+  },
+  {
+   "start": 896.14,
+   "end": 900.14,
+   "text": "So, um, and so that's a phone app."
+  },
+  {
+   "start": 900.18,
+   "end": 905.14,
+   "text": "It's not like a computer program that you can put, like, on the screen."
+  },
+  {
+   "start": 905.24,
+   "end": 906.52,
+   "text": "I should, I should actually look."
+  },
+  {
+   "start": 906.58,
+   "end": 909.9,
+   "text": "I'm going to look and see if there's anything like that, because that'd be easier."
+  },
+  {
+   "start": 909.9,
+   "end": 916.76,
+   "text": "So, in order to make it work, to be able to put the computer to the screen, I bought two, I ordered on Amazon, two, um, mounts."
+  },
+  {
+   "start": 917.14,
+   "end": 918.32,
+   "text": "Like, what are they called?"
+  },
+  {
+   "start": 918.46,
+   "end": 925.66,
+   "text": "Like, um, crane mounts or whatever."
+  },
+  {
+   "start": 925.8,
+   "end": 927.84,
+   "text": "So they're, like, this long, you know, and you can bend them."
+  },
+  {
+   "start": 927.98,
+   "end": 934.38,
+   "text": "So, I was going to clamp one to the top of my TV, because that's where my, uh, video camera is attached."
+  },
+  {
+   "start": 935.88,
+   "end": 941.1,
+   "text": "And then it'll curl around and hold the photo, I mean, the phone, right up on the corner of the screen."
+  },
+  {
+   "start": 941.1,
+   "end": 947.56,
+   "text": "You know, and then it's also right next to the mic of the camera, so it'll be heard well, too."
+  },
+  {
+   "start": 948.46,
+   "end": 959.48,
+   "text": "And so I just put it up there, and so up here on the screen, like what I just explained, that's the, um, that's where you would put the phone."
+  },
+  {
+   "start": 959.48,
+   "end": 968.3,
+   "text": "So, where you see the numbers counting up, doing the reps, and it's all, uh, calling it out, out loud as well, and it's counting the time between the sets."
+  },
+  {
+   "start": 968.4,
+   "end": 969.3,
+   "text": "It's fucking awesome."
+  },
+  {
+   "start": 969.84,
+   "end": 970.96,
+   "text": "I want to get used to that."
+  },
+  {
+   "start": 971.26,
+   "end": 984.73,
+   "text": "And then down here is the information about, um, how many, what the name of the exercise, this is the name of the exercise, and then the weight, and then the reps, right?"
+  },
+  {
+   "start": 984.73,
+   "end": 996.11,
+   "text": "Um, but, like, normal people do, it's like how many you did, but I have to just do what I, you know, I can't, like, write in real time what I'm doing, um, unless I was counting it, but they don't have that one."
+  },
+  {
+   "start": 997.51,
+   "end": 1000.17,
+   "text": "So, I was like, okay, so I'll just put a graphic here."
+  },
+  {
+   "start": 1000.25,
+   "end": 1008.31,
+   "text": "This will be the lower third graphic, you know, and I'll just plug in, I'll, like, pre-make all of them for all the exercises that I have, and then I'll make it so you plug it in."
+  },
+  {
+   "start": 1008.31,
+   "end": 1020.87,
+   "text": "And then the phone will be here, so then you'll see the phone number, the phone, um, counting the time and everything, and the reps for you, and the, even the sets and everything, shown on the screen, filming me."
+  },
+  {
+   "start": 1021.31,
+   "end": 1028.33,
+   "text": "And so that's, um, so putting the phone, and having it, having it count for you out loud as original, and putting the phone as original, so."
+  },
+  {
+   "start": 1029.27,
+   "end": 1038.13,
+   "text": "Um, um, but, um, but then, um, and I'll, I'll, I'll explain it now."
+  },
+  {
+   "start": 1038.13,
+   "end": 1049.09,
+   "text": "So I don't forget, and then I'll get back to the storyboards, but, um, but then I had this original idea to save money, save time, and this is a really freaking cool idea."
+  },
+  {
+   "start": 1050.19,
+   "end": 1072.52,
+   "text": "So down here, right, to plug in all the different, like, exercises and weights, and, uh, like, um, reps and everything, would, like, and then be able to plug it in, like, have it easily accessible."
+  },
+  {
+   "start": 1072.8,
+   "end": 1080.06,
+   "text": "With the little HyperDeck, and my, I mean, my StreamDecks and everything, um, StreamDeck and ATEM."
+  },
+  {
+   "start": 1081.22,
+   "end": 1087.92,
+   "text": "It's, it kind of seems a little bit time-consuming, but then I had this, like, um, uh, I got an idea."
+  },
+  {
+   "start": 1088.06,
+   "end": 1089.18,
+   "text": "I got a eureka moment."
+  },
+  {
+   "start": 1089.18,
+   "end": 1099.22,
+   "text": "Maybe what I can do is I can just dedicate this lower third, instead of to make, to put graphics that I make with Photoshop or After Effects."
+  },
+  {
+   "start": 1100.32,
+   "end": 1104.54,
+   "text": "That's just an area where I can pipe in my computer."
+  },
+  {
+   "start": 1104.54,
+   "end": 1118.52,
+   "text": "Because I have two Macintoshes, and, um, I, I can pipe both of my Macintoshes into my ATEM Mini, because my ATEM Mini has eight ports, eight input ports."
+  },
+  {
+   "start": 1119.5,
+   "end": 1128.7,
+   "text": "But that actually, in reality, means you can have 16 ports, because they have these, um, these little switchers."
+  },
+  {
+   "start": 1128.7,
+   "end": 1130.0,
+   "text": "I even got one in the mail today."
+  },
+  {
+   "start": 1130.06,
+   "end": 1132.48,
+   "text": "I ordered it yesterday, and I got it already, and so I ordered two more."
+  },
+  {
+   "start": 1133.76,
+   "end": 1139.4,
+   "text": "So, the HDMI cable comes in one, but then it splices, and there's a button."
+  },
+  {
+   "start": 1139.5,
+   "end": 1141.16,
+   "text": "So, you push one button, and it goes this side."
+  },
+  {
+   "start": 1141.2,
+   "end": 1142.78,
+   "text": "You push the button again, it goes this side."
+  },
+  {
+   "start": 1143.7,
+   "end": 1145.16,
+   "text": "So, then it can splice out."
+  },
+  {
+   "start": 1145.26,
+   "end": 1149.7,
+   "text": "And so, one side can go to one video camera, and then the other one can go to the other, right?"
+  },
+  {
+   "start": 1149.7,
+   "end": 1161.32,
+   "text": "So, I bought the splicer today to put on my back, um, my north-facing, um, drawers, um, because I drilled a hole for a cable, HDMI cable, to go through there to put my camera in the bathroom."
+  },
+  {
+   "start": 1161.54,
+   "end": 1176.54,
+   "text": "So, if I want to film myself in the bathroom, I just hit, like, um, like, port four on my ATEM, or whatever it is, for, for the cable that goes out to the south, for the bathroom and, um, and north-facing one shirt."
+  },
+  {
+   "start": 1176.54,
+   "end": 1180.41,
+   "text": "I call it the behind video shirt."
+  },
+  {
+   "start": 1180.63,
+   "end": 1183.71,
+   "text": "And so, if I want to do bathroom, I just make sure the light for the bathroom is on."
+  },
+  {
+   "start": 1183.79,
+   "end": 1190.29,
+   "text": "And if I want to do, make the video for the, uh, the behind me shot, I just push the button, and it makes it the behind me shot."
+  },
+  {
+   "start": 1190.67,
+   "end": 1191.79,
+   "text": "Same thing with the computer."
+  },
+  {
+   "start": 1191.95,
+   "end": 1204.76,
+   "text": "If I have a computer, and, um, if I have a computer and a video camera, you know, like one of the other video cameras that I'm not using, share one."
+  },
+  {
+   "start": 1204.76,
+   "end": 1219.82,
+   "text": "And then when I'm talking on the computer, um, or when I'm using the computer to, like, be able to show a video of what I'm doing on the computer, screenshot of the computer, um, I just make sure the light connected to the computer is on."
+  },
+  {
+   "start": 1219.82,
+   "end": 1224.26,
+   "text": "And then if I go out to go, go work out, I don't need the computer anymore."
+  },
+  {
+   "start": 1224.84,
+   "end": 1231.1,
+   "text": "So I just hit the button, and now it's piped to the video camera that I'm going to use, like, to, to film myself work out."
+  },
+  {
+   "start": 1232.08,
+   "end": 1233.82,
+   "text": "And so, um, I hope that works."
+  },
+  {
+   "start": 1234.02,
+   "end": 1238.28,
+   "text": "And, um, I'll find out, like, like, all my stuff's going to come, like, tomorrow."
+  },
+  {
+   "start": 1238.38,
+   "end": 1240.74,
+   "text": "I ordered, yeah, because I had to order three of those."
+  },
+  {
+   "start": 1240.74,
+   "end": 1247.28,
+   "text": "Because I was going to use two for the front where my bike is, and then one for the, two in the back for the two cameras."
+  },
+  {
+   "start": 1248.56,
+   "end": 1264.48,
+   "text": "And, um, so, so now that I'm going to have both of my computers piping their screen captures in, I can just, um, because I have an advantage over everybody else in that I have a website."
+  },
+  {
+   "start": 1264.48,
+   "end": 1279.24,
+   "text": "And I, so I've already built all the stuff that I want to display, that I would ever want to display on the lower third graphic exactly how I would want it to look."
+  },
+  {
+   "start": 1279.68,
+   "end": 1282.42,
+   "text": "And it's all, like, what's the word, vectorized?"
+  },
+  {
+   "start": 1283.36,
+   "end": 1284.72,
+   "text": "That's how a website is."
+  },
+  {
+   "start": 1284.8,
+   "end": 1288.06,
+   "text": "So, like, when you zoom it in, it looks the same quality."
+  },
+  {
+   "start": 1288.78,
+   "end": 1290.32,
+   "text": "It's still as crispy as perfect."
+  },
+  {
+   "start": 1290.32,
+   "end": 1297.2,
+   "text": "So, so what I, what I had the idea to do is, um, when I have the lower third here with the information."
+  },
+  {
+   "start": 1297.2,
+   "end": 1300.7,
+   "text": "And I came up with how I wanted it to look before I even remembered that I had it on my website."
+  },
+  {
+   "start": 1300.8,
+   "end": 1301.22,
+   "text": "It looks the same."
+  },
+  {
+   "start": 1301.44,
+   "end": 1307.78,
+   "text": "So, exercise, um, um, weight, and then my max reps of what I've done."
+  },
+  {
+   "start": 1309.04,
+   "end": 1315.28,
+   "text": "And so, instead of making the graphic, what I do is I just dedicate that area to be piped in from one of my computers."
+  },
+  {
+   "start": 1315.28,
+   "end": 1319.2,
+   "text": "And then I just, so then I just grab the computer."
+  },
+  {
+   "start": 1319.7,
+   "end": 1321.7,
+   "text": "I just grab the mouse for that computer."
+  },
+  {
+   "start": 1323.36,
+   "end": 1325.28,
+   "text": "And I have a screen for that computer."
+  },
+  {
+   "start": 1326.92,
+   "end": 1328.9,
+   "text": "Um, you know, I'm looking at the screen."
+  },
+  {
+   "start": 1329.2,
+   "end": 1334.34,
+   "text": "I can have both, I actually right now have it where I can only see the screen of one computer."
+  },
+  {
+   "start": 1334.34,
+   "end": 1339.5,
+   "text": "So, I might have to go and see if there's any way at all to be able to have another screen."
+  },
+  {
+   "start": 1339.96,
+   "end": 1341.44,
+   "text": "But I do have three screens."
+  },
+  {
+   "start": 1342.06,
+   "end": 1345.68,
+   "text": "Because I said yesterday I bought a screen specifically for my HyperDeck."
+  },
+  {
+   "start": 1346.92,
+   "end": 1359.95,
+   "text": "But, um, but, uh, um, so, um, but I, right now I can at least use one computer."
+  },
+  {
+   "start": 1360.05,
+   "end": 1362.01,
+   "text": "So, I'm looking at my computer, which is right here to my right."
+  },
+  {
+   "start": 1362.01,
+   "end": 1369.19,
+   "text": "And all I do is, um, is go to that part of the page."
+  },
+  {
+   "start": 1369.27,
+   "end": 1374.73,
+   "text": "And then I just zoom into the page so that that part of the page covers that area."
+  },
+  {
+   "start": 1374.99,
+   "end": 1376.37,
+   "text": "And that's my lower third."
+  },
+  {
+   "start": 1376.69,
+   "end": 1380.39,
+   "text": "I just do a screenshot of my website."
+  },
+  {
+   "start": 1383.51,
+   "end": 1385.43,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 1386.11,
+   "end": 1389.91,
+   "text": "No, I haven't, like, completely figured out through my head, like, how I would make that work."
+  },
+  {
+   "start": 1389.91,
+   "end": 1392.03,
+   "text": "Because now I'm thinking, well, how do you find it if it's a tiny hole?"
+  },
+  {
+   "start": 1393.11,
+   "end": 1396.27,
+   "text": "Um, I would do, I would actually show it big on the screen first."
+  },
+  {
+   "start": 1397.89,
+   "end": 1400.51,
+   "text": "And then I would make sure that, I guess, that's in the middle."
+  },
+  {
+   "start": 1400.59,
+   "end": 1401.59,
+   "text": "And then I would zoom it up."
+  },
+  {
+   "start": 1401.71,
+   "end": 1404.09,
+   "text": "And then I would make it, yeah, I'd show the screen."
+  },
+  {
+   "start": 1405.03,
+   "end": 1409.17,
+   "text": "You know, because I'm showing where it is on my site and everything, what it is, what I'm doing."
+  },
+  {
+   "start": 1409.77,
+   "end": 1416.65,
+   "text": "And then I'd push the button where it just shows the, the screen of my video, of my computer is only the screenshot of the lower third."
+  },
+  {
+   "start": 1416.65,
+   "end": 1420.77,
+   "text": "And because I'm looking at it in the middle, I know where it would be."
+  },
+  {
+   "start": 1420.93,
+   "end": 1423.93,
+   "text": "So then I would just drag it and fit it, like, really quickly."
+  },
+  {
+   "start": 1424.43,
+   "end": 1426.83,
+   "text": "And then it would just fit right there and just leave it."
+  },
+  {
+   "start": 1427.87,
+   "end": 1435.05,
+   "text": "And, um, and, uh, and, yeah."
+  },
+  {
+   "start": 1435.19,
+   "end": 1439.41,
+   "text": "And for, like, a lot, other different web exercises, it would be easy to transition."
+  },
+  {
+   "start": 1439.41,
+   "end": 1443.43,
+   "text": "Because then you just move out to do this whole screen, find the other one, and then zoom it in again, yeah."
+  },
+  {
+   "start": 1444.85,
+   "end": 1451.51,
+   "text": "So, um, so I'd never actually have to bother making graphics for lower thirds for, for my exercises."
+  },
+  {
+   "start": 1452.59,
+   "end": 1460.05,
+   "text": "And, um, um, but I would use After Effects to make the, like, a little intro."
+  },
+  {
+   "start": 1460.87,
+   "end": 1466.41,
+   "text": "Like, when I'm going into a new thing, like, like, I just got done vlogging, because I'll talk about my idea."
+  },
+  {
+   "start": 1466.83,
+   "end": 1469.81,
+   "text": "Like, I get up and I talk about one thing, like, vlogging about my dream, whatever."
+  },
+  {
+   "start": 1469.91,
+   "end": 1471.71,
+   "text": "And then I'm like, okay, so now it's time to work out."
+  },
+  {
+   "start": 1472.09,
+   "end": 1472.79,
+   "text": "Let's do dumbbells."
+  },
+  {
+   "start": 1472.79,
+   "end": 1475.73,
+   "text": "So then I just push the dumbbell button, and then it's, like, the little intro for dumbbells."
+  },
+  {
+   "start": 1476.03,
+   "end": 1479.11,
+   "text": "Like, people have intros for, uh, video for their YouTube channels."
+  },
+  {
+   "start": 1479.59,
+   "end": 1482.57,
+   "text": "And, of course, I'll use After Effects to make intro for my YouTube channel."
+  },
+  {
+   "start": 1482.57,
+   "end": 1485.45,
+   "text": "Like, some kind of intro thing, you know, because that's 3D and all that."
+  },
+  {
+   "start": 1485.45,
+   "end": 1493.11,
+   "text": "And, um, yeah, so all kinds of transitions and intros, that's what I'll use After Effects video animation for."
+  },
+  {
+   "start": 1494.15,
+   "end": 1501.37,
+   "text": "But lower thirds information, like, showing, like, what's going on, that's just screen capture from my website."
+  },
+  {
+   "start": 1501.83,
+   "end": 1503.79,
+   "text": "So that saves, like, all that."
+  },
+  {
+   "start": 1503.89,
+   "end": 1507.43,
+   "text": "I don't have to make all of that worry about any of that."
+  },
+  {
+   "start": 1507.95,
+   "end": 1508.83,
+   "text": "Saves a lot of times."
+  },
+  {
+   "start": 1508.93,
+   "end": 1513.91,
+   "text": "Then all I have to do is do the, uh, the graphics, which is fun anyway, a lot more fun, a lot less tedious."
+  },
+  {
+   "start": 1513.91,
+   "end": 1522.33,
+   "text": "So, um, so, uh, yeah, so then I was making these, um, storyboards."
+  },
+  {
+   "start": 1523.83,
+   "end": 1529.29,
+   "text": "And, uh, I did, so I just showed, um, exercise, uh, lifting."
+  },
+  {
+   "start": 1530.55,
+   "end": 1533.57,
+   "text": "And I figured out how I wanted lifting to be, and I figured that was cool."
+  },
+  {
+   "start": 1533.71,
+   "end": 1534.87,
+   "text": "That looked cool for lifting."
+  },
+  {
+   "start": 1534.99,
+   "end": 1536.01,
+   "text": "That's the main thing that I'm doing."
+  },
+  {
+   "start": 1536.05,
+   "end": 1538.03,
+   "text": "But there's other sports that I'm going to do in my room."
+  },
+  {
+   "start": 1538.03,
+   "end": 1540.45,
+   "text": "Um, like, rowing."
+  },
+  {
+   "start": 1541.59,
+   "end": 1545.82,
+   "text": "Um, I have a rowing machine in my room."
+  },
+  {
+   "start": 1546.06,
+   "end": 1547.86,
+   "text": "So then that's the intro to rowing."
+  },
+  {
+   "start": 1548.02,
+   "end": 1551.7,
+   "text": "You know, remember, the intro to lifting was the bar, the dumbbells floating to the top."
+  },
+  {
+   "start": 1552.2,
+   "end": 1555.58,
+   "text": "If I'm doing dumbbells and then barbells, it would be barbells floating to the top."
+  },
+  {
+   "start": 1555.62,
+   "end": 1557.46,
+   "text": "And I haven't actually, I need to do that now."
+  },
+  {
+   "start": 1557.52,
+   "end": 1558.06,
+   "text": "I didn't do it yet."
+  },
+  {
+   "start": 1558.06,
+   "end": 1564.92,
+   "text": "But the intro for, uh, body weight exercises, it'll be like, like an, an, an animation."
+  },
+  {
+   "start": 1565.0,
+   "end": 1571.42,
+   "text": "If I could, if I could make that easily enough and maybe find one, find one, but an animation"
+  },
+  {
+   "start": 1571.42,
+   "end": 1576.86,
+   "text": "Is somebody doing pull-ups, just like a cartoon or maybe a video of me doing pull-ups is what"
+  },
+  {
+   "start": 1576.86,
+   "end": 1578.72,
+   "text": "Would be the, the intro to that."
+  },
+  {
+   "start": 1578.72,
+   "end": 1587.6,
+   "text": "But, um, but rowing would be a graphic of somebody rowing, of water, and then somebody"
+  },
+  {
+   "start": 1587.6,
+   "end": 1591.86,
+   "text": "Rowing across with the sun on the up, or left, and the, uh, cloud on the upper right."
+  },
+  {
+   "start": 1592.5,
+   "end": 1595.22,
+   "text": "And that's on there for like five seconds, and then it goes away."
+  },
+  {
+   "start": 1595.22,
+   "end": 1603.04,
+   "text": "And then it gets replaced by the, by my, um, by my screen capture of, like, my rowing stat."
+  },
+  {
+   "start": 1603.96,
+   "end": 1607.14,
+   "text": "Because then that would, the little lower third of the screen capture would be there."
+  },
+  {
+   "start": 1607.14,
+   "end": 1612.7,
+   "text": "And I have the, um, the, uh, the outline, like for the lifting, which I can't find."
+  },
+  {
+   "start": 1612.82,
+   "end": 1616.14,
+   "text": "The outline was orange, because lifting is number two on my website."
+  },
+  {
+   "start": 1616.58,
+   "end": 1618.34,
+   "text": "And rowing is like number six."
+  },
+  {
+   "start": 1618.84,
+   "end": 1620.6,
+   "text": "And the color for six is green."
+  },
+  {
+   "start": 1621.12,
+   "end": 1625.14,
+   "text": "So I decided to put a, um, a border that's green around for rowing."
+  },
+  {
+   "start": 1625.4,
+   "end": 1626.92,
+   "text": "And then swimming looks like that."
+  },
+  {
+   "start": 1626.98,
+   "end": 1629.88,
+   "text": "It's more water, three times more water."
+  },
+  {
+   "start": 1629.94,
+   "end": 1632.34,
+   "text": "You have the waves, and they're all going to be like moving and shimmering."
+  },
+  {
+   "start": 1632.34,
+   "end": 1637.98,
+   "text": "And then a person in the water with their arms wiggling with the sun up there on the,"
+  },
+  {
+   "start": 1637.98,
+   "end": 1640.98,
+   "text": "On the other side, the opposite side, and the clouds on the opposite side."
+  },
+  {
+   "start": 1641.24,
+   "end": 1643.18,
+   "text": "But it's the same sun and cloud icon."
+  },
+  {
+   "start": 1643.36,
+   "end": 1645.22,
+   "text": "So it's going to be like time-saving to build."
+  },
+  {
+   "start": 1646.02,
+   "end": 1648.92,
+   "text": "And then running is just a person just gliding."
+  },
+  {
+   "start": 1649.08,
+   "end": 1651.72,
+   "text": "Just a picture of that person just gliding across the screen."
+  },
+  {
+   "start": 1651.82,
+   "end": 1652.22,
+   "text": "Not running."
+  },
+  {
+   "start": 1652.28,
+   "end": 1653.64,
+   "text": "I'm not going to make an animation running."
+  },
+  {
+   "start": 1654.26,
+   "end": 1655.76,
+   "text": "But maybe when I have time later on, I will."
+  },
+  {
+   "start": 1655.86,
+   "end": 1658.18,
+   "text": "But yeah, just a simple drawing like that, gliding."
+  },
+  {
+   "start": 1658.18,
+   "end": 1661.94,
+   "text": "And then one little mountain, simple mountain like that on the lower right,"
+  },
+  {
+   "start": 1662.02,
+   "end": 1664.42,
+   "text": "One on the lower left, and then clouds upper right, upper left,"
+  },
+  {
+   "start": 1664.46,
+   "end": 1665.24,
+   "text": "And then a sun in the middle."
+  },
+  {
+   "start": 1665.38,
+   "end": 1666.44,
+   "text": "So they all look different."
+  },
+  {
+   "start": 1667.44,
+   "end": 1668.16,
+   "text": "And so I would hit that."
+  },
+  {
+   "start": 1668.22,
+   "end": 1669.32,
+   "text": "That'd be on there for a little bit."
+  },
+  {
+   "start": 1669.4,
+   "end": 1670.6,
+   "text": "And then I would go and do the machine."
+  },
+  {
+   "start": 1670.66,
+   "end": 1673.44,
+   "text": "Because I have the swimming machine in my room and the treadmill in my room."
+  },
+  {
+   "start": 1674.1,
+   "end": 1679.3,
+   "text": "So then you would do lower thirds with like my best time and like what I'm trying to do now."
+  },
+  {
+   "start": 1679.48,
+   "end": 1684.66,
+   "text": "And I can use my voice-activated lifting app for, not just for lifting,"
+  },
+  {
+   "start": 1684.84,
+   "end": 1686.86,
+   "text": "But for like intervals too, for like running intervals."
+  },
+  {
+   "start": 1686.86,
+   "end": 1691.88,
+   "text": "Like if I say three sets of 30 seconds, you know, not three sets of 20 reps,"
+  },
+  {
+   "start": 1691.96,
+   "end": 1697.96,
+   "text": "But three sets of 30 seconds, it'll go, okay, first set, one, two, three, four, five, 30."
+  },
+  {
+   "start": 1699.22,
+   "end": 1702.3,
+   "text": "Wait, 30 seconds, one, two, three, four, five, six, seven, 30."
+  },
+  {
+   "start": 1702.42,
+   "end": 1705.44,
+   "text": "Okay, now second set, 30 seconds, one, two, three, four."
+  },
+  {
+   "start": 1705.56,
+   "end": 1707.04,
+   "text": "And it's like here telling me."
+  },
+  {
+   "start": 1707.64,
+   "end": 1710.16,
+   "text": "And so I'm following it."
+  },
+  {
+   "start": 1710.38,
+   "end": 1715.82,
+   "text": "And you can even have the screen of it in front of the video with the holder."
+  },
+  {
+   "start": 1716.86,
+   "end": 1725.2,
+   "text": "Because I'm going to have one holder clamp that holds gooseneck or whatever that clamps it to the TV."
+  },
+  {
+   "start": 1725.38,
+   "end": 1729.44,
+   "text": "And then it goes and holds it, just places it in front of the video camera."
+  },
+  {
+   "start": 1729.82,
+   "end": 1732.4,
+   "text": "But then there's another one that we're going to work like that when I'm talking."
+  },
+  {
+   "start": 1733.06,
+   "end": 1737.94,
+   "text": "It clamps to the top of my table and then comes down and shows up just this side of the camera."
+  },
+  {
+   "start": 1737.94,
+   "end": 1740.16,
+   "text": "For when I want to do intervals on my bike."
+  },
+  {
+   "start": 1740.64,
+   "end": 1742.28,
+   "text": "So I go, okay, intervals on the bike."
+  },
+  {
+   "start": 1742.36,
+   "end": 1744.16,
+   "text": "And then it goes, okay, one minute, one minute, two."
+  },
+  {
+   "start": 1744.32,
+   "end": 1746.42,
+   "text": "And I'm here writing and it's all counting out loud."
+  },
+  {
+   "start": 1746.5,
+   "end": 1747.74,
+   "text": "I don't even have to have my eyes open."
+  },
+  {
+   "start": 1748.24,
+   "end": 1750.64,
+   "text": "Just close my eyes while the thing's talking to me."
+  },
+  {
+   "start": 1750.64,
+   "end": 1754.76,
+   "text": "And, or I could just be having it listening to on my phone."
+  },
+  {
+   "start": 1755.32,
+   "end": 1762.66,
+   "text": "So it doesn't really, like the viewers don't hear it, hear the person counting."
+  },
+  {
+   "start": 1762.98,
+   "end": 1763.76,
+   "text": "But I do."
+  },
+  {
+   "start": 1763.86,
+   "end": 1765.06,
+   "text": "So I don't have to have my head up."
+  },
+  {
+   "start": 1765.14,
+   "end": 1767.12,
+   "text": "I can just close my eyes and be listening to it."
+  },
+  {
+   "start": 1767.38,
+   "end": 1773.52,
+   "text": "But the viewers of the video can see it being counted down with the numbers visually."
+  },
+  {
+   "start": 1773.52,
+   "end": 1776.9,
+   "text": "Because my little arm comes down and holds the camera in front."
+  },
+  {
+   "start": 1778.18,
+   "end": 1781.48,
+   "text": "Which isn't really in my way, you know, if I'm not watching TV."
+  },
+  {
+   "start": 1782.68,
+   "end": 1794.32,
+   "text": "So, um, um, um, oh, I can also use those little switchers."
+  },
+  {
+   "start": 1794.4,
+   "end": 1795.68,
+   "text": "I need to buy two more switchers then."
+  },
+  {
+   "start": 1796.36,
+   "end": 1802.16,
+   "text": "So that I can switch, um, inputs to, outputs, um, for the monitors."
+  },
+  {
+   "start": 1802.4,
+   "end": 1806.1,
+   "text": "So if I want to, like, use the monitor hooked up to my computer."
+  },
+  {
+   "start": 1806.1,
+   "end": 1808.76,
+   "text": "So I can watch stuff from the one in front of me."
+  },
+  {
+   "start": 1808.9,
+   "end": 1810.86,
+   "text": "I didn't, I just didn't thought about that until now."
+  },
+  {
+   "start": 1811.58,
+   "end": 1814.18,
+   "text": "Probably order the more things after I set this up."
+  },
+  {
+   "start": 1814.42,
+   "end": 1817.32,
+   "text": "But, um, um, to make sure that it works."
+  },
+  {
+   "start": 1818.24,
+   "end": 1829.94,
+   "text": "But, um, um, so, um, that is, uh, uh, a way."
+  },
+  {
+   "start": 1829.94,
+   "end": 1836.72,
+   "text": "So that's the design of what I did for all of the different exercises."
+  },
+  {
+   "start": 1838.98,
+   "end": 1842.54,
+   "text": "Um, oh, and I even, um, like the, the outlines."
+  },
+  {
+   "start": 1843.44,
+   "end": 1850.52,
+   "text": "Like for rowing, I had the outlines as like big, big waves kind of undulating forward."
+  },
+  {
+   "start": 1850.52,
+   "end": 1854.76,
+   "text": "Because I was getting ambitious after I saw that kid and showing what you can do."
+  },
+  {
+   "start": 1854.84,
+   "end": 1855.42,
+   "text": "I'm like, wait, what?"
+  },
+  {
+   "start": 1855.48,
+   "end": 1856.0,
+   "text": "You can do this?"
+  },
+  {
+   "start": 1856.1,
+   "end": 1859.62,
+   "text": "And then I was like, okay, well, let's get a little bit ambitious."
+  },
+  {
+   "start": 1859.98,
+   "end": 1864.46,
+   "text": "So yeah, swimming is like waves move, just moving forward."
+  },
+  {
+   "start": 1864.46,
+   "end": 1867.8,
+   "text": "And it's all color coded because swimming is, is, is the fourth, which is dark yellow."
+  },
+  {
+   "start": 1868.38,
+   "end": 1871.2,
+   "text": "And then running is just bouncing the outline, bouncing."
+  },
+  {
+   "start": 1871.2,
+   "end": 1878.52,
+   "text": "And then lifting is the outline, like rising, like undulations rising, like it's, like it's bubbling up."
+  },
+  {
+   "start": 1878.84,
+   "end": 1880.9,
+   "text": "And then fighting would be vibrating."
+  },
+  {
+   "start": 1881.5,
+   "end": 1883.46,
+   "text": "And it's number one pink, vibrating."
+  },
+  {
+   "start": 1884.3,
+   "end": 1885.54,
+   "text": "And, uh, yeah."
+  },
+  {
+   "start": 1887.08,
+   "end": 1891.98,
+   "text": "And, um, and, uh, yeah, so here's the lifting."
+  },
+  {
+   "start": 1892.06,
+   "end": 1894.1,
+   "text": "Here's the first one because it's the second one after fighting."
+  },
+  {
+   "start": 1894.18,
+   "end": 1900.34,
+   "text": "So it has the, the border that's orange and it's, um, it's going to be like undulating looking like it's coming up."
+  },
+  {
+   "start": 1901.2,
+   "end": 1908.36,
+   "text": "And then, um, kayaking is pointing forward, pointing waves forward."
+  },
+  {
+   "start": 1908.62,
+   "end": 1910.88,
+   "text": "And that's green, dark green."
+  },
+  {
+   "start": 1910.94,
+   "end": 1911.8,
+   "text": "Cause it's number six."
+  },
+  {
+   "start": 1911.96,
+   "end": 1918.42,
+   "text": "I included kayaking, like, like river kayaking, not river down the river, like sea kayaking on a, on a lake, lake kayaking."
+  },
+  {
+   "start": 1919.12,
+   "end": 1924.9,
+   "text": "If you ever want to, that's a good way to get, get exercise, um, upper body exercise outdoors."
+  },
+  {
+   "start": 1924.9,
+   "end": 1929.02,
+   "text": "But I'm including all of these different sports because they're historical sports."
+  },
+  {
+   "start": 1929.02,
+   "end": 1932.72,
+   "text": "Fighting is number one because it's the first sport that we did, fighting."
+  },
+  {
+   "start": 1932.88,
+   "end": 1933.9,
+   "text": "Second one would be running."
+  },
+  {
+   "start": 1934.44,
+   "end": 1935.16,
+   "text": "I mean lifting."
+  },
+  {
+   "start": 1936.06,
+   "end": 1940.48,
+   "text": "Cause, um, you were, tried to lift things in order to get stuff done."
+  },
+  {
+   "start": 1941.3,
+   "end": 1943.72,
+   "text": "And then, uh, three was running."
+  },
+  {
+   "start": 1944.48,
+   "end": 1946.8,
+   "text": "Maybe running would be the first, most important one."
+  },
+  {
+   "start": 1946.9,
+   "end": 1949.72,
+   "text": "But, um, fighting is like more social."
+  },
+  {
+   "start": 1949.72,
+   "end": 1957.66,
+   "text": "And, um, so it's like, um, and then, uh, so, and then fourth was swimming."
+  },
+  {
+   "start": 1958.84,
+   "end": 1962.6,
+   "text": "And then fifth was like, um, I can't remember."
+  },
+  {
+   "start": 1962.72,
+   "end": 1967.16,
+   "text": "I threw it down there, but in order of like most primal activity to lease."
+  },
+  {
+   "start": 1967.24,
+   "end": 1970.06,
+   "text": "And so kayaking is, is like historic."
+  },
+  {
+   "start": 1970.18,
+   "end": 1971.44,
+   "text": "Oh, and roning is historic."
+  },
+  {
+   "start": 1971.72,
+   "end": 1972.48,
+   "text": "Rowing is historic."
+  },
+  {
+   "start": 1972.48,
+   "end": 1976.54,
+   "text": "Cause the Greeks and everybody since the beginning of time, we wrote same thing with kayaking historic."
+  },
+  {
+   "start": 1976.68,
+   "end": 1978.78,
+   "text": "We've been, been in the beginning of time done that as well."
+  },
+  {
+   "start": 1979.02,
+   "end": 1981.02,
+   "text": "And then biking is, is the most recent."
+  },
+  {
+   "start": 1981.12,
+   "end": 1984.1,
+   "text": "So that's why it's the last one, but it's the most popular and best sports."
+  },
+  {
+   "start": 1984.34,
+   "end": 1986.72,
+   "text": "So, um, that's why it's number seven."
+  },
+  {
+   "start": 1986.8,
+   "end": 1992.64,
+   "text": "But, um, with this and the, and it has like spinning circles inside little spinning circles that are spinning forward."
+  },
+  {
+   "start": 1994.22,
+   "end": 1998.98,
+   "text": "So, um, that's the outline that I'm going to do for my exercise videos,"
+  },
+  {
+   "start": 1998.98,
+   "end": 2001.0,
+   "text": "But I'm not going to have an outline for anything else."
+  },
+  {
+   "start": 2001.7,
+   "end": 2006.72,
+   "text": "So like, if I'm doing talking videos about stuff, it's not like I have another color that means talking."
+  },
+  {
+   "start": 2006.82,
+   "end": 2009.92,
+   "text": "Cause like, I used up all the outline stuff you can do with the sports."
+  },
+  {
+   "start": 2010.04,
+   "end": 2012.84,
+   "text": "So I might as well, um, not bother."
+  },
+  {
+   "start": 2013.6,
+   "end": 2018.6,
+   "text": "Um, so then the next thing was, um, right, here it is."
+  },
+  {
+   "start": 2020.18,
+   "end": 2024.57,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 2025.01,
+   "end": 2031.47,
+   "text": "Um, so, uh, I, I explained running was with the dude going across."
+  },
+  {
+   "start": 2031.47,
+   "end": 2037.15,
+   "text": "And then fighting is like an image of a guy's leg moving maybe and hitting that thing."
+  },
+  {
+   "start": 2038.83,
+   "end": 2042.79,
+   "text": "And, you know, it comes in and then, and then like these different things would come in, by the way,"
+  },
+  {
+   "start": 2042.85,
+   "end": 2047.35,
+   "text": "Like they don't just appear like the clouds would come in from the sides first."
+  },
+  {
+   "start": 2047.35,
+   "end": 2049.63,
+   "text": "And then, and then the guy would slide a claras."
+  },
+  {
+   "start": 2050.11,
+   "end": 2057.53,
+   "text": "So that like the, the, uh, border appears and then the guy slides in and then this like falls in from here."
+  },
+  {
+   "start": 2058.27,
+   "end": 2062.05,
+   "text": "You know, same thing with this is all kind of the pieces come together and then they show,"
+  },
+  {
+   "start": 2062.15,
+   "end": 2063.85,
+   "text": "And then they wiggle around to their animation."
+  },
+  {
+   "start": 2064.45,
+   "end": 2065.87,
+   "text": "The guy goes across the screen."
+  },
+  {
+   "start": 2065.87,
+   "end": 2073.15,
+   "text": "So, um, because I like the idea of stuff coming in like this and it's easy, you know, and quick to do that."
+  },
+  {
+   "start": 2073.91,
+   "end": 2077.45,
+   "text": "So, um, oh, and actually I, I quit the video."
+  },
+  {
+   "start": 2077.57,
+   "end": 2081.75,
+   "text": "I can't see right now, but it was when he was doing all the demos of all the things."
+  },
+  {
+   "start": 2082.11,
+   "end": 2083.93,
+   "text": "So I'm going to try in my transitions."
+  },
+  {
+   "start": 2084.13,
+   "end": 2088.05,
+   "text": "I want to use as many of the pre demoed ones, you know, like the way stuff comes in and stuff."
+  },
+  {
+   "start": 2088.05,
+   "end": 2093.61,
+   "text": "Um, cause my idea is that I make the storyboard and then I watch the tutorial."
+  },
+  {
+   "start": 2093.69,
+   "end": 2095.95,
+   "text": "Like I watched a little bit of the tutorial until I saw what to do,"
+  },
+  {
+   "start": 2095.99,
+   "end": 2099.33,
+   "text": "But then I wanted to make the storyboard as early as possible so that I could, um,"
+  },
+  {
+   "start": 2099.79,
+   "end": 2105.51,
+   "text": "Watch the tutorial and then be, know what I want to do when I'm watching the tutorial."
+  },
+  {
+   "start": 2105.51,
+   "end": 2108.03,
+   "text": "So I can pay more attention and know what I'm looking for."
+  },
+  {
+   "start": 2108.21,
+   "end": 2112.59,
+   "text": "And then when I'm done with the tutorial, I go back to the storyboard and then I see what I want to,"
+  },
+  {
+   "start": 2113.07,
+   "end": 2116.07,
+   "text": "You know, what I can do and what I know how to do and can do and get more ideas."
+  },
+  {
+   "start": 2116.07,
+   "end": 2126.9,
+   "text": "So, um, so then that was what I was going to do for the, um, um, um, um, yeah."
+  },
+  {
+   "start": 2126.92,
+   "end": 2129.58,
+   "text": "Cause I could actually, cause I haven't completely thought it through."
+  },
+  {
+   "start": 2129.58,
+   "end": 2130.9,
+   "text": "Cause I was going to do music."
+  },
+  {
+   "start": 2130.9,
+   "end": 2133.98,
+   "text": "There was a music section that I was going to think about actually afforded the video"
+  },
+  {
+   "start": 2133.98,
+   "end": 2138.84,
+   "text": "Within the video, but, um, I can do it cause I sing a lot of songs just in my head"
+  },
+  {
+   "start": 2138.84,
+   "end": 2141.18,
+   "text": "And they have a lot of like, uh, consistent lyrics."
+  },
+  {
+   "start": 2141.44,
+   "end": 2146.9,
+   "text": "And so I can actually have the lyrics come in as I'm singing with this little tool that they have."
+  },
+  {
+   "start": 2147.32,
+   "end": 2152.48,
+   "text": "Um, because the songs that I naturally sing all the time anyway, the fricking lyrics are all the same."
+  },
+  {
+   "start": 2152.54,
+   "end": 2153.76,
+   "text": "So I'm like, Oh, I'm singing that song again."
+  },
+  {
+   "start": 2153.8,
+   "end": 2153.98,
+   "text": "Okay."
+  },
+  {
+   "start": 2154.12,
+   "end": 2155.74,
+   "text": "And then it comes in."
+  },
+  {
+   "start": 2155.8,
+   "end": 2156.7,
+   "text": "That'd be really cool."
+  },
+  {
+   "start": 2157.08,
+   "end": 2160.68,
+   "text": "And then even the music and then the music would cue at certain times."
+  },
+  {
+   "start": 2160.68,
+   "end": 2165.1,
+   "text": "I mean, I could do some like live stream music videos and singing."
+  },
+  {
+   "start": 2165.22,
+   "end": 2166.64,
+   "text": "It's really silly songs."
+  },
+  {
+   "start": 2166.64,
+   "end": 2171.0,
+   "text": "Um, but it's stuff that I naturally sing."
+  },
+  {
+   "start": 2171.0,
+   "end": 2174.68,
+   "text": "So, um, so yeah."
+  },
+  {
+   "start": 2174.68,
+   "end": 2177.9,
+   "text": "So that was basically the idea of what I'm going to do with my exercise show."
+  },
+  {
+   "start": 2179.38,
+   "end": 2184.34,
+   "text": "Um, you know, and like when I'm doing the exercises, like, like I have the camera from"
+  },
+  {
+   "start": 2184.34,
+   "end": 2188.7,
+   "text": "The top filming me doing with the camera in front, doing it here, but then I have the"
+  },
+  {
+   "start": 2188.7,
+   "end": 2189.62,
+   "text": "Camera in front there."
+  },
+  {
+   "start": 2189.62,
+   "end": 2195.1,
+   "text": "If I, and my, maybe even I'll have, cause I bought two of those different, um, um, phone"
+  },
+  {
+   "start": 2195.1,
+   "end": 2198.12,
+   "text": "Holders so that I don't have to keep bending it a different way."
+  },
+  {
+   "start": 2198.2,
+   "end": 2200.1,
+   "text": "Each one, I would just bend it how I want it."
+  },
+  {
+   "start": 2200.24,
+   "end": 2203.12,
+   "text": "And then I put it at the location that I use it."
+  },
+  {
+   "start": 2203.3,
+   "end": 2205.94,
+   "text": "And then if I want to use another one somewhere else, I just buy another one."
+  },
+  {
+   "start": 2205.98,
+   "end": 2207.36,
+   "text": "And then I would store it there and have it bent."
+  },
+  {
+   "start": 2207.42,
+   "end": 2209.22,
+   "text": "So I just take it off, clamp it, and then it's there."
+  },
+  {
+   "start": 2209.84,
+   "end": 2213.54,
+   "text": "And so I could put one here for when I film me working out from that side."
+  },
+  {
+   "start": 2213.54,
+   "end": 2215.64,
+   "text": "Cause there's an, there's a mirror in front of me."
+  },
+  {
+   "start": 2215.64,
+   "end": 2221.72,
+   "text": "So I could film me mirror, mirror, uh, film me like, and also a mirror of me."
+  },
+  {
+   "start": 2221.8,
+   "end": 2224.22,
+   "text": "And I'll just cool visual effect with the TV in the background."
+  },
+  {
+   "start": 2224.22,
+   "end": 2228.54,
+   "text": "If I want to show somebody else doing it, cause I have other people I try to work with"
+  },
+  {
+   "start": 2228.54,
+   "end": 2234.06,
+   "text": "And I, I can, uh, work out with, and I, uh, I can control it with my phone."
+  },
+  {
+   "start": 2234.16,
+   "end": 2236.08,
+   "text": "At least I figured out before, but I forgot."
+  },
+  {
+   "start": 2236.16,
+   "end": 2236.88,
+   "text": "I need to learn that tomorrow."
+  },
+  {
+   "start": 2237.44,
+   "end": 2241.04,
+   "text": "Then my camera over there that I can, then the behind camera for like when I film myself"
+  },
+  {
+   "start": 2241.04,
+   "end": 2244.92,
+   "text": "Writing, um, it, um,"
+  },
+  {
+   "start": 2245.64,
+   "end": 2249.86,
+   "text": "It, uh, oh man, I forgot what I was going to say."
+  },
+  {
+   "start": 2251.0,
+   "end": 2254.3,
+   "text": "Um, it can all work."
+  },
+  {
+   "start": 2254.66,
+   "end": 2255.02,
+   "text": "Yeah."
+  },
+  {
+   "start": 2255.24,
+   "end": 2255.8,
+   "text": "That way."
+  },
+  {
+   "start": 2257.16,
+   "end": 2260.58,
+   "text": "Um, so yeah, I figured out how I want to do my, oh yeah."
+  },
+  {
+   "start": 2260.58,
+   "end": 2264.38,
+   "text": "Cause I use different video cameras for my different exercises from my different machines."
+  },
+  {
+   "start": 2264.38,
+   "end": 2265.7,
+   "text": "So, and different angles."
+  },
+  {
+   "start": 2266.1,
+   "end": 2269.7,
+   "text": "And so, you know, I could even like, I was thinking about putting like a graphic, you know,"
+  },
+  {
+   "start": 2269.7,
+   "end": 2275.24,
+   "text": "Like if I have the camera pointing down from there of me rowing or swimming, like everything's"
+  },
+  {
+   "start": 2275.24,
+   "end": 2275.64,
+   "text": "Green."
+  },
+  {
+   "start": 2276.18,
+   "end": 2277.46,
+   "text": "So it'll just be showing me."
+  },
+  {
+   "start": 2277.46,
+   "end": 2279.0,
+   "text": "And so I can have a background of water."
+  },
+  {
+   "start": 2279.12,
+   "end": 2280.64,
+   "text": "So it looks like I'm swimming in a lake."
+  },
+  {
+   "start": 2281.06,
+   "end": 2285.48,
+   "text": "And then when I'm, when I'm rowing, I can put a graphic of water below me."
+  },
+  {
+   "start": 2285.48,
+   "end": 2288.86,
+   "text": "And then it looks like me rowing with the, with a graphic of a, and this is all with"
+  },
+  {
+   "start": 2288.86,
+   "end": 2294.9,
+   "text": "Like after effects of, of like a cartoon rowing boat or a picture of a rowing boat with me"
+  },
+  {
+   "start": 2294.9,
+   "end": 2295.16,
+   "text": "Rowing."
+  },
+  {
+   "start": 2295.22,
+   "end": 2298.42,
+   "text": "It looks like I'm rowing in the rowing boat in the water when I'm just rowing my rowing"
+  },
+  {
+   "start": 2298.42,
+   "end": 2298.74,
+   "text": "Machine."
+  },
+  {
+   "start": 2300.84,
+   "end": 2309.12,
+   "text": "And, um, oh, and another camera to film the data of my rowing machine and my, um, treadmill"
+  },
+  {
+   "start": 2309.12,
+   "end": 2310.5,
+   "text": "And my swimming machine."
+  },
+  {
+   "start": 2310.5,
+   "end": 2312.34,
+   "text": "Oh man, I just came up with that idea now."
+  },
+  {
+   "start": 2312.86,
+   "end": 2313.22,
+   "text": "Dang."
+  },
+  {
+   "start": 2314.28,
+   "end": 2315.64,
+   "text": "Cause I have the cameras."
+  },
+  {
+   "start": 2318.84,
+   "end": 2319.2,
+   "text": "Yeah."
+  },
+  {
+   "start": 2319.28,
+   "end": 2332.19,
+   "text": "I need to have like, uh, I need to have cameras filming the screens as I'm doing it."
+  },
+  {
+   "start": 2334.28,
+   "end": 2336.66,
+   "text": "So maybe I have to have like a free floating camera."
+  },
+  {
+   "start": 2336.76,
+   "end": 2338.12,
+   "text": "I'll have to figure that out later."
+  },
+  {
+   "start": 2338.24,
+   "end": 2343.86,
+   "text": "I wasn't even thinking of doing that, but now I'm like, yeah, maybe the zoom is good"
+  },
+  {
+   "start": 2343.86,
+   "end": 2349.88,
+   "text": "Enough that it could actually zoom in from like the edge of the, of the, of the room where"
+  },
+  {
+   "start": 2349.88,
+   "end": 2355.52,
+   "text": "It is, you know, up on the upper corner of the room, you just zoom it into the, to the"
+  },
+  {
+   "start": 2355.52,
+   "end": 2357.7,
+   "text": "Screen and it can actually read the screen."
+  },
+  {
+   "start": 2357.76,
+   "end": 2358.8,
+   "text": "I'm actually going to try that."
+  },
+  {
+   "start": 2359.28,
+   "end": 2360.6,
+   "text": "The camera's not working now."
+  },
+  {
+   "start": 2360.6,
+   "end": 2362.74,
+   "text": "Cause maybe I'll try it with that one."
+  },
+  {
+   "start": 2362.86,
+   "end": 2365.72,
+   "text": "Um, I feel like I can plug that one in my camera."
+  },
+  {
+   "start": 2365.72,
+   "end": 2371.04,
+   "text": "I was saying this before with my camera, like it wasn't charged right when you use it with"
+  },
+  {
+   "start": 2371.04,
+   "end": 2371.56,
+   "text": "The adapter."
+  },
+  {
+   "start": 2371.88,
+   "end": 2376.82,
+   "text": "And then I, so then I put it over and I went to my mom's house to get the strip and I plugged"
+  },
+  {
+   "start": 2376.82,
+   "end": 2377.06,
+   "text": "It in."
+  },
+  {
+   "start": 2377.12,
+   "end": 2381.14,
+   "text": "So it's using, it's plugged into the wall with it's like factory charger and, but it's"
+  },
+  {
+   "start": 2381.14,
+   "end": 2381.62,
+   "text": "Not working."
+  },
+  {
+   "start": 2381.62,
+   "end": 2385.04,
+   "text": "And it says that like, I have to replace the battery and I'm like, did I kill the, just"
+  },
+  {
+   "start": 2385.04,
+   "end": 2387.38,
+   "text": "From plugging it up for the day for killing it?"
+  },
+  {
+   "start": 2387.42,
+   "end": 2388.32,
+   "text": "Did I kill the battery?"
+  },
+  {
+   "start": 2389.2,
+   "end": 2390.6,
+   "text": "Do I have to buy a new battery?"
+  },
+  {
+   "start": 2390.7,
+   "end": 2391.28,
+   "text": "What the fuck?"
+  },
+  {
+   "start": 2391.32,
+   "end": 2392.2,
+   "text": "Like, how much is that?"
+  },
+  {
+   "start": 2393.24,
+   "end": 2396.62,
+   "text": "So hopefully it's charging tonight and it'll turn on tomorrow."
+  },
+  {
+   "start": 2397.86,
+   "end": 2398.92,
+   "text": "So that'd be a bummer."
+  },
+  {
+   "start": 2399.38,
+   "end": 2402.22,
+   "text": "Um, so, um, yeah."
+  },
+  {
+   "start": 2402.24,
+   "end": 2404.22,
+   "text": "And last night, actually my after effects wasn't working."
+  },
+  {
+   "start": 2404.22,
+   "end": 2406.94,
+   "text": "So I think I have to do something about that and I didn't fix it because I'm just still"
+  },
+  {
+   "start": 2406.94,
+   "end": 2408.0,
+   "text": "Watching the tutorial now."
+  },
+  {
+   "start": 2408.42,
+   "end": 2410.76,
+   "text": "Oh, I think the first thing I'll do is just uninstall, install it again."
+  },
+  {
+   "start": 2411.76,
+   "end": 2414.02,
+   "text": "Um, I saw some videos saying I had to fix it, but it was only with windows."
+  },
+  {
+   "start": 2414.68,
+   "end": 2421.32,
+   "text": "So, um, I, um, um, where was I?"
+  },
+  {
+   "start": 2422.48,
+   "end": 2428.36,
+   "text": "Um, yeah, so I, so I see, I figured out my exercise of the log video stuff."
+  },
+  {
+   "start": 2428.36,
+   "end": 2433.92,
+   "text": "Now this is, um, um, now for, um, the other videos."
+  },
+  {
+   "start": 2434.3,
+   "end": 2439.0,
+   "text": "Cause like, oh, well first let me talk about my idea, my general idea of my, the layout"
+  },
+  {
+   "start": 2439.0,
+   "end": 2439.52,
+   "text": "Of my show."
+  },
+  {
+   "start": 2439.58,
+   "end": 2441.08,
+   "text": "Cause this is what I was explaining to my mom today."
+  },
+  {
+   "start": 2441.86,
+   "end": 2445.76,
+   "text": "So like I was explaining to her, you know, if you want to be successful, you have to be"
+  },
+  {
+   "start": 2445.76,
+   "end": 2446.54,
+   "text": "Consistent."
+  },
+  {
+   "start": 2446.54,
+   "end": 2452.76,
+   "text": "You have to have a, an individual brand and you have to, um, you know, be prolific like"
+  },
+  {
+   "start": 2452.76,
+   "end": 2457.54,
+   "text": "Every day and have, have like a brand, like a routine that you do."
+  },
+  {
+   "start": 2457.62,
+   "end": 2461.36,
+   "text": "So you like, nothing's a surprise and everybody's like, Ooh, let's get that again every day."
+  },
+  {
+   "start": 2461.44,
+   "end": 2462.8,
+   "text": "It's the same, but different."
+  },
+  {
+   "start": 2462.94,
+   "end": 2470.68,
+   "text": "So what I do is, um, I get up and for a half hour, at least, or maybe even an hour, I was"
+  },
+  {
+   "start": 2470.68,
+   "end": 2473.66,
+   "text": "Telling my mom a half hour, but I get up and I have breakfast."
+  },
+  {
+   "start": 2473.9,
+   "end": 2474.3,
+   "text": "Okay."
+  },
+  {
+   "start": 2474.38,
+   "end": 2479.86,
+   "text": "Hopefully early in the morning, I pick it on breakfast and I listen to Apple news."
+  },
+  {
+   "start": 2479.86,
+   "end": 2483.02,
+   "text": "I, um, got Apple news."
+  },
+  {
+   "start": 2483.1,
+   "end": 2484.88,
+   "text": "I got the whole Apple packets, 30 bucks a month."
+  },
+  {
+   "start": 2484.94,
+   "end": 2489.08,
+   "text": "You can get, I guess I got a month for free, but Apple news, Apple music, Apple fitness,"
+  },
+  {
+   "start": 2489.18,
+   "end": 2492.36,
+   "text": "Um, and even Apple movies and for 30 bucks a month."
+  },
+  {
+   "start": 2492.44,
+   "end": 2494.46,
+   "text": "So, um, I love Apple music."
+  },
+  {
+   "start": 2494.46,
+   "end": 2498.82,
+   "text": "Just loaded up my phone with it and, uh, you can talk to it with your Siri and everything."
+  },
+  {
+   "start": 2498.82,
+   "end": 2499.26,
+   "text": "It's great."
+  },
+  {
+   "start": 2500.08,
+   "end": 2503.52,
+   "text": "Apple news is awesome because you can subscribe to all the different magazines and newspapers."
+  },
+  {
+   "start": 2503.76,
+   "end": 2508.5,
+   "text": "Um, and you read all the different story subjects, but you can, um, you can also do"
+  },
+  {
+   "start": 2508.5,
+   "end": 2511.14,
+   "text": "It with audio, huge audio selection every day."
+  },
+  {
+   "start": 2511.58,
+   "end": 2516.32,
+   "text": "So as I'm having breakfast, I listened to the news audio of whatever interests me."
+  },
+  {
+   "start": 2516.38,
+   "end": 2517.22,
+   "text": "Try to keep it."
+  },
+  {
+   "start": 2517.4,
+   "end": 2523.92,
+   "text": "Um, I try to keep it only to like science, technology, business, politics, but I don't"
+  },
+  {
+   "start": 2523.92,
+   "end": 2527.46,
+   "text": "Ever talk about like a media or entertainment, um, and gossip."
+  },
+  {
+   "start": 2527.46,
+   "end": 2536.28,
+   "text": "Um, and, um, so I listened to that and, and then I, after I eat, I stretch for like a half"
+  },
+  {
+   "start": 2536.28,
+   "end": 2536.54,
+   "text": "Hour."
+  },
+  {
+   "start": 2537.24,
+   "end": 2541.22,
+   "text": "So for like a half hour, at least I get my news update."
+  },
+  {
+   "start": 2541.94,
+   "end": 2544.46,
+   "text": "So then here's where my daily VLOG starts."
+  },
+  {
+   "start": 2544.52,
+   "end": 2547.98,
+   "text": "So I, then I go in front of the camera and I hit record, just the button, you don't have"
+  },
+  {
+   "start": 2547.98,
+   "end": 2548.8,
+   "text": "To turn on the computer."
+  },
+  {
+   "start": 2548.86,
+   "end": 2550.74,
+   "text": "You just hit record stream."
+  },
+  {
+   "start": 2550.74,
+   "end": 2554.32,
+   "text": "And then you can set up later and I'm, maybe I'll do it now, you know, if I have time"
+  },
+  {
+   "start": 2554.32,
+   "end": 2557.0,
+   "text": "To just do it all right at the beginning, but you can set up where you can stream to"
+  },
+  {
+   "start": 2557.0,
+   "end": 2559.18,
+   "text": "Like multiple platforms at once."
+  },
+  {
+   "start": 2559.18,
+   "end": 2561.48,
+   "text": "Like all the major ones, I think it's like up to 20 platforms."
+  },
+  {
+   "start": 2561.58,
+   "end": 2568.36,
+   "text": "So you just stream to everything, Facebook, Twitch, Instagram, uh, YouTube, and then set"
+  },
+  {
+   "start": 2568.36,
+   "end": 2569.5,
+   "text": "Up the step to chat."
+  },
+  {
+   "start": 2569.92,
+   "end": 2573.66,
+   "text": "So you have the chat where anybody from any one of those platforms can be chatting to"
+  },
+  {
+   "start": 2573.66,
+   "end": 2575.06,
+   "text": "You in real time as you're doing it."
+  },
+  {
+   "start": 2576.42,
+   "end": 2580.86,
+   "text": "And so I just hit record and then I talk, I go, okay, so this is what I dreamt last night"
+  },
+  {
+   "start": 2580.86,
+   "end": 2582.9,
+   "text": "Because I'm not gonna be smoking weed so I can talk about my dreams."
+  },
+  {
+   "start": 2582.9,
+   "end": 2584.34,
+   "text": "Okay."
+  },
+  {
+   "start": 2584.34,
+   "end": 2585.2,
+   "text": "So that's interesting."
+  },
+  {
+   "start": 2585.46,
+   "end": 2587.06,
+   "text": "That's like a couple of minutes."
+  },
+  {
+   "start": 2587.22,
+   "end": 2590.58,
+   "text": "This is what I was doing when I was doing the Bambulog and dreams are interesting too,"
+  },
+  {
+   "start": 2590.58,
+   "end": 2594.24,
+   "text": "Because they give you an insight of what you're thinking about, you know, not just interesting"
+  },
+  {
+   "start": 2594.24,
+   "end": 2595.68,
+   "text": "To me, but interesting to other people."
+  },
+  {
+   "start": 2595.68,
+   "end": 2598.18,
+   "text": "And then when, once you talk about dreams, you remember about other dreams you had in"
+  },
+  {
+   "start": 2598.18,
+   "end": 2598.62,
+   "text": "The past."
+  },
+  {
+   "start": 2599.5,
+   "end": 2602.06,
+   "text": "And, and then you get really good at remembering your dream brain."
+  },
+  {
+   "start": 2602.16,
+   "end": 2603.44,
+   "text": "Then you can remember more and more of your dreams."
+  },
+  {
+   "start": 2603.54,
+   "end": 2605.18,
+   "text": "It just gets really cool when you do that."
+  },
+  {
+   "start": 2606.1,
+   "end": 2611.52,
+   "text": "And so, um, and so then I go, and then after dream segment, and so, of course I can have"
+  },
+  {
+   "start": 2611.52,
+   "end": 2615.02,
+   "text": "The transitions that I make with After Effects, you know, first I hit the button dreams and"
+  },
+  {
+   "start": 2615.02,
+   "end": 2616.28,
+   "text": "It's like some kind of dream graphic."
+  },
+  {
+   "start": 2616.84,
+   "end": 2617.74,
+   "text": "And then I do my dreams."
+  },
+  {
+   "start": 2617.78,
+   "end": 2624.8,
+   "text": "Then I go, hit the button, boom, after, um, um, uh, um, news."
+  },
+  {
+   "start": 2624.8,
+   "end": 2629.98,
+   "text": "And, uh, cause before I was having it in different videos, but now, now you do it all at once"
+  },
+  {
+   "start": 2629.98,
+   "end": 2630.72,
+   "text": "And you do it all with string."
+  },
+  {
+   "start": 2631.72,
+   "end": 2636.58,
+   "text": "So, um, so then the icons and stuff for news comes in and I haven't come around to figure"
+  },
+  {
+   "start": 2636.58,
+   "end": 2637.92,
+   "text": "Out that what I want to do is sound."
+  },
+  {
+   "start": 2637.96,
+   "end": 2642.66,
+   "text": "Cause I have the, the, the sound switcher, but, um, or is it called mixer?"
+  },
+  {
+   "start": 2643.64,
+   "end": 2649.12,
+   "text": "One of, anyway, um, maybe the ATEMS mixer and the, um, the RODECaster pro is the switcher."
+  },
+  {
+   "start": 2649.68,
+   "end": 2650.02,
+   "text": "Yeah."
+  },
+  {
+   "start": 2650.04,
+   "end": 2650.68,
+   "text": "Mixer switcher."
+  },
+  {
+   "start": 2650.68,
+   "end": 2651.12,
+   "text": "That's what it is."
+  },
+  {
+   "start": 2651.52,
+   "end": 2655.64,
+   "text": "But, um, but, you know, I want to get really proficient with sounds and music and I haven't"
+  },
+  {
+   "start": 2655.64,
+   "end": 2659.6,
+   "text": "Even really thought that through like I have with my visual stuff yet, but, um, you know,"
+  },
+  {
+   "start": 2659.62,
+   "end": 2662.76,
+   "text": "And I, I, I have an advantage cause I have lots of lyrics and songs and I can actually"
+  },
+  {
+   "start": 2662.76,
+   "end": 2665.98,
+   "text": "Sing along with myself so you can do sing along and like interesting."
+  },
+  {
+   "start": 2665.98,
+   "end": 2671.44,
+   "text": "So you do the intro introduction for each segment and then, so you talk about your, the news"
+  },
+  {
+   "start": 2671.44,
+   "end": 2674.72,
+   "text": "And then you do the next segment, which is, um, which is always going to be lifting."
+  },
+  {
+   "start": 2674.9,
+   "end": 2679.88,
+   "text": "I want to try to lift weights before most of the days before I go and do my, um, endurance"
+  },
+  {
+   "start": 2679.88,
+   "end": 2680.24,
+   "text": "Training."
+  },
+  {
+   "start": 2680.4,
+   "end": 2683.9,
+   "text": "I want to be a triathlete and do swing, bike, and running, but I want to lift every day"
+  },
+  {
+   "start": 2683.9,
+   "end": 2685.3,
+   "text": "Before because I'm fresh."
+  },
+  {
+   "start": 2685.88,
+   "end": 2686.8,
+   "text": "I just ate."
+  },
+  {
+   "start": 2686.94,
+   "end": 2687.56,
+   "text": "I'm strong."
+  },
+  {
+   "start": 2687.66,
+   "end": 2691.44,
+   "text": "Like if I'm going to be able to do anything on the weights, it's, it's then at the beginning"
+  },
+  {
+   "start": 2691.44,
+   "end": 2691.82,
+   "text": "Of the day."
+  },
+  {
+   "start": 2692.28,
+   "end": 2696.3,
+   "text": "And then you, and you can always, um, you know, keep going."
+  },
+  {
+   "start": 2696.36,
+   "end": 2698.46,
+   "text": "It'll make you a little bit weaker, but it's not that big of a deal."
+  },
+  {
+   "start": 2698.56,
+   "end": 2700.74,
+   "text": "You don't have to do it every day, but you go, okay, lifting."
+  },
+  {
+   "start": 2701.54,
+   "end": 2705.74,
+   "text": "So then you hit the button for the intro for lifting and then you do it or, or, or whatever"
+  },
+  {
+   "start": 2705.74,
+   "end": 2707.28,
+   "text": "It is, rowing or swimming or running."
+  },
+  {
+   "start": 2708.02,
+   "end": 2709.62,
+   "text": "And then you film yourself doing that."
+  },
+  {
+   "start": 2709.66,
+   "end": 2712.52,
+   "text": "And then you jump back in and then you go, okay, so this is what I'm going to do."
+  },
+  {
+   "start": 2712.9,
+   "end": 2717.06,
+   "text": "And then you do the little, um, the little window of the Google earth."
+  },
+  {
+   "start": 2717.06,
+   "end": 2720.38,
+   "text": "Um, and I even have a Strava plugged into Google earth."
+  },
+  {
+   "start": 2720.42,
+   "end": 2723.12,
+   "text": "So I don't even have to do, um, do a screen capture of Strava."
+  },
+  {
+   "start": 2723.64,
+   "end": 2728.1,
+   "text": "I can just do a screen capture of, um, even I can even, I even have Strava on my website."
+  },
+  {
+   "start": 2728.44,
+   "end": 2731.0,
+   "text": "So I just do it on the website and on Google earth."
+  },
+  {
+   "start": 2731.0,
+   "end": 2735.16,
+   "text": "So then I just zoom in on Google earth and I zoom in on the, um, cause I like Google earth"
+  },
+  {
+   "start": 2735.16,
+   "end": 2741.3,
+   "text": "Is a lot more responsive and faster and zooming in and out and you can control it more, um, than"
+  },
+  {
+   "start": 2741.3,
+   "end": 2741.9,
+   "text": "Anything else."
+  },
+  {
+   "start": 2741.98,
+   "end": 2745.58,
+   "text": "So, um, then you would, you would just do key, uh, Strava segments."
+  },
+  {
+   "start": 2745.58,
+   "end": 2749.46,
+   "text": "So you call it, okay, you call it Strava, um, Strava strategy."
+  },
+  {
+   "start": 2749.64,
+   "end": 2753.02,
+   "text": "So then the whole Strava strategy icon comes in the Strava strategy."
+  },
+  {
+   "start": 2753.36,
+   "end": 2758.5,
+   "text": "Um, yeah, I think I'll even have like, um, a music intro that I'll make myself."
+  },
+  {
+   "start": 2758.9,
+   "end": 2761.66,
+   "text": "It'll be, it'll be like a combo between sound effects."
+  },
+  {
+   "start": 2761.66,
+   "end": 2770.58,
+   "text": "I find, um, the free sound effects on like Adobe audition and, um, and, um, like my lyrics"
+  },
+  {
+   "start": 2770.58,
+   "end": 2772.18,
+   "text": "To give an intro to everything."
+  },
+  {
+   "start": 2772.18,
+   "end": 2775.22,
+   "text": "Um, so, uh, Strava strategy is okay."
+  },
+  {
+   "start": 2775.22,
+   "end": 2776.48,
+   "text": "So these are the Strava segments."
+  },
+  {
+   "start": 2776.48,
+   "end": 2779.5,
+   "text": "And then you just say what Strava segments you're going to shoot for that day."
+  },
+  {
+   "start": 2780.5,
+   "end": 2784.7,
+   "text": "And, um, and then, and then, uh, how well do you think you're going to do on the Strava?"
+  },
+  {
+   "start": 2784.7,
+   "end": 2788.18,
+   "text": "And then you do the little screen capture from the computer, like I was talking about,"
+  },
+  {
+   "start": 2788.18,
+   "end": 2795.4,
+   "text": "Because I have it on my website of the best times, uh, for male women and then me, but that's"
+  },
+  {
+   "start": 2795.4,
+   "end": 2796.5,
+   "text": "Actually when I made before."
+  },
+  {
+   "start": 2796.5,
+   "end": 2800.18,
+   "text": "So I might keep up with that on my website or I might not."
+  },
+  {
+   "start": 2800.36,
+   "end": 2803.46,
+   "text": "So it'll be as of like a few years ago, but I can keep that up."
+  },
+  {
+   "start": 2803.62,
+   "end": 2809.06,
+   "text": "Um, um, as assuming as I, you know, I keep it up on my website."
+  },
+  {
+   "start": 2809.06,
+   "end": 2814.26,
+   "text": "If I look at it the night before, it'll show it all there and, you know, and, uh, so I"
+  },
+  {
+   "start": 2814.26,
+   "end": 2820.62,
+   "text": "Don't have to go into Strava and, um, and, and I show where I'm going to go and how many"
+  },
+  {
+   "start": 2820.62,
+   "end": 2821.56,
+   "text": "Miles it is and everything."
+  },
+  {
+   "start": 2821.56,
+   "end": 2825.36,
+   "text": "And the, and the ride, cause a lot of them will be plugged in with my Google earth."
+  },
+  {
+   "start": 2826.02,
+   "end": 2830.3,
+   "text": "Um, and then I go on the ride and then I come back or the run or the swim or whatever."
+  },
+  {
+   "start": 2830.3,
+   "end": 2833.32,
+   "text": "And so if it's a ride, I come back and I go, and then I just, I hit the stream."
+  },
+  {
+   "start": 2833.48,
+   "end": 2836.84,
+   "text": "So it's like two streams a day, the stream before you go out on the ride and then the"
+  },
+  {
+   "start": 2836.84,
+   "end": 2838.68,
+   "text": "Stream when you come back and that's it."
+  },
+  {
+   "start": 2839.6,
+   "end": 2842.7,
+   "text": "Um, and so it's really a predictable."
+  },
+  {
+   "start": 2843.5,
+   "end": 2845.22,
+   "text": "So you come back and you go, okay, I went on the ride."
+  },
+  {
+   "start": 2845.24,
+   "end": 2848.3,
+   "text": "And then that's when you do the screen capture of the Strava website."
+  },
+  {
+   "start": 2848.3,
+   "end": 2853.88,
+   "text": "And then you just, you just go through all of the different, um, PRs you did and the"
+  },
+  {
+   "start": 2853.88,
+   "end": 2857.26,
+   "text": "Ones, and some of them be the ones that you, uh, that you were talking about before off"
+  },
+  {
+   "start": 2857.26,
+   "end": 2857.72,
+   "text": "The Google earth."
+  },
+  {
+   "start": 2858.4,
+   "end": 2864.94,
+   "text": "And, um, it's, uh, and so you talk about that and like how well you felt and like your stats"
+  },
+  {
+   "start": 2864.94,
+   "end": 2868.24,
+   "text": "And how well you felt compared to how well you thought you were going to feel."
+  },
+  {
+   "start": 2868.32,
+   "end": 2871.26,
+   "text": "Cause that's kind of the really interesting thing about my shows in the beginning of the"
+  },
+  {
+   "start": 2871.26,
+   "end": 2874.74,
+   "text": "End, you always, and not just for the daily, but also for time."
+  },
+  {
+   "start": 2874.74,
+   "end": 2876.84,
+   "text": "Cause like to talk about what I expect to be able to do in the future."
+  },
+  {
+   "start": 2876.84,
+   "end": 2880.64,
+   "text": "So you're like, so it's interesting to see, like, if I went as far as I wanted to do this"
+  },
+  {
+   "start": 2880.64,
+   "end": 2881.16,
+   "text": "One is fast."
+  },
+  {
+   "start": 2881.2,
+   "end": 2882.98,
+   "text": "And then I talk about it and let's talk about what happened."
+  },
+  {
+   "start": 2883.34,
+   "end": 2885.3,
+   "text": "And then, um, so that's the wrap up."
+  },
+  {
+   "start": 2885.9,
+   "end": 2890.14,
+   "text": "And then, um, and then, uh, yeah, I go to sleep."
+  },
+  {
+   "start": 2890.16,
+   "end": 2891.64,
+   "text": "And then when I wake up the next point, I do it again."
+  },
+  {
+   "start": 2891.64,
+   "end": 2893.86,
+   "text": "I would say what happened since the last time I did the V-log."
+  },
+  {
+   "start": 2894.88,
+   "end": 2899.26,
+   "text": "So, so that's like daily V-log, but then there's other videos that I want to do on my website."
+  },
+  {
+   "start": 2899.26,
+   "end": 2900.82,
+   "text": "And I think I'll do them in a streaming format."
+  },
+  {
+   "start": 2900.82,
+   "end": 2905.86,
+   "text": "Cause you just pre, pre-program the pictures you want to pull up and then you just hit"
+  },
+  {
+   "start": 2905.86,
+   "end": 2906.64,
+   "text": "Screen, stream."
+  },
+  {
+   "start": 2906.74,
+   "end": 2909.32,
+   "text": "And when it's streaming, it's the advantage cause you can get people commenting on you."
+  },
+  {
+   "start": 2909.68,
+   "end": 2914.04,
+   "text": "You know, once I get popular, more and more people comment and then, yeah, you can like"
+  },
+  {
+   "start": 2914.04,
+   "end": 2915.82,
+   "text": "Respond and be interactive and be amazing."
+  },
+  {
+   "start": 2916.86,
+   "end": 2919.64,
+   "text": "So, um, I wanted to come up with a streaming strategy."
+  },
+  {
+   "start": 2919.64,
+   "end": 2930.04,
+   "text": "Um, and so like, um, if I'm talking about, um, um, if it's like a, a Google earth, uh,"
+  },
+  {
+   "start": 2930.16,
+   "end": 2934.14,
+   "text": "Demo, cause I build a lot of stuff on Google earth, like this is what it looks like when"
+  },
+  {
+   "start": 2934.14,
+   "end": 2935.32,
+   "text": "I'm in front of my camera."
+  },
+  {
+   "start": 2935.68,
+   "end": 2940.14,
+   "text": "Um, this is kind of how I fill up the screen, um, the, my main camera on my desk."
+  },
+  {
+   "start": 2941.14,
+   "end": 2945.5,
+   "text": "Um, so which, which means that I have a big block of area to the left of my head and to"
+  },
+  {
+   "start": 2945.5,
+   "end": 2946.1,
+   "text": "The right of my head."
+  },
+  {
+   "start": 2946.1,
+   "end": 2951.96,
+   "text": "Um, and, um, so I was going to have stuff just come in from the sides, you know, the"
+  },
+  {
+   "start": 2951.96,
+   "end": 2956.58,
+   "text": "Photos that come in from the side, um, and then they come out the same way."
+  },
+  {
+   "start": 2956.62,
+   "end": 2960.0,
+   "text": "And if I want to put, put another one to replace it, the other one comes in like that."
+  },
+  {
+   "start": 2961.62,
+   "end": 2969.04,
+   "text": "And so, um, um, so you would have like Google earth on the, on the right and then daily stats"
+  },
+  {
+   "start": 2969.04,
+   "end": 2969.7,
+   "text": "On the left."
+  },
+  {
+   "start": 2970.56,
+   "end": 2973.6,
+   "text": "And so the daily stats would be like my physical daily stats."
+  },
+  {
+   "start": 2973.6,
+   "end": 2977.16,
+   "text": "And at the beginning I was thinking about, Oh yeah, I'll just make a graphic, right?"
+  },
+  {
+   "start": 2977.24,
+   "end": 2978.22,
+   "text": "But then that's too expensive."
+  },
+  {
+   "start": 2978.38,
+   "end": 2981.34,
+   "text": "So that's where the screen capture of the other computer comes in."
+  },
+  {
+   "start": 2981.62,
+   "end": 2985.5,
+   "text": "You just do a video screen capture from the other computer of your daily stats that you"
+  },
+  {
+   "start": 2985.5,
+   "end": 2991.18,
+   "text": "On from your website, you just zoom it up to take up a little, the little part of the"
+  },
+  {
+   "start": 2991.18,
+   "end": 2996.24,
+   "text": "Website page, the webpage, you zoom it up to fill in that area."
+  },
+  {
+   "start": 2997.04,
+   "end": 2999.22,
+   "text": "It's because it looks just like a graphic you'd make anyway."
+  },
+  {
+   "start": 2999.38,
+   "end": 3000.22,
+   "text": "I already made the graphic."
+  },
+  {
+   "start": 3000.46,
+   "end": 3001.02,
+   "text": "You just do this."
+  },
+  {
+   "start": 3001.02,
+   "end": 3002.64,
+   "text": "See, that's my original idea for the day."
+  },
+  {
+   "start": 3002.76,
+   "end": 3003.06,
+   "text": "One of them."
+  },
+  {
+   "start": 3003.94,
+   "end": 3005.82,
+   "text": "So, and then on the, on the right side, Google earth."
+  },
+  {
+   "start": 3005.94,
+   "end": 3009.18,
+   "text": "So that's like a little thing in the Google thing, but then you push the button where it"
+  },
+  {
+   "start": 3009.18,
+   "end": 3011.18,
+   "text": "Changes and you see it gradually change."
+  },
+  {
+   "start": 3011.24,
+   "end": 3015.4,
+   "text": "Like the Google earth then comes up like that, takes up the whole, the whole space."
+  },
+  {
+   "start": 3015.44,
+   "end": 3018.48,
+   "text": "And then my, I kind of gradually get small and go down there."
+  },
+  {
+   "start": 3018.84,
+   "end": 3022.3,
+   "text": "So when I want to talk about the whole Google earth, I'm talking about, I'm giving a demo of"
+  },
+  {
+   "start": 3022.3,
+   "end": 3026.84,
+   "text": "Like whatever Google earth project I made, like my Atlantis or something, you know, exceed"
+  },
+  {
+   "start": 3026.84,
+   "end": 3030.34,
+   "text": "4,000 building and then, um, daily stats."
+  },
+  {
+   "start": 3030.5,
+   "end": 3035.04,
+   "text": "Um, that would just be a computer screen, you know, capture anything I'm talking about."
+  },
+  {
+   "start": 3035.68,
+   "end": 3043.02,
+   "text": "And so then, um, now if I'm talking about a video, like any, any kind of video, uh, educational"
+  },
+  {
+   "start": 3043.02,
+   "end": 3045.36,
+   "text": "Video, this is what I wanted it to look like."
+  },
+  {
+   "start": 3045.36,
+   "end": 3052.76,
+   "text": "So, um, so I would have, uh, you know, a photo or a video on the upper left and upper"
+  },
+  {
+   "start": 3052.76,
+   "end": 3053.06,
+   "text": "Right."
+  },
+  {
+   "start": 3053.16,
+   "end": 3053.94,
+   "text": "That's kind of square."
+  },
+  {
+   "start": 3053.98,
+   "end": 3056.62,
+   "text": "Cause it's like a good, a good block square area."
+  },
+  {
+   "start": 3056.7,
+   "end": 3057.74,
+   "text": "What it looks like on the screen."
+  },
+  {
+   "start": 3057.74,
+   "end": 3061.64,
+   "text": "Cause I take up the screen like that and I wanted them to be bordered and brown."
+  },
+  {
+   "start": 3061.64,
+   "end": 3065.2,
+   "text": "Cause it gives the effect that it's like, it's a, it's a framed picture."
+  },
+  {
+   "start": 3066.02,
+   "end": 3070.52,
+   "text": "So I wanted to even make it look as like glossy or something like as wooden as realistic."
+  },
+  {
+   "start": 3070.64,
+   "end": 3074.8,
+   "text": "Maybe if I can make it real looking like wood frames around it, that'd be awesome."
+  },
+  {
+   "start": 3074.8,
+   "end": 3077.02,
+   "text": "And they would slide in from the top."
+  },
+  {
+   "start": 3077.84,
+   "end": 3078.92,
+   "text": "They go in like that."
+  },
+  {
+   "start": 3078.98,
+   "end": 3082.76,
+   "text": "So if I have a new video, I just slide in from the top here in this area or slide it from"
+  },
+  {
+   "start": 3082.76,
+   "end": 3082.98,
+   "text": "Here."
+  },
+  {
+   "start": 3083.14,
+   "end": 3086.28,
+   "text": "And maybe I'd probably try to standardize it where the videos are on this side and the"
+  },
+  {
+   "start": 3086.28,
+   "end": 3087.14,
+   "text": "Photos are on this side."
+  },
+  {
+   "start": 3088.18,
+   "end": 3088.86,
+   "text": "That'd be cool."
+  },
+  {
+   "start": 3088.94,
+   "end": 3093.62,
+   "text": "But then, because I do have a little sliver of area here, it's kind of like this, it's"
+  },
+  {
+   "start": 3093.62,
+   "end": 3094.8,
+   "text": "The more of rectangle shaped."
+  },
+  {
+   "start": 3095.92,
+   "end": 3097.82,
+   "text": "Um, that's where I was going to put the stats."
+  },
+  {
+   "start": 3098.7,
+   "end": 3102.24,
+   "text": "So if I'm talking about a video before I do the video, if I have my shit together enough,"
+  },
+  {
+   "start": 3102.24,
+   "end": 3105.7,
+   "text": "I want to go, okay, let's get the stats right."
+  },
+  {
+   "start": 3105.78,
+   "end": 3105.96,
+   "text": "Right."
+  },
+  {
+   "start": 3106.0,
+   "end": 3112.5,
+   "text": "So I'll make sure to do a stats and hopefully maybe, um, maybe it'll be pre-prepared as"
+  },
+  {
+   "start": 3112.5,
+   "end": 3114.24,
+   "text": "A screen capture from my website."
+  },
+  {
+   "start": 3114.44,
+   "end": 3116.38,
+   "text": "Cause maybe I'll have a lot of them already on my website."
+  },
+  {
+   "start": 3116.38,
+   "end": 3121.34,
+   "text": "So I just have it cover up that part of the page of the image on my website, have it here."
+  },
+  {
+   "start": 3121.4,
+   "end": 3122.62,
+   "text": "And then when I put the button, it appears."
+  },
+  {
+   "start": 3123.2,
+   "end": 3125.02,
+   "text": "And then I can even, maybe it's on my website."
+  },
+  {
+   "start": 3125.02,
+   "end": 3126.2,
+   "text": "Cause I have a lot of stats."
+  },
+  {
+   "start": 3126.26,
+   "end": 3128.84,
+   "text": "The way my website is set up, this is actually really convenient for my website."
+  },
+  {
+   "start": 3128.84,
+   "end": 3130.36,
+   "text": "But it's all columns."
+  },
+  {
+   "start": 3130.5,
+   "end": 3132.96,
+   "text": "So it's the middle, which is, um, most of it."
+  },
+  {
+   "start": 3133.02,
+   "end": 3135.4,
+   "text": "And then 20% on this side and 20% on this side."
+  },
+  {
+   "start": 3135.46,
+   "end": 3138.66,
+   "text": "And then, so I guess that makes, um, 60% in the middle."
+  },
+  {
+   "start": 3139.38,
+   "end": 3147.04,
+   "text": "And, um, and, um, so down here, because it just takes a little bit of stats, there's"
+  },
+  {
+   "start": 3147.04,
+   "end": 3147.9,
+   "text": "Probably stats below it."
+  },
+  {
+   "start": 3147.92,
+   "end": 3151.96,
+   "text": "So all I have to do is scroll up and then it scrolls on the computer."
+  },
+  {
+   "start": 3151.96,
+   "end": 3156.86,
+   "text": "And then it just scrolls on my little, uh, my little lower third, it's scrolling stats"
+  },
+  {
+   "start": 3156.86,
+   "end": 3161.08,
+   "text": "Up like it's an animated lower third, but it's not an animated lower third."
+  },
+  {
+   "start": 3161.62,
+   "end": 3165.98,
+   "text": "It's me scrolling up on my website, but it's just a little, the little section of the stats"
+  },
+  {
+   "start": 3165.98,
+   "end": 3166.58,
+   "text": "On the side."
+  },
+  {
+   "start": 3166.64,
+   "end": 3171.14,
+   "text": "And it scrolls up perfectly because I have all of my stats always on that part of the"
+  },
+  {
+   "start": 3171.14,
+   "end": 3171.5,
+   "text": "Website."
+  },
+  {
+   "start": 3171.5,
+   "end": 3173.62,
+   "text": "It's not like I have them scattered all over the place."
+  },
+  {
+   "start": 3173.62,
+   "end": 3174.86,
+   "text": "Like most people do on websites."
+  },
+  {
+   "start": 3175.34,
+   "end": 3179.92,
+   "text": "I just have them all here in a line and there's nothing here mainly unless sometimes."
+  },
+  {
+   "start": 3179.92,
+   "end": 3183.56,
+   "text": "So, yeah, so that'd be a really cool way to do the stats."
+  },
+  {
+   "start": 3184.0,
+   "end": 3188.28,
+   "text": "And then if I have to, you know, or if I have to just, if I wanted to do it, if I don't"
+  },
+  {
+   "start": 3188.28,
+   "end": 3192.04,
+   "text": "Have them pre-prepared on my website, I could just make it really quickly with Photoshop"
+  },
+  {
+   "start": 3192.04,
+   "end": 3196.1,
+   "text": "And then just drag it over to Photoshop and little image, you know, retriever."
+  },
+  {
+   "start": 3196.26,
+   "end": 3200.36,
+   "text": "And then I just pop it up here and I just have all the different, I can make all the different"
+  },
+  {
+   "start": 3200.36,
+   "end": 3201.54,
+   "text": "Stats appear here."
+  },
+  {
+   "start": 3201.66,
+   "end": 3205.42,
+   "text": "So photos up here, videos here, and then stats here and stats here, maybe certain different"
+  },
+  {
+   "start": 3205.42,
+   "end": 3207.84,
+   "text": "Kinds of stats would be here."
+  },
+  {
+   "start": 3207.84,
+   "end": 3212.18,
+   "text": "And then I think I wanted them on a white background because it's like, it's like you're"
+  },
+  {
+   "start": 3212.18,
+   "end": 3216.36,
+   "text": "Looking at a piece of paper, you know, because paper is white, but I wanted the edge to be"
+  },
+  {
+   "start": 3216.36,
+   "end": 3225.7,
+   "text": "Golden, um, golden edges because it's like magical, like, like painted edged golden edged"
+  },
+  {
+   "start": 3225.7,
+   "end": 3228.22,
+   "text": "Paper and then just regular black font."
+  },
+  {
+   "start": 3228.3,
+   "end": 3231.76,
+   "text": "But all the different fonts of everything I do are going to be particular to their own,"
+  },
+  {
+   "start": 3231.82,
+   "end": 3232.54,
+   "text": "You know, consistent."
+  },
+  {
+   "start": 3232.54,
+   "end": 3237.92,
+   "text": "So, um, and then whenever, see, I don't, I can't have links on my videos."
+  },
+  {
+   "start": 3238.06,
+   "end": 3241.06,
+   "text": "That would be awesome if you could, but they haven't figured out how to do that yet."
+  },
+  {
+   "start": 3241.38,
+   "end": 3244.2,
+   "text": "I can't do a graphic and then have the graphic like be a link."
+  },
+  {
+   "start": 3244.2,
+   "end": 3250.62,
+   "text": "So, but what I can do if I'm like, Hey, yeah, I did like today I did a, I did a, I did a,"
+  },
+  {
+   "start": 3250.62,
+   "end": 3256.34,
+   "text": "Uh, uh, I filmed myself running 200 meters or something."
+  },
+  {
+   "start": 3256.48,
+   "end": 3261.2,
+   "text": "I filmed myself a mile and I broke my record on the mile and I have a whole video of my"
+  },
+  {
+   "start": 3261.2,
+   "end": 3262.98,
+   "text": "Slowing myself do it on my main channel."
+  },
+  {
+   "start": 3263.4,
+   "end": 3264.94,
+   "text": "Click here, check out the video."
+  },
+  {
+   "start": 3265.02,
+   "end": 3266.08,
+   "text": "So I have an icon for that."
+  },
+  {
+   "start": 3266.08,
+   "end": 3271.24,
+   "text": "So it's like a little star it's a, that pops up and then hangs out for a second, then comes"
+  },
+  {
+   "start": 3271.24,
+   "end": 3275.76,
+   "text": "Out and it just says, check out my video kind of takes up my chest and it comes down."
+  },
+  {
+   "start": 3275.86,
+   "end": 3279.76,
+   "text": "So check out my video and that's good enough instead of just having a link."
+  },
+  {
+   "start": 3280.44,
+   "end": 3282.34,
+   "text": "And, um, yeah."
+  },
+  {
+   "start": 3282.36,
+   "end": 3284.56,
+   "text": "So anyways, that's where I'm at in terms of strategy."
+  },
+  {
+   "start": 3284.56,
+   "end": 3288.96,
+   "text": "Um, to, you know, I have to figure out, yeah, if I'm going to be able to film the screens"
+  },
+  {
+   "start": 3288.96,
+   "end": 3295.3,
+   "text": "On my swimming and rowing machine and my treadmill, um, or even my bicycle, my bike computer."
+  },
+  {
+   "start": 3296.62,
+   "end": 3297.82,
+   "text": "It's easier with the bike computer."
+  },
+  {
+   "start": 3297.82,
+   "end": 3301.92,
+   "text": "Cause you can take the computer off of the bike and like place it in front of a camera."
+  },
+  {
+   "start": 3302.28,
+   "end": 3303.08,
+   "text": "That's what I'm going to do."
+  },
+  {
+   "start": 3303.92,
+   "end": 3306.58,
+   "text": "But, um, other people have some thing where it shows it on there."
+  },
+  {
+   "start": 3306.62,
+   "end": 3309.66,
+   "text": "I don't, I don't have that with a video on the camera in the back."
+  },
+  {
+   "start": 3309.72,
+   "end": 3314.92,
+   "text": "I do have a, um, I don't have the money even to buy that, but I do have a GoPro so I can't,"
+  },
+  {
+   "start": 3314.98,
+   "end": 3317.56,
+   "text": "And it's a voice activated so I can feel myself."
+  },
+  {
+   "start": 3317.68,
+   "end": 3321.8,
+   "text": "So, you know, when I have the clips of my, of my daily show, I'm like, Hey, I did my ride"
+  },
+  {
+   "start": 3321.8,
+   "end": 3322.54,
+   "text": "And this is where I went."
+  },
+  {
+   "start": 3322.76,
+   "end": 3326.04,
+   "text": "I can have the, I can pre upload the video clip."
+  },
+  {
+   "start": 3326.08,
+   "end": 3333.2,
+   "text": "From my GoPro onto my hyper deck, I guess, or my, wherever it's more convenient on my"
+  },
+  {
+   "start": 3333.2,
+   "end": 3333.62,
+   "text": "Hyper deck."
+  },
+  {
+   "start": 3333.72,
+   "end": 3337.56,
+   "text": "And then I just hit the button and it just plays the video of like where I was in the"
+  },
+  {
+   "start": 3337.56,
+   "end": 3343.36,
+   "text": "Video and try to, try to have you a habit of showing videos, video clips of my ride"
+  },
+  {
+   "start": 3343.36,
+   "end": 3346.36,
+   "text": "Every single day, a new video clip of my ride."
+  },
+  {
+   "start": 3346.36,
+   "end": 3350.72,
+   "text": "And it'll be like, so as I'm talking about the ride, there's like all these video clips"
+  },
+  {
+   "start": 3350.72,
+   "end": 3352.12,
+   "text": "And I can cue the different video clips."
+  },
+  {
+   "start": 3353.16,
+   "end": 3358.22,
+   "text": "And, um, and, um, you know, and I can do the interesting sections cause it's voice activated."
+  },
+  {
+   "start": 3358.22,
+   "end": 3361.5,
+   "text": "So I don't have to like burn out the memory or my battery on like a six hour ride."
+  },
+  {
+   "start": 3361.98,
+   "end": 3364.58,
+   "text": "You just go, you go down to an interesting part and you go, Hey Siri."
+  },
+  {
+   "start": 3364.72,
+   "end": 3367.34,
+   "text": "I mean, Hey, uh, Hey GoPro turn on."
+  },
+  {
+   "start": 3367.34,
+   "end": 3368.8,
+   "text": "And then Hey GoPro record."
+  },
+  {
+   "start": 3368.8,
+   "end": 3373.48,
+   "text": "And it's like, and I think I even with my time trial bike, I have it set up on the actual"
+  },
+  {
+   "start": 3373.48,
+   "end": 3374.28,
+   "text": "Bicycle itself."
+  },
+  {
+   "start": 3374.28,
+   "end": 3375.26,
+   "text": "So I can see it."
+  },
+  {
+   "start": 3375.32,
+   "end": 3377.14,
+   "text": "I can look at it and see if it heard me from the light."
+  },
+  {
+   "start": 3378.04,
+   "end": 3384.42,
+   "text": "Um, so, um, oh, and I also put a bunch of Velcro on the backside of my phone and I clipped"
+  },
+  {
+   "start": 3384.42,
+   "end": 3385.9,
+   "text": "It on the top of my time trial bike."
+  },
+  {
+   "start": 3386.14,
+   "end": 3387.56,
+   "text": "So I'm going to Velcro my phone."
+  },
+  {
+   "start": 3387.56,
+   "end": 3389.82,
+   "text": "Cause you know, I don't think you'd go over too bumpy stuff."
+  },
+  {
+   "start": 3390.34,
+   "end": 3391.98,
+   "text": "Cause I think Velcro is pretty strong."
+  },
+  {
+   "start": 3392.06,
+   "end": 3393.1,
+   "text": "It's the whole length of my phone."
+  },
+  {
+   "start": 3393.14,
+   "end": 3394.58,
+   "text": "I Velcro my phone to my time trial bike."
+  },
+  {
+   "start": 3394.58,
+   "end": 3397.7,
+   "text": "So when I'm doing the time trial bike, it's like literally right there."
+  },
+  {
+   "start": 3397.78,
+   "end": 3399.2,
+   "text": "It's not in my way, but I can look at it."
+  },
+  {
+   "start": 3399.22,
+   "end": 3402.98,
+   "text": "So I can totally control my phone to find, to like program music and stuff."
+  },
+  {
+   "start": 3402.98,
+   "end": 3407.04,
+   "text": "Cause it's not always that easy as easy to do it vocally or with the watch."
+  },
+  {
+   "start": 3407.32,
+   "end": 3410.66,
+   "text": "So now with a phone, I can just be like a kid in a candy store with music on the time"
+  },
+  {
+   "start": 3410.66,
+   "end": 3411.08,
+   "text": "Trial bike."
+  },
+  {
+   "start": 3411.84,
+   "end": 3417.54,
+   "text": "Um, so, um, well, this is almost an hour or so, but I mean, today's a big strategizing"
+  },
+  {
+   "start": 3417.54,
+   "end": 3417.74,
+   "text": "Day."
+  },
+  {
+   "start": 3417.8,
+   "end": 3422.7,
+   "text": "So, um, yeah, I figured, figure out the filming of stuff, but also I need to figure out the music."
+  },
+  {
+   "start": 3422.7,
+   "end": 3424.08,
+   "text": "Like, what am I going to do for the music?"
+  },
+  {
+   "start": 3424.08,
+   "end": 3425.0,
+   "text": "How am I going to plug in the music?"
+  },
+  {
+   "start": 3425.34,
+   "end": 3431.72,
+   "text": "And I mean like, um, with, um, with a storyboard format, how am I going to figure out the music?"
+  },
+  {
+   "start": 3432.6,
+   "end": 3437.38,
+   "text": "Um, and what music and, and then I have to do the tutorials on it."
+  },
+  {
+   "start": 3437.4,
+   "end": 3440.52,
+   "text": "So anyways, um, I think I'm done with storyboarding right now."
+  },
+  {
+   "start": 3440.64,
+   "end": 3446.02,
+   "text": "Um, I'm going to, uh, we'll try to watch, I'm going to watch this dude's, um, tutorial."
+  },
+  {
+   "start": 3446.18,
+   "end": 3449.86,
+   "text": "We have like another eight, uh, 10 hours or something."
+  },
+  {
+   "start": 3450.58,
+   "end": 3451.84,
+   "text": "Watch it and it'll get exciting."
+  },
+  {
+   "start": 3451.84,
+   "end": 3455.08,
+   "text": "Um, my roommate's moving out tomorrow though."
+  },
+  {
+   "start": 3455.18,
+   "end": 3460.3,
+   "text": "So, um, I, uh, I'm going to get up whenever I get up and I'll go out to him or maybe I"
+  },
+  {
+   "start": 3460.3,
+   "end": 3460.48,
+   "text": "Won't."
+  },
+  {
+   "start": 3460.6,
+   "end": 3464.94,
+   "text": "Not when I get up because sometimes he gets up really early and I'm, I'm up until really"
+  },
+  {
+   "start": 3464.94,
+   "end": 3465.2,
+   "text": "Early."
+  },
+  {
+   "start": 3465.2,
+   "end": 3468.64,
+   "text": "So maybe, you know, when sunrise and I hear him wrestling around, I'll get out and I'll"
+  },
+  {
+   "start": 3468.64,
+   "end": 3471.12,
+   "text": "Be like, Hey man, let's do it."
+  },
+  {
+   "start": 3471.12,
+   "end": 3475.2,
+   "text": "Cause I wanted to check out his house and I'm going to, um, strap his bed to the roof."
+  },
+  {
+   "start": 3475.2,
+   "end": 3479.62,
+   "text": "We're going to carry his bed down and strap it to the roof of his car if that works, but"
+  },
+  {
+   "start": 3479.62,
+   "end": 3480.56,
+   "text": "It's like a big bed."
+  },
+  {
+   "start": 3480.64,
+   "end": 3485.44,
+   "text": "And I don't know if the people might think the car is too small for the size of the bed."
+  },
+  {
+   "start": 3485.44,
+   "end": 3494.26,
+   "text": "But, um, so, um, and then, uh, yeah, help pick, pick, pack up the bikes and maybe help"
+  },
+  {
+   "start": 3494.26,
+   "end": 3495.48,
+   "text": "Him all day long do that."
+  },
+  {
+   "start": 3495.98,
+   "end": 3497.46,
+   "text": "Cause he doesn't have that much stuff."
+  },
+  {
+   "start": 3497.56,
+   "end": 3498.8,
+   "text": "He just has, uh, bikes."
+  },
+  {
+   "start": 3499.68,
+   "end": 3508.73,
+   "text": "So, um, um, yeah, I just spent a whole bunch of more money, but like I had to buy all that"
+  },
+  {
+   "start": 3508.73,
+   "end": 3512.43,
+   "text": "Stuff in order to, in order to set up the studio and get my ideas going."
+  },
+  {
+   "start": 3512.43,
+   "end": 3513.29,
+   "text": "And I had to buy the gear."
+  },
+  {
+   "start": 3513.45,
+   "end": 3519.99,
+   "text": "So, um, I normally have to pay my brothers 200 bucks a month in rent each."
+  },
+  {
+   "start": 3519.99,
+   "end": 3522.05,
+   "text": "So I have to pay 400 bucks in rent just to them."
+  },
+  {
+   "start": 3523.09,
+   "end": 3528.97,
+   "text": "Um, but this month I'm not going to pay him anything because, um, you know, like I've been"
+  },
+  {
+   "start": 3528.97,
+   "end": 3531.87,
+   "text": "Renting the apartment with my roommate for the last eight years."
+  },
+  {
+   "start": 3531.87,
+   "end": 3535.99,
+   "text": "And, uh, if we had been renting this to somebody else within that eight years, that would have"
+  },
+  {
+   "start": 3535.99,
+   "end": 3538.85,
+   "text": "Been at least a month where we weren't getting paid rent anyway, cause people come and go."
+  },
+  {
+   "start": 3538.85,
+   "end": 3544.89,
+   "text": "So I kind of have my time, like my time saved up where I get, I don't have to pay them."
+  },
+  {
+   "start": 3545.03,
+   "end": 3549.13,
+   "text": "I know they don't, they don't, they can't like bitch at me for not paying them because,"
+  },
+  {
+   "start": 3549.31,
+   "end": 3552.29,
+   "text": "Um, it would have happened if we had been renting it to somebody else."
+  },
+  {
+   "start": 3552.29,
+   "end": 3552.57,
+   "text": "Right."
+  },
+  {
+   "start": 3552.65,
+   "end": 3556.95,
+   "text": "So, but, um, yeah, so I think I'm going to go, I'm going to, as soon as my roommate"
+  },
+  {
+   "start": 3556.95,
+   "end": 3559.81,
+   "text": "Moves out, I'm going to prepare my house as quickly as I can though."
+  },
+  {
+   "start": 3560.41,
+   "end": 3564.09,
+   "text": "Like maybe tomorrow, you know, um, I'm, I'm kind of one track minded when I get set"
+  },
+  {
+   "start": 3564.09,
+   "end": 3574.68,
+   "text": "Stuff set up, so I might not be, um, like, um, able to like work on my studio and clean"
+  },
+  {
+   "start": 3574.68,
+   "end": 3575.58,
+   "text": "My house at the same time."
+  },
+  {
+   "start": 3575.62,
+   "end": 3578.12,
+   "text": "I may only be able to clean my house, but there's a lot to do."
+  },
+  {
+   "start": 3578.18,
+   "end": 3583.3,
+   "text": "I have to tear up, tear down all these photos that I put on the walls, um, um, the living"
+  },
+  {
+   "start": 3583.3,
+   "end": 3591.08,
+   "text": "Room and the bathroom, but, um, in the kitchen, but, um, I have to tear his rug up and then"
+  },
+  {
+   "start": 3591.08,
+   "end": 3593.96,
+   "text": "Replace it with a wooden floor, clean the house."
+  },
+  {
+   "start": 3595.24,
+   "end": 3598.82,
+   "text": "And, uh, so that could take a little while, but just do as quickly as I can."
+  },
+  {
+   "start": 3598.9,
+   "end": 3603.72,
+   "text": "And then I'm going to do an aggressive campaign of trying to get a roommate in here as quickly"
+  },
+  {
+   "start": 3603.72,
+   "end": 3610.18,
+   "text": "As I can because, um, my mom is drastically reducing the price of my van."
+  },
+  {
+   "start": 3610.26,
+   "end": 3617.32,
+   "text": "So if I can sell my van like soon, and then I can get a roommate in soon, um, maybe I can"
+  },
+  {
+   "start": 3617.32,
+   "end": 3622.88,
+   "text": "Keep up with the, uh, credit card bill, bill payments without them sucking me down to where"
+  },
+  {
+   "start": 3622.88,
+   "end": 3623.58,
+   "text": "I can't keep up."
+  },
+  {
+   "start": 3624.74,
+   "end": 3628.42,
+   "text": "Um, cause then if that happens, I'll have to get a job like really quick."
+  },
+  {
+   "start": 3629.3,
+   "end": 3637.16,
+   "text": "Um, but, um, yeah, if I can do that, then, um, I could dedicate all my time to trying to"
+  },
+  {
+   "start": 3637.16,
+   "end": 3642.2,
+   "text": "Get my finished getting my studio set up and then I can get going with my show and then"
+  },
+  {
+   "start": 3642.2,
+   "end": 3643.74,
+   "text": "That'll make money."
+  },
+  {
+   "start": 3645.18,
+   "end": 3650.44,
+   "text": "Um, and then I could eventually make money with my website, use my popularity on YouTube"
+  },
+  {
+   "start": 3650.44,
+   "end": 3653.62,
+   "text": "To transfer into my website and put ads on my website."
+  },
+  {
+   "start": 3655.02,
+   "end": 3663.77,
+   "text": "Um, but, um, um, uh, it is going to be nice."
+  },
+  {
+   "start": 3663.77,
+   "end": 3667.99,
+   "text": "Like I would like to just have a week at least like to myself where I'm just hanging out my"
+  },
+  {
+   "start": 3667.99,
+   "end": 3668.25,
+   "text": "Room."
+  },
+  {
+   "start": 3668.25,
+   "end": 3673.53,
+   "text": "Um, I haven't lived here by myself before, so, um, after the house is like nice and clean"
+  },
+  {
+   "start": 3673.53,
+   "end": 3678.31,
+   "text": "And burn incense everywhere and, and just be like, Oh wow, nice house."
+  },
+  {
+   "start": 3678.35,
+   "end": 3680.81,
+   "text": "You know, like, look how clean and orderly it is."
+  },
+  {
+   "start": 3681.57,
+   "end": 3682.73,
+   "text": "I'm the only one here."
+  },
+  {
+   "start": 3682.83,
+   "end": 3685.17,
+   "text": "How peaceful, you know?"
+  },
+  {
+   "start": 3685.17,
+   "end": 3691.05,
+   "text": "And then I could use that clarity of mind to like study and like really get, uh, fine"
+  },
+  {
+   "start": 3691.05,
+   "end": 3692.97,
+   "text": "Tuning of my, um, studio going."
+  },
+  {
+   "start": 3692.97,
+   "end": 3701.31,
+   "text": "Um, and, um, yeah, I just hope I get a, uh, um, yeah, a good roommate and I've had really"
+  },
+  {
+   "start": 3701.31,
+   "end": 3705.47,
+   "text": "Bad luck with roommates over the years, but, uh, you know, Kirsten is helping me."
+  },
+  {
+   "start": 3705.57,
+   "end": 3706.79,
+   "text": "She, she does background checks."
+  },
+  {
+   "start": 3706.85,
+   "end": 3712.39,
+   "text": "She has been verified account and is also helping me write a lease cause she was a paralegal."
+  },
+  {
+   "start": 3712.39,
+   "end": 3715.95,
+   "text": "And then also to writing the ad cause she worked as a copywriter."
+  },
+  {
+   "start": 3716.09,
+   "end": 3720.67,
+   "text": "So, um, and she's going to help me even post them all over."
+  },
+  {
+   "start": 3720.67,
+   "end": 3722.33,
+   "text": "And so, cause she used to do that."
+  },
+  {
+   "start": 3722.37,
+   "end": 3727.09,
+   "text": "She paid her mortgage by renting multiple rooms in her house without even having a job."
+  },
+  {
+   "start": 3727.17,
+   "end": 3729.45,
+   "text": "That was her job, renting rooms in her house."
+  },
+  {
+   "start": 3730.17,
+   "end": 3733.91,
+   "text": "So, um, so yeah, I'm happy about that."
+  },
+  {
+   "start": 3734.01,
+   "end": 3742.75,
+   "text": "So, um, so yeah, I'm going to, uh, I'm going to, um, watch this dude's show, but I'm, I don't"
+  },
+  {
+   "start": 3742.75,
+   "end": 3742.87,
+   "text": "Know."
+  },
+  {
+   "start": 3742.91,
+   "end": 3743.93,
+   "text": "I felt like I've done so much."
+  },
+  {
+   "start": 3743.99,
+   "end": 3745.69,
+   "text": "Maybe, maybe I should just watch a movie."
+  },
+  {
+   "start": 3745.75,
+   "end": 3749.75,
+   "text": "That'd be fun to like, at least try to watch a movie because I have a Netflix."
+  },
+  {
+   "start": 3749.75,
+   "end": 3754.05,
+   "text": "I canceled my Netflix, but I have Netflix until July 2nd."
+  },
+  {
+   "start": 3754.05,
+   "end": 3756.35,
+   "text": "Um, I canceled it because I have Apple movies now."
+  },
+  {
+   "start": 3756.71,
+   "end": 3758.89,
+   "text": "I also canceled my 24 hour gym membership."
+  },
+  {
+   "start": 3760.13,
+   "end": 3766.43,
+   "text": "And, um, I, um, I, uh, yeah."
+  },
+  {
+   "start": 3766.43,
+   "end": 3768.39,
+   "text": "And I have Apple news and, um, stuff."
+  },
+  {
+   "start": 3769.67,
+   "end": 3773.45,
+   "text": "I don't want to try to get too many subscription stuff, but, um, because I have audible too,"
+  },
+  {
+   "start": 3773.45,
+   "end": 3775.09,
+   "text": "And I still have to put new books on it."
+  },
+  {
+   "start": 3775.15,
+   "end": 3778.93,
+   "text": "Oh man, that's what I need to do soon to find out good books to put on my audible."
+  },
+  {
+   "start": 3778.93,
+   "end": 3783.41,
+   "text": "I have three credits because I haven't been keeping up with the books, but I think I want"
+  },
+  {
+   "start": 3783.41,
+   "end": 3784.13,
+   "text": "To get Blinkist too."
+  },
+  {
+   "start": 3784.19,
+   "end": 3788.27,
+   "text": "I think I had Blinkist for free for a while because I was like using it and it was awesome,"
+  },
+  {
+   "start": 3788.37,
+   "end": 3789.29,
+   "text": "But then it stopped working."
+  },
+  {
+   "start": 3789.43,
+   "end": 3792.95,
+   "text": "I had, maybe I had like a free month or something, but yeah, I think it's worth it."
+  },
+  {
+   "start": 3792.97,
+   "end": 3800.09,
+   "text": "I want to get Blinkist, but, um, but, uh, it'll be a lot easier to stay on top of that stuff"
+  },
+  {
+   "start": 3800.09,
+   "end": 3802.43,
+   "text": "And be more productive once I sober up."
+  },
+  {
+   "start": 3802.95,
+   "end": 3807.71,
+   "text": "Um, I was really high today from scraping the pipe, but, um, but it's, it's cool to be high"
+  },
+  {
+   "start": 3807.71,
+   "end": 3809.61,
+   "text": "And watch these videos and be like, what?"
+  },
+  {
+   "start": 3809.79,
+   "end": 3810.75,
+   "text": "That's so awesome."
+  },
+  {
+   "start": 3811.47,
+   "end": 3812.57,
+   "text": "Oh my God."
+  },
+  {
+   "start": 3813.31,
+   "end": 3813.83,
+   "text": "Yeah."
+  },
+  {
+   "start": 3814.13,
+   "end": 3818.41,
+   "text": "Um, um, so, um, yeah."
+  },
+  {
+   "start": 3818.41,
+   "end": 3823.15,
+   "text": "So, I mean, I've got a lot to learn and a lot to get going."
+  },
+  {
+   "start": 3823.15,
+   "end": 3830.67,
+   "text": "So I'm hoping that in a month, if I, if I dedicate just on this, I'm hoping that in a"
+  },
+  {
+   "start": 3830.67,
+   "end": 3836.49,
+   "text": "Month I'll have my studio set up and programmed and I'll have, I'll, I'll be able to work my"
+  },
+  {
+   "start": 3836.49,
+   "end": 3838.31,
+   "text": "Machines and I'll know what it's capable of."
+  },
+  {
+   "start": 3838.31,
+   "end": 3842.33,
+   "text": "And I'll be using it with all the, all the graphics and sound effects and I'll be up"
+  },
+  {
+   "start": 3842.33,
+   "end": 3844.63,
+   "text": "To upload videos all the time and prolific."
+  },
+  {
+   "start": 3845.27,
+   "end": 3845.59,
+   "text": "Wow."
+  },
+  {
+   "start": 3845.69,
+   "end": 3847.05,
+   "text": "My life's going to be totally different."
+  },
+  {
+   "start": 3847.45,
+   "end": 3848.81,
+   "text": "I think it'll take a month to do that."
+  },
+  {
+   "start": 3849.27,
+   "end": 3849.59,
+   "text": "Yeah."
+  },
+  {
+   "start": 3849.61,
+   "end": 3853.35,
+   "text": "And then if I can train and get in shape, I guess that's like a month of training."
+  },
+  {
+   "start": 3853.35,
+   "end": 3857.41,
+   "text": "And then maybe I'll do the triathlon if I can figure out to sleep, or maybe I'll just"
+  },
+  {
+   "start": 3857.41,
+   "end": 3860.67,
+   "text": "Take a whole shitload of, you know, I'll eat like a hundred dollars worth of marijuana"
+  },
+  {
+   "start": 3860.67,
+   "end": 3861.37,
+   "text": "Candies."
+  },
+  {
+   "start": 3861.95,
+   "end": 3866.67,
+   "text": "I just knock myself the fuck out so that I sleep and I just slay in bed."
+  },
+  {
+   "start": 3866.67,
+   "end": 3872.17,
+   "text": "Like when my eyes closed and my lights on all day long so that I get up, even if I"
+  },
+  {
+   "start": 3872.17,
+   "end": 3876.89,
+   "text": "Didn't sleep, I'll get up when I do the triathlon, I have a wetsuit."
+  },
+  {
+   "start": 3877.23,
+   "end": 3882.19,
+   "text": "So, um, unfortunately this year they don't have swimming in the lake for the first time"
+  },
+  {
+   "start": 3882.19,
+   "end": 3882.59,
+   "text": "In 10 years."
+  },
+  {
+   "start": 3882.63,
+   "end": 3883.23,
+   "text": "I'm really pumped."
+  },
+  {
+   "start": 3883.33,
+   "end": 3884.75,
+   "text": "I was going to want to practice in the lake."
+  },
+  {
+   "start": 3885.17,
+   "end": 3888.67,
+   "text": "It's going to be a shock to me because it's fucking like seven in the morning or something."
+  },
+  {
+   "start": 3890.09,
+   "end": 3892.39,
+   "text": "Um, freezing ass cold water."
+  },
+  {
+   "start": 3892.45,
+   "end": 3894.17,
+   "text": "Like I'm not good at cold, but I have a wetsuit."
+  },
+  {
+   "start": 3894.27,
+   "end": 3896.49,
+   "text": "So if I see everybody else, I'll get caught up in that."
+  },
+  {
+   "start": 3897.29,
+   "end": 3897.73,
+   "text": "Excitement."
+  },
+  {
+   "start": 3897.81,
+   "end": 3901.41,
+   "text": "And I'll be happy about the fact that I have a wetsuit, you know, like I've never"
+  },
+  {
+   "start": 3901.41,
+   "end": 3902.65,
+   "text": "Even swam in a wetsuit before."
+  },
+  {
+   "start": 3902.77,
+   "end": 3903.45,
+   "text": "I'm excited."
+  },
+  {
+   "start": 3904.41,
+   "end": 3905.61,
+   "text": "So, and I'll be fit enough."
+  },
+  {
+   "start": 3906.03,
+   "end": 3911.07,
+   "text": "Um, I mean, if I'm racing with a 45 to 50 year olds, those guys are fucking slow."
+  },
+  {
+   "start": 3911.59,
+   "end": 3913.87,
+   "text": "They probably don't even train that hard, you know?"
+  },
+  {
+   "start": 3914.37,
+   "end": 3917.35,
+   "text": "And I know when I look at the, at the results, they're crazy slow."
+  },
+  {
+   "start": 3917.45,
+   "end": 3918.53,
+   "text": "They're ridiculously slow."
+  },
+  {
+   "start": 3919.07,
+   "end": 3919.77,
+   "text": "Like the fat."
+  },
+  {
+   "start": 3919.85,
+   "end": 3923.85,
+   "text": "Well, compared to the pros, they're slow."
+  },
+  {
+   "start": 3924.81,
+   "end": 3926.73,
+   "text": "Maybe they're, they're, they're fast as shit compared to me."
+  },
+  {
+   "start": 3926.79,
+   "end": 3928.43,
+   "text": "So yeah, I shouldn't be like, yeah."
+  },
+  {
+   "start": 3929.27,
+   "end": 3932.61,
+   "text": "Cause I was saying, I should be like, yeah, I could probably swim as fast as them."
+  },
+  {
+   "start": 3932.67,
+   "end": 3933.51,
+   "text": "Be swimming in the front."
+  },
+  {
+   "start": 3933.51,
+   "end": 3938.35,
+   "text": "And I'm like, but then I'm like, no, anyways, um, that's enough talking."
+  },
+  {
+   "start": 3938.53,
+   "end": 3943.37,
+   "text": "Um, when I do my video tomorrow, if it's at the end of the day, um, hopefully I will have,"
+  },
+  {
+   "start": 3943.47,
+   "end": 3949.67,
+   "text": "Um, I will finish the tutorial on After Effects."
+  },
+  {
+   "start": 3949.67,
+   "end": 3953.99,
+   "text": "And I will be building something on After Effects or I'll be watching."
+  },
+  {
+   "start": 3954.11,
+   "end": 3956.07,
+   "text": "Cause I, it's not just After Effects I have to learn."
+  },
+  {
+   "start": 3956.15,
+   "end": 3957.29,
+   "text": "I don't know anything about my other stuff."
+  },
+  {
+   "start": 3957.81,
+   "end": 3965.15,
+   "text": "Maybe I'll be watching like a tutorial on, um, um, on, uh, the, the computer."
+  },
+  {
+   "start": 3965.27,
+   "end": 3969.61,
+   "text": "But I felt like I needed to learn After Effects before I could, I wanted to learn the ATEM."
+  },
+  {
+   "start": 3969.87,
+   "end": 3972.35,
+   "text": "Cause I had to have lower thirds to slip in and out."
+  },
+  {
+   "start": 3972.89,
+   "end": 3976.15,
+   "text": "But I, but I don't know how to, um, make the screen capture."
+  },
+  {
+   "start": 3976.15,
+   "end": 3981.43,
+   "text": "So I have to do the screen capture of the computer and be, and learn how to do that at the right size."
+  },
+  {
+   "start": 3982.13,
+   "end": 3983.97,
+   "text": "And I don't know what tutorial that is."
+  },
+  {
+   "start": 3984.03,
+   "end": 3988.25,
+   "text": "I'll have to find out what tutorial and just watch ones until I'm like, okay, so that's how you do it."
+  },
+  {
+   "start": 3988.71,
+   "end": 3989.97,
+   "text": "But I can't do that yet."
+  },
+  {
+   "start": 3989.97,
+   "end": 3993.01,
+   "text": "Cause I don't even have the, um, HDMI cable."
+  },
+  {
+   "start": 3993.43,
+   "end": 3998.81,
+   "text": "So the last few days I've been buying stuff that I couldn't even, for things that I need to do that I didn't, couldn't even do."
+  },
+  {
+   "start": 3999.03,
+   "end": 4005.45,
+   "text": "Like maybe I didn't realize it or something, but, um, uh, but yeah."
+  },
+  {
+   "start": 4005.45,
+   "end": 4013.75,
+   "text": "Uh, but luckily it's going to come soon, like by Monday, like tomorrow or the day after tomorrow is when my HDMI cables come and I can practice those switchers."
+  },
+  {
+   "start": 4014.19,
+   "end": 4022.17,
+   "text": "And then, you know, do the screen captures, video captures of my computer screen onto the little lower thirds, um, you know, and see if that works."
+  },
+  {
+   "start": 4022.17,
+   "end": 4025.59,
+   "text": "And if it doesn't, maybe, maybe I'll, I'll just go to the lower third thing."
+  },
+  {
+   "start": 4025.59,
+   "end": 4031.85,
+   "text": "Cause I can, I can make the lower thirds kind of come in, zoom in and zoom out with this, uh, after effects thing."
+  },
+  {
+   "start": 4031.97,
+   "end": 4035.91,
+   "text": "So, um, maybe I'll just make a bunch of lower thirds too."
+  },
+  {
+   "start": 4036.43,
+   "end": 4038.41,
+   "text": "That adds for stuff I haven't thought of yet."
+  },
+  {
+   "start": 4038.41,
+   "end": 4042.47,
+   "text": "Even we have for intros and stuff and graphics and stuff."
+  },
+  {
+   "start": 4042.47,
+   "end": 4049.99,
+   "text": "But, um, yeah, um, anyways, a lot of, a lot of stuff to learn and more videos to watch."
+  },
+  {
+   "start": 4050.09,
+   "end": 4051.19,
+   "text": "So it's fun."
+  },
+  {
+   "start": 4051.25,
+   "end": 4055.83,
+   "text": "I collected a lot of, um, videos, tutorial videos on my computer."
+  },
+  {
+   "start": 4055.83,
+   "end": 4056.83,
+   "text": "So I don't look at them on YouTube."
+  },
+  {
+   "start": 4056.97,
+   "end": 4059.01,
+   "text": "I already made like the playlist on my computer."
+  },
+  {
+   "start": 4059.01,
+   "end": 4061.81,
+   "text": "So I just go and I want the best ones."
+  },
+  {
+   "start": 4061.97,
+   "end": 4067.85,
+   "text": "And so I don't watch those and follow along and, you know, and it'll be fun to like follow along and do that."
+  },
+  {
+   "start": 4067.91,
+   "end": 4081.78,
+   "text": "Like if I'm living here alone, um, I might, you know, if, as long as I'm not freaking out about money, like after I, you know, no, I, you know, set a time aside and yeah, be here alone."
+  },
+  {
+   "start": 4081.78,
+   "end": 4084.82,
+   "text": "And just, it's the perfect time for me to concentrate."
+  },
+  {
+   "start": 4084.82,
+   "end": 4098.68,
+   "text": "Because I do, it's kind of like a lot to learn, have my shit together and just have me, you know, just my energy, you know, um, like fuck, like maybe I should buy weed just to smoke weed by myself in my house as alone."
+  },
+  {
+   "start": 4098.78,
+   "end": 4099.08,
+   "text": "I don't know."
+  },
+  {
+   "start": 4099.14,
+   "end": 4102.04,
+   "text": "Like, you know, be stoned in my house."
+  },
+  {
+   "start": 4102.84,
+   "end": 4103.72,
+   "text": "I don't know."
+  },
+  {
+   "start": 4104.14,
+   "end": 4107.62,
+   "text": "Um, anyways, that's enough talking."
+  },
+  {
+   "start": 4108.08,
+   "end": 4112.76,
+   "text": "Hopefully by tomorrow I will have made progress with watching videos or learning something."
+  },
+  {
+   "start": 4112.76,
+   "end": 4119.88,
+   "text": "Um, and yeah, and maybe I'll have an idea in my head that I'll talk about, about the music and the sound strategy."
+  },
+  {
+   "start": 4121.14,
+   "end": 4123.92,
+   "text": "Um, cause that's going to be pretty original too."
+  },
+  {
+   "start": 4123.98,
+   "end": 4128.08,
+   "text": "A lot of my own voice and I have a flute and then, and then throw in the tunes."
+  },
+  {
+   "start": 4128.32,
+   "end": 4136.7,
+   "text": "I think I actually, maybe right, right now I want to open up, uh, um, Adobe Audition and actually sample the songs that they have."
+  },
+  {
+   "start": 4137.32,
+   "end": 4137.72,
+   "text": "Yeah."
+  },
+  {
+   "start": 4137.84,
+   "end": 4138.62,
+   "text": "That's what I'm going to do."
+  },
+  {
+   "start": 4138.94,
+   "end": 4139.3,
+   "text": "Okay."
+  },
+  {
+   "start": 4139.4,
+   "end": 4140.04,
+   "text": "Talk to you tomorrow."
+  }
+ ]
+}
