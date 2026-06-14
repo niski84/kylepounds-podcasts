@@ -136,83 +136,158 @@
  "transcript": [
   {
    "start": 0.0,
-   "end": 4.0,
-   "text": "I'll get in cut up on the video request. This one's from Mr. Heavy Metal dude."
+   "end": 3.98,
+   "text": "Getting caught up on the video requests. This one's from Mr. Heavy Metal, dude."
   },
   {
-   "start": 5.04,
-   "end": 13.04,
-   "text": "Hi Kyle. Next video request. What is your opinion on cookies in general? Also, what type of cookies do you like?"
+   "start": 5.0,
+   "end": 10.7,
+   "text": "Hi, Kyle. Next video request. What is your, um, opinion on cookies in general?"
   },
   {
-   "start": 13.04,
-   "end": 22.56,
-   "text": "And eat minor chocolate chip, what chocolate, oatmeal, raisin macadamina and sugar cookies thanks and have a nice day."
+   "start": 11.4,
+   "end": 13.58,
+   "text": "Also, what type of cookies do you like and eat?"
   },
   {
-   "start": 22.56,
-   "end": 29.84,
-   "text": "Interesting cookies. What are my opinions on cookies? I don't eat cookies I never buy cookies. I almost never never never buy cookies."
+   "start": 14.38,
+   "end": 21.1,
+   "text": "Mine are chocolate chip, white chocolate, oatmeal, uh, raisin macadamia nut, and sugar cookies."
   },
   {
-   "start": 30.0,
-   "end": 36.0,
-   "text": "If I buy cookies I can't like them or it's in my time. I want to see my money. Although I don't mind eating cookies."
+   "start": 21.2,
+   "end": 23.04,
+   "text": "Thanks, and have a nice day. Interesting."
   },
   {
-   "start": 36.0,
-   "end": 40.0,
-   "text": "Back last summer I didn't have any money and I went over to VIA."
+   "start": 24.18,
+   "end": 26.02,
+   "text": "Cookies. What are my opinions on cookies?"
   },
   {
-   "start": 42.0,
-   "end": 50.0,
-   "text": "Food place, you know? We're a little food kitchen place. I'm gonna give you some cookies and I ate them. My mom likes to get cookies."
+   "start": 26.02,
+   "end": 30.04,
+   "text": "And, um, I don't eat cookies. I never buy cookies. I almost, I never, never, never buy cookies."
   },
   {
-   "start": 50.0,
-   "end": 58.0,
-   "text": "When I get a sweet tooth I just keep counting. In fact last night I bought candy. I bought nerds and bottle caps and that's what I have."
+   "start": 30.12,
+   "end": 33.18,
+   "text": "If I buy cookies, I feel like I'm wasting my time. I'm wasting my money."
   },
   {
-   "start": 58.0,
-   "end": 64.0,
-   "text": "I don't have cookies. But when I do eat cookies my favorite would be chocolate chip cookies."
+   "start": 33.84,
+   "end": 35.64,
+   "text": "Um, although I don't mind eating cookies."
   },
   {
-   "start": 64.0,
-   "end": 72.0,
-   "text": "I like the chocolate chip cookies that are soft or particularly soft. I want to grow up my favorite flavor was chocolate."
+   "start": 35.98,
+   "end": 43.84,
+   "text": "Um, back last summer, I didn't have any money, and I went over to the, uh, food place, you know?"
   },
   {
-   "start": 72.0,
-   "end": 80.0,
-   "text": "I don't think it's like that anymore but yeah cookies are good. I like oatmeal cookies."
+   "start": 44.26,
+   "end": 47.56,
+   "text": "What, a little food kitchen place, and they gave me some cookies, and I ate them. Yummy, yummy."
   },
   {
-   "start": 80.0,
-   "end": 88.0,
-   "text": "For a while those are my favorite but I like what you're talking about cookies go with nuts like macadamia nuts."
+   "start": 48.0,
+   "end": 49.1,
+   "text": "My mom likes to get cookies."
   },
   {
-   "start": 88.0,
-   "end": 92.0,
-   "text": "I don't know the history of cookies though."
+   "start": 49.82,
+   "end": 53.54,
+   "text": "When I get a sweet tooth, I just eat candy. In fact, last night, I bought candy. I bought Nerds."
   },
   {
-   "start": 92.0,
-   "end": 104.0,
-   "text": "I wouldn't be surprised if it was like somebody who was sweet tooth and they were normally make bread and they forgot to add the yeast and it was sweet bread."
+   "start": 53.54,
+   "end": 58.46,
+   "text": "I bought Nerds and Bottle Caps, and, uh, that's what I have. Um, I don't do cookies."
   },
   {
-   "start": 104.0,
-   "end": 108.0,
-   "text": "It does the fries and it looks like it's making a cookie."
+   "start": 59.42,
+   "end": 63.18,
+   "text": "But, when I do eat cookies, my favorite would be, uh, chocolate chip cookies."
   },
   {
-   "start": 108.0,
-   "end": 110.0,
-   "text": "Okay so peace out."
+   "start": 63.82,
+   "end": 67.12,
+   "text": "I like the chocolate chip cookies that are soft, perpetually soft."
+  },
+  {
+   "start": 68.26,
+   "end": 72.12,
+   "text": "Um, I, when I grew up, my favorite, um, flavor was chocolate."
+  },
+  {
+   "start": 72.22,
+   "end": 76.62,
+   "text": "I don't think it's like that anymore, but, uh, but, yeah, cookies are good."
+  },
+  {
+   "start": 76.62,
+   "end": 79.94,
+   "text": "But, um, I like oatmeal cookies."
+  },
+  {
+   "start": 81.62,
+   "end": 83.32,
+   "text": "Um, for a while, those are my favorite."
+  },
+  {
+   "start": 83.64,
+   "end": 85.28,
+   "text": "Um, but I like what you're talking about."
+  },
+  {
+   "start": 85.72,
+   "end": 88.04,
+   "text": "Cookies go well with nuts, like macadamia nuts."
+  },
+  {
+   "start": 88.38,
+   "end": 88.96,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 89.88,
+   "end": 91.76,
+   "text": "Uh, I don't know the history of cookies, though."
+  },
+  {
+   "start": 93.84,
+   "end": 98.36,
+   "text": "It wouldn't be surprising if it was, like, somebody who has had a sweet tooth,"
+  },
+  {
+   "start": 98.42,
+   "end": 100.14,
+   "text": "And they're, you know, they normally make bread,"
+  },
+  {
+   "start": 100.14,
+   "end": 102.64,
+   "text": "And then they forgot to add, like, the yeast,"
+  },
+  {
+   "start": 102.74,
+   "end": 105.14,
+   "text": "And it was, like, sweet bread that doesn't rise."
+  },
+  {
+   "start": 105.28,
+   "end": 106.36,
+   "text": "And, oh, look, let's make it a cookie."
+  },
+  {
+   "start": 107.08,
+   "end": 107.44,
+   "text": "There you go."
+  },
+  {
+   "start": 108.34,
+   "end": 109.48,
+   "text": "Okay, so, peace out."
   }
  ]
 }

@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-2959 videos with transcripts. Source of truth for transcripts + enrichments.
+2979 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -731,6 +731,26 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2013-05-31 | [Living in Lafayette Vlog 5-31-2013](corpus/videos/9nBZwMqXHKs.json) | — |  |
 | 2013-05-30 | [Living in Lafayette Vlog 5-30-2013](corpus/videos/0QBnMFcOHRg.json) | — |  |
 | 2013-05-29 | [Living in Lafayette Vlog 5-29-2013](corpus/videos/cTfsdnOZuiA.json) | — |  |
+| 2013-05-28 | [Living in Lafayette Vlog 5-28-2013](corpus/videos/wKF-X2vV18I.json) | — |  |
+| 2013-05-27 | [Living in Lafayette Vlog 5-27-2013](corpus/videos/6kdUBRIkJKs.json) | — |  |
+| 2013-05-26 | [Living in Lafayette Vlog 5-26-2013](corpus/videos/3NPfr_rfQ4E.json) | — |  |
+| 2013-05-25 | [Living in Lafayette Vlog 5-25-2013](corpus/videos/_-9oxr-CUNg.json) | — |  |
+| 2013-05-24 | [Living in Lafayette Vlog 5-24-2013](corpus/videos/CiZtRdrwWT0.json) | — |  |
+| 2013-05-23 | [Living in Lafayette Vlog 5-23-2013](corpus/videos/abdcrINP5qI.json) | — |  |
+| 2013-05-22 | [Living in Lafayete Vlog 5-22-2013](corpus/videos/gsoof5PbnHg.json) | — |  |
+| 2013-05-21 | [Living in Lafayette Vlog 5-21-2013](corpus/videos/lIRYsEISY-s.json) | — |  |
+| 2013-05-20 | [Living in Lafayette Vlog 5-20-2013](corpus/videos/OmtFfWdbWfo.json) | — |  |
+| 2013-05-19 | [Living in Lafayette Vlog 5-19-2013](corpus/videos/HPbGxo8EjxI.json) | — |  |
+| 2013-05-18 | [Living in Lafayette Vlog 5-18-2013](corpus/videos/AqbSHOKeOPQ.json) | — |  |
+| 2013-05-17 | [Living in Lafayette Vlog 5-17-2013](corpus/videos/APJSACH6ytU.json) | — |  |
+| 2013-05-16 | [Living in Lafayette Vlog 5-16-2013](corpus/videos/kcigZyLm35E.json) | — |  |
+| 2013-05-15 | [Living in Lafayette Vlog 5-15-2013](corpus/videos/6m1acgL39ng.json) | — |  |
+| 2013-05-14 | [Living in Lafayette Vlog 5-14-2013](corpus/videos/F7AadF_XD2E.json) | — |  |
+| 2013-05-13 | [Living in Lafayette Vlog 5-13-2013](corpus/videos/NNyDle_XdhU.json) | — |  |
+| 2013-05-12 | [Living in Lafayette Vlog 5-12-2013 (1st day riding & Vlogging!)](corpus/videos/EAZ40kFPgEs.json) | — |  |
+| 2013-05-08 | [Living in Lafayette Vlog 5-8-2013](corpus/videos/hK6OBiEYrTc.json) | — |  |
+| 2013-05-07 | [Living in Lafayette Vlog 5-7-2013](corpus/videos/UKAYWZRKH_A.json) | — |  |
+| 2013-05-06 | [Living in Lafayette Vlog 5-6-2013](corpus/videos/eEWD4kH_MSw.json) | — |  |
 | 2013-05-05 | [Livingin Lafayette Vlog 5-5-2013](corpus/videos/WqFIP3fX464.json) | — |  |
 | 2013-05-04 | [Living in Lafayette Vlog 5-4-2013](corpus/videos/oFYMJWItg68.json) | — |  |
 | 2013-05-03 | [Pre getting back into shape flexing 5-3-2013 - 189 lbs 85 Kg](corpus/videos/Rx8xRF7ebBM.json) | — |  |
