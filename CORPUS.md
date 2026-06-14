@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-2779 videos with transcripts. Source of truth for transcripts + enrichments.
+2959 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -731,6 +731,186 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2013-05-31 | [Living in Lafayette Vlog 5-31-2013](corpus/videos/9nBZwMqXHKs.json) | — |  |
 | 2013-05-30 | [Living in Lafayette Vlog 5-30-2013](corpus/videos/0QBnMFcOHRg.json) | — |  |
 | 2013-05-29 | [Living in Lafayette Vlog 5-29-2013](corpus/videos/cTfsdnOZuiA.json) | — |  |
+| 2013-05-05 | [Livingin Lafayette Vlog 5-5-2013](corpus/videos/WqFIP3fX464.json) | — |  |
+| 2013-05-04 | [Living in Lafayette Vlog 5-4-2013](corpus/videos/oFYMJWItg68.json) | — |  |
+| 2013-05-03 | [Pre getting back into shape flexing 5-3-2013 - 189 lbs 85 Kg](corpus/videos/Rx8xRF7ebBM.json) | — |  |
+| 2013-05-03 | [Living in Lafayette  Vlog 5-3-2013](corpus/videos/vedXd8Wb7eQ.json) | — |  |
+| 2013-05-02 | [Living in Lafayette Vlog 5-2-2013](corpus/videos/TebfmWI0NyU.json) | — |  |
+| 2013-05-01 | [Living in Lafayette Vlog 5-1-2013](corpus/videos/H03uypRevTw.json) | — |  |
+| 2013-04-30 | [Living in Lafayette Vlog 4-30-2013](corpus/videos/wMQ_WhapJyY.json) | — |  |
+| 2013-04-29 | [Living in Lafayette 4-29-2013](corpus/videos/rOFzuUtVQPA.json) | — |  |
+| 2013-04-28 | [Living in Lafayette Vlog 4-28-2013](corpus/videos/djCAyHm7Fk0.json) | — |  |
+| 2013-04-27 | [Living in Lafayette Vlog 4-27-2013](corpus/videos/7E14wtDPqTQ.json) | — |  |
+| 2013-04-27 | [Questions from Andy  4-27-2013 - Request](corpus/videos/sI3wpmQwKjA.json) | — |  |
+| 2013-04-26 | [Living in Lafayette Vlog 4-26-2013](corpus/videos/Q2M6YwTqUeQ.json) | — |  |
+| 2013-04-25 | [Living in Lafayette Vlog 4-25-2013](corpus/videos/HGU7xOp89rM.json) | — |  |
+| 2013-04-24 | [Living in Lafayette Vlog 4-24-2013](corpus/videos/sUCKx1xkbwA.json) | — |  |
+| 2012-06-07 | [Living in the Van Vlog 6-7-12](corpus/videos/k-xrePRZiig.json) | — |  |
+| 2012-06-06 | [Living in the Van Vlog 6-6-12](corpus/videos/X9lWX1cqcLs.json) | — |  |
+| 2012-01-13 | [Living in the Van Vlog 1-13-2012](corpus/videos/JYbVAngDyhc.json) | — |  |
+| 2012-01-10 | [Living in the Van Vlog 1-10-2012](corpus/videos/ygmWalAe-v0.json) | — |  |
+| 2012-01-09 | [Living in the Van Vlog 1-9-2012](corpus/videos/fo743irQqtE.json) | — |  |
+| 2012-01-07 | [Living in the Van Vlog 1-7-2012](corpus/videos/o1UfSvjgwdA.json) | — |  |
+| 2012-01-06 | [Living in the Van Vlog 1-6-2012 (well as a refugee though)](corpus/videos/dc9BVukq3Xo.json) | — |  |
+| 2012-01-05 | [Living in the Van Vlog 1-5-2012](corpus/videos/sjzICxtRN0s.json) | — |  |
+| 2012-01-04 | [Living in the Van Vlog 1-4-2012](corpus/videos/k4XCeFNW1J0.json) | — |  |
+| 2012-01-03 | [Living in the Van Vlog 1-3-2012](corpus/videos/Hmj71l42erg.json) | — |  |
+| 2012-01-01 | [Living in the Van Vlog 1-1-2012](corpus/videos/Hr0aQRFytcU.json) | — |  |
+| 2011-12-31 | [Living in the Van Vlog 12-31-2011](corpus/videos/vuSApdNClBg.json) | — |  |
+| 2011-12-30 | [Living in the Van Vlog 12-30-2011](corpus/videos/2c1Z9Es-fb8.json) | — |  |
+| 2011-12-29 | [Living in the Van Vlog 12-29-2011](corpus/videos/RBY09YxAAbI.json) | — |  |
+| 2011-12-28 | [Living in the Van Vlog 12-28-2011](corpus/videos/p5hOIEJRsWE.json) | — |  |
+| 2011-12-27 | [Living in the Van Vlog 12-27-2011](corpus/videos/SNLqqqG_cJ8.json) | — |  |
+| 2011-12-26 | [Living in the Van Vlog 12-26-2011](corpus/videos/PodjolG38ig.json) | — |  |
+| 2011-12-25 | [Living in the Van Vlog 12-25-2011](corpus/videos/OidTYQW2V3U.json) | — |  |
+| 2011-12-24 | [Living in the Van vlog 12-24-2011](corpus/videos/CdW_ztViLPE.json) | — |  |
+| 2011-12-23 | [Living in the Van Vlog 12-23-2011](corpus/videos/VIXvmjkZcn0.json) | — |  |
+| 2011-12-22 | [Living in the Van Vlog 12-22-2011](corpus/videos/ReIXWIvHh6Q.json) | — |  |
+| 2011-12-21 | [Living in the Van Vlog 12-21-2011](corpus/videos/YOIi0v1nAc4.json) | — |  |
+| 2011-12-20 | [Living in the Van Vlog 12-20-2011](corpus/videos/-ZWq30iN1o8.json) | — |  |
+| 2011-12-19 | [Living in the Van Vlog 12-19-2011](corpus/videos/lT8XPNzWitg.json) | — |  |
+| 2011-12-18 | [Living in the Van Vlog 12-18-2011](corpus/videos/PDjTLAqdpaw.json) | — |  |
+| 2011-12-17 | [Living in the Van Vlog 12-17-2011](corpus/videos/xOlh-vNH99E.json) | — |  |
+| 2011-12-16 | [Living in the Van Vlog 12-16-2011](corpus/videos/1ogdaEVlfns.json) | — |  |
+| 2011-12-15 | [Living in the Van Vlog 12-15-2011](corpus/videos/4XYDQE3g_yk.json) | — |  |
+| 2011-12-14 | [Living in the Van Vlog 12-14-2011](corpus/videos/R7fTDfNIoJ4.json) | — |  |
+| 2011-12-13 | [Living in the Van Vlog 12-13-2011](corpus/videos/BBX6uXVDOrs.json) | — |  |
+| 2011-12-12 | [Living in the Van Vlog 12-12-2011](corpus/videos/kIjrrYhhbo4.json) | — |  |
+| 2011-12-11 | [Living in the Van Vlog 12-11-2011](corpus/videos/ez0_3b--jK0.json) | — |  |
+| 2011-12-10 | [Living in the Van Vlog 12-10-2011](corpus/videos/ygHzYQaaH6o.json) | — |  |
+| 2011-12-09 | [Living in the Van Vlog 12-9-2011](corpus/videos/N5HgLpvSCcc.json) | — |  |
+| 2011-12-08 | [Living in the Van Vlog 12-8-2011](corpus/videos/4oA7J7t5MXE.json) | — |  |
+| 2011-12-07 | [Living in the Van Vlog 12-7-2011](corpus/videos/uxr2OJBx6po.json) | — |  |
+| 2011-12-06 | [Living in the Van Vlog 12-6-2011](corpus/videos/JqStbFYEZrc.json) | — |  |
+| 2011-12-05 | [Living in the Van Vlog 12-5-2011](corpus/videos/-vbZxjhwp5U.json) | — |  |
+| 2011-12-04 | [Living in the Van Vlog 12-4-2011](corpus/videos/hF6sYv-SlbE.json) | — |  |
+| 2011-12-03 | [Living in the Van Vlog 12-3-2011](corpus/videos/30gO9y_1Qok.json) | — |  |
+| 2011-12-02 | [Living in the Van Vlog 12-2-2011](corpus/videos/S_ASypfCleA.json) | — |  |
+| 2011-12-01 | [Living in the Van Vlog 12-1-2011](corpus/videos/T8Agevs054w.json) | — |  |
+| 2011-11-30 | [Living in the Van Vlog 11-30-2011](corpus/videos/XTCggF5rqvU.json) | — |  |
+| 2011-11-29 | [Living in the Van Vlog 11-29-2011](corpus/videos/Hoq63MIAPFc.json) | — |  |
+| 2011-11-28 | [Living in the Van Vlog 11-28-2011](corpus/videos/jeiMd77GvAQ.json) | — |  |
+| 2011-11-27 | [Living in the Van Vlog 11-27-2011](corpus/videos/ucsFxhaRwHo.json) | — |  |
+| 2011-11-26 | [Living in the Van Vlog 11-26-2011](corpus/videos/TZIECmYyNJc.json) | — |  |
+| 2011-11-25 | [Living in the Van Vlog 11-25-2011](corpus/videos/E33CCkA4Ifk.json) | — |  |
+| 2011-11-24 | [Living in the Van Vlog 11-24-2011](corpus/videos/gMSGUWlBpUg.json) | — |  |
+| 2011-11-23 | [Living in the Van Vlog 11-23-2011](corpus/videos/fu4cpdmG-LU.json) | — |  |
+| 2011-11-22 | [Living in the Van Vlog 11-22-2011](corpus/videos/Txf0WNytaAg.json) | — |  |
+| 2011-11-21 | [Living in the Van Vlog 11-21-2011 (Including cooking demo)](corpus/videos/kN4-BsZHSqc.json) | — |  |
+| 2011-11-20 | [Living in the Van Vlog 11-20-2011](corpus/videos/8Q7eFF4HdyQ.json) | — |  |
+| 2011-11-19 | [Living in the Van Vlog 11-19-2011](corpus/videos/BEmSZtzCAQY.json) | — |  |
+| 2011-11-18 | [Living in the Van Vlog 11-18-2011](corpus/videos/MTRMn7lODMc.json) | — |  |
+| 2011-11-17 | [Living in the Van Vlog 11-17-2011](corpus/videos/KhPWgRwGnXE.json) | — |  |
+| 2011-11-16 | [Living the Van Vlog 11-16-2011](corpus/videos/5Qq5SpvTAIU.json) | — |  |
+| 2011-11-15 | [Living in the Van Vlog 11-15-2011](corpus/videos/-YOjabeEKxQ.json) | — |  |
+| 2011-11-14 | [Living in the Van Vlog 11-14-2011](corpus/videos/4kntXfoIndw.json) | — |  |
+| 2011-11-13 | [Living in the Van Vlog 11-13-2011](corpus/videos/8o19lSJipE0.json) | — |  |
+| 2011-11-12 | [Living in the Van Vlog 11-12-2011](corpus/videos/4sAJdCCh29w.json) | — |  |
+| 2011-11-11 | [Living in the Van Vlog 11-11-2011](corpus/videos/mgCdcVSa0Xk.json) | — |  |
+| 2011-11-10 | [Living in the Van Vlog 11-10-2011](corpus/videos/YFg6-Ykotp0.json) | — |  |
+| 2011-11-09 | [Living in the Van Vlog 11-9-2011](corpus/videos/OSw0aIRLkfU.json) | — |  |
+| 2011-11-08 | [Living in the Van Vlog 11-8-2011](corpus/videos/NM4e5b5lAZc.json) | — |  |
+| 2011-11-07 | [Living in the Van Vlog 11-7-2011](corpus/videos/NeYqEjhcBGA.json) | — |  |
+| 2011-11-06 | [Living in the Van Vlog 11-6-2011](corpus/videos/YvIwipyVz2c.json) | — |  |
+| 2011-11-05 | [Living in the Van Vlog 11-5-2011](corpus/videos/16Tbw_ilQA8.json) | — |  |
+| 2011-11-04 | [Living in the Van Vlog 11-4-2011](corpus/videos/DMhKzAPTYWk.json) | — |  |
+| 2011-11-03 | [Living in the Van Vlog 11-3-2011](corpus/videos/3fnhqlQb6xI.json) | — |  |
+| 2011-11-02 | [Living in the Van Vlog 11-2-2011](corpus/videos/ODCsG6bf8uE.json) | — |  |
+| 2011-11-01 | [Living in the Van Vlog 11-1-2011](corpus/videos/TbSU03vSHlc.json) | — |  |
+| 2011-10-31 | [Living in the Van Vlog 10-31-2011](corpus/videos/F855FHHRlxE.json) | — |  |
+| 2011-10-30 | [Living in the Van Vlog 10-30-2011](corpus/videos/aDfAl9vEHcM.json) | — |  |
+| 2011-10-29 | [Living in the Van Vlog 10-29-2011](corpus/videos/gsxQZoHAPIk.json) | — |  |
+| 2011-10-28 | [Living in the Van Vlog 10-28-2011](corpus/videos/QvHpEh-SOyA.json) | — |  |
+| 2011-10-27 | [Living in the Van Vlog 10-27-2011](corpus/videos/P91jSZqJPkY.json) | — |  |
+| 2011-10-26 | [Living in the Van Vlog 10-26-2011](corpus/videos/gjdYXl8H6pg.json) | — |  |
+| 2011-10-25 | [Living in the Van Vlog 10-25-2011](corpus/videos/x9oulPpodCA.json) | — |  |
+| 2011-10-24 | [Living in the Van Vlog 10-24-2011](corpus/videos/V6spp-6GO2s.json) | — |  |
+| 2011-10-23 | [Living in the Van Vlog 10-23-2011](corpus/videos/F5lxrn1FBmY.json) | — |  |
+| 2011-10-22 | [Living in the van vlog 10-22-2011](corpus/videos/uRUIzm4lwKU.json) | — |  |
+| 2011-10-21 | [Living in the Van Vlog 10-21-2011](corpus/videos/9SBJKRK0Hns.json) | — |  |
+| 2011-10-20 | [Living in the Van Vlog 10-20-2011](corpus/videos/nbJj5zPdo04.json) | — |  |
+| 2011-10-19 | [Living in the Van Vlog 10-19-2011](corpus/videos/i2Rby92-76Q.json) | — |  |
+| 2011-10-18 | [Living in the Van Vlog 10-18-2011](corpus/videos/3qUxZk8wCh4.json) | — |  |
+| 2011-10-17 | [Living in the Van Vlog 10-17-2011](corpus/videos/vkJIeswbDgI.json) | — |  |
+| 2011-10-16 | [Living in the Van Vlog 10-16-2011](corpus/videos/BsBYYv-dgXI.json) | — |  |
+| 2011-10-15 | [Living in the Van Vlog 10-15-2011](corpus/videos/OJRE6oORy68.json) | — |  |
+| 2011-10-14 | [Living in the Van Vlog 10-14-2011](corpus/videos/M7w3BSUJUR4.json) | — |  |
+| 2011-10-13 | [Living in the Van Vlog 10-13-2011](corpus/videos/RDbQraa0YXM.json) | — |  |
+| 2011-10-12 | [Living in the Van Vlog 10-12-2011](corpus/videos/GXoX1-pD7fs.json) | — |  |
+| 2011-10-11 | [Living in the Van Vlog 10-11-2011](corpus/videos/ROpy6ty4eXk.json) | — |  |
+| 2011-10-10 | [Living in the Van Vlog 10-10-2011](corpus/videos/CHW-Ketr23E.json) | — |  |
+| 2011-10-09 | [Living in the Van Vlog 10-9-2011](corpus/videos/hFSwgjAQTPU.json) | — |  |
+| 2011-10-08 | [Living in the Van Vlog 10-8-2011](corpus/videos/GAa9FL5lnDQ.json) | — |  |
+| 2011-10-07 | [Living in the Van Vlog 10-7-2011](corpus/videos/2TS_OOVeCLU.json) | — |  |
+| 2011-10-06 | [Living in the Van Vlog 10-6-2011](corpus/videos/IlIOdTEBfh4.json) | — |  |
+| 2011-10-05 | [Living in the Van Vlog 10-5-2011](corpus/videos/KkwTcqfenXY.json) | — |  |
+| 2011-10-04 | [Living in the Van Vlog 10-4-2011](corpus/videos/4okviPnT-jE.json) | — |  |
+| 2011-10-03 | [Living in the Van Vlog 10-3-2011](corpus/videos/VWxU8Y3EMak.json) | — |  |
+| 2011-10-02 | [Living in the Van Vlog 10-2-2011](corpus/videos/1K5HPYXNYmg.json) | — |  |
+| 2011-10-01 | [Living in the Van Vlog 10-1-2011](corpus/videos/d847slAZENE.json) | — |  |
+| 2011-09-30 | [Living in the Van Vlog 9-30-2011](corpus/videos/CA1cB2XVyqo.json) | — |  |
+| 2011-09-29 | [Living in the Van Vlog 9-29-2011](corpus/videos/2IH8tI5Yqtw.json) | — |  |
+| 2011-09-28 | [Living in the Van Vlog 9-28-2011](corpus/videos/QzOkKxhknlM.json) | — |  |
+| 2011-09-27 | [Living in the Van Vlog 9-27-2011](corpus/videos/hZVWQ10wc6A.json) | — |  |
+| 2011-09-25 | [Living in the Van Vlog 9-25-2011](corpus/videos/P0pm5ilp8xY.json) | — |  |
+| 2011-09-24 | [Living in the Van Vlog 9-24-2011](corpus/videos/MAHQaVoJ6pg.json) | — |  |
+| 2011-09-23 | [Living in the Van Vlog 9-23-2011](corpus/videos/DqQrNZ9Dqmo.json) | — |  |
+| 2011-09-22 | [Living in the Van Vlog 9-22-2011](corpus/videos/CHI2ql8fNFM.json) | — |  |
+| 2011-09-21 | [Living in the Van Vlog 9-21-2011](corpus/videos/BYeJ_GqrAUc.json) | — |  |
+| 2011-09-20 | [Living in the van Vlog 9-20-2011](corpus/videos/5WAcBBK1sA8.json) | — |  |
+| 2011-09-19 | [Living in the Van Vlog 9-19-2011](corpus/videos/B5TP86IeQPk.json) | — |  |
+| 2011-09-18 | [Living in the Van Vlog 9-18-2011](corpus/videos/aipPxSfWJQc.json) | — |  |
+| 2011-09-18 | [Living in the Van One Year Anniversary Vlog 9-18-2011](corpus/videos/gR7Gj-ub0-k.json) | — |  |
+| 2011-09-17 | [Van Living Vlog 9-17-2011](corpus/videos/7yq4p1ZAOCc.json) | — |  |
+| 2011-09-15 | [Van Living Vlog 9-15-2011](corpus/videos/EixmZb9frrE.json) | — |  |
+| 2011-09-14 | [Van Living Vlog 9-14-2011](corpus/videos/lMPYm4A4Bwc.json) | — |  |
+| 2011-09-13 | [Living in the Van Vlog 9-13-2011](corpus/videos/ghh7XdQWbxE.json) | — |  |
+| 2011-08-31 | [Mount Baker Ski Area, Washington. 8-31-2011](corpus/videos/oJsmBbGE15Y.json) | — |  |
+| 2011-08-18 | [Living in the Van Vlog 8-18-2011. Bellingham, Washington.](corpus/videos/-fyMSNm_lrw.json) | — |  |
+| 2011-07-22 | [Mount Rainier National Park, Washingtom 7-22-2011](corpus/videos/HziLKvra2Mc.json) | — |  |
+| 2011-07-20 | [Mount Saint Helens, Washington. 7-20-2011](corpus/videos/OyoMrdXnEV4.json) | — |  |
+| 2011-07-13 | [Living in Van Vlog 7-13-2011](corpus/videos/YosVi6iOAAU.json) | — |  |
+| 2011-07-08 | [Glisading Mount Shasta 7-8-2011 3:30 pm](corpus/videos/BQ7OUxcvsUE.json) | — |  |
+| 2011-07-08 | [Mount Shasta Climb, California 7-8-2011](corpus/videos/DefLVvPHnl4.json) | — |  |
+| 2011-07-07 | [Lassen Volcanic National Park, California. 7-7-2011](corpus/videos/ZOTOcIrvzQY.json) | — |  |
+| 2011-06-19 | [One Month Exersizing Vlog and Flexing Video 6-19-2011](corpus/videos/s0IiDV8cHtY.json) | — |  |
+| 2011-05-28 | [Living in the Van Vlog 5-28-2011](corpus/videos/DdZpexpvOw0.json) | — |  |
+| 2011-05-19 | [Progress Fitness Work Out Video 5-19-2011 Pre Work Out](corpus/videos/DR5O72N6LSU.json) | — |  |
+| 2011-05-15 | [Van Living Vlog 5-15-2011](corpus/videos/yJlJ-SuYu0s.json) | — |  |
+| 2011-04-12 | [Living in Van Vlog 4-12-2011](corpus/videos/MvbTsBmkvtg.json) | — |  |
+| 2011-02-03 | [Living in Van Vlog 2-3-2011](corpus/videos/obtclh1hjy4.json) | — |  |
+| 2011-01-04 | [Living in Van Vlog 1-4-2011](corpus/videos/s0YLopTpgqU.json) | — |  |
+| 2011-01-02 | [Living in the Van Vlog 1-2-2011](corpus/videos/wDJzJwLG7AM.json) | — |  |
+| 2010-11-27 | [Living in my van vlog 11-27-2010](corpus/videos/e3dF301PWF8.json) | — |  |
+| 2010-11-20 | [living in van vlog 11-20-2010](corpus/videos/h7wp147WBiM.json) | — |  |
+| 2010-11-12 | [Living in Van Vlog 11-12-2010](corpus/videos/44dJO8RrFdQ.json) | — |  |
+| 2010-11-02 | [Interview with Dude Living in Van in Tucson 11-2-2010](corpus/videos/hYyQzejEeYQ.json) | — |  |
+| 2010-10-29 | [Living in Van Vlog 10-29-2010](corpus/videos/bCV24RkLhos.json) | — |  |
+| 2010-10-28 | [10/28/10 Google Earth History page, concept of omniscience](corpus/videos/6UBMOTd2u0k.json) | — |  |
+| 2010-10-20 | [Living in Van Vlog 10-20-2010](corpus/videos/f75hiA3w8TI.json) | — |  |
+| 2010-09-16 | [Van Living Vlog 9-16-2010](corpus/videos/GtrG5xK9JPk.json) | — |  |
+| 2010-08-18 | [Bike Touring - Norway.  North Finland to Vadso to Karosjock. 8-18-2010](corpus/videos/4Wx16jtFByg.json) | — |  |
+| 2010-08-18 | [Bike Touring - Finland - Helsinki to Santa Clause Land. 8-18-2010](corpus/videos/VZd8DzVbsJk.json) | — |  |
+| 2010-07-28 | [Helsinki, Finland 7-28-2010 1/3](corpus/videos/Pu8hN-oyOfs.json) | — |  |
+| 2010-07-28 | [Helsinki, Finland 7-28-2010 2/3](corpus/videos/np2Her1wdVg.json) | — |  |
+| 2010-07-28 | [Helsinki, Finland 7-28-2010 3/3](corpus/videos/rRSU4YGnW58.json) | — |  |
+| 2010-07-27 | [Tallinn, Estonia 7-27-2010 2/4](corpus/videos/Ck2V-xQvKLI.json) | — |  |
+| 2010-07-27 | [Tallinn, Estonia 7-27-2010 1/4](corpus/videos/FsyHheOGOSk.json) | — |  |
+| 2010-07-27 | [Tallinn, Estonia 7-27-2010 3/4](corpus/videos/O4k4urtLjuY.json) | — |  |
+| 2010-07-26 | [Riga, Latvia 7-26-2010 2/4](corpus/videos/OMoz6Ti04Rk.json) | — |  |
+| 2010-07-26 | [Riga, Latvia 7-26-2010 4/4](corpus/videos/dZoZof8ttU4.json) | — |  |
+| 2010-07-26 | [Riga, Latvia 7-26-2010 1/4](corpus/videos/e9elizfjZ38.json) | — |  |
+| 2010-07-26 | [Riga, Latvia 7-26-2010 3/4](corpus/videos/s-40EKeB2sY.json) | — |  |
+| 2010-07-25 | [Vilnius, Lithuania 7-25-2010 3/3](corpus/videos/PE0Qv5meUdU.json) | — |  |
+| 2010-07-25 | [Vilnius, Lithuania 7-25-2010 2/3](corpus/videos/PWJFg-sj_rI.json) | — |  |
+| 2010-07-25 | [Vilnius, Lithuania 7-25-2010 1/3](corpus/videos/itHx2sUE1u0.json) | — |  |
+| 2010-07-25 | [Bike touring/ traveling Vlog Warsaw, Poland to Samijavi, Finland 7-25-](corpus/videos/upwQp50xzDA.json) | — |  |
+| 2010-07-24 | [Warsaw, Poland 7-24-2010 2/2](corpus/videos/4oOtZF-uWZo.json) | — |  |
+| 2010-07-24 | [Warsaw, Poland Zoo 7-24-2010 1/2](corpus/videos/JdWXS1w3Jww.json) | — |  |
+| 2010-07-24 | [Warsaw, Poland Zoo 7-24-2010 2/2](corpus/videos/ROPfo6eLmHQ.json) | — |  |
+| 2010-07-24 | [Warsaw, Poland 7-24-2010 1/2](corpus/videos/f1I1BKklgME.json) | — |  |
+| 2010-07-23 | [Warsaw, Poland - University Volleyball Tournament Gathering 7-23-2010](corpus/videos/oHbXDfECUcg.json) | — |  |
+| 2010-07-09 | [Bike Touring Vlog - Greece - Olympia to Olympus  7-9-2010 1/4](corpus/videos/14Q1rRyJtxU.json) | — |  |
 | 2010-07-09 | [Bike Touring Vlog - Greece - Olympia to Olympus  7-9-2010 4/4](corpus/videos/CNrbfXkv7d0.json) | — |  |
 | 2010-07-09 | [Bike Touring Vlog - Greece - Olympia to Olympus  7-9-2010 2/4](corpus/videos/_A8qo54X2Ks.json) | — |  |
 | 2010-07-09 | [Bike Touring Vlog - Greece - Olympia to Olympus  7-9-2010 3/4](corpus/videos/ypvUl63P17A.json) | — |  |
