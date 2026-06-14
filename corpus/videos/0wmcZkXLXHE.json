@@ -1,0 +1,1761 @@
+{
+ "youtube_id": "0wmcZkXLXHE",
+ "title": "4/14/22 Google Earthing Roman Streets",
+ "url": "https://youtu.be/0wmcZkXLXHE",
+ "published_at": "2022-04-14",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.94,
+   "end": 5.22,
+   "text": "Uh, yesterday I said, uh, here's my vlog for like the 14th, I think."
+  },
+  {
+   "start": 5.22,
+   "end": 13.38,
+   "text": "Yesterday I said that I was going to, uh, I was working on the roads of Rome."
+  },
+  {
+   "start": 14.76,
+   "end": 36.24,
+   "text": "So, uh, since then I, um, finished adding the distance and I didn't have that all the way, um, done from yesterday."
+  },
+  {
+   "start": 36.24,
+   "end": 37.38,
+   "text": "I got tired and stopped."
+  },
+  {
+   "start": 37.38,
+   "end": 42.66,
+   "text": "And so I, uh, then did that and then I added the name."
+  },
+  {
+   "start": 42.82,
+   "end": 49.04,
+   "text": "I like named them as, um, and then I, um, saved it."
+  },
+  {
+   "start": 49.08,
+   "end": 52.02,
+   "text": "And then that's when I brought up the images."
+  },
+  {
+   "start": 52.02,
+   "end": 61.28,
+   "text": "Cause I was going to make the image, image folders of the roads of Rome match the polygon."
+  },
+  {
+   "start": 62.46,
+   "end": 65.26,
+   "text": "So as I was looking at the, and then I named, I numbered the polygon."
+  },
+  {
+   "start": 65.26,
+   "end": 73.56,
+   "text": "Like I always thought it was done, but then I was looking at, you know, trying to match the roads of Rome, the images the same way."
+  },
+  {
+   "start": 73.68,
+   "end": 76.42,
+   "text": "And I saw, I saw that I screwed up."
+  },
+  {
+   "start": 76.46,
+   "end": 80.82,
+   "text": "I shouldn't have, uh, numbered it, numbered it too soon."
+  },
+  {
+   "start": 80.9,
+   "end": 90.94,
+   "text": "And I remember I wasn't going to, I was going to match it with the, uh, images first."
+  },
+  {
+   "start": 90.94,
+   "end": 97.72,
+   "text": "But I, um, forgot the number to, anyway, um, I had to break up a few cause I would kind of got ahead of myself."
+  },
+  {
+   "start": 97.86,
+   "end": 110.4,
+   "text": "I need to, you know, like where you have two different roads when one, but, um, actually the, um, the census of 350 had the exact number of roads per, uh, region."
+  },
+  {
+   "start": 110.4,
+   "end": 119.6,
+   "text": "And if I wanted to be totally high quality and match it the same way, I could, but I'm not too, let somebody else do that."
+  },
+  {
+   "start": 120.94,
+   "end": 124.26,
+   "text": "But I did write how many roads the census said."
+  },
+  {
+   "start": 124.42,
+   "end": 127.28,
+   "text": "And then I wrote how many I had so that you can compare it in your head that way."
+  },
+  {
+   "start": 127.4,
+   "end": 142.18,
+   "text": "But, um, um, so it took me like, you know, a long time."
+  },
+  {
+   "start": 142.18,
+   "end": 147.76,
+   "text": "Um, I don't know, like a day's worth or something to finish adding the distance."
+  },
+  {
+   "start": 147.76,
+   "end": 152.84,
+   "text": "Cause I don't think I had the distance that I had before, just the size of the roads."
+  },
+  {
+   "start": 153.44,
+   "end": 154.48,
+   "text": "So I did the distance."
+  },
+  {
+   "start": 154.6,
+   "end": 163.0,
+   "text": "I had to organize the, them by distance, um, number of, um, makes sure they're all in the same right folder."
+  },
+  {
+   "start": 163.12,
+   "end": 168.12,
+   "text": "And then, um, uh, yeah, but now I think it's going to be another day."
+  },
+  {
+   "start": 168.12,
+   "end": 174.88,
+   "text": "Like that was only half, it's another day, uh, hopefully another day, maybe even two matching the images."
+  },
+  {
+   "start": 174.88,
+   "end": 185.92,
+   "text": "Cause it's, cause you can't, uh, you can't like click on an, on an image in Google Earth and have it, um, take it to where you are on the left."
+  },
+  {
+   "start": 186.02,
+   "end": 189.56,
+   "text": "It only works that way with, um, polygon tools."
+  },
+  {
+   "start": 189.56,
+   "end": 197.84,
+   "text": "And so, um, you have to do it the other way where you, uh, zero in triangulation, whatever, however you call it, zeroing in."
+  },
+  {
+   "start": 198.04,
+   "end": 206.09,
+   "text": "And, um, well, by letting the, uh, images guide it all."
+  },
+  {
+   "start": 206.15,
+   "end": 209.05,
+   "text": "So I just click on, cause it, and it's already kind of matched anyway."
+  },
+  {
+   "start": 209.43,
+   "end": 211.73,
+   "text": "So, you know, most of them are the same."
+  },
+  {
+   "start": 211.73,
+   "end": 226.41,
+   "text": "So I just click on which one is it on the image, which road is that, and then I go over, click on all the polygons, click on top of it, shows me which polygon it is, you know, grab the number, the name off of it and put it onto the image."
+  },
+  {
+   "start": 226.41,
+   "end": 226.93,
+   "text": "And there you go."
+  },
+  {
+   "start": 227.01,
+   "end": 227.85,
+   "text": "And you just move your line."
+  },
+  {
+   "start": 227.99,
+   "end": 230.31,
+   "text": "So hopefully I can get done with it tomorrow."
+  },
+  {
+   "start": 230.43,
+   "end": 232.29,
+   "text": "You know, like I didn't want to do that before."
+  },
+  {
+   "start": 232.41,
+   "end": 239.11,
+   "text": "I remember when I built it a couple of years ago or more than a couple of years ago, I was like, Oh man, whoo, big project."
+  },
+  {
+   "start": 239.11,
+   "end": 245.59,
+   "text": "It's just like, Ooh, I should have, maybe I could have organized it better in the beginning, but I don't even know if I want to organize it all in the end."
+  },
+  {
+   "start": 245.63,
+   "end": 246.29,
+   "text": "Cause it's so hard."
+  },
+  {
+   "start": 246.35,
+   "end": 249.51,
+   "text": "It's so big, but now I'm like, I can do it a couple of days."
+  },
+  {
+   "start": 249.59,
+   "end": 252.85,
+   "text": "So yeah, after I do that and then, and then it's maybe a couple of days."
+  },
+  {
+   "start": 252.85,
+   "end": 255.97,
+   "text": "I have to be realistic on region 13."
+  },
+  {
+   "start": 256.37,
+   "end": 269.05,
+   "text": "Cause that, that consists of the, uh, you know, a couple of big buildings, as of desius and, um, warehouses of Galba that are pretty big that I have to do."
+  },
+  {
+   "start": 269.11,
+   "end": 278.03,
+   "text": "And then those three other tipples, I might start putting like images, floor images around them."
+  },
+  {
+   "start": 279.29,
+   "end": 279.69,
+   "text": "Yeah."
+  },
+  {
+   "start": 279.71,
+   "end": 284.29,
+   "text": "And then put that over and, um, to my site, the links."
+  },
+  {
+   "start": 284.29,
+   "end": 288.09,
+   "text": "And then, uh, I guess offer them up for individual link."
+  },
+  {
+   "start": 288.09,
+   "end": 289.35,
+   "text": "And then, uh, there you go."
+  },
+  {
+   "start": 289.95,
+   "end": 291.27,
+   "text": "Busted through Rome."
+  },
+  {
+   "start": 291.49,
+   "end": 297.07,
+   "text": "So I don't know, maybe another week or a couple of days, a few days on Rome, but I'm like so close."
+  },
+  {
+   "start": 297.07,
+   "end": 300.67,
+   "text": "So it's like, let's just go ahead and do it, you know, and then I can get going on the other stuff."
+  },
+  {
+   "start": 300.67,
+   "end": 304.17,
+   "text": "So, but like, see, this is what I'm, I'm, I'm hoping for."
+  },
+  {
+   "start": 305.17,
+   "end": 313.87,
+   "text": "I want to get, fix enough links on my site so that I'm like starting to get buzzed off of it."
+  },
+  {
+   "start": 313.87,
+   "end": 322.97,
+   "text": "You know, like where I'm starting to be like, feeling the joy of accomplishment being like, oh, wow."
+  },
+  {
+   "start": 323.57,
+   "end": 324.17,
+   "text": "Oh, this is cool."
+  },
+  {
+   "start": 324.25,
+   "end": 324.67,
+   "text": "Oh, wow."
+  },
+  {
+   "start": 324.67,
+   "end": 336.31,
+   "text": "You know, and then maybe if I could recover my Italy file and then maybe my roads would be in there from Italy, ancient Rome, all of Italy, which I spent nine days on."
+  },
+  {
+   "start": 336.39,
+   "end": 342.85,
+   "text": "And then I could link that and I'll be jazzed and just keep linking more, pumping myself up, you know?"
+  },
+  {
+   "start": 342.85,
+   "end": 349.61,
+   "text": "And then, and then, you know, and if I build enough, I might be like, oh, this looks cool."
+  },
+  {
+   "start": 349.61,
+   "end": 353.47,
+   "text": "And then like touch up enough things, fixing links, maybe even describe it."
+  },
+  {
+   "start": 353.53,
+   "end": 360.71,
+   "text": "I might be like, oh, cause it's all about, um, it's all about my own personal sense of accomplishment."
+  },
+  {
+   "start": 360.71,
+   "end": 372.46,
+   "text": "That I feel like I've given back to the world enough to be able to allow myself to be selfish and I never know where that line is."
+  },
+  {
+   "start": 373.28,
+   "end": 387.19,
+   "text": "It's about as easy to know where that line is, is to like know when you're like temper is like when people are bothering you and you never know when you're going to blow up, lose your patience."
+  },
+  {
+   "start": 387.19,
+   "end": 401.45,
+   "text": "And you never know when you're going to like feel like I'm ready, you know, I don't think I'll have any more like, um, false flags, false starts."
+  },
+  {
+   "start": 402.29,
+   "end": 408.69,
+   "text": "Cause like I've had, I've like exercised a few times, month here, month here, like 17, 20."
+  },
+  {
+   "start": 410.31,
+   "end": 417.31,
+   "text": "And I think maybe even 21 and 22, but like every time I'm doing it, I think that I'm there, you know, I'm 100% that I'm there."
+  },
+  {
+   "start": 417.31,
+   "end": 430.83,
+   "text": "But I have to create, especially now, like I've fallen over the cliff now, especially over like the last year that I'm so weak that I have to do other ways to enjoy myself."
+  },
+  {
+   "start": 431.01,
+   "end": 449.61,
+   "text": "And so the other way, the other way that I enjoy myself is by, um, just like from an out as an outside source, like prescribe myself as though I was my own doctor to be super chill, you know, for like the first month or whatever, like super chill."
+  },
+  {
+   "start": 449.61,
+   "end": 451.75,
+   "text": "Like crazy chill, just slow, old man chill."
+  },
+  {
+   "start": 452.67,
+   "end": 454.17,
+   "text": "And then enjoy yourself doing that."
+  },
+  {
+   "start": 454.25,
+   "end": 455.19,
+   "text": "There's nothing wrong doing that."
+  },
+  {
+   "start": 455.25,
+   "end": 456.29,
+   "text": "Just being chill and enjoying."
+  },
+  {
+   "start": 456.35,
+   "end": 457.49,
+   "text": "Cause it's been so long stepping out."
+  },
+  {
+   "start": 457.57,
+   "end": 460.07,
+   "text": "Might as well relax and chill, look around or whatever."
+  },
+  {
+   "start": 460.07,
+   "end": 471.69,
+   "text": "Um, and, uh, yeah, but in order to do that, you know, get my own to totally like enjoy myself."
+  },
+  {
+   "start": 471.69,
+   "end": 481.11,
+   "text": "I can't, I can't, I can't have my mom around like being like, stop it, get a job, get a job."
+  },
+  {
+   "start": 481.41,
+   "end": 483.47,
+   "text": "You get a job, man, you get a job."
+  },
+  {
+   "start": 483.47,
+   "end": 506.69,
+   "text": "Cause you know, I'm like, in order to get myself in that situation, I need to create my own little magical world where it's just me imagining my own world and spending all of my time of the day trying to get in shape, which you need the entire day for, which you need, need the entire day for."
+  },
+  {
+   "start": 506.69,
+   "end": 513.59,
+   "text": "And then at the same time, I'm trying to look after my mom, make sure that she's staying on, on her feet, walking every day."
+  },
+  {
+   "start": 513.59,
+   "end": 518.73,
+   "text": "So then I go to my mom's house and I'm like, and I want to share that world."
+  },
+  {
+   "start": 518.89,
+   "end": 532.41,
+   "text": "Oh, trying to share the beauty and magic of having a wonderful life of being able to exercise it, like ride your bike throughout the mountains every day and enjoy yourself and then share with the world."
+  },
+  {
+   "start": 532.53,
+   "end": 537.09,
+   "text": "That's what you do, which is against my mother's religion, by the way, her personal code."
+  },
+  {
+   "start": 537.09,
+   "end": 548.11,
+   "text": "Um, and then going over and sharing that with my mother and exciting her vicariously."
+  },
+  {
+   "start": 549.95,
+   "end": 554.55,
+   "text": "Her number one only, um, goal in life at that point is to get me to get a job."
+  },
+  {
+   "start": 554.97,
+   "end": 556.93,
+   "text": "Cause she likes to pop people's bubbles."
+  },
+  {
+   "start": 557.41,
+   "end": 559.53,
+   "text": "It's like one of these, like, uh, she's a Machiavellian."
+  },
+  {
+   "start": 560.71,
+   "end": 562.37,
+   "text": "She's one of these, like, fuck up people."
+  },
+  {
+   "start": 562.77,
+   "end": 565.19,
+   "text": "Like, leave it to her to fuck it all up type of a person."
+  },
+  {
+   "start": 565.19,
+   "end": 568.23,
+   "text": "So I'm like on purpose with this, like, sinister little smile."
+  },
+  {
+   "start": 569.05,
+   "end": 570.45,
+   "text": "My father was the same way."
+  },
+  {
+   "start": 571.89,
+   "end": 587.19,
+   "text": "So, um, next time I talked to her, last time I talked to her, she was giving me the third degree about, um, you know, how I need to, like, stop working on the website and start getting in shape or whatever, riding my bike and stuff."
+  },
+  {
+   "start": 588.31,
+   "end": 590.59,
+   "text": "So then I go, well, then sign the three agreements."
+  },
+  {
+   "start": 591.09,
+   "end": 593.25,
+   "text": "And it's actually only one agreement that I need."
+  },
+  {
+   "start": 593.59,
+   "end": 594.91,
+   "text": "It's the don't get a job agreement."
+  },
+  {
+   "start": 596.19,
+   "end": 597.29,
+   "text": "Uh, cause I don't need the money."
+  },
+  {
+   "start": 598.43,
+   "end": 600.59,
+   "text": "And, and, and she doesn't want me to talk about money."
+  },
+  {
+   "start": 600.69,
+   "end": 601.95,
+   "text": "She's like, please don't talk about money."
+  },
+  {
+   "start": 602.01,
+   "end": 614.17,
+   "text": "But then she forces me to talk about money by telling me every day to get a job, which then forces me to get frustrated and then vent over YouTube about how she needs me to get a money."
+  },
+  {
+   "start": 614.17,
+   "end": 617.25,
+   "text": "Even though I don't get a job, even though I don't need money."
+  },
+  {
+   "start": 617.31,
+   "end": 623.05,
+   "text": "So now I'm talking about money, but she wants me to not talk about money and she needs me to not talk about money."
+  },
+  {
+   "start": 623.11,
+   "end": 627.05,
+   "text": "But she also needs to make sure that I need to get a job every day, even though I don't need money."
+  },
+  {
+   "start": 627.05,
+   "end": 628.21,
+   "text": "So then I have to talk about it."
+  },
+  {
+   "start": 628.21,
+   "end": 635.87,
+   "text": "So it's this, um, catch 22 circle of insanity that my stupid mother likes to create."
+  },
+  {
+   "start": 636.47,
+   "end": 639.07,
+   "text": "Um, it's, um, like her number one goal in life."
+  },
+  {
+   "start": 639.15,
+   "end": 642.27,
+   "text": "So, but yesterday I was like, you're going to sign the three agreements."
+  },
+  {
+   "start": 642.27,
+   "end": 643.57,
+   "text": "And it's really only one agreement."
+  },
+  {
+   "start": 643.67,
+   "end": 647.93,
+   "text": "The three agreements are don't tell me, constantly tell me to sell my bicycle."
+  },
+  {
+   "start": 649.05,
+   "end": 658.25,
+   "text": "Don't constantly tell me to stop riding my bicycle and don't constantly tell me to get a job, but I can bargain down."
+  },
+  {
+   "start": 658.37,
+   "end": 661.87,
+   "text": "Like last time I tried to bargain down, I said, okay, listen, I'll bargain down."
+  },
+  {
+   "start": 661.89,
+   "end": 663.17,
+   "text": "Cause I actually wanted to do it."
+  },
+  {
+   "start": 663.83,
+   "end": 671.45,
+   "text": "I was like, how about you can tell me to sell the bike all the time and you can always tell me to stop riding the bike, which is enough of a pain in the ass for me."
+  },
+  {
+   "start": 671.45,
+   "end": 673.31,
+   "text": "Cause that's popping my bubble right there."
+  },
+  {
+   "start": 673.47,
+   "end": 679.89,
+   "text": "You know, imagine going over to my mom's house and being like, Hey mom, I had a wonderful time riding my bike."
+  },
+  {
+   "start": 680.67,
+   "end": 681.65,
+   "text": "Stop riding it."
+  },
+  {
+   "start": 683.07,
+   "end": 684.97,
+   "text": "Um, and what's the other one?"
+  },
+  {
+   "start": 685.05,
+   "end": 687.37,
+   "text": "Stop riding, stop riding it and sell it."
+  },
+  {
+   "start": 687.83,
+   "end": 690.39,
+   "text": "Well, if I stop, ride it and sell it, what do I do?"
+  },
+  {
+   "start": 690.95,
+   "end": 693.11,
+   "text": "Well, she's not allowed to say, get a job."
+  },
+  {
+   "start": 693.73,
+   "end": 696.49,
+   "text": "So then I'll let that, and she doesn't want me to work on the website."
+  },
+  {
+   "start": 697.53,
+   "end": 700.21,
+   "text": "So she can't be like, get a job or go get the website."
+  },
+  {
+   "start": 700.21,
+   "end": 701.47,
+   "text": "Ride it'll be like, well, what do you want me to do?"
+  },
+  {
+   "start": 701.51,
+   "end": 709.28,
+   "text": "And then she'll have to be like, and then of course at that point she won't say anything and it's kind of like training a dog."
+  },
+  {
+   "start": 709.4,
+   "end": 717.72,
+   "text": "So then the next time she wants to say, sell the bicycle or stop riding the bicycle, then she'll know what's happened after that."
+  },
+  {
+   "start": 717.72,
+   "end": 724.66,
+   "text": "Is then I'll ask her, what then, what then should I, should I do if I'm not riding a bicycle with my time?"
+  },
+  {
+   "start": 725.82,
+   "end": 728.5,
+   "text": "You know, then she'll be like, oh shit, he got me again."
+  },
+  {
+   "start": 728.5,
+   "end": 736.32,
+   "text": "So then eventually she'll forget on her own to tell me to stop riding the bicycle and to sell the bicycle."
+  },
+  {
+   "start": 737.08,
+   "end": 743.28,
+   "text": "So the only thing I really need her to do is to say, is to not constantly tell me to get a job."
+  },
+  {
+   "start": 743.28,
+   "end": 749.76,
+   "text": "Luckily I don't have the money, even though she, she doesn't want me to say, talk about money, but I have to, because she's always telling me to get a job."
+  },
+  {
+   "start": 750.56,
+   "end": 755.42,
+   "text": "So yesterday when I was talking to her, I was like, um, well, how about the three agreements?"
+  },
+  {
+   "start": 755.42,
+   "end": 758.98,
+   "text": "And she was like, hmm, I'll talk later."
+  },
+  {
+   "start": 758.98,
+   "end": 769.22,
+   "text": "And then yesterday I wanted to do a, uh, walk or a bike ride with her all the way up until 10, but she was being stubborn and she didn't want to do a bike rider or a walk with me."
+  },
+  {
+   "start": 770.52,
+   "end": 774.96,
+   "text": "Um, if I didn't sleep the night before, but I was like, well, like, I don't know, I'm awake."
+  },
+  {
+   "start": 775.06,
+   "end": 779.16,
+   "text": "I think I did like maybe between like midnight and two, but it wasn't enough."
+  },
+  {
+   "start": 779.16,
+   "end": 783.54,
+   "text": "So then I finally got to sleep at like 10 or 11 and I wasn't able to get up until like six and it was already getting dark."
+  },
+  {
+   "start": 783.64,
+   "end": 787.94,
+   "text": "So I couldn't go to sleep on a bike rider walk with her yesterday because she refused to do it in the morning."
+  },
+  {
+   "start": 787.94,
+   "end": 789.34,
+   "text": "But I think she was busy."
+  },
+  {
+   "start": 789.5,
+   "end": 794.56,
+   "text": "So I think today, like in an hour or whatever, I'll call her her eight or whatever, seven or eight, seven 30 or eight."
+  },
+  {
+   "start": 794.6,
+   "end": 795.68,
+   "text": "I'll call her, see if she wants to do it."
+  },
+  {
+   "start": 797.06,
+   "end": 798.52,
+   "text": "She'll probably play that game with me."
+  },
+  {
+   "start": 798.52,
+   "end": 802.26,
+   "text": "Like she won't want to do it unless it's after I get up or whatever in the afternoon."
+  },
+  {
+   "start": 802.26,
+   "end": 805.38,
+   "text": "But so then I guess we won't do it because she won't want to for no reason."
+  },
+  {
+   "start": 805.54,
+   "end": 806.24,
+   "text": "Just not want to."
+  },
+  {
+   "start": 806.44,
+   "end": 815.44,
+   "text": "She's kind of lazy, but, uh, but I'll remind her about the single agreement, but she, oh, she wanted me to read, uh, read this book."
+  },
+  {
+   "start": 815.44,
+   "end": 823.4,
+   "text": "Uh, my mom likes to, uh, get me to read self-help books."
+  },
+  {
+   "start": 823.52,
+   "end": 830.02,
+   "text": "She's always like when I was a kid, she was always sending me to, uh, child psychiatrists and stuff for no reason."
+  },
+  {
+   "start": 830.16,
+   "end": 831.34,
+   "text": "Just cause she's crazy."
+  },
+  {
+   "start": 831.34,
+   "end": 851.32,
+   "text": "And now she wants me, wants me to read this book, um, called Roar into the Second Half of Your Life Before It's Too Late by Michael Clinton."
+  },
+  {
+   "start": 851.32,
+   "end": 863.92,
+   "text": "So I guess it's stories of people who like were having horrible lives, but then all of a sudden something happened and they managed to turn their life around and have a good life."
+  },
+  {
+   "start": 863.92,
+   "end": 873.78,
+   "text": "And so if I read all of the stories of the book of the people with horrible lives, maybe I will, I will see, maybe I'll be good enough to be like one of them."
+  },
+  {
+   "start": 874.9,
+   "end": 878.72,
+   "text": "Um, and I'll be able to turn my life around like one of the people in the book."
+  },
+  {
+   "start": 878.8,
+   "end": 881.66,
+   "text": "My mom's 80 years old and she's like fucking part retarded."
+  },
+  {
+   "start": 881.82,
+   "end": 883.74,
+   "text": "So anyway, that's her."
+  },
+  {
+   "start": 884.0,
+   "end": 886.1,
+   "text": "Um, I mean, all along I'll do it."
+  },
+  {
+   "start": 886.18,
+   "end": 889.78,
+   "text": "All she has to do is sign, sign the fricking thing, but whatever."
+  },
+  {
+   "start": 889.78,
+   "end": 890.84,
+   "text": "Cause she doesn't understand."
+  },
+  {
+   "start": 891.0,
+   "end": 894.12,
+   "text": "Like if I'm going to be in, get in shape, I can't have a goddamn job."
+  },
+  {
+   "start": 894.76,
+   "end": 897.34,
+   "text": "I have to be trained all the time, either sleeping or training."
+  },
+  {
+   "start": 897.48,
+   "end": 898.52,
+   "text": "That's the way I want to do it."
+  },
+  {
+   "start": 899.18,
+   "end": 902.66,
+   "text": "Why would I do it halfway if I don't have to, if I don't absolutely have to."
+  },
+  {
+   "start": 902.92,
+   "end": 918.1,
+   "text": "I mean, cause it's a hundred gazillion, million, billion, zillion, billion, million, a hundred million, zillion on top, you know, like a exponentialized to 100 million gazillion, infinite, infinitesimally maximized times more enjoyable."
+  },
+  {
+   "start": 918.1,
+   "end": 922.98,
+   "text": "If you get to do it, to do it 100%, what the fuck's wrong with doing stuff 100%?"
+  },
+  {
+   "start": 923.1,
+   "end": 923.46,
+   "text": "God damn."
+  },
+  {
+   "start": 924.2,
+   "end": 925.2,
+   "text": "She doesn't understand that."
+  },
+  {
+   "start": 925.32,
+   "end": 930.84,
+   "text": "So you have to, you have to like pop the bubble and go get a job right in the middle of it."
+  },
+  {
+   "start": 930.96,
+   "end": 931.96,
+   "text": "Like you're like, wait, what?"
+  },
+  {
+   "start": 932.82,
+   "end": 943.08,
+   "text": "Imagine if like, um, you know, like, uh, somebody you knew, like somebody like Elon Musk is like,"
+  },
+  {
+   "start": 943.08,
+   "end": 944.28,
+   "text": "Hey, guess what, mom?"
+  },
+  {
+   "start": 945.0,
+   "end": 946.66,
+   "text": "I've got this new idea."
+  },
+  {
+   "start": 947.62,
+   "end": 950.46,
+   "text": "I think what I want to do is train and climb Mount Everest."
+  },
+  {
+   "start": 950.6,
+   "end": 953.52,
+   "text": "A lot of my billionaire friends, they've like climbed Mount Everest."
+  },
+  {
+   "start": 954.18,
+   "end": 955.46,
+   "text": "I'm going to go climb."
+  },
+  {
+   "start": 956.1,
+   "end": 958.22,
+   "text": "You want me to let me tell you about my training regime?"
+  },
+  {
+   "start": 958.26,
+   "end": 960.7,
+   "text": "And then she's like, get a job."
+  },
+  {
+   "start": 961.56,
+   "end": 963.08,
+   "text": "And he's like, but I already have a job."
+  },
+  {
+   "start": 963.14,
+   "end": 963.9,
+   "text": "What the fuck can talk about?"
+  },
+  {
+   "start": 963.94,
+   "end": 964.78,
+   "text": "I have money and I have a job."
+  },
+  {
+   "start": 964.86,
+   "end": 965.38,
+   "text": "Same thing."
+  },
+  {
+   "start": 965.46,
+   "end": 966.36,
+   "text": "I have money and I have a job."
+  },
+  {
+   "start": 966.42,
+   "end": 967.36,
+   "text": "What the fuck's she talking about?"
+  },
+  {
+   "start": 967.42,
+   "end": 968.12,
+   "text": "Go get a job."
+  },
+  {
+   "start": 968.12,
+   "end": 970.42,
+   "text": "So anyways, that's my mom."
+  },
+  {
+   "start": 970.6,
+   "end": 973.32,
+   "text": "So, um, oh, I remember to hold the camera right today."
+  },
+  {
+   "start": 973.78,
+   "end": 976.82,
+   "text": "My father was the same way."
+  },
+  {
+   "start": 976.94,
+   "end": 977.56,
+   "text": "He was worse."
+  },
+  {
+   "start": 978.0,
+   "end": 980.42,
+   "text": "Anyways, luckily he died."
+  },
+  {
+   "start": 981.0,
+   "end": 983.7,
+   "text": "Um, cause then I'd have two people doing that."
+  },
+  {
+   "start": 984.62,
+   "end": 991.58,
+   "text": "So anyways, um, I, um, I, uh, what am I talking about?"
+  },
+  {
+   "start": 994.15,
+   "end": 1000.03,
+   "text": "So, um, I think maybe by the end of the day, actually, I don't really know."
+  },
+  {
+   "start": 1001.57,
+   "end": 1006.11,
+   "text": "But it looks, I don't know how long this is going to take, but, um, I'd like to get"
+  },
+  {
+   "start": 1006.11,
+   "end": 1006.47,
+   "text": "It right."
+  },
+  {
+   "start": 1006.67,
+   "end": 1006.81,
+   "text": "Yeah."
+  },
+  {
+   "start": 1006.83,
+   "end": 1013.03,
+   "text": "Maybe by the end of the day, I can get done with these roads, upload it and then pop in"
+  },
+  {
+   "start": 1013.03,
+   "end": 1020.07,
+   "text": "Those, um, whatchamacallem, uh, all the other regions, maybe two days on region 13."
+  },
+  {
+   "start": 1020.61,
+   "end": 1020.97,
+   "text": "Yeah."
+  },
+  {
+   "start": 1021.01,
+   "end": 1022.59,
+   "text": "Maybe like another like week."
+  },
+  {
+   "start": 1023.23,
+   "end": 1023.59,
+   "text": "Yeah."
+  },
+  {
+   "start": 1023.59,
+   "end": 1030.9,
+   "text": "If I do like another week or maybe the end of the weekend or another week to the end"
+  },
+  {
+   "start": 1030.9,
+   "end": 1033.52,
+   "text": "Of this weekend and then the end of the next weekend, I can get done with it wrong."
+  },
+  {
+   "start": 1033.52,
+   "end": 1038.46,
+   "text": "Um, I mean, I could get Rome to a good space, a good spot, the city."
+  },
+  {
+   "start": 1038.58,
+   "end": 1042.28,
+   "text": "And then I get it up, um, and then, um, yeah."
+  },
+  {
+   "start": 1042.34,
+   "end": 1044.48,
+   "text": "And then get going on the other links and the downloads."
+  },
+  {
+   "start": 1045.18,
+   "end": 1050.56,
+   "text": "Hopefully there's not too many other things that I have to, um, kind of like bog me down."
+  },
+  {
+   "start": 1050.94,
+   "end": 1057.18,
+   "text": "I was thinking about, cause when I say get Rome, I mean on my website, like every single"
+  },
+  {
+   "start": 1057.18,
+   "end": 1064.94,
+   "text": "Building on all the different, um, um, regions of Rome, um, they get their own download link,"
+  },
+  {
+   "start": 1064.94,
+   "end": 1074.86,
+   "text": "But I think I'm going to do the same thing with the roads, like the roads for, uh, like"
+  },
+  {
+   "start": 1074.86,
+   "end": 1080.18,
+   "text": "Image and polygon, like all of the roads for download individually, just like everything"
+  },
+  {
+   "start": 1080.18,
+   "end": 1080.56,
+   "text": "Else."
+  },
+  {
+   "start": 1083.16,
+   "end": 1085.32,
+   "text": "There's a, I don't think it'll be too big."
+  },
+  {
+   "start": 1085.32,
+   "end": 1092.42,
+   "text": "I don't know exactly how big it is, but, um, there's like, uh, that's kind of like my"
+  },
+  {
+   "start": 1092.42,
+   "end": 1092.88,
+   "text": "Style."
+  },
+  {
+   "start": 1093.02,
+   "end": 1095.24,
+   "text": "That's like my calling card to my website."
+  },
+  {
+   "start": 1095.4,
+   "end": 1100.62,
+   "text": "The way that my site is designed is every single thing that you can boil it down to"
+  },
+  {
+   "start": 1100.62,
+   "end": 1107.2,
+   "text": "Like the atom of the site, like gets its own download, like, and it gets its own number"
+  },
+  {
+   "start": 1107.2,
+   "end": 1107.7,
+   "text": "Basically."
+  },
+  {
+   "start": 1107.94,
+   "end": 1110.24,
+   "text": "It's like its ID number on my site."
+  },
+  {
+   "start": 1110.68,
+   "end": 1112.06,
+   "text": "And that would include all the roads."
+  },
+  {
+   "start": 1112.1,
+   "end": 1116.66,
+   "text": "Cause if you can memorize all the roads in Rome and you can see the number of them and"
+  },
+  {
+   "start": 1116.66,
+   "end": 1118.08,
+   "text": "The numbers are good."
+  },
+  {
+   "start": 1118.08,
+   "end": 1119.92,
+   "text": "Like each, like, um, they're okay."
+  },
+  {
+   "start": 1119.98,
+   "end": 1121.1,
+   "text": "So there's 14 regions."
+  },
+  {
+   "start": 1121.2,
+   "end": 1123.02,
+   "text": "Each region gets North, South, East, West."
+  },
+  {
+   "start": 1123.34,
+   "end": 1126.92,
+   "text": "And like the North, South would get like 30 to 50, which is like perfect."
+  },
+  {
+   "start": 1127.02,
+   "end": 1129.1,
+   "text": "That's like the size of my groupings of things."
+  },
+  {
+   "start": 1129.1,
+   "end": 1131.66,
+   "text": "And something, that's something that you can remember."
+  },
+  {
+   "start": 1131.9,
+   "end": 1133.42,
+   "text": "So it's like maybe a hundred though."
+  },
+  {
+   "start": 1133.54,
+   "end": 1134.02,
+   "text": "You know what I mean?"
+  },
+  {
+   "start": 1134.52,
+   "end": 1139.62,
+   "text": "Cause it's like 50 for North, South, 50 for East, West."
+  },
+  {
+   "start": 1140.22,
+   "end": 1142.8,
+   "text": "So that's a hundred and there's 14 regions."
+  },
+  {
+   "start": 1142.92,
+   "end": 1143.58,
+   "text": "So it's 1400."
+  },
+  {
+   "start": 1144.42,
+   "end": 1146.18,
+   "text": "I'm guessing something like that."
+  },
+  {
+   "start": 1146.24,
+   "end": 1150.86,
+   "text": "So, you know, that's like the same exact number as of lakes that there are in Boulder"
+  },
+  {
+   "start": 1150.86,
+   "end": 1151.2,
+   "text": "County."
+  },
+  {
+   "start": 1151.86,
+   "end": 1156.04,
+   "text": "You know, I love, I love discovering these little like connections because then you can"
+  },
+  {
+   "start": 1156.04,
+   "end": 1157.16,
+   "text": "Tie them together later."
+  },
+  {
+   "start": 1157.16,
+   "end": 1161.8,
+   "text": "It helps you, the more connections you make with things, the easier it is to memorize"
+  },
+  {
+   "start": 1161.8,
+   "end": 1168.2,
+   "text": "Stuff without using more, um, space in your brain."
+  },
+  {
+   "start": 1168.44,
+   "end": 1174.46,
+   "text": "You know, it's like a way to compress information for your brain, um, and a way that'll stick."
+  },
+  {
+   "start": 1174.46,
+   "end": 1181.46,
+   "text": "So, um, and then, um, yeah, and then I'll make, do all this other stuff for download, although"
+  },
+  {
+   "start": 1181.46,
+   "end": 1186.72,
+   "text": "I don't know in what order, but, um, but yeah, see, once I get to this level of like sense"
+  },
+  {
+   "start": 1186.72,
+   "end": 1194.32,
+   "text": "Of accomplishment, I might, uh, be able to switch gears, you know, and do, I guess what"
+  },
+  {
+   "start": 1194.32,
+   "end": 1209.96,
+   "text": "My mom says she wants me to do, um, you know, and, um, and, uh, yeah, that'll be like, and"
+  },
+  {
+   "start": 1209.96,
+   "end": 1213.78,
+   "text": "Then I could just spend like a day, an hour or two a day, just kind of like for the rest"
+  },
+  {
+   "start": 1213.78,
+   "end": 1218.9,
+   "text": "Of my life, just kind of like, or at least while I'm still doing this, while I'm trying"
+  },
+  {
+   "start": 1218.9,
+   "end": 1221.0,
+   "text": "To get in shape, doing that whole athlete thing."
+  },
+  {
+   "start": 1221.0,
+   "end": 1225.56,
+   "text": "And then once I'm done with that, hopefully I want to be doing it for a whole decade."
+  },
+  {
+   "start": 1225.72,
+   "end": 1227.4,
+   "text": "And once I'm done with that, I can get back to my website."
+  },
+  {
+   "start": 1227.48,
+   "end": 1230.72,
+   "text": "But while I'm doing that, I can kind of do it just like incrementally, just like on my"
+  },
+  {
+   "start": 1230.72,
+   "end": 1231.52,
+   "text": "Spare time for fun."
+  },
+  {
+   "start": 1232.58,
+   "end": 1235.18,
+   "text": "One of the relaxation things, even though I have lots of them."
+  },
+  {
+   "start": 1236.0,
+   "end": 1236.16,
+   "text": "Yeah."
+  },
+  {
+   "start": 1236.36,
+   "end": 1243.02,
+   "text": "So, um, anyway, this morning I like was like sick of working and was like, got sick of it."
+  },
+  {
+   "start": 1243.3,
+   "end": 1244.2,
+   "text": "It was like tired."
+  },
+  {
+   "start": 1244.78,
+   "end": 1247.42,
+   "text": "So I went to the store and, but the lady was not there."
+  },
+  {
+   "start": 1247.42,
+   "end": 1250.6,
+   "text": "She was like, she's always in the sleep, sleeping in the bathroom."
+  },
+  {
+   "start": 1250.6,
+   "end": 1251.72,
+   "text": "I need to report her."
+  },
+  {
+   "start": 1252.4,
+   "end": 1255.68,
+   "text": "She's always there doing that on the 24 hour store, Circle K."
+  },
+  {
+   "start": 1256.56,
+   "end": 1259.64,
+   "text": "So I went to the other one and the, the fucking person in the other store was doing the same"
+  },
+  {
+   "start": 1259.64,
+   "end": 1260.16,
+   "text": "Thing too."
+  },
+  {
+   "start": 1260.2,
+   "end": 1260.76,
+   "text": "And they were doing that."
+  },
+  {
+   "start": 1260.84,
+   "end": 1261.82,
+   "text": "They do that too a lot."
+  },
+  {
+   "start": 1262.66,
+   "end": 1268.68,
+   "text": "So then I went to the 7-Eleven and, uh, and I got like these like Mexican, like some kind"
+  },
+  {
+   "start": 1268.68,
+   "end": 1274.18,
+   "text": "Of like Mexican, like old chip roll thing or whatever."
+  },
+  {
+   "start": 1275.22,
+   "end": 1278.48,
+   "text": "And a donut and a Claire and an energy drink."
+  },
+  {
+   "start": 1278.48,
+   "end": 1284.64,
+   "text": "A, um, it's kind of like a small, uh, whatchamacallum, um, Red Bull."
+  },
+  {
+   "start": 1284.7,
+   "end": 1289.3,
+   "text": "And I came back here and my, it was really cold and my winded, my door was open."
+  },
+  {
+   "start": 1289.36,
+   "end": 1290.26,
+   "text": "I opened my door last night."
+  },
+  {
+   "start": 1290.32,
+   "end": 1290.8,
+   "text": "I forgot to close."
+  },
+  {
+   "start": 1290.84,
+   "end": 1291.38,
+   "text": "It was a little cold."
+  },
+  {
+   "start": 1291.38,
+   "end": 1297.64,
+   "text": "But anyway, it was cold outside and I forgot to, somehow I like lost my bag of like that"
+  },
+  {
+   "start": 1297.64,
+   "end": 1300.1,
+   "text": "Mexican food snack."
+  },
+  {
+   "start": 1300.3,
+   "end": 1305.0,
+   "text": "Like I dropped it trying to get it in my backpack or something."
+  },
+  {
+   "start": 1305.1,
+   "end": 1306.1,
+   "text": "I don't know, but whatever."
+  },
+  {
+   "start": 1306.6,
+   "end": 1307.22,
+   "text": "A little stupid."
+  },
+  {
+   "start": 1307.36,
+   "end": 1308.18,
+   "text": "I don't usually do that."
+  },
+  {
+   "start": 1309.24,
+   "end": 1310.64,
+   "text": "So anyways, the store is open now."
+  },
+  {
+   "start": 1310.68,
+   "end": 1312.62,
+   "text": "It opens at six cause it's like six o'clock."
+  },
+  {
+   "start": 1312.62,
+   "end": 1319.6,
+   "text": "Um, I might, it's like six, 10, I think now I might go over there and get some like food,"
+  },
+  {
+   "start": 1319.6,
+   "end": 1322.36,
+   "text": "But I don't know."
+  },
+  {
+   "start": 1322.4,
+   "end": 1325.56,
+   "text": "I feel kind of like sugar intoxicated now."
+  },
+  {
+   "start": 1326.08,
+   "end": 1328.98,
+   "text": "I get sick if I got another energy drink or more sugar."
+  },
+  {
+   "start": 1330.08,
+   "end": 1331.52,
+   "text": "So what would I go over there for?"
+  },
+  {
+   "start": 1331.56,
+   "end": 1332.3,
+   "text": "Oh yeah, that's right."
+  },
+  {
+   "start": 1332.34,
+   "end": 1338.16,
+   "text": "I kind of had a craving for like, um, some kind of like, yeah, like what are those things?"
+  },
+  {
+   "start": 1338.56,
+   "end": 1338.84,
+   "text": "Tokinos?"
+  },
+  {
+   "start": 1338.84,
+   "end": 1351.72,
+   "text": "Those things, those new like Mexican, like rolled, like corn chip, Tocino or something"
+  },
+  {
+   "start": 1351.72,
+   "end": 1352.22,
+   "text": "Like that."
+  },
+  {
+   "start": 1352.3,
+   "end": 1352.74,
+   "text": "I don't know."
+  },
+  {
+   "start": 1353.66,
+   "end": 1356.62,
+   "text": "But, um, yeah, I don't know."
+  },
+  {
+   "start": 1356.68,
+   "end": 1359.12,
+   "text": "I think my phone might need some charging, smoking more weed."
+  },
+  {
+   "start": 1359.48,
+   "end": 1366.26,
+   "text": "Oh, I told my mom, um, that I'm going to quit smoking weed when my reefer runs out because"
+  },
+  {
+   "start": 1366.26,
+   "end": 1367.94,
+   "text": "I can't really get high anymore."
+  },
+  {
+   "start": 1367.94,
+   "end": 1372.4,
+   "text": "Like I've got weed here and I'm just smoking, I'm wasting too much time."
+  },
+  {
+   "start": 1372.4,
+   "end": 1377.64,
+   "text": "Also, I'm wasting too much time and too much money smoking weed because I just have to sit"
+  },
+  {
+   "start": 1377.64,
+   "end": 1379.58,
+   "text": "Around and just smoke weed and I don't get high."
+  },
+  {
+   "start": 1380.48,
+   "end": 1384.66,
+   "text": "And I, and that also gives me an excuse to drink energy drink, you know, cause when I"
+  },
+  {
+   "start": 1384.66,
+   "end": 1386.7,
+   "text": "Don't smoke weed, I don't buy energy drinks."
+  },
+  {
+   "start": 1388.02,
+   "end": 1393.54,
+   "text": "So I save double money and more health and because energy drinks make me feel kind of sick"
+  },
+  {
+   "start": 1393.54,
+   "end": 1395.08,
+   "text": "And, uh, yeah."
+  },
+  {
+   "start": 1395.12,
+   "end": 1398.66,
+   "text": "And then I fucked my lungs and I broke my bong the other day, dude."
+  },
+  {
+   "start": 1399.12,
+   "end": 1400.94,
+   "text": "I had a bong for like a week."
+  },
+  {
+   "start": 1401.3,
+   "end": 1402.6,
+   "text": "I only had a bong for like a week."
+  },
+  {
+   "start": 1402.68,
+   "end": 1403.74,
+   "text": "I had the most beautiful bong."
+  },
+  {
+   "start": 1403.74,
+   "end": 1411.12,
+   "text": "So like I had this mom, it was like really beautiful glass bong and then it broke because"
+  },
+  {
+   "start": 1411.12,
+   "end": 1413.66,
+   "text": "I put it down on my barbell weight."
+  },
+  {
+   "start": 1414.64,
+   "end": 1417.72,
+   "text": "It's down there kind of, cause I, my mattress is on the floor."
+  },
+  {
+   "start": 1417.8,
+   "end": 1419.32,
+   "text": "It doubles as a bedside table."
+  },
+  {
+   "start": 1419.32,
+   "end": 1424.14,
+   "text": "And I didn't think I put it down very hard and it just fucking broke."
+  },
+  {
+   "start": 1424.26,
+   "end": 1428.84,
+   "text": "The glass just broke, spilled water, bong water all over my shag rug."
+  },
+  {
+   "start": 1428.84,
+   "end": 1430.8,
+   "text": "And I'm like, what the fuck?"
+  },
+  {
+   "start": 1431.0,
+   "end": 1433.3,
+   "text": "There must've been like a crack in it or something."
+  },
+  {
+   "start": 1433.98,
+   "end": 1437.96,
+   "text": "So I went into the store and I got the nicest looking bong they had."
+  },
+  {
+   "start": 1437.98,
+   "end": 1438.98,
+   "text": "And it was also the cheapest one."
+  },
+  {
+   "start": 1439.04,
+   "end": 1440.98,
+   "text": "It was only like 60 bucks, beautiful bong."
+  },
+  {
+   "start": 1441.6,
+   "end": 1443.14,
+   "text": "And it worked great."
+  },
+  {
+   "start": 1443.44,
+   "end": 1445.84,
+   "text": "It was awesome bong smoking."
+  },
+  {
+   "start": 1445.84,
+   "end": 1454.54,
+   "text": "And then a couple of days ago, I set it down like a baby, really like a baby, right on"
+  },
+  {
+   "start": 1454.54,
+   "end": 1458.76,
+   "text": "Top of the mat on the, of the, of the weight fucking thing shatters just like the other"
+  },
+  {
+   "start": 1458.76,
+   "end": 1458.98,
+   "text": "One."
+  },
+  {
+   "start": 1459.04,
+   "end": 1460.2,
+   "text": "So I shattered two bongs."
+  },
+  {
+   "start": 1460.88,
+   "end": 1462.34,
+   "text": "I'm like, God damn it."
+  },
+  {
+   "start": 1462.72,
+   "end": 1467.96,
+   "text": "I think what happened was, um, the weight has like jagged edges, you know, it's like"
+  },
+  {
+   "start": 1467.96,
+   "end": 1468.56,
+   "text": "Not flat."
+  },
+  {
+   "start": 1468.64,
+   "end": 1469.82,
+   "text": "It's not designed as a table."
+  },
+  {
+   "start": 1470.44,
+   "end": 1473.08,
+   "text": "So it's got like, it's metal, which goes like this."
+  },
+  {
+   "start": 1473.08,
+   "end": 1476.26,
+   "text": "And then, so if you hit glass kind of at an angle, it'll break."
+  },
+  {
+   "start": 1477.0,
+   "end": 1479.32,
+   "text": "That's why tables don't break glass cause they're flat."
+  },
+  {
+   "start": 1479.44,
+   "end": 1481.5,
+   "text": "And so I must've done that both times."
+  },
+  {
+   "start": 1481.62,
+   "end": 1483.68,
+   "text": "So anyway, so that's another reason to quit."
+  },
+  {
+   "start": 1483.76,
+   "end": 1487.48,
+   "text": "Cause I don't want to buy another goddamn bong, blow all my money on bong."
+  },
+  {
+   "start": 1487.78,
+   "end": 1493.24,
+   "text": "So yeah, when I run out of weed and I'll run out pretty soon, no more weed."
+  },
+  {
+   "start": 1493.36,
+   "end": 1499.0,
+   "text": "I told my mom that and she's super happy cause she says I'm, I'm like too loud and like"
+  },
+  {
+   "start": 1499.0,
+   "end": 1502.86,
+   "text": "Obnoxious when I'm high all the time and I'm old and it also gives me insomnia."
+  },
+  {
+   "start": 1503.42,
+   "end": 1506.78,
+   "text": "So I'm like grunt, like groaning all the time and stuff."
+  },
+  {
+   "start": 1506.9,
+   "end": 1509.14,
+   "text": "So anyway, but it's true for reals."
+  },
+  {
+   "start": 1509.16,
+   "end": 1511.96,
+   "text": "I'm not going to smoke any more weed after this cause I can't get high anymore."
+  },
+  {
+   "start": 1512.68,
+   "end": 1513.7,
+   "text": "And my lungs, yeah."
+  },
+  {
+   "start": 1513.74,
+   "end": 1513.96,
+   "text": "Oh yeah."
+  },
+  {
+   "start": 1514.04,
+   "end": 1514.72,
+   "text": "Plus I'll be ready."
+  },
+  {
+   "start": 1514.82,
+   "end": 1519.5,
+   "text": "I want to be ready to, plus if I do start riding my bike, whatever that is, if I have"
+  },
+  {
+   "start": 1519.5,
+   "end": 1525.44,
+   "text": "Like a Zolcho tolerance for weed, when I do it, I could buy some weed for it and I could"
+  },
+  {
+   "start": 1525.44,
+   "end": 1527.68,
+   "text": "Like be a little bit high, like for the beginning girl."
+  },
+  {
+   "start": 1527.68,
+   "end": 1531.9,
+   "text": "And I get like way high cause my tolerance would be down, but I don't know if I'll do"
+  },
+  {
+   "start": 1531.9,
+   "end": 1532.18,
+   "text": "That."
+  },
+  {
+   "start": 1532.52,
+   "end": 1537.7,
+   "text": "I don't know if I'll do that, but I need to train myself to have a different kind of outlook"
+  },
+  {
+   "start": 1537.7,
+   "end": 1541.72,
+   "text": "On life cause I'm older and everything's, everything's different, you know?"
+  },
+  {
+   "start": 1541.72,
+   "end": 1548.5,
+   "text": "So, um, I gotta like, uh, yeah, approach it differently."
+  },
+  {
+   "start": 1549.58,
+   "end": 1552.58,
+   "text": "So anyways, um, oh, that's enough talking."
+  },
+  {
+   "start": 1553.48,
+   "end": 1557.44,
+   "text": "So hopefully I'll stay on track, be done with the roads, like maybe by tomorrow."
+  },
+  {
+   "start": 1557.62,
+   "end": 1558.16,
+   "text": "I don't know."
+  },
+  {
+   "start": 1558.16,
+   "end": 1560.62,
+   "text": "Okay, talk to you tomorrow."
+  }
+ ]
+}

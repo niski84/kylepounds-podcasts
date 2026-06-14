@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-3723 videos with transcripts. Source of truth for transcripts + enrichments.
+3840 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -48,6 +48,123 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2022-12-24 | [48 Laws of Power book review - Request](corpus/videos/Z7XwmKbN_Vo.json) | mixed | Kyle reviews 'The 48 Laws of Power,' reading all 48 laws aloud and critiquing the book as Machiavellian, dark, and orien |
 | 2022-11-25 | [Tapping Rebellion - Request](corpus/videos/n-LWPAT9raY.json) | kyle | Kyle gives a rambling, opinion-heavy overview of the Taiping Rebellion, using it as a launching pad to discuss Chinese h |
 | 2022-09-16 | [Prometheus Movie Review - Request](corpus/videos/8Y14N13LmxU.json) | kyle | Kyle reviews the 2012 film Prometheus, criticizing it for following the tired Hollywood trope of aliens as one-dimension |
+| 2022-08-07 | [8/7/22 1 1/1 Rode 27 mi, 2362’. Lifted 43,390#](corpus/videos/OmCMkaX9SMQ.json) | — |  |
+| 2022-08-07 | [8/7/22 Flew RC plane, organized and rested](corpus/videos/_Qd2d1QQYKw.json) | — |  |
+| 2022-08-06 | [8/6/22 Finished Mylar on grow rooms and led light covers. Out of money](corpus/videos/VmDbCMIJv-A.json) | — |  |
+| 2022-08-04 | [8/4/22 Getting to end of apt renovation](corpus/videos/Bdimoow0PTw.json) | — |  |
+| 2022-08-01 | [8/1/22 LEDs in bathroom & living room & reflective wallpaper in closet](corpus/videos/4FR2Ze7alkQ.json) | — |  |
+| 2022-07-29 | [7/29/22 Screen door, 100’ LEDs](corpus/videos/Yt_Gw04t9KY.json) | — |  |
+| 2022-07-28 | [7/28/22 Installed lights and fans](corpus/videos/cIJgh7t23YU.json) | — |  |
+| 2022-07-26 | [7/26/22 Gots tons of Tupperware for organizing](corpus/videos/4FuLU5QLLT0.json) | — |  |
+| 2022-07-23 | [7/23/22 Still getting things](corpus/videos/RaDMSNX0430.json) | — |  |
+| 2022-07-19 | [7/19/22 Attaching things, found wallet](corpus/videos/h7Nnk_AFU7w.json) | — |  |
+| 2022-07-15 | [7/15/22 Ferrets to Vet, Replaced injured Parakeet](corpus/videos/vOqrRQjfDkQ.json) | — |  |
+| 2022-07-14 | [7/14/22 Slowly plugging away at apt. Saw 2 movies](corpus/videos/Oy-Ji51MfJs.json) | — |  |
+| 2022-07-12 | [7/12/22 Easy day](corpus/videos/vx1zQFOx_Cg.json) | — |  |
+| 2022-07-08 | [7/8/22 Still on apt. Thought of a cool fountain idea.](corpus/videos/nedmH_xfh3c.json) | — |  |
+| 2022-07-08 | [7/8/22 Cleaning & organizing apt](corpus/videos/wQff_2WBY5U.json) | — |  |
+| 2022-06-27 | [6/27/22 Upgrading Condo](corpus/videos/g4lcasaBypI.json) | — |  |
+| 2022-06-17 | [6/17/22 Upgrading apartments takes a long time](corpus/videos/gA7YvtA6AeQ.json) | — |  |
+| 2022-06-06 | [6/6/22 Part 2. Making Apartment Better](corpus/videos/RhU-LARL40o.json) | — |  |
+| 2022-06-06 | [6/6/22 Still Upgrading Apartment](corpus/videos/SKXy1STJwJI.json) | — |  |
+| 2022-05-26 | [5/26/22 Renovating Apartment to be a zoo/garden](corpus/videos/MqFZ6Gfg2Ag.json) | — |  |
+| 2022-05-19 | [5/19/22 Renovating Apartment for Garden of Eden 2.0](corpus/videos/mijQuqAFoWI.json) | — |  |
+| 2022-05-17 | [5/17/22 Gunna Get like 25 Animals & 100s of plants to Junglefy my apar](corpus/videos/VuDPLzosUk0.json) | — |  |
+| 2022-05-11 | [5/11/22 Got Tegu](corpus/videos/EvB0Dyjm8Wc.json) | — |  |
+| 2022-04-30 | [4/30/22 Sprucing Up Apartment Hard Core Style](corpus/videos/58uKtqOiSro.json) | — |  |
+| 2022-04-28 | [4/28/22 Organizing & Cleaning Apartment](corpus/videos/9gWhYVWyMLI.json) | — |  |
+| 2022-04-27 | [4/27/22 More Apartment Organizing](corpus/videos/HQlJRYMJiYA.json) | — |  |
+| 2022-04-26 | [4/26/22 Tegu Cage](corpus/videos/XiGMsE_WOBQ.json) | — |  |
+| 2022-04-25 | [4/25/22 Organizing & Cleaning](corpus/videos/RAxgbVblU78.json) | — |  |
+| 2022-04-24 | [4/24/22 Organizing House](corpus/videos/uDm6AOiyhMM.json) | — |  |
+| 2022-04-23 | [4/23/22 Did hair. Hung out w/ Mom](corpus/videos/cxbZC2jgYS4.json) | — |  |
+| 2022-04-22 | [4/22/22 Rode 47 miles, 3K’](corpus/videos/xfqS4ZljQN4.json) | — |  |
+| 2022-04-19 | [4/19/22 Organized Apartment](corpus/videos/1DIr0-rjFY4.json) | — |  |
+| 2022-04-18 | [4/18/22 Google Earthing Roman Streets](corpus/videos/rXG_IVEoezU.json) | — |  |
+| 2022-04-17 | [4/17/22 Google Earthing Roman Streets](corpus/videos/vnq7YHKKerg.json) | — |  |
+| 2022-04-16 | [4/16/22 Google Earthing Roman Streets](corpus/videos/9S-WmsnKZec.json) | — |  |
+| 2022-04-14 | [4/14/22 Google Earthing Roman Streets](corpus/videos/0wmcZkXLXHE.json) | — |  |
+| 2022-04-14 | [4/14/22 Google Earthing Roman Streets](corpus/videos/a7wvwbvXiPw.json) | — |  |
+| 2022-04-13 | [4/13/22 Backing Up & Google Earthing Rome](corpus/videos/_NwZjBHY1CI.json) | — |  |
+| 2022-04-11 | [4/11/22 Backing Files & Google Earthing Rome](corpus/videos/Fwmsz330D2k.json) | — |  |
+| 2022-04-10 | [4/10/22 Backing Stuff Up](corpus/videos/zo4j-3cUEEg.json) | — |  |
+| 2022-04-09 | [4/9/22 Google Earthing Rome & Backing Stuff TF (the fuck) Up](corpus/videos/pAQ5JdPXYfM.json) | — |  |
+| 2022-04-07 | [4/7/22 Google Earth Rome Links](corpus/videos/FCmrOsbRTRI.json) | — |  |
+| 2022-04-05 | [4/5/22 Google Earth Links for Rome](corpus/videos/pM5pbSjtYOI.json) | — |  |
+| 2022-04-04 | [4/4/22 Backing Up Google Earth Files](corpus/videos/T_ySdA5N6HA.json) | — |  |
+| 2022-04-04 | [4/4/22 Backing Stuff Up. Lost 9 days  Roman Rds fm 4 Months Ago (Repla](corpus/videos/nLvfR0Kix5E.json) | — |  |
+| 2022-04-02 | [4/2/22 Google Earthing Google Creeks](corpus/videos/-hD8a40fHgc.json) | — |  |
+| 2022-04-01 | [4/1/22 Google Earthing Boulder Creeks](corpus/videos/_vocrLOy0H8.json) | — |  |
+| 2022-03-30 | [3/30/22 Google Earthing Boulder Creeks & Backing Up on New Hard Drive](corpus/videos/fHHKWAWpb10.json) | — |  |
+| 2022-03-29 | [3/29/22 Google Earthing Boulder Creeks](corpus/videos/Sb_nX9wtBPs.json) | — |  |
+| 2022-03-28 | [3/28/22 Google Earthing Boulder Creeks](corpus/videos/JG9su0VGrdE.json) | — |  |
+| 2022-03-27 | [3/27/22 Google Earthing Boulder Rivers](corpus/videos/2MfnWTigXWI.json) | — |  |
+| 2022-03-22 | [3/22/22 Google Earthing Boulder Creeks](corpus/videos/7Nz6Y7C_m88.json) | — |  |
+| 2022-03-22 | [3/22/22 Google Earthing Boulder Creeks](corpus/videos/u86Kql4OaKY.json) | — |  |
+| 2022-03-21 | [3/21/22 Google Earthing Boulder Creeks](corpus/videos/I-EhSt73Cy4.json) | — |  |
+| 2022-03-20 | [3/20/22 Google Earthing Boulder Creeks](corpus/videos/IXrBfbTyW00.json) | — |  |
+| 2022-03-19 | [3/19/22 Google Earthing Creeks of Boulder](corpus/videos/753lGOkgB0g.json) | — |  |
+| 2022-03-17 | [3/17/22 Google Earthing Boulder Creeks](corpus/videos/KSsKpC_5Tak.json) | — |  |
+| 2022-03-16 | [3/16/22 Google Earthing Boulder Creeks](corpus/videos/z4FdT5rk6PU.json) | — |  |
+| 2022-03-12 | [3/12/22 Google Earthing Boulder Creeks](corpus/videos/saU3YHjJwP4.json) | — |  |
+| 2022-03-11 | [3/11/22 Google Earthing Boulder Rivers](corpus/videos/XRHKuqdlNZU.json) | — |  |
+| 2022-03-09 | [3/9/22 Google Earthing Boulder Creeks](corpus/videos/bLGruPr8O24.json) | — |  |
+| 2022-03-05 | [3/5/22 Google Earthing Boulder County Rivers](corpus/videos/tK0FyGKbVzk.json) | — |  |
+| 2022-02-28 | [2/28/22 Google Earthing Boulder Lakes](corpus/videos/DwJbmLPc-iE.json) | — |  |
+| 2022-02-27 | [2/27/22 Google Earthing Boulder Lakes](corpus/videos/6402Z_wLdFs.json) | — |  |
+| 2022-02-26 | [2/26/22 Google Earthing Boulder Lakes](corpus/videos/iSdwaEJpjko.json) | — |  |
+| 2022-02-25 | [2/25/22 Google Earthing Mountaintopia Boulder](corpus/videos/kI25dJMQxME.json) | — |  |
+| 2022-02-23 | [2/23/22 Google Earthing Flatirons](corpus/videos/nvf4RIw_4YM.json) | — |  |
+| 2022-02-14 | [2/14/22 Google Earth Rome City Timeline Page](corpus/videos/1ruih-p6_mc.json) | — |  |
+| 2022-02-12 | [2/12/22 Google Earth Rome City Pop Timeline Page](corpus/videos/6x-nuyovOsc.json) | — |  |
+| 2022-02-11 | [2/11/22 Google Earth Rome City Timeline](corpus/videos/nARueAEfGvY.json) | — |  |
+| 2022-02-10 | [2/10/22 Google Earth Roman City Timeline Links](corpus/videos/2G682KMJv-E.json) | — |  |
+| 2022-01-31 | [1/31/22 Google Earthing Rome Page](corpus/videos/OvaL0BV_vVo.json) | — |  |
+| 2022-01-30 | [1/30/22 Google Earth Rome Page](corpus/videos/K5xiAvHAHyM.json) | — |  |
+| 2022-01-27 | [1/27/22 Google Earth Page](corpus/videos/jQhb0TfLf_Q.json) | — |  |
+| 2022-01-26 | [1/26/22 Country data for Timeline](corpus/videos/woRzKTmqxd8.json) | — |  |
+| 2022-01-25 | [1/25/22 Saeculae & Generations for Timeline](corpus/videos/4xUwmEc3CNY.json) | — |  |
+| 2022-01-24 | [1/24/22 Google Earthing Hadrian’s Wall](corpus/videos/rhPwSZF33cU.json) | — |  |
+| 2022-01-22 | [1/22/22 Google Earthing Hadrian’s Wall & Downloading Envato files](corpus/videos/5-tFzzp5W74.json) | — |  |
+| 2022-01-21 | [1/21/22 Google Earthing Hadrian’s Wall](corpus/videos/WiY_6cLtM1Y.json) | — |  |
+| 2022-01-19 | [1/19/22 Google Earthing Hadrian’s Wall](corpus/videos/SG1TWF1WN90.json) | — |  |
+| 2022-01-15 | [1/15/22 Google Earthing Hadrian’s Wall](corpus/videos/fVYhTPHmJgE.json) | — |  |
+| 2022-01-13 | [1/13/22 Google Earthing Roman Naval Disaster of Punic War](corpus/videos/Ka5w6IBNOsY.json) | — |  |
+| 2022-01-12 | [1/12/22 Beginning to Google Earth Rome’s Greatest Hits](corpus/videos/LdQ7eI8CNQU.json) | — |  |
+| 2022-01-12 | [1/12/22 Google Earthing Bridge of Caligula](corpus/videos/R0DZehOb00M.json) | — |  |
+| 2022-01-06 | [1/6/22 Google Earthing 396 BC Siege of Rome](corpus/videos/bQUNUSomaHw.json) | — |  |
+| 2022-01-04 | [1/4/22 Google Earthing Capitaline Hill of Rome](corpus/videos/P0hNdtlnibo.json) | — |  |
+| 2022-01-03 | [1/3/22 Google Earthing Capitaline Hill Wall](corpus/videos/ZeNn5479Q-Q.json) | — |  |
+| 2022-01-02 | [1/2/22 Google Earthing Capitaline Hill Wall, then finish Servian Wall](corpus/videos/sBx0X7EpJmU.json) | — |  |
+| 2021-12-31 | [12/31/21 Google Earthing Servian Wall. In a few days Vespasian Wall](corpus/videos/LDzRtCz2RPs.json) | — |  |
+| 2021-12-29 | [12/29/21 Google Earthing Servian Wall](corpus/videos/PxIjHC5kGoc.json) | — |  |
+| 2021-12-27 | [12/27/21 Birthday. Hung out with mom. Watched a bunch of movies.](corpus/videos/3U0MWuPW_6M.json) | — |  |
+| 2021-12-25 | [12/25/21 Merry Xmas @ moms. Servian Wall Pillar bases](corpus/videos/RrgRrGRV62Q.json) | — |  |
+| 2021-12-23 | [12/23/21 Google Earthing Servian Wall of Rome](corpus/videos/xLo6hczK3PA.json) | — |  |
+| 2021-12-19 | [12/19/21 Google Earthing Severan Wall of Rome](corpus/videos/XrZ3HmxGsrk.json) | — |  |
+| 2021-12-18 | [12/18/21 Google Earthing Roman roads. Hopefully done on Sunday](corpus/videos/ZJZMEmjoebc.json) | — |  |
+| 2021-12-17 | [12/17/21 Google Earthing Severan Wall at Rome](corpus/videos/PYyWtIfeTjA.json) | — |  |
+| 2021-12-16 | [12/16/21 Google Earthing Roman grass & tiles](corpus/videos/BwvnVaoUos8.json) | — |  |
+| 2021-12-14 | [12/14/21 Google Earthing Roman streets](corpus/videos/u8Q0HbyqhN4.json) | — |  |
+| 2021-12-11 | [12/11/21 Back to the Google Earthing Rome. No sleep for two nights.](corpus/videos/m0atdKY_-cE.json) | — |  |
+| 2021-12-09 | [12/9/21 Indoor rode 91 miles in 6 1 hour rides](corpus/videos/0DSm6uPzR7A.json) | — |  |
+| 2021-12-08 | [12/8/21 Indoor Rode 71.66 miles](corpus/videos/GhdwJVdSvno.json) | — |  |
+| 2021-12-07 | [12/7/21 Rode 81 miles](corpus/videos/jlOEmGiTP1I.json) | — |  |
+| 2021-12-06 | [12/6/21 Indoor road 85 miles](corpus/videos/TIRCpkJMCrQ.json) | — |  |
+| 2021-12-05 | [12/5/21 Indoor Rode 20 miles](corpus/videos/dcGqal7o26c.json) | — |  |
+| 2021-11-28 | [11/28/21 Google Earthing Theater of Pompey](corpus/videos/5Krzh4LcD_Y.json) | — |  |
+| 2021-11-27 | [11/27/21 Google Earthing Roman Theaters](corpus/videos/BCh-R3fWfvA.json) | — |  |
+| 2021-11-23 | [11/23/21 Google Earthing city of ROME 211!](corpus/videos/V_UWru7ttT8.json) | — |  |
+| 2021-11-22 | [11/22/21 Google Earthing Roman roads](corpus/videos/FfNlg8yE_jA.json) | — |  |
+| 2021-11-21 | [11/21/21 Google Earthing Roman roads](corpus/videos/K0Lz8ElMzPk.json) | — |  |
+| 2021-11-17 | [11/17/21 Google Earthing Roman roads throughout Italy for bikes](corpus/videos/VL-IcL1ukdk.json) | — |  |
+| 2021-11-16 | [11/16/21 Sick yesterday from booster. Now I get to go back to Google E](corpus/videos/GnsTiA1QGh0.json) | — |  |
+| 2021-11-15 | [11/15/21 Hit the wall. Need exercise. I'm killing myself with lack of ](corpus/videos/JZRBjr5iD4A.json) | — |  |
+| 2021-11-14 | [11/14/21 Google Earthing Roman roads](corpus/videos/REBUKQGzDwc.json) | — |  |
+| 2021-11-13 | [11/13/21 Tracing Roman roads  Good time to listen to Theodor Mommsen R](corpus/videos/DRCdbeeIKjw.json) | — |  |
+| 2021-11-12 | [11/12/21 Gunna Google Earth Roman Empire BY THE MONTH, cause I'm crazy](corpus/videos/pRk_ZmxY5pQ.json) | — |  |
+| 2021-10-31 | [10/31/21 Google Earthing Roman roads and rivers](corpus/videos/YRHQBeTGzAQ.json) | — |  |
+| 2021-10-26 | [10/26/21 Google Earthing Roman population](corpus/videos/bg4a7OJbLnU.json) | — |  |
 | 2021-10-25 | [10/25/21 Google Earthing Rome](corpus/videos/E5bwuUzg1Zo.json) | — |  |
 | 2021-10-20 | [10/20/21 Google Earthing Roman roads](corpus/videos/1hukpJerh4A.json) | — |  |
 | 2021-10-19 | [10/19/21 Google Earthing Ancient Rome. Saw Italian movie about Romulus](corpus/videos/yh5akAF7-38.json) | — |  |

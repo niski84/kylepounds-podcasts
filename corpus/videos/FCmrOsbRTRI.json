@@ -1,0 +1,2981 @@
+{
+ "youtube_id": "FCmrOsbRTRI",
+ "title": "4/7/22 Google Earth Rome Links",
+ "url": "https://youtu.be/FCmrOsbRTRI",
+ "published_at": "2022-04-07",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 1.07,
+   "end": 8.68,
+   "text": "How's it goin' livin' in Boulder V-Log, I'm..."
+  },
+  {
+   "start": 8.68,
+   "end": 20.81,
+   "text": "It's like, I was working and then I was like, oh, I worked."
+  },
+  {
+   "start": 21.15,
+   "end": 21.97,
+   "text": "Let's just take a break."
+  },
+  {
+   "start": 22.67,
+   "end": 24.29,
+   "text": "So I can't, with the idea to do the video."
+  },
+  {
+   "start": 25.23,
+   "end": 33.79,
+   "text": "Um, I, uh, I said in my video yesterday, like, in the title, like, lost nine days of work."
+  },
+  {
+   "start": 33.87,
+   "end": 35.77,
+   "text": "Well, that's, like, not necessarily true."
+  },
+  {
+   "start": 35.77,
+   "end": 40.81,
+   "text": "Um, that folder, uh, all the roads of Rome of Italy."
+  },
+  {
+   "start": 43.23,
+   "end": 45.99,
+   "text": "If I could recover that, goddammit, that'd be awesome."
+  },
+  {
+   "start": 46.97,
+   "end": 51.31,
+   "text": "Might be inside of my, uh, Italy folder, which is 2.08 gigabytes."
+  },
+  {
+   "start": 51.55,
+   "end": 52.75,
+   "text": "And it, I can't open it."
+  },
+  {
+   "start": 53.69,
+   "end": 57.55,
+   "text": "Cause, like, I, like, oh, I guess I opened it and I put stuff in it."
+  },
+  {
+   "start": 57.85,
+   "end": 59.19,
+   "text": "So hopefully that's what I put in it."
+  },
+  {
+   "start": 60.07,
+   "end": 61.33,
+   "text": "And then I went to open it and it won't open."
+  },
+  {
+   "start": 61.47,
+   "end": 63.33,
+   "text": "So I think, I think, like, stuff changed."
+  },
+  {
+   "start": 63.33,
+   "end": 66.51,
+   "text": "So I called Apple and they had me do some things and they couldn't help me."
+  },
+  {
+   "start": 66.57,
+   "end": 67.49,
+   "text": "So they gave me the number to Google."
+  },
+  {
+   "start": 68.49,
+   "end": 69.67,
+   "text": "Call Google yesterday, never answered."
+  },
+  {
+   "start": 69.75,
+   "end": 71.81,
+   "text": "I was on the Google today and they didn't answer."
+  },
+  {
+   "start": 71.81,
+   "end": 74.07,
+   "text": "I was on, uh, IRS today for, like, two hours."
+  },
+  {
+   "start": 74.23,
+   "end": 76.09,
+   "text": "They said I was only supposed to wait an hour and then two hours."
+  },
+  {
+   "start": 76.91,
+   "end": 79.95,
+   "text": "I'm waiting on IRS or Colorado IRS, like, an hour a day."
+  },
+  {
+   "start": 80.01,
+   "end": 81.49,
+   "text": "Cause I got some letters saying they don't money."
+  },
+  {
+   "start": 81.57,
+   "end": 82.59,
+   "text": "But now they won't answer the phone."
+  },
+  {
+   "start": 82.65,
+   "end": 83.79,
+   "text": "So they're wasting my time."
+  },
+  {
+   "start": 84.35,
+   "end": 85.39,
+   "text": "And then I tried that with Google."
+  },
+  {
+   "start": 85.51,
+   "end": 87.49,
+   "text": "I was waiting on the line with Google for, like, an hour."
+  },
+  {
+   "start": 87.71,
+   "end": 88.25,
+   "text": "Googleplex."
+  },
+  {
+   "start": 88.35,
+   "end": 90.13,
+   "text": "Hello, welcome to Googleplex."
+  },
+  {
+   "start": 91.59,
+   "end": 96.09,
+   "text": "But I was also, uh, researching to see if other programs could open KMZ files."
+  },
+  {
+   "start": 96.09,
+   "end": 98.15,
+   "text": "And I found one."
+  },
+  {
+   "start": 98.21,
+   "end": 101.29,
+   "text": "They're like, yeah, we opened KML files, man."
+  },
+  {
+   "start": 102.05,
+   "end": 108.79,
+   "text": "So, um, I extracted that, that Italy KMZ file, turned it into a KML file."
+  },
+  {
+   "start": 108.79,
+   "end": 110.69,
+   "text": "And that wouldn't open on Google Earth."
+  },
+  {
+   "start": 110.77,
+   "end": 114.47,
+   "text": "Even though it was like a fifth the size."
+  },
+  {
+   "start": 114.47,
+   "end": 117.53,
+   "text": "It was, it was 446 gigabytes instead of 2.08."
+  },
+  {
+   "start": 117.69,
+   "end": 119.31,
+   "text": "And would never open."
+  },
+  {
+   "start": 119.45,
+   "end": 123.73,
+   "text": "So, baby, it doesn't open KMZ, KML, only KMZ."
+  },
+  {
+   "start": 123.83,
+   "end": 125.89,
+   "text": "So, I, I downloaded that program."
+  },
+  {
+   "start": 126.03,
+   "end": 126.75,
+   "text": "Can't remember what it's name."
+  },
+  {
+   "start": 126.89,
+   "end": 127.45,
+   "text": "And then I opened it."
+  },
+  {
+   "start": 127.53,
+   "end": 135.15,
+   "text": "And then, um, I, um, I, uh, I opened up the program, you know."
+  },
+  {
+   "start": 135.17,
+   "end": 136.07,
+   "text": "And I saw the images."
+  },
+  {
+   "start": 136.35,
+   "end": 137.33,
+   "text": "Or I saw, opened that file."
+  },
+  {
+   "start": 137.43,
+   "end": 138.17,
+   "text": "And I saw the images."
+  },
+  {
+   "start": 138.65,
+   "end": 140.87,
+   "text": "And then I went to open up the actual, you know, file."
+  },
+  {
+   "start": 141.03,
+   "end": 142.31,
+   "text": "To see what files were in there."
+  },
+  {
+   "start": 142.31,
+   "end": 146.17,
+   "text": "And I, uh, just was spinning around for like a half hour."
+  },
+  {
+   "start": 146.89,
+   "end": 147.91,
+   "text": "So, I, like, couldn't do it."
+  },
+  {
+   "start": 147.95,
+   "end": 149.27,
+   "text": "So, that was the wrong program."
+  },
+  {
+   "start": 151.87,
+   "end": 152.97,
+   "text": "Maybe I was doing things."
+  },
+  {
+   "start": 153.09,
+   "end": 153.71,
+   "text": "I can't remember."
+  },
+  {
+   "start": 153.79,
+   "end": 154.33,
+   "text": "Maybe I was doing things."
+  },
+  {
+   "start": 154.37,
+   "end": 157.01,
+   "text": "So, I was doing that, like, dragging and dropping when I was doing that."
+  },
+  {
+   "start": 157.07,
+   "end": 157.27,
+   "text": "I know."
+  },
+  {
+   "start": 157.95,
+   "end": 158.49,
+   "text": "And that's why."
+  },
+  {
+   "start": 158.57,
+   "end": 159.27,
+   "text": "So, maybe I'll try it later."
+  },
+  {
+   "start": 159.33,
+   "end": 160.79,
+   "text": "But I might have to try another program."
+  },
+  {
+   "start": 160.87,
+   "end": 161.95,
+   "text": "And I'm also going to keep calling Google."
+  },
+  {
+   "start": 162.07,
+   "end": 164.17,
+   "text": "But eventually, I have to crack open that Italy."
+  },
+  {
+   "start": 164.25,
+   "end": 166.57,
+   "text": "But I'll just assume that it's in there just so I don't freak out."
+  },
+  {
+   "start": 166.65,
+   "end": 168.35,
+   "text": "Because before, I was just freaking out."
+  },
+  {
+   "start": 168.35,
+   "end": 169.81,
+   "text": "I was just, like, really depressed about it."
+  },
+  {
+   "start": 169.85,
+   "end": 170.37,
+   "text": "Like, oh, my God."
+  },
+  {
+   "start": 170.39,
+   "end": 170.73,
+   "text": "Oh, my God."
+  },
+  {
+   "start": 170.73,
+   "end": 172.47,
+   "text": "But now, if I'm like, you know what?"
+  },
+  {
+   "start": 172.49,
+   "end": 173.29,
+   "text": "It's probably in there."
+  },
+  {
+   "start": 173.35,
+   "end": 174.03,
+   "text": "You can recover it."
+  },
+  {
+   "start": 174.07,
+   "end": 176.17,
+   "text": "Just figure out a way to one day open up that file."
+  },
+  {
+   "start": 176.31,
+   "end": 177.45,
+   "text": "There has to be a way to open up the file."
+  },
+  {
+   "start": 178.07,
+   "end": 180.83,
+   "text": "If, I mean, they should build in a way, like, a booby trap."
+  },
+  {
+   "start": 180.91,
+   "end": 183.07,
+   "text": "A way to not make booby traps for yourself."
+  },
+  {
+   "start": 183.17,
+   "end": 184.85,
+   "text": "So, you don't get carried away."
+  },
+  {
+   "start": 187.51,
+   "end": 188.57,
+   "text": "Carried away making stuff."
+  },
+  {
+   "start": 188.93,
+   "end": 189.73,
+   "text": "Files really big."
+  },
+  {
+   "start": 189.77,
+   "end": 191.65,
+   "text": "And then you can't open them again."
+  },
+  {
+   "start": 191.81,
+   "end": 192.59,
+   "text": "Like, that's not fair."
+  },
+  {
+   "start": 192.89,
+   "end": 193.69,
+   "text": "It's a goddamn booby trap."
+  },
+  {
+   "start": 193.81,
+   "end": 195.27,
+   "text": "That happened with my Rome City."
+  },
+  {
+   "start": 195.27,
+   "end": 201.95,
+   "text": "Now it's happening with, but it didn't mean anything because I already had the separate files open."
+  },
+  {
+   "start": 202.07,
+   "end": 203.53,
+   "text": "But now it happened with Italy."
+  },
+  {
+   "start": 203.83,
+   "end": 207.23,
+   "text": "And now I'm, so that's fucked because I lose at least nine days from those roads."
+  },
+  {
+   "start": 207.37,
+   "end": 208.09,
+   "text": "So, anyway."
+  },
+  {
+   "start": 208.77,
+   "end": 213.63,
+   "text": "But anyway, if it turns out that I never recover those roads, I can at least, you know, write all over my website."
+  },
+  {
+   "start": 213.73,
+   "end": 216.19,
+   "text": "I'll be like, you wouldn't believe I used to have these roads."
+  },
+  {
+   "start": 216.29,
+   "end": 216.85,
+   "text": "It was like that."
+  },
+  {
+   "start": 216.85,
+   "end": 222.25,
+   "text": "And the whole roads everywhere, this road, this road, this road."
+  },
+  {
+   "start": 222.31,
+   "end": 223.49,
+   "text": "It was all Polygon Man."
+  },
+  {
+   "start": 223.59,
+   "end": 224.31,
+   "text": "It looked so awesome."
+  },
+  {
+   "start": 224.41,
+   "end": 224.73,
+   "text": "But whatever."
+  },
+  {
+   "start": 226.97,
+   "end": 227.33,
+   "text": "Anyway."
+  },
+  {
+   "start": 229.47,
+   "end": 231.89,
+   "text": "So, yeah."
+  },
+  {
+   "start": 232.09,
+   "end": 234.97,
+   "text": "So, last night I was working until the morning."
+  },
+  {
+   "start": 235.45,
+   "end": 237.11,
+   "text": "And so then I called my mom."
+  },
+  {
+   "start": 237.15,
+   "end": 240.27,
+   "text": "And I was still, like, up and at him at, like, 8 in the morning."
+  },
+  {
+   "start": 240.37,
+   "end": 241.03,
+   "text": "So, I called my mom."
+  },
+  {
+   "start": 242.27,
+   "end": 243.93,
+   "text": "To see if she wanted to do open."
+  },
+  {
+   "start": 244.03,
+   "end": 245.23,
+   "text": "Maybe it was, like, 7 o'clock."
+  },
+  {
+   "start": 245.23,
+   "end": 249.67,
+   "text": "Or, it was, like, 7.30, I called her to see if she wants to go on a bike ride or a walk."
+  },
+  {
+   "start": 250.37,
+   "end": 251.53,
+   "text": "Because that's a good time, you know."
+  },
+  {
+   "start": 251.57,
+   "end": 255.63,
+   "text": "Because, like, if I fall asleep after that, I might get up too late in the day."
+  },
+  {
+   "start": 256.39,
+   "end": 257.11,
+   "text": "And she's old."
+  },
+  {
+   "start": 257.17,
+   "end": 258.39,
+   "text": "So, she has more energy in the morning."
+  },
+  {
+   "start": 258.51,
+   "end": 259.35,
+   "text": "So, yeah."
+  },
+  {
+   "start": 259.35,
+   "end": 260.13,
+   "text": "She was up for it."
+  },
+  {
+   "start": 260.13,
+   "end": 260.83,
+   "text": "So, I went over there."
+  },
+  {
+   "start": 261.09,
+   "end": 265.17,
+   "text": "And we went on a walk."
+  },
+  {
+   "start": 265.55,
+   "end": 269.21,
+   "text": "And down to the, you know, around the block."
+  },
+  {
+   "start": 269.35,
+   "end": 270.85,
+   "text": "Around a couple blocks, like a new way."
+  },
+  {
+   "start": 271.07,
+   "end": 272.73,
+   "text": "And so, it was cool."
+  },
+  {
+   "start": 273.19,
+   "end": 274.37,
+   "text": "And I was fine and talked."
+  },
+  {
+   "start": 274.37,
+   "end": 276.75,
+   "text": "And then, uh..."
+  },
+  {
+   "start": 276.75,
+   "end": 283.65,
+   "text": "They talked about the possibilities of the Republicans finding some lunatic to try to become president next time."
+  },
+  {
+   "start": 283.71,
+   "end": 284.07,
+   "text": "And if they win."
+  },
+  {
+   "start": 284.15,
+   "end": 284.57,
+   "text": "And what happens?"
+  },
+  {
+   "start": 284.69,
+   "end": 285.09,
+   "text": "Oh, my God."
+  },
+  {
+   "start": 285.25,
+   "end": 286.59,
+   "text": "Anyway, um..."
+  },
+  {
+   "start": 286.59,
+   "end": 288.03,
+   "text": "So, um..."
+  },
+  {
+   "start": 288.03,
+   "end": 289.21,
+   "text": "I was there."
+  },
+  {
+   "start": 290.41,
+   "end": 292.33,
+   "text": "And she made me some soup."
+  },
+  {
+   "start": 292.41,
+   "end": 293.21,
+   "text": "And I hung out a little bit."
+  },
+  {
+   "start": 293.27,
+   "end": 294.25,
+   "text": "And then we went over back here."
+  },
+  {
+   "start": 294.49,
+   "end": 296.75,
+   "text": "And then I went over to the store."
+  },
+  {
+   "start": 296.75,
+   "end": 300.93,
+   "text": "And I bought two, like, flasks of whiskey."
+  },
+  {
+   "start": 301.25,
+   "end": 303.59,
+   "text": "Because I didn't want to have..."
+  },
+  {
+   "start": 303.59,
+   "end": 307.17,
+   "text": "I didn't want to have problems."
+  },
+  {
+   "start": 307.53,
+   "end": 308.21,
+   "text": "Um..."
+  },
+  {
+   "start": 308.21,
+   "end": 309.53,
+   "text": "Um..."
+  },
+  {
+   "start": 309.53,
+   "end": 311.59,
+   "text": "With insomnia."
+  },
+  {
+   "start": 311.77,
+   "end": 311.99,
+   "text": "You know?"
+  },
+  {
+   "start": 312.07,
+   "end": 312.97,
+   "text": "Like, I wanted to go to sleep."
+  },
+  {
+   "start": 313.01,
+   "end": 314.37,
+   "text": "And I just kind of felt like that'd be cool."
+  },
+  {
+   "start": 314.53,
+   "end": 314.91,
+   "text": "And so..."
+  },
+  {
+   "start": 314.91,
+   "end": 317.07,
+   "text": "And they had some, like, special."
+  },
+  {
+   "start": 317.31,
+   "end": 319.31,
+   "text": "So, for five bucks, you'd get two flasks of whiskey."
+  },
+  {
+   "start": 319.41,
+   "end": 320.37,
+   "text": "So, I got it for five bucks."
+  },
+  {
+   "start": 320.45,
+   "end": 321.03,
+   "text": "Gave them all my drink."
+  },
+  {
+   "start": 321.13,
+   "end": 321.71,
+   "text": "And I drank one."
+  },
+  {
+   "start": 321.77,
+   "end": 321.91,
+   "text": "I was like..."
+  },
+  {
+   "start": 321.91,
+   "end": 324.77,
+   "text": "Okay, so that's cool and everything."
+  },
+  {
+   "start": 324.93,
+   "end": 325.97,
+   "text": "That was tasty or whatever."
+  },
+  {
+   "start": 326.09,
+   "end": 326.91,
+   "text": "But, like..."
+  },
+  {
+   "start": 326.91,
+   "end": 329.69,
+   "text": "I guess I'm a little bit, like, relaxed."
+  },
+  {
+   "start": 329.69,
+   "end": 331.41,
+   "text": "But I could, like, barely feel it."
+  },
+  {
+   "start": 331.47,
+   "end": 333.11,
+   "text": "So, I just kind of chugged the other one."
+  },
+  {
+   "start": 333.21,
+   "end": 334.55,
+   "text": "I think I'm going to do it tomorrow, too."
+  },
+  {
+   "start": 336.53,
+   "end": 337.91,
+   "text": "And, um..."
+  },
+  {
+   "start": 337.91,
+   "end": 340.91,
+   "text": "And I got, like, maybe, like..."
+  },
+  {
+   "start": 340.91,
+   "end": 345.53,
+   "text": "I got, like, a little bit of a high."
+  },
+  {
+   "start": 346.19,
+   "end": 347.91,
+   "text": "And, um..."
+  },
+  {
+   "start": 347.91,
+   "end": 349.91,
+   "text": "And..."
+  },
+  {
+   "start": 349.91,
+   "end": 350.71,
+   "text": "Or, I think."
+  },
+  {
+   "start": 350.71,
+   "end": 353.73,
+   "text": "And then I, like, fell asleep not long after that."
+  },
+  {
+   "start": 353.81,
+   "end": 354.71,
+   "text": "And then, um..."
+  },
+  {
+   "start": 355.45,
+   "end": 356.47,
+   "text": "Yeah, I got up in the afternoon."
+  },
+  {
+   "start": 356.61,
+   "end": 357.59,
+   "text": "I've been working ever since now."
+  },
+  {
+   "start": 357.63,
+   "end": 358.67,
+   "text": "It's, like, 3.40 in the morning."
+  },
+  {
+   "start": 358.83,
+   "end": 359.99,
+   "text": "So, I, uh..."
+  },
+  {
+   "start": 359.99,
+   "end": 360.71,
+   "text": "I, um..."
+  },
+  {
+   "start": 361.51,
+   "end": 363.99,
+   "text": "You know, yesterday was the whole day of backing up stuff."
+  },
+  {
+   "start": 364.07,
+   "end": 366.19,
+   "text": "And I think I was done today."
+  },
+  {
+   "start": 366.31,
+   "end": 367.47,
+   "text": "I don't think I did any more today."
+  },
+  {
+   "start": 367.51,
+   "end": 368.15,
+   "text": "I was done yesterday."
+  },
+  {
+   "start": 368.23,
+   "end": 369.31,
+   "text": "I maybe started on the project."
+  },
+  {
+   "start": 369.45,
+   "end": 370.37,
+   "text": "So, yeah."
+  },
+  {
+   "start": 370.51,
+   "end": 372.71,
+   "text": "So, today, what I started was, uh..."
+  },
+  {
+   "start": 373.25,
+   "end": 373.77,
+   "text": "I, uh..."
+  },
+  {
+   "start": 373.77,
+   "end": 374.83,
+   "text": "I tried to..."
+  },
+  {
+   "start": 374.83,
+   "end": 379.71,
+   "text": "I tried to do surface stuff where I'm, um..."
+  },
+  {
+   "start": 380.71,
+   "end": 381.71,
+   "text": "Um..."
+  },
+  {
+   "start": 382.79,
+   "end": 384.93,
+   "text": "You know, I don't want to lose any more stuff, you know?"
+  },
+  {
+   "start": 385.17,
+   "end": 387.53,
+   "text": "So, I backed up four different cards."
+  },
+  {
+   "start": 388.35,
+   "end": 390.53,
+   "text": "32 gigabyte cards, which actually wasn't big enough."
+  },
+  {
+   "start": 390.65,
+   "end": 392.99,
+   "text": "It was only just big enough for my, uh..."
+  },
+  {
+   "start": 392.99,
+   "end": 393.95,
+   "text": "A little bit of photos."
+  },
+  {
+   "start": 394.91,
+   "end": 396.31,
+   "text": "But not all of my photos."
+  },
+  {
+   "start": 396.39,
+   "end": 398.61,
+   "text": "Just a few photos on my KMZ."
+  },
+  {
+   "start": 398.79,
+   "end": 399.47,
+   "text": "And then my website."
+  },
+  {
+   "start": 399.63,
+   "end": 400.21,
+   "text": "But that was it."
+  },
+  {
+   "start": 400.75,
+   "end": 401.39,
+   "text": "I should have bought more."
+  },
+  {
+   "start": 401.49,
+   "end": 402.29,
+   "text": "So, then I bought..."
+  },
+  {
+   "start": 402.29,
+   "end": 403.85,
+   "text": "I haven't gotten any mail yet."
+  },
+  {
+   "start": 403.89,
+   "end": 405.59,
+   "text": "But I got, like, 128 gigabyte ones."
+  },
+  {
+   "start": 405.59,
+   "end": 406.99,
+   "text": "I got those..."
+  },
+  {
+   "start": 406.99,
+   "end": 412.01,
+   "text": "I got those smaller ones because they were, like, um..."
+  },
+  {
+   "start": 412.01,
+   "end": 412.57,
+   "text": "Uh..."
+  },
+  {
+   "start": 412.57,
+   "end": 413.19,
+   "text": "Like, cheaper."
+  },
+  {
+   "start": 413.85,
+   "end": 415.41,
+   "text": "And I guess I didn't look around much."
+  },
+  {
+   "start": 415.49,
+   "end": 416.81,
+   "text": "But I'm gonna, you know..."
+  },
+  {
+   "start": 416.81,
+   "end": 417.87,
+   "text": "And, um..."
+  },
+  {
+   "start": 417.87,
+   "end": 419.47,
+   "text": "And they were quick to drag."
+  },
+  {
+   "start": 419.59,
+   "end": 421.51,
+   "text": "So, anyway, I'm just kind of stepping up the game."
+  },
+  {
+   "start": 421.61,
+   "end": 422.31,
+   "text": "Getting bigger ones."
+  },
+  {
+   "start": 423.09,
+   "end": 423.49,
+   "text": "Uh..."
+  },
+  {
+   "start": 423.49,
+   "end": 424.87,
+   "text": "I got a 128 gigabyte one."
+  },
+  {
+   "start": 424.91,
+   "end": 428.81,
+   "text": "And then I got a 556 gig one."
+  },
+  {
+   "start": 428.87,
+   "end": 429.89,
+   "text": "And I'm excited about that."
+  },
+  {
+   "start": 429.93,
+   "end": 432.17,
+   "text": "Because it was only, like, $16 or something."
+  },
+  {
+   "start": 432.29,
+   "end": 432.61,
+   "text": "$19."
+  },
+  {
+   "start": 433.83,
+   "end": 436.33,
+   "text": "So, if this, like, drags really fast, like those other ones."
+  },
+  {
+   "start": 436.41,
+   "end": 437.41,
+   "text": "We're dragging so fast."
+  },
+  {
+   "start": 437.45,
+   "end": 438.13,
+   "text": "I couldn't believe it."
+  },
+  {
+   "start": 439.05,
+   "end": 439.81,
+   "text": "Um..."
+  },
+  {
+   "start": 439.81,
+   "end": 441.75,
+   "text": "Like, way faster than an external hard drive."
+  },
+  {
+   "start": 441.75,
+   "end": 442.75,
+   "text": "And, um..."
+  },
+  {
+   "start": 443.89,
+   "end": 446.45,
+   "text": "Like, you know, fill it up, like, in a half day or whatever."
+  },
+  {
+   "start": 447.39,
+   "end": 448.77,
+   "text": "Then I'll buy a fucking other one, dude."
+  },
+  {
+   "start": 448.95,
+   "end": 450.05,
+   "text": "Then I'll buy a bunch of..."
+  },
+  {
+   "start": 450.05,
+   "end": 452.81,
+   "text": "Because then I have the whole website."
+  },
+  {
+   "start": 452.81,
+   "end": 454.17,
+   "text": "All 500 gigabytes on there."
+  },
+  {
+   "start": 454.81,
+   "end": 455.75,
+   "text": "And then I can, you know..."
+  },
+  {
+   "start": 455.75,
+   "end": 456.97,
+   "text": "When I'm done, I can top it up on there."
+  },
+  {
+   "start": 457.01,
+   "end": 457.59,
+   "text": "So, that'll be cool."
+  },
+  {
+   "start": 458.01,
+   "end": 459.01,
+   "text": "Um..."
+  },
+  {
+   "start": 459.01,
+   "end": 460.59,
+   "text": "And those cards are, you know..."
+  },
+  {
+   "start": 460.59,
+   "end": 462.97,
+   "text": "Good to stay..."
+  },
+  {
+   "start": 462.97,
+   "end": 464.01,
+   "text": "Around for a while."
+  },
+  {
+   "start": 464.29,
+   "end": 464.77,
+   "text": "If you..."
+  },
+  {
+   "start": 464.77,
+   "end": 465.17,
+   "text": "Uh..."
+  },
+  {
+   "start": 465.17,
+   "end": 466.11,
+   "text": "Storm ride."
+  },
+  {
+   "start": 466.19,
+   "end": 467.11,
+   "text": "So..."
+  },
+  {
+   "start": 467.11,
+   "end": 467.57,
+   "text": "Um..."
+  },
+  {
+   "start": 467.57,
+   "end": 467.75,
+   "text": "Yeah."
+  },
+  {
+   "start": 467.81,
+   "end": 468.43,
+   "text": "So, I'm waiting on..."
+  },
+  {
+   "start": 468.43,
+   "end": 470.11,
+   "text": "I think I like two more cards."
+  },
+  {
+   "start": 471.37,
+   "end": 471.93,
+   "text": "And, uh..."
+  },
+  {
+   "start": 471.93,
+   "end": 472.05,
+   "text": "Yeah."
+  },
+  {
+   "start": 472.09,
+   "end": 473.53,
+   "text": "I got my beanbag filler today."
+  },
+  {
+   "start": 473.63,
+   "end": 475.07,
+   "text": "But I didn't manage to put it in my beanbag."
+  },
+  {
+   "start": 475.33,
+   "end": 476.79,
+   "text": "I have my, uh..."
+  },
+  {
+   "start": 476.79,
+   "end": 477.09,
+   "text": "Yeah."
+  },
+  {
+   "start": 477.13,
+   "end": 477.99,
+   "text": "I'm actually looking forward to it."
+  },
+  {
+   "start": 477.99,
+   "end": 479.15,
+   "text": "I think I'm gonna assemble that right now."
+  },
+  {
+   "start": 479.47,
+   "end": 480.73,
+   "text": "I just couldn't find the beanbag."
+  },
+  {
+   "start": 480.79,
+   "end": 481.67,
+   "text": "I was like, where the fuck is it?"
+  },
+  {
+   "start": 482.25,
+   "end": 482.67,
+   "text": "Looking around."
+  },
+  {
+   "start": 482.67,
+   "end": 484.15,
+   "text": "I'm gonna, like, clean up my room for the beanbag."
+  },
+  {
+   "start": 484.61,
+   "end": 485.73,
+   "text": "Put those beanies in it."
+  },
+  {
+   "start": 485.85,
+   "end": 486.73,
+   "text": "And see how it fits."
+  },
+  {
+   "start": 487.57,
+   "end": 488.35,
+   "text": "I might wanna..."
+  },
+  {
+   "start": 488.35,
+   "end": 488.97,
+   "text": "I might, uh..."
+  },
+  {
+   "start": 488.97,
+   "end": 489.49,
+   "text": "Need more."
+  },
+  {
+   "start": 489.83,
+   "end": 492.05,
+   "text": "I bought another one before from Bed Bath & Beyond."
+  },
+  {
+   "start": 492.05,
+   "end": 492.37,
+   "text": "I work."
+  },
+  {
+   "start": 495.01,
+   "end": 495.99,
+   "text": "When they were still open."
+  },
+  {
+   "start": 496.17,
+   "end": 496.25,
+   "text": "Um..."
+  },
+  {
+   "start": 496.25,
+   "end": 496.93,
+   "text": "But I threw it away."
+  },
+  {
+   "start": 496.99,
+   "end": 498.29,
+   "text": "Because it was before I had this set up here."
+  },
+  {
+   "start": 498.85,
+   "end": 499.37,
+   "text": "So, anyways."
+  },
+  {
+   "start": 499.77,
+   "end": 500.53,
+   "text": "Um..."
+  },
+  {
+   "start": 500.53,
+   "end": 502.09,
+   "text": "Um..."
+  },
+  {
+   "start": 502.09,
+   "end": 503.37,
+   "text": "Um..."
+  },
+  {
+   "start": 503.37,
+   "end": 506.57,
+   "text": "I, uh..."
+  },
+  {
+   "start": 506.57,
+   "end": 507.67,
+   "text": "So, um..."
+  },
+  {
+   "start": 507.67,
+   "end": 508.07,
+   "text": "Oh, man."
+  },
+  {
+   "start": 508.09,
+   "end": 508.87,
+   "text": "What was I talking about?"
+  },
+  {
+   "start": 510.25,
+   "end": 510.73,
+   "text": "So..."
+  },
+  {
+   "start": 510.73,
+   "end": 511.03,
+   "text": "Oh, yeah."
+  },
+  {
+   "start": 511.03,
+   "end": 514.71,
+   "text": "So, I was working and, uh..."
+  },
+  {
+   "start": 514.71,
+   "end": 515.43,
+   "text": "Backing stuff up."
+  },
+  {
+   "start": 515.51,
+   "end": 516.33,
+   "text": "So, um..."
+  },
+  {
+   "start": 516.33,
+   "end": 518.67,
+   "text": "The thing that I'm, you know, trying to back up right now is the, uh..."
+  },
+  {
+   "start": 518.67,
+   "end": 519.99,
+   "text": "All the different, uh..."
+  },
+  {
+   "start": 519.99,
+   "end": 520.71,
+   "text": "Regions of Rome."
+  },
+  {
+   "start": 520.81,
+   "end": 522.17,
+   "text": "And so, I'm looking at the Regions of Rome."
+  },
+  {
+   "start": 522.21,
+   "end": 523.85,
+   "text": "And I never got around to naming all the buildings."
+  },
+  {
+   "start": 523.95,
+   "end": 524.45,
+   "text": "I was like, all right."
+  },
+  {
+   "start": 524.51,
+   "end": 525.45,
+   "text": "Just name the buildings."
+  },
+  {
+   "start": 525.51,
+   "end": 527.19,
+   "text": "Because then I can then, um..."
+  },
+  {
+   "start": 527.19,
+   "end": 529.37,
+   "text": "Save at least the different, like, folders."
+  },
+  {
+   "start": 529.47,
+   "end": 530.89,
+   "text": "Like, within 30, 20, or 30."
+  },
+  {
+   "start": 530.99,
+   "end": 534.27,
+   "text": "Those, like, the groupings like to do individually into the, uh..."
+  },
+  {
+   "start": 534.27,
+   "end": 534.73,
+   "text": "Website."
+  },
+  {
+   "start": 534.83,
+   "end": 537.07,
+   "text": "And then have them, you know, for individual downloads."
+  },
+  {
+   "start": 537.07,
+   "end": 538.97,
+   "text": "Just for educational purposes."
+  },
+  {
+   "start": 539.17,
+   "end": 539.97,
+   "text": "And they're on the name of them."
+  },
+  {
+   "start": 540.01,
+   "end": 540.93,
+   "text": "It's like a long time coming."
+  },
+  {
+   "start": 541.03,
+   "end": 542.87,
+   "text": "Plus, magically, now..."
+  },
+  {
+   "start": 542.87,
+   "end": 543.41,
+   "text": "Uh..."
+  },
+  {
+   "start": 543.41,
+   "end": 544.77,
+   "text": "Google Earth has this new thing."
+  },
+  {
+   "start": 544.77,
+   "end": 545.47,
+   "text": "And it was just new."
+  },
+  {
+   "start": 545.57,
+   "end": 546.71,
+   "text": "Because I'm on Google Earth all the time."
+  },
+  {
+   "start": 546.77,
+   "end": 547.83,
+   "text": "So, I know when stuff happens."
+  },
+  {
+   "start": 547.93,
+   "end": 548.45,
+   "text": "It's pretty cool."
+  },
+  {
+   "start": 549.27,
+   "end": 549.87,
+   "text": "Um..."
+  },
+  {
+   "start": 549.87,
+   "end": 552.81,
+   "text": "When you click on down below, like, More, I think it's called."
+  },
+  {
+   "start": 552.93,
+   "end": 553.83,
+   "text": "The More folder."
+  },
+  {
+   "start": 554.83,
+   "end": 555.31,
+   "text": "Um..."
+  },
+  {
+   "start": 555.31,
+   "end": 556.05,
+   "text": "They have..."
+  },
+  {
+   "start": 556.05,
+   "end": 557.97,
+   "text": "Wikipedia is attached..."
+  },
+  {
+   "start": 557.97,
+   "end": 561.51,
+   "text": "Wikipedia is attached to Google Earth."
+  },
+  {
+   "start": 562.05,
+   "end": 564.47,
+   "text": "So, like, all the different, like..."
+  },
+  {
+   "start": 564.47,
+   "end": 565.09,
+   "text": "Anything."
+  },
+  {
+   "start": 565.27,
+   "end": 566.45,
+   "text": "Any building or area."
+  },
+  {
+   "start": 566.71,
+   "end": 567.21,
+   "text": "Or whether..."
+  },
+  {
+   "start": 567.21,
+   "end": 568.51,
+   "text": "What time period it was."
+  },
+  {
+   "start": 569.49,
+   "end": 571.43,
+   "text": "Then Rome has a Wikipedia article."
+  },
+  {
+   "start": 571.63,
+   "end": 571.97,
+   "text": "You have..."
+  },
+  {
+   "start": 571.97,
+   "end": 573.09,
+   "text": "You see the little W."
+  },
+  {
+   "start": 573.09,
+   "end": 576.77,
+   "text": "The little white square with the black W there."
+  },
+  {
+   "start": 576.85,
+   "end": 577.53,
+   "text": "And you can click on it."
+  },
+  {
+   "start": 577.81,
+   "end": 578.71,
+   "text": "And it brings up..."
+  },
+  {
+   "start": 578.71,
+   "end": 580.39,
+   "text": "Immediately brings up on the whole screen."
+  },
+  {
+   "start": 580.63,
+   "end": 581.69,
+   "text": "The Wikipedia article."
+  },
+  {
+   "start": 581.87,
+   "end": 583.51,
+   "text": "And so, it helps me identify buildings."
+  },
+  {
+   "start": 583.59,
+   "end": 584.51,
+   "text": "And name buildings and stuff."
+  },
+  {
+   "start": 584.59,
+   "end": 584.93,
+   "text": "And so, yeah."
+  },
+  {
+   "start": 585.29,
+   "end": 586.13,
+   "text": "Anyways, I was in there."
+  },
+  {
+   "start": 586.35,
+   "end": 587.09,
+   "text": "And, um..."
+  },
+  {
+   "start": 587.63,
+   "end": 588.09,
+   "text": "Um..."
+  },
+  {
+   "start": 589.09,
+   "end": 589.77,
+   "text": "Uh..."
+  },
+  {
+   "start": 589.77,
+   "end": 590.01,
+   "text": "Yeah."
+  },
+  {
+   "start": 590.17,
+   "end": 591.33,
+   "text": "I did Region 8."
+  },
+  {
+   "start": 591.57,
+   "end": 592.93,
+   "text": "I didn't have to do the other ones."
+  },
+  {
+   "start": 592.99,
+   "end": 593.89,
+   "text": "But until Region 8."
+  },
+  {
+   "start": 594.01,
+   "end": 594.41,
+   "text": "And then..."
+  },
+  {
+   "start": 594.41,
+   "end": 594.85,
+   "text": "That was today."
+  },
+  {
+   "start": 594.91,
+   "end": 595.67,
+   "text": "Like, most of the day."
+  },
+  {
+   "start": 595.71,
+   "end": 596.47,
+   "text": "And then some other things."
+  },
+  {
+   "start": 596.51,
+   "end": 597.69,
+   "text": "Like, I noticed the..."
+  },
+  {
+   "start": 597.69,
+   "end": 598.53,
+   "text": "The Ark's Temple."
+  },
+  {
+   "start": 598.77,
+   "end": 599.97,
+   "text": "On the northern, uh..."
+  },
+  {
+   "start": 599.97,
+   "end": 601.47,
+   "text": "Hill of the Palatine Hill."
+  },
+  {
+   "start": 601.73,
+   "end": 602.93,
+   "text": "It was, like, not done."
+  },
+  {
+   "start": 603.09,
+   "end": 604.59,
+   "text": "Like, there were all these things."
+  },
+  {
+   "start": 604.71,
+   "end": 606.23,
+   "text": "And then it wasn't even organized or any of this stuff."
+  },
+  {
+   "start": 606.31,
+   "end": 606.47,
+   "text": "You know?"
+  },
+  {
+   "start": 606.53,
+   "end": 607.39,
+   "text": "And I'm like, whoa, dude."
+  },
+  {
+   "start": 607.91,
+   "end": 609.71,
+   "text": "I mean, I'm glad I didn't lose anything from that."
+  },
+  {
+   "start": 611.47,
+   "end": 612.93,
+   "text": "Glad I didn't lose anything from that."
+  },
+  {
+   "start": 612.97,
+   "end": 613.39,
+   "text": "I almost did."
+  },
+  {
+   "start": 613.49,
+   "end": 614.39,
+   "text": "But, um..."
+  },
+  {
+   "start": 614.39,
+   "end": 615.37,
+   "text": "I'm like, um..."
+  },
+  {
+   "start": 615.37,
+   "end": 618.75,
+   "text": "I sort of fuck hope I didn't lose all this other stuff that I've been building."
+  },
+  {
+   "start": 618.85,
+   "end": 619.65,
+   "text": "I've been building so much."
+  },
+  {
+   "start": 620.59,
+   "end": 621.43,
+   "text": "Um..."
+  },
+  {
+   "start": 621.43,
+   "end": 621.65,
+   "text": "Yeah."
+  },
+  {
+   "start": 621.65,
+   "end": 625.43,
+   "text": "If I do, like, one of these big regions a day or two regions a day, I'll be happy."
+  },
+  {
+   "start": 625.53,
+   "end": 626.41,
+   "text": "Even just on the touch-ups."
+  },
+  {
+   "start": 626.49,
+   "end": 627.29,
+   "text": "Because, you know, it's a touch-up."
+  },
+  {
+   "start": 627.75,
+   "end": 628.57,
+   "text": "Then you're good for a while."
+  },
+  {
+   "start": 628.65,
+   "end": 631.45,
+   "text": "So, um..."
+  },
+  {
+   "start": 631.45,
+   "end": 632.55,
+   "text": "I keep doing like this."
+  },
+  {
+   "start": 632.57,
+   "end": 633.15,
+   "text": "It's not a tick."
+  },
+  {
+   "start": 633.21,
+   "end": 635.89,
+   "text": "I keep doing like this because I want to squeeze those tears out of my eyes."
+  },
+  {
+   "start": 636.03,
+   "end": 636.37,
+   "text": "I don't know."
+  },
+  {
+   "start": 637.23,
+   "end": 638.75,
+   "text": "Anyway, um..."
+  },
+  {
+   "start": 638.75,
+   "end": 640.55,
+   "text": "Because I'm tearing so much from the yawning."
+  },
+  {
+   "start": 640.91,
+   "end": 643.51,
+   "text": "Oh, so, uh..."
+  },
+  {
+   "start": 643.51,
+   "end": 645.51,
+   "text": "I, uh..."
+  },
+  {
+   "start": 645.51,
+   "end": 647.11,
+   "text": "Yeah, I just did, uh..."
+  },
+  {
+   "start": 647.11,
+   "end": 647.75,
+   "text": "Region 4."
+  },
+  {
+   "start": 650.15,
+   "end": 650.87,
+   "text": "Region 8."
+  },
+  {
+   "start": 650.99,
+   "end": 651.51,
+   "text": "And then, um..."
+  },
+  {
+   "start": 652.17,
+   "end": 653.51,
+   "text": "Uh, copied and, um..."
+  },
+  {
+   "start": 653.51,
+   "end": 655.73,
+   "text": "Put on all of the, you know, the ingredients."
+  },
+  {
+   "start": 655.87,
+   "end": 656.69,
+   "text": "Now I'm doing Region 9."
+  },
+  {
+   "start": 657.07,
+   "end": 658.13,
+   "text": "And Region 9 is the biggest one."
+  },
+  {
+   "start": 658.25,
+   "end": 659.51,
+   "text": "And it's, um..."
+  },
+  {
+   "start": 659.51,
+   "end": 661.61,
+   "text": "So I'm just organizing it and naming stuff."
+  },
+  {
+   "start": 661.61,
+   "end": 664.27,
+   "text": "You know, but I'm happy I'm doing it."
+  },
+  {
+   "start": 664.99,
+   "end": 665.57,
+   "text": "Glad I didn't."
+  },
+  {
+   "start": 665.69,
+   "end": 667.29,
+   "text": "I'm only sure I didn't lose that."
+  },
+  {
+   "start": 667.49,
+   "end": 671.61,
+   "text": "And I'm gonna go ahead and just assume that I didn't lose the, uh..."
+  },
+  {
+   "start": 672.51,
+   "end": 674.43,
+   "text": "Nine days of the roads of Italy."
+  },
+  {
+   "start": 674.61,
+   "end": 675.23,
+   "text": "So, um..."
+  },
+  {
+   "start": 675.23,
+   "end": 679.47,
+   "text": "And then I'll just be able to recover it when I can somehow one day open up that folder."
+  },
+  {
+   "start": 679.69,
+   "end": 680.57,
+   "text": "That file that's too big."
+  },
+  {
+   "start": 680.75,
+   "end": 681.21,
+   "text": "Um..."
+  },
+  {
+   "start": 681.21,
+   "end": 683.39,
+   "text": "And maybe in the next generation of computer can."
+  },
+  {
+   "start": 683.45,
+   "end": 684.83,
+   "text": "But I was looking at the computers on Amazon."
+  },
+  {
+   "start": 684.83,
+   "end": 688.09,
+   "text": "And they seem to have all the same configuration stats as the ones I have now."
+  },
+  {
+   "start": 688.35,
+   "end": 689.25,
+   "text": "Which is a 15."
+  },
+  {
+   "start": 689.25,
+   "end": 692.25,
+   "text": "So for, like, the last seven years they haven't improved computers at all."
+  },
+  {
+   "start": 692.87,
+   "end": 694.25,
+   "text": "But, um..."
+  },
+  {
+   "start": 694.25,
+   "end": 695.25,
+   "text": "Um..."
+  },
+  {
+   "start": 696.27,
+   "end": 697.25,
+   "text": "Uh..."
+  },
+  {
+   "start": 697.25,
+   "end": 699.93,
+   "text": "Yeah, hopefully tomorrow I can finish up Region 9."
+  },
+  {
+   "start": 700.05,
+   "end": 700.91,
+   "text": "You know, which is the big one."
+  },
+  {
+   "start": 701.31,
+   "end": 702.01,
+   "text": "And, uh..."
+  },
+  {
+   "start": 702.01,
+   "end": 702.25,
+   "text": "And then..."
+  },
+  {
+   "start": 702.97,
+   "end": 706.25,
+   "text": "Drag all the different, um..."
+  },
+  {
+   "start": 706.81,
+   "end": 708.17,
+   "text": "Things of it onto my website."
+  },
+  {
+   "start": 708.37,
+   "end": 709.25,
+   "text": "And then I might go into it..."
+  },
+  {
+   "start": 710.33,
+   "end": 713.21,
+   "text": "So anything that has a specific name will get on the website."
+  },
+  {
+   "start": 713.37,
+   "end": 714.51,
+   "text": "So then I'm gonna crack open."
+  },
+  {
+   "start": 715.11,
+   "end": 716.25,
+   "text": "Like when it has, you know..."
+  },
+  {
+   "start": 717.03,
+   "end": 717.73,
+   "text": "Uh..."
+  },
+  {
+   "start": 717.73,
+   "end": 718.29,
+   "text": "Apartments."
+  },
+  {
+   "start": 718.41,
+   "end": 719.23,
+   "text": "I'll be like, okay, well..."
+  },
+  {
+   "start": 719.25,
+   "end": 720.33,
+   "text": "This is five apartments."
+  },
+  {
+   "start": 720.43,
+   "end": 721.11,
+   "text": "So I have to have the numbers."
+  },
+  {
+   "start": 721.25,
+   "end": 722.03,
+   "text": "So I'll be like, okay, which ones?"
+  },
+  {
+   "start": 722.89,
+   "end": 724.21,
+   "text": "These ones, these ones, these ones, these ones."
+  },
+  {
+   "start": 724.27,
+   "end": 725.27,
+   "text": "That's what I'll do when I'm done."
+  },
+  {
+   "start": 725.73,
+   "end": 727.05,
+   "text": "You know, do the first line."
+  },
+  {
+   "start": 727.27,
+   "end": 728.03,
+   "text": "And then do it again."
+  },
+  {
+   "start": 728.07,
+   "end": 728.51,
+   "text": "And then I'll be done."
+  },
+  {
+   "start": 728.87,
+   "end": 730.61,
+   "text": "So maybe hopefully by tomorrow, you know, be done."
+  },
+  {
+   "start": 731.55,
+   "end": 732.99,
+   "text": "Oh, with, uh, Region 9."
+  },
+  {
+   "start": 733.13,
+   "end": 733.27,
+   "text": "Yeah."
+  },
+  {
+   "start": 733.31,
+   "end": 734.69,
+   "text": "And then, like, maybe the whole thing."
+  },
+  {
+   "start": 734.77,
+   "end": 735.03,
+   "text": "I don't know."
+  },
+  {
+   "start": 735.23,
+   "end": 735.47,
+   "text": "Um..."
+  },
+  {
+   "start": 735.47,
+   "end": 736.39,
+   "text": "And then move on, you know."
+  },
+  {
+   "start": 736.47,
+   "end": 737.97,
+   "text": "To the next thing of Google or thing."
+  },
+  {
+   "start": 738.03,
+   "end": 739.31,
+   "text": "Just trying to link, link, link, link, link."
+  },
+  {
+   "start": 739.81,
+   "end": 740.57,
+   "text": "Link, link, link, link, link."
+  },
+  {
+   "start": 740.57,
+   "end": 740.97,
+   "text": "Fix links."
+  },
+  {
+   "start": 741.61,
+   "end": 742.63,
+   "text": "Before I lose any more stuff."
+  },
+  {
+   "start": 742.63,
+   "end": 744.85,
+   "text": "Because I lost the atomic bombs of Rome."
+  },
+  {
+   "start": 745.01,
+   "end": 745.89,
+   "text": "I mean, of, uh..."
+  },
+  {
+   "start": 745.89,
+   "end": 747.57,
+   "text": "Italy last year, or a couple..."
+  },
+  {
+   "start": 747.57,
+   "end": 748.39,
+   "text": "I found out last month."
+  },
+  {
+   "start": 748.53,
+   "end": 749.71,
+   "text": "And that was a lot of work."
+  },
+  {
+   "start": 749.81,
+   "end": 751.17,
+   "text": "It was, like, all the atomic bombs."
+  },
+  {
+   "start": 751.25,
+   "end": 751.87,
+   "text": "It was, like, a week."
+  },
+  {
+   "start": 751.99,
+   "end": 753.47,
+   "text": "And I'm like, oh, fuck, you know."
+  },
+  {
+   "start": 753.49,
+   "end": 755.19,
+   "text": "And now possibly another nine days."
+  },
+  {
+   "start": 756.29,
+   "end": 757.43,
+   "text": "If I can't correct about it, but Rome."
+  },
+  {
+   "start": 757.47,
+   "end": 758.39,
+   "text": "And I'm like, dude."
+  },
+  {
+   "start": 758.55,
+   "end": 759.93,
+   "text": "Because before, I was like, whatever."
+  },
+  {
+   "start": 760.19,
+   "end": 760.91,
+   "text": "Who gives a shit?"
+  },
+  {
+   "start": 761.63,
+   "end": 763.23,
+   "text": "Just store it all over the place."
+  },
+  {
+   "start": 763.39,
+   "end": 765.47,
+   "text": "But I didn't realize the booby trap."
+  },
+  {
+   "start": 765.83,
+   "end": 767.55,
+   "text": "That they get replaced from the fucking cloud."
+  },
+  {
+   "start": 767.55,
+   "end": 770.39,
+   "text": "Which Apple denies that they even have the capability to do."
+  },
+  {
+   "start": 770.85,
+   "end": 771.93,
+   "text": "But it gets replaced."
+  },
+  {
+   "start": 771.93,
+   "end": 774.25,
+   "text": "And so now I have this new technique."
+  },
+  {
+   "start": 774.87,
+   "end": 776.21,
+   "text": "Where every time I save it."
+  },
+  {
+   "start": 776.29,
+   "end": 777.25,
+   "text": "Like, I'm doing it now."
+  },
+  {
+   "start": 777.39,
+   "end": 778.27,
+   "text": "I've implemented it."
+  },
+  {
+   "start": 778.33,
+   "end": 779.51,
+   "text": "Like, I'm working, working, working."
+  },
+  {
+   "start": 779.61,
+   "end": 780.53,
+   "text": "And then I save it."
+  },
+  {
+   "start": 781.89,
+   "end": 782.97,
+   "text": "As the long name."
+  },
+  {
+   "start": 783.09,
+   "end": 783.95,
+   "text": "Because in the name."
+  },
+  {
+   "start": 784.07,
+   "end": 787.27,
+   "text": "Because it works just artistically."
+  },
+  {
+   "start": 787.39,
+   "end": 788.81,
+   "text": "Like, for the information."
+  },
+  {
+   "start": 788.91,
+   "end": 791.31,
+   "text": "When you look up, you can see all the information of it."
+  },
+  {
+   "start": 791.35,
+   "end": 792.29,
+   "text": "It's, like, really long."
+  },
+  {
+   "start": 793.61,
+   "end": 794.81,
+   "text": "All lines worth."
+  },
+  {
+   "start": 794.99,
+   "end": 796.69,
+   "text": "And so I just save it at that."
+  },
+  {
+   "start": 796.77,
+   "end": 797.61,
+   "text": "Just right-click, save."
+  },
+  {
+   "start": 797.89,
+   "end": 799.03,
+   "text": "And then right-click, click, save."
+  },
+  {
+   "start": 799.03,
+   "end": 802.77,
+   "text": "And then when I'm, you know, when I'm ready to upload it, I just save it as the size."
+  },
+  {
+   "start": 802.97,
+   "end": 804.13,
+   "text": "And I compare the sizes."
+  },
+  {
+   "start": 804.29,
+   "end": 809.09,
+   "text": "And it's a different, it's a different, it's a different name now."
+  },
+  {
+   "start": 809.17,
+   "end": 811.31,
+   "text": "So it can't compete with the one that's up there before."
+  },
+  {
+   "start": 812.25,
+   "end": 813.51,
+   "text": "So then you relink it."
+  },
+  {
+   "start": 813.63,
+   "end": 814.35,
+   "text": "Which is what I did."
+  },
+  {
+   "start": 814.47,
+   "end": 815.31,
+   "text": "I relinked it."
+  },
+  {
+   "start": 816.53,
+   "end": 817.33,
+   "text": "Rechecked the link."
+  },
+  {
+   "start": 818.13,
+   "end": 819.97,
+   "text": "All these steps I didn't have to do before."
+  },
+  {
+   "start": 820.21,
+   "end": 821.15,
+   "text": "But now I have to."
+  },
+  {
+   "start": 821.25,
+   "end": 821.89,
+   "text": "Just to make sure."
+  },
+  {
+   "start": 821.89,
+   "end": 838.65,
+   "text": "Because now, if the cloud wants to gift me one of these old, ancient files, or maybe even if I space out, and I accidentally replace it with an external hard drive, it can no longer replace anymore."
+  },
+  {
+   "start": 838.89,
+   "end": 840.41,
+   "text": "Because the names are always different."
+  },
+  {
+   "start": 841.33,
+   "end": 843.29,
+   "text": "Because it's based on the size now."
+  },
+  {
+   "start": 843.53,
+   "end": 846.87,
+   "text": "It's the name, and then da-da-da, megabytes, point, da-da-da-da-da."
+  },
+  {
+   "start": 847.81,
+   "end": 849.11,
+   "text": "And so, yeah, there you go."
+  },
+  {
+   "start": 849.21,
+   "end": 849.81,
+   "text": "That's the rule."
+  },
+  {
+   "start": 849.81,
+   "end": 853.83,
+   "text": "And I'm going to write all about that, that's what you have to do, or else you're going to lose all your work."
+  },
+  {
+   "start": 853.99,
+   "end": 859.93,
+   "text": "As in proof, I'm going to have a list and an estimated time of all the work and stuff that I've lost because of that."
+  },
+  {
+   "start": 860.21,
+   "end": 861.89,
+   "text": "So, anyways, it didn't break me."
+  },
+  {
+   "start": 862.01,
+   "end": 862.77,
+   "text": "Could have broken me."
+  },
+  {
+   "start": 863.15,
+   "end": 864.85,
+   "text": "Didn't break me, and I'm still moving forward."
+  },
+  {
+   "start": 866.13,
+   "end": 867.17,
+   "text": "So, yeah, hopefully."
+  },
+  {
+   "start": 867.29,
+   "end": 870.97,
+   "text": "I don't, I mean, I don't even have a timeline on how I'm fixing all the links of a Google Earth stuff."
+  },
+  {
+   "start": 871.45,
+   "end": 874.49,
+   "text": "I'm just still thinking about getting through Rome right now, the city of Rome."
+  },
+  {
+   "start": 874.71,
+   "end": 876.45,
+   "text": "And then I want to go ahead and just do, like, everything."
+  },
+  {
+   "start": 876.45,
+   "end": 877.11,
+   "text": "It's, like, everything."
+  },
+  {
+   "start": 877.53,
+   "end": 878.91,
+   "text": "There's just check links, but it's fun."
+  },
+  {
+   "start": 879.01,
+   "end": 879.47,
+   "text": "Super fun."
+  },
+  {
+   "start": 880.01,
+   "end": 882.19,
+   "text": "Especially when you feel like you're making, like, progress."
+  },
+  {
+   "start": 882.41,
+   "end": 882.93,
+   "text": "It's going to be awesome."
+  },
+  {
+   "start": 883.75,
+   "end": 885.31,
+   "text": "And I feel like that kind of now, you know."
+  },
+  {
+   "start": 885.39,
+   "end": 890.39,
+   "text": "But even though I'm doing this tedious-ass Google Earth stuff, which is also freaking me out when I work on Google Earth now."
+  },
+  {
+   "start": 890.47,
+   "end": 892.27,
+   "text": "Because I'm like, is this really going to save?"
+  },
+  {
+   "start": 892.69,
+   "end": 893.27,
+   "text": "Did it really save?"
+  },
+  {
+   "start": 893.49,
+   "end": 900.15,
+   "text": "Because I did that magic trick the other day, like, two days ago, showing how it actually saves to something that doesn't even exist."
+  },
+  {
+   "start": 900.37,
+   "end": 903.31,
+   "text": "And if you're not paying attention, like, that's a fucking booby trap."
+  },
+  {
+   "start": 903.73,
+   "end": 905.73,
+   "text": "Like, if you're not paying attention, that could make you lose everything."
+  },
+  {
+   "start": 905.73,
+   "end": 907.91,
+   "text": "And I was just doing the demo on how it could do that."
+  },
+  {
+   "start": 908.15,
+   "end": 909.43,
+   "text": "And there's stuff like that all the time."
+  },
+  {
+   "start": 909.47,
+   "end": 910.85,
+   "text": "And that's just how it brings it back in."
+  },
+  {
+   "start": 911.19,
+   "end": 913.05,
+   "text": "And then, like, Apple's saying that they didn't do it."
+  },
+  {
+   "start": 913.17,
+   "end": 914.45,
+   "text": "Maybe it's Google."
+  },
+  {
+   "start": 914.61,
+   "end": 916.29,
+   "text": "Because that's the people who I originally thought it was doing."
+  },
+  {
+   "start": 916.35,
+   "end": 916.81,
+   "text": "I mean, it's Google."
+  },
+  {
+   "start": 917.67,
+   "end": 918.55,
+   "text": "Google stores."
+  },
+  {
+   "start": 918.55,
+   "end": 922.87,
+   "text": "Everything that I store on, save on Google, gets stored to the Google Cloud."
+  },
+  {
+   "start": 923.47,
+   "end": 925.03,
+   "text": "And then the Google Cloud brings it back."
+  },
+  {
+   "start": 925.07,
+   "end": 926.33,
+   "text": "Because Google has a habit."
+  },
+  {
+   "start": 927.31,
+   "end": 929.49,
+   "text": "Google Earth has a habit of bringing back files."
+  },
+  {
+   "start": 929.93,
+   "end": 933.21,
+   "text": "Like, when I start, when I start my computer, you know."
+  },
+  {
+   "start": 933.29,
+   "end": 936.31,
+   "text": "And then I, like, shut down the program and I open the program."
+  },
+  {
+   "start": 936.45,
+   "end": 941.27,
+   "text": "Like, when the program opens, it brings along with it other files sometimes."
+  },
+  {
+   "start": 941.39,
+   "end": 942.99,
+   "text": "And they're old-ass files."
+  },
+  {
+   "start": 942.99,
+   "end": 947.77,
+   "text": "Like, ones that I've saved over a long time ago that don't exist anywhere."
+  },
+  {
+   "start": 948.01,
+   "end": 948.87,
+   "text": "They don't exist anywhere."
+  },
+  {
+   "start": 949.33,
+   "end": 951.19,
+   "text": "So, how the hell did Google know it exists?"
+  },
+  {
+   "start": 951.29,
+   "end": 952.39,
+   "text": "How did they bring it up?"
+  },
+  {
+   "start": 953.95,
+   "end": 954.49,
+   "text": "So, yeah."
+  },
+  {
+   "start": 954.59,
+   "end": 955.17,
+   "text": "Maybe it's Google."
+  },
+  {
+   "start": 955.35,
+   "end": 956.31,
+   "text": "That's what I was just thinking."
+  },
+  {
+   "start": 956.45,
+   "end": 958.15,
+   "text": "I was like, oh, before I was thinking, it was Apple."
+  },
+  {
+   "start": 958.27,
+   "end": 959.03,
+   "text": "No, it's Google."
+  },
+  {
+   "start": 960.21,
+   "end": 961.65,
+   "text": "Like, they did just a couple days ago."
+  },
+  {
+   "start": 962.07,
+   "end": 967.77,
+   "text": "They brought back ponds of Boulder Country."
+  },
+  {
+   "start": 968.57,
+   "end": 970.23,
+   "text": "And not ponds of Boulder County."
+  },
+  {
+   "start": 970.35,
+   "end": 971.67,
+   "text": "And I'm like, why does it say country?"
+  },
+  {
+   "start": 971.67,
+   "end": 974.05,
+   "text": "And I looked on the file that I had."
+  },
+  {
+   "start": 974.15,
+   "end": 975.61,
+   "text": "And it's, no, sure enough, Boulder County."
+  },
+  {
+   "start": 975.73,
+   "end": 976.17,
+   "text": "Spelled right."
+  },
+  {
+   "start": 976.27,
+   "end": 978.15,
+   "text": "And I'm like, oh, right."
+  },
+  {
+   "start": 978.19,
+   "end": 981.49,
+   "text": "Because, like, the first time I typed it, like, a long time ago."
+  },
+  {
+   "start": 981.63,
+   "end": 982.51,
+   "text": "Weeks and weeks ago."
+  },
+  {
+   "start": 982.57,
+   "end": 983.61,
+   "text": "I did type it country."
+  },
+  {
+   "start": 984.59,
+   "end": 985.37,
+   "text": "My God."
+  },
+  {
+   "start": 985.57,
+   "end": 987.19,
+   "text": "So, that just popped it right in my face."
+  },
+  {
+   "start": 987.91,
+   "end": 989.69,
+   "text": "So, I'm like, okay, good, good, good, good, good."
+  },
+  {
+   "start": 989.75,
+   "end": 990.15,
+   "text": "So, yeah."
+  },
+  {
+   "start": 990.49,
+   "end": 991.67,
+   "text": "Got to be careful."
+  },
+  {
+   "start": 992.35,
+   "end": 996.39,
+   "text": "But I know I have my booby trap proof trick now."
+  },
+  {
+   "start": 996.43,
+   "end": 998.37,
+   "text": "Which is to save it with the size."
+  },
+  {
+   "start": 998.59,
+   "end": 999.55,
+   "text": "Because the size is always changing."
+  },
+  {
+   "start": 999.71,
+   "end": 1001.57,
+   "text": "It's kind of like doing the version, you know."
+  },
+  {
+   "start": 1001.95,
+   "end": 1006.97,
+   "text": "If you ever watch somebody doing a tutorial, like a Adobe tutorial."
+  },
+  {
+   "start": 1007.19,
+   "end": 1009.27,
+   "text": "And they're, like, you know, talking about their projects."
+  },
+  {
+   "start": 1009.39,
+   "end": 1010.03,
+   "text": "And they're, like, hey."
+  },
+  {
+   "start": 1010.65,
+   "end": 1012.53,
+   "text": "They always do an aside."
+  },
+  {
+   "start": 1012.63,
+   "end": 1013.41,
+   "text": "And they're, like, hey, watch out."
+  },
+  {
+   "start": 1013.55,
+   "end": 1014.33,
+   "text": "They tell you."
+  },
+  {
+   "start": 1014.39,
+   "end": 1015.89,
+   "text": "They're, like, hey, when you save it, make sure."
+  },
+  {
+   "start": 1016.53,
+   "end": 1018.67,
+   "text": "Make sure you just don't lose anything."
+  },
+  {
+   "start": 1018.85,
+   "end": 1020.95,
+   "text": "Just save everything that you have."
+  },
+  {
+   "start": 1021.01,
+   "end": 1022.47,
+   "text": "Just after you go back and look at something."
+  },
+  {
+   "start": 1022.85,
+   "end": 1025.81,
+   "text": "So, just save it version one, version two, version three, version four."
+  },
+  {
+   "start": 1025.81,
+   "end": 1030.53,
+   "text": "So, every time you save it, don't save over anything that you've saved over."
+  },
+  {
+   "start": 1030.61,
+   "end": 1032.73,
+   "text": "Because you might, like, want to go back."
+  },
+  {
+   "start": 1032.79,
+   "end": 1033.89,
+   "text": "Like a time machine thing."
+  },
+  {
+   "start": 1034.79,
+   "end": 1036.33,
+   "text": "And so, you just save it as a number."
+  },
+  {
+   "start": 1036.53,
+   "end": 1037.91,
+   "text": "And then you just, what version am I doing?"
+  },
+  {
+   "start": 1037.99,
+   "end": 1040.83,
+   "text": "You know, that's how software companies work anyway."
+  },
+  {
+   "start": 1041.01,
+   "end": 1042.11,
+   "text": "It's like Apple."
+  },
+  {
+   "start": 1042.11,
+   "end": 1044.33,
+   "text": "Like, version 13-3-5."
+  },
+  {
+   "start": 1044.75,
+   "end": 1046.81,
+   "text": "So, that's what I need to do with my stuff."
+  },
+  {
+   "start": 1047.07,
+   "end": 1048.65,
+   "text": "I haven't been doing that with my stuff."
+  },
+  {
+   "start": 1049.43,
+   "end": 1050.69,
+   "text": "I just have the one version."
+  },
+  {
+   "start": 1051.27,
+   "end": 1054.33,
+   "text": "Because it made it so much more convenient with the linking system."
+  },
+  {
+   "start": 1054.39,
+   "end": 1056.49,
+   "text": "Because I have so many fucking links on my website."
+  },
+  {
+   "start": 1057.13,
+   "end": 1063.05,
+   "text": "Why would I want to have to constantly fix the goddamn link on my website all the goddamn time?"
+  },
+  {
+   "start": 1063.53,
+   "end": 1066.57,
+   "text": "Well, the reason is because it gets saved over."
+  },
+  {
+   "start": 1067.15,
+   "end": 1069.39,
+   "text": "So, I have to do the version based on the size."
+  },
+  {
+   "start": 1069.39,
+   "end": 1071.93,
+   "text": "It's not the net number, version 1, 2, 3, 4, 5."
+  },
+  {
+   "start": 1071.97,
+   "end": 1074.15,
+   "text": "But based on the size and the exact megabytes."
+  },
+  {
+   "start": 1075.17,
+   "end": 1075.59,
+   "text": "So, anyways."
+  },
+  {
+   "start": 1076.77,
+   "end": 1078.27,
+   "text": "Yeah, I haven't really been listening to much."
+  },
+  {
+   "start": 1078.35,
+   "end": 1079.43,
+   "text": "I've been listening to."
+  },
+  {
+   "start": 1079.49,
+   "end": 1083.21,
+   "text": "Like, you can go into my favorites and you can see, like, videos."
+  },
+  {
+   "start": 1083.31,
+   "end": 1088.93,
+   "text": "I was watching this guy, Ari Melber, and this, like, law professor talk about the First Amendment."
+  },
+  {
+   "start": 1089.03,
+   "end": 1089.69,
+   "text": "That's really interesting."
+  },
+  {
+   "start": 1089.83,
+   "end": 1091.07,
+   "text": "But, you know, it's kind of hard to focus."
+  },
+  {
+   "start": 1091.17,
+   "end": 1094.95,
+   "text": "When I'm focusing on Google Earth stuff, it's not really the most conducive to listening to stuff."
+  },
+  {
+   "start": 1094.95,
+   "end": 1096.93,
+   "text": "So, yeah, a lot of science, a lot of music."
+  },
+  {
+   "start": 1096.93,
+   "end": 1101.51,
+   "text": "Like, a lot of just listening to random stuff on, like, Ukrainian war I'm listening to."
+  },
+  {
+   "start": 1101.99,
+   "end": 1102.95,
+   "text": "Not a lot of chat today."
+  },
+  {
+   "start": 1103.37,
+   "end": 1103.75,
+   "text": "But, yeah."
+  },
+  {
+   "start": 1103.97,
+   "end": 1106.71,
+   "text": "We'll get back to doing on maybe some more stuff like that."
+  },
+  {
+   "start": 1108.11,
+   "end": 1109.53,
+   "text": "Brain candy stuff while I work."
+  },
+  {
+   "start": 1109.87,
+   "end": 1110.65,
+   "text": "I don't know how much longer."
+  },
+  {
+   "start": 1110.75,
+   "end": 1113.27,
+   "text": "I mean, if I can keep working until 6, I'm going to get my energy drink."
+  },
+  {
+   "start": 1113.33,
+   "end": 1114.01,
+   "text": "That's what I did this morning."
+  },
+  {
+   "start": 1114.09,
+   "end": 1114.45,
+   "text": "I got this."
+  },
+  {
+   "start": 1114.93,
+   "end": 1115.51,
+   "text": "I spent $4."
+  },
+  {
+   "start": 1115.77,
+   "end": 1116.17,
+   "text": "I have a deal."
+  },
+  {
+   "start": 1116.35,
+   "end": 1117.85,
+   "text": "Like, they got really expensive, dude."
+  },
+  {
+   "start": 1118.17,
+   "end": 1118.89,
+   "text": "The energy drinks."
+  },
+  {
+   "start": 1119.69,
+   "end": 1121.49,
+   "text": "Like, before, they were, like, $2.50 for $2.00."
+  },
+  {
+   "start": 1121.55,
+   "end": 1122.05,
+   "text": "I'm like, whoa."
+  },
+  {
+   "start": 1122.59,
+   "end": 1123.99,
+   "text": "And now it's $3.00 for $1.00."
+  },
+  {
+   "start": 1124.77,
+   "end": 1126.87,
+   "text": "And now it's, like, but the NOS."
+  },
+  {
+   "start": 1126.95,
+   "end": 1129.49,
+   "text": "You can get the giant-ass NOS for $4.00."
+  },
+  {
+   "start": 1130.37,
+   "end": 1131.71,
+   "text": "So, that's, like, the deal right now."
+  },
+  {
+   "start": 1131.73,
+   "end": 1132.29,
+   "text": "And I love NOS."
+  },
+  {
+   "start": 1132.35,
+   "end": 1133.45,
+   "text": "That's probably my favorite anyway."
+  },
+  {
+   "start": 1133.57,
+   "end": 1135.11,
+   "text": "So, yeah, I was, like, going over to my mom's house."
+  },
+  {
+   "start": 1135.15,
+   "end": 1135.85,
+   "text": "I'm like, is my energy?"
+  },
+  {
+   "start": 1135.97,
+   "end": 1136.91,
+   "text": "She's like, yeah, don't drink those."
+  },
+  {
+   "start": 1137.45,
+   "end": 1138.61,
+   "text": "I think NOS is the oldest one anyway."
+  },
+  {
+   "start": 1138.61,
+   "end": 1138.89,
+   "text": "Anyways."
+  },
+  {
+   "start": 1139.71,
+   "end": 1141.45,
+   "text": "Um, I, uh, yeah."
+  },
+  {
+   "start": 1141.57,
+   "end": 1141.79,
+   "text": "Okay."
+  },
+  {
+   "start": 1142.09,
+   "end": 1143.61,
+   "text": "I will talk to you tomorrow."
+  },
+  {
+   "start": 1143.61,
+   "end": 1143.65,
+   "text": "I will talk to you tomorrow."
+  }
+ ]
+}
