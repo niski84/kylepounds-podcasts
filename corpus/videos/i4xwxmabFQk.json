@@ -1,0 +1,511 @@
+{
+ "youtube_id": "i4xwxmabFQk",
+ "title": "5/22/23 Side grid in 20px images now",
+ "url": "https://youtu.be/i4xwxmabFQk",
+ "published_at": "2023-05-22",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.11,
+   "end": 11.77,
+   "text": "Oh this is my video vlog for the day of the 22nd of may monday 11 48 I didn't do my video"
+  },
+  {
+   "start": 11.77,
+   "end": 16.75,
+   "text": "Yesterday because I was working trying to do this new thing and I was feeling like I was getting"
+  },
+  {
+   "start": 16.75,
+   "end": 25.27,
+   "text": "Behind and I just didn't have the time and then I fell asleep at last like this morning right at"
+  },
+  {
+   "start": 25.27,
+   "end": 31.23,
+   "text": "The sunset sunrise like at six or something 6 30 and when I was starting to get lights I went out in"
+  },
+  {
+   "start": 31.23,
+   "end": 39.39,
+   "text": "The living room and I turned all the lights on and and then I like fell asleep and then I got up at"
+  },
+  {
+   "start": 39.39,
+   "end": 48.27,
+   "text": "Like 9 30 which meant that I only had like uh three hours of sleep or something and um and so I was"
+  },
+  {
+   "start": 48.27,
+   "end": 53.13,
+   "text": "Working but then I got kind of groggy and I laid down again and got a couple more hours and got up"
+  },
+  {
+   "start": 53.13,
+   "end": 60.95,
+   "text": "At like 3 30 so I guess that was my extra sleep that I needed um so yeah the thing that I did that"
+  },
+  {
+   "start": 60.95,
+   "end": 69.77,
+   "text": "I'm doing now now um I was in the shower like uh night before last and for us to read about the um"
+  },
+  {
+   "start": 69.77,
+   "end": 76.47,
+   "text": "The grid because I have the grid on either side um but I can only take it to a thousand because"
+  },
+  {
+   "start": 76.47,
+   "end": 88.63,
+   "text": "It uh it's too heavy for the computer um I can't even paste the two thousand one on and I can barely"
+  },
+  {
+   "start": 88.63,
+   "end": 99.86,
+   "text": "Paste the one thousand one on somehow it's just too big it's uh a uh the uh a table with all the"
+  },
+  {
+   "start": 99.86,
+   "end": 106.94,
+   "text": "Different tables and each different table per number and then in the number it first serves as"
+  },
+  {
+   "start": 106.94,
+   "end": 115.46,
+   "text": "A um anchor as well as a link so I don't know why it's too heavy like if it's because of the number"
+  },
+  {
+   "start": 115.46,
+   "end": 124.8,
+   "text": "Of um tables um because you have what well it is a thousand yeah you do have a thousand tables don't you"
+  },
+  {
+   "start": 124.8,
+   "end": 132.16,
+   "text": "And they're but they're busted inside of a hundred so you have 10 tables of a hundred inside of a big"
+  },
+  {
+   "start": 132.16,
+   "end": 137.74,
+   "text": "Table of 10 and then each of the number is a is a hyperlink and a link and"
+  },
+  {
+   "start": 137.74,
+   "end": 145.9,
+   "text": "Yeah it did get bigger so I was in the shower last night before last and I was at the epiphany well why"
+  },
+  {
+   "start": 145.9,
+   "end": 151.32,
+   "text": "Not just use it with an image because it was kind of important to me I wanted to have it on all of them"
+  },
+  {
+   "start": 151.32,
+   "end": 156.2,
+   "text": "And I don't like only being able to go down a thousand I mean that is big enough for a lot of"
+  },
+  {
+   "start": 156.2,
+   "end": 163.38,
+   "text": "Them and then I also realized that having them as images on either side is more it looks better"
+  },
+  {
+   "start": 163.38,
+   "end": 174.61,
+   "text": "Images look better and when they're together it looks cleaner and better than than if it's just"
+  },
+  {
+   "start": 174.61,
+   "end": 180.67,
+   "text": "All those different tables because they're tighter together and um and then you have the number and the"
+  },
+  {
+   "start": 180.67,
+   "end": 192.37,
+   "text": "Number on an image um yeah looks better and smaller and it also looks the same as all of the icons"
+  },
+  {
+   "start": 192.37,
+   "end": 198.85,
+   "text": "Because my website has the 20 pixel icons all over it and so if I make the sidebar of the numbers just"
+  },
+  {
+   "start": 198.85,
+   "end": 204.35,
+   "text": "A bunch of 20 pixel numbers next to each other all the way down that's much smaller than what I was"
+  },
+  {
+   "start": 204.35,
+   "end": 211.09,
+   "text": "Doing so I can get it even bigger a number which is cool and it um has to do with it's more consistent"
+  },
+  {
+   "start": 211.09,
+   "end": 216.85,
+   "text": "With all with the rest of it looks better so and also if you have those images um linked to"
+  },
+  {
+   "start": 216.85,
+   "end": 226.42,
+   "text": "Flicker um embedded it doesn't take any extra time so it's not heavier on the page like that whole"
+  },
+  {
+   "start": 226.42,
+   "end": 235.16,
+   "text": "Table and then you can build it in so I set off to build the images and um you know and I could"
+  },
+  {
+   "start": 235.16,
+   "end": 242.54,
+   "text": "Have done it in one day because you build it zero to a thousand zero to a hundred with one um font"
+  },
+  {
+   "start": 242.54,
+   "end": 248.38,
+   "text": "Which takes up the whole uh icon but then once you get to a hundred because now you're you have uh"
+  },
+  {
+   "start": 248.38,
+   "end": 254.24,
+   "text": "Three digits you have to change the icon to smaller can't remember what the first one was but it was"
+  },
+  {
+   "start": 254.24,
+   "end": 261.08,
+   "text": "The default that I was using it like and then I went to one called herculaneum for hundreds and"
+  },
+  {
+   "start": 261.08,
+   "end": 271.44,
+   "text": "Thousands that I needed for was apple something which fit four in there well and um um so I did"
+  },
+  {
+   "start": 271.44,
+   "end": 278.08,
+   "text": "It and I thought you know cool you're done and but then there was an extra one in so I was gonna pop"
+  },
+  {
+   "start": 278.08,
+   "end": 282.56,
+   "text": "It in because I like count it wrong but then I forgot and duplicated it for a thousand and even"
+  },
+  {
+   "start": 282.56,
+   "end": 286.8,
+   "text": "Two thousand and then I went to look at it and to number to make sure the numbers were centered and I"
+  },
+  {
+   "start": 286.8,
+   "end": 295.26,
+   "text": "Realized that I screwed up in two spots um my numbers are color-coded to ensure that I don't"
+  },
+  {
+   "start": 295.26,
+   "end": 303.56,
+   "text": "Get screwed up but that only helps you on the final number not in the number before that and so"
+  },
+  {
+   "start": 303.56,
+   "end": 308.58,
+   "text": "I'm loopy as hell so and plus I'm gonna send the books while I'm doing this so like I was at um"
+  },
+  {
+   "start": 308.58,
+   "end": 317.34,
+   "text": "I went from 70 to 81 just because so I needed to pop in another one in there and then I went from 154"
+  },
+  {
+   "start": 317.34,
+   "end": 324.22,
+   "text": "To 165 just because and so I had to finish the one and then pop another one in and luckily those were"
+  },
+  {
+   "start": 324.22,
+   "end": 330.22,
+   "text": "In the beginning so I only had to put that much so much up so it was able to do it if I ended up in"
+  },
+  {
+   "start": 330.22,
+   "end": 334.36,
+   "text": "The middle it would have been too heavy I wouldn't be able to do it but but that took forever to fix"
+  },
+  {
+   "start": 334.36,
+   "end": 341.94,
+   "text": "Because uh it just took forever it was slow and all that and uh but I finally fixed it and then I"
+  },
+  {
+   "start": 341.94,
+   "end": 349.08,
+   "text": "Finally was able to do the um the bad shit it was really nice and quick once I finally got it fixed"
+  },
+  {
+   "start": 349.08,
+   "end": 355.9,
+   "text": "Because I fucking can't count to 100 I can't count to 200 without making a mistake twice"
+  },
+  {
+   "start": 355.9,
+   "end": 360.68,
+   "text": "And so um but yeah did the bad shit it so that's cool and zoomed it through"
+  },
+  {
+   "start": 360.68,
+   "end": 366.4,
+   "text": "And then I uploaded it to flicker to count to link it but then when I went to flicker um"
+  },
+  {
+   "start": 366.4,
+   "end": 370.7,
+   "text": "I saw the uh the file but it looked like it had been warped way out"
+  },
+  {
+   "start": 370.7,
+   "end": 376.48,
+   "text": "And I clicked on it and it didn't link to anything and it said wait we're fixing it but then I realized"
+  },
+  {
+   "start": 376.48,
+   "end": 383.5,
+   "text": "It's just too extreme for flicker to handle it's 20 pixels wide 8 000 pixels long it's one to uh"
+  },
+  {
+   "start": 383.5,
+   "end": 394.43,
+   "text": "A thousand and um so I uh decided to go ahead and just try"
+  },
+  {
+   "start": 394.43,
+   "end": 404.49,
+   "text": "Try to put it on the um side as a as a regular icon but I couldn't open plenty I was gonna try"
+  },
+  {
+   "start": 404.49,
+   "end": 409.31,
+   "text": "To put it on plenty because I figured that plenty would take about 10 10 myriads 10 000"
+  },
+  {
+   "start": 409.31,
+   "end": 419.91,
+   "text": "I mean uh 10 myriads 100 000 because I looked at it mathematically I copied what one screen was"
+  },
+  {
+   "start": 419.91,
+   "end": 429.55,
+   "text": "Which is what is that 800 about 800 pixels that's 5.9 pages uh so that's uh I think I it was a total"
+  },
+  {
+   "start": 429.55,
+   "end": 437.05,
+   "text": "Of 3 200 pages for 100 000 and plenty is 2 200 pages but it's more spread out you have to include them"
+  },
+  {
+   "start": 437.05,
+   "end": 440.51,
+   "text": "The menu so I'm thinking oh that's interesting maybe it will be 10 myriad"
+  },
+  {
+   "start": 440.51,
+   "end": 447.55,
+   "text": "10 100 000 and um I can uh make it visible so you know which myriad you are based on or and even"
+  },
+  {
+   "start": 447.55,
+   "end": 455.55,
+   "text": "The number based on the um um the color of the uh the border that it that of the table that it's in"
+  },
+  {
+   "start": 455.55,
+   "end": 461.59,
+   "text": "So I'm gonna build that and um so right now but"
+  },
+  {
+   "start": 461.59,
+   "end": 470.25,
+   "text": "But then I had the idea that why don't you just break up the you know those thousands into 100 and"
+  },
+  {
+   "start": 470.25,
+   "end": 473.85,
+   "text": "Then upload that to flicker so I busted it up and I uploaded a flicker and it uploaded fine"
+  },
+  {
+   "start": 473.85,
+   "end": 478.25,
+   "text": "So I'm like oh well then you just link it here you know of course that makes it so that you have"
+  },
+  {
+   "start": 478.25,
+   "end": 484.85,
+   "text": "More tables but I'm gonna give that a try see if it works so um I'm in the process now breaking it all"
+  },
+  {
+   "start": 484.85,
+   "end": 489.69,
+   "text": "Up which takes a long time because that's 100 because you have to do 100 times um 1 to 10 000"
+  },
+  {
+   "start": 489.69,
+   "end": 498.59,
+   "text": "Um and um and then make the uh the table and then on the on the template page and then pop that on"
+  },
+  {
+   "start": 498.59,
+   "end": 504.77,
+   "text": "There but in bits because I can't pop it all on together because it'll freeze the page so because"
+  },
+  {
+   "start": 504.77,
+   "end": 511.23,
+   "text": "It's such a big page already so I'm just gonna pop it in for like um you know the first myriad"
+  },
+  {
+   "start": 511.23,
+   "end": 519.39,
+   "text": "And then I can piecemeal um plenty in because each each um chapter is a different table luckily I"
+  },
+  {
+   "start": 519.39,
+   "end": 530.04,
+   "text": "Did that um and um and uh and then build it and then add more rows to it something and then paste"
+  },
+  {
+   "start": 530.04,
+   "end": 534.3,
+   "text": "In the next one and then put it in so you do it piecemeal instead so that you don't burn it out"
+  },
+  {
+   "start": 534.3,
+   "end": 538.88,
+   "text": "And see if I can do it you know but that's a lot of steps and that's a lot of the thinking of the"
+  },
+  {
+   "start": 538.88,
+   "end": 542.8,
+   "text": "Computer so you know hopefully maybe that's about what I'll be able to do by the end of tomorrow but"
+  },
+  {
+   "start": 542.8,
+   "end": 547.8,
+   "text": "I'm looking forward to the thing and if I can do it all you know and it works without just taking"
+  },
+  {
+   "start": 547.8,
+   "end": 556.62,
+   "text": "Too much time and then it links and stuff um then uh I'll just yeah see if I can do it for the whole"
+  },
+  {
+   "start": 556.62,
+   "end": 561.36,
+   "text": "Website that'll be awesome because then you can compare all the uh pages with each other based on"
+  },
+  {
+   "start": 561.36,
+   "end": 572.36,
+   "text": "How big they are with those and it helps you um visualize numbers you know like a hundred thousand"
+  },
+  {
+   "start": 572.36,
+   "end": 575.96,
+   "text": "So that's two hundred thousand you can just imagine if there were people you know you see"
+  },
+  {
+   "start": 575.96,
+   "end": 580.16,
+   "text": "The numbers there and you help you imagine what the numbers mean not just how big the page is so"
+  },
+  {
+   "start": 580.16,
+   "end": 587.64,
+   "text": "Anyway um I was listening so I finished my um book I did the lecture of china and then I finished a"
+  },
+  {
+   "start": 587.64,
+   "end": 596.7,
+   "text": "Book about china that was free and then I had a um a uh an audible credit so I got a great courses plus"
+  },
+  {
+   "start": 596.7,
+   "end": 604.4,
+   "text": "Lecture that was 18 hours on uh india so I'm listening to that but the the the guys a little"
+  },
+  {
+   "start": 604.4,
+   "end": 611.78,
+   "text": "Bit boring I got um stars the other day a trial of stars the other day because I wanted to watch um"
+  },
+  {
+   "start": 611.78,
+   "end": 620.65,
+   "text": "The equalizer because I saw the john wick movies for free and I was just in the mood for action and"
+  },
+  {
+   "start": 620.65,
+   "end": 629.0,
+   "text": "And so now they have like spider-man no way home I might watch that just to help kill time while I"
+  },
+  {
+   "start": 629.0,
+   "end": 634.18,
+   "text": "Build this because I feel a little bit tedious I was I got kind of frustrated that all that stuff"
+  },
+  {
+   "start": 634.18,
+   "end": 639.38,
+   "text": "Went wrong I made the mistake of counting and then it caused me to make cause it's been all that time"
+  },
+  {
+   "start": 639.38,
+   "end": 645.98,
+   "text": "Trying to fix it luckily it was built in all those different um different uh a thousand different um"
+  },
+  {
+   "start": 645.98,
+   "end": 653.9,
+   "text": "Tables or well yeah a thousand to ten different tables ten different tables for the images but then"
+  },
+  {
+   "start": 653.9,
+   "end": 659.78,
+   "text": "A thousand tables for the numbers so it overheated I want to originally wanted to get it each image"
+  },
+  {
+   "start": 659.78,
+   "end": 666.78,
+   "text": "That I link on flicker because I didn't think about how it would be too stretched out um to two thousand"
+  },
+  {
+   "start": 666.78,
+   "end": 675.5,
+   "text": "But it made it to sixteen hundred and forty one before it it uh froze so I so I had to take it down"
+  },
+  {
+   "start": 675.5,
+   "end": 682.92,
+   "text": "To fifty uh images to a thousand and then then the numbers did it and it was like pretty big"
+  },
+  {
+   "start": 682.92,
+   "end": 693.72,
+   "text": "Um yeah anyway um so that's what I'm up to now um so it's kind of a detour but I think it's going"
+  },
+  {
+   "start": 693.72,
+   "end": 700.46,
+   "text": "To make my site look really cool um and then I'll get going on all that other stuff like that mystery"
+  },
+  {
+   "start": 700.46,
+   "end": 705.14,
+   "text": "Of where's the page with all the icons that I made it because when I built that on the timeline"
+  },
+  {
+   "start": 705.14,
+   "end": 712.94,
+   "text": "Anyways uh enough talking for now uh to tomorrow"
+  }
+ ]
+}

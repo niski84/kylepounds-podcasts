@@ -1,0 +1,551 @@
+{
+ "youtube_id": "wJ6Y6CsmWc8",
+ "title": "5/10/23 Building #s check out what I have now",
+ "url": "https://youtu.be/wJ6Y6CsmWc8",
+ "published_at": "2023-05-10",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 2.61,
+   "end": 6.97,
+   "text": "Hi, here's my V-Log for the 10th of May, 2023."
+  },
+  {
+   "start": 9.27,
+   "end": 11.13,
+   "text": "It's like 1230 in the afternoon."
+  },
+  {
+   "start": 12.87,
+   "end": 15.69,
+   "text": "I just called my mom just to call her."
+  },
+  {
+   "start": 16.67,
+   "end": 20.65,
+   "text": "I call her every day, so she wants to do a walk or whatever, and she invited me over."
+  },
+  {
+   "start": 21.87,
+   "end": 22.81,
+   "text": "So I think I'll go over there."
+  },
+  {
+   "start": 23.63,
+   "end": 27.49,
+   "text": "Her couch is comfy, and I kind of need a chill."
+  },
+  {
+   "start": 28.85,
+   "end": 29.93,
+   "text": "Wait at work."
+  },
+  {
+   "start": 29.93,
+   "end": 38.61,
+   "text": "I think she offered to watch a movie, and then she said she'd make me food,"
+  },
+  {
+   "start": 38.75,
+   "end": 42.71,
+   "text": "So it saves me lots of money, and it's healthy to eat nice food over there."
+  },
+  {
+   "start": 44.43,
+   "end": 48.21,
+   "text": "I was working last night until, yeah, I guess I fell asleep."
+  },
+  {
+   "start": 48.25,
+   "end": 50.69,
+   "text": "I can't remember exactly what time it was, but I got up at, like, noon."
+  },
+  {
+   "start": 55.46,
+   "end": 57.38,
+   "text": "Yeah, it's really slow going, what I'm doing."
+  },
+  {
+   "start": 57.38,
+   "end": 58.94,
+   "text": "I'm hoping I'll be done by Sunday."
+  },
+  {
+   "start": 58.94,
+   "end": 72.32,
+   "text": "Yesterday, I was building the vertical numbers that just go one row down."
+  },
+  {
+   "start": 74.02,
+   "end": 77.68,
+   "text": "But, you know, I'm having to do a bunch of stuff a bunch of times because there's just so much to remember."
+  },
+  {
+   "start": 77.68,
+   "end": 82.86,
+   "text": "When I sized them, I sized them for 32 pixels across."
+  },
+  {
+   "start": 84.06,
+   "end": 89.07,
+   "text": "I mean, 32 pixels down, which doesn't work."
+  },
+  {
+   "start": 89.15,
+   "end": 90.99,
+   "text": "It had to be 32 pixels across."
+  },
+  {
+   "start": 92.25,
+   "end": 95.27,
+   "text": "So I resized them for that, and then I added them."
+  },
+  {
+   "start": 95.27,
+   "end": 105.52,
+   "text": "I think, yeah, but it was just those."
+  },
+  {
+   "start": 105.6,
+   "end": 107.72,
+   "text": "So the other ones that go across are sized right."
+  },
+  {
+   "start": 107.86,
+   "end": 110.58,
+   "text": "They're size 32 pixels up and down, so I can add those too."
+  },
+  {
+   "start": 111.42,
+   "end": 113.58,
+   "text": "Because they need to add the ones that go down and the ones that go across."
+  },
+  {
+   "start": 114.36,
+   "end": 121.1,
+   "text": "If you go to my front page, my home page right now, you'll see the sample, or the beginnings of what I'm building."
+  },
+  {
+   "start": 121.1,
+   "end": 124.68,
+   "text": "I'm going to build everything of what I have, and it'll be interesting to see it there."
+  },
+  {
+   "start": 124.84,
+   "end": 127.88,
+   "text": "And also, I kind of came up with an epiphany today."
+  },
+  {
+   "start": 131.43,
+   "end": 138.77,
+   "text": "There's an absolute size, and I need to put absolute size on there."
+  },
+  {
+   "start": 140.8,
+   "end": 146.88,
+   "text": "And if it's small enough, I could use it as an illustrator for pages of books."
+  },
+  {
+   "start": 146.88,
+   "end": 160.44,
+   "text": "I could put the numbers of people standing there on the top of my book, the exact number of people standing as there are pages in the book, to show how many pages there are in the book."
+  },
+  {
+   "start": 161.52,
+   "end": 165.22,
+   "text": "You know, like a 3,000-page book."
+  },
+  {
+   "start": 165.98,
+   "end": 174.76,
+   "text": "So I want to know how much space 3,000 people take in absolute space."
+  },
+  {
+   "start": 174.76,
+   "end": 182.36,
+   "text": "It's meaning to say, the smallest you can get and still see individual people."
+  },
+  {
+   "start": 184.0,
+   "end": 186.22,
+   "text": "No, I guess that means there's two absolute."
+  },
+  {
+   "start": 186.4,
+   "end": 190.16,
+   "text": "There's absolute without Zoom and then Zoom, double-tab Zoom."
+  },
+  {
+   "start": 191.08,
+   "end": 193.64,
+   "text": "So I think I'll do two versions, actually."
+  },
+  {
+   "start": 195.42,
+   "end": 199.06,
+   "text": "And maybe the one that I use for the books will be the small version."
+  },
+  {
+   "start": 199.24,
+   "end": 199.62,
+   "text": "Who knows?"
+  },
+  {
+   "start": 199.62,
+   "end": 209.91,
+   "text": "But, yeah, but definitely the ones that you can see all of them at once would be cool."
+  },
+  {
+   "start": 210.81,
+   "end": 217.72,
+   "text": "So, and in which case, I would grow them in smaller increments, which would take some time."
+  },
+  {
+   "start": 217.92,
+   "end": 222.96,
+   "text": "But, so, what I have available now is just one row down."
+  },
+  {
+   "start": 224.18,
+   "end": 226.02,
+   "text": "I think the four row is best."
+  },
+  {
+   "start": 226.12,
+   "end": 228.62,
+   "text": "I'm going to work on that after, like right now."
+  },
+  {
+   "start": 228.62,
+   "end": 232.2,
+   "text": "So, I have to fix number 17 and 68."
+  },
+  {
+   "start": 232.44,
+   "end": 233.34,
+   "text": "Somehow it weren't on there."
+  },
+  {
+   "start": 233.42,
+   "end": 234.06,
+   "text": "I have to put those on."
+  },
+  {
+   "start": 235.2,
+   "end": 236.8,
+   "text": "And then, yeah, four across."
+  },
+  {
+   "start": 236.9,
+   "end": 237.66,
+   "text": "See how that works."
+  },
+  {
+   "start": 237.9,
+   "end": 239.8,
+   "text": "That might be the absolute size."
+  },
+  {
+   "start": 240.38,
+   "end": 245.04,
+   "text": "But the one across looks like it might be it because you can see them."
+  },
+  {
+   "start": 245.28,
+   "end": 248.92,
+   "text": "So, I just continue to build it."
+  },
+  {
+   "start": 249.26,
+   "end": 251.58,
+   "text": "But, and it's time-consuming as hell."
+  },
+  {
+   "start": 251.68,
+   "end": 254.14,
+   "text": "And it takes up shitloads of space on my computer."
+  },
+  {
+   "start": 254.14,
+   "end": 259.54,
+   "text": "Um, I, uh, yeah, I need to figure out which ones I can delete."
+  },
+  {
+   "start": 259.66,
+   "end": 261.5,
+   "text": "I don't need to have it high-res on all of them."
+  },
+  {
+   "start": 261.72,
+   "end": 267.3,
+   "text": "But, um, yeah, luckily I have like 400 gigs left on my external."
+  },
+  {
+   "start": 268.1,
+   "end": 273.04,
+   "text": "So, I'm going to bring my computer and my external hard drive and my Wii and all, everything."
+  },
+  {
+   "start": 273.04,
+   "end": 285.94,
+   "text": "Over to my mom's house now and, um, sit on that comfy couch or, uh, and then she has a table, which I'm not usually used to sitting on."
+  },
+  {
+   "start": 287.78,
+   "end": 289.84,
+   "text": "Um, yeah, just work."
+  },
+  {
+   "start": 289.98,
+   "end": 294.3,
+   "text": "And, um, maybe I can get some, um, get the four across ones made today."
+  },
+  {
+   "start": 294.5,
+   "end": 296.5,
+   "text": "Um, I don't think they're even made."
+  },
+  {
+   "start": 300.09,
+   "end": 304.51,
+   "text": "I could, uh, piece them together, I think, maybe with the, uh, other ones that I made, so."
+  },
+  {
+   "start": 306.05,
+   "end": 307.41,
+   "text": "Or the bigger one that I made."
+  },
+  {
+   "start": 308.41,
+   "end": 311.07,
+   "text": "I made a really big one that's 10,000 out of that."
+  },
+  {
+   "start": 312.07,
+   "end": 315.39,
+   "text": "But the computer wasn't able to, uh, crop it down."
+  },
+  {
+   "start": 316.07,
+   "end": 317.25,
+   "text": "Because of memory issues."
+  },
+  {
+   "start": 318.53,
+   "end": 328.37,
+   "text": "So, I was going to, like, delete a whole bunch off the computer and see if I could crop it down again."
+  },
+  {
+   "start": 330.58,
+   "end": 336.72,
+   "text": "And if I could crop it down, I was thinking maybe if I could paste 10 of those together to make 100,000."
+  },
+  {
+   "start": 337.62,
+   "end": 340.3,
+   "text": "And then maybe I could paste 10 of those to make a million."
+  },
+  {
+   "start": 341.34,
+   "end": 342.04,
+   "text": "I don't know."
+  },
+  {
+   "start": 343.04,
+   "end": 347.2,
+   "text": "But I already have some made and I need to make the link to it and stuff, so."
+  },
+  {
+   "start": 348.06,
+   "end": 349.66,
+   "text": "Yeah, I'm super fired up about this."
+  },
+  {
+   "start": 349.72,
+   "end": 350.96,
+   "text": "It's really freaking cool."
+  },
+  {
+   "start": 351.16,
+   "end": 352.36,
+   "text": "Really, really, really cool."
+  },
+  {
+   "start": 353.86,
+   "end": 354.82,
+   "text": "Uh, eh."
+  },
+  {
+   "start": 354.82,
+   "end": 360.66,
+   "text": "It's worth a lot of time for me, like, more than just this Sunday."
+  },
+  {
+   "start": 360.82,
+   "end": 364.46,
+   "text": "Like, when I predicted I'd be done, like, it'd be worth next Sunday, too, you know?"
+  },
+  {
+   "start": 365.6,
+   "end": 369.02,
+   "text": "So, but, um, I don't know."
+  },
+  {
+   "start": 369.02,
+   "end": 371.88,
+   "text": "I guess it's possible I could be done about this Sunday."
+  },
+  {
+   "start": 373.04,
+   "end": 373.96,
+   "text": "Depends on the computer."
+  },
+  {
+   "start": 374.48,
+   "end": 374.86,
+   "text": "Alrighty."
+  },
+  {
+   "start": 375.28,
+   "end": 378.12,
+   "text": "Um, yeah, I did try to do a batch edit last night before I went to sleep."
+  },
+  {
+   "start": 378.12,
+   "end": 381.36,
+   "text": "Um, I think it was the thousands."
+  },
+  {
+   "start": 381.5,
+   "end": 382.34,
+   "text": "It was, like, a lot."
+  },
+  {
+   "start": 382.42,
+   "end": 384.26,
+   "text": "It was, like, 50 gigs or something."
+  },
+  {
+   "start": 384.48,
+   "end": 386.92,
+   "text": "And it included the TIFF files."
+  },
+  {
+   "start": 387.12,
+   "end": 394.0,
+   "text": "And it was, I should have just made a special folder for the PNG, but I didn't want to drag all those in."
+  },
+  {
+   "start": 394.06,
+   "end": 395.88,
+   "text": "It was, like, because they're all in the same folder."
+  },
+  {
+   "start": 397.12,
+   "end": 397.44,
+   "text": "Eh."
+  },
+  {
+   "start": 399.44,
+   "end": 400.62,
+   "text": "It did the batch edit."
+  },
+  {
+   "start": 400.98,
+   "end": 402.02,
+   "text": "And then crashed."
+  },
+  {
+   "start": 402.4,
+   "end": 403.26,
+   "text": "And restarted."
+  },
+  {
+   "start": 403.26,
+   "end": 407.54,
+   "text": "Um, but it managed to do some batch edit."
+  },
+  {
+   "start": 408.32,
+   "end": 409.44,
+   "text": "And I haven't had the time."
+  },
+  {
+   "start": 409.5,
+   "end": 411.74,
+   "text": "I want to go and look and see which ones it managed to do."
+  },
+  {
+   "start": 412.76,
+   "end": 414.96,
+   "text": "And if it managed what it did with the TIFF ones."
+  },
+  {
+   "start": 415.2,
+   "end": 415.8,
+   "text": "So, anyways."
+  },
+  {
+   "start": 416.4,
+   "end": 417.24,
+   "text": "So, that's enough."
+  },
+  {
+   "start": 417.4,
+   "end": 418.44,
+   "text": "Um, but, yeah, check it out."
+  },
+  {
+   "start": 418.48,
+   "end": 419.38,
+   "text": "It's on the page right now."
+  },
+  {
+   "start": 419.42,
+   "end": 420.84,
+   "text": "You'll get an idea of what I'm talking about."
+  },
+  {
+   "start": 421.44,
+   "end": 422.2,
+   "text": "On my homepage."
+  },
+  {
+   "start": 422.5,
+   "end": 423.9,
+   "text": "Just scroll down on the left."
+  },
+  {
+   "start": 424.06,
+   "end": 424.64,
+   "text": "You'll see it."
+  },
+  {
+   "start": 425.28,
+   "end": 425.68,
+   "text": "Alrighty."
+  },
+  {
+   "start": 425.88,
+   "end": 426.06,
+   "text": "Talk."
+  },
+  {
+   "start": 426.12,
+   "end": 426.68,
+   "text": "It's on 2."
+  },
+  {
+   "start": 426.82,
+   "end": 427.3,
+   "text": "Section 2."
+  },
+  {
+   "start": 427.7,
+   "end": 428.54,
+   "text": "Talk to you tomorrow."
+  }
+ ]
+}

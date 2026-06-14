@@ -1,0 +1,1071 @@
+{
+ "youtube_id": "XE5j5l4H48Q",
+ "title": "5/24/23 Fixing side # grid",
+ "url": "https://youtu.be/XE5j5l4H48Q",
+ "published_at": "2023-05-24",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 1.3,
+   "end": 10.66,
+   "text": "Yeah here's my vlog for the 24th of may 2022 three I kind of slept in a day currently it's uh"
+  },
+  {
+   "start": 10.66,
+   "end": 17.24,
+   "text": "4 55 it's wednesday um yeah I was working until like sunrise"
+  },
+  {
+   "start": 17.24,
+   "end": 27.68,
+   "text": "No I was working past sunrise I was working until like 7 30 so then when I fell asleep I was like"
+  },
+  {
+   "start": 27.68,
+   "end": 34.4,
+   "text": "Out and then I slept until like 3 30 um and I forgot to turn the lights on I should have turned"
+  },
+  {
+   "start": 34.4,
+   "end": 39.68,
+   "text": "The lights on when I went to sleep because most of the day went by without my lights on my plants"
+  },
+  {
+   "start": 39.68,
+   "end": 46.81,
+   "text": "Don't like that and I don't think my birds like that or my ferrets but um or maybe my roommate I"
+  },
+  {
+   "start": 46.81,
+   "end": 54.29,
+   "text": "Don't know but um I've got plants in my room that I bought more than a year ago"
+  },
+  {
+   "start": 54.29,
+   "end": 63.55,
+   "text": "For the outside they're still there um so um yesterday for the last two days I was hanging"
+  },
+  {
+   "start": 63.55,
+   "end": 67.39,
+   "text": "Out with my mom I went on a walk and stuff hanging with her yesterday she actually came over yesterday"
+  },
+  {
+   "start": 67.39,
+   "end": 74.19,
+   "text": "And we were cleaning and hanging out together she um and then took me to the store for energy drink"
+  },
+  {
+   "start": 74.19,
+   "end": 80.69,
+   "text": "And then I rode my bike there to get another one and some uh chips but"
+  },
+  {
+   "start": 80.69,
+   "end": 88.75,
+   "text": "The work that I was doing yesterday was um I'm still working on the sidebar it's really time"
+  },
+  {
+   "start": 88.75,
+   "end": 98.07,
+   "text": "Consuming um if I had started over maybe I would have looked for another font that would fit"
+  },
+  {
+   "start": 98.07,
+   "end": 104.65,
+   "text": "Completely inside of a 20 pixel icon but I I settled on a font called um apple something"
+  },
+  {
+   "start": 104.65,
+   "end": 117.5,
+   "text": "Apple symbols you know I like it because it's kind of hard to find the perfect font because"
+  },
+  {
+   "start": 117.5,
+   "end": 123.8,
+   "text": "They're either too big or too small but at the smallest pixel is six pixels so"
+  },
+  {
+   "start": 123.8,
+   "end": 131.64,
+   "text": "Yeah it was a good font because it was like clear concise um but it's just maybe slightly too big but"
+  },
+  {
+   "start": 131.64,
+   "end": 139.36,
+   "text": "That doesn't really matter because you know what color it is based on the color so I mean what"
+  },
+  {
+   "start": 139.36,
+   "end": 143.56,
+   "text": "Number it is based on the color so the important thing is to have the numbers in the front so you"
+  },
+  {
+   "start": 143.56,
+   "end": 151.48,
+   "text": "Can see them so you know which thousands you're in and so when I first built it I kind of built it"
+  },
+  {
+   "start": 151.48,
+   "end": 156.58,
+   "text": "In the middle where you couldn't really see the front of the number and it was like oh shit didn't"
+  },
+  {
+   "start": 156.58,
+   "end": 163.62,
+   "text": "Look right so then I had to go in again and um they're not all organized exactly the same"
+  },
+  {
+   "start": 163.62,
+   "end": 168.22,
+   "text": "Because when you click on it to type it you know you don't click on the same exact location"
+  },
+  {
+   "start": 168.22,
+   "end": 173.5,
+   "text": "And so you when you adjust them you can't adjust them all together but the cool thing about uh"
+  },
+  {
+   "start": 173.5,
+   "end": 182.34,
+   "text": "Photoshop is you can just hold down the shift key and whatever you click uh that way is the one"
+  },
+  {
+   "start": 182.34,
+   "end": 187.22,
+   "text": "That gets moved so you just would click the ones that I want and I move them and just micro adjusting"
+  },
+  {
+   "start": 187.22,
+   "end": 194.42,
+   "text": "Them so that you can see them all and you can't maybe see them all at first or it's not like feng"
+  },
+  {
+   "start": 194.42,
+   "end": 200.5,
+   "text": "Shui you can't see the entire letter on the right side even but you don't have to all you don't know"
+  },
+  {
+   "start": 200.5,
+   "end": 206.58,
+   "text": "Is that it's a side anyways I think it works the way design that I design my website is you know I'll"
+  },
+  {
+   "start": 206.58,
+   "end": 213.7,
+   "text": "Build it however I think is the best way to utilitarian and then I just use it and um"
+  },
+  {
+   "start": 213.7,
+   "end": 220.02,
+   "text": "You know and if something bothers me something annoys me then obviously I have to change it"
+  },
+  {
+   "start": 220.02,
+   "end": 228.34,
+   "text": "But if nothing bothers me there's never never an issue never comes up then obviously I built it"
+  },
+  {
+   "start": 228.34,
+   "end": 232.42,
+   "text": "Right the first time and so that's how I think this is gonna work out I don't think it's gonna come"
+  },
+  {
+   "start": 232.42,
+   "end": 237.46,
+   "text": "Up with any issues and so the way I designed it even if it's a little bit bigger than the pixel I"
+  },
+  {
+   "start": 237.46,
+   "end": 241.7,
+   "text": "Think is good because at least you can see the letters bigger and you don't even need to know the"
+  },
+  {
+   "start": 241.7,
+   "end": 251.7,
+   "text": "End because you know what what number of the colors means so anyways um but this morning as I was going in"
+  },
+  {
+   "start": 251.7,
+   "end": 263.44,
+   "text": "And um I had to um there were lots of problems I had to re-batch edit the whole 2000s because"
+  },
+  {
+   "start": 264.64,
+   "end": 272.0,
+   "text": "When I opened them I opened them all at once and at one point and flicker I mean photoshop said"
+  },
+  {
+   "start": 272.8,
+   "end": 277.28,
+   "text": "Do you want to like merge the cells or whatever and I was like all right"
+  },
+  {
+   "start": 277.28,
+   "end": 285.12,
+   "text": "Whatever just open it so I said yes and so it and I guess it merged it because the computer was"
+  },
+  {
+   "start": 285.12,
+   "end": 288.64,
+   "text": "Tired I was trying to open too many at the same time or whatever and so it merged them"
+  },
+  {
+   "start": 289.52,
+   "end": 293.6,
+   "text": "So then I noticed they were merged and I needed to edit it and I was like well open it back up"
+  },
+  {
+   "start": 293.6,
+   "end": 299.84,
+   "text": "And it but it like permanently fused them together it's like that's up because when I want to fuse it"
+  },
+  {
+   "start": 299.84,
+   "end": 306.24,
+   "text": "All together that's when I turn into a png so anyways I had to rebuild it from the 3000s and"
+  },
+  {
+   "start": 306.24,
+   "end": 313.84,
+   "text": "Then batch edit it which takes like four minutes procedure just to batch edit one number change"
+  },
+  {
+   "start": 313.84,
+   "end": 319.28,
+   "text": "One number on a hundred different layers so I had to do that 10 times it was like an hour you know"
+  },
+  {
+   "start": 319.6,
+   "end": 334.32,
+   "text": "Um while I was watching movies and um so um I built that and I uploaded 2000s again I put it in"
+  },
+  {
+   "start": 335.2,
+   "end": 339.76,
+   "text": "And then there was another problem that I made like I'm a loopy ass motherfucker like I can build"
+  },
+  {
+   "start": 339.76,
+   "end": 347.2,
+   "text": "This stuff but I had to rebuild it like when I was when I was when I had to split up these images"
+  },
+  {
+   "start": 347.2,
+   "end": 355.32,
+   "text": "Because they were too long for flickr I was breaking them apart like the one through 10 at different"
+  },
+  {
+   "start": 355.32,
+   "end": 362.92,
+   "text": "Places each time because I'm so loopy so I was having to after they uploaded I had to go into flickr"
+  },
+  {
+   "start": 362.92,
+   "end": 371.4,
+   "text": "And crop them down because I included too much I included like if it was the um the 600s I would"
+  },
+  {
+   "start": 371.4,
+   "end": 378.76,
+   "text": "Include 600 it would start with 600 it wouldn't start with 601 600 belongs to the 500s not the 600s"
+  },
+  {
+   "start": 379.96,
+   "end": 383.24,
+   "text": "And so that's the kind of stuff you do when you're not really paying attention to what you're doing"
+  },
+  {
+   "start": 383.24,
+   "end": 388.52,
+   "text": "Because you're like listening I was listening to my china book and I was watching movies so I had to go in"
+  },
+  {
+   "start": 388.52,
+   "end": 395.08,
+   "text": "To flickr and crop it down but the problem is it's such as it's only 20 pixels wide"
+  },
+  {
+   "start": 396.52,
+   "end": 400.76,
+   "text": "So you can barely even see what you're cropping because you can't zoom it in to crop it down on"
+  },
+  {
+   "start": 400.76,
+   "end": 407.08,
+   "text": "Flickr you can only do that with photoshop so I was just like guessing and luckily I got it right"
+  },
+  {
+   "start": 407.08,
+   "end": 414.88,
+   "text": "Every time but then there was another problem that came up that I noticed today and it was something"
+  },
+  {
+   "start": 414.88,
+   "end": 421.28,
+   "text": "That I was gonna fix but I spaced it and it's when I did the batch edits on all of these because um"
+  },
+  {
+   "start": 422.88,
+   "end": 429.76,
+   "text": "I built them all um with batch edit from the other one uh so when I was back at like"
+  },
+  {
+   "start": 431.44,
+   "end": 438.8,
+   "text": "Like 5 000 turned into 6 000 every 50 turns into a 60 right but the problem with that is"
+  },
+  {
+   "start": 438.8,
+   "end": 451.14,
+   "text": "Now something that was 5 000 and 50 now it's 6 000 and 60 not 6 000 and 50 like it's supposed to be"
+  },
+  {
+   "start": 451.14,
+   "end": 457.38,
+   "text": "Now it's 6 000 and 60 so every 10 it's got the it's got the wrong number because it did that they"
+  },
+  {
+   "start": 457.38,
+   "end": 464.42,
+   "text": "Couldn't you couldn't exclude that from the batch edit and I didn't and I forgot to fix that manually"
+  },
+  {
+   "start": 464.42,
+   "end": 469.38,
+   "text": "So I uploaded them all to flickr and then I'm looking at photoshop here because I was it was"
+  },
+  {
+   "start": 469.38,
+   "end": 475.62,
+   "text": "Just this last one that I had to do a batch edit on and I saw it actually I didn't see it I saw it on"
+  },
+  {
+   "start": 475.62,
+   "end": 483.06,
+   "text": "My web page that I made and I was like oh it's like that for everyone isn't it so I have to go in"
+  },
+  {
+   "start": 483.06,
+   "end": 488.98,
+   "text": "I have to open up a hundred of these files oh my god I have to do it a thousand times because it's"
+  },
+  {
+   "start": 488.98,
+   "end": 494.34,
+   "text": "10 000 but it's one tenth of ten thousands yeah so a thousand times I have to open up a hundred of"
+  },
+  {
+   "start": 494.34,
+   "end": 501.46,
+   "text": "These files and 10 times in each file I have to go in every 10 and I have to fix that one number"
+  },
+  {
+   "start": 501.46,
+   "end": 508.5,
+   "text": "Because of the batch edit so that's what I have to do today and then I have to re-upload it but I have"
+  },
+  {
+   "start": 508.5,
+   "end": 514.34,
+   "text": "To delete all the ones so that I don't accidentally link it to the wrong one on flickr because flickr"
+  },
+  {
+   "start": 514.34,
+   "end": 521.14,
+   "text": "Doesn't repeat it doesn't replace images it's all its own url so you have to delete the ones first"
+  },
+  {
+   "start": 521.14,
+   "end": 526.98,
+   "text": "Then you have to upload it so you know that there's none double the wrong one you're going to link to"
+  },
+  {
+   "start": 526.98,
+   "end": 532.26,
+   "text": "And then I have to link it again and so last night until I until I passed out I was actually creating"
+  },
+  {
+   "start": 532.26,
+   "end": 537.14,
+   "text": "The page I almost finished the whole page I created the whole goddamn page with the wrong ones"
+  },
+  {
+   "start": 538.1,
+   "end": 544.9,
+   "text": "Because I got ahead of myself so I built the one through 10 and the one in 2000 and then the 2000s"
+  },
+  {
+   "start": 544.9,
+   "end": 553.38,
+   "text": "And they're all on their own little little uh table so it's kind of a disaster so"
+  },
+  {
+   "start": 555.3,
+   "end": 561.06,
+   "text": "Not really it'll gobble up a whole day it'll gobble up one day it'll take me all day to do that"
+  },
+  {
+   "start": 561.06,
+   "end": 569.38,
+   "text": "But I'm also um adjusting the location because you know like I said they're all maybe a little bit"
+  },
+  {
+   "start": 569.38,
+   "end": 576.82,
+   "text": "Staggered a little jagged and I am zooming in and like kind of micro adjusting all of them again"
+  },
+  {
+   "start": 576.82,
+   "end": 581.78,
+   "text": "Because I was I kind of rushed it the first time because I was just frustrated I wanted to get it done"
+  },
+  {
+   "start": 582.42,
+   "end": 588.98,
+   "text": "Yeah and some of them it rendered some of them not perfect and you can see that stuff like that's the"
+  },
+  {
+   "start": 588.98,
+   "end": 594.26,
+   "text": "Problem that's why it's really important to do it right the first time because even though it's only"
+  },
+  {
+   "start": 594.26,
+   "end": 600.1,
+   "text": "20 pixels when you're on the website and you look over even with my fucked up 50 year old eyesight"
+  },
+  {
+   "start": 601.38,
+   "end": 608.18,
+   "text": "I can see if the number isn't adjusted right even though it's 20 pixels and even if it's one of 10 000"
+  },
+  {
+   "start": 608.18,
+   "end": 614.5,
+   "text": "I take one look at it and I can see and so the if it's perfect quality I'm going to be happy with"
+  },
+  {
+   "start": 614.5,
+   "end": 619.7,
+   "text": "Myself and if I make boo-boos I'm going to be pissed so it's actually worth taking my time on"
+  },
+  {
+   "start": 619.7,
+   "end": 625.38,
+   "text": "This because you build it once and the idea is that they go on every single page and I don't see"
+  },
+  {
+   "start": 625.38,
+   "end": 630.34,
+   "text": "Any reason why I wouldn't go on every page on every website not just my website but because it's kind"
+  },
+  {
+   "start": 630.34,
+   "end": 635.46,
+   "text": "Of like a new invention I'm doing I've only seen it one other time and I think it was on like um"
+  },
+  {
+   "start": 638.36,
+   "end": 642.44,
+   "text": "It was on one of those web pages that I get my history books from it was like um"
+  },
+  {
+   "start": 642.44,
+   "end": 652.15,
+   "text": "Archive.org or I can't even remember it's been so long"
+  },
+  {
+   "start": 654.15,
+   "end": 659.11,
+   "text": "Where they would have just numbers it wasn't color-coded with blocks and numbers but it was just"
+  },
+  {
+   "start": 659.11,
+   "end": 665.59,
+   "text": "These just these numbers and it wasn't all of them it was like every 10 you'd have like 600 and then"
+  },
+  {
+   "start": 665.59,
+   "end": 669.99,
+   "text": "Like halfway down the page you'd see like 650 you know what I mean but that was the only thing that"
+  },
+  {
+   "start": 669.99,
+   "end": 676.31,
+   "text": "I'd ever seen anything it was only on like one side so I have it on both sides they're all color"
+  },
+  {
+   "start": 676.31,
+   "end": 682.31,
+   "text": "Coded little blocks of 20 pixels which is the same exact size as an I a 20 pixel icon that I use on my"
+  },
+  {
+   "start": 682.31,
+   "end": 690.23,
+   "text": "Site so it's consistent and it shows the number all the way to 10 000 and then I'll have I'll have the"
+  },
+  {
+   "start": 691.03,
+   "end": 696.47,
+   "text": "Color-coded border around it so you know which myriad it is so you can take it to a hundred thousand"
+  },
+  {
+   "start": 696.47,
+   "end": 702.55,
+   "text": "And that's exactly that's my prediction is that's exactly how big a lot of my books are that's"
+  },
+  {
+   "start": 702.55,
+   "end": 709.27,
+   "text": "Exactly how big plenty is so as soon as I build this maybe tomorrow I'll put it on plenty and see"
+  },
+  {
+   "start": 709.27,
+   "end": 714.39,
+   "text": "What it looks like in plenty because I'm super curious because then you because then you're like"
+  },
+  {
+   "start": 714.39,
+   "end": 719.91,
+   "text": "It's a 10 myriad book it's a nine myriad book isn't that cool instead of calling it how big it is in"
+  },
+  {
+   "start": 719.91,
+   "end": 728.23,
+   "text": "Pages in in in words because because uh you know a web page it's not it's not just about the words"
+  },
+  {
+   "start": 728.23,
+   "end": 736.07,
+   "text": "It's also about the images and so they have different word per page density rates so the one"
+  },
+  {
+   "start": 736.07,
+   "end": 743.91,
+   "text": "Consistent thing is is how how how long of a scroll down it is which gives you an idea to"
+  },
+  {
+   "start": 743.91,
+   "end": 748.23,
+   "text": "Helps you compare the different sites because that's what my website's all about it's comparing"
+  },
+  {
+   "start": 748.23,
+   "end": 753.43,
+   "text": "Everything so I think it's a good idea and it's worth it so anyways I'm I got a trial for hbo and"
+  },
+  {
+   "start": 753.43,
+   "end": 760.52,
+   "text": "Stars just because I've been overheating you know see a couple movies and lo and behold there's all"
+  },
+  {
+   "start": 760.52,
+   "end": 765.0,
+   "text": "These fucking all these superhero movies so I'm just like watching all the superhero movies I saw"
+  },
+  {
+   "start": 765.96,
+   "end": 771.72,
+   "text": "Matrix which I liked I liked that I got the bait people don't like the matrix reboot because"
+  },
+  {
+   "start": 773.16,
+   "end": 777.56,
+   "text": "They didn't like that it was a reboot but I think that's a great movie to reboot with the same actors"
+  },
+  {
+   "start": 777.56,
+   "end": 783.0,
+   "text": "Because it was just it was just neo realizing that his game was actually real I thought that"
+  },
+  {
+   "start": 783.0,
+   "end": 788.28,
+   "text": "Was trippy the part where they fucked up was they had him kind of snap back into being neo but I guess"
+  },
+  {
+   "start": 788.28,
+   "end": 793.24,
+   "text": "Whatever I thought it was cool and then they set it up for sequels but I guess everybody hated it"
+  },
+  {
+   "start": 793.24,
+   "end": 797.72,
+   "text": "But I think there's a lot you can do with sequels for that anyway and then I got started with"
+  },
+  {
+   "start": 797.72,
+   "end": 802.44,
+   "text": "Shazam I'm like halfway through shazam or something a fifth of the way through shazam I'll watch that"
+  },
+  {
+   "start": 803.16,
+   "end": 808.12,
+   "text": "And then I got a little bit through spider-man no way home and far from home I'll finish those"
+  },
+  {
+   "start": 808.92,
+   "end": 815.16,
+   "text": "And then I'll finish shazam I saw fast and furious nine last night um that's the only one that's for"
+  },
+  {
+   "start": 815.16,
+   "end": 823.48,
+   "text": "Free though um and then um I'm gonna see uh aquaman all these free movies I love it and then I'm gonna"
+  },
+  {
+   "start": 823.48,
+   "end": 832.2,
+   "text": "See dune with my mom but I only have hbo for a week so if my mom like dilly dallys um and then I'll just"
+  },
+  {
+   "start": 832.2,
+   "end": 836.2,
+   "text": "Go ahead and see it by myself but she wanted to see dune we drove all the way down to red rocks"
+  },
+  {
+   "start": 836.2,
+   "end": 841.56,
+   "text": "Last year to see dune and but we it was canceled because of rain and we didn't realize so we went"
+  },
+  {
+   "start": 841.56,
+   "end": 848.28,
+   "text": "Down there for nothing but um and then I want to see dune 1984 that's on there I don't actually"
+  },
+  {
+   "start": 848.28,
+   "end": 853.4,
+   "text": "Watch the movies I mean I'm working the whole time but with the peripheral of my vision I can see it and"
+  },
+  {
+   "start": 853.4,
+   "end": 858.92,
+   "text": "Hear it and stuff and I do that yeah I think I'm I'm just I do that when I get frustrated and"
+  },
+  {
+   "start": 858.92,
+   "end": 863.88,
+   "text": "Something's dragging out way too long I kind of lose my ability to pay attention to what I'm"
+  },
+  {
+   "start": 863.88,
+   "end": 867.0,
+   "text": "Listening to and I just start doing brain candy stuff that's why I need to smoke weed"
+  },
+  {
+   "start": 868.28,
+   "end": 872.92,
+   "text": "And I might want to buy more weed I'm like running out of weed I don't want to run out oh you know what"
+  },
+  {
+   "start": 872.92,
+   "end": 880.85,
+   "text": "I'm gonna buy more weed because that's not that's not enough weed that's not enough weed to last me"
+  },
+  {
+   "start": 880.85,
+   "end": 888.31,
+   "text": "The rest of the day I can't get the light to shine in it yeah you can you can't even see the weed"
+  },
+  {
+   "start": 889.27,
+   "end": 897.59,
+   "text": "See it's like 69 a week but I have like 300 or 200 something so yeah I think I'm gonna go in and get"
+  },
+  {
+   "start": 897.59,
+   "end": 905.75,
+   "text": "Weed also right now energy drink spend the rest of my cash on weed the cash that I got from my car"
+  },
+  {
+   "start": 906.79,
+   "end": 911.51,
+   "text": "Get an energy drink and maybe some snackies and then come back here and do that"
+  },
+  {
+   "start": 912.79,
+   "end": 917.51,
+   "text": "Batch edit fix thing that I was gonna do and I was gonna do it but then I just"
+  },
+  {
+   "start": 918.31,
+   "end": 926.47,
+   "text": "Forgot um anyways so that's what I'm up to today hopefully tomorrow I'll be"
+  },
+  {
+   "start": 926.47,
+   "end": 930.71,
+   "text": "Putting the grid in plenty and then I'll put the link to plenty as soon as I build it I'll put the"
+  },
+  {
+   "start": 930.71,
+   "end": 938.23,
+   "text": "Link and you can check it out and um I was talking to my mom this morning like I've had it I've had it"
+  },
+  {
+   "start": 938.23,
+   "end": 947.33,
+   "text": "With my mom my patience is done and I think my patience in general like my losing patience with"
+  },
+  {
+   "start": 947.33,
+   "end": 954.93,
+   "text": "My mom like it it also causes me to lose patience with people in general but I I called my mom and"
+  },
+  {
+   "start": 954.93,
+   "end": 959.01,
+   "text": "I'm like you want to go on a walk or a bike ride and she's like oh I don't think so it was rainy and"
+  },
+  {
+   "start": 959.01,
+   "end": 962.77,
+   "text": "Cold I don't really want to and then she's like so what are you doing on your website I was like"
+  },
+  {
+   "start": 962.77,
+   "end": 968.69,
+   "text": "Bitch I didn't even tell her I was like you're a fucking idiot why the fuck would I tell you"
+  },
+  {
+   "start": 969.81,
+   "end": 975.57,
+   "text": "Uh I mean you don't even understand the concept I would I would tell you the concept instead of tell"
+  },
+  {
+   "start": 975.57,
+   "end": 986.8,
+   "text": "You what I'm doing but you don't even get that so fuck you fuck off and so um what was the point"
+  },
+  {
+   "start": 986.8,
+   "end": 1009.57,
+   "text": "Why did I say that and that was gonna lead into something anyways um all right I bet you not a single"
+  },
+  {
+   "start": 1009.57,
+   "end": 1016.85,
+   "text": "Person is gonna have a single comment about my about my uh my grid ever like until I'm done with"
+  },
+  {
+   "start": 1016.85,
+   "end": 1024.53,
+   "text": "The site I had a I had a person who commented this is weird I had a person who commented named ben okay"
+  },
+  {
+   "start": 1026.05,
+   "end": 1032.61,
+   "text": "He would comment on like every third or fourth of my videos okay for the last year like he's like a super"
+  },
+  {
+   "start": 1032.61,
+   "end": 1039.01,
+   "text": "Fan or something and he then he like totally kissing my ass I'm the big lebowski I'm this I'm"
+  },
+  {
+   "start": 1039.01,
+   "end": 1044.45,
+   "text": "That so finally and then he accused me of being homosexual like he wanted to come and fuck me or"
+  },
+  {
+   "start": 1044.45,
+   "end": 1052.61,
+   "text": "Something I'm like you old ass fucking vietnam vet motherfucker um and then he would say just annoying"
+  },
+  {
+   "start": 1052.61,
+   "end": 1058.53,
+   "text": "Things here and there and um and finally I was like dude if you're like my friend and you're into my"
+  },
+  {
+   "start": 1058.53,
+   "end": 1064.37,
+   "text": "Website and you're kissing the ass on my website like why have you never said anything about my"
+  },
+  {
+   "start": 1064.37,
+   "end": 1073.17,
+   "text": "Website like I can't get a single person I swear to god hashtag twilight zone I have never had anybody"
+  },
+  {
+   "start": 1073.17,
+   "end": 1078.21,
+   "text": "Say anything about my website so I was finally like well here's my opportunity to get a person to"
+  },
+  {
+   "start": 1078.21,
+   "end": 1083.73,
+   "text": "Acknowledge that they went to my website because my mom can't do it my mom's 81 she's out she can't do"
+  },
+  {
+   "start": 1083.73,
+   "end": 1091.33,
+   "text": "It physically her brain she's too retarded so I go hey benny boy if you're some kind of a"
+  },
+  {
+   "start": 1091.33,
+   "end": 1095.81,
+   "text": "Fucking super fan why don't you why don't you say something about my website said a bunch of times"
+  },
+  {
+   "start": 1095.81,
+   "end": 1108.18,
+   "text": "He never did it so then I go okay go to my uh go to my uh uh uh coliseum go to my google earth coliseum"
+  },
+  {
+   "start": 1108.18,
+   "end": 1115.38,
+   "text": "And say something about it look at it and say something about it like mention what color the awning is"
+  },
+  {
+   "start": 1115.38,
+   "end": 1121.86,
+   "text": "Mention something that you saw for example there's a rope mention the rope say that you saw"
+  },
+  {
+   "start": 1122.5,
+   "end": 1129.14,
+   "text": "Uh call a uh a mosaic on the floor you don't have to describe the mosaic just say I saw a mosaic"
+  },
+  {
+   "start": 1130.1,
+   "end": 1134.42,
+   "text": "Okay but you can't say I saw the coliseum you have to say you saw something in the coliseum like I"
+  },
+  {
+   "start": 1134.42,
+   "end": 1140.58,
+   "text": "Looked at the uh sand on the bottom of the coliseum anything anything say something about it right"
+  },
+  {
+   "start": 1140.58,
+   "end": 1145.94,
+   "text": "So he ignored me right the super fan ignores me so then he finds so I'm like bitch I'm gonna"
+  },
+  {
+   "start": 1145.94,
+   "end": 1152.42,
+   "text": "Lock your ass I threatened him I said so he goes okay he goes I looked for 40 minutes on your website"
+  },
+  {
+   "start": 1152.42,
+   "end": 1158.9,
+   "text": "And I couldn't find it dude it's on the front page of my website you go to my education and you scroll"
+  },
+  {
+   "start": 1158.9,
+   "end": 1164.66,
+   "text": "Down and you see an icon of a column of a coliseum and you click on it and it downloads or you click on"
+  },
+  {
+   "start": 1164.66,
+   "end": 1169.22,
+   "text": "The google earth page and you click on it it downloads you'd have to be retarded and for 40"
+  },
+  {
+   "start": 1169.22,
+   "end": 1175.46,
+   "text": "Minutes you didn't bother to click on anything so then I so then I told him well just click on the"
+  },
+  {
+   "start": 1175.46,
+   "end": 1182.98,
+   "text": "Goddamn icon or go to this page I actually did a demo I did a tutorial on my on my on my channel I"
+  },
+  {
+   "start": 1182.98,
+   "end": 1192.26,
+   "text": "Showed it I filmed myself navigating around my my site so then he goes he finally comments ignores me"
+  },
+  {
+   "start": 1192.26,
+   "end": 1197.22,
+   "text": "And I'm like what are you saying about it so he goes oh yeah I saw it oh great that's that you saw"
+  },
+  {
+   "start": 1197.22,
+   "end": 1201.22,
+   "text": "It that's not my question that's not what I'm asking you to do I should just say something about"
+  },
+  {
+   "start": 1201.22,
+   "end": 1206.74,
+   "text": "It don't say you saw it so you say something about it so I'm like I'm gonna block you if you"
+  },
+  {
+   "start": 1206.74,
+   "end": 1213.06,
+   "text": "Don't say something about it dude so then so then he comments back and he goes hey you should do a"
+  },
+  {
+   "start": 1213.06,
+   "end": 1218.02,
+   "text": "Tutorial on your website and how to navigate your website number one I already did that number two"
+  },
+  {
+   "start": 1218.02,
+   "end": 1225.54,
+   "text": "He's ignoring me and so I blocked his ass fucking blocked him so I had one fan couldn't get the guy"
+  },
+  {
+   "start": 1225.54,
+   "end": 1231.94,
+   "text": "To say anything about my my coliseum there are eight trillion people on this planet and I can't get a"
+  },
+  {
+   "start": 1231.94,
+   "end": 1236.82,
+   "text": "Single person who watches my video to say a single thing about my website I can't say I can't get a"
+  },
+  {
+   "start": 1236.82,
+   "end": 1246.26,
+   "text": "Single person to comment and go uh the background is blue I can't get a person to go uh you have color"
+  },
+  {
+   "start": 1246.26,
+   "end": 1252.66,
+   "text": "Coded to the rainbow or you have plenty on your website I can't get a single person including my"
+  },
+  {
+   "start": 1252.66,
+   "end": 1257.78,
+   "text": "Ex-wife because she doesn't even have internet but she has internet on her phone but somehow she"
+  },
+  {
+   "start": 1257.78,
+   "end": 1262.58,
+   "text": "Doesn't want to go to my website if it's on her phone and so I can't even get her to do it can't get"
+  },
+  {
+   "start": 1262.58,
+   "end": 1267.94,
+   "text": "My mom to do it um I'm not going to bother my roommate and I don't I'm not keeping in touch"
+  },
+  {
+   "start": 1267.94,
+   "end": 1276.34,
+   "text": "With people right now so like uh I'm not stressed out about it but it will get me stressed out if I"
+  },
+  {
+   "start": 1276.34,
+   "end": 1282.42,
+   "text": "Start interacting with the person and that person starts going uh twilight zone on me you know if"
+  },
+  {
+   "start": 1282.42,
+   "end": 1287.7,
+   "text": "You're going to interact with me it has to be a two-way conversation you know I have to ask you a"
+  },
+  {
+   "start": 1287.7,
+   "end": 1295.62,
+   "text": "Question then you have to reply to me right I have to be like uh uh what color is the sand"
+  },
+  {
+   "start": 1295.62,
+   "end": 1302.82,
+   "text": "In the coliseum hint it's sand color what's the answer and then for you to go oh yeah I looked at"
+  },
+  {
+   "start": 1302.82,
+   "end": 1309.78,
+   "text": "The coliseum at least say sand color what the fuck man so anyways um that's what I'm dealing with um"
+  },
+  {
+   "start": 1310.82,
+   "end": 1318.58,
+   "text": "Hopefully by tomorrow I will be done putting that plenty inside of that grid and then I'll put the"
+  },
+  {
+   "start": 1318.58,
+   "end": 1325.38,
+   "text": "Link and nobody will ever even notice I'm at the point where nobody is even read plenty somebody"
+  },
+  {
+   "start": 1325.38,
+   "end": 1333.78,
+   "text": "Wanted me to do a video about cleopatra people are so fucking retarded all these black people think"
+  },
+  {
+   "start": 1333.78,
+   "end": 1342.42,
+   "text": "That cleopatra was jet black like wesley snipes when everybody and their dog knows that cleopatra"
+  },
+  {
+   "start": 1342.42,
+   "end": 1351.78,
+   "text": "Is part of the uh the ptolemy dynasty which was the family of fucking macedonians germans"
+  },
+  {
+   "start": 1351.78,
+   "end": 1359.86,
+   "text": "Fucking white people who took over each each egypt why where along the line did they ever have sex with"
+  },
+  {
+   "start": 1359.86,
+   "end": 1365.54,
+   "text": "A black person down in the southern africa what the fuck are you even talking about and everybody's like"
+  },
+  {
+   "start": 1365.54,
+   "end": 1373.62,
+   "text": "Everybody knows that they were she was black why because it's africa motherfucker oh what about history"
+  },
+  {
+   "start": 1375.14,
+   "end": 1383.78,
+   "text": "What what about history oh my god so anyways my website is um I was telling my mom my website's"
+  },
+  {
+   "start": 1383.78,
+   "end": 1391.51,
+   "text": "Gonna take off and it's it's kind of a race at this point it's like what's gonna what's gonna arrive first"
+  },
+  {
+   "start": 1392.39,
+   "end": 1402.47,
+   "text": "People's people's like need to learn history or my website I need I would prefer my website to get"
+  },
+  {
+   "start": 1402.47,
+   "end": 1407.19,
+   "text": "Finished so that by the time the people decide that they want to learn history it's already there you"
+  },
+  {
+   "start": 1407.19,
+   "end": 1411.91,
+   "text": "Know not people are in his want to learn history and I'm like oh shit and people are like oh look"
+  },
+  {
+   "start": 1411.91,
+   "end": 1419.11,
+   "text": "At this stupid ass website that's not finished yet you know what I mean so um yeah so um hopefully"
+  },
+  {
+   "start": 1419.11,
+   "end": 1425.99,
+   "text": "Tomorrow I'm hoping that by the end of tomorrow I'll have uh plenty inside the computer might be"
+  },
+  {
+   "start": 1425.99,
+   "end": 1431.11,
+   "text": "Slow but I'll get it started maybe in two days it'll be done but maybe hopefully by the end of"
+  },
+  {
+   "start": 1431.11,
+   "end": 1438.87,
+   "text": "The day I'll be done with those 10 000 little micro adjustments with the the one number that got"
+  },
+  {
+   "start": 1438.87,
+   "end": 1443.99,
+   "text": "Screwed up in the batch edit okay enough talking talk to you tomorrow"
+  }
+ ]
+}

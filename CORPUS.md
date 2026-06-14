@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-3973 videos with transcripts. Source of truth for transcripts + enrichments.
+4098 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -42,6 +42,131 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2024-09-05 | [Introducing FORTNIGHT HISTORY TEST so you don't havd to lick butthole ](corpus/videos/1h_K0tUetlg.json) | kyle | Kyle introduces his 'Fortnite History Test,' a bi-weekly self-graded quiz where you hit a random number generator to get |
 | 2024-09-05 | [1st Fortnight History Test, 1st AD. 154 points](corpus/videos/HygoxEUDccE.json) | kyle | Kyle attempts his first recorded bi-weekly history test, using a random number generator to select decades from 0–2000 A |
 | 2024-05-02 | [I found Atlantis - Requested by Jim](corpus/videos/wSGwbXErAq4.json) | kyle | Kyle presents his personal theory that Atlantis was located in the Bahamas, specifically around Andros Island, using mea |
+| 2023-11-10 | [11/10/23 Coloring 120K People on Google Earth](corpus/videos/mHQwoYPzC2I.json) | — |  |
+| 2023-11-09 | [11/9/23 Coloring 120K People on Google Earth](corpus/videos/b7VmZNqsuTE.json) | — |  |
+| 2023-11-08 | [11/8/23 Coloring 120K People on Google Earth](corpus/videos/qDCvlGWy2v4.json) | — |  |
+| 2023-11-07 | [11/7/23 Coloring 120K People on Google Earth](corpus/videos/E-6Rdwg-N-I.json) | — |  |
+| 2023-11-06 | [11/6/23 Coloring 129K People on Google Earth](corpus/videos/K67yKwZzaDA.json) | — |  |
+| 2023-11-01 | [11/1/23 Coloring 120K People on Google Earth](corpus/videos/C71PlLAi7CA.json) | — |  |
+| 2023-10-27 | [10/27/23 Coloring 120K People on Google Earth](corpus/videos/eQhkJY--yIg.json) | — |  |
+| 2023-10-25 | [10/25/23 Coloring 120K People on Google Earth & Fight Suit Culture](corpus/videos/smxxNGykeRM.json) | — |  |
+| 2023-10-22 | [10/22/23 Coloring 120K People on Google Earth](corpus/videos/MuP5db2VWGE.json) | — |  |
+| 2023-10-18 | [10/18/23 Coloring 120K People on Google Earth](corpus/videos/MaX2e1U1J9k.json) | — |  |
+| 2023-10-17 | [10/17/23 Coloring 120K People on Google Earth](corpus/videos/CWrlzdsgy88.json) | — |  |
+| 2023-10-15 | [10/15/23 Coloring 120K People on Google Earth](corpus/videos/14w91VINr7k.json) | — |  |
+| 2023-10-13 | [10/13/23 Coloring 120K People on Google Earth](corpus/videos/QAjTe9Gcfe8.json) | — |  |
+| 2023-10-12 | [10/12/23 Finishing Rainbow Titles and side grids](corpus/videos/mqV5RXvz-jQ.json) | — |  |
+| 2023-10-12 | [10/12/23 Coloring 120K People on Google Earth](corpus/videos/ydIguUE18wo.json) | — |  |
+| 2023-10-11 | [10/11/23 Coloring & numbering 120K People on Google Earth](corpus/videos/ZUPyLlp_rns.json) | — |  |
+| 2023-10-09 | [10/9/23 Tracing & Numbering 120K People](corpus/videos/iP3Pqmyxf6M.json) | — |  |
+| 2023-10-08 | [10/8/23 Coloring & Numbering 120K People](corpus/videos/q5iVF0vuJLM.json) | — |  |
+| 2023-10-07 | [10/7/23 Tracing & #ing 120K People on Google Earth](corpus/videos/PcnCDgSg_dI.json) | — |  |
+| 2023-10-06 | [10/6/23 Coloring & numbering 120K People on Google Earth](corpus/videos/Blk5rbSD32Q.json) | — |  |
+| 2023-10-05 | [10/5/23 Coloring & numbering 120K People on Google Earth](corpus/videos/OfxpLFDUOoo.json) | — |  |
+| 2023-10-04 | [10/4/23 Coloring & Numbering 20K People on Google Earth](corpus/videos/UFn2j9eBLiA.json) | — |  |
+| 2023-10-02 | [10/2/23 Coloring & Numbering 120K people on Google Earth](corpus/videos/AZ26N_uIajI.json) | — |  |
+| 2023-10-01 | [10/1/23 Day 8 Coloring and numbering hundred and twenty thousand peopl](corpus/videos/pcMdlPC8LrM.json) | — |  |
+| 2023-09-30 | [9/30/23 Day 6 Coloring & #ing 120K People on Google Earth](corpus/videos/iDjCXANtypA.json) | — |  |
+| 2023-09-29 | [9/29/23 Day 5 Coloring & #ing 120 People on Google Earth](corpus/videos/PnOyOzsCusM.json) | — |  |
+| 2023-09-26 | [9/26/23 Day 2 Coloring & Numbering 120K People on Google Earth](corpus/videos/5PGqF_c845w.json) | — |  |
+| 2023-09-24 | [9/24/23 Day 47 Finished Tracing 120K now # & coloring them](corpus/videos/7DtVjkdJSEU.json) | — |  |
+| 2023-09-22 | [9/22/23 Day 45 Tracing 120K People on Google Earth](corpus/videos/Ic2bSjiKJ7o.json) | — |  |
+| 2023-09-21 | [9/21/23 Day 44 Tracing 120K People on Google Earth](corpus/videos/tQjSLd4iPaU.json) | — |  |
+| 2023-09-20 | [9/20/23 Day 43 Tracing 120K People on Google Earth](corpus/videos/lwvzp5I5cLU.json) | — |  |
+| 2023-09-18 | [9/18/23 Day 41 Tracing 120K People on Google Earth](corpus/videos/5hqq-qTAw8I.json) | — |  |
+| 2023-09-16 | [9/16/23 Day 39 Tracing 120K People on Google Earth](corpus/videos/PDh4Fm51n64.json) | — |  |
+| 2023-09-15 | [9/15/23 Day 38 Tracing 120K People on Google Earth](corpus/videos/poLoxCUesfs.json) | — |  |
+| 2023-09-13 | [9/13/23 Day 36 Tracing 120K People on Google Earth](corpus/videos/f-XeP5Swil4.json) | — |  |
+| 2023-09-12 | [9/12/23 Day 35 Tracing 120K People on Google Earth](corpus/videos/XFeMiG145Ds.json) | — |  |
+| 2023-09-11 | [9/11/23 Day 34 Tracing 120K People on Google Earth](corpus/videos/Yf4zBfk2aJk.json) | — |  |
+| 2023-09-08 | [9/8/23 Day 31 Tracing 120K People. Monitor reappears after 2 days miss](corpus/videos/DLkvyKr78GI.json) | — |  |
+| 2023-09-06 | [9/6/23 Day 29 Tracing 120K People on Google Earth](corpus/videos/sOhf-Mu4YS0.json) | — |  |
+| 2023-09-05 | [9/5/23 Day 28 Tracing 120K People on Google Earth](corpus/videos/eaIhD7uV5Ho.json) | — |  |
+| 2023-09-03 | [9/3/23 Day 26 Tracing 120K People on Google Earth](corpus/videos/9hz9BhUySbQ.json) | — |  |
+| 2023-09-02 | [9/2/23  Day 25 Tracing 120K People on Google Earth. Got a Savannah Mon](corpus/videos/ghc3sPH-PGk.json) | — |  |
+| 2023-09-01 | [9/1/23 Day 24 Tracing 120K People on Google Earth](corpus/videos/LN-aavUM6Jg.json) | — |  |
+| 2023-08-31 | [8/31/23  Day 23 Tracing 120K People on Google Earth](corpus/videos/9NZduCxgwT4.json) | — |  |
+| 2023-08-30 | [8/30/23 Day 22 Tracing 120K People on Google Earth](corpus/videos/Jz5h6xihaqc.json) | — |  |
+| 2023-08-29 | [8/29/23 Day 21 Tracing 120K People on Google Earth](corpus/videos/fOx94FaO3nw.json) | — |  |
+| 2023-08-28 | [8/28/23 Day 20 Tracing 120K People on Google Earth because nobody else](corpus/videos/BOTEeFgC6Uc.json) | — |  |
+| 2023-08-27 | [8/27/23 Day 19 Tracing 120K People](corpus/videos/h7b0BrafV6o.json) | — |  |
+| 2023-08-24 | [8/24/23 Day 16 Tracing 120K People on Google Earth](corpus/videos/UWPkXXhl5nU.json) | — |  |
+| 2023-08-23 | [8/23/23 Day 15 Tracing 120K People](corpus/videos/MXHB7PnWYh8.json) | — |  |
+| 2023-08-22 | [8/22/23 Day 14 Tracing 120K People. Got Roomate](corpus/videos/8Y5g16uSvzY.json) | — |  |
+| 2023-08-21 | [8/21/23 Day 13 Tracing 120K People on Google Earth for # Visualization](corpus/videos/n5eYN_LL3gw.json) | — |  |
+| 2023-08-20 | [8/20/23 Day 12 Tracing 120K People for # Visualization Tool](corpus/videos/RSxaeideMok.json) | — |  |
+| 2023-08-19 | [8/19/23 Day 11 Tracing 120K People. Needed to sleep so fell a little b](corpus/videos/MJf-UCxLifc.json) | — |  |
+| 2023-08-18 | [8/18/23 Day 11 Tracing 120K People](corpus/videos/gDKMvP7ZBts.json) | — |  |
+| 2023-08-17 | [8/17/23 Day 10 Tracing 120K Boulder Roman Citizens](corpus/videos/G8TTwK9wLjw.json) | — |  |
+| 2023-08-16 | [8/16/23 Day 9 Tracing 120K people on Google Earth for # visualization](corpus/videos/HwYosz4_Gd0.json) | — |  |
+| 2023-08-15 | [8/15/23 Day 8 Tracing 120K People on Google Earth because can’t think ](corpus/videos/Zna8z3kYwrE.json) | — |  |
+| 2023-08-13 | [8/13/23 Day 6 Tracing 120K Soldiers on Google Earth for # contemplatio](corpus/videos/J91TfGzPNSc.json) | — |  |
+| 2023-08-12 | [8/12/23 Day 5 Tracing 120K People on Google Earth](corpus/videos/EXxkMxLFsMI.json) | — |  |
+| 2023-08-11 | [8/11/23 Day 4 Tracing 120K People on Google Earth](corpus/videos/emQ-7bjYXRc.json) | — |  |
+| 2023-08-10 | [8/10/23 Day 3 Drawing 120K People on my Google Earth 160K File](corpus/videos/fdYN6whCaV4.json) | — |  |
+| 2023-08-09 | [8/9/23 Day 2 120K People tracing for number visualization trust me it’](corpus/videos/aiftWolFlc8.json) | — |  |
+| 2023-08-08 | [8/8/23 Drawing 160K Individual so I can name 20,000 Classic Book Chapt](corpus/videos/1pE_VEsC68M.json) | — |  |
+| 2023-08-07 | [8/7/23 Turn my comments back on assholes! Not for Kids retards.](corpus/videos/r1SH_RFLcUw.json) | — |  |
+| 2023-08-06 | [8/6/23 Day 2 adding names to Mantinea in Boulder](corpus/videos/Uj9qB4YOnSE.json) | — |  |
+| 2023-08-05 | [8/5/23 2K Triathletes in Mantinaea, Boulder on Google Earth](corpus/videos/fIWIjRVH6cE.json) | — |  |
+| 2023-08-04 | [8/4/23 Keep getting sucked back into Google Earth. Not made for kids t](corpus/videos/NfeusVr1MEw.json) | — |  |
+| 2023-08-02 | [8/2/23 Finished crazy Google Earth Flatiron deal up](corpus/videos/IbLTg0qMcr4.json) | — |  |
+| 2023-07-30 | [7/30/23 Thought I was going to finish today](corpus/videos/SZrLLB9SE_Y.json) | — |  |
+| 2023-07-28 | [7/28/23 Day 4 Naming Flatirons](corpus/videos/Jxju-pp2m9E.json) | — |  |
+| 2023-07-27 | [7/27/23 Day 3 Naming 1,000 Flatirons](corpus/videos/k0m6jdQ7iOg.json) | — |  |
+| 2023-07-26 | [7/26/23 Naming Boulder’s 1,000 Flatirons & Boulders](corpus/videos/NKF7uFQ7ROY.json) | — |  |
+| 2023-07-24 | [7/24/23 Singing up on Fundraising Sites and Writing](corpus/videos/v4KUeXIV0Ko.json) | — |  |
+| 2023-07-23 | [7/23/23 Cleaning, ads for roomate, pay taxes](corpus/videos/jKU3iSXpZXk.json) | — |  |
+| 2023-07-22 | [7/22/23 What’s on my site, bailing hay & organizing room](corpus/videos/r-kH7omMXpg.json) | — |  |
+| 2023-07-21 | [7/21/23 3rd day fixing up house](corpus/videos/dIKf4iui9aY.json) | — |  |
+| 2023-07-19 | [7/19/23 Organizing house while sick](corpus/videos/VqpteIsbWkY.json) | — |  |
+| 2023-07-18 | [7/18/23 Putting house back together](corpus/videos/puCjq_KLGts.json) | — |  |
+| 2023-07-16 | [7/16/23 Wikipedia Science List Icons](corpus/videos/Dy7M0ZLzHXI.json) | — |  |
+| 2023-07-15 | [7/15/23 Classic books and chapters on Notes app on phone to name 1000s](corpus/videos/mell401Pad0.json) | — |  |
+| 2023-07-13 | [7/13/23 Finishing side grid on site](corpus/videos/95IAJ3L_kMY.json) | — |  |
+| 2023-07-10 | [7/10/23 Adding page & time fonts to historical books day 2](corpus/videos/Ql0ZPAQv_lo.json) | — |  |
+| 2023-07-07 | [7/7/23 Computer still processing Euripides](corpus/videos/n9sbe9-U4_g.json) | — |  |
+| 2023-07-06 | [7/6/23 Euripides 3,336 chapter page counting done in 3 days](corpus/videos/LrUdQIqxjNA.json) | — |  |
+| 2023-07-05 | [7/5/23 Euripides 3,336 chapter page counting day 2](corpus/videos/8v1QPWLujkU.json) | — |  |
+| 2023-07-04 | [7/4/23 Euripides 3,331 chapter page counting](corpus/videos/ewme2ilgcWg.json) | — |  |
+| 2023-07-02 | [7/2/23 Chores, then Herodotus 1,749  chapter page counting](corpus/videos/w9l9G18Jbl8.json) | — |  |
+| 2023-07-01 | [7/1/23 Sophocles chapter page counting](corpus/videos/FNiINQ0h9W4.json) | — |  |
+| 2023-06-30 | [6/30/23 Sophocles 2,536 chapter, dialogue page counting](corpus/videos/vyLjbKUlR2Y.json) | — |  |
+| 2023-06-29 | [6/29/23 Sama Veda chapter page sizing](corpus/videos/tKytzYaAUNU.json) | — |  |
+| 2023-06-28 | [6/28/23 Kajur Veda 650 Chapter page counting.](corpus/videos/QDCHK0MxAnQ.json) | — |  |
+| 2023-06-26 | [6/26/23 Chapter page count on Indian  books. I’m a Sadhu now. Barely h](corpus/videos/AXD6a_4t4aU.json) | — |  |
+| 2023-06-10 | [6/10/23 Uploading to Wetransfer & Listening to Antiquities of Jews](corpus/videos/jS_C8ufpHeA.json) | — |  |
+| 2023-06-09 | [6/9/23 Uploading Terrabyte on Wetransfer, reading Book of Enki, Watchi](corpus/videos/jXv6YOVsSn0.json) | — |  |
+| 2023-06-06 | [6/6/23 Online backup site on wetransfer](corpus/videos/2g8JBczl3es.json) | — |  |
+| 2023-06-05 | [6/5/23 Have to redo Chapters 6-7 of Capital, got lost somehow right af](corpus/videos/z4vWdnW1G9c.json) | — |  |
+| 2023-06-04 | [6/4/23 Karl Marx Capital Final Stretch Day 2](corpus/videos/KcVBjdDoA2A.json) | — |  |
+| 2023-06-03 | [6/3/23 Karl Marx Capital finishing on site day one](corpus/videos/B0T8xLM1tiA.json) | — |  |
+| 2023-06-01 | [6/1/23 Annunaki book on site](corpus/videos/TZZPgM8XH90.json) | — |  |
+| 2023-05-30 | [5/30/23 side grids on site & chapter word counting on Cicero](corpus/videos/ShKqPXL0hCw.json) | — |  |
+| 2023-05-29 | [5/29/23 Side grid & counting chapter pages on historical books](corpus/videos/N2B3k2aBlok.json) | — |  |
+| 2023-05-27 | [5/27/23 Adding side grid to pages w/ 2 computers. Lots of waiting.](corpus/videos/V_Ch1tA_bi8.json) | — |  |
+| 2023-05-26 | [5/26/23 installing side bar to site](corpus/videos/DQetCc2tejk.json) | — |  |
+| 2023-05-25 | [5/25/23 Installing side grid](corpus/videos/Iva63sC1m0Q.json) | — |  |
+| 2023-05-24 | [5/24/23 Fixing side # grid](corpus/videos/XE5j5l4H48Q.json) | — |  |
+| 2023-05-23 | [5/23/23 Perfecting side grid #s then will put them on Pliny 1st](corpus/videos/7_UW1Ky8Tpc.json) | — |  |
+| 2023-05-22 | [5/22/23 Side grid in 20px images now](corpus/videos/i4xwxmabFQk.json) | — |  |
+| 2023-05-20 | [5/20/23 I think I’m gunna nap now feel kinda groggy](corpus/videos/hn59OQvnubo.json) | — |  |
+| 2023-05-18 | [5/18/23 #s & some Timeline icons](corpus/videos/joQ3tkF0QY8.json) | — |  |
+| 2023-05-17 | [5/17/23 Flickr # editing. Cleaned.](corpus/videos/9_sFN0LPD3I.json) | — |  |
+| 2023-05-16 | [5/16/23 World pop visualized on UN Factbook page](corpus/videos/fhyHdTaGuHo.json) | — |  |
+| 2023-05-15 | [5/15/23 Still site #s. Gunna put EVERYBODY as a VISIBLE dot on ONE pag](corpus/videos/mtSXVSAZul4.json) | — |  |
+| 2023-05-14 | [5/14/23 Number visualization on site. Check it out, or not.](corpus/videos/JrWEuoxIu8A.json) | — |  |
+| 2023-05-13 | [5/13/23 Numbers on site biiaaatch!](corpus/videos/7jD79wCAIk8.json) | — |  |
+| 2023-05-12 | [5/12/23 Pleased with how # icons are developing](corpus/videos/XhuA4iv4ZKA.json) | — |  |
+| 2023-05-10 | [5/10/23 Building #s check out what I have now](corpus/videos/wJ6Y6CsmWc8.json) | — |  |
+| 2023-05-09 | [5/9/23 Vert # icon variations. This is BALLSAKSCRATCH! for the ages I ](corpus/videos/RmpWJKvNQ4s.json) | — |  |
+| 2023-05-08 | [5/8/23 Building Number Icon towards down now for Timeline](corpus/videos/b5ZGrG8QexU.json) | — |  |
+| 2023-05-07 | [5/7/23 # icons 1-1B  IDed out of context by sight linked to detail to ](corpus/videos/7urOYytiyD4.json) | — |  |
+| 2023-05-06 | [5/6/23 Stupid phone never uploads my videos the first time](corpus/videos/pgF4RpsxdJ0.json) | — |  |
+| 2023-05-05 | [5/5/23 Invented # Images for # detailed conceptualizing & icons](corpus/videos/ntLZECoDmhk.json) | — |  |
+| 2023-05-04 | [5/4/23 Renovating Timeline from text to icons](corpus/videos/Or-l3jOVXKM.json) | — |  |
+| 2023-05-03 | [5/3/23 Fixing Timeline look](corpus/videos/wwaRpAsw2sQ.json) | — |  |
+| 2023-05-02 | [5/2/23 Batch editing images to replace text on Timeline FINALLY](corpus/videos/qyWR7a5g2Sg.json) | — |  |
 | 2023-05-01 | [5/1/23 Loose ends on Timeline appearance. Check it out in a month!](corpus/videos/FWjDCGUbGUs.json) | — |  |
 | 2023-04-31 | [4/31/23 Fonts & Grid on Future Timeline](corpus/videos/XBqziK06KII.json) | — |  |
 | 2023-04-28 | [4/28/23](corpus/videos/GRN81a6POQA.json) | — |  |

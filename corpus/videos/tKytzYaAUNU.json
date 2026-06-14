@@ -1,0 +1,1781 @@
+{
+ "youtube_id": "tKytzYaAUNU",
+ "title": "6/29/23 Sama Veda chapter page sizing",
+ "url": "https://youtu.be/tKytzYaAUNU",
+ "published_at": "2023-06-29",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 1.07,
+   "end": 19.29,
+   "text": "Hi, here's my video. I'm gonna do it with my eyes closed. I think I'm like under a lot of stress. I don't like it and my back fucking hurts. I don't like it when I'm having technical difficulties like yesterday."
+  },
+  {
+   "start": 19.29,
+   "end": 46.75,
+   "text": "Yesterday, man, I think yesterday morning at like six, I was like, yeah, I'm doing these. I'm doing this. I have a Veda. Kajur Veda and then like yesterday, all day yesterday, I'm trying to work on this Kajur Veda and the computer is just like crazy slow and Kajur Veda has seven books and the second book, it was corrupted."
+  },
+  {
+   "start": 46.75,
+   "end": 63.51,
+   "text": "Every once in a while, I get my web page gets corrupted by Google Earth. I mean, Google ad code. So I'm never gonna put at that point, I decided I'm never, ever, ever gonna put any kind of Google ad code on my website ever."
+  },
+  {
+   "start": 63.51,
+   "end": 82.43,
+   "text": "Because it's wasted like 50 hours of my work time so far, probably. From, I don't know how it does it, but making it so that you can see it on the website."
+  },
+  {
+   "start": 82.43,
+   "end": 98.13,
+   "text": "I mean, on Dreamweaver, but you can't see it on the website. Or you can see it on, you can't see it on Dreamweaver, but you can see it on the website. Like, and if you try to paste it onto the web, the main, the page, it'll delete the whole page."
+  },
+  {
+   "start": 98.13,
+   "end": 114.19,
+   "text": "So, I had to get a copy of chapter three and then build, and then just gut it and then build two on top of three. Because two had some kind of corruption."
+  },
+  {
+   "start": 114.19,
+   "end": 121.11,
+   "text": "And, um, and it's taking forever, the whole time I'm doing this. Like, just taking way too long."
+  },
+  {
+   "start": 122.11,
+   "end": 124.09,
+   "text": "And then, when I finally built it,"
+  },
+  {
+   "start": 124.67,
+   "end": 127.01,
+   "text": "It does fit. Like, if you look at"
+  },
+  {
+   "start": 127.01,
+   "end": 128.39,
+   "text": "Kaju or Veda."
+  },
+  {
+   "start": 129.37,
+   "end": 130.89,
+   "text": "But all of the different"
+  },
+  {
+   "start": 130.89,
+   "end": 137.09,
+   "text": "Even though the columns are set to 20%, all the different columns are different sizes."
+  },
+  {
+   "start": 137.31,
+   "end": 140.91,
+   "text": "Like, one of the columns, the second column is way too wide. Like, crazy wide."
+  },
+  {
+   "start": 140.91,
+   "end": 143.25,
+   "text": "And there's all this space between the words."
+  },
+  {
+   "start": 144.91,
+   "end": 146.87,
+   "text": "And I've seen that. I see that every once in a while."
+  },
+  {
+   "start": 146.87,
+   "end": 148.75,
+   "text": "And it's not in the code. It's just like that."
+  },
+  {
+   "start": 150.27,
+   "end": 152.69,
+   "text": "And so, you have to, like, rebuild it."
+  },
+  {
+   "start": 153.61,
+   "end": 153.93,
+   "text": "So,"
+  },
+  {
+   "start": 154.83,
+   "end": 156.57,
+   "text": "One of these days,"
+  },
+  {
+   "start": 156.73,
+   "end": 157.79,
+   "text": "When I go and I,"
+  },
+  {
+   "start": 158.53,
+   "end": 160.41,
+   "text": "And next week, whatever, when I go and I,"
+  },
+  {
+   "start": 160.87,
+   "end": 164.95,
+   "text": "The time to all of the pages, I'm going to,"
+  },
+  {
+   "start": 164.95,
+   "end": 165.41,
+   "text": "Um,"
+  },
+  {
+   "start": 167.29,
+   "end": 168.21,
+   "text": "Rebuild that."
+  },
+  {
+   "start": 168.21,
+   "end": 168.65,
+   "text": "Like,"
+  },
+  {
+   "start": 170.23,
+   "end": 172.01,
+   "text": "Build a new thing and put them in."
+  },
+  {
+   "start": 172.13,
+   "end": 172.97,
+   "text": "Maybe it'll fix it."
+  },
+  {
+   "start": 173.55,
+   "end": 175.07,
+   "text": "So, just all kinds of weirdness."
+  },
+  {
+   "start": 175.51,
+   "end": 177.87,
+   "text": "And it was just driving me crazy and taking forever, spinning around."
+  },
+  {
+   "start": 178.99,
+   "end": 180.89,
+   "text": "And then this morning, because I don't sleep,"
+  },
+  {
+   "start": 181.51,
+   "end": 182.71,
+   "text": "It was just spinning around."
+  },
+  {
+   "start": 184.01,
+   "end": 186.57,
+   "text": "Trying to open, because I pasted, um,"
+  },
+  {
+   "start": 188.03,
+   "end": 189.67,
+   "text": "I pasted the sidebar,"
+  },
+  {
+   "start": 189.81,
+   "end": 193.11,
+   "text": "Because I wanted to put it inside to see what I would have to do to make it fit."
+  },
+  {
+   "start": 193.41,
+   "end": 194.05,
+   "text": "It could fit."
+  },
+  {
+   "start": 194.49,
+   "end": 195.79,
+   "text": "Turned out that wasn't necessary."
+  },
+  {
+   "start": 195.79,
+   "end": 197.87,
+   "text": "All I had to do was, it already fit."
+  },
+  {
+   "start": 197.93,
+   "end": 199.01,
+   "text": "It just didn't look like it did."
+  },
+  {
+   "start": 202.34,
+   "end": 202.66,
+   "text": "Like,"
+  },
+  {
+   "start": 204.95,
+   "end": 206.63,
+   "text": "Because I was looking at it on my cell phone."
+  },
+  {
+   "start": 206.73,
+   "end": 207.31,
+   "text": "I don't know."
+  },
+  {
+   "start": 207.71,
+   "end": 208.55,
+   "text": "At that point,"
+  },
+  {
+   "start": 209.01,
+   "end": 210.27,
+   "text": "I just started getting confused."
+  },
+  {
+   "start": 211.03,
+   "end": 211.61,
+   "text": "You know, like,"
+  },
+  {
+   "start": 212.03,
+   "end": 213.47,
+   "text": "If the computer's slow enough,"
+  },
+  {
+   "start": 213.63,
+   "end": 214.39,
+   "text": "And spinning around,"
+  },
+  {
+   "start": 214.47,
+   "end": 216.49,
+   "text": "I start forgetting what the hell's even going on."
+  },
+  {
+   "start": 217.37,
+   "end": 218.33,
+   "text": "So, um,"
+  },
+  {
+   "start": 218.37,
+   "end": 220.49,
+   "text": "Then these electrical people came to nine,"
+  },
+  {
+   "start": 220.55,
+   "end": 221.65,
+   "text": "And they were working until, like, four."
+  },
+  {
+   "start": 221.71,
+   "end": 222.97,
+   "text": "The guy just left without telling me, so."
+  },
+  {
+   "start": 223.73,
+   "end": 224.51,
+   "text": "I was in my room, but."
+  },
+  {
+   "start": 224.51,
+   "end": 226.45,
+   "text": "They turned off my electricity,"
+  },
+  {
+   "start": 226.75,
+   "end": 229.65,
+   "text": "So my battery died pretty quickly after that."
+  },
+  {
+   "start": 230.47,
+   "end": 232.21,
+   "text": "My computer was working fine this morning."
+  },
+  {
+   "start": 232.85,
+   "end": 234.45,
+   "text": "I finally got done with Kajir Veda."
+  },
+  {
+   "start": 234.55,
+   "end": 235.55,
+   "text": "I'm working on a Tharva Veda."
+  },
+  {
+   "start": 236.35,
+   "end": 238.85,
+   "text": "And all I have to do with the Tharva Veda is just copy from the,"
+  },
+  {
+   "start": 239.43,
+   "end": 240.85,
+   "text": "Because I have the time of it already,"
+  },
+  {
+   "start": 240.97,
+   "end": 243.91,
+   "text": "Copy from the menu all the way down in the body for all of it."
+  },
+  {
+   "start": 243.93,
+   "end": 244.51,
+   "text": "And it's working fine."
+  },
+  {
+   "start": 245.03,
+   "end": 246.53,
+   "text": "I'm like, oh, wow, this is going fine."
+  },
+  {
+   "start": 246.61,
+   "end": 247.11,
+   "text": "That's fast."
+  },
+  {
+   "start": 247.21,
+   "end": 247.95,
+   "text": "I'm going to get this done."
+  },
+  {
+   "start": 248.73,
+   "end": 249.97,
+   "text": "But then I ran out of energy,"
+  },
+  {
+   "start": 250.13,
+   "end": 251.19,
+   "text": "So I turned the computer off,"
+  },
+  {
+   "start": 251.25,
+   "end": 252.73,
+   "text": "Because I was at, like, 25%."
+  },
+  {
+   "start": 252.73,
+   "end": 255.33,
+   "text": "Then I went to my clubhouse,"
+  },
+  {
+   "start": 256.13,
+   "end": 258.71,
+   "text": "And the club internet code there didn't work."
+  },
+  {
+   "start": 258.79,
+   "end": 259.35,
+   "text": "There's no internet."
+  },
+  {
+   "start": 260.19,
+   "end": 261.91,
+   "text": "And then I couldn't open Dreamweaver at all."
+  },
+  {
+   "start": 262.39,
+   "end": 263.49,
+   "text": "And then it says,"
+  },
+  {
+   "start": 263.89,
+   "end": 265.93,
+   "text": "Too much memory."
+  },
+  {
+   "start": 266.29,
+   "end": 266.85,
+   "text": "And I'm like, what?"
+  },
+  {
+   "start": 267.39,
+   "end": 268.33,
+   "text": "What the heck?"
+  },
+  {
+   "start": 268.87,
+   "end": 269.87,
+   "text": "So I called Apple,"
+  },
+  {
+   "start": 270.71,
+   "end": 272.57,
+   "text": "And I have, like, an old Apple."
+  },
+  {
+   "start": 272.57,
+   "end": 274.81,
+   "text": "They have me connected to, like, the beginners or whatever."
+  },
+  {
+   "start": 277.07,
+   "end": 278.61,
+   "text": "And the first guy's, like, Indian guy."
+  },
+  {
+   "start": 278.69,
+   "end": 281.17,
+   "text": "He's like, just delete as many programs as you can"
+  },
+  {
+   "start": 281.17,
+   "end": 283.43,
+   "text": "Off of your applications."
+  },
+  {
+   "start": 283.67,
+   "end": 284.19,
+   "text": "And so I did."
+  },
+  {
+   "start": 284.27,
+   "end": 285.61,
+   "text": "I deleted just all these programs,"
+  },
+  {
+   "start": 285.67,
+   "end": 286.97,
+   "text": "Like all my studio programs,"
+  },
+  {
+   "start": 287.03,
+   "end": 289.59,
+   "text": "Because I won't be using that thing forever anyway."
+  },
+  {
+   "start": 291.67,
+   "end": 292.23,
+   "text": "Restarted it."
+  },
+  {
+   "start": 292.25,
+   "end": 292.87,
+   "text": "That didn't help."
+  },
+  {
+   "start": 293.43,
+   "end": 296.01,
+   "text": "So I called Apple back just to talk to somebody else."
+  },
+  {
+   "start": 297.23,
+   "end": 298.75,
+   "text": "And she's like, the lady's like,"
+  },
+  {
+   "start": 298.81,
+   "end": 300.63,
+   "text": "Well, open up another program."
+  },
+  {
+   "start": 300.83,
+   "end": 301.83,
+   "text": "So I opened up Dreamweaver,"
+  },
+  {
+   "start": 301.89,
+   "end": 302.65,
+   "text": "And that opened up fine."
+  },
+  {
+   "start": 302.65,
+   "end": 303.37,
+   "text": "And so I'm like, oh, shit,"
+  },
+  {
+   "start": 303.43,
+   "end": 305.69,
+   "text": "I should just call Dreamweaver Adobe."
+  },
+  {
+   "start": 306.47,
+   "end": 307.51,
+   "text": "So I called Adobe,"
+  },
+  {
+   "start": 307.63,
+   "end": 308.09,
+   "text": "And I'm like,"
+  },
+  {
+   "start": 308.79,
+   "end": 310.31,
+   "text": "Dreamweaver's not opening."
+  },
+  {
+   "start": 310.69,
+   "end": 311.95,
+   "text": "Like, it just spins."
+  },
+  {
+   "start": 313.61,
+   "end": 315.99,
+   "text": "And I already installed the program."
+  },
+  {
+   "start": 317.45,
+   "end": 318.07,
+   "text": "And the guy's like,"
+  },
+  {
+   "start": 318.11,
+   "end": 319.97,
+   "text": "Oh, you need to put an older version on it."
+  },
+  {
+   "start": 320.47,
+   "end": 322.43,
+   "text": "And I deleted all the older versions."
+  },
+  {
+   "start": 322.43,
+   "end": 324.13,
+   "text": "So we went on the website,"
+  },
+  {
+   "start": 324.37,
+   "end": 324.99,
+   "text": "Or on the app,"
+  },
+  {
+   "start": 325.09,
+   "end": 329.71,
+   "text": "And I downloaded the new version,"
+  },
+  {
+   "start": 329.83,
+   "end": 331.91,
+   "text": "But then choose the other versions and say this one."
+  },
+  {
+   "start": 331.99,
+   "end": 335.05,
+   "text": "And like the very oldest of like the new ones."
+  },
+  {
+   "start": 335.07,
+   "end": 336.29,
+   "text": "And I was thinking of doing that anyway."
+  },
+  {
+   "start": 336.45,
+   "end": 338.33,
+   "text": "That's what I do sometimes when it doesn't work."
+  },
+  {
+   "start": 338.37,
+   "end": 339.33,
+   "text": "I just use an older version."
+  },
+  {
+   "start": 339.33,
+   "end": 342.03,
+   "text": "And then that opened up fine."
+  },
+  {
+   "start": 342.43,
+   "end": 343.59,
+   "text": "And it's working great."
+  },
+  {
+   "start": 343.91,
+   "end": 344.69,
+   "text": "I haven't seen,"
+  },
+  {
+   "start": 344.95,
+   "end": 345.91,
+   "text": "Checked if it'll upload,"
+  },
+  {
+   "start": 346.05,
+   "end": 347.45,
+   "text": "But it's working great."
+  },
+  {
+   "start": 347.59,
+   "end": 349.87,
+   "text": "So the guy said it was like corrupted."
+  },
+  {
+   "start": 350.65,
+   "end": 352.29,
+   "text": "Like Dreamweaver's corrupted,"
+  },
+  {
+   "start": 352.51,
+   "end": 354.61,
+   "text": "But the next update they do will fix it."
+  },
+  {
+   "start": 354.69,
+   "end": 355.07,
+   "text": "The bug."
+  },
+  {
+   "start": 355.19,
+   "end": 356.87,
+   "text": "So it was like a Dreamweaver bug."
+  },
+  {
+   "start": 357.71,
+   "end": 359.17,
+   "text": "Like gobbled up my whole day,"
+  },
+  {
+   "start": 359.23,
+   "end": 360.57,
+   "text": "And then it wouldn't even start all day."
+  },
+  {
+   "start": 360.57,
+   "end": 362.83,
+   "text": "So, yeah,"
+  },
+  {
+   "start": 362.89,
+   "end": 364.33,
+   "text": "It took me forever to finally get started,"
+  },
+  {
+   "start": 364.43,
+   "end": 365.63,
+   "text": "Because like I took a nap,"
+  },
+  {
+   "start": 365.71,
+   "end": 365.85,
+   "text": "And"
+  },
+  {
+   "start": 365.85,
+   "end": 370.45,
+   "text": "Right, so"
+  },
+  {
+   "start": 370.45,
+   "end": 372.71,
+   "text": "Yeah, so anyways, finally."
+  },
+  {
+   "start": 373.83,
+   "end": 375.63,
+   "text": "So the title of this video,"
+  },
+  {
+   "start": 376.09,
+   "end": 378.31,
+   "text": "Yesterday's video was"
+  },
+  {
+   "start": 378.31,
+   "end": 381.37,
+   "text": "Kadurveda."
+  },
+  {
+   "start": 381.63,
+   "end": 382.71,
+   "text": "I finished Kadurveda."
+  },
+  {
+   "start": 383.51,
+   "end": 385.33,
+   "text": "Today's video will be Tharvaveda."
+  },
+  {
+   "start": 385.53,
+   "end": 387.13,
+   "text": "I will finish Tharvaveda"
+  },
+  {
+   "start": 387.13,
+   "end": 388.07,
+   "text": "Before too long."
+  },
+  {
+   "start": 388.07,
+   "end": 390.55,
+   "text": "Because now the damn Dreamweaver is actually working."
+  },
+  {
+   "start": 391.57,
+   "end": 392.83,
+   "text": "It drives me crazy when it just goes,"
+  },
+  {
+   "start": 392.93,
+   "end": 396.33,
+   "text": "And then I'll do the other Vedas."
+  },
+  {
+   "start": 396.41,
+   "end": 397.55,
+   "text": "I think they won't be so long."
+  },
+  {
+   "start": 397.63,
+   "end": 399.37,
+   "text": "And then I'm going to go into the Big Kahuna."
+  },
+  {
+   "start": 405.94,
+   "end": 406.38,
+   "text": "Sophocles,"
+  },
+  {
+   "start": 406.82,
+   "end": 409.31,
+   "text": "The Greek"
+  },
+  {
+   "start": 409.31,
+   "end": 411.85,
+   "text": "Poet,"
+  },
+  {
+   "start": 412.21,
+   "end": 412.73,
+   "text": "Playwright."
+  },
+  {
+   "start": 413.45,
+   "end": 414.25,
+   "text": "He had like"
+  },
+  {
+   "start": 414.25,
+   "end": 416.95,
+   "text": "Seven books."
+  },
+  {
+   "start": 417.47,
+   "end": 418.77,
+   "text": "But each book has like"
+  },
+  {
+   "start": 420.74,
+   "end": 422.9,
+   "text": "2,500 divided by seven chapters in it,"
+  },
+  {
+   "start": 422.9,
+   "end": 425.06,
+   "text": "Because there's 2,550 some odd chapters."
+  },
+  {
+   "start": 425.64,
+   "end": 427.6,
+   "text": "And I remember when I was doing this book before,"
+  },
+  {
+   "start": 428.18,
+   "end": 431.34,
+   "text": "My memory is pretty good."
+  },
+  {
+   "start": 431.76,
+   "end": 433.02,
+   "text": "This was like five years ago."
+  },
+  {
+   "start": 433.5,
+   "end": 436.08,
+   "text": "I remember when I was working on this exact book,"
+  },
+  {
+   "start": 436.28,
+   "end": 438.14,
+   "text": "This book was one of the ones that was like,"
+  },
+  {
+   "start": 438.2,
+   "end": 438.88,
+   "text": "I was like,"
+  },
+  {
+   "start": 438.88,
+   "end": 440.68,
+   "text": "Whew,"
+  },
+  {
+   "start": 441.04,
+   "end": 442.5,
+   "text": "That computer barely did it."
+  },
+  {
+   "start": 443.5,
+   "end": 444.88,
+   "text": "Because some of these pages,"
+  },
+  {
+   "start": 445.02,
+   "end": 446.2,
+   "text": "They're like the absolute limit"
+  },
+  {
+   "start": 446.2,
+   "end": 448.18,
+   "text": "Of what my computer can do."
+  },
+  {
+   "start": 448.34,
+   "end": 448.54,
+   "text": "You know,"
+  },
+  {
+   "start": 448.58,
+   "end": 448.78,
+   "text": "Like,"
+  },
+  {
+   "start": 449.64,
+   "end": 450.98,
+   "text": "If you're looking at like Pliny"
+  },
+  {
+   "start": 450.98,
+   "end": 452.2,
+   "text": "Or one of the bigger books,"
+  },
+  {
+   "start": 452.46,
+   "end": 455.1,
+   "text": "And you see there's that like,"
+  },
+  {
+   "start": 455.24,
+   "end": 456.8,
+   "text": "That big grid around the out"
+  },
+  {
+   "start": 456.8,
+   "end": 458.44,
+   "text": "With all the different books on the end."
+  },
+  {
+   "start": 459.24,
+   "end": 459.5,
+   "text": "Well,"
+  },
+  {
+   "start": 459.54,
+   "end": 459.76,
+   "text": "Like,"
+  },
+  {
+   "start": 459.86,
+   "end": 460.84,
+   "text": "Picture one of those chat,"
+  },
+  {
+   "start": 460.9,
+   "end": 461.64,
+   "text": "One of those books."
+  },
+  {
+   "start": 461.64,
+   "end": 465.08,
+   "text": "The act of pasting that inside"
+  },
+  {
+   "start": 465.08,
+   "end": 466.76,
+   "text": "Took like three hours."
+  },
+  {
+   "start": 467.04,
+   "end": 467.64,
+   "text": "It was just like going,"
+  },
+  {
+   "start": 467.72,
+   "end": 469.5,
+   "text": "B-j-b-j-b-j-b-j-kong."
+  },
+  {
+   "start": 470.64,
+   "end": 471.88,
+   "text": "That's how slow it is."
+  },
+  {
+   "start": 472.82,
+   "end": 473.06,
+   "text": "So,"
+  },
+  {
+   "start": 473.3,
+   "end": 473.72,
+   "text": "Um,"
+  },
+  {
+   "start": 474.6,
+   "end": 475.0,
+   "text": "Anyway,"
+  },
+  {
+   "start": 475.34,
+   "end": 475.94,
+   "text": "Um,"
+  },
+  {
+   "start": 480.64,
+   "end": 483.84,
+   "text": "So I'm relieved"
+  },
+  {
+   "start": 483.84,
+   "end": 485.24,
+   "text": "That the Dreamweaver's finally working"
+  },
+  {
+   "start": 485.24,
+   "end": 486.24,
+   "text": "And then I can use,"
+  },
+  {
+   "start": 487.36,
+   "end": 487.54,
+   "text": "Oh,"
+  },
+  {
+   "start": 487.58,
+   "end": 488.66,
+   "text": "And I can back stuff up too."
+  },
+  {
+   "start": 488.76,
+   "end": 490.34,
+   "text": "I finally got my cables and stuff found."
+  },
+  {
+   "start": 491.38,
+   "end": 491.78,
+   "text": "Um,"
+  },
+  {
+   "start": 491.84,
+   "end": 493.54,
+   "text": "The electric guy has come tomorrow,"
+  },
+  {
+   "start": 493.54,
+   "end": 495.66,
+   "text": "And they're going to replace"
+  },
+  {
+   "start": 495.66,
+   "end": 497.18,
+   "text": "All of the electrical outlets."
+  },
+  {
+   "start": 497.46,
+   "end": 499.06,
+   "text": "I have to like move stuff out"
+  },
+  {
+   "start": 499.06,
+   "end": 499.86,
+   "text": "From the walls"
+  },
+  {
+   "start": 499.86,
+   "end": 501.2,
+   "text": "In my bedroom,"
+  },
+  {
+   "start": 501.32,
+   "end": 502.3,
+   "text": "Which isn't going to be fun."
+  },
+  {
+   "start": 502.52,
+   "end": 503.2,
+   "text": "Oh God."
+  },
+  {
+   "start": 504.8,
+   "end": 505.92,
+   "text": "But they'll be here at 9,"
+  },
+  {
+   "start": 506.0,
+   "end": 507.92,
+   "text": "So I got still like me up tomorrow morning."
+  },
+  {
+   "start": 508.36,
+   "end": 510.26,
+   "text": "I didn't really sleep that much today."
+  },
+  {
+   "start": 511.18,
+   "end": 512.46,
+   "text": "It's kind of like cat napping"
+  },
+  {
+   "start": 512.46,
+   "end": 513.64,
+   "text": "And I didn't sleep at all last night."
+  },
+  {
+   "start": 513.72,
+   "end": 513.84,
+   "text": "So,"
+  },
+  {
+   "start": 514.0,
+   "end": 515.92,
+   "text": "I'm going to go into the store right now"
+  },
+  {
+   "start": 515.92,
+   "end": 517.0,
+   "text": "And get an energy drink"
+  },
+  {
+   "start": 517.0,
+   "end": 518.76,
+   "text": "Because I need to exercise."
+  },
+  {
+   "start": 519.62,
+   "end": 521.1,
+   "text": "I need to exercise my back."
+  },
+  {
+   "start": 521.16,
+   "end": 521.46,
+   "text": "It's like,"
+  },
+  {
+   "start": 521.96,
+   "end": 523.28,
+   "text": "My neck is actually like,"
+  },
+  {
+   "start": 523.28,
+   "end": 524.14,
+   "text": "Legit sore."
+  },
+  {
+   "start": 524.34,
+   "end": 524.52,
+   "text": "Like,"
+  },
+  {
+   "start": 524.58,
+   "end": 525.42,
+   "text": "If I do like this,"
+  },
+  {
+   "start": 525.98,
+   "end": 527.06,
+   "text": "I can only do it that far"
+  },
+  {
+   "start": 527.06,
+   "end": 528.76,
+   "text": "And then it gets like totally sore."
+  },
+  {
+   "start": 529.8,
+   "end": 531.72,
+   "text": "I think it had something to do with the stress."
+  },
+  {
+   "start": 533.12,
+   "end": 533.48,
+   "text": "So,"
+  },
+  {
+   "start": 533.68,
+   "end": 533.94,
+   "text": "Um,"
+  },
+  {
+   "start": 534.18,
+   "end": 536.4,
+   "text": "Because I was sitting in really bizarre positions."
+  },
+  {
+   "start": 536.96,
+   "end": 539.04,
+   "text": "I was like sitting up forever"
+  },
+  {
+   "start": 539.04,
+   "end": 540.04,
+   "text": "For like hours"
+  },
+  {
+   "start": 540.04,
+   "end": 541.52,
+   "text": "And then,"
+  },
+  {
+   "start": 541.64,
+   "end": 542.02,
+   "text": "You know,"
+  },
+  {
+   "start": 542.6,
+   "end": 543.88,
+   "text": "Just staring at the computer."
+  },
+  {
+   "start": 543.88,
+   "end": 544.8,
+   "text": "It's crazy."
+  },
+  {
+   "start": 545.06,
+   "end": 545.5,
+   "text": "Like,"
+  },
+  {
+   "start": 545.56,
+   "end": 545.74,
+   "text": "I'm,"
+  },
+  {
+   "start": 545.8,
+   "end": 546.34,
+   "text": "I'm a,"
+  },
+  {
+   "start": 546.42,
+   "end": 546.8,
+   "text": "Um,"
+  },
+  {
+   "start": 547.68,
+   "end": 548.64,
+   "text": "I'm like a,"
+  },
+  {
+   "start": 548.64,
+   "end": 549.06,
+   "text": "Uh,"
+  },
+  {
+   "start": 549.64,
+   "end": 551.34,
+   "text": "Perfect specimen,"
+  },
+  {
+   "start": 551.74,
+   "end": 553.02,
+   "text": "Perfect genetic specimen."
+  },
+  {
+   "start": 553.28,
+   "end": 554.28,
+   "text": "Uh,"
+  },
+  {
+   "start": 556.26,
+   "end": 556.46,
+   "text": "I,"
+  },
+  {
+   "start": 556.52,
+   "end": 556.68,
+   "text": "I,"
+  },
+  {
+   "start": 556.76,
+   "end": 557.32,
+   "text": "Not genetic,"
+  },
+  {
+   "start": 557.58,
+   "end": 559.42,
+   "text": "But like I'm a dialed in,"
+  },
+  {
+   "start": 559.52,
+   "end": 560.86,
+   "text": "Perfectly dialed in specimen,"
+  },
+  {
+   "start": 561.04,
+   "end": 562.24,
+   "text": "Like a genetic specimen,"
+  },
+  {
+   "start": 562.42,
+   "end": 562.86,
+   "text": "Like a,"
+  },
+  {
+   "start": 563.48,
+   "end": 564.38,
+   "text": "Like a picture,"
+  },
+  {
+   "start": 564.56,
+   "end": 564.68,
+   "text": "Uh,"
+  },
+  {
+   "start": 565.86,
+   "end": 567.46,
+   "text": "Like one of those little deep sea animals"
+  },
+  {
+   "start": 567.46,
+   "end": 568.7,
+   "text": "In the bottom of the seafloor."
+  },
+  {
+   "start": 568.8,
+   "end": 570.66,
+   "text": "They're like specific to that environment."
+  },
+  {
+   "start": 570.66,
+   "end": 574.72,
+   "text": "I am specific to the environment of,"
+  },
+  {
+   "start": 574.72,
+   "end": 575.14,
+   "text": "Uh,"
+  },
+  {
+   "start": 575.34,
+   "end": 576.58,
+   "text": "Just sitting in bed all day long,"
+  },
+  {
+   "start": 576.66,
+   "end": 577.3,
+   "text": "Cutting and pasting."
+  },
+  {
+   "start": 577.38,
+   "end": 579.66,
+   "text": "But if the computer starts spinning around,"
+  },
+  {
+   "start": 579.72,
+   "end": 580.06,
+   "text": "I'm like,"
+  },
+  {
+   "start": 580.1,
+   "end": 580.5,
+   "text": "Oh shit."
+  },
+  {
+   "start": 581.46,
+   "end": 582.0,
+   "text": "You know,"
+  },
+  {
+   "start": 582.04,
+   "end": 582.62,
+   "text": "I can't,"
+  },
+  {
+   "start": 582.72,
+   "end": 585.2,
+   "text": "It's not like I'm going to like clean my room"
+  },
+  {
+   "start": 585.2,
+   "end": 589.08,
+   "text": "Or do pushups or like stretch or do something."
+  },
+  {
+   "start": 589.4,
+   "end": 589.78,
+   "text": "No,"
+  },
+  {
+   "start": 589.84,
+   "end": 591.9,
+   "text": "I'll just sit here and look at the goddamn screen."
+  },
+  {
+   "start": 591.9,
+   "end": 592.3,
+   "text": "I'd be like,"
+  },
+  {
+   "start": 592.36,
+   "end": 592.96,
+   "text": "You motherfucker."
+  },
+  {
+   "start": 592.96,
+   "end": 595.52,
+   "text": "So that's kind of,"
+  },
+  {
+   "start": 595.76,
+   "end": 597.9,
+   "text": "I think I was sitting up and moving."
+  },
+  {
+   "start": 598.2,
+   "end": 598.48,
+   "text": "Yeah."
+  },
+  {
+   "start": 598.82,
+   "end": 599.66,
+   "text": "Sitting too much."
+  },
+  {
+   "start": 599.78,
+   "end": 601.04,
+   "text": "So anyways,"
+  },
+  {
+   "start": 601.16,
+   "end": 602.46,
+   "text": "So I'm going to go do the store,"
+  },
+  {
+   "start": 602.74,
+   "end": 603.64,
+   "text": "Get some candy."
+  },
+  {
+   "start": 603.8,
+   "end": 604.88,
+   "text": "I got my taffy candy."
+  },
+  {
+   "start": 606.56,
+   "end": 608.4,
+   "text": "I have to pay my taxes too."
+  },
+  {
+   "start": 608.92,
+   "end": 609.88,
+   "text": "I have to go to the dentist,"
+  },
+  {
+   "start": 610.0,
+   "end": 610.66,
+   "text": "Pay my taxes."
+  },
+  {
+   "start": 611.16,
+   "end": 613.36,
+   "text": "And then there's some other important thing that I have to do,"
+  },
+  {
+   "start": 613.4,
+   "end": 617.18,
+   "text": "But I'm trying to get some goddamn fucking headway on this."
+  },
+  {
+   "start": 617.18,
+   "end": 620.2,
+   "text": "Cause I've been having so many snafus."
+  },
+  {
+   "start": 620.42,
+   "end": 623.18,
+   "text": "So I'm just going to bust nuts all night tonight."
+  },
+  {
+   "start": 623.18,
+   "end": 623.9,
+   "text": "And hopefully,"
+  },
+  {
+   "start": 624.16,
+   "end": 627.3,
+   "text": "Hopefully the computer,"
+  },
+  {
+   "start": 627.44,
+   "end": 627.58,
+   "text": "Yeah,"
+  },
+  {
+   "start": 627.6,
+   "end": 629.54,
+   "text": "I'll be able to make progress and be happy."
+  },
+  {
+   "start": 630.16,
+   "end": 631.5,
+   "text": "When those guys get here,"
+  },
+  {
+   "start": 631.52,
+   "end": 632.5,
+   "text": "I'll probably be up all night."
+  },
+  {
+   "start": 632.88,
+   "end": 633.86,
+   "text": "They can get here at nine."
+  },
+  {
+   "start": 634.36,
+   "end": 636.88,
+   "text": "I'll be like barely awake when I move the stuff off."
+  },
+  {
+   "start": 636.88,
+   "end": 637.2,
+   "text": "And like,"
+  },
+  {
+   "start": 637.2,
+   "end": 638.1,
+   "text": "Maybe I'll pass out."
+  },
+  {
+   "start": 638.1,
+   "end": 639.4,
+   "text": "And when they're in my bedroom,"
+  },
+  {
+   "start": 639.54,
+   "end": 641.52,
+   "text": "Replacing all my outlets,"
+  },
+  {
+   "start": 641.64,
+   "end": 643.72,
+   "text": "I'll be like sleeping on the couch or something."
+  },
+  {
+   "start": 643.86,
+   "end": 644.34,
+   "text": "I don't know."
+  },
+  {
+   "start": 644.34,
+   "end": 646.0,
+   "text": "Um,"
+  },
+  {
+   "start": 646.2,
+   "end": 647.5,
+   "text": "Yeah."
+  },
+  {
+   "start": 647.78,
+   "end": 648.18,
+   "text": "Um,"
+  },
+  {
+   "start": 648.66,
+   "end": 650.12,
+   "text": "So,"
+  },
+  {
+   "start": 650.32,
+   "end": 650.62,
+   "text": "Uh,"
+  },
+  {
+   "start": 650.84,
+   "end": 652.24,
+   "text": "I'm kind of like,"
+  },
+  {
+   "start": 652.26,
+   "end": 652.64,
+   "text": "Not,"
+  },
+  {
+   "start": 652.78,
+   "end": 654.2,
+   "text": "My brain is scrambled,"
+  },
+  {
+   "start": 654.2,
+   "end": 655.2,
+   "text": "Um,"
+  },
+  {
+   "start": 655.2,
+   "end": 655.66,
+   "text": "Right now."
+  },
+  {
+   "start": 656.5,
+   "end": 657.34,
+   "text": "I'm not,"
+  },
+  {
+   "start": 657.34,
+   "end": 657.7,
+   "text": "Uh,"
+  },
+  {
+   "start": 657.7,
+   "end": 658.72,
+   "text": "In the mood to really,"
+  },
+  {
+   "start": 658.8,
+   "end": 659.5,
+   "text": "To listen to books."
+  },
+  {
+   "start": 659.52,
+   "end": 660.56,
+   "text": "And I kind of realized"
+  },
+  {
+   "start": 660.56,
+   "end": 663.3,
+   "text": "That I got really,"
+  },
+  {
+   "start": 663.3,
+   "end": 668.64,
+   "text": "I'm not really in the mood to listen to books until I fix these motherfuckers up on my website."
+  },
+  {
+   "start": 669.72,
+   "end": 670.92,
+   "text": "Cause like most of them,"
+  },
+  {
+   "start": 671.04,
+   "end": 672.42,
+   "text": "A lot of them,"
+  },
+  {
+   "start": 672.6,
+   "end": 674.14,
+   "text": "Like most of them,"
+  },
+  {
+   "start": 674.14,
+   "end": 674.56,
+   "text": "I don't know,"
+  },
+  {
+   "start": 674.62,
+   "end": 675.5,
+   "text": "A whole lot of them."
+  },
+  {
+   "start": 675.5,
+   "end": 676.22,
+   "text": "You look at the,"
+  },
+  {
+   "start": 676.22,
+   "end": 677.36,
+   "text": "Uh,"
+  },
+  {
+   "start": 677.44,
+   "end": 679.22,
+   "text": "The menu and it has the data,"
+  },
+  {
+   "start": 679.38,
+   "end": 682.56,
+   "text": "The pages and the time for the chapters and you go to the chapter and there's nothing."
+  },
+  {
+   "start": 682.56,
+   "end": 683.04,
+   "text": "And I think,"
+  },
+  {
+   "start": 683.38,
+   "end": 684.18,
+   "text": "Yeah,"
+  },
+  {
+   "start": 684.18,
+   "end": 687.02,
+   "text": "So I'm going to fix all those 100%."
+  },
+  {
+   "start": 687.02,
+   "end": 687.54,
+   "text": "Okay."
+  },
+  {
+   "start": 687.54,
+   "end": 690.58,
+   "text": "So now I'm going to go to the store before it gets too dark and cold or whatever,"
+  },
+  {
+   "start": 691.18,
+   "end": 692.3,
+   "text": "Get an energy drink,"
+  },
+  {
+   "start": 692.6,
+   "end": 693.18,
+   "text": "Just sit up,"
+  },
+  {
+   "start": 693.26,
+   "end": 694.82,
+   "text": "Smoke as much weed as I can."
+  },
+  {
+   "start": 695.36,
+   "end": 696.36,
+   "text": "I got a bunch of weed,"
+  },
+  {
+   "start": 696.42,
+   "end": 697.7,
+   "text": "But it's kind of like harsh on the lungs."
+  },
+  {
+   "start": 697.8,
+   "end": 699.46,
+   "text": "It makes my lungs tickle and itch."
+  },
+  {
+   "start": 700.46,
+   "end": 701.18,
+   "text": "Give me asthma."
+  },
+  {
+   "start": 701.18,
+   "end": 702.66,
+   "text": "But I think I'm going to go to the store,"
+  },
+  {
+   "start": 702.78,
+   "end": 704.2,
+   "text": "Drink an energy drink as fast as I can."
+  },
+  {
+   "start": 704.26,
+   "end": 705.04,
+   "text": "Cause I sip up too much,"
+  },
+  {
+   "start": 705.72,
+   "end": 707.2,
+   "text": "Smoke as much weed as I can."
+  },
+  {
+   "start": 707.34,
+   "end": 707.92,
+   "text": "And then I'm just,"
+  },
+  {
+   "start": 708.04,
+   "end": 708.2,
+   "text": "Yeah,"
+  },
+  {
+   "start": 708.24,
+   "end": 710.22,
+   "text": "Going to get going on this dream weaver again."
+  },
+  {
+   "start": 710.34,
+   "end": 712.32,
+   "text": "And I mean the computer again."
+  },
+  {
+   "start": 712.32,
+   "end": 714.8,
+   "text": "And I'm glad that that wasn't really my fault."
+  },
+  {
+   "start": 714.94,
+   "end": 715.4,
+   "text": "It was like,"
+  },
+  {
+   "start": 715.4,
+   "end": 716.16,
+   "text": "The guy was like,"
+  },
+  {
+   "start": 716.16,
+   "end": 716.5,
+   "text": "Oh yeah,"
+  },
+  {
+   "start": 716.54,
+   "end": 718.36,
+   "text": "We're having dream weaver glitches right now."
+  },
+  {
+   "start": 718.5,
+   "end": 718.58,
+   "text": "So,"
+  },
+  {
+   "start": 719.64,
+   "end": 720.0,
+   "text": "Um,"
+  },
+  {
+   "start": 720.32,
+   "end": 720.9,
+   "text": "And that's you,"
+  },
+  {
+   "start": 720.98,
+   "end": 722.2,
+   "text": "That is what I do a lot of times."
+  },
+  {
+   "start": 722.2,
+   "end": 723.1,
+   "text": "Whenever there's problems,"
+  },
+  {
+   "start": 723.1,
+   "end": 724.92,
+   "text": "You just use the older version of the program."
+  },
+  {
+   "start": 725.44,
+   "end": 725.84,
+   "text": "Anyways,"
+  },
+  {
+   "start": 725.88,
+   "end": 726.52,
+   "text": "Enough babbling."
+  },
+  {
+   "start": 727.0,
+   "end": 727.88,
+   "text": "Talk to you tomorrow."
+  },
+  {
+   "start": 728.38,
+   "end": 730.98,
+   "text": "Hopefully tomorrow when I do my video on the 30th or whatever,"
+  },
+  {
+   "start": 730.98,
+   "end": 733.98,
+   "text": "I'll be like happy about how I made progress."
+  },
+  {
+   "start": 733.98,
+   "end": 736.82,
+   "text": "Cause I just gobbled up a whole fucking like two days."
+  },
+  {
+   "start": 736.94,
+   "end": 738.12,
+   "text": "I'm casual."
+  },
+  {
+   "start": 738.34,
+   "end": 739.54,
+   "text": "Like Jesus Christ."
+  },
+  {
+   "start": 741.95,
+   "end": 742.35,
+   "text": "Alrighty."
+  },
+  {
+   "start": 742.59,
+   "end": 743.77,
+   "text": "So talk to you tomorrow."
+  }
+ ]
+}
