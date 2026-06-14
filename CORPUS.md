@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-3098 videos with transcripts. Source of truth for transcripts + enrichments.
+3320 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -69,21 +69,243 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2020-04-15 | [I hope Donald Trump dies of Coronavirus JOE ROGAN!](corpus/videos/yy1m4Ices9s.json) | kyle | Kyle delivers a lengthy political rant explaining why he hopes Donald Trump dies of COVID-19, arguing it would break the |
 | 2020-04-07 | [Aliens vs Ancient Civilizations vs Giants & Atlantis & such](corpus/videos/1GM2rxKnmKE.json) | kyle | Kyle shares his personal theories on Atlantis, giants, and alien involvement in ancient history. He argues Atlantis was  |
 | 2020-02-04 | [12,000 up to 54,853 people in India on my site in 20 minutes, THEN 70 ](corpus/videos/brGvU89RHc8.json) | kyle | Kyle watches his real-time analytics tool show an explosive surge of visitors from India on his website, climbing from r |
+| 2020-01-13 | [1/13/20 Turn comments back on dudes. FOR KIDS](corpus/videos/dRp4fRhm6O0.json) | — |  |
+| 2020-01-11 | [1/11/20 Enable my Comments you Anti American YouTube Dooshbags!!! FOR ](corpus/videos/u8M04IMnoj8.json) | — |  |
+| 2020-01-09 | [1/9/20 Turn my comments on YouTube you BASTARDS!!!](corpus/videos/4foM9ELsOxM.json) | — |  |
 | 2020-01-09 | [YouTube disabled my comments on my vlog channel. My plan for retaliati](corpus/videos/QxwEp9_n1qs.json) | kyle | Kyle explains that YouTube disabled comments on his vlog channel after he designated it as a kids channel under new FCC  |
+| 2020-01-08 | [1/8/20 Turn my comments back on YouTube you Psychos! FOR KIDS](corpus/videos/Bbq5xGZXyOo.json) | — |  |
+| 2020-01-07 | [1/7/20  Turn my Comments back on YouTube!!! FOR KIDS](corpus/videos/XfbNHW5z2vs.json) | — |  |
+| 2020-01-06 | [1/6/20 Google Earthing Region 7 Ancient Rome FOR KIDS](corpus/videos/e7gxaH4nPJE.json) | — |  |
+| 2020-01-05 | [1/5/20 Google Earthing Regions 6 & 7 Ancient Rome FOR KIDS](corpus/videos/0Ypt9BUYBGw.json) | — |  |
+| 2020-01-04 | [1/4/20 Google Earthing Region 6 of Ancient Rome FOR KIDS](corpus/videos/r9e-Yd8U_UA.json) | — |  |
+| 2020-01-03 | [1/3/20 Google Earthing Region 2 & 3 of Ancient Rome FOR KIDS](corpus/videos/X6P8JW5Fd2w.json) | — |  |
+| 2020-01-02 | [1/2/20 Google Earthing Region 2 Ancient Rome FOR KIDS](corpus/videos/FJQc3VmHES8.json) | — |  |
+| 2020-01-01 | [1/1/20 Renovating House](corpus/videos/E0Gk5hFwbCQ.json) | — |  |
+| 2019-12-26 | [12/26/19 Google Earthing Region 2 Ancient Rome FOR KIDS](corpus/videos/CSVGUxxvOqU.json) | — |  |
+| 2019-12-25 | [12/25/19 Google Earthing Region 2 Rome](corpus/videos/SESRoh8bhYQ.json) | — |  |
+| 2019-12-24 | [12/24/19 Google Earthing Region 2](corpus/videos/2EuW__bMHqw.json) | — |  |
+| 2019-12-23 | [12/23/19 Google Earthing Region 2 of Rome](corpus/videos/pOehs82w7-U.json) | — |  |
+| 2019-12-22 | [12/22/19 Google Earthing Baths of Trajan FOR KIDS](corpus/videos/gkO_ACf2akI.json) | — |  |
+| 2019-12-21 | [12/21/19 Google Earthing Baths of Titus FOR KIDS](corpus/videos/QfnqclDGT6E.json) | — |  |
+| 2019-12-20 | [12/20/19 Google Earthing Baths of Titis FOR KIDS](corpus/videos/UJEqFYF8P8U.json) | — |  |
+| 2019-12-19 | [12/19/19 Google Earthing Baths of Trajan FOR KIDS](corpus/videos/MFe_O3599ns.json) | — |  |
+| 2019-12-18 | [12/18/19 Google Earthing Baths of Trajan](corpus/videos/vfbDKFTUglQ.json) | — |  |
+| 2019-12-17 | [12/17/19 Google Earthing Baths of Trajan](corpus/videos/8iJfHQpSSNY.json) | — |  |
+| 2019-12-16 | [12/16/19 Google Earthing House of Nero FOR KIDS](corpus/videos/ZCggZqSSRoA.json) | — |  |
+| 2019-12-15 | [12/15/19 Google Earthing House of Nero FOR KIDS](corpus/videos/0UhEFpmLfnY.json) | — |  |
+| 2019-12-14 | [12/14/19 Google Earthing House of Nero FOR KIDS](corpus/videos/Fvd4eKtrgZE.json) | — |  |
+| 2019-12-13 | [12/13/19 Google Earthing House of Nero FOR KIDS](corpus/videos/7VV-Ke96DCQ.json) | — |  |
+| 2019-12-12 | [12/12/19 Google Earthing House of Nero FOR KIDS](corpus/videos/Kp4hSwMeOBY.json) | — |  |
+| 2019-12-11 | [12/11/19 Google Earthing Baths of Trajan FOR KIDS](corpus/videos/s0gVScRmCQQ.json) | — |  |
+| 2019-12-10 | [12/10/19 Google Earthing Baths of Caracalla  FOR KIDS](corpus/videos/0G_s_SSf2WU.json) | — |  |
+| 2019-12-09 | [12/9/19 Google Earthing Baths of Caracalla FOR KIDS](corpus/videos/UZjhB3Ze_Sw.json) | — |  |
+| 2019-12-08 | [12/8/19 Google Earthing Baths of Caracalla FOR KIDS](corpus/videos/4em2_KN3Vi4.json) | — |  |
+| 2019-12-07 | [12/7/19 Google Earthing Baths of Caracalla FOR KIDS](corpus/videos/c60YuS3LYR0.json) | — |  |
+| 2019-12-06 | [12/6/19 Google Earthing Baths of Caracalla FOR KIDS](corpus/videos/j7-Yi8YjF5Q.json) | — |  |
+| 2019-12-05 | [12/5/19 Google Earthing Baths of Caracalla FOR KIDS](corpus/videos/meD730Z8dH4.json) | — |  |
+| 2019-12-04 | [12/4/19 Google Earthing Baths of Caracalla FOR KIDS](corpus/videos/mCfVy15wNdU.json) | — |  |
+| 2019-12-03 | [12/3/19 Google Earthing Baths of Caracalla FOR KIDS](corpus/videos/5kx_dFLc0Nc.json) | — |  |
+| 2019-12-02 | [12/2/19 Google Earthing Baths of Caracalla](corpus/videos/NjBL4o_ZNOo.json) | — |  |
+| 2019-12-02 | [12/2/19 Google Earthing Baths of Caracalla](corpus/videos/WJELh2_zrMY.json) | — |  |
+| 2019-12-01 | [12/1/19 Google Earthing Spanish Steps, 5 hr Tour & Baths of Caracalla ](corpus/videos/cnKuVSzJdBU.json) | — |  |
+| 2019-12-01 | [12/1/19 Google Earthing Baths of Caracalla](corpus/videos/oavHO_zt_hY.json) | — |  |
+| 2019-11-30 | [11/30/19 Google Earthing Roman Tours & Stuff](corpus/videos/EhmggWb_qho.json) | — |  |
+| 2019-11-29 | [11/29/19 Google Earthing Baths of Caracalla & 4K Roman Tours](corpus/videos/RDyNi1BHelY.json) | — |  |
+| 2019-11-28 | [11/28/19 Google Earthing Baths of Caracalla](corpus/videos/3VNbmhaHFfw.json) | — |  |
+| 2019-11-28 | [11/28/19 Google Earthing Baths of Caracalla](corpus/videos/P_n5o7Q6wKs.json) | — |  |
+| 2019-11-27 | [11/27/19 Google Earthing Baths of Caracalla](corpus/videos/XFszRsxxKcI.json) | — |  |
+| 2019-11-26 | [11/26/19 Google Earthing Baths of Diocletian](corpus/videos/FcyegpvORQs.json) | — |  |
+| 2019-11-25 | [11/25/19 Google Earthing Baths of Diocletian Region 6 Rome](corpus/videos/iK0V4C0y1yk.json) | — |  |
+| 2019-11-24 | [11/24/19 Google Earthing Region 6 Baths of Diocletian](corpus/videos/tjTwXALmqXI.json) | — |  |
+| 2019-11-23 | [11/23/19 Google Earthing Region 6 Rome Trajans market](corpus/videos/6HzsIKNLxfA.json) | — |  |
+| 2019-11-21 | [11/21/19 Google Earthing Roman Forum in Rome](corpus/videos/NG1rm95hpoU.json) | — |  |
+| 2019-11-20 | [11/20/19 Google Earthing Roman Pantheon & Column of Trajan](corpus/videos/DyR3rZ6Mm60.json) | — |  |
+| 2019-11-19 | [11/19/19 Google Earthed Column of Aurelius & Pantheon](corpus/videos/HxHXfICmg5M.json) | — |  |
+| 2019-11-18 | [11/18/19 Google Earthing Roman Region 9 Circus Flaminius](corpus/videos/1HAuhps8-F0.json) | — |  |
+| 2019-11-17 | [11/17/19 Google Earthing Region 9 Circus Flaminius](corpus/videos/HKklMBLd0Gw.json) | — |  |
+| 2019-11-15 | [11/15/19 Google Earthing Circus Maximus & Circus Flaminius Regions](corpus/videos/NkwW1kCKbZA.json) | — |  |
+| 2019-11-14 | [11/14/19 Google Earthing Circus Maximus](corpus/videos/oDqcATz7Lrk.json) | — |  |
+| 2019-11-13 | [11/13/19 Google Earthing Circus Maximus](corpus/videos/KM4CRTjulgk.json) | — |  |
+| 2019-11-12 | [11/12/19 Google Earthing Circus Maximus](corpus/videos/j5stm1PVtnI.json) | — |  |
+| 2019-11-11 | [11/11/19 Google Earthing Circus Maximus!!!](corpus/videos/Ybsv9ETK97s.json) | — |  |
+| 2019-11-09 | [11/9/19 Google Earthing Roman Palace](corpus/videos/rxvIAigNXMo.json) | — |  |
+| 2019-11-08 | [11/8/19 Google Earthing Roman Palace](corpus/videos/6qyh0f0bdjs.json) | — |  |
+| 2019-11-07 | [11/7/19 Google Earthing Roman Palace](corpus/videos/olIYypXcxB4.json) | — |  |
+| 2019-11-06 | [11/6/19 Google Earthing Roman Palace & Aqueduct](corpus/videos/1EgxVomMeS4.json) | — |  |
+| 2019-11-05 | [11/5/19 Google Earthing Roman Palace & Aqueduct](corpus/videos/QXF8tyUF0fk.json) | — |  |
+| 2019-11-04 | [11/4/19 Google Earthing Roman Palace](corpus/videos/kovQTkerO4g.json) | — |  |
+| 2019-11-03 | [11/3/19 Google Earthing Roman Palace](corpus/videos/gLX2_R4Wr4E.json) | — |  |
+| 2019-11-02 | [11/2/19 Google Earthing Roman Palace](corpus/videos/7NZ780CTEmA.json) | — |  |
+| 2019-11-01 | [11/1/19 Google Earthing Roman Palace!](corpus/videos/4iu6yk3XLjg.json) | — |  |
+| 2019-10-31 | [10/31/19 Google Earthing Rome: Palace](corpus/videos/IOJ8vgRix4E.json) | — |  |
+| 2019-10-30 | [10/30/19 Google Earth Roman Palace](corpus/videos/-FCSpmFVQFM.json) | — |  |
+| 2019-10-29 | [10/29/19 Google Earthing Rome: Palantium](corpus/videos/Ssbv1pz3-QU.json) | — |  |
+| 2019-10-28 | [10/28/19 US Law Code & Roman Aqueducts](corpus/videos/OMBQXsM7D0w.json) | — |  |
+| 2019-10-27 | [10/27/19 US Law Code Title 16 & Google Earthing Roman Aqueducts](corpus/videos/yzpqZiuCHX4.json) | — |  |
+| 2019-10-26 | [10/26/19 Google Earthing Roman Aqueducts](corpus/videos/Hbw3s5lWv90.json) | — |  |
+| 2019-10-25 | [10/25/19 US Law Code Title 15 & Google Earthing Roman Aqueducts](corpus/videos/BL8qNZVuV1E.json) | — |  |
+| 2019-10-24 | [10/24/19 US Law Code & Google Earth Roman Aqueducts: Double Doozying i](corpus/videos/PvyS8ANT9Nw.json) | — |  |
+| 2019-10-23 | [10/23/19 US Law Code & Google Earthing Roman Aqueducts](corpus/videos/-VJp5zHBoDA.json) | — |  |
+| 2019-10-22 | [10/22/19 US Law Code Title 7](corpus/videos/fNPzdeph5VY.json) | — |  |
+| 2019-10-21 | [10/21/19 US Law Code](corpus/videos/GwJUrlvcpxE.json) | — |  |
+| 2019-10-20 | [10/20/19 US Law Code](corpus/videos/GAvGP7fkYeo.json) | — |  |
+| 2019-10-19 | [10/19/19 US Law Code ha ha](corpus/videos/Ou7phcGdNts.json) | — |  |
+| 2019-10-18 | [10/18/19 Ancestors Page & US Law Code](corpus/videos/GVjjDaTB_sg.json) | — |  |
+| 2019-10-17 | [10/17/19 Ancestors Page](corpus/videos/Q9UfrngXpGg.json) | — |  |
+| 2019-10-16 | [10/16/19 Ancestors Page](corpus/videos/mq8qTPZ2DVw.json) | — |  |
+| 2019-10-15 | [10/15/19 Ancestors Page](corpus/videos/sR_QuLHZKB0.json) | — |  |
+| 2019-10-14 | [10/14/19 Ancestors Page](corpus/videos/CWRZExDNEX4.json) | — |  |
+| 2019-10-13 | [10/13/19 Ancestors Page](corpus/videos/ygZWt0fE1YE.json) | — |  |
+| 2019-10-12 | [10/12/19 Religious Statistics Page](corpus/videos/9doOzT-ZBnY.json) | — |  |
+| 2019-10-10 | [10/10/19 Religious Statistics Page](corpus/videos/kYNYFRDYPRc.json) | — |  |
+| 2019-10-09 | [10/9/19 Religious Statistics Page](corpus/videos/_B9g43aKkCE.json) | — |  |
+| 2019-10-08 | [10/8/19 Religious Statistics Page](corpus/videos/bry-jNuCxTc.json) | — |  |
+| 2019-10-07 | [10/7/19 Religious Statistics Page](corpus/videos/MfWYfzd0ca8.json) | — |  |
+| 2019-10-06 | [10/6/19 Religious Statistics Page](corpus/videos/XHqml5rCe8s.json) | — |  |
+| 2019-10-05 | [10/5/19 Religious Statistics Page](corpus/videos/cv9lAaTXz5o.json) | — |  |
+| 2019-10-04 | [10/4/19 Fixing links on Lists page](corpus/videos/IkKpHjLDaZg.json) | — |  |
+| 2019-10-03 | [10/3/19 Fighter Levels Page Fonts](corpus/videos/7mKTKfeh5Ak.json) | — |  |
+| 2019-10-02 | [10/2/19 Fighter Levels Page](corpus/videos/v9lJRaEX6RY.json) | — |  |
+| 2019-10-01 | [10/1/19 Fighter Levels Page & Removing ads & fixing pages](corpus/videos/_ws6WWT2Mzc.json) | — |  |
+| 2019-09-30 | [9/30/19 Fighter Levels Page](corpus/videos/OraEVH8kqds.json) | — |  |
+| 2019-09-29 | [9/29/19 Timeline Asian Kingdoms](corpus/videos/Vpmkjb9Tx3I.json) | — |  |
+| 2019-09-29 | [9/29/19 Fighter Levels Page](corpus/videos/i7vPs98TZtE.json) | — |  |
+| 2019-09-28 | [9/28/19 Timeline, Fighter levels Page](corpus/videos/lC-iFeaS5QM.json) | — |  |
+| 2019-09-26 | [9/26/19 Timeline SE Asian City States](corpus/videos/Tm7g1k6XISs.json) | — |  |
+| 2019-09-25 | [9/25/19 Timeline SE Asia](corpus/videos/sbpxSOL0Sq0.json) | — |  |
+| 2019-09-24 | [9/24/19 Timeline Asia Mom making me help her](corpus/videos/C83RsoliDHw.json) | — |  |
+| 2019-09-23 | [9/23/19 Timeline Asian Kingdoms](corpus/videos/DOiaCuuzlI4.json) | — |  |
+| 2019-09-22 | [9/22/19 Adding King's Lists to Asian Kingdoms](corpus/videos/vC8hi_LeQVA.json) | — |  |
+| 2019-09-21 | [9/21/19 Timeline: East Europe 1500-2000 among other pages](corpus/videos/SIwOpssKodQ.json) | — |  |
+| 2019-09-20 | [9/20/19 Timeline Links & Kings List](corpus/videos/LK6JdREcub0.json) | — |  |
+| 2019-09-19 | [9/19/19 Timeline: Link IDs for Kings](corpus/videos/FE17jiq6xK0.json) | — |  |
+| 2019-09-17 | [9/17/19 Montesquieu, Book of Enki, Democracy in Crisis for Website](corpus/videos/6lmFxAcmv5s.json) | — |  |
+| 2019-09-16 | [9/16/19 Timeline, Montesquieu for my site](corpus/videos/FnKudQTXpp8.json) | — |  |
+| 2019-09-14 | [9/14/19 Timeline Links & CSS font table &  linking](corpus/videos/RF4YcEeSY_s.json) | — |  |
+| 2019-09-13 | [9/13/19 Timeline Links](corpus/videos/0vzmUgPhsSg.json) | — |  |
+| 2019-09-12 | [9/12/19 Timeline Links](corpus/videos/uVujn30UBcg.json) | — |  |
+| 2019-09-11 | [9/11/19 Timeline Haplogroups](corpus/videos/sVv_tLj2pgo.json) | — |  |
+| 2019-09-09 | [9/9/19 Timeline Egypt](corpus/videos/io3cQjWLEfQ.json) | — |  |
+| 2019-09-07 | [9/7/19 Timeline West Asia BC](corpus/videos/rS34WI3UG6c.json) | — |  |
+| 2019-09-06 | [9/6/19 Timeline 500 Column Pages](corpus/videos/YhXW4iXjhcU.json) | — |  |
+| 2019-09-04 | [9/4/19 Timeline](corpus/videos/tERvATXwDzg.json) | — |  |
+| 2019-09-03 | [9/3/19 Timeline](corpus/videos/ylIPa_T6yEI.json) | — |  |
+| 2019-09-01 | [9/1/19 Ancient History Timeline](corpus/videos/Nqigx3I3pr4.json) | — |  |
+| 2019-08-31 | [8/31/19 Timeline Ancient History](corpus/videos/wQnolBXZtLs.json) | — |  |
+| 2019-08-29 | [8/29/19 Ancient History Timeline](corpus/videos/v-X14Zp3qDc.json) | — |  |
+| 2019-08-28 | [8/28/19](corpus/videos/A4S8WbI8QPs.json) | — |  |
+| 2019-08-28 | [8/28/19 7 Hills of Rome Google Earthing](corpus/videos/ySf0QgPXkjs.json) | — |  |
+| 2019-08-26 | [8/26/19 Timeline Kings Tables](corpus/videos/HLOd-EtUNT0.json) | — |  |
+| 2019-08-25 | [8/25/19 Timeline Tables for King’s](corpus/videos/h-_BHklvfEc.json) | — |  |
+| 2019-08-24 | [8/24/19 Timeline Links](corpus/videos/xQUBldEQgJc.json) | — |  |
+| 2019-08-23 | [8/23/19 Timeline](corpus/videos/0B1omjVdCKs.json) | — |  |
+| 2019-08-22 | [8/22/19 Timeline](corpus/videos/cDzV06fcZAU.json) | — |  |
+| 2019-08-21 | [8/21/19 Timeline East Europe & Asia](corpus/videos/XOaQKJ9bQ4g.json) | — |  |
+| 2019-08-19 | [8/19/19 Timeline: Japan & China](corpus/videos/oeZAsKHqrpA.json) | — |  |
+| 2019-08-18 | [8/18/19 Timeline, Concert Festival](corpus/videos/p6qThxizJKE.json) | — |  |
+| 2019-08-17 | [8/17/19 Timeline](corpus/videos/_LCyjyDFHDQ.json) | — |  |
+| 2019-08-16 | [8/16/19 Timeline](corpus/videos/dI2oe7fJoHE.json) | — |  |
+| 2019-08-15 | [8/15/19 Timeline](corpus/videos/UP2aB6OWLWg.json) | — |  |
+| 2019-08-15 | [8/15/19 Timeline](corpus/videos/wlY4Z4khAWE.json) | — |  |
+| 2019-08-14 | [8/14/19 Timeline Links](corpus/videos/jFTpRW-N-sM.json) | — |  |
+| 2019-08-14 | [8/14/19 Timeline Links](corpus/videos/m6g0EZuzt7E.json) | — |  |
+| 2019-08-12 | [8/12/19 Timeline Country Links](corpus/videos/DRQSBRYrxcg.json) | — |  |
+| 2019-08-11 | [8/11/19 Google Earthing BouldeRome](corpus/videos/WIL6EjVVj1s.json) | — |  |
+| 2019-08-10 | [8/10/19 Google Earthing BouldeRome](corpus/videos/W13D3vY0dGw.json) | — |  |
+| 2019-08-09 | [8/9/19 Google Earthing BouldeRome](corpus/videos/rdPAm189jIk.json) | — |  |
+| 2019-08-07 | [8/7/19 Google Earthing BouldeRome](corpus/videos/-2oRHBIO6z4.json) | — |  |
+| 2019-08-07 | [8/7/19 Google Earth BouldeRome Page](corpus/videos/l413ecQ1AnA.json) | — |  |
+| 2019-08-06 | [8/6/19 Google Earth BouldeRome](corpus/videos/PrWQ6qlLq_U.json) | — |  |
+| 2019-08-05 | [8/5/19 Google Earth BouldeRome Page](corpus/videos/sGhMpkVyZxE.json) | — |  |
+| 2019-08-04 | [8/4/19 Google Earth BoulderRome Page](corpus/videos/WlkwQf-lQsA.json) | — |  |
+| 2019-08-03 | [8/3/19 Google Earth Boulder History Page](corpus/videos/mRQrewYMOcw.json) | — |  |
+| 2019-08-02 | [8/2/19 Ancient History Timeline](corpus/videos/W0FfCABgPlU.json) | — |  |
+| 2019-08-02 | [8/2/19 Google Earth Boulder History Page](corpus/videos/whkBcLsrvtc.json) | — |  |
+| 2019-08-01 | [8/1/19 Google Earth Boulder History Page](corpus/videos/g1KzyYZvLUk.json) | — |  |
+| 2019-07-30 | [7/30/19 Google Earth Boulder History Page](corpus/videos/GwTiV7DL7OE.json) | — |  |
+| 2019-07-28 | [7/28/19 Google Earth Boulder History Page](corpus/videos/0W8vv8dpBrs.json) | — |  |
+| 2019-07-27 | [7/27/19 Google Earth Boulder History Page](corpus/videos/MnfxGP_DH1E.json) | — |  |
+| 2019-07-26 | [7/26/19 Google Earth Battles Page](corpus/videos/lOsF9wpofeI.json) | — |  |
+| 2019-07-25 | [7/25/19 Google Earth Battles Page](corpus/videos/VYfC_cAfzTU.json) | — |  |
+| 2019-07-24 | [7/24/19 Google Earth Battles Page](corpus/videos/54LU-ISjsDI.json) | — |  |
+| 2019-07-23 | [7/23/19 Google Earth Battles Page](corpus/videos/srvg84Ov1r0.json) | — |  |
+| 2019-07-22 | [7/22/19 Google Earth Battles Page](corpus/videos/Sa9WunsOkic.json) | — |  |
+| 2019-07-21 | [7/21/19 Google Earth Battle Page Links](corpus/videos/UbOkrhqVzVo.json) | — |  |
+| 2019-07-20 | [7/20/19 Back to work on Google Earthing History Page](corpus/videos/x0JjvAsRClg.json) | — |  |
+| 2019-07-09 | [7/9/19 I found Atlantis!](corpus/videos/6jxrqs-Zupo.json) | — |  |
+| 2019-07-08 | [7/8/19 Google Earthing Atlantis Island](corpus/videos/3mH80L-cwg0.json) | — |  |
+| 2019-07-07 | [7/7/19 Google Earthing Atlantis Island](corpus/videos/XpCKG6FNEx8.json) | — |  |
+| 2019-07-05 | [7/5/19 Google Earthing Atlantis Buildings](corpus/videos/kS7SAkKGj7s.json) | — |  |
+| 2019-07-04 | [7/4/19 Google Earthing Atlantis Buildings](corpus/videos/H9eFL3Fahxo.json) | — |  |
+| 2019-07-03 | [7/3/19 Google Earthing Atlantis Buildings](corpus/videos/KDmiwhFTIjk.json) | — |  |
+| 2019-07-02 | [7/2/19 Google Earthing Atlantis Buildings in the Rings](corpus/videos/shVKcjhLfvU.json) | — |  |
+| 2019-07-01 | [7/1/19 Google Earthing Atlantis Houses](corpus/videos/cBSk8nhMjsQ.json) | — |  |
+| 2019-06-30 | [6/30/19 Google Earthing Atlantis Houses](corpus/videos/hUAlGQOBBq0.json) | — |  |
+| 2019-06-29 | [6/29/19 Google Earthing Atlantis Historic Buildings](corpus/videos/1itiTTk0Nuk.json) | — |  |
+| 2019-06-28 | [6/28/19 Google Earthing Atlantis Houses](corpus/videos/kMQYXp_NQcE.json) | — |  |
+| 2019-06-27 | [6/27/19 Google Earthing Atlantis Houses](corpus/videos/Tx10IwUaOT4.json) | — |  |
+| 2019-06-25 | [6/25/19 Google Earthing Atlantis Houses](corpus/videos/Bq3yq7M_zTI.json) | — |  |
+| 2019-06-24 | [6/24/19 Google Earthing Atlantis Houses](corpus/videos/1SJL-FIW7fE.json) | — |  |
+| 2019-06-23 | [6/23/19 Finished Google Earthing Atlantis Apartments, Now Houses](corpus/videos/DrrnDSuf79s.json) | — |  |
+| 2019-06-22 | [6/22/19 Google Earthing Atlantis Apartments](corpus/videos/E6_yVXCKOf8.json) | — |  |
+| 2019-06-22 | [6/22/19 Google Earthing Atlantis Apartment Buildings still](corpus/videos/u7AvLJaaSOk.json) | — |  |
+| 2019-06-20 | [6/20/19 Google Earthing Atlantis Apartment Buildings](corpus/videos/5B7QUGiyaio.json) | — |  |
+| 2019-06-18 | [6/18/19 Google Earthing Mountains of Colorado](corpus/videos/LEnize_c_RM.json) | — |  |
+| 2019-06-18 | [6/18/19 Google Earthing Atlantis Buildings](corpus/videos/_SxKVBGPUFc.json) | — |  |
+| 2019-06-17 | [6/17/19 Castle for Timeline](corpus/videos/06uc4LIXpSY.json) | — |  |
+| 2019-06-17 | [6/17/19 Google Earthing Atlantis Apartment Buildings](corpus/videos/21q1S6AA9qQ.json) | — |  |
+| 2019-06-16 | [6/16/19 Google Earthing Atlantis Apartment Buildings](corpus/videos/maJugDuuSS0.json) | — |  |
+| 2019-06-15 | [6/15/19 Google Earthing Atlantis Ring Islands](corpus/videos/_v8WIGtuz1s.json) | — |  |
+| 2019-06-14 | [6/14/19 Google Earthing Atlantis Streets & Ships](corpus/videos/_DPQlFlRuSE.json) | — |  |
+| 2019-06-13 | [6/13/19 Google Earthing Atlantis Roads](corpus/videos/O5Oi5sb1wT0.json) | — |  |
+| 2019-06-12 | [6/12/19 Finished Google Earthing Australia & New Zealand, Back to Atla](corpus/videos/-ekPqU866oY.json) | — |  |
+| 2019-06-12 | [6/12/19 Google Earthing Atlantis Ships & Buildings](corpus/videos/IDePgCmiPSM.json) | — |  |
+| 2019-06-11 | [6/11/19 Italy audio history books & new books](corpus/videos/dPZwroRyrH4.json) | — |  |
+| 2019-06-10 | [6/10/19 Google Earthing Australia Tribes & Timeline](corpus/videos/RmvbgVEAg44.json) | — |  |
+| 2019-06-09 | [6/9/19 Google Earthing Atlantis & Australia](corpus/videos/i2lXIIbl6c4.json) | — |  |
+| 2019-06-08 | [6/8/19 Google Earthing Atlantis Day 1](corpus/videos/iu5pX0Qde-E.json) | — |  |
+| 2019-06-07 | [6/7/19 Google Earthing Australia Tribes Day Three](corpus/videos/tkP3XTfqtag.json) | — |  |
+| 2019-06-07 | [6/7/19 Swam 9,345 meters, dropped car at mechanic](corpus/videos/xTltWJC_75o.json) | — |  |
+| 2019-06-06 | [6/6/19 Google Earthing Australian Tribes Day 2](corpus/videos/OSs78mira74.json) | — |  |
+| 2019-06-06 | [6/6/19 Google Earthing Atlantis Buildings](corpus/videos/PGf-WBZ0kDU.json) | — |  |
+| 2019-06-02 | [6/2/19 Google Earthing USA Tribes](corpus/videos/kyldCvXvEIA.json) | — |  |
+| 2019-05-30 | [5/30/19 Google Earthing USA Tribes day 4](corpus/videos/4yO1X66jvb4.json) | — |  |
+| 2019-05-30 | [5/30/19 Google Earthing USA Tribes](corpus/videos/_7FmpO4lHHg.json) | — |  |
+| 2019-05-29 | [5/29/19 Castles on Google Earthing](corpus/videos/XtZnrTEQV4I.json) | — |  |
+| 2019-05-28 | [5/28/19 Google Earthing USA Tribes day 2](corpus/videos/3VvKQJGzG5k.json) | — |  |
+| 2019-05-27 | [5/27/19 Tribes of America for Google Earth](corpus/videos/A_btjSkjTsg.json) | — |  |
+| 2019-05-26 | [5/26/19 Tribes on Timeline](corpus/videos/C5ECX3JwhLw.json) | — |  |
+| 2019-05-25 | [5/25/19 Timeline Tribes](corpus/videos/amd7sTsLYqw.json) | — |  |
+| 2019-05-24 | [5/24/19 Timeline & Google Earth Kingdoms](corpus/videos/tujTXo1r6Yg.json) | — |  |
+| 2019-05-23 | [5/23/19 Finished Google Earthing Castles, will link them today](corpus/videos/M1_QdWCqpzo.json) | — |  |
+| 2019-05-23 | [5/23/19 Google Earthing Kingdoms for Timeline](corpus/videos/gGMS3T5vO_0.json) | — |  |
+| 2019-05-22 | [5/22/19 Castles Google Earthing for Timeline](corpus/videos/quWbyCngXws.json) | — |  |
+| 2019-05-21 | [5/21/19 Castles Google Earth for Timeline](corpus/videos/RnTlK916dnc.json) | — |  |
+| 2019-05-19 | [5/19/19 Castle movies for Timeline](corpus/videos/OBQpZ4uMF2o.json) | — |  |
+| 2019-05-16 | [5/16/19 castle for Timeline](corpus/videos/36bTJ2r4N8E.json) | — |  |
+| 2019-05-15 | [5/15/19 Google Earthing Castles & Figured our Adobe Audition](corpus/videos/GAeTNEaTJTo.json) | — |  |
 | 2019-05-15 | [Diogenes Laertius Lives of Philosophers Synopsis](corpus/videos/YH1tFL08Q8s.json) | kyle | Kyle reviews Diogenes Laertius's 'Lives of Eminent Philosophers' (c. 200 AD), walking through the history and timeline o |
+| 2019-05-13 | [5/13/19 Hung our with mom, castles on Timeline](corpus/videos/MB9onuLS4a8.json) | — |  |
 | 2019-05-12 | [Francisco De Orellana River of Darkness by Buddy Levy Book Synopsis](corpus/videos/KVdb0qzvIFA.json) | kyle | Kyle gives a detailed spoken synopsis of 'River of Darkness' by Buddy Levy, tracing Francisco de Orellana's 16th-century |
+| 2019-05-12 | [5/12/19 Ran 6.5 Miles up my Sanitas, Francisco Orellana Book, Castles ](corpus/videos/rqB9eOEEuY8.json) | — |  |
 | 2019-05-11 | [Popular History of Ireland by Thomas McGee Synopsis](corpus/videos/Q65PqOaFzIQ.json) | kyle | Kyle gives an informal 35-minute rundown of Thomas McGee's 2,114-page 'Popular History of Ireland,' walking through Iris |
 | 2019-05-11 | [Audiobooks.com is a scam](corpus/videos/bZXKSMK1ekY.json) | kyle | Kyle argues that Audiobooks.com is a scam because it charges $14/month for access to audiobooks that are freely availabl |
 | 2019-05-11 | [5/10/19 Ran 1.5 Miles, rode like 5 Miles, did errands, History of Irel](corpus/videos/oHayRgXDxtc.json) | kyle | Kyle discusses his daily activities including running 1.5 miles to his mom's house to get his bike, doing errands, and w |
+| 2019-05-10 | [5/10/19 Swam 7,520 meters, food shopped & cleaned house](corpus/videos/DqjK8d-fnEA.json) | — |  |
 | 2019-05-10 | [Training with Kyle 5/9/19 Swam 7,520 Meters](corpus/videos/St5v5xSuFRM.json) | kyle | Kyle recaps a 7,520-meter swim session (short of his 10K goal) on May 9, 2019, attributing underperformance to a hangove |
 | 2019-05-09 | [Training with Kyle Vlog 5/8/19 Rest day from depression from car break](corpus/videos/ifNcJP9QPGc.json) | kyle | Kyle vlogs about a rest day on May 8, 2019, where car trouble (breakdown at an emissions test) derailed his plans and se |
+| 2019-05-08 | [5/8/19 Tried to take car to Emissions but it broke down, Castle KMZ fi](corpus/videos/HY8yGafyncg.json) | — |  |
 | 2019-05-08 | [Training with Kyle 5/7/19 Treadmill Ran 1.5 Miles](corpus/videos/YBQr5f1cN9A.json) | kyle | Kyle vlogs about a low-energy training day on May 6-7, 2019, where he walked 1.5 miles on his treadmill at 4mph after a  |
 | 2019-05-07 | [Training with Kyle 5/6/19 Swam 9,345 meters](corpus/videos/ZNw6Sed4ke0.json) | kyle | Kyle logs a training day in which he swam approximately 9,345 meters in two sessions at an indoor pool, dealing with fau |
 | 2019-05-07 | [YouTube might be suppressing my channel, commenters get deleted.](corpus/videos/uOBHxD1iWl4.json) | kyle | Kyle suspects YouTube and Google are suppressing his channel by deleting comments from fans and their entire accounts sh |
 | 2019-05-06 | [Training with Kyle 5/5/19 Stretched all day](corpus/videos/7xNY5DLbDXM.json) | kyle | Kyle recounts spending an entire day doing his stretching routine for the first time in about 10 years, cycling through  |
 | 2019-05-06 | [College is Bullshit part 1 - Fort Lewis College in Durango, Co](corpus/videos/K41kUcLoPUo.json) | kyle | Kyle argues that college and K-12 schooling are fundamentally broken systems that waste time and money while giving pett |
+| 2019-05-06 | [5/6/19 Stretched all day, Popular History of Ireland day 3](corpus/videos/RQCrBO6syks.json) | — |  |
 | 2019-05-06 | [College is Bullshit part 2 - Fort Lewis College in Durango, Co](corpus/videos/kXMPGkAQZSg.json) | kyle | Kyle continues his critique of Fort Lewis College in Durango, CO, recounting how a professor he suspected of fabricating |
+| 2019-05-05 | [5/5/19 Ran 4.85 Miles 1:00 Saw Avengers](corpus/videos/1nnqmOTp1-k.json) | — |  |
+| 2019-05-05 | [5/5/19 Australia Tribes Day One Google Earthing](corpus/videos/H6GS6ytxLXA.json) | — |  |
 | 2019-05-05 | [Training with Kyle 5/4/19 Ran 4.85 Miles 1:00:49](corpus/videos/we5TTBnqNg4.json) | kyle | Kyle documents his second training video, recapping a 4.85-mile run completed in about an hour despite being physically  |
+| 2019-05-04 | [5/4/19 Rode 85 miles, made Google Earth files of castles](corpus/videos/Hxo31Whso78.json) | — |  |
 | 2019-05-04 | [Enduro School Mission Statement: EVERYBODY is a pro enduro athlete now](corpus/videos/OLnHi8UIhI4.json) | kyle | Kyle introduces 'Enduro School,' his personal mission to democratize professional athletic status by combining endurance |
 | 2019-05-04 | [Training with Kyle: Ride #2 7:16 83.43 Miles 8,186 Feet climbing](corpus/videos/ajIjNZXh25Y.json) | kyle | Kyle recounts his second cycling ride of the year — an ~87-mile, 8,000+ foot climbing route from Boulder through Lyons,  |
 | 2019-05-04 | [5/4/19 USA Tribes on Timeline](corpus/videos/hy_2yLf8KBo.json) | — |  |

@@ -1,0 +1,871 @@
+{
+ "youtube_id": "1EgxVomMeS4",
+ "title": "11/6/19 Google Earthing Roman Palace & Aqueduct",
+ "url": "https://youtu.be/1EgxVomMeS4",
+ "published_at": "2019-11-06",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 1.39,
+   "end": 7.89,
+   "text": "Hi, Living in Boulder, V-Log, 4, 7.30 a.m., November 6th, 2019, Wednesday."
+  },
+  {
+   "start": 9.79,
+   "end": 17.35,
+   "text": "So, um, I, um, I've been working on my time, on my, uh, Google Earth of Rome."
+  },
+  {
+   "start": 17.45,
+   "end": 21.01,
+   "text": "I was just looking at it now, just kind of, just looking at it."
+  },
+  {
+   "start": 21.11,
+   "end": 22.79,
+   "text": "I think smoking weed, oh, yeah, and eating breakfast."
+  },
+  {
+   "start": 23.55,
+   "end": 26.41,
+   "text": "I had some, like, spinach, can of spinach for breakfast."
+  },
+  {
+   "start": 26.41,
+   "end": 32.53,
+   "text": "Um, and, uh, yeah, I think I'm going to lie down and go to sleep,"
+  },
+  {
+   "start": 32.57,
+   "end": 36.35,
+   "text": "Or at least lie down and rest a little bit, and then maybe work some more if I don't sleep."
+  },
+  {
+   "start": 36.39,
+   "end": 39.51,
+   "text": "I don't know, but I think I'm at a good stopping point."
+  },
+  {
+   "start": 39.95,
+   "end": 48.73,
+   "text": "Um, yesterday was working on mainly the, um, aqueduct, but also touching up stuff on the, uh, palace."
+  },
+  {
+   "start": 48.87,
+   "end": 55.51,
+   "text": "But, uh, so on the aqueduct, I, um, you can download it now."
+  },
+  {
+   "start": 55.51,
+   "end": 58.89,
+   "text": "So, I'll put the link, um, it's two links."
+  },
+  {
+   "start": 58.97,
+   "end": 66.92,
+   "text": "It's the aqueduct link and the, um, um, the palace section of Rome."
+  },
+  {
+   "start": 67.2,
+   "end": 71.34,
+   "text": "Um, I built the aqueduct across."
+  },
+  {
+   "start": 71.58,
+   "end": 75.32,
+   "text": "The way that I figured out how to do it, the line, was I just built a, uh,"
+  },
+  {
+   "start": 76.04,
+   "end": 80.14,
+   "text": "I traced a polygon and then I made it up so that it's connected to the ground."
+  },
+  {
+   "start": 80.14,
+   "end": 81.72,
+   "text": "And so the top was level."
+  },
+  {
+   "start": 81.84,
+   "end": 86.86,
+   "text": "And then I built the unconnected, which is not connected to the ground, um, water,"
+  },
+  {
+   "start": 87.2,
+   "end": 91.52,
+   "text": "Which is angled, but I know what level it is based on the one that is connected."
+  },
+  {
+   "start": 91.66,
+   "end": 93.98,
+   "text": "So I put a piece to all that together."
+  },
+  {
+   "start": 93.98,
+   "end": 97.42,
+   "text": "And then, uh, I, uh, yeah."
+  },
+  {
+   "start": 97.48,
+   "end": 100.48,
+   "text": "So the next thing I have to do is heighten all of, in color,"
+  },
+  {
+   "start": 101.02,
+   "end": 104.84,
+   "text": "All of the, uh, spires and stuff going across."
+  },
+  {
+   "start": 104.84,
+   "end": 111.3,
+   "text": "And also the, um, the, uh, the walkway, I figured out where the walkway was going to go."
+  },
+  {
+   "start": 111.4,
+   "end": 114.54,
+   "text": "It's on a different level than the aqueduct."
+  },
+  {
+   "start": 114.68,
+   "end": 120.32,
+   "text": "And, um, yeah, I figured out that I wanted, uh,"
+  },
+  {
+   "start": 120.32,
+   "end": 122.7,
+   "text": "One of the apartments that's next to it to be really high."
+  },
+  {
+   "start": 122.9,
+   "end": 125.26,
+   "text": "So, um, yeah."
+  },
+  {
+   "start": 125.5,
+   "end": 129.08,
+   "text": "Uh, yesterday I had a bizarre thing that happened with it."
+  },
+  {
+   "start": 129.08,
+   "end": 135.02,
+   "text": "And, um, I was trying to build, uh, layers for the, uh, outside of the building."
+  },
+  {
+   "start": 135.06,
+   "end": 140.38,
+   "text": "And, um, by making a polygon tool that went across like an L shaped one."
+  },
+  {
+   "start": 141.46,
+   "end": 145.72,
+   "text": "And, uh, I set it to one meter and it wouldn't go below like 20 meters."
+  },
+  {
+   "start": 145.94,
+   "end": 146.66,
+   "text": "I don't know why."
+  },
+  {
+   "start": 147.68,
+   "end": 150.26,
+   "text": "And, uh, so I'm going to think I'm going to try it with the other computer"
+  },
+  {
+   "start": 150.26,
+   "end": 152.8,
+   "text": "And see if the other computer can move it to the level I needed."
+  },
+  {
+   "start": 152.96,
+   "end": 155.74,
+   "text": "Or I made a copy of it and the cop,"
+  },
+  {
+   "start": 155.8,
+   "end": 157.7,
+   "text": "And then I tried to adjust the copy and that didn't work."
+  },
+  {
+   "start": 157.7,
+   "end": 161.02,
+   "text": "And maybe I'll try to build it from scratch again, maybe,"
+  },
+  {
+   "start": 161.14,
+   "end": 163.2,
+   "text": "Or some, and see if that works."
+  },
+  {
+   "start": 163.34,
+   "end": 165.22,
+   "text": "Because then I could make the levels of the outside."
+  },
+  {
+   "start": 165.28,
+   "end": 166.68,
+   "text": "And I thought that would be a cool trick."
+  },
+  {
+   "start": 168.18,
+   "end": 174.28,
+   "text": "Um, and, um, so, uh, yeah,"
+  },
+  {
+   "start": 174.28,
+   "end": 175.52,
+   "text": "Well, I was looking at it for the first time."
+  },
+  {
+   "start": 175.58,
+   "end": 180.02,
+   "text": "I actually saw the outline of the, where the palace is."
+  },
+  {
+   "start": 180.16,
+   "end": 184.0,
+   "text": "And so I think I'm going to actually colorize the palace too in there,"
+  },
+  {
+   "start": 184.06,
+   "end": 184.88,
+   "text": "Which I haven't done yet."
+  },
+  {
+   "start": 185.24,
+   "end": 187.34,
+   "text": "And I decided to put a pool in the palace."
+  },
+  {
+   "start": 187.34,
+   "end": 189.88,
+   "text": "So I decided to put a pool in the big apartment building."
+  },
+  {
+   "start": 191.1,
+   "end": 194.08,
+   "text": "So, you know, there was supposed to be a whole bunch of pools."
+  },
+  {
+   "start": 194.3,
+   "end": 199.08,
+   "text": "So that'll, I was definitely at a lack of pools for the palace section."
+  },
+  {
+   "start": 199.08,
+   "end": 206.62,
+   "text": "So, um, and, uh, I, yeah, I'm pleased with how it looks."
+  },
+  {
+   "start": 206.66,
+   "end": 209.58,
+   "text": "I'm still, you know, looking forward to seeing what it'll look like when it's done."
+  },
+  {
+   "start": 209.58,
+   "end": 210.22,
+   "text": "Cause I'm not done."
+  },
+  {
+   "start": 210.26,
+   "end": 214.76,
+   "text": "I have to make the, the, uh, the walkway go across it first."
+  },
+  {
+   "start": 215.24,
+   "end": 220.82,
+   "text": "Um, so, uh, I didn't go to my mom's house yesterday."
+  },
+  {
+   "start": 220.82,
+   "end": 223.3,
+   "text": "So I had the whole day to myself working on this."
+  },
+  {
+   "start": 223.3,
+   "end": 230.58,
+   "text": "Um, and I was busy the whole day, um, I think in the morning or at night."
+  },
+  {
+   "start": 230.58,
+   "end": 230.8,
+   "text": "Yeah."
+  },
+  {
+   "start": 230.8,
+   "end": 235.96,
+   "text": "Before it got for midnight, like 1130, I went in and I got some food and energy drink."
+  },
+  {
+   "start": 235.96,
+   "end": 240.52,
+   "text": "Um, um, and I've been working also and, you know, until now."
+  },
+  {
+   "start": 240.52,
+   "end": 245.7,
+   "text": "And since, um, when I got up, which was like kind of late yesterday, but yeah, I had a good"
+  },
+  {
+   "start": 245.7,
+   "end": 248.02,
+   "text": "Push, but I don't know, maybe it doesn't seem like I did much."
+  },
+  {
+   "start": 248.02,
+   "end": 251.82,
+   "text": "One of those days that it doesn't seem like I did much, but I was working all day, but,"
+  },
+  {
+   "start": 251.92,
+   "end": 258.0,
+   "text": "But yeah, I'm, I did like, I just took me forever to make the, um, the aqueduct cause"
+  },
+  {
+   "start": 258.0,
+   "end": 259.64,
+   "text": "I had to break it up at a lot of different pieces."
+  },
+  {
+   "start": 259.64,
+   "end": 266.98,
+   "text": "And, um, but, uh, I'm gonna, uh, yeah, get up whenever I get up, do this walkway."
+  },
+  {
+   "start": 267.36,
+   "end": 274.56,
+   "text": "And, uh, that's, uh, I guess that'll be the, and then, and then I can go back to the"
+  },
+  {
+   "start": 274.56,
+   "end": 280.0,
+   "text": "Palace and finish that, which is the, the bottoms, the, um, of all of the, uh, the open"
+  },
+  {
+   "start": 280.0,
+   "end": 281.18,
+   "text": "Spaces of all the plazas."
+  },
+  {
+   "start": 281.18,
+   "end": 283.64,
+   "text": "And then I think I'm done with the palace."
+  },
+  {
+   "start": 283.7,
+   "end": 284.38,
+   "text": "It's amazing."
+  },
+  {
+   "start": 285.16,
+   "end": 287.08,
+   "text": "It'll be like my first section done."
+  },
+  {
+   "start": 287.8,
+   "end": 291.48,
+   "text": "And then I can, I think the next section I'm going to do is the circus Maximus because"
+  },
+  {
+   "start": 291.48,
+   "end": 293.08,
+   "text": "It's connected to the palace."
+  },
+  {
+   "start": 293.58,
+   "end": 298.86,
+   "text": "I have the highest level of the circus Maximus, the same level as the palace."
+  },
+  {
+   "start": 298.86,
+   "end": 306.26,
+   "text": "So, um, and it works out great to fill 150,000 people, which is what Wikipedia said it had."
+  },
+  {
+   "start": 306.4,
+   "end": 308.52,
+   "text": "So I thought that was awesome."
+  },
+  {
+   "start": 309.52,
+   "end": 315.72,
+   "text": "Um, and so, yeah, I think I'll finish that and then, um, yeah, and fancy up all the other"
+  },
+  {
+   "start": 315.72,
+   "end": 320.52,
+   "text": "Fancy buildings and then try to finish Rome and the aqueducts of it and push through,"
+  },
+  {
+   "start": 320.68,
+   "end": 322.06,
+   "text": "Um, at least another week."
+  },
+  {
+   "start": 322.82,
+   "end": 327.18,
+   "text": "Um, I wanted to get farther along in the, on this, I wanted to get the aqueduct across"
+  },
+  {
+   "start": 327.18,
+   "end": 328.56,
+   "text": "Cause I really wanted to see that."
+  },
+  {
+   "start": 329.34,
+   "end": 332.6,
+   "text": "But, uh, but I think by next Sunday, I'm going to go all week until this Sunday."
+  },
+  {
+   "start": 332.68,
+   "end": 333.88,
+   "text": "That will give me two weeks."
+  },
+  {
+   "start": 334.54,
+   "end": 337.24,
+   "text": "Actually, I think two full weeks on the, um, palace."
+  },
+  {
+   "start": 338.04,
+   "end": 343.82,
+   "text": "And, um, then I'm going to, uh, I think I'm going to do bike racer levels for a week."
+  },
+  {
+   "start": 343.82,
+   "end": 346.94,
+   "text": "I love that is so behind, so fucked."
+  },
+  {
+   "start": 347.44,
+   "end": 354.08,
+   "text": "And I just, I know that in one week I could get that thing like, so that's what I'll do."
+  },
+  {
+   "start": 354.08,
+   "end": 357.98,
+   "text": "But yeah, but on Sunday, I think I'll be pretty far along on this too."
+  },
+  {
+   "start": 358.14,
+   "end": 359.16,
+   "text": "So yeah, I'm going far."
+  },
+  {
+   "start": 359.94,
+   "end": 362.04,
+   "text": "Uh, yeah, uh, download it."
+  },
+  {
+   "start": 362.16,
+   "end": 364.5,
+   "text": "Um, it's fun to, one fun thing to do."
+  },
+  {
+   "start": 364.58,
+   "end": 369.6,
+   "text": "One thing that I would do if I was, if I came across myself is I would upload what I'm saying"
+  },
+  {
+   "start": 369.6,
+   "end": 371.78,
+   "text": "I'm working on, like the palace of Google earth palace."
+  },
+  {
+   "start": 372.32,
+   "end": 378.0,
+   "text": "I'd look at it and then I would, and then I would download another, the new version of"
+  },
+  {
+   "start": 378.0,
+   "end": 378.16,
+   "text": "It."
+  },
+  {
+   "start": 378.18,
+   "end": 381.0,
+   "text": "And I would compare the two just to see how, how it's going."
+  },
+  {
+   "start": 381.0,
+   "end": 385.16,
+   "text": "And I'd look at the other one and I would guess like how much I could progress in a"
+  },
+  {
+   "start": 385.16,
+   "end": 387.14,
+   "text": "Day and which one I would progress."
+  },
+  {
+   "start": 387.28,
+   "end": 391.76,
+   "text": "And I would have suggestions and see if I did what I thought I would do, you know, see"
+  },
+  {
+   "start": 391.76,
+   "end": 393.56,
+   "text": "If I do the predictions or, you know what I mean?"
+  },
+  {
+   "start": 393.56,
+   "end": 397.14,
+   "text": "So, or I'd wonder what, what I'm going to make it look like and then see how it actually"
+  },
+  {
+   "start": 397.14,
+   "end": 398.38,
+   "text": "Is looked like kind of like a story."
+  },
+  {
+   "start": 398.8,
+   "end": 400.1,
+   "text": "And what's the story going to turn out?"
+  },
+  {
+   "start": 400.2,
+   "end": 407.16,
+   "text": "So, um, anyway, um, I wasn't listening to anything."
+  },
+  {
+   "start": 407.16,
+   "end": 412.18,
+   "text": "Just the, um, uh, constitution over and over again."
+  },
+  {
+   "start": 412.52,
+   "end": 417.9,
+   "text": "Um, I want to, I was actually listening to it broken up separate little, uh, chapters."
+  },
+  {
+   "start": 418.04,
+   "end": 423.0,
+   "text": "I love listening to books on my, um, website cause then I can look at the chapters and kind"
+  },
+  {
+   "start": 423.0,
+   "end": 428.12,
+   "text": "Of look at it visually and then auditorily and see how big they are visually compared"
+  },
+  {
+   "start": 428.12,
+   "end": 428.62,
+   "text": "To each other."
+  },
+  {
+   "start": 428.62,
+   "end": 430.78,
+   "text": "And it helps me memorize the structure of it."
+  },
+  {
+   "start": 431.38,
+   "end": 436.88,
+   "text": "Um, you know, for example, with the constitution, the, uh, the, where they talk about the states"
+  },
+  {
+   "start": 436.88,
+   "end": 444.65,
+   "text": "And the, um, um, legislative branch is very small."
+  },
+  {
+   "start": 445.27,
+   "end": 450.83,
+   "text": "Most of it's judicial branch and executive branch, but mostly judicial branch, like 9.2"
+  },
+  {
+   "start": 450.83,
+   "end": 452.17,
+   "text": "Pages is the biggest section."
+  },
+  {
+   "start": 452.69,
+   "end": 455.35,
+   "text": "Um, oh, and then the, um, the, uh, amendments."
+  },
+  {
+   "start": 455.35,
+   "end": 458.99,
+   "text": "Um, so, okay."
+  },
+  {
+   "start": 459.05,
+   "end": 460.01,
+   "text": "So yeah, tomorrow."
+  },
+  {
+   "start": 460.21,
+   "end": 460.45,
+   "text": "Okay."
+  },
+  {
+   "start": 460.47,
+   "end": 467.03,
+   "text": "When I do my video tomorrow, tomorrow morning, or I guess, whenever that is, um, I think I"
+  },
+  {
+   "start": 467.03,
+   "end": 467.97,
+   "text": "Will be done."
+  },
+  {
+   "start": 468.37,
+   "end": 473.31,
+   "text": "I'll be done with the aqueduct and I'll be hopefully done with the aqueduct and the palace."
+  },
+  {
+   "start": 473.31,
+   "end": 478.85,
+   "text": "I think maybe I can finish the aqueduct, this aqueduct and the palace tomorrow, the whole"
+  },
+  {
+   "start": 478.85,
+   "end": 480.33,
+   "text": "Thing, all the touch-ups, everything."
+  },
+  {
+   "start": 480.93,
+   "end": 484.15,
+   "text": "And I'll be working on something else like the circus maximus."
+  },
+  {
+   "start": 484.15,
+   "end": 486.29,
+   "text": "So I really do think I can do that today."
+  },
+  {
+   "start": 487.61,
+   "end": 490.37,
+   "text": "Um, so that's exciting."
+  },
+  {
+   "start": 490.55,
+   "end": 491.37,
+   "text": "That's great."
+  },
+  {
+   "start": 491.77,
+   "end": 496.57,
+   "text": "Um, and maybe I can finish the circus maximus this week and then I'll be keeping up with"
+  },
+  {
+   "start": 496.57,
+   "end": 505.35,
+   "text": "My one week per, uh, section schedule because, you know, the last week was the first week"
+  },
+  {
+   "start": 505.35,
+   "end": 507.59,
+   "text": "On my Google earthing of Rome again."
+  },
+  {
+   "start": 507.59,
+   "end": 512.19,
+   "text": "And so that would have been for the Palatine section and then this week for the, uh, circus"
+  },
+  {
+   "start": 512.19,
+   "end": 512.97,
+   "text": "Maximus section."
+  },
+  {
+   "start": 512.97,
+   "end": 520.21,
+   "text": "So, um, so, uh, that's enough talk in almost nine minutes."
+  },
+  {
+   "start": 520.63,
+   "end": 521.07,
+   "text": "Alrighty."
+  },
+  {
+   "start": 521.19,
+   "end": 521.73,
+   "text": "Have a good one."
+  },
+  {
+   "start": 521.77,
+   "end": 522.19,
+   "text": "Talk to you tomorrow."
+  },
+  {
+   "start": 522.19,
+   "end": 522.51,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 522.51,
+   "end": 522.53,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 522.53,
+   "end": 522.55,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 522.55,
+   "end": 522.63,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 522.63,
+   "end": 522.69,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 522.69,
+   "end": 522.99,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 522.99,
+   "end": 523.03,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 523.03,
+   "end": 523.43,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 523.43,
+   "end": 523.45,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 523.45,
+   "end": 523.89,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 523.89,
+   "end": 523.99,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 523.99,
+   "end": 524.03,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 524.03,
+   "end": 524.53,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 524.53,
+   "end": 524.55,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 524.55,
+   "end": 524.59,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 524.59,
+   "end": 525.03,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 525.03,
+   "end": 525.05,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 525.05,
+   "end": 525.53,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 525.53,
+   "end": 526.05,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 526.05,
+   "end": 526.53,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 526.53,
+   "end": 526.63,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 526.63,
+   "end": 526.93,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 526.93,
+   "end": 527.49,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 527.49,
+   "end": 527.53,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 527.53,
+   "end": 528.05,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 528.05,
+   "end": 528.53,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 528.53,
+   "end": 528.65,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 528.65,
+   "end": 528.69,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 528.69,
+   "end": 529.53,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 529.53,
+   "end": 530.53,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 530.53,
+   "end": 530.65,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 530.65,
+   "end": 531.53,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 531.53,
+   "end": 532.53,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 532.53,
+   "end": 532.61,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 532.61,
+   "end": 533.53,
+   "text": "Bye-bye."
+  },
+  {
+   "start": 533.53,
+   "end": 534.53,
+   "text": "Bye-bye."
+  }
+ ]
+}
