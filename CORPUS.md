@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-4317 videos with transcripts. Source of truth for transcripts + enrichments.
+4385 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -30,15 +30,83 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2025-02-01 | [My plan to become objectively the smartest person EVER within a year b](corpus/videos/Eh_zeLMcgjw.json) | kyle | Kyle proposes replacing IQ tests with a history memorization test as the objective measure of intelligence, arguing that |
 | 2025-01-31 | [I figured out how to multitask riding and running inside (which I  nee](corpus/videos/T4qZDtEihz8.json) | kyle | Kyle describes a breakthrough: he can study his visual history timeline tests (a website he built covering 500 years of  |
 | 2024-12-24 | [Thomas Cromwell by Diarmaid MacCulloch Book Review - I Do book request](corpus/videos/6AIHpZ5tWjU.json) | kyle | Kyle reviews the audiobook 'Thomas Cromwell' by Diarmaid MacCulloch (26+ hours, listened at 2x speed), admitting he bare |
+| 2024-12-24 | [12-24-24 WEBSITE RELAPSE!!! Ancient History Timeline. I need money or ](corpus/videos/D_5fUQ6kq9k.json) | — |  |
+| 2024-12-23 | [12-23-24 Lifted 37,800, Recline bike 54 minutes, stair master 88 fl](corpus/videos/Hs8fS7KiSoU.json) | — |  |
+| 2024-12-22 | [12-22-24 Hung w/ mom, studied for Ancient history test, decided to get](corpus/videos/37EXunWBMjw.json) | — |  |
+| 2024-12-21 | [12-21-24 Ran Mile 10 Min pulled calf, biked half hour, lifted 11,250 l](corpus/videos/1iJRalFdPD4.json) | — |  |
 | 2024-12-21 | [3rd Fortnight History Test, 1st 20th Century Test 12-19-24, 200 points](corpus/videos/qpWNW4dOhqU.json) | kyle | Kyle takes his first self-administered 20th century history test, using a random number generator to select 60 years fro |
 | 2024-12-20 | [2nd Fortnight Test. 1st BC. 0-2K 9-15-24 130 points](corpus/videos/uSto5HZuFlc.json) | kyle | Kyle takes his first self-administered biweekly oral history test covering random decades in BC history, using a random  |
+| 2024-12-19 | [12-19-24 Ran 3 Mi 6 mph 1stx, rode 5 mi 20 min, lifted 14,700. Think I](corpus/videos/40KzFb6Ps90.json) | — |  |
 | 2024-12-18 | [Future of YouTube isn't highly produced videos but self graded intelli](corpus/videos/7eA65mIj9IM.json) | kyle | Kyle predicts YouTube will hit a saturation point with heavily produced, clout-driven content and will evolve back towar |
+| 2024-12-18 | [12-18-24 Ran mile 5.5 12:00 Rec bike L15 2 mi 11:50, lifted 2550. Stil](corpus/videos/wePCrNdJhRE.json) | — |  |
+| 2024-12-17 | [12-17-24 Ran 3 mi 5.5 mph 32:30 , Rowed 2K 9:10, lifted 6K](corpus/videos/pEvcqQVZ0b8.json) | — |  |
+| 2024-12-16 | [12-16-24 Helped mom, applied for work & stretched](corpus/videos/mixC2L0MxEE.json) | — |  |
+| 2024-12-15 | [12-15-24 Lifted 24,750 & 19,500, Ran 2 Mi & Mi, biked 10 mi. Phone can](corpus/videos/U0zcWepoHzg.json) | — |  |
+| 2024-12-13 | [12/13/24 Lifted 45,450, ran mile, rode 10 mi, row 2k, 20 floors, 30’ s](corpus/videos/7tKEZX3a-Gs.json) | — |  |
+| 2024-12-12 | [12/12/24 Scored 2 interviews. Lifted 27,000, ran 3 mi 36:00, row 2k 9:](corpus/videos/hBAsBBjQVh4.json) | — |  |
+| 2024-12-12 | [12/12/24 Numbering 160K People on Google Earth](corpus/videos/wKOUtQt10rg.json) | — |  |
+| 2024-12-11 | [12/11/24 Lifted 10,560, ran mile in 12, bike 10 mi in 28 min, 20 floor](corpus/videos/51_eZ4nsJiA.json) | — |  |
+| 2024-12-10 | [12-10-24 Lifted 9,660, ran mile 12:00, rode 10 mi 28:00, 20 floors, L7](corpus/videos/sWatSHY1g_8.json) | — |  |
+| 2024-12-09 | [12-9-24 Worked w/ mom on site intro. Lifted 4,350, ran two miles](corpus/videos/ATXvDELKtuY.json) | — |  |
+| 2024-12-08 | [12-8-24 Decided to smoke my weed instead of cook with it but it's done](corpus/videos/Fu08ELEDl5c.json) | — |  |
+| 2024-12-05 | [12-5-24 Smoked too much weed I grew to work out much today. Lifted 14,](corpus/videos/z7jrDYT2nCQ.json) | — |  |
 | 2024-12-04 | [Why we have electoral college and should abolish it](corpus/videos/Oo4WVci6v5g.json) | kyle | Kyle explains the historical origins of the Electoral College as a deliberate aristocratic check on pure democracy, trac |
+| 2024-12-04 | [12-4-24 Tired for two days  Gunna rewrite my front page](corpus/videos/PKFINUH6bMo.json) | — |  |
+| 2024-12-02 | [12-2-24 Gym w/ mom. Recline bike mile, lifted 1,500 lbs](corpus/videos/xFsnol6re1w.json) | — |  |
+| 2024-12-01 | [12-1-24 29th-1st lifted 47,370,  44,400, 31,500 lbs some running](corpus/videos/V_VkKeLA4P0.json) | — |  |
+| 2024-11-28 | [11-28-24  Lifted 25-28th, 76,110, 51,990, 15,720 & 57,570 lbs. Ran cou](corpus/videos/ADgqwBqQjzA.json) | — |  |
+| 2024-11-23 | [11-23-24 Lifted 61,680, Ran mile 13:36](corpus/videos/VRwvKHPD4kA.json) | — |  |
+| 2024-11-22 | [11-22-24 lifted 23,300, just chillin' otherwise and being lazy](corpus/videos/P1K4dr_0mhU.json) | — |  |
+| 2024-11-21 | [11-21-24 Lifted 76,560, Indoor rode 4 hrs, computer can't paste Educat](corpus/videos/gJNOIDK9VVo.json) | — |  |
+| 2024-11-20 | [11-20-24 Trying balance these book menus and exercising](corpus/videos/fc7MPq9Fxd0.json) | — |  |
+| 2024-11-13 | [11-13-24 10th day sick.  Trying to Update Livy but computer can't hand](corpus/videos/sjhpYGDHB_I.json) | — |  |
+| 2024-11-11 | [11-11-24 Sick still. Working on Livy menu. Will try to keep web work t](corpus/videos/pSs_Rkan1Y0.json) | — |  |
+| 2024-11-10 | [11-10-24 Sick took YouTube IQ Tests will put them up later](corpus/videos/7ev8HnGjurQ.json) | — |  |
 | 2024-11-10 | [Time Travel - Requested by Andy](corpus/videos/NkinH4Avucg.json) | kyle | Kyle responds to a viewer request about time travel, ranging from studying history and imagining future cities (especial |
+| 2024-11-09 | [11-9-24 I have Covid 19](corpus/videos/foj0Mx92aFk.json) | — |  |
+| 2024-11-08 | [11-8-24 Sick Still](corpus/videos/JCms0yTk4VQ.json) | — |  |
 | 2024-11-06 | [Trump wins what I think. Similarities w/ fall of Rome (request). Voted](corpus/videos/whC8dQR2UJ0.json) | kyle | Kyle, a self-described left-winger who voted for Harris, analyzes Trump's 2024 election win and argues that fear of ille |
+| 2024-11-03 | [11-3-24 Indoor rode 1:40. Stopped because of huge edema on knee. erg s](corpus/videos/Mc0bB75AmhE.json) | — |  |
+| 2024-11-02 | [11-2-24 Stretched again. Put new disposal in mom's sink.](corpus/videos/VbSF1bX5Fkc.json) | — |  |
+| 2024-11-01 | [11-1-24 Just addicted to stretching like it's crack & it makes me reta](corpus/videos/Pwnk76yAhiI.json) | — |  |
+| 2024-10-30 | [10-30-24 Tired & edema still so Just stretched. Got two big White Dove](corpus/videos/2-OtuTgH8KY.json) | — |  |
+| 2024-10-29 | [10-29-24 Stretched. Rest Day. Ferret jumped off deck again & had to pa](corpus/videos/20Z5oVE6ZbY.json) | — |  |
+| 2024-10-28 | [10-28-24 Home Cable lifted 22,050. Erg Swam L7 9,726 Meters](corpus/videos/X-BCk6ogYzY.json) | — |  |
+| 2024-10-27 | [10-27-24 Erg Swam L7 6,857 Meters. Stretched couple of hours. Painted ](corpus/videos/A501YH8ofTM.json) | — |  |
+| 2024-10-25 | [10-25-24 Erg Swam 6K L7 (4K in 1:24) & Rowed 14K L7](corpus/videos/2aMSyJWRaE4.json) | — |  |
+| 2024-10-24 | [10-24-24 Lifted 14,650, Erg Swam 8.5 Km L7 in 3:11](corpus/videos/PtGIqzEIsp0.json) | — |  |
+| 2024-10-23 | [10-23-24 Rode five hours indoors 54X19 70 RPM ChatGTP says that's 180-](corpus/videos/W_ytAG9RW9I.json) | — |  |
+| 2024-10-22 | [10-22-24 Indoor rode 5 hours no computer feeling stronger. Blew menisc](corpus/videos/krKZNJYjSzw.json) | — |  |
+| 2024-10-21 | [10-21-24 Indoor Rode 3.5 hours no computer](corpus/videos/1gKZ1iKCjyg.json) | — |  |
 | 2024-10-20 | [Dumbell Squat Press is the BEST weight exersize. EVERYBODY should do i](corpus/videos/9WOtw9A-FG0.json) | kyle | Kyle introduces an exercise he invented called the 'dumbbell squat to overhead press ladder,' describing the movement, r |
 | 2024-10-20 | [10-18-24 Dumbbell workout. Dumbbell Squat Press and others. 9,900 lbs](corpus/videos/IQjDZ4sSnsE.json) | kyle | Kyle films himself doing a dumbbell squat-press (thruster) workout at home, cycling through 10, 15, and 25 lb weights fo |
+| 2024-10-20 | [10-20-24 Indoor Rode 1st time 5.5 hours ? miles](corpus/videos/funASrlMbXs.json) | — |  |
+| 2024-10-18 | [10-18-24  Catching up on stretching knocked me out](corpus/videos/4LTfqnHCetI.json) | — |  |
+| 2024-10-14 | [10-14-24 Catching up on stretching knocked me out](corpus/videos/sx-G97nXY1c.json) | — |  |
+| 2024-10-13 | [10-13-24 Catching up on stretching knocked me out](corpus/videos/Rv-ImFdhw5k.json) | — |  |
+| 2024-10-12 | [10-12-24 Catching up on stretching knocked me out](corpus/videos/9UP3HBflLcU.json) | — |  |
+| 2024-10-11 | [10-11-24 Catching up on stretching knocked me out](corpus/videos/f5IAfXIFjU4.json) | — |  |
+| 2024-10-10 | [10-10-24 Catching up on stretching knocked me out](corpus/videos/KjK-MNwTxY4.json) | — |  |
+| 2024-10-09 | [10-9-24 Lifted but lost data](corpus/videos/zOsInIH5kmQ.json) | — |  |
+| 2024-10-08 | [10-8-24 Lifted but lost data](corpus/videos/YvCDgJEt7os.json) | — |  |
+| 2024-10-07 | [10-7-24 Stetched hours until gym w/ mom lifted 21,150 lbs. recline bik](corpus/videos/FBkdINgWN1k.json) | — |  |
+| 2024-10-07 | [10-7-24 Have the Flu still. Took Ferret to get stitches removed.](corpus/videos/xDv7AnhpXtY.json) | — |  |
+| 2024-10-06 | [10-6-24 Flu super ticked off about it](corpus/videos/4qOZhPpS3Co.json) | — |  |
+| 2024-10-06 | [10-6-24 Installed pull-up bar, finished mom's garage & parked car ther](corpus/videos/fg9JoabMxN0.json) | — |  |
+| 2024-10-05 | [10-5-24 Flu for 1st time in 20 years. Why you deserve 50K for memorizi](corpus/videos/EE2EUiGcy-M.json) | — |  |
+| 2024-10-05 | [10-5-24 Helped mom all day clear garage for car. Got way too high on p](corpus/videos/mpxx__RHMgw.json) | — |  |
+| 2024-10-04 | [10-4-24 Lifted 39,150 lbs, rode 1:10. Got the FLU](corpus/videos/heNRAXMht_M.json) | — |  |
+| 2024-10-04 | [10-4-24 Moved plants inside and figured out punch pads & timer clock. ](corpus/videos/ltGbwCeYFTE.json) | — |  |
+| 2024-10-03 | [10-3-24 Helped mom w/ garage, stretch hr, organized, got 2 more Budgie](corpus/videos/7orr1-YiFTA.json) | — |  |
+| 2024-10-02 | [10-2-24 Lifted 43,080 lbs, Ran .5 miles at 5, stretches hour, helped m](corpus/videos/d3QSfRbNVkE.json) | — |  |
+| 2024-10-01 | [10-1-24 More organization & studying best stretches, helped mom.](corpus/videos/xjxll_tnV2c.json) | — |  |
 | 2024-09-30 | [9-30-24 90% of Rocky Mountain National Park's Beaver habitat is UNOCCU](corpus/videos/BM5zSq1RLtQ.json) | kyle | Kyle argues that 90% of beaver habitat in Rocky Mountain National Park sits unoccupied and makes no sense given how easy |
+| 2024-09-30 | [9-30-24 Helped mom organize & clean all day + stretched a couple of ho](corpus/videos/Ty8BJkK7VF8.json) | — |  |
+| 2024-09-29 | [9-29-24 Rode 40 Mi, 4K'. 3.5 hrs NCAR, Flagstaff, 4 Mile canyon. Stret](corpus/videos/b19tfTOlzsE.json) | — |  |
+| 2024-09-28 | [9-28-24 Lifted 84,060, Ran 1.5 mi, (mi 12:48) rowed 2k 10:06. Thomas A](corpus/videos/5KGZkOtDOgM.json) | — |  |
+| 2024-09-27 | [9-27-24 Finally organized and cleaned apartment (except for some shelv](corpus/videos/8_qTDXvIwM8.json) | — |  |
+| 2024-09-26 | [9-26-24  RODE 29.1 MI 3150 FEET Lee Hill, Lefthand Canyohn, Old Stage](corpus/videos/TMxS1NtAqo4.json) | — |  |
+| 2024-09-25 | [9-25-24 Been getting too high on my own supply so I gave my plant away](corpus/videos/SRP7kL2qzCs.json) | — |  |
 | 2024-09-18 | [9-18-24 lifted 121,930 lbs  Treadmill ran 3 mi in 47:29](corpus/videos/GyxfxgPJm6c.json) | — |  |
 | 2024-09-18 | [9-18-24 Lifted 121,930, Treadmill ran 3 mi in 47:29, stretched hour & ](corpus/videos/HDeEiLTl2SQ.json) | — |  |
 | 2024-09-17 | [9-17-24 Recline biked 3.5 mi 16:43 L13, lifted 29,100, today smoked my](corpus/videos/nZO6U2unlaU.json) | — |  |
