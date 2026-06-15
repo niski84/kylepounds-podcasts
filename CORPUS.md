@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-4437 videos with transcripts. Source of truth for transcripts + enrichments.
+4438 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -23,6 +23,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2025-04-08 | [Aurovedic Palm Reading @ 12 in 1986 - Some things turned out to be tru](corpus/videos/uOdaAyDtf60.json) | other | Kyle plays an old recording from 1986 when he was 12 years old, featuring an Ayurvedic palm reading session where a read |
 | 2025-04-07 | [Dumbell Fitness Test #2 2S35# 41 minutes. How strong are Y0U?!](corpus/videos/5aVjK09iZh0.json) | kyle | Kyle films himself doing a progressive dumbbell workout (sets of 10 reps at 10, 15, 25, and 35 pounds), narrating his fo |
 | 2025-03-13 | [Trump's Tarrifs in light of annexing countries -  Request](corpus/videos/en8ATShTj6k.json) | kyle | Kyle responds to a viewer request to revisit his thoughts on Trump's annexation ambitions (Greenland, Canada, Panama Can |
+| 2025-03-11 | [3-11-25 Got a recliner there should be recliner jumpers](corpus/videos/WpLl7YqJoS0.json) | — |  |
 | 2025-03-08 | [3-8-25 First day jumping at bike park](corpus/videos/2G8nUVgxEVc.json) | — |  |
 | 2025-03-07 | [3-7-25 Assembling bikes](corpus/videos/9TPAD0orDic.json) | — |  |
 | 2025-03-05 | [3-5-25 Gravel Rode Dirty Morgul Bismark 45.83 mi, 2,183 feet](corpus/videos/_ylgwfXqWH8.json) | — |  |
