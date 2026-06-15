@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-4385 videos with transcripts. Source of truth for transcripts + enrichments.
+4437 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -23,12 +23,64 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2025-04-08 | [Aurovedic Palm Reading @ 12 in 1986 - Some things turned out to be tru](corpus/videos/uOdaAyDtf60.json) | other | Kyle plays an old recording from 1986 when he was 12 years old, featuring an Ayurvedic palm reading session where a read |
 | 2025-04-07 | [Dumbell Fitness Test #2 2S35# 41 minutes. How strong are Y0U?!](corpus/videos/5aVjK09iZh0.json) | kyle | Kyle films himself doing a progressive dumbbell workout (sets of 10 reps at 10, 15, 25, and 35 pounds), narrating his fo |
 | 2025-03-13 | [Trump's Tarrifs in light of annexing countries -  Request](corpus/videos/en8ATShTj6k.json) | kyle | Kyle responds to a viewer request to revisit his thoughts on Trump's annexation ambitions (Greenland, Canada, Panama Can |
+| 2025-03-08 | [3-8-25 First day jumping at bike park](corpus/videos/2G8nUVgxEVc.json) | — |  |
+| 2025-03-07 | [3-7-25 Assembling bikes](corpus/videos/9TPAD0orDic.json) | — |  |
+| 2025-03-05 | [3-5-25 Gravel Rode Dirty Morgul Bismark 45.83 mi, 2,183 feet](corpus/videos/_ylgwfXqWH8.json) | — |  |
+| 2025-03-04 | [3-4-25 putting 10 bikes together](corpus/videos/aTYE18zfcMU.json) | — |  |
+| 2025-03-03 | [3-3-25 Assembling my eight bikes](corpus/videos/jhcj7p7f9Os.json) | — |  |
 | 2025-03-01 | [World Changing Opportunity T-Shirts! QR code your mental & physical st](corpus/videos/8_oH8hCmgiE.json) | kyle | Kyle presents a hand-made t-shirt he calls the 'Opportunity Shirt,' covered in 130 color-coded grid squares on front and |
+| 2025-03-01 | [3-1-25 Assembling Specialized Enduro Comp SL & got GT Sensor Elite Tra](corpus/videos/YTo0lWw0syQ.json) | — |  |
+| 2025-02-28 | [2-28-25 Hopefully gunna finish world saving Opportunity T-Shirt today](corpus/videos/RepWHqaHwd4.json) | — |  |
+| 2025-02-27 | [2-27-25 Building my Opportunity Shirt to save the world](corpus/videos/RCVBCN9pU-o.json) | — |  |
+| 2025-02-26 | [2-26-25 Paperwork and cleaning and organizing](corpus/videos/AuKtYwh32cE.json) | — |  |
+| 2025-02-24 | [2-24-25 Did paperwork, YouTube Ask Wow!](corpus/videos/Kb4sy_NBIFc.json) | — |  |
+| 2025-02-23 | [2-23-25 Indoor rode 5 hours yesterday felt better at end of ride than ](corpus/videos/a75mL0neHYE.json) | — |  |
 | 2025-02-22 | [QR Code business cards are the future of conversation](corpus/videos/H8qwm-zCUfs.json) | kyle | Kyle presents his idea of folded cardboard QR code 'business cards' containing up to 127 QR codes per card, each linking |
+| 2025-02-22 | [2-22-25 Gunna try to exercise today](corpus/videos/JMLdZOfe8p0.json) | — |  |
+| 2025-02-21 | [2-21-25 Tying up loose ends starting to assemble jumping bike Speciali](corpus/videos/AzACozXDq7Q.json) | — |  |
+| 2025-02-20 | [2-20-25 My back hurts so bad I need exercise or I can't function](corpus/videos/AxMX8guN5KQ.json) | — |  |
+| 2025-02-19 | [2-19-25 Depressing to not be hireable kylepounds.com](corpus/videos/8ThrsyKIjpo.json) | — |  |
+| 2025-02-18 | [2-18-25 Finished timeline template & full time job hunting again](corpus/videos/6b3eRMUYJt0.json) | — |  |
+| 2025-02-17 | [2-17-25 Timeline template and job hunting](corpus/videos/3rWiEb6dby8.json) | — |  |
+| 2025-02-17 | [2-17-25 Timeline template & job hunting](corpus/videos/kjQHlCyuGz8.json) | — |  |
+| 2025-02-16 | [2-16-25 Timeline Template & looking for a job](corpus/videos/1QWFBogMowI.json) | — |  |
+| 2025-02-14 | [2-14-25 Finishing Timeline template still looking for a job](corpus/videos/y1jTOh-RYPY.json) | — |  |
+| 2025-02-11 | [2-11-25 Timeline template, got seasonal full time job "mountain bike s](corpus/videos/H1wSI13jTyY.json) | — |  |
+| 2025-02-10 | [2-10-25 Timeline template, offered job at Antonina's care giving but w](corpus/videos/fbucpKcHufs.json) | — |  |
+| 2025-02-08 | [2-8-25 Timeline template and job hunting any job](corpus/videos/_78rmnh2D2Q.json) | — |  |
+| 2025-02-07 | [2-7-25 Timeline template and all kinds of job hunting](corpus/videos/onMwrpYRo4c.json) | — |  |
 | 2025-02-06 | [What I think about Prophets of Doom, Munster by Dan Carlin Podcast - R](corpus/videos/kfI6Byq9egM.json) | kyle | Kyle reviews Dan Carlin's 'Prophets of Doom' podcast episode about the Anabaptist takeover of Münster in 1534–1536, rete |
+| 2025-02-06 | [2-6-25 Timeline template and looking for all kinds of jobs](corpus/videos/qiEU0McASj4.json) | — |  |
+| 2025-02-05 | [2-5-25 Job hunting (anything 35K in debt), Finishing Timeline template](corpus/videos/dycq02drEs8.json) | — |  |
+| 2025-02-03 | [2-3-25 PLEASE hire me somebody ANYTHING let's make it work! I check ou](corpus/videos/E87TMNuGxUc.json) | — |  |
 | 2025-02-02 | [Trump wanting Panama, Canada & Greenland. Trump must depixilate Atlant](corpus/videos/cfsitVhPkf0.json) | kyle | Kyle responds to a viewer request about Trump's stated ambitions to acquire the Panama Canal, make Canada the 51st state |
+| 2025-02-02 | [2-2-25 Looking for a job and updating Timeline](corpus/videos/dqwJmtXj14M.json) | — |  |
+| 2025-02-02 | [2-2-25 Still pasting rainbow image holders for horizontal part of Time](corpus/videos/xTMiUsXl3NQ.json) | — |  |
+| 2025-02-01 | [2-1-25 Desperately trying to get my health back after another site rel](corpus/videos/A7ipsqaVS94.json) | — |  |
 | 2025-02-01 | [My plan to become objectively the smartest person EVER within a year b](corpus/videos/Eh_zeLMcgjw.json) | kyle | Kyle proposes replacing IQ tests with a history memorization test as the objective measure of intelligence, arguing that |
+| 2025-01-31 | [1-31-25 Job Hunting 100% again ANY JOB! QR cod card talk.](corpus/videos/BSOQ-NRc344.json) | — |  |
 | 2025-01-31 | [I figured out how to multitask riding and running inside (which I  nee](corpus/videos/T4qZDtEihz8.json) | kyle | Kyle describes a breakthrough: he can study his visual history timeline tests (a website he built covering 500 years of  |
+| 2025-01-30 | [1-30-25 Designed two QR code cards, w/ 74 & 240 Codes](corpus/videos/_dLhmbJEZGk.json) | — |  |
+| 2025-01-29 | [1-29-25 QR codes for site](corpus/videos/MpyGsXmaqnA.json) | — |  |
+| 2025-01-28 | [1-28-25 Got over my new card invention now just job hunting again (ANY](corpus/videos/as4fjkO_5WE.json) | — |  |
+| 2025-01-27 | [1-27-25 Collecting QR codes for site with ChatGTP. Describing my "Link](corpus/videos/qLsovh3OQqs.json) | — |  |
+| 2025-01-26 | [1-26-25 QR code Business Cards w/ 64 codes for study & conversational ](corpus/videos/7bPjFMpab7E.json) | — |  |
+| 2025-01-25 | [1-25-25 Timeline template but Dreamweaver broke so job hunting now ful](corpus/videos/5lCkOBJJO4E.json) | — |  |
+| 2025-01-24 | [1-24-25 Timeline Template](corpus/videos/sh1_uUY6w1w.json) | — |  |
+| 2025-01-21 | [1/21/25 Still organizing apartment, then get in shape and do law code ](corpus/videos/9DKoG20nfdw.json) | — |  |
+| 2025-01-17 | [1/17/25 US Law Code Day 1](corpus/videos/g23Inw37jKk.json) | — |  |
+| 2025-01-15 | [1-15-25 Timeline Template](corpus/videos/Go3AZYCVRCo.json) | — |  |
+| 2025-01-07 | [1-7-25 I could fill up my Timeline in a couple months with ChatGTP](corpus/videos/1H9EDYloEhE.json) | — |  |
+| 2025-01-06 | [1-6-25 Rapid GTP progress on Timeline](corpus/videos/1IUJUwgKqzU.json) | — |  |
+| 2025-01-04 | [1-4-25 Applying to jobs until I break and need to work on finishing ti](corpus/videos/8NiWXpEcn9c.json) | — |  |
+| 2025-01-04 | [1-4-25 More fixing up Timeline template & ChatGTPing my timeline](corpus/videos/Zd0mT5Rgk3c.json) | — |  |
+| 2025-01-03 | [1-3-25 Timeline prep & ChatGTP timeline for later](corpus/videos/7irAaDk8420.json) | — |  |
+| 2025-01-02 | [1-2-25 Cleaned house yesterday, retooling...](corpus/videos/Vexdo8ygqh8.json) | — |  |
+| 2025-01-01 | [1-1-25 Pasting final image holders on Timeline before I can add icons ](corpus/videos/_uwXwASodEs.json) | — |  |
+| 2024-12-31 | [12-31-24 Tedious pasting image holders for Timeline & looking for a jo](corpus/videos/g-wsByIsXHw.json) | — |  |
+| 2024-12-29 | [12-29-24 Upleveling (Leveling Up) Timeline cause I got excited about i](corpus/videos/ulOj2YK1nsM.json) | — |  |
+| 2024-12-28 | [12-28-24 Leveling up my Timeline pages that nobody cares about](corpus/videos/1BaiAHE5oJY.json) | — |  |
+| 2024-12-27 | [12-27-24 Updating Timeline that nobody cares about](corpus/videos/CSqI5X-4qYA.json) | — |  |
 | 2024-12-24 | [Thomas Cromwell by Diarmaid MacCulloch Book Review - I Do book request](corpus/videos/6AIHpZ5tWjU.json) | kyle | Kyle reviews the audiobook 'Thomas Cromwell' by Diarmaid MacCulloch (26+ hours, listened at 2x speed), admitting he bare |
 | 2024-12-24 | [12-24-24 WEBSITE RELAPSE!!! Ancient History Timeline. I need money or ](corpus/videos/D_5fUQ6kq9k.json) | — |  |
 | 2024-12-23 | [12-23-24 Lifted 37,800, Recline bike 54 minutes, stair master 88 fl](corpus/videos/Hs8fS7KiSoU.json) | — |  |

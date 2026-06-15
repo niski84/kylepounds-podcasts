@@ -1,0 +1,1061 @@
+{
+ "youtube_id": "1IUJUwgKqzU",
+ "title": "1-6-25 Rapid GTP progress on Timeline",
+ "url": "https://youtu.be/1IUJUwgKqzU",
+ "published_at": "2025-01-06",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 5.26,
+   "text": "How's it going? It's 10.55 a.m. on January 6th, Monday."
+  },
+  {
+   "start": 7.42,
+   "end": 14.7,
+   "text": "I'm like totally, like 100% in the website, so I got $30 of weed."
+  },
+  {
+   "start": 17.22,
+   "end": 24.1,
+   "text": "I wanted to go into the dispensary to give them my resume."
+  },
+  {
+   "start": 25.02,
+   "end": 27.16,
+   "text": "I was like, that's an excuse to get weed."
+  },
+  {
+   "start": 27.16,
+   "end": 39.76,
+   "text": "No, I needed to, I'm like doing amazing things on my, oh yeah, but they said they're not hiring now because it's like slow, but in the spring."
+  },
+  {
+   "start": 40.02,
+   "end": 45.26,
+   "text": "So maybe if I, maybe I could go in there and be like, what do you mean by the spring?"
+  },
+  {
+   "start": 46.1,
+   "end": 48.58,
+   "text": "But I, maybe when I, oh God, I don't have the money."
+  },
+  {
+   "start": 49.34,
+   "end": 54.52,
+   "text": "I'm going to give one to the other one too though, because the other dispensary right next to it said that I should give them a resume."
+  },
+  {
+   "start": 54.52,
+   "end": 61.58,
+   "text": "Anyway, but, um, but I need to find my little card, but, uh, yeah."
+  },
+  {
+   "start": 61.74,
+   "end": 72.08,
+   "text": "So man, cause today, like, oh God, I think today my mom wanted to come over and help me write stuff if she wants to, I guess."
+  },
+  {
+   "start": 72.08,
+   "end": 79.72,
+   "text": "But, uh, God, I'd love to just sit here and, uh, uh, do chat GTP."
+  },
+  {
+   "start": 81.1,
+   "end": 82.28,
+   "text": "Can't do it right now."
+  },
+  {
+   "start": 82.58,
+   "end": 85.1,
+   "text": "Computer's doing a, uh, whatchamacallit."
+  },
+  {
+   "start": 85.52,
+   "end": 88.16,
+   "text": "Yeah, I actually cleaned that screen now that the thing's thinking."
+  },
+  {
+   "start": 88.88,
+   "end": 90.04,
+   "text": "It's only two minutes left."
+  },
+  {
+   "start": 90.04,
+   "end": 103.12,
+   "text": "An update, but, um, yesterday, like, it's really fast, like, I think it was yesterday I finished, um, maybe it was like one day's worth of work."
+  },
+  {
+   "start": 104.26,
+   "end": 110.42,
+   "text": "Yeah, doing North Africa, 1900, like the whole 20th century."
+  },
+  {
+   "start": 110.42,
+   "end": 125.38,
+   "text": "So that means two different pages, because I have one that's 1900 to 1950 and 1950 to 2000, and then I could also put those into, um, into the, you know, 500 to 2000 section."
+  },
+  {
+   "start": 125.88,
+   "end": 127.38,
+   "text": "Yeah, but I did it for North Africa."
+  },
+  {
+   "start": 127.5,
+   "end": 128.86,
+   "text": "So every country in North Africa."
+  },
+  {
+   "start": 128.86,
+   "end": 132.86,
+   "text": "Africa, I mean, I did everything in Africa."
+  },
+  {
+   "start": 134.22,
+   "end": 135.4,
+   "text": "Yeah, all of Africa."
+  },
+  {
+   "start": 136.4,
+   "end": 141.34,
+   "text": "So I, and Africa's like the biggest, it has the one, the only one with five sections, and so then I got started with Asia."
+  },
+  {
+   "start": 141.46,
+   "end": 142.78,
+   "text": "I'm like, well, if I can do Africa in a day."
+  },
+  {
+   "start": 144.72,
+   "end": 146.72,
+   "text": "And, um, let's do Asia."
+  },
+  {
+   "start": 146.9,
+   "end": 158.38,
+   "text": "So, um, yeah, I got started with Asia, and I did, um, I think America and Canada already, so then I'll go and do the Americans, do the Americas, and then, yeah, the whole world."
+  },
+  {
+   "start": 159.76,
+   "end": 161.42,
+   "text": "And so then all I have to do is paste it."
+  },
+  {
+   "start": 161.5,
+   "end": 162.28,
+   "text": "It's like, oh my God."
+  },
+  {
+   "start": 162.96,
+   "end": 166.98,
+   "text": "Because I pasted three countries, um, yeah, so far."
+  },
+  {
+   "start": 167.16,
+   "end": 171.34,
+   "text": "But the problem was, um, from Africa, but I couldn't, and yeah, it goes fast."
+  },
+  {
+   "start": 171.34,
+   "end": 176.3,
+   "text": "You just cut in every 500, in every 100 year segments, you know."
+  },
+  {
+   "start": 177.46,
+   "end": 182.94,
+   "text": "But, uh, you paste it into notes, and then from, like, all in one section."
+  },
+  {
+   "start": 183.1,
+   "end": 185.82,
+   "text": "So I just click it and go scroll down, it takes forever."
+  },
+  {
+   "start": 185.82,
+   "end": 189.02,
+   "text": "And then paste it onto notes, and cut it off notes onto there."
+  },
+  {
+   "start": 189.32,
+   "end": 195.78,
+   "text": "And, uh, uh, so quick, yeah."
+  },
+  {
+   "start": 195.94,
+   "end": 197.98,
+   "text": "And because I'm doing Asia now, and it's super quick."
+  },
+  {
+   "start": 198.06,
+   "end": 199.66,
+   "text": "Like, maybe I could even show, do a demo."
+  },
+  {
+   "start": 199.66,
+   "end": 207.66,
+   "text": "Let's see if we, just a sec, let's see if we go up."
+  },
+  {
+   "start": 209.48,
+   "end": 213.28,
+   "text": "Let's see if we, we boot, like, how we were."
+  },
+  {
+   "start": 214.72,
+   "end": 215.12,
+   "text": "No."
+  },
+  {
+   "start": 215.12,
+   "end": 225.96,
+   "text": "Um, I'm, like, super baked."
+  },
+  {
+   "start": 226.08,
+   "end": 227.52,
+   "text": "Yeah, it's just thinking, can't do it."
+  },
+  {
+   "start": 228.46,
+   "end": 232.04,
+   "text": "But, um, I can't even remember what we were gonna do."
+  },
+  {
+   "start": 235.12,
+   "end": 235.48,
+   "text": "Whatever."
+  },
+  {
+   "start": 236.84,
+   "end": 242.74,
+   "text": "Um, so, today I got up, and I'm like, I was laying in bed."
+  },
+  {
+   "start": 244.24,
+   "end": 246.88,
+   "text": "And, uh, I was, yeah, I did a couple countries."
+  },
+  {
+   "start": 247.08,
+   "end": 249.26,
+   "text": "You just, you click, um, what I do is I go,"
+  },
+  {
+   "start": 249.26,
+   "end": 257.68,
+   "text": "Where I show it, what happened in Japan in, from 1900 to 1909."
+  },
+  {
+   "start": 259.42,
+   "end": 263.42,
+   "text": "And then it goes, and then I go, and then I just say 10s."
+  },
+  {
+   "start": 263.76,
+   "end": 265.9,
+   "text": "And then it goes, and then I go 20s, and it knows."
+  },
+  {
+   "start": 267.28,
+   "end": 268.84,
+   "text": "Wish I remembered what I was doing."
+  },
+  {
+   "start": 269.72,
+   "end": 271.08,
+   "text": "Wasn't I gonna show something?"
+  },
+  {
+   "start": 271.58,
+   "end": 272.26,
+   "text": "No, it's not."
+  },
+  {
+   "start": 272.32,
+   "end": 275.36,
+   "text": "It's not responding to anything, so maybe it's warming up."
+  },
+  {
+   "start": 275.36,
+   "end": 286.53,
+   "text": "So, um, yeah, today I'm like, oh man, I wanna, like, see if I could do all of Asia."
+  },
+  {
+   "start": 287.97,
+   "end": 290.27,
+   "text": "And then I could get it onto the notes."
+  },
+  {
+   "start": 291.17,
+   "end": 295.45,
+   "text": "And then, maybe I could do, like, the whole world, you know?"
+  },
+  {
+   "start": 295.85,
+   "end": 297.07,
+   "text": "Like, with this weed I have."
+  },
+  {
+   "start": 298.15,
+   "end": 304.71,
+   "text": "Just sit here and pump it into, um, into, uh, into there."
+  },
+  {
+   "start": 304.71,
+   "end": 307.51,
+   "text": "And then I could get the whole world onto notes."
+  },
+  {
+   "start": 307.69,
+   "end": 309.69,
+   "text": "And I also have, like, all of the future."
+  },
+  {
+   "start": 310.49,
+   "end": 311.69,
+   "text": "So I have to prep the future."
+  },
+  {
+   "start": 311.93,
+   "end": 313.87,
+   "text": "So, but the problem is I have to prep my website."
+  },
+  {
+   "start": 314.77,
+   "end": 316.01,
+   "text": "Because I got confused."
+  },
+  {
+   "start": 316.25,
+   "end": 317.73,
+   "text": "Because this is, like, at the end of the night."
+  },
+  {
+   "start": 317.79,
+   "end": 319.25,
+   "text": "This is, like, 3.30 in the morning."
+  },
+  {
+   "start": 319.37,
+   "end": 320.41,
+   "text": "I was, like, really tired."
+  },
+  {
+   "start": 322.47,
+   "end": 323.71,
+   "text": "And, uh..."
+  },
+  {
+   "start": 325.33,
+   "end": 325.97,
+   "text": "Hmm."
+  },
+  {
+   "start": 326.87,
+   "end": 327.43,
+   "text": "Um..."
+  },
+  {
+   "start": 327.43,
+   "end": 329.39,
+   "text": "I mixed up a country."
+  },
+  {
+   "start": 329.83,
+   "end": 331.85,
+   "text": "Like, one was in a place it wasn't."
+  },
+  {
+   "start": 331.85,
+   "end": 333.91,
+   "text": "And I looked up, is it, which one was on the right one?"
+  },
+  {
+   "start": 333.91,
+   "end": 337.09,
+   "text": "And I didn't put the, uh, the font."
+  },
+  {
+   "start": 337.27,
+   "end": 339.07,
+   "text": "Like, yeah."
+  },
+  {
+   "start": 339.27,
+   "end": 340.57,
+   "text": "So, on the top."
+  },
+  {
+   "start": 340.69,
+   "end": 341.63,
+   "text": "On the title, you know?"
+  },
+  {
+   "start": 341.79,
+   "end": 343.91,
+   "text": "Like, on my timeline I have, um..."
+  },
+  {
+   "start": 344.95,
+   "end": 347.47,
+   "text": "I have, like, whatever country you're on."
+  },
+  {
+   "start": 347.51,
+   "end": 348.41,
+   "text": "You know what country you're on."
+  },
+  {
+   "start": 348.45,
+   "end": 354.05,
+   "text": "Because the font of the, uh, the country is a different font."
+  },
+  {
+   "start": 354.15,
+   "end": 354.55,
+   "text": "It's bigger."
+  },
+  {
+   "start": 354.71,
+   "end": 355.69,
+   "text": "It's called the title font."
+  },
+  {
+   "start": 356.67,
+   "end": 358.63,
+   "text": "It's, like, his title that I use for most of my site."
+  },
+  {
+   "start": 358.63,
+   "end": 365.75,
+   "text": "And, uh, and then also, on some of them it has a red, um..."
+  },
+  {
+   "start": 365.75,
+   "end": 367.83,
+   "text": "Oh, and around it."
+  },
+  {
+   "start": 369.13,
+   "end": 372.13,
+   "text": "And I was, like, oh, this page doesn't have the title font around the country."
+  },
+  {
+   "start": 372.21,
+   "end": 373.67,
+   "text": "So, you don't know which country it is."
+  },
+  {
+   "start": 374.25,
+   "end": 376.39,
+   "text": "So, I was, like, okay, well, does this..."
+  },
+  {
+   "start": 376.39,
+   "end": 378.07,
+   "text": "I guess the page doesn't even have..."
+  },
+  {
+   "start": 378.07,
+   "end": 379.11,
+   "text": "Or, what's it called?"
+  },
+  {
+   "start": 379.19,
+   "end": 380.37,
+   "text": "I couldn't, I couldn't find it."
+  },
+  {
+   "start": 381.41,
+   "end": 383.27,
+   "text": "So, I started looking around on the site."
+  },
+  {
+   "start": 383.55,
+   "end": 384.41,
+   "text": "Like, on my website."
+  },
+  {
+   "start": 384.61,
+   "end": 385.21,
+   "text": "Clicking around."
+  },
+  {
+   "start": 385.21,
+   "end": 387.47,
+   "text": "And it's, like, none of the pages around it had it."
+  },
+  {
+   "start": 388.83,
+   "end": 390.89,
+   "text": "And I had to finally found one."
+  },
+  {
+   "start": 390.97,
+   "end": 391.85,
+   "text": "I'm, oh, my God."
+  },
+  {
+   "start": 391.85,
+   "end": 393.85,
+   "text": "I, like..."
+  },
+  {
+   "start": 393.85,
+   "end": 396.73,
+   "text": "I didn't realize that that wasn't built, either."
+  },
+  {
+   "start": 396.95,
+   "end": 399.79,
+   "text": "Like, I see some pages, you know."
+  },
+  {
+   "start": 399.91,
+   "end": 401.29,
+   "text": "And they're built up with everything."
+  },
+  {
+   "start": 404.81,
+   "end": 407.17,
+   "text": "And I don't realize that not the whole page..."
+  },
+  {
+   "start": 407.17,
+   "end": 410.65,
+   "text": "Like, site timeline is caught up."
+  },
+  {
+   "start": 410.65,
+   "end": 414.39,
+   "text": "And then I don't realize that, like, most of the stuff..."
+  },
+  {
+   "start": 414.39,
+   "end": 416.61,
+   "text": "Of the updates that I've done aren't caught up."
+  },
+  {
+   "start": 416.65,
+   "end": 419.63,
+   "text": "Like, I looked at the future, and it's not even the right background color."
+  },
+  {
+   "start": 420.95,
+   "end": 422.29,
+   "text": "It's, like..."
+  },
+  {
+   "start": 422.29,
+   "end": 425.17,
+   "text": "And the links, um..."
+  },
+  {
+   "start": 425.17,
+   "end": 430.97,
+   "text": "Haven't been added for, like, 500 segments in our ancient history for the, uh..."
+  },
+  {
+   "start": 430.97,
+   "end": 431.79,
+   "text": "Like, the future."
+  },
+  {
+   "start": 431.79,
+   "end": 439.01,
+   "text": "And the links somehow got broken that I still didn't fix to go back one on the 20th century."
+  },
+  {
+   "start": 439.01,
+   "end": 442.01,
+   "text": "So, uh..."
+  },
+  {
+   "start": 442.01,
+   "end": 445.31,
+   "text": "That's another thing I have to do."
+  },
+  {
+   "start": 446.45,
+   "end": 451.42,
+   "text": "Um, dang."
+  },
+  {
+   "start": 452.08,
+   "end": 454.18,
+   "text": "I was thinking about getting four more birds."
+  },
+  {
+   "start": 454.34,
+   "end": 455.32,
+   "text": "Like, whenever I had the money."
+  },
+  {
+   "start": 455.46,
+   "end": 456.48,
+   "text": "And then I would have eight birds."
+  },
+  {
+   "start": 456.62,
+   "end": 457.5,
+   "text": "But..."
+  },
+  {
+   "start": 457.5,
+   "end": 460.68,
+   "text": "That might be so loud that the neighbors would complain."
+  },
+  {
+   "start": 460.96,
+   "end": 461.26,
+   "text": "You know?"
+  },
+  {
+   "start": 461.4,
+   "end": 462.58,
+   "text": "Like, people..."
+  },
+  {
+   "start": 462.58,
+   "end": 464.32,
+   "text": "Like, the neighbors across the wall."
+  },
+  {
+   "start": 464.52,
+   "end": 464.86,
+   "text": "You know?"
+  },
+  {
+   "start": 464.96,
+   "end": 467.26,
+   "text": "And, like, across the hallway would hear it."
+  },
+  {
+   "start": 468.02,
+   "end": 471.82,
+   "text": "Because sometimes you can hear the birds as I'm going down the hallway."
+  },
+  {
+   "start": 472.4,
+   "end": 473.84,
+   "text": "Even through the door."
+  },
+  {
+   "start": 474.64,
+   "end": 475.4,
+   "text": "But, um..."
+  },
+  {
+   "start": 476.12,
+   "end": 478.14,
+   "text": "You know, if I was somebody's neighbor, I'd like it."
+  },
+  {
+   "start": 478.16,
+   "end": 479.52,
+   "text": "Because it would be, like, a faint sound."
+  },
+  {
+   "start": 479.6,
+   "end": 481.7,
+   "text": "It'd kind of make you feel like you're outside, you know?"
+  },
+  {
+   "start": 482.66,
+   "end": 483.34,
+   "text": "But..."
+  },
+  {
+   "start": 483.34,
+   "end": 484.78,
+   "text": "This is a little loud."
+  },
+  {
+   "start": 486.44,
+   "end": 490.08,
+   "text": "Oh, they usually tweet as soon as I start talking and flying around."
+  },
+  {
+   "start": 491.02,
+   "end": 491.4,
+   "text": "That way..."
+  },
+  {
+   "start": 491.4,
+   "end": 491.9,
+   "text": "That way..."
+  },
+  {
+   "start": 491.9,
+   "end": 496.47,
+   "text": "That one is going nuts on the mirror."
+  },
+  {
+   "start": 496.97,
+   "end": 498.01,
+   "text": "That's the adventurous one."
+  },
+  {
+   "start": 498.95,
+   "end": 500.35,
+   "text": "I need to clean his mirror."
+  },
+  {
+   "start": 500.63,
+   "end": 502.09,
+   "text": "They're always in front of that mirror."
+  },
+  {
+   "start": 502.09,
+   "end": 502.45,
+   "text": "Or..."
+  },
+  {
+   "start": 502.45,
+   "end": 505.7,
+   "text": "Anyway..."
+  },
+  {
+   "start": 505.7,
+   "end": 509.33,
+   "text": "So, um..."
+  },
+  {
+   "start": 509.33,
+   "end": 513.57,
+   "text": "That's why I just want to sit around and get this caught up."
+  },
+  {
+   "start": 513.65,
+   "end": 516.33,
+   "text": "Because I'm like, oh my god, I can't believe this is..."
+  },
+  {
+   "start": 516.33,
+   "end": 517.31,
+   "text": "So fast."
+  },
+  {
+   "start": 517.37,
+   "end": 519.09,
+   "text": "I could get the timeline, like..."
+  },
+  {
+   "start": 519.09,
+   "end": 521.03,
+   "text": "In maybe a week or two or something."
+  },
+  {
+   "start": 521.67,
+   "end": 523.33,
+   "text": "I could get the timeline..."
+  },
+  {
+   "start": 524.13,
+   "end": 525.49,
+   "text": "Um..."
+  },
+  {
+   "start": 525.49,
+   "end": 526.11,
+   "text": "Like, working."
+  },
+  {
+   "start": 526.31,
+   "end": 526.79,
+   "text": "Like, done."
+  },
+  {
+   "start": 527.03,
+   "end": 527.33,
+   "text": "You know?"
+  },
+  {
+   "start": 528.53,
+   "end": 529.89,
+   "text": "To the level of..."
+  },
+  {
+   "start": 529.89,
+   "end": 530.59,
+   "text": "Of it..."
+  },
+  {
+   "start": 530.59,
+   "end": 531.67,
+   "text": "Of, like, chat GTP."
+  },
+  {
+   "start": 532.05,
+   "end": 532.93,
+   "text": "Just the text."
+  },
+  {
+   "start": 532.93,
+   "end": 544.96,
+   "text": "And then I can just, in my own schedule, whenever I want, you just copy the text from that segment."
+  },
+  {
+   "start": 545.48,
+   "end": 546.88,
+   "text": "And then, uh..."
+  },
+  {
+   "start": 546.88,
+   "end": 548.12,
+   "text": "Paste it onto chat GTP."
+  },
+  {
+   "start": 548.42,
+   "end": 548.62,
+   "text": "Yeah."
+  },
+  {
+   "start": 548.74,
+   "end": 550.48,
+   "text": "And you tell it to..."
+  },
+  {
+   "start": 550.48,
+   "end": 553.2,
+   "text": "Put it into their appropriate, uh..."
+  },
+  {
+   "start": 553.2,
+   "end": 553.66,
+   "text": "Tables."
+  },
+  {
+   "start": 553.88,
+   "end": 554.18,
+   "text": "You know?"
+  },
+  {
+   "start": 554.24,
+   "end": 556.7,
+   "text": "Like, this section go into a table that has this..."
+  },
+  {
+   "start": 557.9,
+   "end": 558.7,
+   "text": "Um..."
+  },
+  {
+   "start": 558.7,
+   "end": 560.0,
+   "text": "Border around it."
+  },
+  {
+   "start": 560.0,
+   "end": 560.56,
+   "text": "And then, yeah."
+  },
+  {
+   "start": 560.68,
+   "end": 561.84,
+   "text": "They could make my whole thing."
+  },
+  {
+   "start": 562.04,
+   "end": 564.18,
+   "text": "And maybe that wouldn't take..."
+  },
+  {
+   "start": 564.18,
+   "end": 564.52,
+   "text": "You know?"
+  },
+  {
+   "start": 564.62,
+   "end": 565.82,
+   "text": "That wouldn't take as long either."
+  },
+  {
+   "start": 565.94,
+   "end": 566.38,
+   "text": "So..."
+  },
+  {
+   "start": 566.38,
+   "end": 570.8,
+   "text": "So what I'm trying to do now is just get the countries onto my..."
+  },
+  {
+   "start": 570.8,
+   "end": 570.98,
+   "text": "Yeah."
+  },
+  {
+   "start": 571.04,
+   "end": 572.38,
+   "text": "I don't see any reason why I couldn't..."
+  },
+  {
+   "start": 574.48,
+   "end": 575.76,
+   "text": "You have chat GTP, right?"
+  },
+  {
+   "start": 576.18,
+   "end": 580.46,
+   "text": "And then put it on my website for the whole 20th century."
+  },
+  {
+   "start": 582.36,
+   "end": 583.66,
+   "text": "So, um..."
+  },
+  {
+   "start": 583.66,
+   "end": 585.4,
+   "text": "Um..."
+  },
+  {
+   "start": 585.4,
+   "end": 595.49,
+   "text": "Yeah."
+  },
+  {
+   "start": 596.63,
+   "end": 599.17,
+   "text": "Um..."
+  },
+  {
+   "start": 599.17,
+   "end": 599.69,
+   "text": "So..."
+  },
+  {
+   "start": 599.69,
+   "end": 600.93,
+   "text": "But I can't buy weed anymore."
+  },
+  {
+   "start": 601.27,
+   "end": 604.35,
+   "text": "Like, I got 30 bucks because it was, um..."
+  },
+  {
+   "start": 604.35,
+   "end": 605.97,
+   "text": "I should film them next time I do that."
+  },
+  {
+   "start": 607.25,
+   "end": 610.67,
+   "text": "It was 30 bucks, um..."
+  },
+  {
+   "start": 610.67,
+   "end": 611.63,
+   "text": "Uh..."
+  },
+  {
+   "start": 611.63,
+   "end": 614.77,
+   "text": "And it'll only last maybe a couple days when I'm just sitting here all day long."
+  },
+  {
+   "start": 614.99,
+   "end": 616.67,
+   "text": "But I can't..."
+  },
+  {
+   "start": 616.67,
+   "end": 619.29,
+   "text": "I can't, you know, get another $30 of weed."
+  },
+  {
+   "start": 619.29,
+   "end": 621.19,
+   "text": "I got it because it was at the beginning of the bus."
+  },
+  {
+   "start": 624.23,
+   "end": 627.43,
+   "text": "I was just kind of cheating money from last month."
+  },
+  {
+   "start": 627.53,
+   "end": 627.91,
+   "text": "I don't know."
+  },
+  {
+   "start": 629.53,
+   "end": 629.97,
+   "text": "Um..."
+  },
+  {
+   "start": 629.97,
+   "end": 633.03,
+   "text": "So I'll have to, I guess, go to the gym to keep myself from going crazy."
+  },
+  {
+   "start": 633.27,
+   "end": 635.05,
+   "text": "I don't know if I could sit around all day like this."
+  },
+  {
+   "start": 635.63,
+   "end": 636.21,
+   "text": "But maybe I could."
+  },
+  {
+   "start": 637.97,
+   "end": 638.45,
+   "text": "Um..."
+  },
+  {
+   "start": 638.45,
+   "end": 640.29,
+   "text": "But, uh..."
+  },
+  {
+   "start": 640.29,
+   "end": 646.01,
+   "text": "I think I also did."
+  },
+  {
+   "start": 646.09,
+   "end": 647.33,
+   "text": "So then I can put it in the future."
+  },
+  {
+   "start": 647.57,
+   "end": 649.47,
+   "text": "And then I also, with chat GTP..."
+  },
+  {
+   "start": 649.47,
+   "end": 651.21,
+   "text": "And I think I put it onto my notes, too."
+  },
+  {
+   "start": 651.21,
+   "end": 653.87,
+   "text": "I've got it in 500-year segments."
+  },
+  {
+   "start": 654.31,
+   "end": 656.97,
+   "text": "Like, all of the African countries, too."
+  },
+  {
+   "start": 657.25,
+   "end": 657.93,
+   "text": "Oh, that's my mom."
+  },
+  {
+   "start": 658.75,
+   "end": 660.65,
+   "text": "It's like I could maybe do the whole site."
+  },
+  {
+   "start": 661.03,
+   "end": 661.83,
+   "text": "All right, I'll talk to you later."
+  }
+ ]
+}
