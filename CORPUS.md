@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-4098 videos with transcripts. Source of truth for transcripts + enrichments.
+4208 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -42,6 +42,116 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2024-09-05 | [Introducing FORTNIGHT HISTORY TEST so you don't havd to lick butthole ](corpus/videos/1h_K0tUetlg.json) | kyle | Kyle introduces his 'Fortnite History Test,' a bi-weekly self-graded quiz where you hit a random number generator to get |
 | 2024-09-05 | [1st Fortnight History Test, 1st AD. 154 points](corpus/videos/HygoxEUDccE.json) | kyle | Kyle attempts his first recorded bi-weekly history test, using a random number generator to select decades from 0–2000 A |
 | 2024-05-02 | [I found Atlantis - Requested by Jim](corpus/videos/wSGwbXErAq4.json) | kyle | Kyle presents his personal theory that Atlantis was located in the Bahamas, specifically around Andros Island, using mea |
+| 2024-04-14 | [4-14-24 Rainbow Borders Brain Candy good for Polybius](corpus/videos/VjdMxOe1loQ.json) | — |  |
+| 2024-04-13 | [4-13-24 Education Page](corpus/videos/SlUKexyJOIY.json) | — |  |
+| 2024-04-12 | [4-12-24 Education page fonts](corpus/videos/eeEOPwOV0XI.json) | — |  |
+| 2024-04-11 | [4-11-24 Education page font fixing](corpus/videos/phw_HXjZ5pU.json) | — |  |
+| 2024-04-10 | [4-10-24 CIA World Factbook page](corpus/videos/Pgg5xGcL4I0.json) | — |  |
+| 2024-04-09 | [4-9-24 CIA World Factbook page USA](corpus/videos/dzT3ARgTO-o.json) | — |  |
+| 2024-04-08 | [4/8/24 Gunna keep the side grid at 1K and leave the Myriad for later c](corpus/videos/hAXgbONz-iY.json) | — |  |
+| 2024-04-07 | [4/7/24 CIA World Factbook link section](corpus/videos/mBB7B41KDfs.json) | — |  |
+| 2024-04-05 | [4-5-24 Fonts on Education page and CIA World Facebook USA](corpus/videos/wHEKXlPS3Jc.json) | — |  |
+| 2024-04-04 | [4-4-24 Got Bank Loan. Adding fonts to history book section.](corpus/videos/VzcKIQ7zT4Y.json) | — |  |
+| 2024-04-02 | [4/2/24 Fonting CIA World Facebook Page](corpus/videos/-OO2fC2aHzw.json) | — |  |
+| 2024-04-01 | [4/1/24 CIA World Facebook on Education page](corpus/videos/gxGkRC6jAvo.json) | — |  |
+| 2024-03-31 | [3/31/24 Editing front page of kyle pounds.com for a week](corpus/videos/chgMM-PB2DU.json) | — |  |
+| 2024-03-24 | [3/24/24 Google Earthing New York in X Seed 4000](corpus/videos/uWo5X1KdwYc.json) | — |  |
+| 2024-03-08 | [3/8/24  Backing up and converting](corpus/videos/Oy49zjOP4Vk.json) | — |  |
+| 2024-03-07 | [3/7/24 Computer died at beginning of conversions. NEED MONEY FOR ANOTH](corpus/videos/R_Xk_jjxJOk.json) | — |  |
+| 2024-03-06 | [3/6/24 Converting videos for HyperDeck](corpus/videos/_Hfx3wznVow.json) | — |  |
+| 2024-03-05 | [3/5/24 Converting videos for hyper deck](corpus/videos/ksoB_jVcxYs.json) | — |  |
+| 2024-03-04 | [3/4/24 Converting clips for studio. Saw Savannah Monitor for 1st time ](corpus/videos/-FHPYTwZSW0.json) | — |  |
+| 2024-03-02 | [3/2/24 Applying for loans & setting up studio](corpus/videos/KHhjQq4c-KQ.json) | — |  |
+| 2024-03-01 | [3/1/24 Setting up Studio for a week 1st full day. Apple TV, hooked cam](corpus/videos/j4GvDaeHQcg.json) | — |  |
+| 2024-02-29 | [2-29-24 Finally finished organizing apt, started fixing studio. Reject](corpus/videos/eN9v8oAOxaM.json) | — |  |
+| 2024-02-28 | [2-28-24 Still fixing apt](corpus/videos/4KRqiK5Eu84.json) | — |  |
+| 2024-02-27 | [2-27-24 Organizing & Fixing apt still](corpus/videos/WyV5YW3P1Xc.json) | — |  |
+| 2024-02-26 | [2-26-24 Fixing Apt. & Studio for 32 hrs what fun](corpus/videos/zYLlozF9Czk.json) | — |  |
+| 2024-02-25 | [2/25/24 Fixing Studio](corpus/videos/fiIBSh4bnAQ.json) | — |  |
+| 2024-02-24 | [2/24/24 Insomnia Problems](corpus/videos/99GBpiRnUoY.json) | — |  |
+| 2024-02-22 | [2/22/24 Fixing Studio](corpus/videos/ZqBd25GdLOo.json) | — |  |
+| 2024-02-21 | [2/21/24 6,50 lbs 30min stretching. 1st time lifting at home.](corpus/videos/8oqOeRAo-Uo.json) | — |  |
+| 2024-02-18 | [2/18/24 Put work out videos on my phone. lifted 35,310 Ran 2 mi 23:25 ](corpus/videos/kOk4RB8dYr8.json) | — |  |
+| 2024-02-17 | [2/17/24 SOUND THE ALARM!!! Some IDIOT Depixilated Atlantis last week!!](corpus/videos/riV9Zz8W8B8.json) | — |  |
+| 2024-02-16 | [2/16/24 Turning Cormier v Jones 1 into a real self sparring match](corpus/videos/xYsNVjm7VXI.json) | — |  |
+| 2024-02-15 | [2/15/24 Lifted 94,080 lbs ran 2 miles](corpus/videos/6k1O2sEt5wM.json) | — |  |
+| 2024-02-14 | [2/14/24 Finished organizing & cleaning apt](corpus/videos/UvxIaZUPOBU.json) | — |  |
+| 2024-02-13 | [2/13/24 Organizing apt](corpus/videos/BmvIkzoMPTg.json) | — |  |
+| 2024-02-12 | [2/12/24 Organizing apt.](corpus/videos/Bfc299JRusw.json) | — |  |
+| 2024-02-11 | [2/11/24 Organizing apt](corpus/videos/O5Rk5Sph0d4.json) | — |  |
+| 2024-02-10 | [2/10/24 Organizing apt, went to Apple Store, hung out w/ mom](corpus/videos/KZOst6BUVhs.json) | — |  |
+| 2024-02-09 | [2/9/24 Organizing Apt.](corpus/videos/hhYp8ngEFlU.json) | — |  |
+| 2024-02-08 | [2/8/24 Organizing Apt. Phone locked me out. Check out my bike book.](corpus/videos/WF0_gMSZZxQ.json) | — |  |
+| 2024-02-03 | [2/3/24 Vegged out today](corpus/videos/tTGHHwXMxHc.json) | — |  |
+| 2024-02-02 | [2/2/24 Lifted 119,050 lbs, Rowed 2K, Ran 3 Mi in 3:11:22 Flexing](corpus/videos/ty0cthXNGIY.json) | — |  |
+| 2024-02-01 | [2/1/24 Trying to do paperwork for loan. Worked out for first time.](corpus/videos/zeawMemC764.json) | — |  |
+| 2024-01-30 | [1/30/24 Organizing & Cleaning apt](corpus/videos/MQI2PKE8wGM.json) | — |  |
+| 2024-01-29 | [1/29/24 Organizing and stuff](corpus/videos/szVR63ZatAI.json) | — |  |
+| 2024-01-28 | [1/28/24 Organizing apt & explaining points system for Kyle pounds reli](corpus/videos/hpVbzyZ7KBI.json) | — |  |
+| 2024-01-27 | [1/27/24 Organizing apt Uyghurs](corpus/videos/-vUDDWh00J8.json) | — |  |
+| 2024-01-26 | [1/26/24 Organizing apt](corpus/videos/6xhhWGIsrnM.json) | — |  |
+| 2024-01-25 | [1/25/24 Organizing apt](corpus/videos/jvGz9imrd9U.json) | — |  |
+| 2024-01-24 | [1/24/24 Organizing apt & watching fast and furious blew up Rome](corpus/videos/zJ2UnrVaKnQ.json) | — |  |
+| 2024-01-23 | [1/23/24 Organizing apartment](corpus/videos/9m_E4G8BPCg.json) | — |  |
+| 2024-01-22 | [1-22-24 Timeline Template](corpus/videos/4XOPQ9SqztI.json) | — |  |
+| 2024-01-22 | [1/22/24 Still organizing apt. Ferrets did mosh pit](corpus/videos/hLRWMLVLujc.json) | — |  |
+| 2024-01-21 | [1-21-24 Timeline Template](corpus/videos/4YcGLJBjDnU.json) | — |  |
+| 2024-01-20 | [1/20/24 Lifted 9,430 lbs Ran Mile  +1 ran mile 11:08. More apt. fixing](corpus/videos/QkOPMNnNzGQ.json) | — |  |
+| 2024-01-20 | [1/20/24 Got gym membership & fixing apartment](corpus/videos/SWKY0YPrdno.json) | — |  |
+| 2024-01-19 | [1/19/24 Organizing place so I can get a roommate & gunna get a gym mem](corpus/videos/sjxf74KJpBM.json) | — |  |
+| 2024-01-18 | [1/18/24 Too many injuries need to get back in shape](corpus/videos/HzZMhbie1aU.json) | — |  |
+| 2024-01-16 | [1/16/24 Finished Numbering & Filing 160K People on Google Earth](corpus/videos/UZAVTsdGCHE.json) | — |  |
+| 2024-01-16 | [1-16-24 Timeline Template](corpus/videos/gK2qn67Lu0Q.json) | — |  |
+| 2024-01-15 | [1/15/24 Finishing 160K People on Google Earth](corpus/videos/BLn_K27FffM.json) | — |  |
+| 2024-01-14 | [1/14/24 Numbering & Filing 40K People on Google Earth](corpus/videos/mm-2pOUCvCE.json) | — |  |
+| 2024-01-13 | [1/13/24 Numbering & Filing 40K People on Google Earth](corpus/videos/QLcWqmW3NrA.json) | — |  |
+| 2024-01-12 | [1/12/24 Numbering & Filing 40K People on Google Earth](corpus/videos/q7pFIIgRl5k.json) | — |  |
+| 2024-01-10 | [1/10/24 Numbering & Filing 40K People on Google Earth](corpus/videos/iYXA2z2Fyr4.json) | — |  |
+| 2024-01-08 | [1-8-24 Will ChatGTP 20th Cent Timeline in a couple days](corpus/videos/GjkNwiemQO8.json) | — |  |
+| 2024-01-07 | [1/7/24 Numbering & Filing 40K People on Google Earth](corpus/videos/n5cFhYM79cU.json) | — |  |
+| 2024-01-06 | [1/6/24 Numbering & Filing 40 K People on Google Earth](corpus/videos/OOIYwcZFNzs.json) | — |  |
+| 2024-01-05 | [1/5/24 Numbering & Filing 40K People on Google Earth](corpus/videos/iEzns_cH0DA.json) | — |  |
+| 2024-01-05 | [1-5-24 Adding image holders to Timeline & ChatGTPing Timeline](corpus/videos/wnAdZWVLpPM.json) | — |  |
+| 2024-01-04 | [1/4/24 Numbering & Filing 40K on Google Earth](corpus/videos/rOu_osgUwdM.json) | — |  |
+| 2024-01-03 | [1/3/24 Numbering & Filing 40K People on Google Earth](corpus/videos/IF9sm91mR7w.json) | — |  |
+| 2024-01-01 | [1/1/24 Numbering & Filing 40K People on Google Earth](corpus/videos/QtkE3Fl13rQ.json) | — |  |
+| 2023-12-31 | [12/31/23 Numbering & Filing 40K People on Google Earth](corpus/videos/IfWf2H_n2Js.json) | — |  |
+| 2023-12-30 | [12/30/23 Numbering & Filing 40K People on Google Earth](corpus/videos/OquhUq071AE.json) | — |  |
+| 2023-12-29 | [12/29/23 Numbering 40K People on Google Earth](corpus/videos/cuvrJ_94y7c.json) | — |  |
+| 2023-12-28 | [12/28/23 Numbering & Filing 40K People on Google Earth](corpus/videos/obj158_ACrw.json) | — |  |
+| 2023-12-27 | [12/27/23  Numbering and Filing 120K People on Google Earth](corpus/videos/17Fc1MWrFrs.json) | — |  |
+| 2023-12-26 | [12/26/23 Day 1 Numbering and Filing 40K People on Google Earth](corpus/videos/fUFQdgUDsTQ.json) | — |  |
+| 2023-12-25 | [12/25/23 Finished 120K People on Google Earth](corpus/videos/vggy_HXuHWU.json) | — |  |
+| 2023-12-24 | [12/24/23 Numbering 120K on Google Earth](corpus/videos/azoQ6btV29Y.json) | — |  |
+| 2023-12-22 | [12/22/23 Numbering 120K People on Google Earth](corpus/videos/-6I2zx8-s6k.json) | — |  |
+| 2023-12-21 | [12/21/23 Numbering 120K People on Google Earth](corpus/videos/B_y8Ep-HdbA.json) | — |  |
+| 2023-12-19 | [12/19/23 Numbering 120K People on Google Earth](corpus/videos/zDbd2en1jTY.json) | — |  |
+| 2023-12-18 | [12/18/23 Numbering 120K People on Google Earth](corpus/videos/NC9CjFyCNaE.json) | — |  |
+| 2023-12-17 | [12/17/23 Numbering 160K People on Google Earth](corpus/videos/RYgwdGjzIGg.json) | — |  |
+| 2023-12-16 | [12/16/23 Numbering 160K People on Google Earth](corpus/videos/DX2ox151wzo.json) | — |  |
+| 2023-12-15 | [12/15/23 Numbering 160K People on Google Earth](corpus/videos/TgQ78mA9C3k.json) | — |  |
+| 2023-12-14 | [12/14/23 Numbering 160K People on Google Earth](corpus/videos/fd7kXU-v8zs.json) | — |  |
+| 2023-12-13 | [12/13/23 Numbering 160K People on Google Earth](corpus/videos/Vb60xs2iWPo.json) | — |  |
+| 2023-12-11 | [12/11/23 Numbering 160K People on Google Earth](corpus/videos/EMKtZOF89PA.json) | — |  |
+| 2023-12-10 | [12/10/23 Numbering 160K People on Google Earth](corpus/videos/qHkb1gmvG78.json) | — |  |
+| 2023-12-09 | [12/9/23 Numbering 160K People on Google Earth](corpus/videos/4Jna4wuA_tc.json) | — |  |
+| 2023-12-07 | [12/7/23 Numbering 169K People on Google Earth](corpus/videos/F3q9jAOgn24.json) | — |  |
+| 2023-12-05 | [12/5/23 Numbering 160K People on Google Earth](corpus/videos/TD3hy8jGhU8.json) | — |  |
+| 2023-12-04 | [12/4/23 Numbering 160K People on Google Earth](corpus/videos/QGl07DD8woI.json) | — |  |
+| 2023-12-03 | [12/3/23 Numbering 160k people on Google Earth](corpus/videos/TFrMNO9v_SA.json) | — |  |
+| 2023-12-02 | [12/2/23 Numbering 160K People on Google Earth](corpus/videos/U_eoapbTDrM.json) | — |  |
+| 2023-12-01 | [12/1/23 Numbering 160K People on Google Earth](corpus/videos/qhNft6qkR1I.json) | — |  |
+| 2023-11-30 | [11/30/23 Numbering 160K People on Google Earth](corpus/videos/wOc-2e6Gy_0.json) | — |  |
+| 2023-11-29 | [11/29/23 Numbering 160K People on Google Earth](corpus/videos/nDmTnKIh4rs.json) | — |  |
+| 2023-11-28 | [11/28/23 Numbering 160K people on Google Earth](corpus/videos/icQJFjB3Rgk.json) | — |  |
+| 2023-11-27 | [11/27/23 Numbering 160K People on Google Earth](corpus/videos/XTNdSlpJ2Vc.json) | — |  |
+| 2023-11-25 | [11/25/23 Numbering 160K People on Google Earth](corpus/videos/UfiOTJDjJ1A.json) | — |  |
+| 2023-11-23 | [11/23/23 Thanksgiving & Napoleon Movie](corpus/videos/22lbXqlS9BY.json) | — |  |
+| 2023-11-22 | [11/22/23 Numbering 160K People on Google Earth](corpus/videos/gENtl9wbnHU.json) | — |  |
+| 2023-11-20 | [11/20/23 Numbering 160K People on Google Earth](corpus/videos/elmQK4JBijM.json) | — |  |
+| 2023-11-17 | [11/17/23 Numbering 160K People on Google Earth](corpus/videos/zffuyevQcNw.json) | — |  |
+| 2023-11-15 | [11/15/23 Numbering 160K People on Google Earth](corpus/videos/Wtn5okZVRn0.json) | — |  |
+| 2023-11-13 | [11/13/23 Numbering 160K People on Google Earth](corpus/videos/sWV_ayWL0Dw.json) | — |  |
 | 2023-11-10 | [11/10/23 Coloring 120K People on Google Earth](corpus/videos/mHQwoYPzC2I.json) | — |  |
 | 2023-11-09 | [11/9/23 Coloring 120K People on Google Earth](corpus/videos/b7VmZNqsuTE.json) | — |  |
 | 2023-11-08 | [11/8/23 Coloring 120K People on Google Earth](corpus/videos/qDCvlGWy2v4.json) | — |  |

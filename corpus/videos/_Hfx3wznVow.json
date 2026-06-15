@@ -1,0 +1,3981 @@
+{
+ "youtube_id": "_Hfx3wznVow",
+ "title": "3/6/24 Converting videos for HyperDeck",
+ "url": "https://youtu.be/_Hfx3wznVow",
+ "published_at": "2024-03-06",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 1.58,
+   "end": 8.66,
+   "text": "What's up, you know what I'm saying? This is my vlog for the 6th of March. You know what I'm saying?"
+  },
+  {
+   "start": 10.68,
+   "end": 24.94,
+   "text": "The 6th of March, you know what I'm saying? Wednesday, 2.56pm in 2024. See how it says it right there?"
+  },
+  {
+   "start": 24.94,
+   "end": 54.92,
+   "text": "Those are my birds. And so, can you see? This is basically the work. I'm setting up the batch edit. These are the towns of Greece. Dime. So I have to go here to Dime. Control C. Clickety click. Option C. Command V. Return."
+  },
+  {
+   "start": 54.94,
+   "end": 70.54,
+   "text": "Uh-uh, just use it. And then I got the other one. And so as you can see, there's hundreds of them. I double don't know, but it's a lot. Maybe 200? I don't know."
+  },
+  {
+   "start": 71.88,
+   "end": 76.42,
+   "text": "And I'm like halfway through. Oh shit, no, I think I'm less than halfway through, dude."
+  },
+  {
+   "start": 76.42,
+   "end": 91.8,
+   "text": "Anyway, um, and then I go clickety click and then it does the Ditch Delio. Each one of these is, uh, holy shit. 4 minutes and 29 seconds? Oh god. Oh god. Oh god."
+  },
+  {
+   "start": 91.8,
+   "end": 110.49,
+   "text": "Yeah. When this thing starts to, um, upload or render, I'm gonna have to keep a pretty close eye on the, uh, the space on the hard drive it's going to."
+  },
+  {
+   "start": 110.49,
+   "end": 120.92,
+   "text": "So I deleted everything, all the stuff off yesterday, but I have to make sure it has the space because you're looking at, you're looking at a, uh, space gobbler on this bitch."
+  },
+  {
+   "start": 121.58,
+   "end": 127.14,
+   "text": "Because it grows about 10 times. I think it's only about 12% the size of the other one, so."
+  },
+  {
+   "start": 127.96,
+   "end": 129.6,
+   "text": "Almost 10 times, um."
+  },
+  {
+   "start": 129.6,
+   "end": 133.3,
+   "text": "Um, and yeah, and it's already really big."
+  },
+  {
+   "start": 135.64,
+   "end": 139.46,
+   "text": "In order, I never did this before, when I sit at my studio before."
+  },
+  {
+   "start": 140.92,
+   "end": 150.92,
+   "text": "Eeeeee, I only did one to make sure that you could do it, and, um, but I never did the whole Delio, and, um, so I have to do it now."
+  },
+  {
+   "start": 150.92,
+   "end": 161.28,
+   "text": "So, I have to, uh, convert the videos so that my HyperDeck can play them, so that I can plug those videos in for the streaming."
+  },
+  {
+   "start": 161.52,
+   "end": 171.02,
+   "text": "So to make the video, I have to convert it, um, to, I have to convert it from the screen capture, which is already really big, and then it gets 10 times bigger than that."
+  },
+  {
+   "start": 171.3,
+   "end": 175.84,
+   "text": "Um, screen capture was in, uh, AVI from QuickTime."
+  },
+  {
+   "start": 175.84,
+   "end": 179.54,
+   "text": "But then I have to convert it into QuickTime?"
+  },
+  {
+   "start": 179.84,
+   "end": 184.16,
+   "text": "No, no, it was, uh, MP4 or something. I can't remember."
+  },
+  {
+   "start": 185.36,
+   "end": 185.76,
+   "text": "Yeah."
+  },
+  {
+   "start": 186.82,
+   "end": 189.2,
+   "text": "But then I have to convert it into an MOV?"
+  },
+  {
+   "start": 189.6,
+   "end": 191.08,
+   "text": "Eeeeee, QuickTime."
+  },
+  {
+   "start": 192.04,
+   "end": 194.44,
+   "text": "Apple ProRes 422 codec."
+  },
+  {
+   "start": 195.38,
+   "end": 199.74,
+   "text": "At a, uh, 1950 by 1026 resolution."
+  },
+  {
+   "start": 201.18,
+   "end": 204.96,
+   "text": "And you can all batch edit it, but, uh, the problem is,"
+  },
+  {
+   "start": 204.96,
+   "end": 208.36,
+   "text": "Uh, I have to name them, each of them."
+  },
+  {
+   "start": 208.8,
+   "end": 210.72,
+   "text": "Hey, look, my little rascal."
+  },
+  {
+   "start": 212.32,
+   "end": 213.28,
+   "text": "So, um,"
+  },
+  {
+   "start": 213.44,
+   "end": 217.06,
+   "text": "And then I have to do the same thing on the other computer."
+  },
+  {
+   "start": 218.1,
+   "end": 220.4,
+   "text": "Last, yes, morning, I got to sleep at 6 in the morning."
+  },
+  {
+   "start": 220.52,
+   "end": 221.18,
+   "text": "It got light out."
+  },
+  {
+   "start": 222.3,
+   "end": 224.66,
+   "text": "And I set up batch edits on two of the computers."
+  },
+  {
+   "start": 227.0,
+   "end": 228.08,
+   "text": "I was, um,"
+  },
+  {
+   "start": 230.04,
+   "end": 232.04,
+   "text": "I was, like, looking up at the computers, you know,"
+  },
+  {
+   "start": 232.12,
+   "end": 233.12,
+   "text": "For, like, a few hours."
+  },
+  {
+   "start": 233.22,
+   "end": 234.4,
+   "text": "Took me a few hours to get to sleep."
+  },
+  {
+   "start": 234.4,
+   "end": 234.92,
+   "text": "Um,"
+  },
+  {
+   "start": 234.92,
+   "end": 237.42,
+   "text": "And they were both just,"
+  },
+  {
+   "start": 237.78,
+   "end": 240.32,
+   "text": "Just cranking away, man,"
+  },
+  {
+   "start": 240.4,
+   "end": 241.84,
+   "text": "For hours and hours and hours."
+  },
+  {
+   "start": 242.02,
+   "end": 242.16,
+   "text": "So,"
+  },
+  {
+   "start": 242.92,
+   "end": 244.58,
+   "text": "This sucker will crank away for an hour."
+  },
+  {
+   "start": 244.68,
+   "end": 245.72,
+   "text": "And then I want to do that one."
+  },
+  {
+   "start": 246.42,
+   "end": 247.18,
+   "text": "And then I'll,"
+  },
+  {
+   "start": 247.88,
+   "end": 249.46,
+   "text": "Yeah, once those suckers get going,"
+  },
+  {
+   "start": 249.54,
+   "end": 250.12,
+   "text": "I'm gonna, yeah,"
+  },
+  {
+   "start": 250.2,
+   "end": 251.28,
+   "text": "Get going on the house as,"
+  },
+  {
+   "start": 251.86,
+   "end": 252.94,
+   "text": "Fast as I can."
+  },
+  {
+   "start": 253.04,
+   "end": 254.5,
+   "text": "Organize my stuff there."
+  },
+  {
+   "start": 254.5,
+   "end": 256.5,
+   "text": "Um,"
+  },
+  {
+   "start": 256.82,
+   "end": 257.92,
+   "text": "Figure out the bills."
+  },
+  {
+   "start": 261.26,
+   "end": 261.66,
+   "text": "Um,"
+  },
+  {
+   "start": 262.78,
+   "end": 263.14,
+   "text": "Yeah,"
+  },
+  {
+   "start": 263.2,
+   "end": 264.5,
+   "text": "Get caught up on house stuff."
+  },
+  {
+   "start": 265.1,
+   "end": 266.62,
+   "text": "While these suckers do the,"
+  },
+  {
+   "start": 266.62,
+   "end": 267.06,
+   "text": "Um,"
+  },
+  {
+   "start": 267.42,
+   "end": 268.28,
+   "text": "Batch editing"
+  },
+  {
+   "start": 268.28,
+   "end": 271.08,
+   "text": "Of all the videos."
+  },
+  {
+   "start": 271.16,
+   "end": 273.1,
+   "text": "And after I prepare all the videos,"
+  },
+  {
+   "start": 273.72,
+   "end": 274.3,
+   "text": "Um,"
+  },
+  {
+   "start": 274.5,
+   "end": 276.48,
+   "text": "You know,"
+  },
+  {
+   "start": 276.52,
+   "end": 278.48,
+   "text": "I'd like to have them stored"
+  },
+  {
+   "start": 278.48,
+   "end": 279.82,
+   "text": "In at least two different places."
+  },
+  {
+   "start": 280.82,
+   "end": 281.9,
+   "text": "I'm having to consolidate"
+  },
+  {
+   "start": 281.9,
+   "end": 282.7,
+   "text": "All my hard drives."
+  },
+  {
+   "start": 283.04,
+   "end": 283.14,
+   "text": "Um,"
+  },
+  {
+   "start": 283.96,
+   "end": 285.12,
+   "text": "I have to find a cable"
+  },
+  {
+   "start": 285.12,
+   "end": 286.3,
+   "text": "And a power cable to one."
+  },
+  {
+   "start": 287.1,
+   "end": 288.38,
+   "text": "I'm gonna turn on this old one,"
+  },
+  {
+   "start": 288.46,
+   "end": 288.96,
+   "text": "But, uh,"
+  },
+  {
+   "start": 289.5,
+   "end": 290.34,
+   "text": "Cause I don't have the money"
+  },
+  {
+   "start": 290.34,
+   "end": 293.17,
+   "text": "To buy another one,"
+  },
+  {
+   "start": 294.03,
+   "end": 294.17,
+   "text": "But"
+  },
+  {
+   "start": 294.17,
+   "end": 296.35,
+   "text": "I did get a new card."
+  },
+  {
+   "start": 296.43,
+   "end": 296.93,
+   "text": "Maybe I should."
+  },
+  {
+   "start": 297.23,
+   "end": 300.14,
+   "text": "It's taking up tons of space."
+  },
+  {
+   "start": 300.26,
+   "end": 300.76,
+   "text": "But, um,"
+  },
+  {
+   "start": 301.4,
+   "end": 303.54,
+   "text": "Once I get all of my videos,"
+  },
+  {
+   "start": 304.28,
+   "end": 304.7,
+   "text": "You know,"
+  },
+  {
+   "start": 304.74,
+   "end": 305.46,
+   "text": "Ready to go,"
+  },
+  {
+   "start": 305.86,
+   "end": 307.46,
+   "text": "So I could just drag them."
+  },
+  {
+   "start": 307.52,
+   "end": 308.6,
+   "text": "You can drag 10 of them"
+  },
+  {
+   "start": 308.6,
+   "end": 309.52,
+   "text": "To the card."
+  },
+  {
+   "start": 310.26,
+   "end": 310.44,
+   "text": "You know,"
+  },
+  {
+   "start": 310.46,
+   "end": 311.08,
+   "text": "I have two cards."
+  },
+  {
+   "start": 312.88,
+   "end": 313.28,
+   "text": "Um,"
+  },
+  {
+   "start": 313.34,
+   "end": 313.86,
+   "text": "And they're 20,"
+  },
+  {
+   "start": 313.92,
+   "end": 315.26,
+   "text": "125 gigabyte cards"
+  },
+  {
+   "start": 315.26,
+   "end": 315.7,
+   "text": "Cause they could,"
+  },
+  {
+   "start": 315.82,
+   "end": 317.22,
+   "text": "So these videos can be as long"
+  },
+  {
+   "start": 317.22,
+   "end": 317.9,
+   "text": "As I want them."
+  },
+  {
+   "start": 319.5,
+   "end": 320.56,
+   "text": "Once a video gets too big,"
+  },
+  {
+   "start": 320.58,
+   "end": 321.16,
+   "text": "You can't drag it."
+  },
+  {
+   "start": 321.18,
+   "end": 321.72,
+   "text": "And there's a couple of them"
+  },
+  {
+   "start": 321.72,
+   "end": 322.22,
+   "text": "That are too big."
+  },
+  {
+   "start": 322.78,
+   "end": 323.32,
+   "text": "So I don't know"
+  },
+  {
+   "start": 323.32,
+   "end": 324.26,
+   "text": "If I need to break them up."
+  },
+  {
+   "start": 324.64,
+   "end": 324.96,
+   "text": "Um,"
+  },
+  {
+   "start": 326.18,
+   "end": 326.72,
+   "text": "Or what?"
+  },
+  {
+   "start": 326.8,
+   "end": 328.42,
+   "text": "Or maybe I can convert them smaller."
+  },
+  {
+   "start": 330.56,
+   "end": 331.86,
+   "text": "But I need to remember"
+  },
+  {
+   "start": 331.86,
+   "end": 333.12,
+   "text": "Which ones those are."
+  },
+  {
+   "start": 333.94,
+   "end": 335.3,
+   "text": "I think there was a tour of"
+  },
+  {
+   "start": 335.3,
+   "end": 338.04,
+   "text": "Atlantis that was like an hour"
+  },
+  {
+   "start": 338.04,
+   "end": 339.46,
+   "text": "And then I had one of like Rome"
+  },
+  {
+   "start": 339.46,
+   "end": 340.26,
+   "text": "That was like an hour."
+  },
+  {
+   "start": 340.5,
+   "end": 341.26,
+   "text": "But, um,"
+  },
+  {
+   "start": 342.02,
+   "end": 343.26,
+   "text": "Anyway, um,"
+  },
+  {
+   "start": 344.34,
+   "end": 344.92,
+   "text": "Yeah,"
+  },
+  {
+   "start": 344.96,
+   "end": 345.94,
+   "text": "After I get all these in,"
+  },
+  {
+   "start": 345.98,
+   "end": 346.68,
+   "text": "Then I can,"
+  },
+  {
+   "start": 347.44,
+   "end": 348.26,
+   "text": "I was thinking,"
+  },
+  {
+   "start": 348.36,
+   "end": 348.56,
+   "text": "You know,"
+  },
+  {
+   "start": 348.6,
+   "end": 349.28,
+   "text": "On the website"
+  },
+  {
+   "start": 349.28,
+   "end": 351.48,
+   "text": "You can write a little"
+  },
+  {
+   "start": 351.48,
+   "end": 352.76,
+   "text": "YouTube icon"
+  },
+  {
+   "start": 352.76,
+   "end": 354.62,
+   "text": "For the videos"
+  },
+  {
+   "start": 354.62,
+   "end": 355.58,
+   "text": "That I already made."
+  },
+  {
+   "start": 357.26,
+   "end": 358.26,
+   "text": "And then you can link"
+  },
+  {
+   "start": 358.26,
+   "end": 358.96,
+   "text": "To YouTube"
+  },
+  {
+   "start": 358.96,
+   "end": 359.9,
+   "text": "When I do the YouTube."
+  },
+  {
+   "start": 359.9,
+   "end": 360.54,
+   "text": "But, um,"
+  },
+  {
+   "start": 362.14,
+   "end": 362.9,
+   "text": "Uh,"
+  },
+  {
+   "start": 362.9,
+   "end": 365.48,
+   "text": "But then"
+  },
+  {
+   "start": 365.48,
+   "end": 366.0,
+   "text": "Get it"
+  },
+  {
+   "start": 366.0,
+   "end": 366.34,
+   "text": "Just"
+  },
+  {
+   "start": 366.34,
+   "end": 370.16,
+   "text": "When I build these,"
+  },
+  {
+   "start": 370.32,
+   "end": 370.76,
+   "text": "Um,"
+  },
+  {
+   "start": 370.86,
+   "end": 372.12,
+   "text": "Then I could get an idea"
+  },
+  {
+   "start": 372.12,
+   "end": 374.88,
+   "text": "Of the Googler stuff"
+  },
+  {
+   "start": 374.88,
+   "end": 375.52,
+   "text": "That I built"
+  },
+  {
+   "start": 375.52,
+   "end": 376.52,
+   "text": "That I have videos"
+  },
+  {
+   "start": 376.52,
+   "end": 377.1,
+   "text": "Made from"
+  },
+  {
+   "start": 377.1,
+   "end": 379.1,
+   "text": "And the Googler stuff"
+  },
+  {
+   "start": 379.1,
+   "end": 379.64,
+   "text": "That I built"
+  },
+  {
+   "start": 379.64,
+   "end": 380.98,
+   "text": "That I don't have"
+  },
+  {
+   "start": 380.98,
+   "end": 381.74,
+   "text": "Videos made from"
+  },
+  {
+   "start": 381.74,
+   "end": 382.38,
+   "text": "That I want to make"
+  },
+  {
+   "start": 382.38,
+   "end": 383.3,
+   "text": "Videos made from."
+  },
+  {
+   "start": 384.1,
+   "end": 385.0,
+   "text": "And then of course"
+  },
+  {
+   "start": 385.0,
+   "end": 385.84,
+   "text": "The next list"
+  },
+  {
+   "start": 385.84,
+   "end": 387.58,
+   "text": "Is Googler stuff"
+  },
+  {
+   "start": 387.58,
+   "end": 388.32,
+   "text": "That I have to finish"
+  },
+  {
+   "start": 388.32,
+   "end": 388.68,
+   "text": "Building."
+  },
+  {
+   "start": 388.68,
+   "end": 390.76,
+   "text": "You know,"
+  },
+  {
+   "start": 390.78,
+   "end": 391.36,
+   "text": "Or rebuild."
+  },
+  {
+   "start": 391.9,
+   "end": 393.22,
+   "text": "I lost a couple things."
+  },
+  {
+   "start": 394.56,
+   "end": 395.0,
+   "text": "Um,"
+  },
+  {
+   "start": 395.5,
+   "end": 397.32,
+   "text": "So,"
+  },
+  {
+   "start": 397.32,
+   "end": 398.06,
+   "text": "Uh,"
+  },
+  {
+   "start": 398.48,
+   "end": 403.72,
+   "text": "I want to,"
+  },
+  {
+   "start": 403.82,
+   "end": 404.26,
+   "text": "Um,"
+  },
+  {
+   "start": 406.44,
+   "end": 407.14,
+   "text": "Um,"
+  },
+  {
+   "start": 411.38,
+   "end": 411.62,
+   "text": "Yeah,"
+  },
+  {
+   "start": 411.64,
+   "end": 412.3,
+   "text": "Get to the part"
+  },
+  {
+   "start": 412.3,
+   "end": 412.88,
+   "text": "Where I have,"
+  },
+  {
+   "start": 412.96,
+   "end": 413.6,
+   "text": "I know what"
+  },
+  {
+   "start": 413.6,
+   "end": 414.32,
+   "text": "The videos"
+  },
+  {
+   "start": 414.32,
+   "end": 415.0,
+   "text": "I already made"
+  },
+  {
+   "start": 415.0,
+   "end": 415.7,
+   "text": "And then I won't"
+  },
+  {
+   "start": 415.7,
+   "end": 416.32,
+   "text": "Make new ones,"
+  },
+  {
+   "start": 416.44,
+   "end": 417.88,
+   "text": "But that's when"
+  },
+  {
+   "start": 417.88,
+   "end": 419.5,
+   "text": "I'll get to the next"
+  },
+  {
+   "start": 419.5,
+   "end": 420.08,
+   "text": "Level of the,"
+  },
+  {
+   "start": 420.22,
+   "end": 420.94,
+   "text": "Of the streaming."
+  },
+  {
+   "start": 420.94,
+   "end": 421.82,
+   "text": "And once I get"
+  },
+  {
+   "start": 421.82,
+   "end": 422.42,
+   "text": "Into the habit"
+  },
+  {
+   "start": 422.42,
+   "end": 422.88,
+   "text": "Of streaming,"
+  },
+  {
+   "start": 423.02,
+   "end": 423.7,
+   "text": "Being in shape,"
+  },
+  {
+   "start": 423.8,
+   "end": 424.3,
+   "text": "Exercising,"
+  },
+  {
+   "start": 424.6,
+   "end": 425.2,
+   "text": "Balanced life,"
+  },
+  {
+   "start": 425.28,
+   "end": 427.16,
+   "text": "Then I can get in"
+  },
+  {
+   "start": 427.16,
+   "end": 428.4,
+   "text": "And start throwing"
+  },
+  {
+   "start": 428.4,
+   "end": 428.66,
+   "text": "In,"
+  },
+  {
+   "start": 428.74,
+   "end": 428.92,
+   "text": "You know,"
+  },
+  {
+   "start": 428.96,
+   "end": 430.12,
+   "text": "Building videos."
+  },
+  {
+   "start": 430.28,
+   "end": 430.86,
+   "text": "It real,"
+  },
+  {
+   "start": 430.96,
+   "end": 431.42,
+   "text": "Cause it's fun."
+  },
+  {
+   "start": 431.46,
+   "end": 432.02,
+   "text": "It really doesn't"
+  },
+  {
+   "start": 432.02,
+   "end": 432.8,
+   "text": "Take any time"
+  },
+  {
+   "start": 432.8,
+   "end": 434.48,
+   "text": "To create the video"
+  },
+  {
+   "start": 434.48,
+   "end": 435.98,
+   "text": "Cause it's not really"
+  },
+  {
+   "start": 435.98,
+   "end": 436.28,
+   "text": "Work."
+  },
+  {
+   "start": 436.28,
+   "end": 436.76,
+   "text": "It's more like"
+  },
+  {
+   "start": 436.76,
+   "end": 437.32,
+   "text": "Tripping out over"
+  },
+  {
+   "start": 437.32,
+   "end": 437.64,
+   "text": "Something."
+  },
+  {
+   "start": 438.06,
+   "end": 438.8,
+   "text": "So if I wanted"
+  },
+  {
+   "start": 438.8,
+   "end": 439.52,
+   "text": "To do a video"
+  },
+  {
+   "start": 439.52,
+   "end": 440.96,
+   "text": "Of like a certain"
+  },
+  {
+   "start": 440.96,
+   "end": 441.72,
+   "text": "Building in Rome,"
+  },
+  {
+   "start": 442.56,
+   "end": 443.32,
+   "text": "You know,"
+  },
+  {
+   "start": 443.34,
+   "end": 444.02,
+   "text": "I could just open"
+  },
+  {
+   "start": 444.02,
+   "end": 444.6,
+   "text": "Up that on Google"
+  },
+  {
+   "start": 444.6,
+   "end": 444.98,
+   "text": "Earth."
+  },
+  {
+   "start": 445.16,
+   "end": 446.12,
+   "text": "I hit record."
+  },
+  {
+   "start": 447.78,
+   "end": 448.86,
+   "text": "I zoom in."
+  },
+  {
+   "start": 448.94,
+   "end": 449.52,
+   "text": "I do a little"
+  },
+  {
+   "start": 449.52,
+   "end": 450.2,
+   "text": "Panorama."
+  },
+  {
+   "start": 451.2,
+   "end": 451.74,
+   "text": "I'm like,"
+  },
+  {
+   "start": 451.8,
+   "end": 452.02,
+   "text": "Oh wow,"
+  },
+  {
+   "start": 452.06,
+   "end": 452.54,
+   "text": "This is cool."
+  },
+  {
+   "start": 452.58,
+   "end": 453.02,
+   "text": "I haven't seen"
+  },
+  {
+   "start": 453.02,
+   "end": 453.68,
+   "text": "This in forever."
+  },
+  {
+   "start": 453.8,
+   "end": 454.66,
+   "text": "That's pretty cool."
+  },
+  {
+   "start": 455.8,
+   "end": 456.6,
+   "text": "Zoom out."
+  },
+  {
+   "start": 456.84,
+   "end": 457.96,
+   "text": "And there's my video"
+  },
+  {
+   "start": 457.96,
+   "end": 458.78,
+   "text": "And all I have to"
+  },
+  {
+   "start": 458.78,
+   "end": 460.12,
+   "text": "Do is convert it"
+  },
+  {
+   "start": 460.12,
+   "end": 461.02,
+   "text": "And then I can"
+  },
+  {
+   "start": 461.02,
+   "end": 462.02,
+   "text": "Throw it onto my"
+  },
+  {
+   "start": 462.02,
+   "end": 462.66,
+   "text": "Hyper deck"
+  },
+  {
+   "start": 462.66,
+   "end": 464.12,
+   "text": "And make a YouTube"
+  },
+  {
+   "start": 464.12,
+   "end": 464.76,
+   "text": "Video out of it."
+  },
+  {
+   "start": 466.26,
+   "end": 467.06,
+   "text": "So you can do"
+  },
+  {
+   "start": 467.06,
+   "end": 467.66,
+   "text": "That piecemeal"
+  },
+  {
+   "start": 467.66,
+   "end": 468.54,
+   "text": "Easily without it"
+  },
+  {
+   "start": 468.54,
+   "end": 469.16,
+   "text": "Even really being"
+  },
+  {
+   "start": 469.16,
+   "end": 469.4,
+   "text": "Worked,"
+  },
+  {
+   "start": 469.48,
+   "end": 469.88,
+   "text": "Just it being"
+  },
+  {
+   "start": 469.88,
+   "end": 470.24,
+   "text": "Interesting."
+  },
+  {
+   "start": 470.44,
+   "end": 471.48,
+   "text": "So that's why"
+  },
+  {
+   "start": 471.48,
+   "end": 471.94,
+   "text": "I'm just trying"
+  },
+  {
+   "start": 471.94,
+   "end": 472.6,
+   "text": "To prepare all"
+  },
+  {
+   "start": 472.6,
+   "end": 473.22,
+   "text": "These suckers,"
+  },
+  {
+   "start": 473.44,
+   "end": 473.7,
+   "text": "Um,"
+  },
+  {
+   "start": 474.02,
+   "end": 474.64,
+   "text": "Convert them."
+  },
+  {
+   "start": 474.7,
+   "end": 475.26,
+   "text": "I wish I did it"
+  },
+  {
+   "start": 475.26,
+   "end": 475.58,
+   "text": "Before,"
+  },
+  {
+   "start": 475.72,
+   "end": 476.8,
+   "text": "But I guess I"
+  },
+  {
+   "start": 476.8,
+   "end": 477.12,
+   "text": "Didn't do it"
+  },
+  {
+   "start": 477.12,
+   "end": 477.76,
+   "text": "Before cause it"
+  },
+  {
+   "start": 477.76,
+   "end": 478.3,
+   "text": "Was going to be"
+  },
+  {
+   "start": 478.3,
+   "end": 479.0,
+   "text": "This time consuming"
+  },
+  {
+   "start": 479.0,
+   "end": 479.86,
+   "text": "And take up"
+  },
+  {
+   "start": 479.86,
+   "end": 480.5,
+   "text": "This much space."
+  },
+  {
+   "start": 480.94,
+   "end": 481.52,
+   "text": "I think I'm"
+  },
+  {
+   "start": 481.52,
+   "end": 481.72,
+   "text": "Going to go"
+  },
+  {
+   "start": 481.72,
+   "end": 482.16,
+   "text": "In the store"
+  },
+  {
+   "start": 482.16,
+   "end": 482.72,
+   "text": "And get an energy"
+  },
+  {
+   "start": 482.72,
+   "end": 482.94,
+   "text": "Drink."
+  },
+  {
+   "start": 483.5,
+   "end": 483.86,
+   "text": "So yeah,"
+  },
+  {
+   "start": 483.92,
+   "end": 484.28,
+   "text": "Of course,"
+  },
+  {
+   "start": 484.36,
+   "end": 485.1,
+   "text": "Since I was up"
+  },
+  {
+   "start": 485.1,
+   "end": 485.38,
+   "text": "Till"
+  },
+  {
+   "start": 485.38,
+   "end": 487.76,
+   "text": "Because most"
+  },
+  {
+   "start": 487.76,
+   "end": 488.2,
+   "text": "Of the day"
+  },
+  {
+   "start": 488.2,
+   "end": 488.66,
+   "text": "On one of the"
+  },
+  {
+   "start": 488.66,
+   "end": 489.44,
+   "text": "Computers,"
+  },
+  {
+   "start": 489.68,
+   "end": 490.12,
+   "text": "I was just"
+  },
+  {
+   "start": 490.12,
+   "end": 491.44,
+   "text": "Having to drag"
+  },
+  {
+   "start": 491.44,
+   "end": 491.9,
+   "text": "And drop"
+  },
+  {
+   "start": 491.9,
+   "end": 491.92,
+   "text": "And drop"
+  },
+  {
+   "start": 491.92,
+   "end": 492.26,
+   "text": "And then I"
+  },
+  {
+   "start": 492.26,
+   "end": 492.54,
+   "text": "Had to"
+  },
+  {
+   "start": 492.54,
+   "end": 493.04,
+   "text": "Restart,"
+  },
+  {
+   "start": 493.62,
+   "end": 494.64,
+   "text": "Reinstall"
+  },
+  {
+   "start": 494.64,
+   "end": 495.96,
+   "text": "New operating"
+  },
+  {
+   "start": 495.96,
+   "end": 497.04,
+   "text": "System after,"
+  },
+  {
+   "start": 497.38,
+   "end": 498.04,
+   "text": "But I had to"
+  },
+  {
+   "start": 498.04,
+   "end": 499.02,
+   "text": "Get a bunch of"
+  },
+  {
+   "start": 499.02,
+   "end": 499.44,
+   "text": "Stuff off the"
+  },
+  {
+   "start": 499.44,
+   "end": 500.16,
+   "text": "Actual computer"
+  },
+  {
+   "start": 500.16,
+   "end": 501.9,
+   "text": "Itself and"
+  },
+  {
+   "start": 501.9,
+   "end": 502.34,
+   "text": "Organize,"
+  },
+  {
+   "start": 502.52,
+   "end": 502.92,
+   "text": "Forced to"
+  },
+  {
+   "start": 502.92,
+   "end": 503.86,
+   "text": "Organize and,"
+  },
+  {
+   "start": 503.96,
+   "end": 504.62,
+   "text": "Um,"
+  },
+  {
+   "start": 504.7,
+   "end": 505.58,
+   "text": "Hard drives and"
+  },
+  {
+   "start": 505.58,
+   "end": 505.82,
+   "text": "Stuff,"
+  },
+  {
+   "start": 505.86,
+   "end": 506.16,
+   "text": "Which took"
+  },
+  {
+   "start": 506.16,
+   "end": 506.52,
+   "text": "Forever."
+  },
+  {
+   "start": 507.9,
+   "end": 508.82,
+   "text": "Constantly creating"
+  },
+  {
+   "start": 508.82,
+   "end": 509.24,
+   "text": "More and more"
+  },
+  {
+   "start": 509.24,
+   "end": 509.92,
+   "text": "Space on these"
+  },
+  {
+   "start": 509.92,
+   "end": 510.78,
+   "text": "Externals that keep"
+  },
+  {
+   "start": 510.78,
+   "end": 511.46,
+   "text": "Getting filled up"
+  },
+  {
+   "start": 511.46,
+   "end": 512.8,
+   "text": "And consolidating"
+  },
+  {
+   "start": 512.8,
+   "end": 514.8,
+   "text": "And that took"
+  },
+  {
+   "start": 514.8,
+   "end": 515.36,
+   "text": "Up most of the"
+  },
+  {
+   "start": 515.36,
+   "end": 515.56,
+   "text": "Day."
+  },
+  {
+   "start": 515.72,
+   "end": 516.4,
+   "text": "And anyway,"
+  },
+  {
+   "start": 516.48,
+   "end": 516.82,
+   "text": "So I'm working"
+  },
+  {
+   "start": 516.82,
+   "end": 518.5,
+   "text": "Until six and"
+  },
+  {
+   "start": 518.5,
+   "end": 518.8,
+   "text": "Then I had"
+  },
+  {
+   "start": 518.8,
+   "end": 519.46,
+   "text": "Insomnia for a"
+  },
+  {
+   "start": 519.46,
+   "end": 519.94,
+   "text": "Couple hours"
+  },
+  {
+   "start": 519.94,
+   "end": 520.6,
+   "text": "And so then"
+  },
+  {
+   "start": 520.6,
+   "end": 521.42,
+   "text": "My mom comes"
+  },
+  {
+   "start": 521.42,
+   "end": 522.18,
+   "text": "Over at noon"
+  },
+  {
+   "start": 522.18,
+   "end": 522.96,
+   "text": "Or like noon"
+  },
+  {
+   "start": 522.96,
+   "end": 523.52,
+   "text": "30 or something"
+  },
+  {
+   "start": 523.52,
+   "end": 524.04,
+   "text": "Because that's"
+  },
+  {
+   "start": 524.04,
+   "end": 524.58,
+   "text": "What we said"
+  },
+  {
+   "start": 524.58,
+   "end": 525.04,
+   "text": "But I forgot."
+  },
+  {
+   "start": 525.42,
+   "end": 525.88,
+   "text": "She called it"
+  },
+  {
+   "start": 525.88,
+   "end": 526.56,
+   "text": "Noon and then"
+  },
+  {
+   "start": 526.56,
+   "end": 527.1,
+   "text": "Came at noon"
+  },
+  {
+   "start": 527.1,
+   "end": 527.38,
+   "text": "30."
+  },
+  {
+   "start": 528.9,
+   "end": 529.64,
+   "text": "And, uh,"
+  },
+  {
+   "start": 529.9,
+   "end": 533.5,
+   "text": "Do paperwork"
+  },
+  {
+   "start": 533.5,
+   "end": 534.22,
+   "text": "On that but"
+  },
+  {
+   "start": 534.22,
+   "end": 535.2,
+   "text": "I wasn't ready."
+  },
+  {
+   "start": 536.16,
+   "end": 536.98,
+   "text": "So we hung out"
+  },
+  {
+   "start": 536.98,
+   "end": 537.58,
+   "text": "Instead and"
+  },
+  {
+   "start": 537.58,
+   "end": 539.08,
+   "text": "She was saying"
+  },
+  {
+   "start": 539.08,
+   "end": 539.76,
+   "text": "That, um,"
+  },
+  {
+   "start": 540.16,
+   "end": 541.06,
+   "text": "If I worked"
+  },
+  {
+   "start": 541.06,
+   "end": 541.94,
+   "text": "Two days a week"
+  },
+  {
+   "start": 541.94,
+   "end": 542.56,
+   "text": "I wouldn't have"
+  },
+  {
+   "start": 542.56,
+   "end": 543.1,
+   "text": "To have a roommate"
+  },
+  {
+   "start": 543.1,
+   "end": 544.38,
+   "text": "But I told her"
+  },
+  {
+   "start": 544.38,
+   "end": 544.9,
+   "text": "I'd rather"
+  },
+  {
+   "start": 544.9,
+   "end": 546.74,
+   "text": "Have a roommate"
+  },
+  {
+   "start": 546.74,
+   "end": 547.16,
+   "text": "Than have to"
+  },
+  {
+   "start": 547.16,
+   "end": 547.74,
+   "text": "Work one day a"
+  },
+  {
+   "start": 547.74,
+   "end": 547.88,
+   "text": "Week."
+  },
+  {
+   "start": 548.5,
+   "end": 549.66,
+   "text": "But then I"
+  },
+  {
+   "start": 549.66,
+   "end": 550.14,
+   "text": "Was here on"
+  },
+  {
+   "start": 550.14,
+   "end": 550.7,
+   "text": "The computer"
+  },
+  {
+   "start": 550.7,
+   "end": 552.4,
+   "text": "Um,"
+  },
+  {
+   "start": 552.76,
+   "end": 555.3,
+   "text": "And, uh,"
+  },
+  {
+   "start": 555.42,
+   "end": 556.08,
+   "text": "I was thinking"
+  },
+  {
+   "start": 556.08,
+   "end": 557.34,
+   "text": "To myself"
+  },
+  {
+   "start": 557.34,
+   "end": 557.78,
+   "text": "Like,"
+  },
+  {
+   "start": 559.38,
+   "end": 562.37,
+   "text": "How cool"
+  },
+  {
+   "start": 562.37,
+   "end": 563.01,
+   "text": "My Google Earth"
+  },
+  {
+   "start": 563.01,
+   "end": 563.63,
+   "text": "Stuff is and"
+  },
+  {
+   "start": 563.63,
+   "end": 564.33,
+   "text": "There's all this"
+  },
+  {
+   "start": 564.33,
+   "end": 565.01,
+   "text": "Other Google Earth"
+  },
+  {
+   "start": 565.01,
+   "end": 565.55,
+   "text": "Stuff that I have"
+  },
+  {
+   "start": 565.55,
+   "end": 565.83,
+   "text": "To do."
+  },
+  {
+   "start": 567.41,
+   "end": 567.81,
+   "text": "Um,"
+  },
+  {
+   "start": 568.13,
+   "end": 568.85,
+   "text": "That Google Earth"
+  },
+  {
+   "start": 568.85,
+   "end": 569.33,
+   "text": "Stuff that I have"
+  },
+  {
+   "start": 569.33,
+   "end": 569.87,
+   "text": "To build that I'm"
+  },
+  {
+   "start": 569.87,
+   "end": 570.09,
+   "text": "Going to get"
+  },
+  {
+   "start": 570.09,
+   "end": 570.89,
+   "text": "Excited for making"
+  },
+  {
+   "start": 570.89,
+   "end": 571.57,
+   "text": "The YouTube videos"
+  },
+  {
+   "start": 571.57,
+   "end": 572.79,
+   "text": "Of but also"
+  },
+  {
+   "start": 572.79,
+   "end": 573.29,
+   "text": "Google Earth"
+  },
+  {
+   "start": 573.29,
+   "end": 574.25,
+   "text": "Stuff or mainly"
+  },
+  {
+   "start": 574.25,
+   "end": 574.71,
+   "text": "Google Earth"
+  },
+  {
+   "start": 574.71,
+   "end": 575.11,
+   "text": "Stuff,"
+  },
+  {
+   "start": 575.43,
+   "end": 576.67,
+   "text": "Videos that I"
+  },
+  {
+   "start": 576.67,
+   "end": 577.15,
+   "text": "Wanted to make"
+  },
+  {
+   "start": 577.15,
+   "end": 577.65,
+   "text": "From Google Earth"
+  },
+  {
+   "start": 577.65,
+   "end": 577.95,
+   "text": "Stuff that I"
+  },
+  {
+   "start": 577.95,
+   "end": 578.33,
+   "text": "Already made."
+  },
+  {
+   "start": 578.41,
+   "end": 578.69,
+   "text": "Like, I don't"
+  },
+  {
+   "start": 578.69,
+   "end": 579.07,
+   "text": "Think I made"
+  },
+  {
+   "start": 579.07,
+   "end": 579.53,
+   "text": "Any videos"
+  },
+  {
+   "start": 579.53,
+   "end": 579.83,
+   "text": "From the"
+  },
+  {
+   "start": 579.83,
+   "end": 580.21,
+   "text": "XC to"
+  },
+  {
+   "start": 580.21,
+   "end": 581.01,
+   "text": "4,000 which"
+  },
+  {
+   "start": 581.01,
+   "end": 581.23,
+   "text": "Would be"
+  },
+  {
+   "start": 581.23,
+   "end": 581.67,
+   "text": "Really cool."
+  },
+  {
+   "start": 582.73,
+   "end": 583.25,
+   "text": "And then I"
+  },
+  {
+   "start": 583.25,
+   "end": 583.63,
+   "text": "Was like,"
+  },
+  {
+   "start": 583.67,
+   "end": 584.09,
+   "text": "Oh man,"
+  },
+  {
+   "start": 584.17,
+   "end": 585.05,
+   "text": "I'm like risking"
+  },
+  {
+   "start": 585.05,
+   "end": 585.79,
+   "text": "What's going"
+  },
+  {
+   "start": 585.79,
+   "end": 586.21,
+   "text": "To be super"
+  },
+  {
+   "start": 586.21,
+   "end": 586.59,
+   "text": "Risky."
+  },
+  {
+   "start": 587.23,
+   "end": 587.71,
+   "text": "It's going"
+  },
+  {
+   "start": 587.71,
+   "end": 588.13,
+   "text": "To get me"
+  },
+  {
+   "start": 588.13,
+   "end": 589.31,
+   "text": "Addicted to"
+  },
+  {
+   "start": 589.31,
+   "end": 589.81,
+   "text": "The website"
+  },
+  {
+   "start": 589.81,
+   "end": 590.27,
+   "text": "Again, you"
+  },
+  {
+   "start": 590.27,
+   "end": 590.87,
+   "text": "Know, fall"
+  },
+  {
+   "start": 590.87,
+   "end": 591.21,
+   "text": "Back into"
+  },
+  {
+   "start": 591.21,
+   "end": 591.67,
+   "text": "The website"
+  },
+  {
+   "start": 591.67,
+   "end": 592.61,
+   "text": "Just by making"
+  },
+  {
+   "start": 592.61,
+   "end": 593.01,
+   "text": "Doing this"
+  },
+  {
+   "start": 593.01,
+   "end": 593.35,
+   "text": "Google Earth"
+  },
+  {
+   "start": 593.35,
+   "end": 593.55,
+   "text": "Stuff."
+  },
+  {
+   "start": 593.55,
+   "end": 596.28,
+   "text": "Even if it's"
+  },
+  {
+   "start": 596.28,
+   "end": 597.0,
+   "text": "Surface level"
+  },
+  {
+   "start": 597.0,
+   "end": 597.42,
+   "text": "Google Earth"
+  },
+  {
+   "start": 597.42,
+   "end": 597.68,
+   "text": "Stuff."
+  },
+  {
+   "start": 597.72,
+   "end": 597.86,
+   "text": "And I"
+  },
+  {
+   "start": 597.86,
+   "end": 598.26,
+   "text": "Was like,"
+  },
+  {
+   "start": 600.88,
+   "end": 602.26,
+   "text": "Um, like"
+  },
+  {
+   "start": 602.26,
+   "end": 602.74,
+   "text": "How am I"
+  },
+  {
+   "start": 602.74,
+   "end": 603.14,
+   "text": "Going to keep"
+  },
+  {
+   "start": 603.14,
+   "end": 603.58,
+   "text": "From doing"
+  },
+  {
+   "start": 603.58,
+   "end": 603.8,
+   "text": "That?"
+  },
+  {
+   "start": 603.84,
+   "end": 604.14,
+   "text": "But then I"
+  },
+  {
+   "start": 604.14,
+   "end": 604.58,
+   "text": "Was like,"
+  },
+  {
+   "start": 604.58,
+   "end": 606.18,
+   "text": "Dude, if you"
+  },
+  {
+   "start": 606.18,
+   "end": 607.12,
+   "text": "Get a job"
+  },
+  {
+   "start": 607.12,
+   "end": 608.6,
+   "text": "Where you get"
+  },
+  {
+   "start": 608.6,
+   "end": 609.24,
+   "text": "To do that,"
+  },
+  {
+   "start": 609.24,
+   "end": 611.52,
+   "text": "Dude, it's"
+  },
+  {
+   "start": 611.52,
+   "end": 612.16,
+   "text": "Like that's the"
+  },
+  {
+   "start": 612.16,
+   "end": 613.04,
+   "text": "Ultimate and"
+  },
+  {
+   "start": 613.04,
+   "end": 613.8,
+   "text": "Killing two birds"
+  },
+  {
+   "start": 613.8,
+   "end": 614.52,
+   "text": "With one stone."
+  },
+  {
+   "start": 614.52,
+   "end": 615.92,
+   "text": "Like, I have"
+  },
+  {
+   "start": 615.92,
+   "end": 616.36,
+   "text": "To go to the"
+  },
+  {
+   "start": 616.36,
+   "end": 616.8,
+   "text": "Job."
+  },
+  {
+   "start": 617.6,
+   "end": 618.38,
+   "text": "I'm also"
+  },
+  {
+   "start": 618.38,
+   "end": 619.68,
+   "text": "Hooked on this"
+  },
+  {
+   "start": 619.68,
+   "end": 620.96,
+   "text": "Web stuff."
+  },
+  {
+   "start": 621.42,
+   "end": 622.1,
+   "text": "Going to the"
+  },
+  {
+   "start": 622.1,
+   "end": 622.92,
+   "text": "Job means working"
+  },
+  {
+   "start": 622.92,
+   "end": 623.28,
+   "text": "On the web"
+  },
+  {
+   "start": 623.28,
+   "end": 623.66,
+   "text": "Stuff because"
+  },
+  {
+   "start": 623.66,
+   "end": 625.1,
+   "text": "The stuff that"
+  },
+  {
+   "start": 625.1,
+   "end": 625.48,
+   "text": "I would want"
+  },
+  {
+   "start": 625.48,
+   "end": 626.0,
+   "text": "To do on my"
+  },
+  {
+   "start": 626.0,
+   "end": 626.62,
+   "text": "Website is"
+  },
+  {
+   "start": 626.62,
+   "end": 627.22,
+   "text": "Super simple,"
+  },
+  {
+   "start": 627.36,
+   "end": 627.54,
+   "text": "Dude."
+  },
+  {
+   "start": 627.76,
+   "end": 628.32,
+   "text": "I could do"
+  },
+  {
+   "start": 628.32,
+   "end": 628.66,
+   "text": "It in my"
+  },
+  {
+   "start": 628.66,
+   "end": 628.98,
+   "text": "Sleep."
+  },
+  {
+   "start": 629.24,
+   "end": 630.04,
+   "text": "Like, like"
+  },
+  {
+   "start": 630.04,
+   "end": 630.64,
+   "text": "Building, the"
+  },
+  {
+   "start": 630.64,
+   "end": 631.08,
+   "text": "Next thing I"
+  },
+  {
+   "start": 631.08,
+   "end": 631.42,
+   "text": "Want to do on"
+  },
+  {
+   "start": 631.42,
+   "end": 632.26,
+   "text": "My website is"
+  },
+  {
+   "start": 632.26,
+   "end": 632.88,
+   "text": "The, uh, put"
+  },
+  {
+   "start": 632.88,
+   "end": 633.44,
+   "text": "The US law"
+  },
+  {
+   "start": 633.44,
+   "end": 633.82,
+   "text": "Code on my"
+  },
+  {
+   "start": 633.82,
+   "end": 634.28,
+   "text": "Website, but"
+  },
+  {
+   "start": 634.28,
+   "end": 634.64,
+   "text": "That's just"
+  },
+  {
+   "start": 634.64,
+   "end": 635.12,
+   "text": "Copy and"
+  },
+  {
+   "start": 635.12,
+   "end": 636.68,
+   "text": "Pasting from"
+  },
+  {
+   "start": 636.68,
+   "end": 637.64,
+   "text": "Like, whatever."
+  },
+  {
+   "start": 638.3,
+   "end": 638.9,
+   "text": "I can't"
+  },
+  {
+   "start": 638.9,
+   "end": 640.0,
+   "text": "Remember, uh,"
+  },
+  {
+   "start": 640.34,
+   "end": 641.02,
+   "text": "Harvard or"
+  },
+  {
+   "start": 641.02,
+   "end": 641.26,
+   "text": "Something."
+  },
+  {
+   "start": 642.98,
+   "end": 643.94,
+   "text": "A university"
+  },
+  {
+   "start": 643.94,
+   "end": 644.42,
+   "text": "Had it."
+  },
+  {
+   "start": 644.5,
+   "end": 645.1,
+   "text": "And so copy,"
+  },
+  {
+   "start": 645.2,
+   "end": 645.64,
+   "text": "Paste, copy,"
+  },
+  {
+   "start": 645.76,
+   "end": 646.2,
+   "text": "Paste, copy,"
+  },
+  {
+   "start": 646.3,
+   "end": 647.46,
+   "text": "Paste, or a"
+  },
+  {
+   "start": 647.46,
+   "end": 647.92,
+   "text": "Google Earth"
+  },
+  {
+   "start": 647.92,
+   "end": 648.2,
+   "text": "Thing."
+  },
+  {
+   "start": 648.56,
+   "end": 649.2,
+   "text": "Drag, um,"
+  },
+  {
+   "start": 649.2,
+   "end": 649.92,
+   "text": "Like recording"
+  },
+  {
+   "start": 649.92,
+   "end": 651.48,
+   "text": "Just a Google"
+  },
+  {
+   "start": 651.48,
+   "end": 652.08,
+   "text": "Earth thing that"
+  },
+  {
+   "start": 652.08,
+   "end": 652.38,
+   "text": "I did."
+  },
+  {
+   "start": 653.66,
+   "end": 654.62,
+   "text": "And like the"
+  },
+  {
+   "start": 654.62,
+   "end": 655.38,
+   "text": "People over at"
+  },
+  {
+   "start": 655.38,
+   "end": 656.16,
+   "text": "The gym, 24"
+  },
+  {
+   "start": 656.16,
+   "end": 656.6,
+   "text": "Hour Fitness,"
+  },
+  {
+   "start": 656.72,
+   "end": 657.06,
+   "text": "That'd be the"
+  },
+  {
+   "start": 657.06,
+   "end": 658.16,
+   "text": "Perfect job for"
+  },
+  {
+   "start": 658.16,
+   "end": 658.46,
+   "text": "That because"
+  },
+  {
+   "start": 658.46,
+   "end": 658.78,
+   "text": "They're just"
+  },
+  {
+   "start": 658.78,
+   "end": 659.5,
+   "text": "Standing there."
+  },
+  {
+   "start": 660.18,
+   "end": 660.84,
+   "text": "Just standing"
+  },
+  {
+   "start": 660.84,
+   "end": 661.4,
+   "text": "There like"
+  },
+  {
+   "start": 661.4,
+   "end": 662.38,
+   "text": "Somebody has"
+  },
+  {
+   "start": 662.38,
+   "end": 662.76,
+   "text": "Asked a"
+  },
+  {
+   "start": 662.76,
+   "end": 663.28,
+   "text": "Question or"
+  },
+  {
+   "start": 663.28,
+   "end": 663.64,
+   "text": "Whatever."
+  },
+  {
+   "start": 664.94,
+   "end": 665.62,
+   "text": "And then they"
+  },
+  {
+   "start": 665.62,
+   "end": 666.08,
+   "text": "Come and make"
+  },
+  {
+   "start": 666.08,
+   "end": 666.64,
+   "text": "Sure the beepy"
+  },
+  {
+   "start": 666.64,
+   "end": 666.92,
+   "text": "Goes."
+  },
+  {
+   "start": 667.46,
+   "end": 668.04,
+   "text": "So I could be,"
+  },
+  {
+   "start": 668.14,
+   "end": 668.66,
+   "text": "I could put my"
+  },
+  {
+   "start": 668.66,
+   "end": 669.56,
+   "text": "Computer down where"
+  },
+  {
+   "start": 669.56,
+   "end": 670.22,
+   "text": "Nobody can see"
+  },
+  {
+   "start": 670.22,
+   "end": 670.46,
+   "text": "It."
+  },
+  {
+   "start": 671.02,
+   "end": 672.1,
+   "text": "Just down below,"
+  },
+  {
+   "start": 672.62,
+   "end": 673.44,
+   "text": "Put the mice"
+  },
+  {
+   "start": 673.44,
+   "end": 675.42,
+   "text": "Right here and"
+  },
+  {
+   "start": 675.42,
+   "end": 676.04,
+   "text": "Just drag and"
+  },
+  {
+   "start": 676.04,
+   "end": 676.6,
+   "text": "Drop, drag and"
+  },
+  {
+   "start": 676.6,
+   "end": 677.34,
+   "text": "Somebody comes in."
+  },
+  {
+   "start": 677.42,
+   "end": 677.94,
+   "text": "Thank you."
+  },
+  {
+   "start": 678.02,
+   "end": 678.56,
+   "text": "Drag and drop,"
+  },
+  {
+   "start": 678.66,
+   "end": 679.16,
+   "text": "Drag and drop,"
+  },
+  {
+   "start": 679.26,
+   "end": 679.76,
+   "text": "Drag and drop,"
+  },
+  {
+   "start": 679.86,
+   "end": 680.34,
+   "text": "Drag and drop."
+  },
+  {
+   "start": 680.94,
+   "end": 681.68,
+   "text": "You know, or I"
+  },
+  {
+   "start": 681.68,
+   "end": 682.22,
+   "text": "Could work at a"
+  },
+  {
+   "start": 682.22,
+   "end": 682.98,
+   "text": "Gas station."
+  },
+  {
+   "start": 684.14,
+   "end": 685.18,
+   "text": "Do the teller and"
+  },
+  {
+   "start": 685.18,
+   "end": 685.98,
+   "text": "Then boom, drag and"
+  },
+  {
+   "start": 685.98,
+   "end": 686.54,
+   "text": "Drop, drag and"
+  },
+  {
+   "start": 686.54,
+   "end": 687.12,
+   "text": "Drop, drag and"
+  },
+  {
+   "start": 687.12,
+   "end": 687.3,
+   "text": "Drop."
+  },
+  {
+   "start": 687.86,
+   "end": 688.52,
+   "text": "And then I,"
+  },
+  {
+   "start": 688.7,
+   "end": 689.36,
+   "text": "Dude, as I'm"
+  },
+  {
+   "start": 689.36,
+   "end": 690.34,
+   "text": "There at work,"
+  },
+  {
+   "start": 690.54,
+   "end": 691.56,
+   "text": "Dragging and"
+  },
+  {
+   "start": 691.56,
+   "end": 692.6,
+   "text": "Dropping, um,"
+  },
+  {
+   "start": 692.78,
+   "end": 694.6,
+   "text": "Even if I would,"
+  },
+  {
+   "start": 694.68,
+   "end": 695.64,
+   "text": "I would probably be"
+  },
+  {
+   "start": 695.64,
+   "end": 696.48,
+   "text": "Like, yeah, dude,"
+  },
+  {
+   "start": 696.5,
+   "end": 696.94,
+   "text": "I don't care."
+  },
+  {
+   "start": 697.08,
+   "end": 697.66,
+   "text": "Like, this is"
+  },
+  {
+   "start": 697.66,
+   "end": 698.0,
+   "text": "Awesome."
+  },
+  {
+   "start": 698.18,
+   "end": 698.74,
+   "text": "Like, I'm not"
+  },
+  {
+   "start": 698.74,
+   "end": 699.36,
+   "text": "Complaining about"
+  },
+  {
+   "start": 699.36,
+   "end": 699.7,
+   "text": "Anything."
+  },
+  {
+   "start": 699.7,
+   "end": 700.96,
+   "text": "So, yeah."
+  },
+  {
+   "start": 701.12,
+   "end": 702.5,
+   "text": "So that's, I"
+  },
+  {
+   "start": 702.5,
+   "end": 702.94,
+   "text": "Think that's what"
+  },
+  {
+   "start": 702.94,
+   "end": 703.44,
+   "text": "I'm going to do."
+  },
+  {
+   "start": 703.48,
+   "end": 704.18,
+   "text": "I'm going to try"
+  },
+  {
+   "start": 704.18,
+   "end": 705.0,
+   "text": "Really hard to,"
+  },
+  {
+   "start": 706.0,
+   "end": 708.6,
+   "text": "Trying to get a"
+  },
+  {
+   "start": 708.6,
+   "end": 710.32,
+   "text": "Roommate really"
+  },
+  {
+   "start": 710.32,
+   "end": 711.16,
+   "text": "Hard, uh, every"
+  },
+  {
+   "start": 711.16,
+   "end": 712.32,
+   "text": "Day I'm re, I'm"
+  },
+  {
+   "start": 712.32,
+   "end": 714.16,
+   "text": "Editing my, yesterday"
+  },
+  {
+   "start": 714.16,
+   "end": 714.96,
+   "text": "I did it and today"
+  },
+  {
+   "start": 714.96,
+   "end": 715.46,
+   "text": "I'll edit with"
+  },
+  {
+   "start": 715.46,
+   "end": 715.86,
+   "text": "Something, more"
+  },
+  {
+   "start": 715.86,
+   "end": 716.64,
+   "text": "Photos, just add a"
+  },
+  {
+   "start": 716.64,
+   "end": 717.7,
+   "text": "Photo because it"
+  },
+  {
+   "start": 717.7,
+   "end": 718.26,
+   "text": "Keeps your ad at"
+  },
+  {
+   "start": 718.26,
+   "end": 718.58,
+   "text": "The top."
+  },
+  {
+   "start": 718.6,
+   "end": 719.02,
+   "text": "And then I want to"
+  },
+  {
+   "start": 719.02,
+   "end": 719.54,
+   "text": "Put it on the, all"
+  },
+  {
+   "start": 719.54,
+   "end": 720.26,
+   "text": "The other Facebook"
+  },
+  {
+   "start": 720.26,
+   "end": 722.1,
+   "text": "Pages until I get a"
+  },
+  {
+   "start": 722.1,
+   "end": 722.34,
+   "text": "Roommate."
+  },
+  {
+   "start": 723.22,
+   "end": 723.8,
+   "text": "Do that."
+  },
+  {
+   "start": 723.8,
+   "end": 725.24,
+   "text": "But then also, um,"
+  },
+  {
+   "start": 725.34,
+   "end": 726.12,
+   "text": "Look around and see"
+  },
+  {
+   "start": 726.12,
+   "end": 726.54,
+   "text": "If I can get it."
+  },
+  {
+   "start": 726.64,
+   "end": 727.18,
+   "text": "I'm going to ask the"
+  },
+  {
+   "start": 727.18,
+   "end": 727.88,
+   "text": "People in the gym if"
+  },
+  {
+   "start": 727.88,
+   "end": 729.34,
+   "text": "I can tell them I"
+  },
+  {
+   "start": 729.34,
+   "end": 730.72,
+   "text": "Want to work and"
+  },
+  {
+   "start": 730.72,
+   "end": 732.26,
+   "text": "Then all around town"
+  },
+  {
+   "start": 732.26,
+   "end": 734.7,
+   "text": "And, um, and it"
+  },
+  {
+   "start": 734.7,
+   "end": 735.48,
+   "text": "Would also be an"
+  },
+  {
+   "start": 735.48,
+   "end": 736.22,
+   "text": "Interesting social"
+  },
+  {
+   "start": 736.22,
+   "end": 737.02,
+   "text": "Experiment to see"
+  },
+  {
+   "start": 737.02,
+   "end": 737.82,
+   "text": "How people react to"
+  },
+  {
+   "start": 737.82,
+   "end": 738.3,
+   "text": "That because I"
+  },
+  {
+   "start": 738.3,
+   "end": 739.24,
+   "text": "Would expect people"
+  },
+  {
+   "start": 739.24,
+   "end": 739.8,
+   "text": "To be like,"
+  },
+  {
+   "start": 740.06,
+   "end": 742.12,
+   "text": "Understand, like,"
+  },
+  {
+   "start": 742.16,
+   "end": 742.72,
+   "text": "Hey, I'm getting"
+  },
+  {
+   "start": 742.72,
+   "end": 743.4,
+   "text": "This, I want to get"
+  },
+  {
+   "start": 743.4,
+   "end": 743.84,
+   "text": "This job."
+  },
+  {
+   "start": 743.9,
+   "end": 744.58,
+   "text": "I'm super excited"
+  },
+  {
+   "start": 744.58,
+   "end": 745.18,
+   "text": "About the job"
+  },
+  {
+   "start": 745.18,
+   "end": 746.72,
+   "text": "Because I get to"
+  },
+  {
+   "start": 746.72,
+   "end": 747.48,
+   "text": "Bring my computer"
+  },
+  {
+   "start": 747.48,
+   "end": 748.5,
+   "text": "And I get to copy"
+  },
+  {
+   "start": 748.5,
+   "end": 749.26,
+   "text": "And paste the U.S."
+  },
+  {
+   "start": 749.3,
+   "end": 749.86,
+   "text": "Law code on my"
+  },
+  {
+   "start": 749.86,
+   "end": 752.7,
+   "text": "Website because I"
+  },
+  {
+   "start": 752.7,
+   "end": 753.44,
+   "text": "Cause, cause then we"
+  },
+  {
+   "start": 753.44,
+   "end": 754.06,
+   "text": "Could have the first"
+  },
+  {
+   "start": 754.06,
+   "end": 755.0,
+   "text": "U.S. law code as a"
+  },
+  {
+   "start": 755.0,
+   "end": 756.2,
+   "text": "Book that could then"
+  },
+  {
+   "start": 756.2,
+   "end": 758.24,
+   "text": "Read to you and, and"
+  },
+  {
+   "start": 758.24,
+   "end": 758.94,
+   "text": "Just to see how they"
+  },
+  {
+   "start": 758.94,
+   "end": 759.22,
+   "text": "React."
+  },
+  {
+   "start": 759.3,
+   "end": 760.08,
+   "text": "If they're like, oh"
+  },
+  {
+   "start": 760.08,
+   "end": 760.96,
+   "text": "Wow, that's a cool"
+  },
+  {
+   "start": 760.96,
+   "end": 761.36,
+   "text": "Idea."
+  },
+  {
+   "start": 761.46,
+   "end": 761.62,
+   "text": "Yeah."
+  },
+  {
+   "start": 761.62,
+   "end": 762.18,
+   "text": "I'll let you do"
+  },
+  {
+   "start": 762.18,
+   "end": 762.38,
+   "text": "That."
+  },
+  {
+   "start": 762.4,
+   "end": 763.02,
+   "text": "Or if they're like,"
+  },
+  {
+   "start": 763.4,
+   "end": 763.78,
+   "text": "Huh?"
+  },
+  {
+   "start": 764.82,
+   "end": 765.18,
+   "text": "No."
+  },
+  {
+   "start": 765.18,
+   "end": 767.98,
+   "text": "You know, cause if"
+  },
+  {
+   "start": 767.98,
+   "end": 768.94,
+   "text": "They do that, Ooh,"
+  },
+  {
+   "start": 771.51,
+   "end": 772.23,
+   "text": "You will never hear"
+  },
+  {
+   "start": 772.23,
+   "end": 772.81,
+   "text": "The end of it."
+  },
+  {
+   "start": 773.95,
+   "end": 774.81,
+   "text": "I will make that"
+  },
+  {
+   "start": 774.81,
+   "end": 775.81,
+   "text": "Person example, an"
+  },
+  {
+   "start": 775.81,
+   "end": 776.65,
+   "text": "Example until the"
+  },
+  {
+   "start": 776.65,
+   "end": 777.33,
+   "text": "End of time."
+  },
+  {
+   "start": 778.79,
+   "end": 780.23,
+   "text": "So yeah, um, it"
+  },
+  {
+   "start": 780.23,
+   "end": 780.63,
+   "text": "Would be a"
+  },
+  {
+   "start": 780.63,
+   "end": 781.55,
+   "text": "Definitely worthwhile"
+  },
+  {
+   "start": 781.55,
+   "end": 782.49,
+   "text": "Social experiment."
+  },
+  {
+   "start": 783.05,
+   "end": 784.07,
+   "text": "If somebody is"
+  },
+  {
+   "start": 784.07,
+   "end": 785.15,
+   "text": "Awesome enough to"
+  },
+  {
+   "start": 785.15,
+   "end": 786.11,
+   "text": "Hire me so that I"
+  },
+  {
+   "start": 786.11,
+   "end": 786.65,
+   "text": "Can put the U.S."
+  },
+  {
+   "start": 786.67,
+   "end": 787.17,
+   "text": "Law code on my"
+  },
+  {
+   "start": 787.17,
+   "end": 787.99,
+   "text": "Website, that would"
+  },
+  {
+   "start": 787.99,
+   "end": 789.57,
+   "text": "Be amazing because"
+  },
+  {
+   "start": 789.57,
+   "end": 790.17,
+   "text": "Then I could make,"
+  },
+  {
+   "start": 790.23,
+   "end": 790.73,
+   "text": "I could get out"
+  },
+  {
+   "start": 790.73,
+   "end": 792.29,
+   "text": "This, I'm like $25,000"
+  },
+  {
+   "start": 792.29,
+   "end": 793.05,
+   "text": "And I'm just about"
+  },
+  {
+   "start": 793.05,
+   "end": 793.81,
+   "text": "To sink, like I"
+  },
+  {
+   "start": 793.81,
+   "end": 794.51,
+   "text": "Can't keep up with"
+  },
+  {
+   "start": 794.51,
+   "end": 796.43,
+   "text": "My bills and that's"
+  },
+  {
+   "start": 796.43,
+   "end": 797.09,
+   "text": "Not even paying"
+  },
+  {
+   "start": 797.09,
+   "end": 798.05,
+   "text": "And that's forget"
+  },
+  {
+   "start": 798.05,
+   "end": 798.91,
+   "text": "About paying taxes"
+  },
+  {
+   "start": 798.91,
+   "end": 799.95,
+   "text": "Or paying off my"
+  },
+  {
+   "start": 799.95,
+   "end": 801.81,
+   "text": "30% credit card"
+  },
+  {
+   "start": 801.81,
+   "end": 802.71,
+   "text": "That's due."
+  },
+  {
+   "start": 802.83,
+   "end": 803.57,
+   "text": "So yeah, I mean,"
+  },
+  {
+   "start": 803.61,
+   "end": 804.17,
+   "text": "I am, I am, I"
+  },
+  {
+   "start": 804.17,
+   "end": 804.61,
+   "text": "Am sinking."
+  },
+  {
+   "start": 804.83,
+   "end": 805.49,
+   "text": "It's just a matter"
+  },
+  {
+   "start": 805.49,
+   "end": 806.01,
+   "text": "Of time."
+  },
+  {
+   "start": 806.87,
+   "end": 807.53,
+   "text": "I'm basically"
+  },
+  {
+   "start": 807.53,
+   "end": 808.23,
+   "text": "Standing on the"
+  },
+  {
+   "start": 808.23,
+   "end": 809.17,
+   "text": "Top of the bow,"
+  },
+  {
+   "start": 809.87,
+   "end": 810.81,
+   "text": "Taking my final"
+  },
+  {
+   "start": 810.81,
+   "end": 812.25,
+   "text": "Breath, looking"
+  },
+  {
+   "start": 812.25,
+   "end": 812.69,
+   "text": "Around."
+  },
+  {
+   "start": 812.93,
+   "end": 814.47,
+   "text": "So yeah, I'm"
+  },
+  {
+   "start": 814.47,
+   "end": 814.89,
+   "text": "Going to look"
+  },
+  {
+   "start": 814.89,
+   "end": 815.63,
+   "text": "Around and oh"
+  },
+  {
+   "start": 815.63,
+   "end": 816.27,
+   "text": "Yeah, plus there's"
+  },
+  {
+   "start": 816.27,
+   "end": 816.91,
+   "text": "Another reason to"
+  },
+  {
+   "start": 816.91,
+   "end": 817.41,
+   "text": "Get a job."
+  },
+  {
+   "start": 817.51,
+   "end": 818.11,
+   "text": "Somebody hire me"
+  },
+  {
+   "start": 818.11,
+   "end": 818.45,
+   "text": "Ham, bro."
+  },
+  {
+   "start": 819.19,
+   "end": 820.29,
+   "text": "So I, I don't"
+  },
+  {
+   "start": 820.29,
+   "end": 821.01,
+   "text": "Want to say that to"
+  },
+  {
+   "start": 821.01,
+   "end": 822.19,
+   "text": "People who come in"
+  },
+  {
+   "start": 822.19,
+   "end": 823.85,
+   "text": "To get to live"
+  },
+  {
+   "start": 823.85,
+   "end": 824.13,
+   "text": "Here though."
+  },
+  {
+   "start": 824.17,
+   "end": 824.65,
+   "text": "I'm not going to"
+  },
+  {
+   "start": 824.65,
+   "end": 825.17,
+   "text": "Mention that and"
+  },
+  {
+   "start": 825.17,
+   "end": 825.71,
+   "text": "I probably shouldn't"
+  },
+  {
+   "start": 825.71,
+   "end": 826.15,
+   "text": "Have mentioned in"
+  },
+  {
+   "start": 826.15,
+   "end": 827.27,
+   "text": "My video, Elon,"
+  },
+  {
+   "start": 828.41,
+   "end": 830.11,
+   "text": "Because, uh, but"
+  },
+  {
+   "start": 830.11,
+   "end": 830.57,
+   "text": "There's probably"
+  },
+  {
+   "start": 830.57,
+   "end": 833.05,
+   "text": "Nobody who would be"
+  },
+  {
+   "start": 833.05,
+   "end": 833.83,
+   "text": "Interested would get"
+  },
+  {
+   "start": 833.83,
+   "end": 834.51,
+   "text": "This far in a video"
+  },
+  {
+   "start": 834.51,
+   "end": 835.09,
+   "text": "Watching me a video,"
+  },
+  {
+   "start": 835.15,
+   "end": 835.53,
+   "text": "But I want to"
+  },
+  {
+   "start": 835.53,
+   "end": 836.15,
+   "text": "Mention it because"
+  },
+  {
+   "start": 836.15,
+   "end": 837.77,
+   "text": "They might freak out"
+  },
+  {
+   "start": 837.77,
+   "end": 838.23,
+   "text": "And be like, oh"
+  },
+  {
+   "start": 838.23,
+   "end": 838.83,
+   "text": "Shit, what if I"
+  },
+  {
+   "start": 838.83,
+   "end": 839.47,
+   "text": "Move out and this"
+  },
+  {
+   "start": 839.47,
+   "end": 840.13,
+   "text": "Motherfucker doesn't"
+  },
+  {
+   "start": 840.13,
+   "end": 840.89,
+   "text": "Have my deposit"
+  },
+  {
+   "start": 840.89,
+   "end": 841.63,
+   "text": "Money, you know?"
+  },
+  {
+   "start": 841.63,
+   "end": 851.63,
+   "text": "So, um, anyways, um, I,"
+  },
+  {
+   "start": 851.93,
+   "end": 854.79,
+   "text": "Uh, that's what I'm"
+  },
+  {
+   "start": 854.79,
+   "end": 855.29,
+   "text": "Going to do, but I'm"
+  },
+  {
+   "start": 855.29,
+   "end": 855.85,
+   "text": "Not going to do"
+  },
+  {
+   "start": 855.85,
+   "end": 856.59,
+   "text": "Anything."
+  },
+  {
+   "start": 856.59,
+   "end": 857.55,
+   "text": "Like I was actually,"
+  },
+  {
+   "start": 857.65,
+   "end": 858.23,
+   "text": "It was like, get the"
+  },
+  {
+   "start": 858.23,
+   "end": 858.69,
+   "text": "Fuck out of my"
+  },
+  {
+   "start": 858.69,
+   "end": 859.55,
+   "text": "Apartment when my mom"
+  },
+  {
+   "start": 859.55,
+   "end": 860.27,
+   "text": "First came here."
+  },
+  {
+   "start": 860.97,
+   "end": 862.09,
+   "text": "Cause I, I can't do"
+  },
+  {
+   "start": 862.09,
+   "end": 864.83,
+   "text": "Anything until I get"
+  },
+  {
+   "start": 864.83,
+   "end": 866.97,
+   "text": "These videos, um,"
+  },
+  {
+   "start": 867.49,
+   "end": 870.07,
+   "text": "Converted and, uh,"
+  },
+  {
+   "start": 870.07,
+   "end": 870.87,
+   "text": "Figured out on the"
+  },
+  {
+   "start": 870.87,
+   "end": 871.61,
+   "text": "Hard drives and"
+  },
+  {
+   "start": 871.61,
+   "end": 872.61,
+   "text": "Hopefully on at least"
+  },
+  {
+   "start": 872.61,
+   "end": 873.29,
+   "text": "Two different hard"
+  },
+  {
+   "start": 873.29,
+   "end": 873.65,
+   "text": "Drives."
+  },
+  {
+   "start": 874.79,
+   "end": 877.19,
+   "text": "Um, and, um,"
+  },
+  {
+   "start": 879.6,
+   "end": 880.98,
+   "text": "Because then I can,"
+  },
+  {
+   "start": 880.98,
+   "end": 882.14,
+   "text": "Uh, get going on the,"
+  },
+  {
+   "start": 882.3,
+   "end": 883.2,
+   "text": "On the studio and"
+  },
+  {
+   "start": 883.2,
+   "end": 884.02,
+   "text": "Just add whichever one"
+  },
+  {
+   "start": 884.02,
+   "end": 884.78,
+   "text": "Of these videos that I"
+  },
+  {
+   "start": 884.78,
+   "end": 885.82,
+   "text": "Want, like whenever I"
+  },
+  {
+   "start": 885.82,
+   "end": 885.98,
+   "text": "Want."
+  },
+  {
+   "start": 886.06,
+   "end": 886.98,
+   "text": "It's a fucking amazing."
+  },
+  {
+   "start": 887.28,
+   "end": 888.4,
+   "text": "It's, oh, I love it."
+  },
+  {
+   "start": 889.56,
+   "end": 890.46,
+   "text": "It's jizzy."
+  },
+  {
+   "start": 891.42,
+   "end": 893.02,
+   "text": "It's jizzy to the max."
+  },
+  {
+   "start": 893.7,
+   "end": 895.58,
+   "text": "It's dogs, balls,"
+  },
+  {
+   "start": 895.78,
+   "end": 896.34,
+   "text": "Jizz."
+  },
+  {
+   "start": 897.94,
+   "end": 900.12,
+   "text": "So, um, the English"
+  },
+  {
+   "start": 900.12,
+   "end": 901.12,
+   "text": "People came up with"
+  },
+  {
+   "start": 901.12,
+   "end": 901.46,
+   "text": "That one."
+  },
+  {
+   "start": 901.46,
+   "end": 904.46,
+   "text": "Um, so, um, yeah, I"
+  },
+  {
+   "start": 904.46,
+   "end": 905.56,
+   "text": "Think I'm going to,"
+  },
+  {
+   "start": 905.56,
+   "end": 907.82,
+   "text": "Um, maybe go in the"
+  },
+  {
+   "start": 907.82,
+   "end": 908.44,
+   "text": "Store, you know, cause"
+  },
+  {
+   "start": 908.44,
+   "end": 908.84,
+   "text": "They're having the"
+  },
+  {
+   "start": 908.84,
+   "end": 909.54,
+   "text": "Energy drinks, the"
+  },
+  {
+   "start": 909.54,
+   "end": 912.32,
+   "text": "344 milligrams of"
+  },
+  {
+   "start": 912.32,
+   "end": 913.34,
+   "text": "Caffeine per energy"
+  },
+  {
+   "start": 913.34,
+   "end": 914.26,
+   "text": "Drink, energy drink"
+  },
+  {
+   "start": 914.26,
+   "end": 915.56,
+   "text": "Sale for 67 cents"
+  },
+  {
+   "start": 915.56,
+   "end": 916.2,
+   "text": "Each."
+  },
+  {
+   "start": 916.92,
+   "end": 917.78,
+   "text": "So I'm going to bust"
+  },
+  {
+   "start": 917.78,
+   "end": 918.52,
+   "text": "Nuts, I think, on"
+  },
+  {
+   "start": 918.52,
+   "end": 920.66,
+   "text": "Over there and get"
+  },
+  {
+   "start": 920.66,
+   "end": 921.78,
+   "text": "Two of those bitches"
+  },
+  {
+   "start": 921.78,
+   "end": 923.46,
+   "text": "Get jizzity jacked."
+  },
+  {
+   "start": 924.4,
+   "end": 927.14,
+   "text": "Um, maybe buy foodsy"
+  },
+  {
+   "start": 927.14,
+   "end": 927.46,
+   "text": "Woods."
+  },
+  {
+   "start": 927.58,
+   "end": 928.64,
+   "text": "I'm like so broke that"
+  },
+  {
+   "start": 928.64,
+   "end": 929.46,
+   "text": "I don't even really eat"
+  },
+  {
+   "start": 929.46,
+   "end": 929.88,
+   "text": "Anymore."
+  },
+  {
+   "start": 929.88,
+   "end": 931.48,
+   "text": "I hang out with my"
+  },
+  {
+   "start": 931.48,
+   "end": 931.78,
+   "text": "Mom."
+  },
+  {
+   "start": 931.92,
+   "end": 932.74,
+   "text": "That's how I eat."
+  },
+  {
+   "start": 932.88,
+   "end": 933.58,
+   "text": "I go to my mom's"
+  },
+  {
+   "start": 933.58,
+   "end": 934.54,
+   "text": "House and she feeds me"
+  },
+  {
+   "start": 934.54,
+   "end": 935.26,
+   "text": "Noodles and stuff."
+  },
+  {
+   "start": 935.6,
+   "end": 936.3,
+   "text": "Oh, and plus I'm eating"
+  },
+  {
+   "start": 936.3,
+   "end": 937.3,
+   "text": "Like, uh, pasta."
+  },
+  {
+   "start": 937.5,
+   "end": 938.28,
+   "text": "I'm eating like how"
+  },
+  {
+   "start": 938.28,
+   "end": 939.12,
+   "text": "You're supposed to eat"
+  },
+  {
+   "start": 939.12,
+   "end": 940.02,
+   "text": "If you live on the"
+  },
+  {
+   "start": 940.02,
+   "end": 943.14,
+   "text": "Woods, like pasta, um,"
+  },
+  {
+   "start": 943.36,
+   "end": 946.0,
+   "text": "Bread, uh, potatoes."
+  },
+  {
+   "start": 946.48,
+   "end": 947.3,
+   "text": "I made a bunch of"
+  },
+  {
+   "start": 947.3,
+   "end": 948.22,
+   "text": "Potatoes last night."
+  },
+  {
+   "start": 949.6,
+   "end": 951.38,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 951.68,
+   "end": 952.62,
+   "text": "I'm going to go in and"
+  },
+  {
+   "start": 952.62,
+   "end": 953.5,
+   "text": "Get, uh, vegetable"
+  },
+  {
+   "start": 953.5,
+   "end": 953.88,
+   "text": "Bags."
+  },
+  {
+   "start": 953.88,
+   "end": 954.4,
+   "text": "Bags."
+  },
+  {
+   "start": 955.2,
+   "end": 955.56,
+   "text": "Yeah."
+  },
+  {
+   "start": 955.72,
+   "end": 958.52,
+   "text": "So anyways, um, so"
+  },
+  {
+   "start": 958.52,
+   "end": 959.82,
+   "text": "Yeah, dude, uh, I'm"
+  },
+  {
+   "start": 959.82,
+   "end": 961.62,
+   "text": "About to, I don't know"
+  },
+  {
+   "start": 961.62,
+   "end": 963.28,
+   "text": "Anybody on YouTube who"
+  },
+  {
+   "start": 963.28,
+   "end": 964.16,
+   "text": "Makes videos the way"
+  },
+  {
+   "start": 964.16,
+   "end": 964.7,
+   "text": "I'm going to do."
+  },
+  {
+   "start": 964.82,
+   "end": 965.52,
+   "text": "Um, you know, the"
+  },
+  {
+   "start": 965.52,
+   "end": 966.36,
+   "text": "Closest thing I can"
+  },
+  {
+   "start": 966.36,
+   "end": 967.1,
+   "text": "Think is maybe young"
+  },
+  {
+   "start": 967.1,
+   "end": 967.42,
+   "text": "Turks."
+  },
+  {
+   "start": 967.74,
+   "end": 968.62,
+   "text": "They have their live"
+  },
+  {
+   "start": 968.62,
+   "end": 969.64,
+   "text": "Show and then they go"
+  },
+  {
+   "start": 969.64,
+   "end": 970.36,
+   "text": "And they cut up the"
+  },
+  {
+   "start": 970.36,
+   "end": 971.26,
+   "text": "Clips into the YouTube."
+  },
+  {
+   "start": 971.66,
+   "end": 972.58,
+   "text": "I'm going to do that"
+  },
+  {
+   "start": 972.58,
+   "end": 973.34,
+   "text": "Only it's not going to"
+  },
+  {
+   "start": 973.34,
+   "end": 974.12,
+   "text": "Be me sitting on the"
+  },
+  {
+   "start": 974.12,
+   "end": 974.74,
+   "text": "Table yapping."
+  },
+  {
+   "start": 975.1,
+   "end": 976.04,
+   "text": "It's going to be doing"
+  },
+  {
+   "start": 976.04,
+   "end": 976.92,
+   "text": "All these other things"
+  },
+  {
+   "start": 976.92,
+   "end": 977.64,
+   "text": "And adding in and"
+  },
+  {
+   "start": 977.64,
+   "end": 978.46,
+   "text": "Creating educational"
+  },
+  {
+   "start": 978.46,
+   "end": 980.24,
+   "text": "Videos, but it's done"
+  },
+  {
+   "start": 980.24,
+   "end": 981.14,
+   "text": "The same exact way."
+  },
+  {
+   "start": 981.14,
+   "end": 982.62,
+   "text": "You just do a live"
+  },
+  {
+   "start": 982.62,
+   "end": 985.1,
+   "text": "Show and the end of"
+  },
+  {
+   "start": 985.1,
+   "end": 985.94,
+   "text": "The day, you just chop"
+  },
+  {
+   "start": 985.94,
+   "end": 986.5,
+   "text": "It up and throw it"
+  },
+  {
+   "start": 986.5,
+   "end": 986.64,
+   "text": "Up."
+  },
+  {
+   "start": 986.9,
+   "end": 987.52,
+   "text": "That's how you do it."
+  },
+  {
+   "start": 987.52,
+   "end": 988.06,
+   "text": "And that's the best"
+  },
+  {
+   "start": 988.06,
+   "end": 988.84,
+   "text": "And only way I think"
+  },
+  {
+   "start": 988.84,
+   "end": 990.0,
+   "text": "To do videos at all"
+  },
+  {
+   "start": 990.0,
+   "end": 990.78,
+   "text": "From now on."
+  },
+  {
+   "start": 991.56,
+   "end": 993.8,
+   "text": "Um, yeah, that's"
+  },
+  {
+   "start": 993.8,
+   "end": 994.56,
+   "text": "Pretty much probably"
+  },
+  {
+   "start": 994.56,
+   "end": 995.5,
+   "text": "How the super duper"
+  },
+  {
+   "start": 995.5,
+   "end": 996.68,
+   "text": "Prolific people do it."
+  },
+  {
+   "start": 997.48,
+   "end": 998.34,
+   "text": "Like what's that kid's"
+  },
+  {
+   "start": 998.34,
+   "end": 998.5,
+   "text": "Name?"
+  },
+  {
+   "start": 998.56,
+   "end": 999.5,
+   "text": "Simon Whistler just"
+  },
+  {
+   "start": 999.5,
+   "end": 1000.32,
+   "text": "Does all those videos."
+  },
+  {
+   "start": 1000.42,
+   "end": 1001.04,
+   "text": "They write the scripts"
+  },
+  {
+   "start": 1001.04,
+   "end": 1001.3,
+   "text": "For him."
+  },
+  {
+   "start": 1001.3,
+   "end": 1001.94,
+   "text": "He does the videos."
+  },
+  {
+   "start": 1002.3,
+   "end": 1003.0,
+   "text": "You probably, you"
+  },
+  {
+   "start": 1003.0,
+   "end": 1003.68,
+   "text": "Know, one after the"
+  },
+  {
+   "start": 1003.68,
+   "end": 1003.9,
+   "text": "Other."
+  },
+  {
+   "start": 1005.06,
+   "end": 1005.86,
+   "text": "It's like, he should"
+  },
+  {
+   "start": 1005.86,
+   "end": 1006.9,
+   "text": "Just live stream that."
+  },
+  {
+   "start": 1008.86,
+   "end": 1010.78,
+   "text": "Um, but make it"
+  },
+  {
+   "start": 1010.78,
+   "end": 1011.54,
+   "text": "Even less, but maybe"
+  },
+  {
+   "start": 1011.54,
+   "end": 1012.46,
+   "text": "They have like,"
+  },
+  {
+   "start": 1012.46,
+   "end": 1013.2,
+   "text": "See, this is the"
+  },
+  {
+   "start": 1013.2,
+   "end": 1013.62,
+   "text": "Way that you could"
+  },
+  {
+   "start": 1013.62,
+   "end": 1014.24,
+   "text": "Do it like that."
+  },
+  {
+   "start": 1014.3,
+   "end": 1014.82,
+   "text": "Like the way the"
+  },
+  {
+   "start": 1014.82,
+   "end": 1015.44,
+   "text": "Young dudes do it"
+  },
+  {
+   "start": 1015.44,
+   "end": 1016.64,
+   "text": "Only as a one man"
+  },
+  {
+   "start": 1016.64,
+   "end": 1016.88,
+   "text": "Show."
+  },
+  {
+   "start": 1017.56,
+   "end": 1018.14,
+   "text": "It's the only way"
+  },
+  {
+   "start": 1018.14,
+   "end": 1018.62,
+   "text": "That you can do it,"
+  },
+  {
+   "start": 1018.66,
+   "end": 1019.3,
+   "text": "But I think it's"
+  },
+  {
+   "start": 1019.3,
+   "end": 1019.7,
+   "text": "Possible."
+  },
+  {
+   "start": 1019.9,
+   "end": 1021.56,
+   "text": "So anyways, um,"
+  },
+  {
+   "start": 1021.64,
+   "end": 1022.34,
+   "text": "Yeah, we'll see"
+  },
+  {
+   "start": 1022.34,
+   "end": 1023.14,
+   "text": "Here in a little bit"
+  },
+  {
+   "start": 1023.14,
+   "end": 1024.16,
+   "text": "Week or two."
+  },
+  {
+   "start": 1024.56,
+   "end": 1024.88,
+   "text": "Okay."
+  },
+  {
+   "start": 1025.02,
+   "end": 1025.88,
+   "text": "Talk to you tomorrow."
+  }
+ ]
+}
