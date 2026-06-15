@@ -1,0 +1,906 @@
+{
+ "youtube_id": "vLdJcVbCG0U",
+ "title": "7-7-24 Condensing books with chatgtp day 33",
+ "url": "https://youtu.be/vLdJcVbCG0U",
+ "published_at": "2024-07-07",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 10.52,
+   "text": "Hi, it's 543 in the morning on July 7th, 2024, Sunday, and, uh, yeah, so when I'm done with"
+  },
+  {
+   "start": 10.52,
+   "end": 19.76,
+   "text": "This video, I shouts, I both shouts, um, go over to the store and, uh, get me my energy"
+  },
+  {
+   "start": 19.76,
+   "end": 26.46,
+   "text": "Drink because that's what's fun, that's what time it is, um, yeah, because it's, like,"
+  },
+  {
+   "start": 26.46,
+   "end": 39.78,
+   "text": "Daytime in it, um, I'm on, like, number 40, 43 of book 13, yeah, so I finished book 12"
+  },
+  {
+   "start": 39.78,
+   "end": 52.67,
+   "text": "At 435, 465, so book 13 has 168, and then, uh, 14 has 91, and then 15 has 18, and then"
+  },
+  {
+   "start": 52.67,
+   "end": 63.2,
+   "text": "16 has 3, 17 has 6, 18 has, like, 9, or something like that, so, um, I think I can, it was,"
+  },
+  {
+   "start": 63.32,
+   "end": 68.36,
+   "text": "Like, 315 from the beginning of 12, so, so I'd maybe have, like, a little, almost 13,"
+  },
+  {
+   "start": 68.36,
+   "end": 75.78,
+   "text": "300 left, so, so me, I was hoping I could get done by Monday, and this day is the morning"
+  },
+  {
+   "start": 75.78,
+   "end": 81.58,
+   "text": "Time of Sunday, right, so that means I have 24 hours, right, because when I say get done"
+  },
+  {
+   "start": 81.58,
+   "end": 86.32,
+   "text": "By Monday, I mean, like, by Monday morning, because I'm, like, picturing, like, the boss,"
+  },
+  {
+   "start": 86.42,
+   "end": 91.72,
+   "text": "Like, it's due on Monday, so I'm, like, oh, like, so it's due, like, when I show up at"
+  },
+  {
+   "start": 91.72,
+   "end": 97.64,
+   "text": "Work on Monday at 8 in the morning, so I have, like, 24 hours left, so we'll see, I don't"
+  },
+  {
+   "start": 97.64,
+   "end": 104.92,
+   "text": "Know, hmm, kind of slept last night until I got tired, or when I got tired, it was nice"
+  },
+  {
+   "start": 104.92,
+   "end": 108.26,
+   "text": "Sleeping at night, and then it was, like, windy, and then I got up at, like, midnight and"
+  },
+  {
+   "start": 108.26,
+   "end": 115.5,
+   "text": "Working since then, I think, I've been getting super fucking jazzed about, um, moving to"
+  },
+  {
+   "start": 115.5,
+   "end": 123.4,
+   "text": "Pichicuie, like, I was married for five years in Chile, and then we got divorced, but my"
+  },
+  {
+   "start": 123.4,
+   "end": 127.88,
+   "text": "Wife is, like, 50, she's, like, older than me, I'm, like, 50, and she's, like, 54 or something"
+  },
+  {
+   "start": 127.88,
+   "end": 139.36,
+   "text": "Like that, and, uh, she has two kids, she's in Italy, but she wants to move back to Chile,"
+  },
+  {
+   "start": 139.5,
+   "end": 146.46,
+   "text": "But her dad lives in Pichicuie, and I guess she's gonna see if she can kind of, like, inherit"
+  },
+  {
+   "start": 146.46,
+   "end": 152.84,
+   "text": "The house, and then, like, cause then, like, maybe I could go down there and live there in"
+  },
+  {
+   "start": 152.84,
+   "end": 158.02,
+   "text": "Pichicuie with her, I didn't want to get back together with her, cause she's too old, but now"
+  },
+  {
+   "start": 158.02,
+   "end": 166.61,
+   "text": "I'm thinking, well, if she freaking lives in Pichicuie, though, because I'm, like, I have a thing"
+  },
+  {
+   "start": 166.61,
+   "end": 175.75,
+   "text": "For, like, I don't know, beautiful, natural situations out of all the fucking places in"
+  },
+  {
+   "start": 175.75,
+   "end": 182.19,
+   "text": "The world, dude, like, if you wanted to live in a beach house, you could live in a beach"
+  },
+  {
+   "start": 182.19,
+   "end": 186.93,
+   "text": "House, and then, like, an hour and a half away, it's 86 miles away from Pichicuie, so"
+  },
+  {
+   "start": 186.93,
+   "end": 192.21,
+   "text": "If you drive your fast car, and it's a highway the whole way, from Pichicuie to Portillo Ski"
+  },
+  {
+   "start": 192.21,
+   "end": 199.27,
+   "text": "Resort, it's 86 miles, and it's a two-way highway with a median, except for in the mountain"
+  },
+  {
+   "start": 199.27,
+   "end": 206.95,
+   "text": "Part, but it's a good road with a big shoulder, so you could, like, bus balls, get there in,"
+  },
+  {
+   "start": 207.03,
+   "end": 213.69,
+   "text": "Like, an hour and a half, right, to Portillo, right, and then, so, maybe in the future they'll"
+  },
+  {
+   "start": 213.69,
+   "end": 219.29,
+   "text": "Make lifts that go to the top of, like, Super C and all that other stuff, make it the best"
+  },
+  {
+   "start": 219.29,
+   "end": 223.89,
+   "text": "Ski resort in the world, but, so that's trippy as hell, I want to, like, the experience of"
+  },
+  {
+   "start": 223.89,
+   "end": 229.15,
+   "text": "Driving up and going skiing, but then living on the beach, but, like, like, this house is"
+  },
+  {
+   "start": 229.15,
+   "end": 239.97,
+   "text": "In Portillo, this is a video from Portillo, so imagine if that was your house, dude, you're"
+  },
+  {
+   "start": 239.97,
+   "end": 245.81,
+   "text": "Literally on the beach, you got cliffs on one side, this is, like, their backyard, with"
+  },
+  {
+   "start": 245.81,
+   "end": 250.37,
+   "text": "Trees covered, canopy covered in trees and that whole area, and it's basically, like,"
+  },
+  {
+   "start": 250.37,
+   "end": 256.92,
+   "text": "A mansion, and it's your house on the beach, and there's a bunch of houses like that that"
+  },
+  {
+   "start": 256.92,
+   "end": 261.64,
+   "text": "Are on the beach, like, they have a house a little bit inland, it's, like, a kilometer"
+  },
+  {
+   "start": 261.64,
+   "end": 265.2,
+   "text": "From the beach, but that'd be cool to live there, and then, like, maybe later on, try"
+  },
+  {
+   "start": 265.2,
+   "end": 272.42,
+   "text": "To just, just always see whatever they're selling those houses and see if you can get"
+  },
+  {
+   "start": 272.42,
+   "end": 276.14,
+   "text": "Hands on one of them, that house, if I get my hands on that house, that's, like, my dream"
+  },
+  {
+   "start": 276.14,
+   "end": 284.56,
+   "text": "House, I saw a video of, like, a bunch of, like, dolphins, like, literally right next"
+  },
+  {
+   "start": 284.56,
+   "end": 290.78,
+   "text": "To it, sea lion, you know, and, like, blue whale, humpback whale go by there, and, yeah,"
+  },
+  {
+   "start": 290.86,
+   "end": 295.52,
+   "text": "So, and, oh, it's, like, the best surf beach there, in, like, in the whole area, they have"
+  },
+  {
+   "start": 295.52,
+   "end": 299.52,
+   "text": "Even the 50-foot waves, they have everything, beginner all the way up to the huge stuff, and"
+  },
+  {
+   "start": 299.52,
+   "end": 303.54,
+   "text": "I'm like, oh, my God, and it's, like, right in the middle of Chile, like, just north of"
+  },
+  {
+   "start": 303.54,
+   "end": 308.24,
+   "text": "Santiago, so, you could, then, I wanted to do, like, big road trips down south, and,"
+  },
+  {
+   "start": 308.24,
+   "end": 313.16,
+   "text": "And, like, backpacking trips and stuff down south, in Patagonia, seems like the trip,"
+  },
+  {
+   "start": 313.28,
+   "end": 319.0,
+   "text": "The fucking most magical place in the world, anyway, um, those, like, cone, perfect cone-shaped"
+  },
+  {
+   "start": 319.0,
+   "end": 323.22,
+   "text": "Volcanoes in the middle of, like, the jungle, like, oh, my God, like, the rainforest, like,"
+  },
+  {
+   "start": 324.44,
+   "end": 329.88,
+   "text": "So, um, I'm like, fuck it, maybe I should get back together with freaking Paula, move down"
+  },
+  {
+   "start": 329.88,
+   "end": 338.62,
+   "text": "The beach, live on the beach, and then go skiing, anyways, um, but anyway, yeah, so, I was"
+  },
+  {
+   "start": 338.62,
+   "end": 349.26,
+   "text": "Working all night last night, since I started, after I slept a little bit, and, um, um, I"
+  },
+  {
+   "start": 349.26,
+   "end": 354.36,
+   "text": "Did, at one point, look at some of the other, um, books that I had to do, um, because my goal"
+  },
+  {
+   "start": 354.36,
+   "end": 361.2,
+   "text": "Is on this push to do all of the books, convert them all down, while it's still, kind of, like,"
+  },
+  {
+   "start": 361.2,
+   "end": 369.8,
+   "text": "A novel idea in my head, this whole, uh, AI technology, condensing the books down, and, um,"
+  },
+  {
+   "start": 371.44,
+   "end": 375.34,
+   "text": "But the other Indian ones, it seems like it's a lot, like, if I was going to do all the Vedas,"
+  },
+  {
+   "start": 376.06,
+   "end": 380.8,
+   "text": "If I'm going to condense them down to, like, maybe ten words each, it's still taking"
+  },
+  {
+   "start": 380.8,
+   "end": 388.52,
+   "text": "There's, like, a thousand, more than a thousand chapters just in the Rig Veda and stuff, and,"
+  },
+  {
+   "start": 388.62,
+   "end": 398.54,
+   "text": "Like, that'll, that's almost, like, as big as the Mahabharata and, um, and, um, Herodotus,"
+  },
+  {
+   "start": 398.6,
+   "end": 402.26,
+   "text": "You know, even if you're only condensing it one time, it saves time, you know, doing it"
+  },
+  {
+   "start": 402.26,
+   "end": 407.0,
+   "text": "Three times, and doing it from really big down to something that's that big, but still time"
+  },
+  {
+   "start": 407.0,
+   "end": 410.78,
+   "text": "Consuming, and maybe not worth it, maybe I'll do the other books first, and see if I can,"
+  },
+  {
+   "start": 410.78,
+   "end": 414.8,
+   "text": "Save that for later, just do the ones that I really want to do first, and then boil it"
+  },
+  {
+   "start": 414.8,
+   "end": 418.5,
+   "text": "Down, but I don't know if I can do them all, and then, of course, I have to get them all"
+  },
+  {
+   "start": 418.5,
+   "end": 425.16,
+   "text": "Onto the website, so, this is just a major project, though, I heard this, uh, as we say"
+  },
+  {
+   "start": 425.16,
+   "end": 430.04,
+   "text": "Before, the goal was to get, and then after this, get the, um, U.S. law code, and it was"
+  },
+  {
+   "start": 430.04,
+   "end": 434.72,
+   "text": "To do it by the, um, elections, I don't think it's going to be that, but so now the goal is"
+  },
+  {
+   "start": 434.72,
+   "end": 439.9,
+   "text": "By the end of the year, right, so then 2024 is all about the books, the website, so, but"
+  },
+  {
+   "start": 439.9,
+   "end": 446.9,
+   "text": "Yeah, that's cool, that my website is in the perfect spot to, um, utilize this AI technology"
+  },
+  {
+   "start": 446.9,
+   "end": 453.32,
+   "text": "For condensation, uh, and then I can also use it to its max for setting up my, like, rules"
+  },
+  {
+   "start": 453.32,
+   "end": 457.02,
+   "text": "And regulations, and, like, different levels of things, and all the different sports that"
+  },
+  {
+   "start": 457.02,
+   "end": 461.14,
+   "text": "I do, it's perfect for that, too, and I've been practicing it and taking notes, like, whenever"
+  },
+  {
+   "start": 461.14,
+   "end": 464.66,
+   "text": "It gives me, answering, like, questions that I would answer then, and then I was just copying"
+  },
+  {
+   "start": 464.66,
+   "end": 469.96,
+   "text": "When it answers me, and then putting it on my notes, so that I can then use that later"
+  },
+  {
+   "start": 469.96,
+   "end": 474.62,
+   "text": "For when I build the pages, so I'm kind of doing two projects at the same time, but yesterday"
+  },
+  {
+   "start": 474.62,
+   "end": 479.82,
+   "text": "I wasn't doing a lot, because I was kind of just working on this, so I was super, um, drilled"
+  },
+  {
+   "start": 479.82,
+   "end": 483.92,
+   "text": "In, and, uh, you know, my bag's kind of hurting and stuff, because I just sit in one spot, what?"
+  },
+  {
+   "start": 483.92,
+   "end": 496.16,
+   "text": "So, anyway, um, I, um, I was listening to, um, just a little bit of Capital yesterday,"
+  },
+  {
+   "start": 496.28,
+   "end": 499.74,
+   "text": "I need to kind of bust through it today, I'll try to today, so I can get through it, and"
+  },
+  {
+   "start": 499.74,
+   "end": 503.6,
+   "text": "Listen to other books and the better parts of it, but, so I was listening to a couple,"
+  },
+  {
+   "start": 503.72,
+   "end": 508.34,
+   "text": "Just, uh, history, documentaries, which are really good, oh my god, like, went about Japan,"
+  },
+  {
+   "start": 508.9,
+   "end": 514.32,
+   "text": "Learned about those keyhole, um, mounds, which I didn't, don't remember knowing about,"
+  },
+  {
+   "start": 514.32,
+   "end": 521.8,
+   "text": "There's 162 of them, um, and I guess up to 5,000 smaller ones, um, and then, yeah, something"
+  },
+  {
+   "start": 521.8,
+   "end": 526.36,
+   "text": "Like, uh, other docs, I think I'm going to watch the doc of, um, Pirates, I, I like the"
+  },
+  {
+   "start": 526.36,
+   "end": 530.5,
+   "text": "Channel, um, Voices of the Past, because they do, like, they quote a lot of the actual books"
+  },
+  {
+   "start": 530.5,
+   "end": 538.46,
+   "text": "And stuff, so, anyways, um, yeah, but I was, like, watching videos, like, of the surfing,"
+  },
+  {
+   "start": 539.12,
+   "end": 544.3,
+   "text": "Videos of Pichicuia and the word, the letters of Pichicuia are all in rainbow, so,"
+  },
+  {
+   "start": 544.32,
+   "end": 550.06,
+   "text": "It's, like, apropos to my website, but, yeah, it's just all the, all the cool stuff,"
+  },
+  {
+   "start": 550.14,
+   "end": 555.28,
+   "text": "It's awesome, like, if I were to, if I were to, like, not know the earth or whatever, just"
+  },
+  {
+   "start": 555.28,
+   "end": 559.84,
+   "text": "Kind of pop up on the earth and be, like, ask me, where's the, where would you want to"
+  },
+  {
+   "start": 559.84,
+   "end": 562.7,
+   "text": "Live, where's the coolest spot in the world, I'd say that fucking house, I'd say Pichicuia,"
+  },
+  {
+   "start": 562.8,
+   "end": 568.01,
+   "text": "And then they'd be, like, why, and I'd be, like, assuming I have plenty of money and I"
+  },
+  {
+   "start": 568.01,
+   "end": 574.23,
+   "text": "Don't have to have a job, I have a nice car, and it's just party time, because you can"
+  },
+  {
+   "start": 574.23,
+   "end": 580.09,
+   "text": "Fucking, like, eat badass seafood every day, cheap seafood, perfect seafood, that you could"
+  },
+  {
+   "start": 580.09,
+   "end": 585.11,
+   "text": "Probably catch yourself, go kayaking and swimming, all that ocean stuff, surfing, there's surf"
+  },
+  {
+   "start": 585.11,
+   "end": 590.35,
+   "text": "Beaches right outside your house, all the surf beaches, and then there's also mountain biking"
+  },
+  {
+   "start": 590.35,
+   "end": 594.41,
+   "text": "And, uh, around there and running and, like, road riding, but then there's the ski resort,"
+  },
+  {
+   "start": 594.51,
+   "end": 599.19,
+   "text": "So you look at it and you're, like, wait, there's huge-ass mountains that up to 23,000 foot,"
+  },
+  {
+   "start": 599.19,
+   "end": 606.17,
+   "text": "Like, 85 miles from the surf beach, like, there's no place in the world like that, so it's like,"
+  },
+  {
+   "start": 606.21,
+   "end": 610.77,
+   "text": "Oh my god, like, imagine if you're just living like that, and you're, like, living on the"
+  },
+  {
+   "start": 610.77,
+   "end": 614.33,
+   "text": "Beach, or, like, somebody visiting you, you're on that house, you're living on a beach, and,"
+  },
+  {
+   "start": 614.45,
+   "end": 618.95,
+   "text": "Like, the waves, I have some seafood, like, okay, so we're gonna go skiing tomorrow, and"
+  },
+  {
+   "start": 618.95,
+   "end": 623.11,
+   "text": "Then you go skiing, hour and a half later, you get up to Portillo, and then you do, like,"
+  },
+  {
+   "start": 623.15,
+   "end": 626.89,
+   "text": "The super sea, and you're, like, what the fuck, and you do that every day, you go up there"
+  },
+  {
+   "start": 626.89,
+   "end": 631.45,
+   "text": "Every day for skiing, up in the mountains, and then you're, like, and then you take days"
+  },
+  {
+   "start": 631.45,
+   "end": 637.51,
+   "text": "Off to surf, it's like, what the fuck kind of a life place is this, and that's the only"
+  },
+  {
+   "start": 637.51,
+   "end": 643.63,
+   "text": "Place in the world that's like that, so, to that extent, I mean, that extreme extent,"
+  },
+  {
+   "start": 644.63,
+   "end": 649.03,
+   "text": "I was, I was watching videos, and so I saw a really good one here of, um, I was just all"
+  },
+  {
+   "start": 649.03,
+   "end": 653.83,
+   "text": "The different shoots in Portillo, I didn't ski there when I was there, and, um, but I did"
+  },
+  {
+   "start": 653.83,
+   "end": 663.41,
+   "text": "Go there, on the bus, and, um, so I saw it, but, um, um, in the summertime, but, um, I"
+  },
+  {
+   "start": 663.41,
+   "end": 666.07,
+   "text": "Think I went, we went over there in the winter, no, no, I saw it in the winter, in the summer,"
+  },
+  {
+   "start": 666.51,
+   "end": 678.97,
+   "text": "Went there with Paula, so, um, but, um, yeah, that's it, um, living outside of Chile in the,"
+  },
+  {
+   "start": 679.03,
+   "end": 682.59,
+   "text": "In the countryside on the beach is totally different than living in the city, when I was"
+  },
+  {
+   "start": 682.59,
+   "end": 687.45,
+   "text": "There, I was in the city, so, yeah, I should go back there, anyways, um, but that's, I'm talking"
+  },
+  {
+   "start": 687.45,
+   "end": 692.43,
+   "text": "About the future, like, when I'm an old guy, you know, I mean, I'm thinking about all the"
+  },
+  {
+   "start": 692.43,
+   "end": 697.01,
+   "text": "Fun stuff I want to do, it's like, damn, I hope they do the technology or whatever, singularity,"
+  },
+  {
+   "start": 697.09,
+   "end": 701.57,
+   "text": "So I can stay alive for forever, there were, I was watching the wingsuit dudes, and, uh,"
+  },
+  {
+   "start": 702.85,
+   "end": 711.93,
+   "text": "Um, this dude, like, Harry Potter, I mean, Dean Potter crashed his wingsuit in Yosemite,"
+  },
+  {
+   "start": 712.77,
+   "end": 716.47,
+   "text": "Because he, like, tried to go over a ledge and hit it or whatever, and his friend, too,"
+  },
+  {
+   "start": 716.47,
+   "end": 719.97,
+   "text": "They both died, but then they interviewed the dude who he bought the wingsuit from,"
+  },
+  {
+   "start": 720.11,
+   "end": 725.39,
+   "text": "And it's a guy who lives in San Francisco, and he makes the wingsuits that he, like,"
+  },
+  {
+   "start": 725.61,
+   "end": 730.59,
+   "text": "That he was wearing when he, those guys died, but, and it's this, like, old guy, like,"
+  },
+  {
+   "start": 730.63,
+   "end": 735.47,
+   "text": "A 70-year-old dude, and he's like, yo, he was a nice guy, too bad he died, but then he's"
+  },
+  {
+   "start": 735.47,
+   "end": 739.69,
+   "text": "Like, yo, man, I did that joke last year, it's a sketchy one, it's like, what the fuck,"
+  },
+  {
+   "start": 739.83,
+   "end": 743.71,
+   "text": "Like, the fucking old guy's jumping up out in the wingsuiting, so I want to be one of those"
+  },
+  {
+   "start": 743.71,
+   "end": 750.59,
+   "text": "Old guys, maybe, if I'm in the right, like, mindset, um, or if by then, maybe it's, like,"
+  },
+  {
+   "start": 750.63,
+   "end": 754.89,
+   "text": "Not even seen as dangerous anymore, because the reason people die on those is because they,"
+  },
+  {
+   "start": 755.43,
+   "end": 759.21,
+   "text": "I don't know why they have to do this, but they always want to get close, you know,"
+  },
+  {
+   "start": 760.59,
+   "end": 765.65,
+   "text": "And those, those are the guys who die, um, anyways, um, I saw the video, the dude used"
+  },
+  {
+   "start": 765.65,
+   "end": 773.3,
+   "text": "To do the video of the guy, what was his name, I remember his name, but this lunatic was trying"
+  },
+  {
+   "start": 773.3,
+   "end": 777.24,
+   "text": "To hit balloons that were just right next to the cliff, he was trying to get, trying"
+  },
+  {
+   "start": 777.24,
+   "end": 781.86,
+   "text": "To get five inches from the, five feet from the cliff, one guy went through a six-foot"
+  },
+  {
+   "start": 781.86,
+   "end": 789.3,
+   "text": "Wide hole, it's insane, but I, and I think that same guy may have died trying to get through"
+  },
+  {
+   "start": 789.3,
+   "end": 796.28,
+   "text": "Another one, but, um, or somebody, but, um, but, um, the guy was trying to hit the balloon,"
+  },
+  {
+   "start": 796.28,
+   "end": 802.28,
+   "text": "And he hit the fucking cliff, but then he survived, because he pulled his, his chute, so that's"
+  },
+  {
+   "start": 802.28,
+   "end": 807.38,
+   "text": "Like, the luckiest dude ever, but then another dude hit the trees, and survived, so there's"
+  },
+  {
+   "start": 807.38,
+   "end": 813.36,
+   "text": "Two guys who were the luckiest dude ever, anyway, um, but some of those guys are crazy,"
+  },
+  {
+   "start": 813.6,
+   "end": 825.0,
+   "text": "But, um, I saw the video of one guy who got injured, because his, like, um, his, um, his"
+  },
+  {
+   "start": 825.0,
+   "end": 828.68,
+   "text": "Chute got tangled, and he was spinning around, and he didn't get untangled in time, and smacked"
+  },
+  {
+   "start": 828.68,
+   "end": 835.66,
+   "text": "In the ground, and was like, oh, it was like, totally fucked up, but before that happened,"
+  },
+  {
+   "start": 835.9,
+   "end": 839.46,
+   "text": "The thing that scared the shit out of me was, he's flying, and then he's flying through the"
+  },
+  {
+   "start": 839.46,
+   "end": 847.14,
+   "text": "Trees, and I noticed at one point, this lunatic was so low, that trees on both sides of him"
+  },
+  {
+   "start": 847.14,
+   "end": 854.22,
+   "text": "Were above him, he was actually in the trees, and I'm like, dude, and he, I could tell he"
+  },
+  {
+   "start": 854.22,
+   "end": 858.98,
+   "text": "Was doing that on purpose, he's trying to go in there, I was like, oh my god, you fucking"
+  },
+  {
+   "start": 858.98,
+   "end": 866.1,
+   "text": "Lunatic, like, what is wrong with you, that's why people die, anyways, at least I think, at"
+  },
+  {
+   "start": 866.1,
+   "end": 869.48,
+   "text": "Least, or maybe, because there's, at least in the future, there shouldn't be a reason,"
+  },
+  {
+   "start": 869.56,
+   "end": 874.68,
+   "text": "Because you could, um, oh man, look, now I'm showing off my gyno, fucking goddammit, because"
+  },
+  {
+   "start": 874.68,
+   "end": 884.63,
+   "text": "I'm 50, and I don't work out, I'm not on steroids, anyways, um, um, what am I talking"
+  },
+  {
+   "start": 884.63,
+   "end": 892.96,
+   "text": "About, yeah, because I'm a rock star, rock stars don't work out, man, the gods don't"
+  },
+  {
+   "start": 892.96,
+   "end": 907.25,
+   "text": "Have to work to exercise, anyways, um, what was I saying, um, god, um, oh yeah, they have"
+  },
+  {
+   "start": 907.25,
+   "end": 910.93,
+   "text": "Those fucking, they have two of them, they had one in Europe, and then they had another"
+  },
+  {
+   "start": 910.93,
+   "end": 916.45,
+   "text": "One, they made another one in Orlando, it's the wingsuit, um, whole, uh, buildings, so you're"
+  },
+  {
+   "start": 916.45,
+   "end": 920.65,
+   "text": "Going to go inside the wingsuit thing, you get really good at it, and it becomes safe,"
+  },
+  {
+   "start": 920.71,
+   "end": 925.47,
+   "text": "Anyways, so that'd be a cool thing to do when I'm, like, older, like, really old, really"
+  },
+  {
+   "start": 925.47,
+   "end": 931.41,
+   "text": "Old, I've got, like, a million things to do for that, anyways, um, so that was cool when"
+  },
+  {
+   "start": 931.41,
+   "end": 936.43,
+   "text": "I saw that old-ass dude, he was doing it, anyways, um, but I guess they said he retired,"
+  },
+  {
+   "start": 937.37,
+   "end": 941.45,
+   "text": "Anyways, I'm going to, that's enough talking, I did my video, I don't know when I'll upload"
+  },
+  {
+   "start": 941.45,
+   "end": 947.33,
+   "text": "This, but, um, I'm going to, you know, um, that's whenever I get around to it, I'm just"
+  },
+  {
+   "start": 947.33,
+   "end": 951.87,
+   "text": "Trying to get as far ahead, I'm still in the, in the mindset of, like, virgin territory"
+  },
+  {
+   "start": 951.87,
+   "end": 955.97,
+   "text": "In the beginning, my little guy just licked me, and they like to stick their, their noses"
+  },
+  {
+   "start": 955.97,
+   "end": 961.67,
+   "text": "At me, because I'm always sticking their noses in my nose, if you have a ferret and you're"
+  },
+  {
+   "start": 961.67,
+   "end": 965.87,
+   "text": "Always sticking your nose in their nose, like how you do with your ferrets, then they"
+  },
+  {
+   "start": 965.87,
+   "end": 968.59,
+   "text": "Come up to you and they're always sticking their noses on you, like, say hi, it's really"
+  },
+  {
+   "start": 968.59,
+   "end": 977.75,
+   "text": "Cute, like, all the time, anyways, um, um, yeah, I'll up the list this whenever I'm, I'm"
+  },
+  {
+   "start": 977.75,
+   "end": 981.07,
+   "text": "Like in virgin territory, like, when I just started, and, you know, and I'm just starting"
+  },
+  {
+   "start": 981.07,
+   "end": 987.09,
+   "text": "To get as far ahead on something before I start thinking, you know, before anything changes"
+  },
+  {
+   "start": 987.09,
+   "end": 992.89,
+   "text": "In my life, before, so that, increase the chances of finishing it, because I wasn't planning"
+  },
+  {
+   "start": 992.89,
+   "end": 998.77,
+   "text": "On doing this, I was, in fact, just recently, I was doing, like, screen captures, video captures"
+  },
+  {
+   "start": 998.77,
+   "end": 1001.29,
+   "text": "Of Google Earth stuff, because I wasn't going to put the Google Earth stuff up, but I'm"
+  },
+  {
+   "start": 1001.29,
+   "end": 1006.47,
+   "text": "Not even near that, and then I veered into this, because I got that HELOC loan, so, I"
+  },
+  {
+   "start": 1006.47,
+   "end": 1009.31,
+   "text": "Don't know, for now, I don't have to have a job, I can, still can't get a roommate, though,"
+  },
+  {
+   "start": 1010.07,
+   "end": 1015.55,
+   "text": "I get these people who are interested, every once in a while, but, it's like, no, I can't"
+  },
+  {
+   "start": 1015.55,
+   "end": 1020.71,
+   "text": "Do that anymore, it's people who, like, you don't know anything about them, and so, anyways,"
+  },
+  {
+   "start": 1020.71,
+   "end": 1036.98,
+   "text": "Um, um, what was I saying, um, yeah, so, uh, but now's the appropriate time to work"
+  },
+  {
+   "start": 1036.98,
+   "end": 1046.48,
+   "text": "On that, so, god, get that fucking gyno nipple out, I need to wear a shirt, um, so, um, I,"
+  },
+  {
+   "start": 1046.48,
+   "end": 1055.58,
+   "text": "Uh, I, uh, just, uh, I'm happy, you know, it's gonna make my website a lot better, but"
+  },
+  {
+   "start": 1055.58,
+   "end": 1059.74,
+   "text": "I have to focus and just keep going, you know, and it's, all this stuff's gonna add a few"
+  },
+  {
+   "start": 1059.74,
+   "end": 1066.22,
+   "text": "Months, so, whatever, it's cool, um, okay, so, anyways, so, that's enough talking, I shall"
+  },
+  {
+   "start": 1066.22,
+   "end": 1067.38,
+   "text": "Talk to you tomorrow."
+  }
+ ]
+}

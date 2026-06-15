@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-4208 videos with transcripts. Source of truth for transcripts + enrichments.
+4317 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -39,9 +39,118 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2024-10-20 | [Dumbell Squat Press is the BEST weight exersize. EVERYBODY should do i](corpus/videos/9WOtw9A-FG0.json) | kyle | Kyle introduces an exercise he invented called the 'dumbbell squat to overhead press ladder,' describing the movement, r |
 | 2024-10-20 | [10-18-24 Dumbbell workout. Dumbbell Squat Press and others. 9,900 lbs](corpus/videos/IQjDZ4sSnsE.json) | kyle | Kyle films himself doing a dumbbell squat-press (thruster) workout at home, cycling through 10, 15, and 25 lb weights fo |
 | 2024-09-30 | [9-30-24 90% of Rocky Mountain National Park's Beaver habitat is UNOCCU](corpus/videos/BM5zSq1RLtQ.json) | kyle | Kyle argues that 90% of beaver habitat in Rocky Mountain National Park sits unoccupied and makes no sense given how easy |
+| 2024-09-18 | [9-18-24 lifted 121,930 lbs  Treadmill ran 3 mi in 47:29](corpus/videos/GyxfxgPJm6c.json) | — |  |
+| 2024-09-18 | [9-18-24 Lifted 121,930, Treadmill ran 3 mi in 47:29, stretched hour & ](corpus/videos/HDeEiLTl2SQ.json) | — |  |
+| 2024-09-17 | [9-17-24 Recline biked 3.5 mi 16:43 L13, lifted 29,100, today smoked my](corpus/videos/nZO6U2unlaU.json) | — |  |
+| 2024-09-15 | [9-15-24 Stacked hay, organized mom's garage, Fortnight BC History Test](corpus/videos/H2hGB3GpfS4.json) | — |  |
+| 2024-09-14 | [9-14-24 Stacked hay, put mom's deck back together, organized](corpus/videos/Y95Q3OFRir4.json) | — |  |
+| 2024-09-13 | [9-13-24 Still trying to organize place cause I'm brain dead & my stoma](corpus/videos/Xwhh93y_3d8.json) | — |  |
+| 2024-09-11 | [9-11-24 Organizing and cleaning](corpus/videos/EBNPFA6q6Qg.json) | — |  |
+| 2024-09-10 | [9-10-24 Organized (which is exercise for me), painted inside of car w/](corpus/videos/KsdxqTYyXuo.json) | — |  |
+| 2024-09-09 | [9-9-24 Organizing life, went for 4.5 mile ride with mom](corpus/videos/w6D9D_axwnQ.json) | — |  |
+| 2024-09-08 | [9-8-24 Ran 2/3 mile, lifted 5,700 Drove to Longs Pk w/ Mom](corpus/videos/QgeQGZL96B0.json) | — |  |
+| 2024-09-07 | [9-7-24 Stretched all day so I  can be like Van Damme](corpus/videos/xmja4pNJKlE.json) | — |  |
+| 2024-09-06 | [9-6-24 Lifted 21,150, Treadmill 3 Mi 28:41 (asthma) stretched couple h](corpus/videos/qEGlcjhxAnU.json) | — |  |
 | 2024-09-05 | [Introducing FORTNIGHT HISTORY TEST so you don't havd to lick butthole ](corpus/videos/1h_K0tUetlg.json) | kyle | Kyle introduces his 'Fortnite History Test,' a bi-weekly self-graded quiz where you hit a random number generator to get |
 | 2024-09-05 | [1st Fortnight History Test, 1st AD. 154 points](corpus/videos/HygoxEUDccE.json) | kyle | Kyle attempts his first recorded bi-weekly history test, using a random number generator to select decades from 0–2000 A |
+| 2024-09-05 | [9-5-24 Lifted 26,640 Rode 10 minutes, ran five. 1st Fortnight History ](corpus/videos/oUNoQsJkcGo.json) | — |  |
+| 2024-09-04 | [9-4-24 Rode Old Stage 30Mi w/ climbing, justifying website](corpus/videos/bAcnItnmrZc.json) | — |  |
+| 2024-09-03 | [9-3-24 Rode 30Mi Jamestown & Lee Hill. Atlantis is pixilated again! 3°](corpus/videos/35vxsbR_AF8.json) | — |  |
+| 2024-09-02 | [9-2-24 Rode 34.5 miles and got wasted from it.](corpus/videos/WUx4ZyWNnOo.json) | — |  |
+| 2024-09-01 | [9-1-24 Four days in a row doing nothing. No endorphins  from quitting ](corpus/videos/3tuMfWj03aw.json) | — |  |
+| 2024-08-31 | [8-31-24 Tired and unmotivated withdrawing from weed](corpus/videos/K9sr01jXHzk.json) | — |  |
+| 2024-08-30 | [8-30-24 Having to rest maybe from stomach bug](corpus/videos/qNSR8KNLrX8.json) | — |  |
+| 2024-08-28 | [8-28-24 Couldn't find phone turned into 1st rest day](corpus/videos/aWoUA7tBzx0.json) | — |  |
+| 2024-08-27 | [8-27-24 Lifted but can't find phone to know how much](corpus/videos/2zzA9fXwF0I.json) | — |  |
+| 2024-08-25 | [8-25-24 Biked Nelson Rd. 27.3/43.94 Lifted 35,250 lbs, Erg Rowed 2K 9:](corpus/videos/Gb0OWOlzz9s.json) | — |  |
+| 2024-08-25 | [8-25-24 Rode to Jamestown. Strava not connected yet.](corpus/videos/bu4jjor-G0Q.json) | — |  |
+| 2024-08-24 | [8-24-24 Went to Eldorado Pool, gathered bike stuff](corpus/videos/qFc61wsUsT8.json) | — |  |
+| 2024-08-23 | [8-23-24 Got hooked on the site again but only computer can't keep up w](corpus/videos/gfqcxcgalSI.json) | — |  |
+| 2024-08-22 | [8-22-24 Think I'm gunna Chat-GTP the rest of these history books befor](corpus/videos/xjedwYHwaxE.json) | — |  |
+| 2024-08-21 | [8-21-24 Hooked on Chat-GTPing down my books today.](corpus/videos/qQxGFVudTck.json) | — |  |
+| 2024-08-20 | [8-20-24 Lifted 42,830 lbs, Recline bike 1.21 m 10 minutes, Rowed 2 km ](corpus/videos/kAWFFiZR10A.json) | — |  |
+| 2024-08-19 | [8-19-24 lifted 24,150lbs, Rowed 2 km in 11:58, treadmilled mile in 12:](corpus/videos/kthbBS99cNc.json) | — |  |
+| 2024-08-18 | [8-18-24 Organized mom's garage, smoked weed & thinking about going to ](corpus/videos/txu37w5GMLM.json) | — |  |
+| 2024-08-17 | [8-17-24 Went to Gross Res with mom in her new electric car. Shopped.](corpus/videos/tEen4YsNsOI.json) | — |  |
+| 2024-08-16 | [8-16-24 Organizing and Cleaning.](corpus/videos/Jr1MCXFIe9Q.json) | — |  |
+| 2024-08-14 | [8-14-24 Computer died, got car, getting in shape, ChatGTP will do the ](corpus/videos/K-iwV6NVWJ4.json) | — |  |
+| 2024-08-14 | [8/14/24 Day 7 Tracing 120K of 160K People on Google Earth in Boulder](corpus/videos/UjQ393ZM69A.json) | — |  |
+| 2024-08-01 | [8/1/24 Last day of abstract rock art project](corpus/videos/8P1YxTG51Mw.json) | — |  |
+| 2024-07-28 | [7-28-24 Website Tables with ChatGTP day 14](corpus/videos/a6AG1_cL7ZQ.json) | — |  |
+| 2024-07-27 | [7-27-24 Lost & found vlog. When I was still working on the site before](corpus/videos/DdflRpCkP9c.json) | — |  |
+| 2024-07-27 | [7-27-24 Lifted 35,970 lbs. Kind of a rest day.](corpus/videos/geQoBZg5Rts.json) | — |  |
+| 2024-07-24 | [7-24-24 Website Tables with ChatGTP day 0](corpus/videos/NB-GW4fjXT4.json) | — |  |
+| 2024-07-23 | [7-23-24 Website Tables with ChatGTP day 9](corpus/videos/RhEkUuIjO7U.json) | — |  |
+| 2024-07-21 | [7-21-24 Website Tables with ChatGTP day 7](corpus/videos/onvts5NFVTo.json) | — |  |
+| 2024-07-20 | [7-20-24 Website Tables with ChatGTP day 6](corpus/videos/hu9Ts9oQT2o.json) | — |  |
+| 2024-07-19 | [7-19-24 Website Tables with ChatGTP day 5](corpus/videos/USJYg37nVSM.json) | — |  |
+| 2024-07-18 | [7-18-24 Website Tables with ChatGTP day 3](corpus/videos/Xe9iA7Z4dX0.json) | — |  |
+| 2024-07-17 | [7-17-24 Website Tables with ChatGTP day 2](corpus/videos/gPtvvKbp35E.json) | — |  |
+| 2024-07-16 | [7-16-24 Building Website Tables with ChatGTP day 1](corpus/videos/my7kuFJqOPg.json) | — |  |
+| 2024-07-15 | [7-15-24 Condensing books with chatgtp day 41](corpus/videos/wqGJiH3HGhY.json) | — |  |
+| 2024-07-14 | [7-14-24 Lost & found vlog. When I was still working on the site before](corpus/videos/nwK6LwRAbvc.json) | — |  |
+| 2024-07-12 | [7-12-24 Condensing books with chatgtp day 38](corpus/videos/9--FeEzgDrA.json) | — |  |
+| 2024-07-11 | [7-11-24 Condensing books with chatgtp day 37](corpus/videos/JL0dBqOz9DY.json) | — |  |
+| 2024-07-10 | [7-10-24 Condensing books with chatgtp day 36](corpus/videos/Gg_OLFMHaf0.json) | — |  |
+| 2024-07-09 | [7-9-24 Condensing books with chatgtp day 35](corpus/videos/474-mx1PKC8.json) | — |  |
+| 2024-07-08 | [7-8-24 Condensing books with chatgtp day 34](corpus/videos/bhPXP8F7AjE.json) | — |  |
+| 2024-07-07 | [7-7-24 Condensing books with chatgtp day 33](corpus/videos/vLdJcVbCG0U.json) | — |  |
+| 2024-07-06 | [7-6-24 Condensing books with chatgtp day 32](corpus/videos/Gp6pxn1TS7g.json) | — |  |
+| 2024-07-05 | [7-5-24 Condensing books with chatgtp day 31](corpus/videos/DcoS-aUCpfw.json) | — |  |
+| 2024-07-04 | [7-4-24 Condensing books with chatgtp day 30](corpus/videos/CMcnr3DuCPc.json) | — |  |
+| 2024-07-03 | [7-3-24 Condensing books with chatgtp day 29](corpus/videos/DX3WrJJKzSM.json) | — |  |
+| 2024-07-02 | [7-2-24 Condensing books with chatgtp day 28](corpus/videos/8fieQF8c_OQ.json) | — |  |
+| 2024-06-29 | [6-29-24 Condensing books with chatgtp day 25](corpus/videos/s8Ac2DZpW0k.json) | — |  |
+| 2024-06-23 | [6-23-24 Condensing books with chatgtp day 19](corpus/videos/qGfxg0vK_KQ.json) | — |  |
+| 2024-06-22 | [6-22-24 Condensing books with chatgtp day 18](corpus/videos/bQjMBhE5XxQ.json) | — |  |
+| 2024-06-20 | [6-20-24 Condensing books with chatgtp day 16](corpus/videos/EVpB5pqIvEs.json) | — |  |
+| 2024-06-19 | [6-19-24 Condensing books with chatgtp day 15](corpus/videos/7hz_psh1V2I.json) | — |  |
+| 2024-06-18 | [6-18-24 Condensing books with chatgtp day 14](corpus/videos/hJ_-HTFGGwg.json) | — |  |
+| 2024-06-17 | [6-17-24 Condensing books with chatgtp day 13](corpus/videos/P3XdnYNmRG0.json) | — |  |
+| 2024-06-08 | [6-8-24 Condensing books with chatgtp day 5](corpus/videos/dg5vhy1QrKk.json) | — |  |
+| 2024-06-05 | [6-5-24 Livy and Law Code](corpus/videos/oH8AiKGDQdo.json) | — |  |
+| 2024-06-04 | [6-4-24 1st day condensing books with chatgtp](corpus/videos/W2dVNyW58Y0.json) | — |  |
+| 2024-06-03 | [6-3-24 US Law Code Title 5](corpus/videos/gp8AGFY8J_k.json) | — |  |
+| 2024-06-02 | [6-2-24 US Law Code Title 5](corpus/videos/d7Mao2zqhSw.json) | — |  |
+| 2024-06-01 | [6-1-24 Livy and Law Code](corpus/videos/enYy92vBjJA.json) | — |  |
+| 2024-05-31 | [5-31-24 Law Code & Pliny](corpus/videos/BTbVQ16llrw.json) | — |  |
+| 2024-05-30 | [5-30-24 Law Code & Pliny](corpus/videos/z0SmbTwFT1c.json) | — |  |
+| 2024-05-29 | [5-29-24 US Law Code](corpus/videos/YtPGndl7apE.json) | — |  |
+| 2024-05-28 | [5-28-24 Connecting Classic Writers Timeline to Timeline](corpus/videos/WfjqDvxCXhI.json) | — |  |
+| 2024-05-27 | [5-27-24 Still doing writer's timeline. Planted flowers.](corpus/videos/MCd6SDuBY9M.json) | — |  |
+| 2024-05-26 | [5-26-24 Still on writers timeline. Didn't work much today. Need to get](corpus/videos/GDz1m08JtrY.json) | — |  |
+| 2024-05-25 | [5-25-24 Classic Writers Timeline](corpus/videos/LroSe5oyCCo.json) | — |  |
+| 2024-05-24 | [5-24-24 Started with Classic Author Timeline, but got sick](corpus/videos/7QY-u26cryo.json) | — |  |
+| 2024-05-23 | [5-23-24 Consul Timeline](corpus/videos/5guq9OmF7aI.json) | — |  |
+| 2024-05-22 | [5-22-24 Consular timeline attached to Livy](corpus/videos/Rd7nNRy5fNg.json) | — |  |
+| 2024-05-21 | [5-21-24 Livy books 7-8 menu](corpus/videos/eV6yIQS6hUg.json) | — |  |
+| 2024-05-20 | [5-20-24 Livy menu books 5-6 This will be a fascinating slog.](corpus/videos/2k2NmKJhGa8.json) | — |  |
+| 2024-05-19 | [5-19-24 Ballsacking Livy menu. All the way up to chapter 4 of 41 now.](corpus/videos/4jDDRutzf7Y.json) | — |  |
+| 2024-05-16 | [5-16-24 Livy & Other books](corpus/videos/9LaO_HcrTjE.json) | — |  |
+| 2024-05-15 | [5-15-24 Titling Livy's 1870 chapters and other books.](corpus/videos/KJm1s7-X2U0.json) | — |  |
+| 2024-05-14 | [5-14-24 Titling, Dating & Aligning w/ Audible all 1,870 chapters of Li](corpus/videos/GRLcoGwx31c.json) | — |  |
+| 2024-05-12 | [5-12-24 Livy](corpus/videos/aFM-df77plc.json) | — |  |
+| 2024-05-10 | [5-10-24  History Books](corpus/videos/oElGChM5xS0.json) | — |  |
+| 2024-05-09 | [5-9-24 History Books](corpus/videos/gHkWkH1bhCI.json) | — |  |
+| 2024-05-08 | [5-8-24 History Book Updates](corpus/videos/je_f7yL0atA.json) | — |  |
+| 2024-05-07 | [5-7-24 History Books Updating](corpus/videos/TKvnbseNqSI.json) | — |  |
+| 2024-05-06 | [5-6-24 History Books Updating Looks, Allll Dayyyy Longggg....](corpus/videos/Xc2hCSjg_Mc.json) | — |  |
+| 2024-05-04 | [5-4-24 Spent entire week adding time to chapters of Sophocles & Cicero](corpus/videos/E6EHwbn8cFo.json) | — |  |
 | 2024-05-02 | [I found Atlantis - Requested by Jim](corpus/videos/wSGwbXErAq4.json) | kyle | Kyle presents his personal theory that Atlantis was located in the Bahamas, specifically around Andros Island, using mea |
+| 2024-05-01 | [5-1-24 Made my Atlantis Video](corpus/videos/Ma-wPw4j-xU.json) | — |  |
+| 2024-04-30 | [4-30-24 Gunna retreat into my cave for two weeks. Don't drink alcohol!](corpus/videos/owB7gE7QZ0o.json) | — |  |
+| 2024-04-29 | [4-29-24 Problems with books gunna take couple weeks off from vlogging](corpus/videos/n5xStxXNt1w.json) | — |  |
+| 2024-04-28 | [4-28-24 History Books](corpus/videos/TOSGgvdS_WM.json) | — |  |
+| 2024-04-27 | [4-27-24 Population on Edu page & CSS on Books w/ 2 computers](corpus/videos/vkXS5wpwwDA.json) | — |  |
+| 2024-04-26 | [4-26-24 History Books & CIA World Factbook Population](corpus/videos/R1WSceaOD-Y.json) | — |  |
+| 2024-04-25 | [4-25-24 World Population Page](corpus/videos/LP3ISqhJKjk.json) | — |  |
+| 2024-04-24 | [4-24-24 Google Earth Pages](corpus/videos/QGU7uhhzuC0.json) | — |  |
+| 2024-04-23 | [4-23-24 Mountaintopia Google Earth Page](corpus/videos/3LkoyIOlYCw.json) | — |  |
+| 2024-04-21 | [4-21-24 Mountaintopia Google Earth Page](corpus/videos/DmLRSEe2oDI.json) | — |  |
+| 2024-04-20 | [4-20-24 Google Earth Pages](corpus/videos/6rMeC_bFH54.json) | — |  |
+| 2024-04-17 | [4-17-24 Education page links](corpus/videos/_CxY6-PJI-k.json) | — |  |
+| 2024-04-16 | [4-16-24 Free Audio History Books Rainbow Borders](corpus/videos/LjiMkQOfv6Q.json) | — |  |
+| 2024-04-15 | [4-15-24 Free Audio History Books Rainbow Borders](corpus/videos/Pl-DQIihYzY.json) | — |  |
 | 2024-04-14 | [4-14-24 Rainbow Borders Brain Candy good for Polybius](corpus/videos/VjdMxOe1loQ.json) | — |  |
 | 2024-04-13 | [4-13-24 Education Page](corpus/videos/SlUKexyJOIY.json) | — |  |
 | 2024-04-12 | [4-12-24 Education page fonts](corpus/videos/eeEOPwOV0XI.json) | — |  |

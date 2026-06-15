@@ -1,0 +1,391 @@
+{
+ "youtube_id": "a6AG1_cL7ZQ",
+ "title": "7-28-24 Website Tables with ChatGTP day 14",
+ "url": "https://youtu.be/a6AG1_cL7ZQ",
+ "published_at": "2024-07-28",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 6.42,
+   "text": "How's it going? How's it going? This is my new haircut that my mom gave me the other day."
+  },
+  {
+   "start": 8.04,
+   "end": 11.3,
+   "text": "Looks kind of goofy like that, but if I do like this, we're all right."
+  },
+  {
+   "start": 12.08,
+   "end": 17.7,
+   "text": "She should have cut around my ears more, but anyway, I was going to cut my own hair,"
+  },
+  {
+   "start": 17.8,
+   "end": 26.04,
+   "text": "But she offered to do it, so I've never cut my hair. So maybe I'll have the chance one of these"
+  },
+  {
+   "start": 26.04,
+   "end": 30.36,
+   "text": "Days. She really wanted me to get so professional to do it, so I was like, I'm going to do it."
+  },
+  {
+   "start": 30.46,
+   "end": 38.66,
+   "text": "So then she was like, well, then I'll do it. Anyways, it's 7.51, July 28th and Sunday."
+  },
+  {
+   "start": 40.56,
+   "end": 52.44,
+   "text": "Oh God, today I physically fell off the cliff because last night I was working until like"
+  },
+  {
+   "start": 52.44,
+   "end": 59.62,
+   "text": "3.30 and then I went to sleep. Even though I could have kept working, I went to sleep"
+  },
+  {
+   "start": 59.62,
+   "end": 66.4,
+   "text": "So that I could get a jump on the day because I needed to clean my apartment and write up"
+  },
+  {
+   "start": 66.4,
+   "end": 72.84,
+   "text": "A lease and everything for somebody who's going to come and look at the room today. Hopefully"
+  },
+  {
+   "start": 72.84,
+   "end": 77.52,
+   "text": "They'll move in. I really need a roommate. I haven't been able to get a roommate for like"
+  },
+  {
+   "start": 77.52,
+   "end": 90.12,
+   "text": "A year. Yeah, so it didn't, and I was tired enough, so I didn't, I don't recall it taking"
+  },
+  {
+   "start": 90.12,
+   "end": 95.34,
+   "text": "Too long for me to get to sleep. That wasn't the problem. But the problem was this morning"
+  },
+  {
+   "start": 95.34,
+   "end": 101.82,
+   "text": "When I woke up, number one, I woke up with really bad asthma. So I probably, I don't think"
+  },
+  {
+   "start": 101.82,
+   "end": 109.7,
+   "text": "I slept very well. I didn't really breathe. I got a lot of asthma and, um, but then I"
+  },
+  {
+   "start": 109.7,
+   "end": 113.88,
+   "text": "Got, but then I, um, I was laying on my bed like after I woke up and like, you know how"
+  },
+  {
+   "start": 113.88,
+   "end": 119.1,
+   "text": "You wake up in the morning? You first wake up and then you want to lay there for a little"
+  },
+  {
+   "start": 119.1,
+   "end": 124.98,
+   "text": "Bit because you're relaxed from the sleeping and it's nice to just lay there, especially"
+  },
+  {
+   "start": 124.98,
+   "end": 134.58,
+   "text": "When it's daytime. I could like lay on my back, um, and stuff and just like enjoy life"
+  },
+  {
+   "start": 134.58,
+   "end": 140.38,
+   "text": "For a second. But I actually wasn't able to do that. Um, since the very moment of waking"
+  },
+  {
+   "start": 140.38,
+   "end": 147.36,
+   "text": "Up, I had really bad asthma, but then I had like excruciating back pain. Whether I was"
+  },
+  {
+   "start": 147.36,
+   "end": 152.98,
+   "text": "On my back, just laying on my back with the pillow over my head, watching out the light,"
+  },
+  {
+   "start": 153.06,
+   "end": 164.2,
+   "text": "Trying to relax, or if it was laying on my belly. Um, I had just excruciating fucking back"
+  },
+  {
+   "start": 164.2,
+   "end": 171.92,
+   "text": "Pain. Like my entire back all the way down to like the bones, inside the bones. It was"
+  },
+  {
+   "start": 171.92,
+   "end": 181.48,
+   "text": "Just white hot fire on just pain, absolute pain. And, uh, it wasn't, I wasn't able to"
+  },
+  {
+   "start": 181.48,
+   "end": 190.5,
+   "text": "Have that tea in the morning, that period of time in the morning where, um, I was able"
+  },
+  {
+   "start": 190.5,
+   "end": 194.64,
+   "text": "To relax. And of course, as you can tell, I can, I can't really get a whole lot of sentences"
+  },
+  {
+   "start": 194.64,
+   "end": 207.76,
+   "text": "Out before I yawn as well. But, um, yeah, so, um, God damn it. Like I have to go, I have to"
+  },
+  {
+   "start": 207.76,
+   "end": 220.37,
+   "text": "Start to get, God, I can barely talk. I have to start to get exercise now. So, uh, um, it"
+  },
+  {
+   "start": 220.37,
+   "end": 245.16,
+   "text": "Sucks because I was working last night until, um, I think it was like 50 of chapter 11, 70"
+  },
+  {
+   "start": 245.16,
+   "end": 259.44,
+   "text": "Chapter 70 of, uh, book 11, which has 400, I think it could be 12, has 411, 465 of them"
+  },
+  {
+   "start": 259.44,
+   "end": 265.5,
+   "text": "That I have to do. Um, and then the one after that's like 168 and the one after that's like"
+  },
+  {
+   "start": 265.5,
+   "end": 272.54,
+   "text": "116. And then, uh, the last two aren't that big, but yeah, I mean, it's still a bunch of"
+  },
+  {
+   "start": 272.54,
+   "end": 277.34,
+   "text": "Time. I'm not going to be able to finish this by the time he comes. So I was, that's what"
+  },
+  {
+   "start": 277.34,
+   "end": 282.08,
+   "text": "I was hoping to do is just dragging on. I was helping my mom too, which is cutting in."
+  },
+  {
+   "start": 282.08,
+   "end": 295.18,
+   "text": "So I'm going to have to, um, you know, not finish something and, um, abandon and abandon"
+  },
+  {
+   "start": 295.18,
+   "end": 304.06,
+   "text": "Ship and, um, proceed to cleaning up my apartment. I called my mom. She didn't answer. She never"
+  },
+  {
+   "start": 304.06,
+   "end": 307.72,
+   "text": "Answers the phone when I call her. Um, cause I think, Oh, she was going to email it to me."
+  },
+  {
+   "start": 307.72,
+   "end": 314.08,
+   "text": "She dug up a lease that I was going to use with somebody. So I'm going to, uh, open it"
+  },
+  {
+   "start": 314.08,
+   "end": 323.72,
+   "text": "And look at it and Wi-Fi it and print it up. Um, yeah. And, uh, I think walking around"
+  },
+  {
+   "start": 323.72,
+   "end": 329.5,
+   "text": "My house cleaning will give me enough exercise to take the pain away. Um, and then maybe I'll"
+  },
+  {
+   "start": 329.5,
+   "end": 335.78,
+   "text": "Have, maybe I'll be able to, um, finish these books. Cause after I'm done with Mahabharata,"
+  },
+  {
+   "start": 335.78,
+   "end": 339.32,
+   "text": "I don't think it's really that much more time to finish. In fact, maybe I should just"
+  },
+  {
+   "start": 339.32,
+   "end": 346.42,
+   "text": "Abandon Mahabharata. No, I shouldn't. So I want to just punch through, um, get done with"
+  },
+  {
+   "start": 346.42,
+   "end": 359.18,
+   "text": "Those, um, to get to that stopping point. So anyway, yeah. Um, yeah. Um, but if I can"
+  },
+  {
+   "start": 359.18,
+   "end": 367.58,
+   "text": "Finish these books and I guess, I guess my body shutting down on me and my, um, website"
+  },
+  {
+   "start": 367.58,
+   "end": 371.8,
+   "text": "Getting to a stopping point, that would be, that's a pretty good alignment. You know, that's"
+  },
+  {
+   "start": 371.8,
+   "end": 379.36,
+   "text": "A good, uh, overall a good, a good place to switch gears and start going to the gym. Not"
+  },
+  {
+   "start": 379.36,
+   "end": 385.06,
+   "text": "To work so much out of sight, but I have to finish this first, just a couple more days."
+  },
+  {
+   "start": 385.06,
+   "end": 389.96,
+   "text": "So anyways, what's I'm up to? Maybe I'll wait until my mom calls before I start cleaning"
+  },
+  {
+   "start": 389.96,
+   "end": 396.36,
+   "text": "Because the way that my, I'm laying back now, my back isn't an excruciating pain. I don't"
+  },
+  {
+   "start": 396.36,
+   "end": 402.38,
+   "text": "Know why it was, I, I haven't woken up with that much back pain before. Like that was just,"
+  },
+  {
+   "start": 403.28,
+   "end": 407.26,
+   "text": "How can you have that much back pain just from laying in a bed and then wake up? Like,"
+  },
+  {
+   "start": 407.26,
+   "end": 419.22,
+   "text": "I don't know. So anyway, that's one of the reasons I'm yawning so much. It's related."
+  },
+  {
+   "start": 419.42,
+   "end": 424.38,
+   "text": "So I, yeah, I don't want to develop some other kind of a physical problem, like an actual physical"
+  },
+  {
+   "start": 424.38,
+   "end": 433.48,
+   "text": "Problem from all of these compounding. So that's another reason. So anyway, um, I can't, I'm"
+  },
+  {
+   "start": 433.48,
+   "end": 437.92,
+   "text": "Having trouble getting a sense of accomplishment because I can't, like if I wasn't hanging"
+  },
+  {
+   "start": 437.92,
+   "end": 442.92,
+   "text": "Out with anybody, I would have it and I'd be able to go to the gym. But my mother is"
+  },
+  {
+   "start": 442.92,
+   "end": 449.4,
+   "text": "Such a panic, is in such a panic every time it kind of freaks me out. You know, every time"
+  },
+  {
+   "start": 449.4,
+   "end": 455.42,
+   "text": "I mentioned anything about my website, whether it's something I did or something I'm going"
+  },
+  {
+   "start": 455.42,
+   "end": 460.32,
+   "text": "To do or a concept, she just starts screaming at me that I need to stop immediately and that"
+  },
+  {
+   "start": 460.32,
+   "end": 464.74,
+   "text": "Everybody hates me. You know, nobody cares. That's the word. Nobody cares. And it's like,"
+  },
+  {
+   "start": 464.82,
+   "end": 470.74,
+   "text": "Jesus, like, can you like, can I tell you about an idea one time without having to hear"
+  },
+  {
+   "start": 470.74,
+   "end": 482.08,
+   "text": "That? Apparently not. So, um, so, uh, anyways, uh, that drives you. So that's what I'm up to."
+  },
+  {
+   "start": 482.2,
+   "end": 488.48,
+   "text": "I'm going to, my asthma kind of went away. So maybe I can smoke a little bit of weed, just"
+  },
+  {
+   "start": 488.48,
+   "end": 494.48,
+   "text": "Like morning weed, but I'm like so high that I guess overall that, uh, if I smoked a bunch"
+  },
+  {
+   "start": 494.48,
+   "end": 499.5,
+   "text": "Of weed, I'd barely even get high, even though I haven't smoked weed yet today. So, but at"
+  },
+  {
+   "start": 499.5,
+   "end": 503.7,
+   "text": "Least I'm not having like an asthma attack right now, but so anyways, that's what I'm up"
+  },
+  {
+   "start": 503.7,
+   "end": 511.66,
+   "text": "To. Uh, hopefully once I, once I get to, I'm going to the gym and working on the website"
+  },
+  {
+   "start": 511.66,
+   "end": 519.32,
+   "text": "Sometime. Um, um, yeah, I'm hoping that I'll be like pumping out like a book a day at least"
+  },
+  {
+   "start": 519.32,
+   "end": 526.8,
+   "text": "Or a few books a day. So there'll be actual physical growth on the site. Um, for, for"
+  },
+  {
+   "start": 526.8,
+   "end": 531.34,
+   "text": "Anybody who looks, which would be only me, but it'll be giving me that, uh, since the"
+  },
+  {
+   "start": 531.34,
+   "end": 536.56,
+   "text": "Accomplishment and by the end of it, yeah, it'll be leveled up, which I'm really looking forward"
+  },
+  {
+   "start": 536.56,
+   "end": 543.22,
+   "text": "To. So anyways, that's enough babbling. Um, yeah, as soon as I'm done with all this, that's"
+  },
+  {
+   "start": 543.22,
+   "end": 547.38,
+   "text": "When I'll upload all these videos at the same time. I'm just not doing it now. Cause I'm"
+  },
+  {
+   "start": 547.38,
+   "end": 555.28,
+   "text": "Trying to finish it. Okay. So talk to you tomorrow."
+  }
+ ]
+}

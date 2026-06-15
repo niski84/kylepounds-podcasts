@@ -1,0 +1,1331 @@
+{
+ "youtube_id": "Gp6pxn1TS7g",
+ "title": "7-6-24 Condensing books with chatgtp day 32",
+ "url": "https://youtu.be/Gp6pxn1TS7g",
+ "published_at": "2024-07-06",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.3,
+   "end": 6.38,
+   "text": "Hi, this is my video log for 9-17, July 6th, Saturday, 2024."
+  },
+  {
+   "start": 7.74,
+   "end": 15.08,
+   "text": "See? See? The reels."
+  },
+  {
+   "start": 16.96,
+   "end": 25.54,
+   "text": "Um, I was up, like, um, I slept yesterday, and then I got up at, like, um, 10 at night."
+  },
+  {
+   "start": 26.26,
+   "end": 32.14,
+   "text": "Yeah, I was thinking about, like, um, late sleeping last night, because I was kind of tired,"
+  },
+  {
+   "start": 32.14,
+   "end": 36.16,
+   "text": "But then I just, I was like, I just decided to work instead."
+  },
+  {
+   "start": 37.48,
+   "end": 47.34,
+   "text": "But, um, so, um, I'm currently on, uh, 3, on, can't really see, 313? Oh, wow, that's pretty good."
+  },
+  {
+   "start": 48.34,
+   "end": 54.42,
+   "text": "I just finished 312 out of, I thought it was 365, it's actually 465 of book 12."
+  },
+  {
+   "start": 55.5,
+   "end": 60.26,
+   "text": "So I'm going to see if I can, like, finish that today, and then it's 165 of book 13,"
+  },
+  {
+   "start": 60.26,
+   "end": 62.9,
+   "text": "And then it's, like, shorter ones until I'm done, so."
+  },
+  {
+   "start": 62.9,
+   "end": 69.72,
+   "text": "Um, I was going to see if I could finish, uh, the Mahabharata by Sunday."
+  },
+  {
+   "start": 70.14,
+   "end": 75.32,
+   "text": "Um, so I'm using, um, Meta AI to condense."
+  },
+  {
+   "start": 75.54,
+   "end": 78.58,
+   "text": "Um, I just say cut to 250 words, which is a page."
+  },
+  {
+   "start": 78.58,
+   "end": 84.74,
+   "text": "Usually does it smaller, but, um, and I take it, and when they're really long chapters,"
+  },
+  {
+   "start": 84.74,
+   "end": 85.74,
+   "text": "I make it bigger."
+  },
+  {
+   "start": 85.84,
+   "end": 89.84,
+   "text": "I say, make longer, if it's not long enough, and it adjusts bigger."
+  },
+  {
+   "start": 91.08,
+   "end": 92.64,
+   "text": "Takes more time to do that."
+  },
+  {
+   "start": 92.74,
+   "end": 95.0,
+   "text": "And then I say cut to 50, and then cut to 10."
+  },
+  {
+   "start": 95.32,
+   "end": 100.82,
+   "text": "And, uh, uh, I think I'm going to go ahead and do that for all the books, though,"
+  },
+  {
+   "start": 100.82,
+   "end": 102.3,
+   "text": "Before I start to put them on the site."
+  },
+  {
+   "start": 104.18,
+   "end": 106.7,
+   "text": "And, uh, because when I put them on the site, I can get into the rhythm,"
+  },
+  {
+   "start": 106.86,
+   "end": 111.24,
+   "text": "Where I can just put them onto the tiny little tables, so there's no lag, you know,"
+  },
+  {
+   "start": 111.28,
+   "end": 113.02,
+   "text": "And then put the big little tables on the big tables."
+  },
+  {
+   "start": 113.28,
+   "end": 119.52,
+   "text": "Um, so, uh, I was going to try to be done with all of these,"
+  },
+  {
+   "start": 120.3,
+   "end": 121.42,
+   "text": "And then get going."
+  },
+  {
+   "start": 121.82,
+   "end": 126.86,
+   "text": "Maybe not put them on the website right away, just because it's the same project."
+  },
+  {
+   "start": 126.86,
+   "end": 131.8,
+   "text": "Um, maybe move on, move on, so, get going on trying to put the U.S. law code."
+  },
+  {
+   "start": 131.88,
+   "end": 137.18,
+   "text": "So, I want to get all these up on my website and the U.S. law code by election day,"
+  },
+  {
+   "start": 137.3,
+   "end": 139.82,
+   "text": "Which is, like, November 6th or something."
+  },
+  {
+   "start": 140.26,
+   "end": 140.6,
+   "text": "Let's see."
+  },
+  {
+   "start": 141.92,
+   "end": 145.16,
+   "text": "It's the beginning of July, August, September, October, November."
+  },
+  {
+   "start": 145.38,
+   "end": 146.88,
+   "text": "Yeah, like, November or whatever, um,"
+  },
+  {
+   "start": 148.99,
+   "end": 152.27,
+   "text": "Yeah, that'd be cool if I can do that."
+  },
+  {
+   "start": 152.31,
+   "end": 153.07,
+   "text": "That's my little goal."
+  },
+  {
+   "start": 153.07,
+   "end": 156.19,
+   "text": "Um, yeah."
+  },
+  {
+   "start": 156.47,
+   "end": 158.21,
+   "text": "Um, I should work on my bed more."
+  },
+  {
+   "start": 158.39,
+   "end": 160.53,
+   "text": "Because my, uh, lower back is getting hurt."
+  },
+  {
+   "start": 161.29,
+   "end": 166.23,
+   "text": "My hip hurts all the time, left hip, and then my back, lower back, and everything is getting, like, super, like,"
+  },
+  {
+   "start": 167.11,
+   "end": 169.03,
+   "text": "Tight and pain, because, uh,"
+  },
+  {
+   "start": 170.11,
+   "end": 171.23,
+   "text": "Just the shape of that,"
+  },
+  {
+   "start": 172.23,
+   "end": 176.71,
+   "text": "Sure, that, uh, that couch, man, it's just, it's not long enough."
+  },
+  {
+   "start": 176.81,
+   "end": 179.21,
+   "text": "Like, my butt goes right there"
+  },
+  {
+   "start": 179.21,
+   "end": 181.41,
+   "text": "On the edge of it, you know?"
+  },
+  {
+   "start": 181.41,
+   "end": 183.31,
+   "text": "And this one is a little bit better, but"
+  },
+  {
+   "start": 183.31,
+   "end": 185.63,
+   "text": "I wish I had, my mom has a perfect couch."
+  },
+  {
+   "start": 185.63,
+   "end": 186.29,
+   "text": "It's the one that"
+  },
+  {
+   "start": 186.29,
+   "end": 187.79,
+   "text": "You hit the button, and it goes,"
+  },
+  {
+   "start": 187.89,
+   "end": 190.13,
+   "text": "Yeah, but those are expensive."
+  },
+  {
+   "start": 190.33,
+   "end": 191.15,
+   "text": "Anyways, um,"
+  },
+  {
+   "start": 192.75,
+   "end": 194.19,
+   "text": "So I've seen it just work on the bed."
+  },
+  {
+   "start": 194.25,
+   "end": 194.79,
+   "text": "Anyways, so,"
+  },
+  {
+   "start": 196.9,
+   "end": 198.56,
+   "text": "Um,"
+  },
+  {
+   "start": 198.56,
+   "end": 205.34,
+   "text": "I was kind of brain dead, you know, not listening to anything and just music, but, um, lately I started listening to stuff."
+  },
+  {
+   "start": 205.44,
+   "end": 213.11,
+   "text": "I listened to, um, a fascinating video earlier today, uh, but now I can't remember."
+  },
+  {
+   "start": 213.11,
+   "end": 214.51,
+   "text": "God damn it, I must be getting tired."
+  },
+  {
+   "start": 216.59,
+   "end": 224.0,
+   "text": "Um, I listened to Peter Zaihan on Joe Rogan for, like, two hours."
+  },
+  {
+   "start": 224.56,
+   "end": 226.9,
+   "text": "Um, I think I read his book."
+  },
+  {
+   "start": 228.3,
+   "end": 230.5,
+   "text": "And, uh, yeah, I like the perspective."
+  },
+  {
+   "start": 230.9,
+   "end": 231.96,
+   "text": "I got a little watermelon."
+  },
+  {
+   "start": 232.12,
+   "end": 233.54,
+   "text": "I'm going to finish that one and dump the video."
+  },
+  {
+   "start": 234.46,
+   "end": 235.08,
+   "text": "Right there."
+  },
+  {
+   "start": 235.3,
+   "end": 237.58,
+   "text": "Um, yeah, uh,"
+  },
+  {
+   "start": 237.58,
+   "end": 241.74,
+   "text": "Because that's kind of up my, up, up my alley."
+  },
+  {
+   "start": 241.84,
+   "end": 244.52,
+   "text": "It's going to be, when I make my, uh, future timeline,"
+  },
+  {
+   "start": 245.04,
+   "end": 248.32,
+   "text": "This chat TTP is going to be perfect for that."
+  },
+  {
+   "start": 248.4,
+   "end": 248.9,
+   "text": "It's going to be fun."
+  },
+  {
+   "start": 249.86,
+   "end": 251.96,
+   "text": "Anyways, uh, damn."
+  },
+  {
+   "start": 252.14,
+   "end": 253.14,
+   "text": "Look where that is."
+  },
+  {
+   "start": 253.24,
+   "end": 253.46,
+   "text": "Where the,"
+  },
+  {
+   "start": 254.22,
+   "end": 255.62,
+   "text": "Is that like needles or something?"
+  },
+  {
+   "start": 255.62,
+   "end": 260.46,
+   "text": "I'm getting super jazzed about, um,"
+  },
+  {
+   "start": 263.55,
+   "end": 264.23,
+   "text": "Peachy Cooey."
+  },
+  {
+   "start": 265.85,
+   "end": 267.01,
+   "text": "Paula, um,"
+  },
+  {
+   "start": 267.61,
+   "end": 270.23,
+   "text": "Her brother and her dad live in a beach house there and"
+  },
+  {
+   "start": 270.23,
+   "end": 271.77,
+   "text": "They want to sell it."
+  },
+  {
+   "start": 271.83,
+   "end": 272.95,
+   "text": "And I'm like, no,"
+  },
+  {
+   "start": 273.51,
+   "end": 275.87,
+   "text": "You need to get your hands on that house."
+  },
+  {
+   "start": 277.39,
+   "end": 278.91,
+   "text": "I'd move in with her over there."
+  },
+  {
+   "start": 278.91,
+   "end": 280.45,
+   "text": "Cause it's like a beach city, dude."
+  },
+  {
+   "start": 280.53,
+   "end": 281.13,
+   "text": "Beach, beach."
+  },
+  {
+   "start": 281.21,
+   "end": 282.41,
+   "text": "And they do big waves and everything."
+  },
+  {
+   "start": 283.49,
+   "end": 285.69,
+   "text": "And then it's two hours away as Portillo."
+  },
+  {
+   "start": 285.85,
+   "end": 287.73,
+   "text": "And that was what looking at like super C and"
+  },
+  {
+   "start": 287.73,
+   "end": 290.71,
+   "text": "And then there's these two places they were doing, uh,"
+  },
+  {
+   "start": 290.77,
+   "end": 292.13,
+   "text": "Wingsuit jumping there."
+  },
+  {
+   "start": 293.25,
+   "end": 294.51,
+   "text": "Anyway, that's a cool part."
+  },
+  {
+   "start": 294.63,
+   "end": 296.41,
+   "text": "And then to explore around, um,"
+  },
+  {
+   "start": 297.59,
+   "end": 298.63,
+   "text": "Patagonia, there's an,"
+  },
+  {
+   "start": 298.77,
+   "end": 301.15,
+   "text": "There's a lake down there that has an island in it that has like"
+  },
+  {
+   "start": 301.15,
+   "end": 303.39,
+   "text": "A bunch of Mappucci Indians living in it."
+  },
+  {
+   "start": 303.55,
+   "end": 305.11,
+   "text": "There's a bunch of islands that have people living in it."
+  },
+  {
+   "start": 305.37,
+   "end": 305.99,
+   "text": "It's beautiful down there."
+  },
+  {
+   "start": 306.01,
+   "end": 306.27,
+   "text": "Anyways,"
+  },
+  {
+   "start": 307.01,
+   "end": 310.01,
+   "text": "It'd be cool to climb one of those like a cone shaped volcanoes,"
+  },
+  {
+   "start": 310.47,
+   "end": 310.77,
+   "text": "You know,"
+  },
+  {
+   "start": 310.83,
+   "end": 312.07,
+   "text": "Cause they're just perfect cone."
+  },
+  {
+   "start": 312.31,
+   "end": 313.05,
+   "text": "It'd be so trippy."
+  },
+  {
+   "start": 313.13,
+   "end": 313.35,
+   "text": "Anyways,"
+  },
+  {
+   "start": 314.49,
+   "end": 315.13,
+   "text": "Um,"
+  },
+  {
+   "start": 315.93,
+   "end": 316.53,
+   "text": "So,"
+  },
+  {
+   "start": 316.89,
+   "end": 317.45,
+   "text": "Uh,"
+  },
+  {
+   "start": 317.73,
+   "end": 326.81,
+   "text": "I'm going to,"
+  },
+  {
+   "start": 326.89,
+   "end": 326.99,
+   "text": "Yeah,"
+  },
+  {
+   "start": 326.99,
+   "end": 327.99,
+   "text": "I think I have enough juice."
+  },
+  {
+   "start": 328.05,
+   "end": 328.83,
+   "text": "I just had an energy."
+  },
+  {
+   "start": 328.93,
+   "end": 330.27,
+   "text": "I just got a weed this week,"
+  },
+  {
+   "start": 330.33,
+   "end": 330.83,
+   "text": "This morning,"
+  },
+  {
+   "start": 331.55,
+   "end": 332.65,
+   "text": "60 bucks,"
+  },
+  {
+   "start": 332.77,
+   "end": 333.81,
+   "text": "Like a half ounce or whatever."
+  },
+  {
+   "start": 334.05,
+   "end": 334.07,
+   "text": "And,"
+  },
+  {
+   "start": 334.07,
+   "end": 334.27,
+   "text": "Uh,"
+  },
+  {
+   "start": 335.59,
+   "end": 338.71,
+   "text": "I work all night sober."
+  },
+  {
+   "start": 338.83,
+   "end": 339.29,
+   "text": "And I was like,"
+  },
+  {
+   "start": 339.31,
+   "end": 339.69,
+   "text": "God damn it."
+  },
+  {
+   "start": 339.69,
+   "end": 341.01,
+   "text": "And the first place to open was at eight."
+  },
+  {
+   "start": 341.07,
+   "end": 341.49,
+   "text": "I went in there,"
+  },
+  {
+   "start": 341.55,
+   "end": 341.93,
+   "text": "I got weed."
+  },
+  {
+   "start": 341.99,
+   "end": 342.27,
+   "text": "And then,"
+  },
+  {
+   "start": 342.27,
+   "end": 342.57,
+   "text": "Um,"
+  },
+  {
+   "start": 344.35,
+   "end": 345.17,
+   "text": "I'm looking at this,"
+  },
+  {
+   "start": 345.17,
+   "end": 346.53,
+   "text": "This landscape of super treats."
+  },
+  {
+   "start": 347.11,
+   "end": 347.79,
+   "text": "And then,"
+  },
+  {
+   "start": 347.83,
+   "end": 348.31,
+   "text": "Um,"
+  },
+  {
+   "start": 349.01,
+   "end": 350.35,
+   "text": "Got an energy drink,"
+  },
+  {
+   "start": 350.43,
+   "end": 350.69,
+   "text": "You know?"
+  },
+  {
+   "start": 350.69,
+   "end": 351.97,
+   "text": "So I think I'll be up all day."
+  },
+  {
+   "start": 352.05,
+   "end": 352.19,
+   "text": "Yeah."
+  },
+  {
+   "start": 352.27,
+   "end": 353.17,
+   "text": "And then up all night."
+  },
+  {
+   "start": 353.29,
+   "end": 354.25,
+   "text": "Or maybe I'll sleep tonight."
+  },
+  {
+   "start": 355.41,
+   "end": 355.97,
+   "text": "And go,"
+  },
+  {
+   "start": 356.07,
+   "end": 356.33,
+   "text": "Uh,"
+  },
+  {
+   "start": 356.33,
+   "end": 357.11,
+   "text": "Diurnal."
+  },
+  {
+   "start": 357.17,
+   "end": 358.61,
+   "text": "I've been nocturnal for a long time now."
+  },
+  {
+   "start": 359.53,
+   "end": 359.73,
+   "text": "Yeah,"
+  },
+  {
+   "start": 359.75,
+   "end": 360.47,
+   "text": "Like seriously,"
+  },
+  {
+   "start": 360.69,
+   "end": 360.87,
+   "text": "Dude."
+  },
+  {
+   "start": 362.53,
+   "end": 363.25,
+   "text": "There's places,"
+  },
+  {
+   "start": 363.37,
+   "end": 364.89,
+   "text": "There's a lot of places like that."
+  },
+  {
+   "start": 364.93,
+   "end": 365.25,
+   "text": "Um,"
+  },
+  {
+   "start": 365.25,
+   "end": 366.07,
+   "text": "In Peachy Cooey too,"
+  },
+  {
+   "start": 366.07,
+   "end": 366.39,
+   "text": "There's,"
+  },
+  {
+   "start": 366.75,
+   "end": 366.79,
+   "text": "Um,"
+  },
+  {
+   "start": 367.35,
+   "end": 368.39,
+   "text": "Sand dunes,"
+  },
+  {
+   "start": 368.49,
+   "end": 370.21,
+   "text": "Like just north of Viña del Mar."
+  },
+  {
+   "start": 370.47,
+   "end": 371.97,
+   "text": "That whole area is really pretty."
+  },
+  {
+   "start": 372.07,
+   "end": 373.41,
+   "text": "Cause it's just all built up."
+  },
+  {
+   "start": 373.59,
+   "end": 374.75,
+   "text": "And anyways,"
+  },
+  {
+   "start": 374.87,
+   "end": 375.05,
+   "text": "Um,"
+  },
+  {
+   "start": 375.05,
+   "end": 375.59,
+   "text": "Really good beaches."
+  },
+  {
+   "start": 375.67,
+   "end": 375.91,
+   "text": "Anyways,"
+  },
+  {
+   "start": 376.03,
+   "end": 376.37,
+   "text": "Um,"
+  },
+  {
+   "start": 377.75,
+   "end": 378.77,
+   "text": "I think I'm gonna watch a movie."
+  },
+  {
+   "start": 380.35,
+   "end": 381.55,
+   "text": "I'm gonna watch a couple of movies."
+  },
+  {
+   "start": 381.55,
+   "end": 381.87,
+   "text": "Like,"
+  },
+  {
+   "start": 382.03,
+   "end": 382.93,
+   "text": "Was it last night?"
+  },
+  {
+   "start": 383.43,
+   "end": 383.83,
+   "text": "Um,"
+  },
+  {
+   "start": 384.85,
+   "end": 385.87,
+   "text": "Axel Laff and,"
+  },
+  {
+   "start": 385.87,
+   "end": 386.25,
+   "text": "Uh,"
+  },
+  {
+   "start": 387.35,
+   "end": 387.75,
+   "text": "Uh,"
+  },
+  {
+   "start": 388.65,
+   "end": 389.75,
+   "text": "Jessica Alba movie."
+  },
+  {
+   "start": 390.09,
+   "end": 390.53,
+   "text": "Um,"
+  },
+  {
+   "start": 392.15,
+   "end": 392.51,
+   "text": "Oh yeah,"
+  },
+  {
+   "start": 392.51,
+   "end": 392.75,
+   "text": "I know,"
+  },
+  {
+   "start": 392.81,
+   "end": 393.37,
+   "text": "But I was looking,"
+  },
+  {
+   "start": 393.49,
+   "end": 394.49,
+   "text": "But I couldn't find anything."
+  },
+  {
+   "start": 394.49,
+   "end": 396.01,
+   "text": "Anyway,"
+  },
+  {
+   "start": 396.09,
+   "end": 396.81,
+   "text": "I like humor."
+  },
+  {
+   "start": 397.95,
+   "end": 400.29,
+   "text": "I'm super finicky when it comes to movies now."
+  },
+  {
+   "start": 401.35,
+   "end": 401.71,
+   "text": "Anyways,"
+  },
+  {
+   "start": 402.05,
+   "end": 402.49,
+   "text": "Um,"
+  },
+  {
+   "start": 403.27,
+   "end": 410.49,
+   "text": "Um,"
+  },
+  {
+   "start": 410.97,
+   "end": 413.11,
+   "text": "Hi birdies."
+  },
+  {
+   "start": 413.79,
+   "end": 414.71,
+   "text": "I am,"
+  },
+  {
+   "start": 414.81,
+   "end": 415.39,
+   "text": "Uh,"
+  },
+  {
+   "start": 415.71,
+   "end": 415.95,
+   "text": "Yeah,"
+  },
+  {
+   "start": 415.99,
+   "end": 417.47,
+   "text": "Gonna try to finish this."
+  },
+  {
+   "start": 418.09,
+   "end": 420.57,
+   "text": "But it's 12 today and maybe the whole thing about Sunday."
+  },
+  {
+   "start": 421.69,
+   "end": 422.09,
+   "text": "And,"
+  },
+  {
+   "start": 422.15,
+   "end": 422.35,
+   "text": "Uh,"
+  },
+  {
+   "start": 422.35,
+   "end": 422.69,
+   "text": "Try to,"
+  },
+  {
+   "start": 422.77,
+   "end": 422.95,
+   "text": "Yeah,"
+  },
+  {
+   "start": 423.09,
+   "end": 425.71,
+   "text": "I only recently got in the habit of sitting on this couch."
+  },
+  {
+   "start": 425.79,
+   "end": 427.39,
+   "text": "I was sitting over there cause I was using the other computer."
+  },
+  {
+   "start": 427.87,
+   "end": 429.21,
+   "text": "But now I can plug this computer here."
+  },
+  {
+   "start": 429.25,
+   "end": 429.95,
+   "text": "It has its own plug."
+  },
+  {
+   "start": 430.45,
+   "end": 431.05,
+   "text": "So I can watch it."
+  },
+  {
+   "start": 431.05,
+   "end": 432.05,
+   "text": "I think I want to watch the TV."
+  },
+  {
+   "start": 432.07,
+   "end": 432.41,
+   "text": "And,"
+  },
+  {
+   "start": 432.51,
+   "end": 432.71,
+   "text": "Um,"
+  },
+  {
+   "start": 432.71,
+   "end": 432.97,
+   "text": "Like,"
+  },
+  {
+   "start": 433.05,
+   "end": 433.37,
+   "text": "Um,"
+  },
+  {
+   "start": 433.43,
+   "end": 434.23,
+   "text": "For like different,"
+  },
+  {
+   "start": 434.29,
+   "end": 436.21,
+   "text": "Like educational documentaries and stuff."
+  },
+  {
+   "start": 436.89,
+   "end": 437.29,
+   "text": "Cause,"
+  },
+  {
+   "start": 437.41,
+   "end": 437.65,
+   "text": "Um,"
+  },
+  {
+   "start": 437.85,
+   "end": 441.25,
+   "text": "I was trying to do capital last night or try to finish capital."
+  },
+  {
+   "start": 442.51,
+   "end": 443.67,
+   "text": "I should try to do that."
+  },
+  {
+   "start": 443.73,
+   "end": 444.79,
+   "text": "I've been working on it forever."
+  },
+  {
+   "start": 445.19,
+   "end": 445.85,
+   "text": "God damn it."
+  },
+  {
+   "start": 445.87,
+   "end": 446.87,
+   "text": "That's a hard book to get there."
+  },
+  {
+   "start": 447.27,
+   "end": 449.43,
+   "text": "I've listened to it like 10 years ago on,"
+  },
+  {
+   "start": 449.43,
+   "end": 449.75,
+   "text": "On,"
+  },
+  {
+   "start": 449.75,
+   "end": 450.09,
+   "text": "On,"
+  },
+  {
+   "start": 450.09,
+   "end": 450.47,
+   "text": "Um,"
+  },
+  {
+   "start": 450.47,
+   "end": 451.29,
+   "text": "Liver box."
+  },
+  {
+   "start": 452.11,
+   "end": 453.73,
+   "text": "Cause after I listened to it here on,"
+  },
+  {
+   "start": 453.73,
+   "end": 453.93,
+   "text": "Um,"
+  },
+  {
+   "start": 453.93,
+   "end": 454.25,
+   "text": "Audible,"
+  },
+  {
+   "start": 454.25,
+   "end": 456.53,
+   "text": "I want to listen to the good parts again,"
+  },
+  {
+   "start": 456.59,
+   "end": 460.89,
+   "text": "Like the timeline parts where it talks about the dates and laws and stuff."
+  },
+  {
+   "start": 460.89,
+   "end": 463.75,
+   "text": "Cause that actually is a really interesting part of history."
+  },
+  {
+   "start": 463.95,
+   "end": 464.81,
+   "text": "The 1800s,"
+  },
+  {
+   "start": 464.81,
+   "end": 466.03,
+   "text": "Uh,"
+  },
+  {
+   "start": 466.03,
+   "end": 466.83,
+   "text": "Industrial revolution."
+  },
+  {
+   "start": 466.97,
+   "end": 467.21,
+   "text": "Wow."
+  },
+  {
+   "start": 467.29,
+   "end": 467.89,
+   "text": "This is trippy."
+  },
+  {
+   "start": 467.99,
+   "end": 468.89,
+   "text": "This is space."
+  },
+  {
+   "start": 469.23,
+   "end": 472.06,
+   "text": "Man,"
+  },
+  {
+   "start": 472.14,
+   "end": 472.68,
+   "text": "The cities."
+  },
+  {
+   "start": 474.12,
+   "end": 474.6,
+   "text": "Anyways."
+  },
+  {
+   "start": 474.6,
+   "end": 475.46,
+   "text": "Um,"
+  },
+  {
+   "start": 475.8,
+   "end": 477.8,
+   "text": "So that's my view log for the day."
+  },
+  {
+   "start": 478.0,
+   "end": 478.44,
+   "text": "Um,"
+  },
+  {
+   "start": 478.48,
+   "end": 479.48,
+   "text": "I'm going to,"
+  },
+  {
+   "start": 479.48,
+   "end": 479.84,
+   "text": "Uh,"
+  },
+  {
+   "start": 481.12,
+   "end": 481.5,
+   "text": "Uh,"
+  },
+  {
+   "start": 481.5,
+   "end": 482.5,
+   "text": "Not upload those."
+  },
+  {
+   "start": 482.6,
+   "end": 483.1,
+   "text": "Ha ha ha."
+  },
+  {
+   "start": 484.0,
+   "end": 484.64,
+   "text": "I'll do that."
+  },
+  {
+   "start": 484.7,
+   "end": 485.54,
+   "text": "Whenever I do it,"
+  },
+  {
+   "start": 485.54,
+   "end": 488.32,
+   "text": "Try to finish,"
+  },
+  {
+   "start": 488.48,
+   "end": 489.1,
+   "text": "Try to get us,"
+  },
+  {
+   "start": 489.42,
+   "end": 489.9,
+   "text": "Try to,"
+  },
+  {
+   "start": 489.9,
+   "end": 490.16,
+   "text": "Uh,"
+  },
+  {
+   "start": 490.16,
+   "end": 490.38,
+   "text": "Keep,"
+  },
+  {
+   "start": 490.54,
+   "end": 491.78,
+   "text": "Keep a head on this,"
+  },
+  {
+   "start": 491.86,
+   "end": 492.7,
+   "text": "But I think I'm on schedule."
+  },
+  {
+   "start": 493.06,
+   "end": 493.46,
+   "text": "Okay."
+  },
+  {
+   "start": 493.54,
+   "end": 494.3,
+   "text": "Talk to you tomorrow."
+  },
+  {
+   "start": 494.3,
+   "end": 494.4,
+   "text": "Bye."
+  },
+  {
+   "start": 494.4,
+   "end": 494.46,
+   "text": "Bye."
+  },
+  {
+   "start": 494.46,
+   "end": 494.5,
+   "text": "Bye."
+  },
+  {
+   "start": 494.5,
+   "end": 494.52,
+   "text": "Bye."
+  },
+  {
+   "start": 494.52,
+   "end": 494.54,
+   "text": "Bye."
+  },
+  {
+   "start": 494.54,
+   "end": 494.56,
+   "text": "Bye."
+  },
+  {
+   "start": 494.56,
+   "end": 494.58,
+   "text": "Bye."
+  },
+  {
+   "start": 494.58,
+   "end": 494.6,
+   "text": "Bye."
+  },
+  {
+   "start": 494.6,
+   "end": 494.62,
+   "text": "Bye."
+  },
+  {
+   "start": 494.62,
+   "end": 494.64,
+   "text": "Bye."
+  },
+  {
+   "start": 494.64,
+   "end": 494.66,
+   "text": "Bye."
+  },
+  {
+   "start": 494.66,
+   "end": 494.68,
+   "text": "Bye."
+  },
+  {
+   "start": 494.68,
+   "end": 494.7,
+   "text": "Bye."
+  },
+  {
+   "start": 494.7,
+   "end": 494.72,
+   "text": "Bye."
+  },
+  {
+   "start": 494.72,
+   "end": 494.74,
+   "text": "Bye."
+  },
+  {
+   "start": 494.74,
+   "end": 494.76,
+   "text": "Bye."
+  },
+  {
+   "start": 494.76,
+   "end": 494.78,
+   "text": "Bye."
+  },
+  {
+   "start": 494.78,
+   "end": 494.8,
+   "text": "Bye."
+  },
+  {
+   "start": 494.8,
+   "end": 496.74,
+   "text": "Bye."
+  },
+  {
+   "start": 496.74,
+   "end": 496.78,
+   "text": "Bye."
+  },
+  {
+   "start": 496.78,
+   "end": 496.82,
+   "text": "Bye."
+  },
+  {
+   "start": 496.82,
+   "end": 498.78,
+   "text": "Bye."
+  },
+  {
+   "start": 498.78,
+   "end": 498.82,
+   "text": "Bye."
+  },
+  {
+   "start": 498.82,
+   "end": 498.86,
+   "text": "Bye."
+  },
+  {
+   "start": 498.86,
+   "end": 498.9,
+   "text": "Bye."
+  },
+  {
+   "start": 498.9,
+   "end": 498.94,
+   "text": "Bye."
+  }
+ ]
+}

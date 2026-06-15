@@ -1,0 +1,766 @@
+{
+ "youtube_id": "wqGJiH3HGhY",
+ "title": "7-15-24 Condensing books with chatgtp day 41",
+ "url": "https://youtu.be/wqGJiH3HGhY",
+ "published_at": "2024-07-15",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.69,
+   "end": 3.03,
+   "text": "Hi, how's it going? This is my"
+  },
+  {
+   "start": 3.03,
+   "end": 6.41,
+   "text": "Vlog for the"
+  },
+  {
+   "start": 6.41,
+   "end": 11.11,
+   "text": "15th of July, the Ides of July"
+  },
+  {
+   "start": 11.11,
+   "end": 14.19,
+   "text": "7.52pm Monday"
+  },
+  {
+   "start": 14.19,
+   "end": 19.25,
+   "text": "I'm on"
+  },
+  {
+   "start": 19.25,
+   "end": 25.64,
+   "text": "Book 40"
+  },
+  {
+   "start": 25.64,
+   "end": 29.78,
+   "text": "Book 8, number 4840 of"
+  },
+  {
+   "start": 29.78,
+   "end": 36.43,
+   "text": "Book of jobs by Gregory the Great"
+  },
+  {
+   "start": 36.43,
+   "end": 39.05,
+   "text": "I'm like half or a little bit more than half"
+  },
+  {
+   "start": 39.05,
+   "end": 42.59,
+   "text": "Or most of the chapters are already"
+  },
+  {
+   "start": 42.59,
+   "end": 44.57,
+   "text": "Titled, I don't know how"
+  },
+  {
+   "start": 44.57,
+   "end": 47.75,
+   "text": "So I'm going in there and"
+  },
+  {
+   "start": 47.75,
+   "end": 51.43,
+   "text": "I'm just doing chat TTP"
+  },
+  {
+   "start": 51.43,
+   "end": 53.67,
+   "text": "Condensation on"
+  },
+  {
+   "start": 53.67,
+   "end": 57.89,
+   "text": "All of the ones that don't have the chapter yet"
+  },
+  {
+   "start": 57.89,
+   "end": 58.69,
+   "text": "And"
+  },
+  {
+   "start": 58.69,
+   "end": 62.19,
+   "text": "Yeah I did that on another book just before"
+  },
+  {
+   "start": 62.19,
+   "end": 64.03,
+   "text": "Death, when I first saw a book"
+  },
+  {
+   "start": 64.03,
+   "end": 66.27,
+   "text": "A job, I didn't know what I was going to do"
+  },
+  {
+   "start": 66.27,
+   "end": 67.55,
+   "text": "I was like, because I didn't"
+  },
+  {
+   "start": 67.55,
+   "end": 69.95,
+   "text": "Because it was right after I decided to leave the batch to do it"
+  },
+  {
+   "start": 69.95,
+   "end": 71.79,
+   "text": "Yeah so now I decided"
+  },
+  {
+   "start": 71.79,
+   "end": 73.63,
+   "text": "I kind of surgically just go in there and do the ones"
+  },
+  {
+   "start": 73.63,
+   "end": 76.05,
+   "text": "So now it's like half of them are"
+  },
+  {
+   "start": 76.05,
+   "end": 78.01,
+   "text": "Like from wherever and then half of them are"
+  },
+  {
+   "start": 78.01,
+   "end": 78.99,
+   "text": "Done from AI so"
+  },
+  {
+   "start": 78.99,
+   "end": 81.89,
+   "text": "Patchwork one but anyways"
+  },
+  {
+   "start": 81.89,
+   "end": 83.17,
+   "text": "This is a good book"
+  },
+  {
+   "start": 83.17,
+   "end": 87.09,
+   "text": "I'm super"
+  },
+  {
+   "start": 87.09,
+   "end": 89.19,
+   "text": "Interested to see how you know my"
+  },
+  {
+   "start": 89.19,
+   "end": 90.71,
+   "text": "Timeline and everything goes together with this"
+  },
+  {
+   "start": 90.71,
+   "end": 90.91,
+   "text": "Because"
+  },
+  {
+   "start": 90.91,
+   "end": 95.15,
+   "text": "I think this is a super duper interesting part of history"
+  },
+  {
+   "start": 95.15,
+   "end": 95.75,
+   "text": "You know like"
+  },
+  {
+   "start": 95.75,
+   "end": 97.93,
+   "text": "You live in a time of"
+  },
+  {
+   "start": 97.93,
+   "end": 100.67,
+   "text": "Rome where you know Rome empire collapses"
+  },
+  {
+   "start": 100.67,
+   "end": 101.85,
+   "text": "And then all of the villas"
+  },
+  {
+   "start": 101.85,
+   "end": 103.45,
+   "text": "Turn into"
+  },
+  {
+   "start": 103.45,
+   "end": 104.77,
+   "text": "Monasteries"
+  },
+  {
+   "start": 104.77,
+   "end": 106.85,
+   "text": "And I think Gregory the Great"
+  },
+  {
+   "start": 106.85,
+   "end": 108.49,
+   "text": "Was like a senator"
+  },
+  {
+   "start": 108.49,
+   "end": 110.93,
+   "text": "Or his grandfather was a senator"
+  },
+  {
+   "start": 110.93,
+   "end": 112.73,
+   "text": "And so"
+  },
+  {
+   "start": 112.73,
+   "end": 115.01,
+   "text": "Instead of having to move out of his like"
+  },
+  {
+   "start": 115.01,
+   "end": 117.19,
+   "text": "Villa, of his family's villa"
+  },
+  {
+   "start": 117.19,
+   "end": 119.25,
+   "text": "They just turned his family's villa into a"
+  },
+  {
+   "start": 119.25,
+   "end": 120.57,
+   "text": "Monastery"
+  },
+  {
+   "start": 120.57,
+   "end": 123.07,
+   "text": "And then he became the lord of the monastery and the villa"
+  },
+  {
+   "start": 123.07,
+   "end": 123.47,
+   "text": "You know"
+  },
+  {
+   "start": 123.47,
+   "end": 126.33,
+   "text": "That's why there were so many monasteries in Rome"
+  },
+  {
+   "start": 126.33,
+   "end": 127.37,
+   "text": "Right after the fall of Rome"
+  },
+  {
+   "start": 127.37,
+   "end": 129.05,
+   "text": "Because there was all these villas available"
+  },
+  {
+   "start": 129.05,
+   "end": 131.21,
+   "text": "With these rich people who"
+  },
+  {
+   "start": 131.21,
+   "end": 134.27,
+   "text": "Would like turn it into"
+  },
+  {
+   "start": 134.27,
+   "end": 135.73,
+   "text": "Monasteries"
+  },
+  {
+   "start": 135.73,
+   "end": 136.81,
+   "text": "So they could keep them"
+  },
+  {
+   "start": 136.81,
+   "end": 138.69,
+   "text": "So uh"
+  },
+  {
+   "start": 138.69,
+   "end": 141.37,
+   "text": "That's what they should have done with Rome"
+  },
+  {
+   "start": 141.37,
+   "end": 142.69,
+   "text": "When they made all those big"
+  },
+  {
+   "start": 142.69,
+   "end": 144.27,
+   "text": "Mansions"
+  },
+  {
+   "start": 144.27,
+   "end": 145.09,
+   "text": "I mean in New York"
+  },
+  {
+   "start": 145.09,
+   "end": 145.89,
+   "text": "Those big mansions"
+  },
+  {
+   "start": 145.89,
+   "end": 146.97,
+   "text": "Like in the Gilded Age"
+  },
+  {
+   "start": 146.97,
+   "end": 149.45,
+   "text": "They never should have uh"
+  },
+  {
+   "start": 149.45,
+   "end": 151.75,
+   "text": "Torn them down"
+  },
+  {
+   "start": 151.75,
+   "end": 154.19,
+   "text": "Um"
+  },
+  {
+   "start": 154.19,
+   "end": 154.71,
+   "text": "So"
+  },
+  {
+   "start": 154.71,
+   "end": 156.49,
+   "text": "I'm uh"
+  },
+  {
+   "start": 156.49,
+   "end": 157.33,
+   "text": "Cooking a pizza"
+  },
+  {
+   "start": 157.33,
+   "end": 158.25,
+   "text": "The thing will be"
+  },
+  {
+   "start": 158.25,
+   "end": 159.45,
+   "text": "Beeping pretty soon"
+  },
+  {
+   "start": 159.45,
+   "end": 160.49,
+   "text": "And I'm gonna have some food"
+  },
+  {
+   "start": 160.49,
+   "end": 160.69,
+   "text": "I'm"
+  },
+  {
+   "start": 160.69,
+   "end": 162.19,
+   "text": "Yeah"
+  },
+  {
+   "start": 162.19,
+   "end": 163.67,
+   "text": "I'm ready for food"
+  },
+  {
+   "start": 163.67,
+   "end": 166.07,
+   "text": "Uh"
+  },
+  {
+   "start": 166.07,
+   "end": 166.97,
+   "text": "I think"
+  },
+  {
+   "start": 166.97,
+   "end": 168.25,
+   "text": "I went to my mom's yesterday"
+  },
+  {
+   "start": 168.25,
+   "end": 168.95,
+   "text": "To help"
+  },
+  {
+   "start": 168.95,
+   "end": 169.35,
+   "text": "But uh"
+  },
+  {
+   "start": 169.35,
+   "end": 169.77,
+   "text": "Not today"
+  },
+  {
+   "start": 169.77,
+   "end": 171.77,
+   "text": "So they did the work today"
+  },
+  {
+   "start": 171.77,
+   "end": 172.33,
+   "text": "So tomorrow"
+  },
+  {
+   "start": 172.33,
+   "end": 174.09,
+   "text": "I move everything back into the living room"
+  },
+  {
+   "start": 174.09,
+   "end": 174.63,
+   "text": "After they"
+  },
+  {
+   "start": 174.63,
+   "end": 176.57,
+   "text": "Put wood on the floor"
+  },
+  {
+   "start": 176.57,
+   "end": 178.01,
+   "text": "From the uh"
+  },
+  {
+   "start": 178.01,
+   "end": 179.01,
+   "text": "The rug"
+  },
+  {
+   "start": 179.01,
+   "end": 181.47,
+   "text": "Show"
+  },
+  {
+   "start": 181.47,
+   "end": 182.47,
+   "text": "Uh"
+  },
+  {
+   "start": 182.47,
+   "end": 188.01,
+   "text": "Um"
+  },
+  {
+   "start": 188.01,
+   "end": 192.5,
+   "text": "I was listening to the bible today"
+  },
+  {
+   "start": 192.5,
+   "end": 194.74,
+   "text": "But I was listening to music for a long time"
+  },
+  {
+   "start": 194.74,
+   "end": 196.0,
+   "text": "I've been like smoking too much weed"
+  },
+  {
+   "start": 196.0,
+   "end": 198.36,
+   "text": "My brain's taking a break"
+  },
+  {
+   "start": 198.36,
+   "end": 198.92,
+   "text": "Um"
+  },
+  {
+   "start": 198.92,
+   "end": 201.02,
+   "text": "So I was listening to the bible"
+  },
+  {
+   "start": 201.02,
+   "end": 201.62,
+   "text": "I'm like"
+  },
+  {
+   "start": 201.62,
+   "end": 202.86,
+   "text": "34 hours left"
+  },
+  {
+   "start": 202.86,
+   "end": 203.08,
+   "text": "Jesus"
+  },
+  {
+   "start": 203.08,
+   "end": 203.48,
+   "text": "Um"
+  },
+  {
+   "start": 203.48,
+   "end": 205.92,
+   "text": "Yeah cause I've been kind of uh"
+  },
+  {
+   "start": 205.92,
+   "end": 207.24,
+   "text": "Doing Facebook"
+  },
+  {
+   "start": 207.24,
+   "end": 209.96,
+   "text": "I'm gonna get sick of it pretty soon though"
+  },
+  {
+   "start": 209.96,
+   "end": 211.76,
+   "text": "Facebook conversation"
+  },
+  {
+   "start": 211.76,
+   "end": 213.48,
+   "text": "I was like making all these new Facebook friends"
+  },
+  {
+   "start": 213.48,
+   "end": 214.7,
+   "text": "And talking to people on Facebook"
+  },
+  {
+   "start": 214.7,
+   "end": 215.14,
+   "text": "Haha"
+  },
+  {
+   "start": 215.14,
+   "end": 218.02,
+   "text": "You can't have a conversation with anybody on Facebook"
+  },
+  {
+   "start": 218.02,
+   "end": 218.4,
+   "text": "But"
+  },
+  {
+   "start": 218.4,
+   "end": 220.58,
+   "text": "Just tell them about my website"
+  },
+  {
+   "start": 220.58,
+   "end": 221.9,
+   "text": "And actually boosted my website"
+  },
+  {
+   "start": 221.9,
+   "end": 222.7,
+   "text": "Got a bunch of hits"
+  },
+  {
+   "start": 222.7,
+   "end": 225.64,
+   "text": "But um"
+  },
+  {
+   "start": 225.64,
+   "end": 226.04,
+   "text": "Um"
+  },
+  {
+   "start": 226.04,
+   "end": 230.09,
+   "text": "Yeah I think I'll get back to listening to that"
+  },
+  {
+   "start": 230.09,
+   "end": 231.77,
+   "text": "Um"
+  },
+  {
+   "start": 231.77,
+   "end": 234.03,
+   "text": "As soon as that thing goes to people"
+  },
+  {
+   "start": 234.03,
+   "end": 235.15,
+   "text": "I'm gonna stop the video"
+  },
+  {
+   "start": 235.15,
+   "end": 236.23,
+   "text": "So"
+  },
+  {
+   "start": 236.23,
+   "end": 240.73,
+   "text": "I was hoping that by the end of the week"
+  },
+  {
+   "start": 240.73,
+   "end": 241.41,
+   "text": "Cause it's Monday"
+  },
+  {
+   "start": 241.41,
+   "end": 243.89,
+   "text": "Yeah I'll be done with all the books"
+  },
+  {
+   "start": 243.89,
+   "end": 244.15,
+   "text": "You know"
+  },
+  {
+   "start": 244.15,
+   "end": 244.95,
+   "text": "Cause I'm zooming through"
+  },
+  {
+   "start": 244.95,
+   "end": 246.67,
+   "text": "I love this Chad GTP"
+  },
+  {
+   "start": 246.67,
+   "end": 247.69,
+   "text": "It's a damn"
+  },
+  {
+   "start": 247.69,
+   "end": 249.03,
+   "text": "Miracle"
+  },
+  {
+   "start": 249.03,
+   "end": 249.95,
+   "text": "Cure"
+  },
+  {
+   "start": 249.95,
+   "end": 251.97,
+   "text": "So uh"
+  },
+  {
+   "start": 251.97,
+   "end": 252.13,
+   "text": "Yeah"
+  },
+  {
+   "start": 252.13,
+   "end": 252.91,
+   "text": "And I hope it works well"
+  },
+  {
+   "start": 252.91,
+   "end": 253.67,
+   "text": "When it builds it together"
+  },
+  {
+   "start": 253.67,
+   "end": 254.13,
+   "text": "So yeah"
+  },
+  {
+   "start": 254.13,
+   "end": 255.29,
+   "text": "Cause then I'll start to build it together"
+  },
+  {
+   "start": 255.29,
+   "end": 255.91,
+   "text": "Within the week"
+  },
+  {
+   "start": 255.91,
+   "end": 256.73,
+   "text": "After I build all these"
+  },
+  {
+   "start": 256.73,
+   "end": 260.05,
+   "text": "So I'm looking forward to seeing how that works"
+  },
+  {
+   "start": 260.05,
+   "end": 261.01,
+   "text": "And how fast that goes"
+  },
+  {
+   "start": 261.01,
+   "end": 262.19,
+   "text": "Cause it goes real fast"
+  },
+  {
+   "start": 262.19,
+   "end": 263.11,
+   "text": "Oh me am I"
+  },
+  {
+   "start": 263.11,
+   "end": 266.51,
+   "text": "Talk about a website level up this year"
+  },
+  {
+   "start": 266.51,
+   "end": 267.89,
+   "text": "Um"
+  },
+  {
+   "start": 267.89,
+   "end": 271.01,
+   "text": "It's actually going better than I've planned"
+  },
+  {
+   "start": 271.01,
+   "end": 272.29,
+   "text": "Because of this whole Chad GTP"
+  },
+  {
+   "start": 272.29,
+   "end": 273.21,
+   "text": "Maybe I should have"
+  },
+  {
+   "start": 273.21,
+   "end": 273.43,
+   "text": "Yeah"
+  },
+  {
+   "start": 273.43,
+   "end": 275.55,
+   "text": "Oh there it is"
+  },
+  {
+   "start": 275.55,
+   "end": 276.39,
+   "text": "Okie dokie"
+  },
+  {
+   "start": 276.39,
+   "end": 277.51,
+   "text": "I'm gonna have me and my pizza"
+  },
+  {
+   "start": 277.51,
+   "end": 279.01,
+   "text": "Talk to you tomorrow"
+  }
+ ]
+}

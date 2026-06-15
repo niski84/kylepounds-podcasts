@@ -1,0 +1,996 @@
+{
+ "youtube_id": "DX3WrJJKzSM",
+ "title": "7-3-24 Condensing books with chatgtp day 29",
+ "url": "https://youtu.be/DX3WrJJKzSM",
+ "published_at": "2024-07-03",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.82,
+   "end": 2.32,
+   "text": "Hi, how's it going?"
+  },
+  {
+   "start": 2.72,
+   "end": 3.16,
+   "text": "It's super."
+  },
+  {
+   "start": 6.1,
+   "end": 7.5,
+   "text": "This is my vlog."
+  },
+  {
+   "start": 8.64,
+   "end": 13.48,
+   "text": "July 3rd, Wednesday, 52 a.m. of 2024."
+  },
+  {
+   "start": 17.56,
+   "end": 20.18,
+   "text": "I haven't quite finished my energy drink."
+  },
+  {
+   "start": 22.96,
+   "end": 25.06,
+   "text": "Yeah, I didn't get any sleep last night."
+  },
+  {
+   "start": 26.48,
+   "end": 30.56,
+   "text": "I'm currently working on book 7, I think it is."
+  },
+  {
+   "start": 35.09,
+   "end": 39.93,
+   "text": "Yeah, book 7, chapter 74."
+  },
+  {
+   "start": 40.51,
+   "end": 47.05,
+   "text": "Just finished book 7, chapter 74 of the Mahabharata out of 18 books."
+  },
+  {
+   "start": 47.31,
+   "end": 50.87,
+   "text": "So, and the last like three of them or something are little."
+  },
+  {
+   "start": 51.01,
+   "end": 53.77,
+   "text": "So, it's like I'm halfway through the Mahabharata."
+  },
+  {
+   "start": 53.77,
+   "end": 64.69,
+   "text": "So, I have to, I'm trying to get as far along with this as I can."
+  },
+  {
+   "start": 64.69,
+   "end": 71.41,
+   "text": "Before I start like, you know, second guessing myself or whatever."
+  },
+  {
+   "start": 72.53,
+   "end": 74.09,
+   "text": "Or before I start wondering what I'm doing."
+  },
+  {
+   "start": 74.25,
+   "end": 80.59,
+   "text": "Or until the excitement from the AI wears off."
+  },
+  {
+   "start": 80.75,
+   "end": 84.83,
+   "text": "Because this whole AI stuff I only kind of discovered recently."
+  },
+  {
+   "start": 84.83,
+   "end": 86.75,
+   "text": "I tried ChatGTP a few months back."
+  },
+  {
+   "start": 87.23,
+   "end": 88.29,
+   "text": "I guess when it came out."
+  },
+  {
+   "start": 90.61,
+   "end": 91.73,
+   "text": "And it was cool and stuff."
+  },
+  {
+   "start": 91.81,
+   "end": 93.47,
+   "text": "But then I kind of didn't have a use for it."
+  },
+  {
+   "start": 93.55,
+   "end": 95.53,
+   "text": "So, I was just doing simple stuff and listening to books."
+  },
+  {
+   "start": 95.53,
+   "end": 102.67,
+   "text": "But now I'm using it for condensing."
+  },
+  {
+   "start": 103.01,
+   "end": 105.11,
+   "text": "And I'm playing around with it at the same time."
+  },
+  {
+   "start": 105.27,
+   "end": 109.15,
+   "text": "Because I want to, I don't want to, I don't want to kind of forget about it."
+  },
+  {
+   "start": 109.21,
+   "end": 111.63,
+   "text": "I want to keep, I want to like use it all day every day no matter what."
+  },
+  {
+   "start": 111.93,
+   "end": 113.49,
+   "text": "And just kind of like get really good at it."
+  },
+  {
+   "start": 113.55,
+   "end": 115.95,
+   "text": "Because I can use it a lot for my website."
+  },
+  {
+   "start": 115.95,
+   "end": 124.38,
+   "text": "But, but, but, um, I can do a better job using it for my website if I'm, have a lot of practice."
+  },
+  {
+   "start": 124.54,
+   "end": 131.94,
+   "text": "So, with it, so, um, uh, yeah, I'm just playing around with that."
+  },
+  {
+   "start": 132.7,
+   "end": 135.42,
+   "text": "So, I was doing the, um, cutting and pasting."
+  },
+  {
+   "start": 136.22,
+   "end": 140.6,
+   "text": "And it's, yeah, it's trippy, um, to do the condensing with it."
+  },
+  {
+   "start": 140.6,
+   "end": 144.1,
+   "text": "And just to watch it all happen and be like, my God, this is the world I live in now."
+  },
+  {
+   "start": 145.46,
+   "end": 149.06,
+   "text": "Um, and then, of course, it's going to be super exciting to read."
+  },
+  {
+   "start": 149.28,
+   "end": 150.5,
+   "text": "The damn book, dude."
+  },
+  {
+   "start": 151.72,
+   "end": 153.1,
+   "text": "All of them that this makes."
+  },
+  {
+   "start": 153.48,
+   "end": 163.02,
+   "text": "So, yeah, what I'm doing now is just putting them in, um, the, uh, the notes program."
+  },
+  {
+   "start": 163.48,
+   "end": 165.26,
+   "text": "Just copying and pasting them in the notes."
+  },
+  {
+   "start": 165.46,
+   "end": 167.52,
+   "text": "And then put them in the website later."
+  },
+  {
+   "start": 168.12,
+   "end": 174.62,
+   "text": "So, yeah, I mean, once I'm done with the Mahabharata, I'll be most, I think, way through all of the books."
+  },
+  {
+   "start": 174.62,
+   "end": 180.56,
+   "text": "Because most of them either have been done already or I did them already with this."
+  },
+  {
+   "start": 180.8,
+   "end": 183.34,
+   "text": "So, um, because I did the big ones already."
+  },
+  {
+   "start": 183.48,
+   "end": 186.7,
+   "text": "So, yeah, just going to try to bust through as hard as I can."
+  },
+  {
+   "start": 186.82,
+   "end": 197.28,
+   "text": "So, um, um, I'm still listening to Karl Marx Capital."
+  },
+  {
+   "start": 197.72,
+   "end": 199.0,
+   "text": "I need to bust through it."
+  },
+  {
+   "start": 200.54,
+   "end": 202.04,
+   "text": "But it's so goddamn tedious."
+  },
+  {
+   "start": 202.48,
+   "end": 204.64,
+   "text": "Um, yeah, but it's actually the second time I'm listening to it."
+  },
+  {
+   "start": 204.64,
+   "end": 205.74,
+   "text": "I listened to it like 10 years ago."
+  },
+  {
+   "start": 206.74,
+   "end": 207.98,
+   "text": "Um, from Libra Box."
+  },
+  {
+   "start": 208.44,
+   "end": 211.64,
+   "text": "Um, but, um, I'm listening to it now on Audible."
+  },
+  {
+   "start": 211.64,
+   "end": 222.82,
+   "text": "And I want to finish it and then listen to the good bits, the history parts where he, where he, he's always citing years, you know, and laws and stuff and trends and things like that."
+  },
+  {
+   "start": 222.88,
+   "end": 225.54,
+   "text": "And that's, that's, that, that's something that I want to memorize."
+  },
+  {
+   "start": 227.58,
+   "end": 230.86,
+   "text": "Um, it's the most interesting period of history in the world."
+  },
+  {
+   "start": 231.3,
+   "end": 239.04,
+   "text": "The, um, Industrial Revolution from the beginning of the first Industrial Revolution until the end of the last, second one."
+  },
+  {
+   "start": 239.04,
+   "end": 242.9,
+   "text": "So, from like 1850 to 1900, I think."
+  },
+  {
+   "start": 243.28,
+   "end": 254.1,
+   "text": "Um, so, um, at least for now, for me, but, well, especially for us now, because it's such a, so similar to the time that we're living in now."
+  },
+  {
+   "start": 254.1,
+   "end": 263.44,
+   "text": "But, um, but anyway, um, and, but I'm listening to a lot of music too, you know, smoking a lot of weed."
+  },
+  {
+   "start": 263.44,
+   "end": 269.1,
+   "text": "Um, so, today, I did do my VLA yesterday, but I didn't upload it."
+  },
+  {
+   "start": 269.14,
+   "end": 278.3,
+   "text": "I don't know when I'm going to upload these, but, so, like, daytime came, morning time, whatever, and I, I just thought it was light, and it was like 6.30 or whatever."
+  },
+  {
+   "start": 278.4,
+   "end": 280.42,
+   "text": "And I was like, you know, I should, fuck it, I should call my mom."
+  },
+  {
+   "start": 280.42,
+   "end": 285.14,
+   "text": "Um, because yesterday we went to the gym, and I called her, and lo and behold, yeah, she was willing to do it."
+  },
+  {
+   "start": 285.16,
+   "end": 286.32,
+   "text": "So, she picked me and went to the gym."
+  },
+  {
+   "start": 287.14,
+   "end": 293.2,
+   "text": "We rode bikes for, like, 10 minutes or whatever, 15 minutes, and then, I, I think I rode, like, two miles."
+  },
+  {
+   "start": 293.32,
+   "end": 298.36,
+   "text": "And then we went over and did the, the, the leg abduction, abduction."
+  },
+  {
+   "start": 298.92,
+   "end": 304.7,
+   "text": "I did, like, some hamstring, um, and some, like, uh, chest."
+  },
+  {
+   "start": 306.24,
+   "end": 308.44,
+   "text": "If I keep this up, I might actually gain some strength."
+  },
+  {
+   "start": 308.66,
+   "end": 310.06,
+   "text": "I need it so bad, too, though."
+  },
+  {
+   "start": 310.12,
+   "end": 311.18,
+   "text": "My muscles are falling asleep."
+  },
+  {
+   "start": 311.9,
+   "end": 315.48,
+   "text": "And then we went to the supermarket, and I got some food, and then she dropped me off."
+  },
+  {
+   "start": 315.72,
+   "end": 319.7,
+   "text": "Um, and I guess maybe I was going to call her later, but I don't think I'm going to sleep today."
+  },
+  {
+   "start": 319.94,
+   "end": 326.28,
+   "text": "I think it's going to be, this is one of those days where sometimes, a lot of times, sometimes I don't sleep at night,"
+  },
+  {
+   "start": 326.28,
+   "end": 328.74,
+   "text": "And I just go through the night, you know, I just skip a night."
+  },
+  {
+   "start": 329.7,
+   "end": 333.74,
+   "text": "But sometimes I skip two nights, and I think this is going to be one of those situations."
+  },
+  {
+   "start": 334.02,
+   "end": 334.96,
+   "text": "I'll let you know tomorrow."
+  },
+  {
+   "start": 336.08,
+   "end": 343.18,
+   "text": "Anyways, um, um, I'm, uh, going to see if I can bust nuts through."
+  },
+  {
+   "start": 343.8,
+   "end": 347.64,
+   "text": "It's 200 on, uh, book seven, and then get through, yeah, through the other one."
+  },
+  {
+   "start": 347.92,
+   "end": 354.12,
+   "text": "Once I get through 12, which is 365, it's kind of downhill after that."
+  },
+  {
+   "start": 354.12,
+   "end": 356.14,
+   "text": "But, yeah, and hopefully get done with this, and, eh."
+  },
+  {
+   "start": 356.92,
+   "end": 365.84,
+   "text": "The goal is to be done, I need to be done with these, and I think I might straight up, um, like, shelve it."
+  },
+  {
+   "start": 366.08,
+   "end": 367.62,
+   "text": "Like, not put it on my website."
+  },
+  {
+   "start": 367.82,
+   "end": 368.28,
+   "text": "I might."
+  },
+  {
+   "start": 370.55,
+   "end": 373.73,
+   "text": "Depending on how long it takes, because, or at least for a while, because, um,"
+  },
+  {
+   "start": 373.73,
+   "end": 379.75,
+   "text": "My goal is to have the U.S. law code on my website by the time the elections happen,"
+  },
+  {
+   "start": 379.83,
+   "end": 386.35,
+   "text": "Because, um, the dire situation, and I, I don't want it to be taken away or anything,"
+  },
+  {
+   "start": 386.35,
+   "end": 388.81,
+   "text": "And just kind of get it on my website."
+  },
+  {
+   "start": 390.03,
+   "end": 393.47,
+   "text": "Um, and it could be the final version of it, you know, if you think about it."
+  },
+  {
+   "start": 393.47,
+   "end": 396.65,
+   "text": "Um, so it's not like I would even have to update it."
+  },
+  {
+   "start": 397.91,
+   "end": 404.76,
+   "text": "But, um, um, no, but it's just a fun thing to do."
+  },
+  {
+   "start": 404.88,
+   "end": 406.54,
+   "text": "No, no, I'm not pessimistic."
+  },
+  {
+   "start": 406.62,
+   "end": 409.64,
+   "text": "Even if Donald Trump becomes president, we're not going to become a dictatorship."
+  },
+  {
+   "start": 409.9,
+   "end": 414.52,
+   "text": "Even, and even if they get in all the stooges and all that kind of stuff or whatever,"
+  },
+  {
+   "start": 414.66,
+   "end": 417.8,
+   "text": "Where people are too smart, we're just going through a bad phase right now."
+  },
+  {
+   "start": 417.8,
+   "end": 425.9,
+   "text": "Um, um, the main reason I want to put it up is so I can listen to it, read it,"
+  },
+  {
+   "start": 425.98,
+   "end": 427.32,
+   "text": "And then have other people read it."
+  },
+  {
+   "start": 427.38,
+   "end": 429.08,
+   "text": "But, um, I think it's important."
+  },
+  {
+   "start": 429.16,
+   "end": 433.68,
+   "text": "So just arbitrarily, it's just my goal to have it up by the time the elections happen in four months."
+  },
+  {
+   "start": 433.78,
+   "end": 438.62,
+   "text": "So, so the goal is to have that up and to be done with all these and have them all up by then."
+  },
+  {
+   "start": 438.7,
+   "end": 440.22,
+   "text": "So we'll see, or at least by the end of the year."
+  },
+  {
+   "start": 440.3,
+   "end": 443.42,
+   "text": "So, but I'm making pretty good progress and it's fun having these conversations."
+  },
+  {
+   "start": 443.42,
+   "end": 447.5,
+   "text": "I'm just having, I'm just having like MMA conversations because I have all this and I'll,"
+  },
+  {
+   "start": 447.5,
+   "end": 450.5,
+   "text": "And I'll probably, and other sports related conversations,"
+  },
+  {
+   "start": 450.62,
+   "end": 452.04,
+   "text": "Because that's a whole section of my website."
+  },
+  {
+   "start": 452.86,
+   "end": 455.84,
+   "text": "So I will, I will eventually plug that into my website."
+  },
+  {
+   "start": 455.94,
+   "end": 457.22,
+   "text": "So I'm actually doing website work."
+  },
+  {
+   "start": 457.52,
+   "end": 459.66,
+   "text": "Dang, these little rascals are doing MMA."
+  },
+  {
+   "start": 463.6,
+   "end": 463.96,
+   "text": "Yeah."
+  },
+  {
+   "start": 464.6,
+   "end": 465.86,
+   "text": "You need to transition."
+  },
+  {
+   "start": 466.7,
+   "end": 467.6,
+   "text": "Be more aggressive."
+  },
+  {
+   "start": 468.62,
+   "end": 469.84,
+   "text": "Take him by the back."
+  },
+  {
+   "start": 470.76,
+   "end": 471.0,
+   "text": "Yeah."
+  },
+  {
+   "start": 471.22,
+   "end": 472.14,
+   "text": "Get him by the neck."
+  },
+  {
+   "start": 472.18,
+   "end": 472.78,
+   "text": "There you go."
+  },
+  {
+   "start": 473.58,
+   "end": 474.12,
+   "text": "Grab his arm."
+  },
+  {
+   "start": 474.22,
+   "end": 475.54,
+   "text": "You got, oh, twist it out."
+  },
+  {
+   "start": 475.62,
+   "end": 476.06,
+   "text": "Nice one."
+  },
+  {
+   "start": 476.06,
+   "end": 476.78,
+   "text": "Oh, you pushed him."
+  },
+  {
+   "start": 476.88,
+   "end": 477.88,
+   "text": "You threw him out of the ring."
+  },
+  {
+   "start": 482.94,
+   "end": 483.34,
+   "text": "Yeah."
+  },
+  {
+   "start": 483.38,
+   "end": 489.36,
+   "text": "If I ever become an MMA fighter, like when I'm an old man, my go-to maneuver is going"
+  },
+  {
+   "start": 489.36,
+   "end": 492.64,
+   "text": "To be to throw the opponent the fuck out of the ring."
+  },
+  {
+   "start": 493.6,
+   "end": 496.76,
+   "text": "Because when the one, when the last time did that ever happen?"
+  },
+  {
+   "start": 498.04,
+   "end": 498.44,
+   "text": "Anyways."
+  },
+  {
+   "start": 498.44,
+   "end": 504.58,
+   "text": "Oh my God."
+  },
+  {
+   "start": 504.62,
+   "end": 506.46,
+   "text": "Now they're biting each other's faces off."
+  },
+  {
+   "start": 506.72,
+   "end": 510.74,
+   "text": "But then he fell off again."
+  },
+  {
+   "start": 510.8,
+   "end": 512.32,
+   "text": "You were a clumsy little bastard."
+  },
+  {
+   "start": 515.12,
+   "end": 515.48,
+   "text": "Anyways."
+  },
+  {
+   "start": 516.94,
+   "end": 517.94,
+   "text": "What was I saying?"
+  },
+  {
+   "start": 518.26,
+   "end": 519.46,
+   "text": "My battery's about to die."
+  },
+  {
+   "start": 519.58,
+   "end": 521.44,
+   "text": "So I'm going to have to go plug this bitch up."
+  },
+  {
+   "start": 521.44,
+   "end": 526.18,
+   "text": "Um, um, yeah, that's my goal."
+  },
+  {
+   "start": 526.68,
+   "end": 527.42,
+   "text": "So we'll see."
+  },
+  {
+   "start": 528.48,
+   "end": 532.1,
+   "text": "Um, my mom doesn't like that I do this."
+  },
+  {
+   "start": 532.16,
+   "end": 533.94,
+   "text": "She fights me tooth and nail on it, but whatever."
+  },
+  {
+   "start": 534.0,
+   "end": 538.44,
+   "text": "And it kind of drags me down a little bit, but that's why she fights me down by fights"
+  },
+  {
+   "start": 538.44,
+   "end": 538.96,
+   "text": "Me tooth and nail."
+  },
+  {
+   "start": 539.02,
+   "end": 540.5,
+   "text": "Cause it only drags me down a little bit."
+  },
+  {
+   "start": 541.3,
+   "end": 543.7,
+   "text": "But, um, oh, I was telling her about like wingsuiting."
+  },
+  {
+   "start": 543.7,
+   "end": 549.66,
+   "text": "I was watching wingsuiting because this one chick on OnlyFans, like I noticed, um, I"
+  },
+  {
+   "start": 549.66,
+   "end": 550.32,
+   "text": "Follow her."
+  },
+  {
+   "start": 550.82,
+   "end": 557.56,
+   "text": "Um, I don't even remember when I started following her, but, um, she's a fucking like wingsuiter,"
+  },
+  {
+   "start": 558.12,
+   "end": 559.16,
+   "text": "Super hot chick."
+  },
+  {
+   "start": 559.74,
+   "end": 561.6,
+   "text": "And there's a bunch of videos that were doing it."
+  },
+  {
+   "start": 561.66,
+   "end": 562.84,
+   "text": "And I was like, oh wow."
+  },
+  {
+   "start": 562.94,
+   "end": 567.0,
+   "text": "And so I was checking them out on YouTube with all these dudes and doing the badass wingsuits"
+  },
+  {
+   "start": 567.0,
+   "end": 567.62,
+   "text": "Videos."
+  },
+  {
+   "start": 567.9,
+   "end": 573.22,
+   "text": "And, um, and I was telling my mom, I was like, oh, so we're watching wingsuit videos."
+  },
+  {
+   "start": 573.22,
+   "end": 577.62,
+   "text": "Cause I was watching, um, Mazda videos too, because she wants to get a car."
+  },
+  {
+   "start": 577.72,
+   "end": 578.74,
+   "text": "She's thinking about getting a Nissan."
+  },
+  {
+   "start": 578.88,
+   "end": 580.4,
+   "text": "I don't even know if she has the fucking money for it."
+  },
+  {
+   "start": 580.44,
+   "end": 586.74,
+   "text": "Nissan Sentra or something, which means I could get her Mazda, um, her Mazda Prelude 2003 for"
+  },
+  {
+   "start": 586.74,
+   "end": 587.5,
+   "text": "500 bucks."
+  },
+  {
+   "start": 587.66,
+   "end": 588.38,
+   "text": "So that's cool."
+  },
+  {
+   "start": 588.94,
+   "end": 594.38,
+   "text": "Not drive it and just get it and park it in the garage until I have the money to, but"
+  },
+  {
+   "start": 594.38,
+   "end": 595.92,
+   "text": "At least I have a car, you know what I mean?"
+  },
+  {
+   "start": 595.96,
+   "end": 597.68,
+   "text": "I have to, cause I heard cars are getting expensive."
+  },
+  {
+   "start": 597.82,
+   "end": 599.44,
+   "text": "So it's cool to just get a car and shelve it."
+  },
+  {
+   "start": 599.56,
+   "end": 601.04,
+   "text": "And then, so it's a cool car to get."
+  },
+  {
+   "start": 601.04,
+   "end": 604.96,
+   "text": "So I was watching it on YouTube videos and there's lots of cool videos of it, but I"
+  },
+  {
+   "start": 604.96,
+   "end": 606.6,
+   "text": "Was also watching YouTube or wingsuit."
+  },
+  {
+   "start": 606.68,
+   "end": 610.18,
+   "text": "So I was like, yeah, I was watching videos about Mazda and that, and then the wingsuit."
+  },
+  {
+   "start": 610.86,
+   "end": 611.52,
+   "text": "Those are cool."
+  },
+  {
+   "start": 611.62,
+   "end": 615.02,
+   "text": "And she was like, not interested at all, but I think they're cool to watch."
+  },
+  {
+   "start": 615.7,
+   "end": 616.68,
+   "text": "She'd probably get the heebies."
+  },
+  {
+   "start": 616.76,
+   "end": 620.42,
+   "text": "I get the heebie jeebies when, when I watch people climbing and looking down cliffs, that"
+  },
+  {
+   "start": 620.42,
+   "end": 621.06,
+   "text": "Freaks me out."
+  },
+  {
+   "start": 621.06,
+   "end": 625.2,
+   "text": "And even though I've done climbing myself in the past, but wingsuiting doesn't, wingsuiting"
+  },
+  {
+   "start": 625.2,
+   "end": 625.64,
+   "text": "Seems cool."
+  },
+  {
+   "start": 625.74,
+   "end": 627.42,
+   "text": "But anyways, when it's moving, it's not that freaky."
+  },
+  {
+   "start": 627.58,
+   "end": 633.68,
+   "text": "But, um, but my mom's like, oh yeah, my, your brother's, uh, tattoo artist died doing"
+  },
+  {
+   "start": 633.68,
+   "end": 634.8,
+   "text": "That like last year."
+  },
+  {
+   "start": 634.8,
+   "end": 635.32,
+   "text": "I was like, what?"
+  },
+  {
+   "start": 635.48,
+   "end": 639.94,
+   "text": "And it was the late, the link, the list that I saw just yesterday, a list of people who"
+  },
+  {
+   "start": 639.94,
+   "end": 640.64,
+   "text": "Died wingsuiting."
+  },
+  {
+   "start": 640.64,
+   "end": 646.02,
+   "text": "I mean, yeah, the second to last person to die wingsuiting last October was my brother's"
+  },
+  {
+   "start": 646.02,
+   "end": 647.1,
+   "text": "Tattoo artist."
+  },
+  {
+   "start": 649.4,
+   "end": 650.74,
+   "text": "It was right here in town."
+  },
+  {
+   "start": 650.86,
+   "end": 652.16,
+   "text": "So that's pretty small world."
+  },
+  {
+   "start": 652.16,
+   "end": 654.14,
+   "text": "Cause I looked at the, I saw his name."
+  },
+  {
+   "start": 654.2,
+   "end": 655.46,
+   "text": "I saw the name right below."
+  },
+  {
+   "start": 655.7,
+   "end": 661.12,
+   "text": "And anyways, um, but then I noticed that they have these wingsuit and indoor wingsuit tunnels."
+  },
+  {
+   "start": 661.5,
+   "end": 665.02,
+   "text": "They made one in like Europe and then they made another one in Orlando and they have one"
+  },
+  {
+   "start": 665.02,
+   "end": 667.76,
+   "text": "In Denver for skydiving, indoor skydiving."
+  },
+  {
+   "start": 667.76,
+   "end": 672.42,
+   "text": "And so I want to wait until they have them for, in Denver when I'm really old guy and"
+  },
+  {
+   "start": 672.42,
+   "end": 677.48,
+   "text": "I have money and the time for it, you just do it indoor for like days and days and hours"
+  },
+  {
+   "start": 677.48,
+   "end": 679.9,
+   "text": "And hours or whatever for fun."
+  },
+  {
+   "start": 680.7,
+   "end": 684.38,
+   "text": "And then by the time you do it in real life out of a plane, everything, you're like a super,"
+  },
+  {
+   "start": 684.58,
+   "end": 687.46,
+   "text": "Super ninja and you would never crash."
+  },
+  {
+   "start": 687.46,
+   "end": 689.98,
+   "text": "And so, and you can jump off all those cliffs."
+  },
+  {
+   "start": 690.14,
+   "end": 691.14,
+   "text": "So anyway, that's what I want to do."
+  },
+  {
+   "start": 691.16,
+   "end": 694.06,
+   "text": "And I'm like an octogenarian, like in a long time in the future."
+  },
+  {
+   "start": 694.06,
+   "end": 699.42,
+   "text": "But, um, anyways, um, but it's fun to watch the videos anyways."
+  },
+  {
+   "start": 699.42,
+   "end": 704.42,
+   "text": "Um, but, um, I, uh, anyways, the freaking battery is going to die."
+  },
+  {
+   "start": 704.46,
+   "end": 709.26,
+   "text": "I'm going to, um, go again, bust nothing, uh, on this as much as I can."
+  },
+  {
+   "start": 709.42,
+   "end": 711.7,
+   "text": "Um, and, uh, try to keep moving forward."
+  },
+  {
+   "start": 712.96,
+   "end": 716.86,
+   "text": "Um, uh, yeah, 2024 is the day of the websites."
+  },
+  {
+   "start": 717.0,
+   "end": 718.58,
+   "text": "Anyways, talk to you tomorrow."
+  },
+  {
+   "start": 718.58,
+   "end": 718.94,
+   "text": "Um."
+  }
+ ]
+}

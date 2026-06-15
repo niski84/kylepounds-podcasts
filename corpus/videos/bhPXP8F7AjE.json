@@ -1,0 +1,611 @@
+{
+ "youtube_id": "bhPXP8F7AjE",
+ "title": "7-8-24 Condensing books with chatgtp day 34",
+ "url": "https://youtu.be/bhPXP8F7AjE",
+ "published_at": "2024-07-08",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.24,
+   "end": 1.58,
+   "text": "Hi, how's it going?"
+  },
+  {
+   "start": 2.5,
+   "end": 10.56,
+   "text": "This is, I think it's like the 7th or something like that."
+  },
+  {
+   "start": 11.78,
+   "end": 13.02,
+   "text": "Computer's not turning on."
+  },
+  {
+   "start": 13.14,
+   "end": 14.3,
+   "text": "Oh wait, here's my phone."
+  },
+  {
+   "start": 14.72,
+   "end": 16.6,
+   "text": "The phone can confirm."
+  },
+  {
+   "start": 18.4,
+   "end": 22.08,
+   "text": "So yeah, it's currently July 8th, 6-0-4 in the morning on Monday,"
+  },
+  {
+   "start": 22.46,
+   "end": 27.42,
+   "text": "And the year is 2024, and as proof, as proof, there you go."
+  },
+  {
+   "start": 27.42,
+   "end": 33.28,
+   "text": "Oh, and I'm listening to that book, Karl Marx, Dawes Capital."
+  },
+  {
+   "start": 33.88,
+   "end": 35.76,
+   "text": "Still 12 hours left, Jesus."
+  },
+  {
+   "start": 37.58,
+   "end": 39.74,
+   "text": "No, but if you can focus on it, it's good."
+  },
+  {
+   "start": 41.58,
+   "end": 42.78,
+   "text": "You have to be smart."
+  },
+  {
+   "start": 43.58,
+   "end": 48.4,
+   "text": "But in order to be smart, you have to be able to concentrate, stress-free."
+  },
+  {
+   "start": 49.0,
+   "end": 52.98,
+   "text": "So I hang out by myself, so that's cool."
+  },
+  {
+   "start": 52.98,
+   "end": 58.62,
+   "text": "Yeah, so I think I was trying to go diurnal."
+  },
+  {
+   "start": 59.86,
+   "end": 63.32,
+   "text": "I got to sleep last night, yesterday, during the day while it was still daylight."
+  },
+  {
+   "start": 63.5,
+   "end": 64.36,
+   "text": "I just got tired."
+  },
+  {
+   "start": 65.94,
+   "end": 67.4,
+   "text": "I can't remember what time, though."
+  },
+  {
+   "start": 67.46,
+   "end": 69.66,
+   "text": "It was maybe like 6 or something, though, you know?"
+  },
+  {
+   "start": 69.8,
+   "end": 71.2,
+   "text": "It wasn't like, it was kind of late."
+  },
+  {
+   "start": 71.66,
+   "end": 75.32,
+   "text": "Then I got up at like midnight or something, or 1."
+  },
+  {
+   "start": 75.44,
+   "end": 77.02,
+   "text": "No, I think it was like 1.30 or something."
+  },
+  {
+   "start": 77.02,
+   "end": 79.48,
+   "text": "And I was like, yeah, I just couldn't sleep anymore."
+  },
+  {
+   "start": 79.8,
+   "end": 83.9,
+   "text": "You know, it would have been futile."
+  },
+  {
+   "start": 84.44,
+   "end": 88.54,
+   "text": "I can hear the, I need to get my shower fixed."
+  },
+  {
+   "start": 90.16,
+   "end": 92.28,
+   "text": "Freaking leaking a lot, too."
+  },
+  {
+   "start": 92.36,
+   "end": 94.92,
+   "text": "Anyways, it'll fill up the entire jug in like an hour."
+  },
+  {
+   "start": 96.32,
+   "end": 104.82,
+   "text": "Anyway, so I was working until then, since then."
+  },
+  {
+   "start": 104.82,
+   "end": 110.86,
+   "text": "So, I don't know, maybe I'll go diurnal tomorrow, I'll be up."
+  },
+  {
+   "start": 111.34,
+   "end": 112.7,
+   "text": "Because I creep forward, right?"
+  },
+  {
+   "start": 113.28,
+   "end": 117.62,
+   "text": "Like, I'll be able to be up way past 5 today, this afternoon."
+  },
+  {
+   "start": 118.6,
+   "end": 122.04,
+   "text": "Probably get to sleep at like, way into the deep end of the night."
+  },
+  {
+   "start": 122.18,
+   "end": 128.14,
+   "text": "Which means I could go diurnal, meaning I could like, wake up like right when the sun comes up."
+  },
+  {
+   "start": 128.3,
+   "end": 129.14,
+   "text": "That'll be interesting."
+  },
+  {
+   "start": 129.26,
+   "end": 132.74,
+   "text": "Because then I could, I could see like how long I go, you know?"
+  },
+  {
+   "start": 132.74,
+   "end": 140.1,
+   "text": "Because I probably, if I went diurnal tomorrow, and I like woke up tomorrow at like, like Saturday night."
+  },
+  {
+   "start": 141.44,
+   "end": 146.84,
+   "text": "I'd probably, I'd probably work all through the night."
+  },
+  {
+   "start": 148.44,
+   "end": 150.82,
+   "text": "And then go to sleep at like noon the next day."
+  },
+  {
+   "start": 151.2,
+   "end": 154.04,
+   "text": "That's how I would, but still anyways, I'll see what happens."
+  },
+  {
+   "start": 154.12,
+   "end": 158.7,
+   "text": "So anyways, I was trying to finish Mahabharata, and I did finish Mahabharata."
+  },
+  {
+   "start": 158.7,
+   "end": 163.6,
+   "text": "So, I was, remember it's Monday morning, and I was like, I was going to try to finish Mahabharata by Monday."
+  },
+  {
+   "start": 163.8,
+   "end": 164.56,
+   "text": "Fucking did it."
+  },
+  {
+   "start": 166.46,
+   "end": 168.54,
+   "text": "Last night, I did a really good job yesterday."
+  },
+  {
+   "start": 168.72,
+   "end": 171.96,
+   "text": "And then when I, when I crashed, God, it's so annoying to hear."
+  },
+  {
+   "start": 173.0,
+   "end": 179.04,
+   "text": "When I fell asleep, I, I remember knowing that I didn't have that much to go, you know?"
+  },
+  {
+   "start": 179.46,
+   "end": 181.4,
+   "text": "Then I woke up, I kind of forgot that I looked at it."
+  },
+  {
+   "start": 181.4,
+   "end": 190.38,
+   "text": "So anyway, I finished it, and then I decided to go ahead and prep the numbers for the rest of the books,"
+  },
+  {
+   "start": 190.48,
+   "end": 195.12,
+   "text": "Because I'm not putting them directly into Dreamweaver, because Dreamweaver is just too slow, dude."
+  },
+  {
+   "start": 195.8,
+   "end": 201.08,
+   "text": "And Crash isn't, and so it's better if you just do it in bits and pieces."
+  },
+  {
+   "start": 201.08,
+   "end": 210.68,
+   "text": "Because, because I could get into a rhythm with Dreamweaver, where I just, you know, cut out just the tiny little, um, tables and put them in their own page."
+  },
+  {
+   "start": 210.72,
+   "end": 214.5,
+   "text": "And then I placed them in that way, and that way there's no lag or anything, and I can just do it pretty quick."
+  },
+  {
+   "start": 214.56,
+   "end": 219.78,
+   "text": "But anyways, uh, and it wasn't going to work this way directly onto it, because it's just too slow."
+  },
+  {
+   "start": 219.78,
+   "end": 224.94,
+   "text": "And anyway, Crash too much and stuff."
+  },
+  {
+   "start": 225.1,
+   "end": 233.08,
+   "text": "But anyways, um, so putting it directly into notes, um, and, um, but I prepare the numbers first."
+  },
+  {
+   "start": 233.64,
+   "end": 240.54,
+   "text": "Um, you know, I would plump them in to the pre-prepared place in Dreamweaver, but when I'm putting it in notes, I have to, you know, prepare in a different way."
+  },
+  {
+   "start": 240.58,
+   "end": 241.68,
+   "text": "So I put the numbers in."
+  },
+  {
+   "start": 242.3,
+   "end": 245.06,
+   "text": "So I just go through the books that I would need to do it with."
+  },
+  {
+   "start": 245.06,
+   "end": 249.58,
+   "text": "I look at how many books, chapters there are, and then how many, or how many books there are in the book, and then how many chapters."
+  },
+  {
+   "start": 250.3,
+   "end": 252.04,
+   "text": "Or how many chapters, and then how many sub-chapters."
+  },
+  {
+   "start": 252.3,
+   "end": 260.08,
+   "text": "And, yeah, I just manually put in the main chapter, and then I would paste in the sub-chapters from the ones before it, and then just cut out to get to the right number."
+  },
+  {
+   "start": 260.96,
+   "end": 262.78,
+   "text": "And I went through, like, a whole bunch of books."
+  },
+  {
+   "start": 263.16,
+   "end": 267.42,
+   "text": "Um, it was maybe, like, I think I counted a little bit ago, and I can't remember what I showed up."
+  },
+  {
+   "start": 269.36,
+   "end": 272.46,
+   "text": "I've already, um, prepped the numbers on, like, 30 of them or something."
+  },
+  {
+   "start": 272.46,
+   "end": 279.46,
+   "text": "I know, and I'm thinking to myself, oh my God, there's a lot, like, all of, um, Aristotle needs to have, um, their..."
+  },
+  {
+   "start": 279.46,
+   "end": 282.44,
+   "text": "Um, their, uh, chapters titled."
+  },
+  {
+   "start": 283.5,
+   "end": 288.44,
+   "text": "So, but at least all of these, I'm pretty much all of them, I'm only doing it one time, and down to 10 words."
+  },
+  {
+   "start": 288.64,
+   "end": 296.3,
+   "text": "So, it's gonna go by quicker than, uh, Mahabharata did, which is when I did three of them, and the biggest one was, like, a whole page."
+  },
+  {
+   "start": 296.3,
+   "end": 300.36,
+   "text": "So, um, but, you know, a lot of these are big."
+  },
+  {
+   "start": 300.48,
+   "end": 303.28,
+   "text": "So, uh, yeah, I'm down to, like, one of them."
+  },
+  {
+   "start": 303.36,
+   "end": 304.86,
+   "text": "I'm still on Aristotle, yeah."
+  },
+  {
+   "start": 305.28,
+   "end": 311.62,
+   "text": "So what I'm gonna do is prep the numbers for the rest of the books, for all of them that I have to do, and then count how many there are."
+  },
+  {
+   "start": 311.62,
+   "end": 325.46,
+   "text": "So I know how many there are, and I'll be able to see the light at the end of the tunnel, which will allow me to kind of maybe take some time to get ahead and get caught up on stuff in my life, or, I don't know, I'll get motivated to continue, so."
+  },
+  {
+   "start": 327.56,
+   "end": 329.34,
+   "text": "Or maybe do some of them out of order."
+  },
+  {
+   "start": 330.12,
+   "end": 336.92,
+   "text": "If I want to, I don't know, but, um, and a lot of them are, there's not that many, so I can get done with them just in a few minutes, you know, and a lot of them are big."
+  },
+  {
+   "start": 336.92,
+   "end": 339.54,
+   "text": "So, but I was thinking to myself, oh my God, this is a lot of work, though."
+  },
+  {
+   "start": 340.84,
+   "end": 344.4,
+   "text": "So I'm like, yeah, I've been kind of, like, delusional."
+  },
+  {
+   "start": 344.66,
+   "end": 348.98,
+   "text": "I'm not gonna be done by the beginning of, uh, election day on November 6th."
+  },
+  {
+   "start": 349.0,
+   "end": 350.14,
+   "text": "It'll be the end of the month, year."
+  },
+  {
+   "start": 350.42,
+   "end": 355.28,
+   "text": "Um, the goal is to be, have all these books, uh, I think leveled up to the end, like, done."
+  },
+  {
+   "start": 355.92,
+   "end": 359.9,
+   "text": "As well as the, uh, law, I mean the U.S. law code by the end of the year."
+  },
+  {
+   "start": 359.9,
+   "end": 380.89,
+   "text": "Hmm, maybe next year I could do other things on the website, or Google Earth, or whatever, but, um, so, um, uh, I, uh, was listening to, yeah, Capital and some of these other just historical documentaries, like Voices of the Past, I like that one."
+  },
+  {
+   "start": 380.89,
+   "end": 385.25,
+   "text": "And, um, but I'm back to, um, Capital right now."
+  },
+  {
+   "start": 386.17,
+   "end": 403.18,
+   "text": "And, um, so, I'm going to, um, uh, work, see how, how well in the work I can do, uh, work."
+  },
+  {
+   "start": 403.74,
+   "end": 414.88,
+   "text": "It's like 6 in the morning, so I'm gonna go in the store and have my energy drink, because one thing I like, can you, I like, can you, I like, can you go to the energy drink and, um, go to the store and get an energy drink."
+  },
+  {
+   "start": 414.88,
+   "end": 420.74,
+   "text": "Like, maybe I'll get candy, too, like Sweet Tarts, uh, and kind of, like, chug that bitch."
+  },
+  {
+   "start": 420.9,
+   "end": 425.62,
+   "text": "Before I was kind of, like, taking my time, but now I'm more like, you know, I'll fucking chug it, because then I take my time too much."
+  },
+  {
+   "start": 426.6,
+   "end": 436.66,
+   "text": "Chug that bitch and just smoke, like, a fucking shitload of weed, like, so much weed that I kind of get high off of the energy drink, and then I'm high off the weed, and I can kind of, like, cruise."
+  },
+  {
+   "start": 437.66,
+   "end": 441.66,
+   "text": "I never used to be a substance abuser when it came to caffeine."
+  },
+  {
+   "start": 441.66,
+   "end": 453.32,
+   "text": "Like, I had a friend in college, I used to smoke weed, he's like my stoner buddy, and he liked to drink coffee, like, on road trips, and drink a bunch of coffee when you smoke weed, because he said it balanced it out, and I was like, alright, cool."
+  },
+  {
+   "start": 454.5,
+   "end": 464.32,
+   "text": "But, um, generally, I'm not the kind of person who, like, drinks coffee for performance, but, or even, and I only started doing energy drinks recently, but I'm kind of learning how, kind of doing it now."
+  },
+  {
+   "start": 464.32,
+   "end": 472.16,
+   "text": "It's just a, a wave, because I'm, I'm such a good worker, uh, I need fewer and fewer kind of distractions, and so that would be, like, my one distraction, so."
+  },
+  {
+   "start": 473.42,
+   "end": 489.0,
+   "text": "Anyways, um, I'm, uh, uh, yeah, so now that I'm building the, hmm, number of menus, I'm gonna see if I can finish all of those, like, today pretty soon."
+  },
+  {
+   "start": 489.0,
+   "end": 506.92,
+   "text": "Um, I will finish it today, but maybe a couple of hours, I don't know how long it'll last, I'm still in the first column, I'm still in Ancient Greece with Aristotle, but, um, but I did all the big page, the big books, but some of the books are really big, and I hope it luckily doesn't have to have it, like, book of job, I don't know what the situation with that is, but the fact of the matter is it makes them way better."
+  },
+  {
+   "start": 506.92,
+   "end": 509.78,
+   "text": "And so I'm, like, super-duper looking forward to it."
+  },
+  {
+   "start": 510.18,
+   "end": 512.06,
+   "text": "Like, this is AI used at its best."
+  },
+  {
+   "start": 513.04,
+   "end": 518.84,
+   "text": "Um, I'm doing it with Meta AI, and then when the pages are really big, I have to do it with ChatGTP, and I just can't do it."
+  },
+  {
+   "start": 519.86,
+   "end": 536.46,
+   "text": "Um, but ChatGTP, Ben is better overall, because it's quicker, it's, um, and, um, uh, uh, uh, that's the only reason I can think of now, but, yeah, and then I do, but I do use ChatGTP all day long, just for fucking around and talking to it, you know."
+  },
+  {
+   "start": 536.46,
+   "end": 552.24,
+   "text": "Like, I was watching a couple of YouTube videos, and people talking about AI and stuff, and just, like, if you really want to know how AI works, and whether, or judge for yourself whether or not, like, the status of it is, and the future of it is by testing it, you know."
+  },
+  {
+   "start": 552.3,
+   "end": 558.42,
+   "text": "And the fact of the matter is, the reality of it is that it's basically magic, dude."
+  },
+  {
+   "start": 558.42,
+   "end": 566.36,
+   "text": "It's freaking awesome, and if something, and if it gets better, which everything does, then we are going to have a Jarvis type of a situation."
+  },
+  {
+   "start": 566.46,
+   "end": 567.2,
+   "text": "That knows everything."
+  },
+  {
+   "start": 567.78,
+   "end": 569.56,
+   "text": "For some reason, see, they're not connected to the internet."
+  },
+  {
+   "start": 570.2,
+   "end": 581.2,
+   "text": "Once it's connected to the internet, and all the different, like, social medias, like, oh my god, that's where, and I asked it when that's going to happen, and they're like, I don't know, maybe in, like, five years."
+  },
+  {
+   "start": 581.3,
+   "end": 582.1,
+   "text": "I'm like, wow."
+  },
+  {
+   "start": 583.02,
+   "end": 583.5,
+   "text": "So that's cool."
+  },
+  {
+   "start": 583.72,
+   "end": 587.28,
+   "text": "Anyways, um, so anyways, that's enough talking."
+  },
+  {
+   "start": 587.38,
+   "end": 588.28,
+   "text": "I recorded the video."
+  },
+  {
+   "start": 588.38,
+   "end": 589.3,
+   "text": "Maybe I'll upload it soon."
+  },
+  {
+   "start": 589.4,
+   "end": 592.04,
+   "text": "You know, maybe after I, because I have a bunch to upload."
+  },
+  {
+   "start": 592.04,
+   "end": 607.93,
+   "text": "Maybe after I, uh, do it, uh, prepare the number, um, menus, I'll be able to kind of, like, um, take a step back and, you know, get, get caught up on life and stuff."
+  },
+  {
+   "start": 607.99,
+   "end": 612.79,
+   "text": "I'm kind of, like, letting life get kind of ahead of me with the whole house getting messy again."
+  },
+  {
+   "start": 612.79,
+   "end": 621.77,
+   "text": "And my ferret's pissed all over my, uh, bed, like the shag rug around my bed, and it smells like the worst urine in the world when I'm laying there, because it's on the floor."
+  },
+  {
+   "start": 623.09,
+   "end": 629.39,
+   "text": "And I'll have to do something about that, but, uh, anyways, um, they're sleeping right now."
+  },
+  {
+   "start": 629.45,
+   "end": 630.03,
+   "text": "They're cuddling."
+  },
+  {
+   "start": 630.13,
+   "end": 632.45,
+   "text": "These little rascals are really cute when, when they cuddle."
+  },
+  {
+   "start": 633.05,
+   "end": 633.63,
+   "text": "Check it."
+  },
+  {
+   "start": 633.83,
+   "end": 648.55,
+   "text": "From there."
+  },
+  {
+   "start": 648.71,
+   "end": 652.39,
+   "text": "So I've had a monitor just the other, just a little bit ago, so."
+  },
+  {
+   "start": 652.39,
+   "end": 663.7,
+   "text": "Anyways, um, so I'm still looking for a roommate if anybody wants to be a roommate at $8.50 a month, including everything, and I promise I'll keep the, the place clean."
+  },
+  {
+   "start": 665.22,
+   "end": 666.98,
+   "text": "Anyways, so that's enough talking."
+  },
+  {
+   "start": 667.28,
+   "end": 668.66,
+   "text": "Talk to you tomorrow."
+  }
+ ]
+}

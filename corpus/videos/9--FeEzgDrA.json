@@ -1,0 +1,581 @@
+{
+ "youtube_id": "9--FeEzgDrA",
+ "title": "7-12-24 Condensing books with chatgtp day 38",
+ "url": "https://youtu.be/9--FeEzgDrA",
+ "published_at": "2024-07-12",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.16,
+   "end": 8.1,
+   "text": "Here's my vlog for July 12th, Friday, 9.27 a.m. at 10 o'clock. The plumber's supposed to come"
+  },
+  {
+   "start": 8.1,
+   "end": 18.02,
+   "text": "And fix the leak in my bathroom, bathtub. When I got up this morning, like a half hour ago or"
+  },
+  {
+   "start": 18.02,
+   "end": 22.28,
+   "text": "Whatever hour ago, there was no light, but then the light came on as I was working. That's why"
+  },
+  {
+   "start": 22.28,
+   "end": 30.34,
+   "text": "There's this disco ball. When the light came on, it turned on. I didn't turn it off. I need to go"
+  },
+  {
+   "start": 30.34,
+   "end": 41.91,
+   "text": "Find the remote for it. Last night, I was working well until the night. I don't remember what"
+  },
+  {
+   "start": 41.91,
+   "end": 48.39,
+   "text": "Time, but it was like 2 in the morning, 2.30 in the morning, but the problem was my back."
+  },
+  {
+   "start": 49.97,
+   "end": 60.49,
+   "text": "Oh, shit. Hey, shut the fuck up, bitch. My back, dude, or my heart. All of a sudden, it"
+  },
+  {
+   "start": 60.49,
+   "end": 64.03,
+   "text": "Was like the middle of my back, like where my heart is. I just had so much pain, like"
+  },
+  {
+   "start": 64.03,
+   "end": 67.25,
+   "text": "I couldn't even deal with it. It was like level 10 pain. I couldn't even deal with it"
+  },
+  {
+   "start": 67.25,
+   "end": 72.93,
+   "text": "Anymore. So I stood up, and I started like pacing up and down the apartment and thinking"
+  },
+  {
+   "start": 72.93,
+   "end": 78.23,
+   "text": "To myself, oh, fuck, man. I'm going to have to start like exercising pretty soon. And then"
+  },
+  {
+   "start": 78.23,
+   "end": 83.85,
+   "text": "I was like, am I having a heart attack? Because it was centered right where my heart is, and"
+  },
+  {
+   "start": 83.85,
+   "end": 87.91,
+   "text": "It was just like reverberating out from there throughout my whole body to the front and the"
+  },
+  {
+   "start": 87.91,
+   "end": 92.83,
+   "text": "Back. And I'm like, is this a heart attack? Because it was like, felt my pulse. It was"
+  },
+  {
+   "start": 92.83,
+   "end": 103.23,
+   "text": "Like, it was like 65 or something, 70. I don't know. It was going on for like 10 minutes,"
+  },
+  {
+   "start": 103.35,
+   "end": 110.13,
+   "text": "And I was like, is that like a muscle? Are those like interior stabilizer muscles that"
+  },
+  {
+   "start": 110.13,
+   "end": 115.91,
+   "text": "Are suffering muscle pain atrophy? Or is this a fucking heart attack? And I'm like, I was"
+  },
+  {
+   "start": 115.91,
+   "end": 119.41,
+   "text": "Thinking to myself, oh, fuck, man. I'm going to have to start exercising pretty goddamn"
+  },
+  {
+   "start": 119.41,
+   "end": 126.81,
+   "text": "Soon, dude. Because I literally only just sit here all day long. I don't move, and I"
+  },
+  {
+   "start": 126.81,
+   "end": 135.76,
+   "text": "Don't exercise. Like, I don't have an exercise session a day due to being pressured. And so"
+  },
+  {
+   "start": 135.76,
+   "end": 143.1,
+   "text": "That was the alarm that I set last night. In case I was sleeping in, there's no way I was"
+  },
+  {
+   "start": 143.1,
+   "end": 150.14,
+   "text": "Going to sleep in. I went, I laid in bed, and because I couldn't lay here anymore, and because"
+  },
+  {
+   "start": 150.14,
+   "end": 159.74,
+   "text": "Of the pain, and I laid in bed on my belly, fucking around on my phone until I like passed"
+  },
+  {
+   "start": 159.74,
+   "end": 167.24,
+   "text": "Out. And then I got up now, and I'm remembering that pain. I'm like, fuck, I hope that wasn't"
+  },
+  {
+   "start": 167.24,
+   "end": 179.7,
+   "text": "A heart attack. So I should, I have a gym membership. It's only across the fucking street. It's a giant"
+  },
+  {
+   "start": 179.7,
+   "end": 191.52,
+   "text": "24-hour fitness. Um, yeah, so, but today is only my second day of, um, of, uh, like doing"
+  },
+  {
+   "start": 191.52,
+   "end": 199.38,
+   "text": "Condensations, like, on the, with ChatGTP. And it doesn't even have to be ChatGTP4, because"
+  },
+  {
+   "start": 199.38,
+   "end": 207.1,
+   "text": "I pay the 20 bucks a month for ChatGTP4, and, uh, I guess, like, if you use it, it'll let, you'll"
+  },
+  {
+   "start": 207.1,
+   "end": 212.88,
+   "text": "Only let you use it. And I guess it's using, I'm using ChatGTP4. And then after an hour,"
+  },
+  {
+   "start": 212.88,
+   "end": 216.74,
+   "text": "It's like, oh, well, you've lost your credits. And I'm like, okay, and then I keep going with"
+  },
+  {
+   "start": 216.74,
+   "end": 222.02,
+   "text": "ChatGTP3, and there's, like, no difference, so it doesn't really matter. But, um, it, uh,"
+  },
+  {
+   "start": 222.12,
+   "end": 227.28,
+   "text": "I only started doing it, like, um, all together, because, I don't know, I just didn't trust it,"
+  },
+  {
+   "start": 227.32,
+   "end": 234.74,
+   "text": "And now I'm trusting it. But now, yeah, maximizing its ability, its memory ability, and just batch,"
+  },
+  {
+   "start": 234.74,
+   "end": 240.48,
+   "text": "You know, editing, it's like, so it's super amazing for me, you know? Like, like, currently"
+  },
+  {
+   "start": 240.48,
+   "end": 254.78,
+   "text": "I'm, I'm on a book, um, John Chrysostrom, origin stories, John Chrysostrom, I think it's like"
+  },
+  {
+   "start": 254.78,
+   "end": 264.26,
+   "text": "A 2,000 page book. And here I am on, um, ChatGTP. So one of these chapters is like 20 pages."
+  },
+  {
+   "start": 265.74,
+   "end": 269.86,
+   "text": "And so I just go, yeah, cut it to 250, 50, and 10. And so here's the 250,"
+  },
+  {
+   "start": 270.62,
+   "end": 275.78,
+   "text": "There's the 50, and then there's the 10. So I copy them all together, just one big"
+  },
+  {
+   "start": 275.78,
+   "end": 279.26,
+   "text": "Jump, and then I paste them there, and one big thing, and that's for chapter 38."
+  },
+  {
+   "start": 280.1,
+   "end": 283.66,
+   "text": "Yeah, just, when you do that over and over, and then when you get to a book, just whatever"
+  },
+  {
+   "start": 283.66,
+   "end": 289.62,
+   "text": "The memory of it can take, and ChatGTP, and I am zooming through these books, you know?"
+  },
+  {
+   "start": 289.66,
+   "end": 292.74,
+   "text": "I got through a whole bunch of books yesterday. I want you to look at Rig Veda,"
+  },
+  {
+   "start": 292.74,
+   "end": 295.5,
+   "text": "Because I may have been an idiot, and I could have done it with Rig Veda."
+  },
+  {
+   "start": 296.34,
+   "end": 299.72,
+   "text": "Because I was doing them one at a time, and I think I was doing it because it was numbered"
+  },
+  {
+   "start": 299.72,
+   "end": 307.68,
+   "text": "And it didn't work. But, um, but, uh, yeah, to zoom through a bunch of books, that means"
+  },
+  {
+   "start": 307.68,
+   "end": 311.98,
+   "text": "That, you know, if I could get through the whole thing in a couple weeks, and then maybe"
+  },
+  {
+   "start": 311.98,
+   "end": 317.56,
+   "text": "Use ChatGTP to actually build it, because I did build a, it, just from talking to it, the"
+  },
+  {
+   "start": 317.56,
+   "end": 323.62,
+   "text": "Other day, I built a list of, like, all these different, like, MMA fighters, and all their"
+  },
+  {
+   "start": 323.62,
+   "end": 330.36,
+   "text": "Different, all the data, like, seven different, I don't know, five, six, seven different qualities"
+  },
+  {
+   "start": 330.36,
+   "end": 336.6,
+   "text": "Of them, and a whole grid, and, uh, organized how I wanted to number, just from talking to"
+  },
+  {
+   "start": 336.6,
+   "end": 342.08,
+   "text": "It, and, and it made the code, and I copied the code, yeah, and it made a table that I could"
+  },
+  {
+   "start": 342.08,
+   "end": 346.82,
+   "text": "Put right there in Dreamweaver, so. Yeah, I'm going to see if I can convert this, all"
+  },
+  {
+   "start": 346.82,
+   "end": 352.0,
+   "text": "This stuff into a table, too, and even, even program the table, like, with the proper, uh,"
+  },
+  {
+   "start": 352.0,
+   "end": 356.66,
+   "text": "Background, because that'll save me having to individually do it. And maybe even link"
+  },
+  {
+   "start": 356.66,
+   "end": 362.04,
+   "text": "Them. Actually, no, they, yeah, maybe even make them link, because they have to link, too."
+  },
+  {
+   "start": 362.84,
+   "end": 369.18,
+   "text": "Oh, man, dude, like, yeah, so by the time, I'm, I'm going to try to use it all to condense"
+  },
+  {
+   "start": 369.18,
+   "end": 373.6,
+   "text": "It, and then by the time I'm ready to make a table, hopefully, ChatGTP will be good enough"
+  },
+  {
+   "start": 373.6,
+   "end": 379.32,
+   "text": "To, uh, do it for me, you know, and then, it's basically like having, having the equivalent"
+  },
+  {
+   "start": 379.32,
+   "end": 384.14,
+   "text": "Of, like, 25 workers or something, you know, so, it's amazing, so I'm just, that's why I"
+  },
+  {
+   "start": 384.14,
+   "end": 391.98,
+   "text": "Was so pressured, and that's why, uh, you know, even to go to the gym now for, like, an hour,"
+  },
+  {
+   "start": 392.08,
+   "end": 398.24,
+   "text": "I would, I don't know if I'd be able to concentrate, so, anyways, but tomorrow, it's Friday, um, 25"
+  },
+  {
+   "start": 398.24,
+   "end": 402.06,
+   "text": "Minutes, they're going to come, and I'll probably just clean my apartment while they're here,"
+  },
+  {
+   "start": 402.12,
+   "end": 408.96,
+   "text": "Because it's a total mess, apartment's a total disaster area, you know, you can, like, pick"
+  },
+  {
+   "start": 408.96,
+   "end": 419.72,
+   "text": "All that kind of stuff up, hey, rascal, here's my birds, and, um, and then, uh, tomorrow, I"
+  },
+  {
+   "start": 419.72,
+   "end": 424.94,
+   "text": "Have to take everything out of my mom's living room, like, whole, like, bottom floor living"
+  },
+  {
+   "start": 424.94,
+   "end": 431.8,
+   "text": "Room, out onto the deck, because she's going to have her, uh, rug, her cat piss smelling"
+  },
+  {
+   "start": 431.8,
+   "end": 437.62,
+   "text": "Rug replaced with wooden floor, like what I have, and so I have to put all that outside"
+  },
+  {
+   "start": 437.62,
+   "end": 440.66,
+   "text": "And then back in, so there's some exercise, and she'll probably have me do some gardening"
+  },
+  {
+   "start": 440.66,
+   "end": 446.04,
+   "text": "And stuff, so, and hauling some other things around, so, I don't know, but yeah, so, if"
+  },
+  {
+   "start": 446.04,
+   "end": 453.62,
+   "text": "I can make progress with this, I don't know, but that was, that was, then I went to sleep,"
+  },
+  {
+   "start": 453.62,
+   "end": 460.24,
+   "text": "I could have just worked, next time that happens and I have that pain, I'm just going to assume"
+  },
+  {
+   "start": 460.24,
+   "end": 464.14,
+   "text": "It's not a heart attack, and I'm going to, like, just lay on my stomach, maybe it's a"
+  },
+  {
+   "start": 464.14,
+   "end": 470.92,
+   "text": "Gravitational thing, on my belly, and just keep working that way, but, um, but yeah, it's"
+  },
+  {
+   "start": 470.92,
+   "end": 474.06,
+   "text": "Really cool, man, because I'm just sitting here copying and pasting, and as it's sitting"
+  },
+  {
+   "start": 474.06,
+   "end": 479.3,
+   "text": "Here typing, you know, it's like, chat TTP is working more than I am, I'm here watching"
+  },
+  {
+   "start": 479.3,
+   "end": 485.0,
+   "text": "Going, do, do, do, do, do, do, do, do, do, do, and then I click over to, um, like, meta"
+  },
+  {
+   "start": 485.0,
+   "end": 490.36,
+   "text": "AI, if I want to have another conversation, AI conversation with it, because I'm trying"
+  },
+  {
+   "start": 490.36,
+   "end": 495.12,
+   "text": "To think of all the different AI conversations you can have, because, um, I'm trying to train"
+  },
+  {
+   "start": 495.12,
+   "end": 503.38,
+   "text": "My brain to maximize, to know how to maximize the abilities of chat TTP, um, from my website,"
+  },
+  {
+   "start": 503.38,
+   "end": 509.08,
+   "text": "So that I don't waste time, you know, I'm not one of these laggers, these, these, uh,"
+  },
+  {
+   "start": 510.1,
+   "end": 518.12,
+   "text": "Um, Luddites, who's fucking sitting here copying and pasting stuff on you, the one that could"
+  },
+  {
+   "start": 518.12,
+   "end": 522.28,
+   "text": "Be using chat TTP, I've probably already done that a little bit, I don't know, but no,"
+  },
+  {
+   "start": 522.36,
+   "end": 526.46,
+   "text": "Chat TTP just came out, so I'm glad that I'm hitting it early, anyways, so that's enough"
+  },
+  {
+   "start": 526.46,
+   "end": 529.92,
+   "text": "Talking, um, tomorrow, I did, I don't know when I'll upload this, because I'm, you know,"
+  },
+  {
+   "start": 529.92,
+   "end": 541.3,
+   "text": "I'm, like, pressure and everything, um, so, um, I'm going to, uh, I guess upload it whenever"
+  },
+  {
+   "start": 541.3,
+   "end": 545.56,
+   "text": "I get around to it, but I'm going to, I'm glad that I'm uploading, I'm recording, because"
+  },
+  {
+   "start": 545.56,
+   "end": 549.96,
+   "text": "In, like, a hundred years, when you look back on here, this whole hiatus that I had not"
+  },
+  {
+   "start": 549.96,
+   "end": 554.64,
+   "text": "Uploading, it's not going to show up, unless you look at the date, but nobody's going to"
+  },
+  {
+   "start": 554.64,
+   "end": 559.78,
+   "text": "Look at the date, it'll just look like a continuous thing of me uploading videos every"
+  },
+  {
+   "start": 559.78,
+   "end": 568.06,
+   "text": "Day, anyways, so I have a cool front yard, look at that, I have, like, my flowers, and"
+  },
+  {
+   "start": 568.06,
+   "end": 573.42,
+   "text": "Then on the other side of the flowers is the, is the wall of trees, so I can live, like,"
+  },
+  {
+   "start": 573.44,
+   "end": 580.84,
+   "text": "In a garden inside of a, inside of, like, a jungle, that's, like, the theme I have in"
+  },
+  {
+   "start": 580.84,
+   "end": 586.22,
+   "text": "Here, a jungle theme, but the problem was I, um, man, I blew, like, a hundred bucks a couple"
+  },
+  {
+   "start": 586.22,
+   "end": 592.86,
+   "text": "Months ago on plants, and the problem was, um, I pack the dirt too tight, too high, so"
+  },
+  {
+   "start": 592.86,
+   "end": 596.36,
+   "text": "When, every time I pour water in, even if I do it all day long, it just falls off the"
+  },
+  {
+   "start": 596.36,
+   "end": 600.5,
+   "text": "Top, there's no way for the roots to get water, so I had to, they all died, and I have"
+  },
+  {
+   "start": 600.5,
+   "end": 605.08,
+   "text": "To replant them again, not all of them, but all the one kind of them, and I need to plant"
+  },
+  {
+   "start": 605.08,
+   "end": 608.42,
+   "text": "The dirt, now, I can plant the dirt tight if I want, but I need to plant the dirt where"
+  },
+  {
+   "start": 608.42,
+   "end": 613.24,
+   "text": "I have at least an inch, so I can pour water in, and you can create a reservoir of water that"
+  },
+  {
+   "start": 613.24,
+   "end": 618.94,
+   "text": "Can then seep down, so that was me being a dumbass, anyways, I don't think I'll redo"
+  },
+  {
+   "start": 618.94,
+   "end": 623.72,
+   "text": "Anything today, I mean, this summer, when the wintertime comes, I can bring those plants"
+  },
+  {
+   "start": 623.72,
+   "end": 629.18,
+   "text": "In, and, and have another redo, retry, in here, and see if I can get some of the last,"
+  },
+  {
+   "start": 629.22,
+   "end": 632.42,
+   "text": "Because I have some really good ones that have been here for, like, three years, it seems"
+  },
+  {
+   "start": 632.42,
+   "end": 640.57,
+   "text": "Like, those two, those two are from, like, three frickin' years ago, and they look great,"
+  },
+  {
+   "start": 640.65,
+   "end": 644.47,
+   "text": "And the reason is, because there's barely any dirt in there, dude, like, my mom"
+  },
+  {
+   "start": 644.47,
+   "end": 649.37,
+   "text": "Probably did it, there's barely any dirt, so every time I pour water in, they just get"
+  },
+  {
+   "start": 649.37,
+   "end": 655.27,
+   "text": "Soaking wet, and they live, you know, so that's how you have to plant, you know, like this"
+  },
+  {
+   "start": 655.27,
+   "end": 663.04,
+   "text": "One here, that one there died right away, because it just was packed too tight, couldn't"
+  },
+  {
+   "start": 663.04,
+   "end": 667.12,
+   "text": "Get wet, all of them are, most of them are like that, but these guys are doing really"
+  },
+  {
+   "start": 667.12,
+   "end": 671.24,
+   "text": "Well, because they're, they're getting natural light, and I think also because they, they,"
+  },
+  {
+   "start": 671.32,
+   "end": 675.94,
+   "text": "They lucked out with the planting, but yeah, they, they need these light, the light is really"
+  },
+  {
+   "start": 675.94,
+   "end": 681.64,
+   "text": "Good for these plants, my tongue is getting dry, okay, so I'm going to go and pick up"
+  },
+  {
+   "start": 681.64,
+   "end": 685.62,
+   "text": "Stuff up, so I don't look like an idiot, unless people came, I guess, in like 20 minutes,"
+  },
+  {
+   "start": 685.68,
+   "end": 691.42,
+   "text": "15 minutes, and then, yeah, try to, try to, try to work on this, talk to you later."
+  }
+ ]
+}

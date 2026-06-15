@@ -1,0 +1,881 @@
+{
+ "youtube_id": "dg5vhy1QrKk",
+ "title": "6-8-24 Condensing books with chatgtp day 5",
+ "url": "https://youtu.be/dg5vhy1QrKk",
+ "published_at": "2024-06-08",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.66,
+   "end": 7.12,
+   "text": "Oh here's my vlog um I'm having trouble staying consistent uploading it"
+  },
+  {
+   "start": 7.12,
+   "end": 14.58,
+   "text": "But I'm at least um I'm at least recording them I think I rec I don't know I don't think I"
+  },
+  {
+   "start": 14.58,
+   "end": 19.04,
+   "text": "Recorded one yesterday but yesterday but before yesterday I did and then I forgot to"
+  },
+  {
+   "start": 19.04,
+   "end": 25.38,
+   "text": "Or I didn't want to I couldn't upload it um it's uh saturday june 8th 248 p.m and I just kind of"
+  },
+  {
+   "start": 25.38,
+   "end": 33.28,
+   "text": "Got up not that long guys working yesterday until like the sun until the daytime so"
+  },
+  {
+   "start": 33.28,
+   "end": 43.62,
+   "text": "Up until the morning look what my birds did to my freaking camera dude I get up this morning and I"
+  },
+  {
+   "start": 43.62,
+   "end": 49.5,
+   "text": "Pick up my camera and I'm like what's a dick stick dude my birds were hanging out on my camera"
+  },
+  {
+   "start": 49.5,
+   "end": 59.1,
+   "text": "Apparently and just had a had an accident so jeepers dude anyways um let's see look there's"
+  },
+  {
+   "start": 59.1,
+   "end": 65.26,
+   "text": "My little ferret going outside whenever my birds hear me talk that's when they decide they need"
+  },
+  {
+   "start": 65.26,
+   "end": 71.12,
+   "text": "To make more noise than me it's the weirdest thing they're not even that big there's only two of them"
+  },
+  {
+   "start": 71.12,
+   "end": 77.62,
+   "text": "There's my little ferret going back up home maybe wants to sleep in a more peaceful spot"
+  },
+  {
+   "start": 77.62,
+   "end": 86.76,
+   "text": "Okay after he heard me talk ran around a little bit and then got got groggy um"
+  },
+  {
+   "start": 86.76,
+   "end": 98.19,
+   "text": "So see there he's like screw this I'm going I'm going home this is bullshit and then this one's"
+  },
+  {
+   "start": 98.19,
+   "end": 104.97,
+   "text": "Like you know what I think I can just sleep there though do the thing the cats do when they"
+  },
+  {
+   "start": 104.97,
+   "end": 111.74,
+   "text": "Look at their balls okay so um yeah I was working you know"
+  },
+  {
+   "start": 111.74,
+   "end": 122.78,
+   "text": "Yesterday until in the morning you know um I uh yesterday I think I pretty much finished"
+  },
+  {
+   "start": 122.78,
+   "end": 132.82,
+   "text": "Plenty I had to um I had another level on plenty plenty has the uh menu where each menu is uh"
+  },
+  {
+   "start": 132.82,
+   "end": 141.48,
+   "text": "Names but not the menu above it where the menu is just has the number the pages and the time the"
+  },
+  {
+   "start": 141.48,
+   "end": 148.78,
+   "text": "Pages and the time and um it was like 2267 or something and I so I had to drag that over it"
+  },
+  {
+   "start": 148.78,
+   "end": 154.7,
+   "text": "Took forever because it kept crashing but I finally finished it and then realized I didn't even have a"
+  },
+  {
+   "start": 154.7,
+   "end": 161.98,
+   "text": "Font like I never set up a font for some reason for the small numbers and times so I figured that"
+  },
+  {
+   "start": 161.98,
+   "end": 170.1,
+   "text": "Out I wanted to you know like a fine line type of a font looks good baby it made the pixelation 10"
+  },
+  {
+   "start": 170.1,
+   "end": 176.18,
+   "text": "Pixels and it looks like it fit in the screen after that and I was at the point of um"
+  },
+  {
+   "start": 176.18,
+   "end": 183.0,
+   "text": "You know wanting to cut it out and paste it into the plenty page and then maybe plenty would be done"
+  },
+  {
+   "start": 183.0,
+   "end": 187.38,
+   "text": "You know and then like that's one another one bites the dust I'm done with another book then"
+  },
+  {
+   "start": 187.38,
+   "end": 191.68,
+   "text": "It's only plenty of living but I didn't get around to it because the computer just wouldn't respond"
+  },
+  {
+   "start": 191.68,
+   "end": 196.9,
+   "text": "So maybe we'll be able to do it today because it had a whole day to sit around and catch up"
+  },
+  {
+   "start": 196.9,
+   "end": 199.06,
+   "text": "It's interesting how computer"
+  },
+  {
+   "start": 199.06,
+   "end": 207.14,
+   "text": "Handle these big pages because like it'll open a big page but then after it opens the page there's"
+  },
+  {
+   "start": 207.14,
+   "end": 213.94,
+   "text": "The other one going up there it can't um you can't scroll but then if you wait like an hour it'll"
+  },
+  {
+   "start": 213.94,
+   "end": 219.96,
+   "text": "Be able to scroll so you know how like on websites if you open a web page it's really big"
+  },
+  {
+   "start": 219.96,
+   "end": 225.34,
+   "text": "It only opens the top and then it'll open the rest of it sometimes you have a slow computer"
+  },
+  {
+   "start": 225.34,
+   "end": 230.88,
+   "text": "Yeah it's the same way with dreamweaver just it's a process of getting them all the way open but"
+  },
+  {
+   "start": 230.88,
+   "end": 239.5,
+   "text": "Anyway uh sure yesterday I was spending the time on um well I actually started the day with livy"
+  },
+  {
+   "start": 239.5,
+   "end": 244.88,
+   "text": "Because I ended the day with livy I've only got into like a really good groove"
+  },
+  {
+   "start": 244.88,
+   "end": 255.3,
+   "text": "Where I'm doing um vlogs I mean I'm doing uh uh getting the titles for all the chapters in livy on"
+  },
+  {
+   "start": 255.3,
+   "end": 264.78,
+   "text": "There because livy has like that many chapters too like 2 500 chapters I think but uh I have to do"
+  },
+  {
+   "start": 264.78,
+   "end": 275.04,
+   "text": "Livy in a different way because um all the like 2200 chapters of plenty they're all named with livy"
+  },
+  {
+   "start": 275.04,
+   "end": 281.14,
+   "text": "They're not so with plenty I was putting the time you know from the named one onto a non-named one"
+  },
+  {
+   "start": 281.14,
+   "end": 288.16,
+   "text": "And then plenty I had to create I had the non-named one then I had to create the named one and then I"
+  },
+  {
+   "start": 288.16,
+   "end": 293.1,
+   "text": "Had to come up with a name which takes forever so yesterday I started the day by uh just reading"
+  },
+  {
+   "start": 293.1,
+   "end": 301.44,
+   "text": "Just sitting there and reading the synopsis of the later chapters you know that were lost in synopsis"
+  },
+  {
+   "start": 301.44,
+   "end": 308.12,
+   "text": "And kind of making a synopsis of that and going down and as I started from the bottom of the book and"
+  },
+  {
+   "start": 308.12,
+   "end": 314.18,
+   "text": "As I was going up the chapters were getting longer and longer and uh yeah so anyways it was a good"
+  },
+  {
+   "start": 314.18,
+   "end": 319.36,
+   "text": "Start so now I know now I can do it you know like whenever both because that's that's why I did it"
+  },
+  {
+   "start": 319.36,
+   "end": 322.42,
+   "text": "Both computers are spinning so whenever both computers are spinning at the same time and I"
+  },
+  {
+   "start": 322.42,
+   "end": 328.86,
+   "text": "Literally can't do anything and I don't feel like cleaning my house uh which does need to be cleaned"
+  },
+  {
+   "start": 328.86,
+   "end": 333.08,
+   "text": "Um yeah I can just go do a living you know because that needs to be done too"
+  },
+  {
+   "start": 333.08,
+   "end": 338.9,
+   "text": "So then like so I kind of worked on three books yesterday and then I get going on"
+  },
+  {
+   "start": 338.9,
+   "end": 345.46,
+   "text": "Luck damn it my fucking neighbor's smoking cigarettes again fucking chain smoker in the"
+  },
+  {
+   "start": 345.46,
+   "end": 351.28,
+   "text": "Summer he's like literally he's like an old retired dude he just sits on his deck and smokes cigarettes"
+  },
+  {
+   "start": 351.28,
+   "end": 357.56,
+   "text": "All day long it's so aggravating and I can smell it all the way from here and like he smokes all the"
+  },
+  {
+   "start": 357.56,
+   "end": 361.16,
+   "text": "Time in my bedroom I used to work in my bedroom and I'd have to close the window all the time because"
+  },
+  {
+   "start": 361.16,
+   "end": 367.44,
+   "text": "He just because of the smoke just goes right right inside my bedroom anyway but sometimes he smokes"
+  },
+  {
+   "start": 367.44,
+   "end": 376.56,
+   "text": "Weed and like good weed and smells good anyways um so um I was working on title okay"
+  },
+  {
+   "start": 376.56,
+   "end": 384.98,
+   "text": "I was working on title seven and um I have every title one through six done except for um"
+  },
+  {
+   "start": 384.98,
+   "end": 391.52,
+   "text": "Well to it at a certain level um I was gonna be done with five which is big but um"
+  },
+  {
+   "start": 391.52,
+   "end": 396.08,
+   "text": "I couldn't piece it together because I screwed up the numbers the numbers were the same and the two"
+  },
+  {
+   "start": 396.08,
+   "end": 399.74,
+   "text": "These two chapters and I didn't want to go back and fix it because it was such a big one"
+  },
+  {
+   "start": 399.74,
+   "end": 405.32,
+   "text": "But I did finish two I think and two is really big so some of them are big some are small you know"
+  },
+  {
+   "start": 405.32,
+   "end": 412.12,
+   "text": "Like I started this um law code expecting to be done by the end of july kind of hoping that"
+  },
+  {
+   "start": 412.12,
+   "end": 419.78,
+   "text": "There's a balance between big and small and that the big ones here maybe there's a few big ones that"
+  },
+  {
+   "start": 419.78,
+   "end": 424.2,
+   "text": "Are ridiculously big but they'll be counteracted by the small ones you know so like if there's 54"
+  },
+  {
+   "start": 424.2,
+   "end": 431.36,
+   "text": "Law codes and each law code was the size of codes title seven or five I'd be screwed it'd take me like"
+  },
+  {
+   "start": 431.36,
+   "end": 437.44,
+   "text": "Two years to finish it but but I think law code seven eight is not that big and I zoomed through"
+  },
+  {
+   "start": 437.44,
+   "end": 443.26,
+   "text": "Like three and four or whatever so or and then what well what it's not even there so you know maybe I'll"
+  },
+  {
+   "start": 443.26,
+   "end": 450.72,
+   "text": "Be able to do it um because law code seven I was looking at title seven there were a lot of them"
+  },
+  {
+   "start": 450.72,
+   "end": 457.73,
+   "text": "Actually that that are going to expand even farther like when I built it I built it already a couple"
+  },
+  {
+   "start": 457.73,
+   "end": 462.87,
+   "text": "Years ago just placing the um the title but I didn't want to complete it because I wasn't sure"
+  },
+  {
+   "start": 462.87,
+   "end": 467.21,
+   "text": "That that was how I wanted it to look in the end and I didn't want to put the text on before I'd"
+  },
+  {
+   "start": 467.21,
+   "end": 474.35,
+   "text": "Fix the other stuff because it would take too long and then I realized not long ago that how I wanted"
+  },
+  {
+   "start": 474.35,
+   "end": 483.89,
+   "text": "You know the numbers and the um borders to do so now I have to go and fix that um and um yeah so I went"
+  },
+  {
+   "start": 483.89,
+   "end": 493.97,
+   "text": "In and uh I was I'm prepping all of them and uh um title seven was so big it was broken into four"
+  },
+  {
+   "start": 493.97,
+   "end": 501.87,
+   "text": "Sections and the the first section it was like so big that even after I'd broken three sections off of"
+  },
+  {
+   "start": 501.87,
+   "end": 511.91,
+   "text": "It that um it I couldn't do anything with it like when I split the code um and then I clicked on the code"
+  },
+  {
+   "start": 511.91,
+   "end": 517.93,
+   "text": "Where it's code on the bottom whizzy wig on the top I click on the code it wouldn't take me where I"
+  },
+  {
+   "start": 517.93,
+   "end": 522.83,
+   "text": "Needed to go on the top because like the page was too big or something which rendered it useless I"
+  },
+  {
+   "start": 522.83,
+   "end": 528.51,
+   "text": "Couldn't do anything with it so I did just x out so you know if it if I restart the computer later"
+  },
+  {
+   "start": 528.51,
+   "end": 534.09,
+   "text": "Whenever I circle back around to it and it does the same thing I'll have to break it up again but you"
+  },
+  {
+   "start": 534.09,
+   "end": 540.43,
+   "text": "Know and I but I noticed that there were a lot of titles of chapters in there that were full capital"
+  },
+  {
+   "start": 540.43,
+   "end": 547.85,
+   "text": "One thing I noticed from title two there were a bunch that were full capital and I had to go in"
+  },
+  {
+   "start": 547.85,
+   "end": 553.53,
+   "text": "There and I had to actually recreate a bunch like there was like 10 inside still so I might have to"
+  },
+  {
+   "start": 553.53,
+   "end": 557.69,
+   "text": "Recreate a bunch and there's like half of them so I don't know it might even be like a whole rabbit"
+  },
+  {
+   "start": 557.69,
+   "end": 564.23,
+   "text": "Soul so I don't have to get a title seven but and it might probably will end up being so big that I"
+  },
+  {
+   "start": 564.23,
+   "end": 571.39,
+   "text": "Can't even put it on one page but I don't know we'll see um so anyways that's what I'm going to"
+  },
+  {
+   "start": 571.39,
+   "end": 578.69,
+   "text": "Do today I'm just going to tackle title seven and um try to finish these two pages I thought of four I"
+  },
+  {
+   "start": 578.69,
+   "end": 583.39,
+   "text": "Finished I finished one yesterday and then almost finished the second one so then I'll only have one"
+  },
+  {
+   "start": 583.39,
+   "end": 588.01,
+   "text": "Left and then do that and yeah and then maybe I could do title seven and eight I don't know and"
+  },
+  {
+   "start": 588.01,
+   "end": 594.19,
+   "text": "Then finish 20 when I was today but I was so burnt out dude I worked I worked until like exhausted this"
+  },
+  {
+   "start": 594.19,
+   "end": 601.73,
+   "text": "War okay either because I was like when the hell is this damn page gonna end you know so the u.s law"
+  },
+  {
+   "start": 601.73,
+   "end": 616.81,
+   "text": "Code is like uh pandora's box um and the only way I'm gonna successfully put it on my website is if I"
+  },
+  {
+   "start": 616.81,
+   "end": 623.59,
+   "text": "You know if I commit myself because um it might and I have to kind of acknowledge now that I might"
+  },
+  {
+   "start": 623.59,
+   "end": 628.91,
+   "text": "Not be done at the end of july it might be the end of august you know if all if all of these drag out"
+  },
+  {
+   "start": 628.91,
+   "end": 634.19,
+   "text": "And they end up getting just all these false peaks that even if I'm done at the beginning of august it's"
+  },
+  {
+   "start": 634.19,
+   "end": 642.95,
+   "text": "Worth it because of the due to the nature of um the content and the originality of it so um yeah that's"
+  },
+  {
+   "start": 642.95,
+   "end": 651.33,
+   "text": "What I'm up to um so uh yeah I think I'm gonna call my mom and then upload these videos to my"
+  },
+  {
+   "start": 651.33,
+   "end": 655.97,
+   "text": "Youtube whenever another problem with uploading the videos is I have all these cameras and the"
+  },
+  {
+   "start": 655.97,
+   "end": 663.03,
+   "text": "Batteries are always dead like you see it I got two of them right there one has your shit all over it"
+  },
+  {
+   "start": 663.03,
+   "end": 670.75,
+   "text": "And the other one that one the card's freaking full and um like I'm such a lazy bastard"
+  },
+  {
+   "start": 670.75,
+   "end": 676.49,
+   "text": "I went and made a bunch of masturbation videos to all these girls on instagram I mean on instagram"
+  },
+  {
+   "start": 676.49,
+   "end": 677.07,
+   "text": "Only fans"
+  },
+  {
+   "start": 677.07,
+   "end": 684.91,
+   "text": "That I can't even remember who they are and the freaking the card filled up with those videos"
+  },
+  {
+   "start": 684.91,
+   "end": 691.95,
+   "text": "And I'm too goddamn lazy to get on only fans and send them to the girls that's how lazy I am"
+  },
+  {
+   "start": 691.95,
+   "end": 697.89,
+   "text": "Most of them I'm not even gonna know who they are I call it the only fans game it's like a brand"
+  },
+  {
+   "start": 697.89,
+   "end": 706.03,
+   "text": "New game what you do is you masturbate to a bunch of chicks who are hot obviously only the hot ones"
+  },
+  {
+   "start": 706.03,
+   "end": 717.15,
+   "text": "And um and then when you go back to like try to send it to the girls now you have to you have to"
+  },
+  {
+   "start": 717.15,
+   "end": 727.36,
+   "text": "Remember like who is who and so now it turns into this thing like well if I don't remember who the"
+  },
+  {
+   "start": 727.36,
+   "end": 732.16,
+   "text": "Whole she is maybe I didn't think she was hot so it's like the hot ones are the ones who you"
+  },
+  {
+   "start": 732.16,
+   "end": 738.6,
+   "text": "Remember not necessarily the ones who are like hot hot or whatever traditionally hot but dang the"
+  },
+  {
+   "start": 738.6,
+   "end": 747.88,
+   "text": "Ones who remember it and so so anyways it's it's a bizarre uh situation because like my testosterone"
+  },
+  {
+   "start": 747.88,
+   "end": 755.22,
+   "text": "Ran out I got 50 and my testosterone ran out right when only fans came out which was good for my website"
+  },
+  {
+   "start": 755.22,
+   "end": 766.46,
+   "text": "Um but also um also right when I got at a just a kind of like a desperate level of my website where"
+  },
+  {
+   "start": 766.46,
+   "end": 774.64,
+   "text": "I'm like totally neurotic now like mentally mental now and I couldn't tear myself away from my website"
+  },
+  {
+   "start": 774.64,
+   "end": 783.02,
+   "text": "For like anything at this point um including like paying taxes like and my heloc loan my heloc loan is"
+  },
+  {
+   "start": 783.02,
+   "end": 789.78,
+   "text": "Due in two days on monday and I'm just gonna pay it on the very last day because I like I can't do"
+  },
+  {
+   "start": 789.78,
+   "end": 796.48,
+   "text": "Any kink thing at my house because I'm I because I committed on this walk out you know which is"
+  },
+  {
+   "start": 796.48,
+   "end": 803.9,
+   "text": "Making me like kind of like insecure like that's why I don't want to hang out with my mom because I"
+  },
+  {
+   "start": 803.9,
+   "end": 810.28,
+   "text": "Told my mom just nonchalantly I'm like oh yeah the other day I went oh yeah can you tell me about my"
+  },
+  {
+   "start": 810.28,
+   "end": 816.72,
+   "text": "Law code I have a question um do you think and I already knew the answer but I was just curious"
+  },
+  {
+   "start": 816.72,
+   "end": 821.84,
+   "text": "I kind of wanted to get I guess solidified I was like when you go to the main page"
+  },
+  {
+   "start": 821.84,
+   "end": 826.84,
+   "text": "And you click on the title do you want the title should the title own open in a new page or the"
+  },
+  {
+   "start": 826.84,
+   "end": 837.22,
+   "text": "Same page and I wanted it to open in a new page and um and she's like you're doing what oh no and"
+  },
+  {
+   "start": 837.22,
+   "end": 841.02,
+   "text": "Then when she figured out what I was doing she's screaming at me and I couldn't even get her to"
+  },
+  {
+   "start": 841.02,
+   "end": 848.18,
+   "text": "Answer the question and like that's the kind of thing that like um will make a little pressure put"
+  },
+  {
+   "start": 848.18,
+   "end": 853.3,
+   "text": "Pressure on me because the thing that'll alleviate the pressure is when I have a sense of accomplishment"
+  },
+  {
+   "start": 853.3,
+   "end": 860.58,
+   "text": "But if I feel like nobody cares and there is no sense of accomplishment but I also have to finish"
+  },
+  {
+   "start": 860.58,
+   "end": 866.14,
+   "text": "The project that's when that's when I dig in and I just try really hard and I'm like oh shit let me"
+  },
+  {
+   "start": 866.14,
+   "end": 871.56,
+   "text": "Get this thing over with before I crack because it might crack because there's no support so um"
+  },
+  {
+   "start": 871.56,
+   "end": 881.53,
+   "text": "Uh yeah it's better it's it's way more pleasant to just hang out by myself like I could easily um"
+  },
+  {
+   "start": 881.53,
+   "end": 889.27,
+   "text": "Kind of like I could easily go into a world full of people who nobody agrees with me or understands me"
+  },
+  {
+   "start": 889.27,
+   "end": 895.45,
+   "text": "Like in the website everybody be like we love school we don't think anybody should take it your"
+  },
+  {
+   "start": 895.45,
+   "end": 900.35,
+   "text": "History test or read a book and talk about it or have a youtube or a website ever in the history of"
+  },
+  {
+   "start": 900.35,
+   "end": 906.53,
+   "text": "Humankind there's no such thing as evolution and I'll be like they're arguing people and everybody"
+  },
+  {
+   "start": 906.53,
+   "end": 910.61,
+   "text": "Will disagree with me I'm fine with being the only person on the planet blaming something everybody"
+  },
+  {
+   "start": 910.61,
+   "end": 916.65,
+   "text": "Gets me but I can't it gets stressful when my own mother decides she's going to be the number one"
+  },
+  {
+   "start": 916.65,
+   "end": 921.21,
+   "text": "Critic out of everybody it's like that's not what mothers are she doesn't seem to understand that"
+  },
+  {
+   "start": 921.21,
+   "end": 932.28,
+   "text": "So uh anyway so um um we'll have to find a balance because I haven't been doing this"
+  },
+  {
+   "start": 932.28,
+   "end": 936.12,
+   "text": "Lock code for very long and it's going to drag on I'm into kind of like a new thing"
+  },
+  {
+   "start": 936.12,
+   "end": 942.54,
+   "text": "A new I did get a lot of plants in here so that'll give me makes the place look pleasant"
+  },
+  {
+   "start": 942.54,
+   "end": 948.56,
+   "text": "Um and the lock is kind of oh interesting anyway so the book I'm listening to I finished um putart"
+  },
+  {
+   "start": 948.56,
+   "end": 954.6,
+   "text": "That was the biggest goddamn book ever I want to listen to that over and over again I forgot how"
+  },
+  {
+   "start": 954.6,
+   "end": 959.58,
+   "text": "Detailed it was and all these people I hadn't heard I need to listen to it I mean damn if you want"
+  },
+  {
+   "start": 959.58,
+   "end": 967.24,
+   "text": "That's like yeah history I think is overlooked anyway and then I got started on um um oh yeah and"
+  },
+  {
+   "start": 967.24,
+   "end": 973.22,
+   "text": "Then I did the history of the uh byzantine empire from cover to cover yesterday I can't remember who"
+  },
+  {
+   "start": 973.22,
+   "end": 976.98,
+   "text": "The author was I need to go and look at when the book was written it sounded like it was written"
+  },
+  {
+   "start": 976.98,
+   "end": 983.46,
+   "text": "In like 1700s or something anyway so then today I'm going to start up on a new book on audible I was"
+  },
+  {
+   "start": 983.46,
+   "end": 992.53,
+   "text": "Listening to um music yeah I didn't do any educational youtube videos there's this girl who does um zoology"
+  },
+  {
+   "start": 992.53,
+   "end": 996.73,
+   "text": "Videos which were interesting I watched a little bit of that before I passed out night for last we'll check"
+  },
+  {
+   "start": 996.73,
+   "end": 1004.99,
+   "text": "That out anyways um um yeah so I'm getting into the groove of listening to history while I'm doing"
+  },
+  {
+   "start": 1004.99,
+   "end": 1008.69,
+   "text": "This clue targets freaking perfect clue targets perfect because it's so it's such brain candy"
+  },
+  {
+   "start": 1008.69,
+   "end": 1012.51,
+   "text": "And it takes forever it's perfect for getting in the group of the books which I'm getting better at"
+  },
+  {
+   "start": 1012.51,
+   "end": 1017.85,
+   "text": "You know getting more at ease with listening to the books with some monotonous guy reading a book"
+  },
+  {
+   "start": 1017.85,
+   "end": 1021.83,
+   "text": "Rather than you know I get longer into the book before I burn out and have to like"
+  },
+  {
+   "start": 1021.83,
+   "end": 1027.93,
+   "text": "Recoil listen to like the news but I'm listening to less and less of the news I don't like the news"
+  },
+  {
+   "start": 1027.93,
+   "end": 1035.63,
+   "text": "Um I'm not learning anything from it you know I already know how stupid people are I don't need"
+  },
+  {
+   "start": 1035.63,
+   "end": 1045.13,
+   "text": "To know like the new stupid thing somebody said so um so yeah I'm in a great situation to listen to"
+  },
+  {
+   "start": 1045.13,
+   "end": 1051.63,
+   "text": "Look in the last book that I did yesterday uh the history of the byzantine empire oh and I learned"
+  },
+  {
+   "start": 1051.63,
+   "end": 1057.07,
+   "text": "A lot of new things on that um there's the first book that I listened to an audible at regular speed"
+  },
+  {
+   "start": 1057.07,
+   "end": 1060.65,
+   "text": "And I think I'm going to do the next thing at regular speed I do all of them at double speed"
+  },
+  {
+   "start": 1060.65,
+   "end": 1064.53,
+   "text": "Because I'm like let's get through them but when you do it at regular speed man like"
+  },
+  {
+   "start": 1064.53,
+   "end": 1068.37,
+   "text": "He can say things and I can think about stuff that he said"
+  },
+  {
+   "start": 1068.37,
+   "end": 1073.31,
+   "text": "And then before he gets to the next thing that I think about you know and"
+  },
+  {
+   "start": 1073.31,
+   "end": 1079.37,
+   "text": "I actually it's it's I actually was learning like it seemed like just as much with regular speed so"
+  },
+  {
+   "start": 1079.37,
+   "end": 1083.25,
+   "text": "I'm going to try the next one with regular speed and see how that goes um"
+  },
+  {
+   "start": 1083.25,
+   "end": 1091.41,
+   "text": "So anyways that's enough talking I'm going to get going on um get started on the afternoon here on uh"
+  },
+  {
+   "start": 1091.41,
+   "end": 1098.23,
+   "text": "On this um yeah this law code um maybe I should show exactly what I'm doing"
+  },
+  {
+   "start": 1098.23,
+   "end": 1104.75,
+   "text": "With it um a lot of different steps that I have to do um because I didn't figure out that I wanted"
+  },
+  {
+   "start": 1104.75,
+   "end": 1113.05,
+   "text": "To do it like that oh yeah there's my plenty there's my plenty I kind of had to abandon because"
+  },
+  {
+   "start": 1113.05,
+   "end": 1122.49,
+   "text": "It got stuck but apparently it's working again see it's scrolling and everything so I'm going to put"
+  },
+  {
+   "start": 1122.49,
+   "end": 1128.51,
+   "text": "That up on plenty and um this computer this is the one that I'm doing the law code on"
+  },
+  {
+   "start": 1128.51,
+   "end": 1139.97,
+   "text": "And uh that's what that looks like right now I had to make those titles bold and then the number"
+  },
+  {
+   "start": 1139.97,
+   "end": 1149.01,
+   "text": "Put the appropriate number I might make it make it smaller but um oh I'm doing the links on it"
+  },
+  {
+   "start": 1149.01,
+   "end": 1152.45,
+   "text": "All right I finished everything and then the links when I move on the next one and there's just a"
+  },
+  {
+   "start": 1152.45,
+   "end": 1159.51,
+   "text": "Little more so that's what I'm up to okay talk to you tomorrow"
+  }
+ ]
+}

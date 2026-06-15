@@ -1,0 +1,971 @@
+{
+ "youtube_id": "NB-GW4fjXT4",
+ "title": "7-24-24 Website Tables with ChatGTP day 0",
+ "url": "https://youtu.be/NB-GW4fjXT4",
+ "published_at": "2024-07-24",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.37,
+   "end": 8.79,
+   "text": "Hello, it's July 24th, 2024, Wednesday, 3.43 p.m."
+  },
+  {
+   "start": 8.79,
+   "end": 10.89,
+   "text": "I've been up in maybe like an hour or something."
+  },
+  {
+   "start": 11.03,
+   "end": 12.75,
+   "text": "I've been working, smoking weed and working."
+  },
+  {
+   "start": 13.85,
+   "end": 20.71,
+   "text": "I slept and then I stayed in bed, like making sure that I was like totally rested."
+  },
+  {
+   "start": 21.79,
+   "end": 28.21,
+   "text": "So I went to bed at maybe 9 and then I got up at probably like 2.30."
+  },
+  {
+   "start": 28.21,
+   "end": 35.02,
+   "text": "So that would have given me five and a half hours of sleep, which is pretty good, which"
+  },
+  {
+   "start": 35.02,
+   "end": 38.48,
+   "text": "Is all the sleep I really, well that's five and a half hours of downtime actually."
+  },
+  {
+   "start": 38.6,
+   "end": 42.96,
+   "text": "That's less than five and a half hours of sleep because I was awake laying in bed for like"
+  },
+  {
+   "start": 42.96,
+   "end": 43.6,
+   "text": "Half of that."
+  },
+  {
+   "start": 43.88,
+   "end": 49.1,
+   "text": "So it's probably like three, two or three hours of actually REM and then five and a half hours"
+  },
+  {
+   "start": 49.1,
+   "end": 49.64,
+   "text": "Of downtime."
+  },
+  {
+   "start": 51.68,
+   "end": 52.56,
+   "text": "But I'm good."
+  },
+  {
+   "start": 52.7,
+   "end": 57.6,
+   "text": "That's all I need because like I literally don't move, which is probably not healthy,"
+  },
+  {
+   "start": 57.6,
+   "end": 57.84,
+   "text": "Dude."
+  },
+  {
+   "start": 58.8,
+   "end": 60.26,
+   "text": "In fact, I grew wings."
+  },
+  {
+   "start": 63.38,
+   "end": 64.7,
+   "text": "See, I've got wings now."
+  },
+  {
+   "start": 67.87,
+   "end": 76.44,
+   "text": "But, um, but, um, I am going to get to a stopping point here pretty soon."
+  },
+  {
+   "start": 76.54,
+   "end": 77.32,
+   "text": "Where is that?"
+  },
+  {
+   "start": 78.74,
+   "end": 80.44,
+   "text": "That is a trippy looking spot."
+  },
+  {
+   "start": 83.47,
+   "end": 90.05,
+   "text": "Um, I, uh, yeah, I think, I don't know, man."
+  },
+  {
+   "start": 90.05,
+   "end": 94.33,
+   "text": "I think I might get done with, uh, all of my books today."
+  },
+  {
+   "start": 94.61,
+   "end": 96.83,
+   "text": "Um, there's, uh, chat TTP, man."
+  },
+  {
+   "start": 96.95,
+   "end": 101.63,
+   "text": "Chat TTP was just doing my web design for me, man."
+  },
+  {
+   "start": 102.05,
+   "end": 104.63,
+   "text": "All day for the last few days, two or three days."
+  },
+  {
+   "start": 104.75,
+   "end": 107.71,
+   "text": "Uh, yeah, for the web design."
+  },
+  {
+   "start": 107.79,
+   "end": 111.43,
+   "text": "And then the, it was, I was using it for the word condensation."
+  },
+  {
+   "start": 111.43,
+   "end": 118.99,
+   "text": "So, in order to convert, um, my books from the full size down to, and I'm doing it in"
+  },
+  {
+   "start": 118.99,
+   "end": 124.73,
+   "text": "Multiple sizes, like most of them down to like 10 words per chapter to create a menu."
+  },
+  {
+   "start": 125.09,
+   "end": 127.55,
+   "text": "Um, chat TTP does all of it."
+  },
+  {
+   "start": 127.59,
+   "end": 132.63,
+   "text": "All I'm going to have to do is piece together those, uh, the bits and pieces that have different"
+  },
+  {
+   "start": 132.63,
+   "end": 133.33,
+   "text": "Chapters in them."
+  },
+  {
+   "start": 133.41,
+   "end": 135.61,
+   "text": "So, it literally did all of it."
+  },
+  {
+   "start": 135.61,
+   "end": 139.61,
+   "text": "So, for the last, like, few days, where's my remote?"
+  },
+  {
+   "start": 140.45,
+   "end": 145.63,
+   "text": "I've been, I've just been, like, watching music, smoking weed and watching music videos"
+  },
+  {
+   "start": 145.63,
+   "end": 146.61,
+   "text": "While the chat TTP."
+  },
+  {
+   "start": 148.47,
+   "end": 149.73,
+   "text": "Like, there's Cardi B."
+  },
+  {
+   "start": 150.51,
+   "end": 151.53,
+   "text": "Dude, all these shit."
+  },
+  {
+   "start": 153.64,
+   "end": 155.12,
+   "text": "Whoa, whoa, whoa, whoa, whoa, shut up."
+  },
+  {
+   "start": 156.18,
+   "end": 158.56,
+   "text": "I don't want to get, like, copyrighted or whatever."
+  },
+  {
+   "start": 158.84,
+   "end": 159.4,
+   "text": "God damn it."
+  },
+  {
+   "start": 160.62,
+   "end": 164.24,
+   "text": "So, uh, anyway, yeah, that's Cardi B, dude."
+  },
+  {
+   "start": 164.24,
+   "end": 167.52,
+   "text": "See, in all the girls, they have, look at how they all get their asses out, they're all"
+  },
+  {
+   "start": 167.52,
+   "end": 167.9,
+   "text": "In G-strings."
+  },
+  {
+   "start": 168.76,
+   "end": 172.58,
+   "text": "And they all get their tits out, and then, but they cover their nipples, but they don't"
+  },
+  {
+   "start": 172.58,
+   "end": 175.14,
+   "text": "Cover their nipples if they're wearing, like, t-shirts."
+  },
+  {
+   "start": 175.92,
+   "end": 182.46,
+   "text": "There's this video with Kelly Rowland, where she's in, uh, on a horse in a fishnet with"
+  },
+  {
+   "start": 182.46,
+   "end": 184.78,
+   "text": "Her tits, and you can see her nipples, and that's, like, on YouTube."
+  },
+  {
+   "start": 185.06,
+   "end": 186.82,
+   "text": "So, that's pretty hardcore."
+  },
+  {
+   "start": 188.38,
+   "end": 191.6,
+   "text": "Um, I'm 50, so I need all the help I can get."
+  },
+  {
+   "start": 191.6,
+   "end": 194.3,
+   "text": "Yeah, these bitches need to keep up and keep getting sexier."
+  },
+  {
+   "start": 195.72,
+   "end": 206.72,
+   "text": "Anyway, um, um, shit, that's gonna just distract me if they keep jiggling it like that."
+  },
+  {
+   "start": 207.84,
+   "end": 209.54,
+   "text": "So, yeah, I'm watching all these videos."
+  },
+  {
+   "start": 209.62,
+   "end": 210.26,
+   "text": "Like, there's one."
+  },
+  {
+   "start": 210.6,
+   "end": 211.26,
+   "text": "What's that?"
+  },
+  {
+   "start": 212.08,
+   "end": 213.88,
+   "text": "There's some girl, like, dancing in front of the fire."
+  },
+  {
+   "start": 214.0,
+   "end": 214.82,
+   "text": "Megan DeStallion?"
+  },
+  {
+   "start": 214.96,
+   "end": 216.12,
+   "text": "Oh, man, I'm gonna play that video."
+  },
+  {
+   "start": 216.44,
+   "end": 217.28,
+   "text": "At least get it started."
+  },
+  {
+   "start": 217.28,
+   "end": 222.26,
+   "text": "Because, and also, YouTube, see, look at, look how it starts, dude."
+  },
+  {
+   "start": 224.59,
+   "end": 225.57,
+   "text": "That's how it starts."
+  },
+  {
+   "start": 226.23,
+   "end": 226.47,
+   "text": "Anyway."
+  },
+  {
+   "start": 227.75,
+   "end": 232.65,
+   "text": "So, um, yeah, I wanna get ahead and, like, get caught up and watch all the music videos."
+  },
+  {
+   "start": 232.95,
+   "end": 236.61,
+   "text": "And so, this is a great way, because I can watch the music video, and then I look down,"
+  },
+  {
+   "start": 236.67,
+   "end": 239.75,
+   "text": "And I just make sure that it keeps scrolling, keeps working."
+  },
+  {
+   "start": 239.75,
+   "end": 243.81,
+   "text": "Because it takes, like, a couple minutes or whatever if they're big, and most of them"
+  },
+  {
+   "start": 243.81,
+   "end": 244.01,
+   "text": "Are."
+  },
+  {
+   "start": 244.73,
+   "end": 245.41,
+   "text": "A lot of them are."
+  },
+  {
+   "start": 246.09,
+   "end": 247.97,
+   "text": "And the little ones take a while, too, you know."
+  },
+  {
+   "start": 248.03,
+   "end": 250.77,
+   "text": "So, I do get to watch and do that, and that's doing something, getting it fast."
+  },
+  {
+   "start": 250.83,
+   "end": 257.07,
+   "text": "So, anyway, I was thinking maybe by the day, it'll write it fast and, um, be done, and then"
+  },
+  {
+   "start": 257.07,
+   "end": 262.19,
+   "text": "I'll be at the spot where I then would piece it together and maybe do, like, a book a day"
+  },
+  {
+   "start": 262.19,
+   "end": 268.33,
+   "text": "Or something, and maybe after I put a book up, I, uh, would be able to go to the gym,"
+  },
+  {
+   "start": 268.41,
+   "end": 269.97,
+   "text": "You know, like an hour a day or whatever."
+  },
+  {
+   "start": 270.19,
+   "end": 280.45,
+   "text": "Um, the way that I would work out in the gym is, um, I would, uh, do it not by how much"
+  },
+  {
+   "start": 280.45,
+   "end": 287.21,
+   "text": "Time I'm in there, or, like, muscle groups, three sets of this or the that, um, it's just"
+  },
+  {
+   "start": 287.21,
+   "end": 291.15,
+   "text": "A matter, it's kind of like Conan the Barbarian pushing around the."
+  },
+  {
+   "start": 292.19,
+   "end": 296.31,
+   "text": "Um, the twisty thing to do the grinding of the grain or whatever they were doing."
+  },
+  {
+   "start": 296.59,
+   "end": 303.79,
+   "text": "Um, in fact, if you Google it, if you YouTube it, or Google YouTube, if you Wikipedia, um,"
+  },
+  {
+   "start": 304.51,
+   "end": 308.53,
+   "text": "Yeah, somebody did a calculation of, like, the equivalent of how many, how many feet climbed"
+  },
+  {
+   "start": 308.53,
+   "end": 310.09,
+   "text": "In a day people would do on those things."
+  },
+  {
+   "start": 310.61,
+   "end": 315.79,
+   "text": "It's like 15,000 feet or something like that, but, um, but anyway, it's kind of like that."
+  },
+  {
+   "start": 315.85,
+   "end": 319.27,
+   "text": "It's, or riding a bike, how many miles, you know, so I go to the gym, it's, so it's how"
+  },
+  {
+   "start": 319.27,
+   "end": 322.03,
+   "text": "Many feet, I mean, how many pounds I lift."
+  },
+  {
+   "start": 322.19,
+   "end": 322.33,
+   "text": "Right."
+  },
+  {
+   "start": 322.85,
+   "end": 328.87,
+   "text": "So if I go in there and I do the, like, um, arm fly three sets of 10 at a hundred pounds,"
+  },
+  {
+   "start": 328.87,
+   "end": 331.39,
+   "text": "That is then 30 sets."
+  },
+  {
+   "start": 331.47,
+   "end": 333.75,
+   "text": "I mean, 30 reps at a hundred pounds."
+  },
+  {
+   "start": 333.75,
+   "end": 338.41,
+   "text": "So that's 100 times 30, which is, uh, 1,000, right?"
+  },
+  {
+   "start": 338.59,
+   "end": 341.99,
+   "text": "I mean, 100 times 30, that's, uh, 300."
+  },
+  {
+   "start": 342.81,
+   "end": 343.81,
+   "text": "No, that's 10."
+  },
+  {
+   "start": 344.57,
+   "end": 345.89,
+   "text": "That's 3,000, right?"
+  },
+  {
+   "start": 345.89,
+   "end": 347.45,
+   "text": "That's 3,000 pounds right there."
+  },
+  {
+   "start": 348.45,
+   "end": 354.65,
+   "text": "And so I guess, like, I think the last time I went in there and the most I've ever done"
+  },
+  {
+   "start": 354.65,
+   "end": 359.89,
+   "text": "Was like 78,000 or 88,000 off the couch, just like me being out of shape a couple of years"
+  },
+  {
+   "start": 359.89,
+   "end": 360.37,
+   "text": "Ago or whatever."
+  },
+  {
+   "start": 360.37,
+   "end": 362.69,
+   "text": "And it was like three, two hours or something, two and a half hours."
+  },
+  {
+   "start": 362.69,
+   "end": 368.09,
+   "text": "So I think a realistic, um, would be like maybe a hundred thousand a day, which would"
+  },
+  {
+   "start": 368.09,
+   "end": 371.87,
+   "text": "Take me like, and then you try to just see if you can do it in less and less amount of"
+  },
+  {
+   "start": 371.87,
+   "end": 372.09,
+   "text": "Time."
+  },
+  {
+   "start": 372.13,
+   "end": 375.13,
+   "text": "You know, like see if you can ride the certain, ride the marathon and run the marathon in"
+  },
+  {
+   "start": 375.13,
+   "end": 375.69,
+   "text": "Less and less time."
+  },
+  {
+   "start": 375.69,
+   "end": 380.03,
+   "text": "So maybe I could get in there and in two hours do a hundred thousand."
+  },
+  {
+   "start": 380.91,
+   "end": 387.05,
+   "text": "Um, so that kind of keeps my toes, that kind of keeps me on my toes, keeps me working hard,"
+  },
+  {
+   "start": 387.21,
+   "end": 389.39,
+   "text": "Not wasting time in general."
+  },
+  {
+   "start": 389.39,
+   "end": 395.25,
+   "text": "And also focus on, um, spreading out the muscle groups that way, not because it's this day"
+  },
+  {
+   "start": 395.25,
+   "end": 399.07,
+   "text": "Or that day, but because, Hey, what muscle can I keep this going so I can get to a hundred"
+  },
+  {
+   "start": 399.07,
+   "end": 403.69,
+   "text": "Thousand and, and then of course record it all for YouTube and everything."
+  },
+  {
+   "start": 403.69,
+   "end": 409.31,
+   "text": "Um, and just do that, you know, not film it, just talk about it listed on YouTube."
+  },
+  {
+   "start": 410.75,
+   "end": 413.99,
+   "text": "Um, and, uh, and that's it."
+  },
+  {
+   "start": 414.15,
+   "end": 418.35,
+   "text": "And, and not have any plans and just try to go in there and do that much a day."
+  },
+  {
+   "start": 419.01,
+   "end": 424.25,
+   "text": "And if I can do that and then come in and do a book a day, that'll keep my, um, sense"
+  },
+  {
+   "start": 424.25,
+   "end": 424.81,
+   "text": "Of accomplishment."
+  },
+  {
+   "start": 424.81,
+   "end": 430.39,
+   "text": "Cause the kind of like the way that my mind works with my website is, uh, like my website,"
+  },
+  {
+   "start": 430.39,
+   "end": 437.99,
+   "text": "Like if the goal is to, um, if I'm like the equivalent of doing my website is like I'm"
+  },
+  {
+   "start": 437.99,
+   "end": 444.39,
+   "text": "Riding a boat across the ocean, but my boat is attached to all of these like, um, helium"
+  },
+  {
+   "start": 444.39,
+   "end": 446.23,
+   "text": "Balloons that are trying to pull it away."
+  },
+  {
+   "start": 446.23,
+   "end": 450.99,
+   "text": "And so in order to keep my boat attached to the ocean, I have to constantly get water and"
+  },
+  {
+   "start": 450.99,
+   "end": 454.53,
+   "text": "Pour the water into the, into the boat to keep the boat from flying away."
+  },
+  {
+   "start": 455.73,
+   "end": 467.13,
+   "text": "And, um, and so, um, and so like me, so like if I don't constantly work on the website and"
+  },
+  {
+   "start": 467.13,
+   "end": 469.39,
+   "text": "Then the boat will fly away and I'll blow it flow away."
+  },
+  {
+   "start": 469.39,
+   "end": 471.17,
+   "text": "I'll just get lost with the website."
+  },
+  {
+   "start": 471.85,
+   "end": 477.99,
+   "text": "Um, so I have to, um, uh, man, I lost my analogy, man."
+  },
+  {
+   "start": 478.01,
+   "end": 478.87,
+   "text": "I brain farted myself."
+  },
+  {
+   "start": 478.97,
+   "end": 479.77,
+   "text": "Let me give another one."
+  },
+  {
+   "start": 479.79,
+   "end": 485.31,
+   "text": "Cause I went to completely, so I'm like, um, Ooh, the brain fart."
+  },
+  {
+   "start": 486.23,
+   "end": 490.95,
+   "text": "Anyway, I'm just, uh, um, I have to keep moving forward with it, um, because it's so big."
+  },
+  {
+   "start": 491.17,
+   "end": 493.99,
+   "text": "I can barely finish it even if I'm doing it all day long."
+  },
+  {
+   "start": 493.99,
+   "end": 494.27,
+   "text": "Right."
+  },
+  {
+   "start": 495.05,
+   "end": 497.85,
+   "text": "So if I'm taking an hour a day, uh, plus I help my mom all the time."
+  },
+  {
+   "start": 497.85,
+   "end": 498.83,
+   "text": "Like, did you hear that beep?"
+  },
+  {
+   "start": 499.39,
+   "end": 503.05,
+   "text": "That was my mom telling me to call her cause she's going to want me to go to her house"
+  },
+  {
+   "start": 503.05,
+   "end": 503.91,
+   "text": "And do a bunch of stuff."
+  },
+  {
+   "start": 504.39,
+   "end": 504.99,
+   "text": "You know what I mean?"
+  },
+  {
+   "start": 504.99,
+   "end": 507.45,
+   "text": "Like I'm her assistant basically hang out all day long."
+  },
+  {
+   "start": 507.45,
+   "end": 514.29,
+   "text": "And so for me to then come have to work out, it's like, okay, well, like I have way too"
+  },
+  {
+   "start": 514.29,
+   "end": 515.11,
+   "text": "Many things to do."
+  },
+  {
+   "start": 515.11,
+   "end": 522.05,
+   "text": "So, um, um, anyway, no, but I'm making good progress cause this, this, the chat GTP is"
+  },
+  {
+   "start": 522.05,
+   "end": 527.05,
+   "text": "So fast, you know, and then I run out of chat GTP four and it's even smart enough to do"
+  },
+  {
+   "start": 527.05,
+   "end": 530.71,
+   "text": "It with chat GTP four mini as long for the smaller ones or whatever."
+  },
+  {
+   "start": 530.71,
+   "end": 535.81,
+   "text": "So yeah, there's no point where I have to quit last night."
+  },
+  {
+   "start": 536.15,
+   "end": 538.29,
+   "text": "It did stop working and I was like, okay."
+  },
+  {
+   "start": 538.29,
+   "end": 539.71,
+   "text": "And then that's when I did go to sleep."
+  },
+  {
+   "start": 539.73,
+   "end": 541.59,
+   "text": "That's why I went to sleep cause it stopped working."
+  },
+  {
+   "start": 541.59,
+   "end": 547.05,
+   "text": "But every time that happens, I set the alarm, it was like an hour and 20 minutes or whatever"
+  },
+  {
+   "start": 547.05,
+   "end": 548.59,
+   "text": "For when it would start working again."
+  },
+  {
+   "start": 549.39,
+   "end": 551.91,
+   "text": "And it went off this morning and I was like, I was sleeping."
+  },
+  {
+   "start": 552.05,
+   "end": 553.13,
+   "text": "It went off and I was like, yeah, no."
+  },
+  {
+   "start": 554.67,
+   "end": 555.23,
+   "text": "So yeah."
+  },
+  {
+   "start": 555.35,
+   "end": 556.65,
+   "text": "Um, anyway, so that's my mom."
+  },
+  {
+   "start": 556.69,
+   "end": 559.35,
+   "text": "I'm going to go and, um, call her back."
+  },
+  {
+   "start": 559.45,
+   "end": 565.17,
+   "text": "Uh, yeah, once I get all these books, it's going to be, I'm super jazzed to listen to it,"
+  },
+  {
+   "start": 565.17,
+   "end": 569.07,
+   "text": "But it's going to be the first situation ever having that up there, a great use of it."
+  },
+  {
+   "start": 569.07,
+   "end": 584.43,
+   "text": "But then it'll finally, uh, get me liberated to be able to build, um, to, um, um, uh, the"
+  },
+  {
+   "start": 584.43,
+   "end": 585.57,
+   "text": "U S law code."
+  },
+  {
+   "start": 585.67,
+   "end": 590.07,
+   "text": "I really want to get the U S law code up by like the end of the year, like the whole thing,"
+  },
+  {
+   "start": 590.07,
+   "end": 593.41,
+   "text": "Uh, because, uh, I want to listen to it."
+  },
+  {
+   "start": 594.23,
+   "end": 595.17,
+   "text": "I want to hear it."
+  },
+  {
+   "start": 595.81,
+   "end": 600.83,
+   "text": "And also for the sense of accomplishment, it might allow me to, I don't know, get, get"
+  },
+  {
+   "start": 600.83,
+   "end": 605.83,
+   "text": "There in the gym and a half hour or I do a hundred thousand years a day so that I could"
+  },
+  {
+   "start": 605.83,
+   "end": 611.49,
+   "text": "Then, um, continue on for another two years and finish, tie up the loose ends on all the"
+  },
+  {
+   "start": 611.49,
+   "end": 612.43,
+   "text": "Other stuff that I do."
+  },
+  {
+   "start": 614.43,
+   "end": 619.49,
+   "text": "Um, so I could try to be an athlete, uh, while I still can't."
+  },
+  {
+   "start": 620.07,
+   "end": 624.85,
+   "text": "And, you know, um, I would, if I got there, I would go full force with it until through"
+  },
+  {
+   "start": 624.85,
+   "end": 625.45,
+   "text": "My fifties."
+  },
+  {
+   "start": 625.51,
+   "end": 630.07,
+   "text": "Cause I would view myself just psychologically in my fifties as being young."
+  },
+  {
+   "start": 630.45,
+   "end": 637.49,
+   "text": "So, but I wouldn't want to hang out with anybody because people's ideas would bother"
+  },
+  {
+   "start": 637.49,
+   "end": 638.73,
+   "text": "Me and get under my skin."
+  },
+  {
+   "start": 638.81,
+   "end": 647.91,
+   "text": "So I'd stick to my, I'd steer clear of people unless they were like, uh, unless it was like"
+  },
+  {
+   "start": 647.91,
+   "end": 649.33,
+   "text": "A, like a training partner."
+  },
+  {
+   "start": 649.33,
+   "end": 666.53,
+   "text": "Anyways, um, um, I'm like, this chat TTP is like saving my ass."
+  },
+  {
+   "start": 666.67,
+   "end": 667.99,
+   "text": "It's like making it possible."
+  },
+  {
+   "start": 668.23,
+   "end": 673.23,
+   "text": "I was basically on like a ballistic suicide mission doing stuff that was impossible to"
+  },
+  {
+   "start": 673.23,
+   "end": 678.61,
+   "text": "Do and think, and it was no, no, but also like thinking the whole thing I'm doing now"
+  },
+  {
+   "start": 678.61,
+   "end": 682.75,
+   "text": "With the menus, I was thinking that I was going to do that, but I, but I never thought"
+  },
+  {
+   "start": 682.75,
+   "end": 689.67,
+   "text": "How I just, I just believed that I was going to do it."
+  },
+  {
+   "start": 689.67,
+   "end": 693.75,
+   "text": "And to the point that I even believe that it was already done at some points, but I didn't"
+  },
+  {
+   "start": 693.75,
+   "end": 696.27,
+   "text": "Even think how, because it was impossible to do it the other way."
+  },
+  {
+   "start": 696.27,
+   "end": 702.79,
+   "text": "So I think in the back of my head, I knew that AI was going to be able to do it."
+  },
+  {
+   "start": 703.75,
+   "end": 704.71,
+   "text": "Maybe I heard them."
+  },
+  {
+   "start": 704.81,
+   "end": 704.97,
+   "text": "Yeah."
+  },
+  {
+   "start": 705.05,
+   "end": 709.11,
+   "text": "Anyway, um, we've got enough talking."
+  },
+  {
+   "start": 709.19,
+   "end": 711.65,
+   "text": "I'm glad I didn't waste, waste any time or that much time."
+  },
+  {
+   "start": 711.71,
+   "end": 714.09,
+   "text": "It was only like a day with living, trying to do it myself."
+  },
+  {
+   "start": 714.47,
+   "end": 715.67,
+   "text": "Anyways, I'm going to call my mom back."
+  },
+  {
+   "start": 715.81,
+   "end": 716.35,
+   "text": "Talk to you tomorrow."
+  },
+  {
+   "start": 716.41,
+   "end": 718.89,
+   "text": "Whenever I upload these, um, I'll upload them."
+  },
+  {
+   "start": 718.99,
+   "end": 722.25,
+   "text": "I think when I'm done with this and maybe I get the first book up and I kind of get up"
+  },
+  {
+   "start": 722.25,
+   "end": 724.05,
+   "text": "And running with it and maybe go to the gym."
+  },
+  {
+   "start": 724.11,
+   "end": 729.89,
+   "text": "That's when I'll definitely upload these, all my videos and, uh, yeah, keep up with the"
+  },
+  {
+   "start": 729.89,
+   "end": 734.93,
+   "text": "Daily V logs, even though I didn't upload for like a month or two because of old fashioned,"
+  },
+  {
+   "start": 734.93,
+   "end": 737.57,
+   "text": "Like laziness, you know, I'm, I got overwhelmed with this."
+  },
+  {
+   "start": 737.89,
+   "end": 743.55,
+   "text": "So anyways, talk to you late tomorrow, later, talk to you tomorrow, upload later."
+  }
+ ]
+}

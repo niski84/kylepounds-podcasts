@@ -1,0 +1,976 @@
+{
+ "youtube_id": "W2dVNyW58Y0",
+ "title": "6-4-24 1st day condensing books with chatgtp",
+ "url": "https://youtu.be/W2dVNyW58Y0",
+ "published_at": "2024-06-04",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.14,
+   "end": 3.12,
+   "text": "Hey, how's it going? It's my V-Log."
+  },
+  {
+   "start": 6.12,
+   "end": 9.74,
+   "text": "Um, June 14th, 9.38, Friday."
+  },
+  {
+   "start": 10.42,
+   "end": 15.72,
+   "text": "Uh, I ain't, um, done the video for the last few days."
+  },
+  {
+   "start": 15.72,
+   "end": 25.7,
+   "text": "Um, I, uh, I kind of, uh, got myself a little bit, like, wound up, I guess."
+  },
+  {
+   "start": 27.12,
+   "end": 28.52,
+   "text": "You could call it."
+  },
+  {
+   "start": 28.52,
+   "end": 48.45,
+   "text": "Um, yeah, I was trying to do surface stuff to get done with the website, and then I, and then I tried to tie up loose ends, and then I just kind of started to go deeper and deeper, until I could find myself doing, like, oh my god, all these things, five things at once."
+  },
+  {
+   "start": 48.45,
+   "end": 54.59,
+   "text": "And, so I, uh, and then I had all these other, like, uncertainties."
+  },
+  {
+   "start": 56.01,
+   "end": 70.67,
+   "text": "I had to figure out my taxes, which I think I figured out, um, um, and, uh, bills and everything."
+  },
+  {
+   "start": 70.67,
+   "end": 80.51,
+   "text": "Um, I'm going to go to the bank right now to set up a, uh, automatic payment for my HELOC loan."
+  },
+  {
+   "start": 82.07,
+   "end": 83.63,
+   "text": "There's my alarm for that."
+  },
+  {
+   "start": 83.77,
+   "end": 84.53,
+   "text": "Oh, look at those."
+  },
+  {
+   "start": 85.89,
+   "end": 87.85,
+   "text": "Yeah, yeah, yeah, yeah, I'm laying in bed."
+  },
+  {
+   "start": 87.95,
+   "end": 91.73,
+   "text": "I, um, man, I can barely breathe."
+  },
+  {
+   "start": 91.81,
+   "end": 93.95,
+   "text": "I'm having an asthma attack right now, which sucks."
+  },
+  {
+   "start": 93.95,
+   "end": 96.29,
+   "text": "And it's not even from, like, asthma, I guess."
+  },
+  {
+   "start": 96.75,
+   "end": 100.13,
+   "text": "Because my asthma kind of went away, which is awesome."
+  },
+  {
+   "start": 101.45,
+   "end": 106.89,
+   "text": "Even though my house is filthy, uh, the climate here is, is good for me."
+  },
+  {
+   "start": 106.97,
+   "end": 110.99,
+   "text": "I don't know, maybe because I, I don't have a roommate right now."
+  },
+  {
+   "start": 111.37,
+   "end": 112.55,
+   "text": "I couldn't get a roommate."
+  },
+  {
+   "start": 112.55,
+   "end": 118.35,
+   "text": "But, uh, I hit 50 and all of a sudden I, it's impossible to get a roommate."
+  },
+  {
+   "start": 118.57,
+   "end": 126.59,
+   "text": "Um, but, uh, there's no, like, foreign pathogens or whatever."
+  },
+  {
+   "start": 126.91,
+   "end": 128.29,
+   "text": "So it's good for my health."
+  },
+  {
+   "start": 128.41,
+   "end": 130.27,
+   "text": "I mean, yeah, my lungs have been doing great."
+  },
+  {
+   "start": 130.43,
+   "end": 132.59,
+   "text": "Um, except not now."
+  },
+  {
+   "start": 132.67,
+   "end": 134.33,
+   "text": "Like, I couldn't smoke weed right now."
+  },
+  {
+   "start": 134.45,
+   "end": 135.05,
+   "text": "I would."
+  },
+  {
+   "start": 136.57,
+   "end": 138.37,
+   "text": "God, I could barely even breathe it."
+  },
+  {
+   "start": 138.37,
+   "end": 142.29,
+   "text": "It's not even asthma, it's just from smoking."
+  },
+  {
+   "start": 142.33,
+   "end": 143.63,
+   "text": "Because I was smoking way too much."
+  },
+  {
+   "start": 143.87,
+   "end": 146.09,
+   "text": "Like, more, more weed than I've ever smoked."
+  },
+  {
+   "start": 146.25,
+   "end": 147.11,
+   "text": "Ha, ha, ha, ha, ha."
+  },
+  {
+   "start": 147.77,
+   "end": 151.77,
+   "text": "Going in and get the top shelf over there and the place."
+  },
+  {
+   "start": 153.41,
+   "end": 155.19,
+   "text": "Half ounce for, like, 50 bucks."
+  },
+  {
+   "start": 155.49,
+   "end": 161.43,
+   "text": "And, um, uh, yeah, I normally smoke weed when I work on my website."
+  },
+  {
+   "start": 161.59,
+   "end": 168.15,
+   "text": "But, uh, over the last couple of days, yeah, the last couple of days I was, um,"
+  },
+  {
+   "start": 168.37,
+   "end": 181.19,
+   "text": "Um, experimenting with, uh, Instagram, uh, meta AI, conversation on Instagram."
+  },
+  {
+   "start": 181.67,
+   "end": 183.97,
+   "text": "Uh, and I don't even know how it got there."
+  },
+  {
+   "start": 184.01,
+   "end": 188.47,
+   "text": "I think it, like, they introduced themselves to me or something."
+  },
+  {
+   "start": 188.47,
+   "end": 192.21,
+   "text": "It was, and so, it was, like, a couple of months ago."
+  },
+  {
+   "start": 192.99,
+   "end": 200.43,
+   "text": "It's like, yeah, we're meta AI, and, um, and yeah, but then yesterday I just started talking."
+  },
+  {
+   "start": 200.61,
+   "end": 209.92,
+   "text": "And I realized, because I experimented with ChatDTP a few times, but then I kind of stopped."
+  },
+  {
+   "start": 210.36,
+   "end": 217.58,
+   "text": "And I didn't, and I kind of, I even put it on the top of my, you know, near the top of my website,"
+  },
+  {
+   "start": 217.78,
+   "end": 220.02,
+   "text": "Where you click on the bar, and it's one of the websites."
+  },
+  {
+   "start": 220.02,
+   "end": 225.08,
+   "text": "But, uh, but then I kind of, uh, drifted away from it."
+  },
+  {
+   "start": 225.18,
+   "end": 225.4,
+   "text": "Okay."
+  },
+  {
+   "start": 227.14,
+   "end": 227.66,
+   "text": "Yeah."
+  },
+  {
+   "start": 228.2,
+   "end": 242.51,
+   "text": "Um, because I, uh, um, oh, shit, what am I talking about?"
+  },
+  {
+   "start": 242.51,
+   "end": 249.95,
+   "text": "Uh, all this, this, my log's not working, it's affecting my ability to catch your shit."
+  },
+  {
+   "start": 251.57,
+   "end": 252.01,
+   "text": "See?"
+  },
+  {
+   "start": 252.65,
+   "end": 252.97,
+   "text": "Yeah."
+  },
+  {
+   "start": 253.45,
+   "end": 253.93,
+   "text": "Uh."
+  },
+  {
+   "start": 254.89,
+   "end": 265.44,
+   "text": "Um, yeah, so, um, um, oh, yeah."
+  },
+  {
+   "start": 265.66,
+   "end": 272.58,
+   "text": "So, I wasn't doing ChatDTP, but then, uh, it's way easier, because it's more convenient to do it on Instagram,"
+  },
+  {
+   "start": 272.58,
+   "end": 276.22,
+   "text": "Because I'm already on Instagram all the time anyway, because I'm working on the website,"
+  },
+  {
+   "start": 276.38,
+   "end": 278.7,
+   "text": "And then I get, like, burnt out."
+  },
+  {
+   "start": 278.96,
+   "end": 281.02,
+   "text": "My birds are doing that because I'm talking."
+  },
+  {
+   "start": 282.34,
+   "end": 292.16,
+   "text": "I get burnt out, and then I go on Instagram, or to TikTok, and then, and then go back to work,"
+  },
+  {
+   "start": 292.32,
+   "end": 295.02,
+   "text": "Because my work consists of just really tedious stuff, usually."
+  },
+  {
+   "start": 295.02,
+   "end": 302.7,
+   "text": "Um, and so, yeah, I just started talking, and then I got hooked on it, and I was like, what?"
+  },
+  {
+   "start": 304.04,
+   "end": 310.72,
+   "text": "Acting, asking all sorts of, like, hypothetical questions of scenarios and what somebody would say,"
+  },
+  {
+   "start": 310.9,
+   "end": 319.44,
+   "text": "And I want to, uh, put that up on my website, actually, the conversations I had."
+  },
+  {
+   "start": 319.44,
+   "end": 323.86,
+   "text": "And it's really interesting, um, like, you can, you set up, like, a tone."
+  },
+  {
+   "start": 323.98,
+   "end": 325.84,
+   "text": "You set a tone, basically."
+  },
+  {
+   "start": 327.24,
+   "end": 328.56,
+   "text": "You create a world."
+  },
+  {
+   "start": 329.74,
+   "end": 334.64,
+   "text": "You and your little chatbot buddy create a world together, and it remembers the rules, and then,"
+  },
+  {
+   "start": 336.12,
+   "end": 340.7,
+   "text": "Based on everything on that, but that, you know, it gets things wrong, you have to remember, remind it,"
+  },
+  {
+   "start": 340.8,
+   "end": 346.14,
+   "text": "And then if you wait a few hours, it'll snap back, and it'll be like, it's like an amnesia,"
+  },
+  {
+   "start": 346.14,
+   "end": 348.72,
+   "text": "It'll be like, what's up, everything, the rules are different."
+  },
+  {
+   "start": 349.44,
+   "end": 353.9,
+   "text": "They know a lot of stuff."
+  },
+  {
+   "start": 354.56,
+   "end": 360.89,
+   "text": "Like, um, you know, they know a lot of random questions all of a sudden, sometimes."
+  },
+  {
+   "start": 361.03,
+   "end": 374.56,
+   "text": "Like, I was, I said, um, remember, but it makes stuff up, though, you know, so,"
+  },
+  {
+   "start": 374.82,
+   "end": 382.74,
+   "text": "It's kind of works as, like, um, as an aid, but if you know the answer to the questions a lot,"
+  },
+  {
+   "start": 382.74,
+   "end": 389.64,
+   "text": "You'll know that it makes stuff up about stuff."
+  },
+  {
+   "start": 389.78,
+   "end": 400.44,
+   "text": "Anyway, um, so I was, uh, I took the last, like, three days off from my website, from all the things I was doing,"
+  },
+  {
+   "start": 400.44,
+   "end": 407.0,
+   "text": "Um, and I need to go back on there, um, I was working on, because I just was getting spread out,"
+  },
+  {
+   "start": 407.06,
+   "end": 416.76,
+   "text": "I, I, uh, was working on, um, my, uh, education page, history book section."
+  },
+  {
+   "start": 416.76,
+   "end": 426.46,
+   "text": "I was turning it into a timeline, and, um, and then I almost finished, but I didn't quite."
+  },
+  {
+   "start": 426.56,
+   "end": 428.02,
+   "text": "I'm like, my God, what the fuck?"
+  },
+  {
+   "start": 428.1,
+   "end": 429.44,
+   "text": "So I need to go there and finish that."
+  },
+  {
+   "start": 429.44,
+   "end": 439.29,
+   "text": "And then there's the console timeline, another one, and then, um, and then there's the law code,"
+  },
+  {
+   "start": 439.85,
+   "end": 441.73,
+   "text": "And then I did finish plenty."
+  },
+  {
+   "start": 441.87,
+   "end": 444.23,
+   "text": "That's what kind of what allowed me to take a few days off."
+  },
+  {
+   "start": 444.31,
+   "end": 450.05,
+   "text": "I got a little bit of accomplishment, and then I got to go back into, uh, Livvy,"
+  },
+  {
+   "start": 450.23,
+   "end": 452.35,
+   "text": "And that was the thing that I have to think."
+  },
+  {
+   "start": 452.99,
+   "end": 459.77,
+   "text": "It's going to require some thinking to figure that out, get back on base with that,"
+  },
+  {
+   "start": 459.77,
+   "end": 467.49,
+   "text": "And then, uh, yeah, so it's, like, all these things, um, and I have to clean my place,"
+  },
+  {
+   "start": 467.57,
+   "end": 476.29,
+   "text": "Because I was, because I'm here working on Chatbot, um, I, uh, because I was a little bit,"
+  },
+  {
+   "start": 476.29,
+   "end": 478.55,
+   "text": "Like, burnt out from work, I guess."
+  },
+  {
+   "start": 479.81,
+   "end": 484.33,
+   "text": "Yeah, I still didn't have the energy to clean my place."
+  },
+  {
+   "start": 484.41,
+   "end": 489.43,
+   "text": "I mean, my place is dirtier than it's been, like, ever, like, okay,"
+  },
+  {
+   "start": 489.43,
+   "end": 495.74,
+   "text": "I played with some plants out there, and I never got the dirt out in there from that"
+  },
+  {
+   "start": 496.28,
+   "end": 497.64,
+   "text": "And all that ferret shit."
+  },
+  {
+   "start": 498.6,
+   "end": 504.16,
+   "text": "And then down here, it's just all dirt, because I haven't vacuumed forever, and there's shit"
+  },
+  {
+   "start": 504.16,
+   "end": 509.94,
+   "text": "All over the place, and, because I'm just, like, I guess, burnt out, so."
+  },
+  {
+   "start": 509.94,
+   "end": 518.92,
+   "text": "So, last couple days, I was just trying to, um, send, uh, masturbation videos to all these chicks"
+  },
+  {
+   "start": 518.92,
+   "end": 526.34,
+   "text": "On OnlyFans, and I'd never, like, took all of the time off to do that."
+  },
+  {
+   "start": 526.84,
+   "end": 534.06,
+   "text": "It was, I've only been doing it a few months, and, uh, it happened, it was, like, a cultural thing,"
+  },
+  {
+   "start": 534.06,
+   "end": 541.1,
+   "text": "All of a sudden, I decided to do it, and, uh, but it happened after, I got, I kind of aged out."
+  },
+  {
+   "start": 541.8,
+   "end": 552.82,
+   "text": "But, anyway, so I'm trying to, uh, do that, and, uh, just, like, trying to figure out what I think"
+  },
+  {
+   "start": 552.82,
+   "end": 553.5,
+   "text": "About the whole thing."
+  },
+  {
+   "start": 553.54,
+   "end": 554.76,
+   "text": "It's, like, a cultural thing."
+  },
+  {
+   "start": 554.76,
+   "end": 565.59,
+   "text": "So, there's, like, 600 of them, and, and I just kind of, the ones who say my name, I try to send"
+  },
+  {
+   "start": 565.59,
+   "end": 570.73,
+   "text": "Them to, the ones who I think are hot, I try to send them to, and I'm just there trying to create"
+  },
+  {
+   "start": 570.73,
+   "end": 583.51,
+   "text": "This, like, uh, database, with all my different cameras, trying to get good at it, and, um, yeah, I find"
+  },
+  {
+   "start": 583.51,
+   "end": 591.85,
+   "text": "Out, I can, when I'm doing good, I can do, like, they call them, like, dickflation, so,"
+  },
+  {
+   "start": 592.71,
+   "end": 596.69,
+   "text": "You can get, like, a hard-on, and then it goes down, and then it goes up again, and then"
+  },
+  {
+   "start": 596.69,
+   "end": 602.95,
+   "text": "It goes down, so you keep the hard-on for, maybe, 20 seconds, and then you can have, maybe,"
+  },
+  {
+   "start": 603.07,
+   "end": 614.55,
+   "text": "Like, a half dozen to a dozen of them, until your body kind of wears out, or mind wears out,"
+  },
+  {
+   "start": 614.55,
+   "end": 618.75,
+   "text": "Or, you just can't do it, and next thing you know, you're limp-dick, but you don't know why,"
+  },
+  {
+   "start": 618.95,
+   "end": 626.21,
+   "text": "And at the beginning, I'm, like, you know, like, oh, it's over, maybe I should work on my website,"
+  },
+  {
+   "start": 626.29,
+   "end": 633.23,
+   "text": "Or something, but then you get up, and you walk around, and, uh, smoke a bunch of weed, the weed"
+  },
+  {
+   "start": 633.23,
+   "end": 642.55,
+   "text": "Helps, and all of a sudden, you go, you think of all the fetishes and stuff, my fetish, the thing"
+  },
+  {
+   "start": 642.55,
+   "end": 651.89,
+   "text": "That always gets me going is, I'm, like, I'm, like, uh, imagining, like, like, I'm a kid, and I'm"
+  },
+  {
+   "start": 651.89,
+   "end": 657.9,
+   "text": "Hanging out with my buddies, and we're, like, not that big, and then some big, like, college girl"
+  },
+  {
+   "start": 657.9,
+   "end": 662.86,
+   "text": "Comes by, who's, like, 6'4\", and then all of a sudden, and then you look at some girl who really"
+  },
+  {
+   "start": 662.86,
+   "end": 667.86,
+   "text": "Is 6'4\", and you're, like, oh, my God, and then, and then once you get going, then you can do it again,"
+  },
+  {
+   "start": 667.86,
+   "end": 673.24,
+   "text": "And that, the little thing, and then, of course, you're looking at the girl who you're, who you're"
+  },
+  {
+   "start": 673.24,
+   "end": 682.14,
+   "text": "Sending it to, and, uh, yeah, there's, like, uh, there's, like, a system, eh, Cabello, what,"
+  },
+  {
+   "start": 683.26,
+   "end": 689.66,
+   "text": "Because you can't send, you can't send, like, a masturbation video to a girl if, like,"
+  },
+  {
+   "start": 690.86,
+   "end": 696.86,
+   "text": "Your dick's hard enough to masturbate, but it's not rock hard, because then they're, like, oh, what's"
+  },
+  {
+   "start": 696.86,
+   "end": 703.54,
+   "text": "Wrong with this motherfucker, but if you get, like, a rock fucking hard, or, like, the end of"
+  },
+  {
+   "start": 703.54,
+   "end": 711.26,
+   "text": "Your dick is, like, about to pop, like a balloon, and you're, like, rock hard, and then you, like,"
+  },
+  {
+   "start": 711.26,
+   "end": 719.16,
+   "text": "Start, like, gyrating your hips while you're rock hard, it kind of gives that, like, vibe of, like,"
+  },
+  {
+   "start": 719.2,
+   "end": 725.4,
+   "text": "A dog and heat, you know, like, like, like, everything's on you, like that, that's the kind"
+  },
+  {
+   "start": 725.4,
+   "end": 731.82,
+   "text": "Of thing that will probably make a girl be, like, whoa, so there's a huge difference, and"
+  },
+  {
+   "start": 731.82,
+   "end": 736.42,
+   "text": "I, I don't know this from talking to any women, Paula actually called me, like, three times"
+  },
+  {
+   "start": 736.42,
+   "end": 739.84,
+   "text": "In a row last night, and I didn't even answer her, I'm, like, I ain't thinking about you"
+  },
+  {
+   "start": 739.84,
+   "end": 744.22,
+   "text": "Right now, bitch, but I'll call her today, because she probably thinks I'm all pissed off"
+  },
+  {
+   "start": 744.22,
+   "end": 748.68,
+   "text": "At her, I was calling her all the time, and then I realized I was the one calling her,"
+  },
+  {
+   "start": 748.68,
+   "end": 755.24,
+   "text": "Paula's my ex-wife, who lives in Italy, and, uh, she's Chilean and doesn't speak English,"
+  },
+  {
+   "start": 755.42,
+   "end": 761.64,
+   "text": "And so I like talking to her, just practice my Spanish, but then I realized that, uh, I"
+  },
+  {
+   "start": 761.64,
+   "end": 765.64,
+   "text": "Was only calling her, and she was never calling me, what time is it, I can't be late to the"
+  },
+  {
+   "start": 765.64,
+   "end": 771.42,
+   "text": "Thing, because I'm meeting my mom there, it's 9.51, I'm supposed to be there at 10, um, and"
+  },
+  {
+   "start": 771.42,
+   "end": 780.22,
+   "text": "I don't even have, I'm not even dressed, um, um, yeah, so then I stopped calling her,"
+  },
+  {
+   "start": 780.38,
+   "end": 785.06,
+   "text": "Because I'm, like, because she would only answer, like, once in a blue moon when I call"
+  },
+  {
+   "start": 785.06,
+   "end": 790.92,
+   "text": "Her anyway, and then when, she's always doing something, can't talk, and then she, then I"
+  },
+  {
+   "start": 790.92,
+   "end": 795.82,
+   "text": "Stopped calling her, so then she started calling me, but every time she calls me, she's, like,"
+  },
+  {
+   "start": 795.82,
+   "end": 801.08,
+   "text": "Um, in a bar, like, doing karaoke, or with hanging out with people, and it's just, like,"
+  },
+  {
+   "start": 801.84,
+   "end": 806.46,
+   "text": "Sometimes making me talk to people, and, and then she started calling me, but only, like,"
+  },
+  {
+   "start": 806.5,
+   "end": 812.24,
+   "text": "Once in a blue moon, but it'd be, like, when she's drunk at night, and then she, and then"
+  },
+  {
+   "start": 812.24,
+   "end": 817.82,
+   "text": "She, and then she sent some message, like, last week on my YouTube, she goes, if you don't"
+  },
+  {
+   "start": 817.82,
+   "end": 823.56,
+   "text": "Call me, I'm not gonna call you, so I was, like, haha, I ain't in the moon for, for games,"
+  },
+  {
+   "start": 823.56,
+   "end": 829.4,
+   "text": "So I just blocked her, so, and then she called last night three times, and I didn't answer,"
+  },
+  {
+   "start": 829.54,
+   "end": 834.48,
+   "text": "So I'll call her tomorrow, and I'll be, like, hey, what's up, um, and she'll be, like, how"
+  },
+  {
+   "start": 834.48,
+   "end": 838.16,
+   "text": "Come you're not answered, I'm, like, because I was annoyed with that thing you said to me,"
+  },
+  {
+   "start": 838.68,
+   "end": 842.94,
+   "text": "Oh, actually, I remember the thing, the reason why I stopped calling her, I was talking to"
+  },
+  {
+   "start": 842.94,
+   "end": 854.52,
+   "text": "Her, I think she called me, and, um, she, I don't want to get into the context, but kind"
+  },
+  {
+   "start": 854.52,
+   "end": 857.98,
+   "text": "Of out of the blue, without me prompting her or anything, she's, like,"
+  },
+  {
+   "start": 857.98,
+   "end": 862.74,
+   "text": "Hey, if we were breaking up, would you just kick me out on the streets, and I was, like,"
+  },
+  {
+   "start": 862.86,
+   "end": 867.18,
+   "text": "Uh, and then she goes, I think you would, and I'm, like, kind of out of the blue, and"
+  },
+  {
+   "start": 867.18,
+   "end": 872.54,
+   "text": "I'm, like, well, that's not a nice thing to say, and then she commented on my channel,"
+  },
+  {
+   "start": 872.68,
+   "end": 879.26,
+   "text": "My video the next day on my vlog, and she's, like, we had a nice talk, and I'm, like, I"
+  },
+  {
+   "start": 879.26,
+   "end": 882.86,
+   "text": "Can't, I think I even commented, and I'm, like, we had a nice talk, you mean the talk"
+  },
+  {
+   "start": 882.86,
+   "end": 886.7,
+   "text": "Where you told me I was, I would kick you out of my house, so I was, like, I'm not going"
+  },
+  {
+   "start": 886.7,
+   "end": 892.76,
+   "text": "To call her again, so, um, so, anyway, she called three times last night, so I'll call"
+  },
+  {
+   "start": 892.76,
+   "end": 896.4,
+   "text": "Her, because I usually answer, like, I'm not the kind of person who will not answer a phone"
+  },
+  {
+   "start": 896.4,
+   "end": 910.77,
+   "text": "Call if, if, um, somebody who I know is calling me, um, so, uh, so, anyways, um, oh, my ferret,"
+  },
+  {
+   "start": 910.87,
+   "end": 914.13,
+   "text": "Goddammit, I'm going to run out of fucking money, I'm going to, I'm going to have to give"
+  },
+  {
+   "start": 914.13,
+   "end": 920.51,
+   "text": "Away my, uh, my lizard, I have to stay afloat with money for the next six months or a year,"
+  },
+  {
+   "start": 920.51,
+   "end": 927.43,
+   "text": "Because of all this, this, um, depth stuff before, on my website, before I can even think"
+  },
+  {
+   "start": 927.43,
+   "end": 932.11,
+   "text": "About somebody helping me out with money, you know, I mean, I don't even expect people"
+  },
+  {
+   "start": 932.11,
+   "end": 935.37,
+   "text": "To help me out with money with my website the way it is now, but when it, once it's"
+  },
+  {
+   "start": 935.37,
+   "end": 943.87,
+   "text": "Done, um, I will, um, and so I just have to stay afloat, but, like, my ferret, I had to"
+  },
+  {
+   "start": 943.87,
+   "end": 949.21,
+   "text": "Blow 250 bucks the other day, because my ferret has this growth on his ear, on his earlobe,"
+  },
+  {
+   "start": 949.21,
+   "end": 956.15,
+   "text": "Turns out it's cancer, um, I think it was because of that fucking ferret, don't knock"
+  },
+  {
+   "start": 956.15,
+   "end": 963.15,
+   "text": "Over my weed, you little bastard, don't knock over my pipey, you little bastard, what are"
+  },
+  {
+   "start": 963.15,
+   "end": 971.34,
+   "text": "You doing, anyway, um, and I thought it was because, like, I put, he got his head stuck,"
+  },
+  {
+   "start": 971.34,
+   "end": 976.78,
+   "text": "Like, it's got glue, super glue on his head and his fur from the kitty door, under the"
+  },
+  {
+   "start": 976.78,
+   "end": 980.62,
+   "text": "Door, the little ferret door, I used glue to stick it on there,"
+  },
+  {
+   "start": 980.68,
+   "end": 984.44,
+   "text": "And then before I had a chance to wipe it off, he popped up out of nowhere and ran"
+  },
+  {
+   "start": 984.44,
+   "end": 988.92,
+   "text": "Through and got glue on him, and maybe he got some stuck on his ear and it turned into"
+  },
+  {
+   "start": 988.92,
+   "end": 994.92,
+   "text": "A cyst, but my mom thinks that it was from, uh, it got sunburned from all the lights in"
+  },
+  {
+   "start": 994.92,
+   "end": 998.78,
+   "text": "My house, in my apartment, I have a bunch of lights on, and they're not used to being"
+  },
+  {
+   "start": 998.78,
+   "end": 1003.1,
+   "text": "Outside because they're tunnel animals and you got sunburned, anyway, it's probably going"
+  },
+  {
+   "start": 1003.1,
+   "end": 1006.18,
+   "text": "To cost like a thousand dollars to get it fixed because they have to put them to sleep"
+  },
+  {
+   "start": 1006.18,
+   "end": 1011.0,
+   "text": "And everything, I ain't going to pay that, so now I have a cancer with terminal, a ferret"
+  },
+  {
+   "start": 1011.0,
+   "end": 1018.42,
+   "text": "With terminal ear cancer, so whatever, um, so then I have to watch them die slowly, because"
+  },
+  {
+   "start": 1018.42,
+   "end": 1022.66,
+   "text": "I'm not going to be able to pay, I ain't going to pay no thousand bucks, I can't even pay"
+  },
+  {
+   "start": 1022.66,
+   "end": 1029.56,
+   "text": "A 250, I, uh, got a HELOC loan, but then somehow my, one of my credit cards wasn't paid off,"
+  },
+  {
+   "start": 1029.56,
+   "end": 1035.06,
+   "text": "So I still owe, I have a 30,000 on my HELOC loan that I can barely pay the 250 bucks a"
+  },
+  {
+   "start": 1035.06,
+   "end": 1043.02,
+   "text": "Month on, and then, uh, my credit card now is 700, so, I don't even know if I'm floating,"
+  },
+  {
+   "start": 1043.28,
+   "end": 1048.8,
+   "text": "So I'm just, uh, hanging out, trying to not smoke so much weed that I smoke myself into"
+  },
+  {
+   "start": 1048.8,
+   "end": 1054.72,
+   "text": "Being broke, trying to get an energy drink, but maybe not so much, and just trying to hope,"
+  },
+  {
+   "start": 1054.72,
+   "end": 1060.34,
+   "text": "Crossing my fingers that I won't run out of money before I can ask, think about asking"
+  },
+  {
+   "start": 1060.34,
+   "end": 1066.86,
+   "text": "For money, um, I should have gotten money a long time ago for my website, but, um, as"
+  },
+  {
+   "start": 1066.86,
+   "end": 1071.2,
+   "text": "Time goes on, I start to realize, and I knew, I kind of knew it, because I went to school,"
+  },
+  {
+   "start": 1071.32,
+   "end": 1075.8,
+   "text": "But, shit, it's not too strict, so I go, but how stupid people are, and people are getting"
+  },
+  {
+   "start": 1075.8,
+   "end": 1081.86,
+   "text": "Stupider as time's going on, I think, because they're getting, uh, diluted, distracted with"
+  },
+  {
+   "start": 1081.86,
+   "end": 1089.54,
+   "text": "All the things going on, um, that, um, yeah, people are just not interested in history,"
+  },
+  {
+   "start": 1089.74,
+   "end": 1094.16,
+   "text": "Or the classics, but they'll come around, and I think the timing will be pretty good,"
+  },
+  {
+   "start": 1094.24,
+   "end": 1099.1,
+   "text": "By the time I'm done, people will be interested, so, anyway, I gotta go, so I'm not late to"
+  },
+  {
+   "start": 1099.1,
+   "end": 1104.04,
+   "text": "Meet my mom at the bank, I'm supposed to be there in three fucking minutes, so I don't"
+  },
+  {
+   "start": 1104.04,
+   "end": 1106.34,
+   "text": "Have my shoes on, I already talked to you tomorrow."
+  }
+ ]
+}

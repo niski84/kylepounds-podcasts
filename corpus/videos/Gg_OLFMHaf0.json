@@ -1,0 +1,996 @@
+{
+ "youtube_id": "Gg_OLFMHaf0",
+ "title": "7-10-24 Condensing books with chatgtp day 36",
+ "url": "https://youtu.be/Gg_OLFMHaf0",
+ "published_at": "2024-07-10",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.0,
+   "end": 6.66,
+   "text": "Here's my vlog it's like a month since I've been too lazy to upload my daily vlog but um I didn't"
+  },
+  {
+   "start": 6.66,
+   "end": 12.06,
+   "text": "Skip that many days I'm still recording my daily vlogs I think I didn't take my shower last night"
+  },
+  {
+   "start": 12.06,
+   "end": 18.72,
+   "text": "I got tired and I was thinking to myself yeah I didn't have a shower but like when I do the test"
+  },
+  {
+   "start": 18.72,
+   "end": 23.52,
+   "text": "Where you do your arm against your skin even now when I do the test there's like pure silky"
+  },
+  {
+   "start": 23.52,
+   "end": 28.7,
+   "text": "Smoothness like it's like the soap layer or whatever I don't know cleanliness is still there"
+  },
+  {
+   "start": 28.7,
+   "end": 35.1,
+   "text": "So it's like even when I do my arm like that don't really smell it's not really I am kind of"
+  },
+  {
+   "start": 35.1,
+   "end": 42.34,
+   "text": "Wet and it's not really sticky and so it's like yeah even at this point the only really thing that"
+  },
+  {
+   "start": 42.34,
+   "end": 46.88,
+   "text": "I can feel I got a little bit of fur on my face because I didn't shave because I shave when I"
+  },
+  {
+   "start": 46.88,
+   "end": 52.88,
+   "text": "Shower and my hair so it's like huh that's cool maybe it's a sign of good health I don't know and"
+  },
+  {
+   "start": 52.88,
+   "end": 56.74,
+   "text": "I just flexed in the mirror and I had some like muscle tone so that's cool because I don't exercise"
+  },
+  {
+   "start": 56.74,
+   "end": 62.06,
+   "text": "But I feel like uh my muscles are melting away so much that I can barely even move my arm like the"
+  },
+  {
+   "start": 62.06,
+   "end": 68.26,
+   "text": "Um the uh coordination goes off but I'm doing pretty good right now um yeah hopefully I won't"
+  },
+  {
+   "start": 68.26,
+   "end": 73.4,
+   "text": "Have to start going to gym pretty soon but um yeah I go to the store like two times a day"
+  },
+  {
+   "start": 73.4,
+   "end": 84.76,
+   "text": "Um and I try to walk with good form anyways it's 553 in the morning on um"
+  },
+  {
+   "start": 84.76,
+   "end": 92.52,
+   "text": "What day is it oh it says it's the 10th yeah it's wednesday july 10th 554 in the morning see look"
+  },
+  {
+   "start": 92.52,
+   "end": 107.98,
+   "text": "That's what it looks like outside documenting okay that's what it looks like 10th so hey look"
+  },
+  {
+   "start": 107.98,
+   "end": 120.81,
+   "text": "Birds are up check it oh that's blue and yellow they like to say as soon as I start talking they're"
+  },
+  {
+   "start": 120.81,
+   "end": 127.63,
+   "text": "Gonna fucking start making noise hey bitch what the fuck you looking at fucking watch yourself bitch"
+  },
+  {
+   "start": 127.63,
+   "end": 135.57,
+   "text": "I'm hard I'm a gangster I'm a fucking gangbanger dude gangster gangster yeah I'm like my brain hasn't"
+  },
+  {
+   "start": 135.57,
+   "end": 146.88,
+   "text": "Been working that well I'm trying to finish das kapital how much more how much longer to go 23 minutes"
+  },
+  {
+   "start": 146.88,
+   "end": 155.7,
+   "text": "12 minutes 12 minutes huh I'm almost done oh wow oh cool yeah because when I'm done with the book I'm"
+  },
+  {
+   "start": 155.7,
+   "end": 163.98,
+   "text": "Going to um listen to the good bits again yeah and maybe like try to calibrate a little bit with"
+  },
+  {
+   "start": 163.98,
+   "end": 170.42,
+   "text": "The website it is on my website believe it or not it's not done though but there is text on there um"
+  },
+  {
+   "start": 170.42,
+   "end": 176.58,
+   "text": "So I was watching I'm kind of becoming like a mma fan I'm watching mma like people talk about"
+  },
+  {
+   "start": 176.58,
+   "end": 186.6,
+   "text": "Mma fighters and stuff and uh you know I think there should be like an mma suit you know and so"
+  },
+  {
+   "start": 186.6,
+   "end": 193.16,
+   "text": "I tell um I'm gonna try to come up with an idea for that you can like you could do it I don't think"
+  },
+  {
+   "start": 193.16,
+   "end": 201.04,
+   "text": "You need that much technology you just um get a 3d printer you know and print it up and there was one"
+  },
+  {
+   "start": 201.04,
+   "end": 207.88,
+   "text": "Guy um the guy who did um mythbusters you should check out his channel because he did a video the"
+  },
+  {
+   "start": 207.88,
+   "end": 211.8,
+   "text": "Blonde dude he did a video and I need to go back and find out who the fuck this dude is because"
+  },
+  {
+   "start": 211.8,
+   "end": 221.06,
+   "text": "About like there was there was a particular guy in like one of the german kingdoms in the like 1600s"
+  },
+  {
+   "start": 221.06,
+   "end": 230.83,
+   "text": "Or something who um or 15 I don't know who who just for fun for sport he would he would have like"
+  },
+  {
+   "start": 230.83,
+   "end": 239.49,
+   "text": "Night battles and he had clockmakers build like the most intricate like iron man suit like that ever"
+  },
+  {
+   "start": 239.49,
+   "end": 247.03,
+   "text": "Was made like even the fingers had individual digits for moving down it's like jesus um yeah so"
+  },
+  {
+   "start": 247.03,
+   "end": 252.83,
+   "text": "Just to get his plan why not just get his plan right and why hasn't somebody done this yet and"
+  },
+  {
+   "start": 252.83,
+   "end": 258.17,
+   "text": "Just 3d print it and then you can put that on the market and then people can do mma fighting with it"
+  },
+  {
+   "start": 258.17,
+   "end": 263.13,
+   "text": "And then you have it so that they get like the they show the bruises so you at the end of the fight"
+  },
+  {
+   "start": 263.13,
+   "end": 269.47,
+   "text": "You just calculate it just based on how the suit looks but anyway um because this the way that they"
+  },
+  {
+   "start": 269.47,
+   "end": 275.65,
+   "text": "Do it now like I saw those guys all those youtube guys that they all got together and they all did"
+  },
+  {
+   "start": 275.65,
+   "end": 281.61,
+   "text": "They all fought each other in like a tournament and different situations and scenarios and stuff"
+  },
+  {
+   "start": 281.61,
+   "end": 290.41,
+   "text": "But the problem is they had like big face masks on and big like um big like uh you know pads and stuff"
+  },
+  {
+   "start": 290.41,
+   "end": 300.11,
+   "text": "And it uh you can't really tell who wins because they're just they're punching each other you know"
+  },
+  {
+   "start": 300.11,
+   "end": 306.43,
+   "text": "And I guess they can so as far as who can tell who wins with the striking the suit can tell you if"
+  },
+  {
+   "start": 306.43,
+   "end": 312.45,
+   "text": "You make the suit catch marks and plus I think you can do a better job um you can make better suits"
+  },
+  {
+   "start": 312.45,
+   "end": 317.61,
+   "text": "Like they're having these masks but what if they get like elbowed in the side of the head you know it"
+  },
+  {
+   "start": 317.61,
+   "end": 323.21,
+   "text": "Like limited how how much they could actually fight each other so if you totally protect them then they"
+  },
+  {
+   "start": 323.21,
+   "end": 326.69,
+   "text": "Can they can get serious and then you can have longer because they would only fight for like"
+  },
+  {
+   "start": 326.69,
+   "end": 333.51,
+   "text": "A couple seconds or whatever so anyways um but anyways so I'm kind of that's like the sport"
+  },
+  {
+   "start": 333.51,
+   "end": 339.35,
+   "text": "Because I kind of like I don't talk to anybody so I kind of need like a situation where"
+  },
+  {
+   "start": 339.35,
+   "end": 344.37,
+   "text": "There's people talking you know like I feel like I'm people around people who are talking about people"
+  },
+  {
+   "start": 344.37,
+   "end": 353.75,
+   "text": "And stuff and I don't like watching news because that's just ridiculous um yeah I'm like uh kind of"
+  },
+  {
+   "start": 353.75,
+   "end": 364.46,
+   "text": "Drags me down um look my little birdies are uh so anyways that that's that's what I was watching"
+  },
+  {
+   "start": 364.46,
+   "end": 383.21,
+   "text": "Hey little guys they're still not tame they still uh like if I just go up to them they still fly away"
+  },
+  {
+   "start": 383.21,
+   "end": 387.53,
+   "text": "From me you know like I saw some girl had a youtube channel and she could get the thing to"
+  },
+  {
+   "start": 387.53,
+   "end": 392.69,
+   "text": "Fucking fly on her finger I'm like dude like how long did it take you"
+  },
+  {
+   "start": 392.69,
+   "end": 397.63,
+   "text": "Because you put like peanut butter or something on there every day because if I go up there right"
+  },
+  {
+   "start": 397.63,
+   "end": 409.71,
+   "text": "Now they'll just fly away from me anyways um so yeah see like yesterday I had 127 uh books that I have"
+  },
+  {
+   "start": 409.71,
+   "end": 418.59,
+   "text": "To reduce and um this is the perfect way to use um dreamweaver I mean um chat I mean the ai"
+  },
+  {
+   "start": 418.59,
+   "end": 427.15,
+   "text": "I'm using um I'm using meta ai is better than uh chat gtp because it's faster chat gtp is better"
+  },
+  {
+   "start": 427.15,
+   "end": 432.07,
+   "text": "For the more difficult stuff the bigger ones that meta can do because once it gets to be like"
+  },
+  {
+   "start": 432.07,
+   "end": 441.51,
+   "text": "15 or 20 pages I don't know the exact number but meta can do it but um so I did my first one it took"
+  },
+  {
+   "start": 441.51,
+   "end": 446.71,
+   "text": "All day to do one yesterday but it was the rig veda and that was like 1100 and something chapters"
+  },
+  {
+   "start": 446.71,
+   "end": 453.81,
+   "text": "Done so now I'm doing kajua veda which is like 650 chapters and so most of those 127 books so now I"
+  },
+  {
+   "start": 453.81,
+   "end": 462.53,
+   "text": "Have 126 books left um are um not that not as big so I could do multiple in a day so I'm kind of off"
+  },
+  {
+   "start": 462.53,
+   "end": 467.07,
+   "text": "The top of my head hoping that I can get all this done in a month so that by the end of the year"
+  },
+  {
+   "start": 467.07,
+   "end": 475.87,
+   "text": "I can have the law code up like I'm obsessed with that but um I'm super duper jazzed and uh I'm not"
+  },
+  {
+   "start": 475.87,
+   "end": 481.13,
+   "text": "Going to try it now I'm going to just go ahead and put this up now just because I'm on a roll you"
+  },
+  {
+   "start": 481.13,
+   "end": 488.73,
+   "text": "Know um and I'd like to try to do it all in one in one push but um when it comes time to put it on"
+  },
+  {
+   "start": 488.73,
+   "end": 492.53,
+   "text": "Dreamweaver because I'm not putting it directly on dreamweaver because it on dreamweaver is just"
+  },
+  {
+   "start": 492.53,
+   "end": 500.77,
+   "text": "It's just too slow um the computer's old and um it would crash and uh it would just take too long"
+  },
+  {
+   "start": 500.77,
+   "end": 509.45,
+   "text": "To um paste it in and um complicate it and it'd make the computer generally really slow because"
+  },
+  {
+   "start": 509.45,
+   "end": 513.43,
+   "text": "Just from being open like I wouldn't be able to do any of the other things on the computer like"
+  },
+  {
+   "start": 513.43,
+   "end": 522.29,
+   "text": "Um like do the even the the the ai stuff communication you know I think it's done on"
+  },
+  {
+   "start": 522.29,
+   "end": 528.37,
+   "text": "On the upload but it still uses the computer cpu and so it's just way better to just put it"
+  },
+  {
+   "start": 528.37,
+   "end": 535.59,
+   "text": "Directly onto the notes plus it backs up better um it backs up fine I don't know if it backs up"
+  },
+  {
+   "start": 535.59,
+   "end": 541.25,
+   "text": "Better it's a way less complicated too it's less thinking that I have to do overall organization"
+  },
+  {
+   "start": 541.25,
+   "end": 546.59,
+   "text": "But it backs up fine because you know your notes are on your freaking iphone and your other computer"
+  },
+  {
+   "start": 546.59,
+   "end": 557.63,
+   "text": "All the time anyway so um like immediately like like in real time um and so um but after I decided"
+  },
+  {
+   "start": 557.63,
+   "end": 563.23,
+   "text": "To do it this way I realized it was the right decision anyway because I think chat dtp is going"
+  },
+  {
+   "start": 563.23,
+   "end": 568.67,
+   "text": "To be able to my tongue is like getting dry I'm going to go to the store and get an energy drink"
+  },
+  {
+   "start": 568.67,
+   "end": 583.58,
+   "text": "The store opens at six oh six o'clock and it's six oh two okay but chat dtp um um um um could probably"
+  },
+  {
+   "start": 583.58,
+   "end": 593.78,
+   "text": "Um uh make me do the web design for me and um the other reason why I'm waiting until I'm done with all"
+  },
+  {
+   "start": 593.78,
+   "end": 599.92,
+   "text": "This like in a month it's because chat dtp is like getting smarter by the month you know what I mean"
+  },
+  {
+   "start": 599.92,
+   "end": 607.0,
+   "text": "And this this uh condensation stuff it wasn't able to do it all at once on this book on the rig veda oh"
+  },
+  {
+   "start": 607.0,
+   "end": 612.62,
+   "text": "Shit I need to try it on this one on the kaiju I forgot I'm already 14 and because of all these"
+  },
+  {
+   "start": 612.62,
+   "end": 618.88,
+   "text": "Numbers and confused it but I might be able to batch edit batch condense the whole the entire book and"
+  },
+  {
+   "start": 618.88,
+   "end": 623.56,
+   "text": "Not have to do it chapter by chapter in which case I could get done a lot faster because I tried to do"
+  },
+  {
+   "start": 623.56,
+   "end": 627.7,
+   "text": "The rig veda and I got confused but I'll try it with this like I'll just download a whole bunch of"
+  },
+  {
+   "start": 627.7,
+   "end": 633.32,
+   "text": "Chapters and I'll say hey these are individual chapters make each individual chapters 10 10 10"
+  },
+  {
+   "start": 633.32,
+   "end": 637.2,
+   "text": "Sentences you know if they can oh my god and then you try it a little bit bigger and then you just"
+  },
+  {
+   "start": 637.2,
+   "end": 643.5,
+   "text": "Paste it over but um but but like um building building the tables is actually something that it can do"
+  },
+  {
+   "start": 643.5,
+   "end": 648.94,
+   "text": "Because I did it already I said I was just talking to it like last month I already said this the other"
+  },
+  {
+   "start": 648.94,
+   "end": 655.52,
+   "text": "Day but I said like I was just randomly naming all these people because I was watching mma stuff so I"
+  },
+  {
+   "start": 655.52,
+   "end": 660.72,
+   "text": "Was naming all these people and all their like mma skills and their sizes and I was like okay so now"
+  },
+  {
+   "start": 660.72,
+   "end": 666.18,
+   "text": "Make a chart from the strong the best fighter the lowest and had all the different categories that had"
+  },
+  {
+   "start": 666.18,
+   "end": 678.38,
+   "text": "Like their name height weight style um fight level strength level yeah and um for like it was like"
+  },
+  {
+   "start": 678.38,
+   "end": 685.02,
+   "text": "More than 60 people and you know you can you can reuse that like I cut copy the code and put it on the"
+  },
+  {
+   "start": 685.02,
+   "end": 690.24,
+   "text": "Notes and I just can copy it off the notes put it on chat gp and said hey this is the thing that we"
+  },
+  {
+   "start": 690.24,
+   "end": 696.0,
+   "text": "Figured before now on these parameters and then you can just grow up from there again but um so you"
+  },
+  {
+   "start": 696.0,
+   "end": 700.38,
+   "text": "Kind of because chat gp isn't connected to the internet or just hasn't super power you can"
+  },
+  {
+   "start": 700.38,
+   "end": 707.46,
+   "text": "You can supplement that yourself by just doing the um dividing it up and organizing in other places"
+  },
+  {
+   "start": 707.46,
+   "end": 717.98,
+   "text": "Yourself you know so anyways um like how would you call it like a scale clustering yourself anyways so um"
+  },
+  {
+   "start": 717.98,
+   "end": 728.78,
+   "text": "Um I uh so anyways uh I think it'll be able to build the tables like I can just paste in like an entire"
+  },
+  {
+   "start": 728.78,
+   "end": 738.48,
+   "text": "Book and I'll you know which has like oh that's the problem though huh you have to um but I already"
+  },
+  {
+   "start": 738.48,
+   "end": 744.32,
+   "text": "Did it yeah no it'll work because what I did in the beginning is I just put numbers number number number"
+  },
+  {
+   "start": 744.32,
+   "end": 750.36,
+   "text": "Whatever whatever chapter it was and then now I'm filling it in with what gets condensed and so"
+  },
+  {
+   "start": 750.36,
+   "end": 756.9,
+   "text": "Then I just copied that entire chunk paste it onto chat gtp and I say turn that into a table right and I"
+  },
+  {
+   "start": 756.9,
+   "end": 764.3,
+   "text": "Would train it a little bit first by saying with by building like um like a small one and I'd say"
+  },
+  {
+   "start": 764.3,
+   "end": 772.28,
+   "text": "This these are chapters one one two through three um now when all these put them inside of a of a"
+  },
+  {
+   "start": 772.28,
+   "end": 777.7,
+   "text": "Of their own you know table that are five columns across and down anyways they might be able to do"
+  },
+  {
+   "start": 777.7,
+   "end": 785.16,
+   "text": "It um or I could and even if it can't do it all at once it'll be able to I think um maybe um do it"
+  },
+  {
+   "start": 785.16,
+   "end": 791.1,
+   "text": "In bits and pieces and save me a lot of time so especially by then maybe when I get smarter so um"
+  },
+  {
+   "start": 791.1,
+   "end": 803.98,
+   "text": "Um so uh yeah so I'm like super excited about the idea of um of uh leveling up my website and faster"
+  },
+  {
+   "start": 803.98,
+   "end": 810.9,
+   "text": "Than I thought that I could because of chat maybe actually making these tables for me and maybe it'll"
+  },
+  {
+   "start": 810.9,
+   "end": 820.16,
+   "text": "Even like I said the other day um be able to to program in the background colors of all of the"
+  },
+  {
+   "start": 820.16,
+   "end": 828.15,
+   "text": "Ones too you know so I don't have to individually do it because we're talking like if it's 127 books"
+  },
+  {
+   "start": 828.15,
+   "end": 831.71,
+   "text": "That I have yet and that doesn't include the ones that I already have I don't know how many my"
+  },
+  {
+   "start": 831.71,
+   "end": 840.09,
+   "text": "Collection is like well over 200 and each book has high has like a thousand chapters 200 times a"
+  },
+  {
+   "start": 840.09,
+   "end": 848.46,
+   "text": "Thousand 1 000 times 200 oh that would be 200 000 yeah see I'm not that good at math am I"
+  },
+  {
+   "start": 848.46,
+   "end": 863.26,
+   "text": "So instead of having to like go click blue click yellow click 200 000 times and then do go all over"
+  },
+  {
+   "start": 863.26,
+   "end": 871.08,
+   "text": "Again and go copy paste copy paste copy paste 200 000 times it's probably better to just have"
+  },
+  {
+   "start": 871.08,
+   "end": 878.24,
+   "text": "Um the uh yeah the chat gtp straight up build the whole thing so and so I'm getting good at"
+  },
+  {
+   "start": 878.24,
+   "end": 882.38,
+   "text": "Explaining to it because you have to get good at explaining to it know how to talk to it so that"
+  },
+  {
+   "start": 882.38,
+   "end": 887.18,
+   "text": "It knows what you want it's really good at understanding so I'm getting good at that just"
+  },
+  {
+   "start": 887.18,
+   "end": 892.46,
+   "text": "By having regular conversations with it on the side as I'm doing this I'm meta so like um about the"
+  },
+  {
+   "start": 892.46,
+   "end": 897.36,
+   "text": "Same thing mma stuff but also other sports and then trying to branch out animals intelligence of"
+  },
+  {
+   "start": 897.36,
+   "end": 905.12,
+   "text": "Animals and those kinds of things damn you're getting loud because he hears what I'm talking"
+  },
+  {
+   "start": 905.12,
+   "end": 911.26,
+   "text": "So he's like ah and the other one's eating I need to give him shit so I'm gonna go in the store I just"
+  },
+  {
+   "start": 911.26,
+   "end": 916.88,
+   "text": "Smoked a bunch of weed before I did this video I'm gonna go to the store and um get like a nos"
+  },
+  {
+   "start": 916.88,
+   "end": 922.36,
+   "text": "There's two different energy drinks that are two dollars 29 cents I don't I'm not gonna blow any"
+  },
+  {
+   "start": 922.36,
+   "end": 929.06,
+   "text": "More than 229 for an energy drink but I get like two a day um there's nos and then they have monster"
+  },
+  {
+   "start": 929.06,
+   "end": 934.7,
+   "text": "But the monster's like super sweet like blokes me I'm getting like fat I'm growing like man guy know"
+  },
+  {
+   "start": 934.7,
+   "end": 942.52,
+   "text": "People are gonna think I'm on steroids and um because of all this sugar I think but but then"
+  },
+  {
+   "start": 942.52,
+   "end": 946.44,
+   "text": "There's nos which I guess is the original energy drink I'm starting to like that more it's like my"
+  },
+  {
+   "start": 946.44,
+   "end": 954.12,
+   "text": "Citrusy I like the citrusy so I'm gonna get me one of them there isn't um like um come back here"
+  },
+  {
+   "start": 954.12,
+   "end": 959.7,
+   "text": "And smoke a bunch of weed and like maybe watch like fights see I haven't been like an mma fan for very"
+  },
+  {
+   "start": 959.7,
+   "end": 966.68,
+   "text": "Long so like most even to this day most of like the famous fights or a lot of the famous fights I"
+  },
+  {
+   "start": 966.68,
+   "end": 978.88,
+   "text": "Haven't seen all right and so like I could go on I could watch I could watch um I could go and watch"
+  },
+  {
+   "start": 978.88,
+   "end": 984.38,
+   "text": "Some dude was talking about he does videos like how good was so and so actually I could mention"
+  },
+  {
+   "start": 984.38,
+   "end": 987.64,
+   "text": "One of those days he talks about one of these fights I can't think of it anyway and I could go"
+  },
+  {
+   "start": 987.64,
+   "end": 992.88,
+   "text": "Watch it right now for the very first time even though it happened like 20 years ago anyways um"
+  },
+  {
+   "start": 992.88,
+   "end": 1000.56,
+   "text": "God you fucking things are loud see this is where they my mom can't stand it here's where they uh"
+  },
+  {
+   "start": 1000.56,
+   "end": 1011.95,
+   "text": "They hang out you most of the time damn dude you little rascals my ferrets are gonna come down any"
+  },
+  {
+   "start": 1011.95,
+   "end": 1024.3,
+   "text": "Second now oh what are you fighting don't fight no they like to groom each other look what they did"
+  },
+  {
+   "start": 1024.3,
+   "end": 1041.86,
+   "text": "To my bike I don't know if they realize it's just they've pooped on me a few times they pooped on my"
+  },
+  {
+   "start": 1041.86,
+   "end": 1049.14,
+   "text": "Computer because I usually before I was working on that couch right there and so they fly back and"
+  },
+  {
+   "start": 1049.14,
+   "end": 1053.5,
+   "text": "Forth from that that cage to there which is right over where that couch is and so yeah they would poop"
+  },
+  {
+   "start": 1053.5,
+   "end": 1060.14,
+   "text": "Put right on top of me and do flybys where I film their breeze which is cool and my mom said a few"
+  },
+  {
+   "start": 1060.14,
+   "end": 1066.02,
+   "text": "Times a week or two ago that one of them the blue one did a flyby on her and actually the wing"
+  },
+  {
+   "start": 1066.02,
+   "end": 1073.5,
+   "text": "Actually whacked her head so yeah and they do that to me sometimes flybys by my head anyway so that's"
+  },
+  {
+   "start": 1073.5,
+   "end": 1077.92,
+   "text": "Enough talking I do like one of these vlogs for like I don't know how long I was talking 20 minutes"
+  },
+  {
+   "start": 1077.92,
+   "end": 1083.3,
+   "text": "Every single day and I say the same exact thing every day um but that's great because that means"
+  },
+  {
+   "start": 1083.3,
+   "end": 1089.8,
+   "text": "I'm on a roll to finish this and uh yeah hopefully be done with these and then um when I'm done with"
+  },
+  {
+   "start": 1089.8,
+   "end": 1096.86,
+   "text": "This whole book stuff I'm gonna get going I'm super drawn to doing cia world fact book because like"
+  },
+  {
+   "start": 1096.86,
+   "end": 1103.3,
+   "text": "I watched peter zihon on um joe rogan the other day and I read his book and he's here like"
+  },
+  {
+   "start": 1103.3,
+   "end": 1109.22,
+   "text": "Blasting out all these like facts and figures and I'm like that's the kind of stuff you could"
+  },
+  {
+   "start": 1109.22,
+   "end": 1117.14,
+   "text": "Anybody could be a regular peter zihon if if I could just finish my um cia world fact book page on"
+  },
+  {
+   "start": 1117.14,
+   "end": 1125.06,
+   "text": "My website and you just hit right click you hit control a select all right click text to speech"
+  },
+  {
+   "start": 1125.06,
+   "end": 1130.58,
+   "text": "Just listen to the whole thing like it's a book you know on the cia world fact book page and do the"
+  },
+  {
+   "start": 1130.58,
+   "end": 1133.78,
+   "text": "Same thing to the u.s law code and so that's that's what I'm super fired up for"
+  },
+  {
+   "start": 1133.78,
+   "end": 1142.36,
+   "text": "But that's gonna be another chunk of months dude like if I'm done with all these books this year"
+  },
+  {
+   "start": 1142.36,
+   "end": 1148.64,
+   "text": "Um I definitely won't get done with that this year that'll that'll take me a few months into"
+  },
+  {
+   "start": 1148.64,
+   "end": 1156.98,
+   "text": "Next year dude to finish that so but uh I am you know um I can't see that I'm finishing it you know"
+  },
+  {
+   "start": 1156.98,
+   "end": 1163.92,
+   "text": "I just have to kind of stand good terms with my mom kind of one thing that I realized and people"
+  },
+  {
+   "start": 1163.92,
+   "end": 1168.4,
+   "text": "People talk about this when you're like working hard people around you don't support you but"
+  },
+  {
+   "start": 1168.4,
+   "end": 1175.44,
+   "text": "You get to the point where you're like um it's it's kind of like lopsided your life is lopsided"
+  },
+  {
+   "start": 1175.44,
+   "end": 1177.76,
+   "text": "So then you kind of re"
+  },
+  {
+   "start": 1177.76,
+   "end": 1184.26,
+   "text": "Evaluate and then you justify and you're like okay cool and then you get into a rhythm and you're like"
+  },
+  {
+   "start": 1184.26,
+   "end": 1189.84,
+   "text": "I'm kicking ass but then the people around you sometimes can be like oh no and then they get"
+  },
+  {
+   "start": 1189.84,
+   "end": 1197.24,
+   "text": "Freaked out and then so the best thing is that you just kind of have to kind of separate yourself a"
+  },
+  {
+   "start": 1197.24,
+   "end": 1206.88,
+   "text": "Little bit you know from people because of they are uh uncomfortable just because of they don't they"
+  },
+  {
+   "start": 1206.88,
+   "end": 1212.16,
+   "text": "Just see you inside doing nothing but they don't they can't see that you're actually building something"
+  },
+  {
+   "start": 1212.16,
+   "end": 1220.0,
+   "text": "So uh yeah I actually had a roommate go crazy um he was like standing outside my room he lived with"
+  },
+  {
+   "start": 1220.0,
+   "end": 1227.98,
+   "text": "Me for eight years calling my mom and going like your son he's just in his room like outside my room"
+  },
+  {
+   "start": 1227.98,
+   "end": 1235.3,
+   "text": "Yelling like deliberately making me here he's just in his room all day long just in his room I don't"
+  },
+  {
+   "start": 1235.3,
+   "end": 1241.9,
+   "text": "Know what he's doing in his he's the opposite of me I'm outside doing stuff your son I don't understand"
+  },
+  {
+   "start": 1241.9,
+   "end": 1247.78,
+   "text": "And I was like jesus christ and then he would just go crazy crazy angry angry and I finally had to"
+  },
+  {
+   "start": 1247.78,
+   "end": 1253.66,
+   "text": "Kick him out because uh and he never looked at my website not one time couldn't show up to him"
+  },
+  {
+   "start": 1253.66,
+   "end": 1259.84,
+   "text": "And so it's kind of debatable whether or not he even understood that I had one and so it's kind of"
+  },
+  {
+   "start": 1259.84,
+   "end": 1264.22,
+   "text": "Like um maybe that's that's a good thing that I don't have a roommate you know that I'm not getting"
+  },
+  {
+   "start": 1264.22,
+   "end": 1273.38,
+   "text": "A roommate I think I'm gonna continue to put the ads up on facebook though um but um no I love I was"
+  },
+  {
+   "start": 1273.38,
+   "end": 1278.1,
+   "text": "Thinking myself yesterday I love not having a roommate because I get to just I was watching"
+  },
+  {
+   "start": 1278.1,
+   "end": 1287.56,
+   "text": "Like tv my big ass tv right there you know these fights and all this stuff and um and like as I'm"
+  },
+  {
+   "start": 1287.56,
+   "end": 1290.86,
+   "text": "Working and I'm looking up and I was like I haven't I wasn't doing that when I had the roommates"
+  },
+  {
+   "start": 1290.86,
+   "end": 1296.74,
+   "text": "So um it's it kind of brings even though it's like 25 bucks a day more expensive to live here"
+  },
+  {
+   "start": 1296.74,
+   "end": 1302.2,
+   "text": "It totally like brings the quality of life up so much that it's almost like"
+  },
+  {
+   "start": 1302.2,
+   "end": 1306.68,
+   "text": "I would pay that 25 dollars every day to be able to just hang out here"
+  },
+  {
+   "start": 1306.68,
+   "end": 1314.94,
+   "text": "But no I'm gonna keep putting the ads up anyways um I'm hungry I'm gonna go into the store and uh"
+  },
+  {
+   "start": 1314.94,
+   "end": 1321.9,
+   "text": "Get some kind of food or whatever I think I'm gonna get a salad one of those pre-made salads for"
+  },
+  {
+   "start": 1321.9,
+   "end": 1328.6,
+   "text": "4.49 and uh because I'll already have a fruit juice I don't think that I I think that I didn't"
+  },
+  {
+   "start": 1328.6,
+   "end": 1335.3,
+   "text": "Finish if I did I'm gonna get one of those too um like if I can it's kind of expensive because"
+  },
+  {
+   "start": 1335.3,
+   "end": 1339.86,
+   "text": "They're like 10 bucks but sometimes they're on sale for 750 when I do get them but to have like a salad"
+  },
+  {
+   "start": 1339.86,
+   "end": 1344.94,
+   "text": "Enough food juice a day is like and then and then a few helpings of my protein drink that's"
+  },
+  {
+   "start": 1344.94,
+   "end": 1351.44,
+   "text": "Like all I need dude and it keeps me from I mean I'm a little bit gynode out but look at that dude"
+  },
+  {
+   "start": 1351.44,
+   "end": 1359.86,
+   "text": "I don't work out I'm 50 I've worked out for years I don't work out at all and I almost have"
+  },
+  {
+   "start": 1359.86,
+   "end": 1370.09,
+   "text": "Pectoral muscles dude huh how am I such a badass from not eating that much not overeating dude I don't"
+  },
+  {
+   "start": 1370.09,
+   "end": 1377.79,
+   "text": "Get gouty because I don't pig out on pigs all day long anyways um I will catch you tomorrow"
+  },
+  {
+   "start": 1377.79,
+   "end": 1386.48,
+   "text": "And I'll upload this video in about a month because I'm fucking lazy all right later"
+  }
+ ]
+}

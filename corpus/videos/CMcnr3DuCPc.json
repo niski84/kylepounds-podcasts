@@ -1,0 +1,611 @@
+{
+ "youtube_id": "CMcnr3DuCPc",
+ "title": "7-4-24 Condensing books with chatgtp day 30",
+ "url": "https://youtu.be/CMcnr3DuCPc",
+ "published_at": "2024-07-04",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.46,
+   "end": 11.9,
+   "text": "Hi, how's it going? It's my vlog for the, uh, 11.45 a.m. on July 4th, Thursday, um, nice"
+  },
+  {
+   "start": 11.9,
+   "end": 17.12,
+   "text": "Day out, uh, I was up all night, I'm gonna try to stay up all day working so that I sleep"
+  },
+  {
+   "start": 17.12,
+   "end": 25.3,
+   "text": "Tonight, because yesterday I was, um, I slept, like, I was up until noon or whatever, and"
+  },
+  {
+   "start": 25.3,
+   "end": 32.42,
+   "text": "Then I slept until, like, 8, until it was getting dark, so I was, like, you know, literally"
+  },
+  {
+   "start": 32.42,
+   "end": 48.38,
+   "text": "Got up as it got dark, like, I'm totally nocturnalized, so, if I just, uh, um, um, stay up all day"
+  },
+  {
+   "start": 48.38,
+   "end": 54.82,
+   "text": "Today and then go to sleep tonight, that'll be 24 hours up, yeah, then I'll be tired and"
+  },
+  {
+   "start": 54.82,
+   "end": 59.24,
+   "text": "Have to go to sleep, and then I can get up tomorrow morning really early, and, uh, my"
+  },
+  {
+   "start": 59.24,
+   "end": 67.4,
+   "text": "Mom wants me to do that, to do stuff for her tomorrow, organizing house and stuff, um, so"
+  },
+  {
+   "start": 67.4,
+   "end": 81.62,
+   "text": "I'm on, uh, book 9, chapter 24, something like that, of the Mahabharata, so, it's Thursday,"
+  },
+  {
+   "start": 81.62,
+   "end": 91.9,
+   "text": "Sunday, um, I'm gonna see if I can, uh, get done with the Mahabharata by Sunday, so, um,"
+  },
+  {
+   "start": 91.9,
+   "end": 103.34,
+   "text": "Book 4, chapter 9 only has, like, uh, 67, and I'm on, like, 34 or something, so it's not"
+  },
+  {
+   "start": 103.34,
+   "end": 107.98,
+   "text": "That much more, and then the next two only have, like, 20 or something, and so I can finish"
+  },
+  {
+   "start": 107.98,
+   "end": 112.74,
+   "text": "It, so it's maybe all those today, and then book 12 is 365, and then it's, like, smaller"
+  },
+  {
+   "start": 112.74,
+   "end": 120.42,
+   "text": "Ones, so, yeah, that's why I think I can finish it, maybe by Sunday, and, yeah, I think of it"
+  },
+  {
+   "start": 120.42,
+   "end": 124.7,
+   "text": "Myself, like, yesterday, you know, I've done most of the books, so I think it's kind of"
+  },
+  {
+   "start": 124.7,
+   "end": 132.08,
+   "text": "Downhill in general after that, so, yeah, uh, keep nose to the grindstone, hopefully get"
+  },
+  {
+   "start": 132.08,
+   "end": 137.1,
+   "text": "Done with this before, I even start kind of, like, getting bored, uh, because I still"
+  },
+  {
+   "start": 137.1,
+   "end": 144.12,
+   "text": "Kind of feel like I'm in a novel period of my life, uh, it's interesting, because this,"
+  },
+  {
+   "start": 144.18,
+   "end": 155.4,
+   "text": "Uh, whole, uh, AI to, um, condense is just so trippy, I mean, you know, I mean, like, doing"
+  },
+  {
+   "start": 155.4,
+   "end": 163.16,
+   "text": "The word count is still kind of trippy, and AI is a whole other level, so, um, and I think"
+  },
+  {
+   "start": 163.16,
+   "end": 169.36,
+   "text": "It's a great, perfect use for now for, uh, AI, so, yeah, after I do that, I can finally"
+  },
+  {
+   "start": 169.36,
+   "end": 179.26,
+   "text": "Get going on all the other stuff that I was working on, um, on the website, so, kind of"
+  },
+  {
+   "start": 179.26,
+   "end": 182.8,
+   "text": "At the end of the day, that's why I'm yawning, I did have an energy drink earlier today, I went"
+  },
+  {
+   "start": 182.8,
+   "end": 193.82,
+   "text": "To the store, I think, in the morning, yeah, um, yeah, my mind's kind of going, um, I was,"
+  },
+  {
+   "start": 193.84,
+   "end": 199.2,
+   "text": "Uh, hanging out here, and then, like, couple, like an hour ago, or whatever, or a couple of"
+  },
+  {
+   "start": 199.2,
+   "end": 203.94,
+   "text": "Hours ago, because I was talking to Paula for an hour and 11 minutes, I think, so Paula"
+  },
+  {
+   "start": 203.94,
+   "end": 216.2,
+   "text": "Calls me, and, uh, it looks like her, she's saying how, um, I guess her brother, her dad"
+  },
+  {
+   "start": 216.2,
+   "end": 226.39,
+   "text": "Has a house, like, in this town called Peach, uh, oh, God, well, now it's all ruined, because"
+  },
+  {
+   "start": 226.39,
+   "end": 237.06,
+   "text": "I can't see where it is, my mind's going, um, Pichitui, Pichitui, a town called Pichitui,"
+  },
+  {
+   "start": 237.06,
+   "end": 255.23,
+   "text": "In Chile, and, uh, she thinks she can be the one to, um, inherit the house, because, you"
+  },
+  {
+   "start": 255.23,
+   "end": 262.55,
+   "text": "Know, um, yeah, she wants to move back there, like, in a year, and I was looking at it, I"
+  },
+  {
+   "start": 262.55,
+   "end": 265.87,
+   "text": "Don't know the exact location, but she showed me the little subdivision, and I'm looking,"
+  },
+  {
+   "start": 265.87,
+   "end": 273.55,
+   "text": "And I'm like, wow, it's this cool little, quaint little village with dirt roads, um, they"
+  },
+  {
+   "start": 273.55,
+   "end": 283.45,
+   "text": "Have, like, on land, they have, like, I think it was, like, 500 meters or something, on land"
+  },
+  {
+   "start": 283.45,
+   "end": 290.77,
+   "text": "With a hundred meter of a house, square meters, and, uh, it's a little house, but, uh, it's"
+  },
+  {
+   "start": 290.77,
+   "end": 296.19,
+   "text": "Only, like, a kilometer from the beach, but Pichitui Beach, they have 50-foot waves there,"
+  },
+  {
+   "start": 296.63,
+   "end": 300.51,
+   "text": "It's the big waves, where you get dragged in, and all the way down to the little waves,"
+  },
+  {
+   "start": 300.57,
+   "end": 303.31,
+   "text": "Like the beginner waves, and point breaks, and beach waves, it's like one of these, like,"
+  },
+  {
+   "start": 303.47,
+   "end": 308.77,
+   "text": "Hidden gems, diamonds in the rough, and, and then the mountain biking trails are all over"
+  },
+  {
+   "start": 308.77,
+   "end": 312.31,
+   "text": "The place over there, and then there's, there's one mountain bike park, in the town next door,"
+  },
+  {
+   "start": 312.39,
+   "end": 318.59,
+   "text": "And it's like, oh, my God, and it's only two and a half hour drive from, um, Port, El Portillo"
+  },
+  {
+   "start": 318.59,
+   "end": 324.07,
+   "text": "Ski Resort, and it's right up from the highest mountains in all of South America, like, uh,"
+  },
+  {
+   "start": 324.13,
+   "end": 330.81,
+   "text": "Aconcagua's literally to the east of it, so there's all these activities, it could be,"
+  },
+  {
+   "start": 330.95,
+   "end": 335.43,
+   "text": "Like, do stuff in the ocean, all the ocean activities, and mountains right there, biggest"
+  },
+  {
+   "start": 335.43,
+   "end": 342.57,
+   "text": "Mountains, 22,000 foot mountains, I'm like, wow, that seems like a nice place to retire to,"
+  },
+  {
+   "start": 343.07,
+   "end": 352.03,
+   "text": "Uh, so, yeah, I was like, uh, Tal Nara, I was like, dang, maybe I'll get back together"
+  },
+  {
+   "start": 352.03,
+   "end": 361.7,
+   "text": "To do, ha, ha, ha, ha, ha, ha, anyways, um, um, and then I called my mom, and I was showing"
+  },
+  {
+   "start": 361.7,
+   "end": 370.46,
+   "text": "Her, and she's like, oh, that looks pretty cool, anyway, you can live in these wild, you"
+  },
+  {
+   "start": 370.46,
+   "end": 377.78,
+   "text": "Know, amazing, like, natural laser places, uh, nowadays, uh, you know, cause you have"
+  },
+  {
+   "start": 377.78,
+   "end": 382.9,
+   "text": "The internet, if you have, like, work remotely, internet, and then entertainment, remotely"
+  },
+  {
+   "start": 382.9,
+   "end": 389.4,
+   "text": "Entertainment with the internet, you know, cook for yourself, maybe they'll have Amazon"
+  },
+  {
+   "start": 389.4,
+   "end": 398.6,
+   "text": "Delivery back then, or when I, when I, if I check it out, anyways, so, um, I'm, uh, gonna,"
+  },
+  {
+   "start": 398.8,
+   "end": 401.96,
+   "text": "Yeah, I was kinda still trying to listen to, uh,"
+  },
+  {
+   "start": 403.24,
+   "end": 409.34,
+   "text": "Capital yesterday, but my brain wasn't working very well, so I think it was, I wasn't even"
+  },
+  {
+   "start": 409.34,
+   "end": 413.72,
+   "text": "Listening to the educational part of that, so yesterday was mainly just, like, music, and,"
+  },
+  {
+   "start": 413.72,
+   "end": 418.82,
+   "text": "Like, silence or music, you know, whatever, I smoked a lot of weed, I got the strong stuff,"
+  },
+  {
+   "start": 418.92,
+   "end": 423.66,
+   "text": "More expensive stuff at the farm, I don't know, like, 50 bucks, I shouldn't have, one"
+  },
+  {
+   "start": 423.66,
+   "end": 428.56,
+   "text": "Place is way cheaper, like, you can last longer, but it's, uh, you don't get as high, anyways,"
+  },
+  {
+   "start": 429.38,
+   "end": 435.26,
+   "text": "They're right next to each other, anyways, um, yeah, so, I'm just gonna go back to work,"
+  },
+  {
+   "start": 435.26,
+   "end": 440.16,
+   "text": "You know, uh, uh, yeah, top board because I'm still doing the, um,"
+  },
+  {
+   "start": 440.96,
+   "end": 447.52,
+   "text": "It's HTTP and figuring it out and creating actually, it's actually very useful work in the future,"
+  },
+  {
+   "start": 447.52,
+   "end": 456.14,
+   "text": "I'm creating, uh, uh, all of these different, um, parameters, you know, and rules and sets and"
+  },
+  {
+   "start": 456.14,
+   "end": 460.9,
+   "text": "Stuff and, you know, you can create all kinds of rule sets, you can create a whole world by"
+  },
+  {
+   "start": 460.9,
+   "end": 468.82,
+   "text": "Creating rules and uh levels of all the different people and um characters and everything you know"
+  },
+  {
+   "start": 468.82,
+   "end": 474.94,
+   "text": "And then you just uh copy it all and then you just plug it in you know and then it picks up"
+  },
+  {
+   "start": 474.94,
+   "end": 479.34,
+   "text": "Where you left off with all the information and ask all kinds of questions I'm doing that with"
+  },
+  {
+   "start": 479.34,
+   "end": 486.16,
+   "text": "Yeah sports and asking questions about uh yeah I was asking it about like pchutui and"
+  },
+  {
+   "start": 486.16,
+   "end": 491.52,
+   "text": "But yeah the sports like fighting and stuff those are the videos that I was actually watching earlier"
+  },
+  {
+   "start": 491.52,
+   "end": 501.88,
+   "text": "And uh yeah um so anyways that's what I'm talking I'm gonna get back to work and hopefully stay"
+  },
+  {
+   "start": 501.88,
+   "end": 511.0,
+   "text": "I should have some coffee oh I bought I bought uh I bought um uh milk dude I'm having trouble"
+  },
+  {
+   "start": 511.0,
+   "end": 515.42,
+   "text": "Finding words I'm just having so much trouble finding words talking about paul is it I bought"
+  },
+  {
+   "start": 515.42,
+   "end": 521.02,
+   "text": "Milk I can go make coffee I throw coffee in with maybe the milk oh shit I threw the rest of the"
+  },
+  {
+   "start": 521.02,
+   "end": 529.36,
+   "text": "Fucking coffee in there but maybe I could throw milk in and make it drinkable anyways so um but"
+  },
+  {
+   "start": 529.36,
+   "end": 534.1,
+   "text": "Yeah I got the milk so I can make a cornbread my mom gave me a big thing of cornbread like a year ago"
+  },
+  {
+   "start": 534.1,
+   "end": 540.72,
+   "text": "And I never made it because every time I look at the thing I see that I need coffee I mean milk and"
+  },
+  {
+   "start": 540.72,
+   "end": 545.66,
+   "text": "I don't have it so anyways man my arms and hands I'm like falling asleep I almost dropped the camera"
+  },
+  {
+   "start": 545.66,
+   "end": 555.76,
+   "text": "Anyways enough talking I'm going to uh get back to work and uh um uh yeah see if I can finish the"
+  },
+  {
+   "start": 555.76,
+   "end": 564.42,
+   "text": "Maha parada by sunday and then uh maybe finish uh all of the books by uh and then maybe even get"
+  },
+  {
+   "start": 564.42,
+   "end": 573.98,
+   "text": "Them on the internet by the end of july so that by the election day I can get all of the um u.s law"
+  },
+  {
+   "start": 573.98,
+   "end": 580.84,
+   "text": "Code on the website that's the goal keep saying it that's the goal so stay tuned uh when I'm done"
+  },
+  {
+   "start": 580.84,
+   "end": 588.24,
+   "text": "And I say hey I have the u.s law code on my website I'm gonna say somebody look at it and then tell me"
+  },
+  {
+   "start": 588.24,
+   "end": 592.96,
+   "text": "That that's cool or something I don't know I might say that but my thing is not to give a fuck what"
+  },
+  {
+   "start": 592.96,
+   "end": 602.4,
+   "text": "Anybody thinks but um you better not tell me I'm wasting my time because it seems to me like that's"
+  },
+  {
+   "start": 602.4,
+   "end": 609.34,
+   "text": "The most best way to spend your time right now good block code what if what if like you know uh"
+  },
+  {
+   "start": 609.34,
+   "end": 616.1,
+   "text": "Trump wins and uh and then takes it off and then I I lost the window like I ran I lost the window to"
+  },
+  {
+   "start": 616.1,
+   "end": 621.36,
+   "text": "Get screen captures of atlantis I never did I could have done it systematically with the whole grid and"
+  },
+  {
+   "start": 621.36,
+   "end": 625.28,
+   "text": "Done it all I should have I was thinking about it never got around to it fucking government got"
+  },
+  {
+   "start": 625.28,
+   "end": 631.06,
+   "text": "Around to depixelating it before I got around to doing it too late so that's why I'm here like and maybe"
+  },
+  {
+   "start": 631.06,
+   "end": 635.5,
+   "text": "I'll take my rights away from uh the ai or whatever and so that's why I'm doing a translator"
+  },
+  {
+   "start": 635.5,
+   "end": 640.18,
+   "text": "Their convention right now I'm not no but anyways not really I'm doing the convention because it's"
+  },
+  {
+   "start": 641.06,
+   "end": 645.62,
+   "text": "To be it to me but I'm kind of one of the little backhead justifications for it but uh"
+  },
+  {
+   "start": 645.62,
+   "end": 648.0,
+   "text": "But yeah man so uh"
+  },
+  {
+   "start": 650.7,
+   "end": 655.58,
+   "text": "I can't remember what I was just talking about"
+  },
+  {
+   "start": 655.58,
+   "end": 660.02,
+   "text": "So anyways enough talking I'm going to uh"
+  },
+  {
+   "start": 660.02,
+   "end": 671.6,
+   "text": "Yeah listen to me smoke more weed I fuck it I'm um just gonna smoke as much weed as I want I feel so"
+  },
+  {
+   "start": 671.6,
+   "end": 675.84,
+   "text": "Blessed that I'm not having asthma I can smoke as much weed as I want not have asthma problems and"
+  },
+  {
+   "start": 675.84,
+   "end": 678.02,
+   "text": "The main problem would be the money but uh"
+  },
+  {
+   "start": 678.02,
+   "end": 684.02,
+   "text": "Yeah it makes a weed I'm doing pretty good at the job with this um it's kind of difficult when I try to"
+  },
+  {
+   "start": 684.02,
+   "end": 689.02,
+   "text": "Get it to 250 words because I'm trying to do it to 250 words 50 words and 10 words because it's uh"
+  },
+  {
+   "start": 689.02,
+   "end": 694.98,
+   "text": "Making it uh smaller by five that that holds true to that memorization technique that they had I can't"
+  },
+  {
+   "start": 694.98,
+   "end": 699.18,
+   "text": "Remember the call of it but the guy in the test did it every five to ten and that's why I do it with"
+  },
+  {
+   "start": 699.18,
+   "end": 708.52,
+   "text": "The other things what I do and condensation too but um of time and space but uh um it can't do it"
+  },
+  {
+   "start": 708.52,
+   "end": 712.68,
+   "text": "Exactly because you know it's difficult it makes it difficult for it just is for me you know to try to"
+  },
+  {
+   "start": 712.68,
+   "end": 719.16,
+   "text": "Choose to make it coherent but so that every every five is a good way to make it distinct"
+  },
+  {
+   "start": 719.16,
+   "end": 725.66,
+   "text": "But the first one to a page is difficult because it either there's a lot of time it does it either"
+  },
+  {
+   "start": 725.66,
+   "end": 730.7,
+   "text": "A page or 1.4 of a page like a page or a page and a half and it's like bitch why can't you just do a"
+  },
+  {
+   "start": 730.7,
+   "end": 737.54,
+   "text": "Page and I do it even in between it's like half page or a page so I have to choose you know I'm like"
+  },
+  {
+   "start": 737.54,
+   "end": 742.82,
+   "text": "My rule of thumb is you do it for the page and a half my original idea was a page but"
+  },
+  {
+   "start": 742.82,
+   "end": 748.3,
+   "text": "A lot of times I go half page because it's basically the rule is if it's the original"
+  },
+  {
+   "start": 748.3,
+   "end": 753.08,
+   "text": "Isn't that big half page if it's really big page and a half so that's what I'll explain anyways"
+  },
+  {
+   "start": 753.08,
+   "end": 755.38,
+   "text": "Enough talking talk to you tomorrow"
+  },
+  {
+   "start": 755.38,
+   "end": 757.7,
+   "text": "So"
+  },
+  {
+   "start": 757.7,
+   "end": 758.66,
+   "text": "You"
+  },
+  {
+   "start": 758.66,
+   "end": 760.66,
+   "text": "You"
+  },
+  {
+   "start": 760.66,
+   "end": 764.66,
+   "text": "You"
+  },
+  {
+   "start": 764.66,
+   "end": 766.66,
+   "text": "You"
+  },
+  {
+   "start": 766.66,
+   "end": 768.66,
+   "text": "You"
+  },
+  {
+   "start": 768.66,
+   "end": 772.66,
+   "text": "You"
+  },
+  {
+   "start": 772.66,
+   "end": 774.66,
+   "text": "You"
+  },
+  {
+   "start": 774.66,
+   "end": 776.66,
+   "text": "You"
+  }
+ ]
+}

@@ -1,0 +1,791 @@
+{
+ "youtube_id": "JL0dBqOz9DY",
+ "title": "7-11-24 Condensing books with chatgtp day 37",
+ "url": "https://youtu.be/JL0dBqOz9DY",
+ "published_at": "2024-07-11",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 1.33,
+   "end": 8.93,
+   "text": "Hey, how's it going? I'm, uh, it's currently, uh, July 11th, Thursday, 6.44 in the evening."
+  },
+  {
+   "start": 10.11,
+   "end": 21.85,
+   "text": "So you're at 24. And that's proof. So I'm, um, I'm like, uh, I've been sitting here working"
+  },
+  {
+   "start": 21.85,
+   "end": 28.66,
+   "text": "And, uh, and like now my arms, I don't feel that good. I feel like my arms are about to"
+  },
+  {
+   "start": 28.66,
+   "end": 32.62,
+   "text": "Like melt away or whatever. So I need exercise. So I think I'm going to go to the store. I've"
+  },
+  {
+   "start": 32.62,
+   "end": 40.12,
+   "text": "Decided that I'm, that I'm going to start moving off of, um, like chicken fajita sticks"
+  },
+  {
+   "start": 40.12,
+   "end": 45.88,
+   "text": "And stuff, whatever I can like cook in the, um, oven or the microwave and pour a bunch of"
+  },
+  {
+   "start": 45.88,
+   "end": 56.74,
+   "text": "Tabasco sauce on because I really like Tabasco sauce. Um, and, uh, I really want kind of like"
+  },
+  {
+   "start": 56.74,
+   "end": 63.04,
+   "text": "An accidental starvation diet, which makes me super weak every day. You know, I never"
+  },
+  {
+   "start": 63.04,
+   "end": 72.3,
+   "text": "Have energy, but I'm not really getting fat, you know, I mean, I'm fatter than, you know,"
+  },
+  {
+   "start": 72.3,
+   "end": 77.76,
+   "text": "I was before or whatever, but I mean, just for my age, I guess, you know, age and never exercising."
+  },
+  {
+   "start": 77.76,
+   "end": 87.06,
+   "text": "I'm kind of keeping it together. I don't look fat. So, uh, and like, cause I had like"
+  },
+  {
+   "start": 87.06,
+   "end": 92.66,
+   "text": "A few salads this morning, two salads. And I had a protein drink. So when I get hungry,"
+  },
+  {
+   "start": 92.76,
+   "end": 98.08,
+   "text": "I have a protein drink. So it's kind of like a high protein diet. And then you'd have like"
+  },
+  {
+   "start": 98.08,
+   "end": 103.54,
+   "text": "Vegetable bowl of vegetables. My mom gets these big bags of vegetables and then salad. I had"
+  },
+  {
+   "start": 103.54,
+   "end": 109.98,
+   "text": "Two salads today. And then, um, yeah. And then those, I'm going to go and get those things."
+  },
+  {
+   "start": 110.12,
+   "end": 119.72,
+   "text": "I had a half of a watermelon today, kind of. So, uh, if you're on a starvation diet, I think"
+  },
+  {
+   "start": 119.72,
+   "end": 130.38,
+   "text": "A good starvation diet would be like beans, um, burritos, something with lots of, lots of"
+  },
+  {
+   "start": 130.38,
+   "end": 134.4,
+   "text": "Hot sauce. Cause that would be like your delicious thing, you know, you don't have to eat that"
+  },
+  {
+   "start": 134.4,
+   "end": 140.38,
+   "text": "Many of those, but, and then try to live off of like vegetables, microwave, vegetable salad"
+  },
+  {
+   "start": 140.38,
+   "end": 145.24,
+   "text": "And like tomato soup. Although I keep forgetting to get it. That would be a good thing to get"
+  },
+  {
+   "start": 145.24,
+   "end": 156.64,
+   "text": "It. And, um, and, uh, protein drink, try to make like soy or whatever way protein drink."
+  },
+  {
+   "start": 156.64,
+   "end": 163.0,
+   "text": "You're kind of like main staples. Anyway, um, no, and also all the vitamins, take your vitamins."
+  },
+  {
+   "start": 164.7,
+   "end": 169.46,
+   "text": "But anyway, yeah, I've got recently gotten in the habit of watching UFC fights, dude. I'm sure"
+  },
+  {
+   "start": 169.46,
+   "end": 174.76,
+   "text": "Have fights going on all the time. Cause like just by watching them, you can like learn just by"
+  },
+  {
+   "start": 174.76,
+   "end": 190.88,
+   "text": "Watching them, you know? So that's cool. So, um, I, um, yeah, today was like the first day that I was"
+  },
+  {
+   "start": 190.88,
+   "end": 199.1,
+   "text": "Kind of like doing, um, kind of like batch editing with chat GTP, um, breaking down the, hey little"
+  },
+  {
+   "start": 199.1,
+   "end": 204.48,
+   "text": "Spirit, breaking down my books. I couldn't do it yesterday with the Vedas cause every single line"
+  },
+  {
+   "start": 204.48,
+   "end": 208.84,
+   "text": "Was numbered, like how they do with the Bible and which confused it. So I had to do every one."
+  },
+  {
+   "start": 208.94,
+   "end": 213.68,
+   "text": "And I think the Rig Veda, I could have done it that way, but I didn't trust it. I'm kind of,"
+  },
+  {
+   "start": 213.74,
+   "end": 219.02,
+   "text": "Kind of like wading into it, even though I wasted a whole day. I wish I hadn't. So now I'm just"
+  },
+  {
+   "start": 219.02,
+   "end": 225.1,
+   "text": "Doing it, whatever chat can do. Um, you know, like the book I'm working on now is, uh,"
+  },
+  {
+   "start": 225.1,
+   "end": 233.84,
+   "text": "Glucopius, like history of wars and the chapters, if the chapters are really big, you know, like 15"
+  },
+  {
+   "start": 233.84,
+   "end": 241.44,
+   "text": "Pages, then I won't cut the chapters down to 10 words for the menu. I'll cut them down to, um,"
+  },
+  {
+   "start": 242.08,
+   "end": 248.72,
+   "text": "A page first and then, and then 10 words so that I can include the page version in the book. Um,"
+  },
+  {
+   "start": 248.72,
+   "end": 257.24,
+   "text": "That's a good intermediary. Um, but when they're really big, you know, I can't do like 40 chapters"
+  },
+  {
+   "start": 257.24,
+   "end": 263.48,
+   "text": "At a time, you know, so I went down to 20, and on this one I couldn't do that. So I couldn't even"
+  },
+  {
+   "start": 263.48,
+   "end": 269.24,
+   "text": "Do it and I have to do five. So it's just every chunks of five. ChatGTP has like a maximum process"
+  },
+  {
+   "start": 269.24,
+   "end": 274.72,
+   "text": "Ability of like, I haven't, I don't know exactly. I haven't counted it. I should, but if I had to"
+  },
+  {
+   "start": 274.72,
+   "end": 285.04,
+   "text": "Guess, it's maybe like 50 words or something. Um, and, uh, meta AI is just way worse. I mean,"
+  },
+  {
+   "start": 285.06,
+   "end": 290.06,
+   "text": "Way smaller, not worse. It can deal with way smaller files. Um, I think it's slightly faster"
+  },
+  {
+   "start": 290.06,
+   "end": 295.58,
+   "text": "Though. So when they're really small, but yeah, so I just exclusively do ChatGTP now because"
+  },
+  {
+   "start": 295.58,
+   "end": 303.34,
+   "text": "Its ability to do volume is way, way bigger. You know, like you could pretty much, I was only"
+  },
+  {
+   "start": 303.34,
+   "end": 309.4,
+   "text": "Used to do the little ones with, uh, meta AI. So, uh, anyways, it's exciting to do these books"
+  },
+  {
+   "start": 309.4,
+   "end": 316.66,
+   "text": "All in the big batch because I'm zooming through these books really fast. Uh, I, uh, if I was"
+  },
+  {
+   "start": 316.66,
+   "end": 324.57,
+   "text": "Doing one at a time and I wish I did fucking rig data that way or Mahabharata, I could have done the"
+  },
+  {
+   "start": 324.57,
+   "end": 333.04,
+   "text": "Goddamn Mahabharata that way. What a fucking moron. Actually, no, I couldn't because I was doing"
+  },
+  {
+   "start": 333.04,
+   "end": 341.21,
+   "text": "Mahabharata three different sizes. So, but I could have done it three different sizes all"
+  },
+  {
+   "start": 341.21,
+   "end": 346.85,
+   "text": "With batch edit. What a goddamn moron. So I'm kind of getting slow with this. I'm kind of slow"
+  },
+  {
+   "start": 346.85,
+   "end": 354.25,
+   "text": "Catching on. Um, but, um, I kind of didn't trust it. I didn't think that the quality would be good."
+  },
+  {
+   "start": 354.25,
+   "end": 362.99,
+   "text": "That's why. Um, but, um, anyway, um, like I didn't want to use it at all for Libby because"
+  },
+  {
+   "start": 362.99,
+   "end": 367.31,
+   "text": "They didn't trust it. Now I'm realizing, no, that's what it's made for. This is the best way"
+  },
+  {
+   "start": 367.31,
+   "end": 376.72,
+   "text": "To use it. So, um, yeah, there is, there are things that I'm making sure though that it doesn't screw"
+  },
+  {
+   "start": 376.72,
+   "end": 383.54,
+   "text": "Up on, like doing ones from before, like Meta AI does that all the time. So I moved over to, um,"
+  },
+  {
+   "start": 384.4,
+   "end": 396.94,
+   "text": "GTP, but even with that, just to, I don't know, I don't think it'll do one that it did before, but, um,"
+  },
+  {
+   "start": 397.02,
+   "end": 402.5,
+   "text": "Like the wrong one, but so yeah, I'm, uh, I'm happy. It's zooming through. And if I could get,"
+  },
+  {
+   "start": 402.5,
+   "end": 409.6,
+   "text": "It was like 127 books I had to do yesterday. So if I can get through like all these and like,"
+  },
+  {
+   "start": 409.6,
+   "end": 427.39,
+   "text": "Um, um, 127, they have pressure or whatever. If I get through all of them in like a week or"
+  },
+  {
+   "start": 427.39,
+   "end": 431.87,
+   "text": "Whatever, like, I mean, if I can zoom through them, you know, like that'll be awesome. And"
+  },
+  {
+   "start": 431.87,
+   "end": 439.11,
+   "text": "Then I can get into trying to get them built into using GITTP if that's possible to build it into,"
+  },
+  {
+   "start": 439.13,
+   "end": 445.27,
+   "text": "Um, tables. And if I can do that really quickly, then what? And then like within a month, I'm done"
+  },
+  {
+   "start": 445.27,
+   "end": 450.69,
+   "text": "With all of this, like including getting it on the website. So I'm super duper. Hey, little rascal."
+  },
+  {
+   "start": 452.07,
+   "end": 456.29,
+   "text": "This little guy can smell my protein drink that I just ate. They can smell them from like,"
+  },
+  {
+   "start": 456.29,
+   "end": 463.39,
+   "text": "Like shark smelling blood and water. They freak out. They need the protein drink because of the shower,"
+  },
+  {
+   "start": 463.55,
+   "end": 468.13,
+   "text": "The sugar in it. But I figure it's okay for them to eat it because it has lots of protein."
+  },
+  {
+   "start": 469.13,
+   "end": 479.41,
+   "text": "Yeah. Frizzle. Frizzle. Frizzle. All right. I'll get you your drinky in a sec. Whoops. He just fell"
+  },
+  {
+   "start": 479.41,
+   "end": 494.48,
+   "text": "Up. So, um, yeah. So I'm like on a roll back. Okay. He's going to, um, um, try to see if I can get"
+  },
+  {
+   "start": 494.48,
+   "end": 500.84,
+   "text": "These on man and figure out if I can do them, even program it with chat, like, Holy shit, you know?"
+  },
+  {
+   "start": 502.12,
+   "end": 507.02,
+   "text": "So, um, and then get it on the website and then of course, yeah. And then I can use it to move"
+  },
+  {
+   "start": 507.02,
+   "end": 511.54,
+   "text": "Forward with everything else and move it up at an exponential rate, you know? Like, cause I was"
+  },
+  {
+   "start": 511.54,
+   "end": 514.9,
+   "text": "Kind of wondering, am I going to be able to finish this? And now I'm thinking, well, maybe I can"
+  },
+  {
+   "start": 514.9,
+   "end": 520.44,
+   "text": "With the help of chat. It's almost like GTP. No, not yet. Let me finish my drink first."
+  },
+  {
+   "start": 521.52,
+   "end": 527.18,
+   "text": "He's trying to, he's trying to rob my, uh, protein drink. Maybe I, and I didn't finish the protein"
+  },
+  {
+   "start": 527.18,
+   "end": 533.04,
+   "text": "Drink before, um, I did the video. God, he's a little, cause he'll like, he'll turn it over"
+  },
+  {
+   "start": 533.04,
+   "end": 538.92,
+   "text": "And he'll like drink off of it and everything. Yeah. Why don't you get scratches first?"
+  },
+  {
+   "start": 540.46,
+   "end": 553.68,
+   "text": "Watch this fly flying ferret. Anyways. Um, so, uh, I'm going to cut my own hair. When my"
+  },
+  {
+   "start": 553.68,
+   "end": 559.96,
+   "text": "Mom complains about my hair, I could cut my own hair cause I went into the place and the"
+  },
+  {
+   "start": 559.96,
+   "end": 570.71,
+   "text": "Girl didn't cut it long enough, man. So fuck those, those, those, those barbers. Um, um,"
+  },
+  {
+   "start": 571.71,
+   "end": 576.21,
+   "text": "I mean, she could have done it shorter, but she was like acting like in a hurry and stuff. And"
+  },
+  {
+   "start": 576.21,
+   "end": 579.09,
+   "text": "So I was like, fuck those barbers. I'll just cut it myself. I've never done that before."
+  },
+  {
+   "start": 579.63,
+   "end": 591.37,
+   "text": "I want to give it a try. Watch the tutorial. Anyways. Um, um, I, uh, uh, oh yeah. Like I was"
+  },
+  {
+   "start": 591.37,
+   "end": 598.77,
+   "text": "Saying, interrupted me. Having chat TTP is like having a bunch of workers. It's like I"
+  },
+  {
+   "start": 598.77,
+   "end": 602.17,
+   "text": "Go to the office and I have a fricking or a couple of really good, a bunch of really good"
+  },
+  {
+   "start": 602.17,
+   "end": 606.59,
+   "text": "Workers, dude. I'm working in an office with a bunch of people. So it's pretty bad ass"
+  },
+  {
+   "start": 606.59,
+   "end": 613.73,
+   "text": "Dude. Anyways. Yeah. It saved my ass basically. But the problem is I'm like, God, I don't feel"
+  },
+  {
+   "start": 613.73,
+   "end": 617.55,
+   "text": "Good. You know, I need to move around. I'm like melting away and everything. I do take"
+  },
+  {
+   "start": 617.55,
+   "end": 623.93,
+   "text": "Them. The, um, the pills, um, but the vitamins, uh, but I, I don't know if I took them today."
+  },
+  {
+   "start": 623.93,
+   "end": 627.53,
+   "text": "I need to go and make sure to take them. So anyways, I'm going to go in the store right"
+  },
+  {
+   "start": 627.53,
+   "end": 630.91,
+   "text": "Now and get, uh, another energy drink. I had one for breakfast. I like to get my energy"
+  },
+  {
+   "start": 630.91,
+   "end": 634.95,
+   "text": "Drink and smoke a bunch of weed. I've been going through like a half ounce of, uh, is this"
+  },
+  {
+   "start": 634.95,
+   "end": 640.69,
+   "text": "A half or a quarter? 14 gram. You know, that means it's a half, a quarter. I go to their"
+  },
+  {
+   "start": 640.69,
+   "end": 645.31,
+   "text": "Quarter ounce of fucking weed. Like every like four days, God damn it. Which is like 50 bucks"
+  },
+  {
+   "start": 645.31,
+   "end": 654.73,
+   "text": "To five days. Crazy. But whatever. Um, I, uh, uh, I just got an interest in somebody"
+  },
+  {
+   "start": 654.73,
+   "end": 657.75,
+   "text": "Wanting to rent the room, but it was some dude and wanted to rent with his girlfriend."
+  },
+  {
+   "start": 657.89,
+   "end": 661.65,
+   "text": "I'm like, well, I don't think that's even allowed in the homeowner's. But then I looked"
+  },
+  {
+   "start": 661.65,
+   "end": 666.19,
+   "text": "At his, uh, Facebook and he didn't have any pictures of himself, dude. I'm like freaking"
+  },
+  {
+   "start": 666.19,
+   "end": 669.37,
+   "text": "Out. I'm like, everybody who's interested in living with me doesn't have any pictures"
+  },
+  {
+   "start": 669.37,
+   "end": 674.57,
+   "text": "On Facebook. I even mentioned it to one guy. I'm like, dude, what's the deal? And he"
+  },
+  {
+   "start": 674.57,
+   "end": 677.99,
+   "text": "Even had a few pictures. So I even, I said it to the wrong dude, but he had it. He only"
+  },
+  {
+   "start": 677.99,
+   "end": 681.57,
+   "text": "Had a couple cause I was kind of frustrated cause this girl was going to move in and never"
+  },
+  {
+   "start": 681.57,
+   "end": 687.61,
+   "text": "Did never shut up. But, um, it's like, I wrote him back. I'm like, dude, what are you doing?"
+  },
+  {
+   "start": 687.61,
+   "end": 690.33,
+   "text": "I'm trying to move into my house. And the only couple of pictures of yourself, you got all"
+  },
+  {
+   "start": 690.33,
+   "end": 695.49,
+   "text": "Pissed off at me. So I don't even write people anymore, but I'm like, what's the deal, man?"
+  },
+  {
+   "start": 695.49,
+   "end": 700.53,
+   "text": "Am I like in the matrix? Am I like the only person alive on the planet? Like why is nobody?"
+  },
+  {
+   "start": 700.53,
+   "end": 704.77,
+   "text": "I literally feel like I'm the only, I don't interact with anybody. I feel like I'm the"
+  },
+  {
+   "start": 704.77,
+   "end": 708.79,
+   "text": "Only person alive on the planet. I can't get my room out. The people interested in it"
+  },
+  {
+   "start": 708.79,
+   "end": 715.97,
+   "text": "Are like not actual people. It's the weirdest thing. Although I am getting a lot of Facebook"
+  },
+  {
+   "start": 715.97,
+   "end": 721.71,
+   "text": "Friends, but I don't think they're real people. I got so many Facebook friends a couple of"
+  },
+  {
+   "start": 721.71,
+   "end": 726.71,
+   "text": "Years ago that I got to the maximum of 5,000, but none of them were real. So then I went down"
+  },
+  {
+   "start": 726.71,
+   "end": 740.76,
+   "text": "Until like 2000. And so now I'm, I'm building it back up again. Anyways. Um, I, um, I really,"
+  },
+  {
+   "start": 740.86,
+   "end": 745.06,
+   "text": "I wouldn't, I don't, my life quality of life is a million times better without a roommate."
+  },
+  {
+   "start": 746.2,
+   "end": 754.42,
+   "text": "Um, and it's even better even if you have a good roommate, but, um, but, um, even though"
+  },
+  {
+   "start": 754.42,
+   "end": 760.02,
+   "text": "My apartment suffers, but, um, um, so I'm kind of hoping that, I don't know, maybe I can"
+  },
+  {
+   "start": 760.02,
+   "end": 764.6,
+   "text": "Go a little bit longer without getting a roommate because of this whole thing, you know, I'm"
+  },
+  {
+   "start": 764.6,
+   "end": 773.52,
+   "text": "Like, like I can't even upload these videos. I'm too like drilled into this. So yeah. So"
+  },
+  {
+   "start": 773.52,
+   "end": 777.82,
+   "text": "Anyways, that's what I'm gonna do. I'll upload this video whenever the, my cards, my memory cards"
+  },
+  {
+   "start": 777.82,
+   "end": 782.48,
+   "text": "Fill up on my video cameras. Basically I'm also doing masturbation videos. So it's, I'm not"
+  },
+  {
+   "start": 782.48,
+   "end": 789.28,
+   "text": "Just filling the cards up with my, uh, my videos. I was thinking that before that the"
+  },
+  {
+   "start": 789.28,
+   "end": 793.7,
+   "text": "Reason, cause I don't do that many masturbation videos. And I was thinking the reason is because"
+  },
+  {
+   "start": 793.7,
+   "end": 799.8,
+   "text": "I'm like old and I don't have boners anymore. And that's only like maybe like 30% of the"
+  },
+  {
+   "start": 799.8,
+   "end": 805.44,
+   "text": "Reason. Most of the reason actually is that I'm so drilled into this dude. Like I'll be working"
+  },
+  {
+   "start": 805.44,
+   "end": 809.72,
+   "text": "And I'll get like a boner. I'll be like, Ooh, that would be a good time to send a bunch"
+  },
+  {
+   "start": 809.72,
+   "end": 814.52,
+   "text": "To make a bunch of masturbation videos. It's way, it's way harder to make a masturbation video than"
+  },
+  {
+   "start": 814.52,
+   "end": 820.8,
+   "text": "It is to send them. Right. So you make them when you can, but, but I'm like, Oh, I'm working dude."
+  },
+  {
+   "start": 821.7,
+   "end": 826.7,
+   "text": "So those boners, they just come and go. And I just keep working, you know, and it happened like"
+  },
+  {
+   "start": 826.7,
+   "end": 832.16,
+   "text": "A couple of times a day. So it's kind of like only part. The reason is that I just can't,"
+  },
+  {
+   "start": 832.22,
+   "end": 835.86,
+   "text": "I don't have the time. And so that's why I'm not really filling out my memory cards, you know,"
+  },
+  {
+   "start": 835.86,
+   "end": 840.32,
+   "text": "But as soon as I fill up the memory cards, I'll send off all the masturbation videos."
+  },
+  {
+   "start": 841.38,
+   "end": 846.04,
+   "text": "A bunch of them are going to be the girls who have fucking come and gone from only fans."
+  },
+  {
+   "start": 846.9,
+   "end": 851.68,
+   "text": "Don't even exist anymore. I'll have to file them away until like a who the hell, who the fuck are"
+  },
+  {
+   "start": 851.68,
+   "end": 871.12,
+   "text": "These bitches filed? Um, but, um, anyways, um, uh, I, uh, but that's kind of like my only exercise."
+  },
+  {
+   "start": 871.12,
+   "end": 874.34,
+   "text": "I mean, that's what kind of another reason why I would do it. It's because it's exercise."
+  },
+  {
+   "start": 875.62,
+   "end": 880.7,
+   "text": "But, um, but, uh, yeah, so I'm going to go get my exercise. Now I also need to get food for my"
+  },
+  {
+   "start": 880.7,
+   "end": 884.58,
+   "text": "Lizard. He's like starving to death. I saw him earlier. I think he popped up to be like,"
+  },
+  {
+   "start": 884.62,
+   "end": 890.96,
+   "text": "Where's my food. He looked kind of shriveled down. So I'm going to go get like a dubia roaches and,"
+  },
+  {
+   "start": 890.96,
+   "end": 897.04,
+   "text": "Um, crickets for him. So, and an energy drink for myself to come back and get high with. And some"
+  },
+  {
+   "start": 897.04,
+   "end": 910.62,
+   "text": "Of those like Mexican taquitos and, um, and, um, what else the, the, the, the, uh, um, what the"
+  },
+  {
+   "start": 910.62,
+   "end": 917.73,
+   "text": "Fuck day is it today? God damn it. It's Thursday tomorrow at 10 o'clock in the morning. I have to"
+  },
+  {
+   "start": 917.73,
+   "end": 923.77,
+   "text": "Remember cause I'm, I'm, I was diurnal today, but I'm not usually diurnal. Like I, like diurnal as"
+  },
+  {
+   "start": 923.77,
+   "end": 930.91,
+   "text": "In. I, I crashed last night at like 10 or 11 at night or something. And I got it the"
+  },
+  {
+   "start": 930.91,
+   "end": 941.73,
+   "text": "Fuck up at like six or five, like the crack of dawn. I was up. So I am fricking like, I"
+  },
+  {
+   "start": 941.73,
+   "end": 948.85,
+   "text": "Am diurnal right now, which I'm like never diurnal. So, um, but I have to be diurnal"
+  },
+  {
+   "start": 948.85,
+   "end": 955.33,
+   "text": "Tomorrow. Um, like whenever I go diurnal, dude, I snap back to not nocturnal and I'll"
+  },
+  {
+   "start": 955.33,
+   "end": 962.67,
+   "text": "Stay nocturnal. Like I, I totally hardcore gravitate to nocturnal. Um, even though I"
+  },
+  {
+   "start": 962.67,
+   "end": 968.01,
+   "text": "Prefer being awake during the day, if I could choose, I would be awake during the day, but,"
+  },
+  {
+   "start": 968.15,
+   "end": 974.35,
+   "text": "Um, but I have to be up at 10 cause the, the, uh, the, uh, the, the plumbers coming over to"
+  },
+  {
+   "start": 974.35,
+   "end": 981.31,
+   "text": "Fix the leak at 10 tomorrow and the whole building had to shut down the water for me. So I have"
+  },
+  {
+   "start": 981.31,
+   "end": 985.93,
+   "text": "To, you know, be up for that. Plus the fucker will probably charge me. I keep came over here"
+  },
+  {
+   "start": 985.93,
+   "end": 991.81,
+   "text": "And he's like, Oh, you have to turn off the water. And I'm like, Oh, like he was here for"
+  },
+  {
+   "start": 991.81,
+   "end": 1004.56,
+   "text": "Like a minute. He's like, okay, so that's $56. I'm like, Oh God. Anyways. Um, um, I, uh,"
+  },
+  {
+   "start": 1004.56,
+   "end": 1007.88,
+   "text": "I'm going to go off to the store and that was my video and maybe like a month or two"
+  },
+  {
+   "start": 1007.88,
+   "end": 1012.12,
+   "text": "I'll upload the video. I'm kind of hoping that getting myself in time where I'm trying"
+  },
+  {
+   "start": 1012.12,
+   "end": 1016.04,
+   "text": "To get through with this project before I kind of anything changes. Cause I want to"
+  },
+  {
+   "start": 1016.04,
+   "end": 1021.56,
+   "text": "Get it over with, you know, it's a lot of work and I already kind of look at that as"
+  },
+  {
+   "start": 1021.56,
+   "end": 1026.08,
+   "text": "I, I already kind of built it all in my mind. And so I just kind of want to get it"
+  },
+  {
+   "start": 1026.08,
+   "end": 1031.6,
+   "text": "Over with before I have to live in a world too much where it doesn't exist, you know, but"
+  },
+  {
+   "start": 1031.6,
+   "end": 1036.72,
+   "text": "It's great that chat UTP saved my ass. So anyways, I will see you tomorrow."
+  }
+ ]
+}

@@ -1,0 +1,371 @@
+{
+ "youtube_id": "R1WSceaOD-Y",
+ "title": "4-26-24 History Books & CIA World Factbook Population",
+ "url": "https://youtu.be/R1WSceaOD-Y",
+ "published_at": "2024-04-26",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.21,
+   "end": 19.53,
+   "text": "Hello, I could have sworn I did a video earlier today, but I was looking at my computer, I looked on YouTube and I wasn't there, and I looked on my camera, and apparently I never did anything."
+  },
+  {
+   "start": 19.53,
+   "end": 42.51,
+   "text": "I'm actually working with both computers at the same time right now, it's really cool, I usually don't do that. Sometimes it causes problems because there's a bleed through with the copying and pasting, but I'm not copying and pasting with both computers, I can just type the stuff that I'm doing in with this computer, and every once in a while it bleeds through to that, but I just catch it and then I just copy it again and I put it up there."
+  },
+  {
+   "start": 42.51,
+   "end": 65.67,
+   "text": "So what I'm doing is, there's the book, I'm going in on all the history books that I have, I'm adding the CSS font for the 10 different, oh man, am I running out of juice? Maybe I should have checked that camera, maybe that had it."
+  },
+  {
+   "start": 65.67,
+   "end": 68.49,
+   "text": "But I would have, I think I would have uploaded it right away."
+  },
+  {
+   "start": 70.95,
+   "end": 88.11,
+   "text": "But yeah, adding all the CSS for all the different 10 borders, all of the 10 different numbers, and I never built the 10 numbers, so I built those today."
+  },
+  {
+   "start": 88.11,
+   "end": 101.29,
+   "text": "I didn't know how I wanted to have them sized. I had them sized from 36 pixels down to 10, in increments of 3, because I wanted to have it, you know, go down, like in case you have a bunch of bunch right together, they come to go down perfectly."
+  },
+  {
+   "start": 101.29,
+   "end": 105.51,
+   "text": "And then even the colors, I fixed the colors, I didn't do that yet."
+  },
+  {
+   "start": 106.33,
+   "end": 120.43,
+   "text": "And then, I did the first book and I added the new font for the author and the title at the top of the rainbow."
+  },
+  {
+   "start": 121.19,
+   "end": 130.69,
+   "text": "And then, yeah, did everything on the menu too, the whole book, like, you can do a lot of batch editing on it, did batch editing, because the borders of the menu are already black."
+  },
+  {
+   "start": 130.69,
+   "end": 137.99,
+   "text": "So I can turn the black to two, and then the borders are black for all the book, and so those are usually two, so those, to switch those two, so."
+  },
+  {
+   "start": 138.77,
+   "end": 147.91,
+   "text": "And then, and then I, I can batch edit in the border, because I don't have borders, usually."
+  },
+  {
+   "start": 148.51,
+   "end": 155.05,
+   "text": "And then I go and finish up all the borders and then the numbers, and I can do the numbers just by pasting them in and then changing the numbers."
+  },
+  {
+   "start": 155.33,
+   "end": 156.15,
+   "text": "Numbers take the longest."
+  },
+  {
+   "start": 156.65,
+   "end": 159.81,
+   "text": "Like, these ones that have the really long menus is going to be like a nightmare, but whatever."
+  },
+  {
+   "start": 160.69,
+   "end": 163.13,
+   "text": "Yeah, and it looks really cool."
+  },
+  {
+   "start": 163.21,
+   "end": 171.35,
+   "text": "Like, the first one, if you check out the first one, I guess, Adam Smith, the two Adam Smith books, and I've done, like, Aristotle."
+  },
+  {
+   "start": 171.65,
+   "end": 174.45,
+   "text": "And I'm just doing it alphabetically, so."
+  },
+  {
+   "start": 176.67,
+   "end": 184.99,
+   "text": "It takes forever to, I timed it, it was like two and a half minutes to move from the text, where I paste them back in, back to the book."
+  },
+  {
+   "start": 184.99,
+   "end": 191.69,
+   "text": "But, and then to make sure to know that I had put those in, I put the rainbow border around the page data one."
+  },
+  {
+   "start": 192.03,
+   "end": 195.91,
+   "text": "And, yeah, and then I'll go in later, knowing that it's all in, then I'll go adjust it all."
+  },
+  {
+   "start": 196.15,
+   "end": 197.77,
+   "text": "So, it'll be fun to adjust it, knowing it's all in."
+  },
+  {
+   "start": 197.77,
+   "end": 217.49,
+   "text": "So, it totally brain can't even, but then on this computer, I'm going in and on the education page and making the links that go from the, it's the list of all the books, of all the 264 countries from the CIA World Factbook page."
+  },
+  {
+   "start": 217.49,
+   "end": 219.41,
+   "text": "And, um, they do it alphabetically."
+  },
+  {
+   "start": 220.43,
+   "end": 228.27,
+   "text": "So, I have, uh, the flag of the country links up right above it to where that country is on the world population."
+  },
+  {
+   "start": 228.41,
+   "end": 231.17,
+   "text": "I have everybody in the whole world in little dots of a million."
+  },
+  {
+   "start": 231.81,
+   "end": 235.69,
+   "text": "And then I have the countries, um, with, uh, with the background color of the country."
+  },
+  {
+   "start": 235.83,
+   "end": 239.05,
+   "text": "And so, it'll bring you up to that country, and you can see which one it is based on the color."
+  },
+  {
+   "start": 239.67,
+   "end": 244.01,
+   "text": "And so, I'm making the links, but the, um, but the links were made wrong."
+  },
+  {
+   "start": 244.01,
+   "end": 248.65,
+   "text": "Um, so, I have to adjust those links, like I did, I keep doing it wrong the first time, so it's taking forever."
+  },
+  {
+   "start": 249.77,
+   "end": 252.67,
+   "text": "Um, and, uh, and, and so, yeah, that's what I did."
+  },
+  {
+   "start": 253.01,
+   "end": 259.53,
+   "text": "Earlier today, I got the, uh, the, um, flags."
+  },
+  {
+   "start": 260.83,
+   "end": 263.29,
+   "text": "And, uh, yeah, so that's what I'm doing."
+  },
+  {
+   "start": 263.67,
+   "end": 266.75,
+   "text": "Um, it's cool, because this takes forever to spin back."
+  },
+  {
+   "start": 267.05,
+   "end": 270.29,
+   "text": "So, that's, while that's thinking forever, especially on the big books."
+  },
+  {
+   "start": 270.29,
+   "end": 271.91,
+   "text": "Because one of them, it was only a few seconds."
+  },
+  {
+   "start": 272.51,
+   "end": 273.87,
+   "text": "Then I just go and I work on this."
+  },
+  {
+   "start": 274.01,
+   "end": 275.09,
+   "text": "And this workbook needs the work."
+  },
+  {
+   "start": 275.15,
+   "end": 277.01,
+   "text": "So, I'm just taking busy with both of them."
+  },
+  {
+   "start": 277.07,
+   "end": 277.51,
+   "text": "So, it's cool."
+  },
+  {
+   "start": 278.23,
+   "end": 279.75,
+   "text": "I only had one sandwich for food today."
+  },
+  {
+   "start": 279.91,
+   "end": 284.87,
+   "text": "But I went in, I got two thick buckets of, uh, giant, uh, doobie roaches for my Savannah monitor."
+  },
+  {
+   "start": 284.99,
+   "end": 287.33,
+   "text": "But, and I saw a big one in my bed on the ground."
+  },
+  {
+   "start": 287.41,
+   "end": 288.31,
+   "text": "And, like, somehow it got out."
+  },
+  {
+   "start": 288.41,
+   "end": 289.11,
+   "text": "Got it all right."
+  },
+  {
+   "start": 291.05,
+   "end": 295.83,
+   "text": "It, like, uh, climbed up the, um, the, the ramp for the, that I made for my take-up anyway."
+  },
+  {
+   "start": 296.51,
+   "end": 298.49,
+   "text": "So, I'll probably get hungry for another sandwich pretty soon."
+  },
+  {
+   "start": 298.49,
+   "end": 302.69,
+   "text": "But, um, I, uh, my meat, I didn't get to finish my meat before it got rotten."
+  },
+  {
+   "start": 302.81,
+   "end": 303.71,
+   "text": "It smelled bad, so I threw it away."
+  },
+  {
+   "start": 304.01,
+   "end": 306.31,
+   "text": "I got it, like, on discount because they're already kind of, kind of old."
+  },
+  {
+   "start": 306.73,
+   "end": 308.11,
+   "text": "With my mom last week."
+  },
+  {
+   "start": 308.19,
+   "end": 310.03,
+   "text": "But, anyway, so that's what I'm up to."
+  },
+  {
+   "start": 310.19,
+   "end": 312.39,
+   "text": "I'm, uh, gonna go smoke some weed."
+  },
+  {
+   "start": 312.51,
+   "end": 313.09,
+   "text": "I just moved in here."
+  },
+  {
+   "start": 313.17,
+   "end": 316.65,
+   "text": "I was in the bedroom as long as I could be until the battery on this computer died."
+  },
+  {
+   "start": 316.65,
+   "end": 321.47,
+   "text": "But, because, um, yeah, I guess I don't have a charger in there somehow."
+  },
+  {
+   "start": 321.87,
+   "end": 323.45,
+   "text": "I'll go look, make sure, but I don't think I do."
+  },
+  {
+   "start": 324.39,
+   "end": 325.99,
+   "text": "So, yeah, I'll hang out here until it charges."
+  },
+  {
+   "start": 326.11,
+   "end": 333.43,
+   "text": "Then I go back in my room and then put the two computers on the bed, you know, and then I can work on my belly."
+  },
+  {
+   "start": 333.43,
+   "end": 336.53,
+   "text": "So, yeah, I mean, it's exciting."
+  },
+  {
+   "start": 336.63,
+   "end": 337.47,
+   "text": "It's coming all together."
+  },
+  {
+   "start": 338.47,
+   "end": 339.83,
+   "text": "I'm just gonna rest my ass all weekend."
+  },
+  {
+   "start": 339.93,
+   "end": 350.97,
+   "text": "I was supposed to get the, uh, I was thinking about supposed to get the, uh, stuff, send in the fingerprint for the marijuana license and then, uh, or go get the fingerprint for marijuana license and then email my ID."
+  },
+  {
+   "start": 351.15,
+   "end": 352.21,
+   "text": "So I'll try to do that tomorrow."
+  },
+  {
+   "start": 352.21,
+   "end": 354.75,
+   "text": "Because I already spent $150 to get that."
+  },
+  {
+   "start": 355.29,
+   "end": 356.01,
+   "text": "Anyways, enough talking."
+  },
+  {
+   "start": 356.57,
+   "end": 362.59,
+   "text": "Because when I did this already, I'll go check the other video camera because I have a couple of them because I have a few of them."
+  },
+  {
+   "start": 362.65,
+   "end": 367.99,
+   "text": "The battery died, uh, but I don't think, I don't recall having recorded a video and then not uploaded it."
+  },
+  {
+   "start": 368.05,
+   "end": 370.57,
+   "text": "But I, I, I, my brain's starting to lose my brain."
+  },
+  {
+   "start": 370.93,
+   "end": 376.57,
+   "text": "If I did, I'll include it in the one tomorrow or I'll just throw it at tomorrow as the one tomorrow, even though I've never done that before."
+  },
+  {
+   "start": 376.67,
+   "end": 379.95,
+   "text": "But anyways, okay, I'm going to upload this right now."
+  },
+  {
+   "start": 379.95,
+   "end": 380.19,
+   "text": "Okay."
+  },
+  {
+   "start": 380.19,
+   "end": 383.77,
+   "text": "Talk to you tomorrow."
+  }
+ ]
+}

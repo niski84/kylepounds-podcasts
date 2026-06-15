@@ -1,0 +1,1601 @@
+{
+ "youtube_id": "vkXS5wpwwDA",
+ "title": "4-27-24 Population on Edu page & CSS on Books w/ 2 computers",
+ "url": "https://youtu.be/vkXS5wpwwDA",
+ "published_at": "2024-04-27",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.08,
+   "end": 1.72,
+   "text": "Hey, how are you going?"
+  },
+  {
+   "start": 2.06,
+   "end": 10.72,
+   "text": "This is 27th of April, 2024, on a Saturday at 3.33 p.m."
+  },
+  {
+   "start": 12.66,
+   "end": 14.14,
+   "text": "Yeah, check it out."
+  },
+  {
+   "start": 17.54,
+   "end": 18.7,
+   "text": "Just thinking, thinking."
+  },
+  {
+   "start": 20.38,
+   "end": 23.32,
+   "text": "But that's fine because I was working on that computer."
+  },
+  {
+   "start": 23.52,
+   "end": 24.56,
+   "text": "I'm working on both computers."
+  },
+  {
+   "start": 24.68,
+   "end": 25.18,
+   "text": "It's awesome."
+  },
+  {
+   "start": 25.36,
+   "end": 26.1,
+   "text": "It's the same time."
+  },
+  {
+   "start": 27.28,
+   "end": 30.32,
+   "text": "So it's a perfect time to work on both computers."
+  },
+  {
+   "start": 30.46,
+   "end": 31.74,
+   "text": "I was a little bit afraid to do it."
+  },
+  {
+   "start": 31.74,
+   "end": 33.34,
+   "text": "I don't have that much experience."
+  },
+  {
+   "start": 34.4,
+   "end": 36.64,
+   "text": "Working on both computers at the same time."
+  },
+  {
+   "start": 38.2,
+   "end": 39.48,
+   "text": "Oh, look, it stopped."
+  },
+  {
+   "start": 39.88,
+   "end": 45.36,
+   "text": "So now I can mouse over it to connect it to the CSS."
+  },
+  {
+   "start": 45.76,
+   "end": 50.32,
+   "text": "So, yeah, because the copy and paste would bleed through."
+  },
+  {
+   "start": 50.44,
+   "end": 52.74,
+   "text": "But I figured out a way so that it works."
+  },
+  {
+   "start": 52.92,
+   "end": 60.24,
+   "text": "Because what I'm copying is just from the URL of the flag."
+  },
+  {
+   "start": 60.5,
+   "end": 62.96,
+   "text": "And when it pastes here, it only goes on to the code."
+  },
+  {
+   "start": 62.96,
+   "end": 65.7,
+   "text": "So it doesn't pose a danger."
+  },
+  {
+   "start": 66.06,
+   "end": 73.3,
+   "text": "But it, and when it does, I just copy it off of my notes and put the code back in here."
+  },
+  {
+   "start": 73.54,
+   "end": 74.68,
+   "text": "And it takes forever."
+  },
+  {
+   "start": 74.68,
+   "end": 78.74,
+   "text": "Remember, um, when I got up this morning and I slept in really late."
+  },
+  {
+   "start": 79.38,
+   "end": 84.82,
+   "text": "When I got up this morning, uh, both computers were just insanely slow, you know."
+  },
+  {
+   "start": 84.88,
+   "end": 85.96,
+   "text": "And I was thinking to myself,"
+  },
+  {
+   "start": 87.1,
+   "end": 91.64,
+   "text": "Hmm, should I restart both of them?"
+  },
+  {
+   "start": 91.68,
+   "end": 94.52,
+   "text": "And I guess tomorrow that's what I'll do."
+  },
+  {
+   "start": 94.52,
+   "end": 101.28,
+   "text": "Maybe I should, maybe I should, maybe I should restart this computer to see what happens."
+  },
+  {
+   "start": 101.58,
+   "end": 102.22,
+   "text": "Yeah, I think it will."
+  },
+  {
+   "start": 103.18,
+   "end": 108.88,
+   "text": "And this one was being slow too, but, uh, so basically what I'm doing is, see, this just came."
+  },
+  {
+   "start": 108.98,
+   "end": 117.25,
+   "text": "Let's hear, let's, uh, see if you can add the, uh, because now I can't move the window."
+  },
+  {
+   "start": 117.25,
+   "end": 124.07,
+   "text": "All right, let's see if you can add the, add the, uh, rainbow border to it."
+  },
+  {
+   "start": 125.01,
+   "end": 131.13,
+   "text": "So now it's thinking, so, um, um, so that's what I'm doing on this one."
+  },
+  {
+   "start": 131.23,
+   "end": 136.55,
+   "text": "I'm just pasting in, you know, the ones to fix up those, and then I'll go and do it later."
+  },
+  {
+   "start": 136.55,
+   "end": 142.74,
+   "text": "But, um, on this computer, I was adding the, uh, the flags."
+  },
+  {
+   "start": 142.82,
+   "end": 143.92,
+   "text": "There was some kind of problem."
+  },
+  {
+   "start": 144.3,
+   "end": 145.4,
+   "text": "I tried to batch edit it."
+  },
+  {
+   "start": 145.8,
+   "end": 150.14,
+   "text": "I got, there was like 20 flags or something, or 30 flags that I didn't have."
+  },
+  {
+   "start": 150.22,
+   "end": 156.04,
+   "text": "Because I guess they're not official flags that I had to, I didn't, they weren't in my collection."
+  },
+  {
+   "start": 156.64,
+   "end": 159.52,
+   "text": "And so now I'm, uh, having to fire a flag."
+  },
+  {
+   "start": 160.66,
+   "end": 163.92,
+   "text": "And I batched it in, but I guess none of the batches work."
+  },
+  {
+   "start": 163.98,
+   "end": 166.66,
+   "text": "And then finally I got one to work, but I accidentally did the one that took away the background."
+  },
+  {
+   "start": 166.66,
+   "end": 167.44,
+   "text": "So it didn't happen."
+  },
+  {
+   "start": 167.52,
+   "end": 173.6,
+   "text": "So anyways, I'm having to collect all the flags, get them on my computer, open them up on Photoshop,"
+  },
+  {
+   "start": 173.86,
+   "end": 183.2,
+   "text": "Move them down to 20 pixels tall, and then link them on to my flags for the, uh, for the population."
+  },
+  {
+   "start": 183.46,
+   "end": 185.12,
+   "text": "And then, uh, add the link to it."
+  },
+  {
+   "start": 185.16,
+   "end": 186.92,
+   "text": "Or I'll batch edit on the link to it later."
+  },
+  {
+   "start": 187.14,
+   "end": 190.08,
+   "text": "But, but the computer's really slow, but, uh, it's doing it."
+  },
+  {
+   "start": 190.08,
+   "end": 195.46,
+   "text": "So, um, and, uh, yeah."
+  },
+  {
+   "start": 196.66,
+   "end": 197.78,
+   "text": "Boom, there we are."
+  },
+  {
+   "start": 198.48,
+   "end": 199.3,
+   "text": "Just added it."
+  },
+  {
+   "start": 200.52,
+   "end": 201.7,
+   "text": "Now it added it."
+  },
+  {
+   "start": 202.52,
+   "end": 203.82,
+   "text": "Now I can save it."
+  },
+  {
+   "start": 206.78,
+   "end": 208.1,
+   "text": "Now I can upload it."
+  },
+  {
+   "start": 211.96,
+   "end": 218.04,
+   "text": "Okay, so now what I would do, fill activity complete."
+  },
+  {
+   "start": 218.6,
+   "end": 224.22,
+   "text": "Now, now the thing what I would do is I would, uh, look at it on, uh, on my website to make sure that it went up."
+  },
+  {
+   "start": 224.28,
+   "end": 225.88,
+   "text": "But I'm, I'm not going to this time."
+  },
+  {
+   "start": 225.98,
+   "end": 227.0,
+   "text": "I have to hit yes."
+  },
+  {
+   "start": 228.95,
+   "end": 231.03,
+   "text": "So like, oh, it's, there's already one up there."
+  },
+  {
+   "start": 231.07,
+   "end": 232.01,
+   "text": "Are you sure we want to do it?"
+  },
+  {
+   "start": 232.01,
+   "end": 233.83,
+   "text": "Yes, and it takes forever for that to come."
+  },
+  {
+   "start": 233.89,
+   "end": 235.17,
+   "text": "It's kind of slow, but now it's doing it."
+  },
+  {
+   "start": 235.71,
+   "end": 238.31,
+   "text": "So anyways, um, I would normally check."
+  },
+  {
+   "start": 239.51,
+   "end": 248.59,
+   "text": "But I'm not going to this time because, uh, because I'm doing the video."
+  },
+  {
+   "start": 248.59,
+   "end": 251.33,
+   "text": "So, I'm just going to close this out."
+  },
+  {
+   "start": 252.19,
+   "end": 253.27,
+   "text": "Athanasius against Heathen."
+  },
+  {
+   "start": 253.33,
+   "end": 254.45,
+   "text": "It was only 100 pages."
+  },
+  {
+   "start": 257.27,
+   "end": 258.65,
+   "text": "And then we're going to do the next one."
+  },
+  {
+   "start": 260.21,
+   "end": 264.29,
+   "text": "I'm just doing a demo of how fast or slow the computer may or may not be."
+  },
+  {
+   "start": 264.97,
+   "end": 267.45,
+   "text": "So that was Athanasius against Heathen."
+  },
+  {
+   "start": 267.45,
+   "end": 273.63,
+   "text": "And now we bring, uh, Athanasius, uh, uh, Arian history."
+  },
+  {
+   "start": 276.38,
+   "end": 276.74,
+   "text": "Okay."
+  },
+  {
+   "start": 277.28,
+   "end": 280.92,
+   "text": "And then, that'll take, that'll take a while to bring up."
+  },
+  {
+   "start": 281.02,
+   "end": 285.1,
+   "text": "So anyway, uh, depending on how many pages it is."
+  },
+  {
+   "start": 285.16,
+   "end": 288.1,
+   "text": "See, one reason why it's so slow is because these are books, you know."
+  },
+  {
+   "start": 289.1,
+   "end": 291.64,
+   "text": "A lot of these pages, the books are 1,000 pages and stuff."
+  },
+  {
+   "start": 291.72,
+   "end": 293.48,
+   "text": "500 pages, a lot of them."
+  },
+  {
+   "start": 293.48,
+   "end": 299.02,
+   "text": "So, this way would, that one was 100 pages."
+  },
+  {
+   "start": 299.14,
+   "end": 300.08,
+   "text": "So it popped up quick."
+  },
+  {
+   "start": 300.14,
+   "end": 301.62,
+   "text": "So I don't think the computer's really that slow."
+  },
+  {
+   "start": 301.88,
+   "end": 304.66,
+   "text": "Or maybe not even that one because the education page is really big too."
+  },
+  {
+   "start": 305.24,
+   "end": 315.96,
+   "text": "So, anyway, um, I, uh, oh, look."
+  },
+  {
+   "start": 316.0,
+   "end": 318.94,
+   "text": "And now I just, see, because it's 100 pages."
+  },
+  {
+   "start": 319.76,
+   "end": 321.36,
+   "text": "It's not that long."
+  },
+  {
+   "start": 321.64,
+   "end": 322.08,
+   "text": "It's slow."
+  },
+  {
+   "start": 322.64,
+   "end": 324.26,
+   "text": "So I just hit return a few times."
+  },
+  {
+   "start": 324.62,
+   "end": 324.96,
+   "text": "Oh, here."
+  },
+  {
+   "start": 325.18,
+   "end": 326.64,
+   "text": "Why don't I do the videos or demo?"
+  },
+  {
+   "start": 326.64,
+   "end": 329.38,
+   "text": "So then I hit a, uh, hit a few times."
+  },
+  {
+   "start": 329.5,
+   "end": 330.4,
+   "text": "Return a few times."
+  },
+  {
+   "start": 331.24,
+   "end": 332.62,
+   "text": "Then you're going to paste it on."
+  },
+  {
+   "start": 334.32,
+   "end": 334.72,
+   "text": "Paste."
+  },
+  {
+   "start": 335.18,
+   "end": 335.82,
+   "text": "Oop, it went."
+  },
+  {
+   "start": 335.9,
+   "end": 337.0,
+   "text": "It didn't bleed this time."
+  },
+  {
+   "start": 337.96,
+   "end": 340.24,
+   "text": "And then I hit, get, oh, wow, look."
+  },
+  {
+   "start": 340.26,
+   "end": 341.78,
+   "text": "It already went back to design."
+  },
+  {
+   "start": 342.02,
+   "end": 342.62,
+   "text": "That's crazy."
+  },
+  {
+   "start": 343.2,
+   "end": 344.52,
+   "text": "Usually it's not this fast."
+  },
+  {
+   "start": 344.86,
+   "end": 348.48,
+   "text": "Like, normally I wouldn't be doing my vlog and showing, doing the work on that."
+  },
+  {
+   "start": 348.74,
+   "end": 350.68,
+   "text": "Because I thought it would just be spinning around forever."
+  },
+  {
+   "start": 351.36,
+   "end": 354.4,
+   "text": "But I've come across the streak of, of little books."
+  },
+  {
+   "start": 354.4,
+   "end": 355.86,
+   "text": "Just 107 pages."
+  },
+  {
+   "start": 357.46,
+   "end": 358.5,
+   "text": "Anyway, um, oh."
+  },
+  {
+   "start": 359.5,
+   "end": 367.46,
+   "text": "So, but I think yesterday, uh, the other thing I did was, uh, I, uh, I put on, I made the icons."
+  },
+  {
+   "start": 367.46,
+   "end": 367.88,
+   "text": "Hmm."
+  },
+  {
+   "start": 371.06,
+   "end": 378.06,
+   "text": "For, um, um, Atlantis the Island and Exceed 4000."
+  },
+  {
+   "start": 378.06,
+   "end": 379.98,
+   "text": "And I had the icon for Atlantis the City."
+  },
+  {
+   "start": 380.12,
+   "end": 381.02,
+   "text": "And I thought it was cool."
+  },
+  {
+   "start": 381.5,
+   "end": 389.68,
+   "text": "For some reason I never built the one for, um, uh, the, uh, the Island or the Exceed 4000."
+  },
+  {
+   "start": 389.68,
+   "end": 393.96,
+   "text": "So, I opened up the Island, did a screen capture of it on Google Earth."
+  },
+  {
+   "start": 394.92,
+   "end": 399.72,
+   "text": "Um, opened it up on, uh, Photoshop and brought it down to icon size."
+  },
+  {
+   "start": 399.82,
+   "end": 401.12,
+   "text": "I think it was like 32 pixels."
+  },
+  {
+   "start": 401.12,
+   "end": 403.4,
+   "text": "Opened it up on Google Earth."
+  },
+  {
+   "start": 403.98,
+   "end": 404.66,
+   "text": "Dreamweaver."
+  },
+  {
+   "start": 404.98,
+   "end": 406.76,
+   "text": "And then brought it down to 20."
+  },
+  {
+   "start": 407.26,
+   "end": 411.28,
+   "text": "Because I like to have the image bigger than 20 pixels, even though the image is 20 pixels on the internet."
+  },
+  {
+   "start": 411.28,
+   "end": 414.34,
+   "text": "Because you double tap and you can bring it up."
+  },
+  {
+   "start": 414.56,
+   "end": 416.26,
+   "text": "And my website is designed for that."
+  },
+  {
+   "start": 417.2,
+   "end": 420.66,
+   "text": "And, you know, maybe I should have or maybe later I'll make the images even bigger."
+  },
+  {
+   "start": 421.38,
+   "end": 424.28,
+   "text": "You know, once, once internet gets faster for everybody."
+  },
+  {
+   "start": 424.46,
+   "end": 425.58,
+   "text": "And computers get faster."
+  },
+  {
+   "start": 426.48,
+   "end": 427.48,
+   "text": "And that'd be really cool."
+  },
+  {
+   "start": 427.54,
+   "end": 428.38,
+   "text": "Because then you could zoom in."
+  },
+  {
+   "start": 429.14,
+   "end": 432.28,
+   "text": "And it'd be like these little mini web pages within the big web page, you know."
+  },
+  {
+   "start": 433.56,
+   "end": 437.34,
+   "text": "Um, but, um, but, and, and it's cool with the fonts."
+  },
+  {
+   "start": 437.38,
+   "end": 438.4,
+   "text": "Because the fonts are vectors."
+  },
+  {
+   "start": 438.4,
+   "end": 439.22,
+   "text": "So, you bring it in."
+  },
+  {
+   "start": 439.32,
+   "end": 441.26,
+   "text": "And then you can see all the fanciness of the fonts."
+  },
+  {
+   "start": 441.34,
+   "end": 441.8,
+   "text": "It's perfect."
+  },
+  {
+   "start": 442.46,
+   "end": 443.76,
+   "text": "Well, you can't really see them when they're small."
+  },
+  {
+   "start": 444.02,
+   "end": 444.86,
+   "text": "Oh, there's my little rascal."
+  },
+  {
+   "start": 445.28,
+   "end": 447.44,
+   "text": "I gave, uh, one of my ferrets a shower yesterday."
+  },
+  {
+   "start": 448.82,
+   "end": 453.8,
+   "text": "Um, so, um, but then after, and then I built the,"
+  },
+  {
+   "start": 453.8,
+   "end": 458.34,
+   "text": "Uh, for the, uh, XC4000 building."
+  },
+  {
+   "start": 458.54,
+   "end": 461.0,
+   "text": "And by opening it up and going to ground level."
+  },
+  {
+   "start": 461.0,
+   "end": 463.18,
+   "text": "And then just going far enough back until you could see the top."
+  },
+  {
+   "start": 463.2,
+   "end": 463.98,
+   "text": "And then screen capture."
+  },
+  {
+   "start": 465.04,
+   "end": 469.38,
+   "text": "Um, and I have those, if you link on it, it takes, it looks at it on, um, uh, Flickr."
+  },
+  {
+   "start": 470.4,
+   "end": 471.48,
+   "text": "Maybe I could show it here."
+  },
+  {
+   "start": 471.92,
+   "end": 476.26,
+   "text": "And so then, um, but I had, uh, the icon of Atlantis on there."
+  },
+  {
+   "start": 476.26,
+   "end": 477.18,
+   "text": "And I was the island."
+  },
+  {
+   "start": 477.18,
+   "end": 483.18,
+   "text": "And I was, and then I remembered that the, that I designed it for the,"
+  },
+  {
+   "start": 483.8,
+   "end": 487.92,
+   "text": "The, um, the city that I made and then not the real Atlantis."
+  },
+  {
+   "start": 487.92,
+   "end": 490.62,
+   "text": "Cause I think I found the real Atlantis after I built the city."
+  },
+  {
+   "start": 490.62,
+   "end": 493.82,
+   "text": "And so I wanted to do it on the icon with the real Atlantis."
+  },
+  {
+   "start": 493.82,
+   "end": 494.78,
+   "text": "Cause it looks different."
+  },
+  {
+   "start": 494.84,
+   "end": 496.38,
+   "text": "You can see that it's at a different location."
+  },
+  {
+   "start": 496.38,
+   "end": 503.42,
+   "text": "So I made a new Google earth file cause I had to retrace it cause it had to go up to"
+  },
+  {
+   "start": 503.42,
+   "end": 506.44,
+   "text": "Be able to see the city underneath cause, uh, to make it all."
+  },
+  {
+   "start": 506.44,
+   "end": 509.76,
+   "text": "So it's solid and like 700 meters or really that much."
+  },
+  {
+   "start": 509.92,
+   "end": 510.14,
+   "text": "I don't know."
+  },
+  {
+   "start": 510.14,
+   "end": 511.62,
+   "text": "So I had to build that."
+  },
+  {
+   "start": 511.72,
+   "end": 516.64,
+   "text": "And then, so then I, I, so then I had to do another screen capture and, um, and I did"
+  },
+  {
+   "start": 516.64,
+   "end": 521.64,
+   "text": "It actually with the, uh, the, uh, the red bullet lens."
+  },
+  {
+   "start": 521.74,
+   "end": 522.32,
+   "text": "Yeah, sure."
+  },
+  {
+   "start": 523.6,
+   "end": 525.54,
+   "text": "The actual Atlantis cause before it was just white."
+  },
+  {
+   "start": 526.36,
+   "end": 529.2,
+   "text": "Um, but I did the buildings."
+  },
+  {
+   "start": 529.78,
+   "end": 535.68,
+   "text": "Um, I turned the buildings, the actual buildings, the temple of Poseidon and the, uh, pyramid of"
+  },
+  {
+   "start": 535.68,
+   "end": 538.06,
+   "text": "Chitsunitza next to it, a hundred meters high and turn them white."
+  },
+  {
+   "start": 538.06,
+   "end": 539.52,
+   "text": "So you can see them and it's right in the middle of the Island."
+  },
+  {
+   "start": 540.0,
+   "end": 541.2,
+   "text": "And so it looks really cool."
+  },
+  {
+   "start": 541.3,
+   "end": 542.2,
+   "text": "You can kind of see it."
+  },
+  {
+   "start": 542.2,
+   "end": 547.96,
+   "text": "And, and when you, when you zoom it up really much, I tried to make the, um, the image,"
+  },
+  {
+   "start": 548.1,
+   "end": 548.96,
+   "text": "But it wouldn't open."
+  },
+  {
+   "start": 549.82,
+   "end": 553.46,
+   "text": "Tried to open the goddamn image and it wouldn't open cause the computer's working really slow."
+  },
+  {
+   "start": 553.54,
+   "end": 554.08,
+   "text": "Let's try it again."
+  },
+  {
+   "start": 555.14,
+   "end": 557.74,
+   "text": "I'm going to open up a little bit, whatever."
+  },
+  {
+   "start": 557.9,
+   "end": 559.18,
+   "text": "If you don't want to open, you don't want to open."
+  },
+  {
+   "start": 560.08,
+   "end": 562.1,
+   "text": "It was flipping around a bunch."
+  },
+  {
+   "start": 562.78,
+   "end": 563.66,
+   "text": "There we are."
+  },
+  {
+   "start": 564.14,
+   "end": 567.22,
+   "text": "There it is."
+  },
+  {
+   "start": 567.22,
+   "end": 569.78,
+   "text": "Yeah, I'll show all this stuff later."
+  },
+  {
+   "start": 571.38,
+   "end": 575.74,
+   "text": "So, um, so yeah, I wanted it to look good."
+  },
+  {
+   "start": 575.82,
+   "end": 580.54,
+   "text": "And then because maybe even because of those white bright from the actual buildings, it"
+  },
+  {
+   "start": 580.54,
+   "end": 584.22,
+   "text": "Creates a kind of, maybe it looks like a center that comes out."
+  },
+  {
+   "start": 584.28,
+   "end": 592.48,
+   "text": "So if you look at Atlantis and then you double tap and then you even hit command plus until"
+  },
+  {
+   "start": 592.48,
+   "end": 598.04,
+   "text": "It goes to 500 and then I do a screen capture of my icon, which was 32 pixels."
+  },
+  {
+   "start": 600.14,
+   "end": 605.62,
+   "text": "This is 20 pixels on the website, the 32 pixels icon that I did a screen capture."
+  },
+  {
+   "start": 605.62,
+   "end": 611.22,
+   "text": "So that's the actual icon that I screen captured off my website, off the education page."
+  },
+  {
+   "start": 612.08,
+   "end": 613.22,
+   "text": "And so that's Atlantis."
+  },
+  {
+   "start": 613.44,
+   "end": 619.16,
+   "text": "And you can see how it looks like a star comes up the top, right?"
+  },
+  {
+   "start": 619.2,
+   "end": 622.0,
+   "text": "And I think maybe it captured that maybe from the actual buildings."
+  },
+  {
+   "start": 622.0,
+   "end": 629.02,
+   "text": "And so that's the actual Atlantis island, what it looked like, actual size, an actual building."
+  },
+  {
+   "start": 629.22,
+   "end": 633.18,
+   "text": "Now, the interesting thing about this is that you can actually see the buildings, the two"
+  },
+  {
+   "start": 633.18,
+   "end": 637.18,
+   "text": "Buildings, other buildings, but those two buildings, you can see the first circle and"
+  },
+  {
+   "start": 637.18,
+   "end": 639.22,
+   "text": "Then the outer circle right there."
+  },
+  {
+   "start": 639.4,
+   "end": 642.62,
+   "text": "I put my building there because that's where Plato described it to be."
+  },
+  {
+   "start": 642.7,
+   "end": 647.22,
+   "text": "But the island, he said, was 500 kilometers by 530 kilometers."
+  },
+  {
+   "start": 647.22,
+   "end": 650.94,
+   "text": "That's exactly 550 kilometers if you measure it like that."
+  },
+  {
+   "start": 651.9,
+   "end": 655.06,
+   "text": "And that's exactly 530."
+  },
+  {
+   "start": 655.82,
+   "end": 660.94,
+   "text": "So the island is the exact location where he said it was because it was just out from straight"
+  },
+  {
+   "start": 660.94,
+   "end": 661.58,
+   "text": "To Gibraltar."
+  },
+  {
+   "start": 661.78,
+   "end": 666.24,
+   "text": "And then Columbus, when he landed, he landed right there, literally right there."
+  },
+  {
+   "start": 666.32,
+   "end": 670.48,
+   "text": "Not on that island, but in a little island right there."
+  },
+  {
+   "start": 671.1,
+   "end": 674.14,
+   "text": "So he would have hit smack dab in the middle of the island of Atlanta."
+  },
+  {
+   "start": 674.14,
+   "end": 677.1,
+   "text": "And so it's at the exact location."
+  },
+  {
+   "start": 677.6,
+   "end": 680.68,
+   "text": "Island's the same width, same height, same size."
+  },
+  {
+   "start": 682.32,
+   "end": 686.44,
+   "text": "The city's at this exact location."
+  },
+  {
+   "start": 687.32,
+   "end": 689.2,
+   "text": "And so now let's go over to the internet."
+  },
+  {
+   "start": 693.06,
+   "end": 694.14,
+   "text": "That would be..."
+  },
+  {
+   "start": 696.26,
+   "end": 697.38,
+   "text": "No, not there."
+  },
+  {
+   "start": 698.34,
+   "end": 699.08,
+   "text": "Right here."
+  },
+  {
+   "start": 699.08,
+   "end": 707.7,
+   "text": "So this is what it looks like when you click it and what it takes you up on Flickr."
+  },
+  {
+   "start": 709.14,
+   "end": 711.54,
+   "text": "And that's like zoomed up all the way."
+  },
+  {
+   "start": 712.26,
+   "end": 715.54,
+   "text": "But yeah, if you go in, that's the exact location."
+  },
+  {
+   "start": 716.16,
+   "end": 719.98,
+   "text": "And that's the city."
+  },
+  {
+   "start": 722.12,
+   "end": 722.92,
+   "text": "Screen capture."
+  },
+  {
+   "start": 722.92,
+   "end": 731.24,
+   "text": "And then up there is the XC4000 from the sky with the road around it."
+  },
+  {
+   "start": 731.32,
+   "end": 733.0,
+   "text": "Normally it didn't capture all of the road."
+  },
+  {
+   "start": 733.76,
+   "end": 737.64,
+   "text": "That's why it's rainbow because it's the XC4000's rainbow."
+  },
+  {
+   "start": 739.5,
+   "end": 742.18,
+   "text": "So that's pretty cool, man."
+  },
+  {
+   "start": 742.28,
+   "end": 744.7,
+   "text": "I was pretty jazzy, jazzed about that."
+  },
+  {
+   "start": 744.88,
+   "end": 747.1,
+   "text": "And so this is the XC4000."
+  },
+  {
+   "start": 753.3,
+   "end": 755.0,
+   "text": "That's what it looks like on Flickr."
+  },
+  {
+   "start": 758.1,
+   "end": 759.58,
+   "text": "I think you can zoom in on it."
+  },
+  {
+   "start": 760.26,
+   "end": 760.44,
+   "text": "No."
+  },
+  {
+   "start": 761.76,
+   "end": 762.16,
+   "text": "Yeah."
+  },
+  {
+   "start": 762.42,
+   "end": 763.82,
+   "text": "That's with the Google Earth of it."
+  },
+  {
+   "start": 763.88,
+   "end": 767.9,
+   "text": "That's my screen capture of the Google Earth of XC4000 building."
+  },
+  {
+   "start": 768.76,
+   "end": 771.22,
+   "text": "So I'm going to do a whole Google Earth thing of that."
+  },
+  {
+   "start": 777.01,
+   "end": 781.33,
+   "text": "I made a nuclear bomb explosion above Atlantis 2 and above Sphere."
+  },
+  {
+   "start": 781.77,
+   "end": 783.95,
+   "text": "So you can make stuff up, really big things."
+  },
+  {
+   "start": 783.95,
+   "end": 787.71,
+   "text": "Because when they're big, the space is a one meter apart."
+  },
+  {
+   "start": 787.71,
+   "end": 792.13,
+   "text": "So it's kind of like, yeah, you're not limited from making 3D stuff."
+  },
+  {
+   "start": 792.25,
+   "end": 797.29,
+   "text": "Hovering in the air and stuff with the Google Earth polygon tool."
+  },
+  {
+   "start": 797.87,
+   "end": 798.01,
+   "text": "Yeah."
+  },
+  {
+   "start": 798.21,
+   "end": 799.21,
+   "text": "You should see my Rome."
+  },
+  {
+   "start": 799.31,
+   "end": 799.83,
+   "text": "That's good, too."
+  },
+  {
+   "start": 800.45,
+   "end": 801.89,
+   "text": "So anyways, I'll do that later."
+  },
+  {
+   "start": 802.09,
+   "end": 802.37,
+   "text": "Oh."
+  },
+  {
+   "start": 804.11,
+   "end": 804.87,
+   "text": "Yeah, see?"
+  },
+  {
+   "start": 805.79,
+   "end": 806.69,
+   "text": "Athanasius is still."
+  },
+  {
+   "start": 806.83,
+   "end": 809.71,
+   "text": "See, remember how I pasted it?"
+  },
+  {
+   "start": 809.77,
+   "end": 813.69,
+   "text": "And then I switched it to try to get back to the page again?"
+  },
+  {
+   "start": 813.77,
+   "end": 814.55,
+   "text": "Well, it's still thinking."
+  },
+  {
+   "start": 815.31,
+   "end": 817.65,
+   "text": "And Athanasius is only 107 pages."
+  },
+  {
+   "start": 817.81,
+   "end": 820.47,
+   "text": "So most of it's pretty quick except for that part of it."
+  },
+  {
+   "start": 820.59,
+   "end": 823.37,
+   "text": "But I don't think it's because the computer's slow."
+  },
+  {
+   "start": 823.53,
+   "end": 823.71,
+   "text": "It's just."
+  },
+  {
+   "start": 825.07,
+   "end": 825.37,
+   "text": "Yeah."
+  },
+  {
+   "start": 825.55,
+   "end": 830.53,
+   "text": "So then what I do after is I'm going to."
+  },
+  {
+   "start": 830.59,
+   "end": 833.57,
+   "text": "I can badge edit those into becoming orange."
+  },
+  {
+   "start": 834.99,
+   "end": 837.45,
+   "text": "And then I'll have to make those pink."
+  },
+  {
+   "start": 838.29,
+   "end": 841.77,
+   "text": "And then, yeah, I'll have to actually count."
+  },
+  {
+   "start": 841.77,
+   "end": 844.55,
+   "text": "I don't have the chapters counted yet on that."
+  },
+  {
+   "start": 845.29,
+   "end": 846.13,
+   "text": "So it's a lot of steps."
+  },
+  {
+   "start": 846.25,
+   "end": 847.95,
+   "text": "But once you're done, it looks really cool."
+  },
+  {
+   "start": 849.31,
+   "end": 852.41,
+   "text": "So anyways, yeah, my back like started to hurt."
+  },
+  {
+   "start": 853.79,
+   "end": 856.75,
+   "text": "On the lower back, like a sharp shooting pain."
+  },
+  {
+   "start": 857.03,
+   "end": 864.29,
+   "text": "Like a tendon or something right around the lower lumbar got like pulled or torn away or something."
+  },
+  {
+   "start": 865.01,
+   "end": 866.05,
+   "text": "Just from sitting here."
+  },
+  {
+   "start": 866.05,
+   "end": 869.07,
+   "text": "And so I was like, oh, man, yeah, maybe that's my cue to go to the store."
+  },
+  {
+   "start": 869.51,
+   "end": 870.29,
+   "text": "My daily exercise."
+  },
+  {
+   "start": 871.65,
+   "end": 874.97,
+   "text": "So and my mom called me earlier and she's yelling at me, I guess."
+  },
+  {
+   "start": 875.03,
+   "end": 875.67,
+   "text": "And then I called her."
+  },
+  {
+   "start": 875.77,
+   "end": 876.07,
+   "text": "She dances."
+  },
+  {
+   "start": 876.23,
+   "end": 877.85,
+   "text": "She called me back and she's telling me that I need to exercise."
+  },
+  {
+   "start": 877.99,
+   "end": 878.57,
+   "text": "So, yeah, let's start."
+  },
+  {
+   "start": 878.91,
+   "end": 880.91,
+   "text": "Maybe I'll get a drink because I've been doing so well with this."
+  },
+  {
+   "start": 880.97,
+   "end": 882.45,
+   "text": "You know, using both computers and everything."
+  },
+  {
+   "start": 883.07,
+   "end": 884.31,
+   "text": "We're almost at the end of April."
+  },
+  {
+   "start": 884.45,
+   "end": 886.49,
+   "text": "And this is the first month where I've done the whole long thing."
+  },
+  {
+   "start": 886.49,
+   "end": 888.19,
+   "text": "So maybe I'll just splurge a little bit."
+  },
+  {
+   "start": 889.61,
+   "end": 890.01,
+   "text": "Splurge."
+  },
+  {
+   "start": 890.11,
+   "end": 892.51,
+   "text": "$2.79 a rush keys."
+  },
+  {
+   "start": 892.59,
+   "end": 893.35,
+   "text": "I think I'm going to."
+  },
+  {
+   "start": 894.23,
+   "end": 896.47,
+   "text": "Because yesterday I splurged my $2.29."
+  },
+  {
+   "start": 896.75,
+   "end": 899.49,
+   "text": "But they're having sale right now with C4s."
+  },
+  {
+   "start": 899.49,
+   "end": 899.95,
+   "text": "C4s."
+  },
+  {
+   "start": 900.55,
+   "end": 902.73,
+   "text": "It's totally worth 50 cents more than a NOS."
+  },
+  {
+   "start": 902.79,
+   "end": 903.33,
+   "text": "NOS is good."
+  },
+  {
+   "start": 903.45,
+   "end": 905.09,
+   "text": "But C4 tingles your bodies."
+  },
+  {
+   "start": 905.95,
+   "end": 910.97,
+   "text": "So I can have a bunch of reefers and watch my C4 and kind of chill out a little bit."
+  },
+  {
+   "start": 911.31,
+   "end": 912.55,
+   "text": "Maybe, yeah, do work."
+  },
+  {
+   "start": 913.29,
+   "end": 914.39,
+   "text": "Do work on that."
+  },
+  {
+   "start": 914.39,
+   "end": 916.11,
+   "text": "You know, as I think so."
+  },
+  {
+   "start": 916.13,
+   "end": 917.59,
+   "text": "But then maybe chill out and drink it."
+  },
+  {
+   "start": 918.09,
+   "end": 919.97,
+   "text": "And then get going again for round two."
+  },
+  {
+   "start": 920.25,
+   "end": 923.17,
+   "text": "But, yeah, I get these pages."
+  },
+  {
+   "start": 923.63,
+   "end": 924.49,
+   "text": "It's coming together."
+  },
+  {
+   "start": 924.57,
+   "end": 925.65,
+   "text": "I'm glad that I'm doing both computers."
+  },
+  {
+   "start": 925.77,
+   "end": 926.97,
+   "text": "I should keep staying in the habit."
+  },
+  {
+   "start": 927.33,
+   "end": 927.85,
+   "text": "You know?"
+  },
+  {
+   "start": 928.27,
+   "end": 929.97,
+   "text": "Because there's a lot of stuff I can do like this."
+  },
+  {
+   "start": 930.09,
+   "end": 932.59,
+   "text": "Because I can do all these, which is 264 countries."
+  },
+  {
+   "start": 933.13,
+   "end": 936.09,
+   "text": "I mean, these, which is like, I don't know, a couple hundred books."
+  },
+  {
+   "start": 936.27,
+   "end": 941.13,
+   "text": "And then 264 countries do the same thing over there on those."
+  },
+  {
+   "start": 941.77,
+   "end": 943.67,
+   "text": "And then maybe other big punches."
+  },
+  {
+   "start": 943.67,
+   "end": 945.49,
+   "text": "But avoid the timeline."
+  },
+  {
+   "start": 945.75,
+   "end": 949.23,
+   "text": "So, yeah, I just keep getting in the habit of doing both pieces at the same time."
+  },
+  {
+   "start": 949.29,
+   "end": 952.39,
+   "text": "And then I don't have to kind of like twiddle my thumbs."
+  },
+  {
+   "start": 954.53,
+   "end": 961.31,
+   "text": "My habit is, or my exercise actually is I send masturbation videos to all my girlfriends on OnlyFans."
+  },
+  {
+   "start": 961.31,
+   "end": 964.87,
+   "text": "Because that kind of, your heart has to go a little bit, right?"
+  },
+  {
+   "start": 965.51,
+   "end": 966.39,
+   "text": "To get a boner."
+  },
+  {
+   "start": 966.39,
+   "end": 968.85,
+   "text": "It's kind of like going up a flight of stairs."
+  },
+  {
+   "start": 969.61,
+   "end": 970.51,
+   "text": "There's this book."
+  },
+  {
+   "start": 970.71,
+   "end": 978.4,
+   "text": "I mean, this movie I saw starring Jack Nicholson."
+  },
+  {
+   "start": 978.78,
+   "end": 980.08,
+   "text": "And I can't remember what it's about."
+  },
+  {
+   "start": 980.46,
+   "end": 982.56,
+   "text": "Old person retirement movie or whatever."
+  },
+  {
+   "start": 982.68,
+   "end": 984.08,
+   "text": "And he has a heart attack."
+  },
+  {
+   "start": 984.08,
+   "end": 986.86,
+   "text": "But he's like a horndog or whatever."
+  },
+  {
+   "start": 987.0,
+   "end": 987.9,
+   "text": "And he wants to have sex."
+  },
+  {
+   "start": 988.1,
+   "end": 989.84,
+   "text": "And so he's like, but can I take Viagra?"
+  },
+  {
+   "start": 989.94,
+   "end": 992.04,
+   "text": "I guess he had to take Viagra to get a boner."
+  },
+  {
+   "start": 993.4,
+   "end": 999.94,
+   "text": "But the guy's like, well, if you, you can take a Viagra if you can walk up a flight of stairs."
+  },
+  {
+   "start": 1000.9,
+   "end": 1001.88,
+   "text": "So I guess that's the rule."
+  },
+  {
+   "start": 1002.28,
+   "end": 1007.22,
+   "text": "If your heart's strong enough to walk up a flight of stairs, then your heart's strong enough to take Viagra to get a boner."
+  },
+  {
+   "start": 1008.1,
+   "end": 1012.56,
+   "text": "So I guess that means that getting a boner is about like walking up a flight of stairs."
+  },
+  {
+   "start": 1013.4,
+   "end": 1014.6,
+   "text": "Which is better than nothing."
+  },
+  {
+   "start": 1015.34,
+   "end": 1018.58,
+   "text": "Anyways, I'm going to ride my bike all the way across the street to the store."
+  },
+  {
+   "start": 1019.76,
+   "end": 1022.34,
+   "text": "And then walk all the way into the store."
+  },
+  {
+   "start": 1023.22,
+   "end": 1026.96,
+   "text": "And it's like almost in the back where I have to go and get the energy drink."
+  },
+  {
+   "start": 1027.34,
+   "end": 1028.76,
+   "text": "So that's pretty cool."
+  },
+  {
+   "start": 1028.76,
+   "end": 1031.76,
+   "text": "So, and then I have to walk up stairs."
+  },
+  {
+   "start": 1031.88,
+   "end": 1033.04,
+   "text": "I live on the second floor."
+  },
+  {
+   "start": 1033.48,
+   "end": 1035.32,
+   "text": "So I have to walk up stairs every day."
+  },
+  {
+   "start": 1036.56,
+   "end": 1039.16,
+   "text": "Except for when I come here with my mom because then we go up the elevator."
+  },
+  {
+   "start": 1039.34,
+   "end": 1040.24,
+   "text": "Anyways, enough talking."
+  },
+  {
+   "start": 1040.66,
+   "end": 1041.54,
+   "text": "Talk to you tomorrow."
+  }
+ ]
+}

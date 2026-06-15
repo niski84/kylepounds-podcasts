@@ -1,0 +1,611 @@
+{
+ "youtube_id": "my7kuFJqOPg",
+ "title": "7-16-24 Building Website Tables with ChatGTP day 1",
+ "url": "https://youtu.be/my7kuFJqOPg",
+ "published_at": "2024-07-16",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.34,
+   "end": 11.08,
+   "text": "How's it going? It's 6.44 p.m. July 16th, Tuesday, 2024, and it's still daytime outside."
+  },
+  {
+   "start": 12.52,
+   "end": 17.58,
+   "text": "It was raining earlier today, and I think yesterday, so it's pretty cool."
+  },
+  {
+   "start": 18.58,
+   "end": 21.14,
+   "text": "I'm like, I don't feel very good."
+  },
+  {
+   "start": 21.14,
+   "end": 28.5,
+   "text": "I went to my mom's house today to put all the stuff back in her living room,"
+  },
+  {
+   "start": 28.5,
+   "end": 38.35,
+   "text": "Because her whole living room got put in wood floor from the rug."
+  },
+  {
+   "start": 39.11,
+   "end": 44.15,
+   "text": "And then we went over there today with her friend, and we were moving stuff back."
+  },
+  {
+   "start": 44.47,
+   "end": 47.97,
+   "text": "But I just didn't feel good. I felt, like, off, like no energy."
+  },
+  {
+   "start": 49.81,
+   "end": 55.61,
+   "text": "Only I knew that the reason, it wasn't that I needed sleep or food."
+  },
+  {
+   "start": 56.79,
+   "end": 58.95,
+   "text": "I was just melting away."
+  },
+  {
+   "start": 58.95,
+   "end": 63.91,
+   "text": "What I needed was, like, exercise, and, like, my knee was hurting, like, really bad."
+  },
+  {
+   "start": 64.47,
+   "end": 71.01,
+   "text": "Like, super-duper sore in the same spot that it got, like, torn a couple months ago."
+  },
+  {
+   "start": 71.09,
+   "end": 72.11,
+   "text": "So it, like, never heals."
+  },
+  {
+   "start": 72.23,
+   "end": 79.63,
+   "text": "Like, I can't heal if I can get injured, but I can't heal from whatever injury that I get."
+  },
+  {
+   "start": 79.77,
+   "end": 83.69,
+   "text": "And what it takes for me to get an injury is, like, sitting down."
+  },
+  {
+   "start": 83.69,
+   "end": 88.37,
+   "text": "I tore all those ligaments in my knee from sitting down on the floor when I was helping my mom in her office."
+  },
+  {
+   "start": 90.05,
+   "end": 99.19,
+   "text": "So, and I think it's, like, affecting my, like, work, or it's getting close to affecting my work."
+  },
+  {
+   "start": 99.19,
+   "end": 106.01,
+   "text": "So, yeah, so then, you know, the go-to thing is, like, I get desperate, and I'm like, oh, I quit it."
+  },
+  {
+   "start": 106.07,
+   "end": 113.73,
+   "text": "But I can't do that because at this point I can't imagine not working on the website all the time because I know, just, I just know."
+  },
+  {
+   "start": 114.53,
+   "end": 119.19,
+   "text": "It's just not worth slowing down because I have way too many things up in the air."
+  },
+  {
+   "start": 119.19,
+   "end": 132.71,
+   "text": "So I'm going to have to switch gears, basically, switch strategies on the cuff, and, yeah, just start going to the gym, I think, every day."
+  },
+  {
+   "start": 133.37,
+   "end": 141.31,
+   "text": "They're open from 5 in the morning until 11 in the afternoon every day, so I'm going to try to go on the 5."
+  },
+  {
+   "start": 141.37,
+   "end": 148.41,
+   "text": "Like, when it's, like, not that many people in there, it'll be better for me and all those machines and stuff."
+  },
+  {
+   "start": 148.41,
+   "end": 153.23,
+   "text": "So, try to go tomorrow at 5, 5, if I sleep today."
+  },
+  {
+   "start": 153.33,
+   "end": 154.71,
+   "text": "Maybe I'll try to get to sleep earlier."
+  },
+  {
+   "start": 155.59,
+   "end": 158.81,
+   "text": "I was dynamized a little bit before, or just whenever I get up."
+  },
+  {
+   "start": 160.49,
+   "end": 165.47,
+   "text": "I can't, I can't do this anymore."
+  },
+  {
+   "start": 165.61,
+   "end": 171.35,
+   "text": "I got a, somebody was interested in the room yesterday, but I'm not so sure I want to, like, have anybody move in now."
+  },
+  {
+   "start": 172.89,
+   "end": 176.51,
+   "text": "Because I don't feel good enough, I don't want to, like, have to clean up the place and everything, you know."
+  },
+  {
+   "start": 176.51,
+   "end": 184.81,
+   "text": "But, um, I only have, like, two more helpings of dubia roaches for my savannah monitor, so."
+  },
+  {
+   "start": 185.79,
+   "end": 190.09,
+   "text": "I'm going to have to give that thing back to the, um, pet shop pretty soon."
+  },
+  {
+   "start": 190.63,
+   "end": 191.47,
+   "text": "That's fine, whatever."
+  },
+  {
+   "start": 192.13,
+   "end": 194.97,
+   "text": "Because I'm, like, totally in the mood to just focus on those."
+  },
+  {
+   "start": 194.97,
+   "end": 214.68,
+   "text": "Um, um, Paula said that her mom said that we could build a house next to her dad's house on the land in, um, El Joaquin or whatever, Chile."
+  },
+  {
+   "start": 214.68,
+   "end": 218.42,
+   "text": "It's, like, ten miles in, Lynn from Pichicui."
+  },
+  {
+   "start": 219.1,
+   "end": 222.12,
+   "text": "It's actually called Pichicui Town, I think, on, according to Google Earth."
+  },
+  {
+   "start": 223.38,
+   "end": 225.08,
+   "text": "Yeah, and Lynn from the sea, so that's cool."
+  },
+  {
+   "start": 225.38,
+   "end": 227.04,
+   "text": "Ah, I'll be fine, maybe I'll do that."
+  },
+  {
+   "start": 228.0,
+   "end": 231.98,
+   "text": "And, like, directly up from, you know, an hour and a half, whatever, from Portillo."
+  },
+  {
+   "start": 232.22,
+   "end": 235.06,
+   "text": "But, that's, like, the coolest part of the world, if you think about it."
+  },
+  {
+   "start": 235.68,
+   "end": 237.06,
+   "text": "Big mountains right next to the town, too."
+  },
+  {
+   "start": 237.06,
+   "end": 242.9,
+   "text": "And, so, like, I can, like, I can, like, have a house there, but I have to have somebody build it first."
+  },
+  {
+   "start": 243.5,
+   "end": 244.42,
+   "text": "So, I'd have to have money."
+  },
+  {
+   "start": 246.68,
+   "end": 255.93,
+   "text": "Anyways, um, it'll be fun to, like, design your own and build, or have somebody build."
+  },
+  {
+   "start": 256.29,
+   "end": 258.11,
+   "text": "But, you design your own house."
+  },
+  {
+   "start": 258.21,
+   "end": 261.05,
+   "text": "Like, I would, it'd be cool to have, like, a multi-level house."
+  },
+  {
+   "start": 262.05,
+   "end": 263.71,
+   "text": "It'd be cool to have a three-level house."
+  },
+  {
+   "start": 265.15,
+   "end": 269.87,
+   "text": "And, they're, like, little rooms, but they're all, like, stacked on top of each other, like a four-level, whatever's legal."
+  },
+  {
+   "start": 269.87,
+   "end": 271.69,
+   "text": "So, I should do that."
+  },
+  {
+   "start": 272.05,
+   "end": 272.33,
+   "text": "Anyways."
+  },
+  {
+   "start": 273.83,
+   "end": 284.18,
+   "text": "Um, um, yeah, so, I'm still on that book, uh, Job, Book of Job."
+  },
+  {
+   "start": 284.88,
+   "end": 288.44,
+   "text": "I think it's, like, 2,500 pages or something, 3,000 pages."
+  },
+  {
+   "start": 289.36,
+   "end": 292.86,
+   "text": "Interesting part of history, I think, Gregory the Great, 600s."
+  },
+  {
+   "start": 293.28,
+   "end": 295.86,
+   "text": "From Rome, you know, and Rome is my town, so."
+  },
+  {
+   "start": 296.9,
+   "end": 301.02,
+   "text": "To do this particular book, really big book, from Roman times, yeah, I have to."
+  },
+  {
+   "start": 301.02,
+   "end": 303.7,
+   "text": "And do it, um, finish up."
+  },
+  {
+   "start": 304.38,
+   "end": 308.76,
+   "text": "So, yeah, like, most of it is already done somehow, and so I'm just doing the other parts, but it's so big."
+  },
+  {
+   "start": 309.42,
+   "end": 311.04,
+   "text": "So, hopefully I'll finish it today, and then move on."
+  },
+  {
+   "start": 311.1,
+   "end": 318.12,
+   "text": "And, yeah, like I said, maybe by the end of the week, finish the, uh, all of them, um, and then get going on putting them on the site."
+  },
+  {
+   "start": 318.12,
+   "end": 333.0,
+   "text": "And maybe if ChatGTP does a good job of building the, um, uh, the, the, uh, tables, all this warp drive, um, web designing will give me a sense of accomplishment enough to be able to work out in the gym an hour a day and not."
+  },
+  {
+   "start": 333.0,
+   "end": 342.98,
+   "text": "But before I, uh, start to, it starts to affect my ability to work, and, uh, well, also, you know, I can't really listen to books that much either."
+  },
+  {
+   "start": 343.06,
+   "end": 349.66,
+   "text": "I was just smoking a bunch of weed and listening, watching, oh, a lot of cool, like, music, um, like, classic concerts."
+  },
+  {
+   "start": 349.66,
+   "end": 373.25,
+   "text": "Concerts, cool moments in history and music and concerts, like, uh, Wolfgang Van Zahelen, um, playing with, uh, Dave Grohl at the Taylor Hawkins Memorial, uh, playing Hot For Teacher and On Fire, and I didn't even know that song, On Fire, and then I listened to it, remastered on YouTube, and I thought it was really good."
+  },
+  {
+   "start": 374.53,
+   "end": 376.09,
+   "text": "And then the music videos and stuff."
+  },
+  {
+   "start": 376.09,
+   "end": 389.65,
+   "text": "Um, today, uh, probably get back to the book later on, but, um, um, yeah, so that's what I'm up to."
+  },
+  {
+   "start": 391.03,
+   "end": 407.35,
+   "text": "Um, yeah, I imminently need to get exercise, but also imminently going to be done with all these books, and I like, uh, lining things up, uh, and, uh, because that's kind of like what my website does."
+  },
+  {
+   "start": 407.37,
+   "end": 416.09,
+   "text": "It's about, anyway, finding, making interesting ways to learn by aligning things together so that they can augment each other or helping to learn each other."
+  },
+  {
+   "start": 417.57,
+   "end": 423.81,
+   "text": "And, uh, there are a lot of interesting coincidences, like putting boulder, Rome on top of boulder is the coolest thing I can think of."
+  },
+  {
+   "start": 423.81,
+   "end": 435.11,
+   "text": "But, um, and so, to start going to the gym, maybe like an hour a day, which would, oh my god, would that make me feel better?"
+  },
+  {
+   "start": 435.17,
+   "end": 436.29,
+   "text": "Oh my god, would I be happy?"
+  },
+  {
+   "start": 436.53,
+   "end": 438.81,
+   "text": "Oh, no, I'm starting to get happy about it."
+  },
+  {
+   "start": 439.49,
+   "end": 440.67,
+   "text": "I think I'm excited about it."
+  },
+  {
+   "start": 440.91,
+   "end": 453.09,
+   "text": "Um, aligning that with, uh, having chat GTP, like lightning bolt fast, build, like, my website for me and stuff, like, that'd be trippy."
+  },
+  {
+   "start": 454.05,
+   "end": 457.23,
+   "text": "Hell, I should try to, I should buy, like, I should buy a bunch of mushrooms."
+  },
+  {
+   "start": 457.75,
+   "end": 459.47,
+   "text": "I saw ads on Instagram for mushrooms."
+  },
+  {
+   "start": 460.09,
+   "end": 461.41,
+   "text": "Can you buy them legally, like, online?"
+  },
+  {
+   "start": 461.51,
+   "end": 463.37,
+   "text": "Oh, I think there was, like, a cricket falling on my leg."
+  },
+  {
+   "start": 463.41,
+   "end": 464.11,
+   "text": "I need to grab that bitch."
+  },
+  {
+   "start": 465.43,
+   "end": 465.69,
+   "text": "Yeah."
+  },
+  {
+   "start": 465.95,
+   "end": 466.57,
+   "text": "Don't go anywhere."
+  },
+  {
+   "start": 468.43,
+   "end": 471.37,
+   "text": "Um, and then get the kit and grow them."
+  },
+  {
+   "start": 472.09,
+   "end": 472.41,
+   "text": "Right?"
+  },
+  {
+   "start": 472.41,
+   "end": 472.53,
+   "text": "Right?"
+  },
+  {
+   "start": 472.67,
+   "end": 477.99,
+   "text": "Work out an hour a day, be on mushrooms the whole time, and then come home and do freaking chat GTP on mushrooms."
+  },
+  {
+   "start": 479.11,
+   "end": 479.47,
+   "text": "Uh-huh."
+  },
+  {
+   "start": 479.47,
+   "end": 481.31,
+   "text": "Uh, for the website."
+  },
+  {
+   "start": 482.05,
+   "end": 484.03,
+   "text": "Anyways, um, I think that's enough talking."
+  },
+  {
+   "start": 484.13,
+   "end": 485.57,
+   "text": "I think I should try to grab that cricket."
+  },
+  {
+   "start": 486.81,
+   "end": 490.97,
+   "text": "This fucking, I don't know what the hell happened."
+  },
+  {
+   "start": 491.07,
+   "end": 498.17,
+   "text": "Like, I went into the pet store the other day and I got, I tried, I thought I asked for Dubia roaches, but I got crickets."
+  },
+  {
+   "start": 498.17,
+   "end": 504.69,
+   "text": "And gave me a hundred big crickets and, uh, normally get fifty, but he still gives me a hundred first time, big ones."
+  },
+  {
+   "start": 505.85,
+   "end": 507.33,
+   "text": "So I was like, alright, I'll just get the crickets."
+  },
+  {
+   "start": 507.79,
+   "end": 512.41,
+   "text": "Because, um, I thought I was going to Dubia roaches, but I got the crickets and I throw them in here, right?"
+  },
+  {
+   "start": 512.49,
+   "end": 516.31,
+   "text": "And, and I saw a few of them run around the house, but I didn't see any of them in there."
+  },
+  {
+   "start": 516.31,
+   "end": 520.85,
+   "text": "Like, usually when I throw them in, you see a bunch, at least a day or two along the sides."
+  },
+  {
+   "start": 520.91,
+   "end": 522.23,
+   "text": "I didn't see a single one in there every time."
+  },
+  {
+   "start": 522.71,
+   "end": 531.57,
+   "text": "Even the last time I threw them in, I think what happens is, I think that, uh, I think that Savannah monitor is going through a growth spurt."
+  },
+  {
+   "start": 531.65,
+   "end": 534.59,
+   "text": "And it just goes a freaking buck wild and just freaking eats them all."
+  },
+  {
+   "start": 534.59,
+   "end": 542.09,
+   "text": "So, let's see if it's, uh, let's see if it, that thing is, like, um, oh, is it anywhere?"
+  },
+  {
+   "start": 543.03,
+   "end": 544.11,
+   "text": "No, he's asleep."
+  },
+  {
+   "start": 545.45,
+   "end": 546.43,
+   "text": "Yeah, he's not there."
+  },
+  {
+   "start": 546.53,
+   "end": 550.46,
+   "text": "And there's the ferrets."
+  },
+  {
+   "start": 553.12,
+   "end": 553.94,
+   "text": "Yeah, so anyways."
+  },
+  {
+   "start": 555.12,
+   "end": 557.26,
+   "text": "So, uh, that's enough talking tomorrow."
+  },
+  {
+   "start": 557.26,
+   "end": 562.78,
+   "text": "I shall, I shall try, hopefully say, be bragging about how I'm done with the book of Job."
+  },
+  {
+   "start": 563.42,
+   "end": 565.84,
+   "text": "And, like, zooming through, you know?"
+  },
+  {
+   "start": 566.3,
+   "end": 568.64,
+   "text": "And maybe I'll, like, it'll sneak up on me and I'll be finished."
+  },
+  {
+   "start": 569.16,
+   "end": 570.78,
+   "text": "Like, tomorrow or the day after."
+  },
+  {
+   "start": 570.94,
+   "end": 572.26,
+   "text": "And then I can start going to the gym."
+  },
+  {
+   "start": 572.96,
+   "end": 573.86,
+   "text": "I'm also smoking a lot of weed."
+  },
+  {
+   "start": 573.94,
+   "end": 574.9,
+   "text": "Maybe that has something to do with it."
+  },
+  {
+   "start": 574.94,
+   "end": 576.28,
+   "text": "Maybe my, like, liver."
+  },
+  {
+   "start": 576.6,
+   "end": 578.54,
+   "text": "I should do research and see if it's bad on your liver."
+  },
+  {
+   "start": 578.6,
+   "end": 580.82,
+   "text": "But when I whack my liver, do-do, do-do, do-do, do-do."
+  },
+  {
+   "start": 581.22,
+   "end": 583.56,
+   "text": "It doesn't, it doesn't hurt at all."
+  },
+  {
+   "start": 583.7,
+   "end": 584.16,
+   "text": "Do-do, do-do."
+  },
+  {
+   "start": 584.7,
+   "end": 585.86,
+   "text": "Look at how bell if I am."
+  },
+  {
+   "start": 585.96,
+   "end": 586.44,
+   "text": "Do-do, do-do."
+  },
+  {
+   "start": 586.94,
+   "end": 589.54,
+   "text": "Anyways, um, the battery's about to do this."
+  },
+  {
+   "start": 590.06,
+   "end": 590.98,
+   "text": "Talk to you tomorrow."
+  },
+  {
+   "start": 591.08,
+   "end": 592.86,
+   "text": "I'm going to upload this whenever I get around to it."
+  }
+ ]
+}

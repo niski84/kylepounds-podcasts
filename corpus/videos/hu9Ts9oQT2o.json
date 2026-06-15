@@ -1,0 +1,4916 @@
+{
+ "youtube_id": "hu9Ts9oQT2o",
+ "title": "7-20-24 Website Tables with ChatGTP day 6",
+ "url": "https://youtu.be/hu9Ts9oQT2o",
+ "published_at": "2024-07-20",
+ "channel": "Kyle Pounds (channel 2)",
+ "enrichment": null,
+ "claims": [],
+ "transcript": [
+  {
+   "start": 0.26,
+   "end": 1.52,
+   "text": "Hey, how's it going?"
+  },
+  {
+   "start": 3.42,
+   "end": 4.78,
+   "text": "This is my vlog."
+  },
+  {
+   "start": 7.02,
+   "end": 13.9,
+   "text": "Yeah, it's 1235 p.m. July 20th, Saturday, 2024, Saturday."
+  },
+  {
+   "start": 14.92,
+   "end": 19.88,
+   "text": "Yeah, my goal was to get done with those books by Sunday, and I done gone went and got done"
+  },
+  {
+   "start": 19.88,
+   "end": 25.4,
+   "text": "With it the day before yesterday on Thursday at 5 in the morning, 6 in the morning on Friday"
+  },
+  {
+   "start": 25.4,
+   "end": 27.94,
+   "text": "Morning, which is my Sunday, my Thursday."
+  },
+  {
+   "start": 27.94,
+   "end": 33.56,
+   "text": "Anyway, so, um, as soon as I start talking, the birds start chirping."
+  },
+  {
+   "start": 33.66,
+   "end": 35.22,
+   "text": "Those things were fucking dead quiet."
+  },
+  {
+   "start": 36.92,
+   "end": 37.98,
+   "text": "That is so crazy."
+  },
+  {
+   "start": 38.88,
+   "end": 41.56,
+   "text": "They have, like, volume competitions with me."
+  },
+  {
+   "start": 42.66,
+   "end": 45.22,
+   "text": "Anyway, um, there they are."
+  },
+  {
+   "start": 45.52,
+   "end": 46.82,
+   "text": "Or maybe they heard the bird outside."
+  },
+  {
+   "start": 46.94,
+   "end": 49.58,
+   "text": "The lot of the bird outside start chirping just as soon as I start talking."
+  },
+  {
+   "start": 51.93,
+   "end": 53.33,
+   "text": "You little bastard bird."
+  },
+  {
+   "start": 55.41,
+   "end": 56.91,
+   "text": "Anyway, look what I did to my bike."
+  },
+  {
+   "start": 57.69,
+   "end": 60.75,
+   "text": "I hit a pothole, like, across the street at midnight."
+  },
+  {
+   "start": 60.85,
+   "end": 63.99,
+   "text": "But I guess that's not a parking lot anymore."
+  },
+  {
+   "start": 64.09,
+   "end": 65.19,
+   "text": "They put a bunch of buildings there."
+  },
+  {
+   "start": 65.89,
+   "end": 81.7,
+   "text": "Anyways, um, um, so, uh, last night, well, yesterday, I didn't really get a whole lot"
+  },
+  {
+   "start": 81.7,
+   "end": 85.08,
+   "text": "Done on the website because I had to hang out at my mom's house all day because, like,"
+  },
+  {
+   "start": 85.08,
+   "end": 92.04,
+   "text": "I went over there and I had to empty out her car and, uh, like, completely in the garage"
+  },
+  {
+   "start": 92.04,
+   "end": 93.72,
+   "text": "And move stuff around her house."
+  },
+  {
+   "start": 93.86,
+   "end": 101.42,
+   "text": "And then she was upstairs trying to print up some, like, uh, insurance thing and couldn't"
+  },
+  {
+   "start": 101.42,
+   "end": 103.58,
+   "text": "Figure out how to do it and had to get on tech support."
+  },
+  {
+   "start": 103.68,
+   "end": 105.02,
+   "text": "And it was, like, an hour and a half or something."
+  },
+  {
+   "start": 105.06,
+   "end": 106.78,
+   "text": "It was crazy just for that."
+  },
+  {
+   "start": 106.78,
+   "end": 111.26,
+   "text": "So I was kind of just down on the couch, fucking around on the phone and stuff."
+  },
+  {
+   "start": 111.5,
+   "end": 116.08,
+   "text": "And, um, and then we went to this place and that took forever."
+  },
+  {
+   "start": 116.26,
+   "end": 120.48,
+   "text": "That was, like, two or three freaking hours of whatever paperwork."
+  },
+  {
+   "start": 120.64,
+   "end": 121.58,
+   "text": "But, yeah, she got her car."
+  },
+  {
+   "start": 121.66,
+   "end": 127.92,
+   "text": "She got her 25 Nissan Leaf, um, S, um, for $2,200."
+  },
+  {
+   "start": 127.92,
+   "end": 131.82,
+   "text": "And then I guess it's $9 a month for two years."
+  },
+  {
+   "start": 132.14,
+   "end": 137.02,
+   "text": "Uh, and then she can only drive at 2,000 miles, um, 20,000 miles."
+  },
+  {
+   "start": 138.28,
+   "end": 141.1,
+   "text": "Um, but then she got, like, this different coverage."
+  },
+  {
+   "start": 141.22,
+   "end": 142.78,
+   "text": "So I guess she pays, like, 50 a month."
+  },
+  {
+   "start": 143.08,
+   "end": 146.16,
+   "text": "She gets, like, free roadside assistance and, like, all this other stuff."
+  },
+  {
+   "start": 146.32,
+   "end": 150.76,
+   "text": "But, yeah, so she doesn't have to, and the dealership is, like, in town, like, five blocks"
+  },
+  {
+   "start": 150.76,
+   "end": 151.7,
+   "text": "Away from her house."
+  },
+  {
+   "start": 151.7,
+   "end": 158.24,
+   "text": "So every six months she goes in for the, like, the tune-up, and then that's it."
+  },
+  {
+   "start": 158.34,
+   "end": 160.34,
+   "text": "So she basically has a car she doesn't have to worry about."
+  },
+  {
+   "start": 160.48,
+   "end": 161.4,
+   "text": "Uh, and then she gave me hers."
+  },
+  {
+   "start": 161.46,
+   "end": 162.18,
+   "text": "So I have a car now."
+  },
+  {
+   "start": 162.74,
+   "end": 164.1,
+   "text": "So now my life is pretty cool."
+  },
+  {
+   "start": 164.18,
+   "end": 167.7,
+   "text": "But I don't, I don't, I'm not going to have the money to drive it."
+  },
+  {
+   "start": 167.8,
+   "end": 168.8,
+   "text": "But I have a car."
+  },
+  {
+   "start": 168.92,
+   "end": 170.42,
+   "text": "So, like, I'm going to park it in the garage."
+  },
+  {
+   "start": 170.44,
+   "end": 171.98,
+   "text": "And I have insurance for, like, 10 days."
+  },
+  {
+   "start": 172.1,
+   "end": 173.16,
+   "text": "Like, the layover or whatever."
+  },
+  {
+   "start": 173.78,
+   "end": 174.94,
+   "text": "And three quarters of a tank."
+  },
+  {
+   "start": 175.02,
+   "end": 180.06,
+   "text": "So I was thinking about, um, driving my mom up to, uh, Gross Reservoir to look at the new"
+  },
+  {
+   "start": 180.06,
+   "end": 180.38,
+   "text": "Dam."
+  },
+  {
+   "start": 180.38,
+   "end": 181.42,
+   "text": "Um, if she can do that."
+  },
+  {
+   "start": 181.5,
+   "end": 185.54,
+   "text": "If she's, you know, not too lazy or whatever."
+  },
+  {
+   "start": 185.72,
+   "end": 188.74,
+   "text": "But, uh, but yeah, she has her new car."
+  },
+  {
+   "start": 190.38,
+   "end": 191.8,
+   "text": "I want to borrow it, you know."
+  },
+  {
+   "start": 191.92,
+   "end": 193.62,
+   "text": "Zero to sixty, six point seven seconds."
+  },
+  {
+   "start": 193.92,
+   "end": 195.64,
+   "text": "That'll be the fastest car I've ever driven."
+  },
+  {
+   "start": 196.22,
+   "end": 197.6,
+   "text": "Or even been in, I think."
+  },
+  {
+   "start": 197.72,
+   "end": 199.36,
+   "text": "So that'd be fun."
+  },
+  {
+   "start": 199.36,
+   "end": 213.49,
+   "text": "Um, and, um, so, um, and yeah, and then I came back here and, uh, I kind of, and then"
+  },
+  {
+   "start": 213.49,
+   "end": 217.89,
+   "text": "I, because I was done with those books, I started on back on the web stuff that I was doing before"
+  },
+  {
+   "start": 217.89,
+   "end": 219.31,
+   "text": "I made those books, started doing those books."
+  },
+  {
+   "start": 219.43,
+   "end": 225.67,
+   "text": "It was, um, I have, like, so many different things that I didn't manage to put on the site"
+  },
+  {
+   "start": 225.67,
+   "end": 226.93,
+   "text": "That I was, like, halfway done with."
+  },
+  {
+   "start": 226.93,
+   "end": 227.43,
+   "text": "Like, Livvy."
+  },
+  {
+   "start": 227.49,
+   "end": 228.73,
+   "text": "I never put the Livvy menu on."
+  },
+  {
+   "start": 229.37,
+   "end": 234.83,
+   "text": "But I also never put the, um, education section, or the, the, the, the history writers of my"
+  },
+  {
+   "start": 234.83,
+   "end": 235.77,
+   "text": "Education page up."
+  },
+  {
+   "start": 236.39,
+   "end": 242.07,
+   "text": "And I looked at it, and, yeah, the final one needed to be organized still, and the ones"
+  },
+  {
+   "start": 242.07,
+   "end": 247.41,
+   "text": "In the middle of the, um, the links were all broken, and then, so that took forever, but"
+  },
+  {
+   "start": 247.41,
+   "end": 250.25,
+   "text": "I finished it, and it was awesome, because now it's a timeline."
+  },
+  {
+   "start": 250.95,
+   "end": 255.27,
+   "text": "And then I proceeded to fix the links of the images, because I noticed that, and I was doing"
+  },
+  {
+   "start": 255.27,
+   "end": 258.43,
+   "text": "That, and then I noticed that some of them didn't have them, so I started adding them,"
+  },
+  {
+   "start": 258.47,
+   "end": 262.33,
+   "text": "And then I noticed that, this is how it happens, this is how the snowball takes over."
+  },
+  {
+   "start": 262.99,
+   "end": 268.35,
+   "text": "And then I noticed how, um, the images of the writers, I just used, like, a random"
+  },
+  {
+   "start": 268.35,
+   "end": 270.41,
+   "text": "Writer image, or whatever, I didn't use his image."
+  },
+  {
+   "start": 271.31,
+   "end": 275.31,
+   "text": "And so now, I'm, like, going into the Wikipedia of all these writers, and I'm getting their"
+  },
+  {
+   "start": 275.31,
+   "end": 280.65,
+   "text": "Actual image, and I'm not even using their actual image, I have to cut the, uh, I have"
+  },
+  {
+   "start": 280.65,
+   "end": 285.15,
+   "text": "To make it a PNG, and make the background cut it around their body, so that in the icon"
+  },
+  {
+   "start": 285.15,
+   "end": 290.49,
+   "text": "Form, it makes it more personable, makes it more, uh, you can see it better, because"
+  },
+  {
+   "start": 290.49,
+   "end": 295.53,
+   "text": "The pixels are only 32 pixels vertical, but it's going to be the same exact image that"
+  },
+  {
+   "start": 295.53,
+   "end": 299.57,
+   "text": "I will have of the guy on his book page, so now all the book pages are going to have"
+  },
+  {
+   "start": 299.57,
+   "end": 304.13,
+   "text": "The image of the writer, and I'm like, of course, and it's going to be the same shape,"
+  },
+  {
+   "start": 304.19,
+   "end": 308.41,
+   "text": "Cut out, of what you see on the icon on this page, so it all ties it together for the memorization,"
+  },
+  {
+   "start": 308.57,
+   "end": 314.83,
+   "text": "But that takes forever, because now I'm using, like, you can't do those magical outlines,"
+  },
+  {
+   "start": 314.95,
+   "end": 317.81,
+   "text": "Because they're in front of a backdrop, and there's no, it's all the same color."
+  },
+  {
+   "start": 318.53,
+   "end": 321.35,
+   "text": "So you have to do it manually, and then when you get it, I don't even know, maybe somebody"
+  },
+  {
+   "start": 321.35,
+   "end": 326.43,
+   "text": "Can help me, and then I have to go and knock those out, but that takes forever, because"
+  },
+  {
+   "start": 326.43,
+   "end": 329.73,
+   "text": "I have to, he hits one of those with the background eraser, and then you have to get through the"
+  },
+  {
+   "start": 329.73,
+   "end": 331.27,
+   "text": "Brush, and brush that, and you still don't get them all."
+  },
+  {
+   "start": 331.61,
+   "end": 335.23,
+   "text": "Is there a way you can make, like, a rectangle or whatever, and then everything inside of"
+  },
+  {
+   "start": 335.23,
+   "end": 336.27,
+   "text": "It gets, like, knocked out?"
+  },
+  {
+   "start": 336.99,
+   "end": 341.01,
+   "text": "I tried that yesterday, it didn't work, um, I need to watch YouTube, or, um, Photoshop tutorials"
+  },
+  {
+   "start": 341.01,
+   "end": 344.29,
+   "text": "On that, but maybe there's an AI I can say."
+  },
+  {
+   "start": 344.35,
+   "end": 348.33,
+   "text": "Hey, AI, take that away, because this is going to take forever."
+  },
+  {
+   "start": 348.43,
+   "end": 349.19,
+   "text": "Maybe I shouldn't do it."
+  },
+  {
+   "start": 349.19,
+   "end": 352.89,
+   "text": "You know what, I don't think I'm going to do it, before, this is going to be the last"
+  },
+  {
+   "start": 352.89,
+   "end": 356.65,
+   "text": "One that I do like this, this is me being an idiot, because I did, like, a half dozen"
+  },
+  {
+   "start": 356.65,
+   "end": 359.69,
+   "text": "Or something last night, until I went to sleep, because I was just too excited about it."
+  },
+  {
+   "start": 360.25,
+   "end": 363.93,
+   "text": "I'm going to finish this one, upload it, and then, how are my little ferrets saying hi?"
+  },
+  {
+   "start": 364.49,
+   "end": 370.85,
+   "text": "Licking my, like, well, I forgot to lick my leg for, like, five minutes."
+  },
+  {
+   "start": 371.29,
+   "end": 374.15,
+   "text": "I was, like, just staring at him, like, when, are you going to keep doing that?"
+  },
+  {
+   "start": 374.21,
+   "end": 376.85,
+   "text": "You just kept licking the same part in my leg for, like, five minutes."
+  },
+  {
+   "start": 376.85,
+   "end": 378.69,
+   "text": "Yeah, so that's nice."
+  },
+  {
+   "start": 379.15,
+   "end": 382.77,
+   "text": "Maybe he was being reciprocal, you know, because I pet him forever."
+  },
+  {
+   "start": 382.89,
+   "end": 387.89,
+   "text": "I pick him up, and I just scratch him and pet him, and once with my mom's cat, or my brother's"
+  },
+  {
+   "start": 387.89,
+   "end": 392.63,
+   "text": "Cat, my mom was taking care of him a long time ago, um, my mom was actually staying here,"
+  },
+  {
+   "start": 392.71,
+   "end": 397.91,
+   "text": "And I was here, and, uh, and, like, you know, he was kind of more stuck in this apartment,"
+  },
+  {
+   "start": 397.91,
+   "end": 403.13,
+   "text": "Even though he was free-roaming freely, but, um, because he'd meow, and you hear him, and"
+  },
+  {
+   "start": 403.13,
+   "end": 403.57,
+   "text": "You break him in."
+  },
+  {
+   "start": 403.71,
+   "end": 406.37,
+   "text": "I mean, these cats weren't even allowed here, but anyways, I was petting him a lot."
+  },
+  {
+   "start": 406.45,
+   "end": 409.09,
+   "text": "You pet him, pet him, pet him, pet him, pet him, and I've noticed this a bunch of times with cats."
+  },
+  {
+   "start": 409.65,
+   "end": 411.27,
+   "text": "Pet him, pet him, and then he starts kneading me."
+  },
+  {
+   "start": 411.35,
+   "end": 412.51,
+   "text": "He was, like, kneading my chest."
+  },
+  {
+   "start": 413.09,
+   "end": 417.21,
+   "text": "So they kind of, like, pet you back, and they want to get pet more, and they knead you."
+  },
+  {
+   "start": 418.03,
+   "end": 422.41,
+   "text": "And so maybe he was kind of, like, trying to, like, do his version of petting me by just"
+  },
+  {
+   "start": 422.41,
+   "end": 423.23,
+   "text": "Licking me forever."
+  },
+  {
+   "start": 423.39,
+   "end": 424.21,
+   "text": "Ha ha ha, that's funny."
+  },
+  {
+   "start": 424.97,
+   "end": 430.47,
+   "text": "Anyways, um, yeah, because it takes forever to click those and knock those out, and with"
+  },
+  {
+   "start": 430.47,
+   "end": 433.19,
+   "text": "AI, it seems like that would be something AI could do, you know?"
+  },
+  {
+   "start": 433.23,
+   "end": 436.69,
+   "text": "Like, all, all the ones outside of the man, get rid of."
+  },
+  {
+   "start": 436.97,
+   "end": 437.55,
+   "text": "Yes, master."
+  },
+  {
+   "start": 438.03,
+   "end": 438.63,
+   "text": "But I don't know."
+  },
+  {
+   "start": 439.77,
+   "end": 445.31,
+   "text": "Um, because, anyways, so maybe I'll get, maybe I'll get bored with that after this one,"
+  },
+  {
+   "start": 445.31,
+   "end": 449.39,
+   "text": "Because what I want to do, what I really want to do, I was actually, when I was sleeping"
+  },
+  {
+   "start": 449.39,
+   "end": 452.33,
+   "text": "Nice at night, I was thinking to myself, yeah, don't do that image thing."
+  },
+  {
+   "start": 452.39,
+   "end": 453.31,
+   "text": "What you want to do is the book."
+  },
+  {
+   "start": 453.39,
+   "end": 455.53,
+   "text": "So I'm going to, yeah, proceed with the books."
+  },
+  {
+   "start": 455.77,
+   "end": 457.29,
+   "text": "Um, first one's going to be Livy."
+  },
+  {
+   "start": 457.97,
+   "end": 463.55,
+   "text": "I'm going to, um, cut, cut, and paste, because I already have it halfway built."
+  },
+  {
+   "start": 463.67,
+   "end": 468.49,
+   "text": "Um, all the ones, um, that are on the, uh, notes program."
+  },
+  {
+   "start": 469.19,
+   "end": 473.09,
+   "text": "Back on the Livy page, finish the Livy page, put it on the main page, make sure all the links"
+  },
+  {
+   "start": 473.09,
+   "end": 474.69,
+   "text": "Work, and check it out, you know?"
+  },
+  {
+   "start": 474.69,
+   "end": 475.47,
+   "text": "That's the main one."
+  },
+  {
+   "start": 476.19,
+   "end": 478.91,
+   "text": "It has two, two other, uh, menus I made for it."
+  },
+  {
+   "start": 478.93,
+   "end": 481.11,
+   "text": "A hundred words, no, no, fifty words and ten words."
+  },
+  {
+   "start": 481.97,
+   "end": 483.11,
+   "text": "So that's four copies."
+  },
+  {
+   "start": 483.51,
+   "end": 485.63,
+   "text": "Original, hundred, ten, and then numbered."
+  },
+  {
+   "start": 486.01,
+   "end": 490.05,
+   "text": "So, um, that'll be the first, yeah, the first one that I get to check out."
+  },
+  {
+   "start": 490.11,
+   "end": 491.27,
+   "text": "And then if that works, oh, yeah."
+  },
+  {
+   "start": 491.77,
+   "end": 495.25,
+   "text": "And then try to build something from scratch with JTGTP to see how that works, and then"
+  },
+  {
+   "start": 495.25,
+   "end": 495.95,
+   "text": "See if that takes time."
+  },
+  {
+   "start": 495.99,
+   "end": 500.39,
+   "text": "Because I'm just flabbergasted with two weeks, you know, or whatever it was, just to create"
+  },
+  {
+   "start": 500.39,
+   "end": 500.87,
+   "text": "All those."
+  },
+  {
+   "start": 501.41,
+   "end": 502.39,
+   "text": "It's like, oh my God, you know?"
+  },
+  {
+   "start": 502.39,
+   "end": 505.03,
+   "text": "So, well, my mouth, my house is a disaster."
+  },
+  {
+   "start": 505.13,
+   "end": 510.35,
+   "text": "I have to clean, because I was, I was just drilled, uh, working all the time."
+  },
+  {
+   "start": 510.45,
+   "end": 512.07,
+   "text": "I didn't have the time or energy or motivation."
+  },
+  {
+   "start": 512.19,
+   "end": 517.11,
+   "text": "And then, of course, when I have the time, I, now the motivation's gone to take care of"
+  },
+  {
+   "start": 517.11,
+   "end": 517.85,
+   "text": "My house, you know?"
+  },
+  {
+   "start": 517.85,
+   "end": 519.67,
+   "text": "Like, the entire house looks like that."
+  },
+  {
+   "start": 520.05,
+   "end": 521.27,
+   "text": "The entire, you don't believe me?"
+  },
+  {
+   "start": 521.85,
+   "end": 522.41,
+   "text": "Here, I'll show you."
+  },
+  {
+   "start": 525.6,
+   "end": 527.54,
+   "text": "The entire freaking place looks like that."
+  },
+  {
+   "start": 527.54,
+   "end": 571.33,
+   "text": "Do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do"
+  },
+  {
+   "start": 571.33,
+   "end": 573.25,
+   "text": "Try to get people to not get ferrets."
+  },
+  {
+   "start": 573.67,
+   "end": 576.17,
+   "text": "That's probably like a month of pooping."
+  },
+  {
+   "start": 579.29,
+   "end": 585.9,
+   "text": "Anyways, so, yeah, I think I'm going to proceed today."
+  },
+  {
+   "start": 586.12,
+   "end": 590.24,
+   "text": "My ankle hurts really bad from an injury I had 25 years ago, and my hip."
+  },
+  {
+   "start": 590.86,
+   "end": 594.52,
+   "text": "I was thinking this morning, I think, this is my prediction."
+  },
+  {
+   "start": 595.26,
+   "end": 597.12,
+   "text": "My website's going to hit the main waves."
+  },
+  {
+   "start": 597.12,
+   "end": 604.1,
+   "text": "In two years, it's going to hit the mainstream at the exact same time that I'm going to lose the ability to walk."
+  },
+  {
+   "start": 605.16,
+   "end": 608.42,
+   "text": "So I'm going to be getting into this, like, I'll be 52."
+  },
+  {
+   "start": 609.3,
+   "end": 618.24,
+   "text": "I'll be into this recuperation, rehabilitation things, learning how to walk up stairs and stuff like that again."
+  },
+  {
+   "start": 620.58,
+   "end": 625.92,
+   "text": "So that's going to be interesting, and that's my prediction because my life works out like that."
+  },
+  {
+   "start": 625.92,
+   "end": 628.38,
+   "text": "Things align themselves perfectly, you know."
+  },
+  {
+   "start": 629.12,
+   "end": 630.88,
+   "text": "And so that's why it's good to predict."
+  },
+  {
+   "start": 631.0,
+   "end": 637.68,
+   "text": "That's why it's good to have daily vlogs, to predict when you're going to be done with something in the future,"
+  },
+  {
+   "start": 638.26,
+   "end": 639.56,
+   "text": "When certain things are going to be done."
+  },
+  {
+   "start": 639.62,
+   "end": 644.64,
+   "text": "Because if you're like me, you're going to just be flabbergasted at how accurate you are, you know."
+  },
+  {
+   "start": 644.84,
+   "end": 646.16,
+   "text": "Like I'm telling you, two years."
+  },
+  {
+   "start": 649.06,
+   "end": 652.04,
+   "text": "The end of 26, 25, right?"
+  },
+  {
+   "start": 652.2,
+   "end": 653.14,
+   "text": "So then it's the end of 26."
+  },
+  {
+   "start": 653.14,
+   "end": 655.18,
+   "text": "Yeah, so right at the beginning of 27, dude."
+  },
+  {
+   "start": 655.92,
+   "end": 659.3,
+   "text": "Two and a half years, the beginning of 2027, dude."
+  },
+  {
+   "start": 659.52,
+   "end": 664.02,
+   "text": "My website's going to be hitting the mainstreams, and I'll be hitting the mainstream."
+  },
+  {
+   "start": 664.38,
+   "end": 668.4,
+   "text": "I'm not going to be able to walk, so it'll take me rehabilitation."
+  },
+  {
+   "start": 668.78,
+   "end": 674.54,
+   "text": "So then in three years, because I need a year of rehabilitation, in three years,"
+  },
+  {
+   "start": 674.58,
+   "end": 677.62,
+   "text": "And that's not going to get me anywhere near fit."
+  },
+  {
+   "start": 677.78,
+   "end": 681.22,
+   "text": "And after a year of rehabilitation, I'm going to be, like, average for my age."
+  },
+  {
+   "start": 681.22,
+   "end": 689.8,
+   "text": "I'm not going to, but maybe if you give me more years, you know, things will definitely get different."
+  },
+  {
+   "start": 689.8,
+   "end": 698.88,
+   "text": "But, like, I'm going to hit the mainwaves, doing everything."
+  },
+  {
+   "start": 699.7,
+   "end": 701.12,
+   "text": "Mainwaves, is that even a saying?"
+  },
+  {
+   "start": 703.3,
+   "end": 704.6,
+   "text": "The mainwaves."
+  },
+  {
+   "start": 706.55,
+   "end": 707.43,
+   "text": "I like that."
+  },
+  {
+   "start": 707.83,
+   "end": 709.55,
+   "text": "We're going to be hitting the mainwaves."
+  },
+  {
+   "start": 709.55,
+   "end": 726.27,
+   "text": "Um, in, um, two years, um, groovy tubular-ing it with, uh, Gidget and, uh, all them guys on the beach."
+  },
+  {
+   "start": 726.27,
+   "end": 732.49,
+   "text": "Um, um, I got really high before making this video."
+  },
+  {
+   "start": 733.11,
+   "end": 740.19,
+   "text": "Um, Scooby-Doo, you know, and them, um, and the mystery machine getting reefed out before you go surfing."
+  },
+  {
+   "start": 741.19,
+   "end": 749.87,
+   "text": "Um, um, uh, oh, I am going to get a beach house, by the way."
+  },
+  {
+   "start": 749.93,
+   "end": 750.77,
+   "text": "I have a beach house."
+  },
+  {
+   "start": 750.87,
+   "end": 752.91,
+   "text": "It's two kilometers from Pichicuyo, Chile."
+  },
+  {
+   "start": 752.91,
+   "end": 763.97,
+   "text": "So, what we're going to do is build us just a tiny little shack there and just keep an eye out every single day on a lot that's literally on the beach, dude."
+  },
+  {
+   "start": 764.51,
+   "end": 767.05,
+   "text": "And then build a house on the beach."
+  },
+  {
+   "start": 767.75,
+   "end": 767.95,
+   "text": "Heh heh."
+  },
+  {
+   "start": 768.81,
+   "end": 777.27,
+   "text": "Anyways, because that house, uh, thousands, a thousand square meters with a house on it, five years ago was only 52,000 bucks."
+  },
+  {
+   "start": 777.27,
+   "end": 784.11,
+   "text": "So, maybe my money will come around just in time before people realize that that part of the world is where you want to be."
+  },
+  {
+   "start": 784.85,
+   "end": 802.47,
+   "text": "Anyways, um, um, so I'm going to, um, in two years, uh, yeah, dude, it's going to be the, uh, it's going to be the beginning of the beginning, you know, and the ending."
+  },
+  {
+   "start": 802.47,
+   "end": 815.6,
+   "text": "The beginning of the end and the beginning of the beginning and all of that and the end of the end because there's going to be no way, no place to run and hide for those who don't want to participate."
+  },
+  {
+   "start": 815.78,
+   "end": 817.48,
+   "text": "You're going to be forced into participation."
+  },
+  {
+   "start": 817.94,
+   "end": 819.26,
+   "text": "I'm going to force you into participation."
+  },
+  {
+   "start": 819.46,
+   "end": 826.32,
+   "text": "I'm going to utilize the techniques of bullying and bully people into, I'm going to bully the president."
+  },
+  {
+   "start": 826.56,
+   "end": 830.44,
+   "text": "I'm going to make, I'm going to say that we're friends and that way I can say whatever I want to him because we're friends."
+  },
+  {
+   "start": 830.44,
+   "end": 837.54,
+   "text": "So, I'm going to make best friends with the president of the, you know, the university of Colorado, the governor of Colorado."
+  },
+  {
+   "start": 838.4,
+   "end": 839.18,
+   "text": "No, no, no."
+  },
+  {
+   "start": 839.22,
+   "end": 840.46,
+   "text": "It has to be everybody in Boulder."
+  },
+  {
+   "start": 841.0,
+   "end": 842.1,
+   "text": "It has to be a Boulder thing."
+  },
+  {
+   "start": 842.68,
+   "end": 851.16,
+   "text": "University of Colorado, whoever the richest person in Colorado is, I mean in Boulder, uh, all seven of the regents of Boulder, Colorado, see you."
+  },
+  {
+   "start": 851.72,
+   "end": 853.32,
+   "text": "The principal of Boulder High."
+  },
+  {
+   "start": 855.8,
+   "end": 860.42,
+   "text": "And, uh, how about the principal of New Vista High?"
+  },
+  {
+   "start": 860.88,
+   "end": 863.36,
+   "text": "And the principal of Uni Hill Elementary."
+  },
+  {
+   "start": 865.16,
+   "end": 868.14,
+   "text": "Well, I think I'm going to, I'll select 11 people."
+  },
+  {
+   "start": 868.3,
+   "end": 869.52,
+   "text": "It'll be 12 people in Boulder."
+  },
+  {
+   "start": 869.76,
+   "end": 871.14,
+   "text": "And there will be the 12 honorees."
+  },
+  {
+   "start": 871.84,
+   "end": 875.24,
+   "text": "And so out of the 12 honorees, they have to follow me."
+  },
+  {
+   "start": 875.92,
+   "end": 876.98,
+   "text": "Or else it's problems."
+  },
+  {
+   "start": 877.56,
+   "end": 879.52,
+   "text": "Or else I call them and I call everybody they know."
+  },
+  {
+   "start": 879.52,
+   "end": 893.56,
+   "text": "And if they start, if they send me like one of these, um, one of these like a certified, uh, uh, attorney, uh, letter of desistment, cease and desist letter."
+  },
+  {
+   "start": 893.56,
+   "end": 900.42,
+   "text": "Then I can give them a certified, uh, letter of disengagement from the process."
+  },
+  {
+   "start": 900.42,
+   "end": 904.34,
+   "text": "But then I'm going to write them a 10-page paper on why they need to retire from their job."
+  },
+  {
+   "start": 904.84,
+   "end": 906.06,
+   "text": "And I'll put it on my website."
+  },
+  {
+   "start": 906.86,
+   "end": 909.38,
+   "text": "And then I will recruit another one for the 12."
+  },
+  {
+   "start": 909.64,
+   "end": 913.56,
+   "text": "Because we need 12 people to, uh, take the test."
+  },
+  {
+   "start": 913.56,
+   "end": 915.14,
+   "text": "Not just me."
+  },
+  {
+   "start": 915.52,
+   "end": 916.78,
+   "text": "If it's just me taking the test."
+  },
+  {
+   "start": 916.88,
+   "end": 920.36,
+   "text": "But I can't ask people to take the test until I've taken a certain number of them."
+  },
+  {
+   "start": 920.72,
+   "end": 922.36,
+   "text": "I have to take at least 12 tests."
+  },
+  {
+   "start": 923.12,
+   "end": 925.1,
+   "text": "Before I can ask another person to take a test."
+  },
+  {
+   "start": 925.54,
+   "end": 927.2,
+   "text": "See, everything has to be following the rules."
+  },
+  {
+   "start": 928.06,
+   "end": 932.8,
+   "text": "Because the end of civilization comes when people stop following rules."
+  },
+  {
+   "start": 932.8,
+   "end": 939.02,
+   "text": "The reason the, uh, Roman Empire fell was actually because of a very good person."
+  },
+  {
+   "start": 939.82,
+   "end": 946.32,
+   "text": "Um, Marcus Gracchus in the year, uh, 150 or whatever B.C."
+  },
+  {
+   "start": 946.58,
+   "end": 948.7,
+   "text": "Right after the, uh, Punic Wars."
+  },
+  {
+   "start": 949.92,
+   "end": 951.76,
+   "text": "Rome just took over the world."
+  },
+  {
+   "start": 951.9,
+   "end": 954.02,
+   "text": "They could have, and they took over Greece and France."
+  },
+  {
+   "start": 954.02,
+   "end": 955.14,
+   "text": "It's all in the same generation."
+  },
+  {
+   "start": 956.56,
+   "end": 958.08,
+   "text": "And I think the Middle East."
+  },
+  {
+   "start": 958.24,
+   "end": 959.68,
+   "text": "They took fucking the whole world over."
+  },
+  {
+   "start": 959.84,
+   "end": 960.28,
+   "text": "And England."
+  },
+  {
+   "start": 960.48,
+   "end": 961.36,
+   "text": "In like one generation."
+  },
+  {
+   "start": 961.58,
+   "end": 962.1,
+   "text": "Two generations."
+  },
+  {
+   "start": 962.1,
+   "end": 967.86,
+   "text": "And then, anyways, um, but right after, uh, yeah, Marcus Gracchus."
+  },
+  {
+   "start": 968.04,
+   "end": 969.22,
+   "text": "You know, he was a populist."
+  },
+  {
+   "start": 970.32,
+   "end": 972.68,
+   "text": "And, uh, he wanted to make the land reform laws."
+  },
+  {
+   "start": 972.88,
+   "end": 976.0,
+   "text": "Uh, so that people could have, uh, not have all that wealth discrepancy."
+  },
+  {
+   "start": 976.08,
+   "end": 977.52,
+   "text": "Because the war has disrupted everything."
+  },
+  {
+   "start": 978.48,
+   "end": 987.16,
+   "text": "Um, and, uh, but he, he tried to take power."
+  },
+  {
+   "start": 987.34,
+   "end": 988.74,
+   "text": "I think he was, like, not voted."
+  },
+  {
+   "start": 988.84,
+   "end": 989.8,
+   "text": "And he tried to take power."
+  },
+  {
+   "start": 989.8,
+   "end": 991.24,
+   "text": "I can't remember exactly what he did."
+  },
+  {
+   "start": 992.1,
+   "end": 993.52,
+   "text": "They ended up stoning him to death."
+  },
+  {
+   "start": 993.52,
+   "end": 995.1,
+   "text": "And they killed his brother ten years later."
+  },
+  {
+   "start": 996.3,
+   "end": 998.56,
+   "text": "And, uh, so these guys were trying to help the poor."
+  },
+  {
+   "start": 998.64,
+   "end": 1005.6,
+   "text": "But they did it in a way, um, in a way that wasn't following the, um, the Constitution."
+  },
+  {
+   "start": 1005.88,
+   "end": 1007.22,
+   "text": "I can't remember exactly what they did."
+  },
+  {
+   "start": 1009.08,
+   "end": 1011.08,
+   "text": "Um, which freaked out the patricians."
+  },
+  {
+   "start": 1011.08,
+   "end": 1012.08,
+   "text": "Um, the oligarchy."
+  },
+  {
+   "start": 1012.08,
+   "end": 1013.0,
+   "text": "Um, the oligarchy."
+  },
+  {
+   "start": 1013.58,
+   "end": 1017.58,
+   "text": "And so they, uh, because they thought it was, like, the beginning of the end of that."
+  },
+  {
+   "start": 1017.66,
+   "end": 1022.5,
+   "text": "We're going to devolve into a, uh, democracy of, uh, fight might makes right."
+  },
+  {
+   "start": 1022.7,
+   "end": 1026.36,
+   "text": "And, uh, and ever since then, it would just devolve."
+  },
+  {
+   "start": 1026.5,
+   "end": 1028.28,
+   "text": "People just stopped following rules."
+  },
+  {
+   "start": 1028.28,
+   "end": 1029.0,
+   "text": "Uh, Sulla."
+  },
+  {
+   "start": 1029.26,
+   "end": 1030.72,
+   "text": "And then they started the prescriptions."
+  },
+  {
+   "start": 1030.9,
+   "end": 1033.2,
+   "text": "And once you start doing prescriptions, then you know you're screwed."
+  },
+  {
+   "start": 1033.28,
+   "end": 1034.86,
+   "text": "Because that's not, definitely not following rules."
+  },
+  {
+   "start": 1035.52,
+   "end": 1036.94,
+   "text": "So Sulla did prescriptions."
+  },
+  {
+   "start": 1037.12,
+   "end": 1037.78,
+   "text": "Couple thousand."
+  },
+  {
+   "start": 1037.92,
+   "end": 1038.46,
+   "text": "Ten thousand."
+  },
+  {
+   "start": 1038.46,
+   "end": 1046.38,
+   "text": "Um, those were the first I can believe, uh, prescription means, uh, the blacklist."
+  },
+  {
+   "start": 1046.8,
+   "end": 1050.18,
+   "text": "Kind of like in the 50s with the communists in Hollywood."
+  },
+  {
+   "start": 1050.38,
+   "end": 1051.5,
+   "text": "Only, only they would kill you."
+  },
+  {
+   "start": 1051.96,
+   "end": 1053.42,
+   "text": "They'd take your, everything you own."
+  },
+  {
+   "start": 1053.92,
+   "end": 1054.92,
+   "text": "Kill you and your family."
+  },
+  {
+   "start": 1056.5,
+   "end": 1060.2,
+   "text": "And, uh, give it to their partisans, right?"
+  },
+  {
+   "start": 1061.8,
+   "end": 1063.8,
+   "text": "And then there's the end of democracy."
+  },
+  {
+   "start": 1064.02,
+   "end": 1065.26,
+   "text": "And so Sulla did that."
+  },
+  {
+   "start": 1065.26,
+   "end": 1068.26,
+   "text": "Um, he was, uh."
+  },
+  {
+   "start": 1068.64,
+   "end": 1074.14,
+   "text": "Kind of like the first where he was, he, he, he became, he turned himself into, like, lifetime dictator."
+  },
+  {
+   "start": 1074.3,
+   "end": 1074.92,
+   "text": "But then he died."
+  },
+  {
+   "start": 1075.06,
+   "end": 1077.0,
+   "text": "And then Julius Caesar did that."
+  },
+  {
+   "start": 1077.42,
+   "end": 1078.52,
+   "text": "And then they killed him."
+  },
+  {
+   "start": 1078.52,
+   "end": 1080.7,
+   "text": "Because that's written, actually written in the Constitution."
+  },
+  {
+   "start": 1081.06,
+   "end": 1082.7,
+   "text": "You have to kill anybody who makes himself king."
+  },
+  {
+   "start": 1083.24,
+   "end": 1085.92,
+   "text": "So the guys who killed Julius Caesar were following the law."
+  },
+  {
+   "start": 1086.58,
+   "end": 1088.36,
+   "text": "Julius Caesar was the one breaking the law."
+  },
+  {
+   "start": 1088.44,
+   "end": 1089.26,
+   "text": "So he needed to be killed."
+  },
+  {
+   "start": 1089.36,
+   "end": 1094.26,
+   "text": "Like, if I lived in those times, I would have been, I would have wanted to be the first dude to stick it in his heart."
+  },
+  {
+   "start": 1094.86,
+   "end": 1095.4,
+   "text": "You know?"
+  },
+  {
+   "start": 1095.4,
+   "end": 1098.68,
+   "text": "And I, I would have liked to think that I wouldn't have waited that long."
+  },
+  {
+   "start": 1098.76,
+   "end": 1099.7,
+   "text": "I would have done it much sooner."
+  },
+  {
+   "start": 1100.94,
+   "end": 1101.56,
+   "text": "But, um."
+  },
+  {
+   "start": 1101.56,
+   "end": 1102.9,
+   "text": "Especially if I knew the guy."
+  },
+  {
+   "start": 1102.98,
+   "end": 1105.06,
+   "text": "And I could get behind his ass with a knife."
+  },
+  {
+   "start": 1106.82,
+   "end": 1108.36,
+   "text": "Right between his shoulder blades."
+  },
+  {
+   "start": 1108.42,
+   "end": 1109.12,
+   "text": "And then it's over."
+  },
+  {
+   "start": 1109.28,
+   "end": 1110.64,
+   "text": "Or slice his throat."
+  },
+  {
+   "start": 1110.74,
+   "end": 1111.84,
+   "text": "Or do it with your bare hands."
+  },
+  {
+   "start": 1112.02,
+   "end": 1112.3,
+   "text": "You know?"
+  },
+  {
+   "start": 1112.3,
+   "end": 1114.2,
+   "text": "So, but, um."
+  },
+  {
+   "start": 1115.02,
+   "end": 1115.84,
+   "text": "But, uh."
+  },
+  {
+   "start": 1116.8,
+   "end": 1119.02,
+   "text": "But then what happened was, um."
+  },
+  {
+   "start": 1120.6,
+   "end": 1122.98,
+   "text": "The people's minds had been poisoned."
+  },
+  {
+   "start": 1124.04,
+   "end": 1126.14,
+   "text": "And Mark Antony made himself dictator."
+  },
+  {
+   "start": 1126.36,
+   "end": 1128.54,
+   "text": "And then he went and made himself dictator of Egypt."
+  },
+  {
+   "start": 1128.78,
+   "end": 1129.52,
+   "text": "And then they fought."
+  },
+  {
+   "start": 1129.74,
+   "end": 1131.3,
+   "text": "And then, um."
+  },
+  {
+   "start": 1131.76,
+   "end": 1133.84,
+   "text": "Augustus made himself dictator for 30 years."
+  },
+  {
+   "start": 1133.94,
+   "end": 1137.9,
+   "text": "And by the time he died, it had been extinguished in culture."
+  },
+  {
+   "start": 1138.26,
+   "end": 1140.62,
+   "text": "And people who were alive never knew any of it."
+  },
+  {
+   "start": 1140.62,
+   "end": 1144.4,
+   "text": "And people weren't read enough to remember the olden times."
+  },
+  {
+   "start": 1144.48,
+   "end": 1145.24,
+   "text": "And then we just died."
+  },
+  {
+   "start": 1145.56,
+   "end": 1146.18,
+   "text": "Just like that."
+  },
+  {
+   "start": 1146.58,
+   "end": 1147.92,
+   "text": "Like snuffing out of fire."
+  },
+  {
+   "start": 1148.36,
+   "end": 1149.38,
+   "text": "Like the Vestal Virgins."
+  },
+  {
+   "start": 1150.5,
+   "end": 1150.86,
+   "text": "You know?"
+  },
+  {
+   "start": 1150.94,
+   "end": 1152.4,
+   "text": "That's why, probably why they had the fire."
+  },
+  {
+   "start": 1152.62,
+   "end": 1152.8,
+   "text": "You know?"
+  },
+  {
+   "start": 1152.82,
+   "end": 1154.42,
+   "text": "You have to keep these traditions alive."
+  },
+  {
+   "start": 1154.8,
+   "end": 1156.1,
+   "text": "And you have to follow the law."
+  },
+  {
+   "start": 1157.02,
+   "end": 1158.7,
+   "text": "And so that's why this whole thing with."
+  },
+  {
+   "start": 1159.34,
+   "end": 1161.0,
+   "text": "With trying to get Biden to drop out."
+  },
+  {
+   "start": 1161.16,
+   "end": 1162.0,
+   "text": "It's almost like."
+  },
+  {
+   "start": 1162.0,
+   "end": 1164.7,
+   "text": "It's almost like."
+  },
+  {
+   "start": 1164.78,
+   "end": 1165.5,
+   "text": "If Biden drops out."
+  },
+  {
+   "start": 1165.56,
+   "end": 1166.62,
+   "text": "And they get Kamala Harris to run."
+  },
+  {
+   "start": 1166.7,
+   "end": 1168.42,
+   "text": "Not like I have any problem with Kamala Harris."
+  },
+  {
+   "start": 1169.2,
+   "end": 1170.56,
+   "text": "If they get anybody else to run."
+  },
+  {
+   "start": 1170.68,
+   "end": 1171.38,
+   "text": "It's almost like."
+  },
+  {
+   "start": 1172.24,
+   "end": 1173.12,
+   "text": "I throw out my hands."
+  },
+  {
+   "start": 1173.18,
+   "end": 1173.38,
+   "text": "I'm like."
+  },
+  {
+   "start": 1173.42,
+   "end": 1173.78,
+   "text": "Well fine."
+  },
+  {
+   "start": 1173.86,
+   "end": 1175.62,
+   "text": "Just let Donald Trump be president then."
+  },
+  {
+   "start": 1176.74,
+   "end": 1177.06,
+   "text": "You know?"
+  },
+  {
+   "start": 1177.12,
+   "end": 1178.2,
+   "text": "Like I don't even care anymore."
+  },
+  {
+   "start": 1178.52,
+   "end": 1178.68,
+   "text": "Like."
+  },
+  {
+   "start": 1178.92,
+   "end": 1180.68,
+   "text": "Because now you guys aren't following the laws either."
+  },
+  {
+   "start": 1181.18,
+   "end": 1181.56,
+   "text": "You know?"
+  },
+  {
+   "start": 1181.58,
+   "end": 1184.76,
+   "text": "Because the whole reason why I didn't want Trump to be president."
+  },
+  {
+   "start": 1184.9,
+   "end": 1186.02,
+   "text": "Is because he didn't want to follow the law."
+  },
+  {
+   "start": 1186.66,
+   "end": 1187.5,
+   "text": "Rewrite the constitution."
+  },
+  {
+   "start": 1187.5,
+   "end": 1190.36,
+   "text": "But now out of desperation."
+  },
+  {
+   "start": 1191.56,
+   "end": 1194.86,
+   "text": "The Democrats are falling for that too."
+  },
+  {
+   "start": 1194.98,
+   "end": 1196.74,
+   "text": "And now they're not following tradition."
+  },
+  {
+   "start": 1197.6,
+   "end": 1199.06,
+   "text": "Now they're the ones being."
+  },
+  {
+   "start": 1199.98,
+   "end": 1202.26,
+   "text": "One of the worst things you could possibly do."
+  },
+  {
+   "start": 1202.42,
+   "end": 1203.6,
+   "text": "Which is elder abuse."
+  },
+  {
+   "start": 1203.82,
+   "end": 1203.92,
+   "text": "Like."
+  },
+  {
+   "start": 1204.76,
+   "end": 1206.94,
+   "text": "The only problem with Biden is that."
+  },
+  {
+   "start": 1207.52,
+   "end": 1209.34,
+   "text": "He's a little bit speech impaired."
+  },
+  {
+   "start": 1209.76,
+   "end": 1209.96,
+   "text": "Dude."
+  },
+  {
+   "start": 1210.3,
+   "end": 1211.38,
+   "text": "And so that."
+  },
+  {
+   "start": 1211.48,
+   "end": 1211.78,
+   "text": "All that."
+  },
+  {
+   "start": 1211.84,
+   "end": 1212.34,
+   "text": "So that does."
+  },
+  {
+   "start": 1212.42,
+   "end": 1213.38,
+   "text": "And then he has white hair."
+  },
+  {
+   "start": 1214.04,
+   "end": 1215.82,
+   "text": "And so then all of a sudden they're like."
+  },
+  {
+   "start": 1215.9,
+   "end": 1216.6,
+   "text": "Oh old guy."
+  },
+  {
+   "start": 1216.6,
+   "end": 1218.5,
+   "text": "And so then all of a sudden they're like."
+  },
+  {
+   "start": 1218.58,
+   "end": 1218.66,
+   "text": "Yeah."
+  },
+  {
+   "start": 1218.68,
+   "end": 1219.92,
+   "text": "You can't remember your name."
+  },
+  {
+   "start": 1220.82,
+   "end": 1221.6,
+   "text": "And it's like."
+  },
+  {
+   "start": 1221.96,
+   "end": 1223.96,
+   "text": "The only thing I've seen Biden do."
+  },
+  {
+   "start": 1224.38,
+   "end": 1226.14,
+   "text": "Was stumble over somebody's name."
+  },
+  {
+   "start": 1226.22,
+   "end": 1227.64,
+   "text": "Like they said he couldn't remember somebody's name."
+  },
+  {
+   "start": 1227.68,
+   "end": 1228.06,
+   "text": "No he didn't."
+  },
+  {
+   "start": 1228.42,
+   "end": 1230.02,
+   "text": "He just gave somebody the wrong name."
+  },
+  {
+   "start": 1230.06,
+   "end": 1230.96,
+   "text": "And then he remembered the right name."
+  },
+  {
+   "start": 1231.0,
+   "end": 1231.8,
+   "text": "I do that all the time."
+  },
+  {
+   "start": 1231.86,
+   "end": 1233.1,
+   "text": "I did that earlier in this video."
+  },
+  {
+   "start": 1233.24,
+   "end": 1233.58,
+   "text": "I do it."
+  },
+  {
+   "start": 1233.8,
+   "end": 1234.9,
+   "text": "Probably five times."
+  },
+  {
+   "start": 1234.98,
+   "end": 1235.9,
+   "text": "Ten times each video."
+  },
+  {
+   "start": 1236.58,
+   "end": 1236.76,
+   "text": "Dude."
+  },
+  {
+   "start": 1237.34,
+   "end": 1239.06,
+   "text": "Biden was a stutterer as a kid."
+  },
+  {
+   "start": 1239.74,
+   "end": 1240.5,
+   "text": "And then he was."
+  },
+  {
+   "start": 1240.6,
+   "end": 1241.8,
+   "text": "He was in politics forever."
+  },
+  {
+   "start": 1241.92,
+   "end": 1242.78,
+   "text": "And then people are like."
+  },
+  {
+   "start": 1243.48,
+   "end": 1243.84,
+   "text": "And then."
+  },
+  {
+   "start": 1244.18,
+   "end": 1245.38,
+   "text": "This makes me so mad."
+  },
+  {
+   "start": 1245.38,
+   "end": 1247.2,
+   "text": "And then like the right wing are like."
+  },
+  {
+   "start": 1247.7,
+   "end": 1247.92,
+   "text": "Yeah."
+  },
+  {
+   "start": 1248.02,
+   "end": 1249.96,
+   "text": "That spoiled Hunter Biden."
+  },
+  {
+   "start": 1250.1,
+   "end": 1250.4,
+   "text": "It's like."
+  },
+  {
+   "start": 1250.56,
+   "end": 1250.8,
+   "text": "Dude."
+  },
+  {
+   "start": 1251.38,
+   "end": 1252.44,
+   "text": "Hunter Biden got convicted."
+  },
+  {
+   "start": 1252.56,
+   "end": 1253.96,
+   "text": "And his father didn't bail him out."
+  },
+  {
+   "start": 1254.6,
+   "end": 1256.62,
+   "text": "So Biden's following all the rules."
+  },
+  {
+   "start": 1257.02,
+   "end": 1257.22,
+   "text": "Dude."
+  },
+  {
+   "start": 1258.74,
+   "end": 1260.28,
+   "text": "And plus Hunter Biden was a."
+  },
+  {
+   "start": 1260.28,
+   "end": 1260.78,
+   "text": "Was a cook."
+  },
+  {
+   "start": 1260.94,
+   "end": 1262.0,
+   "text": "Why don't you ask yourself."
+  },
+  {
+   "start": 1262.08,
+   "end": 1263.76,
+   "text": "Why he was a cookhead in the first place."
+  },
+  {
+   "start": 1264.26,
+   "end": 1264.58,
+   "text": "Dude."
+  },
+  {
+   "start": 1264.64,
+   "end": 1265.96,
+   "text": "What kind of a life he led."
+  },
+  {
+   "start": 1266.2,
+   "end": 1266.4,
+   "text": "Like."
+  },
+  {
+   "start": 1266.94,
+   "end": 1268.3,
+   "text": "People are such idiots."
+  },
+  {
+   "start": 1268.3,
+   "end": 1268.8,
+   "text": "Like."
+  },
+  {
+   "start": 1269.98,
+   "end": 1270.42,
+   "text": "Um."
+  },
+  {
+   "start": 1272.5,
+   "end": 1272.86,
+   "text": "Um."
+  },
+  {
+   "start": 1273.26,
+   "end": 1273.76,
+   "text": "You know."
+  },
+  {
+   "start": 1273.86,
+   "end": 1274.02,
+   "text": "Like."
+  },
+  {
+   "start": 1274.1,
+   "end": 1275.1,
+   "text": "Because he died."
+  },
+  {
+   "start": 1275.32,
+   "end": 1276.18,
+   "text": "His mom died."
+  },
+  {
+   "start": 1276.24,
+   "end": 1276.88,
+   "text": "When he was a baby."
+  },
+  {
+   "start": 1277.28,
+   "end": 1277.98,
+   "text": "Sister died."
+  },
+  {
+   "start": 1278.04,
+   "end": 1278.5,
+   "text": "In a car wreck."
+  },
+  {
+   "start": 1278.92,
+   "end": 1279.68,
+   "text": "That he was in."
+  },
+  {
+   "start": 1279.98,
+   "end": 1281.18,
+   "text": "And then his brother dies."
+  },
+  {
+   "start": 1282.44,
+   "end": 1283.72,
+   "text": "And then he becomes a cookhead."
+  },
+  {
+   "start": 1283.78,
+   "end": 1284.3,
+   "text": "For a little bit."
+  },
+  {
+   "start": 1284.42,
+   "end": 1285.02,
+   "text": "And people are like."
+  },
+  {
+   "start": 1285.06,
+   "end": 1285.26,
+   "text": "Ah."
+  },
+  {
+   "start": 1285.3,
+   "end": 1286.24,
+   "text": "Fucking rich cookhead."
+  },
+  {
+   "start": 1286.36,
+   "end": 1286.9,
+   "text": "No dude."
+  },
+  {
+   "start": 1286.92,
+   "end": 1287.44,
+   "text": "Not rich."
+  },
+  {
+   "start": 1288.58,
+   "end": 1290.14,
+   "text": "I don't know how rich Biden is."
+  },
+  {
+   "start": 1290.24,
+   "end": 1290.42,
+   "text": "But."
+  },
+  {
+   "start": 1290.86,
+   "end": 1291.2,
+   "text": "Um."
+  },
+  {
+   "start": 1291.74,
+   "end": 1292.44,
+   "text": "He's not."
+  },
+  {
+   "start": 1293.68,
+   "end": 1294.74,
+   "text": "He's not like."
+  },
+  {
+   "start": 1294.84,
+   "end": 1295.6,
+   "text": "Donald Trump."
+  },
+  {
+   "start": 1295.68,
+   "end": 1295.88,
+   "text": "Okay."
+  },
+  {
+   "start": 1295.88,
+   "end": 1297.36,
+   "text": "He's a lifetime politician."
+  },
+  {
+   "start": 1299.0,
+   "end": 1299.22,
+   "text": "And."
+  },
+  {
+   "start": 1299.4,
+   "end": 1299.94,
+   "text": "So anyways."
+  },
+  {
+   "start": 1300.32,
+   "end": 1300.72,
+   "text": "Um."
+  },
+  {
+   "start": 1303.12,
+   "end": 1303.56,
+   "text": "People."
+  },
+  {
+   "start": 1303.8,
+   "end": 1304.04,
+   "text": "Like."
+  },
+  {
+   "start": 1304.12,
+   "end": 1304.84,
+   "text": "So now people are."
+  },
+  {
+   "start": 1305.04,
+   "end": 1305.54,
+   "text": "Now it's."
+  },
+  {
+   "start": 1305.74,
+   "end": 1306.4,
+   "text": "It's all in our."
+  },
+  {
+   "start": 1306.46,
+   "end": 1307.7,
+   "text": "We're all polluted in our heads."
+  },
+  {
+   "start": 1307.76,
+   "end": 1308.44,
+   "text": "So now it's all."
+  },
+  {
+   "start": 1308.68,
+   "end": 1309.7,
+   "text": "We've all agreed."
+  },
+  {
+   "start": 1310.28,
+   "end": 1310.68,
+   "text": "That."
+  },
+  {
+   "start": 1311.48,
+   "end": 1311.84,
+   "text": "Uh."
+  },
+  {
+   "start": 1311.92,
+   "end": 1313.44,
+   "text": "Being a president is how like."
+  },
+  {
+   "start": 1313.74,
+   "end": 1314.06,
+   "text": "Uh."
+  },
+  {
+   "start": 1314.72,
+   "end": 1315.52,
+   "text": "How like."
+  },
+  {
+   "start": 1315.94,
+   "end": 1317.66,
+   "text": "You appear as you speak on the stage."
+  },
+  {
+   "start": 1317.8,
+   "end": 1319.32,
+   "text": "Doesn't have anything to do with your policy."
+  },
+  {
+   "start": 1320.18,
+   "end": 1320.68,
+   "text": "Because that's."
+  },
+  {
+   "start": 1320.7,
+   "end": 1321.38,
+   "text": "Because that actually."
+  },
+  {
+   "start": 1321.5,
+   "end": 1322.9,
+   "text": "Technically is what a president is."
+  },
+  {
+   "start": 1322.94,
+   "end": 1323.98,
+   "text": "That's what your powers are."
+  },
+  {
+   "start": 1324.12,
+   "end": 1325.04,
+   "text": "It's not charisma."
+  },
+  {
+   "start": 1325.66,
+   "end": 1326.02,
+   "text": "It's not."
+  },
+  {
+   "start": 1326.08,
+   "end": 1327.22,
+   "text": "It has nothing to do with it."
+  },
+  {
+   "start": 1327.56,
+   "end": 1330.02,
+   "text": "That's the power that you have over idiots who would vote for you."
+  },
+  {
+   "start": 1330.22,
+   "end": 1332.02,
+   "text": "The actual power is the laws."
+  },
+  {
+   "start": 1333.1,
+   "end": 1333.5,
+   "text": "And."
+  },
+  {
+   "start": 1333.9,
+   "end": 1334.76,
+   "text": "What the hell."
+  },
+  {
+   "start": 1335.28,
+   "end": 1338.58,
+   "text": "Does a raspy voice have to do with decisions and making a goddamn law."
+  },
+  {
+   "start": 1339.06,
+   "end": 1339.74,
+   "text": "He has the."
+  },
+  {
+   "start": 1339.8,
+   "end": 1340.88,
+   "text": "He has the experience."
+  },
+  {
+   "start": 1341.82,
+   "end": 1343.44,
+   "text": "And so he can talk with his experiences."
+  },
+  {
+   "start": 1343.9,
+   "end": 1346.3,
+   "text": "It's like they would bring him in anyway to be the consultant."
+  },
+  {
+   "start": 1346.86,
+   "end": 1348.34,
+   "text": "So why not have him just be the leader."
+  },
+  {
+   "start": 1349.08,
+   "end": 1349.26,
+   "text": "You."
+  },
+  {
+   "start": 1349.34,
+   "end": 1350.54,
+   "text": "You guys are so stupid."
+  },
+  {
+   "start": 1350.7,
+   "end": 1350.9,
+   "text": "So."
+  },
+  {
+   "start": 1351.4,
+   "end": 1352.6,
+   "text": "So it's almost like."
+  },
+  {
+   "start": 1352.84,
+   "end": 1354.76,
+   "text": "It's almost like I don't give a shit anymore."
+  },
+  {
+   "start": 1354.76,
+   "end": 1356.36,
+   "text": "If Donald Trump becomes president."
+  },
+  {
+   "start": 1356.5,
+   "end": 1356.92,
+   "text": "If you're going to."
+  },
+  {
+   "start": 1357.52,
+   "end": 1357.92,
+   "text": "Bully."
+  },
+  {
+   "start": 1358.56,
+   "end": 1358.64,
+   "text": "Don't."
+  },
+  {
+   "start": 1358.8,
+   "end": 1359.18,
+   "text": "Joe Biden."
+  },
+  {
+   "start": 1359.3,
+   "end": 1360.76,
+   "text": "Break a 200 year tradition."
+  },
+  {
+   "start": 1360.92,
+   "end": 1361.02,
+   "text": "Who."
+  },
+  {
+   "start": 1361.36,
+   "end": 1361.9,
+   "text": "Since when."
+  },
+  {
+   "start": 1362.36,
+   "end": 1362.84,
+   "text": "Did we."
+  },
+  {
+   "start": 1363.04,
+   "end": 1363.26,
+   "text": "Did we."
+  },
+  {
+   "start": 1363.32,
+   "end": 1364.92,
+   "text": "Did you just kick out your own president."
+  },
+  {
+   "start": 1364.92,
+   "end": 1367.52,
+   "text": "Just because he won the last one."
+  },
+  {
+   "start": 1367.64,
+   "end": 1369.86,
+   "text": "And because of some invention about law."
+  },
+  {
+   "start": 1370.08,
+   "end": 1370.72,
+   "text": "What are we going to do now."
+  },
+  {
+   "start": 1370.78,
+   "end": 1371.7,
+   "text": "Write it into the Constitution."
+  },
+  {
+   "start": 1372.32,
+   "end": 1374.52,
+   "text": "Anybody over the age of 82 can't be president."
+  },
+  {
+   "start": 1374.68,
+   "end": 1375.82,
+   "text": "Well what if you're perfectly healthy."
+  },
+  {
+   "start": 1376.74,
+   "end": 1377.44,
+   "text": "It's so stupid."
+  },
+  {
+   "start": 1377.6,
+   "end": 1377.8,
+   "text": "So."
+  },
+  {
+   "start": 1378.9,
+   "end": 1379.08,
+   "text": "And."
+  },
+  {
+   "start": 1379.22,
+   "end": 1379.42,
+   "text": "Oh."
+  },
+  {
+   "start": 1379.56,
+   "end": 1380.46,
+   "text": "And this is what I was going to say."
+  },
+  {
+   "start": 1380.56,
+   "end": 1380.64,
+   "text": "Like."
+  },
+  {
+   "start": 1380.68,
+   "end": 1382.3,
+   "text": "So that's the worst thing you can think Biden to say."
+  },
+  {
+   "start": 1382.36,
+   "end": 1382.68,
+   "text": "But then."
+  },
+  {
+   "start": 1382.68,
+   "end": 1385.72,
+   "text": "Trump has tried to say that Colorado borders with Mexico."
+  },
+  {
+   "start": 1386.28,
+   "end": 1387.06,
+   "text": "There were airports."
+  },
+  {
+   "start": 1387.88,
+   "end": 1388.52,
+   "text": "In the."
+  },
+  {
+   "start": 1388.62,
+   "end": 1388.94,
+   "text": "In the."
+  },
+  {
+   "start": 1389.76,
+   "end": 1390.48,
+   "text": "In the."
+  },
+  {
+   "start": 1391.38,
+   "end": 1391.82,
+   "text": "The."
+  },
+  {
+   "start": 1391.96,
+   "end": 1393.34,
+   "text": "The war for independence."
+  },
+  {
+   "start": 1397.66,
+   "end": 1399.92,
+   "text": "And he said like a dozen things like that."
+  },
+  {
+   "start": 1400.0,
+   "end": 1402.4,
+   "text": "For some reason I can't remember the other ones."
+  },
+  {
+   "start": 1402.52,
+   "end": 1403.64,
+   "text": "But god damn it that guy."
+  },
+  {
+   "start": 1403.8,
+   "end": 1405.14,
+   "text": "He can't remember his wife."
+  },
+  {
+   "start": 1405.56,
+   "end": 1406.88,
+   "text": "He looked at the woman he raped."
+  },
+  {
+   "start": 1406.88,
+   "end": 1410.84,
+   "text": "Like a full photo of her face with somebody else."
+  },
+  {
+   "start": 1411.5,
+   "end": 1412.96,
+   "text": "And he's like oh yeah that's my ex-wife."
+  },
+  {
+   "start": 1413.06,
+   "end": 1414.92,
+   "text": "They're like no that's the woman you raped dude."
+  },
+  {
+   "start": 1415.28,
+   "end": 1416.16,
+   "text": "That's that uh."
+  },
+  {
+   "start": 1416.32,
+   "end": 1417.04,
+   "text": "Swan lady."
+  },
+  {
+   "start": 1417.84,
+   "end": 1419.14,
+   "text": "Oh my god dude."
+  },
+  {
+   "start": 1419.2,
+   "end": 1420.54,
+   "text": "And then he just gets away with it."
+  },
+  {
+   "start": 1420.7,
+   "end": 1421.06,
+   "text": "And so."
+  },
+  {
+   "start": 1421.24,
+   "end": 1423.26,
+   "text": "And then all the stupid stuff he says on stage."
+  },
+  {
+   "start": 1423.36,
+   "end": 1423.66,
+   "text": "And so."
+  },
+  {
+   "start": 1425.38,
+   "end": 1425.98,
+   "text": "So yeah."
+  },
+  {
+   "start": 1426.32,
+   "end": 1426.66,
+   "text": "Um."
+  },
+  {
+   "start": 1427.4,
+   "end": 1427.74,
+   "text": "So."
+  },
+  {
+   "start": 1428.12,
+   "end": 1429.4,
+   "text": "You have to follow the law."
+  },
+  {
+   "start": 1430.26,
+   "end": 1430.7,
+   "text": "And so."
+  },
+  {
+   "start": 1430.84,
+   "end": 1432.66,
+   "text": "The best way to follow the law is to create tradition."
+  },
+  {
+   "start": 1433.1,
+   "end": 1435.34,
+   "text": "Because they're like practice for the laws."
+  },
+  {
+   "start": 1435.88,
+   "end": 1436.76,
+   "text": "You set up tradition."
+  },
+  {
+   "start": 1436.9,
+   "end": 1437.64,
+   "text": "You set up culture."
+  },
+  {
+   "start": 1438.04,
+   "end": 1439.64,
+   "text": "You follow tradition and culture."
+  },
+  {
+   "start": 1440.48,
+   "end": 1441.0,
+   "text": "You know."
+  },
+  {
+   "start": 1441.08,
+   "end": 1442.74,
+   "text": "Like you dress smart as they say."
+  },
+  {
+   "start": 1443.96,
+   "end": 1446.18,
+   "text": "And then people go okay that guy's going to follow the law."
+  },
+  {
+   "start": 1446.86,
+   "end": 1448.22,
+   "text": "But then you have to follow the law."
+  },
+  {
+   "start": 1448.4,
+   "end": 1450.2,
+   "text": "That's why the mafia dress in zoot suits."
+  },
+  {
+   "start": 1451.38,
+   "end": 1451.98,
+   "text": "Because they."
+  },
+  {
+   "start": 1452.12,
+   "end": 1454.64,
+   "text": "Because then it gives the impression oh they're following tradition."
+  },
+  {
+   "start": 1454.64,
+   "end": 1456.26,
+   "text": "Must mean that they follow a code."
+  },
+  {
+   "start": 1456.68,
+   "end": 1457.2,
+   "text": "The law."
+  },
+  {
+   "start": 1457.2,
+   "end": 1457.6,
+   "text": "No."
+  },
+  {
+   "start": 1458.36,
+   "end": 1458.96,
+   "text": "No no no no."
+  },
+  {
+   "start": 1459.04,
+   "end": 1460.1,
+   "text": "It's all smoke and mirrors."
+  },
+  {
+   "start": 1461.3,
+   "end": 1461.58,
+   "text": "So."
+  },
+  {
+   "start": 1461.84,
+   "end": 1462.48,
+   "text": "That's why."
+  },
+  {
+   "start": 1462.86,
+   "end": 1463.3,
+   "text": "Um."
+  },
+  {
+   "start": 1463.68,
+   "end": 1465.68,
+   "text": "I want to set up a whole bunch of traditions."
+  },
+  {
+   "start": 1466.38,
+   "end": 1467.34,
+   "text": "Rules regulations."
+  },
+  {
+   "start": 1468.68,
+   "end": 1469.0,
+   "text": "And."
+  },
+  {
+   "start": 1469.68,
+   "end": 1470.04,
+   "text": "Like."
+  },
+  {
+   "start": 1470.28,
+   "end": 1470.64,
+   "text": "Um."
+  },
+  {
+   "start": 1470.88,
+   "end": 1472.16,
+   "text": "Grid work that I follow."
+  },
+  {
+   "start": 1472.28,
+   "end": 1473.12,
+   "text": "As though I'm not even."
+  },
+  {
+   "start": 1473.58,
+   "end": 1474.68,
+   "text": "As though I'm just a worker."
+  },
+  {
+   "start": 1474.92,
+   "end": 1476.46,
+   "text": "Because that's how people get to do stuff."
+  },
+  {
+   "start": 1476.56,
+   "end": 1476.62,
+   "text": "And."
+  },
+  {
+   "start": 1477.2,
+   "end": 1477.5,
+   "text": "You know."
+  },
+  {
+   "start": 1477.56,
+   "end": 1478.62,
+   "text": "Enforce laws and stuff."
+  },
+  {
+   "start": 1478.68,
+   "end": 1479.56,
+   "text": "Because it's like not."
+  },
+  {
+   "start": 1479.82,
+   "end": 1480.66,
+   "text": "They're like look."
+  },
+  {
+   "start": 1480.82,
+   "end": 1481.24,
+   "text": "And you know."
+  },
+  {
+   "start": 1481.3,
+   "end": 1482.2,
+   "text": "People don't get mad at them."
+  },
+  {
+   "start": 1482.26,
+   "end": 1482.66,
+   "text": "Because it's like."
+  },
+  {
+   "start": 1482.68,
+   "end": 1483.5,
+   "text": "I didn't make the rules."
+  },
+  {
+   "start": 1483.96,
+   "end": 1485.72,
+   "text": "I'll get in trouble with the guy upstairs if I don't do it."
+  },
+  {
+   "start": 1485.72,
+   "end": 1486.1,
+   "text": "So come on."
+  },
+  {
+   "start": 1486.82,
+   "end": 1487.1,
+   "text": "Pay me."
+  },
+  {
+   "start": 1487.18,
+   "end": 1487.56,
+   "text": "Pay up."
+  },
+  {
+   "start": 1487.72,
+   "end": 1488.0,
+   "text": "You know."
+  },
+  {
+   "start": 1488.0,
+   "end": 1488.44,
+   "text": "And so."
+  },
+  {
+   "start": 1489.48,
+   "end": 1490.62,
+   "text": "So it's the same thing."
+  },
+  {
+   "start": 1490.74,
+   "end": 1490.96,
+   "text": "You know."
+  },
+  {
+   "start": 1491.0,
+   "end": 1491.9,
+   "text": "If I set up the tools."
+  },
+  {
+   "start": 1492.02,
+   "end": 1494.0,
+   "text": "And then I ask these people to take my history test."
+  },
+  {
+   "start": 1494.04,
+   "end": 1494.36,
+   "text": "And they're like."
+  },
+  {
+   "start": 1494.46,
+   "end": 1494.88,
+   "text": "Fuck you."
+  },
+  {
+   "start": 1494.92,
+   "end": 1496.06,
+   "text": "I don't take history tests."
+  },
+  {
+   "start": 1497.42,
+   "end": 1498.28,
+   "text": "And it's like."
+  },
+  {
+   "start": 1498.4,
+   "end": 1498.88,
+   "text": "The random."
+  },
+  {
+   "start": 1499.02,
+   "end": 1499.26,
+   "text": "You know."
+  },
+  {
+   "start": 1499.3,
+   "end": 1500.46,
+   "text": "Number generator history test."
+  },
+  {
+   "start": 1500.52,
+   "end": 1500.94,
+   "text": "The best way."
+  },
+  {
+   "start": 1501.0,
+   "end": 1502.0,
+   "text": "Because it not only does it."
+  },
+  {
+   "start": 1502.52,
+   "end": 1503.6,
+   "text": "Expose your history level."
+  },
+  {
+   "start": 1504.16,
+   "end": 1505.56,
+   "text": "But it expose your history."
+  },
+  {
+   "start": 1505.7,
+   "end": 1505.94,
+   "text": "Your."
+  },
+  {
+   "start": 1506.1,
+   "end": 1506.42,
+   "text": "Um."
+  },
+  {
+   "start": 1506.64,
+   "end": 1508.3,
+   "text": "Your values location."
+  },
+  {
+   "start": 1508.98,
+   "end": 1511.46,
+   "text": "Because whatever you talk about in the history test."
+  },
+  {
+   "start": 1511.58,
+   "end": 1512.6,
+   "text": "That's where your values are."
+  },
+  {
+   "start": 1512.66,
+   "end": 1513.64,
+   "text": "Because that's what you know about."
+  },
+  {
+   "start": 1513.72,
+   "end": 1513.86,
+   "text": "Right."
+  },
+  {
+   "start": 1513.86,
+   "end": 1515.16,
+   "text": "So if you take a history test."
+  },
+  {
+   "start": 1515.22,
+   "end": 1515.46,
+   "text": "And they're like."
+  },
+  {
+   "start": 1515.6,
+   "end": 1517.52,
+   "text": "What happened in the year 1710s."
+  },
+  {
+   "start": 1517.74,
+   "end": 1519.72,
+   "text": "And you're going on about the wines."
+  },
+  {
+   "start": 1520.62,
+   "end": 1521.42,
+   "text": "And the."
+  },
+  {
+   "start": 1521.46,
+   "end": 1521.7,
+   "text": "Uh."
+  },
+  {
+   "start": 1521.7,
+   "end": 1523.18,
+   "text": "The decoration of the houses."
+  },
+  {
+   "start": 1523.58,
+   "end": 1525.3,
+   "text": "Then that means that you're one of these rich assholes."
+  },
+  {
+   "start": 1525.92,
+   "end": 1526.94,
+   "text": "But if they ask you."
+  },
+  {
+   "start": 1527.0,
+   "end": 1528.22,
+   "text": "And you start talking about like."
+  },
+  {
+   "start": 1528.48,
+   "end": 1529.48,
+   "text": "Land reform."
+  },
+  {
+   "start": 1530.62,
+   "end": 1531.58,
+   "text": "And um."
+  },
+  {
+   "start": 1531.86,
+   "end": 1532.2,
+   "text": "You know."
+  },
+  {
+   "start": 1532.26,
+   "end": 1532.78,
+   "text": "Education."
+  },
+  {
+   "start": 1533.02,
+   "end": 1533.9,
+   "text": "And health of the people."
+  },
+  {
+   "start": 1534.02,
+   "end": 1535.98,
+   "text": "Well then you know where your values lie."
+  },
+  {
+   "start": 1536.04,
+   "end": 1536.32,
+   "text": "Don't you?"
+  },
+  {
+   "start": 1537.12,
+   "end": 1539.08,
+   "text": "And so that's why people are not going to want to take the test."
+  },
+  {
+   "start": 1539.14,
+   "end": 1540.26,
+   "text": "Because the people in power now."
+  },
+  {
+   "start": 1540.38,
+   "end": 1540.9,
+   "text": "And have money."
+  },
+  {
+   "start": 1541.56,
+   "end": 1542.64,
+   "text": "They know deep down."
+  },
+  {
+   "start": 1542.64,
+   "end": 1543.82,
+   "text": "Especially once they start thinking about."
+  },
+  {
+   "start": 1544.4,
+   "end": 1545.82,
+   "text": "That their values are going to get exposed."
+  },
+  {
+   "start": 1545.96,
+   "end": 1546.84,
+   "text": "And they're going to get exposed."
+  },
+  {
+   "start": 1547.18,
+   "end": 1547.86,
+   "text": "And they're not."
+  },
+  {
+   "start": 1547.98,
+   "end": 1549.36,
+   "text": "Probably not even going to score highly."
+  },
+  {
+   "start": 1549.96,
+   "end": 1550.94,
+   "text": "It's not going to be fun."
+  },
+  {
+   "start": 1551.1,
+   "end": 1552.4,
+   "text": "And then they're going to snap into."
+  },
+  {
+   "start": 1552.54,
+   "end": 1553.38,
+   "text": "Oh Mike makes right."
+  },
+  {
+   "start": 1553.52,
+   "end": 1554.22,
+   "text": "Oh well if I can."
+  },
+  {
+   "start": 1554.62,
+   "end": 1555.52,
+   "text": "If I don't want to do it."
+  },
+  {
+   "start": 1555.64,
+   "end": 1557.28,
+   "text": "And there's no law that says I don't have to do it."
+  },
+  {
+   "start": 1557.32,
+   "end": 1558.08,
+   "text": "Then I won't have to do it."
+  },
+  {
+   "start": 1559.0,
+   "end": 1559.62,
+   "text": "And then."
+  },
+  {
+   "start": 1559.68,
+   "end": 1559.96,
+   "text": "And then."
+  },
+  {
+   "start": 1560.04,
+   "end": 1561.16,
+   "text": "I could just send him a."
+  },
+  {
+   "start": 1561.78,
+   "end": 1562.8,
+   "text": "Cease and desist letter."
+  },
+  {
+   "start": 1562.94,
+   "end": 1563.7,
+   "text": "And then they never."
+  },
+  {
+   "start": 1563.88,
+   "end": 1564.7,
+   "text": "They never figure."
+  },
+  {
+   "start": 1565.44,
+   "end": 1566.28,
+   "text": "About street cred."
+  },
+  {
+   "start": 1566.7,
+   "end": 1567.72,
+   "text": "Because nobody has websites."
+  },
+  {
+   "start": 1567.84,
+   "end": 1568.02,
+   "text": "Right."
+  },
+  {
+   "start": 1568.98,
+   "end": 1569.3,
+   "text": "So."
+  },
+  {
+   "start": 1569.46,
+   "end": 1570.86,
+   "text": "And then they finally realize."
+  },
+  {
+   "start": 1570.86,
+   "end": 1571.26,
+   "text": "Like."
+  },
+  {
+   "start": 1571.9,
+   "end": 1573.6,
+   "text": "Like when it's almost too late."
+  },
+  {
+   "start": 1573.6,
+   "end": 1574.04,
+   "text": "That they're like."
+  },
+  {
+   "start": 1574.08,
+   "end": 1574.4,
+   "text": "Oh shit."
+  },
+  {
+   "start": 1574.48,
+   "end": 1576.2,
+   "text": "Maybe I should have just taken the damn history test."
+  },
+  {
+   "start": 1577.04,
+   "end": 1577.3,
+   "text": "You know."
+  },
+  {
+   "start": 1577.34,
+   "end": 1578.08,
+   "text": "Or studied for it."
+  },
+  {
+   "start": 1578.1,
+   "end": 1578.68,
+   "text": "And then taken it."
+  },
+  {
+   "start": 1579.66,
+   "end": 1579.98,
+   "text": "So."
+  },
+  {
+   "start": 1580.2,
+   "end": 1581.04,
+   "text": "So that's why."
+  },
+  {
+   "start": 1581.14,
+   "end": 1581.54,
+   "text": "Just so that."
+  },
+  {
+   "start": 1581.6,
+   "end": 1582.78,
+   "text": "I don't want to get people mad at me."
+  },
+  {
+   "start": 1583.52,
+   "end": 1584.9,
+   "text": "Because people are bad at me enough."
+  },
+  {
+   "start": 1584.98,
+   "end": 1586.22,
+   "text": "And I'm unpopular enough."
+  },
+  {
+   "start": 1586.34,
+   "end": 1586.46,
+   "text": "So."
+  },
+  {
+   "start": 1586.46,
+   "end": 1587.24,
+   "text": "If I create."
+  },
+  {
+   "start": 1587.46,
+   "end": 1587.62,
+   "text": "Like."
+  },
+  {
+   "start": 1588.42,
+   "end": 1589.34,
+   "text": "A whole system."
+  },
+  {
+   "start": 1589.5,
+   "end": 1590.76,
+   "text": "As though I didn't even design it."
+  },
+  {
+   "start": 1590.86,
+   "end": 1592.46,
+   "text": "Like maybe somebody told me to design it."
+  },
+  {
+   "start": 1593.44,
+   "end": 1593.94,
+   "text": "And I'll be like."
+  },
+  {
+   "start": 1593.96,
+   "end": 1594.1,
+   "text": "Look."
+  },
+  {
+   "start": 1594.14,
+   "end": 1595.12,
+   "text": "These are the rules man."
+  },
+  {
+   "start": 1595.18,
+   "end": 1595.64,
+   "text": "I'm just following."
+  },
+  {
+   "start": 1595.72,
+   "end": 1596.66,
+   "text": "Look at the regulations."
+  },
+  {
+   "start": 1596.78,
+   "end": 1598.0,
+   "text": "And I keep sending the regulations."
+  },
+  {
+   "start": 1598.28,
+   "end": 1598.4,
+   "text": "And."
+  },
+  {
+   "start": 1598.96,
+   "end": 1599.78,
+   "text": "They'll finally maybe."
+  },
+  {
+   "start": 1599.94,
+   "end": 1600.3,
+   "text": "Be like."
+  },
+  {
+   "start": 1600.34,
+   "end": 1600.94,
+   "text": "All right dude."
+  },
+  {
+   "start": 1601.0,
+   "end": 1601.3,
+   "text": "And you know."
+  },
+  {
+   "start": 1601.36,
+   "end": 1601.84,
+   "text": "And then if they."
+  },
+  {
+   "start": 1602.1,
+   "end": 1602.44,
+   "text": "And then if they."
+  },
+  {
+   "start": 1602.44,
+   "end": 1603.72,
+   "text": "Or their lawyer can't get mad at me."
+  },
+  {
+   "start": 1603.74,
+   "end": 1604.4,
+   "text": "Because they'll understand."
+  },
+  {
+   "start": 1605.06,
+   "end": 1605.58,
+   "text": "And then."
+  },
+  {
+   "start": 1605.9,
+   "end": 1606.68,
+   "text": "And then eventually."
+  },
+  {
+   "start": 1606.84,
+   "end": 1607.96,
+   "text": "Maybe I'll be able to get somebody."
+  },
+  {
+   "start": 1607.96,
+   "end": 1608.72,
+   "text": "To take the history test."
+  },
+  {
+   "start": 1609.22,
+   "end": 1609.92,
+   "text": "But I'm not going to ask anybody."
+  },
+  {
+   "start": 1610.06,
+   "end": 1610.38,
+   "text": "After 12."
+  },
+  {
+   "start": 1610.48,
+   "end": 1610.78,
+   "text": "Because."
+  },
+  {
+   "start": 1610.94,
+   "end": 1611.74,
+   "text": "And here's another thing."
+  },
+  {
+   "start": 1611.8,
+   "end": 1613.06,
+   "text": "That'll get people to take the history test."
+  },
+  {
+   "start": 1613.06,
+   "end": 1614.78,
+   "text": "Now let me."
+  },
+  {
+   "start": 1614.84,
+   "end": 1615.62,
+   "text": "Let me just say real quick."
+  },
+  {
+   "start": 1615.68,
+   "end": 1616.4,
+   "text": "What the history test is."
+  },
+  {
+   "start": 1616.44,
+   "end": 1617.48,
+   "text": "It's written right there on my website."
+  },
+  {
+   "start": 1617.62,
+   "end": 1618.96,
+   "text": "But people don't look at websites."
+  },
+  {
+   "start": 1619.08,
+   "end": 1619.36,
+   "text": "It's weird."
+  },
+  {
+   "start": 1620.34,
+   "end": 1621.62,
+   "text": "And I know that for a fact now."
+  },
+  {
+   "start": 1621.68,
+   "end": 1622.38,
+   "text": "Because I got."
+  },
+  {
+   "start": 1622.54,
+   "end": 1622.74,
+   "text": "I."
+  },
+  {
+   "start": 1622.74,
+   "end": 1623.82,
+   "text": "I increased my."
+  },
+  {
+   "start": 1624.18,
+   "end": 1626.34,
+   "text": "My friends from 2,000 to 5,000 on Facebook."
+  },
+  {
+   "start": 1626.86,
+   "end": 1627.76,
+   "text": "And every single person."
+  },
+  {
+   "start": 1627.84,
+   "end": 1628.62,
+   "text": "I tell them about my website."
+  },
+  {
+   "start": 1629.76,
+   "end": 1630.4,
+   "text": "And then."
+  },
+  {
+   "start": 1631.04,
+   "end": 1632.54,
+   "text": "And they all don't know what it is."
+  },
+  {
+   "start": 1632.58,
+   "end": 1633.24,
+   "text": "And then I tell them."
+  },
+  {
+   "start": 1633.28,
+   "end": 1634.28,
+   "text": "And then they ask me what it is."
+  },
+  {
+   "start": 1634.32,
+   "end": 1635.44,
+   "text": "And then they still don't get it."
+  },
+  {
+   "start": 1635.44,
+   "end": 1635.6,
+   "text": "And then."
+  },
+  {
+   "start": 1636.82,
+   "end": 1638.14,
+   "text": "One person said it wasn't a real."
+  },
+  {
+   "start": 1638.2,
+   "end": 1639.24,
+   "text": "It didn't look like a real website."
+  },
+  {
+   "start": 1640.08,
+   "end": 1640.48,
+   "text": "And then."
+  },
+  {
+   "start": 1641.36,
+   "end": 1641.44,
+   "text": "I."
+  },
+  {
+   "start": 1641.62,
+   "end": 1642.74,
+   "text": "The very nicest thing."
+  },
+  {
+   "start": 1642.74,
+   "end": 1643.22,
+   "text": "I can get."
+  },
+  {
+   "start": 1643.64,
+   "end": 1643.72,
+   "text": "And."
+  },
+  {
+   "start": 1643.8,
+   "end": 1645.32,
+   "text": "And this is more than 3,000 people."
+  },
+  {
+   "start": 1645.42,
+   "end": 1646.56,
+   "text": "Because then I unfriend anybody."
+  },
+  {
+   "start": 1646.76,
+   "end": 1647.06,
+   "text": "Everybody."
+  },
+  {
+   "start": 1647.52,
+   "end": 1648.62,
+   "text": "I've unfriended like a thousand."
+  },
+  {
+   "start": 1648.78,
+   "end": 1649.12,
+   "text": "And then it."
+  },
+  {
+   "start": 1649.38,
+   "end": 1650.08,
+   "text": "Luckily for me."
+  },
+  {
+   "start": 1650.12,
+   "end": 1651.08,
+   "text": "My friend requests keep coming."
+  },
+  {
+   "start": 1651.18,
+   "end": 1652.62,
+   "text": "So I can keep it chopped off at 5,000."
+  },
+  {
+   "start": 1653.16,
+   "end": 1654.52,
+   "text": "So this is like 4,000 people."
+  },
+  {
+   "start": 1654.64,
+   "end": 1655.2,
+   "text": "I'm talking about."
+  },
+  {
+   "start": 1655.28,
+   "end": 1655.76,
+   "text": "Over the course."
+  },
+  {
+   "start": 1655.94,
+   "end": 1657.08,
+   "text": "So this is what I've been doing."
+  },
+  {
+   "start": 1657.14,
+   "end": 1657.82,
+   "text": "Is I'm light weighting."
+  },
+  {
+   "start": 1657.92,
+   "end": 1658.46,
+   "text": "For the G.I.G."
+  },
+  {
+   "start": 1658.46,
+   "end": 1659.38,
+   "text": "To beat this process."
+  },
+  {
+   "start": 1660.06,
+   "end": 1660.4,
+   "text": "Over the course."
+  },
+  {
+   "start": 1660.46,
+   "end": 1661.06,
+   "text": "The last couple weeks."
+  },
+  {
+   "start": 1661.1,
+   "end": 1661.4,
+   "text": "Three weeks."
+  },
+  {
+   "start": 1662.82,
+   "end": 1663.1,
+   "text": "Um."
+  },
+  {
+   "start": 1664.12,
+   "end": 1665.66,
+   "text": "The nicest thing anybody ever said."
+  },
+  {
+   "start": 1665.66,
+   "end": 1666.28,
+   "text": "About my website."
+  },
+  {
+   "start": 1666.28,
+   "end": 1667.38,
+   "text": "Was that it looks like a puzzle."
+  },
+  {
+   "start": 1667.5,
+   "end": 1667.88,
+   "text": "And I was like."
+  },
+  {
+   "start": 1667.98,
+   "end": 1668.42,
+   "text": "You know."
+  },
+  {
+   "start": 1668.44,
+   "end": 1669.14,
+   "text": "I was like excited."
+  },
+  {
+   "start": 1669.24,
+   "end": 1669.52,
+   "text": "And I was like."
+  },
+  {
+   "start": 1669.58,
+   "end": 1669.88,
+   "text": "Yeah dude."
+  },
+  {
+   "start": 1669.88,
+   "end": 1670.66,
+   "text": "In like two weeks."
+  },
+  {
+   "start": 1670.92,
+   "end": 1671.98,
+   "text": "It'll fucking work."
+  },
+  {
+   "start": 1672.92,
+   "end": 1673.48,
+   "text": "Because that's."
+  },
+  {
+   "start": 1673.56,
+   "end": 1674.8,
+   "text": "I know what they're talking about."
+  },
+  {
+   "start": 1674.9,
+   "end": 1675.32,
+   "text": "It's like."
+  },
+  {
+   "start": 1677.0,
+   "end": 1678.32,
+   "text": "My website is basically."
+  },
+  {
+   "start": 1678.32,
+   "end": 1679.44,
+   "text": "The equivalent of like."
+  },
+  {
+   "start": 1679.48,
+   "end": 1680.22,
+   "text": "A giant."
+  },
+  {
+   "start": 1680.86,
+   "end": 1681.22,
+   "text": "Mural."
+  },
+  {
+   "start": 1681.42,
+   "end": 1681.68,
+   "text": "You know."
+  },
+  {
+   "start": 1681.76,
+   "end": 1682.74,
+   "text": "As big as a city."
+  },
+  {
+   "start": 1683.86,
+   "end": 1684.6,
+   "text": "And then you can just."
+  },
+  {
+   "start": 1684.64,
+   "end": 1685.68,
+   "text": "Zoom down into it."
+  },
+  {
+   "start": 1686.36,
+   "end": 1687.68,
+   "text": "And look at the little parts."
+  },
+  {
+   "start": 1687.82,
+   "end": 1689.06,
+   "text": "And move them around."
+  },
+  {
+   "start": 1689.12,
+   "end": 1689.58,
+   "text": "And they're all like."
+  },
+  {
+   "start": 1689.64,
+   "end": 1690.4,
+   "text": "Warp drive together."
+  },
+  {
+   "start": 1690.54,
+   "end": 1690.76,
+   "text": "You know."
+  },
+  {
+   "start": 1690.84,
+   "end": 1691.02,
+   "text": "Yeah."
+  },
+  {
+   "start": 1691.02,
+   "end": 1691.72,
+   "text": "Like a big puzzle."
+  },
+  {
+   "start": 1691.72,
+   "end": 1691.94,
+   "text": "And."
+  },
+  {
+   "start": 1693.2,
+   "end": 1693.56,
+   "text": "Anyways."
+  },
+  {
+   "start": 1695.3,
+   "end": 1695.66,
+   "text": "So."
+  },
+  {
+   "start": 1696.54,
+   "end": 1697.46,
+   "text": "Just a combination."
+  },
+  {
+   "start": 1697.58,
+   "end": 1698.28,
+   "text": "Between all that."
+  },
+  {
+   "start": 1698.78,
+   "end": 1698.88,
+   "text": "Oh."
+  },
+  {
+   "start": 1698.92,
+   "end": 1699.28,
+   "text": "And here's what."
+  },
+  {
+   "start": 1699.28,
+   "end": 1700.22,
+   "text": "What'll get people to do it."
+  },
+  {
+   "start": 1700.62,
+   "end": 1701.5,
+   "text": "If I start kicking."
+  },
+  {
+   "start": 1701.62,
+   "end": 1701.84,
+   "text": "When."
+  },
+  {
+   "start": 1701.96,
+   "end": 1703.42,
+   "text": "I start kicking ass at the test."
+  },
+  {
+   "start": 1704.02,
+   "end": 1705.26,
+   "text": "My levels are high."
+  },
+  {
+   "start": 1705.4,
+   "end": 1707.02,
+   "text": "Because then that'll spark people's."
+  },
+  {
+   "start": 1707.2,
+   "end": 1707.68,
+   "text": "Competitive."
+  },
+  {
+   "start": 1708.28,
+   "end": 1708.56,
+   "text": "Nature."
+  },
+  {
+   "start": 1709.9,
+   "end": 1710.34,
+   "text": "Um."
+  },
+  {
+   "start": 1711.54,
+   "end": 1712.94,
+   "text": "My numbers will be high."
+  },
+  {
+   "start": 1714.38,
+   "end": 1715.78,
+   "text": "My level will be high."
+  },
+  {
+   "start": 1716.86,
+   "end": 1717.78,
+   "text": "My values."
+  },
+  {
+   "start": 1718.26,
+   "end": 1719.12,
+   "text": "Will be located."
+  },
+  {
+   "start": 1719.12,
+   "end": 1719.82,
+   "text": "With the people."
+  },
+  {
+   "start": 1721.34,
+   "end": 1721.74,
+   "text": "Um."
+  },
+  {
+   "start": 1722.4,
+   "end": 1723.86,
+   "text": "I will start looking impressive."
+  },
+  {
+   "start": 1724.08,
+   "end": 1725.06,
+   "text": "And then people will start going."
+  },
+  {
+   "start": 1725.14,
+   "end": 1725.82,
+   "text": "That looks cool."
+  },
+  {
+   "start": 1725.94,
+   "end": 1726.64,
+   "text": "And then they'll start doing."
+  },
+  {
+   "start": 1726.86,
+   "end": 1727.04,
+   "text": "Oh."
+  },
+  {
+   "start": 1727.12,
+   "end": 1727.8,
+   "text": "I want to do that."
+  },
+  {
+   "start": 1727.8,
+   "end": 1729.66,
+   "text": "Boom."
+  },
+  {
+   "start": 1730.54,
+   "end": 1732.76,
+   "text": "But those aren't the people who I'm going to be focusing on."
+  },
+  {
+   "start": 1732.82,
+   "end": 1734.9,
+   "text": "I'm going to be focusing on the people who are in Boulder."
+  },
+  {
+   "start": 1735.04,
+   "end": 1735.36,
+   "text": "Because."
+  },
+  {
+   "start": 1736.22,
+   "end": 1736.58,
+   "text": "Um."
+  },
+  {
+   "start": 1737.08,
+   "end": 1738.72,
+   "text": "I'm very like Boulder centered."
+  },
+  {
+   "start": 1738.86,
+   "end": 1739.6,
+   "text": "Because I."
+  },
+  {
+   "start": 1740.56,
+   "end": 1741.38,
+   "text": "Converted Boulder."
+  },
+  {
+   "start": 1741.48,
+   "end": 1742.22,
+   "text": "And the history of Boulder."
+  },
+  {
+   "start": 1742.36,
+   "end": 1743.42,
+   "text": "Into the history of Rome."
+  },
+  {
+   "start": 1743.48,
+   "end": 1743.84,
+   "text": "And Rome."
+  },
+  {
+   "start": 1743.9,
+   "end": 1745.06,
+   "text": "Which is very Rome centered."
+  },
+  {
+   "start": 1745.18,
+   "end": 1746.62,
+   "text": "And they're the exact same size."
+  },
+  {
+   "start": 1747.28,
+   "end": 1749.54,
+   "text": "And I want to reenact the entire history of it."
+  },
+  {
+   "start": 1749.54,
+   "end": 1750.66,
+   "text": "And so."
+  },
+  {
+   "start": 1751.0,
+   "end": 1751.04,
+   "text": "Um."
+  },
+  {
+   "start": 1751.08,
+   "end": 1752.38,
+   "text": "Anybody who I interact with."
+  },
+  {
+   "start": 1752.46,
+   "end": 1753.56,
+   "text": "Just like with the ancient Romans."
+  },
+  {
+   "start": 1753.64,
+   "end": 1754.52,
+   "text": "Has to be people in Boulder."
+  },
+  {
+   "start": 1755.4,
+   "end": 1755.72,
+   "text": "Um."
+  },
+  {
+   "start": 1756.4,
+   "end": 1757.64,
+   "text": "So that I don't waste time."
+  },
+  {
+   "start": 1757.72,
+   "end": 1758.88,
+   "text": "And so that everything stays."
+  },
+  {
+   "start": 1759.32,
+   "end": 1760.58,
+   "text": "Kind of grows up from here."
+  },
+  {
+   "start": 1760.64,
+   "end": 1761.34,
+   "text": "As much as possible."
+  },
+  {
+   "start": 1761.4,
+   "end": 1761.66,
+   "text": "Because."
+  },
+  {
+   "start": 1762.14,
+   "end": 1763.42,
+   "text": "Everybody in the world can see me."
+  },
+  {
+   "start": 1763.48,
+   "end": 1765.18,
+   "text": "So the world has just as much of a chance."
+  },
+  {
+   "start": 1765.28,
+   "end": 1765.66,
+   "text": "To do."
+  },
+  {
+   "start": 1766.08,
+   "end": 1767.0,
+   "text": "The history test and everything."
+  },
+  {
+   "start": 1767.36,
+   "end": 1768.08,
+   "text": "As people in Boulder."
+  },
+  {
+   "start": 1768.94,
+   "end": 1769.44,
+   "text": "And so."
+  },
+  {
+   "start": 1769.58,
+   "end": 1771.04,
+   "text": "That's enough of an advantage for the world."
+  },
+  {
+   "start": 1771.38,
+   "end": 1771.58,
+   "text": "You know."
+  },
+  {
+   "start": 1772.42,
+   "end": 1773.36,
+   "text": "I think I'll give."
+  },
+  {
+   "start": 1773.52,
+   "end": 1774.26,
+   "text": "I think let's give."
+  },
+  {
+   "start": 1774.36,
+   "end": 1775.92,
+   "text": "Start giving some advantages to Boulder."
+  },
+  {
+   "start": 1776.04,
+   "end": 1777.72,
+   "text": "So that's when I'm going to start asking people around here."
+  },
+  {
+   "start": 1778.04,
+   "end": 1779.08,
+   "text": "And then I can give them features."
+  },
+  {
+   "start": 1779.38,
+   "end": 1780.52,
+   "text": "And I can give them on my website."
+  },
+  {
+   "start": 1780.74,
+   "end": 1781.94,
+   "text": "And start profiling them."
+  },
+  {
+   "start": 1782.12,
+   "end": 1783.5,
+   "text": "Until they make their own website."
+  },
+  {
+   "start": 1784.16,
+   "end": 1784.6,
+   "text": "You know."
+  },
+  {
+   "start": 1784.6,
+   "end": 1785.5,
+   "text": "And then if they don't."
+  },
+  {
+   "start": 1785.78,
+   "end": 1786.06,
+   "text": "Oh."
+  },
+  {
+   "start": 1786.14,
+   "end": 1786.94,
+   "text": "And here's the other reason."
+  },
+  {
+   "start": 1787.04,
+   "end": 1788.66,
+   "text": "Why I wanted to focus on those people."
+  },
+  {
+   "start": 1789.46,
+   "end": 1789.72,
+   "text": "I wanted."
+  },
+  {
+   "start": 1789.82,
+   "end": 1791.08,
+   "text": "I was going to encourage them to."
+  },
+  {
+   "start": 1791.18,
+   "end": 1792.06,
+   "text": "To drop out."
+  },
+  {
+   "start": 1792.3,
+   "end": 1793.22,
+   "text": "To get another job."
+  },
+  {
+   "start": 1793.28,
+   "end": 1794.08,
+   "text": "Or to move out of town."
+  },
+  {
+   "start": 1794.74,
+   "end": 1796.64,
+   "text": "Because I would really like."
+  },
+  {
+   "start": 1796.64,
+   "end": 1798.8,
+   "text": "The people in power in Boulder."
+  },
+  {
+   "start": 1799.0,
+   "end": 1800.36,
+   "text": "To be aligned with what I'm doing."
+  },
+  {
+   "start": 1800.46,
+   "end": 1801.42,
+   "text": "Because that will."
+  },
+  {
+   "start": 1802.02,
+   "end": 1802.26,
+   "text": "Grow."
+  },
+  {
+   "start": 1802.44,
+   "end": 1803.62,
+   "text": "And it will really make it."
+  },
+  {
+   "start": 1803.64,
+   "end": 1804.72,
+   "text": "Kind of like a cultural thing."
+  },
+  {
+   "start": 1804.86,
+   "end": 1805.78,
+   "text": "Which will then."
+  },
+  {
+   "start": 1805.86,
+   "end": 1806.64,
+   "text": "Make it possible."
+  },
+  {
+   "start": 1807.76,
+   "end": 1808.12,
+   "text": "To."
+  },
+  {
+   "start": 1808.28,
+   "end": 1809.28,
+   "text": "To grow out worldwide."
+  },
+  {
+   "start": 1809.56,
+   "end": 1810.52,
+   "text": "Because then they'll see."
+  },
+  {
+   "start": 1811.0,
+   "end": 1811.84,
+   "text": "How it should be."
+  },
+  {
+   "start": 1811.94,
+   "end": 1813.06,
+   "text": "Kind of like a cultural thing."
+  },
+  {
+   "start": 1813.14,
+   "end": 1813.32,
+   "text": "You know."
+  },
+  {
+   "start": 1813.34,
+   "end": 1814.04,
+   "text": "You need more people."
+  },
+  {
+   "start": 1814.76,
+   "end": 1815.12,
+   "text": "So."
+  },
+  {
+   "start": 1815.58,
+   "end": 1816.22,
+   "text": "You know."
+  },
+  {
+   "start": 1816.32,
+   "end": 1817.54,
+   "text": "Somebody in power like that."
+  },
+  {
+   "start": 1818.28,
+   "end": 1820.0,
+   "text": "Trying to hold on to the old ways."
+  },
+  {
+   "start": 1820.18,
+   "end": 1821.72,
+   "text": "Could be extremely destructive."
+  },
+  {
+   "start": 1822.02,
+   "end": 1823.3,
+   "text": "And it's much better for everybody."
+  },
+  {
+   "start": 1823.8,
+   "end": 1824.92,
+   "text": "To get rid of that person."
+  },
+  {
+   "start": 1825.84,
+   "end": 1826.24,
+   "text": "So."
+  },
+  {
+   "start": 1826.24,
+   "end": 1826.64,
+   "text": "Anyways."
+  },
+  {
+   "start": 1828.98,
+   "end": 1830.1,
+   "text": "That's enough talking."
+  },
+  {
+   "start": 1832.28,
+   "end": 1833.7,
+   "text": "I'm going to."
+  },
+  {
+   "start": 1836.76,
+   "end": 1837.8,
+   "text": "Clean my house."
+  },
+  {
+   "start": 1838.72,
+   "end": 1839.0,
+   "text": "Three."
+  },
+  {
+   "start": 1839.12,
+   "end": 1840.02,
+   "text": "My mom was going to call me."
+  },
+  {
+   "start": 1840.06,
+   "end": 1840.62,
+   "text": "And I was going to go there."
+  },
+  {
+   "start": 1840.66,
+   "end": 1841.08,
+   "text": "And help her."
+  },
+  {
+   "start": 1841.18,
+   "end": 1842.7,
+   "text": "I was going to put everything back in her new car."
+  },
+  {
+   "start": 1843.22,
+   "end": 1844.32,
+   "text": "And organize her house."
+  },
+  {
+   "start": 1845.2,
+   "end": 1845.52,
+   "text": "And."
+  },
+  {
+   "start": 1846.38,
+   "end": 1847.96,
+   "text": "Maybe I'll finish with this fucking dude."
+  },
+  {
+   "start": 1848.32,
+   "end": 1849.56,
+   "text": "But then I'm going to stop with it."
+  },
+  {
+   "start": 1850.66,
+   "end": 1850.94,
+   "text": "Force."
+  },
+  {
+   "start": 1851.02,
+   "end": 1851.96,
+   "text": "Force stop myself."
+  },
+  {
+   "start": 1852.68,
+   "end": 1853.86,
+   "text": "Because I'm sure in the future."
+  },
+  {
+   "start": 1853.98,
+   "end": 1855.22,
+   "text": "They'll figure out a better way to do it."
+  },
+  {
+   "start": 1855.22,
+   "end": 1856.34,
+   "text": "And I'm going to watch some of the tutorials."
+  },
+  {
+   "start": 1856.48,
+   "end": 1857.44,
+   "text": "And see if there's something I can do."
+  },
+  {
+   "start": 1857.5,
+   "end": 1857.98,
+   "text": "To make it faster."
+  },
+  {
+   "start": 1858.06,
+   "end": 1858.9,
+   "text": "Because it just takes too long."
+  },
+  {
+   "start": 1860.0,
+   "end": 1860.32,
+   "text": "And."
+  },
+  {
+   "start": 1862.08,
+   "end": 1862.36,
+   "text": "And."
+  },
+  {
+   "start": 1864.04,
+   "end": 1864.32,
+   "text": "Yeah."
+  },
+  {
+   "start": 1864.4,
+   "end": 1865.5,
+   "text": "But as soon as I can dude."
+  },
+  {
+   "start": 1865.72,
+   "end": 1866.54,
+   "text": "And maybe now."
+  },
+  {
+   "start": 1866.76,
+   "end": 1867.26,
+   "text": "Who knows."
+  },
+  {
+   "start": 1867.32,
+   "end": 1868.16,
+   "text": "Before I clean up the poop."
+  },
+  {
+   "start": 1868.16,
+   "end": 1869.78,
+   "text": "Maybe now."
+  },
+  {
+   "start": 1869.78,
+   "end": 1870.38,
+   "text": "I will."
+  },
+  {
+   "start": 1870.38,
+   "end": 1870.42,
+   "text": "I will."
+  },
+  {
+   "start": 1871.8,
+   "end": 1873.44,
+   "text": "Try to get going on that livy."
+  },
+  {
+   "start": 1873.64,
+   "end": 1874.22,
+   "text": "Or open it."
+  },
+  {
+   "start": 1874.38,
+   "end": 1875.06,
+   "text": "Because I'm like."
+  },
+  {
+   "start": 1875.32,
+   "end": 1876.12,
+   "text": "Fired up."
+  },
+  {
+   "start": 1876.3,
+   "end": 1876.48,
+   "text": "Dude."
+  },
+  {
+   "start": 1876.9,
+   "end": 1878.36,
+   "text": "Because if I get the first one going."
+  },
+  {
+   "start": 1878.46,
+   "end": 1879.1,
+   "text": "I know how it is."
+  },
+  {
+   "start": 1879.46,
+   "end": 1880.86,
+   "text": "And then maybe I do a couple more."
+  },
+  {
+   "start": 1881.64,
+   "end": 1882.92,
+   "text": "And then I could gauge."
+  },
+  {
+   "start": 1883.08,
+   "end": 1883.68,
+   "text": "I want to gauge."
+  },
+  {
+   "start": 1883.82,
+   "end": 1884.62,
+   "text": "How long it'll take."
+  },
+  {
+   "start": 1884.7,
+   "end": 1886.14,
+   "text": "Because once I get all those bitches up."
+  },
+  {
+   "start": 1886.22,
+   "end": 1886.38,
+   "text": "Dude."
+  },
+  {
+   "start": 1887.44,
+   "end": 1888.52,
+   "text": "Talk about a level up."
+  },
+  {
+   "start": 1888.6,
+   "end": 1888.68,
+   "text": "Dude."
+  },
+  {
+   "start": 1888.72,
+   "end": 1889.2,
+   "text": "And also."
+  },
+  {
+   "start": 1889.44,
+   "end": 1890.96,
+   "text": "Not even apart from that."
+  },
+  {
+   "start": 1891.54,
+   "end": 1891.8,
+   "text": "Dude."
+  },
+  {
+   "start": 1891.8,
+   "end": 1893.32,
+   "text": "I'm going to be able to read."
+  },
+  {
+   "start": 1894.46,
+   "end": 1895.3,
+   "text": "AI version."
+  },
+  {
+   "start": 1895.8,
+   "end": 1896.76,
+   "text": "Of all these books."
+  },
+  {
+   "start": 1896.82,
+   "end": 1897.58,
+   "text": "And it's going to help me."
+  },
+  {
+   "start": 1897.74,
+   "end": 1898.72,
+   "text": "It's going to help my history."
+  },
+  {
+   "start": 1898.9,
+   "end": 1900.12,
+   "text": "So much better."
+  },
+  {
+   "start": 1901.14,
+   "end": 1902.04,
+   "text": "Because so many times."
+  },
+  {
+   "start": 1902.1,
+   "end": 1903.06,
+   "text": "When I'm listening to a history book."
+  },
+  {
+   "start": 1903.14,
+   "end": 1903.4,
+   "text": "I'm like."
+  },
+  {
+   "start": 1903.56,
+   "end": 1903.8,
+   "text": "Okay."
+  },
+  {
+   "start": 1903.82,
+   "end": 1904.34,
+   "text": "Where are we?"
+  },
+  {
+   "start": 1905.24,
+   "end": 1906.68,
+   "text": "Because if I knew where we were."
+  },
+  {
+   "start": 1907.26,
+   "end": 1908.4,
+   "text": "Then I could put it in context."
+  },
+  {
+   "start": 1908.5,
+   "end": 1909.62,
+   "text": "And I could step back in."
+  },
+  {
+   "start": 1909.66,
+   "end": 1910.42,
+   "text": "I could remember."
+  },
+  {
+   "start": 1910.54,
+   "end": 1911.64,
+   "text": "But if I don't know what's going on."
+  },
+  {
+   "start": 1911.72,
+   "end": 1912.08,
+   "text": "I can't."
+  },
+  {
+   "start": 1912.68,
+   "end": 1913.26,
+   "text": "It's not interesting."
+  },
+  {
+   "start": 1913.38,
+   "end": 1914.1,
+   "text": "I can't lock in."
+  },
+  {
+   "start": 1914.14,
+   "end": 1914.94,
+   "text": "And I can't remember anymore."
+  },
+  {
+   "start": 1914.94,
+   "end": 1915.22,
+   "text": "So."
+  },
+  {
+   "start": 1916.14,
+   "end": 1918.16,
+   "text": "To listen to it in all the different dimensions."
+  },
+  {
+   "start": 1918.36,
+   "end": 1918.86,
+   "text": "All those books."
+  },
+  {
+   "start": 1918.96,
+   "end": 1919.74,
+   "text": "It's going to be so fascinating."
+  },
+  {
+   "start": 1920.3,
+   "end": 1921.18,
+   "text": "It's going to be amazing."
+  },
+  {
+   "start": 1921.18,
+   "end": 1921.5,
+   "text": "And so."
+  },
+  {
+   "start": 1922.34,
+   "end": 1923.94,
+   "text": "And to see how quality it is."
+  },
+  {
+   "start": 1924.58,
+   "end": 1926.28,
+   "text": "And also to do quality control."
+  },
+  {
+   "start": 1926.42,
+   "end": 1927.64,
+   "text": "To make sure that it's all right."
+  },
+  {
+   "start": 1927.7,
+   "end": 1928.1,
+   "text": "Because maybe."
+  },
+  {
+   "start": 1928.64,
+   "end": 1929.26,
+   "text": "Because I know."
+  },
+  {
+   "start": 1930.14,
+   "end": 1931.28,
+   "text": "I know AI."
+  },
+  {
+   "start": 1931.94,
+   "end": 1932.22,
+   "text": "Instagram."
+  },
+  {
+   "start": 1932.5,
+   "end": 1932.92,
+   "text": "Meta AI."
+  },
+  {
+   "start": 1933.28,
+   "end": 1934.28,
+   "text": "A lot of the time."
+  },
+  {
+   "start": 1934.88,
+   "end": 1937.42,
+   "text": "It would give the condensation of another one."
+  },
+  {
+   "start": 1937.62,
+   "end": 1938.86,
+   "text": "Not the one that I just pasted."
+  },
+  {
+   "start": 1939.68,
+   "end": 1940.3,
+   "text": "And if."
+  },
+  {
+   "start": 1940.3,
+   "end": 1941.62,
+   "text": "If meta did that."
+  },
+  {
+   "start": 1941.76,
+   "end": 1942.28,
+   "text": "ChatGTP."
+  },
+  {
+   "start": 1943.4,
+   "end": 1944.52,
+   "text": "Possibly could have done that."
+  },
+  {
+   "start": 1945.68,
+   "end": 1948.2,
+   "text": "And I wasn't using ChatGTP4 all the time anyway."
+  },
+  {
+   "start": 1948.36,
+   "end": 1949.32,
+   "text": "Because it doesn't let you."
+  },
+  {
+   "start": 1949.42,
+   "end": 1950.06,
+   "text": "You time out."
+  },
+  {
+   "start": 1950.06,
+   "end": 1951.24,
+   "text": "And then you have to wait an hour and a half."
+  },
+  {
+   "start": 1951.56,
+   "end": 1952.14,
+   "text": "To get it back."
+  },
+  {
+   "start": 1952.22,
+   "end": 1953.52,
+   "text": "And so then you have to use ChatGTP3."
+  },
+  {
+   "start": 1954.6,
+   "end": 1955.06,
+   "text": "And so."
+  },
+  {
+   "start": 1955.18,
+   "end": 1956.28,
+   "text": "Maybe that was doing it wrong."
+  },
+  {
+   "start": 1956.38,
+   "end": 1956.82,
+   "text": "So anyways."
+  },
+  {
+   "start": 1956.88,
+   "end": 1957.6,
+   "text": "I'm going to pay attention."
+  },
+  {
+   "start": 1957.76,
+   "end": 1958.5,
+   "text": "And if anything's wrong."
+  },
+  {
+   "start": 1958.56,
+   "end": 1959.2,
+   "text": "I can fix it."
+  },
+  {
+   "start": 1959.26,
+   "end": 1959.44,
+   "text": "And so."
+  },
+  {
+   "start": 1960.14,
+   "end": 1960.42,
+   "text": "Yeah."
+  },
+  {
+   "start": 1960.48,
+   "end": 1961.84,
+   "text": "You definitely have to listen to it."
+  },
+  {
+   "start": 1961.86,
+   "end": 1962.56,
+   "text": "For quality control."
+  },
+  {
+   "start": 1962.72,
+   "end": 1963.48,
+   "text": "And that's my job."
+  },
+  {
+   "start": 1963.58,
+   "end": 1963.72,
+   "text": "So."
+  },
+  {
+   "start": 1964.18,
+   "end": 1964.82,
+   "text": "It's going to be fun."
+  },
+  {
+   "start": 1964.86,
+   "end": 1965.26,
+   "text": "It's going to learn."
+  },
+  {
+   "start": 1965.4,
+   "end": 1965.78,
+   "text": "That'll."
+  },
+  {
+   "start": 1965.96,
+   "end": 1966.44,
+   "text": "In the end."
+  },
+  {
+   "start": 1966.5,
+   "end": 1967.98,
+   "text": "When I finally start taking a test in two weeks."
+  },
+  {
+   "start": 1968.08,
+   "end": 1968.48,
+   "text": "Two years."
+  },
+  {
+   "start": 1968.52,
+   "end": 1969.2,
+   "text": "When I can't walk."
+  },
+  {
+   "start": 1969.2,
+   "end": 1972.16,
+   "text": "But that'll be cool."
+  },
+  {
+   "start": 1972.16,
+   "end": 1973.62,
+   "text": "Because I could focus every."
+  },
+  {
+   "start": 1973.74,
+   "end": 1975.06,
+   "text": "All of my energy on training."
+  },
+  {
+   "start": 1975.9,
+   "end": 1977.78,
+   "text": "Yet all of my talents are with the mind."
+  },
+  {
+   "start": 1977.92,
+   "end": 1978.06,
+   "text": "Right."
+  },
+  {
+   "start": 1978.12,
+   "end": 1979.4,
+   "text": "And so maybe they'll meld together."
+  },
+  {
+   "start": 1979.56,
+   "end": 1980.36,
+   "text": "And I'll end up getting."
+  },
+  {
+   "start": 1981.54,
+   "end": 1983.12,
+   "text": "I'll be getting the only score in the world."
+  },
+  {
+   "start": 1983.18,
+   "end": 1984.64,
+   "text": "But maybe I'll be getting a score good enough."
+  },
+  {
+   "start": 1984.7,
+   "end": 1985.64,
+   "text": "That'll inspire other people."
+  },
+  {
+   "start": 1986.06,
+   "end": 1987.72,
+   "text": "And then we can shut down those schools."
+  },
+  {
+   "start": 1989.3,
+   "end": 1990.44,
+   "text": "Recuperate the tax money."
+  },
+  {
+   "start": 1991.06,
+   "end": 1993.12,
+   "text": "And then spit that back into the regular people."
+  },
+  {
+   "start": 1993.2,
+   "end": 1994.86,
+   "text": "So they can have jobs to then do bike stroll."
+  },
+  {
+   "start": 1995.52,
+   "end": 1995.84,
+   "text": "Boom."
+  },
+  {
+   "start": 1996.24,
+   "end": 1998.72,
+   "text": "And then everybody's going to have to make a golden statue of me."
+  },
+  {
+   "start": 1999.42,
+   "end": 2001.12,
+   "text": "Because I will be the one who started it all."
+  },
+  {
+   "start": 2002.08,
+   "end": 2002.36,
+   "text": "Anyways."
+  },
+  {
+   "start": 2002.38,
+   "end": 2003.98,
+   "text": "And it's also about the design of the website."
+  },
+  {
+   "start": 2005.26,
+   "end": 2005.58,
+   "text": "Anyways."
+  },
+  {
+   "start": 2006.24,
+   "end": 2007.42,
+   "text": "Talk to you tomorrow."
+  }
+ ]
+}
