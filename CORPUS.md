@@ -1,10 +1,19 @@
 # Kyle Pounds — Corpus
 
-4511 videos with transcripts. Source of truth for transcripts + enrichments.
+4520 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
 |------|-------|---------|---------|
+| 2026-05-02 | [5-2-26 Slept all morning, gunna work out for 2nd time & do Mts. tomorr](corpus/videos/6balsYxfoVY.json) | — |  |
+| 2026-05-01 | [5-1-26 Put E-motorbike into Ariya Station Wagon but had to remove fron](corpus/videos/mJhIRIdAJA4.json) | — |  |
+| 2026-04-30 | [4-30-26 Waiting on crank remover to see if I can get my motorbike in m](corpus/videos/QPEgJbshXAo.json) | — |  |
+| 2026-04-29 | [4-29-26 Trying to figure out how to haul a motorbike around in my Ariy](corpus/videos/iMjkLJ_Ui00.json) | — |  |
+| 2026-04-27 | [4-27-26 Mtn. off road dive w/ Ariya. Making a 160 mile Mtn. bike loop](corpus/videos/p7AId2vMAnk.json) | — |  |
+| 2026-04-20 | [4-20-26 Putting dirt bike together. Will be done with Mahabharata imag](corpus/videos/AFL6GjGxQo4.json) | — |  |
+| 2026-04-18 | [4-18-26 Dreamweaver won't open Tiny Chpts 1-3 anymore so I will just d](corpus/videos/CRlH2ogK7YU.json) | — |  |
+| 2026-04-17 | [4-17-26 Computer doing Murphy's law, must FIGHT one day to get Livy on](corpus/videos/solKCsCn238.json) | — |  |
+| 2026-04-16 | [4-16-26 Got a HAPPYRUN G300 Pro Electric Dirt Bike fm Amazon for $2,28](corpus/videos/kIqQ3ESHO1A.json) | — |  |
 | 2026-04-15 | [4-15-26 1st day adding AI images to Livy. SLOW and tedious. Might be s](corpus/videos/vOuqwsseH8k.json) | — |  |
 | 2026-04-13 | [4-13-26 Got Livy images on Flickr and started on the Livy page on webs](corpus/videos/XQggBMF_dWk.json) | — |  |
 | 2026-04-12 | [4-12-26 Just resting between 12 hr shifts & getting healthy.](corpus/videos/Gl1QI3ErxyM.json) | — |  |
