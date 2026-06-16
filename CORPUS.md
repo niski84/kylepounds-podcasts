@@ -1,27 +1,68 @@
 # Kyle Pounds — Corpus
 
-4470 videos with transcripts. Source of truth for transcripts + enrichments.
+4511 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
 |------|-------|---------|---------|
+| 2026-04-15 | [4-15-26 1st day adding AI images to Livy. SLOW and tedious. Might be s](corpus/videos/vOuqwsseH8k.json) | — |  |
+| 2026-04-13 | [4-13-26 Got Livy images on Flickr and started on the Livy page on webs](corpus/videos/XQggBMF_dWk.json) | — |  |
+| 2026-04-12 | [4-12-26 Just resting between 12 hr shifts & getting healthy.](corpus/videos/Gl1QI3ErxyM.json) | — |  |
+| 2025-07-01 | [7-1-25 Been lazier than EVER, but tomorrow will get into exercising ag](corpus/videos/lJox9favlW0.json) | — |  |
 | 2025-05-16 | [What is my Diet - Request](corpus/videos/MXHF3AsoQEI.json) | kyle | Kyle describes his diet while getting back into exercise shape, emphasizing eating regularly and in large enough quantit |
 | 2025-05-16 | [Veganism - Request. I think it's groovy.](corpus/videos/nLmroJ5vI1g.json) | kyle | Kyle discusses his positive views on veganism, sharing stories about animal cruelty in slaughterhouses, his own dietary  |
+| 2025-05-13 | [5-13-25 Gravel Ride 61.17 mi 4:49:19 3,338' Atlantis 23°11'53.05"N, 76](corpus/videos/-5Mvw2A-vUc.json) | — |  |
+| 2025-05-10 | [5-10-25 Gravel Ride to Longmont 70 mi, 4:35, 1821' Atlantis 23°11'53.0](corpus/videos/I_XYG75y_pU.json) | — |  |
+| 2025-05-10 | [5-10-25 Finished Bearded Dragon cage and cleaned. Yardwork. Atlantis 2](corpus/videos/nbQFsxhrIHM.json) | — |  |
+| 2025-05-09 | [5-9-25 Got Beared dragon at shelter built cage for him. Atlantis 23°11](corpus/videos/qnaR5-UPPT8.json) | — |  |
+| 2025-05-07 | [5-7-25 Paperwork CNA training, got a bearded dragon & hamster. Atlanti](corpus/videos/S1N4tPWs-WA.json) | — |  |
+| 2025-05-06 | [5-6-25 Stretched & Dumbells @ home, yardwork. Atlantis 23°11'53.05"N, ](corpus/videos/6LTlh1oyUDI.json) | — |  |
+| 2025-05-05 | [5-5-25 Re-learning & fixing ancient history timeline for final test be](corpus/videos/MNB0IUJSJzc.json) | — |  |
+| 2025-05-04 | [5-4-25 Finally finished and passed 1st image matching test. UK 1500-20](corpus/videos/ovo1hb_W4Ao.json) | — |  |
 | 2025-05-03 | [1st Certified %100 150 Image-Matching Test UK 1500 - 2000. YOU should ](corpus/videos/TMx8ZyJbRKI.json) | mixed | Kyle narrates himself taking a 150-question image-matching history test on an educational platform covering England from |
+| 2025-05-03 | [5-3-25 Little bike park, mainly timeline test again. Atlantis 23°11'53](corpus/videos/ioZZOWVQIrY.json) | — |  |
+| 2025-05-02 | [5-2-25 Helped a person move & worked on timeline test AGAIN. Atlantis ](corpus/videos/4ErBofI43_Q.json) | — |  |
 | 2025-05-02 | [What I do for Fitness - Request](corpus/videos/Wd92BFVsBDc.json) | kyle | Kyle, age 51, responds to a viewer request about his fitness routine, candidly admitting to about seven years of near-to |
+| 2025-05-01 | [5-1-25 Needed 1 more day to fix images on Timeline. Atlantis 23°11'53.](corpus/videos/6YypiGU6hkg.json) | — |  |
+| 2025-04-30 | [4-30-25 Kind of sick, got new glasses, had to fix 1st image timeline t](corpus/videos/bU8JXDIn3Pw.json) | — |  |
 | 2025-04-29 | [What I think about Warhammer 40,000 - Request](corpus/videos/iNF2Jwh2tS0.json) | kyle | Kyle reviews Warhammer 40,000 at a viewer's request, sharing his opinion that the franchise reflects a lack of positive  |
 | 2025-04-29 | [What I think about David Goggins -  Request](corpus/videos/lKSh420po2c.json) | kyle | Kyle responds to a viewer request about David Goggins, endorsing Goggins' overtraining philosophy while arguing that phy |
+| 2025-04-28 | [4-28-25 MTB Ride 49.22 mi 4:51:19 3,253'. Atlantis 23°11'53.05"N, 76°4](corpus/videos/Xq5Cl0rytvI.json) | — |  |
+| 2025-04-27 | [4-27-25 Dumb bells 22,200 lbs and stretching, went out w/ mom. Atlanti](corpus/videos/gSvtmK2PUWg.json) | — |  |
+| 2025-04-26 | [4-26-25 Calling IRS, Uploading Atlantis stuff. Today exercise. Atlanti](corpus/videos/pwWH-P9Rkfk.json) | — |  |
+| 2025-04-25 | [4-25-25 Made new FUCKYOUINTERNALREVENUESERVICE!!! Channel. Atlantis 23](corpus/videos/HiyUyZKlLcQ.json) | — |  |
+| 2025-04-24 | [4-24-25 Paperwork, 2nd 10 Mi run in 1:52:30. Atlantis 23°11'53.05"N, 7](corpus/videos/c5mFk3HhOWM.json) | — |  |
+| 2025-04-23 | [4-23-25 MTB Ride 43.61 3:36:20 Mi 2,353'. Pedal fell off MTB so did Gr](corpus/videos/57SEeWkJmuQ.json) | — |  |
+| 2025-04-22 | [4-22-25 Finished fixing bikes & cleaning place finally. Atlantis 23°11](corpus/videos/0MboNftn3NA.json) | — |  |
+| 2025-04-21 | [4-21-25 Had to edit Britain 1500-2000 test AGAIN & study more & get mo](corpus/videos/s65_xicLW7Y.json) | — |  |
+| 2025-04-20 | [4-20-25 Tried to pass my Britain 1500-2000 test yesterday but needed t](corpus/videos/OUvFSKdxzFM.json) | — |  |
 | 2025-04-20 | [We need to be tethered to consensual reality with principles that the ](corpus/videos/ZfqHJsNprIY.json) | kyle | Kyle argues that a foundational philosophy and civic education are essential to a healthy society, and that the wealthy  |
 | 2025-04-20 | [What Omnisciense is for humans & why we need to make that our goal](corpus/videos/mK1Az85uPqw.json) | kyle | Kyle argues that humans can achieve a form of 'omniscience' — not divine all-knowing, but a sufficient mastery of histor |
+| 2025-04-19 | [4-19-25 Fixed bikes and spent $100s more on tools again. Paola introdu](corpus/videos/Euw7M29lNUM.json) | — |  |
+| 2025-04-18 | [4-18-25 47 Mi 3,658' MTB Ride to Lyons. Food poisoning fm old Gu, Pedi](corpus/videos/VIdlkvzlld4.json) | — |  |
+| 2025-04-17 | [4-17-25 Got a massage from mom, stretched all day & got sore. Atlantis](corpus/videos/YPFewmyt0Hs.json) | — |  |
+| 2025-04-16 | [4-16-25 Yard work and detoxing from weed](corpus/videos/H8ECZOW8mDo.json) | — |  |
 | 2025-04-16 | [Marijuana withdrawal is a real thing. I you are quitting cold turkey b](corpus/videos/Ms9D3nI1IoM.json) | mixed | Kyle, 51, shares his first-week experience quitting marijuana cold turkey after 10-11 years of daily use. He reads and r |
+| 2025-04-14 | [4-14-25 Paperwork, now I need exercise SO BAD. Facebooked Atlantis 23°](corpus/videos/FGWdL_Wu_mg.json) | — |  |
+| 2025-04-14 | [4-14-25 Finished uploading Atlantis to instagram. 23°11'53.05"N, 76°48](corpus/videos/LicK5-NY-lo.json) | — |  |
+| 2025-04-13 | [4-13-25 Hiked w/ mom & started uploading Google Earth w/ Atlantis @ 23](corpus/videos/OJdL43Pio0E.json) | — |  |
+| 2025-04-12 | [4-12-25 Ensomnia so did videos instead of ride so far today. Atlantis ](corpus/videos/8_yWb9RoxwM.json) | — |  |
 | 2025-04-12 | [Condo Tour](corpus/videos/UFdiU_wSoK4.json) | kyle | Kyle gives a detailed tour of his condo, explaining his philosophy of dense organization (wall hangers, Tupperware, shel |
 | 2025-04-12 | [People MUST own their own homes for there to be a healthy society](corpus/videos/aSHxaJRwUBE.json) | kyle | Kyle argues that homeownership is the foundation of a healthy society and economy, and that allowing wealthy individuals |
 | 2025-04-12 | [I'm disturbed that so many alternative history/ancient alien people ar](corpus/videos/qD-a2TpGHto.json) | kyle | Kyle rants about his frustration that most alternative history and ancient alien content creators (David Wilcock, David  |
+| 2025-04-11 | [4-11-25 Finished assembling dirt jumper, fixed wall hangers. Atlantis ](corpus/videos/KhyTkmkIU0k.json) | — |  |
+| 2025-04-10 | [4-10-25 Fixed Car lock & Dummy to floor, got w/ L1 Autism 2ndX Atlanti](corpus/videos/32cb7ZmbUv4.json) | — |  |
 | 2025-04-10 | [Got diagnosed w/ L1 Autism for 2ndX so talking Neurotypical vs Autisti](corpus/videos/33W5_mPUZ7o.json) | kyle | Kyle shares that he was just diagnosed with Level 1 autism for the second time, and uses this as a springboard to explai |
 | 2025-04-09 | [Why the ENTIRE Online Fitness Industry is RETARDED & needs to change Y](corpus/videos/OVAmAKkXfHQ.json) | kyle | Kyle argues the online fitness industry is backwards because it prioritizes appearance over performance — aesthetics, st |
 | 2025-04-09 | [PROPHECY CIA & IRS colluding to put me on streets & eventually jail be](corpus/videos/cDVDa_089H0.json) | kyle | Kyle describes receiving an IRS notice claiming he owes $3,000 in back taxes from 2022, with a short deadline to pay bef |
+| 2025-04-09 | [4-9-25 Misplaced helmet & got threatened & fined $3K from IRS. Atlanti](corpus/videos/q1ywXM53E3g.json) | — |  |
+| 2025-04-08 | [4-8-25 Indoor Rode 2.5 hours. Atlantis is still at 23°11'53.05"N, 76°4](corpus/videos/3qamAZlFaok.json) | — |  |
 | 2025-04-08 | [Aurovedic Palm Reading @ 12 in 1986 - Some things turned out to be tru](corpus/videos/uOdaAyDtf60.json) | other | Kyle plays an old recording from 1986 when he was 12 years old, featuring an Ayurvedic palm reading session where a read |
+| 2025-04-07 | [4-7-25 Fixed bikes, cleaned, helped mom, 2nd DB fitness test. Atlantis](corpus/videos/0jT1V6aqB-o.json) | — |  |
 | 2025-04-07 | [Dumbell Fitness Test #2 2S35# 41 minutes. How strong are Y0U?!](corpus/videos/5aVjK09iZh0.json) | kyle | Kyle films himself doing a progressive dumbbell workout (sets of 10 reps at 10, 15, 25, and 35 pounds), narrating his fo |
+| 2025-04-06 | [4-6-25 Rode indoors 5 hrs. No talking about Atlantis today 23°11'53.05](corpus/videos/kOalHhTQ-RI.json) | — |  |
+| 2025-04-05 | [4-5-25 Yesterday last day organizing & today will exercise. Atlantis 2](corpus/videos/ms2H1YjPAGg.json) | — |  |
+| 2025-04-04 | [4-4-25 Organizing files and house like it's Groundhog Day. Atlantis is](corpus/videos/aSYfpimAYPg.json) | — |  |
 | 2025-04-03 | [4-3-25 Sweating sickness from cleaning too much Ferret shit. Atlantis:](corpus/videos/-m1xhFo5z40.json) | — |  |
 | 2025-04-02 | [4-2-25 Went to dentist and cleaned. Ranting about Atlantis at 23°11'53](corpus/videos/EaEQJZwEM_o.json) | — |  |
 | 2025-04-01 | [4-1-25 Done organizing, now prioritizing exercise and getting up early](corpus/videos/bNBYXq6q2SE.json) | — |  |
