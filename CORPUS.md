@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-4465 videos with transcripts. Source of truth for transcripts + enrichments.
+4470 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -22,6 +22,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2025-04-09 | [PROPHECY CIA & IRS colluding to put me on streets & eventually jail be](corpus/videos/cDVDa_089H0.json) | kyle | Kyle describes receiving an IRS notice claiming he owes $3,000 in back taxes from 2022, with a short deadline to pay bef |
 | 2025-04-08 | [Aurovedic Palm Reading @ 12 in 1986 - Some things turned out to be tru](corpus/videos/uOdaAyDtf60.json) | other | Kyle plays an old recording from 1986 when he was 12 years old, featuring an Ayurvedic palm reading session where a read |
 | 2025-04-07 | [Dumbell Fitness Test #2 2S35# 41 minutes. How strong are Y0U?!](corpus/videos/5aVjK09iZh0.json) | kyle | Kyle films himself doing a progressive dumbbell workout (sets of 10 reps at 10, 15, 25, and 35 pounds), narrating his fo |
+| 2025-04-03 | [4-3-25 Sweating sickness from cleaning too much Ferret shit. Atlantis:](corpus/videos/-m1xhFo5z40.json) | — |  |
 | 2025-04-02 | [4-2-25 Went to dentist and cleaned. Ranting about Atlantis at 23°11'53](corpus/videos/EaEQJZwEM_o.json) | — |  |
 | 2025-04-01 | [4-1-25 Done organizing, now prioritizing exercise and getting up early](corpus/videos/bNBYXq6q2SE.json) | — |  |
 | 2025-03-30 | [3-30-25 Cleaning and organizing. I still feel sick fm lack of exercise](corpus/videos/IU0gK0_Boxo.json) | — |  |
@@ -125,6 +126,8 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2024-11-22 | [11-22-24 lifted 23,300, just chillin' otherwise and being lazy](corpus/videos/P1K4dr_0mhU.json) | — |  |
 | 2024-11-21 | [11-21-24 Lifted 76,560, Indoor rode 4 hrs, computer can't paste Educat](corpus/videos/gJNOIDK9VVo.json) | — |  |
 | 2024-11-20 | [11-20-24 Trying balance these book menus and exercising](corpus/videos/fc7MPq9Fxd0.json) | — |  |
+| 2024-11-19 | [11-19-24 Putting menus on books again, helped mom, rested today](corpus/videos/seNqV_ylzJY.json) | — |  |
+| 2024-11-14 | [11-14-24 God Damn motherfucking Livy Driving me up the motherfucking  ](corpus/videos/juJRQp2MUsg.json) | — |  |
 | 2024-11-13 | [11-13-24 10th day sick.  Trying to Update Livy but computer can't hand](corpus/videos/sjhpYGDHB_I.json) | — |  |
 | 2024-11-11 | [11-11-24 Sick still. Working on Livy menu. Will try to keep web work t](corpus/videos/pSs_Rkan1Y0.json) | — |  |
 | 2024-11-10 | [11-10-24 Sick took YouTube IQ Tests will put them up later](corpus/videos/7ev8HnGjurQ.json) | — |  |
@@ -468,6 +471,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2023-07-28 | [7/28/23 Day 4 Naming Flatirons](corpus/videos/Jxju-pp2m9E.json) | — |  |
 | 2023-07-27 | [7/27/23 Day 3 Naming 1,000 Flatirons](corpus/videos/k0m6jdQ7iOg.json) | — |  |
 | 2023-07-26 | [7/26/23 Naming Boulder’s 1,000 Flatirons & Boulders](corpus/videos/NKF7uFQ7ROY.json) | — |  |
+| 2023-07-25 | [7/25/23 2nd Day Writing for site FINALLY for FUCK’S Sake Fer reelz](corpus/videos/sP-tuNX_F1E.json) | — |  |
 | 2023-07-24 | [7/24/23 Singing up on Fundraising Sites and Writing](corpus/videos/v4KUeXIV0Ko.json) | — |  |
 | 2023-07-23 | [7/23/23 Cleaning, ads for roomate, pay taxes](corpus/videos/jKU3iSXpZXk.json) | — |  |
 | 2023-07-22 | [7/22/23 What’s on my site, bailing hay & organizing room](corpus/videos/r-kH7omMXpg.json) | — |  |
@@ -563,6 +567,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2023-03-10 | [3/10/23 Turning Wikipedia Battle images into icons for my Timeline](corpus/videos/sch-U2KCSrI.json) | — |  |
 | 2023-03-09 | [3/9/23 Converting all my Wikipedia images to icons](corpus/videos/qcvRRZ39NxU.json) | — |  |
 | 2023-03-06 | [3/6/23 Making Monarch Icons for Timeline](corpus/videos/ZS74B2BjeS0.json) | — |  |
+| 2023-03-05 | [3/5/23 Will finish font page today. Watch out for Mexican Takis, they’](corpus/videos/YYd1T-K0Fcc.json) | — |  |
 | 2023-03-04 | [3/4/23 Backing up my site](corpus/videos/-1wlxcQ0MWU.json) | — |  |
 | 2023-03-03 | [3/3/23 Can’t get either computer to work & I can’t see, hopefully will](corpus/videos/eq7cwnNllFg.json) | — |  |
 | 2023-03-02 | [3/2/23 Linking my Adobe fonts so you can download them quicker](corpus/videos/YR4xwt67mZk.json) | — |  |
