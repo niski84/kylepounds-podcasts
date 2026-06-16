@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-4449 videos with transcripts. Source of truth for transcripts + enrichments.
+4465 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -22,6 +22,8 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2025-04-09 | [PROPHECY CIA & IRS colluding to put me on streets & eventually jail be](corpus/videos/cDVDa_089H0.json) | kyle | Kyle describes receiving an IRS notice claiming he owes $3,000 in back taxes from 2022, with a short deadline to pay bef |
 | 2025-04-08 | [Aurovedic Palm Reading @ 12 in 1986 - Some things turned out to be tru](corpus/videos/uOdaAyDtf60.json) | other | Kyle plays an old recording from 1986 when he was 12 years old, featuring an Ayurvedic palm reading session where a read |
 | 2025-04-07 | [Dumbell Fitness Test #2 2S35# 41 minutes. How strong are Y0U?!](corpus/videos/5aVjK09iZh0.json) | kyle | Kyle films himself doing a progressive dumbbell workout (sets of 10 reps at 10, 15, 25, and 35 pounds), narrating his fo |
+| 2025-04-02 | [4-2-25 Went to dentist and cleaned. Ranting about Atlantis at 23°11'53](corpus/videos/EaEQJZwEM_o.json) | — |  |
+| 2025-04-01 | [4-1-25 Done organizing, now prioritizing exercise and getting up early](corpus/videos/bNBYXq6q2SE.json) | — |  |
 | 2025-03-30 | [3-30-25 Cleaning and organizing. I still feel sick fm lack of exercise](corpus/videos/IU0gK0_Boxo.json) | — |  |
 | 2025-03-29 | [3-29-25 Organizing and cleaning for 1stx since getting all this stuff](corpus/videos/IYIx7w8HbMQ.json) | — |  |
 | 2025-03-28 | [3-28-25 Got a BMX timer to race myself and my bikes. Exercised 4 days ](corpus/videos/W--ry8qi4yk.json) | — |  |
@@ -2188,6 +2190,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2013-06-14 | [Living in Lafayette Vlog 6-14-2013](corpus/videos/DCwcqQ0n5zs.json) | — |  |
 | 2013-06-13 | [Living in Lafayette Vlog 6-13-2013](corpus/videos/T57pfl01i1g.json) | — |  |
 | 2013-06-12 | [Living in Lafayette Vlog 6-12-2013](corpus/videos/TYfUpdKt5YM.json) | — |  |
+| 2013-06-11 | [Living in Laffayette Vlog 6-11-2013](corpus/videos/2CXW1rWaSq8.json) | — |  |
 | 2013-06-10 | [Living in Lafayette Vlog 6-10-2013](corpus/videos/IqjhyFE_NVo.json) | — |  |
 | 2013-06-09 | [Living in Lafayette Vlog 6-9-2013](corpus/videos/LpciptYeNZM.json) | — |  |
 | 2013-06-08 | [Living in Lafayette Vlog 6-8-2013](corpus/videos/obHbn36IlYE.json) | — |  |
@@ -2453,6 +2456,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [The best way to release physical tension](corpus/videos/-N3knW_wP7Q.json) | — |  |
 | — | [Lives of the 12 Caesars by Seutonius Book Synopsis - Pt1 Julius Caesar](corpus/videos/-P6z291wATA.json) | — |  |
 | — | [English Words from Other Languages 1/2](corpus/videos/-ROn6Lx64ms.json) | — |  |
+| — | [Fucking CIA snuck in my apartment at night](corpus/videos/-Rtl_Mdl9D8.json) | — |  |
 | — | [Traveling with Kyle - Guyana Part 2, Suriname](corpus/videos/-UxsvGsjK2s.json) | — |  |
 | — | [What happens right after you die and right before you are born](corpus/videos/-Yfgrkl3ojc.json) | — |  |
 | — | [Income Inequality - Request](corpus/videos/-_Kwrc5Bd_E.json) | kyle | Kyle responds to a video request about Thomas Piketty's 'Capital in the 21st Century,' discussing income inequality, wea |
@@ -2558,6 +2562,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Bike Touring Vlog - Semijarvi, Finland to Amsterdam, Netherlands 8 & 9](corpus/videos/2ej_PUybzis.json) | — |  |
 | — | [Kyle's gym - 10-1](corpus/videos/2hLq3hYnuNU.json) | — |  |
 | — | [23  Turn comments back on YouTube! FOR KIDS](corpus/videos/2ivTqjHugX0.json) | — |  |
+| — | [YOU ARE ALL FUCKING IDIOTS!!!!!!! ATLANTIS IS HERE!!!!!! 23°11'53.05"N](corpus/videos/2n1vfpANb6E.json) | — |  |
 | — | [What an American thinks about Indonesia](corpus/videos/2pLBO37nmUA.json) | — |  |
 | — | [Alternating Dumbbell Deadlifts to Overhead Presses 45 lbs 2ndx 25x](corpus/videos/2r6m4tEeaGQ.json) | — |  |
 | — | [Bike Touring - Slovakia. 5-2010](corpus/videos/2xS9EsO52QU.json) | — |  |
@@ -2622,6 +2627,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Bike Touring - Croatia - Zagreb to Serbia. 5-2010](corpus/videos/58fYtnu5muw.json) | — |  |
 | — | [Kyle's Gym - 5-1 1/4](corpus/videos/5AIze-CUbY8.json) | — |  |
 | — | [Living in Boulder Vlog 1 - 3 - 2014](corpus/videos/5EdFogO_W78.json) | — |  |
+| — | [Abdominal Rolls Top to Bottom 2ndx 110x](corpus/videos/5HOMlltvI3k.json) | — |  |
 | — | [There should be no Billionaires](corpus/videos/5JUceifupVA.json) | — |  |
 | — | [Ranting on 12 Beers - request](corpus/videos/5NOZMOvDeSE.json) | — |  |
 | — | [We bring the ascention about with our physical bodies](corpus/videos/5NVt3a2SVyk.json) | — |  |
@@ -2788,6 +2794,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [The story of the Universe 2/2](corpus/videos/A6V01iYQ1uI.json) | — |  |
 | — | [Red Zinger Mini Classic 1989 boys 13 Meed part 2](corpus/videos/A8CmkYnVjNg.json) | — |  |
 | — | [What an American thinks about Albania](corpus/videos/ABjpeNWjeVo.json) | — |  |
+| — | [Abdominal Rolls Top to Bottom 1stx 100x](corpus/videos/AEjjUIJwfZI.json) | — |  |
 | — | [How to be social in College - Request](corpus/videos/AFBT8bk2K_w.json) | — |  |
 | — | [the ted conference at ted.com is a cool educational website to check o](corpus/videos/AGzj0_szaKM.json) | — |  |
 | — | [How I plan to make money with my Timeline   Request](corpus/videos/AHifo5swEh8.json) | — |  |
@@ -2801,6 +2808,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Free Bill Kuenzel and stop the death penalty - Request](corpus/videos/AXZuxpZxXT8.json) | — |  |
 | — | [3/7/31 Day two of setting up streaming computer](corpus/videos/AbBqcuPEL-E.json) | — |  |
 | — | [Living with your parents is cool](corpus/videos/AcCYZGaBGdg.json) | — |  |
+| — | [Talking about Finland on mushrooms magic - shrooms - boomers - trippin](corpus/videos/AicxicP80jU.json) | — |  |
 | — | [What I think about soul groups](corpus/videos/Ajs9TBWZKp8.json) | — |  |
 | — | [Handstand Hold 1stx 1:00](corpus/videos/Ak9zNz1vC30.json) | — |  |
 | — | [Paola dancing with her mom and son](corpus/videos/ApVjxR4nv3g.json) | — |  |
@@ -2958,6 +2966,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Burning flesh - The mark of the beast - Marijuana leaf burn tatoo.](corpus/videos/EZH5GmQT_MQ.json) | — |  |
 | — | [Which famous chicks I think are hot](corpus/videos/E_jfbVKMi1A.json) | — |  |
 | — | [Back Pull Ups 2ndx 12x](corpus/videos/EakqOvlSVrc.json) | — |  |
+| — | [Abdominal Rolls 1stx 1:00 Each Way](corpus/videos/Eb7mhfJhOPM.json) | — |  |
 | — | [this is the best way to upload videos to youtube](corpus/videos/Eh3BKX2sWqU.json) | — |  |
 | — | [What I think about Beauty Part 2 - See beauty to be beautiful](corpus/videos/EiBBFTP-X-E.json) | — |  |
 | — | [What I think about beauty](corpus/videos/EjHDhCxFTLc.json) | — |  |
@@ -2973,6 +2982,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [What I think about Love](corpus/videos/EvUkc2yLysQ.json) | — |  |
 | — | [2/19/4 19th 36,300, Ran 2M +1 13:34 & 12:33, Rowed 5K 25:22, 18th 18,5](corpus/videos/EyBG2PEelis.json) | — |  |
 | — | [What will the world be like post disclosure? 7 of 8](corpus/videos/EzCJnxWQJCM.json) | — |  |
+| — | [2 Chair Dips 1stx 10x](corpus/videos/EzQ9T9cZ4Cg.json) | — |  |
 | — | [Traveling with Kyle - Peru Part 3/7 - Nazca to Cuzco](corpus/videos/Ezl_-5L7usU.json) | — |  |
 | — | [Round 2 Video Discusion with Average Skeptic regarding God, Aliens, Py](corpus/videos/F0tHMCeWrks.json) | — |  |
 | — | [La historia del universo y el mundo 17/17](corpus/videos/F1bNcOx3kkc.json) | — |  |
@@ -3124,6 +3134,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Bike Touring - Germany - Up the Rhine going South from Cologne. 4-2010](corpus/videos/JOsGEbxt6JQ.json) | — |  |
 | — | [Science vs Religion - Same thing](corpus/videos/JTSFoKd9ELc.json) | — |  |
 | — | [Stock Market - Request](corpus/videos/JUS43KgN5Fs.json) | — |  |
+| — | [1/31/34 Organizing apt & Turbitax won’t fucking call me back](corpus/videos/JUpB2lfUeJ0.json) | — |  |
 | — | [Answering gamemanscphints - I have 1873 videos and only 473 subscriber](corpus/videos/JV0SSlcWvdg.json) | — |  |
 | — | [Crossfit Fran 1stx 21-15-9 45lbs Dumbell Thruster & Pullups with rings](corpus/videos/JW_EplbHWxE.json) | — |  |
 | — | [What I think about the Ego](corpus/videos/JX9EnuC47Vw.json) | — |  |
@@ -3373,6 +3384,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Albanian talking about modern Albanian history](corpus/videos/RMLttUlKrxk.json) | — |  |
 | — | [General Education Wikipedia Audio Collection](corpus/videos/RN66jrL00SE.json) | — |  |
 | — | [Bike Touring Vlog - Europe - Summer 2010 2/8](corpus/videos/RNkxGxV5_lo.json) | — |  |
+| — | [Stomach Roll Instructions by Kyle Pounds](corpus/videos/ROoK93VgRxQ.json) | — |  |
 | — | [What an American thinks about Honduras](corpus/videos/RSNNwok-D5U.json) | — |  |
 | — | [Jesus Christ songs for Christmas day](corpus/videos/RUVxgU5sf1M.json) | — |  |
 | — | [1 Leg Side Squat 2ndx 45x](corpus/videos/RXoIljpgtt8.json) | — |  |
@@ -3573,6 +3585,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Comparing the Sizes of Things 4/6 - The Power of Ten](corpus/videos/YQjgjbAaYTk.json) | — |  |
 | — | [Headstand 1stx 1:00](corpus/videos/YYq2nG-WOZg.json) | — |  |
 | — | [I'm the fffitthest pherssoon evaar - or else show your DAMN weights an](corpus/videos/Yb2wSPidQMo.json) | — |  |
+| — | [weed vs my history timeline](corpus/videos/YetSaW7uS_w.json) | — |  |
 | — | [Abortion debate with humanrights4everyone 7/7](corpus/videos/YfVgOuy4-V8.json) | — |  |
 | — | [Very Important Message - Get Carbonite online backup](corpus/videos/Yh4U8Z1q-hM.json) | — |  |
 | — | [What an American thinks about Latvia](corpus/videos/Yh6GQVzFnoY.json) | — |  |
@@ -3580,6 +3593,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [what humans look like to aliens](corpus/videos/YmmPAvyReKs.json) | — |  |
 | — | [Kyle's Gym 5-1 4/4](corpus/videos/YtW-c48pGoY.json) | — |  |
 | — | [George4Title saga & scammers - Request](corpus/videos/Yvjg5MkOmbs.json) | — |  |
+| — | [Hanging Bodyweight Ring Rows 1stx 12X](corpus/videos/YxcIHeZzVa4.json) | — |  |
 | — | [What I think about death](corpus/videos/Z1DCKomigW8.json) | — |  |
 | — | [Standing Dumbbell Front Raises 45 lbs 1stx 3X](corpus/videos/Z45RydeVn5I.json) | — |  |
 | — | [Talking about my diet](corpus/videos/Z5Nn3n-0VFU.json) | — |  |
@@ -3658,6 +3672,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Talking about my life - Boulder, Colorado 13/21](corpus/videos/aWCFEuYICeM.json) | — |  |
 | — | [Our going away party ](corpus/videos/aXHkmaNSQgY.json) | — |  |
 | — | [Google Earthing Region 9 Circus Flaminius](corpus/videos/aZd2lcmrrlY.json) | — |  |
+| — | [My getting back into shape work out strategy - Stoned](corpus/videos/aaDeGoxCTdE.json) | — |  |
 | — | [Living in Boulder Vlog 12 - 31 - 2013](corpus/videos/abSOn2yxj4U.json) | — |  |
 | — | [Tales from College 2/6](corpus/videos/ad01mVm6Duc.json) | — |  |
 | — | [Side Plank Yoga Pose 1stx :30](corpus/videos/adKtQRuO7e8.json) | — |  |
@@ -3672,6 +3687,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [2nd Notch Dumbbell Preacher Curls 35 lbs 4thx 15x](corpus/videos/asOTxdD6QGY.json) | — |  |
 | — | [Trippers freak out stories and cops and drugs](corpus/videos/ay6bpO72UYw.json) | — |  |
 | — | [Living in Boulder Vlog 4 - 30 - 2014](corpus/videos/b-h6biF4YXM.json) | kyle | Kyle vlogs about his day in Boulder on April 30, 2014, spending it working on his cycling website (a bike racer level pa |
+| — | [Abdominal Suck 2ndx 2:30](corpus/videos/b0Y-RG0MAZk.json) | — |  |
 | — | [What an American thinks about Finland - From bike touring a week in Au](corpus/videos/b50DVXKTw0w.json) | — |  |
 | — | [What I think about over training](corpus/videos/b78Y3Te-634.json) | — |  |
 | — | [Ring Pectoral Stretch 2ndx :58](corpus/videos/b7ev-c6wb8s.json) | — |  |
