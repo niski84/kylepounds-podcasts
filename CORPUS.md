@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-4438 videos with transcripts. Source of truth for transcripts + enrichments.
+4449 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -22,8 +22,19 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | 2025-04-09 | [PROPHECY CIA & IRS colluding to put me on streets & eventually jail be](corpus/videos/cDVDa_089H0.json) | kyle | Kyle describes receiving an IRS notice claiming he owes $3,000 in back taxes from 2022, with a short deadline to pay bef |
 | 2025-04-08 | [Aurovedic Palm Reading @ 12 in 1986 - Some things turned out to be tru](corpus/videos/uOdaAyDtf60.json) | other | Kyle plays an old recording from 1986 when he was 12 years old, featuring an Ayurvedic palm reading session where a read |
 | 2025-04-07 | [Dumbell Fitness Test #2 2S35# 41 minutes. How strong are Y0U?!](corpus/videos/5aVjK09iZh0.json) | kyle | Kyle films himself doing a progressive dumbbell workout (sets of 10 reps at 10, 15, 25, and 35 pounds), narrating his fo |
+| 2025-03-30 | [3-30-25 Cleaning and organizing. I still feel sick fm lack of exercise](corpus/videos/IU0gK0_Boxo.json) | — |  |
+| 2025-03-29 | [3-29-25 Organizing and cleaning for 1stx since getting all this stuff](corpus/videos/IYIx7w8HbMQ.json) | — |  |
+| 2025-03-28 | [3-28-25 Got a BMX timer to race myself and my bikes. Exercised 4 days ](corpus/videos/W--ry8qi4yk.json) | — |  |
+| 2025-03-27 | [3-27-25 Got Redline 24" Wheel BMX bike, Longboard, Mountain Board & 3 ](corpus/videos/tyrs-Bu0MDU.json) | — |  |
+| 2025-03-26 | [3-26-25 Tired but did 1st wooden kicker yesterday. Tired today, tomorr](corpus/videos/zxEstsYDIyk.json) | — |  |
+| 2025-03-25 | [3-25-25 First Strava Race got 634/9624 Valmont Park Corkscrew. Did it ](corpus/videos/60ECUP9KMI0.json) | — |  |
+| 2025-03-22 | [3-22-25 Got a BMC 01 Dirt Fox Enduro bike because the Specialized was ](corpus/videos/q8GTKSiHLlI.json) | — |  |
+| 2025-03-21 | [3-21-25 Final day organizing and buying gear](corpus/videos/0xUC7_uJxO4.json) | — |  |
+| 2025-03-20 | [3-20-25 Didn't sleep last night so just organizing today](corpus/videos/An74myos2QE.json) | — |  |
+| 2025-03-19 | [3-19-25 1st run ran 10 miles 2:28 now I'm hooked it's 10 miles every m](corpus/videos/xixeKA7CGyE.json) | — |  |
 | 2025-03-13 | [Trump's Tarrifs in light of annexing countries -  Request](corpus/videos/en8ATShTj6k.json) | kyle | Kyle responds to a viewer request to revisit his thoughts on Trump's annexation ambitions (Greenland, Canada, Panama Can |
 | 2025-03-11 | [3-11-25 Got a recliner there should be recliner jumpers](corpus/videos/WpLl7YqJoS0.json) | — |  |
+| 2025-03-09 | [3-9-25 1st day jumping at bike park yesterday, assembling 29" trail bi](corpus/videos/STPncZ4Fy54.json) | — |  |
 | 2025-03-08 | [3-8-25 First day jumping at bike park](corpus/videos/2G8nUVgxEVc.json) | — |  |
 | 2025-03-07 | [3-7-25 Assembling bikes](corpus/videos/9TPAD0orDic.json) | — |  |
 | 2025-03-05 | [3-5-25 Gravel Rode Dirty Morgul Bismark 45.83 mi, 2,183 feet](corpus/videos/_ylgwfXqWH8.json) | — |  |
