@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-4520 videos with transcripts. Source of truth for transcripts + enrichments.
+4521 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -3020,6 +3020,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Arms Extended Ring Dip Hold 1stx 1:00](corpus/videos/EYZT6FU8QsM.json) | — |  |
 | — | [Burning flesh - The mark of the beast - Marijuana leaf burn tatoo.](corpus/videos/EZH5GmQT_MQ.json) | — |  |
 | — | [Which famous chicks I think are hot](corpus/videos/E_jfbVKMi1A.json) | — |  |
+| — | [What I think about Artificial Intelligence. I like it.](corpus/videos/Eac0iOaYaq4.json) | — |  |
 | — | [Back Pull Ups 2ndx 12x](corpus/videos/EakqOvlSVrc.json) | — |  |
 | — | [Abdominal Rolls 1stx 1:00 Each Way](corpus/videos/Eb7mhfJhOPM.json) | — |  |
 | — | [this is the best way to upload videos to youtube](corpus/videos/Eh3BKX2sWqU.json) | — |  |
