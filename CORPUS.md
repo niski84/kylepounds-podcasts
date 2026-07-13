@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-4521 videos with transcripts. Source of truth for transcripts + enrichments.
+4522 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -4185,6 +4185,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [How one can find equanimity in a crazy world](corpus/videos/p-iALcgmmGM.json) | — |  |
 | — | [What I think about conspiracy theories 1 of 3](corpus/videos/p2kkCtePAgU.json) | — |  |
 | — | [Turn comments back on YouTube! FOR KIDS](corpus/videos/p4R5zYLvjP0.json) | — |  |
+| — | [7 - 12 - 26 Been helping mom empty basement and stretching](corpus/videos/p5DtadXZWQ8.json) | — |  |
 | — | [Kinds of Aliens 5/5](corpus/videos/p5rl82qseyQ.json) | — |  |
 | — | [Bike Touring - Greece. Delphi to Thermopoli & Towards Mount Olympus. 7](corpus/videos/p7JyRkI85i4.json) | — |  |
 | — | [Flexing my stomach](corpus/videos/pIBRaZbzI04.json) | — |  |
