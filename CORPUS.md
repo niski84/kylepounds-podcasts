@@ -1,6 +1,6 @@
 # Kyle Pounds — Corpus
 
-4522 videos with transcripts. Source of truth for transcripts + enrichments.
+4524 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
@@ -3712,6 +3712,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Livig in Boulder vlog 12 - 18 - 18: Virtual rode 65 miles, gunna strea](corpus/videos/a6A1ZJAvcAg.json) | — |  |
 | — | [red zinger mini classic 1985 15 boys denver](corpus/videos/a6NFKS1GjZ0.json) | — |  |
 | — | [Kyle's Gym 23-2](corpus/videos/a7AVJeSE2o0.json) | — |  |
+| — | [7 - 14 - 26 Slept in and stretching today. just work two hours.](corpus/videos/a7msCFzgiGg.json) | — |  |
 | — | [Evil reptile aliens 2/2](corpus/videos/a9EOweV0LnA.json) | — |  |
 | — | [What I think about black people](corpus/videos/aFkcf3k3TFc.json) | — |  |
 | — | [What the inside of Flying Saucers looks like](corpus/videos/aGnDdxT0stw.json) | — |  |
@@ -4319,6 +4320,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Turn comments back on YouTube! FOR KIDS](corpus/videos/tOKDl7N2yWQ.json) | — |  |
 | — | [The State of the Union - Request](corpus/videos/tPsCRw8y3QQ.json) | — |  |
 | — | [3rd Notch Dumbbell Presses 25 lbs 1stx 50x](corpus/videos/tQZZ40l5hdE.json) | — |  |
+| — | [7 - 13 - 26 OK so NOW I'm caught up and can start getting healthy](corpus/videos/tUPvYGdz30s.json) | — |  |
 | — | [Standardized Tests - What I think about that](corpus/videos/tUYH0_2gjPA.json) | — |  |
 | — | [La historia del universo y el mundo 4/17](corpus/videos/tWkZt8UTcWs.json) | — |  |
 | — | [Welcome to my Mountain Bike, the "Purple Power" - Request - Stumpjumpe](corpus/videos/tYAcrTGcGhM.json) | — |  |
