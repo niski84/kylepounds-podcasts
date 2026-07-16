@@ -1,10 +1,11 @@
 # Kyle Pounds — Corpus
 
-4524 videos with transcripts. Source of truth for transcripts + enrichments.
+4525 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
 |------|-------|---------|---------|
+| 2026-07-15T00:00:00Z | [7-15-26](corpus/videos/dVz7CS5OOUE.json) | — |  |
 | 2026-05-02 | [5-2-26 Slept all morning, gunna work out for 2nd time & do Mts. tomorr](corpus/videos/6balsYxfoVY.json) | — |  |
 | 2026-05-01 | [5-1-26 Put E-motorbike into Ariya Station Wagon but had to remove fron](corpus/videos/mJhIRIdAJA4.json) | — |  |
 | 2026-04-30 | [4-30-26 Waiting on crank remover to see if I can get my motorbike in m](corpus/videos/QPEgJbshXAo.json) | — |  |
