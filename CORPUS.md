@@ -1,10 +1,11 @@
 # Kyle Pounds — Corpus
 
-4527 videos with transcripts. Source of truth for transcripts + enrichments.
+4528 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
 |------|-------|---------|---------|
+| 2026-07-18T00:00:00Z | [7-18-26 Ran 10 Mi 2:17 & rode 16 mi to work twice](corpus/videos/d5p0VNC1lpM.json) | — |  |
 | 2026-07-17T00:00:00Z | [7-17-26 Worked 8-8 Used up Chat credits for history images.](corpus/videos/FXQX00Wv8PE.json) | — |  |
 | 2026-07-16T00:00:00Z | [7-16-26](corpus/videos/WYFcDfVQj7U.json) | — |  |
 | 2026-07-15T00:00:00Z | [7-15-26](corpus/videos/dVz7CS5OOUE.json) | — |  |
