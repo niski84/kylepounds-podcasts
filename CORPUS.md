@@ -1,10 +1,18 @@
 # Kyle Pounds — Corpus
 
-4535 videos with transcripts. Source of truth for transcripts + enrichments.
+4543 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
 |------|-------|---------|---------|
+| 2026-08-05T00:00:00Z | [8-5-26 Gear stolen from car so couldn't Mt. Bike. Lifted 105,420 lbs i](corpus/videos/S1qT3ayBLsA.json) | — |  |
+| 2026-08-04T00:00:00Z | [8-4-26 Resting today for a big bike ride tomorrow. Not sleeping enough](corpus/videos/R3Jpni4W_mI.json) | — |  |
+| 2026-08-03T00:00:00Z | [8-3-26 Worked overnight till 10. Have to sleep all day & work 6-8. Dra](corpus/videos/ZvrsR42jXk8.json) | — |  |
+| 2026-08-02T00:00:00Z | [8-2-26 Worked 10-12 & 6:50 PM - 10:00 AM. Helped Mom. Lifted 101,400 l](corpus/videos/pXoBWjhezT4.json) | — |  |
+| 2026-08-01T00:00:00Z | [8-1-26 Worked 8-5](corpus/videos/wVY2E64Nwac.json) | — |  |
+| 2026-07-31T00:00:00Z | [7-31-26  Worked 8-8 Lifted 19,950 lbs at gym for 10 min. till closing ](corpus/videos/jKK9vjiHQE4.json) | — |  |
+| 2026-07-30T00:00:00Z | [7-30-26 Work 8-8 today. Tried to run 10 Mi but Calf FUCKING SNAPPED at](corpus/videos/vjY7qPWTFbM.json) | — |  |
+| 2026-07-29T00:00:00Z | [7-29-26 Lifted 102K lbs yesterday in 31 exercises. Slept all day.](corpus/videos/lPVO4_wDTug.json) | — |  |
 | 2026-07-24T00:00:00Z | [7-24-26 Worked 8-8 then ran 10 miles in 2:05](corpus/videos/Gv8JZ9Qp9rY.json) | — |  |
 | 2026-07-23T00:00:00Z | [7-23-26 Ran 5 miles in an hour. Needed to stop due to inner thigh cram](corpus/videos/d5UDstBVt5s.json) | — |  |
 | 2026-07-22T00:00:00Z | [7-22-26 Too cooked to run but lifted 55,980 lbs](corpus/videos/BAzb3A46uLc.json) | — |  |
