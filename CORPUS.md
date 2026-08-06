@@ -1,10 +1,15 @@
 # Kyle Pounds — Corpus
 
-4529 videos with transcripts. Source of truth for transcripts + enrichments.
+4535 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
 |------|-------|---------|---------|
+| 2026-07-24T00:00:00Z | [7-24-26 Worked 8-8 then ran 10 miles in 2:05](corpus/videos/Gv8JZ9Qp9rY.json) | — |  |
+| 2026-07-23T00:00:00Z | [7-23-26 Ran 5 miles in an hour. Needed to stop due to inner thigh cram](corpus/videos/d5UDstBVt5s.json) | — |  |
+| 2026-07-22T00:00:00Z | [7-22-26 Too cooked to run but lifted 55,980 lbs](corpus/videos/BAzb3A46uLc.json) | — |  |
+| 2026-07-21T00:00:00Z | [7-21-26 Super Tired today](corpus/videos/KFptIPeYa7g.json) | — |  |
+| 2026-07-20T00:00:00Z | [7-20-26 Ran 10 Miles in 2:12](corpus/videos/PVDyquxyv4U.json) | — |  |
 | 2026-07-19T00:00:00Z | [7-19-26 stretching so far...](corpus/videos/RZBqVbNx5fM.json) | — |  |
 | 2026-07-18T00:00:00Z | [7-18-26 Ran 10 Mi 2:17 & rode 16 mi to work twice](corpus/videos/d5p0VNC1lpM.json) | — |  |
 | 2026-07-17T00:00:00Z | [7-17-26 Worked 8-8 Used up Chat credits for history images.](corpus/videos/FXQX00Wv8PE.json) | — |  |
@@ -4054,6 +4059,7 @@ Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 | — | [Nassim Haramein - what I think 2/2](corpus/videos/kTrLLsGohrE.json) | — |  |
 | — | [Bike Touring - Poland - Czech Republic to Katowica  5-2010](corpus/videos/k_tk3meqP84.json) | — |  |
 | — | [3rd Notch Dumbbells Together Presses 35 lbs 2ndx 20x](corpus/videos/kaJD678r6gw.json) | — |  |
+| — | [Ran 10 miles yesterday in 2:30. Lifted 100,000 lbs today. Phone locked](corpus/videos/kg3FueIwpcQ.json) | — |  |
 | — | [Squats 1stx 150 lbs 5X](corpus/videos/kho0PA4peao.json) | — |  |
 | — | [Audio Encyclopedia is what everyone should have so I made it for you! ](corpus/videos/kjis2XXygIk.json) | — |  |
 | — | [What God is](corpus/videos/knCuuSr1jwo.json) | — |  |
