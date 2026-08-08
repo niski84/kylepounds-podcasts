@@ -1,10 +1,11 @@
 # Kyle Pounds — Corpus
 
-4544 videos with transcripts. Source of truth for transcripts + enrichments.
+4545 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
 |------|-------|---------|---------|
+| 2026-08-07T00:00:00Z | [8-7-26 Worked 8 am - 10 pm. Rode 8 miles for work. Pushed Wheelchair 1](corpus/videos/Txv6-jgajPw.json) | — |  |
 | 2026-08-06T00:00:00Z | [8-6-26 Just going to stretch today & ride to work 8 miles.](corpus/videos/uYINjNoUPmI.json) | — |  |
 | 2026-08-05T00:00:00Z | [8-5-26 Gear stolen from car so couldn't Mt. Bike. Lifted 105,420 lbs i](corpus/videos/S1qT3ayBLsA.json) | — |  |
 | 2026-08-04T00:00:00Z | [8-4-26 Resting today for a big bike ride tomorrow. Not sleeping enough](corpus/videos/R3Jpni4W_mI.json) | — |  |
