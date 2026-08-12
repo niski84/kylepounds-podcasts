@@ -1,10 +1,11 @@
 # Kyle Pounds — Corpus
 
-4548 videos with transcripts. Source of truth for transcripts + enrichments.
+4549 videos with transcripts. Source of truth for transcripts + enrichments.
 Each `corpus/videos/<id>.json` holds the full transcript and the LLM enrichment.
 
 | Date | Video | Speaker | Summary |
 |------|-------|---------|---------|
+| 2026-08-12T00:00:00Z | [8-12-26 Accidentally deleted yesterday's video.Colonoscopy today so ha](corpus/videos/p60r1hGFC30.json) | — |  |
 | 2026-08-10T00:00:00Z | [8-10-26 Fasting for Colonoscopy so slept all day](corpus/videos/RLGssnf1HdQ.json) | — |  |
 | 2026-08-09T00:00:00Z | [8-9-26 Work Overnight. Took 50 cinder blocks & 8' boards from mom's ba](corpus/videos/c4cWddbYIcg.json) | — |  |
 | 2026-08-08T00:00:00Z | [8/8/26 Working 8:10-8. No time to exercise apart from riding 16 miles ](corpus/videos/AemdD79P0EA.json) | — |  |
