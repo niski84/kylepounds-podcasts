@@ -53,7 +53,8 @@
    "chat GPT"
   ],
   "date": "",
-  "model": "anthropic/claude-sonnet-4"
+  "model": "anthropic/claude-sonnet-4",
+  "search_terms": []
  },
  "claims": [
   {
